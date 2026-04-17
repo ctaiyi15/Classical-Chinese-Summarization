@@ -1,7 +1,5 @@
 
-data/**/*.txt
+data/raw/**/*.txt
 !data/raw/sample/
 !data/raw/sample/**/*.txt
-!data/processed/sample/
-!data/processed/sample/**
 notebooks/experiment*
