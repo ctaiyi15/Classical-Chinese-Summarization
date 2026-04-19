@@ -2,9 +2,9 @@ from translation import one_way_translate
 from pathlib import Path
 import asyncio
 
-input_root = Path("../data/raw/梁书")
-output_root = Path("../data/processed/translated/梁书")
-output2_root = Path("../data/processed/translated_back/梁书")
+input_root = Path("../data/raw/汉书")
+output_root = Path("../data/processed/translated/汉书")
+output2_root = Path("../data/processed/translated_back/汉书")
 
 
 if __name__ == "__main__":
