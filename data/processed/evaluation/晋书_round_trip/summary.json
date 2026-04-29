@@ -1,0 +1,66 @@
+{
+  "source_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/raw/晋书",
+  "back_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/processed/translated_back/晋书",
+  "source_file_count": 47,
+  "back_file_count": 39,
+  "matched_file_count": 39,
+  "missing_in_back_count": 8,
+  "missing_in_back_files": [
+    "帝纪/第二章/target.txt",
+    "帝纪/第六章/target.txt",
+    "志/第一章/target.txt",
+    "志/第七章/target.txt",
+    "志/第十八章/target.txt",
+    "志/第十六章/target.txt",
+    "志/第十四章/target.txt",
+    "志/第十章/target.txt"
+  ],
+  "aligned_line_count": 22059,
+  "source_only_line_count": 0,
+  "back_only_line_count": 39,
+  "matched_file_coverage": 0.8297872340425532,
+  "aligned_line_coverage": 1.0,
+  "mean_rouge1_f1": 0.4847892376709931,
+  "mean_chrf": 0.18741026500464755,
+  "mean_bleu": 0.2183669683569454,
+  "mean_edit_similarity": 0.3732915688124763,
+  "mean_length_ratio": 1.1503534300025475,
+  "exact_match_rate": 0.00494129380298291,
+  "reliability_checks": [
+    {
+      "metric": "matched_file_coverage",
+      "target": ">= 0.90",
+      "value": 0.8297872340425532,
+      "passed": false,
+      "why": "Most translated chapters should have a round-trip counterpart before we trust corpus-level averages."
+    },
+    {
+      "metric": "aligned_line_coverage",
+      "target": ">= 0.98",
+      "value": 1.0,
+      "passed": true,
+      "why": "Most lines should survive round-trip without alignment loss."
+    },
+    {
+      "metric": "mean_chrf",
+      "target": ">= 0.50",
+      "value": 0.18741026500464755,
+      "passed": false,
+      "why": "Character-level overlap should remain reasonably strong for Chinese round-trip text."
+    },
+    {
+      "metric": "mean_edit_similarity",
+      "target": ">= 0.55",
+      "value": 0.3732915688124763,
+      "passed": false,
+      "why": "Round-trip text should stay more similar than dissimilar at the character level."
+    },
+    {
+      "metric": "mean_length_ratio",
+      "target": "between 0.85 and 1.15",
+      "value": 1.1503534300025475,
+      "passed": false,
+      "why": "Reliable round-trip translation should not systematically compress or expand too much."
+    }
+  ]
+}
