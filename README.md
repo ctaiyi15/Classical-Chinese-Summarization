@@ -214,3 +214,6 @@ pip install sentence-transformers
 - The directory structure matters: scripts rely on matching relative paths ending in `target.txt`.
 - Evaluation is reference-based and assumes `data/raw/.../target.txt` is the modern Chinese gold text.
 - Missing back-translated files are surfaced in the generated summaries and affect coverage metrics.
+
+## Additional Notes
+Some of the codes are written with the help of suggestions from [ChatGPT](https://chat.openai.com/).
