@@ -180,8 +180,8 @@ The all-corpus evaluation script automatically checks coverage between:
 The repository also includes exploratory summarization material:
 
 - [notebooks/hansum_summarize_pilot.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_summarize_pilot.ipynb) (Note: this file is only used for pilot testing. Some of the results are copied and recorded in `summarize_pilot_tests.txt` by changing the prompts).
-- [notebooks/hansum_summarize_generate.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_summarize_generate.ipynb) (for summary generation)
-- [notebooks/hansum_eval_summary_llm.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_eval_summary_llm.ipynb.ipynb)
+- [notebooks/hansum_summarize_generate.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_summarize_generate.ipynb) (for summary generation. Note: this notebook requires a Deepseek API key to run, which can be obtained from [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys) after creating an account. The notebook is run on Google Colab with the API key stored in ''Secret'' so that we can import it from `userdata`).
+- [notebooks/hansum_eval_summary_llm.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_eval_summary_llm.ipynb.ipynb) (for evaluating summaries with LLM. Similarly, a Deepseek API key is needed.)
 - [notebooks/textrank_summary.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/textrank_summary.ipynb)
 - [src/baseline/tf_idf.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/src/baseline/tf_idf.py)
 
