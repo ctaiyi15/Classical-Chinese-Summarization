@@ -58,7 +58,7 @@ The evaluation scripts compare:
 
 ## Translation Workflow
 
-Core translation utilities live in [src/translation.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/src/translation.py) and use `googletrans`.
+Core translation utilities live in [src/translation.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/src/translation.py) and use `googletrans`.
 
 Main functions:
 
@@ -72,7 +72,7 @@ Main functions:
 
 Example round-trip entrypoint:
 
-- [src/round_trip.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/src/round_trip.py)
+- [src/round_trip.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/src/round_trip.py)
 
 It currently demonstrates:
 
@@ -83,7 +83,7 @@ It currently demonstrates:
 
 ### 1. Existing ROUGE Metrics
 
-[models/evaluation/rouge.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/models/evaluation/rouge.py) contains:
+[models/evaluation/rouge.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/models/evaluation/rouge.py) contains:
 
 - `rouge_1`
 - `rouge_2`
@@ -91,7 +91,7 @@ It currently demonstrates:
 
 ### 2. Additional Fidelity Metrics
 
-[models/evaluation/metrics.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/models/evaluation/metrics.py) adds:
+[models/evaluation/metrics.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/models/evaluation/metrics.py) adds:
 
 - `chrF`
 - `bleu`
@@ -104,7 +104,7 @@ These metrics are intended to give a broader view of round-trip quality than ROU
 
 ### 3. Single-Corpus Evaluation
 
-Use [scripts/evaluate_round_trip.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/scripts/evaluate_round_trip.py) to evaluate one corpus.
+Use [scripts/evaluate_round_trip.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/scripts/evaluate_round_trip.py) to evaluate one corpus.
 
 Default configuration evaluates:
 
@@ -136,7 +136,7 @@ Outputs:
 
 ### 4. Multi-Corpus Evaluation
 
-Use [scripts/evaluate_all_round_trip.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/scripts/evaluate_all_round_trip.py) to evaluate every corpus that has:
+Use [scripts/evaluate_all_round_trip.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/scripts/evaluate_all_round_trip.py) to evaluate every corpus that has:
 
 - raw modern Chinese references under `data/raw`
 - back-translated files under `data/processed/translated_back`
@@ -179,9 +179,11 @@ The all-corpus evaluation script automatically checks coverage between:
 
 The repository also includes exploratory summarization material:
 
-- [notebooks/hansum_summarize.ipynb](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/notebooks/hansum_summarize.ipynb)
-- [notebooks/textrank_summary.ipynb](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/notebooks/textrank_summary.ipynb)
-- [src/baseline/tf_idf.py](/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/src/baseline/tf_idf.py)
+- [notebooks/hansum_summarize_pilot.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_summarize_pilot.ipynb) (Note: this file is only used for pilot testing. Some of the results are copied and recorded in `summarize_pilot_tests.txt` by changing the prompts).
+- [notebooks/hansum_summarize_generate.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_summarize_generate.ipynb) (for summary generation)
+- [notebooks/hansum_eval_summary_llm.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/hansum_eval_summary_llm.ipynb.ipynb)
+- [notebooks/textrank_summary.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/notebooks/textrank_summary.ipynb)
+- [src/baseline/tf_idf.py](https://github.com/ctaiyi15/Classical-Chinese-Summarization/src/baseline/tf_idf.py)
 
 These are separate from the round-trip evaluation scripts.
 
