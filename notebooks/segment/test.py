@@ -1,12 +1,7 @@
-# from sentence_transformers import SentenceTransformer
+from transformers import MT5Tokenizer
+import torch
+import torch.nn.functional as F
+from transformers import AutoTokenizer, AutoModel
+from collections import Counter
 
-print('ok')
-
-# from transformers import MT5Tokenizer
-
-# tokenizer = MT5Tokenizer.from_pretrained("google/mt5-small")
-
-# text = "Some text here"
-
-# tokens = tokenizer.encode(text)
-# print(len(tokens))
+print('1')
