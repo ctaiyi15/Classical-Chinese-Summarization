@@ -39,6 +39,12 @@ def sentence_similarity(sen1, sen2):
     return similarity.item()
 
 def similarity_compare(chunk1, chunk2, sen):
+    if not chunk1 and not chunk2:
+        return 1
+    if not chunk1:
+        return 2
+    if not chunk2:
+        return 1
     sim1 = sum([sentence_similarity(s, sen) for s in chunk1]) / len(chunk1)
     sim2 = sum([sentence_similarity(s, sen) for s in chunk2]) / len(chunk2)
     if sim1 >= sim2:
@@ -151,6 +157,8 @@ if __name__ == '__main__':
             idx = scores.index(max(scores))
             sum_chunk.append(idx)
 
+        output_all_file.parent.mkdir(parents=True, exist_ok=True)
+
         with open(output_sum_file, 'w', encoding='utf-8') as out:
             out.write(f'Summary uses chunk {sum_chunk}\n\n')
             for i,chunk_num in enumerate(sum_chunk):
@@ -165,9 +173,6 @@ if __name__ == '__main__':
                 out.write('\nsummary:\n')
                 out.write(f'summary line {i}: {sum_text[i]}')
                 out.write('\n\n')
-
-        
-        output_all_file.parent.mkdir(parents=True, exist_ok=True)
 
         with open(output_all_file, 'w', encoding='utf-8') as out:
             for i,chunk in enumerate(chunks):
