@@ -1,0 +1,284 @@
+Summary uses chunk [0, 0, 1, 1, 5, 6, 14, 15]
+
+Chunk 0: 
+original: 
+桓谭冯衍
+桓谭字君山，沛国相人也。
+父成帝时为太乐令。
+谭以父任为郎，因好音律，善鼓琴。
+博学多通，遍习《五经》，皆诂训大义，不为章句。
+能文章，尤好古学，数从刘歆、杨雄辩析疑异。性嗜倡乐，简易不修威仪，而憙非毁俗儒，由是多见排抵。
+哀、平间，位不过郎。
+傅皇后父孔乡侯晏深善于谭。
+是时，高安侯董贤宠幸，女弟为昭仪，皇后日已疏，晏嘿嘿不得意。
+谭进说曰： 昔武帝欲立卫子夫，阴求陈皇后之过，而陈后终废，子夫竟立。
+今董贤至爱而女弟尤幸，殆将有子夫之变，可不忧哉！
+晏惊动，曰： 然，为之奈何？
+谭曰： 刑罚不能加无罪，邪枉不能胜正人。
+夫士以才智要君，女以媚道求主。
+皇后年少，希更艰难，或驱使医巫，外求方技，此不可不番。
+又君侯以后父尊重而多通宾客，必借以重势，贻致讥议。
+不如谢遣门徒，务执廉悫，此修己正家避祸之道也。
+translation: 
+◆The Legend of Huan Tan
+Huan Tan, whose courtesy name is Junshan, was born in Xiangxian County, Peiguo County.
+His father was Tai Leling when he became emperor.
+Huan Tan was appointed as a minister due to his father's relationship, so he loved music and was good at drums and harp.
+He is very knowledgeable, has read all the Five Classics, and can explain the great meanings of ancient books. Distinguish sentences without leaving chapters.
+He wrote good articles, and especially loved ancient learning. He repeatedly analyzed difficult and different meanings through debates between Liu Xin and Yang Xiong. He also loved miscellaneous dramas. He was a simple man and did not put on official airs. He liked to slander secular Confucian scholars, so he was often ostracized and attacked.
+During the reigns of Emperor Ai and Emperor Ping, his status was only that of a man.
+Queen Fu's father, Fu Yan, the Marquis of Kongxiang, thought highly of Huan Tan.
+At that time, Gao'an Hou Dong Xian was favored by the emperor, and his sister was named Zhaoyi. The emperor became increasingly alienated from Empress Fu, and Fu Yan was silently dissatisfied.
+Huan Tan said to Fu Yan: In the past, Emperor Wu wanted to appoint Wei Zifu, and secretly collected Empress Chen's faults. Empress Chen was finally deposed, and Wei Zifu was actually appointed.
+Now Dong Xian is favored and his sister is especially favored. There may be another change of "Wei Zihu". Don't you worry?
+Fu Yan was alarmed and said: Yes, what should we do?
+Huan Tan said: Punishment cannot be imposed on innocent people, and evil spirits cannot defeat righteous people in vain.
+A scholar serves his master with his intelligence, and a woman seeks his master with a charming way.
+The queen is young and has not experienced many hardships. There are people who are driving witch doctors inside, seeking magic skills outside, and practicing evil ways. We must be on guard against these.
+Moreover, because the king is respected as the father of the queen, he communicates with the guests. The guests will definitely use this to enhance their power, which will attract people's ridicule.
+Why don't you thank the guests and send the disciples away? You must be humble and cautious. This is the way to cultivate yourself and your family to avoid disaster.
+
+summary:
+summary line 0: # Summary of Historical Records: Huan Tan and Feng Yan
+
+Chunk 0: 
+original: 
+桓谭冯衍
+桓谭字君山，沛国相人也。
+父成帝时为太乐令。
+谭以父任为郎，因好音律，善鼓琴。
+博学多通，遍习《五经》，皆诂训大义，不为章句。
+能文章，尤好古学，数从刘歆、杨雄辩析疑异。性嗜倡乐，简易不修威仪，而憙非毁俗儒，由是多见排抵。
+哀、平间，位不过郎。
+傅皇后父孔乡侯晏深善于谭。
+是时，高安侯董贤宠幸，女弟为昭仪，皇后日已疏，晏嘿嘿不得意。
+谭进说曰： 昔武帝欲立卫子夫，阴求陈皇后之过，而陈后终废，子夫竟立。
+今董贤至爱而女弟尤幸，殆将有子夫之变，可不忧哉！
+晏惊动，曰： 然，为之奈何？
+谭曰： 刑罚不能加无罪，邪枉不能胜正人。
+夫士以才智要君，女以媚道求主。
+皇后年少，希更艰难，或驱使医巫，外求方技，此不可不番。
+又君侯以后父尊重而多通宾客，必借以重势，贻致讥议。
+不如谢遣门徒，务执廉悫，此修己正家避祸之道也。
+translation: 
+◆The Legend of Huan Tan
+Huan Tan, whose courtesy name is Junshan, was born in Xiangxian County, Peiguo County.
+His father was Tai Leling when he became emperor.
+Huan Tan was appointed as a minister due to his father's relationship, so he loved music and was good at drums and harp.
+He is very knowledgeable, has read all the Five Classics, and can explain the great meanings of ancient books. Distinguish sentences without leaving chapters.
+He wrote good articles, and especially loved ancient learning. He repeatedly analyzed difficult and different meanings through debates between Liu Xin and Yang Xiong. He also loved miscellaneous dramas. He was a simple man and did not put on official airs. He liked to slander secular Confucian scholars, so he was often ostracized and attacked.
+During the reigns of Emperor Ai and Emperor Ping, his status was only that of a man.
+Queen Fu's father, Fu Yan, the Marquis of Kongxiang, thought highly of Huan Tan.
+At that time, Gao'an Hou Dong Xian was favored by the emperor, and his sister was named Zhaoyi. The emperor became increasingly alienated from Empress Fu, and Fu Yan was silently dissatisfied.
+Huan Tan said to Fu Yan: In the past, Emperor Wu wanted to appoint Wei Zifu, and secretly collected Empress Chen's faults. Empress Chen was finally deposed, and Wei Zifu was actually appointed.
+Now Dong Xian is favored and his sister is especially favored. There may be another change of "Wei Zihu". Don't you worry?
+Fu Yan was alarmed and said: Yes, what should we do?
+Huan Tan said: Punishment cannot be imposed on innocent people, and evil spirits cannot defeat righteous people in vain.
+A scholar serves his master with his intelligence, and a woman seeks his master with a charming way.
+The queen is young and has not experienced many hardships. There are people who are driving witch doctors inside, seeking magic skills outside, and practicing evil ways. We must be on guard against these.
+Moreover, because the king is respected as the father of the queen, he communicates with the guests. The guests will definitely use this to enhance their power, which will attract people's ridicule.
+Why don't you thank the guests and send the disciples away? You must be humble and cautious. This is the way to cultivate yourself and your family to avoid disaster.
+
+summary:
+summary line 1: Huan Tan, courtesy name Junshan, was from Xiangxian County, Peiguo. He was appointed as a minister through his father's connections. He was knowledgeable in the Five Classics, wrote excellent essays, and favored ancient learning. He debated with Liu Xin and Yang Xiong, and enjoyed criticizing secular Confucian scholars, which led to his ostracism. During the reigns of Emperor Ai and Emperor Ping, his status remained low.
+
+Chunk 1: 
+original: 
+晏曰： 善 。
+遂罢遣常客，入白皇后，如谭所戒。
+后贤果风太医令真钦，使求傅氏罪过，遂逮后弟侍中喜，诏狱无所得，乃解，故傅氏终全于哀帝之时。
+及董贤为大司马，闻谭名，欲与之交。
+谭先奏书于贤，说以辅国保身之术，贤不能用，遂不与通。
+当王莽居摄篡弑之际，天下之士，莫不竟褒称德美，作符命以求容媚，谭独自守，默然无言。
+莽时为掌乐大夫，更始立，召拜太中大夫。
+世祖即位，征待诏，上书言事失旨，不用。
+后大司空宋弘荐谭，拜议郎给事中，因上疏陈时政所宜，曰：臣闻国之废兴，在于政事；政事得失，由乎辅佐。
+辅佐贤明，则俊士充朝，而理合世务；辅佐不明，则论失时宜，而举多过事。
+夫有国之君，俱欲兴化建善，然而政道未理者，其所谓贤者异也。
+昔楚庄王问孙叔敖曰： 寡人未得所以为国是也。
+translation: 
+Fu Yan said: OK.
+So he dismissed the guests and went to the palace to tell the queen, just as Huan Tan said.
+Later, Dong Xian indeed hinted to the imperial physician Ling Zhenqin to collect the Fu family's crimes and arrest Fu Xi, Empress Fu's younger brother. During the interrogation, no evidence of guilt was found, and the case was eliminated, so the Fu family was finally saved during the reign of Emperor Ai.
+Later, Dong Xian became the Grand Sima. Hearing about Huan Tan's reputation, he wanted to make friends with him.
+Huan Tan first wrote to Dong Xian, saying that Dong Xian could not use the method of assisting the country and protecting himself, so Huan Tan would not have any contact with him.
+When Wang Mang was regent and usurped Emperor Ping, the intellectuals at that time all praised Wang Mang. Or they described auspicious signs to create public opinion to please Wang Mang, but Huan Tan kept his innocence and remained silent.
+During the reign of Wang Mang, he was the official in charge of music. After Gengshili, he became the official of Taizhong.
+When Shizu ascended the throne, he was summoned to wait for the imperial edict. Huan Tan wrote a letter and said something that was inconsistent with Shizu's will, so he did not adopt it.
+Later, Song Hong, the Grand Sikong, recommended Huan Tan and paid homage to Yilang, so he wrote a letter stating the matters that should be paid attention to in political affairs at that time, saying: I heard that the failure of a country depends on political affairs; and the gains and losses of political affairs depend on whether the assistants are recruited.
+If the auxiliary is wise, the court will be filled with virtuous people, and the governance will be consistent with world affairs; if the auxiliary is unclear, and the things discussed are inappropriate, the actions will be more error-prone.
+As the monarch of the country, everyone wants to promote education and establish good governance. However, political affairs cannot be managed well because the wise men have different opinions.
+In the past, King Zhuang of Chu asked Sun Shuao, "I don't know how to handle state affairs well."
+
+summary:
+summary line 2: Fu Yan, Marquis of Kongxiang, valued Huan Tan. When Emperor Ai favored Dong Xian and his sister Zhaoyi over Empress Fu, Huan Tan warned Fu Yan of potential danger, advising him to dismiss guests and remain humble. Fu Yan followed this advice, and when Dong Xian later attempted to incriminate the Fu family, no evidence was found, saving them. Dong Xian later sought Huan Tan's friendship, but Huan Tan refused, criticizing Dong Xian's inability to protect himself through proper governance. During Wang Mang's usurpation, Huan Tan remained silent while others praised Wang Mang.
+
+Chunk 1: 
+original: 
+晏曰： 善 。
+遂罢遣常客，入白皇后，如谭所戒。
+后贤果风太医令真钦，使求傅氏罪过，遂逮后弟侍中喜，诏狱无所得，乃解，故傅氏终全于哀帝之时。
+及董贤为大司马，闻谭名，欲与之交。
+谭先奏书于贤，说以辅国保身之术，贤不能用，遂不与通。
+当王莽居摄篡弑之际，天下之士，莫不竟褒称德美，作符命以求容媚，谭独自守，默然无言。
+莽时为掌乐大夫，更始立，召拜太中大夫。
+世祖即位，征待诏，上书言事失旨，不用。
+后大司空宋弘荐谭，拜议郎给事中，因上疏陈时政所宜，曰：臣闻国之废兴，在于政事；政事得失，由乎辅佐。
+辅佐贤明，则俊士充朝，而理合世务；辅佐不明，则论失时宜，而举多过事。
+夫有国之君，俱欲兴化建善，然而政道未理者，其所谓贤者异也。
+昔楚庄王问孙叔敖曰： 寡人未得所以为国是也。
+translation: 
+Fu Yan said: OK.
+So he dismissed the guests and went to the palace to tell the queen, just as Huan Tan said.
+Later, Dong Xian indeed hinted to the imperial physician Ling Zhenqin to collect the Fu family's crimes and arrest Fu Xi, Empress Fu's younger brother. During the interrogation, no evidence of guilt was found, and the case was eliminated, so the Fu family was finally saved during the reign of Emperor Ai.
+Later, Dong Xian became the Grand Sima. Hearing about Huan Tan's reputation, he wanted to make friends with him.
+Huan Tan first wrote to Dong Xian, saying that Dong Xian could not use the method of assisting the country and protecting himself, so Huan Tan would not have any contact with him.
+When Wang Mang was regent and usurped Emperor Ping, the intellectuals at that time all praised Wang Mang. Or they described auspicious signs to create public opinion to please Wang Mang, but Huan Tan kept his innocence and remained silent.
+During the reign of Wang Mang, he was the official in charge of music. After Gengshili, he became the official of Taizhong.
+When Shizu ascended the throne, he was summoned to wait for the imperial edict. Huan Tan wrote a letter and said something that was inconsistent with Shizu's will, so he did not adopt it.
+Later, Song Hong, the Grand Sikong, recommended Huan Tan and paid homage to Yilang, so he wrote a letter stating the matters that should be paid attention to in political affairs at that time, saying: I heard that the failure of a country depends on political affairs; and the gains and losses of political affairs depend on whether the assistants are recruited.
+If the auxiliary is wise, the court will be filled with virtuous people, and the governance will be consistent with world affairs; if the auxiliary is unclear, and the things discussed are inappropriate, the actions will be more error-prone.
+As the monarch of the country, everyone wants to promote education and establish good governance. However, political affairs cannot be managed well because the wise men have different opinions.
+In the past, King Zhuang of Chu asked Sun Shuao, "I don't know how to handle state affairs well."
+
+summary:
+summary line 3: After Emperor Guangwu (Shizu) ascended, Huan Tan served as a郎官. He submitted memorials on governance, emphasizing the importance of wise advisors, harmony between ruler and ministers, and adapting policies to circumstances. He criticized harsh laws, private revenge killings, usury by merchants, and inconsistent legal punishments. He advocated for unified laws, agricultural development, and suppressing commerce. His proposals were not accepted.
+
+Chunk 5: 
+original: 
+臣谭伏观陛下用兵，诸所降下，既无重赏以相恩诱，或至虏掠夺其财物，是以兵长渠率，各生孤疑，党辈连结，岁月不解。
+古人有言曰： 天下皆知取之为取，而莫知与之为取。
+陛下诚能轻爵重赏，与士共之，则何招而不至，何说而不释，何向而不开，何征而不克！
+如此，则能以狭为广，以迟为速，亡者复存，失者复得矣。
+帝省奏，愈不悦。
+其后，有诏会议灵台所处，帝谓谭曰： 吾欲以谶决之，何如？
+谭默然良久，曰： 臣不读谶。
+帝问其故，谭复极言谶之非经。
+帝大怒曰： 桓谭非圣无法，将下斩之！
+谭叩头流血，良久乃得解。
+出为六安郡丞，意忽忽不乐，道病卒，时年七十余。
+初，谭著书言当世行事二十九篇，号曰《新论》，上书献之，世祖善焉。
+《琴道》一篇未成，肃宗使班固续成之。
+所著赋、诔、书、奏，凡二十六篇。
+translation: 
+I, Huan Tan, have observed your Majesty's use of troops, and found that for those who surrendered, there were no heavy rewards to induce kindness, and some even plundered their property. Therefore, the generals, large and small, were suspicious and colluded with each other, and could not solve the problem after many years.
+The ancients said: Everyone in the world knows that taking is taking, but they don’t know that giving is also taking.
+If Your Majesty can be more considerate than the official title but more important than the reward, and share it with the soldiers, then who will be unable to recruit, and who will not be able to explain it? Where does it point and where does it not open? Conquer the enemy, which enemy cannot be conquered!
+In this way, narrowness can be used as broadness, delay can be used as speed, death can be reborn, and loss can be gained again.
+The emperor was even more unhappy after reading the memorial.
+Later, there was an edict to convene ministers to discuss the location of the spiritual platform. The emperor said to Huan Tan: I want to use prophecies to decide, how about it?
+Huan Tan was silent for a long time and said: I don't read prophecies.
+The emperor asked the reason, and Huan Tan once again argued that the prophecy was grotesque and unreasonable.
+The emperor was furious and said: "Huan Tan is not a saint, so he should be taken down and beheaded."
+Huan Tan kowtowed and the bleeding lasted for a long time.
+Transferred to Liu'an County Cheng. Huan Tan was in a bad mood and died of illness on the road. He was over seventy years old.
+At first, Huan Tan wrote twenty-nine articles on how to deal with the current situation, named it "New Treatise", and presented it to the imperial court, which was praised by his ancestors.
+One chapter of "Qin Dao" was not completed, so Suzong ordered Ban Gu to continue completing it.
+He wrote a total of twenty-six poems, admonitions, books and memorials.
+
+summary:
+summary line 4: The emperor believed in prophecies. Huan Tan submitted another memorial denouncing prophecies as absurd, urging the emperor to follow the Five Classics instead. He also criticized inadequate rewards for surrendered rebels, which prolonged military campaigns. The emperor became displeased. When later asked about using prophecies to decide the location of the Lingtai, Huan Tan refused, arguing prophecies were irrational. The emperor ordered his execution, but Huan Tan kowtowed until bleeding and was instead demoted to Liu'an County Magistrate. He died en route, over seventy years old. He wrote the "New Treatise" in twenty-nine chapters and other works.
+
+Chunk 6: 
+original: 
+元和中，肃宗行东巡狩，至沛，使使者祠谭冢，乡里以为荣。
+冯衍字敬通，京兆杜陵人也。
+祖野王，元帝时为大鸿胪。
+衍幼有奇才，年九岁，能诵《诗》，至二十而博通群书。
+王莽时，诸公多荐举之者，衍辞不肯仕。
+时，天下兵起，莽遣更始将军廉丹讨伐山东。
+丹辟衍为掾，与俱至定陶。
+莽追诏丹曰： 仓廪尽矣，府库空矣，可以怒矣，可以战矣。
+将军受国重任，不捐身于中野，无以报恩塞责。
+丹惶恐，夜召衍，以书示之。
+衍因说丹曰： 衍闻顺而成者，道之所大也；逆而功者，权之所贵也。
+是故期于有成，不问所由；论于大体，不守小节。
+昔逢丑父伏轼而使其君取饮，称于诸侯；郑祭仲立突而出忽，终得复位，美于《春秋》。
+盖以死易生，以存易亡，君子之道也。
+translation: 
+During the Yuan Dynasty, Suzong went on a hunting tour to the east. When he arrived at Pei, he sent envoys to pay homage to Huan Tan's tomb, which made the village proud.
+◆Feng Yan's biography: Feng Yan, courtesy name Jingtong, was from Duling, Jingzhao.
+The ancestor Feng Yewang was Dahonglu during the Yuan Dynasty.
+Feng Yan was a genius when he was young. He was able to recite "Poetry" at the age of nine. By the time he was twenty, he was well versed in many books.
+During Wang Mang's reign, many people recommended him to be an official, but Feng Yan declined.
+At this time, the army was rising, and Wang Mang sent Gengshi General Lian Dan to attack Shandong.
+Lian Dan recruited Feng Yanshou as an official and went to Dingtao with him.
+Wang Mang issued an edict to Lian Dan, saying: "The food in the warehouse has been exhausted, and the money in the treasury is empty. It's time to get angry and fight."
+A general has a heavy responsibility for his country, and he cannot repay his kindness without sacrificing his life in the wilderness.
+Lian Dan was frightened and summoned Feng Yan at night to read him the edict.
+Feng Yan then said to Lian Dan: I heard that those who follow the right path are the greatest; those who go against the right path but can succeed, this should be taken seriously when weighing.
+Therefore, if you hope to achieve success, don't ask about the reasons; if the principles are consistent with the general principles, don't stick to the details.
+In the past, Feng Chou's father asked the Marquis of Qi to pretend to be a charioteer and go to Huaquan to drink, thus saving the Marquis of Qi from disaster, and was praised by the princes. Zheng Zhong's Ji Zhong succumbed to the intimidation of the Song Dynasty and made the prince Hu finally return to his throne, which was praised in the "Spring and Autumn Annals".
+It is the way of a gentleman to sacrifice death to live, to survive to perish.
+
+summary:
+summary line 5: Feng Yan, courtesy name Jingtong, was from Duling, Jingzhao. A prodigy, he could recite the "Book of Songs" at nine and was well-read by twenty. During Wang Mang's reign, he declined official recommendations. He served under Lian Dan, advising him to garrison troops and wait for opportunities rather than fight recklessly. Lian Dan refused and died in battle. Feng Yan later served Bao Yong, advising him to prepare defenses in Bingzhou, cultivate virtue, and select talented officers.
+
+Chunk 14: 
+original: 
+君长、敬通揭节垂组，自相署立。盖仲由使门人为臣，孔子讥其欺天。
+君长据位两州，加以一郡，而河东畔国，兵不入彘，上党见围，不窥大谷，宗正临境，莫之能援。
+兵威屈辱，国权日损，三王背畔，赤眉害主，未见兼行倍道之赴，若墨翟累茧救宋，申包胥重胝存楚，卫女驰归唁兄之志。
+主亡一岁，莫知定所，虚冀妄言，苟肆鄙塞。
+未能事生，安能事死？
+未知为臣，焉知为主？
+岂厌为臣子，思为君父乎！
+欲摇太山而荡北海，事败身危，要思邑言。
+衍不从。
+或讹言更始随赤眉在北，永、衍信之，故屯兵界休，方移书上党，云皇帝在雍，以惑百姓。
+永遣弟升及子媚张舒诱降涅城，舒家在上党，邑悉系之。
+又书劝永降，永不答，自是与邑有隙。
+邑字伯玉，冯翊人也，后为渔阳太守。
+永、衍审知更始已殁，乃共罢兵，幅巾降于河内。
+帝怨衍等不时至，永以立功得赎罪，遂任用之，而衍独见黜。
+永谓衍曰： 昔高祖赏季布之罪，诛丁固之功。
+translation: 
+Bao Yong and you Feng Yan, holding the talisman seal and ribbon, established themselves as officials. In the past, Zhong You made his disciples ministers, but Confucius ridiculed their deceit and deceived heaven.
+Bao Yong controlled two states and one county, but Gengshi was defeated. The countries in Hedong rebelled, and Bao Yong launched a campaign. The cunning thieves besieged Shangdang, but Bao Yong did not send troops to rescue him. Liu Yan was approaching, and Bao Yong could not help.
+The military power was humiliated, the authority of the country was weakened day by day, the three kings were betrayed, and the red eyebrows harmed the reform. Bao Yong was not seen as a diligent king who did double duty, like Mo Zhai who had thick calluses on his hands and feet to save the Song Dynasty, Shen Baoxu endured hardships but still wanted to survive in Chu, and the guard daughter Mrs. Xu Mugong wanted to return to mourn her brother's loyalty.
+Gengshi has been dead for a year, and he still doesn't know where he is. He is dreaming and talking nonsense, and he is living in peace and despise.
+If you can't serve a servant, how can you serve a dead person?
+If you don’t know how to be a minister, how can you know how to be a master?
+Could it be that he is tired of being a minister and wants to be a king and father?
+If you want to shake Mount Tai and swing across the North Sea, you will not succeed and your body will be in danger. I hope you will think carefully about my words.
+Feng Yan refused.
+Some people spread rumors that Gengshi was following Chimei in the north. Bao Yong and Feng Yan believed it, so they stationed troops in Jiexiu. They were about to send a letter to the party, saying that the emperor was in Yong, in order to confuse the people.
+Bao Yong sent his younger brother Bao Sheng and son-in-law Zhang Shu to lure him back to Niecheng County. Zhang Shu's family was in Shangdang, and his family was imprisoned in Tianyi.
+He also wrote a letter to persuade Bao Yong to surrender, but Bao Yong never responded. From then on, Bao Yong and Tianyi had a grudge.
+Tianyi, named Boyu, was born in Feng Yi, and later served as the prefect of Yuyang.
+Bao Yong and Feng Yan knew for sure that Gengshi was dead, so they jointly stopped their troops and surrendered to Hanoi without any hats.
+The emperor complained that Feng Yan was unwilling to surrender. Bao Yong was able to atone for his sins by performing meritorious service, so he was appointed, while Feng Yan was dismissed.
+Bao Yong said to Feng Yan: In the past, Emperor Gaozu pardoned Ji Bu's sins and killed Ding Gu, who had contributed to him.
+
+summary:
+summary line 6: After Emperor Guangwu's ascension, Feng Yan wrote to Tian Yi, urging him to remain loyal to the Gengshi regime. Tian Yi responded defiantly, criticizing Bao Yong and Feng Yan for their failures. Feng Yan and Bao Yong eventually surrendered. The emperor initially dismissed Feng Yan for his late surrender, but Bao Yong's intercession led to Feng Yan's appointment as Quyang Magistrate, where he suppressed bandits.
+
+Chunk 15: 
+original: 
+今遭明主，亦何忧哉！
+衍曰： 记有之，人有挑其邻人之妻者，挑其长者，长者詈之，挑其少者，少者报之，后其夫死而取其长者。
+或谓之曰： 夫非骂尔者邪？
+曰： 在人欲其报我，在我欲其骂人也。
+夫天命难知，人道易守，守道之臣，何患死亡？
+顷之，帝以衍为曲阳令，诛斩剧贼郭胜等，降五千余人，论功当封，以谗毁，故赏不行。
+建武六年日食，衍上书陈八事：其一曰显文德，二曰褒武烈，三曰修旧功，四曰招俊杰，五曰明好恶，六曰简法令，七曰差秩禄，八曰抚边境。
+书奏，帝将召见。
+初，衍为狼孟长，以罪摧陷大姓令狐略。是时，略为司空长史，谗之于尚书令王护、尚书周生丰曰： 衍所以求见者，欲毁君也。
+护等惧之，即共排间，衍遂不得入。
+后卫尉阴兴、新阳侯阴就以外戚贵显，深敬重衍，衍遂与之交结，是由为诸王所聘请，寻为司隶从事。
+translation: 
+Now that I have met the Ming Lord, what else do I have to worry about?
+Feng Yan said: I remember "Warring States Policy" tells about a man who teased his neighbor's wife and teased his eldest wife. The eldest wife cursed him and teased his younger wife, and the younger wife agreed. Later, when his neighbor died, he married his eldest wife.
+Someone asked him: Didn’t the eldest wife scold you?
+One person said: When I'm at someone else's house, I want her to agree to my flirting, but when I'm at my house, I want her to scold the person who teases and seduces her.
+Destiny is hard to know, but the way of humanity is easy to follow. Are ministers who keep the way still afraid of death?
+Soon, the emperor appointed Feng Yan as the Quyang Order, killed the big thief Guo Sheng and others, and surrendered more than 5,000 of them. They were awarded officials and titles based on merit. However, they were slandered and slandered, so the rewards were not implemented.
+There was a solar eclipse in the sixth year of Jianwu, and Feng Yan wrote a petition asking for eight things: first, to show literary virtue, second, to praise military heroes, third, to repair old merits, fourth, to recruit heroes, fifth, to clarify likes and dislikes, sixth, to simplify laws, seventh, to improve rank and salary, and eighth, to care for borders.
+After the book was written, Emperor Guangwu prepared to summon him.
+At first, when Feng Yan was the magistrate of Langmeng County, he punished Linghu Luo for his crimes. At this time, Linghu Luo became the chief minister of Sikong, and said to Shangshu Ling Wang Hu and Shangshu Zhou Shengfeng: Feng Yan asked for help because he wanted to slander you.
+Wang Hu and others were afraid, so they united to exclude Feng Yan. Therefore, Feng Yan could not be received by Guangwu.
+Later, Weiwei Yinxing and Xinyang Houyin became rich and distinguished because of their relatives, and they deeply respected Feng Yan. Feng Yan made friends with them and was hired by the kings. Soon he became a minister.
+
+summary:
+summary line 7: Feng Yan later submitted a memorial on eight matters during a solar eclipse. However, former enemies slandered him, preventing imperial audience. He befriended influential relatives but was implicated when the emperor punished their associates. Feng Yan confessed and was pardoned, then returned home, isolating himself from former acquaintances.
+

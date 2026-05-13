@@ -1,0 +1,475 @@
+Summary uses chunk [0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 0]
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 0: # Summary of Historical Biographies
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 1: ## Wang Chong
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 2: Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji, though his ancestors had moved from Yuancheng, Wei County. His father died when he was young, and he was praised for his filial piety. He studied at Taixue in the capital under Ban Biao of Fufeng. Despite his family's poverty and lack of books, he frequently visited Luoyang bookstores, memorizing texts after a single reading, which allowed him to master various schools of thought. He later returned home to teach and served as a meritorious official, but left due to disagreements with his superiors after repeatedly offering advice.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 3: Wang Chong criticized Confucian scholars for clinging to textual details while losing deeper meanings. He secluded himself, placing writing tools throughout his home, and composed 85 chapters of "Lunheng" (over 200,000 words) to explain phenomena and correct contemporary misconceptions. Governor Dong Qin recruited him, but he resigned. His friend Xie Yiwu recommended him to the court, and Emperor Suzong issued an edict for his service, but illness prevented him from traveling. Near age seventy, with failing memory, he wrote sixteen chapters of "The Book of Cultivation of Nature" on self-discipline and spiritual preservation. He died at home during the Yongyuan period.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 4: ## Wang Fu
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 5: Wang Fu, courtesy name Xin, was from Linjing, Anding. Studious and ambitious, he befriended Ma Rong, Dou Zhang, Zhang Heng, and Cui Yuan. Because he was born to a secondary wife, his village looked down on him. During the reigns of Emperors He and An, when powerful families recommended each other for office, Wang Fu's uprightness prevented him from becoming an official. Distressed, he secluded himself and wrote over thirty books criticizing contemporary politics, calling his work "The Theory of Qianfu" to remain anonymous.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 6: His writings denounced societal ills. He argued that officials should govern justly, as heaven loves the people, and that stealing official positions for personal gain was worse than robbery. He criticized the neglect of agriculture, noting that in Luoyang, merchants outnumbered farmers tenfold, creating widespread poverty. He condemned extravagant dress, wasteful religious practices, and lavish funerals where families spent fortunes on coffins and burials while neglecting living parents. He advocated for proper talent selection, arguing that wise men existed but were improperly used, and criticized judicial corruption where the poor could not obtain justice against wealthy officials. He opposed frequent amnesties, which he believed emboldened criminals while harming the virtuous.
+
+Chunk 12: 
+original: 
+后度辽将军皇甫规解官归安定，乡人有以贷得雁门太守者，亦去职还家，书刺谒规。
+规卧不迎，既入而问： 卿前在郡食雁美乎？
+有顷，又白王符在门。
+规素闻符名，乃惊遽而起，衣不及带，屣履出迎，援符手而还，与同坐，极欢。
+时人为之语曰： 徒见二千石，不如一缝掖。
+言书生道义之为贵也。
+符竟不仕，终于家。
+仲长统字公理，山阳高平人也。
+少好学，博涉书记，赡于文辞。
+年二十余，游学青、徐、并、冀之间，与交友者多异之。
+并州刺史高，袁绍甥也。素贵有名，招致四方游土，士多归附。
+统过，善待遇，访以当时之事。
+统谓曰： 君有雄志而无雄才，好士而不能择人，所以为君深戒也。
+雅自多，不纳其言，统遂去之。
+无几，以并州叛，卒至于败。
+并、冀之士皆以是异统。
+统性俶傥，敢直言，不矜小节，默语无常，时人或谓之狂生。
+每州郡命召，辄称疾不就。
+translation: 
+Later, Huangfugui, the general who conquered the Liao Dynasty, was dismissed from his official post and returned to Anding. The people from the same town who used their goods and wealth to buy the governor of Yanmen also left their jobs and went home, and went to see Huangfugui with their business cards.
+Huangfu Gui lay sleeping and did not come out to greet the man. After the man had already entered the door, he asked: "You used to eat wild goose meat in the county magistrate Renli. It tasted good, didn't it?"
+Soon, someone reported that Wang Fu was at the door asking to see him.
+Huangfu Gui had always heard of Wang Fu's reputation, so he got up quickly, with his clothes not tied yet, put on his shoes and went out to greet him. He held Wang Fu's hand and entered the room, sitting with him very happily.
+People at that time said this: A governor with two thousand stones is not worth a common man.
+That is to say, the moral character of scholars is noble.
+Wang Fu finally stopped serving as an official and died at home.
+◆Zhong Changtong, also known as Zhong Changtong, was born in Gaoping, Shanyang.
+When he was young, he was studious, read extensively in books, and was good at diction.
+When he was more than 20 years old, he studied in Qingzhou, Xuzhou, Bingzhou and Jizhou. Most of his friends thought he was different from ordinary people.
+Gao Gan, the governor of Bingzhou, was Yuan Shao's nephew. He had always been noble and famous, attracting wanderers from all over, and many scholars attached themselves to him.
+Zhong Changtong passed by Gao Gan, who entertained him well and asked about the major events at that time.
+Changtong said to the senior officials: You have great ambitions but no great talents. You like to make friends with scholars but cannot choose talents. Therefore, I am worried about you. Please take this as a warning.
+The senior cadre often felt that he was good. If he didn't accept his advice, Chang Tong would leave.
+Not long after, the high officials rebelled against Bingzhou and were defeated.
+The scholars of Bingzhou and Jizhou all differed in their ability to know people.
+Zhong Changtong was a man of suave nature, who dared to speak out without caring about trivial matters, and who spoke impertinently in silence. Some people at that time called him Kuang Sheng.
+Whenever summoned by the state or county, he often complained that he was ill and would not go away.
+
+summary:
+summary line 7: Wang Fu never served as an official and died at home. His contemporary Huangfu Gui famously demonstrated respect for him by rushing to greet him while ignoring a wealthy former governor, leading people to say that "a governor with two thousand stones is not worth a common man."
+
+Chunk 12: 
+original: 
+后度辽将军皇甫规解官归安定，乡人有以贷得雁门太守者，亦去职还家，书刺谒规。
+规卧不迎，既入而问： 卿前在郡食雁美乎？
+有顷，又白王符在门。
+规素闻符名，乃惊遽而起，衣不及带，屣履出迎，援符手而还，与同坐，极欢。
+时人为之语曰： 徒见二千石，不如一缝掖。
+言书生道义之为贵也。
+符竟不仕，终于家。
+仲长统字公理，山阳高平人也。
+少好学，博涉书记，赡于文辞。
+年二十余，游学青、徐、并、冀之间，与交友者多异之。
+并州刺史高，袁绍甥也。素贵有名，招致四方游土，士多归附。
+统过，善待遇，访以当时之事。
+统谓曰： 君有雄志而无雄才，好士而不能择人，所以为君深戒也。
+雅自多，不纳其言，统遂去之。
+无几，以并州叛，卒至于败。
+并、冀之士皆以是异统。
+统性俶傥，敢直言，不矜小节，默语无常，时人或谓之狂生。
+每州郡命召，辄称疾不就。
+translation: 
+Later, Huangfugui, the general who conquered the Liao Dynasty, was dismissed from his official post and returned to Anding. The people from the same town who used their goods and wealth to buy the governor of Yanmen also left their jobs and went home, and went to see Huangfugui with their business cards.
+Huangfu Gui lay sleeping and did not come out to greet the man. After the man had already entered the door, he asked: "You used to eat wild goose meat in the county magistrate Renli. It tasted good, didn't it?"
+Soon, someone reported that Wang Fu was at the door asking to see him.
+Huangfu Gui had always heard of Wang Fu's reputation, so he got up quickly, with his clothes not tied yet, put on his shoes and went out to greet him. He held Wang Fu's hand and entered the room, sitting with him very happily.
+People at that time said this: A governor with two thousand stones is not worth a common man.
+That is to say, the moral character of scholars is noble.
+Wang Fu finally stopped serving as an official and died at home.
+◆Zhong Changtong, also known as Zhong Changtong, was born in Gaoping, Shanyang.
+When he was young, he was studious, read extensively in books, and was good at diction.
+When he was more than 20 years old, he studied in Qingzhou, Xuzhou, Bingzhou and Jizhou. Most of his friends thought he was different from ordinary people.
+Gao Gan, the governor of Bingzhou, was Yuan Shao's nephew. He had always been noble and famous, attracting wanderers from all over, and many scholars attached themselves to him.
+Zhong Changtong passed by Gao Gan, who entertained him well and asked about the major events at that time.
+Changtong said to the senior officials: You have great ambitions but no great talents. You like to make friends with scholars but cannot choose talents. Therefore, I am worried about you. Please take this as a warning.
+The senior cadre often felt that he was good. If he didn't accept his advice, Chang Tong would leave.
+Not long after, the high officials rebelled against Bingzhou and were defeated.
+The scholars of Bingzhou and Jizhou all differed in their ability to know people.
+Zhong Changtong was a man of suave nature, who dared to speak out without caring about trivial matters, and who spoke impertinently in silence. Some people at that time called him Kuang Sheng.
+Whenever summoned by the state or county, he often complained that he was ill and would not go away.
+
+summary:
+summary line 8: ## Zhong Changtong
+
+Chunk 12: 
+original: 
+后度辽将军皇甫规解官归安定，乡人有以贷得雁门太守者，亦去职还家，书刺谒规。
+规卧不迎，既入而问： 卿前在郡食雁美乎？
+有顷，又白王符在门。
+规素闻符名，乃惊遽而起，衣不及带，屣履出迎，援符手而还，与同坐，极欢。
+时人为之语曰： 徒见二千石，不如一缝掖。
+言书生道义之为贵也。
+符竟不仕，终于家。
+仲长统字公理，山阳高平人也。
+少好学，博涉书记，赡于文辞。
+年二十余，游学青、徐、并、冀之间，与交友者多异之。
+并州刺史高，袁绍甥也。素贵有名，招致四方游土，士多归附。
+统过，善待遇，访以当时之事。
+统谓曰： 君有雄志而无雄才，好士而不能择人，所以为君深戒也。
+雅自多，不纳其言，统遂去之。
+无几，以并州叛，卒至于败。
+并、冀之士皆以是异统。
+统性俶傥，敢直言，不矜小节，默语无常，时人或谓之狂生。
+每州郡命召，辄称疾不就。
+translation: 
+Later, Huangfugui, the general who conquered the Liao Dynasty, was dismissed from his official post and returned to Anding. The people from the same town who used their goods and wealth to buy the governor of Yanmen also left their jobs and went home, and went to see Huangfugui with their business cards.
+Huangfu Gui lay sleeping and did not come out to greet the man. After the man had already entered the door, he asked: "You used to eat wild goose meat in the county magistrate Renli. It tasted good, didn't it?"
+Soon, someone reported that Wang Fu was at the door asking to see him.
+Huangfu Gui had always heard of Wang Fu's reputation, so he got up quickly, with his clothes not tied yet, put on his shoes and went out to greet him. He held Wang Fu's hand and entered the room, sitting with him very happily.
+People at that time said this: A governor with two thousand stones is not worth a common man.
+That is to say, the moral character of scholars is noble.
+Wang Fu finally stopped serving as an official and died at home.
+◆Zhong Changtong, also known as Zhong Changtong, was born in Gaoping, Shanyang.
+When he was young, he was studious, read extensively in books, and was good at diction.
+When he was more than 20 years old, he studied in Qingzhou, Xuzhou, Bingzhou and Jizhou. Most of his friends thought he was different from ordinary people.
+Gao Gan, the governor of Bingzhou, was Yuan Shao's nephew. He had always been noble and famous, attracting wanderers from all over, and many scholars attached themselves to him.
+Zhong Changtong passed by Gao Gan, who entertained him well and asked about the major events at that time.
+Changtong said to the senior officials: You have great ambitions but no great talents. You like to make friends with scholars but cannot choose talents. Therefore, I am worried about you. Please take this as a warning.
+The senior cadre often felt that he was good. If he didn't accept his advice, Chang Tong would leave.
+Not long after, the high officials rebelled against Bingzhou and were defeated.
+The scholars of Bingzhou and Jizhou all differed in their ability to know people.
+Zhong Changtong was a man of suave nature, who dared to speak out without caring about trivial matters, and who spoke impertinently in silence. Some people at that time called him Kuang Sheng.
+Whenever summoned by the state or county, he often complained that he was ill and would not go away.
+
+summary:
+summary line 9: Zhong Changtong was from Gaoping, Shanyang. Studious and well-read, he was considered extraordinary by his peers. When visiting Gao Gan, the governor of Bingzhou, he warned that Gao had great ambitions but insufficient talent and poor judgment in choosing associates. Gao ignored this advice and later rebelled and was defeated.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+
+summary:
+summary line 10: Zhong Changtong was unconventional and outspoken, earning the nickname "Kuang Sheng" (Mad Scholar). He frequently declined government summons by claiming illness. He valued personal freedom over official service, describing an ideal life of leisure with fertile land, comfortable housing, family, friends, entertainment, and philosophical contemplation. He wrote poems expressing his desire to transcend worldly concerns. Minister Xun Yu appointed him, and he later served under Prime Minister Cao Cao. He wrote "Chang Yan," consisting of 34 chapters and over 100,000 words, expressing his critical views on contemporary society. He died at age forty-one during the year Emperor Xian abdicated.
+

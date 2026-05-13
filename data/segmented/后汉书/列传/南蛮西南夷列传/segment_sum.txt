@@ -1,0 +1,379 @@
+Summary uses chunk [9, 0, 2, 7, 9, 14, 19, 24, 30]
+
+Chunk 9: 
+original: 
+于是领表悉平。
+肃宗元和元年，日南徼外蛮夷究不事人邑豪献生犀、白雉。
+和帝永元十二年夏四月，日南、象林蛮夷二千余人寇掠百姓，燔烧官寺，郡县发兵讨击，斩其渠帅，余众乃降。
+于是置象林将兵长史，以防其患。
+安帝永初元年，九真徼外夜郎蛮夷举土内属，开境千八百四十里。
+元初二年，苍梧蛮夷反叛。明年，遂招诱郁林、合浦蛮汉数千人攻苍梧郡。
+邓太后遣侍御史任奉诏赦之，贼皆降散。
+延光元年，九真徼外蛮贡献内属。
+三年，日南徼外蛮复来内属。
+顺帝永建六年，日南徼外叶调王便遣使贡献，帝赐便金印紫绶。
+永和二年，日南、象林徼外蛮夷区怜等数千人攻象林县，烧城寺，杀长吏。
+交阯刺史樊演发交阯、九真二郡兵万余人救之。
+兵士惮远役，遂反，攻其府。
+二郡虽击破反者，而贼势转盛。
+会侍御史贾昌使在日南，即与州郡并力讨之，不利，遂为所攻。
+围岁余而兵谷不继，帝以为忧。
+明年，召公卿百官及四府掾属，问其方略，皆议遣大将，发荆、杨、兗、豫四万人赴之。
+translation: 
+In this way, everything outside the ridge was pacified.
+In the first year of the Yuanhe period of Emperor Suzong, the chiefs of the barbarian tribes outside the southern border of Japan presented live rhinos and white pheasants.
+In the summer and April of the twelfth year of Emperor Yongyuan, more than 2,000 barbarians from Rinan and Xianglin invaded, looted the people, and burned down the government offices. The prefectures and counties sent troops to attack and killed their leaders, and the remaining troops surrendered.
+So the imperial court established a history of generals and soldiers in Xianglin to prevent the barbarians from harming them.
+In the first year of Emperor An's Yongchu reign, the Yelang barbarians outside the Jiuzhen border surrendered all their territory, allowing the Han Dynasty to expand its territory by 1,840 miles.
+In the second year of the Yuan Dynasty, the barbarians in Cangwu rebelled. The next year, they summoned and lured thousands of barbarians and Han people from Yulin and Hepu to attack Cangwu County.
+Empress Dowager Deng sent Ren Lian, the imperial censor, to issue an edict to pardon the rebels, and all the bandits surrendered and dispersed.
+In the first year of Yanguang, the barbarians outside the Jiuzhen border paid tribute and submitted.
+Three years later, barbarians from outside Japan's southern border came to submit again.
+In the sixth year of Yongjian reign of Emperor Shun, King Ye Tiao from outside the southern border of Japan sent an envoy to pay tribute, and the emperor gave King Ye Tiao a gold seal and purple ribbon.
+In the second year of Yonghe, thousands of people including Lian Lian, a barbarian outside the border of Yunnan and Xianglin, attacked Xianglin County, burned down the city government offices, and killed county and county officials.
+Fan Yan, the governor of Jiaosha, mobilized more than 10,000 troops from Jiaodu and Jiuzhen counties to rescue Xianglin.
+The soldiers were afraid of the long distance to fight, so they rebelled and attacked the county government.
+Although the two counties defeated the rebels, the bandits became more powerful.
+It happened that Jia Chang, the imperial censor, was on an envoy in Danzhi. He immediately joined forces with the prefectures and counties to conquer the bandits. The battle went unfavorably, and he was attacked by barbarians.
+They had been surrounded for more than a year and the emperor was worried about the lack of food for their troops.
+The next year, he summoned the ministers and ministers of the four prefectures and asked them about their strategy. The ministers all said that they would send generals to recruit 40,000 troops from Jingzhou, Yangzhou, Yanmago, and Yuye to rush there.
+
+summary:
+summary line 0: # Summary of Historical Records on the Southern and Southwestern Barbarians
+
+Chunk 0: 
+original: 
+乃访募天下，有能得犬戎之将吴将军头者，购黄金千镒，邑万家，又妻以少女。
+时帝有畜狗，其毛五采，名曰槃瓠。
+下令之后，槃瓠遂衔人头造阙下，群臣怪而诊之，乃吴将军首也。
+帝大喜，而计槃瓠不可妻之以女，又无封爵之道，议欲有报而未知所宜。
+女闻之，以为帝皇下令，不可违信，因请行。
+帝不得已，乃以女配槃瓠。
+槃瓠得女，负而走入南山，止石室中。
+所处险绝，人迹不至。
+于是女解去衣裳，为仆鉴之结，着独力之衣。
+帝悲思之，遣使寻求，辄遇风雨震晦，使者不得进。
+经三年，生子一十二人，六男六女。
+槃瓠死后，因自相夫妻。
+织绩木皮，染以草实，好五色衣服。制裁皆有尾形。
+其母后归，以状白帝，于是使迎致诸子。
+衣裳班兰，语言侏离，好入山壑，不乐平旷。
+帝顺其意，赐以名山广泽。
+translation: 
+In the past, the Quan Rong invaded during the reign of Gao Xin. The emperor was worried because of the cruelty of the Quan Rong, but he could not win against the Quan Rong. So he searched and recruited people all over the world. Anyone who could get the head of General Wu, the general of Quanrong, would be rewarded with a thousand yi of gold, a fief of 10,000 households, and his youngest daughter would be married to him.
+At that time, the emperor had a dog with five-colored hair named Jiahu.
+After the emperor gave the order, Panhu carried the head to the palace gate. The officials were surprised. When they looked at it, they found it was General Wu's head.
+The emperor was very happy, but he considered that he could not marry his daughter to Panhu, and there was no reason to give an official title to a dog. He wanted to repay the dog but did not know how to do it.
+When the daughter found out, she thought that the emperor had given an order and she could not violate her faith, so she asked to marry Panhu.
+The emperor had no choice but to marry his daughter to Panhu.
+After Panhu got the emperor's daughter, he carried her to Nanshan and lived in Shidongbao.
+The place where Panhu is located is dangerous, isolated and inaccessible to humans.
+So the emperor's daughter took off her clothes, combed her hair into a bun like a servant, and put on independent clothes.
+The emperor missed his daughter and was very sad. He sent envoys to look for her, but they were always met with wind, rain, thunder and darkness, and the envoys could not move forward.
+After three years, she gave birth to twelve children, six boys and six girls.
+After Panhu died, the children married each other.
+They weave clothes from tree bark and dye their clothes with fruits and vegetables. They like to wear colorful clothes, and the clothes are all shaped like tails.
+Their mother later came back and informed the emperor of the situation, so the emperor sent envoys to fetch the children.
+The colors of their clothes are mixed and bright, and their voices are difficult to distinguish. They like to hide in high mountains and deep valleys, and do not like to live in open areas.
+The emperor complied with their wishes and gave them famous mountains and swamps.
+
+summary:
+summary line 1: During the reign of Gao Xin, the Quan Rong invaded, and the emperor offered rewards for the head of their general, General Wu. The emperor's five-colored dog, Panhu, brought the general's head. Unable to marry his daughter to a dog, the emperor was troubled, but his daughter insisted on honoring the promise and married Panhu. They lived in Nanshan, where she bore twelve children, six boys and six girls. After Panhu's death, the children intermarried, and their descendants became known as barbarians. They wore colorful clothes with tail-like shapes, lived in remote mountains, and were granted famous mountains and swamps by the emperor. Their leaders received seals from the imperial court, and they were exempt from taxes. The current Changsha Wulingman are their descendants.
+
+Chunk 2: 
+original: 
+汉兴，改为武陵。
+岁令大人输布一匹，小口二丈，是谓賨布。
+虽时为寇盗，而不足为郡国患。
+光武中兴，武陵蛮夷特盛。
+建武二十三年，精夫相单程等据其险隘，大寇郡县。
+遣武威将军刘尚发南郡、长沙、武陵兵万余人，乘船溯沅水，入武谿击之。
+尚轻敌入险，山深水疾，舟船不得上。
+蛮氏知尚粮少入远，又不晓道径，遂屯聚守险。
+尚食尽引还，蛮缘路徼战，尚军大败，悉为所没。
+二十四年，相单程等下攻临沅，遣谒者李嵩、中山太守马成击之，不能克。
+明年春，遣伏波将军马援、中郎将刘匡、马武、孙永等，将兵至临沅，击破之。
+单程等饥困乞降，会援病卒，谒者宗均听悉受降。
+为置吏司，群蛮遂平。
+肃宗建初元年，武陵澧中蛮陈从等反叛，入零阳蛮界。
+translation: 
+After the prosperity of the Han Dynasty, Qianzhong County was changed to Wuling County.
+Every year, barbarian adults are required to pay a piece of cloth, and children are required to pay two feet of cloth. This is called Yuan cloth.
+Although barbarians invaded from time to time, they were not enough to cause disaster to the county.
+After the resurgence of Rentiao, Manlou in Gendi became particularly powerful.
+In the 23rd year of Jianjian's reign, Jingfu Xiang Shancheng and others took advantage of the barbarian terrain to launch a massive attack on counties.
+Guangwu sent Wuwei General Liu Shang to mobilize more than 10,000 troops from Nanjun, Changsha and Jianlu. They took boats upstream from Yuancheng to Wuxi to attack Xiang Xiang.
+Liu Shang underestimated the enemy and entered a dangerous area. The mountains were deep and the water was fast, making it impossible for the ship to move forward.
+The barbarians knew that Liu Shang did not have enough food, the road was far away, and they did not know the route, so they gathered troops to guard the dangerous terrain.
+After Liu Shang ran out of food, he withdrew his troops. The barbarians intercepted them along the way. Liu Shang's army was defeated and the entire army was wiped out.
+In the twenty-fourth year, Xiang Shancheng and others went downstream to attack Linyuan. The imperial court sent Li Song, the emissary, and Ma Cheng, the prefect of Zhongshan, to attack Xiang Shancheng, but they could not win.
+In the spring of the next year, the imperial court sent Fubo General Ma Yuan, Zhonglang General Liu Kuang, Ma Wu, Sun Yong and others to lead their troops to Linyuan and defeated Xiang Shancheng.
+Xiang Shancheng and others were hungry and impoverished, and asked for surrender. Ma Yuan happened to die of illness, and Yezhe Zongjun accepted the surrender of all their troops.
+The imperial court established government officials among the barbarians, and the barbarians were pacified.
+In the first year of Emperor Suzong's founding, Chen Cong and others from Wuling and Lizhong rebelled and entered the realm of Lingyang Barbarians.
+
+summary:
+summary line 2: During the Zhou Dynasty, the barbarian race grew stronger. King Xuan sent Uncle Fang to conquer them. King Ping moved east, and barbarians invaded the Central Plains. Marquis Wen of Jin defeated them. King Wu of Chu faced barbarian attacks, and King Zhuang later subdued them. After the Han Dynasty's rise, Wuling County was established, and barbarian adults paid one piece of cloth annually, children two feet. During the Jianwu period, Jingfu Xiang Shancheng led a massive attack. General Liu Shang was defeated with his entire army. Ma Yuan later defeated Xiang Shancheng, who surrendered. In subsequent years, various barbarian groups rebelled, including Chen Cong, Qin Erjian, and Tan Rong. The court often recruited obedient barbarians to suppress rebellions. In Yonghe's first year, the prefect of Wuling proposed increasing taxes like those of Han people. Shangshu Ling Yu Xie Jin warned against this, but the emperor did not listen. The barbarians rebelled, killing officials. Li Jin was sent to pacify them, serving nine years in Wuling.
+
+Chunk 7: 
+original: 
+秦并天下，威服蛮夷，始开领外，置南海、桂林、象郡。
+汉兴，尉佗自立为南越王，传国五世。
+至武帝元鼎五年，遂灭之，分置九郡，交阯刺史领焉。
+其珠崖、儋耳二郡在海洲上，东西千里，南北五百里。
+其渠帅贵长耳，皆穿而缒之，垂肩三寸。
+武帝末，珠崖太守会稽孙幸调广幅布献之，蛮不堪役，遂攻郡杀幸。
+幸子豹合率善人还，复破之，自领郡事，讨击余党，连年乃平。
+豹遣使封还印绶，上书言状，制诏即以豹为珠崖太守。
+威政大行，献命岁至。
+中国贪其珍赂，渐相侵侮，故率数岁一反。
+元帝初元三年，遂罢之。
+凡立郡六十五岁。
+逮王莽辅政，元始二年，日南之南黄支国来献犀牛。
+凡交阯所统，虽置郡县，而言语各异，重译乃通。
+人如禽兽，长幼无别。
+项髻徒跣，以布贯头而著之。
+translation: 
+The Qin Dynasty annexed the world and used force to make the barbarians submit. Then they opened up the land outside the mountains and established Nanhai, Guilin, and Xiangjun.
+After the rise of the Han Dynasty, Wei Tuo established himself as the King of Nanyue, which was passed down for five generations.
+In the fifth year of Emperor Wu Yuanding's reign, Nanyue was finally wiped out and nine counties were established separately, under the jurisdiction of Jiaoxi Governor.
+Among them, Zhuya and Dan'er counties are on the island, one thousand miles long from east to west and five hundred miles long from north to south.
+The barbarian chiefs in Nabu regarded long ears as noble, so they all pierced their ears and hung things on them, making their ears hang down to their shoulders, up to three inches long.
+In the last years of Emperor Wu's reign, Sun Xing from Kuaiji, the prefect of Zhuya, collected broad sheets of cloth and presented them to the court. Unable to bear the labor, the barbarians attacked the county and killed Sun Xing.
+Sun Xing's son Sun Bao united with the good people and defeated the barbarians. He took charge of the county's political affairs and conquered the remaining rebel parties. It took several years to pacify Zhuya.
+Sun Bao sent an envoy to seal the seal and return it to the court, and wrote a letter explaining the situation. The emperor immediately appointed Sun Bao as the prefect of Zhuya after sending a letter to Shaoshu.
+Prominent decrees were generally implemented, and tributes and envoys were received every year.
+The Central Plains were greedy for their treasures and property and gradually bullied them, so Zhuya rebelled every few years.
+In the third year of the Yuan Dynasty, Emperor Yuan finally abolished Zhuya County.
+Zhuya was established as a county for a total of sixty-five years.
+When Wang Mang assisted the government, in the second year of the Yuan Dynasty, Huang Zhiguo from the south of Rinan County came to donate rhinos.
+Although there are counties and counties in the areas under the jurisdiction of Jiaoshi, the languages ​​​​are different and require translation before communication can occur.
+The people wrapped there are like animals, there is no distinction between old and young.
+They put their hair in a bun at the neck, bare their feet, and covered their bodies with a cloth from head to bottom.
+
+summary:
+summary line 3: During Emperor Huan's reign, Wuling Man Zhanshan rebelled, and Changsha barbarians looted counties with over 10,000 people. Wuling barbarians invaded Jiangling, causing officials to flee. Du Shang and Feng Yu were sent to pacify them. In Emperor Ling's third year, Wuling barbarians rebelled again. The Book of Rites describes southern barbarians as having tattooed foreheads and mixed bathing customs. In Kanren country, firstborn children were eaten, with the king receiving portions. Yueshang Kingdom sent white pheasants via elephant during Zhou Gong's regency. After Zhou's decline, Chu made Baiyue pay tribute. Qin established Nanhai, Guilin, and Xiangjun. Han conquered Nanyue in Yuanding's fifth year, establishing nine counties. Zhuya and Dan'er counties were on an island where chiefs pierced their ears to hang objects. After repeated rebellions, Zhuya was abolished in Yuan's third year.
+
+Chunk 9: 
+original: 
+于是领表悉平。
+肃宗元和元年，日南徼外蛮夷究不事人邑豪献生犀、白雉。
+和帝永元十二年夏四月，日南、象林蛮夷二千余人寇掠百姓，燔烧官寺，郡县发兵讨击，斩其渠帅，余众乃降。
+于是置象林将兵长史，以防其患。
+安帝永初元年，九真徼外夜郎蛮夷举土内属，开境千八百四十里。
+元初二年，苍梧蛮夷反叛。明年，遂招诱郁林、合浦蛮汉数千人攻苍梧郡。
+邓太后遣侍御史任奉诏赦之，贼皆降散。
+延光元年，九真徼外蛮贡献内属。
+三年，日南徼外蛮复来内属。
+顺帝永建六年，日南徼外叶调王便遣使贡献，帝赐便金印紫绶。
+永和二年，日南、象林徼外蛮夷区怜等数千人攻象林县，烧城寺，杀长吏。
+交阯刺史樊演发交阯、九真二郡兵万余人救之。
+兵士惮远役，遂反，攻其府。
+二郡虽击破反者，而贼势转盛。
+会侍御史贾昌使在日南，即与州郡并力讨之，不利，遂为所攻。
+围岁余而兵谷不继，帝以为忧。
+明年，召公卿百官及四府掾属，问其方略，皆议遣大将，发荆、杨、兗、豫四万人赴之。
+translation: 
+In this way, everything outside the ridge was pacified.
+In the first year of the Yuanhe period of Emperor Suzong, the chiefs of the barbarian tribes outside the southern border of Japan presented live rhinos and white pheasants.
+In the summer and April of the twelfth year of Emperor Yongyuan, more than 2,000 barbarians from Rinan and Xianglin invaded, looted the people, and burned down the government offices. The prefectures and counties sent troops to attack and killed their leaders, and the remaining troops surrendered.
+So the imperial court established a history of generals and soldiers in Xianglin to prevent the barbarians from harming them.
+In the first year of Emperor An's Yongchu reign, the Yelang barbarians outside the Jiuzhen border surrendered all their territory, allowing the Han Dynasty to expand its territory by 1,840 miles.
+In the second year of the Yuan Dynasty, the barbarians in Cangwu rebelled. The next year, they summoned and lured thousands of barbarians and Han people from Yulin and Hepu to attack Cangwu County.
+Empress Dowager Deng sent Ren Lian, the imperial censor, to issue an edict to pardon the rebels, and all the bandits surrendered and dispersed.
+In the first year of Yanguang, the barbarians outside the Jiuzhen border paid tribute and submitted.
+Three years later, barbarians from outside Japan's southern border came to submit again.
+In the sixth year of Yongjian reign of Emperor Shun, King Ye Tiao from outside the southern border of Japan sent an envoy to pay tribute, and the emperor gave King Ye Tiao a gold seal and purple ribbon.
+In the second year of Yonghe, thousands of people including Lian Lian, a barbarian outside the border of Yunnan and Xianglin, attacked Xianglin County, burned down the city government offices, and killed county and county officials.
+Fan Yan, the governor of Jiaosha, mobilized more than 10,000 troops from Jiaodu and Jiuzhen counties to rescue Xianglin.
+The soldiers were afraid of the long distance to fight, so they rebelled and attacked the county government.
+Although the two counties defeated the rebels, the bandits became more powerful.
+It happened that Jia Chang, the imperial censor, was on an envoy in Danzhi. He immediately joined forces with the prefectures and counties to conquer the bandits. The battle went unfavorably, and he was attacked by barbarians.
+They had been surrounded for more than a year and the emperor was worried about the lack of food for their troops.
+The next year, he summoned the ministers and ministers of the four prefectures and asked them about their strategy. The ministers all said that they would send generals to recruit 40,000 troops from Jingzhou, Yangzhou, Yanmago, and Yuye to rush there.
+
+summary:
+summary line 4: Wang Mang received rhino tributes. Guangwu中兴时期, Xiguang and Ren Yan taught farming and established marriage rites in Jiaozhi. In Jianwu's twelfth year, Zhang You submitted. In the sixteenth year, Zheng Bian rebelled, capturing sixty-five cities. Ma Yuan defeated her in the eighteenth year. During Emperor Suzong's Yuanhe period, barbarian chiefs presented rhinos and pheasants. In Yongyuan's twelfth year, Rinan barbarians attacked, and the court established military posts. In Yongchu's first year, Yelang barbarians surrendered territory. During Emperor Shun's Yongjian period, King Ye Tiao paid tribute. In Yonghe's second year, Lian Lian attacked Xianglin. Li Gu advised against sending troops from distant provinces, recommending local officials instead. Zhu Liang and Zhang Qiao were appointed, pacifying the region. During Emperor Huan's reign, Zhu Da rebelled, and Xia Fang pacified them. In Emperor Ling's third year, Gu Yong recruited 100,000 Wuyou people.
+
+Chunk 14: 
+original: 
+至建武二十三年，南郡山蛮雷迁等始反叛，寇掠百姓，遣武威将军刘尚将万余人讨破之，徙其种人七千余口置江夏界中，今沔中蛮是也。
+和帝永元十三年，巫蛮许圣等以郡收税不均，怀怨恨，遂屯聚反叛。
+明年夏，遣使者督荆州诸郡兵万余人讨之。
+圣等依凭阻隘，久不破。
+诸军乃分道并进，或自巴郡、鱼数路攻之，蛮乃散走，斩其渠帅。乘胜追之，大破圣等。
+圣等乞降，复悉徙置江夏。
+灵帝建宁二年，江夏蛮叛，州郡讨平之。
+光和三年，江夏蛮复反，与庐江贼黄穰相连结，十余万人，攻没四县，寇患累年。
+庐江太守陆康讨破之，余悉降散。
+板蛮夷者，秦昭襄王时，有一白虎，常从群虎数游秦、蜀、巴、汉之境，伤害千余人。
+昭王乃重募国中有能杀虎者，赏邑万家，金百镒。
+时，有巴郡阆中夷人，能作白竹之弩，乃登楼射杀白虎。
+昭王嘉之，而以其夷人，不欲加封，乃刻石盟要，复夷人顷田不租，十妻不算，伤人者论，杀人者得以钱赎死。
+盟曰： 秦犯夷，输黄龙一双；夷犯秦，输清酒一钟。
+夷人安之。
+至高祖为汉王，发夷人还伐三秦。
+秦地既定，乃遣还巴中，复其渠帅罗、朴、督、鄂、度、夕、龚七姓，不输租赋，余户乃岁入賨钱，口四十。
+translation: 
+In the 23rd year of Jianwu, Lei Qian and others from Lushan Mountain in Nanjun began to rebel and invade and plunder the people. The imperial court sent Wuwei General Liu Shang to lead more than 10,000 people to defeat Lei Qian, and moved more than 7000 Meishan barbarians to Jiangxia County, which is now the Mianzhong Barbarians.
+In the thirteenth year of Emperor Yongyuan's reign, Wuman Xu Sheng and others believed that the county governor's tax collection was uneven, and they were resentful, so they gathered to rebel.
+In the summer of the next year, the imperial court sent envoys to inspect the troops of more than 10,000 counties in Jingzhou to attack Xu Sheng.
+Because Xu Sheng and others relied on the dangerous terrain, they could not capture it for a long time.
+So the troops from various groups advanced in different directions, and some attacked from Bajun and Yufu. The barbarians dispersed and fled. The Han army killed the barbarian leader, took advantage of the victory and pursued them, and defeated Xu Sheng and others.
+Xu Sheng and others begged to surrender, so they were all relocated to Jiangxia again.
+In the second year of Emperor Ling's reign, the Jiangxia barbarians rebelled and were conquered and put down by the prefectures and counties.
+In the third year of Guanghe's reign, the Jiangxia barbarians rebelled again and joined forces with the Lujiang bandit Huang Chang. They had more than 100,000 people and captured four counties. The invasion lasted for several years.
+Lu Kang, the governor of Lujiang, conquered and defeated Jiangxia Man and Huang Zhang, and the others surrendered and collapsed.
+Banmei barbarians, during the reign of King Zhaoxiang of Qin, there was a white tiger that often followed other tigers to the Qin, Shu, Ba, and Han territories many times and injured more than a thousand people.
+King Zhao then recruited anyone in the country who could kill the tiger with a heavy reward, and was given a fiefdom of 10,000 households and one hundred yi gold.
+At that time, there was a Yi man from Yanzhong in Bajun who could make a strong bow from white bamboo. He climbed up a high building and shot the white tiger to death with an arrow.
+King Zhao commended him, but because he was a barbarian, he did not want to seal him, so he carved a stone covenant and treated the barbarians preferentially. He was sealed off to a hectare of land without renting tax, and even if he had ten wives, he would not pay the settlement fee.
+The two sides made an agreement: If the Qin invades the Yi people, give the Yi people a pair of brass dragons; if the Yi people invade the Qin country, give them a cup of pure wine.
+The Yi people kept their covenant safely.
+When Emperor Gaozu became the king of Han, he mobilized the Yi people to attack the Three Qin Dynasties.
+The Sanqin area had been pacified, so the Yi people were sent back to Bazhong, and their leaders, Luo, Pu, Du, E, Du, Xi, and Gong, were exempted from rent and taxes. Other households paid 40 qian per year.
+
+summary:
+summary line 5: The Bajunnanjunman originated from Wuluo Zhongli Mountain, with five surnames. Ba's son Wu Xiang became king by hitting a stone cave with a sword and floating a clay boat. He married a salt goddess but later shot her. After death, his soul became a white tiger. King Hui of Qin made Ba leaders marry Qin women. During Han, Lei Qian rebelled, and Liu Shang moved 7,000 Meishan barbarians to Jiangxia. In Yongyuan's thirteenth year, Xu Sheng rebelled over taxes and was defeated. Banmei barbarians originated when a Yi man shot a white tiger for King Zhao of Qin. Emperor Gaozu mobilized them to attack the Three Qins, creating the Bayu Dance. During Emperor Huan's reign, they rebelled multiple times. In Guanghe's second year, they rebelled again. Cheng Bao advised that oppressive officials caused the rebellion, and the emperor sent Cao Qian to pardon them.
+
+Chunk 19: 
+original: 
+以广汉文齐为太守，造起陂池，开通溉灌，垦田二千余顷。
+率厉兵马，修障塞，降集群夷，甚得其和。
+及公孙述据益土，齐固守拒险，述拘其妻子，许以封侯，齐遂不降。
+闻光武即位，乃间道遣使自闻。
+蜀平，征为镇远将军，封成义侯。
+于道卒，诏为起祠堂，郡人立庙祀之。
+建武十八年，夷渠帅栋蚕与姑复、榆、栋、连然、滇池、建伶、昆明诸种反叛，杀长吏。
+益州太守繁胜与战而败，退保朱提。
+十九年，遣武威将军刘尚等发广汉、犍为、蜀郡人及朱提夷，合万三千人击之。
+尚军遂度泸水，入益州界。
+群夷闻大兵至，皆弃垒奔走，尚获其赢弱、谷、畜。
+二十年，进兵与栋蚕等连战数月，皆破之。
+明年正月，追至不韦，斩栋蚕帅，凡首虏七千余人，得生口五千七百人，马三千匹，牛羊三万余头，诸夷悉平。
+肃宗元和中，蜀郡王追为太守，政化尤异。有神马四匹出滇池河中，甘露降，白乌见，始兴起学校，渐迁其俗。
+灵帝熹平五年，诸夷反叛，执太守雍陟。
+遣御史中丞朱龟讨之，不能克。
+朝议以为郡在边外，蛮夷喜叛，劳师远役，不如弃之。
+太尉椽巴郡李颙建策讨伐，乃拜颙益州太守，与刺史庞芝发板蛮击破平之。还，得雍陟。
+颙卒后，夷人复叛，以广汉景毅为太守，讨定之。
+毅初到郡，米斛万钱，渐以仁恩，少年间，米至数十云。
+translation: 
+Wang Mang appointed Wen Qi, a native of Guanghan, as the prefect. Wen Qi built ponds, dredged irrigation, and reclaimed more than two thousand hectares of land.
+He led troops and horses to drill, built castles at strategic locations on the frontier, recruited and gathered barbarians, and was able to make the people docile.
+When Gongsun Shu occupied Yizhou territory, Wen Qi stood firm and relied on the dangerous terrain to resist Gongsun Shu. Gongsun Shu imprisoned his wife and children and promised to make him a marquis, but Wen Qi never surrendered.
+When he heard that Guangwu had ascended the throne, he sent an envoy to inform Guangwu from Xiaodao.
+After the Shu was pacified, Guangwu recruited him as General Zhenyuan and granted him the title of Marquis of Chengyi.
+Wen Qi died on the road. The emperor issued an edict to build an ancestral hall for him, and the people in the county built a temple to worship him.
+In the 18th year of Jianwu's reign, the leader of the Yi people, Dongcan, rebelled against the Gufu, Keyu, Qiaodong, Lianran, Dianchi, Jianling, and Kunming tribes and killed county and county officials.
+Fansheng, the prefect of Yizhou, failed in the battle with the Yi people and retreated to Zhuti.
+In the 19th year, the imperial court sent General Liu Shang and others to mobilize people from Guanghan, Jianwei, Shu counties and Zhu Tiyi, with a total of 13,000 people to attack the Yi people.
+Liu Shang's army crossed the Lu River and entered Yizhou.
+When the barbarians from all tribes heard that the army was coming, they all abandoned their fortresses and fled. Liu Shang captured the old and weak barbarians and obtained grain and livestock.
+In the past twenty years, Liu Shang Jinbing fought with Dong Can and others for several months and defeated them all.
+In the first month of the second year, Liu Shang pursued Buwei County and killed the leader of Dongcan. He killed more than 7,000 Yi people and gained 5,700 men, 3,000 horses, and more than 30,000 cattle and sheep. All the Yi tribes were pacified.
+During the Yuanhe period of Emperor Suzong, Wang Zhui, a native of Shu County, served as the prefect, and his political achievements and education were particularly outstanding. Four magical horses appeared from the water of Dianchi Lake, nectar fell from the sky, and white crows appeared. Wang Zhui began to set up schools and gradually changed the customs of Nahuo.
+In the fifth year of Xiping reign of Emperor Ling, various Yi tribes rebelled and captured the prefect Yongzhi.
+朝廷派御史中丞朱龟征讨，不能取胜。
+The imperial court considered that Yizhou County was outside the border, and the barbarians were accustomed to rebellion. It was better to abandon Yizhou than to let the army tire out and fight in distant places.
+Taiwei Li Yi, a native of Yuba County, decided to conquer, so he appointed Li Yi as the governor of Yizhou. He and Yizhou Assassin Pangzhi mobilized the Banmei barbarians, defeated and pacified the barbarians, and recaptured Yongzhi.
+After Li Yi's death, the Yi people rebelled again. The imperial court appointed Jing Yi, a native of Guanghan, as the governor of Yizhou County. He conquered and pacified the Yi people.
+When Jing Yi first arrived in Yizhou, a handful of rice sold for 10,000 yuan. Jing Yi gradually guided him with benevolence and kindness. Within a few years, a handful of rice sold for several dozen yuan.
+
+summary:
+summary line 6: The Yelang Kingdom originated from a woman finding a baby in bamboo. Emperor Wu established Yangke County. The King of Dian descended from Zhuang Qi. During Wang Mang's chaos, Dongcan rebelled. Wen Qi resisted Gongsun Shu and later submitted to Guangwu. In Jianwu's eighteenth year, Dongcan rebelled again, and Liu Shang pacified them. During Emperor Ling's Xiping period, Yi tribes rebelled, capturing the prefect. Li Yi and Pangzhi defeated them. The Ailaoyi originated from Sha Yi, who gave birth to ten sons after touching a submerged tree. In Jianwu's twenty-third year, King Xianli attacked Lu Dad but was defeated by storms. In the twenty-seventh year, Xianli surrendered. In Yong's twelfth year, King Liu Maung submitted with 553,711 people. Yongchang County was established. During Emperor Huan's reign, King Leilao rebelled and was killed. In Yongyuan's sixth year, King Mo Yan presented rhinos and elephants. In Yongning's first year, King Yongyou Diao presented musicians who performed illusions.
+
+Chunk 24: 
+original: 
+豪帅放纵，难得制御。
+王莽时，郡守枚根调邛人长贵，以为军候。
+更始二年，长贵率种人攻杀枚根，自立为邛穀王。领太守事。
+又降于公孙述。
+述败，光武封长贵为邛穀王。
+建武十四年，长贵遣使上三年计，天子即授越巂太守印绶。
+十九年，武威将军刘尚击益州夷，路由越巂。
+长贵闻之，疑尚既定南边，威法必行，己不得自放纵，即聚兵起营台，招呼诸君长，多酿毒酒，欲先以劳军，因袭击尚。
+尚知其谋，即分兵先据邛都，遂掩长贵诛之，徙其家属于成都。
+永平元年，姑复夷复叛，益州刺史发兵讨破之，斩其渠帅，传首京师。
+后太守巴郡张翕，政化清平，得夷人和。
+在郡十七年，卒，夷人爱慕，如丧父母。
+苏祈叟二百余人，赍牛、羊送丧，至翕本县安汉，起坟祭祀。
+诏书嘉美，为立祠堂。
+安帝元初三年，郡徼外夷大羊等八种，户三万一千，口十六万七千六百二十，慕义内属。
+时郡县赋敛烦数，五年，卷夷大牛种封离等反畔，杀遂久令。
+明年，永昌、益州及蜀郡夷皆叛应之，众遂十余万，破坏二十余县，杀长吏，燔烧邑郭，剽略百姓，骸骨委积，千里无人。
+诏益州刺史张乔选堪能从事讨之。
+乔乃遣从事杨竦将兵至榆击之，贼盛未敢进，先以诏书告示三郡，密征求武士，重其购赏。
+乃进军与封离等战，大破之，斩首三万余级，获生口千五百人，资财四千余万，悉以赏军士。
+封离等惶怖，斩其同谋渠帅，诣竦乞降，竦厚加慰纳。
+其余三十六种皆来降附。
+竦因奏长吏奸猾、侵犯蛮夷者九十人，皆减死。
+州中论功未及上，会竦病创卒，张乔深痛惜之，乃刻石勒铭，图画其像。
+天子以张翕有遗爱，乃拜其子湍为太守。
+夷人欢喜，奉迎道路。曰： 郎君仪貌类我府君。
+后湍颇失其心，有欲叛者，诸夷耆老相晓语曰： 当为先府君故。
+translation: 
+The Qiongdu Yi chieftains were very indulgent and it was difficult to control them.
+During the reign of Wang Mang, the governor of the county, Mei Gen, recruited a noble from Qiondu and appointed him as a military marquis.
+In the second year of Gengshi, Changgui led his tribe to attack and killed Meigen, and established himself as King of Qiong Valley, exercising the power of prefect.
+Later he surrendered to Gongsun Shu.
+After Gongsun Shu failed, Guangwu granted Changgui the title of King of Qiong Valley.
+In the fourteenth year of Jianwu's reign, Changgui sent an envoy to present three years' accounting records to the court. Guangwu immediately awarded Changgui the seal and ribbon of the Yuelun Prefect.
+In the 19th year, General Liu Shang of Wuwei attacked Yizhou Yi and passed through Yuelun.
+After Changgui learned about it, he suspected that once Liu Shang pacified the south, authoritarian laws would be implemented, and he could not indulge at will. So he gathered people to build a fortress, called the leaders of various ministries, and brewed a large amount of poisonous wine. He wanted to use the poisonous wine to comfort the army first, and then took the opportunity to attack Liu Shang.
+Liu Shang knew Chang Gui's plan, and immediately dispatched troops to occupy Qiongdu, then suddenly attacked Chang Gui, killed him, and moved his family to Chengdu.
+In the first year of Yongping, Gu Fuyi rebelled again. The governor of Yizhou sent troops to conquer, defeated Gu Fuyi, killed Ding and their leader, and sent their heads to the capital.
+Later, Zhang Xi, a native of Bajun, was the prefect. His political affairs and education were clean and fair, and he made the barbarians harmonious.
+Zhang Xi had been the governor for seventeen years. When he died, the Yi people loved and admired him as if they had lost their parents.
+More than 200 elderly people from Suqi County brought cattle and sheep to mourn Zhang Xi's birthplace, Anhan County, to build a tomb to worship him.
+The emperor issued an edict to praise Zhang Xi and built an ancestral hall for him.
+In the third year of Emperor An's reign, eight tribes including Dayang and other Yi people outside the Yue Mao border, with a total of 31,000 households and 167,620 people, admired virtue and righteousness and submitted.
+At that time, there were many taxes in counties and counties. In the fifth year of the Yuan Dynasty, Zhuanyi Danniu Zhong Fengli and others rebelled and killed Sui Jiuling.
+The next year, the Yi people in Yongchang, Yizhou and Shu counties all rebelled and responded to the siege. Their tribesmen numbered more than 100,000. They destroyed more than 20 counties, killed county officials, burned cities and towns, plundered the people, piled up corpses, and left no trace of human beings within a thousand miles.
+The emperor sent a letter to Zhang Qiao, the governor of Yizhou, to select competent people to conquer the barbarians.
+Zhang Qiao then sent his servant Yang Song to lead troops to Keyu to attack the bandits. However, the bandits were strong and Yang Song did not dare to advance. He first informed the three counties of Shao and secretly recruited warriors with heavy rewards.
+Then he advanced to fight with Feng Li and others, and defeated Feng Li. He killed more than 30,000 people, captured 1,500 people alive, and gained more than 40 million in money, all of which was used to reward the soldiers.
+Feng Li and others were frightened, killed the leader of the conspirators, and went to Yang Song to beg for surrender. Yang Song gave them special comfort and acceptance.
+The other thirty-six tribes came to surrender.
+Therefore, Yang Song reported that ninety people among the officials who were cunning and had invaded the barbarians were reduced to death.
+Before the merit evaluation in the state could be reported to the court, Yang Song happened to be injured and died. Zhang Qiao was very sad and regretful, so he carved a stone to record his merit and painted a portrait of Yang Song.
+Because Zhang Xi had left a benevolent impression among the barbarians, the emperor appointed his son Zhang Tuan as the prefect.
+The Yi people were very happy and greeted him on the road, saying: "You look very much like our governor."
+Later, Zhang Tuan lost the support of the people, and some Yi people wanted to rebel. An old man among the Yi people told them: Just for the sake of the former governor.
+
+summary:
+summary line 7: The Qiongdu Yi were developed by Emperor Wu. During Wang Mang's reign, Changgui killed the prefect and later submitted to Gongsun Shu. Guangwu made him king, but Liu Shang killed him in Jianwu's nineteenth year. During Emperor An's reign, eight Yi tribes submitted. In Yuan's fifth year, Feng Li rebelled, and Zhang Qiao sent Yang Song to defeat him. The Yi capital was developed by Emperor Wu. During Yongping, Zhu Fu pacified over 100 countries including Bailang, with over 6 million people submitting. They presented three poems. During Emperor Ling's reign, the vassal state of Shu was changed to Hanjia. Ran Chiyi was developed by Emperor Wu as Wenshan County. The climate was cold, and Yi people worked in Shu during winter. They built stone houses called "Qiong Cong." The land produced wheat, livestock, and medicinal materials. Zhiwuya was developed in Yuangu's sixth year as Wudu County. The Di people were brave and greedy. During Yuanfeng's third year, they rebelled and were moved to Jiuquan. During Jianwu, the Di people surrendered to Han after Gongsun Shu's defeat.
+
+Chunk 30: 
+original: 
+若乃藏山隐海之灵物，沉沙栖陆之玮宝，莫不呈表怪丽，雕被宫幄焉。
+又其賨幏火毳、驯禽封兽之赋，軨积于内府；夷歌巴舞、殊音异节之技，列倡于外门。
+岂柔服之道，必足于斯？
+然亦云致远者矣。
+蛮夷虽附阻岩谷，而类有土居，连涉荆、交之区，布护巴、庸之外，不可量极。
+然其凶勇狡算，薄于羌狄，故陵暴之害，不能深也。
+西南之徼，尤为劣焉。
+故关守永昌，肇自远离，启土立人，至今成都焉。
+赞曰：百蛮蠢居，仞彼方徼。
+镂体卉衣，凭深阻峭。
+亦有别夷，屯彼蜀表。
+参差聚落，纡余岐道。
+往化既孚，改襟输宝。俾建永昌，同编亿兆。
+translation: 
+As for the divine objects hidden deep in the mountains, hidden under the sea, and the treasures buried in sand and stone and inhabiting the land, they all showed strange and gorgeous features and were decorated in the palace curtains.
+Tributes such as warnings, fire orders, domesticated birds and tall beasts were gathered in the imperial treasury; arts with completely different sound and rhythm, such as Yi people's songs and Bayu dances, were displayed outside the palace gate.
+Is the way of submission complete at this point?
+However, it can also be said that it has attracted the submission of races from far away.
+Although the barbarians lived on the mountains, rocks and valleys, most of them lived in certain areas, connected to Jingzhou and Jiaozhou areas, and were distributed and guarded outside Bajun and Yong. It is impossible to calculate their number.
+However, the barbarians were ferocious and cunning and slightly weaker than the Qiang and Di, so the harm caused by their plundering and cruelty could not go far.
+The barbarians outside the southwest border are especially weak.
+Therefore, setting up a garrison in Yongchang was initially to guard against the barbarians from far away. Later, it opened up the land and made the people self-reliant. Now it has become a city.
+Zan said: The area inhabited by various barbarians is very small, but it is spread all over the four borders.
+Sculpted bodies, wearing straw clothes, relying on the deep and rugged mountain life.
+There are also some Yi people living in the border areas of Shu County.
+The scattered tribal villages have turned to Zhou Qi's path of morality and justice.
+Once they gained trust by going to teach, the barbarians changed their clothes and brought treasures, which led the imperial court to establish Yongchang County and include the barbarians in household registers along with hundreds of millions of people in the mainland.
+
+summary:
+summary line 8: The argument states that expeditions against barbarians generally succeeded within a year, opening lands of diverse races. Education reached all areas where the sun rises and sets. Although barbarians surrendered and rebelled inconsistently, those with various customs submitted to the Central Plains. Their names were recorded in official offices, and their population numbered in the millions. Precious objects from mountains and seas decorated palace curtains. Tributes of rare birds and beasts filled the imperial treasury. Barbarian songs and dances were performed outside the palace gate. The barbarians lived in mountainous areas connected to Jingzhou and Jiaozhou, distributed outside Bajun and Yong. Their ferocity was slightly weaker than Qiang and Di, so their plundering could not go far. Southwestern barbarians were especially weak. Yongchang garrison was established to guard against distant barbarians, later opening land and becoming a city. The eulogy notes that various barbarians spread across four borders, living in deep mountains, with some in Shu County border areas. Once they gained trust through teaching, they changed customs and brought treasures, leading to Yongchang County's establishment and their inclusion in household registers.
+

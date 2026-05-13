@@ -1,0 +1,124 @@
+Summary uses chunk [0, 0, 1, 2]
+
+Chunk 0: 
+original: 
+马衍子豹建武末，上疏自陈曰：臣伏念高祖之略而陈平之谋，毁之则疏，誉之则亲。
+以文帝以明而魏尚之忠，绳之以法则为罪，施之以德则为功。
+逮至晚世，董仲舒言道德，见妒于公孙弘，李广奋节于匈奴，见排于卫青，此忠臣之常所为流涕也。
+臣衍自惟微贱之臣，上无无知之荐，下无冯唐之说，乏董生之才，寡李广之势，而欲免谗口，济怨嫌，岂不难哉！
+臣衍之先祖，以忠贞之故，成私门之祸。
+而臣衍复遭扰攘之时，值兵革之际，不敢回行求时之利，事君无倾邪之谋，将帅无虏掠之心。
+卫尉阴兴，敬慎周密，内自修敕，外远嫌疑，故敢与交通。
+兴知臣之贫，数欲本业之。
+臣自惟无三益之才，不敢处三损之地，固让而不受之，昔在更始，太原执货财之柄，居苍卒之间，据位食禄二十余年，而财产岁狭，居处日贫，家无布帛之积，出无舆马之饰。
+于今遭清明之时，饬躬力行之秋，而怨仇丛兴，讥议横世。
+盖富贵易为善，贫贱难为工也。
+疏远垅亩之臣，无望高阙之下，惶恐自陈，以救罪尤。
+translation: 
+In the last years of Jianwu, Feng Yan Shangshu said to himself: I think of Gaozu's talents and strategies and Chen Ping's wisdom. If I listen to slander, Chen Ping will be alienated. If I listen to praise, Chen Ping will be close to Gaozu.
+With Emperor Wen's wisdom and Wei Shang's loyalty, those who are brought to justice will become criminals, and those who are treated with virtue will become heroes.
+In his later life, Dong Zhongshu emphasized morality and was jealous of Gongsun Hong; Li Guang fought hard to fight against the Huns, but was rejected by Wei Qing. These are all tragedies for which loyal officials often cried bitterly.
+I, Feng Yan, think to myself that I am just a humble minister. I don’t have the recommendation of Wei Wuwu above, the persuasion of Feng Tang below, the talent and learning of Dong Zhongshu, and the momentum of Li Guang. Isn’t it difficult to avoid slander and avoid resentment?
+Feng Shen, the ancestor of Chen Feng Yan, was so loyal and unyielding that he actually caused trouble in his private family.
+And when the minister Feng Yan encountered disturbances and revolutions, he did not dare to seek the benefits of the times. His servants had no evil plans, and the generals had no plans to plunder.
+Wei Wei is Yinxing, respectful and careful, can cultivate himself internally, and avoid suspicion externally, so I dare to associate with him.
+Yin Xing knew that I was poor and wanted to leave money to establish my basic livelihood several times.
+I think to myself that my talent is of no use to the three friends, and I dare not be in a position where it will harm the three friends, and I resolutely refuse to accept it. In the past, during the Gengshi period, the troops stationed in Taiyuan held the power of goods and property, living in a hurry, and held the position for more than 20 years. However, the property was decreasing year by year, and the days were becoming poorer day by day. There was no savings of cloth and silk at home, and there was no decoration for horses when going out.
+Now we are facing the period of Qingming, a time when we are reorganizing ourselves and striving to do good deeds, but resentments are rising and ridicule is flowing across the world.
+It is true that it is easy to do good things if you are rich, but it is difficult to do good things if you are poor or lowly.
+I am a minister who is alienated from my mother-in-law and has no hope of serving in the imperial court. I am just afraid to confess my sins in order to save myself from my sins.
+
+summary:
+summary line 0: In the final years of the Jianwu era, Feng Yan submitted a memorial reflecting on historical figures. He compared Gaozu’s talents and Chen Ping’s wisdom, noting how slander could alienate Chen Ping while praise could draw him closer. He also referenced Emperor Wen’s wisdom and Wei Shang’s loyalty, observing that justice could turn people into criminals while virtue could make them heroes. Feng Yan lamented the tragedies of loyal officials like Dong Zhongshu, who was jealous of Gongsun Hong, and Li Guang, who was rejected by Wei Qing despite his efforts against the Huns. Feng Yan considered himself a humble minister without the recommendations of Wei Wuwu or Feng Tang, nor the talents of Dong Zhongshu or Li Guang, making it difficult to avoid slander and resentment.
+
+Chunk 0: 
+original: 
+马衍子豹建武末，上疏自陈曰：臣伏念高祖之略而陈平之谋，毁之则疏，誉之则亲。
+以文帝以明而魏尚之忠，绳之以法则为罪，施之以德则为功。
+逮至晚世，董仲舒言道德，见妒于公孙弘，李广奋节于匈奴，见排于卫青，此忠臣之常所为流涕也。
+臣衍自惟微贱之臣，上无无知之荐，下无冯唐之说，乏董生之才，寡李广之势，而欲免谗口，济怨嫌，岂不难哉！
+臣衍之先祖，以忠贞之故，成私门之祸。
+而臣衍复遭扰攘之时，值兵革之际，不敢回行求时之利，事君无倾邪之谋，将帅无虏掠之心。
+卫尉阴兴，敬慎周密，内自修敕，外远嫌疑，故敢与交通。
+兴知臣之贫，数欲本业之。
+臣自惟无三益之才，不敢处三损之地，固让而不受之，昔在更始，太原执货财之柄，居苍卒之间，据位食禄二十余年，而财产岁狭，居处日贫，家无布帛之积，出无舆马之饰。
+于今遭清明之时，饬躬力行之秋，而怨仇丛兴，讥议横世。
+盖富贵易为善，贫贱难为工也。
+疏远垅亩之臣，无望高阙之下，惶恐自陈，以救罪尤。
+translation: 
+In the last years of Jianwu, Feng Yan Shangshu said to himself: I think of Gaozu's talents and strategies and Chen Ping's wisdom. If I listen to slander, Chen Ping will be alienated. If I listen to praise, Chen Ping will be close to Gaozu.
+With Emperor Wen's wisdom and Wei Shang's loyalty, those who are brought to justice will become criminals, and those who are treated with virtue will become heroes.
+In his later life, Dong Zhongshu emphasized morality and was jealous of Gongsun Hong; Li Guang fought hard to fight against the Huns, but was rejected by Wei Qing. These are all tragedies for which loyal officials often cried bitterly.
+I, Feng Yan, think to myself that I am just a humble minister. I don’t have the recommendation of Wei Wuwu above, the persuasion of Feng Tang below, the talent and learning of Dong Zhongshu, and the momentum of Li Guang. Isn’t it difficult to avoid slander and avoid resentment?
+Feng Shen, the ancestor of Chen Feng Yan, was so loyal and unyielding that he actually caused trouble in his private family.
+And when the minister Feng Yan encountered disturbances and revolutions, he did not dare to seek the benefits of the times. His servants had no evil plans, and the generals had no plans to plunder.
+Wei Wei is Yinxing, respectful and careful, can cultivate himself internally, and avoid suspicion externally, so I dare to associate with him.
+Yin Xing knew that I was poor and wanted to leave money to establish my basic livelihood several times.
+I think to myself that my talent is of no use to the three friends, and I dare not be in a position where it will harm the three friends, and I resolutely refuse to accept it. In the past, during the Gengshi period, the troops stationed in Taiyuan held the power of goods and property, living in a hurry, and held the position for more than 20 years. However, the property was decreasing year by year, and the days were becoming poorer day by day. There was no savings of cloth and silk at home, and there was no decoration for horses when going out.
+Now we are facing the period of Qingming, a time when we are reorganizing ourselves and striving to do good deeds, but resentments are rising and ridicule is flowing across the world.
+It is true that it is easy to do good things if you are rich, but it is difficult to do good things if you are poor or lowly.
+I am a minister who is alienated from my mother-in-law and has no hope of serving in the imperial court. I am just afraid to confess my sins in order to save myself from my sins.
+
+summary:
+summary line 1: Feng Yan recounted his ancestor Feng Shen’s loyalty and the troubles it caused. During disturbances, Feng Yan avoided seeking personal gain, and his servants and generals had no evil plans. He associated with Wei Wei Yinxing, who was respectful and cautious, and who offered money to help Feng Yan establish a livelihood, but Feng Yan refused, believing his talents were insufficient. He noted that during the Gengshi period, he held a position for over twenty years but his property decreased, leaving him poor. In the Qingming period, he faced resentment and ridicule, acknowledging that it is easier for the rich to do good than the poor.
+
+Chunk 1: 
+original: 
+书奏，犹以前过不用。
+衍不得志，退而作贼，又自论曰：冯子以为夫人之德，不碌碌如玉，落落如石。
+风兴云蒸，一龙一蛇，与道翱翔，与时变化，夫岂守一节哉？
+用之则行，舍之则臧，进退无主，屈申无常。
+故曰： 有法无法，因时为业，有度无度，与物趣舍。
+常务道德之实，而不求当世之名，阔略杪小之礼，荡佚人间之事。
+正身直行，恬然肆志。
+顾尝好俶傥之策，时莫能听用其谋，喟然长叹，自伤不遭。
+久栖迟于小官，不得舒其所怀。
+抑心折节，意凄情悲。
+夫伐冰之家，不利鸡豚之息；委积之臣，不操市井之利。
+况历位食禄二十余年，而财产益狭，居处益贫。
+惟夫君子之仕，行其道也。
+虑时务者不能兴其德，为身求者不能成其功，去而归家，复羁旅于州郡，身愈据职，家弥穷困，卒离饥寒之灾，有丧元子之祸。
+先将军葬渭陵，哀帝之崩也，营之以为园。
+translation: 
+After the book was submitted, it was still not used due to previous mistakes.
+Feng Yan was dissatisfied and retired to write poems. He commented to himself: Feng Zi believed that a person's virtue is neither like the mediocre appearance of jade nor the falling shape of stone.
+Storms and clouds arise, dragons and snakes soar together with the Tao, and change with the times. How can they stick to one law?
+If you use it, it will become popular; if you abandon it, you will avoid it. There will be no master in advancing or retreating, and it will be impermanent.
+Therefore, it is said: The laws and regulations, right and wrong, all follow the customs. Where things go, the laws follow; when things go, the laws violate them.
+Always pursue the truth of morality instead of pursuing fame in the world, get rid of small etiquette, and indulge in human affairs.
+Cultivate yourself and follow the right path, be at ease and indulge yourself as much as you want.
+I used to like excellent strategies, but in this era, strategies cannot be used. I sighed and lamented that I didn't meet them.
+For a long time, he has lived behind a small official and cannot show his arms.
+Suppress one's mood and submit to others, one's mood is desolate and the mood is sad.
+The families of high-ranking officials and well-paid people do not seek small profits; the ministers of accumulation do not care about the interests of merchants.
+What's more, he has been in office for more than 20 years, but his property has become less and less, and his life has become increasingly poor.
+This is when a gentleman is in power and follows his own path.
+Those who plan current affairs cannot flourish their virtues, and those who seek personal gain cannot achieve their merits. After leaving and returning home, he wandered and sojourned in prefectures and counties. He became more dependent on his work and his family became even poorer. As a result, he suffered from hunger and cold, and even lost his eldest son.
+The former general Feng Fengshi was buried in Weiling. After the death of Emperor Ai, he was included in the tomb of Emperor Ai.
+
+summary:
+summary line 2: After his memorial was ignored due to past mistakes, Feng Yan retired to write poems. He reflected on virtue, comparing it to jade or stone, and emphasized adapting to changing times. He criticized rigid adherence to laws and customs, advocating for moral truth over worldly fame. He lamented that his strategies were unused and that he remained a minor official for years, unable to display his abilities. His property diminished over twenty years, and he suffered hunger and cold, even losing his eldest son.
+
+Chunk 2: 
+original: 
+于是以新丰之东，鸿门之上，寿安之中，地势高敞，四通广大，南望郦山，北属泾渭，东瞰河华，龙门之阳，三晋之路，西顾酆鄗，周秦之丘，客观之墟，通视千里，览见旧都，遂定茔焉。
+退而幽居。
+盖忠臣过故墟而歔欷，孝子入旧室而哀叹。
+每念祖考，著盛德于前，垂鸿烈于后，遭时之祸，坟墓芜秽，春秋蒸尝，昭穆无列，年衰岁暮，悼无成功，将西田牧肥饶之野，殖生产，修孝道，营宗庙，广祭祀。
+然后阖门讲习道德，观览乎孔老之论，庶几乎松、乔之福，上陇阪，陟高冈，游精宇宙，流目八纮。
+历观九州山川之体，追览上古得失之风，愍道陵迟，伤德分崩。
+夫睹其终必原其始，故存其人而咏其道。
+惟吾志之所庶兮，固与俗其不同；既俶傥而高引兮，愿观其从容。显宗即位，又多短衍以文过其实，遂废于家。
+translation: 
+So to the east of Xinfeng, above Hongmen, in the middle of Shouan, the terrain is high and spacious, connected to the vastness on all sides, looking to the south of Mount Li, to the north of Jingwei, to the east of Hehua, to the south of Longmen, the road to the Three Jin Dynasties, to the west of Fenggao'an, the earth mountains of the Zhou and Qin Dynasties, the ruins of palaces and temples, with a broad field of vision, and the old capital can be seen, so it was designated as a cemetery.
+Retreat and live in seclusion.
+Loyal ministers will lament when passing by the old ruins, and filial sons will sigh with sadness when entering the old chamber.
+Every time I remember my ancestors, I established great virtues in front of me and passed down my great achievements to future generations. However, I suffer from the disasters of the current situation, the tombs are dirty, the spring and Autumn sacrifices are arranged in disorder, and the arrangement of father south and son north is disordered. At the end of the year, mourning the failure of their achievements, they will go to the fertile and fertile fields to the west to graze, breed and produce, repair filial piety, run the ancestral temple, and conduct sacrifices.
+Then close the door to lecture on morality, watch the remarks of Confucius and Laozi, and maybe enjoy the blessings of red pine nuts and Wang Ziqiao. Climb to Longban, climb to Gaogang, wander around the universe, and see beyond the world.
+Take a closer look at the landscape of Jiuzhou's mountains and rivers, and trace the ethos of gain and loss in ancient times.
+Anyone who sees its end must examine its origin, so we should preserve its people and chant their ways.
+Situated in the wilderness of Kyushu, and connected to the Five Mountains, there is a vague artistic conception that transcends the clouds. So I wrote a poem to express my self-reliance, and named its chapter "Xian Zhi". Xian Zhi means to express the bright and weathered feelings and reveal the mysterious thoughts. After Xianzong ascended the throne, many people said that Feng Yanwen was exaggerating, so he was abandoned at home.
+
+summary:
+summary line 3: Feng Yan chose a cemetery east of Xinfeng, on high ground with broad views, and retreated into seclusion. He mourned his ancestors’ virtues and the disorder of their tombs, planning to repair them and conduct sacrifices. He closed his door to lecture on morality, studying Confucius and Laozi, and sought spiritual blessings. He wrote a poem titled "Xian Zhi" to express his feelings, but after Xianzong ascended the throne, he was accused of exaggeration and abandoned. Feng Yan married a jealous woman who prevented him from raising a young wife, leaving him impoverished in old age. Despite this, he maintained his ambitions, refusing to seek high status or wealth. He died poor and old, leaving behind fifty works valued by Suzong. His son was Feng Bao.
+

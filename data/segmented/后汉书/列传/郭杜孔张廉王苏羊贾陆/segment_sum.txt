@@ -1,0 +1,863 @@
+Summary uses chunk [0, 0, 0, 2, 2, 6, 6, 8, 8, 9, 10, 12, 12, 14, 14, 15, 15, 16, 16, 17, 19]
+
+Chunk 0: 
+original: 
+郭字细侯，扶风茂陵人也。
+高祖父解，武帝时以任侠闻。
+父梵，为蜀郡太守。
+少有志行，哀、平间辟大司空府，三迁为渔阳都尉。
+王莽时为上谷大尹，迁并州牧。
+更始新立，三辅连被兵寇，百姓震骇，强宗右姓各拥众保营，莫肯先附。
+更始素闻名，征拜左冯翊，使镇抚百姓。
+世祖即位，拜雍州牧，再转为尚书令，数纳忠谏争。
+建武四年，出为中山太守。
+明年，彭宠灭，转为渔阳太守。
+渔阳既离王莽之乱，重以彭宠之败，民多猾恶，寇贼充斥。
+到，示以信赏，纠戮渠帅，盗贼销散。
+时，匈奴数抄郡界，边境苦之。
+整勒士马，设攻守之略，匈奴畏惮远迹，不敢复入塞，民得安业。
+在职五岁，户口增倍。
+后颍川盗贼群起，九年，征拜颍川太守。
+translation: 
+◆The biography of Guo Ji, named Xihou, was born in Maoling, Fufeng.
+Great-great-grandfather Guo Xie was famous as a knight during the reign of Emperor Wu.
+His father, Guo Fan, was the prefect of Shu County.
+Guo Ji had ambitions when he was young. During the reign of Emperor Ai and Emperor Ping, he was recruited into the Da Sikong Mansion and moved to Yuyang Duwei three times.
+At the time of Wang Mang, he was the Great Yin of Shanggu and moved to merge with the prefecture for animal husbandry.
+In the new era of Gengshi, the three auxiliaries were invaded by soldiers one after another. The people were shocked, and the powerful clans and surnames supported each other to defend their camps and refused to surrender first.
+When Gengshi Su heard of Guo Ji's name, he worshiped him as Zuo Fengyi and sent him to guard and appease the people.
+When Shizu ascended the throne, he paid homage to Yongzhou's pastor, and then became a minister, offering loyal advice several times.
+In the fourth year of Jianwu's reign, he became the prefect of Zhongshan.
+The next year, Peng Chong was eliminated and became the governor of Yuyang.
+Yuyang suffered both from Wang Mang's rebellion and from Peng Chong's defeat. The people were cunning and evil, and there were many thieves.
+After Guo Ji arrived, he showed his loyalty with punishment and reward, and killed the bandits and commanders, and the thieves disappeared.
+At that time, the Xiongnu harassed the county borders many times, and the border people suffered greatly.
+Guo Ji organized his troops and horses and set up offensive and defensive strategies. The Huns were afraid to stay away and did not dare to enter the border fortress again, so the border people were able to live and work in peace and contentment.
+After five years of working, the household registration will double.
+Later, a group of bandits emerged in Yingchuan. In the ninth year, Guo Ji was conquered and worshiped as the prefect of Yingchuan.
+
+summary:
+summary line 0: # Summaries of Historical Biographies
+
+Chunk 0: 
+original: 
+郭字细侯，扶风茂陵人也。
+高祖父解，武帝时以任侠闻。
+父梵，为蜀郡太守。
+少有志行，哀、平间辟大司空府，三迁为渔阳都尉。
+王莽时为上谷大尹，迁并州牧。
+更始新立，三辅连被兵寇，百姓震骇，强宗右姓各拥众保营，莫肯先附。
+更始素闻名，征拜左冯翊，使镇抚百姓。
+世祖即位，拜雍州牧，再转为尚书令，数纳忠谏争。
+建武四年，出为中山太守。
+明年，彭宠灭，转为渔阳太守。
+渔阳既离王莽之乱，重以彭宠之败，民多猾恶，寇贼充斥。
+到，示以信赏，纠戮渠帅，盗贼销散。
+时，匈奴数抄郡界，边境苦之。
+整勒士马，设攻守之略，匈奴畏惮远迹，不敢复入塞，民得安业。
+在职五岁，户口增倍。
+后颍川盗贼群起，九年，征拜颍川太守。
+translation: 
+◆The biography of Guo Ji, named Xihou, was born in Maoling, Fufeng.
+Great-great-grandfather Guo Xie was famous as a knight during the reign of Emperor Wu.
+His father, Guo Fan, was the prefect of Shu County.
+Guo Ji had ambitions when he was young. During the reign of Emperor Ai and Emperor Ping, he was recruited into the Da Sikong Mansion and moved to Yuyang Duwei three times.
+At the time of Wang Mang, he was the Great Yin of Shanggu and moved to merge with the prefecture for animal husbandry.
+In the new era of Gengshi, the three auxiliaries were invaded by soldiers one after another. The people were shocked, and the powerful clans and surnames supported each other to defend their camps and refused to surrender first.
+When Gengshi Su heard of Guo Ji's name, he worshiped him as Zuo Fengyi and sent him to guard and appease the people.
+When Shizu ascended the throne, he paid homage to Yongzhou's pastor, and then became a minister, offering loyal advice several times.
+In the fourth year of Jianwu's reign, he became the prefect of Zhongshan.
+The next year, Peng Chong was eliminated and became the governor of Yuyang.
+Yuyang suffered both from Wang Mang's rebellion and from Peng Chong's defeat. The people were cunning and evil, and there were many thieves.
+After Guo Ji arrived, he showed his loyalty with punishment and reward, and killed the bandits and commanders, and the thieves disappeared.
+At that time, the Xiongnu harassed the county borders many times, and the border people suffered greatly.
+Guo Ji organized his troops and horses and set up offensive and defensive strategies. The Huns were afraid to stay away and did not dare to enter the border fortress again, so the border people were able to live and work in peace and contentment.
+After five years of working, the household registration will double.
+Later, a group of bandits emerged in Yingchuan. In the ninth year, Guo Ji was conquered and worshiped as the prefect of Yingchuan.
+
+summary:
+summary line 1: ## Guo Ji (Guo Xihou)
+
+Chunk 0: 
+original: 
+郭字细侯，扶风茂陵人也。
+高祖父解，武帝时以任侠闻。
+父梵，为蜀郡太守。
+少有志行，哀、平间辟大司空府，三迁为渔阳都尉。
+王莽时为上谷大尹，迁并州牧。
+更始新立，三辅连被兵寇，百姓震骇，强宗右姓各拥众保营，莫肯先附。
+更始素闻名，征拜左冯翊，使镇抚百姓。
+世祖即位，拜雍州牧，再转为尚书令，数纳忠谏争。
+建武四年，出为中山太守。
+明年，彭宠灭，转为渔阳太守。
+渔阳既离王莽之乱，重以彭宠之败，民多猾恶，寇贼充斥。
+到，示以信赏，纠戮渠帅，盗贼销散。
+时，匈奴数抄郡界，边境苦之。
+整勒士马，设攻守之略，匈奴畏惮远迹，不敢复入塞，民得安业。
+在职五岁，户口增倍。
+后颍川盗贼群起，九年，征拜颍川太守。
+translation: 
+◆The biography of Guo Ji, named Xihou, was born in Maoling, Fufeng.
+Great-great-grandfather Guo Xie was famous as a knight during the reign of Emperor Wu.
+His father, Guo Fan, was the prefect of Shu County.
+Guo Ji had ambitions when he was young. During the reign of Emperor Ai and Emperor Ping, he was recruited into the Da Sikong Mansion and moved to Yuyang Duwei three times.
+At the time of Wang Mang, he was the Great Yin of Shanggu and moved to merge with the prefecture for animal husbandry.
+In the new era of Gengshi, the three auxiliaries were invaded by soldiers one after another. The people were shocked, and the powerful clans and surnames supported each other to defend their camps and refused to surrender first.
+When Gengshi Su heard of Guo Ji's name, he worshiped him as Zuo Fengyi and sent him to guard and appease the people.
+When Shizu ascended the throne, he paid homage to Yongzhou's pastor, and then became a minister, offering loyal advice several times.
+In the fourth year of Jianwu's reign, he became the prefect of Zhongshan.
+The next year, Peng Chong was eliminated and became the governor of Yuyang.
+Yuyang suffered both from Wang Mang's rebellion and from Peng Chong's defeat. The people were cunning and evil, and there were many thieves.
+After Guo Ji arrived, he showed his loyalty with punishment and reward, and killed the bandits and commanders, and the thieves disappeared.
+At that time, the Xiongnu harassed the county borders many times, and the border people suffered greatly.
+Guo Ji organized his troops and horses and set up offensive and defensive strategies. The Huns were afraid to stay away and did not dare to enter the border fortress again, so the border people were able to live and work in peace and contentment.
+After five years of working, the household registration will double.
+Later, a group of bandits emerged in Yingchuan. In the ninth year, Guo Ji was conquered and worshiped as the prefect of Yingchuan.
+
+summary:
+summary line 2: Guo Ji, from Maoling, Fufeng, was born into a family with a knightly ancestor and a prefect father. During the reigns of Emperor Ai and Emperor Ping, he served in the Da Sikong Mansion and became Yuyang Duwei. Under Wang Mang, he was Great Yin of Shanggu. During the Gengshi era, when the three auxiliaries were invaded, Gengshi appointed him Zuo Fengyi to pacify the people. After Shizu ascended, Guo Ji became Yongzhou's pastor and later a minister offering loyal advice. In the fourth year of Jianwu, he became prefect of Zhongshan, then governor of Yuyang after Peng Chong's defeat. There, he eliminated bandits through punishment and reward, and organized defenses against the Xiongnu, who ceased border incursions. After five years, household registrations doubled. In the ninth year, he became prefect of Yingchuan to suppress bandits, successfully recruiting Zhao Hong and Zhao Wu to surrender. Later appointed Bingzhou pastor, he advised selecting officials from worthy candidates nationwide rather than exclusively from Nanyang. He was known for keeping promises to children who welcomed him on horseback. He served long in Bingzhou due to Lu Fang's troubles, eventually forcing Lu Fang to flee to the Xiongnu. He resigned due to age and illness, became Taizhong doctor, distributed his wealth among his clan, and died at eighty-six.
+
+Chunk 2: 
+original: 
+辞谢之。
+及事讫，诸兒复送至郭外，问： 使君何日当还？
+谓别驾从事，计日告之。
+行部既还，先期一日，为违信于诸兒，遂止于野亭，须期乃入。
+是时，朝廷多举可为大司空，帝以并部尚有卢芳之儆，且匈奴未安，欲使久于其事，故不召。
+知卢芳夙贼，难卒以力制，常严烽候，明购赏，以结寇心。
+芳将隋昱遂谋胁芳降，芳及亡入匈奴。
+以老病上书乞骸骨。
+二十二年，征为太中大夫，赐宅一区，及帷帐钱谷，以充其家，辄散与宗亲九族，无所遗余。
+明年卒，时年八十六。帝亲临吊，赐冢茔地。
+杜诗字君公，河内汲人也。
+少有才能，仕郡功曹，有公平称。
+更始时，辟大司马府。
+建武元年，岁中三迁为侍御史，安集洛阳。
+时，将军萧广放纵兵士，暴横民间，百姓惶扰，诗敕晓不改，遂格杀广，还以状闻。
+世祖召见，赐以戟，复使之河东，诛降逆贼杨异等。
+诗到大阳，闻贼规欲北度，乃与长史急焚其船，部勒郡兵，将突骑趁击，斩异等，贼遂剪灭。
+拜成皋令，视事三岁，举政尤异。
+再迁为沛郡都尉，转汝南都尉，所在称治。
+七年，迁南阳太守。
+性节俭而政治清平，以诛暴立威，善于计略，省爱民役。
+translation: 
+Guo Ji declined.
+When the matter was over, Zhu'er was sent back to the outside of Guo and asked: "When will the envoy come back?"
+Guo Ji asked if he was going to work, and he calculated the date and told the children.
+After returning from his inspection, he arrived one day early. Because he had broken his promise to Zhu'er, Guo Ji stopped at the pavilion and did not enter the city until the appointed date.
+At this time, many people in the imperial court recommended Guo Jike to be the Great Sikong. The emperor thought that Lu Fang was still in trouble in Bing and the Huns were not at peace. He wanted Guo Ji to stay in Bingzhou for a long time, so he did not call him.
+Guo Ji knew that Lu Fang was an old thief who could not be subdued for a short period of time. He should take strict precautions and buy rewards clearly to quell the bandits.
+Lu Fang captured Sui Yu and forced Lu Fang to surrender to Guo Ji. Lu Fang fled to the Huns.
+Guo Ji petitioned to resign because he was old and sick.
+In the 22nd year of Jianwu's reign, he was appointed Taizhong doctor and was given an area of ​​​​the house, as well as curtains and money valleys to use for his family. Guo Jichang dispersed it among the nine clansmen of his clan, leaving nothing for himself.
+He died the next year at the age of eighty-six. The emperor came to pay his respects in person and gave him a place for his tomb.
+◆The biography of Du Shi, whose courtesy name is Jun Gong, was born in Ji County, Hanoi County.
+Talented at a young age. As a county meritorious official, he has the reputation of being fair and honest.
+At the beginning of the revolution, he was recruited to the Da Sima Mansion.
+In the first year of Jianwu, he was promoted to Shi Yushi three times a year, responsible for settling the people who were recalled to Luoyang.
+At this time, the general Xiao Guang indulged his soldiers and committed violence among the people. The people were frightened and uneasy. Du Shi's orders to Xiao Yu were ineffective, so he killed Xiao Guang and reported the truth to Liu Xiu after he returned.
+Liu Xiu summoned him and presented Du Shi with a set of ceremonial halberds. Then he was sent to Hedong to kill and surrender the traitor Yang Yi and others.
+When Du Shi arrived in Dayang, he heard that the thief Yang Yi and others were waiting for an opportunity to cross the Yellow River north, so he and Chang Shi quickly burned Yang Yi's ships, led the county soldiers, and led the cavalry commando to attack the rebels and kill Yang Yi and others. The rebels were all wiped out.
+He was appointed magistrate of Chenggao County and served for three years with excellent political performance.
+He was then moved to the rank of Captain of Pei County, and then transferred to the rank of Captain of Runan. He managed well wherever he went.
+In the seventh year of Jianwu's reign, Du Shi was promoted to Nanyang Prefect.
+Du Shi was frugal and frugal by nature, and he was honest in politics. He established prestige among the people by killing and raping people. He was good at making suggestions and cherishing the people's labor.
+
+summary:
+summary line 3: ## Du Shi (Du Jungong)
+
+Chunk 2: 
+original: 
+辞谢之。
+及事讫，诸兒复送至郭外，问： 使君何日当还？
+谓别驾从事，计日告之。
+行部既还，先期一日，为违信于诸兒，遂止于野亭，须期乃入。
+是时，朝廷多举可为大司空，帝以并部尚有卢芳之儆，且匈奴未安，欲使久于其事，故不召。
+知卢芳夙贼，难卒以力制，常严烽候，明购赏，以结寇心。
+芳将隋昱遂谋胁芳降，芳及亡入匈奴。
+以老病上书乞骸骨。
+二十二年，征为太中大夫，赐宅一区，及帷帐钱谷，以充其家，辄散与宗亲九族，无所遗余。
+明年卒，时年八十六。帝亲临吊，赐冢茔地。
+杜诗字君公，河内汲人也。
+少有才能，仕郡功曹，有公平称。
+更始时，辟大司马府。
+建武元年，岁中三迁为侍御史，安集洛阳。
+时，将军萧广放纵兵士，暴横民间，百姓惶扰，诗敕晓不改，遂格杀广，还以状闻。
+世祖召见，赐以戟，复使之河东，诛降逆贼杨异等。
+诗到大阳，闻贼规欲北度，乃与长史急焚其船，部勒郡兵，将突骑趁击，斩异等，贼遂剪灭。
+拜成皋令，视事三岁，举政尤异。
+再迁为沛郡都尉，转汝南都尉，所在称治。
+七年，迁南阳太守。
+性节俭而政治清平，以诛暴立威，善于计略，省爱民役。
+translation: 
+Guo Ji declined.
+When the matter was over, Zhu'er was sent back to the outside of Guo and asked: "When will the envoy come back?"
+Guo Ji asked if he was going to work, and he calculated the date and told the children.
+After returning from his inspection, he arrived one day early. Because he had broken his promise to Zhu'er, Guo Ji stopped at the pavilion and did not enter the city until the appointed date.
+At this time, many people in the imperial court recommended Guo Jike to be the Great Sikong. The emperor thought that Lu Fang was still in trouble in Bing and the Huns were not at peace. He wanted Guo Ji to stay in Bingzhou for a long time, so he did not call him.
+Guo Ji knew that Lu Fang was an old thief who could not be subdued for a short period of time. He should take strict precautions and buy rewards clearly to quell the bandits.
+Lu Fang captured Sui Yu and forced Lu Fang to surrender to Guo Ji. Lu Fang fled to the Huns.
+Guo Ji petitioned to resign because he was old and sick.
+In the 22nd year of Jianwu's reign, he was appointed Taizhong doctor and was given an area of ​​​​the house, as well as curtains and money valleys to use for his family. Guo Jichang dispersed it among the nine clansmen of his clan, leaving nothing for himself.
+He died the next year at the age of eighty-six. The emperor came to pay his respects in person and gave him a place for his tomb.
+◆The biography of Du Shi, whose courtesy name is Jun Gong, was born in Ji County, Hanoi County.
+Talented at a young age. As a county meritorious official, he has the reputation of being fair and honest.
+At the beginning of the revolution, he was recruited to the Da Sima Mansion.
+In the first year of Jianwu, he was promoted to Shi Yushi three times a year, responsible for settling the people who were recalled to Luoyang.
+At this time, the general Xiao Guang indulged his soldiers and committed violence among the people. The people were frightened and uneasy. Du Shi's orders to Xiao Yu were ineffective, so he killed Xiao Guang and reported the truth to Liu Xiu after he returned.
+Liu Xiu summoned him and presented Du Shi with a set of ceremonial halberds. Then he was sent to Hedong to kill and surrender the traitor Yang Yi and others.
+When Du Shi arrived in Dayang, he heard that the thief Yang Yi and others were waiting for an opportunity to cross the Yellow River north, so he and Chang Shi quickly burned Yang Yi's ships, led the county soldiers, and led the cavalry commando to attack the rebels and kill Yang Yi and others. The rebels were all wiped out.
+He was appointed magistrate of Chenggao County and served for three years with excellent political performance.
+He was then moved to the rank of Captain of Pei County, and then transferred to the rank of Captain of Runan. He managed well wherever he went.
+In the seventh year of Jianwu's reign, Du Shi was promoted to Nanyang Prefect.
+Du Shi was frugal and frugal by nature, and he was honest in politics. He established prestige among the people by killing and raping people. He was good at making suggestions and cherishing the people's labor.
+
+summary:
+summary line 4: Du Shi, from Ji County, Hanoi, was talented from youth. He served as a county meritorious official, then joined the Da Sima Mansion. In the first year of Jianwu, he became Shi Yushi and executed the violent General Xiao Guang, receiving ceremonial halberds from Liu Xiu. He later killed the traitor Yang Yi and others. As magistrate of Chenggao, then captain of Pei and Runan, he governed well. In the seventh year, he became Nanyang Prefect, known for frugality and honesty. He invented a water-powered piston bellows for iron smelting, making agricultural tools more efficiently. He repaired ponds and expanded farmland, enriching the county. People compared him to former prefect Zhao Xinchen. Feeling uneasy about his merit, he requested demotion, arguing that troops needed rest and that meritorious generals should be rewarded with county positions. The emperor refused. Du Shi recommended talented people and proposed using tiger talismans for troop mobilization to prevent forgery, which the emperor accepted. After seven years, he was recalled due to a case involving his brother's revenge. He died poor without land or house; the emperor provided funeral expenses.
+
+Chunk 6: 
+original: 
+奋少从刘歆受《春秋左氏传》，歆称之，谓门人曰： 吾已从君鱼受道矣。
+遭王莽乱，奋与老母、幼弟避兵河西。
+建武五年，河西大将军窦融请奋署议曹掾，守姑臧长。
+八年，赐爵关内侯。
+时天下扰乱，惟河西独安，而姑臧称为富邑，通货羌胡，市日四合，每居县者，不盈数月辄致丰积。
+奋在职四年，财产无所增。
+事母孝谨，虽为俭约，奉养极求珍膳。
+躬率妻、子，同甘菜茹。
+时天下未定，士多不修节操，而奋力行清洁，为众人所笑，或以为身处脂膏，不能以自润，徒益苦辛耳。
+奋既立节，治贵仁平，太守梁统深相敬待，不以官属礼之，常迎于大门，引入见母。
+陇蜀既平，河西守令咸被征召，财货连毂，弥竟川泽。惟奋无资，单车就路。
+姑臧吏民及羌胡更相谓曰： 孔君清廉仁贤，举县蒙恩，如何今去，不共报德！
+遂相赋敛牛、马、器物千万以上，追送数百里。
+奋谢之而已，一无所受。
+translation: 
+Kong Fenshao studied "The Spring and Autumn Annals of the Zuo Family" from Liu Xin. Liu Xin praised him and said to the students: I have learned from Jun Yu.
+Affected by Wang Mang's rebellion, Kong Fen, his mother and young brother fled to Hexi.
+In the fifth year of Jianwu's reign, Dou Rong, the general of Hexi Province, asked Kong Fen to consult with Cao Yu and act as the chief aunt.
+In the eighth year, he was given the title of Marquis of Guannei.
+At this time, the world was in chaos, and only Hexi was peaceful. Guzang was called a wealthy town, and Qiang and Hu were the currency.
+Kong Fen stayed in office for four years, but his property did not increase at all.
+He served his mother as a filial piety, and although he was frugal, he was extremely devoted to his mother's support.
+He and his wife eat vegetables and rice together.
+At that time, the world was uncertain, and most of the scholars did not practice moral integrity. However, Kong worked hard to be clean and was laughed at by everyone. Some people thought that he was covered in grease and could not moisturize himself, which only added to the hardship.
+Kong Fen had already established a righteousness, and governance was based on benevolence, love and fairness. The prefect Liang Tong treated him with deep respect and did not treat him with the courtesy of an official. He always greeted him at the gate and introduced him to his mother.
+After Long and Shu were at peace, all the governors in Hexi were recruited, and all the goods and goods were included in the carts. The rivers and lakes were full of them, but Kong Fen had no money and could only ride a bicycle on the road.
+The officials and people of Guzang and the Qiang and Hu even said to each other: Mr. Kong was honest, benevolent and virtuous, and the whole county was favored. Now that he has left, why don't we repay his kindness together?
+So they jointly donated more than ten million in cattle, horses and utensils, and chased them hundreds of miles away.
+Kong Fen only expressed his gratitude and received nothing from the utensils.
+
+summary:
+summary line 5: ## Kong Fen (Kong Junyu)
+
+Chunk 6: 
+original: 
+奋少从刘歆受《春秋左氏传》，歆称之，谓门人曰： 吾已从君鱼受道矣。
+遭王莽乱，奋与老母、幼弟避兵河西。
+建武五年，河西大将军窦融请奋署议曹掾，守姑臧长。
+八年，赐爵关内侯。
+时天下扰乱，惟河西独安，而姑臧称为富邑，通货羌胡，市日四合，每居县者，不盈数月辄致丰积。
+奋在职四年，财产无所增。
+事母孝谨，虽为俭约，奉养极求珍膳。
+躬率妻、子，同甘菜茹。
+时天下未定，士多不修节操，而奋力行清洁，为众人所笑，或以为身处脂膏，不能以自润，徒益苦辛耳。
+奋既立节，治贵仁平，太守梁统深相敬待，不以官属礼之，常迎于大门，引入见母。
+陇蜀既平，河西守令咸被征召，财货连毂，弥竟川泽。惟奋无资，单车就路。
+姑臧吏民及羌胡更相谓曰： 孔君清廉仁贤，举县蒙恩，如何今去，不共报德！
+遂相赋敛牛、马、器物千万以上，追送数百里。
+奋谢之而已，一无所受。
+translation: 
+Kong Fenshao studied "The Spring and Autumn Annals of the Zuo Family" from Liu Xin. Liu Xin praised him and said to the students: I have learned from Jun Yu.
+Affected by Wang Mang's rebellion, Kong Fen, his mother and young brother fled to Hexi.
+In the fifth year of Jianwu's reign, Dou Rong, the general of Hexi Province, asked Kong Fen to consult with Cao Yu and act as the chief aunt.
+In the eighth year, he was given the title of Marquis of Guannei.
+At this time, the world was in chaos, and only Hexi was peaceful. Guzang was called a wealthy town, and Qiang and Hu were the currency.
+Kong Fen stayed in office for four years, but his property did not increase at all.
+He served his mother as a filial piety, and although he was frugal, he was extremely devoted to his mother's support.
+He and his wife eat vegetables and rice together.
+At that time, the world was uncertain, and most of the scholars did not practice moral integrity. However, Kong worked hard to be clean and was laughed at by everyone. Some people thought that he was covered in grease and could not moisturize himself, which only added to the hardship.
+Kong Fen had already established a righteousness, and governance was based on benevolence, love and fairness. The prefect Liang Tong treated him with deep respect and did not treat him with the courtesy of an official. He always greeted him at the gate and introduced him to his mother.
+After Long and Shu were at peace, all the governors in Hexi were recruited, and all the goods and goods were included in the carts. The rivers and lakes were full of them, but Kong Fen had no money and could only ride a bicycle on the road.
+The officials and people of Guzang and the Qiang and Hu even said to each other: Mr. Kong was honest, benevolent and virtuous, and the whole county was favored. Now that he has left, why don't we repay his kindness together?
+So they jointly donated more than ten million in cattle, horses and utensils, and chased them hundreds of miles away.
+Kong Fen only expressed his gratitude and received nothing from the utensils.
+
+summary:
+summary line 6: Kong Fen, from Maoling, Fufeng, studied the Zuo Commentary on the Spring and Autumn Annals under Liu Xin. During Wang Mang's rebellion, he fled to Hexi with his mother and brother. In the fifth year of Jianwu, Dou Rong appointed him as chief aunt. He became Marquis of Guannei. Despite Guzang's wealth, Kong Fen's property did not increase in four years. He served his mother filially, eating vegetables with his wife while others laughed at his frugality. After Long and Shu were pacified, when other Hexi governors left with满载 goods, Kong Fen rode alone with nothing. The people offered him cattle, horses, and utensils worth over ten million, but he accepted nothing. In the capital, he became Commander of Wudu. When thieves captured his wife and son as hostages, he pursued relentlessly, resulting in their deaths. The emperor commended him and made him prefect of Wudu, where he governed with clarity. He resigned due to illness and died at home. His younger brother Kong Qi and son Kong Jia both wrote works on the Zuo Commentary.
+
+Chunk 8: 
+original: 
+张堪字君游，南阳宛人也，为郡族姓。
+堪早孤。让先父余财数百万与兄子。
+年十六，受业长安，志美行厉，诸儒号曰 圣童 。
+世祖微时，见堪志操，常嘉焉。
+及即位，中郎将来歙荐堪，召拜郎中，三迁为谒者。
+使送委输缣帛，并领骑七千匹，诣大司马吴汉伐公孙述，在道追拜蜀郡太守。
+时汉军余七日粮，阴具船欲遁去。
+堪闻之，驰往见汉，说述必败，不宜退师之策。
+汉从之，乃示弱挑敌，述果自出，战死城下。
+成都既拔，堪先入据其城，捡阅库藏，收其珍宝，悉条列上言，秋毫无私。
+慰抚吏民，蜀人大悦。
+在郡二年，征拜骑都尉，后领票骑将军杜茂营，击破匈奴于高柳，拜渔阳太守。
+捕击奸猾，赏罚必信，吏民皆乐为用。
+匈奴尝以万骑入渔阳，堪率数千骑奔击，大破之，郡界以静。
+乃于狐奴开稻田八千余顷，劝民耕种，以致殷富。
+百姓歌曰： 桑无附枝，麦穗两岐。张君为政，乐不可支。
+视事八年，匈奴不敢犯塞。
+translation: 
+◆Zhang Kanzhuan, named Junyou, was born in Wan, Nanyang County. It is a common surname in the county.
+Zhang Kan was orphaned at an early age, leaving his late father's remaining wealth of millions to share with his brother and son.
+When he was sixteen years old, he went to study in Chang'an. Zhimei behaved seriously and his classmates called him "Holy Boy".
+When Shizu was young, he often praised Zhang Kan when he saw his ambition and integrity.
+After he ascended the throne, the lieutenant general recommended Zhang Kan to the ministers in the future, called him to pay homage to him, and moved to visit him three times.
+He was sent to deliver silk and lead 7,000 horses. He followed the Grand Sima Wu Han to attack Gongsun Shu. On the way, he was worshiped as the prefect of Shu County.
+At that time, the Han army only had seven days of food left, so they secretly prepared ships to withdraw and escape.
+Zhang Kan heard about it and ran to see Wu Han and said that Gongsun Shu would be defeated and it was not appropriate to retreat.
+Wu Han obeyed and showed weakness to challenge. As expected, Gongsun Shu went to fight on his own and died in the battle.
+After Chengdu was captured, Zhang Kan entered the city first, inspected the treasury, collected the treasures, and made a list of them all, without any selfishness.
+He comforted the officials and the people, and the people of Shu were very happy.
+Zhang Kan stayed in Shu County for two years and was worshiped as the Cavalry Commander. Later, he led the Cavalry General Du Mao to defeat the Huns at Gaoliu and was worshiped as the Governor of Yuyang.
+If he catches the cunning and cunning, he will surely reward and punish him, and the officials and the people will be happy to use him.
+The Huns once invaded Yuyang with 10,000 cavalry. Zhang Kan led thousands of cavalry to attack and defeated the Xiongnu troops, and the Yuyang County was peaceful.
+So he opened more than 8,000 hectares of rice fields in Hunu, encouraged the people to cultivate, and became rich.
+The people sang: The mulberry trees have no branches, the two branches are covered with wheat ears, Zhang Jun is in charge, and the people are overjoyed.
+After eight years of supervision, the Huns did not dare to invade the fortress.
+
+summary:
+summary line 7: ## Zhang Kan (Zhang Junyou)
+
+Chunk 8: 
+original: 
+张堪字君游，南阳宛人也，为郡族姓。
+堪早孤。让先父余财数百万与兄子。
+年十六，受业长安，志美行厉，诸儒号曰 圣童 。
+世祖微时，见堪志操，常嘉焉。
+及即位，中郎将来歙荐堪，召拜郎中，三迁为谒者。
+使送委输缣帛，并领骑七千匹，诣大司马吴汉伐公孙述，在道追拜蜀郡太守。
+时汉军余七日粮，阴具船欲遁去。
+堪闻之，驰往见汉，说述必败，不宜退师之策。
+汉从之，乃示弱挑敌，述果自出，战死城下。
+成都既拔，堪先入据其城，捡阅库藏，收其珍宝，悉条列上言，秋毫无私。
+慰抚吏民，蜀人大悦。
+在郡二年，征拜骑都尉，后领票骑将军杜茂营，击破匈奴于高柳，拜渔阳太守。
+捕击奸猾，赏罚必信，吏民皆乐为用。
+匈奴尝以万骑入渔阳，堪率数千骑奔击，大破之，郡界以静。
+乃于狐奴开稻田八千余顷，劝民耕种，以致殷富。
+百姓歌曰： 桑无附枝，麦穗两岐。张君为政，乐不可支。
+视事八年，匈奴不敢犯塞。
+translation: 
+◆Zhang Kanzhuan, named Junyou, was born in Wan, Nanyang County. It is a common surname in the county.
+Zhang Kan was orphaned at an early age, leaving his late father's remaining wealth of millions to share with his brother and son.
+When he was sixteen years old, he went to study in Chang'an. Zhimei behaved seriously and his classmates called him "Holy Boy".
+When Shizu was young, he often praised Zhang Kan when he saw his ambition and integrity.
+After he ascended the throne, the lieutenant general recommended Zhang Kan to the ministers in the future, called him to pay homage to him, and moved to visit him three times.
+He was sent to deliver silk and lead 7,000 horses. He followed the Grand Sima Wu Han to attack Gongsun Shu. On the way, he was worshiped as the prefect of Shu County.
+At that time, the Han army only had seven days of food left, so they secretly prepared ships to withdraw and escape.
+Zhang Kan heard about it and ran to see Wu Han and said that Gongsun Shu would be defeated and it was not appropriate to retreat.
+Wu Han obeyed and showed weakness to challenge. As expected, Gongsun Shu went to fight on his own and died in the battle.
+After Chengdu was captured, Zhang Kan entered the city first, inspected the treasury, collected the treasures, and made a list of them all, without any selfishness.
+He comforted the officials and the people, and the people of Shu were very happy.
+Zhang Kan stayed in Shu County for two years and was worshiped as the Cavalry Commander. Later, he led the Cavalry General Du Mao to defeat the Huns at Gaoliu and was worshiped as the Governor of Yuyang.
+If he catches the cunning and cunning, he will surely reward and punish him, and the officials and the people will be happy to use him.
+The Huns once invaded Yuyang with 10,000 cavalry. Zhang Kan led thousands of cavalry to attack and defeated the Xiongnu troops, and the Yuyang County was peaceful.
+So he opened more than 8,000 hectares of rice fields in Hunu, encouraged the people to cultivate, and became rich.
+The people sang: The mulberry trees have no branches, the two branches are covered with wheat ears, Zhang Jun is in charge, and the people are overjoyed.
+After eight years of supervision, the Huns did not dare to invade the fortress.
+
+summary:
+summary line 8: Zhang Kan, from Wan, Nanyang, was orphaned early and shared his father's wealth with his brother and son. At sixteen, he studied in Chang'an, where classmates called him "Holy Boy." Shizu praised him early on. After ascending, the emperor appointed him as an official. He delivered silk and horses to Wu Han for attacking Gongsun Shu, becoming prefect of Shu County. When the Han army had only seven days of food and planned retreat, Zhang Kan persuaded Wu Han to stay, leading to Gongsun Shu's defeat. After capturing Chengdu, Zhang Kan inspected the treasury without taking anything. He comforted the people, who were delighted. Later, as Governor of Yuyang, he defeated a Xiongnu invasion of 10,000 cavalry with only 1,000 horsemen. He opened over 8,000 hectares of rice fields, enriching the county. The people sang his praises. After eight years, the Xiongnu dared not invade. A Shu County commander testified that when Gongsun Shu was defeated, Zhang Kan left with only a quilt bag despite mountains of treasure.
+
+Chunk 9: 
+original: 
+帝尝召见诸郡计吏，问其风土及前后守令能否。
+蜀郡计掾樊显进曰： 渔洋太守张堪昔在蜀，其仁以惠下，威能讨奸。
+前公孙述破时，珍宝山积，握之物，足富十世，而堪去职之日，乘折辕车，布被囊而已。
+帝闻，良久叹息，拜显为鱼复长。方征堪，会病卒，帝深悼惜之，下诏褒扬，赐帛百匹。
+廉范字叔度，京兆杜陵人也，赵将廉颇之后也。
+汉兴，以廉氏豪宗，自苦陉徙焉。
+世为边郡守，或葬陇西襄武，故因仕焉。
+曾祖父褒，成、哀间为右将军，祖父丹，王莽时为大司马庸部牧，皆有名前世。
+范父遭丧乱，客死于蜀汉，范遂流寓西州。
+西州平，归乡里。
+年十五，辞母西迎父丧。
+蜀郡太守张穆，丹之故吏，乃重资送范，范无所受，与客步负丧归葭萌。
+translation: 
+The emperor summoned the officials in charge of accounting books in various counties and asked them about their customs and the political achievements of the previous and previous county governors.
+Fan Xianjin, the commander of Shu County, said: Zhang Kan, the governor of Yuyang, was in Shu in the past. His kindness was enough to favor his subordinates, and his prestige was enough to attack the traitors.
+When the former Gongsun Shu was defeated, the treasures were piled up like mountains, and the things he mastered were enough to make him rich for ten generations. But on the day when Zhang Kan resigned, he was riding in a folded carriage with a quilt bag.
+As for Emperor Gaozu summoning Jibu, Emperor Ming introduced Lian Fan, angered him, stimulated his ambition, and killed him, which further increased his favor and obedience to justice. This is really what a monarch needs.
+However, Shu Mufan, who is reasonable, opened the gate because of his feelings. ◆Lian Fan Chuan, Lian Fan's courtesy name Shudu, was a native of Duling County, Jingzhao County, and a descendant of Zhao general Lian Po.
+After the establishment of the Han Dynasty, because the Lian family was a large clan, they moved him from Kuxing County to Duling.
+He has been a frontier county guard for generations, and some of his ancestors were buried in Xiangwu, Longxi, so his descendants became officials in Longxi.
+His great-grandfather Lian Bao was the right general when he became Emperor Ai. His grandfather, Lian Dan, was the minister of the Great Sima Yong during Wang Mang's reign, and both were famous in their previous lives.
+Lian Fan's father suffered a massacre and died in the Shu Han Dynasty, so Lian Fan lived in Xizhou.
+After Xizhou was pacified, he returned to his hometown.
+When he was fifteen years old, he bid farewell to his mother and went to Xizhou to welcome his father's death.
+Zhang Mu, the prefect of Shu County, was an old kinsman of Lian Fan's grandfather Lian Dan. He offered Lian Fan a large amount of money, but Lian Fan did not accept it and walked back to Jiameng with his guests to bear his father's funeral.
+
+summary:
+summary line 9: ## Lian Fan (Lian Shudu)
+
+Chunk 10: 
+original: 
+载船触石破没，范抱持棺柩，遂俱沉溺，众伤其义，钩求得之，疗救仅免于死。
+穆闻，复驰遣使持前资物追范，范又固辞。
+归葬服竟，诣京师受业，事博士薛汉。
+京兆、陇西二郡更请召，皆不应，永平初，陇西太守邓融备礼谒范为功曹，会融为州所举案，范知事谴难解，欲以权相济，乃托病求去，融不达其意，大恨之。
+范于是东至洛阳，变名姓，求代廷尉狱卒。
+居无几，融果征下狱，范遂得卫侍左右，尽心勤劳。
+融怪其貌类范而殊不意，乃谓曰： 卿何似我故功曹邪？
+范诃之曰： 君困厄瞀乱邪！
+语遂绝。
+融系出因病，范随而养视，及死，竟不言，身自将车送丧致南阳，葬毕乃去。
+后辟公府，会薛汉坐楚王事诛，故人门生莫敢视，范独往收敛之。
+吏以闻，显宗大怒，召范入，诘责曰： 薛汉与楚王同谋，交乱天下，范公府掾，不与朝廷同心，而反收敛罪人，何也？
+范叩头曰： 臣无状愚戆，以为汉等皆已伏诛，不胜师资之情，罪当万坐。
+帝怒稍解，问范曰： 卿廉颇后邪？
+与右将军褒、大司马丹有亲属乎？
+范对曰： 褒，臣之曾祖；丹，臣之祖也。
+帝曰： 怪卿志胆敢尔！
+因贳之。由是显名。
+举茂才，数月，再迁为云中太守。
+translation: 
+The boat carrying the coffin hit the rocks and sank. Lian Fan hugged the coffin and drowned together. Everyone mourned his filial piety and rescued him with a hook. He survived after being recuperated and rescued.
+Zhang Mu heard about it and sent another envoy to catch up with Lian Fan with the money and goods he had given to Lian Fan before. Lian Fan refused again.
+After carrying his father's coffin back for burial, he went to the capital to study under Dr. Xue Han.
+Jingzhao and Longxi counties competed to invite him, but Lian Fan refused. In the early years of Yongping, Deng Rong, the governor of Longxi, prepared gifts and asked Lian Fan to be his meritorious officer. At this time, Deng Rong was accused of committing a crime by the state. Lian Fan knew that his crime was difficult to solve, so he wanted to use his power to help him. Pretending to be sick, Deng asked for leave and left. Deng did not understand Lian Fan's feelings and resented him very much.
+Lian Fan then went east to Luoyang, changed his name and asked to act as Tingwei's jailer.
+Not long after, Deng Rong was arrested and imprisoned, and Lian Fan was able to serve as a bodyguard and work diligently.
+Deng Rong was surprised that he looked like Lian Fan. He didn't understand why, so he asked, "Why do you look like my former hero?"
+Lian Fan reprimanded him and said, "You must be blinded by the predicament!"
+He no longer answered his words.
+Deng Rong was released from prison because he was sleepy and ill. Lian Fan followed him to recuperate and take care of him. He never mentioned this matter until Deng Rong died. He also personally drove Deng Rong's coffin to Nanyang for burial, and left only after the burial.
+Later, Pi was summoned to the palace, and it happened that Xue Han was killed because of the rebellion of King Chu Ying. None of Xue Han's old students dared to see him, so Lian Fan went to collect Xue Han's body alone.
+The officials reported to the government, and Xianzong was furious. He summoned Lian Fan to see him and questioned him, saying: "Xue Han conspired with the King of Chu to cause chaos in the world. You are a government official and you do not agree with the court. Instead, you go to collect the corpses of criminals. Why is this?"
+Lian Fan kowtowed and said, "I am foolish and ignorant. I think that all the Han people have already fallen into disgrace. The teacher's love must not be forgotten. His crime shall be punished by death."
+The emperor's anger subsided and he asked Lian Fan: "Are you a descendant of Lian Po?"
+Is it related to the late right general Lian Bao and the great Sima Liandan?
+Lian Fan replied: "Bao is Chen's great-grandfather, and Lian Dan is Chen's grandfather."
+The emperor said: No wonder your ambition and courage dare to do this!
+Therefore, his sins were pardoned, and Lian Fan's reputation became even more prominent from then on.
+He was promoted as a scholar, and a few months later he was promoted to the governor of Yunzhong.
+
+summary:
+summary line 10: Lian Fan, from Duling, was a descendant of Zhao general Lian Po. His family had served as frontier county guards for generations. After his father died in Shu Han, fifteen-year-old Lian Fan went to retrieve his body. The prefect offered money, which he refused. When the coffin boat sank, Lian Fan clung to it and was rescued. He studied under Dr. Xue Han. When Xue Han was killed for involvement in King Chu Ying's rebellion, Lian Fan alone collected his body. The emperor questioned him but pardoned him for his courage. As governor of Yunzhong, when the Huns invaded with overwhelming numbers, Lian Fan ordered soldiers to light multiple torches, making the enemy think reinforcements had arrived. He pursued at dawn, killing hundreds. The Huns never attacked Yunzhong again. As prefect of Shu County, he discouraged frivolous debate and abolished night work restrictions, instead requiring water storage for fire prevention. The people sang his praises. He was known for generosity, once giving his horse to a mourning official without revealing his identity. He died at home.
+
+Chunk 12: 
+original: 
+范世在边，广田地，积财粟，悉以赈宗族朋友。
+肃宗崩，范奔赴敬陵。
+时庐江郡掾严麟奉章吊国，俱会于路。
+麟乘小车，涂深马死，不能自进，范见而愍然，命从骑下马与之。不告而去。
+麟事毕，不知马所归，乃缘踪访之。
+或谓麟曰： 故蜀郡太守廉叔度，好周人穷急，今奔国丧，独单是耳。
+麟亦素闻范名，以为然，即牵马造门，谢而归之。
+堪之临财，范之忘施，亦足以信意而感物矣。
+若夫高祖之召栾布，明帝之引廉范，加怒以发其志，就戮更延其宠，闻义能徙，诚君道所尚，然情理之枢，亦有开塞之感焉。
+王堂字敬伯，广汉人也。
+初举光禄茂才，迁穀城令，治有名迹。
+永初中，西羌寇巴郡，为民患，诏书遣中郎将尹就攻讨，连年不克。
+三府举堂治剧，拜巴郡太守。
+堂驰兵赴贼，斩虏千余级，巴、庸清静，吏民生为立祠。
+刺史张乔表其治能，迁右扶风。
+安帝西巡，阿母王圣、中常侍江京等并请属于堂，堂不为用。
+掾史固谏之，堂曰： 吾蒙国恩，岂可为权宠阿意，以死守之！
+即日遣家属归，闭上病。
+果有诬奏堂者，会帝崩，京等悉诛，堂以守正见称。
+translation: 
+Lian Fan has been around for generations, has many fields, and has saved a lot of money and food, which are used to provide relief to family friends.
+When Suzong died, Lian Fan rushed to Jingling.
+At that time, Yan Lin, the governor of Lujiang County, was ordered to mourn the country and met on the road.
+Yan Lin was riding in a small car, but his horse died because of the deep mud and could not move forward. Lian Fan was very sympathetic when he saw it, and ordered him to dismount and give Yan Lin a ride, and left without telling him.
+After Yan Lin finished his work, he didn't know who to return the horse to, so he followed Lian Fan's whereabouts.
+Someone told Yan Lin: Therefore, Lian Shudu, the governor of Shu County, likes to help people in emergencies and difficulties. Now that you are mourning the country, it must be him.
+Yan Lin also heard about Lian Fan's reputation for a long time and thought it was right, so he took the horse to Lian Fan's house, thanked him and returned the horse to him.
+Everyone in the world admires his kindness, but some people ridicule him for relying on General Dou Xian. Died at home. At first, Lian Fan and Luoyang Qinghong were close friends. At that time, people praised him and said: before him, there was Guan Zhong and Uncle Bao, and after him, there was Qinghong and Lian Fan.
+Qinghong was generous and loyal, and became the prefect of Langfu and Kuaiji counties, where he performed unusual deeds.
+◆The biography of Wang Tang, whose courtesy name is Jingbo, was born in Guanghan.
+At first, he promoted the most talented people and moved him to Gucheng County Magistrate, and his governance was famous.
+In Yongchuzhong, Kouba County of Western Qiang was in trouble for the people. The imperial edict sent Zhonglang General Yin Jiu to attack and conquer, but he failed for several years.
+The three prefectures had great achievements in government affairs and were worshiped as the prefect of Bajun.
+Wangtang sent troops to attack the bandits and killed more than a thousand Qiang captives. Ba and Yong were left in peace. The officials and the people built a shrine for Wangtang during his lifetime.
+The governor Zhang Qiao showed his ability in governance and moved to Youfufeng.
+During Emperor An's expedition to the west, wet nurse Wang Sheng, Zhongchang Shijiang Jing and others invited their families to belong to the hall, but the king's hall was not used.
+Wang Tang said: "I have been favored by the country, how can I be accommodating to the powerful? I will defend it to the death!"
+The family members will be sent back today and the concierge will be closed.
+Sure enough, someone falsely accused Wangtang, which coincided with the collapse of the emperor, Jiang Jing and others were executed. Wangtang was praised for keeping the right path and not disobeying the powerful.
+
+summary:
+summary line 11: ## Wang Tang (Wang Jingbo)
+
+Chunk 12: 
+original: 
+范世在边，广田地，积财粟，悉以赈宗族朋友。
+肃宗崩，范奔赴敬陵。
+时庐江郡掾严麟奉章吊国，俱会于路。
+麟乘小车，涂深马死，不能自进，范见而愍然，命从骑下马与之。不告而去。
+麟事毕，不知马所归，乃缘踪访之。
+或谓麟曰： 故蜀郡太守廉叔度，好周人穷急，今奔国丧，独单是耳。
+麟亦素闻范名，以为然，即牵马造门，谢而归之。
+堪之临财，范之忘施，亦足以信意而感物矣。
+若夫高祖之召栾布，明帝之引廉范，加怒以发其志，就戮更延其宠，闻义能徙，诚君道所尚，然情理之枢，亦有开塞之感焉。
+王堂字敬伯，广汉人也。
+初举光禄茂才，迁穀城令，治有名迹。
+永初中，西羌寇巴郡，为民患，诏书遣中郎将尹就攻讨，连年不克。
+三府举堂治剧，拜巴郡太守。
+堂驰兵赴贼，斩虏千余级，巴、庸清静，吏民生为立祠。
+刺史张乔表其治能，迁右扶风。
+安帝西巡，阿母王圣、中常侍江京等并请属于堂，堂不为用。
+掾史固谏之，堂曰： 吾蒙国恩，岂可为权宠阿意，以死守之！
+即日遣家属归，闭上病。
+果有诬奏堂者，会帝崩，京等悉诛，堂以守正见称。
+translation: 
+Lian Fan has been around for generations, has many fields, and has saved a lot of money and food, which are used to provide relief to family friends.
+When Suzong died, Lian Fan rushed to Jingling.
+At that time, Yan Lin, the governor of Lujiang County, was ordered to mourn the country and met on the road.
+Yan Lin was riding in a small car, but his horse died because of the deep mud and could not move forward. Lian Fan was very sympathetic when he saw it, and ordered him to dismount and give Yan Lin a ride, and left without telling him.
+After Yan Lin finished his work, he didn't know who to return the horse to, so he followed Lian Fan's whereabouts.
+Someone told Yan Lin: Therefore, Lian Shudu, the governor of Shu County, likes to help people in emergencies and difficulties. Now that you are mourning the country, it must be him.
+Yan Lin also heard about Lian Fan's reputation for a long time and thought it was right, so he took the horse to Lian Fan's house, thanked him and returned the horse to him.
+Everyone in the world admires his kindness, but some people ridicule him for relying on General Dou Xian. Died at home. At first, Lian Fan and Luoyang Qinghong were close friends. At that time, people praised him and said: before him, there was Guan Zhong and Uncle Bao, and after him, there was Qinghong and Lian Fan.
+Qinghong was generous and loyal, and became the prefect of Langfu and Kuaiji counties, where he performed unusual deeds.
+◆The biography of Wang Tang, whose courtesy name is Jingbo, was born in Guanghan.
+At first, he promoted the most talented people and moved him to Gucheng County Magistrate, and his governance was famous.
+In Yongchuzhong, Kouba County of Western Qiang was in trouble for the people. The imperial edict sent Zhonglang General Yin Jiu to attack and conquer, but he failed for several years.
+The three prefectures had great achievements in government affairs and were worshiped as the prefect of Bajun.
+Wangtang sent troops to attack the bandits and killed more than a thousand Qiang captives. Ba and Yong were left in peace. The officials and the people built a shrine for Wangtang during his lifetime.
+The governor Zhang Qiao showed his ability in governance and moved to Youfufeng.
+During Emperor An's expedition to the west, wet nurse Wang Sheng, Zhongchang Shijiang Jing and others invited their families to belong to the hall, but the king's hall was not used.
+Wang Tang said: "I have been favored by the country, how can I be accommodating to the powerful? I will defend it to the death!"
+The family members will be sent back today and the concierge will be closed.
+Sure enough, someone falsely accused Wangtang, which coincided with the collapse of the emperor, Jiang Jing and others were executed. Wangtang was praised for keeping the right path and not disobeying the powerful.
+
+summary:
+summary line 12: Wang Tang, from Guanghan, was promoted from county magistrate due to his governance. During Yongchu, when Western Qiang rebels troubled Ba County, Wang Tang became prefect, killed over a thousand Qiang captives, and pacified the region. The people built a shrine for him. As You Fufeng, he refused to accommodate the powerful wet nurse Wang Sheng and eunuch Jiang Jing during Emperor An's western expedition, closing his gate to them. Falsely accused, he was vindicated after the emperor's death and Jiang Jing's execution. He later served as Prime Minister of Lu, then prefect of Runan, where he delegated authority to capable subordinates like Chen Fan and Ying Si, achieving good governance. He was hated by General Liang Shang and Minister Yuan Tang, who falsely accused him and had him dismissed. He died at eighty-six, requesting a simple burial.
+
+Chunk 14: 
+original: 
+祖父纯，字桓公，有高名，性强切而持毁誉，士友咸惮之，至乃相谓曰： 见苏桓公，患其教责人，不见，又思之。
+三辅号为 大人 。
+永平中，为奉车都尉窦固军，出击北匈奴、车师有功，封中陵乡侯，官至南阳太守。
+章少博学，能属文。
+安帝时，举贤良方正，对策高第，为议郎。
+数陈得失，其言甚直。出为武原令，时岁饥，辄开仓廪，活三千余户。
+顺帝时，迁冀州刺史。
+故人为清河太守，章行部案其奸臧。
+乃请太守，为设酒肴，陈平生之好甚次。
+太守喜曰： 人皆有一天，我独有二天。
+章曰： 今夕苏孺文与故人饮者，私恩也；明日冀州刺史案事者，公法也。
+遂举正其罪。
+州境知章无私，望风畏肃。
+换为并州刺史，以推折权豪，忤旨，坐免。
+乃段颎为阳球所诛，天下以为苏氏之报焉。
+translation: 
+Grandfather Su Chun, courtesy name Huan Gong, had a brilliant reputation. He was strong-willed and obsessed with reputation and reputation. Scholars and friends were in awe of him. When they met, they talked about him and said: "When I see Su Huan Gong, I am afraid that he will speak out and teach others. When I don't see him, I miss him again."
+Sansuke calls him "Sir".
+In Yongpingzhong, he served as the captain of Fengche Commandery Dou Gu's army. He made an attack on the Northern Xiongnu and the Che Division. He was granted the title of Marquis of Zhongling Township and was promoted to the Grand Administrator of Nanyang.
+Su Zhang was erudite and capable of writing when he was young.
+During the reign of Emperor An, he was a virtuous and upright person with excellent performance in countermeasures, and was named Yilang.
+He stated his gains and losses several times, and his words were very upright. When he was appointed as the magistrate of Wuyuan County, Su Zhang often opened a granary and rescued more than 3,000 households when there was a famine.
+During the reign of Emperor Shun, he moved to Jizhou as governor.
+The old man was the governor of Qinghe, and Su Zhang inspected him to punish him for being a traitor and embezzling stolen goods.
+Su Zhang then invited the prefect to have dinner and wine, and talked about his life's good deeds.
+The prefect said happily: "Everyone has one day, but I only have two days."
+Su Zhang said: "Su Zhang's drinking with his old friend tonight is a personal favor between the two of us; if the Jizhou governor wants to punish you tomorrow, it will be selfless under public law."
+So he was punished.
+Within the borders of the state, Su Zhang was known to be selfless and fearless.
+He was replaced as the governor of Bingzhou, and in order to defeat the powerful and powerful, he violated the order and was dismissed.
+From then on, he hid in the countryside and did not interact with the current people. Later, he was recruited as Henan Yin, but he did not take office. At that time, the world was in chaos and the people were suffering. Commentators recommended that Su Zhang had the talent to manage the country. However, the imperial court could not reuse him and he died at home.
+
+summary:
+summary line 13: ## Su Zhang (Su Ruwen)
+
+Chunk 14: 
+original: 
+祖父纯，字桓公，有高名，性强切而持毁誉，士友咸惮之，至乃相谓曰： 见苏桓公，患其教责人，不见，又思之。
+三辅号为 大人 。
+永平中，为奉车都尉窦固军，出击北匈奴、车师有功，封中陵乡侯，官至南阳太守。
+章少博学，能属文。
+安帝时，举贤良方正，对策高第，为议郎。
+数陈得失，其言甚直。出为武原令，时岁饥，辄开仓廪，活三千余户。
+顺帝时，迁冀州刺史。
+故人为清河太守，章行部案其奸臧。
+乃请太守，为设酒肴，陈平生之好甚次。
+太守喜曰： 人皆有一天，我独有二天。
+章曰： 今夕苏孺文与故人饮者，私恩也；明日冀州刺史案事者，公法也。
+遂举正其罪。
+州境知章无私，望风畏肃。
+换为并州刺史，以推折权豪，忤旨，坐免。
+乃段颎为阳球所诛，天下以为苏氏之报焉。
+translation: 
+Grandfather Su Chun, courtesy name Huan Gong, had a brilliant reputation. He was strong-willed and obsessed with reputation and reputation. Scholars and friends were in awe of him. When they met, they talked about him and said: "When I see Su Huan Gong, I am afraid that he will speak out and teach others. When I don't see him, I miss him again."
+Sansuke calls him "Sir".
+In Yongpingzhong, he served as the captain of Fengche Commandery Dou Gu's army. He made an attack on the Northern Xiongnu and the Che Division. He was granted the title of Marquis of Zhongling Township and was promoted to the Grand Administrator of Nanyang.
+Su Zhang was erudite and capable of writing when he was young.
+During the reign of Emperor An, he was a virtuous and upright person with excellent performance in countermeasures, and was named Yilang.
+He stated his gains and losses several times, and his words were very upright. When he was appointed as the magistrate of Wuyuan County, Su Zhang often opened a granary and rescued more than 3,000 households when there was a famine.
+During the reign of Emperor Shun, he moved to Jizhou as governor.
+The old man was the governor of Qinghe, and Su Zhang inspected him to punish him for being a traitor and embezzling stolen goods.
+Su Zhang then invited the prefect to have dinner and wine, and talked about his life's good deeds.
+The prefect said happily: "Everyone has one day, but I only have two days."
+Su Zhang said: "Su Zhang's drinking with his old friend tonight is a personal favor between the two of us; if the Jizhou governor wants to punish you tomorrow, it will be selfless under public law."
+So he was punished.
+Within the borders of the state, Su Zhang was known to be selfless and fearless.
+He was replaced as the governor of Bingzhou, and in order to defeat the powerful and powerful, he violated the order and was dismissed.
+From then on, he hid in the countryside and did not interact with the current people. Later, he was recruited as Henan Yin, but he did not take office. At that time, the world was in chaos and the people were suffering. Commentators recommended that Su Zhang had the talent to manage the country. However, the imperial court could not reuse him and he died at home.
+
+summary:
+summary line 14: Su Zhang, from Pingling, Fufeng, was an eighth-generation descendant of General Su Jian. His grandfather Su Chun was a respected scholar. Su Zhang was erudite and capable of writing. During Emperor An's reign, he became Yilang for his virtuous countermeasures. As magistrate of Wuyuan, he opened granaries during famine, saving over 3,000 households. As governor of Jizhou, he invited the corrupt prefect of Qinghe for dinner, discussing good deeds before publicly punishing him. He was known for selflessness. As governor of Bingzhou, he was dismissed for opposing the powerful. He hid in the countryside and refused to serve as Henan Yin. He died at home.
+
+Chunk 15: 
+original: 
+羊续字兴祖，太山平阳人也。
+其先七世二千石卿校，祖父侵，安帝时司隶校尉。
+父儒，桓帝时为太常。
+续以忠臣子孙拜郎中，去官后，辟大将军窦武府。
+及武败，坐党事，禁锢十余年，幽居守静。
+及党禁解，复辟太尉府，四迁为庐江太守。
+后扬州黄巾贼攻舒，焚烧城郭，续发县中男子二十以上，皆持兵勒陈，其小弱者，悉使负水灌火，会集数万人，并执力战，大破之，郡界平。
+后安风贼戴风等作乱，续复击破之，斩首三千余级，生获渠帅，其余党辈原为平民，赋与佃器，使就农业。
+中平三年，江夏兵赵慈反叛，杀南阳太守秦颉，攻没六县，拜续为南阳太守。
+当入郡界，乃羸服间行，侍童子一人，观历县邑，采问风谣，然后乃进。
+其令长贪挈，吏民良猾，悉逆知其状，郡内惊竦，莫不震慑。
+乃发兵与荆州刺史王敏共击慈，斩之，获首五千余级，属县余贼并诣续降，续为上言，宥其枝附。
+贼既清平，乃班宣政令，候民病利，百姓欢服。
+时，权豪之家多尚奢丽，续深疾之，常敝衣薄食，车马羸败。
+府丞尝献其生鱼，续受而悬于庭；丞后又进之，续乃出前所悬者以杜其意。
+续妻后与子秘俱往郡舍，续闭门不内妻，自将秘行，其资藏惟有布衾、敝祗，盐、麦数斛而已，顾敕秘曰： 吾自奉若此，何以资尔母乎？
+使与母俱归。
+六年，灵帝欲以续为太尉。
+translation: 
+◆Yangxuzhuan, Yangxuxi named Xingzu, was from Pingyang, Taishan.
+The seventh generation of his ancestor was Erqian Shiqingxiao. His grandfather, Yang Ke, was the Sili Xiaowei during the reign of Emperor An.
+His father, Yangru, was Taichang during the reign of Emperor Huan.
+Yang Xu was regarded as a descendant of a loyal minister and was worshiped as a doctor. After he resigned from the official position, he was conscripted into the mansion of General Dou Wu.
+After Dou Wu failed, he was imprisoned for more than ten years due to party affiliation and lived in seclusion.
+When the party ban was lifted, he was conscripted into the Taiwei Mansion and moved to Lujiang Prefecture.
+Later, the Yellow Turban bandits in Yangzhou attacked Shu and burned the city walls. Yangxu recruited all the men in the county who were over twenty years old. They all held troops and put out the fire. The weak ones participated in fetching water to put out the fire. They gathered tens of thousands of people and fought hard. They defeated the Yellow Turban bandits and the county boundaries were pacified.
+Later, the Anfeng thief Dai Feng and others caused trouble, and Yangxu defeated them again, beheaded more than 3,000 people, and captured their commander alive. The rest of the party were civilians, and they were given farming tools so that they could engage in legitimate agricultural production.
+In the third year of Zhongping, Zhao Ci, a soldier of Jiangxia, rebelled, killed Qin Jie, the prefect of Nanyang, captured six counties, and worshiped Yang as the prefect of Nanyang.
+When he entered the county, he would patrol incognito and take a boy with him to inspect the county and collect rumors before entering.
+Some commanders were greedy and officials and people were cunning, but he knew the situation, and everyone in the county was frightened and frightened.
+So he sent troops and Wang Min, the governor of Jingzhou, to attack Zhao Ci and beheaded him. He was killed by more than 5,000 people. The remaining thieves in the county came to surrender to Yangxu, and Yangxu appealed to them to pardon the remaining gang members.
+After the thieves were put down, political decrees were issued to meet the urgent needs of the people, and the people were happy and admired.
+At that time, many powerful families were extravagant, and Yang Xu was very ill. He often had poor food and clothing, and drove an old horse and a broken carriage.
+Fu Cheng once offered him raw fish, and Yang Xu accepted it and hung it in the court. Fu Cheng later offered it to him, and Yang Xu showed him the raw fish hanging in the court to stop him from offering fish.
+Later, Yangxu's wife and son Yangmi arrived at the county house, but Yangxu refused to accept them. His wife took Yangmi away with only cloth quilts, rags, salt, and a few bushels of wheat. She turned around and said to Yangmi: How can I support your mother and son if I treat myself so poorly?
+Let both mother and son go home.
+Six years later, Emperor Ling wanted to make Yangxu the Taiwei.
+
+summary:
+summary line 15: ## Yang Xu (Yang Xingzu)
+
+Chunk 15: 
+original: 
+羊续字兴祖，太山平阳人也。
+其先七世二千石卿校，祖父侵，安帝时司隶校尉。
+父儒，桓帝时为太常。
+续以忠臣子孙拜郎中，去官后，辟大将军窦武府。
+及武败，坐党事，禁锢十余年，幽居守静。
+及党禁解，复辟太尉府，四迁为庐江太守。
+后扬州黄巾贼攻舒，焚烧城郭，续发县中男子二十以上，皆持兵勒陈，其小弱者，悉使负水灌火，会集数万人，并执力战，大破之，郡界平。
+后安风贼戴风等作乱，续复击破之，斩首三千余级，生获渠帅，其余党辈原为平民，赋与佃器，使就农业。
+中平三年，江夏兵赵慈反叛，杀南阳太守秦颉，攻没六县，拜续为南阳太守。
+当入郡界，乃羸服间行，侍童子一人，观历县邑，采问风谣，然后乃进。
+其令长贪挈，吏民良猾，悉逆知其状，郡内惊竦，莫不震慑。
+乃发兵与荆州刺史王敏共击慈，斩之，获首五千余级，属县余贼并诣续降，续为上言，宥其枝附。
+贼既清平，乃班宣政令，候民病利，百姓欢服。
+时，权豪之家多尚奢丽，续深疾之，常敝衣薄食，车马羸败。
+府丞尝献其生鱼，续受而悬于庭；丞后又进之，续乃出前所悬者以杜其意。
+续妻后与子秘俱往郡舍，续闭门不内妻，自将秘行，其资藏惟有布衾、敝祗，盐、麦数斛而已，顾敕秘曰： 吾自奉若此，何以资尔母乎？
+使与母俱归。
+六年，灵帝欲以续为太尉。
+translation: 
+◆Yangxuzhuan, Yangxuxi named Xingzu, was from Pingyang, Taishan.
+The seventh generation of his ancestor was Erqian Shiqingxiao. His grandfather, Yang Ke, was the Sili Xiaowei during the reign of Emperor An.
+His father, Yangru, was Taichang during the reign of Emperor Huan.
+Yang Xu was regarded as a descendant of a loyal minister and was worshiped as a doctor. After he resigned from the official position, he was conscripted into the mansion of General Dou Wu.
+After Dou Wu failed, he was imprisoned for more than ten years due to party affiliation and lived in seclusion.
+When the party ban was lifted, he was conscripted into the Taiwei Mansion and moved to Lujiang Prefecture.
+Later, the Yellow Turban bandits in Yangzhou attacked Shu and burned the city walls. Yangxu recruited all the men in the county who were over twenty years old. They all held troops and put out the fire. The weak ones participated in fetching water to put out the fire. They gathered tens of thousands of people and fought hard. They defeated the Yellow Turban bandits and the county boundaries were pacified.
+Later, the Anfeng thief Dai Feng and others caused trouble, and Yangxu defeated them again, beheaded more than 3,000 people, and captured their commander alive. The rest of the party were civilians, and they were given farming tools so that they could engage in legitimate agricultural production.
+In the third year of Zhongping, Zhao Ci, a soldier of Jiangxia, rebelled, killed Qin Jie, the prefect of Nanyang, captured six counties, and worshiped Yang as the prefect of Nanyang.
+When he entered the county, he would patrol incognito and take a boy with him to inspect the county and collect rumors before entering.
+Some commanders were greedy and officials and people were cunning, but he knew the situation, and everyone in the county was frightened and frightened.
+So he sent troops and Wang Min, the governor of Jingzhou, to attack Zhao Ci and beheaded him. He was killed by more than 5,000 people. The remaining thieves in the county came to surrender to Yangxu, and Yangxu appealed to them to pardon the remaining gang members.
+After the thieves were put down, political decrees were issued to meet the urgent needs of the people, and the people were happy and admired.
+At that time, many powerful families were extravagant, and Yang Xu was very ill. He often had poor food and clothing, and drove an old horse and a broken carriage.
+Fu Cheng once offered him raw fish, and Yang Xu accepted it and hung it in the court. Fu Cheng later offered it to him, and Yang Xu showed him the raw fish hanging in the court to stop him from offering fish.
+Later, Yangxu's wife and son Yangmi arrived at the county house, but Yangxu refused to accept them. His wife took Yangmi away with only cloth quilts, rags, salt, and a few bushels of wheat. She turned around and said to Yangmi: How can I support your mother and son if I treat myself so poorly?
+Let both mother and son go home.
+Six years later, Emperor Ling wanted to make Yangxu the Taiwei.
+
+summary:
+summary line 16: Yang Xu, from Pingyang, Taishan, was a descendant of officials. He served as a doctor and joined General Dou Wu's mansion. After Dou Wu's failure, he was imprisoned for over ten years due to party affiliation. When the ban was lifted, he served in the Taiwei Mansion and became prefect of Lujiang. When Yellow Turban bandits attacked Shu, Yang Xu mobilized all men over twenty to fight, defeating the bandits. He later defeated the Anfeng thief Dai Feng, beheading over 3,000 and giving farming tools to the rest. As prefect of Nanyang, he traveled incognito to gather information, then attacked and killed the rebel Zhao Ci. He lived frugally, driving an old horse and broken carriage. When offered fish, he hung it in the court to discourage further gifts. He refused to let his wife and son stay with him, sending them home with only basic necessities. He was nominated for Taiwei but failed due to refusing bribes. He died at forty-eight, requesting a simple burial.
+
+Chunk 16: 
+original: 
+时拜三公者，皆输东园礼钱千万，令中使督之，名为 左驺 。
+其所之往，辄迎致礼敬，厚加赠赂。
+续乃坐使人于单席，举缊袍以示之，曰： 臣之所资，惟斯而已。
+左驺白之，帝不悦，以此故不登公位。
+而征为太常，未及行，会病卒，时年四十八。
+遗言薄敛，不受赗遗。
+旧典，二千石卒官赙百万，府丞焦俭遵续先意，一无所受。
+诏书褒美，敕太山太守以府赙钱赐续家云。
+贾琮字孟坚，东郡聊城人也。
+举孝廉，再迁为京令，有政理迹。
+旧交阯土多珍产，明玑、翠羽、犀、象、玳瑁、异香、美木之属，莫不自出。
+前后刺史率多无情行，上承权贵，下积私赂，财计盈给，辄复求见迁代，故吏民怨叛。
+中平元年，交阯屯兵反，执刺史及合浦太守，自称 柱天将军 。
+灵帝特敕三府精选能吏，有司举琮为交阯刺史。
+琮到部，讯其反状，咸言赋敛过重，百姓莫不空单，京师遥远，告冤无所，民不聊生，故聚为盗贼。
+琮即移书告示，各使安其资业，招抚荒散，蠲复徭役，诛斩渠帅为大害者，简选良吏试守诸县，岁间荡定，百姓以安。
+巷路为之歌曰： 贾父来晚，使我先反；今见清平，吏不敢饭。
+在事三年，为十三州最，征拜议郎。
+时，黄巾新破，兵凶之后，郡县重敛，因缘生奸。
+诏书沙汰刺史、二千石，更选清能吏，乃以琮为冀州刺史。
+translation: 
+At that time, those who worshiped the Three Dukes would give tens of millions of gifts to Dongyuan and order the envoys and governors to pay the money, which was named "Zuozou".
+Wherever he went, he was often greeted with salutes and generous bribes.
+Yangxu sat on the single table, held up his old cotton robe to show it off, and said, "This is all my property."
+The emperor was displeased with Zuo Zou's report, so Yang Xu failed to ascend to the throne.
+However, he was drafted too often and died of illness at the age of forty-eight before he could set out.
+The deceased will be buried with a thin will and no legacy will be accepted.
+According to the old system, after the death of an official with two thousand dan, he would be paid a million yuan. Jiao Jian, the prime minister of the government, followed Yang Xu's will during his lifetime and received nothing.
+The emperor praised Yangxu with an edict and ordered the Taishan prefect to give Yangxu money from the government to support his family.
+◆Zongzhuan of King Jia, named Meng Jian, a native of Liaocheng, Dongjun.
+He was promoted to Xiaolian, then moved to the capital, and had political achievements.
+There are many precious products in the old Jiaozhi soil. Mingji, green feather, rhinoceros, elephant, tortoise shell, exotic fragrant and beautiful trees all come from Jiaozhi.
+Most of the former and later governors were corrupt and perverted the law. They flattered the powerful at the top and accumulated private bribes at the bottom. They often used this to seek promotion, so the officials and the people resented betrayal.
+In the first year of Zhongping, Jiaozhi stationed troops and served as governor and governor of Hepu. He called himself "General Zhutian".
+Emperor Ling specially ordered the three palaces to select capable officials, and one official recommended Jia Cong to be the governor of Jiaozhi.
+Jia Cong went to the ministry and interrogated his counter-claims. They all said that the people gathered together as thieves because the taxes were too heavy, the people were poor and empty, the capital was far away, there was nothing to complain about, and the people had no life.
+Jia Wangzong immediately sent a letter to inform the people, so that the people could settle down in their own affairs, recruit people who had fled the famine, exempt them from corvee service, execute the generals who caused harm, and select good officials to try to guard the counties. Within a year, the whole territory was settled, and the people were in peace.
+There is a song in the lane: "Jia's father came late, so I rebelled first; now that there is peace, the officials dare not eat."
+After three years of service, he became the best among the thirteen states and was worshiped as Yilang.
+At that time, the Yellow Turbans had just been defeated. After the brutal war, the counties and counties imposed excessive taxes and levies, which led to adultery.
+The imperial edict sent Sha to eliminate the governor and two thousand stones, and to select honest and capable officials, so Jia Wangzong was appointed as the governor of Jizhou.
+
+summary:
+summary line 17: ## Jia Wangzong (Jia Mengjian)
+
+Chunk 16: 
+original: 
+时拜三公者，皆输东园礼钱千万，令中使督之，名为 左驺 。
+其所之往，辄迎致礼敬，厚加赠赂。
+续乃坐使人于单席，举缊袍以示之，曰： 臣之所资，惟斯而已。
+左驺白之，帝不悦，以此故不登公位。
+而征为太常，未及行，会病卒，时年四十八。
+遗言薄敛，不受赗遗。
+旧典，二千石卒官赙百万，府丞焦俭遵续先意，一无所受。
+诏书褒美，敕太山太守以府赙钱赐续家云。
+贾琮字孟坚，东郡聊城人也。
+举孝廉，再迁为京令，有政理迹。
+旧交阯土多珍产，明玑、翠羽、犀、象、玳瑁、异香、美木之属，莫不自出。
+前后刺史率多无情行，上承权贵，下积私赂，财计盈给，辄复求见迁代，故吏民怨叛。
+中平元年，交阯屯兵反，执刺史及合浦太守，自称 柱天将军 。
+灵帝特敕三府精选能吏，有司举琮为交阯刺史。
+琮到部，讯其反状，咸言赋敛过重，百姓莫不空单，京师遥远，告冤无所，民不聊生，故聚为盗贼。
+琮即移书告示，各使安其资业，招抚荒散，蠲复徭役，诛斩渠帅为大害者，简选良吏试守诸县，岁间荡定，百姓以安。
+巷路为之歌曰： 贾父来晚，使我先反；今见清平，吏不敢饭。
+在事三年，为十三州最，征拜议郎。
+时，黄巾新破，兵凶之后，郡县重敛，因缘生奸。
+诏书沙汰刺史、二千石，更选清能吏，乃以琮为冀州刺史。
+translation: 
+At that time, those who worshiped the Three Dukes would give tens of millions of gifts to Dongyuan and order the envoys and governors to pay the money, which was named "Zuozou".
+Wherever he went, he was often greeted with salutes and generous bribes.
+Yangxu sat on the single table, held up his old cotton robe to show it off, and said, "This is all my property."
+The emperor was displeased with Zuo Zou's report, so Yang Xu failed to ascend to the throne.
+However, he was drafted too often and died of illness at the age of forty-eight before he could set out.
+The deceased will be buried with a thin will and no legacy will be accepted.
+According to the old system, after the death of an official with two thousand dan, he would be paid a million yuan. Jiao Jian, the prime minister of the government, followed Yang Xu's will during his lifetime and received nothing.
+The emperor praised Yangxu with an edict and ordered the Taishan prefect to give Yangxu money from the government to support his family.
+◆Zongzhuan of King Jia, named Meng Jian, a native of Liaocheng, Dongjun.
+He was promoted to Xiaolian, then moved to the capital, and had political achievements.
+There are many precious products in the old Jiaozhi soil. Mingji, green feather, rhinoceros, elephant, tortoise shell, exotic fragrant and beautiful trees all come from Jiaozhi.
+Most of the former and later governors were corrupt and perverted the law. They flattered the powerful at the top and accumulated private bribes at the bottom. They often used this to seek promotion, so the officials and the people resented betrayal.
+In the first year of Zhongping, Jiaozhi stationed troops and served as governor and governor of Hepu. He called himself "General Zhutian".
+Emperor Ling specially ordered the three palaces to select capable officials, and one official recommended Jia Cong to be the governor of Jiaozhi.
+Jia Cong went to the ministry and interrogated his counter-claims. They all said that the people gathered together as thieves because the taxes were too heavy, the people were poor and empty, the capital was far away, there was nothing to complain about, and the people had no life.
+Jia Wangzong immediately sent a letter to inform the people, so that the people could settle down in their own affairs, recruit people who had fled the famine, exempt them from corvee service, execute the generals who caused harm, and select good officials to try to guard the counties. Within a year, the whole territory was settled, and the people were in peace.
+There is a song in the lane: "Jia's father came late, so I rebelled first; now that there is peace, the officials dare not eat."
+After three years of service, he became the best among the thirteen states and was worshiped as Yilang.
+At that time, the Yellow Turbans had just been defeated. After the brutal war, the counties and counties imposed excessive taxes and levies, which led to adultery.
+The imperial edict sent Sha to eliminate the governor and two thousand stones, and to select honest and capable officials, so Jia Wangzong was appointed as the governor of Jizhou.
+
+summary:
+summary line 18: Jia Wangzong, from Liaocheng, Dongjun, was promoted to the capital for his political achievements. Jiaozhi was rich in precious products, but corrupt governors exploited the people, causing rebellion. In the first year of Zhongping, Emperor Ling sent Jia Wangzong as governor of Jiaozhi. He investigated, found heavy taxes caused the rebellion, and issued proclamations to settle the people, exempt corvee, execute harmful generals, and select good officials. Within a year, the territory was pacified. The people sang his praises. After three years, he became the best among thirteen states. As governor of Jizhou, he ordered the removal of curtains from his carriage, saying the governor should observe openly. Corrupt officials fled. He died in office as General of Liao Dynasty.
+
+Chunk 17: 
+original: 
+旧典，传车骖驾，垂赤帷裳，迎于州界。
+及琮之部，升车言曰： 刺史当远视广听，纠察美恶，何有反垂帷裳以自掩塞乎？
+乃命御者褰之。
+百城闻风，自然竦震。
+其诸臧过者，望风解印绶去，惟瘿陶长济阴董昭、观津长梁国黄就当官待琮，于是州界翕然。
+灵帝崩，大将军何进表琮为度辽将军，卒于官。
+陆康字季宁，吴郡吴人也。
+祖父续，在《独行传》。
+父褒，有志操，连征不至。
+康少仕郡，以义烈称，刺史臧旻举为茂才，除高成令。
+县在边垂，令户一人具弓弩以备不虞，不得行来。
+长吏新到，辄发民缮修城郭。
+康至，皆罢遣，百姓大悦。
+以恩信为治，寇盗亦息，州郡表上其状。
+光和元年，迁武陵太守，转守桂阳、乐安二郡，所在称之。
+时，灵帝欲铸铜人，而国用不足，乃诏调民田，亩敛十钱。
+translation: 
+According to the old system, a post car is used to accompany the driver, and red curtains are hung to greet the state border.
+When Jia Wangzong arrived, he Shengcha said: "The governor should watch from a distance and listen widely, correct and examine the good and evil. How about those who hang up curtains to cover themselves up?"
+So he ordered the driver to take off the curtains.
+People everywhere were naturally shocked when they heard the news.
+Those officials who had made mistakes were sent away by looking at the wind to remove their seals and ribbons. Only Dong Zhao, the chief of Yingtao, Jiyin, and Liang Guohuang, the chief of Guanjin, served as officials and waited for Jia Wangzong, so the state boundaries became peaceful and smooth.
+Emperor Ling died, and the general He Jin recommended Jia Wangzong as the general of Liao Dynasty. He died in the official position.
+◆Biography of Lu Kang, Lu Kang's courtesy name was Jining, and he was a native of Wu County, Wu County.
+Grandfather successively, in "The Biography of Du Xing".
+His father, Lu Bao, was ambitious, but he refused to go even though the imperial court continuously conscripted him.
+Lu Kang had been an official in the county since he was a child and was known for his righteousness and righteousness. Zang, the governor, promoted his talents and appointed him as the magistrate of Gaocheng County.
+Gaocheng County is on the border. According to the old system, it is ordered that one person in each household must have a crossbow in case of unpreparedness, and no contact is allowed.
+When new chief officials arrive, they often send out migrant workers to repair the city walls.
+When Lu Kang arrived, no one was sent, and the people were very happy.
+Lu Kang governed with kindness and trust, and the bandits and bandits were gone, and the states and counties reported their results.
+In the first year of Guanghe, he moved to the post of Wuling Prefect and then became the Prefect of Guiyang and Le'an counties. The county where he lived praised him.
+At that time, Emperor Ling wanted to cast bronze figures, but the court's resources were insufficient, so he issued an edict to transfer people's land and charge ten yuan per mu.
+
+summary:
+summary line 19: ## Lu Kang (Lu Jining)
+
+Chunk 19: 
+original: 
+会庐江贼黄穰等与江夏蛮连结十余万人，攻没四县，拜康庐江太守。
+康申明赏罚，击破穰等，余党悉降。
+帝嘉其功，拜康孙尚为郎中。
+献帝即位，天下大乱，康蒙险遣孝廉计吏奉贡朝廷，诏书策劳，加忠义将军，秩中二千石。
+时袁术屯兵寿春，部曲饥饿，遣使求委输兵甲。
+康以其叛逆，闭门不通，内修战备，将以御之。
+术大怒，遣其将孙策政康，围城数重。
+康固守，吏士有先受休假者，皆遁伏还赴，暮夜缘城而入。
+受敌二年，城陷。
+月余，发病卒，年七十。
+宗族百余人，遭离饥厄，死者将半。
+朝廷愍其守节，拜子俊为郎中。
+少子绩，仕吴为郁林太守，博学善政，见称当时。
+幼年曾谒袁术，怀橘堕地者也，有名称。
+translation: 
+By chance, Lujiang thief Huang Rang and others joined forces with Jiangxia barbarians with more than 100,000 people, captured four counties, and worshiped Lu Kang as the governor of Lujiang.
+Lu Kang declared rewards and punishments, defeated Huang Rang and others, and the rest of the party surrendered.
+The emperor commended him for his contribution and appointed Lu Kangsun and Lu Shang as his doctor.
+When Emperor Xian came to the throne, the world was in chaos. Lu Kang risked his life and sent filial and honest officials to pay tribute to the imperial court.
+At that time, Yuan Shu was stationed in Shouchun, but his troops were hungry, so he sent an envoy to ask Lu Kang to transport soldiers and armor.
+Lu Kang believed that Yuan Shu was rebellious and closed himself off to others. He practiced war preparations internally and prepared to resist.
+Yuan Shu was furious and sent his general Sun Ce to attack Lu Kang and besieged the city several times.
+Lu Kang stood firm, and some of the officials and soldiers were already on vacation. They all returned from hiding and entered the city at night.
+After two years of being attacked, the city fell.
+More than a month later, he fell ill and died at the age of seventy.
+More than a hundred members of the clan suffered from famine, and half of them died.
+The imperial court showed pity for his integrity and worshiped his son Lu Xie as the doctor.
+The youngest son, Lu Ji, served in Wu as the governor of Yulin. He was well-known for his erudition and good governance.
+When he was six years old, he paid a visit to Yuan Shu and brought three tangerines to the table. After the visit, the tangerines fell to the ground. Yuan Shu asked him why, and he said he wanted to take them back to his mother to eat.
+
+summary:
+summary line 20: Lu Kang, from Wu County, was known for righteousness. As magistrate of Gaocheng County, he governed with kindness and trust, eliminating bandits. As prefect of Guiyang and Le'an, he was praised. When Emperor Ling wanted to cast bronze figures and tax land ten yuan per mu during floods and droughts, Lu Kang remonstrated, citing historical examples of how excessive taxes caused disasters. Concubines falsely accused him of disrespect, and he was sent to court in a prison cart. He was dismissed but later became Yilang. When the Lujiang thief Huang Rang gathered over 100,000 people, Lu Kang became prefect of Lujiang, defeated them, and the rest surrendered. During Emperor Xian's reign, he sent tribute to court despite chaos. When Yuan Shu demanded soldiers and armor, Lu Kang refused, preparing defenses. Yuan Shu sent Sun Ce to attack; Lu Kang held out for two years before the city fell. He died a month later at seventy. His youngest son Lu Ji served Wu as governor of Yulin and was known for filial piety, once taking oranges from Yuan Shu's table for his mother.
+

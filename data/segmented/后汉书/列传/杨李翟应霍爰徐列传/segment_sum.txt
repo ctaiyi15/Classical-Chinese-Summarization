@@ -1,0 +1,365 @@
+Summary uses chunk [0, 0, 3, 4, 8, 9, 15, 16, 18]
+
+Chunk 0: 
+original: 
+杨终字子山，蜀郡成都人也。
+年十三，为郡小吏，太守奇其才，遣诣京师受业，习《春秋》，显宗时，征诣兰台，拜校书郎。
+建初元年，大旱谷贵，终以为广陵、楚、淮阳、济南之狱，徙者万数，又远屯绝域，吏民怨旷，乃上疏曰：臣闻 善善及子孙，恶恶止其身 ，百王常典，不易之道也。
+秦政酷烈，违忤天心，一人有罪，延及三族。
+高祖平乱，约法三章。
+太宗至仁，除去收孥。
+万姓廓然，蒙被更生，泽及昆虫，功垂万世。
+陛下圣明，德被四表。
+今以比年久旱，灾疫未息，躬自菲薄，广访失得，三代之隆，无以加焉。
+臣窃桉《春秋》水旱之变，皆应暴急，惠不下流。
+自永平以来，仍连大狱，有司穷考，转相牵引，掠考冤滥，家属徒边。
+加以北征匈奴，西开三十六国，频年服役，转输烦费。
+又远屯伊吾，楼兰、车师、戊己，民怀土思，怨结边域。
+translation: 
+◆Yang Zhongchuan, named Zishan, was from Chengdu, Shu County.
+When he was thirteen years old, he was a county official. The prefect thought his talent was very strange and sent him to the capital to study "Spring and Autumn". During the reign of Emperor Xianzong, he was called to Lantai and worshiped as the school's secretary.
+In the first year of Jianchu, there was a severe drought and the price of grain was high. Yang Zhong thought that tens of thousands of people were imprisoned in Guangling, Chu, Huaiyang, Jinan and other places, and they were stationed in remote areas. There were many complaints from the officials and the people, so he went to Shudao: I heard that "good deeds are passed on to descendants, and evil deeds stop themselves." A hundred kings have always followed the rules, and this is an unchanging truth.
+The politics of the Qin Dynasty were cruel and severe, and it went against the will of God. One person was guilty, and three tribes were implicated.
+Emperor Gaozu pacified the troubled times and made three chapters.
+Taizong was extremely merciful and removed the law of accepting children.
+Wan people with the surname Kuoran will receive the blessing of rebirth, their blessings will reach the level of insects, and their achievements will last forever.
+Your Majesty is wise and holy, and his virtue is reflected in his words.
+Nowadays, there have been years of drought, continuous epidemics, low self-esteem, and extensive visits to gain and lose. Even the prosperity of three generations is nothing more than this and cannot be increased any more.
+If I privately check the records of floods and droughts in the Spring and Autumn Annals, I should respond with urgency and not be obscene in my kindness.
+Since the Yongping period, there are still large prisons, with officials chasing each other, pulling each other, plundering and interrogating prisoners, unjustly killing innocent people, and sending their families to the army.
+In addition, the north conquered the Huns and the west opened up thirty-six countries. They served for many years and the transportation was very expensive.
+They also settled in Yiwu, Loulan, Cheshi and Wuji far away. The people missed their hometown and resented the border areas.
+
+summary:
+summary line 0: # Summary of Historical Biographies
+
+Chunk 0: 
+original: 
+杨终字子山，蜀郡成都人也。
+年十三，为郡小吏，太守奇其才，遣诣京师受业，习《春秋》，显宗时，征诣兰台，拜校书郎。
+建初元年，大旱谷贵，终以为广陵、楚、淮阳、济南之狱，徙者万数，又远屯绝域，吏民怨旷，乃上疏曰：臣闻 善善及子孙，恶恶止其身 ，百王常典，不易之道也。
+秦政酷烈，违忤天心，一人有罪，延及三族。
+高祖平乱，约法三章。
+太宗至仁，除去收孥。
+万姓廓然，蒙被更生，泽及昆虫，功垂万世。
+陛下圣明，德被四表。
+今以比年久旱，灾疫未息，躬自菲薄，广访失得，三代之隆，无以加焉。
+臣窃桉《春秋》水旱之变，皆应暴急，惠不下流。
+自永平以来，仍连大狱，有司穷考，转相牵引，掠考冤滥，家属徒边。
+加以北征匈奴，西开三十六国，频年服役，转输烦费。
+又远屯伊吾，楼兰、车师、戊己，民怀土思，怨结边域。
+translation: 
+◆Yang Zhongchuan, named Zishan, was from Chengdu, Shu County.
+When he was thirteen years old, he was a county official. The prefect thought his talent was very strange and sent him to the capital to study "Spring and Autumn". During the reign of Emperor Xianzong, he was called to Lantai and worshiped as the school's secretary.
+In the first year of Jianchu, there was a severe drought and the price of grain was high. Yang Zhong thought that tens of thousands of people were imprisoned in Guangling, Chu, Huaiyang, Jinan and other places, and they were stationed in remote areas. There were many complaints from the officials and the people, so he went to Shudao: I heard that "good deeds are passed on to descendants, and evil deeds stop themselves." A hundred kings have always followed the rules, and this is an unchanging truth.
+The politics of the Qin Dynasty were cruel and severe, and it went against the will of God. One person was guilty, and three tribes were implicated.
+Emperor Gaozu pacified the troubled times and made three chapters.
+Taizong was extremely merciful and removed the law of accepting children.
+Wan people with the surname Kuoran will receive the blessing of rebirth, their blessings will reach the level of insects, and their achievements will last forever.
+Your Majesty is wise and holy, and his virtue is reflected in his words.
+Nowadays, there have been years of drought, continuous epidemics, low self-esteem, and extensive visits to gain and lose. Even the prosperity of three generations is nothing more than this and cannot be increased any more.
+If I privately check the records of floods and droughts in the Spring and Autumn Annals, I should respond with urgency and not be obscene in my kindness.
+Since the Yongping period, there are still large prisons, with officials chasing each other, pulling each other, plundering and interrogating prisoners, unjustly killing innocent people, and sending their families to the army.
+In addition, the north conquered the Huns and the west opened up thirty-six countries. They served for many years and the transportation was very expensive.
+They also settled in Yiwu, Loulan, Cheshi and Wuji far away. The people missed their hometown and resented the border areas.
+
+summary:
+summary line 1: **Yang Zhong** (courtesy name Zishan), from Chengdu, Shu County, became a county official at thirteen. The prefect, impressed by his talent, sent him to study the *Spring and Autumn Annals* in the capital. During Emperor Xianzong's reign, he served at Lantai as school secretary. In the first year of Jianchu, during a severe drought and high grain prices, Yang Zhong submitted a memorial arguing that excessive imprisonment and military settlements in remote areas caused widespread suffering. He cited historical precedents, including the Qin dynasty's harsh policies and Emperor Gaozu's reforms, urging the emperor to show mercy. When officials debated his proposals, Yang Zhong defended his position by referencing historical examples of wise rulers who changed harmful policies. The emperor eventually accepted his advice, recalling exiles and ending border settlements. Yang Zhong also advocated for scholarly examinations following the Shiqu Pavilion model, leading to the Baihu Temple conference. Despite imprisonment, he was pardoned and participated. He later edited the *Tai Shi Gong Shu* and wrote on the *Spring and Autumn Annals*. He died in the twelfth year of Yongyuan.
+
+Chunk 3: 
+original: 
+子豫后坐县书诽谤，廖以就国。
+终兄凤为郡吏，太守廉范为州所考，遣凤侯终，终为范游说，坐徙北地。
+帝东巡狩，凤皇黄龙并集，终赞颂嘉瑞，上述祖宗鸿业，凡十五章，奏上，诏贳还故郡。
+著《春秋外传》十二篇，改定章句十五万言。
+永元十二年，征拜郎中，以病卒。
+李法字伯度，汉中南郑人也。
+博通群书，性刚而有节。
+和帝永元九年，应贤艮方正对策。除博士，迁侍中、光禄大夫。
+岁余，上疏以为朝政苛碎，违永平、建初故事；宦官权重，椒房宠盛，又讥史官记事不实，后世有识，寻功计德，必不明信。
+坐失旨，下有司，免为庶人，还乡里，杜门自守。
+故人儒生时有侯之者，言谈之次，问其不合上意之由，法未尝应对。
+友人固问之，法曰： 鄙夫可与事君乎哉？
+敬患失之，无所不至。
+孟子有言： 夫仁者如射，正己而后发。
+发而不中，不怨胜己者，反诸身而已矣。
+translation: 
+His son Ma Yu later committed a crime of defamation by hanging a letter, and Ma Liao returned to his fiefdom.
+Yang Zhong's brother Yang Feng was a county official. Lian Fan, the prefect, was examined by the state and sent Yang Feng to accompany Yang Zhong. Yang Zhong lobbied for Lian Fan and was exiled to the north.
+The emperor went on a tour to the east, and the phoenix and yellow dragon gathered together. Yang Zhong praised Jiarui for his good fortune and the great deeds of his ancestors mentioned above. There are fifteen chapters in total, and he is memorialized and ordered to return to his hometown without guilt.
+He wrote twelve chapters of "Spring and Autumn Annals", with 150,000 words of revised chapters and sentences.
+In the twelfth year of Yongyuan's reign, the doctor who was summoned to worship him died of illness.
+◆Li Fazhuan, whose courtesy name is Bodu, was born in Nanzheng, Hanzhong.
+He is well-versed in books and has an upright and disciplined personality.
+In the ninth year of Emperor Yongyuan's reign, in response to the virtuous and correct strategy, he was awarded a doctor's degree and promoted to the rank of Shizhong and Guanglu doctor.
+For more than a year, Shangshu believed that the government was harsh and violated the old rules of Yongping and Jianchu years; the eunuchs were too powerful and the concubines were favored too much;
+Because he committed the crime of violating the decree, he was handed over to the judicial office, removed from office and became a commoner. Return to your hometown and close the door to yourself.
+My old friend, the Confucian scholar, would greet me from time to time. While talking, I would ask him why he didn't agree with me, but Fa never answered.
+The friend asked him firmly, and Fa replied: Can a despicable person serve the king with him?
+If you are worried about making a mistake, you will be tempted to engage in sycophantic behavior.
+Mencius once said: A benevolent person is like an archer. He must stand upright and then shoot the arrow.
+If you miss the target, don't blame those who are better than you, just blame yourself.
+
+summary:
+summary line 2: **Li Fa** (courtesy name Bodu), from Nanzheng, Hanzhong, was well-read and upright. In the ninth year of Emperor Yongyuan's reign, he became a doctor and later Shizhong and Guanglu doctor. He criticized harsh government policies, excessive eunuch power, and favoritism toward concubines, which led to his removal from office. He returned home and lived in seclusion for eight years, refusing to discuss politics with friends. He later served as Yilang and admonished officials, maintaining his principles. As governor of Runan, he achieved political success before returning home and dying.
+
+Chunk 4: 
+original: 
+在家八年，征拜议郎、谏议大夫，正言极辞，无改于旧。
+出为汝南太守，政有声迹。
+后归乡里，卒于家。
+翟酺字子超，广汉雒人也。
+四世传《诗》。
+酺好《老子》，尤善图纬、天文、历算。
+以报舅仇，当徙日南，亡于长安，为卜相工，后牧羊凉州。
+遇赦还。
+仕郡，征拜议郎，迁侍中。
+时，尚书有缺，诏将大夫六百石以上试对政事、天文、道术，以高第者补之。
+自恃能高，而忌故太史令孙懿，恐其先用，乃往侯懿。
+既坐，言无所及，唯涕泣流连。
+懿怪而问之，酺曰： 图书有汉贼孙登，将以才智为中官所害。观君表相，似当应之。
+酺受恩接，凄怆君之祸耳！
+懿忧惧，移病不试。
+由是酺对第一，拜尚书。
+时，安帝始亲政事，追感祖母宋贵人，悉封其家。
+又元舅耿宝及皇后兄弟阎显等并用威权。酺上疏谏曰：臣闻微子佯狂而去殷，叔孙通背秦而归汉，彼非自疏其君，时不可也。
+translation: 
+After staying at home for eight years, he was worshiped as Yilang and admonished the officials. He spoke the right words and did not change his old habits.
+Later he went out to be the governor of Runan and became very famous in politics.
+Later he returned to his hometown and died at home.
+◆Zhai Youfu's biography, Zhai Youfu's courtesy name is Zichao, and he was born in Luo, Guanghan.
+The Book of Songs was passed down by the fourth generation.
+Zhai Youfu is good at "Laozi" and is especially good at charting, astronomy and calendar calculation.
+In order to avenge his uncle, he served as a soldier in Rinan, fled to Chang'an, worked as a fortune teller, and later shepherded sheep in Liangzhou.
+Returned after being pardoned.
+When he became an official in the county, he was summoned to be Yilang and moved to the position of Shizhong.
+At that time, there was a vacancy in the official books, and the officials were ordered to test political affairs, astronomy, Taoism and other subjects with more than 600 shi, and those with higher rankings would fill the vacancies.
+Zhai Youfu relied on his high ability, but he was afraid that Sun Yi, the former Taishi Ling, would be used first, so he went to greet Sun Yi.
+Already sitting down, the conversation did not come to the main topic, only crying.
+Sun Yi felt strange and asked him, and Zhai Youfu said: "There is a Han thief Sun Deng in the book. He will be killed by a middle official because of his intelligence. Judging from your appearance, it seems that you should be worthy of it."
+I have been favored, but I am worried about your misfortune!
+Sun Yi was very scared, so he claimed to be ill and refused to take the exam.
+So Zhai Youfu became the first minister and became the minister.
+At this time, Emperor An just came to the political affairs in person, and in memory of his grandmother Song Guiren, he granted all his family titles.
+In addition, his uncle Geng Bao and the queen's brother Yan Xian all used their authority. Zhai Youfu went to the court and remonstrated: "I heard that Weizi pretended to be crazy and left the Yin and Shang Dynasties, and Shusun Tong abandoned the Qin Dynasty and returned to the Han Dynasty. They are not alienating themselves from the monarch, and the situation is unstoppable."
+
+summary:
+summary line 3: **Zhai Youfu** (courtesy name Zichao), from Luo, Guanghan, was skilled in the *Book of Songs*, *Laozi*, astronomy, and calendar calculation. After avenging his uncle, he fled to Chang'an, worked as a fortune teller, and later shepherded sheep in Liangzhou. He eventually became a court official. When a vacancy arose, he manipulated the examination process out of fear of competition. He submitted a memorial criticizing the emperor for granting excessive power to relatives and eunuchs, warning of historical disasters from such practices. He advocated for frugality and wise counsel. His memorial was ignored, and he became feared by the emperor's favorites. As prefect of Jiuquan, he defeated Qiang rebels, beheading 900. He later served as Jing Zhaoyin and Guanglu doctor. He was falsely accused, imprisoned, and eventually cleared. He wrote twelve chapters on classical texts and advocated for restoring the Imperial Academy, which the emperor approved.
+
+Chunk 8: 
+original: 
+曾祖父顺，字华仲，和帝时为河南尹、将作大匠，公廉约己，明达政事。
+生十子，皆有才学。
+中子叠，江夏太守，叠生郴，武陵太守。
+郴生奉。
+奉少聪明，自为童兒及长，凡所经履，莫不暗记。
+读书五行并下。
+为郡决曹史，行部四十二县，录囚徒数百千人。
+及还，太守备问之，奉口说罪系姓名，坐状轻重，无所遣脱，时人奇之。
+著《汉书后序》，多所述载。
+大将军梁冀举茂才。
+先是，武陵蛮詹山等四千余人反叛，执县令，屯结连年。诏下公卿议，四府举奉才堪将帅。
+永兴元元，拜武陵太守。
+到官慰纳，山等皆悉降散。
+于是兴学校，举仄陋，政称变俗。
+坐公事免。
+延熹中，武陵蛮复寇乱荆州，车骑将军冯绲以奉有威恩，为蛮夷所服，上请与俱征。
+拜从事中郎。
+奉勤设方略，贼破军罢，绲推功于奉，荐为司隶校尉。
+纠举奸违，不避豪威，以严厉为名。
+及邓皇后败，而田贵人见幸，桓帝有建立之议。
+translation: 
+Great-grandfather Ying Shun, named Hua Zhong, was a Yin of Henan Province and a great craftsman during the reign of Emperor He. He was fair and honest, restrained himself, and understood political affairs.
+He gave birth to ten sons, all of whom were talented and learned.
+Zhongzi Qingdie was the governor of Jiangxia. Diesheng Chen was the prefect of Wuling.
+Chen Shengfeng.
+Ying Feng was very smart when he was young. From childhood to old age, he secretly remembered everything he passed.
+Reading can bring the five elements together.
+As the governor of the county, he visited forty-two counties and recorded hundreds of thousands of prisoners.
+When he came back, the prefect asked all the questions and told him the name of the prisoner and the severity of the crime without omitting anything. People at that time were surprised.
+He wrote the "Preface to the Book of Han", which contains many records.
+General Liang Ji promoted him to Maocai.
+First, Wuling Man Zhanshan and more than 4,000 people rebelled, captured the county magistrate, and camped for several years. The imperial court issued an order to discuss with the ministers, and the four government officials recommended him, believing that he had the talent of a general.
+In the first year of Yongxing, he was appointed as the prefect of Wuling.
+After arriving at the government office, he offered condolences and received them. Zhan Shan and others all surrendered and scattered.
+So schools were set up, the mediocre talents were promoted, and the political reputation was changed to a secular one.
+Removal from office for official crimes.
+During the Yanxi period, the Wuling barbarians invaded Jingzhou again. The chariot and cavalry general Feng Cui believed that Feng You should have prestige and was convinced by the barbarians. He wrote a letter requesting to join him in the expedition.
+Become a Zhonglang.
+Should Fengqin set up strategies, and after the thieves defeated the army, Feng Kui commended Feng for his merits and recommended him as Sili Xiaowei.
+He reports bad people, does not avoid relatives, and is famous for his severity.
+Later, Empress Deng failed, but Tian Guiren was favored, and Emperor Huan wanted to make her his queen.
+
+summary:
+summary line 4: **Ying Feng** (courtesy name Shishu), from Nandun, Runan, was exceptionally intelligent, memorizing everything he read. As governor, he visited forty-two counties and accurately recalled prisoner details. He wrote the *Preface to the Book of Han*. During a Wuling Man rebellion, he was appointed prefect and successfully pacified them through diplomacy. He later served as Sili Xiaowei, known for his severity. When Emperor Huan wanted to make Tian Guiren queen, Ying Feng advised against it, citing historical disasters from such choices. The emperor accepted his advice. He later resigned due to illness and wrote thirty chapters commemorating Qu Yuan.
+
+Chunk 9: 
+original: 
+奉以田氏微贱，不宜超登后位，上书谏曰： 臣闻周纳狄女，襄王出居于郑；汉立飞燕，成帝胤嗣泯绝。
+母后之重，兴废所因。
+宜思《关雎》之所求，远五禁之所忌。
+帝纳其言，竟立窦皇后。
+及党事起，奉乃慨然以疾自退。
+追愍屈原，因以自伤，著《感骚》三十篇，数万言。
+诸公多荐举，会病卒。
+子劭。
+劭字仲远。
+少笃学，博览多闻。
+灵帝时举孝廉，辟车骑将军何苗掾。
+中平二年，汉阳贼边章、韩遂与羌胡为寇，东侵三辅，时遣车骑将军后甫嵩西讨之。
+嵩请发乌桓三千人。
+北军中侯邹靖上言： 乌桓众弱，宜开募鲜卑。
+事下四府，大将军掾韩卓议，以为： 乌桓兵寡，而与鲜卑世为仇敌，若乌桓被发，则鲜卑必袭其家。
+乌桓闻之，当复弃军还救。
+非唯无益于实，乃更沮三军之情。
+邹靖居近边塞，究其态诈。
+若令靖募鲜卑轻骑五千，必有破敌之效。
+邵驳之曰：鲜卑隔在漠北，犬羊为群，无君长之帅，庐落之居，而天性贪暴，不拘信义，故数犯障塞，且无宁岁。
+translation: 
+Ying Feng believed that the Tian family was of humble origin and should not rise to the throne, so he wrote a letter to advise: I heard that the Zhou Dynasty accepted Di Nu, and King Xiang came to live in Zheng; the Han Dynasty established Zhao Feiyan, and the descendants were exterminated after becoming emperor.
+The importance of the mother is the reason for the rise and fall of the country.
+You should think about what "Guan Sui" asks for, and what the king prohibits.
+The emperor adopted his opinion and appointed Queen Dou.
+When the later party affairs broke out, Ying Feng resigned from his post because of illness.
+In order to commemorate Qu Yuan, he wrote thirty chapters of "Gan Sao" with tens of thousands of words.
+Many officials recommended him, but he died of illness.
+The son Ying Shao.
+◆Ying Shao Chuan, Ying Shao's courtesy name is Zhongyuan.
+When he was young, he was studious and well-read.
+During the reign of Emperor Ling, he was promoted to Xiaolian and appointed as a messenger to the chariot and cavalry general He Miao.
+In the second year of Zhongping, the Hanyang thieves Bian Zhang and Han Sui, together with the Qiang and Hu, became border bandits and invaded Sanfu from the east. At that time, the imperial court sent Chariot and Cavalry General Huangfu Song to the west to attack them.
+Song requested that three thousand Wuhuan people be mobilized to fight together.
+Zou Jing, the Zhonghou of the Northern Army, wrote: Wuhuan's troops are weak, so we should recruit Xianbei people to help in the battle.
+After returning home to discuss the matter, General Han Zhuo suggested: Wuhuan has few soldiers and has been an enemy of Xianbei for generations. If Wuhuan is transferred, Xianbei will definitely attack his home.
+After Wuhuan heard about it, he would definitely abandon his army and go back to rescue.
+Not only is it unhelpful to the actual situation, but it also depresses the mood of the three armed forces.
+Zou Jing lives near the border and knows their deceit.
+If Zou Jing were to recruit five thousand Xianbei soldiers, he would be able to defeat the enemy.
+Ying Shao retorted: "Xianbei was isolated in Mobei, living with dogs and sheep. He had no ruler to command him, and he did not live in a hut. He was greedy, cruel and unfaithful by nature, so he invaded the frontiers several times and had no peaceful years."
+
+summary:
+summary line 5: **Ying Shao** (courtesy name Zhongyuan), studious and well-read, served as a messenger under Emperor Ling. During border conflicts, he argued against recruiting Xianbei soldiers, citing their unreliability and past betrayals. His view prevailed. As prefect of Taishan, he defeated 300,000 Yellow Turban rebels. After failing to protect Cao Song, he fled to Yuan Shao. He wrote extensively on legal matters, compiling works like *Han Yi* and *Customs of Customs*. He refuted legal precedents, arguing that punishment should follow established principles. His writings totaled 136 works, and he interpreted the *Book of Han*. He died in Ye.
+
+Chunk 15: 
+original: 
+譬犹疗饥于附子，止渴于鸩毒，未入肠胃，已绝咽喉，岂可为哉！
+昔东海孝妇见枉不辜，幽灵感革，天应枯旱。
+光之所坐，情既可原，守阙连年，而终不见理。
+呼嗟紫宫之门，泣血两观之下，伤和致灾，为害滋甚。
+凡事更赦令，不应复案。
+夫以罪刑明白，尚蒙天恩，岂有冤谤无征，反不得理？
+是为刑宥正罪，戮加诬侵也。
+不偏不党，其若是乎？
+明将军德盛位尊，人臣无二，言行动天地，举厝移阴阳，诚能留神，沛然晓察，必有于公高门之福，和气立应，天下幸甚。
+商高谞才志，即为奏原光罪，由是显名。
+仕郡，举孝廉，稍迁金城太守。
+性明达笃厚，能以恩信化诱殊俗，甚为羌胡所敬服。
+遭母忧，自上归行丧。
+服阙，公车征，再迁北海相，入为尚书仆射。
+是时，大将军梁冀贵戚秉权，自公卿以下莫敢违忤。
+translation: 
+It is like using aconite to satisfy hunger or drinking poisonous poison to quench thirst. It has not entered the stomach and intestines and has cut off the throat. How can it be done?
+Once upon a time, a filial woman in the East China Sea was wronged, and the ghost moved the sky. There was a drought for three years without rain.
+The crime committed by Song Guang was excusable. He had been guarding the palace for two years, but he finally ignored him.
+Screaming injustice at the gate of the Purple Palace, weeping blood under the two views, causing injury and disaster, will cause great harm.
+All cases that have been pardoned should not be reopened.
+Generally speaking, if the crime and punishment are clear and God has received grace, how can there be unjust slander without evidence and be inadmissible?
+This is a punishment to forgive the true crime, killing and false accusation of invasion.
+Is it possible to be impartial and impartial?
+The generals of the Ming Dynasty have great virtues and high positions, and are unique among ministers. Their words and deeds can move heaven and earth, and their actions can move yin and yang. If they can be paid attention to and examined carefully, they will surely be blessed by the East China Sea. If you are harmonious and responsive, the world will be very lucky.
+Liang Shang thought that Huo Chen was very talented and intellectual, so he immediately submitted a petition to pardon Song Guang's crime. From then on, Huo Chen's reputation became very prominent.
+Huo Xu served as an official there, was promoted to Xiaolian, and later moved to the post of prefect of Jincheng.
+Huo Xu has an upright and sincere character, and is able to seduce people from all walks of life with kindness and trust. He is highly respected by the Qiang and Hu people.
+When my mother died, I wrote a letter and went home to hold a funeral.
+After the mourning clothes were finished, he was summoned for public service, became the prime minister of Beihai, and entered the court as a minister.
+At this time, the general Liang Ji and his relatives had exclusive power, and no one from the minister level dared to violate it.
+
+summary:
+summary line 6: **Huo Chen** (courtesy name Shuzhi), from Ye, Wei County, was a young scholar. When his uncle Song Guang was falsely accused and imprisoned, fifteen-year-old Huo Chen wrote to General Liang Shang, arguing for leniency based on the *Spring and Autumn Annals* principle of judging intent. Liang Shang pardoned Song Guang, and Huo Chen became famous. He served as prefect of Jincheng, respected by the Qiang and Hu. After his mother's death, he resigned for mourning. He later served as prime minister of Beihai and minister, courageously opposing Liang Ji's power. After Liang Ji's death, Emperor Huan honored him. He died in office.
+
+Chunk 16: 
+original: 
+谞与尚书令尹勋数奏其事，又因陛见陈闻罪失。
+及冀诛后，桓帝嘉其忠节，封鄴都亭侯。
+前后固让，不许。
+出为河南尹，迁司隶校尉，转少府、廷尉，卒官。
+子俊，安定太守。
+爰延字季平，陈留外黄人也。
+清苦好学，能通经教授。
+性质悫，少言辞。
+县令陇西牛述好士知人，乃礼请延为廷掾，范丹为功曹，濮阳潜为主籍，常共言谈而已。
+后令史昭以为乡啬夫，仁化大行，人但闻啬夫，不知郡县。
+在事二年，州府礼请，不就。
+桓帝时征博士，太尉杨秉等举贤良方正，再迁为侍中。
+帝游上林苑，从容问延曰： 朕何如主也？
+对曰： 陛下为汉中主。
+帝曰： 何以言之？
+对曰： 尚书令陈蕃任事则化，中常侍黄门豫政则乱，是以知陛下可与为善，可与为非。
+帝曰： 昔朱云廷折栏槛，今侍中面称朕违，敬闻阙矣。
+拜五官中郎将，转长水校尉，迁魏郡太守，征拜大鸿胪。
+translation: 
+Huo Xu and Shangshu ordered Yin Xun to report the matter several times, and they confessed their faults in person when they met.
+After Liang Ji was killed, Emperor Huan commended him for his loyalty and granted him the title of Tinghou of Yedu.
+He resolutely resigned and did not agree.
+Later, he was promoted to Henan Yin, moved to Sili Xiaowei, and was transferred to Shaofu and Tingwei. Died in official position.
+His son Huo Jun became the governor of Anding.
+◆Yan Yan's biography, whose courtesy name is Ji Ping, is from Chen Liuwai Huang.
+He comes from a poor family, is very studious, and can teach apprentices well.
+His temperament is simple and sincere, and he seldom talks.
+The county magistrate Longxi Niu Shu was a good scholar and knew people, so he politely asked Yuan Yan to be the court official, Fan Dan to be the meritorious official, and Puyang Qian to be the chief bookkeeper. They often talked together.
+Later, Shi Zhao was ordered to use him as a village miser, and benevolent government and education became popular. People only heard of the miser's name and did not know who the county was.
+After two years in office, the state government politely invited me, but I didn't go.
+When Emperor Huan recruited doctors, Taiwei Yang Bing and others promoted him to be virtuous and upright, and Yuan Yan was promoted to the rank of Attendant.
+The emperor swam to Linyuan and asked Yuanyan calmly: What kind of monarch am I?
+He replied: Your Majesty is the Lord of Hanzhong.
+Emperor asked: How?
+Correspondence: Shangshu ordered Chen Fan to handle matters successfully, and the minister Huangmen intervened in the government affairs to prevent chaos. Therefore, he knew that your majesty can be kind to others, and he can also be wrong with others.
+The emperor said: In the past, Zhu Yun's admonition to the emperor caused the court to break down the railings, but now the servants call me "disobedient" and are respectfully heard in the court.
+So he worshiped Yuanyan as a general of the rank and file of the five sense organs, then a lieutenant of Changshui, then a prefect of Wei County, and was conscripted into the rank of Dahonglu.
+
+summary:
+summary line 7: **Yuan Yan** (courtesy name Jiping), from Chenliu, was poor but studious. He served as a village official, known for benevolent governance. When Emperor Huan asked what kind of ruler he was, Yuan Yan replied he was a "Lord of Hanzhong," explaining that while Chen Fan handled affairs well, eunuchs interfered. The emperor appointed him to various positions. Yuan Yan warned against favoring unworthy associates, citing historical disasters from such practices. He urged the emperor to distance himself from flatterers and eunuchs. He later retired due to illness and died.
+
+Chunk 18: 
+original: 
+帝省其奏。
+因以病自上，乞骸骨还家。灵帝复特征，不行，病卒。
+子骥，白马令，亦称善士。
+徐璆字孟玉，广陵海西人也。
+父淑，度辽将军，有名于边。
+璆少博学，辟公府，举高第。
+稍迁荆州刺史。时，董太后姊子张忠为南阳太守，因势放滥，臧罢数亿。
+璆临当之部，太后遣中常侍以忠属璆。
+璆对曰： 臣身为国，不敢闻命。
+太后怒，遽征忠为司隶校尉，以相威临。
+璆到州，举奏忠臧余一亿，使冠军县上簿诣大司农，以彰暴其事。
+又奏五郡太守及属县有臧污者，悉征案罪，威风大行。
+中平元年，与中郎将朱俊击黄巾贼于宛，破之。
+张忠怨璆，与诸阉官构造无端，璆遂以罪征。
+有破贼功，得免官归家。
+后再征，迁汝南太守，转东海相，所在化行。
+献帝迁许，以廷尉征，当诣京师，道为袁术所劫，授璆以上公之位。
+璆乃叹曰： 龚胜、鲍宣，独何人哉？
+translation: 
+The emperor inspected the report.
+So he took advantage of his illness and asked to retire and go home. Emperor Ling called again, but he failed and died of illness.
+Zi Yuanji, the magistrate of Baima County, was also known as a philanthropist.
+According to the biography of Xu Qiu, Xu Chu was named Meng Yu and was from Haixi in Guangling.
+His father, Xu Shu, was a general who conquered the Liao Dynasty and was famous in the frontier.
+Xu Chu was a learned man when he was young, so he was called into the palace and promoted to a high rank.
+Soon he was promoted to the governor of Jingzhou. At that time, Zhang Zhong, the son of Governor Dong's sister, was the governor of Nanyang. Because of his power and unruly behavior, he gained hundreds of millions in stolen goods.
+When Xu Chu was in charge, the Queen Mother sent a regular attendant to entrust Zhang Zhong to Xu Chu.
+Xu Chu replied: As a countryman, I dare not obey orders.
+The Empress Dowager was angry and quickly summoned Zhang Zhong as the Sili Xiaowei to attack with power.
+After Xu Chu arrived in the state, he reported the case to Zhang Zhong and Zang Yu 100 million, and sent Champion County Supervisor to Da Si Nong to expose the matter.
+He also reported to the governors of the five counties and the subordinate counties that there were corrupt thieves, and they were all brought to justice.
+In the first year of Zhongping, he and Zhonglang general Zhu Jun attacked the Yellow Turban bandits in Wan County and defeated them.
+Zhang Zhong hated Xu Chu and fabricated unfounded crimes with other eunuchs. Xu Chu was recalled because of the crime.
+Because he succeeded in defeating the thief, he was exempted from official duties and returned home.
+Later, he was recruited again and moved to Runan to be the governor, and then to be the prime minister of the East China Sea. The place where he lived was very popular.
+Emperor Xian moved the capital to Xuchang, and Xu Chu was recruited as a court lieutenant to serve in the capital. However, he was kidnapped by Yuan Shu on the way and was granted the title of Grand Duke.
+Xu Chu sighed and said, "What kind of people are Gong Sheng and Bao Xuan?"
+
+summary:
+summary line 8: **Xu Chu** (courtesy name Mengyu), from Guangling, was learned and served as governor of Jingzhou. He prosecuted corrupt officials, including Zhang Zhong, despite pressure from the Empress Dowager. He defeated Yellow Turban rebels but was falsely accused by eunuchs and dismissed. He later served as prime minister of Donghai. When Emperor Xian moved the capital, Xu Chu was kidnapped by Yuan Shu but refused to serve him. After Yuan Shu's defeat, Xu Chu recovered the imperial seal and returned it. He served as Taichang and died in office.
+

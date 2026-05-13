@@ -1,0 +1,628 @@
+Summary uses chunk [0, 0, 0, 0, 5, 5, 5, 7, 8, 9, 9, 11, 11, 11]
+
+Chunk 0: 
+original: 
+袁安字邵公，汝南汝阳人也。
+祖父良，习《孟氏易》，平帝时举明经，为太子舍人；建武初，至成武令。
+安少传良学。
+为人严重有威，见敬于州里。
+初为县功曹，奉檄诣从事，从事因安致书于令。安曰： 公事自有邮驿，私请则非功曹所持。
+辞不肯受，从事惧然而止。
+后举孝廉，除阴平长、任城令，所在吏人畏而爱之。
+永平十三年，楚王英谋为逆，事下郡复考。
+明年，三府举安能理剧，拜楚郡太守。
+是时英辞所连及系者数千人，显宗怒甚，吏案之急，迫痛自诬，死者甚众。
+安到郡，不入府，先往案狱，理其无明验者，条上出之。
+府丞掾史皆叩头争，以为阿附反虏，法与同罪，不可。
+安曰： 如有不合，太守自当坐之，不以相及也。
+translation: 
+◆Biography of Yuan An, Yuan An, courtesy name Shaogong, was born in Ruyang County, Runan County.
+Grandfather Yuan Liang studied "Mencius' Book of Changes". During the reign of Emperor Ping of the Han Dynasty, he was recommended for his Ming Dynasty and became the crown prince. In the early years of Jianwu, he became the magistrate of Chengwu County.
+Yuan An inherited the knowledge of his grandfather Yuan Liang when he was young.
+He is a very dignified man, has authority, and is respected by people in the state.
+He started to work as a county magistrate. Once, he went to the prefecture with a letter to do some work. He asked Yuan An to send a letter to the county magistrate. Yuan An said: "You are doing official business, and you have a post to deliver it for you. If it is a private matter, you should not ask me for merit."
+He declined to accept the letter, and the person in charge was a little scared, so he stopped entrusting him.
+Later, he was recommended as Xiaolian and became the magistrate of Yinping County and Rencheng County successively. Wherever he worked, officials and people respected and loved him.
+In the twelfth year of Yongping, King Liu Ying of Chu conspired to rebel against the imperial court, and the case was submitted to the county for verification.
+The next year, the three government offices recommended Yuan An to handle cases, believing that he could handle complex cases. The emperor appointed him as the prefect of Chu County.
+At this time, thousands of people were imprisoned due to the confession of Chu King Liu Ying. Xianzong lost his temper, and the investigators were eager to finalize the case. They tortured many people to force them to confess, and many of them were sentenced to death.
+After Yuan An arrived at the county, he went to the prison instead of entering the yamen, tried those who had no obvious evidence, reported them one by one, and let them be released from prison.
+The officials and officials of the government all kowtowed to Yuan An and argued that anyone who agreed with Liu Ying, the king of Chu, would be guilty of the same crime as Liu Ying according to the law. Yuan An disagreed.
+Yuan An said: If there is any violation of the regulations, I will bear full responsibility and will not harm you.
+
+summary:
+summary line 0: # Summary of Historical Biographies
+
+Chunk 0: 
+original: 
+袁安字邵公，汝南汝阳人也。
+祖父良，习《孟氏易》，平帝时举明经，为太子舍人；建武初，至成武令。
+安少传良学。
+为人严重有威，见敬于州里。
+初为县功曹，奉檄诣从事，从事因安致书于令。安曰： 公事自有邮驿，私请则非功曹所持。
+辞不肯受，从事惧然而止。
+后举孝廉，除阴平长、任城令，所在吏人畏而爱之。
+永平十三年，楚王英谋为逆，事下郡复考。
+明年，三府举安能理剧，拜楚郡太守。
+是时英辞所连及系者数千人，显宗怒甚，吏案之急，迫痛自诬，死者甚众。
+安到郡，不入府，先往案狱，理其无明验者，条上出之。
+府丞掾史皆叩头争，以为阿附反虏，法与同罪，不可。
+安曰： 如有不合，太守自当坐之，不以相及也。
+translation: 
+◆Biography of Yuan An, Yuan An, courtesy name Shaogong, was born in Ruyang County, Runan County.
+Grandfather Yuan Liang studied "Mencius' Book of Changes". During the reign of Emperor Ping of the Han Dynasty, he was recommended for his Ming Dynasty and became the crown prince. In the early years of Jianwu, he became the magistrate of Chengwu County.
+Yuan An inherited the knowledge of his grandfather Yuan Liang when he was young.
+He is a very dignified man, has authority, and is respected by people in the state.
+He started to work as a county magistrate. Once, he went to the prefecture with a letter to do some work. He asked Yuan An to send a letter to the county magistrate. Yuan An said: "You are doing official business, and you have a post to deliver it for you. If it is a private matter, you should not ask me for merit."
+He declined to accept the letter, and the person in charge was a little scared, so he stopped entrusting him.
+Later, he was recommended as Xiaolian and became the magistrate of Yinping County and Rencheng County successively. Wherever he worked, officials and people respected and loved him.
+In the twelfth year of Yongping, King Liu Ying of Chu conspired to rebel against the imperial court, and the case was submitted to the county for verification.
+The next year, the three government offices recommended Yuan An to handle cases, believing that he could handle complex cases. The emperor appointed him as the prefect of Chu County.
+At this time, thousands of people were imprisoned due to the confession of Chu King Liu Ying. Xianzong lost his temper, and the investigators were eager to finalize the case. They tortured many people to force them to confess, and many of them were sentenced to death.
+After Yuan An arrived at the county, he went to the prison instead of entering the yamen, tried those who had no obvious evidence, reported them one by one, and let them be released from prison.
+The officials and officials of the government all kowtowed to Yuan An and argued that anyone who agreed with Liu Ying, the king of Chu, would be guilty of the same crime as Liu Ying according to the law. Yuan An disagreed.
+Yuan An said: If there is any violation of the regulations, I will bear full responsibility and will not harm you.
+
+summary:
+summary line 1: ## Biography of Yuan An
+
+Chunk 0: 
+original: 
+袁安字邵公，汝南汝阳人也。
+祖父良，习《孟氏易》，平帝时举明经，为太子舍人；建武初，至成武令。
+安少传良学。
+为人严重有威，见敬于州里。
+初为县功曹，奉檄诣从事，从事因安致书于令。安曰： 公事自有邮驿，私请则非功曹所持。
+辞不肯受，从事惧然而止。
+后举孝廉，除阴平长、任城令，所在吏人畏而爱之。
+永平十三年，楚王英谋为逆，事下郡复考。
+明年，三府举安能理剧，拜楚郡太守。
+是时英辞所连及系者数千人，显宗怒甚，吏案之急，迫痛自诬，死者甚众。
+安到郡，不入府，先往案狱，理其无明验者，条上出之。
+府丞掾史皆叩头争，以为阿附反虏，法与同罪，不可。
+安曰： 如有不合，太守自当坐之，不以相及也。
+translation: 
+◆Biography of Yuan An, Yuan An, courtesy name Shaogong, was born in Ruyang County, Runan County.
+Grandfather Yuan Liang studied "Mencius' Book of Changes". During the reign of Emperor Ping of the Han Dynasty, he was recommended for his Ming Dynasty and became the crown prince. In the early years of Jianwu, he became the magistrate of Chengwu County.
+Yuan An inherited the knowledge of his grandfather Yuan Liang when he was young.
+He is a very dignified man, has authority, and is respected by people in the state.
+He started to work as a county magistrate. Once, he went to the prefecture with a letter to do some work. He asked Yuan An to send a letter to the county magistrate. Yuan An said: "You are doing official business, and you have a post to deliver it for you. If it is a private matter, you should not ask me for merit."
+He declined to accept the letter, and the person in charge was a little scared, so he stopped entrusting him.
+Later, he was recommended as Xiaolian and became the magistrate of Yinping County and Rencheng County successively. Wherever he worked, officials and people respected and loved him.
+In the twelfth year of Yongping, King Liu Ying of Chu conspired to rebel against the imperial court, and the case was submitted to the county for verification.
+The next year, the three government offices recommended Yuan An to handle cases, believing that he could handle complex cases. The emperor appointed him as the prefect of Chu County.
+At this time, thousands of people were imprisoned due to the confession of Chu King Liu Ying. Xianzong lost his temper, and the investigators were eager to finalize the case. They tortured many people to force them to confess, and many of them were sentenced to death.
+After Yuan An arrived at the county, he went to the prison instead of entering the yamen, tried those who had no obvious evidence, reported them one by one, and let them be released from prison.
+The officials and officials of the government all kowtowed to Yuan An and argued that anyone who agreed with Liu Ying, the king of Chu, would be guilty of the same crime as Liu Ying according to the law. Yuan An disagreed.
+Yuan An said: If there is any violation of the regulations, I will bear full responsibility and will not harm you.
+
+summary:
+summary line 2: Yuan An, courtesy name Shaogong, was from Ruyang County in Runan. He inherited his grandfather Yuan Liang's knowledge of the *Book of Changes*. A dignified and authoritative man respected by his state, he began his career as a county magistrate. When a superior asked him to deliver a private letter, Yuan An refused, stating that official business should use official channels and private matters should not seek merit through him. He was later recommended as Xiaolian and served as magistrate of Yinping and Rencheng counties, where officials and people respected him.
+
+Chunk 0: 
+original: 
+袁安字邵公，汝南汝阳人也。
+祖父良，习《孟氏易》，平帝时举明经，为太子舍人；建武初，至成武令。
+安少传良学。
+为人严重有威，见敬于州里。
+初为县功曹，奉檄诣从事，从事因安致书于令。安曰： 公事自有邮驿，私请则非功曹所持。
+辞不肯受，从事惧然而止。
+后举孝廉，除阴平长、任城令，所在吏人畏而爱之。
+永平十三年，楚王英谋为逆，事下郡复考。
+明年，三府举安能理剧，拜楚郡太守。
+是时英辞所连及系者数千人，显宗怒甚，吏案之急，迫痛自诬，死者甚众。
+安到郡，不入府，先往案狱，理其无明验者，条上出之。
+府丞掾史皆叩头争，以为阿附反虏，法与同罪，不可。
+安曰： 如有不合，太守自当坐之，不以相及也。
+translation: 
+◆Biography of Yuan An, Yuan An, courtesy name Shaogong, was born in Ruyang County, Runan County.
+Grandfather Yuan Liang studied "Mencius' Book of Changes". During the reign of Emperor Ping of the Han Dynasty, he was recommended for his Ming Dynasty and became the crown prince. In the early years of Jianwu, he became the magistrate of Chengwu County.
+Yuan An inherited the knowledge of his grandfather Yuan Liang when he was young.
+He is a very dignified man, has authority, and is respected by people in the state.
+He started to work as a county magistrate. Once, he went to the prefecture with a letter to do some work. He asked Yuan An to send a letter to the county magistrate. Yuan An said: "You are doing official business, and you have a post to deliver it for you. If it is a private matter, you should not ask me for merit."
+He declined to accept the letter, and the person in charge was a little scared, so he stopped entrusting him.
+Later, he was recommended as Xiaolian and became the magistrate of Yinping County and Rencheng County successively. Wherever he worked, officials and people respected and loved him.
+In the twelfth year of Yongping, King Liu Ying of Chu conspired to rebel against the imperial court, and the case was submitted to the county for verification.
+The next year, the three government offices recommended Yuan An to handle cases, believing that he could handle complex cases. The emperor appointed him as the prefect of Chu County.
+At this time, thousands of people were imprisoned due to the confession of Chu King Liu Ying. Xianzong lost his temper, and the investigators were eager to finalize the case. They tortured many people to force them to confess, and many of them were sentenced to death.
+After Yuan An arrived at the county, he went to the prison instead of entering the yamen, tried those who had no obvious evidence, reported them one by one, and let them be released from prison.
+The officials and officials of the government all kowtowed to Yuan An and argued that anyone who agreed with Liu Ying, the king of Chu, would be guilty of the same crime as Liu Ying according to the law. Yuan An disagreed.
+Yuan An said: If there is any violation of the regulations, I will bear full responsibility and will not harm you.
+
+summary:
+summary line 3: In the twelfth year of Yongping, when King Liu Ying of Chu conspired to rebel, Yuan An was appointed prefect of Chu County to handle the case. Thousands were imprisoned due to confessions, and investigators tortured many to death. Yuan An went directly to the prison, tried those without clear evidence, and reported them for release. Despite officials arguing that associates of Liu Ying were equally guilty, Yuan An took full responsibility. The emperor agreed, and over 400 families were freed.
+
+Chunk 5: 
+original: 
+宪险急负势，言辞骄讦，至诋毁安，称光武诛韩歆、戴涉故事，安终不移。
+宪竟立匈奴降者右鹿蠡王於除鞬为单于，后遂反叛，卒和安策。
+安以天子幼弱，外戚擅权，每朝会进见，及与公卿言国家事，未尝不噫呜流涕。
+自天子及大臣皆恃赖之。
+四年春，薨，朝廷痛惜焉。
+后数月，窦氏败，帝始亲万机，追思前议者邪正之节，乃除安子赏为郎。
+子孙之盛，不亦宜乎？
+张字孟侯，汝南细阳人，赵王张敖之后也。
+敖子寿，封细阳之池阳乡，后废，因家焉。
+少从祖父充受《尚书》，能传其业，又事太常桓荣。
+勤力不怠，聚徒以百数。
+永平九年，显宗为四姓小侯开学于南宫，置《五经》师。
+以《尚书》教授，数讲于御前，以论难当意，除为郎，赐车马衣裳，遂令入授皇太子。
+为人质直，守经义，每侍讲间隙，数有匡正之辞，以严见惮。
+及肃宗即位，擢为侍中、虎贲中郎将。
+数月，出为东郡太守。
+自以尝经亲近，未悟见出，意不自得，上疏辞曰： 臣愚以经术给事左右，少不更职，不晓文法，猥当剖符典郡，班政千里，必有负恩辱位之咎。
+臣窃私自分，殊不虑出城阙，冀蒙留恩，托备冗官，群僚所不安，耳目所闻见，不敢避好丑。
+诏报曰： 经云： 身虽在外，乃心不离王室。
+典城临民，益所以报效也，好丑必上，不在远近。
+translation: 
+Dou Xian relied on his own power insidiously, spoke proudly, exposed others' shortcomings, and even scolded Yuan An. He also brought up the example of Emperor Guangwu killing Han Xin and Dai She to intimidate Yuan An, but Yuan An never gave in.
+In the end, Dou Xian still appointed the Xiongnu surrender general You Luli and King Yu Zhijian as a chanyu, but he soon rebelled, just as Yuan An expected.
+Yuan An believed that the emperor was young and weak, and his relatives were in power. Every time he went to court and talked about national affairs with the ministers, he would cry bitterly.
+From the emperor to the ministers, everyone relied on him.
+In the spring of four years, Yuan An died, and the court officials were very sad.
+A few months later, the Dou family collapsed, and the emperor began to rule in person. Recalling the situation between the pros and cons that discussed state affairs in the past, he named Yuan An's son Yuan Shang as a man.
+He dismissed Song You, appointed Yin Mu as Taiwei, and Liu Fang as Sikong. Yin Mu, a native of Henan, died in office.
+Liu Fang, a native of Pingyuan, later committed a crime, was dismissed from his post, returned home, and committed suicide. ◆Biography of Zhang Youfu, named Menghou, a native of Xiyang, Runan, and a descendant of Zhao Wang Zhang Ao.
+Zhang Ao's son Zhang Shou was granted the title of Chiyang Township in Xiyang. He was later deposed and settled here.
+Zhang Youfu learned Shangshu from his grandfather Zhang Chong when he was young and was able to inherit his studies. He also served Taichang Huanrong.
+He was diligent and never slacked off, gathering hundreds of followers.
+In the ninth year of Yongping, Xianzong opened a school for Xiaohou of the fourth surname in Nangong and set up a "Five Classics" teacher.
+Zhang Youfu taught his disciples using "Shang Shu" and gave lectures in front of the emperor several times. Because the discussion was difficult to meet the monarch's wishes, he was appointed as a minister, given carriages, horses and clothes, and was asked to enter the palace and be crowned the crown prince.
+Zhang Youfu was a simple and upright man who abided by the scriptures. Every time he gave lectures, he would often correct his mistakes, because seriousness made people afraid.
+When Suzong came to the throne, Zhang Youfu was promoted to the position of Shizhong and Huben Zhonglang.
+A few months later, he became the governor of Dongjun.
+Zhang Youfu thought he had been close to the emperor, but he didn't realize it, so he felt a little dissatisfied. So Shangshu Ci said: "I am a fool who relies on Confucian classics to influence me. I don't change my position when I am young. I don't know grammar. I should criticize Fudian County. I have a long-term leadership. I must be guilty of being unfaithful and humiliating my position."
+The minister was thinking about himself in private, and did not consider leaving the city. He hoped to retain his favor and support redundant officials. The officials were uneasy and did not dare to avoid being ugly after hearing and seeing.
+The imperial edict reported: The scriptures say: Although I am outside my body, my heart never leaves the royal family.
+Diancheng is close to the people, and it is extremely effective. The good and the ugly will go up, no matter how far or near.
+
+summary:
+summary line 4: Yuan An later served as Henan Yin for ten years, maintaining strict but fair governance with no bribery cases. He believed officials should aspire to be prime ministers or prefects, not imprison talented people. He was promoted to imperial servant, then to Sikong and later Situ. When Emperor He ascended as a child, Empress Dowager Dou ruled. Her brother Dou Xian attacked the Xiongnu without provocation. Yuan An and others repeatedly advised against this costly policy, but their memorials were withheld. Yuan An also impeached Dou Jing for illegally mobilizing border troops. When Dou Xian wanted to appoint a surrendered Xiongnu king as Northern Chanyu, Yuan An argued against it, warning it would empty the treasury and break faith with the Southern Chanyu. Dou Xian proceeded anyway, but the appointee soon rebelled as Yuan An predicted. Yuan An died in the spring of four years, deeply mourned by court officials.
+
+Chunk 5: 
+original: 
+宪险急负势，言辞骄讦，至诋毁安，称光武诛韩歆、戴涉故事，安终不移。
+宪竟立匈奴降者右鹿蠡王於除鞬为单于，后遂反叛，卒和安策。
+安以天子幼弱，外戚擅权，每朝会进见，及与公卿言国家事，未尝不噫呜流涕。
+自天子及大臣皆恃赖之。
+四年春，薨，朝廷痛惜焉。
+后数月，窦氏败，帝始亲万机，追思前议者邪正之节，乃除安子赏为郎。
+子孙之盛，不亦宜乎？
+张字孟侯，汝南细阳人，赵王张敖之后也。
+敖子寿，封细阳之池阳乡，后废，因家焉。
+少从祖父充受《尚书》，能传其业，又事太常桓荣。
+勤力不怠，聚徒以百数。
+永平九年，显宗为四姓小侯开学于南宫，置《五经》师。
+以《尚书》教授，数讲于御前，以论难当意，除为郎，赐车马衣裳，遂令入授皇太子。
+为人质直，守经义，每侍讲间隙，数有匡正之辞，以严见惮。
+及肃宗即位，擢为侍中、虎贲中郎将。
+数月，出为东郡太守。
+自以尝经亲近，未悟见出，意不自得，上疏辞曰： 臣愚以经术给事左右，少不更职，不晓文法，猥当剖符典郡，班政千里，必有负恩辱位之咎。
+臣窃私自分，殊不虑出城阙，冀蒙留恩，托备冗官，群僚所不安，耳目所闻见，不敢避好丑。
+诏报曰： 经云： 身虽在外，乃心不离王室。
+典城临民，益所以报效也，好丑必上，不在远近。
+translation: 
+Dou Xian relied on his own power insidiously, spoke proudly, exposed others' shortcomings, and even scolded Yuan An. He also brought up the example of Emperor Guangwu killing Han Xin and Dai She to intimidate Yuan An, but Yuan An never gave in.
+In the end, Dou Xian still appointed the Xiongnu surrender general You Luli and King Yu Zhijian as a chanyu, but he soon rebelled, just as Yuan An expected.
+Yuan An believed that the emperor was young and weak, and his relatives were in power. Every time he went to court and talked about national affairs with the ministers, he would cry bitterly.
+From the emperor to the ministers, everyone relied on him.
+In the spring of four years, Yuan An died, and the court officials were very sad.
+A few months later, the Dou family collapsed, and the emperor began to rule in person. Recalling the situation between the pros and cons that discussed state affairs in the past, he named Yuan An's son Yuan Shang as a man.
+He dismissed Song You, appointed Yin Mu as Taiwei, and Liu Fang as Sikong. Yin Mu, a native of Henan, died in office.
+Liu Fang, a native of Pingyuan, later committed a crime, was dismissed from his post, returned home, and committed suicide. ◆Biography of Zhang Youfu, named Menghou, a native of Xiyang, Runan, and a descendant of Zhao Wang Zhang Ao.
+Zhang Ao's son Zhang Shou was granted the title of Chiyang Township in Xiyang. He was later deposed and settled here.
+Zhang Youfu learned Shangshu from his grandfather Zhang Chong when he was young and was able to inherit his studies. He also served Taichang Huanrong.
+He was diligent and never slacked off, gathering hundreds of followers.
+In the ninth year of Yongping, Xianzong opened a school for Xiaohou of the fourth surname in Nangong and set up a "Five Classics" teacher.
+Zhang Youfu taught his disciples using "Shang Shu" and gave lectures in front of the emperor several times. Because the discussion was difficult to meet the monarch's wishes, he was appointed as a minister, given carriages, horses and clothes, and was asked to enter the palace and be crowned the crown prince.
+Zhang Youfu was a simple and upright man who abided by the scriptures. Every time he gave lectures, he would often correct his mistakes, because seriousness made people afraid.
+When Suzong came to the throne, Zhang Youfu was promoted to the position of Shizhong and Huben Zhonglang.
+A few months later, he became the governor of Dongjun.
+Zhang Youfu thought he had been close to the emperor, but he didn't realize it, so he felt a little dissatisfied. So Shangshu Ci said: "I am a fool who relies on Confucian classics to influence me. I don't change my position when I am young. I don't know grammar. I should criticize Fudian County. I have a long-term leadership. I must be guilty of being unfaithful and humiliating my position."
+The minister was thinking about himself in private, and did not consider leaving the city. He hoped to retain his favor and support redundant officials. The officials were uneasy and did not dare to avoid being ugly after hearing and seeing.
+The imperial edict reported: The scriptures say: Although I am outside my body, my heart never leaves the royal family.
+Diancheng is close to the people, and it is extremely effective. The good and the ugly will go up, no matter how far or near.
+
+summary:
+summary line 5: ## Biography of Zhang Youfu
+
+Chunk 5: 
+original: 
+宪险急负势，言辞骄讦，至诋毁安，称光武诛韩歆、戴涉故事，安终不移。
+宪竟立匈奴降者右鹿蠡王於除鞬为单于，后遂反叛，卒和安策。
+安以天子幼弱，外戚擅权，每朝会进见，及与公卿言国家事，未尝不噫呜流涕。
+自天子及大臣皆恃赖之。
+四年春，薨，朝廷痛惜焉。
+后数月，窦氏败，帝始亲万机，追思前议者邪正之节，乃除安子赏为郎。
+子孙之盛，不亦宜乎？
+张字孟侯，汝南细阳人，赵王张敖之后也。
+敖子寿，封细阳之池阳乡，后废，因家焉。
+少从祖父充受《尚书》，能传其业，又事太常桓荣。
+勤力不怠，聚徒以百数。
+永平九年，显宗为四姓小侯开学于南宫，置《五经》师。
+以《尚书》教授，数讲于御前，以论难当意，除为郎，赐车马衣裳，遂令入授皇太子。
+为人质直，守经义，每侍讲间隙，数有匡正之辞，以严见惮。
+及肃宗即位，擢为侍中、虎贲中郎将。
+数月，出为东郡太守。
+自以尝经亲近，未悟见出，意不自得，上疏辞曰： 臣愚以经术给事左右，少不更职，不晓文法，猥当剖符典郡，班政千里，必有负恩辱位之咎。
+臣窃私自分，殊不虑出城阙，冀蒙留恩，托备冗官，群僚所不安，耳目所闻见，不敢避好丑。
+诏报曰： 经云： 身虽在外，乃心不离王室。
+典城临民，益所以报效也，好丑必上，不在远近。
+translation: 
+Dou Xian relied on his own power insidiously, spoke proudly, exposed others' shortcomings, and even scolded Yuan An. He also brought up the example of Emperor Guangwu killing Han Xin and Dai She to intimidate Yuan An, but Yuan An never gave in.
+In the end, Dou Xian still appointed the Xiongnu surrender general You Luli and King Yu Zhijian as a chanyu, but he soon rebelled, just as Yuan An expected.
+Yuan An believed that the emperor was young and weak, and his relatives were in power. Every time he went to court and talked about national affairs with the ministers, he would cry bitterly.
+From the emperor to the ministers, everyone relied on him.
+In the spring of four years, Yuan An died, and the court officials were very sad.
+A few months later, the Dou family collapsed, and the emperor began to rule in person. Recalling the situation between the pros and cons that discussed state affairs in the past, he named Yuan An's son Yuan Shang as a man.
+He dismissed Song You, appointed Yin Mu as Taiwei, and Liu Fang as Sikong. Yin Mu, a native of Henan, died in office.
+Liu Fang, a native of Pingyuan, later committed a crime, was dismissed from his post, returned home, and committed suicide. ◆Biography of Zhang Youfu, named Menghou, a native of Xiyang, Runan, and a descendant of Zhao Wang Zhang Ao.
+Zhang Ao's son Zhang Shou was granted the title of Chiyang Township in Xiyang. He was later deposed and settled here.
+Zhang Youfu learned Shangshu from his grandfather Zhang Chong when he was young and was able to inherit his studies. He also served Taichang Huanrong.
+He was diligent and never slacked off, gathering hundreds of followers.
+In the ninth year of Yongping, Xianzong opened a school for Xiaohou of the fourth surname in Nangong and set up a "Five Classics" teacher.
+Zhang Youfu taught his disciples using "Shang Shu" and gave lectures in front of the emperor several times. Because the discussion was difficult to meet the monarch's wishes, he was appointed as a minister, given carriages, horses and clothes, and was asked to enter the palace and be crowned the crown prince.
+Zhang Youfu was a simple and upright man who abided by the scriptures. Every time he gave lectures, he would often correct his mistakes, because seriousness made people afraid.
+When Suzong came to the throne, Zhang Youfu was promoted to the position of Shizhong and Huben Zhonglang.
+A few months later, he became the governor of Dongjun.
+Zhang Youfu thought he had been close to the emperor, but he didn't realize it, so he felt a little dissatisfied. So Shangshu Ci said: "I am a fool who relies on Confucian classics to influence me. I don't change my position when I am young. I don't know grammar. I should criticize Fudian County. I have a long-term leadership. I must be guilty of being unfaithful and humiliating my position."
+The minister was thinking about himself in private, and did not consider leaving the city. He hoped to retain his favor and support redundant officials. The officials were uneasy and did not dare to avoid being ugly after hearing and seeing.
+The imperial edict reported: The scriptures say: Although I am outside my body, my heart never leaves the royal family.
+Diancheng is close to the people, and it is extremely effective. The good and the ugly will go up, no matter how far or near.
+
+summary:
+summary line 6: Zhang Youfu, courtesy name Menghou, was from Xiyang, Runan, a descendant of Zhao King Zhang Ao. He studied *Shangshu* from his grandfather and later served Taichang Huanrong, gathering hundreds of followers. During Yongping, he taught *Shangshu* at the imperial school and lectured before the emperor, who appointed him as a minister and tutor to the crown prince. A simple, upright man who strictly adhered to the classics, he was promoted to governor of Dongjun under Suzong. Though a Confucian scholar, he had a strong character and fought against powerful men. He promoted Wang Qing, whose family had shown three generations of loyalty, to a high position.
+
+Chunk 7: 
+original: 
+视事十五年，和帝初，迁魏郡太守。
+郡人郑据时为司隶校尉，奏免执金吾窦景。
+景后复位，遣掾夏猛私谢曰： 郑据小人，为所侵冤。
+闻其兒为吏，放纵狼藉。
+取是曹子一人，足以惊百。
+大怒，即收猛系狱，檄言执金吾府，疑猛与据子不平，矫称卿意，以报私仇。
+会有赎罪令，猛乃得出。
+顷之，征入为河南尹。
+窦景家人复击伤市卒，吏捕得之，景怒，遣缇骑侯海等五百人欧伤市丞。
+部吏杨章等穷究，正海罪，徙朔方。
+景忿怨，乃移书辟章等六人为执金吾吏，欲因报之。
+章等惶恐，入白，愿自引臧罪，以辞景命。
+即上言其状。
+窦太后诏报： 自今执金吾辟吏，皆勿遣。
+及窦氏败，乃上疏曰： 臣实愚蠢，不及大体，以为窦氏虽伏厥辜，而罪刑未著，后世不见其事，但闻其诛，非所以垂示国典，贻之将来。
+宜下理官，与天下平之。
+方宪等宠贵，群臣阿附唯恐不及，皆言宪受顾命之托，怀伊、吕之忠，至乃复比邓夫人于文母。
+今严威既行，皆言当死，不复顾其前后，考折厥衷。
+臣伏见夏阳侯瑰，每存忠善，前与臣言，常有尽节之心，检敕宾客，未尝犯法。
+臣闻王政骨肉之刑，有三宥之义，过厚不过薄。
+今议者为瑰选严能相，恐其迫切，必不完免，宜裁加贷宥，以崇厚德。
+translation: 
+Zhang Youfu served as an official for fifteen years, and in the early years of Emperor He's reign, he was promoted to the prefect of Wei County.
+Zheng Ju, a native of the county, was serving as the Sili Xiaowei at that time, and he was dismissed from the post of Jin Wu Dou Jing.
+Dou Jing was later restored to power, and sent Xia Meng to personally thank Youfu, saying: "Zheng Ju is a villain, and I was wronged by him."
+I heard that his son was an official and indulged in disorder.
+Take this Cao Zi alone to serve as a warning to others.
+Zhang Youfu was furious and immediately put Xia Meng in prison. He made a speech to Jinwu Mansion. He suspected that Xia Meng was not equal to Zheng Ju's son, so he pretended to express your opinion in order to avenge himself.
+Xia Meng was released from prison when he was ordered to atone.
+Soon, he was conquered as Henan Yin.
+Dou Jing's family also wounded the city's soldiers, and the officials captured them. Dou Jing was angry and sent Tiqi Hou Hai and other 500 people to beat and injure the city's chief.
+Zhang Youfu's subordinates Yang Zhang and others investigated thoroughly and found out that Zhenghou Hai was guilty of the crime and had his army exiled to Shuofang.
+Dou Jing was furious, so he wrote a letter mentioning Yang Zhang and six others as Jinwu officials, hoping to take revenge on them.
+Yang Zhang and others were frightened and reported to Zhang Youfu that they were willing to incriminate Zang themselves in exchange for Ci Jing's fate.
+Zhang Youfu immediately wrote a letter explaining his situation.
+Empress Dowager Dou issued an edict saying: From now on, I will appoint officials in charge of the Jin Dynasty and do not send them away.
+When Dou failed, Zhang Youfu went to court and said: I am really stupid and inferior to the general rule. I thought that although Dou was convicted, his crime was not exposed. Later generations did not see his crime and only heard that he was killed. This was not a sign of national canon and left to the future.
+It should be handed down to the magistrates so that everyone in the world can comment together.
+When Dou Xian and others favored the nobles, the ministers were afraid that it would be too late to please them. They all said that Dou Xian was entrusted by Gu Ming and had the loyalty of Yi Yin and Lu Shang. They even compared Mrs. Deng to the wife of King Wen.
+Nowadays, when people are strict and majestic, they all say that they should be punished by death. We no longer care about the before and after, and analyze the reasons behind it.
+When I see Xia Yanghou, I always have a loyal and kind heart. I told you last time that I always have a sense of integrity, check the guests, and never break the law.
+I heard that the punishment of flesh and blood has three meanings: too thick but not too thin.
+The current deputies believe that a strict and capable prime minister should be selected, fearing that he will be forced to do so, and he will not be completely removed. The loan should be reduced and extended to uphold virtue.
+
+summary:
+summary line 7: When the emperor toured Dongjun, he invited Zhang Youfu and his disciples to lecture on *Shangshu*. After fifteen years of service, Zhang Youfu became prefect of Wei County. When Dou Jing sought revenge against Zheng Ju through Zhang Youfu, Zhang Youfu imprisoned Dou Jing's messenger instead. Later, as Henan Yin, he investigated Dou Jing's men who had injured city soldiers and exiled them. After Dou Xian's fall, Zhang Youfu argued that Dou's crimes should be publicly examined rather than secretly punished. He was promoted to Taiwei but repeatedly requested retirement due to illness. The emperor refused, sending gifts and urging him to remain in service.
+
+Chunk 8: 
+original: 
+和帝感言，徙瑰封，就国而已。
+永元五年，迁为太仆。
+数月，代尹睦为太尉。
+数上疏以疾乞身，荐魏郡太守徐防自代。
+帝不许，使中黄门问病，加以珍羞，赐钱三十万。
+遂称笃。
+时子蕃以郎侍讲，帝因令小黄门敕蕃曰： 阴阳不和，万人失所，朝廷望公思惟得失，与国同心，而托病自洁，求去重任，谁当与吾同忧责者？
+非有望地断金也。
+司徒固疾，司空年老，公其伛偻，勿露所敕。
+皇恐诣阙谢，还复视事。
+虽在公位，而父常居田里，每有迁职，辄一诣京师。
+尝来候，适会岁节，公卿罢朝，俱诣府奉酒上寿，极欢卒日，众人皆庆羡之。
+及父卒，既葬，诏遣使赍牛、酒为释服。
+后以事与司隶校尉晏称会于朝堂，从容谓称曰： 三府辟吏，多非其人。
+称归，即奏令三府各实其掾史。
+本以私言，不意称奏之，甚怀恨。
+会复共谢阙下，因责让于称，称辞语不顺，怒，遂廷叱之，称乃劾奏有怨言。
+天子以先帝师，有诏公卿、博士、朝臣会议。
+司徒吕盖奏位居三司，知公门有仪，不屏气鞠躬以须诏命，反作色大言，怨让使臣，不可以示四远。
+于是策免。
+归里舍，谢遣诸生，闭门不通宾客。
+左中郎将何敞及言事者多讼公忠，帝亦雅重之。
+translation: 
+Emperor He was moved by Zhang Youfu's words, changed his title, and returned to his fiefdom.
+In the fifth year of Yongyuan, Zhang Youfu was promoted to imperial servant.
+A few months later, Dai Yinmu was promoted to Taiwei.
+Several times Shangshu asked to retire due to illness and recommended Xu Fang, the prefect of Wei County, to replace him.
+The emperor did not allow it, so he asked Zhonghuangmen to inquire about his illness, and he also gave him delicacies and 300,000 yuan.
+Zhang Youfu's illness became more serious.
+At that time, his son Zhang Fan was serving as minister, so the emperor sent Xiaohuangmen to restrain Lifan and said: "Yin and Yang are at odds, tens of thousands of people have been displaced. The imperial court hopes that the public will consider the gains and losses, be of one mind with the country, and purify oneself because of illness, and ask for removal of important responsibilities. Who will share the responsibility with me?"
+There is no hope of being of one heart and one mind.
+Situ Liu Fang is suffering from a serious illness, and Sikong Zhang Fen is old. He hopes that his father will obey his orders and not show his restraint.
+Zhang Youfu was afraid of going to the court to apologize and returned to his original post.
+Although Zhang Youfu was in the official position, his father often lived in the fields. Zhang Youfu would go to the capital once every time his position changed.
+People who admired Zhang Youfu would come to Zhang Youfu's house every New Year's Eve to drink wine and celebrate his birthday. They had a great time and everyone was envious of him.
+When his father died and was buried, the imperial edict sent an envoy with cattle and wine to remove his mourning clothes.
+Later, Zhang Youfu met Yan Cheng, the captain of the Sili School, in the court hall due to business. Zhang Youfu calmly said to Yan Cheng: Most of the officials recruited by the three prefectures were not employed properly.
+After Yan returned home, he immediately ordered the three prefectures to verify their official history.
+Zhang Youfu was originally having a private conversation, but he didn't expect that Yan would report it at the meeting, and he was very resentful.
+Encountering another thank you, Zhang Youfu scolded Yan Cheng. Yan Cheng's words didn't go well with him, and Zhang Youfu got angry, so he scolded him in court. Yan Cheng impeached Zhang Youfu for complaining.
+Because Zhang Youfu was the teacher of the late emperor, the emperor ordered a meeting with ministers, doctors, and courtiers.
+Situ Lugai reported that Zhang Youfu was in the third division. He knew that there was etiquette in public affairs. He did not hold his breath and bow in response to the edict. Instead, he made eloquent remarks, resented and blamed the envoys. He could not set an example for Siyuan.
+So he was dismissed from his post.
+Zhang Youfu returned to his residence, thanked all the students, and closed the door without interacting with the guests.
+Zuo Zhonglang, He Chang, and most of the speakers praised Zhang Youfu for his loyalty, and the emperor also respected him.
+
+summary:
+summary line 8: Zhang Youfu's father lived in the countryside, and Zhang Youfu visited him whenever his position changed. After his father's death, Zhang Youfu was dismissed for scolding an official in court. He returned home, closed his doors, and refused visitors. Later reinstated as Guang Luxun and then Situ, he died soon after. Before death, he instructed his son to bury him simply without an ancestral hall, using only a straw shelter for offerings.
+
+Chunk 9: 
+original: 
+十六年，复拜为光禄勋。
+数月，代鲁恭为司徒。
+月余薨。
+乘舆缟素临吊，赐冢茔地，赗赠恩宠异于它相。
+其年，追济侍讲有劳，封子根为蔡阳乡侯。
+济弟喜，初平中为司空。韩棱字伯师，颍川舞阳人，弓高侯穨当之后也。
+世为乡里著姓。
+父寻，建武中为陇西太守。
+棱四岁而孤，养母弟以孝友称。
+及壮，推先父余财数百万与从昆弟，乡里益高之。
+初为郡功曹，太守葛兴中风，病不能听政，棱阴代兴视事，出入二年，令无违者。
+兴子尝发教欲署吏，棱拒执不从，因令怨者章之。
+事下案验，吏以棱掩蔽兴病，专典郡职，遂致禁锢。
+显宗知其忠，后诏特原之。
+translation: 
+In the fifteenth year, he was worshiped as Guang Luxun.
+After a few months, Lu Gong became Situ.
+Yu Yu died.
+The ministers of the imperial court sat in plain carriages to pay their respects to him, and gave him a place for his tomb, but the grace he gave him was different from his appearance.
+When Youfu was about to become ill, he told his son: "I wanted to set a model of frugality for the world by dew offering sacrifices on the ground in Xianjie Mausoleum."
+Since I, as the Three Officials, cannot promote the king's behavior and make the officials do things according to the rules, how can I not be economical? After death, there is no need to build an ancestral hall. You can just build a house with straw and offer sacrifices underneath. ◆Han Lengzhuan, Han Lengzi Bo Shi, a native of Wuyang, Yingchuan, and a descendant of Gonggaohou Xiuguidang.
+Generations is a famous surname in the township.
+His father, Han Xun, served as the governor of Longxi during the Jianwu period.
+Han Leng lost his father when he was four years old, and his adoptive mother and brother were known as filial friends.
+When he reached his prime, he gave away millions of his father's remaining wealth to his cousins, and the villagers praised him for his high style.
+When he began to serve as a meritorious official in the county, the prefect Ge Xing suffered from a stroke and was unable to handle government affairs. Han Leng secretly handled official affairs on behalf of Ge Xing. He stayed in and out for two years without disobeying orders.
+Ge Xing's son once wanted to be an official, but Han Leng refused, so he ordered those who complained to report him.
+The official document was handed over for inspection. The officials believed that Han Leng was covering up Ge Xing's illness and taking charge of the county guard's duties without authorization, so they locked up Han Leng.
+Xianzong knew Han Leng's loyalty and later issued an edict to forgive him.
+
+summary:
+summary line 9: ## Biography of Han Leng
+
+Chunk 9: 
+original: 
+十六年，复拜为光禄勋。
+数月，代鲁恭为司徒。
+月余薨。
+乘舆缟素临吊，赐冢茔地，赗赠恩宠异于它相。
+其年，追济侍讲有劳，封子根为蔡阳乡侯。
+济弟喜，初平中为司空。韩棱字伯师，颍川舞阳人，弓高侯穨当之后也。
+世为乡里著姓。
+父寻，建武中为陇西太守。
+棱四岁而孤，养母弟以孝友称。
+及壮，推先父余财数百万与从昆弟，乡里益高之。
+初为郡功曹，太守葛兴中风，病不能听政，棱阴代兴视事，出入二年，令无违者。
+兴子尝发教欲署吏，棱拒执不从，因令怨者章之。
+事下案验，吏以棱掩蔽兴病，专典郡职，遂致禁锢。
+显宗知其忠，后诏特原之。
+translation: 
+In the fifteenth year, he was worshiped as Guang Luxun.
+After a few months, Lu Gong became Situ.
+Yu Yu died.
+The ministers of the imperial court sat in plain carriages to pay their respects to him, and gave him a place for his tomb, but the grace he gave him was different from his appearance.
+When Youfu was about to become ill, he told his son: "I wanted to set a model of frugality for the world by dew offering sacrifices on the ground in Xianjie Mausoleum."
+Since I, as the Three Officials, cannot promote the king's behavior and make the officials do things according to the rules, how can I not be economical? After death, there is no need to build an ancestral hall. You can just build a house with straw and offer sacrifices underneath. ◆Han Lengzhuan, Han Lengzi Bo Shi, a native of Wuyang, Yingchuan, and a descendant of Gonggaohou Xiuguidang.
+Generations is a famous surname in the township.
+His father, Han Xun, served as the governor of Longxi during the Jianwu period.
+Han Leng lost his father when he was four years old, and his adoptive mother and brother were known as filial friends.
+When he reached his prime, he gave away millions of his father's remaining wealth to his cousins, and the villagers praised him for his high style.
+When he began to serve as a meritorious official in the county, the prefect Ge Xing suffered from a stroke and was unable to handle government affairs. Han Leng secretly handled official affairs on behalf of Ge Xing. He stayed in and out for two years without disobeying orders.
+Ge Xing's son once wanted to be an official, but Han Leng refused, so he ordered those who complained to report him.
+The official document was handed over for inspection. The officials believed that Han Leng was covering up Ge Xing's illness and taking charge of the county guard's duties without authorization, so they locked up Han Leng.
+Xianzong knew Han Leng's loyalty and later issued an edict to forgive him.
+
+summary:
+summary line 10: Han Leng, courtesy name Bo Shi, was from Wuyang, Yingchuan, a descendant of Marquis Xiugui. Orphaned at four, he was known for filial piety and gave away his father's wealth to cousins. As a county official, he secretly handled affairs for a paralyzed prefect for two years. Though imprisoned for this, Emperor Xianzong pardoned him. He was promoted to Shangshu Ling and was known for his talent. Emperor Suzong once gave swords inscribed with names to three ministers, including Han Leng, whose sword was inscribed "Longyuan" for his profound strategies.
+
+Chunk 11: 
+original: 
+尚书左丞王龙私奏记上牛、酒于宪，棱举奏龙，论为城旦。
+棱在朝数荐举良吏应顺、吕章、周纡等，皆有名当时。
+及窦氏败，棱典案其事，深竟党与，数月不休沐。
+帝以为忧国忘家，赐布三百匹。
+迁南阳太守，特听棱得过家上冢，乡里以为荣。
+棱发奸盗，郡中震栗，政号严平。
+数岁，征入为太仆。
+九年冬，代张奋为司空。
+后复征拜司隶校尉。
+周荣字平孙，庐江舒人也。
+肃宗时，举明经，辟司徒袁安府。
+安数与论议，甚器之。
+及安举奏窦景及与窦宪争立北单于事，皆荣所具草。
+窦氏客太尉掾徐齮深恶之，胁荣曰： 子为袁公腹心之谋，排奏窦氏，窦氏悍士刺客满城中，谨备之矣！
+荣曰： 荣江淮孤生，蒙先帝大恩，以历宰二城。
+今复得备宰士，纵为窦氏所害，诚所甘心。
+故常敕妻子，若卒遇飞祸，无得殡敛，冀以区区腐身觉悟朝廷。
+及窦氏败，荣由此显名。
+自郾令擢为尚书令。
+出为颍川太守，坐法，当下狱，和帝思荣忠节，左转共令。
+岁余，复以为山阳太守。
+所历郡县，皆见称纪。
+以老病乞身，卒于家，诏特赐钱二十万，除子男兴为郎中。
+兴少有名誉，永宁中，尚书陈忠上疏荐兴曰： 臣伏惟古者帝王有所号令，言心弘雅，辞必温丽，垂于后世，列于典经。
+故仲尼嘉唐、虞之文章，从周室之郁郁。
+臣窃见光禄郎周兴，孝友之行，著于闺门，清厉之志，闻于州里。
+蕴椟古今，博物多闻，《三坟》之篇，《五典》之策，无所不览。
+translation: 
+Wang Long, the minister Zuocheng, secretly wrote a memorial to give Dou Xian some beef and wine. Han Leng gave the memorial to Long and sentenced him to the crime of Cheng Dan.
+Han Leng recommended several good officials to the court, including Ying Shun, Lu Zhang, and Zhou Yu, all of whom were famous at that time.
+When the Dou family failed, Han Leng took charge of investigating the case and went after his accomplices, not taking a break or bathing for several months.
+The emperor thought that Han Leng was worried about his country and had forgotten his home, so he gave him three hundred pieces of cloth.
+Han Leng was promoted to the governor of Nanyang. The court specially allowed Han Leng to go home and visit his ancestors' graves, which was considered an honor by the villagers.
+Han Leng exposed the thieves and villains, and the villains in the county were all afraid. The political slogan was strict fairness.
+A few years later, he was called into the imperial court as a servant.
+In the winter of the ninth year, he served as Sikong on behalf of Zhang Fen.
+He died the next year. His son Han Fu became the prime minister of Zhao Wangliang's grandson Liu Shang during the reign of Emperor An.
+◆Zhou Rongzhuan, named Pingsun Zhou, was born in Shu, Lujiang.
+During the reign of Emperor Suzong, he was summoned to Situ Yuan'an's house as an official by holding the Ming Dynasty Classics.
+Yuan An discussed with Zhou Rong several times and thought highly of him.
+When Yuan An raised the issue of Dou Xian and Dou Jing argued for the establishment of Beidan, it was Zhou Rong who drafted it.
+Dou's guest Taiwei Xu Zhiqi disliked him very much and threatened Zhou Rong, saying: "You are Yuan Gong's confidant. I'm going to tell you that Dou's thugs and assassins are all over the city. Be careful!"
+Zhou Rong said: I am the only son of Jianghuai. Thanks to the kindness of the late emperor, I have been the master of two cities.
+Now that he can be promoted to Situ Mansion, he is very willing to be harmed by the Dou family.
+Therefore, I often warn my wife not to rush into the funeral if a disaster suddenly strikes her, hoping to make the court wake up with a mere corruption.
+When the Dou family failed, Zhou Rong became famous.
+From Li Lingti to Shangshu Ling.
+When he was the prefect of Yingchuan, he violated the law and was imprisoned. Emperor He thought of Zhou Rongzhong Festival and was demoted to the county magistrate of Gongxian County.
+For more than a year, he was appointed as the governor of Shanyang.
+The counties he passed through were praised.
+Due to old age and illness, he requested to retire and died at home. The imperial edict granted him 200,000 yuan, and appointed his son Zhou Xing as the doctor.
+Zhou Xing was famous when he was young. During the Yongning period, Chen Zhong, the minister, recommended Zhou Xingdao: I remember that the ancient emperors had orders, and their words must be grand and elegant, and their rhetoric must be gentle and graceful. They must be handed down to future generations and listed in the classics.
+Therefore, Zhongni praised Tang Yu's articles and followed the elegance of Zhou Dynasty.
+I saw Guanglu Lang Zhou Xing privately, and his filial friend's trip was recorded in his boudoir, and his clear and serious ambitions were heard in the state.
+Study ancient and modern times and learn a lot about history. The chapters of "Three Tombs" and the strategies of "Five Codes" should be read.
+
+summary:
+summary line 11: When Dou Xian assassinated a marquis, Han Leng insisted the thieves were in the capital, not elsewhere. Though the Empress Dowager was angry, the truth proved him correct. When officials wanted to bow to Dou Xian and shout "long live," Han Leng sternly rebuked them. After the Dou family fell, Han Leng investigated their accomplices tirelessly, and the emperor rewarded him with cloth. He became governor of Nanyang, where he exposed villains and maintained strict fairness. Later recalled as a servant, he served as Sikong but died the following year.
+
+Chunk 11: 
+original: 
+尚书左丞王龙私奏记上牛、酒于宪，棱举奏龙，论为城旦。
+棱在朝数荐举良吏应顺、吕章、周纡等，皆有名当时。
+及窦氏败，棱典案其事，深竟党与，数月不休沐。
+帝以为忧国忘家，赐布三百匹。
+迁南阳太守，特听棱得过家上冢，乡里以为荣。
+棱发奸盗，郡中震栗，政号严平。
+数岁，征入为太仆。
+九年冬，代张奋为司空。
+后复征拜司隶校尉。
+周荣字平孙，庐江舒人也。
+肃宗时，举明经，辟司徒袁安府。
+安数与论议，甚器之。
+及安举奏窦景及与窦宪争立北单于事，皆荣所具草。
+窦氏客太尉掾徐齮深恶之，胁荣曰： 子为袁公腹心之谋，排奏窦氏，窦氏悍士刺客满城中，谨备之矣！
+荣曰： 荣江淮孤生，蒙先帝大恩，以历宰二城。
+今复得备宰士，纵为窦氏所害，诚所甘心。
+故常敕妻子，若卒遇飞祸，无得殡敛，冀以区区腐身觉悟朝廷。
+及窦氏败，荣由此显名。
+自郾令擢为尚书令。
+出为颍川太守，坐法，当下狱，和帝思荣忠节，左转共令。
+岁余，复以为山阳太守。
+所历郡县，皆见称纪。
+以老病乞身，卒于家，诏特赐钱二十万，除子男兴为郎中。
+兴少有名誉，永宁中，尚书陈忠上疏荐兴曰： 臣伏惟古者帝王有所号令，言心弘雅，辞必温丽，垂于后世，列于典经。
+故仲尼嘉唐、虞之文章，从周室之郁郁。
+臣窃见光禄郎周兴，孝友之行，著于闺门，清厉之志，闻于州里。
+蕴椟古今，博物多闻，《三坟》之篇，《五典》之策，无所不览。
+translation: 
+Wang Long, the minister Zuocheng, secretly wrote a memorial to give Dou Xian some beef and wine. Han Leng gave the memorial to Long and sentenced him to the crime of Cheng Dan.
+Han Leng recommended several good officials to the court, including Ying Shun, Lu Zhang, and Zhou Yu, all of whom were famous at that time.
+When the Dou family failed, Han Leng took charge of investigating the case and went after his accomplices, not taking a break or bathing for several months.
+The emperor thought that Han Leng was worried about his country and had forgotten his home, so he gave him three hundred pieces of cloth.
+Han Leng was promoted to the governor of Nanyang. The court specially allowed Han Leng to go home and visit his ancestors' graves, which was considered an honor by the villagers.
+Han Leng exposed the thieves and villains, and the villains in the county were all afraid. The political slogan was strict fairness.
+A few years later, he was called into the imperial court as a servant.
+In the winter of the ninth year, he served as Sikong on behalf of Zhang Fen.
+He died the next year. His son Han Fu became the prime minister of Zhao Wangliang's grandson Liu Shang during the reign of Emperor An.
+◆Zhou Rongzhuan, named Pingsun Zhou, was born in Shu, Lujiang.
+During the reign of Emperor Suzong, he was summoned to Situ Yuan'an's house as an official by holding the Ming Dynasty Classics.
+Yuan An discussed with Zhou Rong several times and thought highly of him.
+When Yuan An raised the issue of Dou Xian and Dou Jing argued for the establishment of Beidan, it was Zhou Rong who drafted it.
+Dou's guest Taiwei Xu Zhiqi disliked him very much and threatened Zhou Rong, saying: "You are Yuan Gong's confidant. I'm going to tell you that Dou's thugs and assassins are all over the city. Be careful!"
+Zhou Rong said: I am the only son of Jianghuai. Thanks to the kindness of the late emperor, I have been the master of two cities.
+Now that he can be promoted to Situ Mansion, he is very willing to be harmed by the Dou family.
+Therefore, I often warn my wife not to rush into the funeral if a disaster suddenly strikes her, hoping to make the court wake up with a mere corruption.
+When the Dou family failed, Zhou Rong became famous.
+From Li Lingti to Shangshu Ling.
+When he was the prefect of Yingchuan, he violated the law and was imprisoned. Emperor He thought of Zhou Rongzhong Festival and was demoted to the county magistrate of Gongxian County.
+For more than a year, he was appointed as the governor of Shanyang.
+The counties he passed through were praised.
+Due to old age and illness, he requested to retire and died at home. The imperial edict granted him 200,000 yuan, and appointed his son Zhou Xing as the doctor.
+Zhou Xing was famous when he was young. During the Yongning period, Chen Zhong, the minister, recommended Zhou Xingdao: I remember that the ancient emperors had orders, and their words must be grand and elegant, and their rhetoric must be gentle and graceful. They must be handed down to future generations and listed in the classics.
+Therefore, Zhongni praised Tang Yu's articles and followed the elegance of Zhou Dynasty.
+I saw Guanglu Lang Zhou Xing privately, and his filial friend's trip was recorded in his boudoir, and his clear and serious ambitions were heard in the state.
+Study ancient and modern times and learn a lot about history. The chapters of "Three Tombs" and the strategies of "Five Codes" should be read.
+
+summary:
+summary line 12: ## Biography of Zhou Rong
+
+Chunk 11: 
+original: 
+尚书左丞王龙私奏记上牛、酒于宪，棱举奏龙，论为城旦。
+棱在朝数荐举良吏应顺、吕章、周纡等，皆有名当时。
+及窦氏败，棱典案其事，深竟党与，数月不休沐。
+帝以为忧国忘家，赐布三百匹。
+迁南阳太守，特听棱得过家上冢，乡里以为荣。
+棱发奸盗，郡中震栗，政号严平。
+数岁，征入为太仆。
+九年冬，代张奋为司空。
+后复征拜司隶校尉。
+周荣字平孙，庐江舒人也。
+肃宗时，举明经，辟司徒袁安府。
+安数与论议，甚器之。
+及安举奏窦景及与窦宪争立北单于事，皆荣所具草。
+窦氏客太尉掾徐齮深恶之，胁荣曰： 子为袁公腹心之谋，排奏窦氏，窦氏悍士刺客满城中，谨备之矣！
+荣曰： 荣江淮孤生，蒙先帝大恩，以历宰二城。
+今复得备宰士，纵为窦氏所害，诚所甘心。
+故常敕妻子，若卒遇飞祸，无得殡敛，冀以区区腐身觉悟朝廷。
+及窦氏败，荣由此显名。
+自郾令擢为尚书令。
+出为颍川太守，坐法，当下狱，和帝思荣忠节，左转共令。
+岁余，复以为山阳太守。
+所历郡县，皆见称纪。
+以老病乞身，卒于家，诏特赐钱二十万，除子男兴为郎中。
+兴少有名誉，永宁中，尚书陈忠上疏荐兴曰： 臣伏惟古者帝王有所号令，言心弘雅，辞必温丽，垂于后世，列于典经。
+故仲尼嘉唐、虞之文章，从周室之郁郁。
+臣窃见光禄郎周兴，孝友之行，著于闺门，清厉之志，闻于州里。
+蕴椟古今，博物多闻，《三坟》之篇，《五典》之策，无所不览。
+translation: 
+Wang Long, the minister Zuocheng, secretly wrote a memorial to give Dou Xian some beef and wine. Han Leng gave the memorial to Long and sentenced him to the crime of Cheng Dan.
+Han Leng recommended several good officials to the court, including Ying Shun, Lu Zhang, and Zhou Yu, all of whom were famous at that time.
+When the Dou family failed, Han Leng took charge of investigating the case and went after his accomplices, not taking a break or bathing for several months.
+The emperor thought that Han Leng was worried about his country and had forgotten his home, so he gave him three hundred pieces of cloth.
+Han Leng was promoted to the governor of Nanyang. The court specially allowed Han Leng to go home and visit his ancestors' graves, which was considered an honor by the villagers.
+Han Leng exposed the thieves and villains, and the villains in the county were all afraid. The political slogan was strict fairness.
+A few years later, he was called into the imperial court as a servant.
+In the winter of the ninth year, he served as Sikong on behalf of Zhang Fen.
+He died the next year. His son Han Fu became the prime minister of Zhao Wangliang's grandson Liu Shang during the reign of Emperor An.
+◆Zhou Rongzhuan, named Pingsun Zhou, was born in Shu, Lujiang.
+During the reign of Emperor Suzong, he was summoned to Situ Yuan'an's house as an official by holding the Ming Dynasty Classics.
+Yuan An discussed with Zhou Rong several times and thought highly of him.
+When Yuan An raised the issue of Dou Xian and Dou Jing argued for the establishment of Beidan, it was Zhou Rong who drafted it.
+Dou's guest Taiwei Xu Zhiqi disliked him very much and threatened Zhou Rong, saying: "You are Yuan Gong's confidant. I'm going to tell you that Dou's thugs and assassins are all over the city. Be careful!"
+Zhou Rong said: I am the only son of Jianghuai. Thanks to the kindness of the late emperor, I have been the master of two cities.
+Now that he can be promoted to Situ Mansion, he is very willing to be harmed by the Dou family.
+Therefore, I often warn my wife not to rush into the funeral if a disaster suddenly strikes her, hoping to make the court wake up with a mere corruption.
+When the Dou family failed, Zhou Rong became famous.
+From Li Lingti to Shangshu Ling.
+When he was the prefect of Yingchuan, he violated the law and was imprisoned. Emperor He thought of Zhou Rongzhong Festival and was demoted to the county magistrate of Gongxian County.
+For more than a year, he was appointed as the governor of Shanyang.
+The counties he passed through were praised.
+Due to old age and illness, he requested to retire and died at home. The imperial edict granted him 200,000 yuan, and appointed his son Zhou Xing as the doctor.
+Zhou Xing was famous when he was young. During the Yongning period, Chen Zhong, the minister, recommended Zhou Xingdao: I remember that the ancient emperors had orders, and their words must be grand and elegant, and their rhetoric must be gentle and graceful. They must be handed down to future generations and listed in the classics.
+Therefore, Zhongni praised Tang Yu's articles and followed the elegance of Zhou Dynasty.
+I saw Guanglu Lang Zhou Xing privately, and his filial friend's trip was recorded in his boudoir, and his clear and serious ambitions were heard in the state.
+Study ancient and modern times and learn a lot about history. The chapters of "Three Tombs" and the strategies of "Five Codes" should be read.
+
+summary:
+summary line 13: Zhou Rong, courtesy name Pingsun, was from Shu, Lujiang. During Suzong's reign, he served as an official in Situ Yuan An's house. Yuan An valued him highly, and Zhou Rong drafted Yuan An's arguments against Dou Xian regarding the Northern Chanyu. When Dou Xian's guest threatened Zhou Rong with assassins, Zhou Rong declared he was willing to be harmed to awaken the court. After the Dou family fell, Zhou Rong became famous and rose to Shangshu Ling. As governor of Yingchuan, he violated the law but was demoted rather than imprisoned due to his loyalty. He later served as governor of Shanyang with praise, then retired due to illness and died at home. His son Zhou Xing was recommended for his literary talent and served as Shangshu Lang before dying.
+

@@ -1,0 +1,377 @@
+Summary uses chunk [0, 0, 0, 1, 2, 4, 7, 12, 10, 12, 13]
+
+Chunk 0: 
+original: 
+陈蕃王允陈蕃字仲举，汝南平舆人也。
+祖河东太守。
+蕃年十年，尝闲处一室，而庭宇芜秽。父友同郡薛勤来候之，谓蕃曰： 孺子何不洒埽以待宾客？
+蕃曰： 大丈夫处世，当埽除天下，安事一室乎！
+勤知其有清世志，甚奇之。
+初仕郡，举孝廉，除郎中。
+遭母忧，弃官行丧。
+服阕，刺史周景辟别驾从事，以谏争不合，投传而去。
+后公府辟举方正，皆不就。
+太尉李固表荐，征拜议郎，再迁为乐安太守。
+时，李膺为青州刺史，名有威政，属城闻风，皆自引去，蕃独以清绩留。
+郡人周璆，高洁之士。
+前后郡守招命莫肯至，唯蕃能致焉。
+字而不名，特为置一榻，去则县之。
+璆字孟玉，临济人，有美名。民有赵宣葬亲而不闭埏隧，因居其中，行服二十余年，乡邑称孝，州郡数礼请之。郡内以荐蕃，蕃与相见，问其妻子，而宣五子皆服中所生。
+蕃大怒曰： 圣人制礼，贤者俯就，不肖企及。
+translation: 
+◆The biography of Chen Fan, whose courtesy name is Zhongju, was born in Pingyu, Runan.
+My grandfather served as the governor of Hedong.
+When Chen Fan was fifteen years old, he lived in a room with nothing to do, and it was very dirty inside and outside. His father's friend Xue Qin, who was from the same county, came to see him and said to Chen Fan: "Child, why don't you clean up to welcome the guests?"
+Chen Fan said: When a real man is alive, he should sweep away the rubbish in the world. How can he only care about his own room?
+Xue Qin knew that he had the ambition to clarify the world and admired him very much.
+At first, he served as an official in the county and was elected as Xiaolian and awarded the title of doctor.
+Because his mother passed away, he resigned from office and lived in mourning.
+When the mourning period expired, the governor Zhou Jing called him to serve as a chariot, but because he had different opinions on his advice, he abandoned the talisman and left.
+Later, the government recruited Fang Zheng, but he didn't go.
+Taiwei Li Gu recommended him and promoted him to Yilang, and then he was promoted to the prefect of Le'an.
+At this time, Li Ying was appointed as the governor of Qingzhou, and he was famous for his strict governance. After hearing the news, everyone in the subordinate city asked to leave. Chen Fan stayed alone because of his clean and honest performance.
+Zhou Chu, a county man, kept himself clean and cared for himself. He was invited by the county guards before and after him, but he refused to go.
+Only Chen Fan can recruit him. Chen Fan called him by his name instead of his name and respected him very much.
+A bed was specially built for him. After Zhou Chu left, the bed was hung up.
+The common man Zhao Xuan buried his relatives without closing the tomb passage, and lived in it for more than 20 years. The towns and cities praised his filial piety, and the states and counties treated him with courtesy several times. The county recommended him to Chen Fan and asked about his wife and children. They found out that Zhao Xuan's five children were all born during his mourning period.
+Chen Fan then said angrily: "Sages make rituals, and moral people must abide by them, and unworthy people should also strive to do so."
+
+summary:
+summary line 0: # Summary of Chen Fan's Biography
+
+Chunk 0: 
+original: 
+陈蕃王允陈蕃字仲举，汝南平舆人也。
+祖河东太守。
+蕃年十年，尝闲处一室，而庭宇芜秽。父友同郡薛勤来候之，谓蕃曰： 孺子何不洒埽以待宾客？
+蕃曰： 大丈夫处世，当埽除天下，安事一室乎！
+勤知其有清世志，甚奇之。
+初仕郡，举孝廉，除郎中。
+遭母忧，弃官行丧。
+服阕，刺史周景辟别驾从事，以谏争不合，投传而去。
+后公府辟举方正，皆不就。
+太尉李固表荐，征拜议郎，再迁为乐安太守。
+时，李膺为青州刺史，名有威政，属城闻风，皆自引去，蕃独以清绩留。
+郡人周璆，高洁之士。
+前后郡守招命莫肯至，唯蕃能致焉。
+字而不名，特为置一榻，去则县之。
+璆字孟玉，临济人，有美名。民有赵宣葬亲而不闭埏隧，因居其中，行服二十余年，乡邑称孝，州郡数礼请之。郡内以荐蕃，蕃与相见，问其妻子，而宣五子皆服中所生。
+蕃大怒曰： 圣人制礼，贤者俯就，不肖企及。
+translation: 
+◆The biography of Chen Fan, whose courtesy name is Zhongju, was born in Pingyu, Runan.
+My grandfather served as the governor of Hedong.
+When Chen Fan was fifteen years old, he lived in a room with nothing to do, and it was very dirty inside and outside. His father's friend Xue Qin, who was from the same county, came to see him and said to Chen Fan: "Child, why don't you clean up to welcome the guests?"
+Chen Fan said: When a real man is alive, he should sweep away the rubbish in the world. How can he only care about his own room?
+Xue Qin knew that he had the ambition to clarify the world and admired him very much.
+At first, he served as an official in the county and was elected as Xiaolian and awarded the title of doctor.
+Because his mother passed away, he resigned from office and lived in mourning.
+When the mourning period expired, the governor Zhou Jing called him to serve as a chariot, but because he had different opinions on his advice, he abandoned the talisman and left.
+Later, the government recruited Fang Zheng, but he didn't go.
+Taiwei Li Gu recommended him and promoted him to Yilang, and then he was promoted to the prefect of Le'an.
+At this time, Li Ying was appointed as the governor of Qingzhou, and he was famous for his strict governance. After hearing the news, everyone in the subordinate city asked to leave. Chen Fan stayed alone because of his clean and honest performance.
+Zhou Chu, a county man, kept himself clean and cared for himself. He was invited by the county guards before and after him, but he refused to go.
+Only Chen Fan can recruit him. Chen Fan called him by his name instead of his name and respected him very much.
+A bed was specially built for him. After Zhou Chu left, the bed was hung up.
+The common man Zhao Xuan buried his relatives without closing the tomb passage, and lived in it for more than 20 years. The towns and cities praised his filial piety, and the states and counties treated him with courtesy several times. The county recommended him to Chen Fan and asked about his wife and children. They found out that Zhao Xuan's five children were all born during his mourning period.
+Chen Fan then said angrily: "Sages make rituals, and moral people must abide by them, and unworthy people should also strive to do so."
+
+summary:
+summary line 1: Chen Fan, courtesy name Zhongju, was born in Pingyu, Runan. His grandfather served as Governor of Hedong. At fifteen, he lived in a dirty room. When his father's friend Xue Qin asked why he didn't clean it, Chen Fan replied that a real man should sweep away the world's rubbish, not just his own room. Xue Qin admired his ambition.
+
+Chunk 0: 
+original: 
+陈蕃王允陈蕃字仲举，汝南平舆人也。
+祖河东太守。
+蕃年十年，尝闲处一室，而庭宇芜秽。父友同郡薛勤来候之，谓蕃曰： 孺子何不洒埽以待宾客？
+蕃曰： 大丈夫处世，当埽除天下，安事一室乎！
+勤知其有清世志，甚奇之。
+初仕郡，举孝廉，除郎中。
+遭母忧，弃官行丧。
+服阕，刺史周景辟别驾从事，以谏争不合，投传而去。
+后公府辟举方正，皆不就。
+太尉李固表荐，征拜议郎，再迁为乐安太守。
+时，李膺为青州刺史，名有威政，属城闻风，皆自引去，蕃独以清绩留。
+郡人周璆，高洁之士。
+前后郡守招命莫肯至，唯蕃能致焉。
+字而不名，特为置一榻，去则县之。
+璆字孟玉，临济人，有美名。民有赵宣葬亲而不闭埏隧，因居其中，行服二十余年，乡邑称孝，州郡数礼请之。郡内以荐蕃，蕃与相见，问其妻子，而宣五子皆服中所生。
+蕃大怒曰： 圣人制礼，贤者俯就，不肖企及。
+translation: 
+◆The biography of Chen Fan, whose courtesy name is Zhongju, was born in Pingyu, Runan.
+My grandfather served as the governor of Hedong.
+When Chen Fan was fifteen years old, he lived in a room with nothing to do, and it was very dirty inside and outside. His father's friend Xue Qin, who was from the same county, came to see him and said to Chen Fan: "Child, why don't you clean up to welcome the guests?"
+Chen Fan said: When a real man is alive, he should sweep away the rubbish in the world. How can he only care about his own room?
+Xue Qin knew that he had the ambition to clarify the world and admired him very much.
+At first, he served as an official in the county and was elected as Xiaolian and awarded the title of doctor.
+Because his mother passed away, he resigned from office and lived in mourning.
+When the mourning period expired, the governor Zhou Jing called him to serve as a chariot, but because he had different opinions on his advice, he abandoned the talisman and left.
+Later, the government recruited Fang Zheng, but he didn't go.
+Taiwei Li Gu recommended him and promoted him to Yilang, and then he was promoted to the prefect of Le'an.
+At this time, Li Ying was appointed as the governor of Qingzhou, and he was famous for his strict governance. After hearing the news, everyone in the subordinate city asked to leave. Chen Fan stayed alone because of his clean and honest performance.
+Zhou Chu, a county man, kept himself clean and cared for himself. He was invited by the county guards before and after him, but he refused to go.
+Only Chen Fan can recruit him. Chen Fan called him by his name instead of his name and respected him very much.
+A bed was specially built for him. After Zhou Chu left, the bed was hung up.
+The common man Zhao Xuan buried his relatives without closing the tomb passage, and lived in it for more than 20 years. The towns and cities praised his filial piety, and the states and counties treated him with courtesy several times. The county recommended him to Chen Fan and asked about his wife and children. They found out that Zhao Xuan's five children were all born during his mourning period.
+Chen Fan then said angrily: "Sages make rituals, and moral people must abide by them, and unworthy people should also strive to do so."
+
+summary:
+summary line 2: Chen Fan began as a county official, was elected Xiaolian, and became a doctor. After his mother's death, he resigned to mourn. When the mourning period ended, Governor Zhou Jing summoned him, but Chen Fan left due to differing opinions. He later refused government recruitment. Taiwei Li Gu recommended him, and he became Prefect of Le'an. He remained in office while others fled from strict Governor Li Ying. Chen Fan recruited the reclusive Zhou Chu, treating him with great respect. He exposed Zhao Xuan's false filial piety—Zhao had lived in a tomb for over twenty years but fathered five children there—and punished him for deceiving the world.
+
+Chunk 1: 
+original: 
+且祭不欲数，以其易黩故也。
+况及寝宿冢藏，而孕育其中，诳时惑众，诬污鬼神乎？
+遂致其罪。
+大将军梁冀威震天下，时遣书诣蕃，有所请托，不得通，使者诈求谒，蕃怒，笞杀之，坐左转脩武令。
+稍迁，拜尚书。
+时，零陵、桂阳山贼为害，公卿议遣讨之，又诏下州郡，一切皆得举孝廉、茂才。
+蕃上疏驳之曰： 昔高祖创业，万邦息肩，抚养百姓，同之赤子。
+今二郡之民，亦陛下赤子也。致令赤子为害，岂非所在贪虐，使其然乎？
+宜严敕三府，隐核牧守令长，其有在政失和，侵暴百姓者，即便举奏，更选清贤奉公之人，能班宣法令情在爱惠者，可不劳王师，而群贼弭息矣。
+又三署郎吏二千余人，三府掾属过限未除，但当择善而授之，简恶而去之。
+岂烦一切之诏，以长请属之路乎！
+translation: 
+And the number of sacrifices does not need to be too many, as too much would be disrespectful.
+You are sleeping in the tomb, raising your children in the tomb, deceiving the world, stealing your reputation, confusing the people, and insulting the ghosts and gods. How is this unreasonable!
+So his crime was punished.
+General Liang Ji was a powerful man in the world. At that time, he sent a letter to Chen Fan, asking Chen Fan to handle private matters. The messenger was not allowed to see him, so he lied and asked to see Chen Fan. Chen Fan got angry and beat the messenger to death, and was sentenced to military service for his crime.
+After a slight promotion, he was appointed as minister.
+At this time, mountain bandits in Lingling and Guiyang were in harm's way, and the minister considered sending troops to fight. The emperor also ordered the prefectures and counties to select filial piety, integrity, and maocai as appropriate.
+Chen Fan went to the Supreme Court to argue and refute, saying: In the past, when Emperor Gaozu established a great cause, the people in the country were relieved, and the officials raised the people as if they were their own sons.
+Now the common people in the two counties are all the sons of the emperor. Isn't the cause of the harm to the sons caused by the corruption and cruelty of the local officials?
+We should strictly instruct the three government agencies to secretly evaluate the prefects, governors, and county magistrates. Those who are misbehaving in politics and harming the people should be reported to the court immediately, and people who are upright, virtuous, honest, honest, able to promote laws and love the people should be selected to replace them. This way, we don’t have to bother the army, and the thieves can naturally be put to rest!
+In addition, there are more than 2,000 officials in the three departments. The subordinate officials in the three houses have exceeded the prescribed limit and have not been appointed. Only the good ones should be selected for official positions, and those who are stupid and lawless should be singled out and rejected.
+In this way, why do you need to issue an edict to recommend talents expediently, thereby encouraging the trend of asking for help?
+
+summary:
+summary line 3: When General Liang Ji sent a messenger requesting private favors, Chen Fan beat the messenger to death and was sentenced to military service. He later became a minister. When mountain bandits threatened Lingling and Guiyang, Chen Fan argued against sending troops, stating that corrupt officials caused the unrest and that replacing them with virtuous men would resolve the problem without military action. He also criticized the expedient recommendation of talents. Because he offended the emperor's associates, he was sent to be Governor of Yuzhang.
+
+Chunk 2: 
+original: 
+以此忤左右，故出为豫章太守。
+性方峻，不接宾客，士民亦畏其高。
+征为尚书令，送者不出郭门。
+迁大鸿胪。会白马令李云抗疏谏，桓帝怒，当伏重诛。蕃上书救云，坐免归田里。
+复征拜议郎，数日迁光禄勋。
+时，封赏逾制，内宠猥盛，蕃乃上疏谏曰：臣闻有事社稷者，社稷是为；有事人君者，容悦是为。
+今臣蒙恩圣朝，备位九列，见非不谏，则容悦也。
+夫诸侯上象四七，垂耀在天，下应分土，籓屏上国。高祖之约，非功臣不侯。
+而闻追录河南尹邓万世父遵之微功，更爵尚书令黄儁先人之绝封，近习以非义授邑，左右以无功传赏，授位不料其任，裂土莫纪其功，至乃一门之内，侯者数人，故纬象失度，阴阳谬序，稼用不成，民用不康。
+臣知封事已行，言之无及，诚欲陛下从是而止。
+translation: 
+Because he offended the people around the emperor, he was released as the governor of Yuzhang.
+Chen Fan had a serious and upright temperament and did not receive guests. The scholars and the people also respected his aristocracy.
+He was recruited to serve as minister, and no one who saw him off walked out of the outer city gate.
+When he was promoted to Dahonglu, he met Li Yun, the magistrate of Baima County, who spoke bluntly and remonstrated. Emperor Huan was furious and Li Yun should be executed. Chen Fan wrote a letter to save Li Yun, but he was dismissed and returned home.
+He was appointed Yilang again, and a few days later, he was promoted to Guangluxun.
+At that time, the titles and rewards exceeded the system, and the favored ministers and relatives in the palace were very powerful. Chen Fan then sent a letter to advise: I heard that those who serve the country do everything for the country; those who serve the emperor do everything to please the emperor.
+Now that I have been favored by the emperor and am in the position of Jiuqing, if I see the emperor doing something bad and do not dissuade him, then I am just trying to please the emperor.
+The princes have twenty-eight elephants above, and the elephants are hanging down in the sky, and the earth should be divided below. The royal family of Fanping, the emperor of the Han Dynasty made an agreement, and those who are not meritorious cannot be granted the title of marquis.
+However, I heard that you remembered the small merits of Deng Zun, the father of Yin Deng Wansi in Henan, and re-granted the titles that had been extinguished by the ancestors of Huang Jun, the minister. The servants obtained the titles through improper means, and the favored ministers on the left and right obtained them. Rewards are received for unworthy merit, official positions are awarded without considering actual abilities, and actual merits are not assessed when dividing soil and enfeoffment. As a result, within a family, there are only a few people who can be enfeoffed, so the sun and the moon are lost, the yin and yang are disordered, the crops are not ripe, and the people's wealth is not abundant.
+I know that the seal has already been carried out, and it will be useless to talk about it, but I sincerely hope that the emperor will stop it here.
+
+summary:
+summary line 4: Chen Fan was promoted to Dahonglu. When Emperor Huan wanted to execute Li Yun for blunt remonstrance, Chen Fan wrote to save him and was dismissed. He was later reinstated as Guangluxun. He advised Emperor Huan against excessive titles and rewards, particularly for Deng Zun and Huang Jun, warning that improper enfeoffments caused cosmic disorder, crop failure, and poverty. He noted that thousands of palace maids impoverished the country and urged their release. Emperor Huan adopted some advice, releasing five hundred maids and limiting titles.
+
+Chunk 4: 
+original: 
+虞舜、成王狱有此戒，况德不及二主者乎！
+夫安平之时，尚宜有节，况当今之世，有三空之厄哉！
+田野空，朝廷空，仓库空，是谓三空。
+加兵戎未戢，四方离散，是陛下焦心毁颜，坐以待旦之时也。岂宜扬旗曜武，骋心舆马之观乎！
+又秋前多雨，民始种麦。今失其劝种之时，而令给驱禽除路之役，非贤圣恤民之意也。
+齐景公欲观于海，放乎琅邪，晏子为陈百姓恶闻旌旗舆马之音，举首嚬眉之感，景公为之不行。
+周穆王欲肆车辙马迹，祭公谋父为诵《祈招》之诗，以止其心。
+诚恶逸游之害人也。
+书奏不纳。
+自蕃为光禄勋，与五宫中郎将黄琬共典选举，不偏权富，而为势家郎所谮诉，坐免归。
+顷之，征为尚书仆射，转太中大夫。
+八年，代杨秉为太尉。
+蕃让曰：  不愆不忘，率由旧章 ，臣不如太常胡广。齐七政，训五典，臣不如议郎王暢。
+translation: 
+Yu, Shun and King Cheng should take this as a warning, let alone those whose virtues are not as good as those of their two masters!
+When the world is at peace, we need to exercise moderation, not to mention the current difficulties of "San Kong".
+The fields are empty, the court is empty, and the warehouses are empty. These are the so-called "three empties".
+In addition, the war continues and the people are scattered in all directions. This is when you are sad and haggard and can't sleep at night. How can you show off your power and be fascinated by the scene of galloping horses and horses?
+Moreover, it is rainy in early autumn, which is the time for the people to start sowing. Instead, they are required to drive birds and animals and do the hard work of opening roads. This is not the compassionate heart of a wise and sage king.
+Qi Jinggong wanted to go to Langyi to watch the sea. Yanzi told Qi Jinggong that the people did not like to listen to the sound of flags and horses, shaking their heads and frowning, so Jinggong did not go.
+King Mu of Zhou wanted to travel around the world and do whatever he wanted, and there were traces of his rutted horses everywhere. He sacrificed his father to read him the poem "Praying for Moves" to stop his thinking.
+I really hate the harm caused by amusement!
+The memorial was sent, but Emperor Huan did not accept it.
+Since Chen Fan became Guang Luxun, he and Huang Wan, a general with five senses, were in charge of the election of officials and did not favor the powerful. Therefore, he was framed and accused by the children of the wealthy family, and he was dismissed from office and returned home.
+Soon, he was recruited as a servant of Shangshu and transferred to Taizhong doctor.
+In the eighth year of Yanxi's reign, Yang Bing was replaced as Taiwei.
+Chen Fan declined and said: "Without mistakes or loss, I am not as good as Taichang Hu Guang in following the old classics; I am not as good as Yilang Wangchang in distinguishing the seven political principles of sun, moon, metal, wood, water, fire and earth and explaining the five classics."
+
+summary:
+summary line 5: Chen Fan advised against Emperor Huan's hunting at Guangcheng Garden, citing the "Three Empties"—empty fields, court, and warehouses—and ongoing wars. The emperor ignored him. As Guangluxun, Chen Fan and Huang Wan conducted elections without favoring the powerful, leading to false accusations and his dismissal. He was soon recalled as a servant and later became Taiwei, though he declined, citing his inferiority to Hu Guang, Wang Chang, and Li Ying.
+
+Chunk 7: 
+original: 
+昔丞相申屠嘉召责邓通，洛阳令董宣折辱公主，而文帝从而请之，光武加以重赏，未闻二臣有专命之诛。
+而今左右群竖，恶伤党类，妄相交构，致此刑谴。
+闻臣是言，当复啼诉。
+陛下深宜割塞近习豫政之源，引纳尚书朝省之事，公卿大官，五日壹朝，简练清高，斥黜佞邪。
+于是天和于上，地洽于下，休祯符瑞，岂远乎哉！
+陛下虽厌毒臣言，凡人主有自勉强，敢以死陈。
+帝得奏愈怒，意无所纳，朝廷众庶莫不怨之。
+宦官由此疾蕃弥甚，选举奏议，辄以中诏谴却，长史已下多至抵罪。犹以蕃名臣，不敢加害。
+质字文理，高唐人。瑨字幼平，陕人。
+并有经术称，处位敢直言，多所搏击，知名当时，皆死于狱中。
+九年，李膺等以党事下狱考实。
+蕃因上疏极谏曰：臣闻贤明之君，委心辅佐；亡国之主，讳闻直辞。
+translation: 
+In the past, Prime Minister Shen Tujia summoned Emperor Wen's favorite ministers to reprimand him, and Luoyang ordered Dong Xuan to rebuke Emperor Guangwu's sister Princess Huyang in person. Emperor Wen asked Shen Tujia not to kill Deng Tong, and Emperor Guangwu also rewarded Dong Xuan heavily. There is no news that these two ministers were punished for their arbitrary actions.
+The little ministers around you now maliciously harm the party members, fabricating charges at will, causing Liu Wangzhi and Cheng Jin to be imprisoned unjustly.
+Hearing these words of mine, your favorite will cry again and complain.
+You should cut off the interference of your favorite ministers in political affairs, accept ministers to work in the imperial court and ministerial provinces, and hold public meetings every five days, select upright and noble people, remove and repel evil people.
+In this way, the sky is harmonious above and the earth is harmonious below. Is the beautiful fortune still far away?
+Although you hate my words, those who help others have the desire to improve themselves, so they dare to risk their lives to report.
+Emperor Huan read his memorial and became even more angry. Not adopted at all. Many people in the court hated him.
+As a result, the eunuch hated Chen Fan even more. He selected talents to send memorials, but the eunuch immediately rebuked him in the name of the emperor and sent them back. Many officials under him, including the long history and below, were often punished on pretexts, because Chen Fan was a famous official in his generation and they did not dare to harm him.
+Liu Wangzhi, whose courtesy name was Wenli, was from Gaotang, and Chengjin, whose courtesy name was Youping, was from Shaanxi County.
+They are all famous for their Confucian skills. They dare to speak outright when they are in office, and they often criticize some bad things. At that time, they all died in prison.
+In the ninth year of Yanxi's reign, Li Ying and others were imprisoned for trial due to party members' incidents.
+Chen Fan therefore wrote a letter to strongly dissuade him, saying: I heard that a wise king trusts his ministers, but a king who has subjugated his country is unwilling to listen to the straight words of his ministers.
+
+summary:
+summary line 6: Chen Fan defended Li Ying and others punished for violating the emperor's will, weeping as he pleaded. He argued for leniency toward officials who executed eunuch associates despite pardons, comparing them to loyal ministers of old. Emperor Huan grew angrier and ignored him. The eunuchs hated Chen Fan, but because of his reputation, they dared not harm him directly.
+
+Chunk 12: 
+original: 
+王甫时出，与蕃相迕，适闻其言，而让蕃曰： 先帝新弃天下，山陵未成，窦武何功，兄弟父子，一门三侯？
+又多取掖庭宫人，作乐饮宴，旬月之间，赀财亿计。
+大臣若此，是为道邪？
+公为栋梁，枉桡阿党，复焉求贼！
+遂令收蕃。
+蕃拔剑叱甫，甫兵不敢近，乃益人围之数十重，遂执蕃送黄门北寺狱。
+黄门从官驺蹋踧蕃曰： 死老魅！复能损我曹员数，夺我曹禀假不？
+即日害之。徙其家属于比景，宗族、门生、故吏皆斥免禁锢。
+蕃友人陈留朱震，时为铚令，闻而弃官哭之，收葬蕃尸，匿其子逸于甘陵界中。
+事觉系狱，合门桎梏。震受考掠，誓死不言，故逸得免。
+后黄巾贼起，大赦党人，乃追还逸，官至鲁相。
+震字伯厚，初为州从事，奏济阴太守单匡臧罪，并连匡兄中常侍车骑将军超。
+桓帝收匡下廷尉，以谴超，超诣狱谢。
+translation: 
+Wang Fu came out of the palace at that time and happened to hear what he said, so he rebuked Chen Fan and said: The late emperor has just passed away and the tomb has not been built yet. What credit does Dou Wu have, while three brothers, father and son, are granted the title of marquis?
+In addition, he took away many palace maids, drank and had fun, and collected hundreds of millions of wealth in one month.
+If the minister is like this, is this the way of being a minister?
+You are the pillar of the country, you bend the law for your own interests and form cliques. How can you catch the thieves?
+So he ordered Chen Fan to be arrested.
+Chen Fan drew his sword and yelled at Wang Fu loudly. Wang Fu's soldiers did not dare to approach him. So more troops surrounded Chen Fan and others dozens of times, captured Chen Fan, and imprisoned him in Beisi Prison, which was run by eunuchs.
+The eunuch's knights kicked and stepped on Chen Fan, scolding Chen Fan: "Old man, can you still cut our staff and deprive us of extra income?"
+He was killed on the same day and his family members were exiled to Bijing. The clan, disciples, and old subordinates were all dismissed from their posts and imprisoned.
+Chen Fan's friend Zhu Zhen, who was from Chenliu, was the magistrate of Yuzhi County at the time. When he heard the news, he abandoned his official position and mourned Chen Fan, and his body was collected and buried. He hid Chen Fan's son Chen Yi in Ganling.
+After the incident was discovered, Zhu Zhen was arrested and imprisoned, and his whole family was imprisoned. Zhu Zhen was severely tortured, but he would rather die than tell Chen Yi's whereabouts.
+Chen Yi was able to escape. Later, the Yellow Turbans launched an uprising, and the court pardoned the party members, so Chen Yi was found. Later, Chen Yi became the prime minister of Lu.
+Zhu Zhen, courtesy name Bohou, first served as a prefecture official. He wrote a letter to expose Shan Kuang, the prefect of Jiyin, for embezzlement, and implicated Shan Kuang's brother Zhongchang, the chariot and cavalry general Shan Chao.
+Emperor Huan ordered Shan Kuang to be arrested and handed over to Tingwei for interrogation. He reprimanded Shan Chao, and Shan Chao went to prison to plead guilty.
+
+summary:
+summary line 7: When Li Ying was imprisoned for party affiliation, Chen Fan wrote a strong remonstrance, comparing the persecution to Qin's book burning. He warned that punishing the innocent would cause chaos and noted that droughts and famines plagued the land while the palace hoarded wealth. Emperor Huan dismissed Chen Fan for allegedly selecting inappropriate talents.
+
+Chunk 10: 
+original: 
+灵帝即位，窦太后复优诏蕃曰： 盖褒功以劝善，表义以厉俗，无德不报，《大雅》所叹。
+太傅陈蕃，辅弼先帝，出内累年。忠孝之美，德冠本朝；謇愕之操，华首弥固。
+今封蕃高阳乡侯，食邑三百户。
+蕃上疏让曰：使者即臣庐，授高阳乡侯印绶，臣诚悼心，不知所裁。
+臣闻让，身之文，德之昭也，然不敢盗以为名。
+窃惟割地之封，功德是为。臣孰自思省，前后历职，无他异能，合亦食禄，不合亦食禄。
+臣虽无素洁之行，窃慕 君子不以其道得之，不居也 。
+若受爵不让，掩面就之，使皇天震怒，灾流下民，于臣之身，亦何所寄？
+顾惟陛下哀臣朽老，戒之在得。
+窦太后不许，蕃复固让，章前后十上，竟不受封。
+初，桓帝欲立所幸田贵人为皇后。蕃以田氏卑微，窦族良家，争之甚固。帝不得已，已立窦后。
+及后临朝，故委用于蕃。
+蕃与后父大将军窦武，同心尽力，征用名贤，共参政事，天下之士，莫不延颈想望太平。
+而帝乳母赵娆，旦夕在太后侧，中常侍曹节、王甫等与共交构，谄事太后。
+太后信之，数出诏命，有所封拜，及其支类，多行贪虐。蕃常疾之，志诛中官，会窦武亦有谋。
+蕃自以既从人望而德于太后，必谓其志可申，乃先上疏曰：
+translation: 
+After Emperor Ling ascended the throne, Empress Dowager Dou once again issued an edict to commend Chen Fan: to reward meritorious deeds to encourage good deeds, to praise righteousness and righteousness to encourage customs, and there is no virtue that cannot be repaid, as "Daya" chants.
+Grand Tutor Chen Fan assisted the late emperor and served as a capital official for many years. He was both loyal and filial. His moral conduct was the best in his dynasty. He was outspoken in his loyalty and advice and continued to do so even when he was old.
+Now Chen Fan is granted the title of Marquis of Gaoxiang, with a settlement of 300 households.
+Chen Fan declined and said: "The messenger came to my home and awarded me the seal of the Marquis of Gaoyang Township. I was really scared and didn't know what to do."
+I heard that humility is the brilliance of one's character and the conspicuousness of one's virtue.
+However, I didn't dare to steal the name. I wanted to cede land and make a lord, mainly to commend merit. I thought over and over, and I have held various positions without particularly good merit.
+Although I have no integrity, I still envy the noble character of a gentleman who does not follow the way to achieve it, and does not live in it.
+If I refuse to accept a title and accept it shamelessly, making the emperor angry and causing disasters to the common people, where will I be?
+I just want your Majesty to take pity on me as an old man, and stop being greedy.
+Empress Dowager Dou refused, so Chen Fan resolutely refused and submitted memorials ten times, but finally he was not granted the title.
+At first, Emperor Huan wanted to make his favorite Tian Gui the queen. Chen Fan thought that the Tian family was of humble origin and the Dou family was a good family. He was very determined to make the Dou family the queen. Emperor Huan had no choice but to make the Dou family the queen.
+Therefore, after Empress Dowager Dou took charge of the government, she appointed Chen Fan.
+Chen Fan and General Dou Wu, the father of Empress Dowager Dou, worked together to recruit celebrities and wise men to participate in national politics. People in the world stretched their necks to hope for peace in the world.
+However, Zhao Rao, Emperor Huan's wet nurse, was always with Empress Dowager Dou in the morning and evening. The regular attendants Cao Jie and Wang Fu colluded with her to please the Empress Dowager.
+The Queen Mother trusted them and issued many edicts to confer titles and officials on them. However, most of their minions were greedy and cruel. Chen Fan always hated these people and was determined to eliminate the eunuchs. It happened that Dou Wu also had a plan.
+Chen Fan believed that he was obedient to people's wishes and had done meritorious deeds to the Queen Mother. He believed that his purpose could be achieved, so he first went to the Queen Mother.
+
+summary:
+summary line 8: After Emperor Huan's death, Empress Dowager Dou appointed Chen Fan as Grand Tutor. When ministers feigned illness during the succession crisis, Chen Fan reproached them, and they returned to court. Emperor Ling granted Chen Fan the title of Marquis of Gaoxiang with three hundred households, but Chen Fan declined ten times.
+
+Chunk 12: 
+original: 
+王甫时出，与蕃相迕，适闻其言，而让蕃曰： 先帝新弃天下，山陵未成，窦武何功，兄弟父子，一门三侯？
+又多取掖庭宫人，作乐饮宴，旬月之间，赀财亿计。
+大臣若此，是为道邪？
+公为栋梁，枉桡阿党，复焉求贼！
+遂令收蕃。
+蕃拔剑叱甫，甫兵不敢近，乃益人围之数十重，遂执蕃送黄门北寺狱。
+黄门从官驺蹋踧蕃曰： 死老魅！复能损我曹员数，夺我曹禀假不？
+即日害之。徙其家属于比景，宗族、门生、故吏皆斥免禁锢。
+蕃友人陈留朱震，时为铚令，闻而弃官哭之，收葬蕃尸，匿其子逸于甘陵界中。
+事觉系狱，合门桎梏。震受考掠，誓死不言，故逸得免。
+后黄巾贼起，大赦党人，乃追还逸，官至鲁相。
+震字伯厚，初为州从事，奏济阴太守单匡臧罪，并连匡兄中常侍车骑将军超。
+桓帝收匡下廷尉，以谴超，超诣狱谢。
+translation: 
+Wang Fu came out of the palace at that time and happened to hear what he said, so he rebuked Chen Fan and said: The late emperor has just passed away and the tomb has not been built yet. What credit does Dou Wu have, while three brothers, father and son, are granted the title of marquis?
+In addition, he took away many palace maids, drank and had fun, and collected hundreds of millions of wealth in one month.
+If the minister is like this, is this the way of being a minister?
+You are the pillar of the country, you bend the law for your own interests and form cliques. How can you catch the thieves?
+So he ordered Chen Fan to be arrested.
+Chen Fan drew his sword and yelled at Wang Fu loudly. Wang Fu's soldiers did not dare to approach him. So more troops surrounded Chen Fan and others dozens of times, captured Chen Fan, and imprisoned him in Beisi Prison, which was run by eunuchs.
+The eunuch's knights kicked and stepped on Chen Fan, scolding Chen Fan: "Old man, can you still cut our staff and deprive us of extra income?"
+He was killed on the same day and his family members were exiled to Bijing. The clan, disciples, and old subordinates were all dismissed from their posts and imprisoned.
+Chen Fan's friend Zhu Zhen, who was from Chenliu, was the magistrate of Yuzhi County at the time. When he heard the news, he abandoned his official position and mourned Chen Fan, and his body was collected and buried. He hid Chen Fan's son Chen Yi in Ganling.
+After the incident was discovered, Zhu Zhen was arrested and imprisoned, and his whole family was imprisoned. Zhu Zhen was severely tortured, but he would rather die than tell Chen Yi's whereabouts.
+Chen Yi was able to escape. Later, the Yellow Turbans launched an uprising, and the court pardoned the party members, so Chen Yi was found. Later, Chen Yi became the prime minister of Lu.
+Zhu Zhen, courtesy name Bohou, first served as a prefecture official. He wrote a letter to expose Shan Kuang, the prefect of Jiyin, for embezzlement, and implicated Shan Kuang's brother Zhongchang, the chariot and cavalry general Shan Chao.
+Emperor Huan ordered Shan Kuang to be arrested and handed over to Tingwei for interrogation. He reprimanded Shan Chao, and Shan Chao went to prison to plead guilty.
+
+summary:
+summary line 9: Chen Fan and General Dou Wu planned to eliminate the eunuchs. Chen Fan warned the Empress Dowager about eunuch corruption, but she ignored him. When the plot was exposed, Cao Jie forged orders to kill Dou Wu. The seventy-year-old Chen Fan led over eighty officials and students into the palace, shouting against the eunuch rebellion. He was arrested, kicked and stepped on by eunuch soldiers, and killed that same day. His family was exiled, and his clan and disciples were imprisoned. His friend Zhu Zhen collected and buried his body, hiding Chen Fan's son Chen Yi. Zhu Zhen endured torture without revealing the son's location. Chen Yi later became Prime Minister of Lu.
+
+Chunk 13: 
+original: 
+三府谚曰： 车如鸡栖马如狗，疾恶如风朱伯厚。
+论曰：桓、灵之世，若陈蕃之徒，咸能树立风声，抗论惽俗。
+而驱驰嶮厄之中，与刑人腐夫同朝争衡，终取灭亡之祸者，彼非不能洁情志，违埃雾也。愍夫世士以离俗为高，而人伦莫相恤也。以遁世为非义，故屡退而不去；以仁心为己任，虽道远而弥厉。
+及遭际会，协策窦武，自谓万世一遇也。
+懔懔乎伊、望之业矣！
+功虽不终，然其信义足以携持民心。
+汉世乱而不亡，百余年间，数公之力也。
+王允字子师，太原祁人也。
+世仕州郡为冠盖。
+同郡郭林宗尝见允而奇之，曰： 王生一日千里，王佐才也。
+遂与定交。
+年十九，为郡吏，时，小黄门晋阳赵津贪横放恣，为一县巨患，允讨捕杀之。
+而津兄弟谄事宦官，因缘谮诉，桓帝震怒，征太守刘质，遂下狱死。
+translation: 
+There is a proverb in Sanfu: A chariot is like a chicken, a horse is like a dog, and evil is like the wind.
+The historian commented: During the reign of Emperor Huan and Emperor Ling, people like Chen Fan were able to establish a good reputation for their morals, speak out and comment on the dull reality, run through hardships and obstacles, and compete with the eunuchs in the same dynasty, which resulted in serious disasters.
+It's not that they can't keep themselves clean and live in seclusion, but they are pitiful for ordinary people who regard staying away from the world as a noble thing and don't care about human ethics. They believe that escaping from the world is an unjust act, so they have been dismissed many times, but they still refuse to leave reality; they take advocating benevolence as their own duty, and although they know that this road is long, they are even more determined.
+When it came time to meet Emperor Huan and Queen Mother Dou, he thought it was a once-in-a-lifetime opportunity to advise Dou Wu.
+How solemn are the deeds of Yi Yin and Taigong in assisting the king that they pursue!
+Although the matter did not succeed, their faith was enough to support the people.
+The Han Dynasty was in chaos, but it did not perish. For more than a hundred years, it was the power of Chen Fan and others.
+◆Biography of Wang Yun, also known as Wang Yun, Zi Shi, a native of Qi County, Taiyuan County.
+He has been a state and county official for generations.
+Guo Linzong of the same county once met Wang Yun and admired him very much. He said: "The king's life has improved rapidly, and Wang Zuo is so talented."
+Become a close friend with him.
+At the age of nineteen, he became a county official. At that time, Zhao Jin of Xiaohuangmen, Jinyang, was corrupt and domineering and was a serious problem to the county. Wang Yun captured and killed him.
+Zhao Jin's brother flattered the eunuch and used it to make false accusations. Emperor Huan was furious and summoned the prefect Liu Wangzhi to be thrown into prison and died.
+
+summary:
+summary line 10: The historian commented that during Emperors Huan and Ling's reigns, Chen Fan established a reputation for moral integrity, speaking out against corruption and competing with eunuchs despite great danger. Though his plans failed, his faith sustained the people, and the Han dynasty survived over a hundred years due to his efforts.
+

@@ -1,0 +1,499 @@
+Summary uses chunk [0, 0, 2, 3, 5, 8, 8, 10, 11, 12, 15]
+
+Chunk 0: 
+original: 
+朱祐字仲先，南阳宛人也。
+少孤，归外家复阳刘氏，往来舂陵，世祖与伯升皆亲爱之。
+伯升拜大司徒，以祐为护军。
+及世祖为大司马，讨河北，复以祐为护军，常见亲幸，舍止于中。
+祐侍宴，从容曰： 长安政乱，公有日角之相，此天命也。 世祖曰： 召刺奸收护军！ 祐乃不敢复言。
+从征河北，常力战陷阵，以为偏将军，封安阳侯。
+世祖即位，拜为建义大将军。
+建武二年，更封堵阳侯。
+冬，与诸将击邓奉于淯阳，祐军败，为奉所获。
+明年，奉破，乃肉袒因祐降。
+帝复祐位而厚加慰赐。
+遣击新野、随，皆平之。
+延岑自败于穰，遂与秦丰将张成合，祐率征虏将军祭遵与战于东阳，大破之，临阵斩成，延岑败走归丰。
+祐收得印绶九十七。
+进击黄邮，降之，赐祐黄金三十斤。
+四年，率破奸将军侯进、辅威将军耿植代征南大将军岑彭围秦丰于黎丘，破其将张康于蔡阳，斩之。
+帝自至黎丘，使御史中丞李由持玺书招丰，丰出恶言，不肯降。
+车驾引还，敕祐方略，祐尽力攻之。
+明年夏，城中穷困，丰乃将其母、妻、子九人肉袒降。
+祐轞车传丰送洛阳，斩之。
+大司马吴汉劾奏祐废诏受降，违将帅之任，帝不加罪。
+祐还，与骑都尉臧宫会击延岑余党阴、酂、筑阳三县贼，悉平之。
+祐为人质直，尚儒学。
+将兵率众，多受降，以克定城邑为本，不存首级之功。
+又禁制士卒不得虏掠百姓，军人乐放纵，多以此怨之。
+九年，屯南行唐拒匈奴。
+translation: 
+◆Zhu You Biography Zhu You, courtesy name Zhongxian, was a native of Wan County, Nanyang County.
+When the young man lost his father, he returned to the home of his maternal grandparents Liu in Fuyang County and traveled to and from Chongling. Shizu and Bosheng were both dear to him.
+After Bo Sheng paid homage to the Chief Situ, he appointed Zhu You as his guard.
+Shizu was the Grand Sima, and when he conquered Hebei, he appointed Zhu You as his army guard. He often met his relatives and stayed there.
+Zhu You accompanied the banquet and said calmly: Chang'an is in political chaos and the public has the status of an emperor. This is a destiny sent from heaven. Shizu said: Summon assassins to arrest you, the guardian! Zhu You didn't dare to say anything anymore.
+He followed the expedition to Hebei and often fought hard to break the formation. He made Zhu You a partial general and was granted the title of Marquis of Anyang.
+Shizu ascended the throne and was worshiped as General Jianyi.
+In the second year of Jianwu's reign, Yanghou was blocked.
+In winter, he and his generals attacked Deng Feng in Yuyang, Zhu You was defeated and captured by Deng Feng.
+The next year, Deng Feng was defeated, and Rouqi and Zhu You surrendered.
+The emperor restored Zhu You's position and generously rewarded him with condolences.
+He was sent to attack Xinye and Suixian, and they were all pacified.
+Since Yancen was defeated by Rang, he joined Qin Feng's general Zhang Cheng. Zhu You led the conquering general Ji Zun to fight Yancen in Dongyang, defeated Yancen, and beheaded Zhang Cheng before the battle. Yancen was defeated and returned to Qin Feng.
+Zhu You received ninety-seven seals and ribbons.
+Attacked Huangyou, Huangyou surrendered and rewarded Zhu You with thirty kilograms of gold.
+In the fourth year of Jianwu's reign, he led general Hou Jin and general Geng Zhi to attack the south and besieged Qin Feng in Liqiu, defeated his general Zhang Kang in Caiyang and beheaded Zhang Kang.
+The emperor personally came to Liqiu and sent Li You, the censor Zhongcheng, with a seal to recruit Qin Feng to surrender. Qin Feng made bad words and refused to surrender.
+The emperor returned and gave Zhu You strategies, and Zhu You tried his best to besiege.
+In the summer of the next year, the city was impoverished, so Qin Feng led his mother and his wife, Jiurenzuchou, to surrender.
+Zhu You took Qin Feng to Luoyang in a prison car and beheaded him.
+The Grand Sima Wu Han impeached Zhu You for abolishing the imperial edict and accepting surrender, which violated the general's mission, and the emperor did not punish him.
+After Zhu You returned, he joined forces with the Cavalry Commander Zang Gong to attack Yancen Yu and the bandits in Yin County, Zanhuang County and Zhuyang County, and they were all put down.
+Zhu You was a simple and upright man who liked Confucianism.
+Leading a large number of soldiers, accepting more surrenders, taking the ability to stabilize the city as the foundation, and not pursuing the merit of indiscriminate beheading.
+The soldiers were also strictly prohibited from plundering the people. The soldiers were happy to indulge themselves, and they often complained about Zhu You.
+In the ninth year of Jianwu, troops were stationed south to the Tang Dynasty to resist the Xiongnu.
+
+summary:
+summary line 0: # Summary of Historical Biographies
+
+Chunk 0: 
+original: 
+朱祐字仲先，南阳宛人也。
+少孤，归外家复阳刘氏，往来舂陵，世祖与伯升皆亲爱之。
+伯升拜大司徒，以祐为护军。
+及世祖为大司马，讨河北，复以祐为护军，常见亲幸，舍止于中。
+祐侍宴，从容曰： 长安政乱，公有日角之相，此天命也。 世祖曰： 召刺奸收护军！ 祐乃不敢复言。
+从征河北，常力战陷阵，以为偏将军，封安阳侯。
+世祖即位，拜为建义大将军。
+建武二年，更封堵阳侯。
+冬，与诸将击邓奉于淯阳，祐军败，为奉所获。
+明年，奉破，乃肉袒因祐降。
+帝复祐位而厚加慰赐。
+遣击新野、随，皆平之。
+延岑自败于穰，遂与秦丰将张成合，祐率征虏将军祭遵与战于东阳，大破之，临阵斩成，延岑败走归丰。
+祐收得印绶九十七。
+进击黄邮，降之，赐祐黄金三十斤。
+四年，率破奸将军侯进、辅威将军耿植代征南大将军岑彭围秦丰于黎丘，破其将张康于蔡阳，斩之。
+帝自至黎丘，使御史中丞李由持玺书招丰，丰出恶言，不肯降。
+车驾引还，敕祐方略，祐尽力攻之。
+明年夏，城中穷困，丰乃将其母、妻、子九人肉袒降。
+祐轞车传丰送洛阳，斩之。
+大司马吴汉劾奏祐废诏受降，违将帅之任，帝不加罪。
+祐还，与骑都尉臧宫会击延岑余党阴、酂、筑阳三县贼，悉平之。
+祐为人质直，尚儒学。
+将兵率众，多受降，以克定城邑为本，不存首级之功。
+又禁制士卒不得虏掠百姓，军人乐放纵，多以此怨之。
+九年，屯南行唐拒匈奴。
+translation: 
+◆Zhu You Biography Zhu You, courtesy name Zhongxian, was a native of Wan County, Nanyang County.
+When the young man lost his father, he returned to the home of his maternal grandparents Liu in Fuyang County and traveled to and from Chongling. Shizu and Bosheng were both dear to him.
+After Bo Sheng paid homage to the Chief Situ, he appointed Zhu You as his guard.
+Shizu was the Grand Sima, and when he conquered Hebei, he appointed Zhu You as his army guard. He often met his relatives and stayed there.
+Zhu You accompanied the banquet and said calmly: Chang'an is in political chaos and the public has the status of an emperor. This is a destiny sent from heaven. Shizu said: Summon assassins to arrest you, the guardian! Zhu You didn't dare to say anything anymore.
+He followed the expedition to Hebei and often fought hard to break the formation. He made Zhu You a partial general and was granted the title of Marquis of Anyang.
+Shizu ascended the throne and was worshiped as General Jianyi.
+In the second year of Jianwu's reign, Yanghou was blocked.
+In winter, he and his generals attacked Deng Feng in Yuyang, Zhu You was defeated and captured by Deng Feng.
+The next year, Deng Feng was defeated, and Rouqi and Zhu You surrendered.
+The emperor restored Zhu You's position and generously rewarded him with condolences.
+He was sent to attack Xinye and Suixian, and they were all pacified.
+Since Yancen was defeated by Rang, he joined Qin Feng's general Zhang Cheng. Zhu You led the conquering general Ji Zun to fight Yancen in Dongyang, defeated Yancen, and beheaded Zhang Cheng before the battle. Yancen was defeated and returned to Qin Feng.
+Zhu You received ninety-seven seals and ribbons.
+Attacked Huangyou, Huangyou surrendered and rewarded Zhu You with thirty kilograms of gold.
+In the fourth year of Jianwu's reign, he led general Hou Jin and general Geng Zhi to attack the south and besieged Qin Feng in Liqiu, defeated his general Zhang Kang in Caiyang and beheaded Zhang Kang.
+The emperor personally came to Liqiu and sent Li You, the censor Zhongcheng, with a seal to recruit Qin Feng to surrender. Qin Feng made bad words and refused to surrender.
+The emperor returned and gave Zhu You strategies, and Zhu You tried his best to besiege.
+In the summer of the next year, the city was impoverished, so Qin Feng led his mother and his wife, Jiurenzuchou, to surrender.
+Zhu You took Qin Feng to Luoyang in a prison car and beheaded him.
+The Grand Sima Wu Han impeached Zhu You for abolishing the imperial edict and accepting surrender, which violated the general's mission, and the emperor did not punish him.
+After Zhu You returned, he joined forces with the Cavalry Commander Zang Gong to attack Yancen Yu and the bandits in Yin County, Zanhuang County and Zhuyang County, and they were all put down.
+Zhu You was a simple and upright man who liked Confucianism.
+Leading a large number of soldiers, accepting more surrenders, taking the ability to stabilize the city as the foundation, and not pursuing the merit of indiscriminate beheading.
+The soldiers were also strictly prohibited from plundering the people. The soldiers were happy to indulge themselves, and they often complained about Zhu You.
+In the ninth year of Jianwu, troops were stationed south to the Tang Dynasty to resist the Xiongnu.
+
+summary:
+summary line 1: **Zhu You**, courtesy name Zhongxian, was from Wan County, Nanyang. Orphaned young, he lived with his maternal grandparents in Fuyang and traveled to Chongling, where Shizu and Bosheng held him dear. Bosheng appointed him guard, and Shizu later made him army guard during the Hebei campaign. Zhu You once suggested that Chang'an's chaos indicated heaven-sent destiny for Shizu, who threatened him. He fought bravely in Hebei, became a partial general, and was named Marquis of Anyang. After Shizu ascended, Zhu You became General Jianyi. He attacked Deng Feng but was captured; after Deng Feng's defeat, Zhu You surrendered, was restored, and pacified Xinye and Suixian. He defeated Yancen, beheading Zhang Cheng, and received ninety-seven seals. He besieged Qin Feng in Liqiu, who surrendered after a year. Wu Han impeached Zhu You for accepting surrender against orders, but the emperor did not punish him. Zhu You, simple and upright, liked Confucianism, stabilized cities, and prohibited plundering, though soldiers complained. He later resisted the Xiongnu, increased his fief to 7,300 households, and suggested changing kings to dukes, which the emperor adopted. He died in Jianwu 24.
+
+Chunk 2: 
+original: 
+况使丹与子弇及寇恂等将兵南归世祖，世祖引见丹等，笑曰： 邯郸将帅数言我发渔阳、上谷兵，吾卿应言然，何意二郡良为吾来！
+方与士大夫共此功名耳。 拜丹为偏将军，号奉义侯。
+从击王郎将皃宏等于南，郎兵迎战，汉军退却，丹等纵突骑击，大破之，追奔十余里，死伤者从横。
+丹还，世祖谓曰： 吾闻突骑天下精兵，今乃见其战，乐可言邪？ 遂从征河北。
+世祖即位，以谶文用平狄将军孙咸行大司马，众威不悦。
+诏举可为大司马者，群臣所推惟吴汉及丹。
+帝曰： 景将军北州大将，是其人也。
+然吴将军有建大策之勋，又诛苗幽州、谢尚书，其功大。
+旧制骠骑将军官与大司马相兼也。 乃以吴汉为大司马，而拜丹为骠骑大将军。
+建武二年，定封丹栎阳侯。
+帝谓丹曰： 今关东故王国，虽数县，不过栎阳万户邑。
+夫 富贵不归故乡，如衣绣夜行 ，故以封卿耳。 丹顿首谢。
+秋，与吴汉、建威大将军耿弇、建义大将军朱祐、执金吾贾复、偏将军冯异、强弩将军陈俊、左曹王常、骑都尉臧宫等从击破五校于羛阳，降其众五万人。
+会陕贼苏况攻破弘农，生获郡守。
+丹时病，帝以其旧将，欲令强起领郡事，乃夜召入，谓曰： 贼迫近京师，但得将军威重，卧以镇之足矣。 丹不敢辞，乃力疾拜命，将营到郡，十余日薨。
+translation: 
+Geng Kuang sent Jingdan and his sons Geng and Kou Xun to lead their troops south to Shizu. Shizu introduced Jingdan and others and said with a smile: General Handan threatened to send troops to Yuyang and Shanggu several times. I just talked and dealt with it. I didn't expect the two counties to come for me!
+This honor should be shared with the scholar-bureaucrats from the two counties. He worshiped Jingdan as a partial general and was named Fengyihou.
+He followed and attacked Wang Lang's general Erhong, who was in the south. Lang's soldiers fought, but the Han army retreated. Jing Dan attacked with cavalry and defeated Wang Lang's army. They chased for more than ten miles, leaving many dead and wounded on the road.
+When Jing Dan returned, Shizu said to him: I heard that the assault cavalry is the best soldier in the world. Now that I see the assault cavalry participating in the battle, how can I express my joy in words? So he followed in the expedition to Hebei.
+When Shizu came to the throne, he used prophecies to appoint Sun Xian, the general of Ping Di, to act as Grand Sima. The tribesmen were unhappy.
+The emperor issued an edict asking the officials to recommend who could be the Grand Sima, but the officials recommended only Wu Han and Jing Dan.
+The emperor said: General Jing is the general of Beizhou, and Da Sima can be him.
+However, General Wu had the merit of establishing great policies, and also killed Miao Hui and Xie Gong. His merits are great.
+According to the old system, the rank of Hussar General and the rank of Grand Sima could be held concurrently. So Wu Han was appointed as the Grand Sima, and Jing Dan was appointed as the General of the Hussars.
+In the second year of Jianwu's reign, Jingdan was granted the title of Marquis of Yueyang.
+The emperor said to Jingdan: Although the original kingdom of Guandong now has several counties, only Yueyang has a city of ten thousand households.
+As the saying goes, if you don't return to your hometown, you will be like walking in the dark wearing brocade clothes, so I will call you the Marquis of Yueyang.
+Jing Dan kowtowed his head to express his gratitude. In the autumn, Wu Han, General Geng of Jianwei, General Zhu You of Jianyi, Jia Fu of Zhijinwu, General Feng Yi, Qiannu General Chen Jun, Zuo Cao Wangchang, Cavalry Commander Zang Gong and other followers defeated the five schools in Yuyang, and 50,000 people surrendered.
+It happened that the Shaanxi thief Su Kuang attacked Hongnong and captured the county guard alive.
+Jing Dan was ill at that time, and because he was a returned general, the emperor wanted him to be forced to serve as the governor of Hongnong County, so he summoned him to see him at night and said to him: "Thieves are approaching the capital. It is enough to rely on the general's authority and sleep in bed to guard him." Jing Dan did not dare to refuse, so he reluctantly accepted the appointment and led his battalion west to Hongnong County. He died of illness more than ten days later.
+
+summary:
+summary line 2: **Jing Dan**, courtesy name Sun Qing, from Yueyang, studied in Chang'an. Wang Mang promoted him to Gudehou Xiang. Gengshi made him Shanggu governor. When Wang Lang rose, Jing Dan and Geng Kuang resisted, sending troops south to Shizu. Shizu appointed him partial general and Marquis of Fengyi. He defeated Wang Lang's general Erhong, and Shizu praised his cavalry. After Shizu's ascension, officials recommended Jing Dan for Grand Sima, but Wu Han received the post, and Jing Dan became Hussar General. He was named Marquis of Yueyang, with the emperor citing the saying about returning home in brocade. He joined Wu Han in defeating five schools in Yuyang. Ill, he was forced to serve as Hongnong governor to fight thieves, dying ten days later.
+
+Chunk 3: 
+original: 
+子尚嗣，徙封余吾侯。
+尚卒，子苞嗣。
+苞卒，子临嗣，无子，国绝。
+永初七年，邓太后绍封苞弟遽为监亭侯。
+王梁字君严，渔阳要阳人也。
+为郡吏，太守彭宠以梁守狐奴令，与盖延、吴汉俱将兵南及世祖于广阿，拜偏将军。
+既拔邯郸，赐爵关内侯。
+从平河北，拜野王令，与河内太守寇恂南拒洛阳，北守天井关，朱鲔等不敢出兵，世祖以来梁功。
+及即位，议选大司空，而《赤伏符》曰 王梁主卫作玄武 ，帝以野王卫之所徙，玄武水神之名，司空水土之官也，于是擢拜梁为大司空，封武强侯。
+建武二年，与大司马吴汉等俱击檀乡，有诏军事一属大司马，而梁辄发野王兵，帝以其不奉诏敕，令止在所县，而梁复以便宜进军。
+帝以梁前后违命，大怒，遣尚书宗广持节军中斩梁。
+广不忍，乃槛车送京师。
+既至，赦之。
+月余，以为中郎将，行执金吾事。
+北守箕关，击赤眉别校，降之。
+translation: 
+Zijing succeeded to the throne and was granted the title of Marquis Yuwu.
+When Jing Shang died, Zi Jingbao succeeded him.
+When Jingbao died, his son Jinglin succeeded him. Jinglin had no children and the feudal state was abolished.
+In the seventh year of Yongchu's reign, Mrs. Deng granted Jingbao's younger brother Jingjun the title of Marquis of Janting.
+◆Biography of Wang Liang Wang Liang, courtesy name Junyan, was from Yaoyang County, Yuyang County.
+As a county official, the prefect Peng Chong put Wang Liang in charge of the county magistrate of Hunu. Together with Gai Yan and Wu Han, he led troops south to pursue the ancestor Yu Guang'a and worshiped him as a partial general.
+After conquering Handan, he was given the title of Marquis of Guannei.
+Following the pacification of Hebei, he paid homage to the Wild King's order, and together with Kou Xun, the prefect of Hanoi, rejected Luoyang in the south and guarded Tianjing Pass in the north. Zhu Jun and others did not dare to send troops. Shizu thought it was Wang Liang's contribution.
+When he came to the throne, it was discussed to elect the Great Sikong, and "Chi Fu Fu" said that Wang Liang's main guard was Xuanwu. The emperor thought that Ye Wang was the emigration of Wei Yuanjun, Xuanwu was the name of the water god, and Sikong was the official of water and earth, so he promoted Wang Liang to be the Great Sikong and granted him the title of Wu Qianghou.
+In the second year of Jianwu, he and the Grand Sima Wu Han and others attacked Tanxiang together. The imperial edict was that all military affairs should belong to the Grand Sima. However, Wang Liang launched the wild king's troops without authorization. The emperor refused to obey the edict and ordered him to stop operations in the county where he was located, and Wang Liang marched without authorization.
+The emperor was furious because Wang Liang had disobeyed orders before and after, and sent Minister Zong Guang to hold the talisman to kill Wang Liang in the army.
+Zong Guang couldn't bear it, so he took Wang Liang back to the capital in a prison car.
+After arriving in Beijing, the emperor pardoned him.
+After more than a month, he was appointed as Zhonglang General and also in charge of Jinwu affairs.
+Guard Jiguan in the north, attack Chimei Biejiao and surrender.
+
+summary:
+summary line 3: **Wang Liang**, courtesy name Junyan, from Yuyang, was a county official under Prefect Peng Chong. He led troops south to Shizu, became a partial general, and Marquis of Guannei. He pacified Hebei, guarded Tianjing Pass, and Shizu credited him. After ascension, prophecies favored Wang Liang for Grand Sikong, which he received. He disobeyed orders by launching troops without authorization; the emperor sent Zong Guang to execute him, but Zong Guang brought him to the capital instead. The emperor pardoned him, made him Zhonglang General, and later Former General. He captured Feicheng and Wenyang, pacified regions with Du Mao, and rescued Taocheng. As Henan Yin, he dug a canal diverting water to Luoyang, but it failed. He resigned, became Jinan prefect, and died in Jianwu 14.
+
+Chunk 5: 
+original: 
+杜茂字诸公，南阳冠军人也。
+初归光武于河北，为中坚将军，常从征伐。
+世祖即位，拜大将军，封乐乡侯。
+北击五校于真定，进降广平。
+建武二年，更封苦陉侯。
+与中郎将王梁击五校贼于魏郡、清河、东郡，悉平诸营保，降其持节大将三十余人，三郡清静，道路流通。
+明年，遣使持节拜茂为骠骑大将军，击沛郡，拔芒。
+时，西防复反，迎佼彊。
+五年春，茂率捕虏将军马武进攻西防，数月拔之，彊奔董宪。
+东方既平，七年，诏茂引兵北屯田晋阳、广武，以备胡寇。
+九年，与雁门太守郭凉击卢芳将尹由于繁畤，芳将贾览率胡骑万余救之，茂战，军败，引入楼烦城。
+时，卢芳据高柳，与匈奴连兵，数寇边民，帝患之。
+translation: 
+◆Du Mao Biography: Du Mao, courtesy name Zhu Gong, was a champion of Nanyang County.
+At first, he returned to Guangwu in Hebei and became a backbone general, often accompanying him on expeditions.
+Shizu ascended the throne, was worshiped as a general, and was granted the title of Marquis of Lexiang.
+Attack the five schools in Zhending from the north and advance to Guangping.
+In the second year of Jianwu's reign, he was granted the title of Marquis of Kuxing.
+Together with Zhonglang General Wang Liang, he attacked the bandits of the Five Schools in Weijun, Qinghe, and Dongjun, and pacified all the forts. More than thirty of his generals, Chijie, surrendered, and the three counties were quiet and the roads were smooth.
+Next year, an envoy was sent to hold Du Mao as a hussar general, attack Peijun, and capture Mangxian.
+At that time, the western defense was built again to welcome Jiaozhi.
+In the spring of the fifth year of Jianwu's reign, Du Mao led the captured general Ma Wu to attack the western defense. After a few months, he was able to capture the enemy and escape to Dong Xian.
+Dongfang had been pacified, and in the seventh year of Jianwu's reign, Du Mao was ordered to lead troops northward to garrison Jinyang and Guangwu to guard against Hu invaders.
+In the ninth year of Jianwu, Guo Liang, the prefect of Yanmen, attacked Yin Yufan County, the general of Lu Fang. Jia Lan, the general of Lu Fang, led more than 10,000 Hu cavalry to rescue him. Du Mao fought with him, but the army was defeated and led into Loufan County.
+At this time, Lu Fang occupied Gaoliu, joined forces with the Xiongnu soldiers, and invaded the border people many times, which made the emperor very worried.
+
+summary:
+summary line 4: **Du Mao**, courtesy name Zhugong, from Nanyang, joined Shizu in Hebei as a backbone general. After ascension, he became General and Marquis of Lexiang, later Marquis of Kuxing. He pacified bandits in Weijun, Qinghe, and Dongjun. As Hussar General, he attacked Peijun and captured Mangxian. He fought Lu Fang's general Jia Lan but was defeated. He built fortifications and beacon fires, transported supplies, and pacified Yanmen after Lu Fang fled to the Xiongnu. His fief increased, but he was dismissed for a soldier-killing incident, reduced to Marquis of Shenzang Township. He died in Jianwu 19.
+
+Chunk 8: 
+original: 
+在事五六年，帝以成勤劳，征还京师。
+边人多上书求请者，复遣成还屯。
+及南单于保塞，北方无事，拜为中山太守，上将军印绶，领屯兵如故。
+二十四年，南击武谿蛮贼，无功，上太守印绶。
+二十七年，定封全椒侯。就国。
+三十二年卒。
+子卫嗣。
+卫卒，子香嗣，徙封棘陵侯。
+香卒，子丰嗣。
+丰卒，子玄嗣。
+玄卒，子邑嗣。
+邑卒，子丑嗣，桓帝时以罪失国。
+延熹二年，帝复封成玄孙昌为益阳亭侯。
+刘隆字元伯，南阳安众侯宗室也。
+王莽居摄中，隆父礼与安众侯崇起兵诛莽，事泄，隆以年未七岁，故得免。
+及壮，学于长安，更始拜为骑都尉。
+谒归，迎妻、子置洛阳。
+闻世祖在河内，即追及于射犬，以为骑都尉，与冯异共拒朱鲔、李轶等，轶遂杀隆妻、子。
+建武二年，封亢父侯。
+四年，拜诛虏将军，讨李宪。
+宪平，遣隆屯田武当。
+十一年，守南郡太守，岁余，上将军印绶。
+十三年，增邑，更封竟陵侯。
+translation: 
+After five or six years of service, the emperor recognized Ma Cheng's hard work and summoned him back to Beijing.
+Many people from the frontier wrote letters begging him to return to the border, so the emperor sent Ma Cheng back to the camp.
+When Nandan was at peace in the fortress and the north was at peace, he worshiped Ma and became the governor of Zhongshan, presented the general's seal and ribbon, and continued to lead the troops as before.
+In the 24th year of Jianwu's reign, he attacked the barbarians in Wuxi Valley in the south. Before he achieved military success, he presented himself with the seal and ribbon of the prefect.
+In the twenty-seventh year of Jianwu's reign, he was granted the title of Marquis of Quanjiao and returned to the country.
+He died in the 32nd year of Jianwu.
+Zima Wei succeeded to the throne.
+Ma Weizu, his son Ma Xiang succeeded him, and he was granted the title of Marquis of Jiling.
+Ma Xiang died, and his son Ma Feng succeeded him.
+Ma Feng died, and his son Ma Xuan succeeded him.
+Ma Xuan died, and his son Ma Yi succeeded to the throne.
+Ma Yi died, and his son Ma Chou succeeded him. During the reign of Emperor Huan, he deposed his feudal state because of his crime.
+In the second year of Yanxi's reign, Ma Chang, the great-great-grandson of Ma Cheng, was granted the title of Marquis of Yiyang Ting.
+◆Biography of Liu Long Liu Long, courtesy name Boyuan, was from the clan of Nanyang Anzhonghou.
+During Wang Mang's reign, Liu Long's father Liu Li and Anzhonghou Liu Chong launched an army to murder Wang Mang. The incident was revealed, and Liu Long was spared from the disaster because he was under seven years old.
+When he was old, he studied in Chang'an and worshiped him as the captain of the cavalry.
+He asked for leave and returned, welcoming his wife and children and settling them in Luoyang.
+When he heard that Shizu was in Hanoi, he followed Shizu Yu Shedog and was appointed as the Cavalry Captain. Together with Feng Yi, he rejected Zhu Tuna, Li Yi and others. Li Yi killed Liu Long's wife and children.
+In the second year of Jianwu, he was granted the title of Kangfuhou.
+In the fourth year of Jianwu's reign, he became the general who killed the captives and attacked Li Xian.
+After Li Xian was defeated, Liu Long was sent to garrison Wudang.
+In the eleventh year of Jianwu's reign, he acted as the governor of Nanyang. For more than a year, he presented the seal and ribbon of the general.
+In the thirteenth year of Jianwu's reign, the number of towns increased and he was granted the title of Marquis of Jingling.
+
+summary:
+summary line 5: **Ma Cheng**, courtesy name Junqian, from Nanyang, was a county official. Shizu made him Jidu and Jiaxian magistrate. He abandoned his post to join Shizu in Puyang, becoming Qi gate. After ascension, he became General Yangwu, attacking Li Xian in Shu for over a year, massacring the city and beheading Li Xian. He was named Marquis of Pingshu, defeated Weixiao, and became Tianshui prefect. He later guarded the northern border, building forts and beacons from Xihe to Ye. After five or six years, he returned to the capital but was sent back due to border petitions. He became Zhongshan governor, attacked Wuxi Valley barbarians, and died in Jianwu 32.
+
+Chunk 8: 
+original: 
+在事五六年，帝以成勤劳，征还京师。
+边人多上书求请者，复遣成还屯。
+及南单于保塞，北方无事，拜为中山太守，上将军印绶，领屯兵如故。
+二十四年，南击武谿蛮贼，无功，上太守印绶。
+二十七年，定封全椒侯。就国。
+三十二年卒。
+子卫嗣。
+卫卒，子香嗣，徙封棘陵侯。
+香卒，子丰嗣。
+丰卒，子玄嗣。
+玄卒，子邑嗣。
+邑卒，子丑嗣，桓帝时以罪失国。
+延熹二年，帝复封成玄孙昌为益阳亭侯。
+刘隆字元伯，南阳安众侯宗室也。
+王莽居摄中，隆父礼与安众侯崇起兵诛莽，事泄，隆以年未七岁，故得免。
+及壮，学于长安，更始拜为骑都尉。
+谒归，迎妻、子置洛阳。
+闻世祖在河内，即追及于射犬，以为骑都尉，与冯异共拒朱鲔、李轶等，轶遂杀隆妻、子。
+建武二年，封亢父侯。
+四年，拜诛虏将军，讨李宪。
+宪平，遣隆屯田武当。
+十一年，守南郡太守，岁余，上将军印绶。
+十三年，增邑，更封竟陵侯。
+translation: 
+After five or six years of service, the emperor recognized Ma Cheng's hard work and summoned him back to Beijing.
+Many people from the frontier wrote letters begging him to return to the border, so the emperor sent Ma Cheng back to the camp.
+When Nandan was at peace in the fortress and the north was at peace, he worshiped Ma and became the governor of Zhongshan, presented the general's seal and ribbon, and continued to lead the troops as before.
+In the 24th year of Jianwu's reign, he attacked the barbarians in Wuxi Valley in the south. Before he achieved military success, he presented himself with the seal and ribbon of the prefect.
+In the twenty-seventh year of Jianwu's reign, he was granted the title of Marquis of Quanjiao and returned to the country.
+He died in the 32nd year of Jianwu.
+Zima Wei succeeded to the throne.
+Ma Weizu, his son Ma Xiang succeeded him, and he was granted the title of Marquis of Jiling.
+Ma Xiang died, and his son Ma Feng succeeded him.
+Ma Feng died, and his son Ma Xuan succeeded him.
+Ma Xuan died, and his son Ma Yi succeeded to the throne.
+Ma Yi died, and his son Ma Chou succeeded him. During the reign of Emperor Huan, he deposed his feudal state because of his crime.
+In the second year of Yanxi's reign, Ma Chang, the great-great-grandson of Ma Cheng, was granted the title of Marquis of Yiyang Ting.
+◆Biography of Liu Long Liu Long, courtesy name Boyuan, was from the clan of Nanyang Anzhonghou.
+During Wang Mang's reign, Liu Long's father Liu Li and Anzhonghou Liu Chong launched an army to murder Wang Mang. The incident was revealed, and Liu Long was spared from the disaster because he was under seven years old.
+When he was old, he studied in Chang'an and worshiped him as the captain of the cavalry.
+He asked for leave and returned, welcoming his wife and children and settling them in Luoyang.
+When he heard that Shizu was in Hanoi, he followed Shizu Yu Shedog and was appointed as the Cavalry Captain. Together with Feng Yi, he rejected Zhu Tuna, Li Yi and others. Li Yi killed Liu Long's wife and children.
+In the second year of Jianwu, he was granted the title of Kangfuhou.
+In the fourth year of Jianwu's reign, he became the general who killed the captives and attacked Li Xian.
+After Li Xian was defeated, Liu Long was sent to garrison Wudang.
+In the eleventh year of Jianwu's reign, he acted as the governor of Nanyang. For more than a year, he presented the seal and ribbon of the general.
+In the thirteenth year of Jianwu's reign, the number of towns increased and he was granted the title of Marquis of Jingling.
+
+summary:
+summary line 6: **Liu Long**, courtesy name Boyuan, from Nanyang, survived a family purge under Wang Mang. He studied in Chang'an, became Cavalry Captain, and joined Shizu in Hanoi. Li Yi killed his family. He became General Who Kills Captives, attacked Li Xian, and garrisoned Wudang. As Nanyang governor, he presented his general's seal. His fief increased to Marquis of Jingling. During land surveys, officials favored powerful families, causing complaints. Liu Long was imprisoned for fraud, demoted to commoner, later restored as Marquis of Fule Township. He attacked Jiaozhi barbarians, beheading over a thousand. After Wu Han's death, he became Hussar General and acting Grand Sima for eight years. He died in Zhongyuan 2, posthumously named Jinghou.
+
+Chunk 10: 
+original: 
+及大司马吴汉薨，隆为骠骑将军，行大司马事。
+隆奉法自守，视事八岁，上将军印绶，罢，赐养牛，上樽酒十斛，以列侯奉朝请。
+三十年，定封慎侯。
+中元二年，卒，谥曰靖侯。
+子安嗣。
+傅俊字子卫，颍川襄城人也。
+世祖徇襄城，俊以县亭长迎军，拜为校尉，襄城收其母弟宗族，皆灭之。
+从破王寻等，以为偏将军。
+别击京、密，破之，遣归颍川，收葬家属。
+及世祖讨河北，俊与宾客十余人北追，及于邯郸，上谒，世祖使将颍川兵，常从征伐。
+世祖即位，以俊为侍中。
+建武二年，封昆阳侯。
+三年，拜俊积弩将军，与征南大将军岑彭击破秦丰，因将兵徇江东，扬州悉定。
+七年，卒，谥曰威侯。
+子昌嗣，徙封芜湖侯。
+建初中，遭母忧，因上书，以国贫不愿之封，乞钱五十万，为关内侯。
+肃宗怒，贬为关内侯，竟不赐钱。
+永初七年，邓太后复封昌子铁为高置亭侯。
+坚镡字子伋，颍川襄城人也。
+为郡县吏。
+translation: 
+After the death of the Grand Sima Wu Han, Liu Long became the Hussar General and acted as the acting general for the Grand Sima.
+Liu Long followed the law and guarded himself, and took charge of the affairs for eight years. He presented the seal and ribbon of the general, dismissed from office, and was given cattle and ten bottles of wine, and was invited by the princes.
+In the 30th year of Jianwu's reign, he was granted the title of Marquis Shen.
+He died in the second year of Zhongyuan, and his posthumous title was Jinghou.
+His son Liu An succeeded him.
+◆Fu Jun's biography Fu Jun's courtesy name was Ziwei, and he was a native of Xiangcheng, Yingchuan County.
+Shizu captured Xiangcheng, and Fu Jun greeted the Han army as the county pavilion chief and worshiped him as a school captain. Xiangcheng arrested his mother, brother, and clan, and executed them all.
+Follow and defeat Wang Xun and others, with Fu Jun as the partial general.
+Another attack on Jing and Mi was defeated. He was sent back to Yingchuan to collect and bury his family members.
+When Shizu was conquering Hebei, Fu Jun and more than ten guests pursued him northward. They caught up with him at Handan and paid a visit to Shizu. Shizu asked him to lead the Yingchuan troops and often follow him in the expedition.
+Shizu ascended the throne and took Fu Jun as his attendant.
+In the second year of Jianwu, he was granted the title of Marquis of Kunyang.
+In the third year of Jianwu's reign, he appointed Fu Jun as General Jinu, and together with Cen Peng, the general who conquered the south, defeated Qin Feng, so he led his troops to conquer Jiangdong and pacified all of Yangzhou.
+He died in the seventh year of Jianwu and was given the posthumous title of Weihou.
+His son Fu Chang succeeded to the throne and was granted the title of Marquis of Wuhu.
+During the early years of the founding of the People's Republic of China, his mother was bereaved, so he wrote a letter saying that Wuhu was poor and unwilling to go to the country, and asked for a grant of 500,000 yuan to be made a Marquis of Guannei.
+Suzong was angry and demoted Fu Chang to the title of Marquis of Guannei, but refused to reward him with money.
+In the seventh year of Yongchu's reign, Empress Dowager Deng restored the title of Fu Tie, Fu Chang's son, to the title of Gaozhitinghou.
+◆Jiantan's biography Jiantan's courtesy name is Zidanji, a native of Xiangcheng, Yingchuan.
+As a county official.
+
+summary:
+summary line 7: **Fu Jun**, courtesy name Ziwei, from Yingchuan, greeted the Han army as pavilion chief. Xiangcheng executed his family. He became a partial general, defeated Wang Xun, and collected his family's remains. He joined Shizu in Hebei, leading Yingchuan troops. After ascension, he became attendant, Marquis of Kunyang, and General Jinu. He defeated Qin Feng with Cen Peng, pacified Yangzhou, and died in Jianwu 7, posthumously named Weihou.
+
+Chunk 11: 
+original: 
+世祖讨河北，或荐镡者，因得召见。
+以其吏能，署主簿。
+又拜偏将军，从平河北，别击破大枪于卢奴。
+世祖即位，拜镡扬化将军，封〈氵隱〉强侯。
+与诸将攻洛阳，而朱鲔别将守东城者为反间，私约镡晨开上东门。
+镡与建义大将军朱祐乘朝而入，与鲔大战武库下，杀伤甚众，至旦食乃罢，朱鲔由是遂降。
+又别击内黄，平之。
+建武二年，与右将军万脩徇南阳诸县，而堵乡人董反宛城，获南阳太守刘驎。
+镡乃引军赴宛，选敢死士夜自登城，斩关而入，遂弃城走还堵乡。
+邓奉复反新野，攻破吴汉。
+时，万脩病卒，镡独孤绝，南拒邓奉，北当董，一年间道路隔塞，粮馈不至，镡食蔬菜，与士卒共劳苦。
+每急，辄先当矢石，身被三创，以此能全其众。
+及帝征南阳，击破、奉，以镡为左曹，常从征伐。
+六年，定封合肥候。
+二十六年，卒。
+子鸿嗣。
+鸿卒，子浮嗣。
+浮卒，子雅嗣。
+translation: 
+When Shizu was campaigning against Hebei, someone recommended Jiantan, so Shizu summoned him.
+Because of his ability to serve as a county official, he was appointed as the chief bookkeeper.
+He also worshiped as a partial general and followed him to pacify Hebei. He also defeated the big gun Yu Lunu.
+When Shizu ascended the throne, he worshiped Jiandan as General Yanghua and granted him the title of Qianghou of Xuyin.
+He and other generals attacked Luoyang, while Zhu Tuna's generals guarding the east city acted as counterattacks and made a private agreement to open the east gate in the early morning.
+Jiantan and Jianyi General Zhu You took the opportunity to enter and fought with Zhu Tuna in Kuxia, killing many people. The fighting did not cease until breakfast, and Zhu Tun surrendered.
+He attacked Neihuang again and calmed down.
+In the second year of Jianwu, he and his right general Wan captured the counties of Nanyang, while Dong Jinjin, a native of Duxiang, built in Wancheng and captured Liu Ma, the prefect of Nanyang.
+Jiantan then led his troops to Wan, and selected his own suicide squad to climb the city tower at night and cut through the pass. Dong Jinjin abandoned the city and returned to Duxiang.
+Deng Feng built another army in Xinye and defeated Wu Han.
+At this time, Wan died of illness, and Jiandan was alone and helpless. Deng Feng was blocked from the south, and Dong Tanjin was blocked from the north. For a year, the roads were blocked and food supplies were cut off. Jiantan ate only vegetables and worked hard with the soldiers.
+Whenever he encounters a battle, he often acts as a target and is wounded in three places on his body, in order to save his troops.
+When the emperor conquered Nanyang and defeated Dong Yujin and Deng Feng, he appointed Jiantan as his left cao and often followed him on expeditions.
+In the sixth year of Jianwu, he was granted the title of Marquis of Hefei.
+Jianwu died in the twenty-sixth year of his reign.
+Zijianhong succeeded to the throne.
+Jianhong died, and Zijian succeeded to the throne.
+Jianfu died, and Zijianya succeeded to the throne.
+
+summary:
+summary line 8: **Jian Tan**, courtesy name Zidanji, from Yingchuan, was a county official. Shizu summoned him, made him chief bookkeeper and partial general. He pacified Hebei and defeated Yu Lunu. After ascension, he became General Yanghua and Marquis of Xuyin. He attacked Luoyang, opening the east gate with Zhu You, and fought Zhu Tuna until surrender. He pacified Neihuang, captured Nanyang counties, and fought Deng Feng while besieged for a year, eating only vegetables. He was wounded three times saving his troops. He became Marquis of Hefei in Jianwu 6 and died in Jianwu 26.
+
+Chunk 12: 
+original: 
+马武字子张，南阳湖阳人也。
+少时避仇，客居江夏。
+王莽末，竟陵、西阳三老起兵于郡界，武往从之，后入绿林中，遂与汉军合。
+更始立，以武为侍郎，与世祖破王寻等。拜为振威将军，与尚书令谢躬共攻王郎。
+及世祖拔邯郸，请躬及武等置酒高会，因欲以图躬，不克。
+既罢，独与武登丛台，从容谓武曰： 吾得渔阳、上谷突骑，欲令将军将之，何如？ 武曰： 驽怯无方略。 世祖曰： 将军久将，习兵，岂与我掾史同哉！ 武由是归心。
+及谢躬诛死，武驰至射犬降，世祖见之甚悦，引置左右，每劳飨诸将，武辄起斟酌于前，世祖以为欢。
+复使将其部曲至邺，武叩头辞以不愿，世祖愈美其意，因从击群贼。
+世祖击尤来、五幡等，败于慎水，武独殿，还陷阵，故贼不得迫及。
+进至安次、小广阳，武常为军锋，力战无前，诸将皆引而随之，故遂破贼，穷追至平谷，浚靡而还。
+世祖即位，以武为侍中、骑都尉，封山都侯。
+建武四年，与虎牙将军盖延等讨刘永，武别击济阴，下成武、楚丘，拜捕虏将军。
+明年，庞萌反，攻桃城，武先与战，破之；会车驾至，萌遂败走。
+六年夏，与建威大将军耿弇西击隗嚣，汉军不利，引下陇，嚣追急，武选精骑还为后拒，身披甲持戟奔击，杀数千人，嚣兵乃退，诸军得还长安。
+十三年，增邑，更封脩侯。
+将兵北屯下曲阳，备匈奴。
+坐杀军吏，受诏将妻子就国。
+武径诣洛阳，上将军印绶，削户五百，定封为杨虚侯，因留奉朝请。
+帝后与功臣诸侯宴语，从容言曰： 诸卿不遭际会，自度爵禄何所至乎？ 高密侯邓禹先对曰： 臣少尝学问，可郡文学博士。 帝曰： 何言之谦乎 卿邓氏子，志行修整，何为不掾功曹？ 余各以次对，至武，曰： 臣以武勇，可守尉督盗贼。 帝笑曰： 且勿为盗贼，自致亭长，斯可矣。 武为人嗜酒，阔达敢言，时醉在御前面折同列，言其短长，无所避忌，帝故纵之，以为笑乐。
+帝虽制御功臣，而每能回容，宥其小失。
+远方贡珍甘，必先遍赐列侯，而太官无余。
+translation: 
+◆The biography of Ma Wu Ma Wu was named Zizhang and was a native of Huyang, Nanyang County.
+When he was young, he lived in Jiangxia to avoid hatred.
+In the last years of Wang Mang's reign, the three elders of Jingling and Xiyang raised troops at the county border. Ma Wu also participated. Later, they entered the green forest and joined the Han army.
+When Gengshi was established, he appointed Ma Wu as his minister, and together with his ancestor Po Wang Xun and others, he worshiped him as General Zhenwei, and together with Shangshu Ling Xie Gong attacked Wang Lang.
+Shizu conquered Handan and invited Xie Gong, Ma Wu and others to hold a grand cocktail party in an attempt to kill Xie Gong, but failed.
+After the reception, Shizu and Ma Wu climbed up the Congtai alone and calmly said to Ma Wu: I have obtained the Yuyang and Shanggu assault cavalry and want you to command them. How about it?
+Ma Wu said: I am dull, cowardly and have no strategy. Shizu said: "A general has been a general for a long time and has a deep knowledge of military affairs. Is it the same as my history?" From this, Ma Wu returned to Shizu in his heart. After Xie Gong was executed, Ma Wu rushed to She Quan and surrendered. Shizu was very happy to see him and led him to his side. Every time he held a condolence banquet with the generals, Ma Wu often got up and considered it before him. Shizu was very happy.
+Then he asked Ma Wu to lead his troops to Ye. Ma Wu kowtowed and refused, saying that he was unwilling. Shizu praised his intention even more, and asked Ma Wu to follow him to attack the bandits.
+Shizu attacked You Lai, Wu Ban and others, but failed at Shenshui. Ma Wu, the only rear army in the palace, returned to attack the enemy's position, so the rebels did not dare to catch up.
+Entering Anci and Xiaoguangyang, Ma Wuchang was the vanguard and fought vigorously forward. All the generals led their troops to follow. Therefore, they defeated the rebels and pursued them to Pinggu and Junmi counties before returning to the army.
+When Shizu ascended the throne, he appointed Ma Wu as the Shizhong, Qi Duwei, and the Shandu Marquis.
+In the fourth year of Jianwu, he and Huya General Gai Yan and others attacked Liu Yong. Mawu attacked Jiyin separately, captured Chengwu and Chuqiu, and captured the general.
+The next year, Pang Meng made an attack on Taocheng. Ma Wu fought with him first and defeated Pang's army. Just as the emperor's chariot arrived, Pang Meng was defeated.
+In the summer of the sixth year of Jianwu, he and Gengxi, the general of Jianwei, attacked Weixiao. The Han army was disadvantaged and led the army to Long. Wei Xiao pursued him urgently. Ma Wu selected his best cavalry to return to the army to resist Wei Xiao. He wore armor and held a painted halberd and charged at him, killing thousands of people. Only then did Wei Xiao's troops retreat, and all the troops had to return to Chang'an.
+In the thirteenth year of Jianwu's reign, the number of food towns increased, and the title of Marquis Yu was granted.
+He led the army to the north and settled in Quyang to guard against the Xiongnu.
+The others answered one by one, and when they came to Ma Wu, Ma Wu said: If I am brave enough to fight, I can serve as a military lieutenant to supervise the fight against thieves.
+The emperor smiled and said, "Don't be a thief, just deliver it to the pavilion chief yourself, that's all."
+Ma Wu was addicted to drinking, and he had a big heart and dared to tell the truth. At this time, when he was drunk, he insulted the heroes and princes in front of the emperor, commenting on their merits and demerits, without evading taboos. The emperor deliberately let him talk, thinking that it would be funny.
+Although the emperor restricted and controlled the heroes, he could always be tolerant and forgive the minor faults of the heroes.
+The treasures and delicacies brought from far away must be given to the princes first, but there are very few in the emperor's kitchen.
+
+summary:
+summary line 9: **Ma Wu**, courtesy name Zizhang, from Nanyang, joined the Green Forest Army and later the Han. Gengshi made him General Zhenwei. Shizu invited him to command Yuyang and Shanggu cavalry, and Ma Wu secretly turned to Shizu. After Xie Gong's execution, Ma Wu surrendered. Shizu made him Shizhong, Qi Duwei, and Shandu Marquis. He attacked Liu Yong, captured Chengwu, defeated Pang Meng, and fought Wei Xiao, charging with a painted halberd to save the army. He became Marquis of Yu, guarded against Xiongnu, and was known for drinking and speaking frankly. The emperor tolerated his faults. He attacked Wuling barbarians and later Western Qiang, beheading 4,600. He died in Yongping 4.
+
+Chunk 15: 
+original: 
+若格之功臣，其伤已甚。
+何者？
+直绳则亏丧恩旧，桡情则违废禁典，选德则功不必厚，举劳则人或未贤，参任则群心难塞，并列则其敝未远。
+不得不校其胜否，即以事相权。
+故高秩厚礼，允答元功，峻文深宪，责成吏职。
+建武之世，侯者百余，若夫数公者，则与参国议，分均休咎，其余并优以宽科，完其封禄，莫不终以功名延庆于后。
+昔留侯以为高祖悉用萧、曹故人，而郭伋亦讥南阳多显，郑兴又戒功臣专任。
+夫崇恩偏授，易启私溺之失，至公均被，必广招贤之路，意者不其然乎！
+永平中，显宗追感前世功臣，乃图画二十八将于南宫云台，其外又有王常、李通、窦融、卓茂，合三十二人。
+故依其本弟系之篇末，以志功臣之次云尔。
+征西大将军阳夏侯冯异上谷太守淮陵侯王霸建义大将军鬲侯朱祐信都太守阿陵侯任光征虏将军颍阳侯祭遵豫章太守中水侯李忠骠骑大将军栎阳侯景丹右将军槐里侯万脩虎牙大将军安平侯盖延太常灵寿侯邳彤卫尉安成侯铫期骁骑将军昌成侯刘植东郡太守东光侯耿纯横野大将军山桑侯王常城门校尉朗陵侯臧宫大司空固始侯李通捕虏将军杨虚侯马武大司空安丰侯窦融骠骑将军慎侯刘隆太傅宣德侯卓茂
+translation: 
+If you act according to the law, it will definitely hurt them.
+Why?
+If you act according to the law, you will lose personal favors and old friendships; if you are forgiving in the first place, you will violate prohibitions and punishments; if you choose virtues and talents, you do not have to have great merits; if you recommend merits, people will not necessarily be virtuous; if you participate in the office, it will be difficult for the public to be satisfied; if the merits and talents are appointed side by side, the ills of the great ancestor will not be far away.
+One has to assess whether one is competent or not, that is, weighing the facts.
+Therefore, high-ranking officials rewarded their heroes with generous salaries, harsh laws and strict decrees, and ordered officials to perform their duties.
+In the era of Jianwu, there were more than a hundred people who were feudal lords, but only a few people such as Deng Yu, Jia Fu, and Li Tong participated in state affairs. The blame was shared equally, and the rest were treated favorably with generous laws, and their fiefdoms and salaries were improved, and all of them continued to benefit their descendants with their fame.
+In the past, Zhang Liang thought that all Liu Bang used were the old stories of Xiao He and Cao Shen, while Guo Qianji also ridiculed Nanyang for having too many dignitaries, and Zheng Xing advised him not to use only meritorious officials.
+Giving partial favor to others can easily lead to the disadvantages of selfish indulgence. If everyone is favored by the public, they will surely recruit talents from all over the world. Isn't it like this when you think about it?
+In Yongping, Xianzong recalled the heroes of his previous life, so he drew pictures of twenty-eight generals and hung them on the cloud platform of Nangong. In addition, there were Wang Chang, Li Tong, Dou Rong, and Zhuo Mao, a total of thirty-two people.
+Here it is appended to the end of the chapter according to its original order to indicate the ranking of the meritorious officials.
+Tai Fu Gaomi Hou Deng Yu, Grand Sima Guangping Hou Wu Han, Left General Jiaodong Hou Jia Fu, Jianwei General Haojue Hou Geng Yan, Hussar General Shen Zang Hou Du Mao, Zhijin Wu Yongnu Hou Kou Xun, Southern General Wuyang Hou Cenpeng, Western General Yangxia Hou Feng Yi, Jian The general of Yi is Zhu You, the marquis of Yingyang, the conquering general is Yingyang Hou Jizun, the hussar general is Yueyang Hou Jingdan, the Huya general is Anpinghou Gaiyan, the guard is Anchenghou Yaoqi, the prefect of Dongjun is Dongguang Hou Gengchun, the city gate captain is Langling Hou Zanggong, the captor general Yang Xu is Hou Mawu, Piao Cavalry General Shen Hou Liu Long, Zhongshan Governor Quanjiao Hou Ma Cheng, Henan Yin Fucheng Hou Wang Liang, Langfu Governor Zhu Ahou Chen Jun, Hussar General Shen Zanghou Du Mao, Ji Crossbow General Kunyang Hou Fu Jun, Zuo Cao Hou Jiantan, Shanggu Governor Huai Linghou Wang Ba, Xindu Governor Alinghou Renguang, Yuzhang prefect Zhongshuihou Li Zhong, right general Huailihou Wanxiu, Taichang Lingshouhou Pitong, Xiaoqi general Changchenghou Liu Zhi, Hengye general Shansanghou Wangchang, Grand Sikong Gushihou Li Tong, Grand Sikong Anfenghou Dou Rong, Taifu Xuande Hou Zhuomao.
+
+summary:
+summary line 10: The historian comments that the twenty-eight Zhongxing generals were thought to correspond to constellations. Guangwu's policy of not appointing meritorious officials to high positions was foresighted, avoiding the disasters of Han Xin and Peng Yue. He rewarded heroes with fiefs but kept them from state affairs, maintaining peace. In Yongping, Xianzong painted thirty-two generals on Nangong's Cloud Platform, including Deng Yu, Wu Han, Jia Fu, Geng Yan, Du Mao, Kou Xun, Cen Peng, Feng Yi, Zhu You, Ji Zun, Jing Dan, Gai Yan, Yao Qi, Geng Chun, Zang Gong, Ma Wu, Liu Long, Ma Cheng, Wang Liang, Chen Jun, Du Mao, Fu Jun, Jian Tan, Wang Ba, Ren Guang, Li Zhong, Wan Xiu, Pi Tong, Liu Zhi, Wang Chang, Li Tong, Dou Rong, and Zhuo Mao.
+

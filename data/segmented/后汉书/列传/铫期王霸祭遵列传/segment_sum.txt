@@ -1,0 +1,158 @@
+Summary uses chunk [0, 0, 6, 8]
+
+Chunk 0: 
+original: 
+铫期字次况，颍川郏人也。
+长八尺二寸，容貌绝异，矜严有威。
+父猛，为桂阳太守，卒，期服丧三年，乡里称之。
+光武略地颍川，闻期志义，召署贼曹掾，从徇蓟。
+时，王郎檄书到蓟，蓟中起兵应郎。
+光武趋驾出，百姓聚观，喧呼满道，遮路不得行，期骑马奋戟，瞋目大呼左右曰 跸 ，众皆披靡。
+及至城门，门已闭，攻之得出。
+行至信都，以期为裨将，与傅宽、吕晏俱属邓禹。
+徇傍县，又发房子兵。禹以期为能，独拜偏将军，授兵二千人，宽、晏各数百人。
+还言其状，光武甚善之。
+使期别徇真定宋子，攻拔乐阳、槁、肥累。
+从击王郎将皃宏、刘奉于巨鹿下，期先登陷陈，手杀五十余人，被创中额，摄帻复战，遂大破之。
+王郎灭，拜期虎牙大将军。
+乃因间说光武曰： 河北之地，界接边塞，人习兵战，号为精勇。
+translation: 
+Yao Qi, whose courtesy name is Ci Kuang, was born in Jiaxian County, Yingchuan County.
+He is eight feet two inches long, has a very strange appearance, is solemn and majestic.
+His father, Yao Meng, was the governor of Guiyang. After his death, Yao spent three years in mourning for him, and everyone in the village praised him.
+Guangwu raided Yingchuan. Hearing that Yao Qi was very ambitious, he summoned the thief Cao Yu to follow him and attack Ji.
+At that time Wang Lang sent a message to Ji, and Ji Zhong raised troops to respond to Wang Lang.
+Guangwu's chariots drove out, and the people gathered to watch. The roads were crowded with noise and chariots could not pass. Yaoqi rode on horseback and raised his halberd, glaring angrily and shouting "guards" to the left and right, and the spectators retreated one after another.
+When they arrived at the city gate, the gate was closed, so they broke through the city gate and left.
+When he arrived at Xindu, he took Zhao Qi as his assistant general. He, Fu Kuan and Lu Yan all belonged to Deng Yu.
+After attacking a nearby county, he also sent out soldiers. Deng Yu thought that Yao Qi was capable, so he paid homage to the partial generals alone and awarded him 2,000 soldiers, including several hundred soldiers each to Fu Kuan and Lu Yan.
+After returning, he reported the situation to Guangwu, who was very complimentary.
+He sent Yaoqi to attack Zhending Songzi and captured the counties of Leyang, Gaohe and Fei.
+Following Deng Yu, he attacked Wang Lang's generals Erhong and Liu Feng under a huge deer. Yaoqi took the lead and captured the enemy's formation. He killed more than fifty people with his own hands and was wounded in the forehead. He tied the wound with a turban and fought again, thus defeating the enemy.
+After Wang Lang was killed, he worshiped Yao Qi as General Huya.
+So he took the opportunity and said to Guangwu: "In the land of Hebei, which borders the border fortress, people practice military warfare and are known as elite and brave people."
+
+summary:
+summary line 0: # Summary of Historical Records: Yao Qi, Wang Ba, and Ji Zun
+
+Chunk 0: 
+original: 
+铫期字次况，颍川郏人也。
+长八尺二寸，容貌绝异，矜严有威。
+父猛，为桂阳太守，卒，期服丧三年，乡里称之。
+光武略地颍川，闻期志义，召署贼曹掾，从徇蓟。
+时，王郎檄书到蓟，蓟中起兵应郎。
+光武趋驾出，百姓聚观，喧呼满道，遮路不得行，期骑马奋戟，瞋目大呼左右曰 跸 ，众皆披靡。
+及至城门，门已闭，攻之得出。
+行至信都，以期为裨将，与傅宽、吕晏俱属邓禹。
+徇傍县，又发房子兵。禹以期为能，独拜偏将军，授兵二千人，宽、晏各数百人。
+还言其状，光武甚善之。
+使期别徇真定宋子，攻拔乐阳、槁、肥累。
+从击王郎将皃宏、刘奉于巨鹿下，期先登陷陈，手杀五十余人，被创中额，摄帻复战，遂大破之。
+王郎灭，拜期虎牙大将军。
+乃因间说光武曰： 河北之地，界接边塞，人习兵战，号为精勇。
+translation: 
+Yao Qi, whose courtesy name is Ci Kuang, was born in Jiaxian County, Yingchuan County.
+He is eight feet two inches long, has a very strange appearance, is solemn and majestic.
+His father, Yao Meng, was the governor of Guiyang. After his death, Yao spent three years in mourning for him, and everyone in the village praised him.
+Guangwu raided Yingchuan. Hearing that Yao Qi was very ambitious, he summoned the thief Cao Yu to follow him and attack Ji.
+At that time Wang Lang sent a message to Ji, and Ji Zhong raised troops to respond to Wang Lang.
+Guangwu's chariots drove out, and the people gathered to watch. The roads were crowded with noise and chariots could not pass. Yaoqi rode on horseback and raised his halberd, glaring angrily and shouting "guards" to the left and right, and the spectators retreated one after another.
+When they arrived at the city gate, the gate was closed, so they broke through the city gate and left.
+When he arrived at Xindu, he took Zhao Qi as his assistant general. He, Fu Kuan and Lu Yan all belonged to Deng Yu.
+After attacking a nearby county, he also sent out soldiers. Deng Yu thought that Yao Qi was capable, so he paid homage to the partial generals alone and awarded him 2,000 soldiers, including several hundred soldiers each to Fu Kuan and Lu Yan.
+After returning, he reported the situation to Guangwu, who was very complimentary.
+He sent Yaoqi to attack Zhending Songzi and captured the counties of Leyang, Gaohe and Fei.
+Following Deng Yu, he attacked Wang Lang's generals Erhong and Liu Feng under a huge deer. Yaoqi took the lead and captured the enemy's formation. He killed more than fifty people with his own hands and was wounded in the forehead. He tied the wound with a turban and fought again, thus defeating the enemy.
+After Wang Lang was killed, he worshiped Yao Qi as General Huya.
+So he took the opportunity and said to Guangwu: "In the land of Hebei, which borders the border fortress, people practice military warfare and are known as elite and brave people."
+
+summary:
+summary line 1: **Yao Qi** (courtesy name Ci Kuang) was born in Jiaxian County, Yingchuan. Standing eight feet two inches tall with a striking appearance, he was known for solemnity and majesty. After his father Yao Meng, Governor of Guiyang, died, Yao Qi observed three years of mourning, earning village praise. When Guangwu raided Yingchuan, he recruited Yao Qi to attack Ji. During Wang Lang's rebellion, Yao Qi cleared crowded roads by brandishing his halberd and shouting, broke through a closed city gate, and later served under Deng Yu. Deng Yu recognized Yao Qi's capability, making him a partial general with 2,000 soldiers. Yao Qi captured several counties, fought bravely against Wang Lang's forces—killing over fifty enemies despite a forehead wound—and was appointed General Huya after Wang Lang's death. He advised Guangwu to consolidate Hebei's elite forces, and Guangwu smiled at his boldness. Yao Qi fought the Bronze Horse rebels, killing many despite initial setbacks, and later defeated bandits attacking his baggage, sustaining three wounds. After Guangwu ascended the throne, Yao Qi became Marquis of Ancheng with 5,000 households. As Prefect of Wei County, he suppressed Zhuo Jing's rebellion, beheading over 600, and pacified the region. When Li Lu plotted rebellion, Yao Qi showed mercy to Li Xiong, leading Li Lu to suicide from shame. Yao Qi served as Taizhong大夫 and Weiwei, known for integrity and remonstrating with the emperor, once stopping Guangwu from careless travel. He died in the tenth year of Jianwu, receiving posthumous honors as Marquis Zhong.
+
+Chunk 6: 
+original: 
+八年，屯田函谷关。击荥阳、中牟盗贼，皆平之。
+九年，霸与吴汉及横野大将军王常、建义大将军朱祐、破奸将军侯进等五万余人，击卢芳将贾览、闵堪于高柳。
+匈奴遣骑助芳，汉军遇雨，战不利。
+吴汉还洛阳，令朱祐屯常山，王常屯涿郡，侯进屯渔阳。
+玺书拜霸上谷太守，领屯兵如故，捕击胡虏，无拘郡界。
+明年，霸复与吴汉等四将军六万人出高柳击贾览，诏霸与渔阳太守陈将兵为诸军锋。
+匈奴左南将军将数千骑救览，霸等连战于平城下，破之，追出塞，斩首数百级。
+霸及诸将还入雁门，与骠骑大将军杜茂会攻卢芳将尹由于崞、繁畤，不克。
+十三年，增邑户，更封向侯。
+是时，卢芳与匈奴、乌恒连兵，寇盗尤数，缘边愁苦。
+诏霸将弛刑徒六千余人，与杜茂治飞狐道，堆石布土，筑起亭障，自代至平城三百余里。
+凡与匈奴、乌桓大小数十百战，颇识边事，数上书言宜与匈奴结和亲，又陈委输可从温水漕，以省陆转输之劳，事皆施行。
+后南单于、乌桓降服，北边无事。
+霸在上谷二十余岁。
+三十年，定封淮陵侯。
+永平二年，以病免，后数月卒。
+子符嗣，徙封轪侯。
+符卒，子度嗣。
+度尚显宗女浚仪长公主，为黄门郎。
+度卒，子歆嗣。
+祭遵字弟孙，颍川颍阳人也。
+translation: 
+In the eighth year of Jianwu's reign, he stationed at Hangu Pass and defeated the bandits in Xingyang and Zhongmou.
+In the ninth year of Jianwu, more than 50,000 people including Wang Ba, Wu Han, Hengye general Wang Chang, Jianyi general Zhu You, and traitor-breaking general Hou Jin attacked Lu Fang generals Jia Lan and Min Kan at Gaoliu.
+The Xiongnu sent cavalry to assist Lu Fang, but the Han army encountered rain and the battle was at a disadvantage.
+Wu Han returned to Luoyang and ordered Zhu You to garrison Changshan, Wang Chang to garrison Zhuojun, and Hou Jin to garrison Yuyang.
+Xishu worshiped Wang Ba as the prefect of Shanggu, and led the troops as in the past, hunting barbarians without being restricted by county boundaries.
+The next year, Wang Ba and Wu Han and other four generals sent out 60,000 men to Gaoliu to attack Jia Lan. Wang Ba and Yuyang Governor Chen Yujin were ordered to lead the army as the vanguard.
+General Zuonan of the Xiongnu led thousands of cavalry to rescue Jia Lan. Wang Ba and others fought with him at the foot of Pingcheng, defeated the enemy troops, pursued him out of the fortress, and beheaded hundreds of people.
+Wang Ba and other generals returned to Yanmen and joined forces with General Du Mao to attack Lu Fang General Yin Yuguo County and Fan County, but failed to win.
+In the thirteenth year of Jianwu's reign, the number of households in the city was increased, and Wang Ba was granted the title of Xianghou.
+At this time, Lu Fang, together with the Xiongnu and Wuhuan soldiers, invaded and plundered more frequently, making the borderland miserable.
+Wang Ba was ordered to lead more than 6,000 prisoners who were freed from their shackles, and he and Du Mao managed Feigu Road, piled stones and earth, built pavilions and barriers, and traveled more than 300 miles to Pingcheng.
+Wang Ba fought hundreds of battles with the Xiongnu and Wuhuan, large and small, and was well versed in border defense affairs. He wrote several times that it was advisable to make peace with the Xiongnu, and also suggested that transportation could be carried out by warm water canal to save the labor of land transportation. These were all accepted.
+Later Nan Danyu and Wuhuan surrendered. The north side is quiet and uneventful.
+Wang Ba has been in Shanggu for more than 20 years.
+In the 30th year of Jianwu's reign, he was granted the title of Marquis of Huailing.
+In the second year of Yongping. He was dismissed due to illness and died a few months later.
+Ziwang Fu succeeded to the throne and was granted the title of Yihou.
+When Wang Fu died, his son Wangdu succeeded him.
+Wang Du married Princess Junyi, the daughter of the prominent clan, and became Huangmenlang.
+Wang Du died, and his son Wang Xin succeeded to the throne.
+Ji Zun's younger brother Sun was a native of Yingyang, Yingchuan.
+
+summary:
+summary line 2: **Wang Ba** (courtesy name Yuan Bo) was from Yingyang, Yingchuan. His family valued legal traditions, and he worked as a jailer before studying in Chang'an. When Guangwu passed through Yingyang, Wang Ba joined his army, fighting at Kunyang. Despite others leaving, Wang Ba remained loyal; Guangwu praised him, saying "The strong wind knows the strong grass." During Wang Lang's rebellion, Wang Ba falsely claimed the Hutuo River was frozen to calm frightened troops, and the ice miraculously formed, allowing crossing. He became a military commander and Marquis of Guan Nei, later capturing Wang Lang's seal. Known for comforting soldiers, he was made a partial general after Guangwu's ascension. In the fourth year of Jianwu, Wang Ba employed strategic patience against Su Mao, closing his camp and refusing battle until the enemy tired, then launching a surprise attack that routed them. He served as General Against Captives, fought Xiongnu forces at Gaoliu, and became Prefect of Shanggu. For over twenty years, he managed border defenses, built roads and barriers, and advocated peace with the Xiongnu. He died in the second year of Yongping, having been granted Marquis of Huailing.
+
+Chunk 8: 
+original: 
+时，新城蛮中山贼张满，屯结险隘为人害，诏遵攻之。遵绝其粮道，满数挑战，遵坚壁不出。
+而厌新、柏华余贼复与满合，遂攻得霍阳聚，遵乃分兵击破降之。
+明年春，张满饥困，城拔，生获之。
+初，满蔡祀天地，自云当王，既执，叹曰： 谶文误我！ 乃斩之，夷其妻子。
+遵引兵南击邓奉弟终于杜衍，破之。
+时，涿郡太守张丰执使者举兵反，自称无上大将军，与彭宠连兵。
+四年，遵与朱祐及建威大将军耿弇、骁骑将军刘喜俱击之。
+遵兵先至，急攻丰，丰功曹孟厷执丰降。
+初，丰好方术，有道士言丰当为天子，以五彩囊裹石系丰肘，云石中有玉玺。
+丰信之，遂反。
+既执当斩，犹曰： 肘石有玉玺。 遵为椎破之，丰乃知被诈，仰天叹曰： 当死无所恨！ 诸将皆引还，遵受诏留屯良乡拒彭宠。
+因遣护军傅玄袭击宠将李豪于潞，大破之，斩首千余级。
+相拒岁余，数挫其锋，党与多降者。
+及宠死，遵进定其地。
+六年春，诏遵与建威大将军耿弇、虎牙大将军盖延、汉忠将军王常、捕虏将军马武、骁骑将军刘歆、武威将军刘尚等从天水伐公孙述。
+translation: 
+At that time, Zhang Man, a bandit among the Xincheng barbarians, gathered soldiers in dangerous places to harm the people. He ordered Ji Zun to attack, but Ji Zun cut off Zhang Man's food route. Zhang Man challenged him several times, but Ji Zun held on to the barrier and could not leave.
+The remnants of Yanxin and Baihua reunited with Zhang Man and captured Huoyangju. Ji Zun then divided his troops to defeat them and force him to surrender.
+In the spring of the third year of Jianwu, Zhang Man was hungry and sleepy. Ji Zun attacked his city and captured Zhang Man alive.
+At first, Zhang Man offered sacrifices to heaven and earth, saying that he should be the king. When he was caught, he sighed: The prophecy was wrong to me! So he, his wife, and his children were beheaded.
+Ji Zun led his troops south to attack Deng Feng's brother, Du Yan, and finally defeated him.
+At this time, Zhang Feng, the governor of Zhuo County, caught the envoy and raised his troops to rebel. He claimed to be the supreme general and joined forces with Peng Chong.
+In the fourth year of Jianwu, Ji Zun, Zhu You, Jianwei General Geng Yan, and Xiaoqi General Liu happy jointly attacked Zhang Feng.
+Ji Zun's soldiers arrived first and attacked Zhang Feng in a hurry. Zhang Feng's hero Cao Meng captured Zhang Feng and surrendered.
+At first, Zhang Feng was fond of alchemy. A Taoist priest said that Zhang Feng was regarded as the emperor. He wrapped a stone in a colorful bag and tied it to Zhang Feng's elbow, saying that there was a jade seal in the stone.
+Zhang Feng believed it and rebelled.
+After being caught and beheaded, he also said: There is a jade seal on his elbow. Ji Zun broke his stone vertebrae, and Zhang Feng realized that he had been deceived by the Taoist priest. He looked up to the sky and sighed: "I will die without regrets!" All the generals were led back, and Ji Zun was ordered to stay in Liangxiang to resist Peng Chong.
+Therefore, he sent the guard Fu Xuan to attack Peng Chong's general Li Hao and Yu Lu, and defeated his army, beheading more than a thousand people.
+They resisted each other for more than a year and were defeated several times. Many of Peng Chong's followers surrendered.
+When Peng Chong died, Ji Zun marched to pacify his territory.
+In the spring of the sixth year of Jianwu, he ordered Ji Zun and Jianwei General Geng Yan, Huya General Gai Yan, Han Zhong General Wang Chang, Capture General Ma Wu, Xiaoqi General Liu Xin, Wuwei General Liu Shang and others to attack Gongsun Shu from Tianshui.
+
+summary:
+summary line 3: **Ji Zun** (younger brother's grandson) was from Yingyang, Yingchuan. Though wealthy, he was respectful and frugal. After killing a bullying government official, he joined Guangwu. As a military commander, he executed Guangwu's own son for breaking the law, earning Guangwu's respect. He became a partial general and Marquis of Yingyang. Ji Zun fought bravely despite arrow wounds, defeated Zhang Man by cutting his food supply, and captured him alive. He attacked Zhang Feng, whose rebellion stemmed from a Taoist priest's deception about a jade seal. Ji Zun resisted Peng Chong for over a year, and after Peng's death, pacified his territory. In the sixth year of Jianwu, he argued for direct attack against Kui Xiao, serving as vanguard. He remained steadfast when others retreated, dying in the army in the ninth year of Jianwu. Ji Zun was known for self-denial, giving rewards to soldiers, owning no private property, and wearing plain clothes. Guangwu mourned deeply, personally attending his funeral. Posthumously named Marquis Cheng, Ji Zun was praised for his purity, loyalty, and Confucian conduct—selecting talents by Confucian standards, reciting poetry, and establishing a Confucian temple. He had no children, so his title was abolished.
+

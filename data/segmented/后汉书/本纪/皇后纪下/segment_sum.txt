@@ -1,0 +1,263 @@
+Summary uses chunk [19, 0, 4, 8, 9, 13, 18]
+
+Chunk 19: 
+original: 
+论曰：汉世皇后无谥，皆因帝谥以为称。
+虽吕氏专政，上官临制，亦无殊号。
+中兴，明帝始建光烈之称，其后并以德为配，至于贤愚优劣，混同一贯，故马、窦二后惧称德焉。
+其余唯帝之庶母及蕃王承统，以追尊之重，特为其号，如恭怀、孝崇之比是也。
+初平中，蔡邕始追正和熹之谥，其安思、顺烈以下，皆依而加焉。
+赞曰：坤惟厚载，阴正乎内《诗》美好逑，《易》称归妹。
+祁祁皇孋，言观贞淑。
+媚兹良哲，承我天禄。
+班政兰闺，宣礼椒屋。
+既云德升，亦曰幸进。身当隆极，族渐河润。
+translation: 
+Historians commented: The queens of the Han Dynasty did not have posthumous titles, and they were all given titles based on the emperor's posthumous title.
+Although Emperor Gaozu and Empress Lu were in dictatorship, Emperor Zhao, Shangguan and Empress came to the court and had no special titles.
+After Guangwu Zhongxing and Emperor Ming succeeded to the throne, he established the title of Guanglie for his mother, Queen Guangwuyin, and called her Queen Guanglieyin. Since then, virtue has been used as a match. As for the good and the foolish, the confusion has always been like this. Therefore, Empress Ma of Emperor Ming was called Empress Ma of Mingde; Empress Zhang of Emperor Dou was called Empress Zhang Dedou. They were all named after virtue.
+The rest were only the emperor's concubine's mother and the Tibetan king Chengtong, who valued honor and had unique titles. For example, the emperor's mother, Zhang Diliang, was honored as empress Gonghuai and Xiaojing; the emperor Huan's mother, Liwuhou Liu Ji's concubine Ming, was honored as empress Xiaochong.
+During the reign of Emperor Xian, Cai Yong began to pursue the posthumous title of Empress Deng Sui of Emperor Zhenghe as Empress Hexi Deng. From then on, empress Yanji of Emperor An was empress An Siyan, and empress Shun Di Liang's wife was empress Shunlie Liang. They were all given posthumous titles accordingly.
+Historians praised: Kun is the earth, and its valuable thing is that it is heavy; Yin refers to women, and her responsibility is to be in the inner position. The "Book of Songs" says that the concubine is the wife of a gentleman because of her virtues;
+Many concubines were married to the emperor to show their loyalty and virtuousness.
+A wise man, a charming man, accept this blessing from God.
+Promulgate politics in Lan Gui, and promote ethics in Jiaowu.
+Some rose to high positions due to their virtues, such as Queen Mingde Ma and Queen Hexi and Deng; others rose to prestigious positions due to luck, such as Queen An Siyan and Queen Lingsi He. If you are in a high position, your family will be blessed.
+
+summary:
+summary line 0: # Summary of Historical Records on Han Dynasty Empresses
+
+Chunk 0: 
+original: 
+安思阎皇后讳姬，河南荥阳人也。
+祖父章，永平中为尚书，以二妹为贵人。
+章精力晓旧典，久次，当迁以重职，显宗为后宫亲属，竟不用，出为步兵校尉。
+章生畅，畅生后。
+后有才色。
+元初元年，以选入掖庭，甚见宠爱，为贵人。
+二年，立为皇后。
+后专房妒忌，帝幸宫人李氏，生皇子保，遂鸩杀李氏。
+三年，以后父侍中畅为长水校尉，封北宜春侯，食邑五千户。
+四年，畅卒，谥曰文侯，子显嗣。
+建光元年，邓太后崩，帝始亲政事。
+显及弟景、耀、晏并为卿校，典禁兵。
+延光元年，更封显长社候，食邑万三千五百户，追尊后母宗为荥阳君。
+显、景诸子年皆童龀，并为黄门侍郎。
+后宠既盛，而兄弟颇与朝权，后遂与大长秋江京、中常侍樊丰等共谮皇太子保，废为济阴王。
+translation: 
+An Si Yan Queen Yan Ji was born in Xingyang, Henan.
+Grandfather Yan Zhang was the minister in Yongpingzhong, and his second sister was a nobleman.
+Yan Zhang was proficient in the old canons and had not been promoted to an important position for a long time. He should have been promoted to an important position. However, Emperor Xianzong and Ming Emperor considered him a relative of the harem, so he did not use it and became an infantry captain.
+Yan Zhang gave birth to Yan Chang, and Yan Chang gave birth to Queen Yan Ji.
+Yan Ji has talent and beautiful appearance.
+In the first year of the Yuan Dynasty of Emperor An, he was selected to join Ye Ting, where he was favored and considered a noble person.
+In the second year of Yuan Dynasty, she was established as queen.
+Queen Yan wanted to monopolize Emperor An's special favor and was deeply jealous. Emperor An favored the Li family in the palace and gave birth to the prince Liu Bao, so Queen Yan poisoned Li family.
+In the third year of the Yuan Dynasty, he appointed Yan Chang, Queen Yan's father, as the Shizhong of Changshui. He was granted the title of Marquis of Northern Yichun and had a settlement of 5,000 households.
+In the fourth year of the Yuan Dynasty, Yan Chang died. His posthumous title was Wenhou, and he was succeeded by his son Yan Xian.
+In the first year of Emperor An's reign, Empress Dowager Deng passed away, and Emperor An began to take charge of political affairs.
+Yan Xian and his younger brothers Yan Jing, Yan Yao and Yan Yan were all in charge of the Imperial Guards.
+In the first year of Emperor An's reign of Yanguang, Yan Xian was granted the title of Marquis of Changshe, with a settlement of 13,500 households, and the title of Queen Yan's mother was the Lord of Xingyang.
+The sons of Yan Xian and Yan Jing were only eight years old, and they were appointed as ministers of Huangmen.
+Queen Yan was particularly favored by Emperor An, and her brothers also participated in the government. However, Queen Yan still worked with Dachangqiu Jiang Jing, Zhongchang Shi Fan Feng and others to slander the crown prince Liu Bao and deposed him as King Jiyin.
+
+summary:
+summary line 1: An Si Yan, Queen Yan Ji, was born in Xingyang, Henan. Her grandfather Yan Zhang served as a minister but was never promoted to an important position because Emperor Xianzong considered him a relative of the harem. Yan Ji possessed talent and beauty, and was selected to enter the palace in the first year of Emperor An's Yuan Dynasty. She became empress in the second year. Queen Yan monopolized Emperor An's favor and poisoned the Li family, who had given birth to Prince Liu Bao. After Emperor An's death, Queen Yan and her brothers conspired to conceal his death, then established Liu Yi, the Marquis of Beixiang, as emperor. When the young emperor died, Sun Cheng and others conspired to establish Prince Liu Bao as Emperor Shun. Yan Xian and his accomplices were executed, and Queen Yan was moved to another palace, dying the following year after reigning for twelve years.
+
+Chunk 4: 
+original: 
+阳嘉元年春，有司奏立长秋宫，以乘氏侯商先帝外戚，《春秋》之义，娶先大国，梁小贵人宜配天祚，正位坤极。
+帝从之，乃于寿安殿立贵人为皇后。
+后既少聪惠，深览前世得失，虽以德进，不敢有骄专之心，每日月见谪，辄降服求愆。
+建康元年，帝崩。
+后无子，美人虞氏子炳立，是为冲帝。
+尊后为皇太后，太后临朝。
+冲帝寻崩，复立质帝，犹秉朝政。
+时，杨、徐剧贼寇扰州郡，西羌、鲜卑及日南蛮夷攻城暴掠，赋敛烦数，官民困竭。
+太后夙夜勤劳，推心杖贤，委任太尉李固等，拔用忠良，务崇节俭。
+其贪叨罪慝，多见诛废。
+分兵讨伐，群寇消夷。
+故海内肃然，宗庙以宁。
+而兄大将军冀鸩杀质帝，专权暴滥，忌害忠良，数以邪说疑误太后，遂立桓帝而诛李固。
+太后又溺于宦官，多所封宠，以此天下失望。
+和平元年春，归政于帝，太后寝疾遂笃，乃御辇幸宣德殿，见宫省官属及诸梁兄弟。
+translation: 
+In the spring of the first year of Emperor Shun's Yangjia year, the stewards set up the Changqiu Palace. Because the aunt of Liang Shang, Marquis of the Cheng family, was a noble of Emperor Zhang and gave birth to Emperor He. According to the meaning of "Spring and Autumn", she was married to a great country. It was suitable for Liang Xiao noble to be blessed by heaven and be established as the queen. She was in her inner position and was at the extreme of Yin De.
+Emperor Shun accepted this memorial and appointed the noble Liang Nü Nei as the queen in Shou'an Palace.
+Empress Liang was very smart when she was young, and she was deeply aware of the ups and downs of her previous life. Although she advanced to the position of virtue, she did not dare to have arrogant and domineering thoughts. Whenever there was an eclipse of the sun or the moon, she would take off her plain clothes to apologize and seek to relieve her fault.
+In the first year of Jiankang, Emperor Shun died.
+Empress Liang had no children, so Liu Bingli, the son of the beautiful Yu family, became Emperor Chong.
+Respect Empress Liang as the Empress Dowager, and the Empress Dowager will come to the court.
+Emperor Chong died less than a year later, Emperor Zhi was established, and the Empress Dowager Liang continued to govern.
+At this time, bandits from Yangzhou and Xu Feng from Jiujiang were invading the prefectures and counties. Barbarians from Xiqiang, Xianbei and Rinan attacked the city and looted the city. There were many types of land taxes and taxes. The officials and the people were in poverty.
+The Empress Dowager Liang worked hard day and night, treated people with sincerity, trusted the wise men in their elder years, and appointed Lieutenant Li Gu to select loyal and virtuous people, and she must practice frugality.
+The scum who are greedy for money and treacherous are often killed or dismissed.
+There were bandits who gathered to make trouble and divided their troops to fight against them, but they were all eliminated and put down.
+Therefore, the world is at peace, and the ancestral temple and the country are at peace.
+However, the Empress Dowager Liang's brother, General Liang Ji, actually poisoned Emperor Zhi and killed Emperor Zhi. He was dictatorial and tyrannical, and hated Zhongliang.
+The Empress Dowager Liang also doted on the eunuchs and granted them titles and titles. As a result, the world was disappointed and unpopular.
+In the spring of the first year of Heping, the Empress Dowager Liang returned to power under Emperor Huan. Due to her serious illness, she took a chariot to the Xuande Hall and summoned the ministers, Zhongshu and other officials in the palace as well as the Liang brothers.
+
+summary:
+summary line 2: Empress Shunlie Liang was the daughter of Liang Shang. From a young age, she was intelligent, well-read in historical records and classics, and kept pictures of virtuous women for self-reflection. At thirteen, she was selected to enter the palace. Emperor Shun made her a noble and later established her as empress. Empress Liang was humble and cautious, declining to monopolize the emperor's favor. After Emperor Shun's death, she became empress dowager and governed during the reigns of Emperors Chong and Zhi. She worked diligently, appointed worthy officials, and suppressed bandit uprisings, bringing peace to the realm. However, her brother Liang Ji poisoned Emperor Zhi and became tyrannical. Empress Dowager Liang also favored eunuchs excessively, causing public disappointment. She died after nineteen years of reign at age forty-five.
+
+Chunk 8: 
+original: 
+至延熹二年，后以忧恚崩，在位十三年，葬懿陵。
+其岁，诛梁冀，废懿陵为贵人冢焉。
+桓帝邓皇后讳猛女，和熹皇后从兄子邓香之女也。
+母宣，初适香，生后。
+改嫁梁纪，纪者，大将军梁冀妻孙寿之舅也。
+后少孤，随母为居，因冒姓梁氏。
+冀妻见后貌美，永兴中进入掖庭，为采女，绝幸。
+明年，封兄邓演为南顿侯，位特进。
+演卒，子康嗣。
+及懿献后崩，梁冀诛，立后为皇后。
+帝恶梁氏，改姓为薄，封后母宣为长安君。
+四年，有司奏后本郎中邓香之女，不宜改易它姓，于是复为邓氏。
+追封赠香车骑将军安阳侯印绶，更封宣、康大县，宣为昆阳君，康为沘阳侯，赏赐巨万计。
+宣卒，赗赠葬礼，皆依后母旧仪。
+以康弟统袭封昆阳侯，位侍中；统从兄会袭安阳侯，为虎贲中郎将；又封统弟秉为淯阳侯。
+宗族皆列校、郎将。
+translation: 
+In the second year of Yanxi, Empress Liang died of sorrow and hatred. After reigning for thirteen years, she was buried in Yiling.
+In this year, Liang Ji was executed and Yiling was abandoned as a tomb for nobles.
+Deng Meng's daughter, Empress Huan Deng, was the daughter of Deng Xiang, cousin of Empress He Xi.
+Her mother's name is Xuan. She married Deng Xiang first and gave birth to a fierce daughter.
+Remarried Liang Ji, who was the uncle of Sun Shou, the wife of General Liang Ji.
+Deng Meng's daughter lost her father when she was young. She followed her mother to live in Liang Ji's house, so she assumed the surname Liang.
+Sun Shou, the wife of Liang Ji, saw that Deng Meng's daughter was beautiful. Emperor Huan entered Yeting in Yongxing and became a prostitute. She was extremely favored by Emperor Huan.
+In the second year, Deng Yan, Deng Meng's daughter brother, was granted the title of Marquis of Nanton, a special advancement.
+Deng Yan died and was succeeded by his son Deng Kang.
+When Queen Liang Nuying of Yixian Liang passed away, Liang Ji was executed, and Deng Mengnu was established as queen.
+Emperor Huan hated the Liang family so much that he changed the queen's surname to Bo and granted the title of Queen of Chang'an to the mother of Queen Deng.
+In the fourth year, the steward told Queen Deng that it was not appropriate to change her surname to the daughter of Deng Xiang, one of Queen Deng's doctors, so the surname was restored to Deng.
+Deng Xiang's chariot and cavalry general Anyang Hou Yinshou was posthumously granted the title, and his mother Xuan and nephew Deng Kang were granted the title of Grand County.
+Announcement of death, carriages, horses, money, and funerals were all carried out according to the Queen's mother's funeral arrangements.
+Deng Kang's younger brother Deng Tong was granted the title of Marquis of Kunyang, with the title of Shizhong; Deng Tong's cousin Deng Hui was granted the title of Marquis of Anyang, and he was granted the title of Huben Zhonglang General; Deng Tong's younger brother Deng Bing was also granted the title of Marquis of Yuyang.
+The Deng clan is ranked among the top schools and generals.
+
+summary:
+summary line 3: Empress Huan Yi Xian Liang, sister of Empress Shunlie, was married to Emperor Huan while Empress Dowager Liang governed. She relied on her sister's influence, indulged in extravagance, and was jealous of concubines who bore sons. After Empress Dowager Liang's death, Emperor Huan's favor diminished, and she died of sorrow after thirteen years. Empress Huan Deng, daughter of Deng Xiang, was raised in Liang Ji's household. She entered the palace and was greatly favored. After Queen Liang's death, she became empress. Emperor Huan later hated the Liang family and changed her surname to Bo, but later restored it to Deng. She was arrogant and jealous, and was deposed after seven years, dying in confinement.
+
+Chunk 9: 
+original: 
+帝多内幸，博采宫女至五六千人，及驱役从使，复兼倍于此。
+而后恃尊骄忌，与帝所幸郭贵人更相谮诉。
+八年，诏废后，送暴室，以忧死。
+立七年。
+葬于北邙。
+从父河南尹万世及会皆下狱死。
+统筹亦系暴室，免官爵，归本郡，财物没入县官。
+桓思窦皇后讳妙，章德皇后从祖弟之孙女也。父武。
+延熹八年，邓皇后废，后以选入掖庭为贵人，其冬，立为皇后，而御见甚稀，帝所宠唯采女田圣等。永康元年冬，帝寝疾，遂以圣等九女皆为贵人。
+及崩，无嗣，后为皇太后。
+太后临朝定策，立解犊亭侯宏，是为灵帝。
+太后素忌忍，积怒田圣等，桓帝梓宫尚在前殿，遂杀田圣。
+又欲尽诛诸贵人，中常侍管霸、苏康苦谏，乃止。
+时太后父大将军武谋诛宦官，而中常侍曹节等矫诏杀武，迁太后于南宫云台，家属徙比景。
+translation: 
+Emperor Huan was favored by many, and he had as many as five or six thousand maids in his palace, and many times as many as he commanded and followed.
+Empress Deng relied on her high position to be arrogant and jealous, and framed and accused each other with Guo Guiren, who was favored by Emperor Huan.
+In the eighth year of Yanxi's reign, after Emperor Huan's edict was abolished, he was sent to Ye Ting to be raped and died of melancholy.
+Became queen for seven years.
+Buried in Beimang.
+Empress Deng's uncles, Henan Yin Deng Wanshi and Huben Zhonglang, imprisoned Deng Hui and died.
+Deng Tong was also detained in the violent chamber, removed from the title of Marquis of Kunyang and the official position of Shizhong, and was sent back to his own county. His property was confiscated.
+Queen Huansi Dou Miao, the granddaughter of Queen Zhangde's ancestral brother, and her father Dou Wu.
+In the eighth year of Yanxi reign of Emperor Huan, Empress Deng and Deng Meng were deposed, and Dou Miao was elected to Yeting as a noble. In the winter of that year, she was established as a queen. Emperor Huan seldom favored her. The most favored by Emperor Huan were Cai Nv Tian Sheng and others.
+Emperor Huan died without heirs, and Empress Dou became the empress dowager.
+The Queen Mother made a decision before the court and appointed Liu Hong, Marquis of Jieduting, as the Ling Emperor.
+Empress Dowager Dou was jealous and cruel by nature, and she was angry with Tian Sheng and others. When Emperor Huan's coffin was still in the front hall, she killed Tian Sheng.
+He also wanted to kill all the nobles, but the ministers Guan Ba ​​and Su Kang tried hard to persuade him, so he did not take action.
+At this time, Dou Wu, Empress Dowager Dou's father, conspired to kill the eunuchs. However, Cao Jie and others falsely claimed that Emperor Ling's edict had been issued to kill Dou Wu. Empress Dowager Dou was moved to Nangong Yuntai, and her family was exiled to Bijing.
+
+summary:
+summary line 4: Empress Huansi Dou Miao, granddaughter of Queen Zhangde's brother, was established as empress in the eighth year of Yanxi. Emperor Huan rarely favored her. After Emperor Huan's death, she became empress dowager and established Emperor Ling. She was jealous and cruel, killing favored concubines. Her father Dou Wu conspired to kill eunuchs but was executed. Empress Dowager Dou was moved to Nangong and died after seven years. Empress Xiaoren Dong gave birth to Emperor Ling and was honored as empress dowager. She participated in court affairs, sold offices, and collected wealth. She favored Prince Liu Xie and urged Emperor Ling to make him crown prince, causing conflict with Empress He. After Empress Dowager He came to court, Dong was worried and fell ill, dying after twenty-two years.
+
+Chunk 13: 
+original: 
+灵思何皇后讳某，南阳宛人。
+家本屠者，以选入掖庭。
+长七尺一寸。生皇子辩，养于史道人家，号曰史侯。
+拜后为贵人，甚有宠幸。
+性强忌，后宫莫不震慑。
+光和三年，立为皇后。
+明年，追号后父真为车骑将军、舞阳宣德侯，因封后母兴为舞阳君。
+时王美人任娠，畏后，乃服药欲除之，而胎安不动，又数梦负日而行。
+四年，生皇子协，后遂鸩杀美人。
+帝大怒，欲废后，诸宦官固请得止。
+董太后自养协，号曰董侯。
+王美人，赵国人也。
+祖父苞，五官中郎将。
+美人丰姿色，聪敏有才明，能书会计，以良家子应法相选入掖庭。
+帝愍协早失母，又思美人，作《追德赋》、《令仪颂》。
+中平六年，帝崩，皇子辩即位，尊后为皇太后。
+太后临朝。
+后兄大将军进欲诛宦官，反为所害；舞阳君亦为乱兵所杀。
+并州牧董卓被征，将兵入洛阳，陵虐朝庭，遂废少帝为弘农王而立协，是为献帝。
+translation: 
+Queen Lingsi He was from Wancheng, Nanyang.
+The family was originally a butcher of pigs, so he was selected to join Yeting with bribes of gold and silk.
+Seven feet and one inch long, he gave birth to the prince Liu Bian. He was raised in a Shidao family and was named Shihou.
+Therefore, he became a nobleman and was favored by Emperor Ling.
+She has a strong and fierce personality, and all the concubines in the harem are afraid of her.
+In the third year of Guanghe's reign, she was established as queen.
+The next year, her father He Zhen was granted the title of Chariot and Cavalry General and Wuyang Xuandehou, and her mother Xing was granted the title of Wuyang Lord.
+At this time, Wang Meiren was pregnant and was afraid of Queen He's murder, so she took abortion pills in an attempt to abort the fetus, but the fetus was safe and motionless. She also dreamed of walking with the sun on her back many times.
+In the fourth year of Guanghe's reign, the prince Liu Xie was born, and Queen He poisoned Wang Meiren to death.
+The Ling Emperor was furious and wanted to depose Queen He, but the eunuchs repeatedly begged the Ling Emperor for mercy.
+Empress Dowager Dong personally raised Liu Xie and named him Hou Dong.
+Wang Meiren, a native of Zhao.
+Grandfather Wang Bao, a general with great facial features.
+Wang Meiren is beautiful, smart, talented, and can write and do calculations. She is a good family member who conforms to the law and is selected into Yeting.
+Emperor Ling felt sorry for Liu Xie's early loss of his mother, and missed Wang Meiren in his heart. He wrote "Ode to Pursuing De" and "Ode to Lingyi" to express his grief.
+In the sixth year of Zhongping, Emperor Ling died, and Prince Liu Bian came to the throne, respecting Queen He as the Queen Mother.
+The Queen Mother comes to court.
+The Queen Mother's brother, General He Jin, tried to kill the eunuchs, but He Jin was killed by the eunuchs. He's mother, Wuyang Jun, was also killed by the rebels.
+Bingzhou Mu Dong Zhuo was recruited, led troops into Luoyang, ravaged the court, deposed the young emperor Liu Bian as the Hongnong King, and established Liu Xie as Emperor Xian.
+
+summary:
+summary line 5: Empress Ling Song was established as empress in the third year of Jianning but was not favored. She was falsely accused of witchcraft and died in confinement after eight years. Her father and brothers were killed. Emperor Ling later dreamed of Emperor Huan rebuking him for this injustice. Empress Lingsi He, from a butcher family, entered the palace through bribery. She gave birth to Prince Liu Bian and became empress. She was strong and fierce, poisoning Wang Meiren who gave birth to Prince Liu Xie. After Emperor Ling's death, Prince Liu Bian succeeded, and Queen He became empress dowager. Her brother He Jin was killed by eunuchs. Dong Zhuo entered Luoyang, deposed the young emperor, established Emperor Xian, and poisoned Empress Dowager He after ten years of reign.
+
+Chunk 18: 
+original: 
+今使御史大夫郗虑持节策诏，其上皇后玺绶，退避中宫，迁于它馆。
+鸣呼伤哉！
+自寿取之，未致于理，为幸多焉。 又以尚书令华歆为郗虑副，勒兵入宫收后。
+闭户藏壁中，歆就牵后出。
+时帝在外殿，引虑于坐。
+后被发徒跣行泣过诀曰： 不能复相活邪？ 帝曰： 我亦不知命在何时！ 顾谓虑曰： 郗公，天下宁有是邪？ 遂将后下暴室，以幽崩。
+所生二皇子，皆鸩杀之。
+后在位二十年，兄弟及宗族死者百余人，母盈等十九人徙涿郡。
+献穆曹皇后讳节，魏公曹操之中女也。
+建安十八年，操进三女宪、节、华为夫人，聘以束帛玄纁五万匹，小者待年于国。
+十九年，并拜为贵人。
+及伏皇后被弑，明年，立节为皇后。
+魏受禅，遣使求玺绶，后怒不与。
+如此数辈，后乃呼使者人，亲数让之，以玺抵轩下，因涕泣横流曰： 天不祚尔！ 左右皆莫能仰视。
+后在位七年。
+魏氏既立，以后为山阳公夫人。
+自后四十一年，魏景元元年薨，合葬禅陵，车服礼仪皆依汉制。
+translation: 
+Now, Xi Lu, the imperial censor, is sent to hold Fu Jie Ce and write an edict, hand over the queen's seal and ribbon, retreat to the central palace, and move to other buildings. Alas!
+How sad!
+I took the blame for my life on my own and was not put on trial. I'm so lucky! He also appointed Shangshu Ling Hua Xin as hope Zanli's deputy and led his troops into the palace to arrest the ambush queen.
+Fu Hou closed the door and hid in the wall. Hua Xin stretched out his hand to pull Fu Hou out.
+At that time, Emperor Xian was in the outer hall and led Xi Cun to his seat.
+After lying down and walking barefoot on foot, he passed by Emperor Xian and cried, saying goodbye and saying: "Can't you let me live anymore?"
+Emperor Xian said: I don’t know how long my life can last! Looking back at Xi Lu, he said: Mr. Xi!
+Is there such a thing in the world? So Cao Cao buried his queen in a violent chamber in Yeting, where he died under house arrest. The two princes he gave birth to were both poisoned and killed. Fu Hou reigned for twenty years, and more than a hundred of her brothers and clan members died. Nineteen of her mother and others were exiled to Zhuojun.
+Cao Jie, Queen of Xianmu Cao, was the middle daughter of Duke Cao Cao of Wei.
+In the 18th year of Jian'an, Cao Cao adopted three daughters, Cao Xian, Cao Jie, and Cao Huahua, as wives, and hired them to make 50,000 pieces of silk, Xuanjin and fumigation. The younger ones stayed in the country to wait until they were older.
+In the 19th year of Jian'an, we worshiped each other as nobles.
+When Queen Fu was killed, the next year, Cao Jie was made queen.
+When Wei accepted the throne of Emperor Xian of the Han Dynasty, he sent an envoy to ask for the seal and ribbon, but Queen Cao Jie was angry and refused to give it.
+After chasing the seal for several times, Empress Cao called the envoy in, scolded her personally, and threw the seal under the pavilion, crying and saying: God will not let you last long! Everyone present could not bear to look up at Queen Cao.
+Queen Cao reigned for seven years.
+After Cao Wei won the throne, he made Queen Cao the Duke of Shanyang.
+Forty-one years later, Wei Jingyuan died in the first year of his life and was buried in the Zen Mausoleum together with Emperor Xian. The carriages, clothing, and etiquette were all based on the Han system.
+
+summary:
+summary line 6: Empress Xian Fu Shou entered the palace as a noble and became empress in the second year of Xingping. She witnessed Cao Cao's brutality and wrote to her father asking him to eliminate Cao Cao. The secret was revealed after nineteen years. Cao Cao forced Emperor Xian to depose her, and she died in confinement. Her two sons were poisoned, and over a hundred of her relatives died. Empress Xianmu Cao, daughter of Cao Cao, became empress after Fu Shou's death. When Wei accepted the Han throne, she angrily refused to give up the seal and threw it under the pavilion. She reigned for seven years and was later made Duchess of Shanyang, dying forty-one years later.
+
