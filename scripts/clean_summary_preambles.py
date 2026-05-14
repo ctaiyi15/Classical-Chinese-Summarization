@@ -32,6 +32,71 @@ META_PREFIX_RE = re.compile(
     r"^\s*(here\s+is\s+a\s+summary(?:(?:\s+of)?[^:]*)?:?|the\s+summary\s+is\s+as\s+follows:?)\s*",
     re.IGNORECASE,
 )
+OPENING_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+")
+DROP_OPENING_SENTENCE_RE = re.compile(
+    r"^(?:the|this)\s+text\s+begins\s+(?:by|with)\b.*$",
+    re.IGNORECASE,
+)
+REWRITE_OPENING_SENTENCE_PATTERNS = [
+    (
+        re.compile(
+            r"^(?:the|this)\s+text\s+"
+            r"(?:discusses|describes|details|recounts|summarizes|chronicles|examines|"
+            r"presents|outlines|contains|traces)\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:the|this)\s+text\s+provides\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:the|this)\s+text\s+is\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:the|this)\s+text\s+focuses\s+on\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:the|this)\s+text\s+is\s+about\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:it|this)\s+begins\s+by\s+noting\s+that\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:it|this)\s+begins\s+by\s+noting\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+    (
+        re.compile(
+            r"^(?:it|this)\s+begins\s+with\s+",
+            re.IGNORECASE,
+        ),
+        "trimmed_meta_opening_prefix",
+    ),
+]
 
 
 def parse_args():
@@ -58,6 +123,65 @@ def clean_first_content_line(line):
     if line and line[0].islower():
         line = line[0].upper() + line[1:]
     return line if line != original else original
+
+
+def normalize_meta_opening_sentences(text):
+    if not text.strip():
+        return text, []
+
+    parts = text.split("\n\n", 1)
+    first_paragraph = parts[0].strip()
+    if not first_paragraph:
+        return text, []
+
+    sentences = OPENING_SENTENCE_SPLIT_RE.split(first_paragraph)
+    actions = []
+
+    idx = 0
+    reviewed = 0
+    while idx < len(sentences) and reviewed < 2:
+        sentence = sentences[idx].strip()
+        if not sentence:
+            idx += 1
+            continue
+
+        if DROP_OPENING_SENTENCE_RE.match(sentence):
+            actions.append("removed_meta_opening_sentence")
+            sentences.pop(idx)
+            reviewed += 1
+            continue
+
+        replaced = False
+        for pattern, action in REWRITE_OPENING_SENTENCE_PATTERNS:
+            match = pattern.match(sentence)
+            if not match:
+                continue
+            rewritten = sentence[match.end():].lstrip(" :-\u2014")
+            if rewritten:
+                rewritten = rewritten[0].upper() + rewritten[1:]
+                sentences[idx] = rewritten
+                actions.append(action)
+            else:
+                sentences.pop(idx)
+                actions.append("removed_meta_opening_sentence")
+            replaced = True
+            break
+
+        if not replaced:
+            break
+
+        reviewed += 1
+        idx += 1
+
+    rebuilt_first_paragraph = " ".join(sentence.strip() for sentence in sentences if sentence.strip())
+    if not rebuilt_first_paragraph:
+        remaining = parts[1] if len(parts) > 1 else ""
+        return remaining.lstrip(), actions
+
+    rebuilt = rebuilt_first_paragraph
+    if len(parts) > 1:
+        rebuilt += "\n\n" + parts[1].lstrip("\n")
+    return rebuilt, actions
 
 
 def clean_summary_text(text):
@@ -114,6 +238,9 @@ def clean_summary_text(text):
             lines = strip_leading_blank_lines(lines)
 
     cleaned_text = "\n".join(lines).strip()
+    cleaned_text, opening_actions = normalize_meta_opening_sentences(cleaned_text)
+    actions.extend(opening_actions)
+    cleaned_text = cleaned_text.strip()
     if cleaned_text:
         cleaned_text += "\n"
 
