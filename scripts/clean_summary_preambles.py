@@ -11,6 +11,14 @@ DEFAULT_OUTPUT_ROOT = PROJECT_ROOT / "data" / "processed" / "summary_clean"
 
 
 SUMMARY_HEADER_RE = re.compile(r"^\s*#{1,6}\s*summary\b.*$", re.IGNORECASE)
+BOLD_SUMMARY_HEADER_RE = re.compile(
+    r"^\s*\*{1,2}\s*summary\b.*?\*{1,2}\s*$",
+    re.IGNORECASE,
+)
+PLAIN_SUMMARY_HEADER_RE = re.compile(
+    r"^\s*summary\b.*$",
+    re.IGNORECASE,
+)
 INTRO_ONLY_RE = re.compile(
     r"^\s*based\s+(solely|strictly)\s+on\s+the\s+provided\s+text\s*,?\s*"
     r"(here\s+is\s+a\s+summary(?:(?:\s+of)?[^:]*)?:?|the\s+summary\s+is\s+as\s+follows:?)?\s*$",
@@ -66,6 +74,22 @@ def clean_summary_text(text):
 
     if SUMMARY_HEADER_RE.match(first):
         actions.append("removed_markdown_summary_header")
+        lines = lines[1:]
+        lines = strip_leading_blank_lines(lines)
+        if not lines:
+            return "", actions
+        first = lines[0].strip()
+
+    if BOLD_SUMMARY_HEADER_RE.match(first):
+        actions.append("removed_bold_summary_header")
+        lines = lines[1:]
+        lines = strip_leading_blank_lines(lines)
+        if not lines:
+            return "", actions
+        first = lines[0].strip()
+
+    if PLAIN_SUMMARY_HEADER_RE.match(first):
+        actions.append("removed_plain_summary_header")
         lines = lines[1:]
         lines = strip_leading_blank_lines(lines)
         if not lines:

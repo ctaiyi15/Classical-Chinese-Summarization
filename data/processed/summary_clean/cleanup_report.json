@@ -2,9 +2,10 @@
   "input_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/processed/summary",
   "output_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/processed/summary_clean",
   "processed_file_count": 409,
-  "modified_file_count": 87,
+  "modified_file_count": 109,
   "action_counts": {
     "removed_markdown_summary_header": 68,
+    "removed_bold_summary_header": 22,
     "removed_standalone_intro_line": 18,
     "trimmed_inline_intro_prefix": 1
   }
