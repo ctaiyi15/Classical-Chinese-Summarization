@@ -2,13 +2,17 @@
   "input_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/processed/summary",
   "output_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/processed/summary_clean",
   "processed_file_count": 409,
-  "modified_file_count": 160,
+  "modified_file_count": 161,
   "action_counts": {
     "trimmed_meta_opening_prefix": 57,
     "removed_markdown_summary_header": 68,
     "removed_meta_opening_sentence": 12,
     "removed_bold_summary_header": 22,
     "removed_standalone_intro_line": 18,
+    "removed_generic_markdown_title": 10,
+    "removed_internal_markdown_title": 32,
+    "removed_generic_bold_title": 5,
+    "removed_internal_bold_title": 15,
     "trimmed_inline_intro_prefix": 1
   }
 }

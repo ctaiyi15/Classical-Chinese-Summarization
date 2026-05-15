@@ -19,6 +19,14 @@ PLAIN_SUMMARY_HEADER_RE = re.compile(
     r"^\s*summary\b.*$",
     re.IGNORECASE,
 )
+GENERIC_MARKDOWN_TITLE_RE = re.compile(
+    r"^\s*#{1,6}\s+\S.*$",
+    re.IGNORECASE,
+)
+GENERIC_BOLD_TITLE_RE = re.compile(
+    r"^\s*\*{1,2}[^*\n]{2,120}\*{1,2}\s*$",
+    re.IGNORECASE,
+)
 INTRO_ONLY_RE = re.compile(
     r"^\s*based\s+(solely|strictly)\s+on\s+the\s+provided\s+text\s*,?\s*"
     r"(here\s+is\s+a\s+summary(?:(?:\s+of)?[^:]*)?:?|the\s+summary\s+is\s+as\s+follows:?)?\s*$",
@@ -184,6 +192,28 @@ def normalize_meta_opening_sentences(text):
     return rebuilt, actions
 
 
+def remove_internal_title_lines(text):
+    if not text.strip():
+        return text, []
+
+    actions = []
+    kept_lines = []
+
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped and GENERIC_MARKDOWN_TITLE_RE.match(stripped):
+            actions.append("removed_internal_markdown_title")
+            continue
+        if stripped and GENERIC_BOLD_TITLE_RE.match(stripped):
+            actions.append("removed_internal_bold_title")
+            continue
+        kept_lines.append(line)
+
+    cleaned_text = "\n".join(kept_lines)
+    cleaned_text = re.sub(r"\n{3,}", "\n\n", cleaned_text).strip()
+    return cleaned_text, actions
+
+
 def clean_summary_text(text):
     lines = text.splitlines()
     original_lines = list(lines)
@@ -194,31 +224,43 @@ def clean_summary_text(text):
     if not lines:
         return text, actions
 
-    first = lines[0].strip()
-
-    if SUMMARY_HEADER_RE.match(first):
-        actions.append("removed_markdown_summary_header")
-        lines = lines[1:]
-        lines = strip_leading_blank_lines(lines)
-        if not lines:
-            return "", actions
+    while lines:
         first = lines[0].strip()
 
-    if BOLD_SUMMARY_HEADER_RE.match(first):
-        actions.append("removed_bold_summary_header")
-        lines = lines[1:]
-        lines = strip_leading_blank_lines(lines)
-        if not lines:
-            return "", actions
-        first = lines[0].strip()
+        if SUMMARY_HEADER_RE.match(first):
+            actions.append("removed_markdown_summary_header")
+            lines = lines[1:]
+            lines = strip_leading_blank_lines(lines)
+            continue
 
-    if PLAIN_SUMMARY_HEADER_RE.match(first):
-        actions.append("removed_plain_summary_header")
-        lines = lines[1:]
-        lines = strip_leading_blank_lines(lines)
-        if not lines:
-            return "", actions
-        first = lines[0].strip()
+        if BOLD_SUMMARY_HEADER_RE.match(first):
+            actions.append("removed_bold_summary_header")
+            lines = lines[1:]
+            lines = strip_leading_blank_lines(lines)
+            continue
+
+        if PLAIN_SUMMARY_HEADER_RE.match(first):
+            actions.append("removed_plain_summary_header")
+            lines = lines[1:]
+            lines = strip_leading_blank_lines(lines)
+            continue
+
+        if GENERIC_MARKDOWN_TITLE_RE.match(first):
+            actions.append("removed_generic_markdown_title")
+            lines = lines[1:]
+            lines = strip_leading_blank_lines(lines)
+            continue
+
+        if GENERIC_BOLD_TITLE_RE.match(first):
+            actions.append("removed_generic_bold_title")
+            lines = lines[1:]
+            lines = strip_leading_blank_lines(lines)
+            continue
+
+        break
+
+    if not lines:
+        return "", actions
 
     if INTRO_ONLY_RE.match(first):
         actions.append("removed_standalone_intro_line")
@@ -240,6 +282,8 @@ def clean_summary_text(text):
     cleaned_text = "\n".join(lines).strip()
     cleaned_text, opening_actions = normalize_meta_opening_sentences(cleaned_text)
     actions.extend(opening_actions)
+    cleaned_text, internal_title_actions = remove_internal_title_lines(cleaned_text)
+    actions.extend(internal_title_actions)
     cleaned_text = cleaned_text.strip()
     if cleaned_text:
         cleaned_text += "\n"

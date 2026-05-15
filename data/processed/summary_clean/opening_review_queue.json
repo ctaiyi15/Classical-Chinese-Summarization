@@ -1,0 +1,7 @@
+{
+  "input_root": "/Users/aojiang/nltk_data/taiyichen/Classical-Chinese-Summarization/data/processed/summary_clean",
+  "flagged_file_count": 23,
+  "rule_counts": {
+    "generic_history_opening": 23
+  }
+}
