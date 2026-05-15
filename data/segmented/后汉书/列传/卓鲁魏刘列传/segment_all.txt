@@ -15,12 +15,6 @@ original:
 后以儒术举为侍郎，给事黄门，迁密令。
 劳心谆谆，视人如子，举善而教，口无恶言，吏人亲爱而不忍欺之。
 人尝有言部享长受其米肉遗者，茂辟左右问之曰： 亭长为从汝求乎？为汝有事嘱之而受乎？
-将平居自以恩意遗之乎？ 人曰： 往遗之耳。
-茂曰： 遗之而受，何故言邪？
-人曰： 窃闻贤明之君，使人不畏吏，吏不取人。
-今我畏吏，是以遗之，吏既卒受，故来言耳。
-茂曰： 汝为敝人矣。
-凡人所以贵于禽兽者，以有仁爱，知相敬事也。
 translation: 
 ◆Zhuomao Biography: Zhuomao, courtesy name Zikang, was a native of Wan, Nanyang County.
 Both his father and grandfather were officials and county guards.
@@ -37,16 +31,16 @@ This is how Zhuomao has no disputes with others.
 Later, he was elected as a minister with Confucianism, served in Huangmen, and moved to Mi County as magistrate.
 He works diligently and conscientiously in his duties, treats the people as his sons, practices good governance and teaches others, speaks no evil words, and the officials and the people love him and cannot bear to bully him.
 Some people once said that the chief of the pavilion under Zhuomao once accepted his gifts of rice and meat. Zhuomao avoided his subordinates and asked him, "Did the pavilion chief comply with your request, or did you accept it because you had something to tell him?"
-Or was it given to him because you usually felt that he was kind to you? The man said: I gave it to him myself.
-Zhuo Mao said: You gave it to him and he accepted it, why did he say it out loud?
-The man said: I heard that a wise king can make people not afraid of officials, and officials will not take people's property.
-Now I'm afraid of the officials, so I gave him something. Since the chief of the pavilion has accepted it, that's why I said it.
-Zhuo Mao said: You are an ignorant person.
-The reason why humans are more valuable than animals is because they have benevolence and know how to treat each other with respect.
 
 
 Chunk 1: 
 original: 
+将平居自以恩意遗之乎？ 人曰： 往遗之耳。
+茂曰： 遗之而受，何故言邪？
+人曰： 窃闻贤明之君，使人不畏吏，吏不取人。
+今我畏吏，是以遗之，吏既卒受，故来言耳。
+茂曰： 汝为敝人矣。
+凡人所以贵于禽兽者，以有仁爱，知相敬事也。
 今邻里长老尚致馈遗，此乃人道所以相亲，况吏与民乎？
 吏顾不当乘威力强请求耳。
 凡人之生，群居杂处，故有经纪礼义以相交接。
@@ -57,13 +51,13 @@ original:
 一门之内，小者可论，大者可杀也。
 且归念之！
 于是人纳其训，吏怀其恩。
-初，茂到县，有所废置，吏人笑之，邻城闻者皆蚩其不能。
-河南郡为置守令，茂不能嫌，理事自若。
-数年，教化大行，道不拾遗。
-平帝时，天下大蝗，河南二十余县皆被其灾，独不入密县界。
-督邮言之，太守不信，自出案行，见乃服焉。
-是时，王莽秉政，置大司农六部丞，劝课农桑。迁茂为京部丞，密人老少皆涕泣随送。
 translation: 
+Or was it given to him because you usually felt that he was kind to you? The man said: I gave it to him myself.
+Zhuo Mao said: You gave it to him and he accepted it, why did he say it out loud?
+The man said: I heard that a wise king can make people not afraid of officials, and officials will not take people's property.
+Now I'm afraid of the officials, so I gave him something. Since the chief of the pavilion has accepted it, that's why I said it.
+Zhuo Mao said: You are an ignorant person.
+The reason why humans are more valuable than animals is because they have benevolence and know how to treat each other with respect.
 Nowadays, the elders of the neighborhood even give away food. This is the reason why humans are close to each other, not to mention the officials and the people?
 Officials should not use their power to force money from the people.
 In this world, people live in groups, so there are brokers and etiquette to communicate with each other.
@@ -74,20 +68,35 @@ Now if I teach you with etiquette, you will have no resentment. If I punish you 
 Within a sect, small ones can be discussed, but big ones can be beheaded.
 Go back and think about it.
 So the people accepted his teachings, and the officials remembered his kindness.
+
+
+Chunk 2: 
+original: 
+初，茂到县，有所废置，吏人笑之，邻城闻者皆蚩其不能。
+河南郡为置守令，茂不能嫌，理事自若。
+数年，教化大行，道不拾遗。
+平帝时，天下大蝗，河南二十余县皆被其灾，独不入密县界。
+督邮言之，太守不信，自出案行，见乃服焉。
+是时，王莽秉政，置大司农六部丞，劝课农桑。迁茂为京部丞，密人老少皆涕泣随送。
+及莽居摄，以病免归郡，常为门下掾祭酒，不肯作职吏。
+更始立，以茂为侍中祭酒，从至长安，知更始政乱，以年老乞骸骨归。
+时，光武初即位，先访求茂，茂诣河阳谒见。
+乃下诏曰 前密令卓茂，束身自修，执节淳固，诚能为人所不能为。
+translation: 
 At first, Zhuomao went to the county and ignored the government orders. The officials laughed at him, and those in neighboring cities despised him for his incompetence.
 Henan County appointed a guardian for this purpose. Zhuomao did not mind this matter and still handled government affairs as before.
 A few years later, enlightenment was widespread, and no relics were picked up along the way.
 During the reign of Emperor Ping, a great locust plague broke out all over the country. More than 20 counties in Henan Province were affected by the locust plague, except that it did not enter the county boundaries of Mi County.
 The postal supervisor reported it, but the prefect didn't believe it. He went to the county to investigate in person and was convinced only after seeing the true situation.
 At this time, Wang Mang was in charge of the government and appointed six ministers of agriculture and agriculture to guide and assess farmers and mulberry trees. He moved Zhuomao to be the minister of the capital. The people of Mi County, old and young, cried to see each other off.
+When Wang Mang was living in the country, he was exempted from returning to the county because of his illness. He often offered wine to his disciples and refused to serve as an official.
+Gengshi was established, and Zhuomao was appointed as his attendant to offer wine. He followed him to Chang'an. Knowing that Gengshi was in political turmoil, he asked to resign and return home because of his old age.
+At this time, when Guangwu came to the throne, he first went to visit Zhuomao, and Zhuomao went to Heyang to see him.
+Guangwu issued an edict saying: Zhuomao, the former magistrate of Mi County, restrained and cultivated himself, was honest and steady in his duties, and could do things that others could not do.
 
 
-Chunk 2: 
+Chunk 3: 
 original: 
-及莽居摄，以病免归郡，常为门下掾祭酒，不肯作职吏。
-更始立，以茂为侍中祭酒，从至长安，知更始政乱，以年老乞骸骨归。
-时，光武初即位，先访求茂，茂诣河阳谒见。
-乃下诏曰 前密令卓茂，束身自修，执节淳固，诚能为人所不能为。
 棽卒，子嗣。，子隆嗣。永元十五年，隆卒，无子，国除。初，茂与同县孔休、陈留蔡勋、安众刘宣、楚国龚胜、上党鲍宣六人同志，不仕王莽时，并名重当时。
 休字子泉，哀帝初，守新都令。
 后王莽秉权，休去官归家。
@@ -97,13 +106,7 @@ original:
 勋事在玄孙邕传。
 论曰：建武之初，雄豪方扰，虓呼者连响，婴城者相望，斯固倥偬不暇给之日。
 卓茂断断小宰，无它庸能，时已七十余矣，而首加聘命，优辞重礼，其与周、燕之君表闾立馆何异哉？
-于是蕴愤归道之宾，越关阻，捐宗族，以排金门者众矣。
-夫厚性宽中近于仁，犯而不校邻于恕，率斯道也，怨悔曷其至乎！
 translation: 
-When Wang Mang was living in the country, he was exempted from returning to the county because of his illness. He often offered wine to his disciples and refused to serve as an official.
-Gengshi was established, and Zhuomao was appointed as his attendant to offer wine. He followed him to Chang'an. Knowing that Gengshi was in political turmoil, he asked to resign and return home because of his old age.
-At this time, when Guangwu came to the throne, he first went to visit Zhuomao, and Zhuomao went to Heyang to see him.
-Guangwu issued an edict saying: Zhuomao, the former magistrate of Mi County, restrained and cultivated himself, was honest and steady in his duties, and could do things that others could not do.
 At first, Zhuomao and his six comrades, Kong Xiu from the same county, Cai Xun from Chenliu, Liu Xuan from Anzhong, Gong Sheng from Chu, and Bao Xuan from Shangdang, did not serve in the reign of Wang Mang, but were famous at that time.
 Kong Xiu, whose courtesy name was Ziquan, was the county magistrate of Xindu in the early days of Emperor Ai.
 Later, when Wang Mang assumed power, Kong Xiu resigned from office and returned home.
@@ -113,12 +116,12 @@ Liu Xuan, courtesy name Zigao, was a cousin of Anzhonghou Liu Chong. Knowing tha
 When Jianwu first came out of the mountain, Guangwu attacked Liu Xuan and granted him the title of Marquis of An.
 Gong Ci, Gong Sheng's son, was promoted to be the prefect of Shanggu. The historian commented: At the beginning of the founding of the military, the heroes were quarreling, shouting and shouting, and those who defended themselves in the city looked at each other. This was the time when there were too many things to do.
 Zhuomao, a small county magistrate with no other extraordinary talents and over seventy years old, was able to be appointed as the first to be appointed and receive great gifts and words. How is this different from King Wu of Zhou who appointed Bigan to watch Shang Rong and King Zhao of Yan to serve as Guo Wei's tutor in building a palace?
-Therefore, many guests who harbored righteous indignation and hoped to return to the right path crossed the dangerous mountains and abandoned their clans in order to exclude the Jinmen embroidered households.
-Being kind and lenient is closer to benevolence, and not repaying someone for committing a crime is closer to forgiveness. If you can do this, will anyone still be resentful?
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
+于是蕴愤归道之宾，越关阻，捐宗族，以排金门者众矣。
+夫厚性宽中近于仁，犯而不校邻于恕，率斯道也，怨悔曷其至乎！
 鲁恭字仲康，扶风平陵人也。
 其先出于鲁顷公，为楚所灭，迁于下邑，因氏焉。
 世吏二千石，哀、平间，自鲁而徙。
@@ -127,15 +130,9 @@ original:
 时恭年十二，弟丕七岁，昼夜号踊不绝声，郡中赙赠无所受，乃归服丧，礼过成人，乡里奇之。
 十五，与母及丕俱居太学，习《鲁诗》，闭户讲诵，绝人间事，兄弟俱为诸儒所称，学士争归之。
 太尉赵憙慕其志，每岁时遣子问以酒粮，皆辞不受。
-恭怜丕小，欲先就其名，托疾不仕。
-郡数以礼请，谢不肯应，母强遣之，恭不得已而西，因留新丰教授。
-建初初，丕举方正，恭始为郡吏。
-太傅赵憙闻而辟之。
-肃宗集诸儒于白虎观，恭特以经明得召，与其议。
-憙复举恭直言，特诏公车，拜中牟令。
-恭专以德化为理，不任刑罚，讼人许伯等争田，累守令不能决，恭为平理曲直，皆退而自责，辍耕相让。
-亭长从人借牛而不肯还之，牛主讼于恭。
 translation: 
+Therefore, many guests who harbored righteous indignation and hoped to return to the right path crossed the dangerous mountains and abandoned their clans in order to exclude the Jinmen embroidered households.
+Being kind and lenient is closer to benevolence, and not repaying someone for committing a crime is closer to forgiveness. If you can do this, will anyone still be resentful?
 Lu Gong's biography, Lu Gong's courtesy name was Zhongkang, and he was a native of Pingling, Fufeng.
 His ancestors came from Lu Qinggong, who was destroyed by Chu and moved to Xiayi, so he took Lu as his clan surname.
 Generations are worth two thousand stones. During the Aiping years, they migrated from Lu.
@@ -144,6 +141,25 @@ His father, Lu, was the prefect of Wuling in the early days of Jianwu, and he di
 At that time, Lu Gong was only twelve years old and his younger brother Lu Pi was only seven years old. The two brothers were crying and jumping day and night. They did not accept the funeral gifts from the county, so they went home to mourn. The etiquette was even more considerate than that of adults. The villagers were deeply surprised.
 At the age of fifteen, he, his mother and his younger brother Lu Pi all lived in Taixue, where they studied "Lu Shi", lectured and recited it behind closed doors, and ignored external affairs. Both brothers were praised by the Confucian scholars, and the bachelors rushed to join them.
 Taiwei Zhao admired his ambition and sent his son to ask if there was a shortage of wine or food during every year and festival, but he refused.
+
+
+Chunk 5: 
+original: 
+恭怜丕小，欲先就其名，托疾不仕。
+郡数以礼请，谢不肯应，母强遣之，恭不得已而西，因留新丰教授。
+建初初，丕举方正，恭始为郡吏。
+太傅赵憙闻而辟之。
+肃宗集诸儒于白虎观，恭特以经明得召，与其议。
+憙复举恭直言，特诏公车，拜中牟令。
+恭专以德化为理，不任刑罚，讼人许伯等争田，累守令不能决，恭为平理曲直，皆退而自责，辍耕相让。
+亭长从人借牛而不肯还之，牛主讼于恭。
+恭召亭长，敕令归牛者再三，犹不从。
+恭叹曰： 是教化不行也。
+欲解印绶去。
+掾史涕泣共留之，亭长乃惭悔，还牛，诣狱受罪，薛贳不问。
+于是吏人信服。
+建初七年，郡国螟伤稼，犬牙缘界，不入中牟。
+translation: 
 Lu Gong felt sorry for Lu Pi because he was young and wanted him to achieve his fame first. He pretended that he was ill and would not serve as an official.
 The county invited him several times with courtesy, but Lu Gong thanked him and refused to respond. His mother forced him to send him out. Lu Gong had no choice but to go west, because he stayed in Xinfeng as a professor.
 In the early years of the founding of the People's Republic of China, Lu Pi was promoted to Fangzheng, and Lu Gong began to serve as a county official.
@@ -152,16 +168,16 @@ Suzong gathered many Confucian scholars at Baihu Temple, and Lu Gongte summoned 
 Zhao also recommended Lu Gong outspokenly and waited for the imperial edict to be sent to the public carriage to pay homage to Mou Ling.
 Lu Gong specialized in moral transformation and did not regard punishment. The litigants Xu Bo and others were fighting for land, and successive orders could not be settled. Lu Gong commented on the merits of the case for them, but in the end they all retreated and blamed themselves, and stopped farming to give up the land to each other.
 The director of the pavilion borrowed someone else's cow and refused to return it, so the owner of the cow sued Lu Gong.
+He respectfully summoned the chief of the pavilion and ordered him to return the cow to its owner. He urged him repeatedly, but he still refused to return the cow.
+Lu Gong sighed and said, "This is a teaching that doesn't work."
+Prepare to resign and leave.
+The ministers cried and tried to persuade each other to stay. The chief of the pavilion felt deeply regretful and returned the cow.
+So the officials and the people were convinced.
+In the seventh year of the founding of the People's Republic of China, borers were infested in the county and the crops were damaged. The boundaries of the counties were intertwined, but the borers could not enter the middle.
 
 
-Chunk 4: 
+Chunk 6: 
 original: 
-恭召亭长，敕令归牛者再三，犹不从。
-恭叹曰： 是教化不行也。
-欲解印绶去。
-掾史涕泣共留之，亭长乃惭悔，还牛，诣狱受罪，薛贳不问。
-于是吏人信服。
-建初七年，郡国螟伤稼，犬牙缘界，不入中牟。
 河南尹袁安闻之，疑其不实，使仁恕掾肥亲往廉之。
 恭随行阡陌，俱坐桑下，有雉过，止其傍。傍有童儿，亲曰： 儿何不捕之？
 儿言： 雉方将雏。
@@ -176,12 +192,6 @@ original:
 和帝初立，议遣车骑将军窦宪与征西将军耿秉击匈奴，恭上疏谏曰：陛下亲劳圣思，日昊不食，忧在军役，诚欲以安定北垂，为人除患，定万世之计也。
 臣伏独思之，未见其便。
 translation: 
-He respectfully summoned the chief of the pavilion and ordered him to return the cow to its owner. He urged him repeatedly, but he still refused to return the cow.
-Lu Gong sighed and said, "This is a teaching that doesn't work."
-Prepare to resign and leave.
-The ministers cried and tried to persuade each other to stay. The chief of the pavilion felt deeply regretful and returned the cow.
-So the officials and the people were convinced.
-In the seventh year of the founding of the People's Republic of China, borers were infested in the county and the crops were damaged. The boundaries of the counties were intertwined, but the borers could not enter the middle.
 Henan Yin Yuan'an heard that the suspicion was not true, so he sent Renshu and his relatives to investigate.
 Lu Gong followed him as he walked among the streets and sat under a mulberry tree. A pheasant flew by and stopped nearby. There happened to be a child next to him. The fat relative said to the child: "Why don't you catch the pheasant?"
 Tong'er said: This pheasant is hatching chicks.
@@ -197,7 +207,7 @@ When Emperor He was first established, he was preparing to send the cavalry gene
 But I thought to myself that I had not seen the convenience.
 
 
-Chunk 5: 
+Chunk 7: 
 original: 
 社稷之计，万人之命，在于一举。
 数年以来，秋稼不熟，人食不足，仓库空虚，国无畜积。
@@ -215,8 +225,6 @@ original:
 若杂居中国，则错乱天气，污辱善人，是以圣王之制，羁縻不绝而已。
 今边境无事，宜当修仁行义，尚于无为，令家给人足，安业乐产。
 夫人道乂于下，则阴阳和于上，祥风时雨，覆被远方，夷狄重译而至矣。
-《易》曰： 有孕盈缶，终来有它吉。 言甘雨满我之缶，诚来有我而吉已。
-夫以德胜人者昌，以力胜人者亡。
 translation: 
 The plan for the country and the lives of thousands of people depend on one move.
 For several years, the autumn harvests have failed, people have not enough food, warehouses are empty, and the country has no reserves.
@@ -234,12 +242,12 @@ Ping Siju is arrogant, unruly and rude, no different from birds and beasts.
 If they live together in China, they will confuse the weather and insult good people. Therefore, the system of the Holy King is just a constant restraint on them.
 There is nothing happening on the border today. We should practice benevolence, practice righteousness, and advocate inaction, so that our families can have enough people and have a safe and prosperous career.
 If the human way is stable at the bottom, the yin and yang will be harmonious at the top, and the auspicious wind and rain will cover the distance, then Yi Di will pay tribute through many translations.
-"Book of Changes" says: With good faith and accumulation, it is like rainwater filling a small pot, and the result will be other auspicious events. It means that if the sweet rain fills my earthenware fou, if I have integrity, it will be auspicious for someone to come and join me.
-Those who conquer others with virtue will prosper, and those who conquer others with strength will perish.
 
 
-Chunk 6: 
+Chunk 8: 
 original: 
+《易》曰： 有孕盈缶，终来有它吉。 言甘雨满我之缶，诚来有我而吉已。
+夫以德胜人者昌，以力胜人者亡。
 今匈奴为鲜卑所杀，远臧于史侯河西，去塞数千里，而欲乘其虚耗，利其微弱，是非义之所出也。
 前太仆祭肜远出塞外，卒不见一胡而兵已困矣。
 自山之难，不绝如綖，都护陷没，士卒死者如积，迄今被其辜毒。
@@ -250,11 +258,9 @@ original:
 上观天心，下察人志，足以知事之得失。
 臣恐中国不为中国，岂徒匈奴而已哉！
 惟陛下留圣恩，休罢士卒，以顺天心。
-书奏，不从。
-每政事有益于人，恭辄言其便，无所隐讳。
-其后拜为《鲁诗》博士，由是家法学者日盛。
-迁侍中，数召宴见，问以得失，赏赐恩礼宠异焉。
 translation: 
+"Book of Changes" says: With good faith and accumulation, it is like rainwater filling a small pot, and the result will be other auspicious events. It means that if the sweet rain fills my earthenware fou, if I have integrity, it will be auspicious for someone to come and join me.
+Those who conquer others with virtue will prosper, and those who conquer others with strength will perish.
 Today, the Xiongnu were defeated by Xianbei and are hiding far west of the Shihou River, thousands of miles away from the frontier fortress. To take advantage of their wastage and weaken them to attack them is not moral.
 The former servant Ji Tong went far beyond the fortress, but in the end he could not see a single Hu soldier and he was already trapped.
 The disasters in Baishan are endless. The protector Chen Mu was trapped, and the soldiers died in large numbers, and they are still suffering from his poison to this day.
@@ -265,14 +271,14 @@ The officials and the people all said that this could not be done. How could you
 Observing the heart of heaven from above and the will of people from below are enough to know the gains and losses of things.
 I am afraid that if this continues, China will no longer be China, and the Huns will not become the Huns!
 Your Majesty, please retain your holy grace, stop dismissing your soldiers, and obey the will of Heaven.
-The book was sent to the emperor, but the emperor refused to obey.
-Whenever political affairs were discussed, as long as they were beneficial to others, Lu Gong would always speak frankly and hide nothing.
-Later, he became a doctor of "Lu Shi". From then on, the family's legal scholars became more and more prosperous.
-He was moved to serve as a servant, and he held banquets several times to ask about his gains and losses. His rewards, favors, and favors were different from ordinary people.
 
 
-Chunk 7: 
+Chunk 9: 
 original: 
+书奏，不从。
+每政事有益于人，恭辄言其便，无所隐讳。
+其后拜为《鲁诗》博士，由是家法学者日盛。
+迁侍中，数召宴见，问以得失，赏赐恩礼宠异焉。
 迁乐安相。
 是时，东州多盗贼，群辈攻劫，诸郡患之。
 恭到，重购赏，开恩信，其渠帅张汉等率支党降，恭上以汉补博昌尉，其余遂自相捕击，尽破平之，州郡以安。
@@ -287,13 +293,11 @@ original:
 后坐事策免。
 殇帝即位，以恭为长乐卫尉。
 永初元年，复代梁鲔为司徒。
-初，和帝末，下令麦秋得案验薄刑，而州郡好以苛察为政，因此遂盛夏断狱。
-恭上疏谏曰：臣伏见诏书，敬若天时，忧念万民，为崇和气，罪非殊死，且勿案验。
-进柔良，退贪残，奉时令。
-所以助仁德，顺昊天，致和气，利黎民者也。
-旧制至立秋乃行薄刑，自永元十五年以来，改用孟夏，而刺史、太守不深惟忧民息事之原，进良退残之化，因以盛夏征召农人，拘对考验，连滞无已。
-司隶典司京师，四方是则，而近于春月分行诸部，托言劳来贫人，而无隐恻之实，烦扰郡县，廉考非急，逮捕一人，罪延十数，上逆时气，下伤农业。
 translation: 
+The book was sent to the emperor, but the emperor refused to obey.
+Whenever political affairs were discussed, as long as they were beneficial to others, Lu Gong would always speak frankly and hide nothing.
+Later, he became a doctor of "Lu Shi". From then on, the family's legal scholars became more and more prosperous.
+He was moved to serve as a servant, and he held banquets several times to ask about his gains and losses. His rewards, favors, and favors were different from ordinary people.
 Later, he was moved to the position of Liu Chong, the king of Qiancheng.
 At this time, there were many thieves in Dongzhou, and they formed groups to attack and plunder, causing trouble to all the counties.
 After Lu Gong arrived, he bought rewards with heavy sums of money and spread the favor widely. His commander-in-chief Zhang Han and others led his faction to surrender. Lu Gong used him as Han supplicant Bo Changwei.
@@ -308,19 +312,33 @@ Brothers, father and son sit side by side in the court.
 Later, he was dismissed from office due to his clan brother's affairs.
 Emperor Shang ascended the throne and appointed Lu Gong as the Changle Guard.
 In the first year of Yongchu's reign, Liang Quan was replaced as Situ.
+
+
+Chunk 10: 
+original: 
+初，和帝末，下令麦秋得案验薄刑，而州郡好以苛察为政，因此遂盛夏断狱。
+恭上疏谏曰：臣伏见诏书，敬若天时，忧念万民，为崇和气，罪非殊死，且勿案验。
+进柔良，退贪残，奉时令。
+所以助仁德，顺昊天，致和气，利黎民者也。
+旧制至立秋乃行薄刑，自永元十五年以来，改用孟夏，而刺史、太守不深惟忧民息事之原，进良退残之化，因以盛夏征召农人，拘对考验，连滞无已。
+司隶典司京师，四方是则，而近于春月分行诸部，托言劳来贫人，而无隐恻之实，烦扰郡县，廉考非急，逮捕一人，罪延十数，上逆时气，下伤农业。
+案《易》气月《姤》用事。经曰： 后以施令诰四方。
+言君以夏至之日，施命令止四方行者，所以助微阴也。
+行者尚止之，况于逮召考掠，夺其时哉！
+translation: 
 At first, in the last years of Emperor He's reign, he ordered that the sentences be reduced during the wheat and autumn seasons. However, the prefectures and counties liked to govern with harshness, so they suspended sentences in the midsummer season.
 Lu Gong went to the imperial court and remonstrated: When I saw the edict and respected Heaven, I thought of all the people and advocated harmony. The crime does not necessarily lead to death, so I will not investigate and confirm it for the time being.
 Advance in kindness, retreat from greed and weakness, and act in accordance with the times.
 This will help benevolent and virtuous, comply with Haotian, bring harmony, and benefit the people.
 The old system stipulated that light punishments would be implemented at the beginning of autumn. Since the fifteenth year of Yongyuan, Meng Xia has been used instead. However, the governor and the governor did not think deeply about the principle of caring for the people and redressing the troubles, and promoted the virtuous and the corrupt. Instead, they recruited farmers in midsummer, arrested and tested the evidence. The cases were implicated in each other, and the case was delayed.
 Sili Xiaoweidian leads the capital, taking all parties as the criterion. Recently, in the spring, he has branched out into various ministries, using pretexts and words to convey the poor, without mercy on the actual situation below, disturbing the counties and counties, scrutinizing those who have to be dealt with urgently, and arresting one person.
+According to the "Nuhou Gua" in the fifth month of the "Book of Changes", the "Nvhou Gua" says: There is wind in the world, and the monarch gives orders to regulate the four directions.
+It is said that the monarch uses the summer solstice to issue orders to stop those traveling in all directions to help the occurrence of slight clouds.
+If the traveler wants to stop, how much more to arrest, test, plunder, and seize the time?
 
 
-Chunk 8: 
+Chunk 11: 
 original: 
-案《易》气月《姤》用事。经曰： 后以施令诰四方。
-言君以夏至之日，施命令止四方行者，所以助微阴也。
-行者尚止之，况于逮召考掠，夺其时哉！
 比年水旱伤稼，人饥流冗。
 今始夏，百谷权舆，阳气胎养之时。
 自三月以来，阴寒不暖，物当化变而不被和气。
@@ -334,10 +352,8 @@ original:
 邓太后诏公卿以下会议，恭议奏曰：夫阴阳之气，相扶而行，发动用事，各有时节。
 若不当其时，则物随而伤。
 王者虽质文不同，而兹道无变，四时之政，行之若一。
+《月令》，周世所造，而所据皆夏之时也，其变者为正朔、服色、牺牲、徽号、器械而已。
 translation: 
-According to the "Nuhou Gua" in the fifth month of the "Book of Changes", the "Nvhou Gua" says: There is wind in the world, and the monarch gives orders to regulate the four directions.
-It is said that the monarch uses the summer solstice to issue orders to stop those traveling in all directions to help the occurrence of slight clouds.
-If the traveler wants to stop, how much more to arrest, test, plunder, and seize the time?
 In recent years, floods and droughts have damaged agriculture, and people have been dispersed due to hunger.
 This summer has just begun, the beginning of the harvest, the time when all things are pregnant and developing.
 Since March, there has been a lack of warmth and coldness, and living things should change without being harmonious.
@@ -351,11 +367,11 @@ At first, during Suzong's reign, the prison was broken before the winter solstic
 Empress Dowager Deng ordered the ministers to hold a meeting to discuss. Lu Gong discussed and reported: The qi of yin and yang support each other and move, and each has its own season.
 If it is not in season, then things will be damaged accordingly.
 Although the kings have different qualities and literary talents, this principle has not changed. The administration of the four seasons is implemented in the same way.
+The "Moon Order" was formulated by the Zhou Dynasty, and it was based on the time of the Xia Dynasty. The only changes were the Zhengshuo, clothing colors, and the livestock, emblems, and instruments used in sacrifices.
 
 
-Chunk 9: 
+Chunk 12: 
 original: 
-《月令》，周世所造，而所据皆夏之时也，其变者为正朔、服色、牺牲、徽号、器械而已。
 故曰： 殷因于夏礼，周因于殷礼，所损益可知也。
 《易》曰： 潜龙勿用。
 言十一月、十二月阳气潜臧，未得用事。
@@ -372,7 +388,6 @@ original:
 其立春在十二月中者，勿以报囚如故事。
 后卒施行。
 translation: 
-The "Moon Order" was formulated by the Zhou Dynasty, and it was based on the time of the Xia Dynasty. The only changes were the Zhengshuo, clothing colors, and the livestock, emblems, and instruments used in sacrifices.
 Therefore: Yin Yin copied Xia Li, Zhou Yin copied Yin Li, and the gains and losses of additions and deletions can be known.
 The Book of Changes says: It symbolizes the lurking dragon, so it is better not to use it.
 It means that the Yang Qi is hidden in November and December, making it inconvenient to use.
@@ -390,7 +405,7 @@ When the beginning of spring is in mid-December, you don’t need to file a peti
 It was later implemented.
 
 
-Chunk 10: 
+Chunk 13: 
 original: 
 恭再在公位，选辟高第，至列卿郡守者数十人。
 而其耆旧大姓，或不蒙荐举，至有怨望者。
@@ -429,7 +444,7 @@ Wei Ba only comforted them and did not blame the people below him. He also comfo
 The officials were grateful and tried their best to speed up the progress of the project.
 
 
-Chunk 11: 
+Chunk 14: 
 original: 
 延平元年，代尹勤为太常。
 明年，以病致仕，为光禄大夫。
@@ -447,9 +462,6 @@ original:
 延熹八年，征拜尚书令，迁南阳太守。
 典历三郡，温仁多恕，虽在仓卒，未尝疾言遽色。
 常以为 齐之以刑，民免而无耻。
-吏人有过，但用蒲鞭罚之，示辱而已，终不加苦。
-事有功善，推之自下。
-灾异或见，引躬克责。
 translation: 
 In the first year of Yanping, Dai Yinqin was appointed Taichang.
 In the second year, he resigned due to illness and became Doctor Guanglu.
@@ -467,13 +479,13 @@ He moved again and left the capital to become the prime minister of Liu Zhen, Ki
 In the eighth year of Yanxi's reign, he was worshiped as Shangshu Ling and moved to Nanyang to be the prefect.
 In charge of the three counties, he was gentle, benevolent and forgiving. Although he was in a hurry and urgent, he was not quick to express his anger.
 It is often thought that punishments are used to govern the people. Although the people do not commit punishments, they will inevitably behave shamelessly.
-When officials and common people have offenses, they only use a few whips with grass whips to show insult, without causing any pain to the flesh.
-Wherever there is merit, it is attributed to the following.
-When disaster occurs, take responsibility yourself.
 
 
-Chunk 12: 
+Chunk 15: 
 original: 
+吏人有过，但用蒲鞭罚之，示辱而已，终不加苦。
+事有功善，推之自下。
+灾异或见，引躬克责。
 每行县止息亭传，辄引学官祭酒及处士诸生执经对讲。
 见父老慰以农里之言，少年勉以孝悌之训。
 人感德兴行，日有所化。
@@ -489,13 +501,10 @@ original:
 宽简略嗜酒，不好盥浴，京师以为谚。
 尝坐客，遣苍头市酒，迂久，大醉而还。
 客不堪之，骂曰： 畜产。
-宽须臾遣人视奴，疑必自杀。
-顾左右曰： 此人也，骂言畜产，辱熟甚焉！
-故吾惧其死也。
-夫人欲试宽令恚，伺当朝会，装严已讫，使侍婢奉肉羹，翻污朝衣。
-婢遽收之，宽神色不异，乃徐言曰： 羹烂汝手？
-其性度如此。
 translation: 
+When officials and common people have offenses, they only use a few whips with grass whips to show insult, without causing any pain to the flesh.
+Wherever there is merit, it is attributed to the following.
+When disaster occurs, take responsibility yourself.
 Every time he stopped at the Tingchuan Inn in the county, he would be greeted by academic officials offering wine and virgins holding scriptures in their hands to talk to each other.
 When you see your elders, you comfort them with words from the farm; when you see young people, you encourage them with the words of filial piety and brotherhood.
 People are motivated to practice virtue when they feel it, and education is becoming more and more popular.
@@ -511,16 +520,16 @@ The emperor valued his words.
 Liu Kuan simply liked to drink, but did not like to wash his hands and bathe, so the capital became a proverb.
 I once sat with a guest and sent an old servant to the market to buy wine. After a long time, the old servant came back drunk.
 The guest was unbearable and cursed: "Beast."
-Liu Kuan soon sent someone to visit the old servant, suspecting that he would commit suicide.
-He said to his left and right: "This man, call him a beast. Is there any greater insult than this?"
-So I'm afraid that he will commit suicide.
-The madam wanted to try to make Liu Kuan angry once. When the court meeting was held, after dressing up, the special envoy's maid pretended to accidentally spill meat soup on Liu Kuan, and the court clothes were also stained.
-The maid hurriedly retreated, but Liu Kuan showed no anger and his expression remained unchanged. He slowly said to the maid: "Did the soup hurt your hand?"
-Such was the magnanimity of his temperament.
 
 
-Chunk 13: 
+Chunk 16: 
 original: 
+宽须臾遣人视奴，疑必自杀。
+顾左右曰： 此人也，骂言畜产，辱熟甚焉！
+故吾惧其死也。
+夫人欲试宽令恚，伺当朝会，装严已讫，使侍婢奉肉羹，翻污朝衣。
+婢遽收之，宽神色不异，乃徐言曰： 羹烂汝手？
+其性度如此。
 海内称为长者。
 后以日食策免。
 拜卫尉。
@@ -530,6 +539,12 @@ original:
 中平二年卒，时年六十六。
 子松嗣，官至宗正。
 translation: 
+Liu Kuan soon sent someone to visit the old servant, suspecting that he would commit suicide.
+He said to his left and right: "This man, call him a beast. Is there any greater insult than this?"
+So I'm afraid that he will commit suicide.
+The madam wanted to try to make Liu Kuan angry once. When the court meeting was held, after dressing up, the special envoy's maid pretended to accidentally spill meat soup on Liu Kuan, and the court clothes were also stained.
+The maid hurriedly retreated, but Liu Kuan showed no anger and his expression remained unchanged. He slowly said to the maid: "Did the soup hurt your hand?"
+Such was the magnanimity of his temperament.
 People all over the country call him the elder.
 Later he was dismissed due to a solar eclipse.
 He paid homage to the Weiwei again.

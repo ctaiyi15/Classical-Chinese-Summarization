@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 0, 1, 5, 8, 9, 16, 17]
+Summary uses chunk [0, 1, 2, 6, 10, 11, 16, 10]
 
 Chunk 0: 
 original: 
@@ -11,9 +11,6 @@ original:
 莽末，天下连岁灾蝗，寇盗锋起。
 地皇三年，南阳荒饥，诸家宾客多为小盗。
 光武避吏新野，因卖谷于宛。
-宛人李通等以图谶说光武云： 刘氏复起，李氏为辅。 光武初不敢当，然独念兄伯升素结轻客，必举大事，且王莽败亡已兆，天下方乱，遂与定谋，于是乃市兵弩。
-十月，与李通从弟轶等起于宛，时年二十八。
-十一月，有星孛于张。
 translation: 
 The founder of the Eastern Han Dynasty, Emperor Guangwu Liu Xiu, whose courtesy name was Uncle Wen, was born in Caiyang, Nanyang. He was the ninth-generation grandson of Liu Bang, the great ancestor of the Han Dynasty. It comes from Liu Fa, the king of Shading who was born under Emperor Jing.
 Liu gave birth to Liu Mai, the Marquis of Chung Ling Festival, Liu Mai gave birth to Liu Wai, the governor of Yulin, Liu Hui, the captain of Julu, was born to Liu Wai, Liu Qin was born to Liu Qin, the Nandun order, and Liu Qin was born to Guangwu.
@@ -24,77 +21,15 @@ It was not until the reign of Wang Mang and Tianfeng that Guangwu came to Chang'
 In Wang Mang's last years, there were successive locust plagues in the country, and bandits and bandits were raging.
 In the third year of Emperor Di Huang's reign, there was a serious famine in Nanyang, and most of the family's guests went out to rob and steal.
 In order to avoid the government, Guangwu fled to Xinye County and transported the harvested grain to Wancheng to sell.
-Li Tong and others from Wan used prophecies and talismans to tell Guangwu: The Liu family has risen again, and the Li family will be the assistant. Guangwu didn't dare to act rashly at first, but then he thought that his brother Bo Sheng would do great things by making friends with diners. Moreover, Wang Mang's regime showed signs of decline and destruction, and the world was in turmoil, so he planned with the Li family and decided to raise an army, so he began to purchase various weapons.
-In October, he and Li Tong's cousin Li Yi and others raised troops in Wancheng. He was 28 years old at the time.
-In November, the comet appeared in Zhangsu in the south.
 
 summary:
-summary line 0: # Summary of the Founding of the Eastern Han Dynasty
-
-Chunk 0: 
-original: 
-世祖光武皇帝讳秀，字文叔，南阳蔡阳人，高祖九世之孙也，出自景帝生长沙定王发。
-发生舂陵节侯买，买生郁林太守外，外生巨鹿都尉回，回生南顿令钦，钦生光武。
-光武年九岁而孤，养于叔父良。
-身长七尺三寸，美须眉，大口，隆准，日角。
-性勤于稼穑，而兄伯升好侠养士，常非笑光武事田业，比之高祖兄仲。
-王莽天凤中，乃之长安，受《尚书》，略通大义。
-莽末，天下连岁灾蝗，寇盗锋起。
-地皇三年，南阳荒饥，诸家宾客多为小盗。
-光武避吏新野，因卖谷于宛。
-宛人李通等以图谶说光武云： 刘氏复起，李氏为辅。 光武初不敢当，然独念兄伯升素结轻客，必举大事，且王莽败亡已兆，天下方乱，遂与定谋，于是乃市兵弩。
-十月，与李通从弟轶等起于宛，时年二十八。
-十一月，有星孛于张。
-translation: 
-The founder of the Eastern Han Dynasty, Emperor Guangwu Liu Xiu, whose courtesy name was Uncle Wen, was born in Caiyang, Nanyang. He was the ninth-generation grandson of Liu Bang, the great ancestor of the Han Dynasty. It comes from Liu Fa, the king of Shading who was born under Emperor Jing.
-Liu gave birth to Liu Mai, the Marquis of Chung Ling Festival, Liu Mai gave birth to Liu Wai, the governor of Yulin, Liu Hui, the captain of Julu, was born to Liu Wai, Liu Qin was born to Liu Qin, the Nandun order, and Liu Qin was born to Guangwu.
-Guangwu lost his father at the age of nine and was raised by his uncle Liu Liang.
-He is seven feet three inches tall, has thick eyebrows, a wide mouth, a protruding nose, and a full forehead.
-He is industrious by nature and enjoys farming. His elder brother Bo Sheng was fond of chivalry and raising people. He often ridiculed Guang Wu for only working in the fields and compared him with Liu Bang's second brother Liu Zhong.
-It was not until the reign of Wang Mang and Tianfeng that Guangwu came to Chang'an to study "Shang Shu" as a disciple and roughly understand the gist of the book.
-In Wang Mang's last years, there were successive locust plagues in the country, and bandits and bandits were raging.
-In the third year of Emperor Di Huang's reign, there was a serious famine in Nanyang, and most of the family's guests went out to rob and steal.
-In order to avoid the government, Guangwu fled to Xinye County and transported the harvested grain to Wancheng to sell.
-Li Tong and others from Wan used prophecies and talismans to tell Guangwu: The Liu family has risen again, and the Li family will be the assistant. Guangwu didn't dare to act rashly at first, but then he thought that his brother Bo Sheng would do great things by making friends with diners. Moreover, Wang Mang's regime showed signs of decline and destruction, and the world was in turmoil, so he planned with the Li family and decided to raise an army, so he began to purchase various weapons.
-In October, he and Li Tong's cousin Li Yi and others raised troops in Wancheng. He was 28 years old at the time.
-In November, the comet appeared in Zhangsu in the south.
-
-summary:
-summary line 1: Emperor Guangwu Liu Xiu, courtesy name Uncle Wen, was born in Caiyang, Nanyang, as the ninth-generation grandson of Liu Bang. He lost his father at age nine and was raised by his uncle Liu Liang. Described as tall with distinctive features, he was industrious and enjoyed farming, unlike his elder brother Bo Sheng who favored chivalry. During Wang Mang's reign, Liu Xiu studied the "Shang Shu" in Chang'an.
-
-Chunk 0: 
-original: 
-世祖光武皇帝讳秀，字文叔，南阳蔡阳人，高祖九世之孙也，出自景帝生长沙定王发。
-发生舂陵节侯买，买生郁林太守外，外生巨鹿都尉回，回生南顿令钦，钦生光武。
-光武年九岁而孤，养于叔父良。
-身长七尺三寸，美须眉，大口，隆准，日角。
-性勤于稼穑，而兄伯升好侠养士，常非笑光武事田业，比之高祖兄仲。
-王莽天凤中，乃之长安，受《尚书》，略通大义。
-莽末，天下连岁灾蝗，寇盗锋起。
-地皇三年，南阳荒饥，诸家宾客多为小盗。
-光武避吏新野，因卖谷于宛。
-宛人李通等以图谶说光武云： 刘氏复起，李氏为辅。 光武初不敢当，然独念兄伯升素结轻客，必举大事，且王莽败亡已兆，天下方乱，遂与定谋，于是乃市兵弩。
-十月，与李通从弟轶等起于宛，时年二十八。
-十一月，有星孛于张。
-translation: 
-The founder of the Eastern Han Dynasty, Emperor Guangwu Liu Xiu, whose courtesy name was Uncle Wen, was born in Caiyang, Nanyang. He was the ninth-generation grandson of Liu Bang, the great ancestor of the Han Dynasty. It comes from Liu Fa, the king of Shading who was born under Emperor Jing.
-Liu gave birth to Liu Mai, the Marquis of Chung Ling Festival, Liu Mai gave birth to Liu Wai, the governor of Yulin, Liu Hui, the captain of Julu, was born to Liu Wai, Liu Qin was born to Liu Qin, the Nandun order, and Liu Qin was born to Guangwu.
-Guangwu lost his father at the age of nine and was raised by his uncle Liu Liang.
-He is seven feet three inches tall, has thick eyebrows, a wide mouth, a protruding nose, and a full forehead.
-He is industrious by nature and enjoys farming. His elder brother Bo Sheng was fond of chivalry and raising people. He often ridiculed Guang Wu for only working in the fields and compared him with Liu Bang's second brother Liu Zhong.
-It was not until the reign of Wang Mang and Tianfeng that Guangwu came to Chang'an to study "Shang Shu" as a disciple and roughly understand the gist of the book.
-In Wang Mang's last years, there were successive locust plagues in the country, and bandits and bandits were raging.
-In the third year of Emperor Di Huang's reign, there was a serious famine in Nanyang, and most of the family's guests went out to rob and steal.
-In order to avoid the government, Guangwu fled to Xinye County and transported the harvested grain to Wancheng to sell.
-Li Tong and others from Wan used prophecies and talismans to tell Guangwu: The Liu family has risen again, and the Li family will be the assistant. Guangwu didn't dare to act rashly at first, but then he thought that his brother Bo Sheng would do great things by making friends with diners. Moreover, Wang Mang's regime showed signs of decline and destruction, and the world was in turmoil, so he planned with the Li family and decided to raise an army, so he began to purchase various weapons.
-In October, he and Li Tong's cousin Li Yi and others raised troops in Wancheng. He was 28 years old at the time.
-In November, the comet appeared in Zhangsu in the south.
-
-summary:
-summary line 2: When locust plagues and famine struck, Liu Xiu fled to Xinye County to avoid government persecution. After receiving prophecies about the Liu family's revival, he initially hesitated but eventually planned with the Li family to raise an army. In October, at age 28, he raised troops in Wancheng. When local families saw the cautious Liu Xiu had joined the uprising, they stopped hiding. After initial victories and defeats, the Han army captured several cities.
+summary line 0: Emperor Guangwu Liu Xiu, courtesy name Uncle Wen, was born in Caiyang, Nanyang, as the ninth-generation grandson of Liu Bang. He lost his father at age nine and was raised by his uncle Liu Liang. Described as tall with distinctive features, he was industrious and enjoyed farming, unlike his elder brother Bo Sheng who favored chivalry. During Wang Mang's reign, Liu Xiu studied the "Shang Shu" in Chang'an.
 
 Chunk 1: 
 original: 
+宛人李通等以图谶说光武云： 刘氏复起，李氏为辅。 光武初不敢当，然独念兄伯升素结轻客，必举大事，且王莽败亡已兆，天下方乱，遂与定谋，于是乃市兵弩。
+十月，与李通从弟轶等起于宛，时年二十八。
+十一月，有星孛于张。
 光武遂将宾客还舂陵。
 时伯升已会众起兵。
 初，诸家子弟恐惧，皆亡逃自匿，曰 伯升杀我 。
@@ -104,6 +39,25 @@ original:
 进屠唐子乡，又杀湖阳尉。
 军中分财物不均，众恚恨，欲反攻诸刘。
 光武敛宗人所得物，悉以与之，众乃悦。
+translation: 
+Li Tong and others from Wan used prophecies and talismans to tell Guangwu: The Liu family has risen again, and the Li family will be the assistant. Guangwu didn't dare to act rashly at first, but then he thought that his brother Bo Sheng would do great things by making friends with diners. Moreover, Wang Mang's regime showed signs of decline and destruction, and the world was in turmoil, so he planned with the Li family and decided to raise an army, so he began to purchase various weapons.
+In October, he and Li Tong's cousin Li Yi and others raised troops in Wancheng. He was 28 years old at the time.
+In November, the comet appeared in Zhangsu in the south.
+Guangwu then led his retainers back to Chongling.
+At this time, Bo Sheng had gathered the people to raise troops.
+At first, the children of each family were very frightened. They ran and hid, saying: "Bosheng wants to kill us!"
+When they saw Guangwu in crimson robes and crowns, they were all surprised and said: "Uncle Wen, who is cautious and kind, has also raised an army!"
+Only then did everyone settle down. Bo Sheng then recruited troops from Xinshi and Pinglin, and together with his leaders Wang Feng and Chen Mu, went west to attack Changju.
+Guangwu first rode the bull, and then he was able to ride the horse after killing Xin Yewei.
+He entered Tu Tangzi Township and killed the Huyang county captain.
+The wealth obtained by the army was unevenly distributed, and everyone was angry. The soldiers wanted to counterattack the Liu family.
+Guangwu then collected all the property from his clan and gave it all to the soldiers. Only then did everyone feel satisfied.
+
+summary:
+summary line 1: When locust plagues and famine struck, Liu Xiu fled to Xinye County to avoid government persecution. After receiving prophecies about the Liu family's revival, he initially hesitated but eventually planned with the Li family to raise an army. In October, at age 28, he raised troops in Wancheng. When local families saw the cautious Liu Xiu had joined the uprising, they stopped hiding. After initial victories and defeats, the Han army captured several cities.
+
+Chunk 2: 
+original: 
 进拔棘阳，与王莽前队大夫甄阜、属正梁丘赐战于小长安，汉军大败，还保棘阳。
 更始元年正月甲子朔，汉军复与甄阜、梁丘赐战于沘水西，大破之。斩阜、赐。
 伯升又破王莽纳言将军严尤、秩宗将军陈茂于淯阳，进围宛城。
@@ -114,16 +68,8 @@ original:
 初，光武为舂陵侯家讼逋租于尤，尤见而奇之。
 及是时，城中出降尤者言光武不取财物，但会兵计策。
 尤笑曰： 是美须眉者邪？
+何为乃如是！
 translation: 
-Guangwu then led his retainers back to Chongling.
-At this time, Bo Sheng had gathered the people to raise troops.
-At first, the children of each family were very frightened. They ran and hid, saying: "Bosheng wants to kill us!"
-When they saw Guangwu in crimson robes and crowns, they were all surprised and said: "Uncle Wen, who is cautious and kind, has also raised an army!"
-Only then did everyone settle down. Bo Sheng then recruited troops from Xinshi and Pinglin, and together with his leaders Wang Feng and Chen Mu, went west to attack Changju.
-Guangwu first rode the bull, and then he was able to ride the horse after killing Xin Yewei.
-He entered Tu Tangzi Township and killed the Huyang county captain.
-The wealth obtained by the army was unevenly distributed, and everyone was angry. The soldiers wanted to counterattack the Liu family.
-Guangwu then collected all the property from his clan and gave it all to the soldiers. Only then did everyone feel satisfied.
 He then attacked and captured Jiyang, and fought with Wang Mang's former commander Zhen Fu and Zhengliangqiu in Xiaochang'an. As a result, the Han army was defeated and had to retreat to Jiyang.
 On the first day of the first lunar month of the first year of Gengshi, the Han army fought against Zhenfu and Liangqiuci in the west of Xianshui River. They defeated the enemy and killed Zhenfu and Liangqiuci.
 Bo Sheng defeated Wang Mang's general Yan You and Zhizong's general Chen Mao in Huoyang, and then besieged Wancheng.
@@ -134,12 +80,16 @@ When Wang Mang learned that Zhen Fu and Liang Qiuci had been killed and that the
 At first, Guangwu complained to Yan You about the rent arrears of Chonglinghou's tenants. Yan You treated Guangwu differently when he saw him.
 Now, Yan You listened to the people who surrendered to him in the city and said that Guangwu did not collect property, but only trained soldiers to make plans.
 Yan You smiled and said: Is he the man with the bushy eyebrows?
+Why would he do this!
 
 summary:
-summary line 3: Wang Mang sent Grand Situ Wang Xun and Grand Sikong Wang Yi with a massive army. Liu Xiu advised unity against the enemy, though generals initially resisted. With only 8,000-9,000 troops in Kunyang, Liu Xiu organized defenses and gathered reinforcements. Wang Mang's forces surrounded Kunyang with overwhelming numbers, using siege towers and tunnels. Despite the enemy's strength, Liu Xiu led a daring counterattack with 3,000 elite troops, breaking the enemy formation and killing Wang Xun. A storm aided the Han forces, causing panic and massive casualties among Wang Mang's army.
+summary line 2: Wang Mang sent Grand Situ Wang Xun and Grand Sikong Wang Yi with a massive army. Liu Xiu advised unity against the enemy, though generals initially resisted. With only 8,000-9,000 troops in Kunyang, Liu Xiu organized defenses and gathered reinforcements. Wang Mang's forces surrounded Kunyang with overwhelming numbers, using siege towers and tunnels. Despite the enemy's strength, Liu Xiu led a daring counterattack with 3,000 elite troops, breaking the enemy formation and killing Wang Xun. A storm aided the Han forces, causing panic and massive casualties among Wang Mang's army.
 
-Chunk 5: 
+Chunk 6: 
 original: 
+光武乃与敢死者三千人，从城西水上冲其中坚，寻、邑陈乱，乘锐崩之，遂杀王寻。
+城中亦鼓噪而出，中外合势，震呼动天地，莽兵大溃，走者相腾践，奔殪百余里间。
+会大雷风，屋瓦皆飞，雨下如注，滍川盛溢，虎豹皆股战，士卒争赴，溺死者以万数，水为不流。王邑、严尤、陈茂轻骑乘死人度水逃去。尽获其军实辎重、车甲珍宝，不可胜算，举之连月不尽，或燔烧其余。
 光武因复徇下颍阳。
 会伯升为更始所害，光武自父城驰诣宛谢。
 司徒官属迎吊光武，光武难交私语，深引过而已。
@@ -147,13 +97,10 @@ original:
 更始以是惭，拜光武为破虏大将军，封武信侯。
 九月庚戌，三辅豪杰共诛王莽，传首诣宛。
 更始将北都洛阳，以光武行司隶校尉，使前整修宫府。
-于是置僚属，作文移，从事司察，一如旧章。
-时三辅吏士东迎更始，见诸将过，皆冠帻，而服妇人衣，诸于绣镼，莫不笑之，或有畏而走者。
-及见司隶僚属，皆欢喜不自胜。
-老吏或垂涕曰： 不图今日复见汉官威仪！ 由是识者皆属心焉。
-及更始至洛阳，乃遣光武以破虏将军行大司马事。
-十月，持节北度河，镇慰州郡。
 translation: 
+Guangwu led another 3,000 death squads and charged at the enemy's backbone from the water west of the city. Wang Xun and Wang Yi's military formations were in chaos. Guangwu used his vigor to destroy the enemy formation and killed Wang Xun.
+Kunyang City also beat drums and shouted and rushed out. The internal and external attacks were combined, the sound shook the heaven and the earth. The reckless army was defeated. The fleeing soldiers trampled each other, and the casualties were scattered for more than a hundred miles.
+There happened to be a strong thunder and strong wind in the sky, and the roof tiles were blown away. Heavy rain poured down and the water in the Sichuan River surged. Tigers and leopards trembled with fear. Soldiers rushed to cross the water to escape. Tens of thousands drowned and the river stopped flowing. Wang Yi, Yan You, and Chen Mao rode lightly on horseback and escaped across the river on the dead men. They were so powerful that the Mang army's food, grass, equipment, tanks, armor, and treasures were countless. They couldn't move them all for several months, and some had to be burned.
 Guangwu took advantage of the situation and captured Yingyang County.
 At this time, Liu Boxheng was killed by Liu Xuan, the Gengshi Emperor. Guangwu immediately rushed from his father city to Wancheng to apologize.
 The officials of the Situ Mansion all came to express their condolences to Guangwu. Guangwu was not in a position to discuss anything with them in private, but he only blamed himself deeply.
@@ -161,18 +108,13 @@ He never boasted about his achievements in the Battle of Kunyang, nor did he dar
 Emperor Gengshi felt guilty about this, so he worshiped Guangwu as the general of Polu and named him Marquis of Wuxin.
 On the third day of September, the three auxiliary heroes of Chang'an worked together to kill Wang Mang and sent his head to Wancheng.
 Emperor Gengshi was about to go north to make his capital Luoyang, so he asked Guangwu to act as Sili Xiaowei and asked him to go to Luoyang first to repair the palace and government offices.
-Guangwu then set up subordinate officials to draft official documents to conduct historical inspections and illegal affairs, and everything was handled according to the old system of the Han Dynasty.
-At this time, the three auxiliary officials went east to welcome Emperor Gengshi. When they saw the generals passing by, they all wore civilian headscarves, women's clothes, large tie-ups and embroidered half-armor, and everyone laughed at them.
-Some even run away in fear of disaster because of the ominous things they are convinced of. When they saw Guangwu's staff, they were all overjoyed.
-Some old officials shed tears and said: "I didn't expect to see the majesty and grace of my Han officials again today!" From then on, all knowledgeable people turned to Guangwu.
-When Gengshi arrived in Luoyang, he appointed Guangwu as General Polu to act as Grand Sima.
-In October, Guangwu took the talisman and crossed the Yellow River to the north to calm the officials and people of the prefecture and county.
 
 summary:
-summary line 4: After Bo Sheng was killed by Emperor Gengshi, Liu Xiu rushed to apologize without boasting of his achievements. Emperor Gengshi appointed him General Polu and Marquis of Wuxin. When sent to Luoyang, Liu Xiu restored Han dynasty administrative practices, winning popular support. He crossed the Yellow River to pacify northern regions, releasing prisoners and abolishing Wang Mang's harsh policies.
+summary line 3: After Bo Sheng was killed by Emperor Gengshi, Liu Xiu rushed to apologize without boasting of his achievements. Emperor Gengshi appointed him General Polu and Marquis of Wuxin. When sent to Luoyang, Liu Xiu restored Han dynasty administrative practices, winning popular support. He crossed the Yellow River to pacify northern regions, releasing prisoners and abolishing Wang Mang's harsh policies.
 
-Chunk 8: 
+Chunk 10: 
 original: 
+时，王郎大将李育屯柏人，汉兵不知而进，前部偏将朱浮、邓禹为育所破，亡失辎重。
 光武在后闻之，收浮、禹散卒，与育战于郭门，大破之，尽得其所获。
 育还保城，攻之不下，于是引兵拔广阿。
 会上谷大守耿况、渔阳太守彭宠各遣其将吴汉、寇恂等将突骑来助击王郎，更始亦遣尚书仆射谢躬讨郎，光武因大飨士卒，遂东围巨鹿。
@@ -188,6 +130,7 @@ original:
 是时，长安政乱，四方背叛。
 梁王刘永擅命睢阳，公孙述称王巴蜀，李宪自立为淮南王，秦丰自号楚黎王，张步起琅邪，董宪起东海，延岑起汉中，田戎起夷陵，并置将帅，侵略郡县。
 translation: 
+At that time, Wang Lang's general Li Yu was stationed in Bairen County. The Han army entered the area without detecting the enemy's situation. The advance guard generals Zhu Fu and Deng Yu were defeated by Li Yu, and all the supplies in the army were lost.
 Guangwu learned the news later, gathered the defeated stragglers of Zhu Fu and Deng Yu, fought fiercely with Li Yu at the outer city gate, defeated Li Yu, and confiscated the grain, grass and supplies that Li Yu had obtained during the battle with Zhu and Deng.
 Li Yu retreated to the small town, but Guangwu could not attack it, so he led his troops to capture Guang'a County.
 At this time, it happened that Geng Kuang, the governor of Shanggu, and Peng Chong, the governor of Yuyang, respectively sent generals such as Wu Han and Kou Xun to lead elite cavalry to assist in attacking Wang Lang. Emperor Gengshi also sent Shangshu servant She Xie Gong to attack Wang Lang. Guangwu rewarded the soldiers well, and then marched eastward and surrounded Julu City.
@@ -204,9 +147,9 @@ At that time, the political situation in Chang'an was in chaos, and all parties 
 Liu Yong, the king of Liang, acted exclusively in Suiyang County, Gongsun Shu proclaimed himself king in Bashu, Li Xian established himself as the king of Huainan, Qin Feng claimed to be the king of Chuli, Zhang Bu raised troops in Langxie, Dong Xian raised troops in Donghai, Yancen raised troops in Hanzhong, and Tian Rong raised troops in Yiling. They all appointed generals and invaded various counties.
 
 summary:
-summary line 5: When Wang Lang proclaimed himself emperor in Handan, Liu Xiu faced numerous hardships, including food shortages and dangerous river crossings. After gathering forces, he captured Handan and killed Wang Lang. He burned documents revealing officials' collaboration with Wang Lang, saying this would calm those who were anxious.
+summary line 4: When Wang Lang proclaimed himself emperor in Handan, Liu Xiu faced numerous hardships, including food shortages and dangerous river crossings. After gathering forces, he captured Handan and killed Wang Lang. He burned documents revealing officials' collaboration with Wang Lang, saying this would calm those who were anxious.
 
-Chunk 9: 
+Chunk 11: 
 original: 
 又别号诸贼铜马、大肜、高湖、重连、铁胫、大抢、尤来、上江、青犊、五校、檀乡、五幡、五楼、富平、获索等，各领部曲，众合数百万人，所在寇掠。
 光武将击之，先遣吴汉北发十郡兵。
@@ -235,105 +178,99 @@ The generals of other branches of the Red Eyebrow Army and more than 100,000 hor
 Guangwu sent Wu Han and Cen Peng to attack Yecheng and killed Xie Gong.
 
 summary:
-summary line 6: As chaos spread across the empire, Liu Xiu pacified various rebel groups including the Bronze Horse Army. He won over surrendered troops by personally inspecting their camps, earning their loyalty. His forces grew to hundreds of thousands.
+summary line 5: As chaos spread across the empire, Liu Xiu pacified various rebel groups including the Bronze Horse Army. He won over surrendered troops by personally inspecting their camps, earning their loyalty. His forces grew to hundreds of thousands.
 
 Chunk 16: 
 original: 
-大司徒邓禹入长安，遣府掾奉十一帝神主，纳于高庙。
-真定王杨、临邑侯让谋反，遣前将军耿纯诛之。
-二月己酉，幸修武。
-大司空王梁免。
-壬子，以太中大夫宋弘为大司空。
-遣骠骑大将军景丹率征虏将军祭遵等二将军击弘农贼，破之，因遣祭遵围蛮中贼张满。
-渔阳太守彭宠反，攻幽州牧朱浮于蓟。
-延岑自称武安王于汉中。
-辛卯，至自修武。
-三月乙未，大赦天下，诏曰： 顷狱多冤人，用刑深刻，朕甚愍之。
-孔子云： 刑罚不中，则民无所措手足。
-其与中二千石、诸大夫、博士、议郎议省刑法。
-遣执金吾贾复率二将军击更始郾王尹遵，破降之。
-骁骑将军刘植击密贼，战殁。
-遣虎牙大将军盖延率四将军伐刘永。
-夏四月，围永于睢阳。
-更始将苏茂杀淮阳太守潘蹇而附刘永。
-甲午，封叔父良为广阳王，兄子章为太原王，章弟兴为鲁王，舂陵侯嫡子祉为城阳王。
-五月庚辰，封更始元氏王歙为泗水王，故真定王杨子得为真定王，周后姬常为周承休公。
-癸未，诏曰： 民有嫁妻卖子欲归父母者，恣听之。敢拘执，论如律。
-六月戊戌，立贵人郭氏为皇后，子彊为皇太子，大赦天下。
+敢不敬承。 于是建元为建武，大赦天下，改鄗为高邑。
+是月，赤眉立刘盆子为天子。
+甲子，前将军邓禹击更始定国公王匡于安邑，大破之，斩其将刘均。
+秋七月辛未，拜前将军邓禹为大司徒。
+丁丑，以野王令王梁为大司空。
+壬午，以大将军吴汉为大司马，偏将军景丹为骠骑大将军，大将军耿弇为建威大将军，偏将军盖延为虎牙大将军，偏将军朱祐为建义大将军，中坚将军杜茂为大将军。
+时，宗室刘茂自号 厌新将军 ，率众降，封为中山王。
+己亥，幸怀。遣耿弇率强弩将军陈俊军五社津，备荥阳以东。
+使吴汉率朱祐及廷尉岑彭、执金吾贾复、扬化将军坚镡等十一将军围朱鲔于洛阳。
+八月壬子，祭社稷。
+癸丑，祠高祖、太宗、世宗于怀宫。
+进幸河阳。更始廪丘王田立降。
+九月，赤眉入长安，更始奔高陵。
+辛未，诏曰： 更始破败，弃城逃走，妻子裸袒，流冗道路。
+朕甚愍之。今封更始为淮阳王。吏人敢有贼害者，罪同大逆。
+甲申，以前密令卓茂为太傅。
+辛卯，朱鲔举城降。
+冬十月癸丑，车驾入洛阳，幸南宫却非殿，遂定都焉。
+遣岑彭击荆州群贼。
+十一月甲午，幸怀。
+刘永自称天子。
+十二月丙戌，至自怀。
+赤眉杀更始，而隗嚣据陇右，卢芳起安定。破虏大将军叔寿击五校贼于曲梁，战殁。
+二年春正月甲子朔，日有食之。
+大司马吴汉率九将军击檀乡贼于邺东，大破降之。
 translation: 
-When the Great Situ Deng Yu entered Chang'an, he sent officials to hold the gods of the eleven emperors and offer them to the high temple.
-King Zhending Liu Yang and Linyi Marquis Liu Rang rebelled, and Guangwu sent former general Geng Chun to kill them.
-On February 16, Guangwu arrived at Xiuwu.
-Chief Sikong Wang Liang was dismissed from office.
-On the 19th, Song Hong, the Taizhong doctor, was appointed as the Grand Sikong.
-He sent the hussar general Jing Dan, led the conscripting general Ji Zun and two other generals to attack the Hongnong bandits and defeated them. Taking advantage of the situation, he sent Ji Zun to besiege the barbarian bandits Zhang Man.
-Peng Chong, the prefect of Yuyang, rebelled and attacked Youzhou Mu Zhufu in Jicheng.
-Yancen called himself King Wu'an in Hanzhong.
-In Xinmao, Guangwu returned to Luoyang to practice martial arts on his own.
-At the end of March Yi, a general amnesty was issued to the whole country, and the edict said: Recently, there are many wronged people in prison, and the punishments are cruel. I pity them very much.
-Confucius said: If the punishment is not appropriate, the people will not know what to do.
-You should discuss the issue of exemption from punishment with Zhong Erqianshi, other officials, doctors, and Yilang.
-He sent Jinwu Jiafu to lead two generals to attack Yin Zun, the king of Gengshi, defeated him and forced him to surrender.
-The valiant cavalry general Liu Zhi attacked the secret bandits and died in battle.
-He sent Huya General Gai Yan and four generals to attack Liu Yong.
-In the fourth month of summer, they besieged him in Suiyang.
-Gengshi general Su Mao killed Huaiyang governor Pan Jian and attached himself to Liu Yong.
-On the second day of April, he named his uncle Liu Liang King of Guangyang, his brother Liu Zhang as King of Taiyuan, Liu Zhang's younger brother Liu Xing as King of Lu, and Liu Zhi, the legitimate son of the Marquis of Chung Ling, as King of Chengyang.
-On May 19th, Wang She of the Yuan clan in Gengshi was granted the title of King of Sishui, so King Zhending Liu Yang Ziliu De became King Zhending, and Ji Chang, a descendant of the Zhou Dynasty, was Duke Chengxiu of Zhou Dynasty.
-On the 22nd, the edict stated: The common people have wives who have been forced to marry and children who have been sold. Those who want to return to their husbands and parents must be allowed to follow their wishes. Anyone who dares to detain or arrest them will be punished according to law.
-On the seventh day of the sixth lunar month, the noble Guo family was granted the title of queen, and his son Liu Qiang was made the crown prince, and the whole world was granted amnesty.
+How dare Liu Xiu not respect the destiny of heaven? So the reign name was established as Jianwu, a general amnesty was granted to the whole country, and Gaohuang County was changed to Gaoyi.
+In the same month, Red Eyebrow made Liu Penzi the emperor.
+On the 27th, former general Deng Yu attacked Prince Kuang of Gengshi Dingguo in Anyi, defeated Wang Kuang's army and killed his general Liu Jun.
+On the fifth day of the seventh lunar month in Autumn, Deng Yu, the former general, was appointed Grand Situ.
+On the 11th, Wang Liang, the wild king, was appointed as the chief minister.
+On the 16th, the general Wu Han was appointed as the Grand Sima, the partial general Jing Dan was appointed as the general of Hussar, the general Geng Yan was appointed as the general of Jianwei, the partial general Gai Yan was appointed as the general of Huya, the partial general Zhu You was appointed as the general of Jianyi, and the backbone general Du Mao was appointed as the general.
+At this time, Liu Mao, a relative of the royal family, proclaimed himself "General Wei Xin", led his troops to surrender, and was named King of Zhongshan.
+On the third day of August, Guangwu arrived in Huai County and sent Geng Yan and Chen Jun, the strong crossbow general, to station in Wushejin and guard the east of Xingyang.
+Wu Han was sent to lead Zhu You, Tingwei Cenpeng, Zhijinwu Jiafu, Yanghua general Jiandan and other eleven generals to besiege Zhu Tuna in Luoyang.
+On August 16th, sacrifice to Sheji.
+On August 17, sacrifices were made to Emperor Gaozu, Emperor Taizong and Emperor Shizong in Huai Palace.
+Guangwu marched to Heyang, and Gengshi Linqiu King Tianli surrendered.
+In September, the Red Eyebrow Army entered Chang'an and Gengshi fled to Gaoling.
+On the sixth day of the lunar month, Guangwu issued an edict saying: Gengshi was ruined, they abandoned the city and fled, their wives, families and children were naked and scattered on the road. I pity them very much.
+Now Gengshi has been granted the title of King of Huaiyin. Any officials or civilians who dare to kill him will be punished with treason.
+On the 19th, when he was appointed Emperor Ping, Gao Mi ordered Zhuomao to be the Taifu.
+On the 26th, Zhu Kun led the entire city of Luoyang to surrender.
+On the eighteenth day of the tenth month in winter, Guangwu entered Luoyang. Fortunately, Nangong was not the palace, so he made Luoyang his capital.
+On Xinmao day, Cen Peng was sent to attack the bandits in Jingzhou.
+On November 30, Guangwu arrived in Huai County.
+Liu Yong claimed to be the emperor.
+In December Bingxu, Guangwu returned to Luoyang from Huai County.
+The Red Eyebrow Army's killing spree begins. Wei Xiao occupied Longyou, Lu Fang raised troops in Anding, and Shu Shou, the general who broke the captives, attacked the bandits of the Five Schools in Quliang, and Shu Shou died in the battle.
+On the first day of the first lunar month of the second year of spring, there was a solar eclipse.
+Grand Sima Wu Han led nine generals to attack the Tanxiang bandits in the east of Ye, defeated the Tanxiang bandits and forced them to surrender.
 
 summary:
-summary line 7: After repeated requests from his generals, Liu Xiu ascended the throne on June 22, establishing the Jianwu reign period. He granted amnesty, appointed officials, and made Luoyang his capital. He enfeoffed meritorious officials as princes, warning them to remain cautious and respectful.
+summary line 6: After repeated requests from his generals, Liu Xiu ascended the throne on June 22, establishing the Jianwu reign period. He granted amnesty, appointed officials, and made Luoyang his capital. He enfeoffed meritorious officials as princes, warning them to remain cautious and respectful.
 
-Chunk 17: 
+Chunk 10: 
 original: 
-增郎、谒者、从官秩各一等。
-丙午，封宗子刘终为淄川王。
-秋八月，帝自将征五校。丙辰，幸内黄，大破五校于羛阳，降之。
-遣游击将军邓隆救朱浮，与彭宠战于潞，隆军败绩。
-盖延拔睢阳，刘永奔谯。
-破虏将军邓奉据淯阳反。
-九月壬戌，至自内黄。
-骠骑大将军景丹薨。
-延岑大破赤眉于杜陵。
-关中饥，民相食。
-冬十一月，以廷尉岑彭为征南大将军，率八将军讨邓奉于堵乡。
-铜马、青犊、尤来余贼共立孙登为天子于上郡。
-登将乐玄杀登，以其众五万余人降。
-遣偏将军冯异代邓禹伐赤眉。
-使太中大夫伏隆持节安辑青、徐二州，招张步降之。
-十二月戊午，诏曰： 惟宗室列侯为王莽所废，先灵无所依归，朕甚愍之。其并复故国。
-若侯身已殁，属所上其子孙见名尚书，封拜。
-是岁，盖延等大破刘永于沛西。
-初，王莽末，天下旱蝗，黄金一斤易粟一斛；至是野穀旅生，麻尤盛，野蚕成茧，被于山阜，人收其利焉。
-三年春正月甲子，以偏将军冯异为征西大将军，杜茂为骠骑大将军。
-大司徒邓禹及冯异与赤眉战于回溪，禹、异败绩。
-征虏将军祭遵破蛮中，斩张满。
+时，王郎大将李育屯柏人，汉兵不知而进，前部偏将朱浮、邓禹为育所破，亡失辎重。
+光武在后闻之，收浮、禹散卒，与育战于郭门，大破之，尽得其所获。
+育还保城，攻之不下，于是引兵拔广阿。
+会上谷大守耿况、渔阳太守彭宠各遣其将吴汉、寇恂等将突骑来助击王郎，更始亦遣尚书仆射谢躬讨郎，光武因大飨士卒，遂东围巨鹿。
+王郎守将王饶坚守，月余不下。
+郎遣将倪宏、刘奉率数万人救钜鹿，光武逆战于南䜌，斩首数千级。
+四月，进围邯郸，连战破之。
+五月甲辰，拔其城，诛王郎。
+收文书，得吏人与郎交关谤毁者数千章。
+光武不省，会诸将军烧之，曰： 令反侧子自安。
+更始遣侍御史持节立光武为萧王，悉令罢兵诣行在所。
+光武辞以河北未平，不就征。
+自是始贰于更始。
+是时，长安政乱，四方背叛。
+梁王刘永擅命睢阳，公孙述称王巴蜀，李宪自立为淮南王，秦丰自号楚黎王，张步起琅邪，董宪起东海，延岑起汉中，田戎起夷陵，并置将帅，侵略郡县。
 translation: 
-The salaries of Langguan, Yezhe and Congguan will be increased by one level each.
-On the 15th, Liu Zhong, the son of the clan, was granted the title of King of Zichuan.
-In the eighth month of autumn, Emperor Guangwu personally led troops to attack the five schools. On the 26th, the emperor arrived in Neihuang and defeated the troops of the five schools in Xiyang, forcing them to surrender.
-He sent guerrilla general Deng Long to rescue Zhu Fu and fought with Peng Chong in Lucheng. Deng Long's army suffered a heavy defeat.
-Gai Yan captured Suiyang, and Liu Yong fled to Qiaocheng.
-Deng Feng, the general of the Polu army, occupied Puyuyang and rebelled.
-On the second day of September, Emperor Guangwu returned to Luoyang from Neihuang.
-General Jing Dan passed away.
-Yancen defeated the Red Eyebrow Army in Duling.
-During the famine in Guanzhong, cannibalism occurred.
-In November of winter, he appointed Tingwei Cenpeng as the general in the southern expedition and led eight generals to attack Deng Feng in Duxiang.
-The remnants of Tongma, Qingdu and Youlai jointly established Sun Deng as emperor in Shangjun.
-Sun Deng's general Le Xuan killed Sun Deng and led more than 50,000 people to surrender.
-He sent partial general Feng Yi to attack Chimei on behalf of Deng Yu.
-He sent Taizhong doctor Fulong to hold the talisman to appease Qing and Xuzhou and recruit Zhang Bu to surrender.
-On December 30, the edict stated: Thinking that the clan princes were deposed by Wang Mang and that the spirits of their ancestors had no home, I felt very sorry for them and restored their feudal states together.
-If the marquis himself has passed away, the county where the marquis' descendants belong will record the current names of the marquis' descendants and submit them to the minister, who will grant them titles or titles.
-This year, Gai Yan and others defeated Liu Yong in Peixi.
-In the past, during the last years of Wang Mang's reign, there was a drought and locust plague in the country, and five bushels of millet were sold for one pound of gold. Now, wild millet grows without sowing, hemp and beans grow especially luxuriantly, and wild silkworms spin cocoons and scatter them on the hills, and people go to collect the profits.
-On the sixth day of the first lunar month in the spring of the third year, Feng Yi, the partial general, was appointed as the general of the expedition to the west, and Du Mao was appointed as the general of the Hussars.
-Grand Situ Deng Yu and Feng Yi fought with the Red Eyebrow Army at Huixi, and Deng Yu and Feng Yi were defeated.
-General Ji Zun defeated the barbarian bandits and killed Zhang Man.
+At that time, Wang Lang's general Li Yu was stationed in Bairen County. The Han army entered the area without detecting the enemy's situation. The advance guard generals Zhu Fu and Deng Yu were defeated by Li Yu, and all the supplies in the army were lost.
+Guangwu learned the news later, gathered the defeated stragglers of Zhu Fu and Deng Yu, fought fiercely with Li Yu at the outer city gate, defeated Li Yu, and confiscated the grain, grass and supplies that Li Yu had obtained during the battle with Zhu and Deng.
+Li Yu retreated to the small town, but Guangwu could not attack it, so he led his troops to capture Guang'a County.
+At this time, it happened that Geng Kuang, the governor of Shanggu, and Peng Chong, the governor of Yuyang, respectively sent generals such as Wu Han and Kou Xun to lead elite cavalry to assist in attacking Wang Lang. Emperor Gengshi also sent Shangshu servant She Xie Gong to attack Wang Lang. Guangwu rewarded the soldiers well, and then marched eastward and surrounded Julu City.
+Wang Lang's general Wang Rao defended the city, and Guangwu failed to capture it for more than a month.
+Wang Lang also sent Ni Hong and Liu Feng to lead tens of thousands of troops to rescue Julu. Guangwu went to Nanxian to attack them head-on, killing thousands of enemy troops.
+In April, he marched again and besieged Handan, winning consecutive battles.
+On the day of Jiachen in the fifth month, Handan was captured and Wang Lang was killed.
+The documents were seized and it was discovered that the Han military officials had colluded with Wang Lang to slander Guangwu's letter, which was called Qianzhang.
+Without even looking at it, Guangwu summoned the generals to burn them, saying: "Let those who are tossing and turning calm down."
+Emperor Gengshi sent his censor, Shi Zhifujie, to make Guangwu the King of Xiao, asking him to cease the war and return to the seat of Emperor Gengshi.
+Guangwu declined, saying that Hebei had not yet been pacified and would not accept the order.
+From then on, Guangwu began to have second thoughts about Emperor Gengshi.
+At that time, the political situation in Chang'an was in chaos, and all parties rebelled against Gengshi Emperor.
+Liu Yong, the king of Liang, acted exclusively in Suiyang County, Gongsun Shu proclaimed himself king in Bashu, Li Xian established himself as the king of Huainan, Qin Feng claimed to be the king of Chuli, Zhang Bu raised troops in Langxie, Dong Xian raised troops in Donghai, Yancen raised troops in Hanzhong, and Tian Rong raised troops in Yiling. They all appointed generals and invaded various counties.
 
 summary:
-summary line 8: The Red Eyebrow Army captured Chang'an and looted Guanzhong. Liu Xiu personally led campaigns against various rebels, defeating the Red Eyebrows and recovering the imperial seal. He continued military campaigns against Liu Yong, Dong Xian, and others while implementing administrative reforms, including releasing prisoners during drought and restoring Han dynasty institutions. He established the Imperial Academy and promoted agriculture as wild grains gradually decreased and cultivated fields increased.
+summary line 7: The Red Eyebrow Army captured Chang'an and looted Guanzhong. Liu Xiu personally led campaigns against various rebels, defeating the Red Eyebrows and recovering the imperial seal. He continued military campaigns against Liu Yong, Dong Xian, and others while implementing administrative reforms, including releasing prisoners during drought and restoring Han dynasty institutions. He established the Imperial Academy and promoted agriculture as wild grains gradually decreased and cultivated fields increased.
 

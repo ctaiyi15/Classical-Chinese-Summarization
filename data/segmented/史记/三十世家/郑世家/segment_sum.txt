@@ -1,0 +1,221 @@
+Summary uses chunk [1, 5, 10, 17, 18]
+
+Chunk 1: 
+original: 
+对曰： 齐、秦、晋、楚乎？
+夫齐，姜姓，伯夷之後也，伯夷佐尧典礼。
+秦，嬴姓，伯翳之後也，伯翳佐舜怀柔百物。
+及楚之先，皆尝有功於天下。
+而周武王克纣後，成王封叔虞于唐，其地阻险，以此有德与周衰并，亦必兴矣。 桓公曰： 善。
+於是卒言王，东徙其民雒东，而虢、郐果献十邑，竟国之。
+二岁，犬戎杀幽王於骊山下，并杀桓公。
+郑人共立其子掘突，是为武公。
+武公十年，娶申侯女为夫人，曰武姜。
+生太子寤生，生之难，及生，夫人弗爱。
+後生少子叔段，段生易，夫人爱之。
+二十七年，武公疾。夫人请公，欲立段为太子，公弗听。
+是岁，武公卒，寤生立，是为庄公。
+庄公元年，封弟段於京，号太叔。
+祭仲曰： 京大於国，非所以封庶也。
+translation: 
+Tai Shibo replied: Qi, Qin, Jin, Chu, right?
+Qi State, whose surname was Jiang, was a descendant of Boyi, who assisted Yao in managing the ceremonial system.
+Qin, whose surname is Ying, is a descendant of Boyi, who assisted Shun in bringing many tribes into submission.
+As for the ancestors of the Chu State, they have also established meritorious deeds for the people of the world.
+After King Wu of Zhou defeated King Zhou, King Cheng granted the Tang Dynasty to Shuyu. The mountains and rivers there were dangerous. With these virtuous descendants coexisting with the weak Zhou family, the Jin Kingdom would definitely be able to prosper. Duke Huan said: OK.
+So he quickly asked King You for instructions and moved his people to the east of Luoshui. As expected, the kings of Guo and Xi donated ten cities to him, and he finally established the state of Zheng.
+In the second year, Quan Rong killed King You and Duke Huan at the foot of Mount Li.
+The people of Zheng supported Duke Huan's son Jutu, who was Duke Wu.
+In the tenth year of Duke Wu's reign, he married the daughter of Marquis Shen as his wife, named Wu Jiang.
+Wu Jiang gave birth to the prince Wusheng, but it was difficult to deliver the baby. After the birth, his wife did not like Wusheng.
+Later, Wu Jiang gave birth to a younger son, Shu Duan, who was born naturally. His wife loved Shu Duan very much.
+In the twenty-seventh year, Duke Wu fell ill. His wife asked him to make Duan the crown prince, but Duke Wu refused.
+At that time, Duke Wu passed away and Wansheng came to the throne. This was Duke Zhuang.
+In the first year of Emperor Zhuang's reign, Duke Zhuang granted his younger brother Uncle Duan a title to the capital, and he was known as Taishu.
+Ji Zhong said: The capital is larger than the capital, so it cannot be granted to a younger brother.
+
+summary:
+summary line 0: Duke Huan of Zheng, the youngest son of King Zhou Li, was granted the title of Zhengdi and served as Situ under King You. Loved by the people, he sought advice from Tai Shibo on escaping the Zhou royal family's impending disaster. Tai Shibo advised moving east of Luoshui and south of the Yellow River, where the greedy rulers of Guo and Hao would cede land. Duke Huan relocated his people there, establishing the state of Zheng. However, in the second year, Quan Rong killed King You and Duke Huan at Mount Li. Duke Huan's son, Duke Wu, succeeded him. Duke Wu's wife, Wu Jiang, favored their younger son Shu Duan over the crown prince Wusheng (Duke Zhuang). After Duke Wu's death, Duke Zhuang granted Shu Duan the capital, leading to rebellion. Duke Zhuang defeated Shu Duan, exiled Wu Jiang, but later reconciled with her through a tunnel.
+
+Chunk 5: 
+original: 
+诸侯闻厉公出奔，伐郑，弗克而去。
+宋颇予厉公兵，自守於栎，郑以故亦不伐栎。
+昭公二年，自昭公为太子时，父庄公欲以高渠弥为卿，太子忽恶之，庄公弗听，卒用渠弥为卿。
+及昭公即位，惧其杀己，冬十月辛卯，渠弥与昭公出猎，射杀昭公於野。
+祭仲与渠弥不敢入厉公，乃更立昭公弟子亹为君，是为子亹也，无谥号。
+子亹元年七月，齐襄公会诸侯於首止，郑子亹往会，高渠弥相，从，祭仲称疾不行。
+所以然者，子亹自齐襄公为公子之时，尝会斗，相仇，及会诸侯，祭仲请子亹无行。
+子亹曰： 齐彊，而厉公居栎，即不往，是率诸侯伐我，内厉公。
+我不如往，往何遽必辱，且又何至是！
+卒行。
+於是祭仲恐齐并杀之，故称疾。
+子亹至，不谢齐侯，齐侯怒，遂伏甲而杀子亹。
+高渠弥亡归，归与祭仲谋，召子亹弟公子婴於陈而立之，是为郑子。
+是岁，齐襄公使彭生醉拉杀鲁桓公。
+郑子八年，齐人管至父等作乱，弑其君襄公。
+十二年，宋人长万弑其君湣公。
+郑祭仲死。
+translation: 
+When the princes heard that Duke Li had escaped, they attacked Zheng Guo, but they left without defeating Zheng Guo.
+The State of Song gave Duke Li a large number of troops and asked him to stand guard in Liyi. Therefore, the State of Zheng stopped attacking the city.
+In the second year of Duke Zhao, when Duke Zhao became the crown prince, his father, Duke Zhuang, wanted to make Gao Qumi his minister. The prince suddenly disliked Gao Qumi. Duke Zhuang did not listen to Hu's advice and finally made Qumi his minister.
+When Zhaogong came to the throne, Qumi was worried that Zhaogong would kill him. On Xinmao day in October in winter, Qumi and Zhaogong went hunting and shot Zhaogong in the countryside.
+Ji Zhong and Qu Mi did not dare to accept Duke Li, so they made Zhao Gong's younger brother Zi Qi the king instead, and they called him Zi Qi. He had no posthumous title.
+In the seventh month of the first year of Ziqian, Duke Xiang of Qi met with the princes at the first stop. Zheng Ziqian went to the meeting, assisted by Gao Qumi, who followed Ziqian there. Ji Zhong excused himself from illness.
+The reason why Ji Zhong did this was because Zi Qi once fought with Xianggong of Qi when he was a prince, and the two sides became enemies. When the princes met, Ji Zhong asked Zi Qi not to go.
+Zi Qian said: The state of Qi is strong and Duke Li lives in Yue. If I don't go, Qi will lead the princes to attack me and ask Duke Li to return to the capital.
+Why don't I go there? Why will I be humiliated? And why will I end up in the situation you imagined?
+Zi Qian finally went there.
+Ji Zhong was worried that Qi would kill Zi Qian and his followers, so he claimed to be ill.
+When Zi Qian arrived, he did not apologize to the Marquis of Qi. The Marquis of Qi was very angry, so he set up an ambush and killed Zi Qian.
+Gao Qumi fled back to the state of Zheng, discussed with Ji Zhong, and called Zi Qi's younger brother Gong Ziying from the state of Chen to support him as the king. This was Zheng Zi.
+That year, Duke Xianggang of Qi asked his son Peng Sheng to kill Duke Huan of Lu by breaking his ribs while he was drunk.
+In the eighth year of Zheng Zi, the governor of Qi State, Zhifu, and others rebelled and killed their own monarch, Duke Xiang.
+In the twelfth year of the Song Dynasty, Wan Chang, a man of the Song Dynasty, killed his own king Min Gong.
+This year, Zheng Guojizhong passed away.
+
+summary:
+summary line 1: Duke Zhuang's reign saw conflicts with Zhou, Song, and Wei. He defeated King Huan of Zhou in battle but refrained from pursuing him. After Duke Zhuang's death, his son Duke Zhao briefly ruled but was ousted by Duke Li, who was backed by Song. Duke Li killed Ji Zhong but was later driven out, and Duke Zhao returned. Duke Zhao was assassinated by Gao Qumi, leading to a succession of short-lived rulers. Duke Li eventually returned, executed those who betrayed him, and reigned until his death. His son Duke Wen succeeded him.
+
+Chunk 10: 
+original: 
+灵公元年春，楚献鼋於灵公。
+子家、子公将朝灵公，子公之食指动，谓子家曰： 佗日指动，必食异物。
+及入，见灵公进鼋羹，子公笑曰： 果然！
+灵公问其笑故，具告灵公。
+灵公召之，独弗予羹。子公怒，染其指，尝之而出。
+公怒，欲杀子公。
+子公与子家谋先。
+夏，弑灵公。
+郑人欲立灵公弟去疾，去疾让曰： 必以贤，则去疾不肖；必以顺，则公子坚长。
+坚者，灵公庶弟，去疾之兄也。
+於是乃立子坚，是为襄公。
+襄公立，将尽去缪氏。
+缪氏者，杀灵公、子公之族家也。去疾曰： 必去缪氏，我将去之。
+乃止。
+皆以为大夫。
+襄公元年，楚怒郑受宋赂纵华元，伐郑。
+郑背楚，与晋亲。
+五年，楚复伐郑，晋来救之。
+六年，子家卒，国人复逐其族，以其弑灵公也。
+七年，郑与晋盟鄢陵。
+八年，楚庄王以郑与晋盟，来伐，围郑三月，郑以城降楚。
+楚王入自皇门，郑襄公肉袒掔羊以迎，曰： 孤不能事边邑，使君王怀怒以及弊邑，孤之罪也。
+translation: 
+In the spring of the first year of Linggong, Chu State dedicated it to Linggong turtle.
+Zijia and Zi Gong were about to pay homage to Linggong. Zi Gong's index finger trembled and said to Zi Jia: My finger has moved before, so I must eat rare food.
+After entering the palace, he saw Duke Ling eating turtle soup. Zigong smiled and said, "It's true."
+Duke Lin asked why Zigong was laughing, and Zigong told Duke Lin the above situation.
+Duke Ling called him over, but he didn't give him the soup. Zigong was very angry, so he dipped his finger in the soup and tasted it before leaving the palace.
+Duke Lin was very angry and wanted to kill his son.
+Zigong and Zijia Shangyi made the first move.
+In summer, they killed Ling Gong.
+The people of Zheng wanted to appoint Linggong's younger brother Quji, but Quji humbly said: "I must let a worthy person take the throne, and I, Quji, have no talent; I must let him take the throne in the order of eldest son and youngest son, then Prince Jian will be older than me."
+Jian is Linggong's younger brother and Quji's older brother.
+So he made Zijian the king, and he was Xianggong.
+After Duke Xiang ascends the throne, he will kill all the Miao family.
+The Miao family is the family of the son who killed Duke Ling. Qu Ji said: The Miao family must be killed, and I will leave Zheng.
+Only then did Duke Xiang stop.
+And appointed Miao Du as a doctor.
+In the first year of Xiang AD, the state of Chu was angry that the state of Zheng had accepted bribes from the state of Song, released Hua Yuan, and attacked the state of Zheng.
+The state of Zheng betrayed the state of Chu and became close to the state of Jin.
+Five years later, Chu State attacked Zheng State again, and Jin State came to rescue Zheng State.
+In the sixth year, Zijia died, and the people of Zhengdu drove out Zijia's family because he killed Duke Ling.
+In the seventh year, Zheng and Jin formed an alliance in Yanling.
+In the eighth year, King Zhuang of Chu came to attack Zheng because of his alliance with Jin. He besieged the capital of Zheng for three months. Zheng surrendered the capital to Chu.
+When the King of Chu entered the city from the imperial gate, Zheng Xianggong took off his shirt, exposed his arms, and held a sheep to greet the King of Chu. He said: "I cannot serve you in the border town. It is my sin to let you come to the capital of our country angrily."
+
+summary:
+summary line 2: Duke Wen's reign involved conflicts with Jin and Chu. He was rude to Chong'er (later Duke Wen of Jin), who later besieged Zheng. Duke Wen's son Zilan, favored by Jin, became crown prince and later Duke Mu. Duke Mu's reign saw Qin's failed attack on Zheng, exposed by merchant Xian Gao. Zheng allied with Jin against Qin. After Duke Mu's death, Duke Lin was killed by Zigong over a turtle soup dispute. Duke Xiang succeeded him, facing Chu attacks and shifting alliances between Jin and Chu. Duke Xiang surrendered to Chu but was spared by King Zhuang.
+
+Chunk 17: 
+original: 
+六年，郑火，公欲禳之。
+子产曰： 不如修德。
+八年，楚太子建来奔。
+十年，太子建与晋谋袭郑。
+郑杀建，建子胜奔吴。
+十一年，定公如晋。
+晋与郑谋，诛周乱臣，入敬王于周。
+十三年，定公卒，子献公虿立。
+献公十三年卒，子声公胜立。
+当是时，晋六卿彊，侵夺郑，郑遂弱。
+声公五年，郑相子产卒，郑人皆哭泣，悲之如亡亲戚。
+子产者，郑成公少子也。
+为人仁爱人，事君忠厚。
+孔子尝过郑，与子产如兄弟云。
+及闻子产死，孔子为泣曰： 古之遗爱也！
+八年，晋范、中行氏反晋，告急於郑，郑救之。
+晋伐郑，败郑军於铁。
+十四年，宋景公灭曹。
+二十年，齐田常弑其君简公，而常相於齐。
+translation: 
+In the sixth year, a fire broke out in the state of Zheng, and Duke Din wanted to pray to ward off the disaster.
+Zichan said: It is better to practice virtuous government.
+In the eighth year, Prince Jian of Chu State fled to Zheng State.
+In the tenth year, Prince Jian discussed with Jin State to attack Zheng State.
+Zheng Guo killed Prince Jian, and Prince Jian's son fled to Wu.
+In the eleventh year, Duke Dinggong arrived in Jin.
+Jin and Zheng negotiated to kill the rebellious ministers of the Zhou royal family and send King Jing back to Zhou.
+In the thirteenth year, Duke Ding passed away and his son Xiangong Hui came to the throne.
+Duke Xian died in the thirteenth year, and his son Sheng Gongsheng ascended the throne.
+At this time, the six ministers of Jin became stronger and invaded Zheng's territory, causing Zheng to decline.
+In the fifth year of Duke Sheng's reign, the Prime Minister of Zheng died. The people of Zheng all cried, mourning for him as they mourned for their own relatives.
+Zichan is the youngest son of Zheng Chenggong.
+Be kind and caring to others, serve the king with loyalty and honesty.
+Confucius once passed by the state of Zheng and was as close as brothers to Zichan.
+When he heard that Zichan had died, Confucius cried sadly: Zichan's benevolence is really a legacy from ancient times!
+In the eighth year, the Fan and Zhongxing clans of Jin rebelled against Jin. Jin asked Zheng for help, and Zheng rescued them.
+The Jin State therefore attacked the Zheng State and defeated Zheng's army at Tieba.
+In the fourteenth year, Duke Jinggong of Song Dynasty destroyed Cao State.
+Twenty years later, Tian Chang of the State of Qi killed his own monarch, Duke Jian, and Tian Chang became the Prime Minister of the State of Qi.
+
+summary:
+summary line 3: Later rulers included Duke Cheng, who was captured by Jin for allying with Chu, and Duke Li, who was poisoned by Zi Si. Duke Jian's reign featured Zichan, a wise minister who stabilized Zheng through diplomacy and reforms. Zichan's advice to Jin's Duke Ping on gods and governance earned him praise. After Zichan's death, Zheng declined under pressure from Jin's six ministers and Han's invasions. Duke Sheng's reign saw Zichan's death, mourned by all. Confucius wept for Zichan, calling his benevolence a legacy from ancient times.
+
+Chunk 18: 
+original: 
+二十二年，楚惠王灭陈。
+孔子卒。
+三十六年，晋知伯伐郑，取九邑。
+三十七年，声公卒，子哀公易立。
+哀公八年，郑人弑哀公而立声公弟丑，是为共公。
+共公三年，三晋灭知伯。
+三十一年，共公卒，子幽公已立。
+幽公元年，韩武子伐郑，杀幽公。
+郑人立幽公弟骀，是为繻公。
+繻公十五年，韩景侯伐郑，取雍丘。
+郑城京。
+十六年，郑伐韩，败韩兵於负黍。
+二十年，韩、赵、魏列为诸侯。
+二十三年，郑围韩之阳翟。
+二十五年，郑君杀其相子阳。
+二十七，子阳之党共弑繻公骀而立幽公弟乙为君，是为郑君。
+郑君乙立二年，郑负黍反，复归韩。
+十一年，韩伐郑，取阳城。
+二十一年，韩哀侯灭郑，并其国。
+translation: 
+In the twenty-second year, King Hui of Chu destroyed the state of Chen.
+Confucius passed away.
+In the thirty-sixth year, Zhibo of Jin State attacked Zheng State and captured nine cities.
+In the thirty-seventh year, Duke Sheng passed away, and his son Duke Ai came to the throne.
+In the eighth year of Duke Ai, the people of Zheng killed Duke Ai and made Chou, the younger brother of Duke Sheng, the king of the country.
+In the third year of Gong Gong's reign, the three Jin Dynasties destroyed Zhibo.
+In the thirty-first year, Gonggong passed away, and his son Yougong came to the throne.
+In the first year of Yougong, Han Wuzi attacked Zheng Guo and killed Yougong.
+The people of Zheng appointed You Gong's younger brother as the king of the country. This was Duke Fang.
+In the fifteenth year of Gong Gong's reign, Han Jinghou attacked Zheng Guo and captured Yongqiu.
+Zheng Guo built the capital.
+In the 16th year, Zheng Guo attacked South Korea and defeated the Korean army in Fushu.
+In twenty years, Han, Zhao, and Wei became vassal states.
+In the twenty-third year, Zheng Guo surrounded Yangzhai in South Korea.
+In the twenty-fifth year, Zheng Jun killed Yang, the Prime Minister of the country.
+In the twenty-seventh year, Ziyang's followers killed Gong Xi and made You Gong's younger brother Yi the king of the country. This was Zheng Jun.
+Two years after Zheng Junyi took the throne, the people who were occupied by Zheng Guo rebelled and returned to Korea.
+In the eleventh year, South Korea attacked Zheng Guo and captured Yangcheng.
+In the twenty-first year, Marquis Ai of Han destroyed the State of Zheng and annexed it.
+
+summary:
+summary line 4: Zheng's final years were marked by internal strife and Korean aggression. Duke Ai was killed, and subsequent rulers faced Korean attacks. In the twenty-first year of Zheng Junyi's reign, Marquis Ai of Han destroyed Zheng, annexing its territory. Tai Shigong reflected on the fickle nature of power and loyalty, citing Fu Xia's betrayal of Zheng Zi and Li Gong's eventual execution of him, comparing it to Jin's Rick. He noted that even steadfast figures like Xun Xi could not prevent disaster, as unforeseen events often alter outcomes.
+

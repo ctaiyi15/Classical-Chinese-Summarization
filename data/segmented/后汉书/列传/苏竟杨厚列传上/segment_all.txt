@@ -14,10 +14,6 @@ original:
 竟时在南阳，与龚书晓之曰：君执事无恙。
 走昔以摩研编削之才，与国师公从事出入，校定秘书，窃自依依，末由自远。
 盖闻君子愍同类而伤不遇。
-人无愚智，莫不先避害然后求利，先定志然后求名。
-昔智果见智伯穷兵必亡，故变名远逝，陈平知项王为天所弃，故归心高祖，皆智之至也。
-闻郡前权时屈节，北面延牙，乃后觉悟，栖迟养德。
-先世数子，又何以加。
 translation: 
 ◆The Story of Su Jing
 Su Jing, courtesy name Bo Kuang, was born in Pingling, Fufeng County.
@@ -33,14 +29,14 @@ At first, Yancen's army guard Deng Zhongkuang supported his troops and occupied 
 Su Jing was in Nanyang at that time, so he wrote to Liu Gong to tell him: You and your left are well.
 I used to work with your uncle Liu Xin as a compilation and compilation talent, and I was a proofreading secretary. I only relied on your uncle's guidance and did not achieve much on my own.
 I heard that a gentleman shows mercy to his fellow men and hurts them.
-No matter whether a person is stupid or wise, he must first avoid harm and then seek benefit, and first set his mind and then seek fame.
-In the past, Zhiguo saw that Zhibo was prone to war and would die, so he changed his name and went away. Chen Ping knew that Xiang Yu was abandoned by heaven, so he returned to Liu Bang. These are extremely smart people.
-I heard that you once temporarily abdicated and served Yancen, but later you woke up and stopped serving Yancen.
-In the past, Zhiguo and Chen Ping were not higher than you.
 
 
 Chunk 1: 
 original: 
+人无愚智，莫不先避害然后求利，先定志然后求名。
+昔智果见智伯穷兵必亡，故变名远逝，陈平知项王为天所弃，故归心高祖，皆智之至也。
+闻郡前权时屈节，北面延牙，乃后觉悟，栖迟养德。
+先世数子，又何以加。
 君处阴中，土多贤士，若以须臾之间，研考异同，揆之图书，测之人事，则得失利害，可陈于目，何自负畔乱之困，不移守恶之名乎？
 与君子之道，何其反也？
 世之俗儒末学，醒醉不分，而稽论当世，疑误视听。
@@ -48,10 +44,11 @@ original:
 或曰圣王未启，宜观时变，倚强附大，顾望自守。
 二者之论，岂其然乎？
 夫孔丘秘经，为汉赤制，玄包幽室，文隐事明。
-且火德承尧，虽昧必亮，承积世之祚，握无穷之符，王氏虽乘间偷篡，而终婴大戮，支分体解，宗氏屠灭，非其效欤？
-皇天所以眷顾蜘蹰，忧汉子孙者也。
-论者若不本之于天，参之于圣，猥以《师旷杂事》轻自眩惑，说士作书，乱夫大道，焉可信哉？
 translation: 
+No matter whether a person is stupid or wise, he must first avoid harm and then seek benefit, and first set his mind and then seek fame.
+In the past, Zhiguo saw that Zhibo was prone to war and would die, so he changed his name and went away. Chen Ping knew that Xiang Yu was abandoned by heaven, so he returned to Liu Bang. These are extremely smart people.
+I heard that you once temporarily abdicated and served Yancen, but later you woke up and stopped serving Yancen.
+In the past, Zhiguo and Chen Ping were not higher than you.
 You live in the underworld, where there are many wise men. If you can spend some time to study and examine the similarities and differences between people and things, infer from books, and measure from people and things, then the gains and losses will be clear at a glance. Why do you carry the confusion of rebellion and remain determined to keep the name of evil?
 Why is it contrary to the moral behavior of a gentleman?
 The superficial knowledge of the pedantic Confucian scholars in the world cannot distinguish between waking and drunkenness, but they want to comment on the affairs of the world, confusing and misleading others.
@@ -59,13 +56,13 @@ In other words, the world changes and rises. I don’t know who will rise up. I 
 In other words, the Holy King has not revealed yet, so for the time being, we should observe the changes in current affairs, rely on the strong, and wait and see.
 Are these two arguments correct?
 Confucius' Weishu was made in red form in the Han Dynasty. It is mysterious and hidden in a secret room. Although the text is slightly hidden, the facts are very clear.
-Moreover, the great virtue was the successor of Yao. Even though he was usurped by Wang Mang, now that Guangwu is resurrected, he will be bright again. He will inherit the throne for generations and have infinite auspiciousness. Although Wang Mang took the opportunity to usurp it, he would eventually be killed, his limbs would be dismembered, and the clan would be slaughtered. Isn't this the result?
-The reason why the Emperor favors Hesitation is because he is worried about the descendants of the great man.
-If the people who discuss it are not based on heaven and refer to the holy things, and they casually use "Shi Kuang Miscellaneous Affairs" to be easily confused, and they arbitrarily write weft books to persuade others, and they deviate from the scriptures, how can they be believed?
 
 
 Chunk 2: 
 original: 
+且火德承尧，虽昧必亮，承积世之祚，握无穷之符，王氏虽乘间偷篡，而终婴大戮，支分体解，宗氏屠灭，非其效欤？
+皇天所以眷顾蜘蹰，忧汉子孙者也。
+论者若不本之于天，参之于圣，猥以《师旷杂事》轻自眩惑，说士作书，乱夫大道，焉可信哉？
 诸儒或曰：今五星失晷，天时谬错，辰星久而不效，太白出入过度，荧惑进退见态，镇星绕带天街，岁星不舍氐、房。
 以为诸如此占，归之国家。
 盖灾不徒设，皆应之分野，各有所主。
@@ -75,6 +72,23 @@ original:
 太白、辰星自亡新之末，失行算度，以至于今，或守东井，或没羽林，或裴回籓屏，或踯躅帝宫，或经天反明，或潜臧久沈，或衰微暗昧，或煌煌北南，或盈缩成钩，或偃蹇不禁，皆大运荡除之祥，圣帝应符之兆也。
 贼臣乱子，往往错互，指麾妄说，传相坏误。
 由此论之，天文安得遵度哉！
+translation: 
+Moreover, the great virtue was the successor of Yao. Even though he was usurped by Wang Mang, now that Guangwu is resurrected, he will be bright again. He will inherit the throne for generations and have infinite auspiciousness. Although Wang Mang took the opportunity to usurp it, he would eventually be killed, his limbs would be dismembered, and the clan would be slaughtered. Isn't this the result?
+The reason why the Emperor favors Hesitation is because he is worried about the descendants of the great man.
+If the people who discuss it are not based on heaven and refer to the holy things, and they casually use "Shi Kuang Miscellaneous Affairs" to be easily confused, and they arbitrarily write weft books to persuade others, and they deviate from the scriptures, how can they be believed?
+Some corrupt scholars say: Now the five stars in the southeast, northwest and northwest are abnormal, the weather is wrong, the stars have been in and out for a long time, the Taibai star has been in and out excessively, the Yinghuo star is advancing and retreating, the star of the year is orbiting the sky street, and the star of the year is unwilling to give up Di and Fang.
+I think these signs should be attributed to the country.
+Disasters are not set in vain. They all correspond to the positions of states and countries on the earth, and each has its own owner.
+That room and heart are the location of Song Dynasty and the East China Sea.
+The tail is the position of Yan, which is Yuyang.
+Dong Xian in the East China Sea was confused and refused to surrender, and Peng Chong in Yuyang supported his troops and rebelled. The emperor was furious and sent generals to conquer. Therefore, Yinghuo responded, and Dong Xian and Peng Chong suffered disaster.
+Taibai and Chenxing have been moving irregularly since the fall of Wang Mang, and until now, they either stay in the East Well, or disappear in the Yulin, or linger and submerge the stars on both sides, or cannot go up or down in the imperial palace, or are bright in the sky, or have been hidden for a long time, or are dim and dim, or bright in the north and south, or shrink into a hook shape, or high and bright without restraint. These are the talismans of the rebellious ministers who deserve to be eradicated, and the good omen of the Holy Emperor's talisman.
+Rebellious ministers and traitors often interact with each other, command nonsense, and spread lies.
+From this point of view, what other laws are there to abide by in astronomy?
+
+
+Chunk 3: 
+original: 
 乃者，五月甲申，天有白虹，自子加午，广可十丈，长可万丈，正临倚弥。
 倚弥即黎丘，秦丰之都也。
 是时月入于毕。
@@ -85,16 +99,13 @@ original:
 此二变，郡中及延牙士众所共见也。
 是故延牙遂之武当，托言发兵，实避其殃。
 今年《比卦》部岁，《坤》主立冬，《坎》主冬至，水性灭火，南方之兵受岁祸也。
+德在中宫，刑在木，木胜土，刑制德，今年兵事毕已，中国安宁之效也。
+五七之家三十五姓，彭、秦、延氏不得豫焉。
+如何怪惑，依而恃之？
+《葛累》之诗， 求福不回 ，其若是乎！
+图谶之占，众变之验，皆君所明。
+善恶之分，去就之决，不可不察。无忽鄙言！
 translation: 
-Some corrupt scholars say: Now the five stars in the southeast, northwest and northwest are abnormal, the weather is wrong, the stars have been in and out for a long time, the Taibai star has been in and out excessively, the Yinghuo star is advancing and retreating, the star of the year is orbiting the sky street, and the star of the year is unwilling to give up Di and Fang.
-I think these signs should be attributed to the country.
-Disasters are not set in vain. They all correspond to the positions of states and countries on the earth, and each has its own owner.
-That room and heart are the location of Song Dynasty and the East China Sea.
-The tail is the position of Yan, which is Yuyang.
-Dong Xian in the East China Sea was confused and refused to surrender, and Peng Chong in Yuyang supported his troops and rebelled. The emperor was furious and sent generals to conquer. Therefore, Yinghuo responded, and Dong Xian and Peng Chong suffered disaster.
-Taibai and Chenxing have been moving irregularly since the fall of Wang Mang, and until now, they either stay in the East Well, or disappear in the Yulin, or linger and submerge the stars on both sides, or cannot go up or down in the imperial palace, or are bright in the sky, or have been hidden for a long time, or are dim and dim, or bright in the north and south, or shrink into a hook shape, or high and bright without restraint. These are the talismans of the rebellious ministers who deserve to be eradicated, and the good omen of the Holy Emperor's talisman.
-Rebellious ministers and traitors often interact with each other, command nonsense, and spread lies.
-From this point of view, what other laws are there to abide by in astronomy?
 Once upon a time, in the fifth month of Jiashen, there was a white rainbow in the sky. From Zi time to noon, it was ten feet wide and ten thousand feet long, approaching Yimi.
 Yimi is Liqiu, the capital of Qin Feng.
 At this time, the moon is at its end.
@@ -105,16 +116,16 @@ The shape of the meteor is like the Chiyou flag, which is sometimes called Yingt
 These two changes were seen by the county and Yanya scholars.
 So Yanya arrived in Wudang, nominally to send troops, but actually to avoid disaster.
 This year, "Bi Gua" is the year, "Kun" governs the beginning of winter, and "Kan" governs the winter solstice. The water element extinguishes fire. The soldiers in the south will suffer disaster this year.
+Virtue is in the middle palace, punishment is in wood, wood wins over earth, and punishment controls virtue. After the war ends this year, China will have the effect of peace.
+Among the thirty-five surnames of the Wuqi family, Peng, Qin, and Yan are not allowed to participate.
+Why be confused and dependent?
+The poem "Ge Lei" says that seeking happiness and fortune with integrity is like this!
+You understand the divination of prophecies and their ever-changing effects.
+The difference between good and evil, and the decision to go or stay, must be carefully considered. Don’t ignore my advice!
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
-德在中宫，刑在木，木胜土，刑制德，今年兵事毕已，中国安宁之效也。
-五七之家三十五姓，彭、秦、延氏不得豫焉。
-如何怪惑，依而恃之？
-《葛累》之诗， 求福不回 ，其若是乎！
-图谶之占，众变之验，皆君所明。
-善恶之分，去就之决，不可不察。无忽鄙言！
 夫周公之善康叔，以不从管、蔡之乱也；景帝之悦济北，以不从吴濞之畔也。
 自更始以来，孤恩背逆，归义向善，臧否粲然，可不察欤！
 良医不能救无命，强梁不能与天争，故天之所坏，人不得支。
@@ -126,13 +137,9 @@ original:
 龚字孟公，长安人，善论议，扶风马援、班彪并器重之。
 竟终不伐其功，潜乐道术，作《记诲篇》及文章传于世。
 年七十，卒于家。
+杨厚字仲桓，广汉新都人也。
+祖父春卿，善图谶学，为公孙述将。
 translation: 
-Virtue is in the middle palace, punishment is in wood, wood wins over earth, and punishment controls virtue. After the war ends this year, China will have the effect of peace.
-Among the thirty-five surnames of the Wuqi family, Peng, Qin, and Yan are not allowed to participate.
-Why be confused and dependent?
-The poem "Ge Lei" says that seeking happiness and fortune with integrity is like this!
-You understand the divination of prophecies and their ever-changing effects.
-The difference between good and evil, and the decision to go or stay, must be carefully considered. Don’t ignore my advice!
 The reason why Duke Zhou was kind to Uncle Kang was because Uncle Kang did not participate in the rebellion of Uncle Guan and Uncle Cai; Emperor Jing of the Han Dynasty liked Liu Zhi, King of Jibei, because Liu Zhi refused to follow the rebellion of King Wu Liu Bi.
 Since the Reformation, the treatment of those who are ungrateful and rebellious and those who turn to righteousness and do good has been completely different. How can we not examine it?
 A good doctor cannot save a lifeless person, and a strong beam cannot fight against the sky. Therefore, if the sky wants to destroy it, humans cannot support it.
@@ -144,12 +151,12 @@ He also wrote to Deng Zhongkuang to persuade him, but most of his articles were 
 Liu Gong, courtesy name Meng Gong, was from Chang'an. He was good at argumentation. Fufeng, Ma Yuan and Ban Biao both thought highly of him.
 Su Jing did not take credit for his work, but devoted himself to Taoism. He wrote "Records of Teachings" and other articles that have been passed down to the world.
 He died at home when he was seventy years old.
+◆Biography of Yang Hou Yang Hou was named Zhonghuan and was a native of Xindu, Guanghan County.
+Grandfather Yang Chunqing was good at prophecy and was a general under Gongsun Shu.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
-杨厚字仲桓，广汉新都人也。
-祖父春卿，善图谶学，为公孙述将。
 汉兵平蜀，春卿自杀，临命戒子统曰： 吾绨帙中有先祖所传秘记，为汉家用，尔其修之。
 统感父遗言，服阕，辞家从犍为周循学习先法，又就同郡郑伯山受《河洛书》及天文推步之术。
 建初中为彭城令，一州大旱，统推阴阳消伏，县界蒙泽。
@@ -174,8 +181,6 @@ original:
 永建二年，顺帝特征，诏告郡县督促发遣。
 厚不得已，行到长安，以病自上，因陈汉三百五十年之厄，宜蠲汉改宪之道，及消伏灾异，凡五事。
 translation: 
-◆Biography of Yang Hou Yang Hou was named Zhonghuan and was a native of Xindu, Guanghan County.
-Grandfather Yang Chunqing was good at prophecy and was a general under Gongsun Shu.
 When the Han soldiers defeated Shu, Yang Chunqing committed suicide. Before his death, he told his son Yang Tong: "In my collection, there are secret records passed down by my ancestors for the use of the Han family. You should study them carefully."
 Yang Tong was grateful for his father's last words. After three years of mourning, Cijia followed Jianwei Zhouxun to learn the methods of his ancestors. He also learned the "He Luo Shu" and the astronomical push technique from Zheng Boshan, a native of the same county.
 When Jian Chuzhong was appointed as the magistrate of Pengcheng County, a severe drought hit the state. Yang Tong implemented the technique of yin and yang to eliminate depression, and the county boundaries were covered with rain.
@@ -201,7 +206,7 @@ In the second year of Yongjian's reign, Emperor Shun ordered the counties and co
 Yang Hou had no choice but to travel to Chang'an and report that he was ill. Because of the misfortune of the Han Dynasty for three hundred and fifty years, Yang Hou should clarify the principles of improving laws and regulations and eliminate disasters and anomalies, a total of five things.
 
 
-Chunk 5: 
+Chunk 6: 
 original: 
 制书褒述，有诏太医致药，太宫赐羊酒。
 及至，拜议郎，三迁为侍中，特蒙引见，访以时政。
@@ -215,8 +220,6 @@ original:
 又言 阴臣、近戚、妃党当受祸。
 明年，宋阿母与宦者褒信侯李元等遘奸废退；后二年，中常侍张逵等复坐诬罔大将军梁商专恣，悉伏诛。
 每有灾异，厚辄上消救之法，而阉宦专政，言不得信。
-时大将军梁冀威权倾朝，遣弟侍中不疑以车马、珍玩致遗于厚，欲与相见。
-厚不答，固称病救退。
 translation: 
 When writing a book of praise, there was an edict ordering the imperial physician to give medicine to treat illnesses, and the imperial official to reward sheep with wine.
 When he arrived, he paid homage to Yilang and moved to the imperial court for the third time. He was specially introduced and visited to discuss current affairs.
@@ -230,12 +233,12 @@ In the summer of that year, there was a flood in Luoyang, killing more than a th
 He also said that the evil ministers, close relatives, and concubines should be affected by the disaster.
 Next year, Song's mother committed adultery with the eunuch Baoxinhou Li Yuan and others and was deposed; in the next two years, Zhang Kui and others, who were in charge of the imperial court, were executed for false accusations against the dictatorship of General Liang Shang.
 Whenever there was a disaster, Yang Hou would always come up with relief measures, but since the eunuchs were dictatorial, their words could not be trusted.
-At that time, the general Liang Ji was so powerful that he sent his younger brother Liang Busuo to serve Yang Hou with carriages, horses, pearls and playthings, hoping to meet him.
-Yang Hou did not answer and insisted that he was sick and wanted to withdraw.
 
 
-Chunk 6: 
+Chunk 7: 
 original: 
+时大将军梁冀威权倾朝，遣弟侍中不疑以车马、珍玩致遗于厚，欲与相见。
+厚不答，固称病救退。
 帝许之，赐车马钱帛归家。
 修黄、老，教授门生，上名录者三千余人。
 太尉李固数荐言之。
@@ -246,6 +249,8 @@ original:
 乡人谥曰文父。
 门人为立庙，郡文学掾史春秋飨射常祠之。
 translation: 
+At that time, the general Liang Ji was so powerful that he sent his younger brother Liang Busuo to serve Yang Hou with carriages, horses, pearls and playthings, hoping to meet him.
+Yang Hou did not answer and insisted that he was sick and wanted to withdraw.
 The emperor agreed and rewarded him with carriages, horses, money and silk to go home.
 He practiced Huang Lao's art and taught it to his disciples. More than 3,000 people are listed on the list.
 Taiwei Li Gu recommended him several times.

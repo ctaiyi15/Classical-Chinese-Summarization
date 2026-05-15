@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 1, 3, 3, 5, 8, 13]
+Summary uses chunk [0, 1, 3, 4, 8, 9, 21]
 
 Chunk 0: 
 original: 
@@ -14,9 +14,6 @@ original:
 汉乃辞出，止外亭，念所以谲众，未知所出。
 望见道中有一人似儒生者，汉使人召之，为具食，问以所闻。
 生因言刘公所过，为郡县所归；邯郸举尊号者，实非刘氏。
-汉大喜，即诈为光武书，移檄渔阳，使生赍以诣宠，令县以所闻说之，汉复随后入。
-宠甚然之。
-于是遣汉将兵与上谷诸将并军而南，所至击斩王郎将帅。
 translation: 
 Wu Hanzi Ziyan was born in Wan County, Nanyang County.
 His family was poor and he worked as the county pavilion chief.
@@ -30,52 +27,15 @@ Why don't you gather the elites from the two counties and join Liu Gong to attac
 Wu Han then resigned and stayed in the outer pavilion, trying to blackmail everyone, but he still couldn't figure out a way.
 Seeing a man who looked like a Confucian scholar on the road, Wu Han sent people to summon him, provided him with food, and asked him what he had heard.
 Therefore, Confucian scholars said that wherever Liu Gong went, all counties and counties were devoted to him; the man in Handan who arrogantly claimed the title was indeed not a member of the Liu family.
-Wu Han was overjoyed, so he pretended to be a letter written by Guangwu himself, and sent it to Yuyang. He sent a Confucian scholar to Peng Chong and asked him to convince Peng Chong of what he had heard. Wu Han also followed him to Yuyang.
-Peng Chong was very satisfied.
-So Wu Han was sent to lead his troops and the generals from Shanggu to the south, killing General Wang Lang wherever they went.
 
 summary:
-summary line 0: # Summary of Wu Han and Associated Generals
-
-Chunk 0: 
-original: 
-吴汉字子颜，南阳宛人也。
-家贫，给事县为亭长。
-王莽末，以宾客犯法，乃亡命至渔阳，资用乏，以贩马自业，往来燕、蓟间，所至皆交结豪杰。
-更始立，使使者韩鸿徇河北。
-或谓鸿曰： 吴子颜，奇士也，可与计事。 鸿召见汉，其悦之，遂承制拜为安乐令。
-会王郎起，北州扰惑。
-汉素闻光武长者，独欲归心。
-乃说太守彭宠曰： 渔阳、上谷突骑，天下所闻也。
-君何不合二郡精锐，附刘公击邯郸，此一时之功也。 宠以为然，而官属皆欲附王郎，宠不能夺。
-汉乃辞出，止外亭，念所以谲众，未知所出。
-望见道中有一人似儒生者，汉使人召之，为具食，问以所闻。
-生因言刘公所过，为郡县所归；邯郸举尊号者，实非刘氏。
-汉大喜，即诈为光武书，移檄渔阳，使生赍以诣宠，令县以所闻说之，汉复随后入。
-宠甚然之。
-于是遣汉将兵与上谷诸将并军而南，所至击斩王郎将帅。
-translation: 
-Wu Hanzi Ziyan was born in Wan County, Nanyang County.
-His family was poor and he worked as the county pavilion chief.
-In Wang Mang's last years, because his guests broke the law, he took off his name and fled to Yuyang. Due to lack of funds, he made a living by selling horses. He traveled between Yan and Ji, and made friends with heroes wherever he went.
-Gengshi ascended the throne and sent envoy Han Hong to Hebei to recruit surrender.
-Someone said to Han Hong, "Wu Ziyan is a wonderful man. You can discuss matters with him." Han Hong summoned Wu Han and was very happy. He appointed him as the magistrate of Anle County according to the emperor's order.
-Coinciding with the rise of Wang Lang, Beizhou was disturbed and confused.
-Wu Han had always heard that Guangwu was an elder, and he wanted to return to Guangwu.
-He told the prefect Peng Chong: The cavalry in Yuyang and Shanggu that attack the enemy are famous all over the world.
-Why don't you gather the elites from the two counties and join Liu Gong to attack Handan? This is a rare achievement. Peng Chong thought it was right, but the officials below all wanted to join Wang Lang, and Peng Chong could not take away his ambition.
-Wu Han then resigned and stayed in the outer pavilion, trying to blackmail everyone, but he still couldn't figure out a way.
-Seeing a man who looked like a Confucian scholar on the road, Wu Han sent people to summon him, provided him with food, and asked him what he had heard.
-Therefore, Confucian scholars said that wherever Liu Gong went, all counties and counties were devoted to him; the man in Handan who arrogantly claimed the title was indeed not a member of the Liu family.
-Wu Han was overjoyed, so he pretended to be a letter written by Guangwu himself, and sent it to Yuyang. He sent a Confucian scholar to Peng Chong and asked him to convince Peng Chong of what he had heard. Wu Han also followed him to Yuyang.
-Peng Chong was very satisfied.
-So Wu Han was sent to lead his troops and the generals from Shanggu to the south, killing General Wang Lang wherever they went.
-
-summary:
-summary line 1: Wu Han, courtesy name Ziyan, was born into poverty in Wan County, Nanyang County, and served as a county pavilion chief. During Wang Mang's final years, he fled to Yuyang after his guests broke the law, supporting himself by selling horses and befriending heroes throughout Yan and Ji regions. When Gengshi ascended the throne, envoy Han Hong appointed Wu Han as magistrate of Anle County. During Wang Lang's uprising, Wu Han sought to join Guangwu, attempting to persuade Prefect Peng Chong to ally with Guangwu against Handan. When officials favored Wang Lang, Wu Han fabricated a letter from Guangwu and sent a Confucian scholar to convince Peng Chong, who ultimately agreed. Wu Han led troops south, killing Wang Lang's generals, and after pursuing Guangwu to Guang'a, was appointed partial general. Following the conquest of Handan, he was made Marquis Jiance.
+summary line 0: Wu Han, courtesy name Ziyan, was born into poverty in Wan County, Nanyang County, and served as a county pavilion chief. During Wang Mang's final years, he fled to Yuyang after his guests broke the law, supporting himself by selling horses and befriending heroes throughout Yan and Ji regions. When Gengshi ascended the throne, envoy Han Hong appointed Wu Han as magistrate of Anle County. During Wang Lang's uprising, Wu Han sought to join Guangwu, attempting to persuade Prefect Peng Chong to ally with Guangwu against Handan. When officials favored Wang Lang, Wu Han fabricated a letter from Guangwu and sent a Confucian scholar to convince Peng Chong, who ultimately agreed. Wu Han led troops south, killing Wang Lang's generals, and after pursuing Guangwu to Guang'a, was appointed partial general. Following the conquest of Handan, he was made Marquis Jiance.
 
 Chunk 1: 
 original: 
+汉大喜，即诈为光武书，移檄渔阳，使生赍以诣宠，令县以所闻说之，汉复随后入。
+宠甚然之。
+于是遣汉将兵与上谷诸将并军而南，所至击斩王郎将帅。
 及光武于广阿，拜汉为偏将军。
 既拔邯郸，赐号建策侯。
 汉为人质厚少文，造次不能以辞自达。
@@ -90,9 +50,10 @@ original:
 诸将望见汉还，士马甚盛，皆曰： 是宁肯分兵与人邪？ 及汉至莫府，上兵簿，诸将人人多请之。
 光武曰： 属者恐不与人，今所请又何多也？ 诸将皆惭。
 初，更始遣尚书令谢躬率六将军攻王郎，不能下。
-会光武至，共定邯郸，而躬裨将虏掠不相承禀，光武深忌之。
-虽俱在邯郸，遂分城而处，然每有以慰安之。
 translation: 
+Wu Han was overjoyed, so he pretended to be a letter written by Guangwu himself, and sent it to Yuyang. He sent a Confucian scholar to Peng Chong and asked him to convince Peng Chong of what he had heard. Wu Han also followed him to Yuyang.
+Peng Chong was very satisfied.
+So Wu Han was sent to lead his troops and the generals from Shanggu to the south, killing General Wang Lang wherever they went.
 After chasing Guangwu in Guang'a, he worshiped Wu Han as a partial general.
 After conquering Handan, he was given the title of Marquis Jiance.
 Wu Han was a man of loyal nature but lacked literary talent and could not express his thoughts in words in a hurry.
@@ -107,14 +68,15 @@ So he mobilized all his troops and led them southward to join forces with Guangw
 When the generals saw Wu Han coming back and his troops were very strong, they all said: "Is he willing to divide his troops with others?" When Wu Han arrived at the place where the general was conducting business, he presented the name list of the sergeants, and the generals invited everyone to accept their troops.
 Guangwu said: "I'm afraid he was unwilling to accept requests from others before. Why are there so many requests now?" All the generals felt ashamed.
 At first, Gengshi sent Shangshu Ling Xie Gong and six generals to attack Wanglang, but they could not capture it.
-Just as Guangwu arrived, they jointly pacified Handan, but Xie Gongbi looted and looted without asking for instructions to report, which Guangwu hated deeply.
-Although they are both in Handan, they live in separate cities, but they often comfort him.
 
 summary:
-summary line 2: Wu Han was loyal but lacked literary talent. Deng Yu recommended him, and Guangwu trusted him deeply. When Guangwu needed a general for Youzhou, Deng Yu praised Wu Han's bravery and resourcefulness. Wu Han was appointed general and sent north with a talisman to mobilize troops from ten counties. When Gengshi's Youzhou governor Miao Zeng refused to comply, Wu Han captured and killed him, seizing his troops. All cities in Beizhou submitted. Wu Han then led his forces south to join Guangwu at Qingyang, presenting the roster of his troops to Guangwu, which shamed other generals who had doubted his willingness to share command.
+summary line 1: Wu Han was loyal but lacked literary talent. Deng Yu recommended him, and Guangwu trusted him deeply. When Guangwu needed a general for Youzhou, Deng Yu praised Wu Han's bravery and resourcefulness. Wu Han was appointed general and sent north with a talisman to mobilize troops from ten counties. When Gengshi's Youzhou governor Miao Zeng refused to comply, Wu Han captured and killed him, seizing his troops. All cities in Beizhou submitted. Wu Han then led his forces south to join Guangwu at Qingyang, presenting the roster of his troops to Guangwu, which shamed other generals who had doubted his willingness to share command.
 
 Chunk 3: 
 original: 
+谢躬内背萧王，外失众心，公所知也。
+公今据孤危之城，待灭亡之祸，义无所立，节无所成。不若开门内军，转祸为祸，免下愚之败，收中智之功，此计之至者也。 康然之。
+于是康收刘庆及躬妻子，开门内汉等。
 及躬从隆虑归邺，不知康已反之，乃与数百骑轻入城。
 汉伏兵收之，手击杀躬，其众悉降。
 躬字子张，南阳人。
@@ -122,6 +84,23 @@ original:
 光武北击群贼，汉常将突骑五千为军锋，数先登陷陈。
 及河北平，汉与诸将奉图书，上尊号。
 光武即位，拜为大司马，更封舞阳侯。
+translation: 
+It is known to everyone that Xie Gong betrayed King Xiao internally and lost the hearts of the people externally.
+The Duke is now guarding the isolated city, waiting for the disaster of destruction. There is no loyalty and integrity, and no integrity. It is better to open the door to welcome the Han soldiers, turn disaster into blessing, avoid the defeat of foolishness, and gain the merit of wisdom. This is the best plan!
+Chen Kang thought so. So Chen Kang took Liu Qing and Xie Gong's wife and opened the door to welcome the Han soldiers into the city.
+When Xie Gong returned to Ye from Longlu, he didn't know that Chen Kang had rebelled, so he entered the city lightly with hundreds of cavalry.
+Han ambushes captured him and killed Xie Gong with his hands. All his troops surrendered.
+Xie Gong, courtesy name Zizhang, was from Nanyang County.
+At first, his wife knew that Guangwu could not live in harmony with him, so she often warned Xie Gong and said: You and Liu Gong are not harmonious together, but you believe his lies and make no preparations, and you will eventually be controlled by him. Xie Gong refused to accept it, so he suffered.
+When Guangwu attacked groups of thieves in the north, Wu Han often led five thousand assault cavalry as the vanguard and attacked the bandits several times.
+When Hebei was pacified, Wu Han and his generals held maps and books and paid tribute to the emperor.
+Guangwu ascended the throne, worshiped Wu Han as Grand Sima, and was granted the title of Marquis of Wuyang.
+
+summary:
+summary line 2: When Xie Gong, a Gengshi official, occupied Handan with his troops, Guangwu outwardly praised him while secretly planning against him. After Xie Gong was defeated by bandits at Qingdu, Guangwu sent Wu Han and Cen Peng to attack Ye. Wu Han sent debaters to persuade Chen Kang, the Wei county governor, to surrender, which he did, opening the gates to Han forces. When Xie Gong returned, he was captured and killed. Guangwu later attacked bandits in the north with Wu Han leading five thousand assault cavalry as vanguard. After Hebei was pacified, Guangwu ascended the throne and appointed Wu Han Grand Sima, granting him the title Marquis of Wuyang.
+
+Chunk 4: 
+original: 
 建武二年春，汉率大司空王梁，建义大将军朱祐，大将军杜茂，执金吾贾复，扬化将军坚镡，偏将军王霸，骑都尉刘隆、马武、阴识，共击檀乡贼于邺东漳水上，大破之。降者十余万人。
 帝使使者玺书定封汉为广平侯，食广平、斥漳、曲周、广年，凡四县。
 复率诸将击邺西山贼黎伯卿等，及河内脩武，悉破诸屯聚。
@@ -142,14 +121,8 @@ original:
 汉留杜茂、陈俊等守广乐，自将兵助盖延围刘永于睢阳。
 永既死，二城皆降。
 明年，又率陈俊及前将军王梁，击破五校贼于临平，追至东郡箕山，大破之。
+北击清河长直及平原五里贼，皆平之。
 translation: 
-When Xie Gong returned to Ye from Longlu, he didn't know that Chen Kang had rebelled, so he entered the city lightly with hundreds of cavalry.
-Han ambushes captured him and killed Xie Gong with his hands. All his troops surrendered.
-Xie Gong, courtesy name Zizhang, was from Nanyang County.
-At first, his wife knew that Guangwu could not live in harmony with him, so she often warned Xie Gong and said: You and Liu Gong are not harmonious together, but you believe his lies and make no preparations, and you will eventually be controlled by him. Xie Gong refused to accept it, so he suffered.
-When Guangwu attacked groups of thieves in the north, Wu Han often led five thousand assault cavalry as the vanguard and attacked the bandits several times.
-When Hebei was pacified, Wu Han and his generals held maps and books and paid tribute to the emperor.
-Guangwu ascended the throne, worshiped Wu Han as Grand Sima, and was granted the title of Marquis of Wuyang.
 In the spring of the second year of Jianwu, Wu Han led the general Wang Liang, the general Zhu You of Jianyi, the general Du Mao, the Jin Wu Jiafu, the Yanghua general Jian Tan, the partial general Wang Ba, the cavalry captain Liu Long, Ma Wu, and Yinshi. They attacked the Tanxiang bandits on the Zhang River in the east of Ye. They defeated the bandits and more than 100,000 people surrendered.
 The emperor sent envoys to seal Wu Han as the Marquis of Guangping, with four counties in total: Guangping, Kuizhang, Quzhou and Guangnian.
 Wu Han again led his generals to attack the bandits Li Boxing and others in the western mountains of Ye, and pursued them to Hanoi Wu, where they defeated all the bandits' gatherings.
@@ -170,107 +143,55 @@ Wu Han pursued them with a long drive, fought for the gate and entered with all 
 Wu Han left Du Mao, Chen Jun and others to guard Guangle, and led his own troops to help Gai Yan encircle Liu Yong in Suiyang.
 After Liu Yong's death, both cities surrendered.
 In the third year, he led Chen Jun and former general Wang Liang to defeat the bandits from the five schools in Linping, chased them to Jishan in Dongjun, and defeated the bandit army.
+Then he attacked the Qinghe River and five miles north of the plain and defeated the bandits.
 
 summary:
-summary line 3: When Xie Gong, a Gengshi official, occupied Handan with his troops, Guangwu outwardly praised him while secretly planning against him. After Xie Gong was defeated by bandits at Qingdu, Guangwu sent Wu Han and Cen Peng to attack Ye. Wu Han sent debaters to persuade Chen Kang, the Wei county governor, to surrender, which he did, opening the gates to Han forces. When Xie Gong returned, he was captured and killed. Guangwu later attacked bandits in the north with Wu Han leading five thousand assault cavalry as vanguard. After Hebei was pacified, Guangwu ascended the throne and appointed Wu Han Grand Sima, granting him the title Marquis of Wuyang.
-
-Chunk 3: 
-original: 
-及躬从隆虑归邺，不知康已反之，乃与数百骑轻入城。
-汉伏兵收之，手击杀躬，其众悉降。
-躬字子张，南阳人。
-初，其妻知光武不平之，常戒躬曰： 君与刘公积不相能，而信其虚谈，不为人备，终受制矣。 躬不纳，故及于难。
-光武北击群贼，汉常将突骑五千为军锋，数先登陷陈。
-及河北平，汉与诸将奉图书，上尊号。
-光武即位，拜为大司马，更封舞阳侯。
-建武二年春，汉率大司空王梁，建义大将军朱祐，大将军杜茂，执金吾贾复，扬化将军坚镡，偏将军王霸，骑都尉刘隆、马武、阴识，共击檀乡贼于邺东漳水上，大破之。降者十余万人。
-帝使使者玺书定封汉为广平侯，食广平、斥漳、曲周、广年，凡四县。
-复率诸将击邺西山贼黎伯卿等，及河内脩武，悉破诸屯聚。
-车驾亲幸抚劳。
-复遣汉进兵南阳，击宛、涅阳、郦、穰、新野诸城、皆下之。
-引兵南，与秦丰战黄邮水上，破之。
-又与偏将军冯异击昌城五楼贼张文等，又攻铜马、五幡于新安，皆破之。
-明年春，率建威大将军耿弇、虎牙大将军盖延，击青犊于轵西，大破降之。
-又率骠骑大将军杜茂、强弩将军陈俊等，围苏茂于广乐。
-刘永将周建别招聚收集得十余万人，救广乐。
-汉将轻骑迎与之战，不利，堕马伤膝，还营，建等遂连兵入城。
-诸将谓汉曰： 大敌在前而公伤卧，众心惧矣。 汉乃勃然裹创而起，椎牛飨士，令军中曰： 贼众虽多，皆劫掠群盗， 胜不相让，败不相救 ，非有仗节死义者也。
-今日封侯之秋，诸君勉之！ 于是军士激怒，人倍其气。
-旦日，建、茂出兵围汉。
-汉选四部精兵黄头吴河等，及乌桓突骑三千余人，齐鼓而进。
-建军大溃，反还奔城。
-汉长驱追击，争门并入，大破之，茂、建突走。
-汉留杜茂、陈俊等守广乐，自将兵助盖延围刘永于睢阳。
-永既死，二城皆降。
-明年，又率陈俊及前将军王梁，击破五校贼于临平，追至东郡箕山，大破之。
-translation: 
-When Xie Gong returned to Ye from Longlu, he didn't know that Chen Kang had rebelled, so he entered the city lightly with hundreds of cavalry.
-Han ambushes captured him and killed Xie Gong with his hands. All his troops surrendered.
-Xie Gong, courtesy name Zizhang, was from Nanyang County.
-At first, his wife knew that Guangwu could not live in harmony with him, so she often warned Xie Gong and said: You and Liu Gong are not harmonious together, but you believe his lies and make no preparations, and you will eventually be controlled by him. Xie Gong refused to accept it, so he suffered.
-When Guangwu attacked groups of thieves in the north, Wu Han often led five thousand assault cavalry as the vanguard and attacked the bandits several times.
-When Hebei was pacified, Wu Han and his generals held maps and books and paid tribute to the emperor.
-Guangwu ascended the throne, worshiped Wu Han as Grand Sima, and was granted the title of Marquis of Wuyang.
-In the spring of the second year of Jianwu, Wu Han led the general Wang Liang, the general Zhu You of Jianyi, the general Du Mao, the Jin Wu Jiafu, the Yanghua general Jian Tan, the partial general Wang Ba, the cavalry captain Liu Long, Ma Wu, and Yinshi. They attacked the Tanxiang bandits on the Zhang River in the east of Ye. They defeated the bandits and more than 100,000 people surrendered.
-The emperor sent envoys to seal Wu Han as the Marquis of Guangping, with four counties in total: Guangping, Kuizhang, Quzhou and Guangnian.
-Wu Han again led his generals to attack the bandits Li Boxing and others in the western mountains of Ye, and pursued them to Hanoi Wu, where they defeated all the bandits' gatherings.
-Guangwu personally came to express his condolences.
-Wu Han was sent back to march into Nanyang County, attack Wan, Nie, Yang, Li, Rang and Xinye cities, and captured them all.
-He led his troops to the south, fought with Qin Feng on the Huangyou River, and defeated Qin Feng.
-He and the partial general Feng Yi attacked Zhang Wen and others on the fifth floor of Changcheng. They also attacked Bronze Horse and Five Flags in Xin'an, and defeated them all.
-In the spring of the next year, Wu Han led Jianwei General Geng Yan and Huya General Gai Yan to attack Qingdu in the west of Zhejiang, defeating him and forcing him to surrender.
-He also led the hussar general Du Mao, the strong crossbow general Chen Jun and others to surround Su Mao in Guangle.
-Liu Yong recruited Zhou Jian and gathered more than 100,000 people to rescue Guangle.
-Wu Han sent Qingqi to fight with him, but was unfavorable. He fell from his horse and injured his knee. When he returned to camp, Zhou Jian led his troops into the city.
-The generals said to Wu Han: The enemy is in front, but the Duke is lying down due to his wounds, and everyone is afraid. Wu Hannai became angry, changed his color, wrapped up his knee wound, and rose up, killing cattle and feasting on the soldiers. He ordered the army to say: Although there are many thieves, they are just a group of robbers. When they win, they will not give in, and when they lose, they will not save each other. They are not loyal and willing to die for righteousness.
-Today is a good opportunity to make meritorious deeds and become a lord, please give me more encouragement. The sergeant was enraged and his morale doubled.
-Early in the morning, Zhou Jian and Su Mao sent troops to surround Wu Han.
-Wu Han selected four elite soldiers, including Huangtou Wu He and others, as well as more than 3,000 Wuhuan cavalry, and advanced together with great noise.
-Zhou Jianjun was defeated and ran back to the city.
-Wu Han pursued them with a long drive, fought for the gate and entered with all their strength, and greatly defeated Jian and Mao's army. Su Mao and Zhou Jian broke through and left.
-Wu Han left Du Mao, Chen Jun and others to guard Guangle, and led his own troops to help Gai Yan encircle Liu Yong in Suiyang.
-After Liu Yong's death, both cities surrendered.
-In the third year, he led Chen Jun and former general Wang Liang to defeat the bandits from the five schools in Linping, chased them to Jishan in Dongjun, and defeated the bandit army.
-
-summary:
-summary line 4: In subsequent campaigns, Wu Han defeated the Tanxiang bandits, earning the title Marquis of Guangping. He conquered multiple cities in Nanyang County and defeated Qin Feng. He fought alongside Geng Yan and Gai Yan against Qingdu, forcing his surrender. During the siege of Guangle, Wu Han was wounded but rallied his troops, defeating Zhou Jian and Su Mao's forces. He later helped besiege Liu Yong in Suiyang, and after Liu Yong's death, both cities surrendered. Wu Han continued defeating bandits across multiple regions, including Linping, Dongjun, Qinghe, and Pingyuan. He pacified Li County by diplomatic means, convincing the five surnames to surrender without battle.
-
-Chunk 5: 
-original: 
-帝敕汉曰： 诸郡甲卒但坐费粮食，若有逃亡，则沮败众心，宜悉罢之。 汉等贪并力攻嚣，遂不能遣，粮食日少，吏士疲役，逃亡者多，及公孙述救至，汉遂退败。
-十一年春，率征南大将军岑彭等伐公孙述。
-及彭破荆门，长驱入江关，汉留夷陵，装露桡船，将南阳兵及弛刑募士三万人溯江而上。
-会岑彭为刺客所杀，汉并将其军。
-十二年春，与公孙述将魏党、公孙永战于鱼涪津，大破之，遂围武阳。
-述遣子婿史兴将五千人救之。
-汉迎击兴，尽殄其众，因入犍为界。
-诸县皆城守。
-汉乃进军攻广都，拔之。
-遣轻骑烧成都市桥，武阳以东诸小城皆降。
-帝戒汉曰： 成都十余万众，不可轻也。
-但坚据广都，待其来攻，勿与争锋。
-若不敢来，公转营迫之，须其力废，乃可击也。 汉乘利，遂自将步骑二万余人进逼成都，去城十余里，阻江北为营，作浮桥，使副将武威将军刘尚将万余人屯于江南，相去二十余里。
-帝闻大惊，让汉曰： 比敕公千条万端，何意临事勃乱！
-translation: 
-The emperor ordered Wu Han: "The soldiers in each county are wasting food. If they flee, they will be depressed and demoralized, so they should all be dismissed." Wu Han and others were greedy to use these people to attack Wei Xiao together, so they refused to send them away. As a result, the food supply was gradually reduced, the officials and soldiers were tired of hard work, and more people fled. When Gongsun Shu's troops arrived to rescue Wei Xiao, Wu Han was defeated.
-In the spring of the 11th year of Jianwu's reign, he led the southern general Cen Peng and others to attack Gongsun Shu.
-When Cen Peng broke through Jingmen and drove into Jiangguan, Wu Han stayed in Yiling, built short ships, and carried 30,000 Nanyang soldiers and recruited prisoners who had been released from shackles up the river.
-When Cen Peng was killed by an assassin, Wu Han also led his army.
-In the spring of the twelfth year of Jianwu's reign, he fought with Gongsun Shu's generals Wei Dang and Gongsun Yong in Yufujin and defeated his army, so he besieged Wuyang.
-Gongsun Shu sent his son-in-law Shi Xing to lead five thousand people to rescue him.
-Wu Han attacked Shi Xing and wiped out all his troops, thus entering the territory of Qianwei.
-All counties guarded the city.
-Wu Han then marched to Guangdu and captured it.
-Qingqi was sent to burn the Chengdu city bridge, and all the small towns east of Wuyang surrendered.
-Guangwu warned Wu Han: Chengdu has more than 100,000 troops and should not be underestimated.
-Just hold Guangdu firmly and don't fight with them when they come to attack.
-If they dare not attack, the public camp forces them to fight, and they must wait until they are exhausted before they can attack. Taking advantage of the victory, Wu Han advanced to Chengdu with more than 20,000 troops on foot and cavalry. He was more than ten miles away from the city. He established a camp at the dangerous point in the north of the Yangtze River and built a pontoon bridge. He sent his deputy general Wuwei General Liu Shang to lead more than 10,000 men to garrison in the south of the Yangtze River. The two camps were more than 20 miles apart.
-The emperor was shocked when he heard the news and blamed Wu Han: "I have always given many orders to you, why did things go wrong again?"
-
-summary:
-summary line 5: When Wei Xiao rebelled, Wu Han garrisoned Chang'an. In the eighth year of Jianwu, he disobeyed Guangwu's order to dismiss troops, leading to defeat when Gongsun Shu's forces arrived. In the eleventh year, Wu Han led forces against Gongsun Shu. After Cen Peng's assassination, Wu Han took command. Despite Guangwu's warnings, Wu Han advanced recklessly toward Chengdu, establishing two camps separated by twenty miles. When Gongsun Shu's forces attacked, Wu Han was defeated and surrounded. He secretly joined forces with Liu Shang in Jiangnan, defeated the Shu army, killing Xie Feng and Yuan Ji. After eight consecutive victories, Wu Han's forces killed Gongsun Shu in battle, and Chengdu surrendered.
+summary line 3: In subsequent campaigns, Wu Han defeated the Tanxiang bandits, earning the title Marquis of Guangping. He conquered multiple cities in Nanyang County and defeated Qin Feng. He fought alongside Geng Yan and Gai Yan against Qingdu, forcing his surrender. During the siege of Guangle, Wu Han was wounded but rallied his troops, defeating Zhou Jian and Su Mao's forces. He later helped besiege Liu Yong in Suiyang, and after Liu Yong's death, both cities surrendered. Wu Han continued defeating bandits across multiple regions, including Linping, Dongjun, Qinghe, and Pingyuan. He pacified Li County by diplomatic means, convincing the five surnames to surrender without battle.
 
 Chunk 8: 
+original: 
+汉悉兵迎战，自旦至晡，遂大破之，斩谢丰、袁吉，获甲首五千余级。
+于是引还广都，留刘尚拒述，具以状上，而深自谴责。
+帝报曰： 公还广都，甚得其宜，述必不敢略尚而击公也。
+若先攻尚，公从广都五十里悉步骑赴之，适当值其危困，破之必矣。 自是汉与述战于广都、成都之间，八战八克，遂军于其郭中。
+述自将数万人出城大战，汉使护军高午、唐邯将数万锐卒击之。
+述兵败走，高午奔陈刺述，杀之。
+事已见《述传》。旦日城降，斩述首传送洛阳。
+明年正月，汉振旅浮江而下。
+至宛，诏令过家上冢，赐谷二万斛。
+十五年，复率扬武将军马成、捕虏将军马武北击匈奴，徙雁门、代郡、上谷吏人六万余口，置居庸、常山关以东。
+十八年，蜀郡守将史歆反于成都，自称大司马，攻太守张穆，穆逾城走广都，歆遂移檄郡县，而宕渠杨伟、朐〈月忍〉徐容等，起兵各数千人以应之。
+帝以歆昔为岑彭护军，晓习兵事，故遣汉率刘尚及太中大夫臧宫将万余人讨之。
+汉入武都，乃发广汉、巴、蜀三郡兵围成都，百余日城破，诛歆等。
+汉乃乘桴沿江下巴郡，杨伟、徐容等惶恐解散，汉诛其渠帅二百余人，徙其党与数百家于南郡、长沙而还。
+汉性强力，每从征伐，帝未安，恒侧足而言。
+诸将见战陈不利，或多惶惧，失其常度。
+汉意气自若，方整厉器械，激扬士吏。
+帝时遣人观大司马何为，还言方修战攻之具，乃叹曰： 吴公差强人意，隐若一敌国矣！ 每当出师，朝受诏，夕即引道，初无办严之日。
+translation: 
+Wu Han led the entire army to fight. From morning to afternoon, he defeated the Shu soldiers, killed Xie Feng and Yuan Ji, and won more than 5,000 soldiers' heads.
+So he was led back to Guangdu, leaving Liu Shang to reject Gongsun Shu, write a letter to report to Guangwu, and deeply condemn himself.
+Guangwu replied: It is very appropriate for you to return to Guangdu. Gongsun Shu will not dare to ignore Liu Shang and attack you.
+If he attacks Liu Shang first, and you lead all the infantry and cavalry fifty miles from Guangdu to the enemy, and you happen to encounter his danger, you will definitely defeat the Shu army. From then on, Wu Han and Gongsun Shu fought between Guangdu and Chengdu, winning eight out of eight battles, and then marched to the outer city.
+Gongsun Shu himself led tens of thousands of troops out of the city to fight. Wu Han sent guards Gao Wu and Tang Han to lead tens of thousands of elite soldiers to attack.
+Gongsun Shu was defeated and fled. Gao Wu quickly rushed to the enemy camp to assassinate Gongsun Shu and killed him.
+The next morning, Chengdu opened its doors and surrendered. Gongsun Shu was beheaded and sent to Luoyang.
+In the first month of the second year, Wu Han reorganized his army and floated down the river.
+When they arrived in Wancheng, they ordered Wu Han to stay at home and go to the tomb to worship his ancestors, and he was given 20,000 dendrobium grains.
+In the fifteenth year of Jianwu's reign, he led General Ma Cheng and Capture General Ma Wu to attack the Xiongnu in the north. More than 60,000 officials and people from Yanmen, Daijun, and Shanggu were relocated to the east of Juyongguan and Changshanguan.
+In the eighteenth year of Jianwu's reign, Shi Xin, the governor of Shu County, rebelled in Chengdu. He claimed to be Grand Sima and attacked the prefect Zhang Mu. Zhang Mu fled over the city wall and fled to Guangdu. Shi Xin moved his petition to the county. Danqu Yang Wei, Qu Yue Ren Xu Rong and others each raised thousands of troops to respond to Shi Xin.
+Because Shi Xin used to be Cen Peng's guard and knew and practiced military affairs, the emperor sent Wu Han to lead Liu Shang and Taizhong doctor Zang Gong to lead more than 10,000 people to crusade.
+When Wu Han entered Wudu, he sent troops from Guanghan, Ba, and Shu counties to surround Chengdu. After more than a hundred days, the city was breached and Shi Xin and others were killed.
+Wu Han took a raft along the river to Bajun. Yang Wei, Xu Rong and others dispersed in fear. Wu Han killed more than 200 of his generals and moved his party and hundreds of families to Nanjun and Changsha.
+Wu Han's character was very strong and strong, so every time he went on an expedition, the emperor was very uneasy and worried.
+Usually when the generals see the disadvantages of the battle, some of them become frightened and lose their composure.
+But Wu Han was in good spirits, arranging equipment and motivating the officials.
+The emperor often sent people to see what Da Sima was doing, and they reported that he was repairing war equipment. The emperor sighed: "The Duke of Wu is more satisfying, and his power is as powerful as an enemy country." Whenever I set off, I would receive orders in the morning and be on the road before sunset, without even having time to pack my gear.
+
+summary:
+summary line 4: When Wei Xiao rebelled, Wu Han garrisoned Chang'an. In the eighth year of Jianwu, he disobeyed Guangwu's order to dismiss troops, leading to defeat when Gongsun Shu's forces arrived. In the eleventh year, Wu Han led forces against Gongsun Shu. After Cen Peng's assassination, Wu Han took command. Despite Guangwu's warnings, Wu Han advanced recklessly toward Chengdu, establishing two camps separated by twenty miles. When Gongsun Shu's forces attacked, Wu Han was defeated and surrounded. He secretly joined forces with Liu Shang in Jiangnan, defeated the Shu army, killing Xie Feng and Yuan Ji. After eight consecutive victories, Wu Han's forces killed Gongsun Shu in battle, and Chengdu surrendered.
+
+Chunk 9: 
 original: 
 故能常任职，以功名终。
 及在朝廷，斤斤谨质，形于体貌。
@@ -307,46 +228,38 @@ The emperor thought that Wu Han had made great contributions and made Wu Xi, Wu 
 Wu's family has five nobles.
 
 summary:
-summary line 6: Wu Han was known for his strong character and composure during crises. He distributed his wealth to relatives rather than acquiring land. On his deathbed in the twentieth year of Jianwu, he advised Guangwu not to pardon criminals easily. He was given the posthumous title Zhonghou.
+summary line 5: Wu Han was known for his strong character and composure during crises. He distributed his wealth to relatives rather than acquiring land. On his deathbed in the twentieth year of Jianwu, he advised Guangwu not to pardon criminals easily. He was given the posthumous title Zhonghou.
 
-Chunk 13: 
+Chunk 21: 
 original: 
-建武二年春，攻匡贼，下四县，更封新处侯。
-引击顿丘，降三城。
-其秋，大司马吴汉承制拜俊为强弩大将军，别击金门、白马贼于河内，皆破之。
-四年，转徇汝阳及项，又拔南武阳。
-是时，太山豪杰多拥众与张步连兵，吴汉言于帝曰： 非陈俊莫能定此郡。 于是拜俊太山太守，行大将军事。
-张步闻之，遣其将击俊，战于嬴下，俊大破之，追至济南，收得印绶九十余，稍攻下诸县，遂定太山。
-五年，与建威大将军耿弇共破张步。
-事在《弇传》。
-时，琅邪未平，乃徙俊为琅邪太守，领将军如故。
-齐地素闻俊名，入界，盗贼皆解散。
-俊将兵击董宪于赣榆，进破朐贼孙阳，平之。
-八年，张步畔，还琅邪，俊追讨，斩之。
-帝美其功，诏俊得专征青、徐。
-俊抚贫弱，表有义，检制军吏，不得与郡县相干，百姓歌之。
-数上书自请，愿奋击陇、蜀。
-诏报曰： 东州新平，大将军之功也。
-负海猾夏，盗贼之处，国家以为重忧，且勉镇抚之。
+孔子曰： 吾恐季孙之忧，不在颛臾。
+且北狄尚强，而屯田警备传闻之事，恒多失实。
+诚能举天下之半以灭大寇，岂非至愿；苟非其时，不如息人。 自是诸将莫敢复言兵事者。
+宫永平元年卒，谥曰愍侯。
+子信嗣。信卒，子震嗣。
+震卒，子松嗣。
+元初四年，与母别居，国除。
+永宁元年，邓太后绍封松弟由为郎陵侯。
+论曰：中兴之业，诚艰难也。
+然敌无秦、项之强，人资附汉之思，虽怀玺纡绂，跨陵州县，殊名诡号，千队为群，尚未足以为比功上烈也。
+至于山西既定，威临天下，戎竭丧其精胆，群帅贾其余壮，斯诚雄心尚武之几，先志玩兵之日。
+臧宫、马武之徒，抚鸣剑而抵掌，志驰于伊吾之北矣。
+光武审《黄石》，存包桑，闭玉门以谢西域之质，卑词币以礼匈奴之使，其意防盖已弘深。岂其颠沛平城之围，忍伤黥王之陈乎？
 translation: 
-This is the general's strategy. Guangwu ascended the throne and made Chen Jun a marquis. In the spring of the second year of Jianwu, he attacked the Kuang bandits, captured four counties, and granted the new title of Marquis.
-They led an attack on Dunqiu and the three cities surrendered.
-In the autumn of that year, the Grand Sima Wu Han Cheng ordered Chen Jun to be appointed as the General of Strong Crossbows. He also attacked Kinmen and the White Horse Bandits in Hanoi, and defeated them both.
-In the fourth year of Jianwu's reign, he turned to attack Ruyang and Xiang, and then attacked Nanwuyang.
-At this time, most of Taishan's heroes had troops and Zhang Bu's company. Wu Han said to Guangwu: No one but Chen Jun can pacify this county. So he worshiped Chen Jun as the prefect of Taishan and acted as the military general.
-Zhang Bu heard about it and sent his generals to attack Chen Jun. They fought against Yingxia. Chen Jun defeated his army and chased him to Jinan. He collected more than 90 seals and ribbons, and then conquered various counties and pacified Mount Taishan.
-In the fifth year of Jianwu, he and Jianwei General Geng Yan defeated Zhang Bu.
-The incident is recorded in "The Biography of Geng Yan".
-At this time, Langfu was not pacified, so Chen Jun was moved to be the prefect of Langfu, and his military leadership remained the same as in the past.
-Qi Di has always heard of Chen Jun's reputation. As soon as Chen Jun arrived, the thieves dispersed.
-Chen Jun led his army to attack Dong Xian in Ganyu County. He marched and defeated the Qu thief Sun Yang, and Langji was pacified.
-In the eighth year of Jianwu's reign, Zhang Bu rebelled and returned to Langyi. Chen Jun sent troops to pursue Zhang Bu and kill him.
-The emperor praised his achievements and ordered Chen Jun to conquer Qing and Xuzhou specifically.
-Chen Jun comforted the poor, commended the righteous, restrained the military officials from interfering in the affairs of counties and counties, and the people praised him.
-He wrote several times to invite himself, willing to fight against Kai Xiao and Gongsun Shu.
-The edict replied: Dongzhou has just been pacified, and it is thanks to the great general.
-The coastal waters of Dongzhou are disturbed and are a hiding place for thieves. The imperial court is concerned about this place. Please try your best to pacify it for the time being.
+Confucius said: I am afraid that Ji Sun's worries are not in Zhuan Yu.
+Moreover, Beidi is still very powerful, and the information obtained from rumors about the garrison guards is often one-sided and inaccurate.
+Sure enough, it is not the greatest wish to be able to take half of the world and destroy the big bandits; but if it is not timely, then it is better to let people recuperate and recuperate. From then on, none of the generals dared to talk about war.
+Zang Gong died in the first year of Yongping, and his posthumous title was Minhou.
+Zizang believed in the throne, believed in death, and Zizang Zhen succeeded in the throne.
+After Zhen died, his son Zang Song succeeded him.
+In the fourth year of the Yuan Dynasty, he lived with his mother separately, and the feudal state was abolished.
+In the first year of Yongning, Empress Dowager Deng succeeded Zang Song's younger brother Zang You as Marquis of Langling.
+The historian commented: ZTE's career was really difficult.
+However, the enemy was not as powerful as Emperor Qin and Xiang Yu, and people still cherished the idea of ​​​​submitting to the Han Dynasty. Although they had official seals and official seals, they traveled across prefectures and counties under various names or false numbers, and formed thousands of groups, which was not enough to compete with dignitaries and high-ranking officials.
+When Shanxi is pacified and its power reaches the world, the Rong Jie have lost their energy and courage, and the generals and generals are brave. This is really a good opportunity to be ambitious and martial, and it is a time to take advantage of the victory to practice the army.
+Zang Gong and Ma Wu's disciples held their swords in their palms, and their ambitions were galloping to the north of Yiwu.
+When Guangwu read "Huangshi Gongji", he was always afraid and uneasy. He closed the Jade Gate to thank the hostages in the Western Regions and responded to the Xiongnu envoys with words and coins. His defensive awareness was already very grand and far-reaching. Could it be that he was worried about being surrounded by Pingcheng like Gaozu, and he couldn't bear to be wounded in the battle when he personally attacked Yingbu like Gaozu?
 
 summary:
-summary line 7: The text also records the careers of Gai Yan, Chen Jun, and Zang Gong, who served under Guangwu with distinction in various campaigns, including against Liu Yong, Dong Xian, and Gongsun Shu. The historian's commentary notes that Guangwu's defensive strategy was cautious and far-reaching, rejecting proposals for aggressive campaigns against the Xiongnu in favor of allowing the people to recuperate.
+summary line 6: The text also records the careers of Gai Yan, Chen Jun, and Zang Gong, who served under Guangwu with distinction in various campaigns, including against Liu Yong, Dong Xian, and Gongsun Shu. The historian's commentary notes that Guangwu's defensive strategy was cautious and far-reaching, rejecting proposals for aggressive campaigns against the Xiongnu in favor of allowing the people to recuperate.
 

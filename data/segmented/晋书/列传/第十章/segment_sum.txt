@@ -1,0 +1,265 @@
+Summary uses chunk [0, 1, 1, 2, 3, 9, 10]
+
+Chunk 0: 
+original: 
+贾充，字公闾，平阳襄陵人也。
+父逵，魏豫州刺史、阳里亭侯。
+逵晚始生充，言后当有充闾之庆，故以为名字焉。
+充少孤，居丧以孝闻。
+袭父爵为侯。
+拜尚书郎，典定科令，兼度支考课。
+辩章节度，事皆施用。
+累迁黄门侍郎、汲郡典农中郎将。
+参大将军军事，从景帝讨毌丘俭、文钦于乐嘉。
+帝疾笃，还许昌，留充监诸军事，以劳增邑三百五十户。
+后为文帝大将军司马，转右长史。
+帝新执朝权，恐方镇有异议，使充诣诸葛诞，图欲伐吴，阴察其变。
+充既论说时事，因谓诞曰： 天下皆愿禅代，君以为如何？
+诞历声曰： 卿非贾豫州子乎，世受魏恩，岂可欲以社稷输人乎！
+若洛中有难，吾当死之。
+充默然。
+translation: 
+Jia Chong, whose courtesy name was Gonglu, was from Xiangling, Pingyang.
+His father, Jia Kui, was the governor of Yuzhou in Wei and the Marquis of Yangliting.
+Jia Kui gave birth to Jia Chong in his later years. He said that in the future there would be joyful celebrations filling the streets, so he named Jia Chong and Jia Chong.
+Jia Chong lost his father when he was young, and he was famous for his filial piety in mourning.
+The Marquis who succeeded his father.
+The official paid homage to Shangshu Lang, who presided over the assignment of imperial orders and held examination classes at the same time.
+Analyze the rules and regulations of the classics and chapters, and apply them in work.
+After his meritorious service, he was moved to serve as Huangmen Shilang and Jijun Diannong Zhonglang.
+He participated in the general's military affairs and followed Emperor Jing in the campaign against his mothers Qiu Jian and Wen Qin in Lejia.
+The emperor was seriously ill and returned to Xuchang, leaving Jia Chong to supervise the military affairs. Because of his meritorious service, 350 additional households were granted fiefs.
+Later he was appointed Sima, the general of Emperor Wen, and was transferred to You Changshi.
+Emperor Wen had just taken over the power of the imperial court. He was afraid that there would be objections from the border towns in the four directions, so he sent his aides to Zhuge Dan to discuss preparations for the attack on Wu and secretly observe the changes.
+After Jia Chonglun talked about the current situation, he took advantage of the situation and said to Zhuge Xi: "Everyone in the world hopes to take over the throne. What do you think?"
+Zhuge Dan said sternly: "Aren't you the son of Jia Yuzhou? You have been favored by Wei for generations, how can you want to hand over the country to others!"
+If there is trouble in Luoyang City, I will die for Wei.
+Maichong remained silent.
+
+summary:
+summary line 0: Jia Chong, courtesy name Gonglu, was from Xiangling, Pingyang. His father, Jia Kui, served as Governor of Yuzhou under Wei and was the Marquis of Yangliting. Jia Kui fathered Jia Chong in his later years, naming him "Chong" (meaning "fill") in anticipation of future joyful celebrations filling the streets. Jia Chong lost his father young and was renowned for his filial piety in mourning. He succeeded his father's marquisate and began his official career as Shangshu Lang, where he analyzed classical rules and regulations for his work. He later held positions including Huangmen Shilang and Jijun Diannong Zhonglang.
+
+Chunk 1: 
+original: 
+及还，白帝曰： 诞在再扬州，威名夙著，能得人死力。
+观其规略，为反必也。
+今征之，反速而事小；不征，事迟而祸大。
+帝乃征诞为司空，而诞果叛。
+复从征诞，充进计曰： 楚兵轻而锐，若深沟高垒以逼贼城，可不战而克也。
+帝从之。
+城陷，帝登垒以劳充。
+帝先归洛阳，使充统后事，进爵宣阳乡侯，增邑千户。
+迁廷尉，充雅长法理，有平反之称。
+转中护军，高贵乡公之攻相府也，充率众距战于南阙。
+军将败，骑督成倅弟太子舍人济谓充曰： 今日之事如何？
+充曰： 公等养汝，正拟今日，复何疑！
+济于是抽戈犯跸。
+及常道乡公即位，进封安阳乡侯，增邑千二百户，统城外诸军，加散骑常侍。
+钟会谋反于蜀，帝假充节，以本官都督关中、陇右诸军事，西据汉中，未至而会死。
+时军国多事，朝廷机密，皆与筹之。
+帝甚信重充，与裴秀、王沈、羊祜、荀勖同受腹心之任。
+帝又命充定法律。
+translation: 
+When he returned to Beijing, he told Emperor Wen: "Zhuge Dan has been stationed in Yangzhou twice. His majesty and reputation have always been outstanding, and he can win the desperate service of others."
+Observing his planning and strategy, it is certain to rebel.
+If he is drafted, it will prompt him to rebel with little harm; if he is not drafted, the rebellion will be delayed but the harm will be great.
+Emperor Wen then recruited Zhuge Dan to serve as Sikong, but Zhuge Dan rebelled.
+Maichong followed Zhuge Dan in the expedition and offered a plan: Chu soldiers are lightly armed but sharp. If they dig deep ditches and build high forts to approach the rebel city, they can win without a fight.
+Emperor Wen obeyed him.
+After conquering the city, Emperor Wen ascended the fortress to comfort Jia Chong.
+Emperor Wen first returned to Luoyang and sent Jia Chong to take charge of the funeral affairs. He was promoted to the title of Marquis of Xuanyang Township, and a thousand households were added to the fiefdom.
+After being moved to the post of Tingwei, Jia Chong was very good at jurisprudence and had a reputation for correcting wrong cases.
+After he was transferred to the Central Guards Army, when Gaogui Xianggong attacked the Prime Minister's Mansion, Jia Chong led the people to fight at Nanque.
+The army was about to be defeated. Prince Sheren Chengji, the younger brother of Cavalry Governor Cheng Chou, said to Maichong: What should we do today?
+Maichong said: I have raised you people just for today, so what is there to worry about?
+Cheng Ji then drew his gun and attacked Gao Gui's carriage.
+When the Duke of Changdao came to the throne, he was granted the title of Marquis of Anyang Township. He was granted an additional 1,200 households, commanded the armies outside the city, and was appointed as a regular attendant on casual cavalry.
+Zhong Hui rebelled in Shu. Emperor Wen ordered Jia Chongzhijie to supervise the military affairs of Guanzhong and Longyou as his own officer, and moved westward to occupy Hanzhong. Zhong Hui died before he could reach him.
+At that time, the army and the country were troubled, and Jia Chong was involved in the planning of the court's secrets.
+Emperor Wen trusted and valued Jia Chong very much, and together with Pei Xiu, Wang Chen, Yang Ku, and Xun Xu, he accepted the important tasks of his confidants.
+Emperor Wen also ordered Jia Chong to revise the law.
+
+summary:
+summary line 1: Jia Chong participated in military campaigns under Emperor Jing against Qiu Jian and Wen Qin at Lejia. When the emperor fell ill and returned to Xuchang, Jia Chong was left to supervise military affairs, earning an additional 350 households in his fief. He later served as Sima under Emperor Wen and was transferred to You Changshi. Emperor Wen, newly in power, sent Jia Chong to Zhuge Dan under the pretext of discussing plans to attack Wu, but actually to observe his intentions. During their conversation, Jia Chong hinted at the possibility of a dynastic change, but Zhuge Dan sternly rebuked him, declaring his loyalty to Wei. Jia Chong reported to Emperor Wen that Zhuge Dan would surely rebel, advising that summoning him would trigger a minor rebellion, while delay would cause greater harm. Emperor Wen summoned Zhuge Dan as Sikong, and Zhuge Dan indeed rebelled. Jia Chong accompanied the expedition and proposed a strategy of digging deep moats and building high forts to besiege the rebels without battle, which succeeded.
+
+Chunk 1: 
+original: 
+及还，白帝曰： 诞在再扬州，威名夙著，能得人死力。
+观其规略，为反必也。
+今征之，反速而事小；不征，事迟而祸大。
+帝乃征诞为司空，而诞果叛。
+复从征诞，充进计曰： 楚兵轻而锐，若深沟高垒以逼贼城，可不战而克也。
+帝从之。
+城陷，帝登垒以劳充。
+帝先归洛阳，使充统后事，进爵宣阳乡侯，增邑千户。
+迁廷尉，充雅长法理，有平反之称。
+转中护军，高贵乡公之攻相府也，充率众距战于南阙。
+军将败，骑督成倅弟太子舍人济谓充曰： 今日之事如何？
+充曰： 公等养汝，正拟今日，复何疑！
+济于是抽戈犯跸。
+及常道乡公即位，进封安阳乡侯，增邑千二百户，统城外诸军，加散骑常侍。
+钟会谋反于蜀，帝假充节，以本官都督关中、陇右诸军事，西据汉中，未至而会死。
+时军国多事，朝廷机密，皆与筹之。
+帝甚信重充，与裴秀、王沈、羊祜、荀勖同受腹心之任。
+帝又命充定法律。
+translation: 
+When he returned to Beijing, he told Emperor Wen: "Zhuge Dan has been stationed in Yangzhou twice. His majesty and reputation have always been outstanding, and he can win the desperate service of others."
+Observing his planning and strategy, it is certain to rebel.
+If he is drafted, it will prompt him to rebel with little harm; if he is not drafted, the rebellion will be delayed but the harm will be great.
+Emperor Wen then recruited Zhuge Dan to serve as Sikong, but Zhuge Dan rebelled.
+Maichong followed Zhuge Dan in the expedition and offered a plan: Chu soldiers are lightly armed but sharp. If they dig deep ditches and build high forts to approach the rebel city, they can win without a fight.
+Emperor Wen obeyed him.
+After conquering the city, Emperor Wen ascended the fortress to comfort Jia Chong.
+Emperor Wen first returned to Luoyang and sent Jia Chong to take charge of the funeral affairs. He was promoted to the title of Marquis of Xuanyang Township, and a thousand households were added to the fiefdom.
+After being moved to the post of Tingwei, Jia Chong was very good at jurisprudence and had a reputation for correcting wrong cases.
+After he was transferred to the Central Guards Army, when Gaogui Xianggong attacked the Prime Minister's Mansion, Jia Chong led the people to fight at Nanque.
+The army was about to be defeated. Prince Sheren Chengji, the younger brother of Cavalry Governor Cheng Chou, said to Maichong: What should we do today?
+Maichong said: I have raised you people just for today, so what is there to worry about?
+Cheng Ji then drew his gun and attacked Gao Gui's carriage.
+When the Duke of Changdao came to the throne, he was granted the title of Marquis of Anyang Township. He was granted an additional 1,200 households, commanded the armies outside the city, and was appointed as a regular attendant on casual cavalry.
+Zhong Hui rebelled in Shu. Emperor Wen ordered Jia Chongzhijie to supervise the military affairs of Guanzhong and Longyou as his own officer, and moved westward to occupy Hanzhong. Zhong Hui died before he could reach him.
+At that time, the army and the country were troubled, and Jia Chong was involved in the planning of the court's secrets.
+Emperor Wen trusted and valued Jia Chong very much, and together with Pei Xiu, Wang Chen, Yang Ku, and Xun Xu, he accepted the important tasks of his confidants.
+Emperor Wen also ordered Jia Chong to revise the law.
+
+summary:
+summary line 2: After the city fell, Jia Chong was promoted to Marquis of Xuanyang Township with an additional 1,000 households. He became Tingwei, known for correcting wrongful cases, then Central Guards Army commander. When Gaogui Xianggong attacked the Prime Minister's Mansion, Jia Chong led troops at Nanque. As his forces faltered, Cheng Ji asked what to do, and Jia Chong replied, "I have raised you for just this day." Cheng Ji then killed Gaogui Xianggong. Under the new emperor, Jia Chong was made Marquis of Anyang Township with 1,200 additional households, commanding城外 armies. When Zhong Hui rebelled in Shu, Jia Chong was sent to supervise Guanzhong and Longyou, but Zhong Hui died before his arrival.
+
+Chunk 2: 
+original: 
+假金章，赐甲第一区。
+五等初建，封临沂侯，为晋元勋，深见宠异，禄赐常优于群官。
+充有刀笔才，能观察上旨。
+初，文帝以景帝恢赞王业，方传位于舞阳侯攸。
+充称武帝宽仁，且又居长，有人君之德，宜奉社稷。
+及文帝寝疾，武帝请问后事。
+文帝曰： 知汝者贾公闾也。
+帝袭王位，拜充晋国卫将军、仪同三司、给事中，改封临颍侯。
+及受禅，充以建明大命，转车骑将军、散骑常侍、尚书仆射，更封鲁郡公，母柳氏为鲁国太夫人。
+充所定新律既班于天下，百姓便之。
+诏曰： 汉氏以来，法令严峻。
+故自元成之世，及建安、嘉平之间，咸欲辩章旧典，删革刑书。
+述作体大，历年无成。
+先帝愍元元之命陷于密网，亲发德音，厘正名实。
+车骑将军贾充，奖明圣意，谘询善道。
+translation: 
+Use the gold medal to get the first high-class house.
+The fifth-class title was just established and he was named Marquis of Linyi. As a person with great meritorious service in the Jin Dynasty, he was deeply favored and treated with special treatment. His salary and rewards were often better than those of other officials.
+Jia Chong had the talent of writing and writing, and could observe the will from above.
+At the beginning, Emperor Wen used Emperor Jing Hongda to assist the king and was about to pass the throne to Wuyang Hou Sima You.
+Maichong praised Emperor Wu for being generous and kind, and as the eldest son, he had the virtues to be a king and should inherit the throne.
+When Emperor Wen was ill and lying in bed, Emperor Wu asked about his funeral.
+Emperor Wen said: It is Jia Gonglu who understands you.
+Emperor Wu succeeded to the throne and worshiped Jia Chong as General of the Guards of the Jin Dynasty, the Third Division of Yitong, and the title of Marquis of Linying.
+After accepting the transfer, Jia Chong was promoted to General of Chariots and Cavalry, Regular Attendant of Disciplined Cavalry, and Minister of Public Affairs because of his participation in establishing the destiny of a prosperous country.
+After the promulgation of the new law on buying and selling, people felt convenient.
+The edict said: Since the Han Dynasty, the laws have been strict.
+Therefore, from the time of Emperor Moyuan and Emperor Cheng of Han Dynasty to Jian'an and Jiaping, everyone wanted to analyze the old laws and regulations, delete and reform the criminal law.
+Due to the grand scale of the work, it took many years without success.
+The late emperor took pity on the kind-hearted people trapped in the fine legal net, and personally spoke out the voice of benevolence and corrected the name and reality.
+The generals of chariots and cavalry buy and charge, assist in spreading the holy will, and consult the good way.
+
+summary:
+summary line 3: Jia Chong was deeply trusted by Emperor Wen, revising laws alongside Pei Xiu, Wang Chen, Yang Ku, and Xun Xu. He received the highest-class house and was named Marquis of Linyi. Initially, Emperor Wen considered passing the throne to Wuyang Hou Sima You, but Jia Chong praised Emperor Wu's virtues as the eldest son, convincing him to choose Emperor Wu. Upon Emperor Wu's succession, Jia Chong became General of the Guards of Jin, Yitong Sansi, and Marquis of Linying. He was later promoted to General of Chariots and Cavalry, Regular Attendant, and Minister of Public Affairs for his role in establishing the dynasty.
+
+Chunk 3: 
+original: 
+太傅郑冲，又与司空荀顗、中书监荀勖、中军将军羊祜、中护军王业，及廷尉杜友、守河南尹杜预、散骑侍郎裴楷、颍川太守周雄、齐相郭颀、骑都尉成公绥荀煇、尚书郎柳轨等，典正其事。
+朕每鉴其用心，常慨然嘉之。
+今法律既成，始班天下，刑宽禁简，足以克当先旨。
+昔萧何以定律受封，叔孙通以制仪为奉常，赐金五百斤，弟子皆为郎。
+夫立功立事，古之所重。
+自太傅、车骑以下，皆加禄赏。其详依故典。
+于是赐充子弟一人关内侯，绢五百匹。
+固让，不许。
+后代裴秀为尚书令，常侍、车骑将军如故。
+寻改常侍为侍中，赐绢七百匹。
+以母忧去职，诏遣黄门侍郎慰问。
+又以东南有事，遣典军将军杨嚣宣谕，使六旬还内。
+translation: 
+Taifu Zheng Chong, together with Sikong Xunhao, Zhongshu Supervisor Xunxu, Central Army General Yang Ku, Central Guardsman Wang Ye, Tingwei Du You, Henan Guard Yin Duyu, Sanqi Minister Pei Kai, Ying! Prefect Zhou Xiong, Qi Prime Minister Guo Qi, Cavalry Commander Chenggong Sui Xunhui, Shangshu Lang Liugui, etc. presided over this matter.
+Every time I see their hard work, I always praise them with emotion.
+Now that the law has been completed and has begun to be promulgated throughout the world, the penalties are relaxed and the prohibitions are simplified, which is enough to comply with the original decree.
+In the past, Xiao He was granted a title for revising laws, and Shusun Tong was appointed as a regular official for formulating etiquette. He was given five hundred catties of gold, and his disciples were all Langguan.
+Establishing meritorious deeds and completing careers was valued in ancient times.
+Taifu Bai, Chaqiu and below are all rewarded with salary and salary, and the detailed procedures are in accordance with the old regulations.
+So one of Jia Chong's children was given the title of Marquis of Guannei and five hundred pieces of silk.
+Jia Chong firmly refused, but the emperor refused.
+Later, he replaced Pei Xiu as Shangshu Ling, and his positions as regular attendant and general of chariots and cavalry remained.
+Soon he was changed from regular servant to servant, and was given 700 pieces of silk.
+He left his job due to his mother's death, and Shaoshu sent Huangmen Shilang to express his condolences.
+Because there was something going on in the southeast, he sent General Yang Xiao of the Dian Army to read out the decree and asked Maichong to return to the court after sixty days.
+
+summary:
+summary line 4: Jia Chong oversaw the revision of laws, which were praised for their leniency and simplicity. The emperor rewarded him with a marquisate for one of his children and 500 bolts of silk, which Jia Chong declined but was overruled. He succeeded Pei Xiu as Shangshu Ling while retaining his other posts. After his mother's death, he was recalled from mourning after 60 days due to affairs in the southeast. He devoted himself to agricultural savings and streamlining officials, earning imperial praise. Jia Chong recommended talents and treated others with sincerity, though he lacked integrity and relied on flattery, earning hatred from upright officials like Ren Kai and Yu Chun.
+
+Chunk 9: 
+original: 
+帝遣侍中程咸犒劳，赐充帛八千匹，增邑八千户；分封从孙暢新城亭侯，盖安阳亭侯；弟阳里亭侯混、从孙关内侯众增户邑。
+充本无南伐之谋，固谏不见用。
+及师出而吴平，大惭惧，议欲请罪。
+帝闻充当诣阙，豫幸东堂以待之。
+罢节钺、僚佐，仍假鼓吹、麾幢。
+充与群臣上告成之礼，请有司具其事。
+帝谦让不许。
+及疾笃，上印绶逊位。
+帝遣侍臣谕旨问疾，殿中太医致汤药，赐床帐钱帛，自皇太子宗室躬省起居。
+太康三年四月薨，时年六十六。
+帝为之恸，使使持节、太常奉策追赠太宰，加衮冕之服、绿綟绶、御剑，赐东园秘器、朝服一具、衣一袭，大鸿胪护丧事，假节钺、前后部羽葆、鼓吹、缇麾，大路、銮路、辒辌车、帐下司马大车，椎斧文衣武贲、轻车介士。
+葬礼依霍光及安平献王故事，给茔田一顷。
+与石苞等为王功配飨庙庭，谥曰武。
+translation: 
+The emperor sent his attendant Cheng Xian to reward him with 8,000 bolts of silk and 8,000 additional households in the fiefdom; his nephew Jia Chang was granted the title of Marquis of Xincheng Ting, Jia Gai was the Marquis of Anyang Ting; his younger brother Jia Hun, the Marquis of Yangli Ting, and his grandnephew Guannei Marquis Maizhong were granted additional fiefs.
+Jia Chong originally had no strategy for the southern expedition, so he tried his best to persuade him but was not adopted.
+When the army went out to conquer Wu, he was very ashamed and frightened, and decided to plead guilty.
+When the emperor heard that Jia Chong was going to the palace, he went to Shutang to wait for him.
+Without his cymbals and assistants, he still pretends to be an advocate and a leader.
+Maichong and the officials presented a gift to report the success and asked the relevant officials to prepare for the matter.
+The emperor was too humble to allow it.
+When he was seriously ill, he handed over his seal and ribbon to give up his throne.
+The emperor sent his ministers to inquire about the patient's condition, and the imperial doctor in the palace sent decoctions and medicines, as well as money and silk for bed tents. Members of the royal family, including the crown prince, went to greet him in person.
+He died in April of the third year of Taikang at the age of sixty-six.
+The emperor grieved for him and sent envoys Chijie and Taichang to posthumously make him Dazai. He was also given the crown's attire, a green ribbon, a sword, a coffin, a set of court clothes, and a set of clothes.
+The funeral followed the precedents of Huo Guang and Anping King Xian, and an area of ​​​​area was given to the cemetery.
+He, Shi Bao and others were enshrined in the royal ancestral temple for their meritorious service in assisting the emperor. Their nickname was Wu.
+
+summary:
+summary line 5: When Di and Qiang rebelled, Jia Chong was sent to guard Guanzhong as commander of Qin and Liang provinces. However, through Xun Xu's influence, his daughter was married to the crown prince, allowing him to remain in the capital. During the campaign to conquer Wu, Jia Chong was appointed supreme commander but was reluctant, fearing failure. He repeatedly advised against the campaign, but the emperor insisted. After Wu's surrender, Jia Chong was heavily rewarded but felt ashamed of his lack of strategy. He died in the third year of Taikang at age 66, receiving grand posthumous honors.
+
+Chunk 10: 
+original: 
+追赠充子黎民为鲁殇公。
+充妇广城君郭槐，性妒忌。
+初，黎民年三岁，乳母抱之当阁。
+黎民见充入，喜笑，充就而拊之。
+槐望见，谓充私乳母，即鞭杀之。
+黎民恋念，发病而死。
+后又生男，过期，复为乳母所抱，充以手摩其头。
+郭疑乳母，又杀之，兒亦思慕而死。
+充遂无胤嗣。
+及薨，槐辄以外孙韩谧为黎民子，奉充后。
+郎中令韩咸、中尉曹轸谏槐曰： 礼，大宗无后，以小宗支子后之，无异姓为后之文。
+无令先公怀腆后土，良史书过，岂不痛心。
+槐不从。
+咸等上书求改立嗣，事寝不报。
+槐遂表陈是充遗意。
+translation: 
+He gave a posthumous gift to Maichong's son Li Min, who was named Duke Shang of Lu.
+Jia Chong's wife, Guo Huai, the king of Guangcheng, was jealous by nature.
+Back then, when Li Min was three years old, his wet nurse was holding him in front of the door.
+When Li Min saw Maichong coming in, he smiled happily, and Jia Chong went over to caress him.
+Guo Huai saw it and said that the wet nurse who bought Chongyu was having an affair, so he whipped the wet nurse to death.
+The people missed their wet nurse and she fell ill and died.
+Later, Guo Huai gave birth to another boy. When he was over one year old, he was held by the wet nurse again, and she touched the child's head with her hands.
+Guo suspected the wet nurse and killed her again. Her son also died because he missed her.
+Maichong therefore had no descendants.
+After Jia Chong's death, Guo Huai made his grandson Han Mi the son of a commoner and continued to buy and charge.
+The doctor ordered Han Xian and the lieutenant Cao Zhen to advise Guo Sou: According to the etiquette system, the authentic sect has no descendants, and the sons of the branches of the side sects are used as descendants. There is no provision for allowing descendants with different surnames.
+Don't let the virtues of our late grandfather go underground, but let good historians record his faults. Wouldn't it be sad?
+Guo Huai refused to obey.
+Han Xian and others wrote a letter requesting a new heir, but the matter was suppressed and not reported.
+Qianlu then stated in the table that it was Yishi's last wish to erect a fallen chariot.
+
+summary:
+summary line 6: Jia Chong's wife, Guo Huai, was extremely jealous, causing the deaths of two sons by killing their wet nurses. After Jia Chong's death, his grandson Han Mi was made heir. His daughter Jia Wu secretly married Han Shou after an affair, which Jia Chong discovered but concealed. Jia Chong's descendants, including Jia Mi, became powerful but were eventually killed during political turmoil. The text concludes with commentary on Jia Chong's flattery and lack of virtue, contrasting him with his brother Yang Yao, who foresaw disaster but could not avoid it.
+

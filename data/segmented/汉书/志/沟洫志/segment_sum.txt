@@ -1,0 +1,165 @@
+Summary uses chunk [0, 0, 3, 6, 8]
+
+Chunk 0: 
+original: 
+《夏书》：禹堙洪水十三年，过家不入门。
+陆行载车，水行乘舟，泥行乘毳，山行则梮，以别九州；随山浚川，任土作贡；通九道，陂九泽，度九山。
+然河灾之羡溢，害中国也尤甚。
+唯是为务，故道河自积石，历龙门，南到华阴，东下底柱，及盟津、雒内，至于大伾。
+于是禹以为河所从来者高，水湍悍，难以行平地，数为败，乃酾二渠以引其河，北载之高地，过洚水，至于大陆，播为九河。同为迎河，入于勃海。
+九川既疏，九泽既陂，诸夏乂安，功施乎三代。
+自是之后，荥阳下引河东南为鸿沟，以通宋、郑、陈、蔡曹、卫，与济、汝、淮、泗会。
+于楚，西方则通渠汉川、云梦之际，东方则通沟江、淮之间。
+于吴，则通渠三江、五湖。
+于齐，则通淄、济之间。
+于蜀，则蜀守李冰凿离堆，避沫水之害，穿二江成都中。
+此渠皆可行舟，有余则用溉，百姓飨其利。
+至于它，往往引其水，用溉田，沟渠甚多，然莫足数也。
+translation: 
+"Book of Xia" records: Yu spent thirteen years controlling the floods, and did not enter his house when he passed by.
+He traveled by car when traveling by land, by boat when traveling by water, by boat when traveling on dirt roads, and by mountaineering sedans when traveling on mountain roads to divide the boundaries of Kyushu. He dredged rivers according to the trend of the mountains and determined tax levels according to the land conditions; he built roads in Kyushu, built embankments of lakes in Kyushu, and measured the mountains of Kyushu.
+However, the Yellow River overflowed and caused great harm to the Central Plains.
+He regarded the management of the Yellow River as his top priority, so he guided the Yellow River water from Jishi Mountain, through Longmen, south to Huayin County, eastward through Dizhu Mountain and the bends of Mengjin and Luoshui Rivers, to Daren Mountain.
+So Dayu believed that the source of the Yellow River was high and the current was turbulent, making it difficult to circulate on flat land. After several diversion attempts failed, he divided the Yellow River into two rivers to reduce the water potential.
+The rivers in Kyushu have been dredged, the lakes in Kyushu have been embanked, and the various countries in China have been managed and stabilized. Their achievements have benefited the Xia, Shang and Zhou dynasties.
+From then on, the water of the Yellow River was diverted from Rongyang to the southeast, forming a gap that connected the countries of Song, Zheng, Chen, Cai, Cao, and Wei, and intersected with Jishui, Rushui, Huaishui, and Swimming rivers respectively.
+In the Chu region, ditches were built to connect Moshui and Yunmeng in the west, and ditches were dug to connect the Yangtze River and Huaishui in Shumian.
+In Wudi, canals were opened to connect the three rivers and five lakes.
+At Qidi, it connects Zi River and Jishui River.
+In Shu, Li Bing, the governor of Shu, dug two rivers in Chengdu to avoid the harm of Moshui.
+These canals can be used for boats, and the excess water is used for irrigation, and the people enjoy its benefits.
+As for the areas where canal water passes, people often drink water to irrigate their fields. There are quite a few ditches, but they are countless.
+
+summary:
+summary line 0: The "Book of Xia" records Yu's thirteen-year flood control efforts, during which he passed his home without entering. He traveled by various means—car, boat, sled, or sedan—to delineate Kyushu's boundaries, dredge rivers, and assess land for taxation. Despite his work, the Yellow River continued to devastate the Central Plains. Yu prioritized managing it, guiding its waters from Jishi Mountain through Longmen and other locations, but its turbulent flow proved difficult to tame. He eventually split the river into two to reduce its force. After Kyushu's rivers and lakes were stabilized, the benefits extended to the Xia, Shang, and Zhou dynasties. The Yellow River was later diverted southeast, intersecting with several rivers and countries.
+
+Chunk 0: 
+original: 
+《夏书》：禹堙洪水十三年，过家不入门。
+陆行载车，水行乘舟，泥行乘毳，山行则梮，以别九州；随山浚川，任土作贡；通九道，陂九泽，度九山。
+然河灾之羡溢，害中国也尤甚。
+唯是为务，故道河自积石，历龙门，南到华阴，东下底柱，及盟津、雒内，至于大伾。
+于是禹以为河所从来者高，水湍悍，难以行平地，数为败，乃酾二渠以引其河，北载之高地，过洚水，至于大陆，播为九河。同为迎河，入于勃海。
+九川既疏，九泽既陂，诸夏乂安，功施乎三代。
+自是之后，荥阳下引河东南为鸿沟，以通宋、郑、陈、蔡曹、卫，与济、汝、淮、泗会。
+于楚，西方则通渠汉川、云梦之际，东方则通沟江、淮之间。
+于吴，则通渠三江、五湖。
+于齐，则通淄、济之间。
+于蜀，则蜀守李冰凿离堆，避沫水之害，穿二江成都中。
+此渠皆可行舟，有余则用溉，百姓飨其利。
+至于它，往往引其水，用溉田，沟渠甚多，然莫足数也。
+translation: 
+"Book of Xia" records: Yu spent thirteen years controlling the floods, and did not enter his house when he passed by.
+He traveled by car when traveling by land, by boat when traveling by water, by boat when traveling on dirt roads, and by mountaineering sedans when traveling on mountain roads to divide the boundaries of Kyushu. He dredged rivers according to the trend of the mountains and determined tax levels according to the land conditions; he built roads in Kyushu, built embankments of lakes in Kyushu, and measured the mountains of Kyushu.
+However, the Yellow River overflowed and caused great harm to the Central Plains.
+He regarded the management of the Yellow River as his top priority, so he guided the Yellow River water from Jishi Mountain, through Longmen, south to Huayin County, eastward through Dizhu Mountain and the bends of Mengjin and Luoshui Rivers, to Daren Mountain.
+So Dayu believed that the source of the Yellow River was high and the current was turbulent, making it difficult to circulate on flat land. After several diversion attempts failed, he divided the Yellow River into two rivers to reduce the water potential.
+The rivers in Kyushu have been dredged, the lakes in Kyushu have been embanked, and the various countries in China have been managed and stabilized. Their achievements have benefited the Xia, Shang and Zhou dynasties.
+From then on, the water of the Yellow River was diverted from Rongyang to the southeast, forming a gap that connected the countries of Song, Zheng, Chen, Cai, Cao, and Wei, and intersected with Jishui, Rushui, Huaishui, and Swimming rivers respectively.
+In the Chu region, ditches were built to connect Moshui and Yunmeng in the west, and ditches were dug to connect the Yangtze River and Huaishui in Shumian.
+In Wudi, canals were opened to connect the three rivers and five lakes.
+At Qidi, it connects Zi River and Jishui River.
+In Shu, Li Bing, the governor of Shu, dug two rivers in Chengdu to avoid the harm of Moshui.
+These canals can be used for boats, and the excess water is used for irrigation, and the people enjoy its benefits.
+As for the areas where canal water passes, people often drink water to irrigate their fields. There are quite a few ditches, but they are countless.
+
+summary:
+summary line 1: In various regions, canals were built for irrigation and transport. In Chu, ditches connected Moshui and Yunmeng; in Wu, canals linked three rivers and five lakes; in Qi, the Zi and Jishui rivers were joined. In Shu, Li Bing dug two rivers in Chengdu to prevent flooding. These canals facilitated boat travel and irrigation, bringing prosperity. During Wei Wenhou's reign, Ximen Bao governed Ye County with a good reputation, but his successor Shi Qi criticized him for not using the Zhangshui River for irrigation. Shi Qi then diverted the Zhangshui to irrigate Ye County, making the area fertile. Later, the Qin state employed Zheng Guo, a Han spy, to build a canal from the Jingshui River. Though initially suspected, Zheng Guo convinced Qin of the canal's long-term benefits. The canal irrigated over 40,000 hectares of salty land, enriching Qin and enabling it to conquer other states; it was named the Zheng Guo Canal.
+
+Chunk 3: 
+original: 
+时郑当时为大司农，言： 异时关东漕粟从渭上，度六月罢，而渭水道九百余里，时有难处。
+引渭穿渠起长安，旁南山下，至河三百余里，径，易漕，度可令三月罢；而渠下民田万余顷又可得以溉。
+此损漕省卒，而益肥关中之地，得谷。
+上以为然，令齐人水工徐伯表，发卒数万人穿漕渠，三岁而通。
+以漕，大便利。
+其后漕稍多，而渠下之民颇得以溉矣。
+后河东守番系言： 漕从山东西，岁百余万右，更底柱之艰，败亡甚多而烦费。
+穿渠引汾溉皮氏、汾阴下，引河溉汾阴、蒲坂下，度可得五千顷。
+故尽河堧弃地，民茭牧其中耳，今溉田之，度可得谷二百万右石以上。
+谷从渭上，与关中无异，而底柱之东可毋复漕。
+上以为然，发卒数万人作渠田。
+数岁，河移徙，渠不利，田者不能偿种。
+久之，河东渠田废，予越人，令少府以为稍入。
+translation: 
+Zheng Zheng, who was the chief agricultural officer at the time, said that in the past, it took about six months to transport corn from the Wei River to Guandong. However, the Wei River is more than 900 miles long and there are often dangerous places.
+A canal was opened from Chang'an to divert the Wei River, flowing downstream along the Nanshan Mountains. It is more than 300 miles away from the Yellow River. It is a straight road and is easy to navigate by boat. It is estimated that it will take three months; and more than 10,000 hectares of farmland that the canal water passes through can be irrigated.
+This can not only reduce water transportation time and soldiers, but also make Guanzhong's farmland more fertile and obtain more food.
+The emperor thought it was right, so he sent Uncle Xu, a water engineer from the state of Qi, to make a mark, and sent tens of thousands of soldiers to dig canals and canals, and they were completed in three years.
+It is indeed very convenient for water transportation.
+After that, water transportation gradually increased, and the people around the canal were able to benefit from irrigated fields.
+Later, Fan Xi, the governor of Hedong, said: The cost of transporting grain and rice from Shandong to the west is more than one million dan per year. After going through the hardships in the Dizhu area, the damage was huge and the cost was huge.
+By opening canals to divert Fen water to irrigate Pishi and Fenyin areas, and to divert Yellow River water to Fenyin and Puban areas, it is estimated that 5,000 hectares of farmland can be created.
+Because this is all abandoned wasteland by the Yellow River. People graze here and now irrigate and cultivate it. It is estimated that they can get more than two million shi of grain.
+These grains transported by water from the Wei River are no different from those harvested in Guanzhong, and the bottom pillars are bundled so that they can no longer be transported by water.
+The emperor thought he was right, so he sent tens of thousands of soldiers to dig canals to irrigate the fields.
+After a few years, the Yellow River changed its course, and the canals were no longer useful. The harvests of farmers were not enough to compensate for the grain.
+Over time, all the irrigation canal and cultivated land in the east of the river were abandoned. They were given to the Yue people and the young government was ordered to earn a little rent.
+
+summary:
+summary line 2: During the Han dynasty, the Yellow River burst multiple times. In Emperor Xiaowen's reign, it broke at Suizao, and later during Yuanguang, it breached at Huzi, flowing into Juyeze and the Huai River. Attempts to block it failed, and Tian Ju advised against further efforts, citing divine will. Zheng Dangshi proposed a canal from Chang'an to divert the Wei River, reducing transport time and irrigating farmland. The emperor approved, and the canal was completed in three years, improving water transport and irrigation. Subsequent proposals included diverting Fen and Yellow River waters in Hedong, but the canals became useless after the river changed course. Other projects, like the Baoxie Road canal, faced challenges due to rocky waters. Yan Xiong's plan to irrigate salty land with Luoshui water led to the Longshou Canal, but it yielded little benefit after a decade.
+
+Chunk 6: 
+original: 
+于是卒塞瓠子，筑宫其上，名曰宣防。
+而道河北行二渠，复禹旧迹，而梁、楚之地复宁，无水灾。
+自是之后，用事者争言水利。
+朔方、西河、河西、酒泉皆引河及川谷以溉田。
+而关中灵轵、成国、湋渠引诸川，汝南、九江引淮，东海引巨定，泰山下引汶水，皆穿渠为溉田，各万余顷。
+它小渠及陂山通道者，不可胜言也。
+自郑国渠起，至元鼎六年，百三十六岁，而儿宽为左内史，奏请穿凿六辅渠，以益溉郑国傍高卬之田。
+上曰： 农，天下之本也。
+泉流灌浸，所以育五谷也。
+左、右内史地，名山川原甚众，细民未知其利，故为通沟渎，畜陂泽，所以备旱也。
+今内史稻田租挈重，不与郡同，其议减。
+令吏民勉农，尽地利，平繇行水，勿使失时。
+后十六岁，太始二年，赵中大夫白公复奏穿渠。
+引泾水，首起谷口，尾入栎阳，注渭中，袤二百里，溉田四千五百余顷，因名曰白渠。
+民得其饶，歌之曰： 田于何所？
+translation: 
+So the breach of the gourd was finally blocked, and a palace was built on it, named Xuanfang.
+Moreover, two canals were built on the north bank of the Yellow River to divert the water flow and restore the old appearance during the time of Dayu. The Liang and Chu areas regained peace and were free from floods.
+From then on, people in power rushed to talk about the benefits of building canals.
+Shuofang, Xihe, Hexi, Jiuquan and other areas all divert water from the Yellow River and river valleys to irrigate farmland.
+The Lingzhi, Chengguo and Zhang canals in Guanzhong diverted the rivers, Runan and Jiujiang diverted the Huai River, Shuhai diverted the Juding, and the bottom of Mount Tai diverted the Wen River. They all dug canals to irrigate the fields, each with more than 10,000 hectares.
+There are countless other small canals and water channels that cut through the mountains.
+From the time when the Zheng Guo Canal was dug to the sixth year of Yuanding, it had been 136 years. Ni Kuan, the internal history of Zuo, petitioned to dig six auxiliary canals to facilitate the irrigation of the high farmland in the Zheng Guo Canal area.
+The emperor said: Agriculture is the foundation of the world.
+The spring water irrigates and nourishes the crops.
+There used to be quite a lot of famous mountains and rivers in places where internal history was concerned, but the people didn't know their benefits, so they dug ditches and raised lake embankments to prevent droughts.
+Nowadays, the land lease of Naishi rice fields is very heavy. Unlike other counties, I advocate for a reduction or exemption.
+Order the government and the people to devote themselves to agriculture, make full use of the potential of the land, balance water conservancy, and not cause the people to miss the time for farming.
+Sixteen years later, in the second year of Taishi, Bai Gong, the middle official of Zhao State, again petitioned to open the canal.
+The Jing River is diverted from the mouth of the valley, flows into Liyang, and flows into the Wei River. It is 200 miles long and irrigates more than 4,500 hectares of farmland, so the canal is called Baiqu.
+When the people benefited from it, they praised it and said: Where is the field?
+
+summary:
+summary line 3: After the Huzi breach, the emperor personally oversaw its blockage, composing songs about the struggle. The breach was finally sealed, and two canals were built to restore the river's old course. This success spurred widespread canal construction across Shuofang, Xihe, Hexi, and other regions, each irrigating over 10,000 hectares. Smaller canals were countless. By the sixth year of Yuanding, Ni Kuan proposed six auxiliary canals for the Zheng Guo Canal area. The emperor emphasized agriculture and reduced land taxes. Sixteen years later, Bai Gong opened the Baiqu Canal, diverting Jingshui water to irrigate 4,500 hectares. The people praised both canals for their fertility. During the Han-Xiongnu wars, Yannian proposed a massive canal to divert the Yellow River, but the emperor hesitated, citing Dayu's legacy. After the Xuanfang breach, the river broke again at Guantao, forming the Tunshi River, which was left unblocked.
+
+Chunk 8: 
+original: 
+然河乃大禹之所道也，圣人作事，为万世功，通于神明，恐难改更。
+自塞宣房后，河复北决于馆陶，分为屯氏河，东北经魏郡、清河、信都、勃海入海，广深与大河等，故因其自然，不堤塞也。
+此开通后，馆陶东北四五郡虽时小被水害，而兖州以南六郡无水忧。
+宣帝地节中，光禄大夫郭昌使行河。
+北曲三所水流之势皆邪直贝丘县。
+恐水盛，堤防不能禁，乃各更穿渠，直东，经东郡界中，不令北曲。
+渠通利，百姓安之。
+元帝永光五年，河决清河灵鸣犊口，而屯氏河绝。
+成帝初，清河都尉冯逡奏言： 郡承河下流，与兖州东郡分水为界，城郭所居尤卑下，土壤轻脆易伤。
+顷所以阔无大害者，以屯氏河通，两川分流也。
+translation: 
+But the Yellow River was channelized by Dayu. What the saints did has become the achievements of all generations. It is connected with the gods and may be difficult to change.
+Since the Xuanfang breach was blocked, the Yellow River breached again in the Guantao area in the north and branched off to form the Tunshi River. It flowed into the sea through Weijun, Qinghe, Xindu and the Bohai Sea in the northeast. It was as wide and deep as a big river, so it was allowed to take its course and no blockage occurred.
+After this was opened, although the four or five counties in the northeast of Guantao often suffered from small-scale floods, the six counties south of Yanzhou had no flood worries.
+During the Dijie period of Emperor Xuan, Guo Chang, the official of Guanglu, was sent to patrol the Yellow River.
+The water flows slowly through Beiqiu County in three meandering places in the north.
+Guo Chang was worried that the embankment would not be able to withstand the flood, so he opened another canal straight to the east and passed through Shujun to prevent it from bending northward.
+After the canal was opened, the people benefited and felt safe.
+In the fifth year of Yongguang reign of Emperor Yuan Dynasty, the Yellow River burst at Lingmingdukou of Qinghe River, and the Tunshi River disappeared from then on.
+In the early years of Emperor Cheng's reign, Qinghe Commandery Feng Kui reported: Qinghe County is located in the lower reaches of the Yellow River, and is bounded by water from Shu County in Yanzhou. The residents in the suburbs are particularly low-lying, and the soil is fragile and easily damaged.
+The reason why there are no major disasters at present is because the Tunshi River is flowing smoothly and the two rivers are diverted.
+
+summary:
+summary line 4: During Emperor Xuan's Dijie period, Guo Chang straightened a meandering section of the Yellow River, benefiting the people. In Yongguang, the river burst at Lingmingdukou, causing the Tunshi River to disappear. Under Emperor Cheng, Feng Kui warned of flood risks and proposed dredging the Tunshi River. Despite initial inaction, a major breach in Guantao flooded 32 counties. Wang Yanshi successfully blocked it, earning rewards. Later breaches required further efforts, with Yang Yan and others involved. Debates over river management continued, with some advocating for relocating people and opening canals, while others favored minimal intervention. During Wang Mang's reign, various experts proposed strategies, but none were implemented. The text concludes by emphasizing the Yellow River's significance and the need for careful study of water management.
+

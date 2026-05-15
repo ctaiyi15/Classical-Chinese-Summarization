@@ -14,12 +14,6 @@ original:
 氏姓无常，以大人健者名字为姓。
 大人以下，各自蓄牧营产，不相徭役。
 其嫁娶则先略女通情，或半岁百日，然后送牛、马、羊畜，以为娉币。
-婿随妻还家，妻家无尊卑，旦旦拜之，而不拜其父母。
-为妻家仆役，一二年间，妻家乃厚遣送女，居处财物一皆为办。
-其俗妻后母，报寡嫂，死则归其故夫。
-计谋从用妇人，唯斗战之事乃自决之。
-父子男女，相对踞蹲。
-以髡头为轻便。
 translation: 
 Wuhuan was originally from the Donghu tribe.
 In the early Han Dynasty, the Xiongnu Maodun eliminated Donghu, and the remaining people guarded Wuhuan Mountain, so they took Wuhuan as their tribal title.
@@ -35,16 +29,16 @@ When the tribal leader called for something, he would carve wood as a talisman. 
 The Wuhuan people do not have a fixed surname, and the surname is the name of the strong leader.
 From the leader down, people herd livestock and run their own industries, and they did not rely on each other.
 In terms of marriage, they first rob the woman and live together, sometimes for half a year or hundreds of days, and then give the woman cattle, horses, sheep and other livestock as betrothal gifts.
-When a son-in-law follows his wife back to his parents' home, he pays homage to the people in his wife's family every day, regardless of his superiority or inferiority, but does not pay homage to his wife's parents.
-After working as a servant in his wife's house for a year or two, his wife's house gave them many things to send their daughter away, and all daily necessities and belongings were prepared for them.
-The custom of the Wuhuan people is to marry their stepmother and have an affair with their widowed sister-in-law. However, after their death, the stepmother and sister-in-law are buried together with their original husbands.
-In terms of strategy, they listen to women's opinions, and only make their own decisions when fighting.
-Father and son, men and women sit face to face.
-They think it is easy to shave off their hair.
 
 
 Chunk 1: 
 original: 
+婿随妻还家，妻家无尊卑，旦旦拜之，而不拜其父母。
+为妻家仆役，一二年间，妻家乃厚遣送女，居处财物一皆为办。
+其俗妻后母，报寡嫂，死则归其故夫。
+计谋从用妇人，唯斗战之事乃自决之。
+父子男女，相对踞蹲。
+以髡头为轻便。
 妇人至嫁时乃养发，分为髻，著句决，饰以金碧，犹中国有步摇。
 妇人能刺韦作文绣，织氀曷毛。
 男子能作弓矢鞍勒，锻金铁为兵器。
@@ -52,14 +46,13 @@ original:
 东墙似蓬草，实如子，至十月而熟。
 见鸟兽孕乳，以别四节。
 俗贵兵死，敛尸以棺，有哭泣之哀，至葬则歌舞相送。
-肥养一犬，以彩绳缨牵，并取死者所乘马衣物，皆烧而送之，言以属累犬，使护死者神灵归赤山。
-赤山在辽东西北数千里，如中国人死者魂神归贷山也。
-敬鬼神，祠天地、日月、星辰、山川及先大人有健名者。
-祠用牛、羊，毕皆烧之。
-其约法：违大人言者，罪至死；若相贼杀者，令部落自相报，不止，诣大人告之，听出马、牛、羊以赎死；其自杀父兄则无罪；若亡畔为大人所捕者，邑落不得受之，皆徙逐于雍狂之地，沙漠之中。
-其土多蝮蛇，在于令西南，乌孙东北焉。
-乌桓自为冒顿所破，众遂孤弱，常臣伏匈奴，岁输牛、马、羊皮，过时不具，辄没其妻子。
 translation: 
+When a son-in-law follows his wife back to his parents' home, he pays homage to the people in his wife's family every day, regardless of his superiority or inferiority, but does not pay homage to his wife's parents.
+After working as a servant in his wife's house for a year or two, his wife's house gave them many things to send their daughter away, and all daily necessities and belongings were prepared for them.
+The custom of the Wuhuan people is to marry their stepmother and have an affair with their widowed sister-in-law. However, after their death, the stepmother and sister-in-law are buried together with their original husbands.
+In terms of strategy, they listen to women's opinions, and only make their own decisions when fighting.
+Father and son, men and women sit face to face.
+They think it is easy to shave off their hair.
 Women only grow their hair when they get married, and it is separated and coiled on both sides of the head. The headdress is made of Jujue, which is decorated with gold and jade, just like the Gebuyao in the Central Plains.
 Women could embroider leather and weave woolen fabrics.
 Men can make bows and arrows, saddles and harnesses, and smelt copper and iron to make weapons.
@@ -67,6 +60,19 @@ The boring land is suitable for planting Biaozi and Aunt.
 The bunches are like fluffy grass, and the fruits are like rice. They will mature in ten months.
 When the Wuhuan people saw the flying black beasts being pregnant and giving birth, they used this to distinguish the four seasons.
 Wuhuan's custom is to respect death in battle. They use coffins to collect corpses and have mourning and crying rituals, but when they are buried, they send them off with singing and dancing.
+
+
+Chunk 2: 
+original: 
+肥养一犬，以彩绳缨牵，并取死者所乘马衣物，皆烧而送之，言以属累犬，使护死者神灵归赤山。
+赤山在辽东西北数千里，如中国人死者魂神归贷山也。
+敬鬼神，祠天地、日月、星辰、山川及先大人有健名者。
+祠用牛、羊，毕皆烧之。
+其约法：违大人言者，罪至死；若相贼杀者，令部落自相报，不止，诣大人告之，听出马、牛、羊以赎死；其自杀父兄则无罪；若亡畔为大人所捕者，邑落不得受之，皆徙逐于雍狂之地，沙漠之中。
+其土多蝮蛇，在于令西南，乌孙东北焉。
+乌桓自为冒顿所破，众遂孤弱，常臣伏匈奴，岁输牛、马、羊皮，过时不具，辄没其妻子。
+及武帝遣骠骑将军霍去病击破匈奴左地，因徙乌桓于上谷、渔阳、右北平、辽西、辽东五郡塞外，为汉侦察匈奴动静。
+translation: 
 They kept a fat dog and led it with a colorful rope. They also took the horse and clothes and belongings of the deceased and burned them with fire to send the deceased away. This meant that they entrusted the dog to escort the soul of the deceased back to Chishan.
 Chishan is thousands of miles away in the northwest direction of Liaodong, just like the souls of people in the Central Plains return to Mount Tai after death.
 They respected the gods and ghosts and offered sacrifices to the heaven and earth, the sun, the moon, the stars, the mountains and rivers, and those who had a strong reputation among their ancestors.
@@ -74,11 +80,11 @@ They sacrificed cattle and sheep, and burned them all to death after the sacrifi
 The Wuhuan people stipulate that those who disobey the tribal leader shall be punished with death; if those who invade and kill each other, let the tribes themselves avenge each other. If the revenge is endless, report to the tribal leader and let the enemy bring horses, cattle, and sheep to redeem his life;
 There are many vipers in Wuhuan, located southwest of Dingling and northeast of Wusun.
 Since Wuhuan was defeated by Maodun, his tribe has been lonely and weak. They often surrender to the Xiongnu. They send cattle, horses, and sheep skins every year. If they are not ready after the deadline, their wives and children are often captured.
+When Emperor Wu sent Hussar General Huo Qubing to attack the left area of ​​the Xiongnu, he moved the Wuhuan people outside the fortress in the five counties of Shanggu, Yuyang, Youbeiping, Liaoxi and Liaodong to spy on the Xiongnu's movements for the Han Dynasty.
 
 
-Chunk 2: 
+Chunk 3: 
 original: 
-及武帝遣骠骑将军霍去病击破匈奴左地，因徙乌桓于上谷、渔阳、右北平、辽西、辽东五郡塞外，为汉侦察匈奴动静。
 其大人岁一朝见，于是始置护乌桓校尉，秩二千石，拥节监领之，使不得与匈奴交通。
 昭帝时，乌桓渐强，乃发匈奴单于冢墓，以报冒顿之怨。
 匈奴大怒，乃东击破乌桓。
@@ -92,7 +98,6 @@ original:
 匈奴因诱其豪帅以为吏，余者皆羁縻属之。
 光武初，乌桓与匈奴连兵为寇，代郡以东尤被其害。
 translation: 
-When Emperor Wu sent Hussar General Huo Qubing to attack the left area of ​​the Xiongnu, he moved the Wuhuan people outside the fortress in the five counties of Shanggu, Yuyang, Youbeiping, Liaoxi and Liaodong to spy on the Xiongnu's movements for the Han Dynasty.
 The leaders of the Wuhuan tribe paid homage to the emperor once a year. At this time, they began to set up Wuhuan captains with a salary of two thousand dan. They held the emperor's talisman to supervise Wuhuan and prevent Wuhuan from interacting with the Xiongnu.
 During the reign of Emperor Zhao, Wuhuan gradually became stronger and stronger, so he dug up the tomb of the Xiongnu Chanyu in order to avenge his hatred of Maodun.
 The Huns were furious and went east to defeat Wuhuan.
@@ -107,7 +112,7 @@ The Xiongnu took the opportunity to lure Wuhuan chieftains to serve as officials
 In the early days of Guangwu, Wuhuan and the Xiongnu jointly sent troops to invade the border, and the areas bounded by Daijun suffered particularly serious damage.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
 居止近塞，朝发穹庐，暮至城郭，五郡民庶，家受其辜，至于郡县损坏，百姓流亡。
 其在上谷塞外白山者，最为强富。
@@ -117,9 +122,6 @@ original:
 二十二年，匈奴国乱，乌桓乘弱击破之，匈奴转北徙数千里，漠南地空，帝乃以币帛赂乌桓。
 二十五年，辽西乌桓大人赦旦等九百二十二人率众向化，诣阙朝贡，献奴婢、牛、马及弓、虎豹貂皮。
 是时，四夷朝贺，络驿而至，天子乃命大会劳飨，赐以珍宝。
-乌桓或愿留宿卫，于是封其渠帅为侯王君长者八十一人，皆居塞内，布于缘边诸郡，令招来种人，给其衣食，遂为汉侦候，助击匈奴、鲜卑。
-时，司徒掾班彪上言： 乌桓天性轻黠，好为寇贼，若久放纵而无总领者，必复侵掠居人，但委主降掾史，恐非所能制。
-臣愚以为宜复置乌桓校尉，诚有益于附集，省国家之边虑。
 translation: 
 The Wuhuan people live close to the border. They set out from their felt tents in the morning and arrived at the city at dusk. Every household in the five counties was harmed. Counties were destroyed and people were displaced.
 Wuhuan in Baishan, outside the Shanggu border fortress, was the most powerful and wealthy.
@@ -129,16 +131,27 @@ The Wuhuan people followed Ma Yuan to attack again, but Ma Yuan fled back day an
 In the 22nd year, the Xiongnu were in civil unrest. Wuhuan took advantage of the Xiongnu's weakness and defeated the Xiongnu. The Xiongnu moved thousands of miles north, and the area south of the desert was completely empty. The emperor bribed Wuhuan with money and cloth.
 In the twenty-fifth year, Hao Dan, the leader of Wuhuan in western Liaoning, and other 922 people led his tribe to Fumo and went to the court to pay tribute, offering slaves, cattle and horses, bows and arrows, and the skins of tigers, leopards, and minks.
 When he was sent, ethnic minorities from all over came to worship and celebrate in an endless stream. The emperor ordered a grand banquet to be held to express condolences to them and reward them with treasures.
-Some Wuhuan people were willing to stay as guards, so the emperor named eighty-one Wuhuan leaders as princes and commanders, letting them live in the fortress and distribute them in the border counties. He asked them to recruit people from their own tribes and provide them with clothing and food. The Wuhuan people then scouted for enemy movements for the Han and helped Mo attack the Xiongnu and Xianbei.
-At that time, Situ Peng Ban Biao reported: The Wuhuan people are naturally frivolous and cunning, and like to be bandits. If they are indulged for a long time without anyone to supervise them to surrender and gather, they will definitely invade and plunder the people living there. I am afraid that I will not be able to control them if they are only given to the subordinates who accept the surrender.
-I foolishly thought that it would be best to re-establish the Wuhuan captain, which would indeed be beneficial to the Wuhuan people's surrender and gathering, and reduce the country's worries about the border.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
+乌桓或愿留宿卫，于是封其渠帅为侯王君长者八十一人，皆居塞内，布于缘边诸郡，令招来种人，给其衣食，遂为汉侦候，助击匈奴、鲜卑。
+时，司徒掾班彪上言： 乌桓天性轻黠，好为寇贼，若久放纵而无总领者，必复侵掠居人，但委主降掾史，恐非所能制。
+臣愚以为宜复置乌桓校尉，诚有益于附集，省国家之边虑。
 帝从之，于是始复置校尉于上谷宁城，开营府，并领鲜卑，赏赐质子，岁时互市焉。
 及明、章、和三世，皆保塞无事。
 安帝永初三年夏，渔龙乌桓与右北平胡千余寇代郡、上谷。
+translation: 
+Some Wuhuan people were willing to stay as guards, so the emperor named eighty-one Wuhuan leaders as princes and commanders, letting them live in the fortress and distribute them in the border counties. He asked them to recruit people from their own tribes and provide them with clothing and food. The Wuhuan people then scouted for enemy movements for the Han and helped Mo attack the Xiongnu and Xianbei.
+At that time, Situ Peng Ban Biao reported: The Wuhuan people are naturally frivolous and cunning, and like to be bandits. If they are indulged for a long time without anyone to supervise them to surrender and gather, they will definitely invade and plunder the people living there. I am afraid that I will not be able to control them if they are only given to the subordinates who accept the surrender.
+I foolishly thought that it would be best to re-establish the Wuhuan captain, which would indeed be beneficial to the Wuhuan people's surrender and gathering, and reduce the country's worries about the border.
+The emperor accepted this suggestion. So in Micheng in Shanggu, Wuhuan captains were established again, a military general's office was opened, and Xianbei was also commanded. He also rewarded the sons of the Wuhuan people who were held hostage, and traded with them all year round.
+By the time of Emperor Ming, Emperor Zhang, and Emperor He, the Wuhuan people were guarding the frontier and nothing happened.
+In the summer of the third year of Emperor An's reign, more than a thousand Wuhuan people from Yuyang and Hu people from Youbeiping invaded Daijun and Shanggu.
+
+
+Chunk 6: 
+original: 
 秋，雁门乌桓率众王无何，与鲜卑大人丘伦等，及南匈奴骨都侯，合七千骑寇五原，与太守战于九原高渠谷。汉兵大败，杀郡长吏。
 乃遣车骑将军何熙、度辽将军梁等击，大破之。
 无何乞降，鲜卑走还塞外。
@@ -150,13 +163,7 @@ original:
 延熹九年夏，乌桓复与鲜卑及南匈奴寇缘边九郡，俱反，张奂讨之，皆出塞去。
 灵帝初，乌桓大人上谷有难楼者，众九千余落，辽西有丘力居者，众五千余落，皆自称王；又辽东苏仆延，众千余落，自称峭王；右北平乌延，众人百余落，自称汗鲁王；并勇健而多计策。
 中平四年，前中山太守张纯畔，入丘力居众中，自号弥天安定王，遂为诸郡乌桓元帅，寇掠青、徐、幽、冀四州。
-五年，以刘虞为幽州牧，虞购募斩纯首，北州乃定。
-献定初平中，丘力居死，子楼班年少，从子蹋顿有武略，代立，总摄三部，众皆从其号令。
-建安初，冀州牧袁绍与前将军公孙瓚相持不决，蹋顿遣使诣绍求和亲，遂遣兵助击瓚，破之。
 translation: 
-The emperor accepted this suggestion. So in Micheng in Shanggu, Wuhuan captains were established again, a military general's office was opened, and Xianbei was also commanded. He also rewarded the sons of the Wuhuan people who were held hostage, and traded with them all year round.
-By the time of Emperor Ming, Emperor Zhang, and Emperor He, the Wuhuan people were guarding the frontier and nothing happened.
-In the summer of the third year of Emperor An's reign, more than a thousand Wuhuan people from Yuyang and Hu people from Youbeiping invaded Daijun and Shanggu.
 In the autumn of this year, Wuhuan of Yanmen led the king Wuhe, together with the Xianbei leader Qiulun and others, and the Guduhou of the Southern Xiongnu, with more than 7,000 cavalry, they invaded Wuyuan and fought with the Wuyuan prefect at Gaoqu Valley in Jiuyuan. The Han army was defeated and the county officials were killed.
 The imperial court then sent the cavalry general He Xi, the Liao general Liang Dong and others to attack Wuhe, and they were defeated.
 There was no need to beg for surrender, and the Xianbei people fled back beyond the frontier fortress.
@@ -168,13 +175,13 @@ During the Yongshou period of Emperor Huan, the Wuhuan people in Shuofang rebell
 In the summer of the ninth year of Yanxi, Wuhuan, together with Xianbei and the Southern Xiongnu, invaded nine counties along the border. They rebelled at the same time. Zhang Huan conquered the enemy, and they all left the border fortress.
 In the early years of Emperor Ling, there was a tribal leader named Nanlou in Shanggu, who had more than 9,000 tribes of tribes, and there was a leader named Qiu Liju in western Liaoning, with more than 5,000 tribes of tribes, and they all called themselves kings. In addition, Su Puyan in Liaodong had more than a thousand tribes and called himself King Qiao; Wuyan in Youbeiping had more than 800 tribes and called himself King Hanlu: they were both brave and strong and had many strategies.
 In the fourth year of Chongchuo, the governor of Protozoa Mountain rebelled. He joined Qiu Liju's tribe and proclaimed himself King Mitian Anding. He then became the marshal of the Wuhuan people in each county and invaded and plundered the four prefectures of Qingzhou, Xuzhou, Youzhou and Jizhou.
-In the fifth year, the imperial court appointed Liu Yu as the shepherd of Youzhou. Liu Yu offered a reward for recruiting people to cut off Zhang Chun's head, and the northern states were pacified.
-During the Chuping reign of Emperor Xian, Qiu Liju died. His son Lou Ban was young, and his nephew Tadun, who knew how to use troops and had strategies, succeeded Lou Ban and took charge of the Wuhuan people in three counties. All the people obeyed his orders.
-In the early years of Jian'an, Yuan Shao, the shepherd of Jizhou, was at loggerheads with former general Gongsun Zan. Tadun sent an envoy to Yuan Shao to request peace, and then sent troops to help Yuan Shao attack Gongsun Zan and defeated Gongsun Zan.
 
 
-Chunk 5: 
+Chunk 7: 
 original: 
+五年，以刘虞为幽州牧，虞购募斩纯首，北州乃定。
+献定初平中，丘力居死，子楼班年少，从子蹋顿有武略，代立，总摄三部，众皆从其号令。
+建安初，冀州牧袁绍与前将军公孙瓚相持不决，蹋顿遣使诣绍求和亲，遂遣兵助击瓚，破之。
 绍矫制赐蹋顿、难楼、苏仆延、乌延等，皆以单于印绶。
 后难楼、苏仆延率其部众奉楼班为单于，蹋顿为王，然蹋顿犹秉计策。
 广阳人阎柔，少没乌桓、鲜卑中，为其种人所归信，柔乃因鲜卑众，杀乌桓校尉邢举而代之。
@@ -185,12 +192,10 @@ original:
 建安十二年，曹操自征乌桓，大破蹋顿于柳城，斩之，首虏二十余万人。
 袁尚与楼班、乌延等皆走辽东，辽东太守公孙康并斩送之。
 其余众万余落，悉徙居中国云。
-鲜卑者，亦东胡之支也，别依鲜卑山，故因号焉。
-其言语习俗与乌桓同。
-唯婚姻先髡头，以季春月大会于饶乐水上，饮晏毕，然后配合。
-又禽盖异于中国者，野马、原羊、角端牛，以角为弓，俗谓之角端弓者。
-又有貂？鼲子，皮毛柔蠕，故天下以为名裘。
 translation: 
+In the fifth year, the imperial court appointed Liu Yu as the shepherd of Youzhou. Liu Yu offered a reward for recruiting people to cut off Zhang Chun's head, and the northern states were pacified.
+During the Chuping reign of Emperor Xian, Qiu Liju died. His son Lou Ban was young, and his nephew Tadun, who knew how to use troops and had strategies, succeeded Lou Ban and took charge of the Wuhuan people in three counties. All the people obeyed his orders.
+In the early years of Jian'an, Yuan Shao, the shepherd of Jizhou, was at loggerheads with former general Gongsun Zan. Tadun sent an envoy to Yuan Shao to request peace, and then sent troops to help Yuan Shao attack Gongsun Zan and defeated Gongsun Zan.
 In the name of the imperial court, Yuan Shao granted Tadun, Nanlou, Su Puyan, Wuyan and others the Chanyu seal and ribbon.
 Later, Nanlou and Su Puyan led their troops to support Louban as Chanyu and Tadun as king, but Tadun was still responsible for making suggestions.
 Yan Rou from Guangyang was trapped in Wuhuan and Xianbei since childhood, and was attached and trusted by the Wuhuan and Xianbei people. Yan Rou then used the Xianbei tribe to kill Wuhuan captain Xing Ju and replace him.
@@ -201,67 +206,67 @@ Catching up with Cao Cao to pacify the north of the Yellow River, Yan Rou led th
 In the twelfth year of Jian'an, Cao Cao personally conquered Wuhuan and defeated Tadun in Liucheng. He killed Tadun and captured more than 200,000 enemy prisoners.
 Yuan Shangyu, Lou Ban, Wu Yan and others all fled to Liaodong. Gongsun Kang, the governor of Liaodong, killed them all and gave their heads to Cao Cao.
 The remaining more than 10,000 cities and towns were all moved to the Central Plains.
-Xianbei is also a branch of Donghu. The Xianbei people also rely on Xianbei Mountain, so they use this as their clan name.
-The language and customs of the Xianbei people are the same as those of Wuhuan.
-Only when they get married, they shave their heads first and meet in large numbers by the Raole River in the last month of spring. After eating and drinking, they have sex.
-The birds and animals there are different from those in the Central Plains. There are wild horses, salamanders, and horned oxen. Bows can be made from the horns of these cows, which are called horn-end bows among the people.
-There are also mink, uranium, and mole. Their skin and hair are very soft, so people all over the world use them to make valuable furs.
 
 
-Chunk 6: 
+Chunk 8: 
 original: 
+鲜卑者，亦东胡之支也，别依鲜卑山，故因号焉。
+其言语习俗与乌桓同。
+唯婚姻先髡头，以季春月大会于饶乐水上，饮晏毕，然后配合。
+又禽盖异于中国者，野马、原羊、角端牛，以角为弓，俗谓之角端弓者。
+又有貂？鼲子，皮毛柔蠕，故天下以为名裘。
 汉初，亦为冒顿所破，远窜辽东塞外，与乌桓相接，未常通中国焉。
 光武初，匈奴强盛，率鲜卑与乌桓寇抄北边，杀略吏人，无有宁岁。
 建武二十一年，鲜卑与匈奴入辽东，辽东太守祭肜击破之，斩获殆尽，事已具《肜传》，由是震怖。
 及南单于附汉，北虏孤弱，二十五年，鲜卑始通驿使。
 其后都护偏何等诣祭肜求自效功，因令击北匈奴左伊育訾部，斩首二千余级。
+translation: 
+Xianbei is also a branch of Donghu. The Xianbei people also rely on Xianbei Mountain, so they use this as their clan name.
+The language and customs of the Xianbei people are the same as those of Wuhuan.
+Only when they get married, they shave their heads first and meet in large numbers by the Raole River in the last month of spring. After eating and drinking, they have sex.
+The birds and animals there are different from those in the Central Plains. There are wild horses, salamanders, and horned oxen. Bows can be made from the horns of these cows, which are called horn-end bows among the people.
+There are also mink, uranium, and mole. Their skin and hair are very soft, so people all over the world use them to make valuable furs.
+In the early Han Dynasty, Xianbei was also defeated by Maodun and fled far away to the frontier fortress in Liaodong, adjacent to Wuhuan, but had no contact with the Han.
+In the early years of Chesi, Yu maggot was so powerful that he led Panbei and Guhuan to invade and plunder the northern border, killing and plundering officials and people. There is no peace for a year.
+In the 21st year of Jianwu's reign, Xianbei and the Xiongnu entered Liaodong. The prefect of Liaodong, Ji Xu, defeated the enemies and killed or captured almost all of them. The incident has been recorded in the "Biography of Ji Xu".
+The Xianbei people were shocked and frightened from then on. When Shan Yu returned to the desert in the south, the enemies in the north were isolated and weak. In the twenty-fifth year, Xianbei exchanged envoys with Han.
+From then on, the governor, Pianhe, and others came to see Jixu and asked for help. Jixu asked them to attack the Zuoyi Yuzi tribe of the Northern Xiongnu and killed more than 2,000 people.
+
+
+Chunk 9: 
+original: 
 其后偏何连岁出兵击北虏，还辄持首级诣辽东受赏赐。
 三十年，鲜卑大人於仇贲、满头等率种人诣阙朝贺，慕义内属。
 帝封於仇贲为王，满头为侯。
 时渔阳赤山乌桓歆志贲等数寇上谷。
 永平元年，祭肜复赂偏何击歆志贲，破斩之，于是鲜卑大人皆来归附，并诣辽东受赏赐，青、徐二州给钱岁二亿七千万为常。
 明、章二世，保塞无事。
+和帝永元中，大将军窦宪遣右校尉耿夔击破匈奴，北单于逃走，鲜卑因此转徙据其地。
+匈奴余种留者尚有十余万落，皆自号鲜卑，鲜卑由此渐盛。
+九年，辽东鲜卑攻肥如县，太守祭参坐沮败，下狱死。
+十三年，辽东鲜卑寇右北平，因入渔阳，渔阳太守击破之。
+延平元年，鲜卑复寇渔阳，太守张显率数百人出塞追之。兵马掾严授谏曰： 前道险阻，贼势难量，宜且结营，先令轻骑侦视之。
 translation: 
-In the early Han Dynasty, Xianbei was also defeated by Maodun and fled far away to the frontier fortress in Liaodong, adjacent to Wuhuan, but had no contact with the Han.
-In the early years of Chesi, Yu maggot was so powerful that he led Panbei and Guhuan to invade and plunder the northern border, killing and plundering officials and people. There is no peace for a year.
-In the 21st year of Jianwu's reign, Xianbei and the Xiongnu entered Liaodong. The prefect of Liaodong, Ji Xu, defeated the enemies and killed or captured almost all of them. The incident has been recorded in the "Biography of Ji Xu".
-The Xianbei people were shocked and frightened from then on. When Shan Yu returned to the desert in the south, the enemies in the north were isolated and weak. In the twenty-fifth year, Xianbei exchanged envoys with Han.
-From then on, the governor, Pianhe, and others came to see Jixu and asked for help. Jixu asked them to attack the Zuoyi Yuzi tribe of the Northern Xiongnu and killed more than 2,000 people.
 Why did he send troops to attack the enemy in the north year after year? When he returned, he always took the enemy's head and went to Liaodong to receive rewards.
 Thirty years ago, Xianbei tribe leaders Yu Qiuzui, Mantou and others led their tribes to the capital to worship and celebrate. They admired the virtues of the Han Dynasty and submitted to the imperial court.
 The emperor made Qiuben king and Mantou a marquis.
 At that time, Wuhuan, Xinzhiben and others from Chishan in Yuyang invaded Shanggu many times.
 In the first year of Yongping, Jixu bribed Pianhe again, attacked Xinzhiben, defeated and killed Xinzhiben. In this way, the tribal leaders of Xianbei all came to submit and went to Liaodong to receive rewards. Qingzhou and Xuzhou gave them 270 million yuan every year as a regular practice.
 During the Ming and Zhang dynasties, the Xianbei people guarded the border and nothing happened.
-
-
-Chunk 7: 
-original: 
-和帝永元中，大将军窦宪遣右校尉耿夔击破匈奴，北单于逃走，鲜卑因此转徙据其地。
-匈奴余种留者尚有十余万落，皆自号鲜卑，鲜卑由此渐盛。
-九年，辽东鲜卑攻肥如县，太守祭参坐沮败，下狱死。
-十三年，辽东鲜卑寇右北平，因入渔阳，渔阳太守击破之。
-延平元年，鲜卑复寇渔阳，太守张显率数百人出塞追之。兵马掾严授谏曰： 前道险阻，贼势难量，宜且结营，先令轻骑侦视之。
-显意甚锐，怒欲斩之。
-因复进兵，遇虏伏发，士卒悉走，唯授力战，身被十创，手杀数人而死。
-显中流矢，主簿卫福、功曹徐咸皆自投赴显，俱殁于阵。
-邓太后策书褒叹，赐显钱六十万，以家二人为郎，授、福、咸各钱十万，除一子为郎。
-安帝永初中，鲜卑大人燕荔阳诣阙朝贺，邓太后赐燕荔阳王印绶，赤车参驾，令止乌桓校尉所居宁城下，通胡市，因筑南北两部质馆。
-translation: 
 During the reign of Emperor Yongyuan, the general Dou Xian sent the right commander Geng Kui to defeat the Huns, and the Northern Chanyu fled. The Xianbei people therefore moved and occupied the territory where the Huns lived.
 There are still more than 100,000 tribes left by the Xiongnu. They all call themselves Xianbei people, and Xianbei gradually becomes stronger and stronger.
 In the ninth year, the Xianbei people from Liaodong attacked Feiru County. The prefect Ji Shen was defeated and convicted, and died in prison.
 In the thirteenth year, the Xianbei people from Liaodong invaded Youbeiping, and then entered Yuyang, but were defeated by the Yuyang prefect.
 In the first year of Yanping, Xianbei invaded Yuyang again. The prefect Zhang Xian led hundreds of people out of the frontier to pursue the enemy. Yan Shuo, a trooper and horseman, dissuaded him and said: "The road ahead is difficult and blocked, and the enemy's strength is difficult to estimate. It is best to build a military camp for the time being and send light cavalry to detect the enemy's movements."
-Zhang Xian's spirit was very strong. He was very angry and wanted to kill Yan Shou.
-So he marched into the army, but encountered an enemy ambush and attacked. All the soldiers fled. Only Yan Shuo fought hard. He suffered more than ten wounds on his body and died after killing several enemies with his own hands.
-Zhang Xian was shot by a stray arrow. Wei Fu, the chief official, and Xu Xian, the meritorious officer, both rushed to save Zhang Xian and died together on the battlefield.
-Empress Dowager Deng issued a policy letter praising Zhang Xian and others, and rewarded Zhang Xian's family with 600,000 yuan, and appointed two members of his family as Langs; Yan Shuo, Wei Fu, and Xu Xian were each rewarded with 100,000 Yuan, and each family appointed a son as Lang.
-During the Yongchu period of Emperor An, Yan Liyang, the leader of the Xianbei tribe, went to the court to pay homage and celebrate. Empress Dowager Deng gave Yan Liyang the seal and a three-horse red carriage, and asked him to live near Micheng where Wuhuan Colonel lived, and trade with the Hu people. Therefore, two buildings in the north and south were built to accept surrenders and hostages.
 
 
-Chunk 8: 
+Chunk 10: 
 original: 
+显意甚锐，怒欲斩之。
+因复进兵，遇虏伏发，士卒悉走，唯授力战，身被十创，手杀数人而死。
+显中流矢，主簿卫福、功曹徐咸皆自投赴显，俱殁于阵。
+邓太后策书褒叹，赐显钱六十万，以家二人为郎，授、福、咸各钱十万，除一子为郎。
+安帝永初中，鲜卑大人燕荔阳诣阙朝贺，邓太后赐燕荔阳王印绶，赤车参驾，令止乌桓校尉所居宁城下，通胡市，因筑南北两部质馆。
 鲜卑邑落百二十部，各遣入质。
 是后或降或畔，与匈奴、乌桓更相攻击。
 元初二年秋，辽东鲜卑围无虑县，州郡合兵，固保清野，鲜卑无所得。
@@ -269,11 +274,12 @@ original:
 四年，辽西鲜卑连休等遂烧塞门，寇百姓。
 乌桓大人於秩居等与连休有宿怨，共郡兵奔击，大破之，斩首千三百级，悉获其生口、牛、马、财物。
 五年秋，代郡鲜卑万余骑遂穿塞入寇，分攻城邑，烧官寺，杀长吏而生。
-乃发缘边甲卒、黎阳营兵，屯上谷以备之。
-冬、鲜卑入上谷，攻居庸关，复发缘边诸郡、黎阳营兵、积射士步骑二万人，屯列冲要。
-六年秋，鲜卑入马城塞，杀长吏。度辽将军邓遵发积射士三千人，及中郎将马续率南单于，与辽西、右北平兵马会，出塞追击鲜卑，大破之，获生口及牛、羊、财物甚众。
-又发积射士三千人，马三千匹，诣度辽营屯守。
 translation: 
+Zhang Xian's spirit was very strong. He was very angry and wanted to kill Yan Shou.
+So he marched into the army, but encountered an enemy ambush and attacked. All the soldiers fled. Only Yan Shuo fought hard. He suffered more than ten wounds on his body and died after killing several enemies with his own hands.
+Zhang Xian was shot by a stray arrow. Wei Fu, the chief official, and Xu Xian, the meritorious officer, both rushed to save Zhang Xian and died together on the battlefield.
+Empress Dowager Deng issued a policy letter praising Zhang Xian and others, and rewarded Zhang Xian's family with 600,000 yuan, and appointed two members of his family as Langs; Yan Shuo, Wei Fu, and Xu Xian were each rewarded with 100,000 Yuan, and each family appointed a son as Lang.
+During the Yongchu period of Emperor An, Yan Liyang, the leader of the Xianbei tribe, went to the court to pay homage and celebrate. Empress Dowager Deng gave Yan Liyang the seal and a three-horse red carriage, and asked him to live near Micheng where Wuhuan Colonel lived, and trade with the Hu people. Therefore, two buildings in the north and south were built to accept surrenders and hostages.
 One hundred and twenty tribes in Xianbei each sent people to serve as hostages.
 After that, the Xianbei people sometimes surrendered, sometimes rebelled, and fought with the Xiongnu and Wuhuan.
 In the autumn of the second year of the Yuan Dynasty, the Xianbei people from Liaodong surrounded Wulu County. The prefectures and counties combined forces to hold on and transfer people, livestock, grain, and property. The Xianbei people got nothing.
@@ -281,41 +287,39 @@ They also attacked Fuli camp and killed county officials.
 In the fourth year, Xianbei Lianxiu and others in western Liaoning actually burned down the gates of the city and invaded and plundered the people.
 Wuhuan tribe leader Yu Zhiju and others had always had a grudge against Lian Xiu, so they united with the troops from Liaoxi County to attack Lian Xiu. They defeated Lian Xiu and killed 1,300 people. All the living people, cattle, horses and property were captured by the Han army.
 In the autumn of the fifth year, more than 10,000 Xianbei cavalry from Daijun invaded through the border fortress, divided their forces to attack the cities, burned down the government offices, and killed county officials.
-So the imperial court fine-tuned the troops along the border and the soldiers of Liyang Camp to garrison the Shanggu to guard against Xianbei.
-In winter, Xianbei entered Shanggu and attacked Juyongguan. The imperial court once again mobilized troops from border counties, soldiers from Liyang Camp, soldiers who hunted for traces, infantry and cavalry, a total of 20,000 people, to guard various key places.
-In the autumn of the sixth year, the Xianbei troops entered the Macheng border fortress and killed county officials. General Deng Zun of the Liao Dynasty sent three thousand soldiers who were searching for traces and shot. He and Zhonglang General Ma Xu led the army of Nan Shanyu to join forces with troops from western Liaoning and Youbeiping. They went out of the border fortress to pursue the Xianbei people. They defeated Xianbei and gained a lot of people, cattle, sheep, and property.
-The imperial court also recruited 3,000 soldiers who were searching for traces and 3,000 horses, and sent them to the military camp of General Du Liao to garrison.
 
 
-Chunk 9: 
+Chunk 11: 
 original: 
+乃发缘边甲卒、黎阳营兵，屯上谷以备之。
+冬、鲜卑入上谷，攻居庸关，复发缘边诸郡、黎阳营兵、积射士步骑二万人，屯列冲要。
+六年秋，鲜卑入马城塞，杀长吏。度辽将军邓遵发积射士三千人，及中郎将马续率南单于，与辽西、右北平兵马会，出塞追击鲜卑，大破之，获生口及牛、羊、财物甚众。
+又发积射士三千人，马三千匹，诣度辽营屯守。
 永宁元年，辽西鲜卑大人乌伦、其至鞬率众诣邓遵降，奉贡献。
 诏封乌伦为率众王，其至鞬为率众侯，赐彩缯各有差。
 建光元年秋，其至鞬复畔，寇居庸，云中太守成严击之，兵败，功曹杨穆以身捍严，与俱战殁。
 鲜卑于是围乌桓校尉徐常于马城。
 度辽将军耿夔与幽州刺史庞参发广阳、渔阳、涿郡甲卒，分为两道救之；常夜得潜出，与夔等并力并进，攻贼围，解之。
+translation: 
+So the imperial court fine-tuned the troops along the border and the soldiers of Liyang Camp to garrison the Shanggu to guard against Xianbei.
+In winter, Xianbei entered Shanggu and attacked Juyongguan. The imperial court once again mobilized troops from border counties, soldiers from Liyang Camp, soldiers who hunted for traces, infantry and cavalry, a total of 20,000 people, to guard various key places.
+In the autumn of the sixth year, the Xianbei troops entered the Macheng border fortress and killed county officials. General Deng Zun of the Liao Dynasty sent three thousand soldiers who were searching for traces and shot. He and Zhonglang General Ma Xu led the army of Nan Shanyu to join forces with troops from western Liaoning and Youbeiping. They went out of the border fortress to pursue the Xianbei people. They defeated Xianbei and gained a lot of people, cattle, sheep, and property.
+The imperial court also recruited 3,000 soldiers who were searching for traces and 3,000 horses, and sent them to the military camp of General Du Liao to garrison.
+In the first year of Yongning, the leaders of the Xianbei tribe in western Liaoning, Wu Lun and Qizhi Tar, led their tribes to surrender to Deng Zun and offer tribute.
+The emperor issued a letter from Shao and granted Ulun the title of king and the princes of Tartar. They were rewarded with different amounts of colorful silks.
+In the autumn of the first year of Jianguang, he went to Tartar and rebelled, and invaded Juyong. Cheng Yan, the prefect of Yunzhong, attacked him to Tartar, but was defeated. The meritorious Cao Yang Mu defended Cheng Yan with his body and died together with Cheng Yan.
+The Xianbei troops therefore surrounded Xu Chang, the Wuhuan captain in Macheng.
+Geng Kui, the general of the Liao Dynasty, and Pang Shen, the governor of Youzhou, mobilized soldiers from Guangyang, Yuyang, and Zhuojun to rescue in two ways. Xu Chang quietly left the city at night, joined forces with Geng Kui and others to attack, attacked the enemy's surrounding troops, and relieved the siege.
+
+
+Chunk 12: 
+original: 
 鲜卑既累杀郡守，胆意转盛，控弦数万骑。
 延光元年冬，复寇雁门、定襄，遂攻太原，掠杀百姓。
 二年冬，其至鞬自将万余骑入东领候，分为数道，攻南匈奴于曼柏，薁鞬日逐王战死，杀千余人。
 三年秋，复寇高柳，击破南匈奴，杀渐将王。
 顺帝永建元年秋，鲜卑其至鞬寇代郡，太守李超战死。
 明年春，中郎将张国遣从事将南单于兵步骑万余人出塞，击破之，获其资重二千余种。
-translation: 
-In the first year of Yongning, the leaders of the Xianbei tribe in western Liaoning, Wu Lun and Qizhi Tar, led their tribes to surrender to Deng Zun and offer tribute.
-The emperor issued a letter from Shao and granted Ulun the title of king and the princes of Tartar. They were rewarded with different amounts of colorful silks.
-In the autumn of the first year of Jianguang, he went to Tartar and rebelled, and invaded Juyong. Cheng Yan, the prefect of Yunzhong, attacked him to Tartar, but was defeated. The meritorious Cao Yang Mu defended Cheng Yan with his body and died together with Cheng Yan.
-The Xianbei troops therefore surrounded Xu Chang, the Wuhuan captain in Macheng.
-Geng Kui, the general of the Liao Dynasty, and Pang Shen, the governor of Youzhou, mobilized soldiers from Guangyang, Yuyang, and Zhuojun to rescue in two ways. Xu Chang quietly left the city at night, joined forces with Geng Kui and others to attack, attacked the enemy's surrounding troops, and relieved the siege.
-Since Yuli killed the governor many times, his courage and determination became stronger, and he had tens of thousands of cavalry capable of fighting.
-In the winter of the first year of Yanguang, Xianbei invaded Yanmen and Dingxiang, and then attacked Taiyuan, looting and killing people.
-In the winter of the second year, he went to Tartar and personally led more than 10,000 cavalry into the border post of the Eastern Territory. The troops were divided into several groups and attacked the Southern Xiongnu in Manbai. During the battle, the king died in the battle, and more than 1,000 people were killed.
-In the autumn of the third year, he went to Tartar and invaded Gaoliu, defeated the Southern Xiongnu and killed King Jianjiang.
-In the autumn of the first year of Yongjian reign of Emperor Shun, Xianbei Qizhi Tartar invaded Dai County, and the prefect Li Chao died in the battle.
-In the spring of the next year, Zhonglang sent Zhang Guo to lead Nan Shanyu's more than 10,000 infantry and cavalry out of the frontier, defeated them to the Tartars, and obtained more than 2,000 kinds of baggage from them.
-
-
-Chunk 10: 
-original: 
 时，辽东鲜卑六千余骑亦寇辽东玄菟，乌桓校尉耿晔发缘边诸郡兵及乌桓率众王出塞击之，斩首数百级，大获其生口、牛、马、什物，鲜卑乃率种众三万人诣辽东乞降。
 三年，四年，鲜卑频寇渔阳、朔方。
 六年秋，耿晔遣司马将胡兵数千人，出塞击破之。
@@ -328,6 +332,12 @@ original:
 后其至鞬死，鲜卑抄盗差稀。
 桓帝时，鲜卑檀石槐者，其父投鹿侯，初从匈奴军三年，其妻在家生子。
 translation: 
+Since Yuli killed the governor many times, his courage and determination became stronger, and he had tens of thousands of cavalry capable of fighting.
+In the winter of the first year of Yanguang, Xianbei invaded Yanmen and Dingxiang, and then attacked Taiyuan, looting and killing people.
+In the winter of the second year, he went to Tartar and personally led more than 10,000 cavalry into the border post of the Eastern Territory. The troops were divided into several groups and attacked the Southern Xiongnu in Manbai. During the battle, the king died in the battle, and more than 1,000 people were killed.
+In the autumn of the third year, he went to Tartar and invaded Gaoliu, defeated the Southern Xiongnu and killed King Jianjiang.
+In the autumn of the first year of Yongjian reign of Emperor Shun, Xianbei Qizhi Tartar invaded Dai County, and the prefect Li Chao died in the battle.
+In the spring of the next year, Zhonglang sent Zhang Guo to lead Nan Shanyu's more than 10,000 infantry and cavalry out of the frontier, defeated them to the Tartars, and obtained more than 2,000 kinds of baggage from them.
 At that time, more than 6,000 cavalrymen from Xianbei in Liaodong also invaded Liaodong and Xuantu. Wuhuan captain Geng Ye mobilized troops from the border counties and Wuhuan led the kings out of the border fortress to attack Xianbei, killing hundreds of people and obtaining a large number of people, cattle, horses and various utensils. The Xianbei leader then led 30,000 troops to Liaodong to beg for surrender.
 In the third and fourth years of Yongjian, the Xianbei people invaded Yuyang and Shuofang many times.
 In the autumn of the sixth year, Geng Ye sent Sima to lead thousands of Hu soldiers to the frontier fortress and defeated the Xianbei people.
@@ -341,7 +351,7 @@ Later, he died, and the Xianbei people's raids and invasions gradually decreased
 During the reign of Emperor Huan, there was a man named Tan Shihuai in Xianbei. His father was Touluhou. He served in the Xiongnu army for three years, and his wife gave birth to a child at home.
 
 
-Chunk 11: 
+Chunk 13: 
 original: 
 投鹿侯归，怪欲杀之。
 妻言尝昼行，闻雷震，仰天视而雹入其口，因吞之，遂身，十月而产，此子必有奇异，且宜长视。
@@ -353,8 +363,6 @@ original:
 檀石槐乃立庭于弹汗山仇水上，去高柳北三百余里，兵马甚盛，东西部大人皆归焉。
 因南抄缘边，北拒丁零，东却夫馀，西击乌孙，尽据匈奴故地，东西万四千余里，南北七千余里，网罗山川水泽盐池。
 永寿二年秋，檀石槐遂将三四千骑寇云中。
-延熹元年，鲜卑寇北边。
-冬，使匈奴中郎将张奂率南单于出塞击之，斩首二百级。
 translation: 
 After returning from Tou Luhou, he felt strange and wanted to kill the child.
 The wife said that she once walked in broad daylight and heard thunder. She looked up to the sky. A hailstone happened to fall into her mouth. She swallowed it and became pregnant. Ten months later, she gave birth to a child. This child must have something extraordinary, so it was best to raise him up temporarily.
@@ -366,12 +374,12 @@ From then on the people in the tribe were afraid of obeying him. So Tan Shihuai 
 Tan Shihuai then established his royal court by the Geqiu River in Danhan Mountain, more than three hundred miles north of Gaoliu. Tanshihuai's men and horses are very powerful, and the tribal leaders in the east and west all submit to Tanshihuai.
 Tanshihuai took this opportunity to plunder the Han border areas to the south, defended against Ding Ling in the north, repulsed Fuyu in the north, attacked Wusun in the west, and occupied all the Xiongnu's original territory. It was more than 14,000 miles long from east to west and more than 7,000 miles wide from north to south. Mountains, rivers, swamps and salt ponds were all under its jurisdiction.
 In the autumn of the second year of Yongshou, Tan Shihuai led three or four thousand cavalry to invade Yunzhong.
-In the first year of Yanxi, Xianbei invaded the northern border.
-In winter, the imperial court sent the Xiongnu Zhonglang general Zhang Huan to lead Nandanyu out of the border to attack Xianbei and killed 200 people.
 
 
-Chunk 12: 
+Chunk 14: 
 original: 
+延熹元年，鲜卑寇北边。
+冬，使匈奴中郎将张奂率南单于出塞击之，斩首二百级。
 二年，复入雁门，杀数百人，大抄掠而去。
 六年夏，千余骑寇辽东属国。
 九年夏，遂分骑数万人入缘边九郡，并杀掠吏人。于是复遣张奂击之，鲜卑乃出塞去。
@@ -384,7 +392,13 @@ original:
 五年，鲜卑寇幽州。
 六年夏，鲜卑寇三边。
 秋，夏育上言： 鲜卑寇边，自春以来，三十余发，请征幽州诸郡兵出塞击之，一冬二春，必能禽灭。
+朝廷未许。
+先是，护羌校尉田晏坐事论刑被原，欲立功自效，乃请中常侍王甫求得为将，甫因此议遣兵，与育并力讨贼。帝乃拜晏为破鲜卑中郎将。
+大臣多有不同，乃召百官议朝堂。
+议郎蔡邕议曰：《书》戒猾夏，《易》伐鬼方，周有猃狁、蛮荆之师，汉有阗颜、瀚海之事。
 translation: 
+In the first year of Yanxi, Xianbei invaded the northern border.
+In winter, the imperial court sent the Xiongnu Zhonglang general Zhang Huan to lead Nandanyu out of the border to attack Xianbei and killed 200 people.
 In the second year, the Xianbei people broke into Yanmen again, killed hundreds of people, and looted wantonly.
 In the summer of the sixth year, more than a thousand Xianbei cavalry invaded the Liaodong vassal state.
 In the summer of the ninth year, Xianbei actually dispatched tens of thousands of cavalry into the nine counties along the border, killing and plundering officials and people. So the imperial court sent Zhang Huan to attack the Xianbei invaders, and the enemies left the border fortress.
@@ -397,14 +411,14 @@ The imperial court transferred Li Yu to the post of Colonel Hu Wuhuan.
 In the fifth year, Xianbei invaded Youzhou.
 In the summer of the sixth year, Xianbei invaded the borders of the three states.
 In autumn, Xia Yu wrote a letter saying: Xianbei has invaded the border. There have been more than thirty cases since spring. Please fine-tune the troops from various counties in Youzhou to attack Xianbei from the border. In one winter and two springs, the enemy will be able to be wiped out.
+The court did not agree.
+Before this, Tian Yan, the captain of the Qiang Guards, was convicted but was pardoned. He wanted to establish his effectiveness, so he asked Wang Fu, the permanent attendant, to help him become a general. Wang Fu therefore discussed sending troops to join forces with Xia Yu to conquer the enemy. The emperor then appointed Tian Yan as the general of Zhonglang who defeated Xianbei.
+Many among the ministers disagreed. The emperor then summoned the ministers to discuss the matter in the court.
+Yilang Cai Yong expressed his opinion: "Shangshu" warns against barbarians disturbing China, and "Book of Changes" records that Gaozong conquered the ghosts. The Zhou Dynasty sent troops to attack Jianxi and Manjing, and the Han Dynasty sent troops to Tianyan Mountain and Hanhai.
 
 
-Chunk 13: 
+Chunk 15: 
 original: 
-朝廷未许。
-先是，护羌校尉田晏坐事论刑被原，欲立功自效，乃请中常侍王甫求得为将，甫因此议遣兵，与育并力讨贼。帝乃拜晏为破鲜卑中郎将。
-大臣多有不同，乃召百官议朝堂。
-议郎蔡邕议曰：《书》戒猾夏，《易》伐鬼方，周有猃狁、蛮荆之师，汉有阗颜、瀚海之事。
 征讨殊类，所由尚矣。
 然而时有同异，势有可否，故谋有得失，事有成败，不可齐也。
 武帝情存远略，志辟四方，南诛百越，北讨强胡，西伐大宛，东并朝鲜。
@@ -414,11 +428,15 @@ original:
 既而觉悟，乃息兵罢役，封丞相为富民侯。
 故主父偃曰： 夫务战胜，穷武事，未有不悔者也。
 夫以世宗神武，将相良猛，财赋充实，所拓广远，犹有悔焉。
+况今人财并乏，事劣昔时乎！
+自匈奴遁逃，鲜卑强盛，据其故地，称兵十万，才力劲健，意智益生。
+加以关塞不严，禁网多漏，精金良铁，皆为贼有；汉人逋逃，为之谋主，兵利马疾，过于匈奴。
+昔段良将，习兵善战，有事西羌，犹十余年。
+今育、晏才策，未必过，鲜卑种众，不弱于曩时。
+而虚计二载，自许有成，若祸结兵连，岂得中休？
+当复征发众人，转运无已，是为耗竭诸夏，并力蛮夷。
+夫边垂之患，手足之蚧搔；中国之困，胸背之瘭疽。
 translation: 
-The court did not agree.
-Before this, Tian Yan, the captain of the Qiang Guards, was convicted but was pardoned. He wanted to establish his effectiveness, so he asked Wang Fu, the permanent attendant, to help him become a general. Wang Fu therefore discussed sending troops to join forces with Xia Yu to conquer the enemy. The emperor then appointed Tian Yan as the general of Zhonglang who defeated Xianbei.
-Many among the ministers disagreed. The emperor then summoned the ministers to discuss the matter in the court.
-Yilang Cai Yong expressed his opinion: "Shangshu" warns against barbarians disturbing China, and "Book of Changes" records that Gaozong conquered the ghosts. The Zhou Dynasty sent troops to attack Jianxi and Manjing, and the Han Dynasty sent troops to Tianyan Mountain and Hanhai.
 Conquering other races has a long history.
 However, times have similarities and differences, situations have conditions that can and cannot be done, so plans have gains and losses, things have successes and failures, and they cannot be treated the same.
 Emperor Wu had a far-reaching strategy and was determined to open up the four borders. He conquered Baiyue in the south, conquered the powerful Hu people in the north, attacked Dawan in the west, and annexed North Korea in the east.
@@ -428,24 +446,6 @@ Zhizhi envoys wearing embroidered clothes left the capital at the same time hold
 Soon after the emperor came to his senses, he stopped the war, dismissed the servitude, and made the prime minister a Marquis of the Rich People.
 Therefore, Zhufu Yan said: No one who thinks only about winning the war and is busy with the war will not regret it.
 With King Sejong's prowess, his generals virtuous and brave, his wealth and tribute, and the vast and far-reaching lands he developed, he still felt regretful.
-
-
-Chunk 14: 
-original: 
-况今人财并乏，事劣昔时乎！
-自匈奴遁逃，鲜卑强盛，据其故地，称兵十万，才力劲健，意智益生。
-加以关塞不严，禁网多漏，精金良铁，皆为贼有；汉人逋逃，为之谋主，兵利马疾，过于匈奴。
-昔段良将，习兵善战，有事西羌，犹十余年。
-今育、晏才策，未必过，鲜卑种众，不弱于曩时。
-而虚计二载，自许有成，若祸结兵连，岂得中休？
-当复征发众人，转运无已，是为耗竭诸夏，并力蛮夷。
-夫边垂之患，手足之蚧搔；中国之困，胸背之瘭疽。
-方今郡县盗贼尚不能禁，况此丑虏而可伏乎！
-昔高祖忍平城之耻，吕后弃慢书之诟，方之于今，何者为甚？
-天设山河，秦筑长城，汉起塞垣，所以别内外，异殊俗也。
-苟无国内侮之患则可矣，岂与虫蚁狡寇计争往来哉！
-虽或破之，岂可殄尽，而方令本朝为之旰食乎！
-translation: 
 What's more, now that both human and financial resources are insufficient, things are far worse than before.
 Since the Xiongnu escaped, Xianbei has become strong and prosperous. It has occupied the original place of the Xiongnu. It claims to have an army of 100,000, has strong financial resources, and has become more and more scheming.
 In addition, border security was lax and there were many omissions in the laws and prohibitions. All the fine copper and iron were owned by the enemies; the Han people who escaped capture were their main planners. Xianbei's weapons were sharp and his horses were fast, both of which were superior to the Xiongnu.
@@ -454,20 +454,35 @@ Now Xia Yu and Tian Yan's talents and strategies may not exceed Duan Frequency, 
 And they planned to spend two years out of thin air, thinking that they could succeed. If the armies of the two sides fought and caused disaster, how could it be stopped?
 Many people must be recruited to transport things endlessly. This will exhaust the power of the Central Plains and increase the strength of the barbarians.
 Disasters on the frontier are like scabies on the hands and feet; poverty in the middle plains is like sores on the chest and back.
-At present, the thieves in the county cannot be stopped, let alone such enemies can be subdued?
-In the past, Emperor Gaozu endured the humiliation he suffered in Pingcheng, and Empress Lu put aside the humiliation caused by the Xiongnu's contemptuous letters. Compared with now, which one is more serious?
-The mountains and rivers created by heaven, the Great Wall built by the Qin Dynasty, and the border walls built by the Han Dynasty were all used to separate domestic and foreign countries and distinguish different customs.
-As long as there is no disaster that would embarrass or humiliate the country, is it necessary to argue with ants and cunning enemies?
-Although Xianbei is sometimes defeated, can they all be wiped out?
 
 
-Chunk 15: 
+Chunk 16: 
 original: 
+方今郡县盗贼尚不能禁，况此丑虏而可伏乎！
+昔高祖忍平城之耻，吕后弃慢书之诟，方之于今，何者为甚？
+天设山河，秦筑长城，汉起塞垣，所以别内外，异殊俗也。
+苟无国内侮之患则可矣，岂与虫蚁狡寇计争往来哉！
+虽或破之，岂可殄尽，而方令本朝为之旰食乎！
 夫专胜者未必克，挟疑者未必败。
 众所谓危，圣人不任，朝议不嫌，明主不行也。
 昔淮南王安谏伐越曰： 天子之兵，有征无战。言其莫敢校也。
 如使越人蒙死以逆执事厮舆之卒，有一不备而归者，虽得越王之首，而犹为大汉羞之。
 而欲以齐民易丑虏，皇威辱外夷，就如其言，犹已危矣，况乎得失不可量邪！
+translation: 
+At present, the thieves in the county cannot be stopped, let alone such enemies can be subdued?
+In the past, Emperor Gaozu endured the humiliation he suffered in Pingcheng, and Empress Lu put aside the humiliation caused by the Xiongnu's contemptuous letters. Compared with now, which one is more serious?
+The mountains and rivers created by heaven, the Great Wall built by the Qin Dynasty, and the border walls built by the Han Dynasty were all used to separate domestic and foreign countries and distinguish different customs.
+As long as there is no disaster that would embarrass or humiliate the country, is it necessary to argue with ants and cunning enemies?
+Although Xianbei is sometimes defeated, can they all be wiped out?
+And now the emperor is so busy that he doesn’t even have time to eat? He who wants to win may not win, and he who is skeptical may not lose.
+Everyone thinks it is dangerous, and wise people will not adopt it; where the opinions of the court are doubtful, wise monarchs will not implement them.
+In the past, when Liu An, the king of Huainan, dissuaded the conquest of Yue, he said: The emperor's army only conquers but does not fight, which means that no one dares to resist.
+If the people of Yue risk their lives to fight against the emperor, and those soldiers of humble origins are unprepared and return in defeat, even if they get the head of the king of Yue, I will still feel ashamed of the big man.
+And if you plan to sacrifice the people in exchange for numerous enemies, and use the emperor's prestige to suffer the humiliation of foreign barbarians, even if it is as they say, it is already dangerous, not to mention that the success or failure cannot be estimated?
+
+
+Chunk 17: 
+original: 
 昔珠崖郡反，孝元皇帝纳贾捐之言，而下诏曰： 珠崖背畔，今议者或曰可讨，或曰弃之。
 朕日夜惟思，羞威不行，则欲诛之；通于时变，复忧万民。
 夫万民之饥与远蛮之不可讨，何者为大？
@@ -476,12 +491,10 @@ original:
 其罢珠崖郡。
 此元帝所以发德音也。
 夫恤民救急，虽成郡列县，尚犹充之，况障塞之外，未尝为民居者乎！
+守边之术，李牧善其略；保塞之论，严尤申其要。
+遗业犹在，文章具存。循二子之策，守先帝之规，臣曰可矣。
+帝不从，遂遣夏育出高柳，田晏出云中，匈奴中郎将臧旻率南单于出雁门，各将万骑，三道出塞二千余里。
 translation: 
-And now the emperor is so busy that he doesn’t even have time to eat? He who wants to win may not win, and he who is skeptical may not lose.
-Everyone thinks it is dangerous, and wise people will not adopt it; where the opinions of the court are doubtful, wise monarchs will not implement them.
-In the past, when Liu An, the king of Huainan, dissuaded the conquest of Yue, he said: The emperor's army only conquers but does not fight, which means that no one dares to resist.
-If the people of Yue risk their lives to fight against the emperor, and those soldiers of humble origins are unprepared and return in defeat, even if they get the head of the king of Yue, I will still feel ashamed of the big man.
-And if you plan to sacrifice the people in exchange for numerous enemies, and use the emperor's prestige to suffer the humiliation of foreign barbarians, even if it is as they say, it is already dangerous, not to mention that the success or failure cannot be estimated?
 In the past, Zhuya County rebelled, and Xiaoyuan Huanghu adopted Zitu's opinion and issued an edict saying: Dieya rebelled. Now everyone's opinions include that some can be attacked, and some think that they should be given up.
 I thought about it day and night. I felt ashamed that my authority could not be implemented, so I wanted to conquer Zhuya. I made adjustments according to the changes of the times, and I was worried about thousands of people.
 Which one is more important than the hunger of the people in the world or not conquering the distant barbarians?
@@ -490,13 +503,13 @@ Now Guandong is very poor and cannot provide relief for them, and they are prepa
 Therefore, Zhuya County was abolished.
 This is the voice of benevolence issued by Emperor Yuan.
 Sympathy for the people and the urgent need for relief, even complete counties and many counties have given up, not to mention that the outside of the border has never been a place where the people live!
+Li Mu was good at strategies for guarding the border; Yan You gave the key to his views on guarding the border.
+The achievements they left behind are still there, and the articles are still there. According to the strategies they mentioned and the plans of the previous emperors, I think it is okay.
+The emperor refused to accept it, so he sent Xia Yu to set off from Gaoliu, Tian Yan to set off from Yunzhong, and Xiongnu Zhonglang General Zang Man to lead Nandanyu to set off from Yanmen. Each of them led 10,000 cavalry and divided into three groups to go out of the frontier for more than 2,000 miles.
 
 
-Chunk 16: 
+Chunk 18: 
 original: 
-守边之术，李牧善其略；保塞之论，严尤申其要。
-遗业犹在，文章具存。循二子之策，守先帝之规，臣曰可矣。
-帝不从，遂遣夏育出高柳，田晏出云中，匈奴中郎将臧旻率南单于出雁门，各将万骑，三道出塞二千余里。
 檀石槐命三部大人各帅众逆战，育等大败，丧其节传辎重，各将数十骑奔还，死者十七八。
 三将槛车征下狱，赎为庶人。
 冬，鲜卑寇辽西。
@@ -511,9 +524,6 @@ original:
 魁头死，弟步度根立。
 自檀石槐后，诸大人遂世相传袭。
 translation: 
-Li Mu was good at strategies for guarding the border; Yan You gave the key to his views on guarding the border.
-The achievements they left behind are still there, and the articles are still there. According to the strategies they mentioned and the plans of the previous emperors, I think it is okay.
-The emperor refused to accept it, so he sent Xia Yu to set off from Gaoliu, Tian Yan to set off from Yunzhong, and Xiongnu Zhonglang General Zang Man to lead Nandanyu to set off from Yanmen. Each of them led 10,000 cavalry and divided into three groups to go out of the frontier for more than 2,000 miles.
 Tan Shihuai ordered the leaders of the three tribes to lead their troops to fight. Xia Yu and others were defeated and lost their talismans and baggage. Each of them fled back with dozens of cavalry. Seventy-eight out of ten people died.
 Three generals were conscripted into prison by the imperial court in prison cars, and they used money to redeem themselves as ordinary people.
 In winter, Xianbei invaded Suxi.
@@ -529,7 +539,7 @@ After the death of Huang Nu, his younger brother Bu Dugen succeeded to the thron
 Since Tanshihuai, the leaders of various tribes have been inherited from generation to generation.
 
 
-Chunk 17: 
+Chunk 19: 
 original: 
 论曰：四夷之暴，其势互强矣。
 匈奴炽于隆汉，西羌猛于中兴。

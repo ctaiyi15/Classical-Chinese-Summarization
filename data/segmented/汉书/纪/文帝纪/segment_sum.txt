@@ -1,0 +1,113 @@
+Summary uses chunk [0, 5, 20]
+
+Chunk 0: 
+original: 
+孝文皇帝，高祖中子也，母曰薄姬。
+高祖十一年，诛陈豨，定代地，立为代王，都中都。
+十七年秋，高后崩，诸吕谋为乱，欲危刘氏。
+丞相陈平、太尉周勃、朱虚侯刘章等共诛之，谋立代王。
+语在《高后纪》、《高五王传》。
+大臣遂使人迎代王。
+郎中令张武等议，皆曰： 汉大臣皆故高帝时将，习兵事，多谋诈，其属意非止此也，特畏高帝、吕太后威耳。
+今已诛诸吕，新喋血京师，以迎大王为名，实不可信。
+愿称疾无往，以观其变。
+中尉宋昌进曰： 群臣之议皆非也。
+夫秦失其政，豪杰并起，人人自以为得之者以万数，然卒践天子位者，刘氏也，天下绝望，一矣。
+translation: 
+Emperor Xiaowen was the fourth son of Emperor Gaozu of the Han Dynasty, and his mother was Bo Ji.
+In the eleventh year of Emperor Gaozu's reign, Chen Xi was executed and the Dai territory was pacified. He made him the Dai king and made his capital Zhongdu.
+In the autumn of the seventeenth year of King Dai's reign, Empress Lu passed away, and Zhu Lu planned a coup to seize Liu Han's power.
+Prime Minister Chen Ping, Taiwei Zhou Bo, Zhu Xuhou Liu Zhang and others jointly killed the Lu family and discussed the appointment of the acting king Liu Heng as the emperor.
+The historical events are recorded in "Book of Han·Gao Hou Ji and Gao Wu Wang Biography".
+The ministers sent people to greet the king.
+After deliberation, Zhang Wu, the king's lieutenant, said: The ministers of the Han Dynasty are all veteran generals from the time of Emperor Gao. They are familiar with military affairs and well versed in intrigues and tricks. In their hearts, they are not satisfied with their current status. They are just afraid of the majesty of Emperor Gao and Empress Lu.
+Now that Zhu Lu has been executed and blood has been spilled in the capital, it is unbelievable to welcome the king to the capital in the name of proclaiming himself emperor.
+I hope your Majesty will not go there on the grounds of illness, so as to observe changes in the situation.
+Lieutenant Song Chang added: Their comments are wrong.
+The Qin Dynasty was in disarray, heroes arose, and there were no less than ten thousand people who wanted to replace the Qin Dynasty and claim the title of emperor in the south. However, in the end, only the Liu family was able to rule the world. People in the world who harbored evil thoughts were desperate. This was one of them.
+
+summary:
+summary line 0: Emperor Xiaowen, the fourth son of Emperor Gaozu of Han, was made King of Dai after the execution of Chen Xi. Following Empress Lu’s death, the Lu clan plotted to seize power but were killed by ministers Chen Ping, Zhou Bo, and others, who then decided to welcome King Dai as emperor. King Dai hesitated, with advisor Zhang Wu warning that the ministers were veteran generals skilled in intrigue and might not be trustworthy. However, Song Chang argued that the Han dynasty’s stability, the people’s loyalty to Liu, and the failure of the Lu clan’s usurpation proved divine support for Liu rule. After divination yielded a favorable omen, King Dai sent Bo Zhao to verify the ministers’ intentions. Zhou Bo confirmed their sincerity, and King Dai proceeded to Chang’an. At Weiqiao, Zhou Bo offered the imperial seal, but King Dai declined, insisting on discussing the matter at the palace. The ministers formally petitioned him to accept the throne, citing his lineage as Emperor Gaozu’s son. After three refusals, he agreed and became emperor.
+
+Chunk 5: 
+original: 
+正月，有司请蚤建太子，所以尊宗庙也。
+诏曰： 朕既不德，上帝神明未歆飨也，天下人民未有惬志。
+今纵不能博求天下贤圣有德之人而嬗天下焉，而曰豫建太子，是重吾不德也。
+谓天下何？
+其安之。
+有司曰： 豫建太子，所以重宗庙、社稷，不忘天下也。
+上曰： 楚王，季父也，春秋高，阅天下之义理多矣，明于国家之体。
+吴王于朕，兄也；淮南王，弟也：皆秉德以陪朕，岂为不豫哉！
+诸侯王、宗室昆弟有功臣，多贤及有德义者，若举有德以陪朕之不能终，是社稷之灵，天下之福也。
+今不选举焉，而曰必子，人其以朕为忘贤有德者而专于子，非所以忧天下也。朕甚不取。
+有司固请曰： 古者殷、周有国，治安皆且千岁，有天下者莫长焉，用此道也。
+立嗣必子，所从来远矣。
+高帝始平天下，建诸侯，为帝者太祖。
+诸侯王、列侯始受国者亦皆为其国祖。
+子孙继嗣，世世不绝，天下之大义也。
+故高帝设之以抚海内。
+今释宜建而更选于诸侯宗室，非高帝之志也。
+更议不宜。
+子启最长，敦厚慈仁，请建以为太子。
+上乃许之。
+因赐天下民当为父后者爵一级。
+封将军薄昭为轵侯。
+三月，有司请立皇后。皇太后曰： 立太子母窦氏为皇后。
+诏曰： 方春和时，草木群生之物皆有以自乐，而吾百姓鳏、寡、孤、独、穷困之人或阽于死亡，而莫之省忧。为悯父母将何如？
+translation: 
+In the first month of the first month, relevant officials asked Emperor Wen to establish a prince early in order to respect the ancestral temple.
+Emperor Wen issued an edict saying: My virtues are shallow, the gods in heaven are not willing to enjoy my sacrifices to them, and the people of the world also think that I am not their ideal emperor.
+Today, I cannot seek out the world's sages and virtuous people to succeed the emperor, but I suggest that we should establish a prince early, which makes my bad virtue even worse.
+How can this satisfy the expectations of the people in the world for me?
+The matter of establishing a prince is postponed.
+Relevant officials reported again: The early appointment of the prince was based on the emphasis on the ancestral temple and the country, which proved that the emperor always kept world affairs in mind.
+The emperor said: The King of Chu is my uncle. He is old and virtuous, has rich experience and experience, and knows everything about governing the country.
+King Wu, King Huainan and I are brothers. They are all virtuous to assist me, haven't they already arranged the successor to the throne?
+There are many meritorious officials among the brothers of the princes, kings and clans, and there are many virtuous, benevolent and righteous people. If one of the above-mentioned wise men with noble virtues is selected to succeed me as the emperor who is not qualified for the position, this will be the spirit of the country and the blessing of the world.
+If I do not elect virtuous people today, but say that I must establish a prince, people will think that I have forgotten the virtuous people and only want my son to succeed me. This is not really caring about world affairs, and I really do not want to adopt it.
+Relevant officials repeatedly requested: In ancient times, Yin and Zhou conquered the world and enjoyed long-lasting peace and stability for nearly a thousand years. In the past, no one in the world could pass on the throne as long as the Yin and Zhou Dynasties. This is because both Yin and Zhou adopted the method of passing on the crown prince.
+The crown prince must be the son of the emperor. This has always been the case in history.
+Emperor Gao began to pacify the world, establish princes, and became the ancestor of Emperor Liu Han.
+The princes, princes, and princes who began to receive feudal states also became the ancestors of the feudal states.
+Succession by descendants from generation to generation is a universal justice.
+Therefore, Emperor Gaozu established a prince to stabilize the world.
+It was not Emperor Gao's original intention to give up on the task of establishing a son as prince today and instead choose him from among the princes and clans.
+It would be inappropriate to elect another person.
+Prince Qi is the eldest son, kind and generous, so he asks the emperor to make him the crown prince.
+The emperor finally agreed.
+Therefore, the people of the world should be given the title of nobility as their father's heirs.
+General Bo Zhao was granted the title of Marquis of Zhi.
+In March, the relevant officials asked for the establishment of a queen, and the Empress Dowager said: Make Dou, the mother of the crown prince, the queen.
+Emperor Wen issued an edict saying: When the spring breeze is gentle, flying animals, plants and other things have the joy of revival. However, the widowed, lonely and poor among our people may be struggling on the edge of death without receiving care and warmth. How can we, as parents of the people, feel at ease?
+
+summary:
+summary line 1: Upon ascending the throne, Emperor Wen issued a general amnesty, rewarded those who had suppressed the Lu clan, and restored lands taken by the Lu family. He abolished the Qin law of collective punishment. When officials urged him to appoint a crown prince, he initially declined, citing his own unworthiness and suggesting a virtuous successor from among his relatives or ministers. After repeated requests, he appointed his eldest son, Prince Qi, as crown prince. He also established his consort Dou as empress. The emperor implemented benevolent policies, including tax relief for farmers, care for the elderly, and pardons for minor offenses. He abolished the crime of slander and attempted treason, emphasizing the importance of agriculture and reducing government expenditures.
+
+Chunk 20: 
+original: 
+尝欲作露台，召匠计之，直百金。
+上曰： 百金，中人十家之产也。
+吾奉先帝宫室，常恐羞之，何以台为！
+身衣弋绨，所幸慎夫人衣不曳地，帷帐无文绣，以示敦朴，为天下先。
+治霸陵，皆瓦器，不得以金、银、铜、锡为饰，因其山，不起坟。
+南越尉佗自立为帝，召贵佗兄弟，以德怀之，佗遂称臣。
+与匈奴结和亲，后而背约入盗，令边备守，不发兵深入，恐烦百姓。
+吴王诈病不朝，赐以几杖。群臣袁盎等谏说虽切，常假借纳用焉。
+张武等受赂金钱，觉，更加赏赐，以愧其心。
+专务以德化民，是以海内殷富，兴于礼义，断狱数百，几致刑措。呜呼，仁哉！
+translation: 
+He once wanted to build a terrace to tell the time, and he called a craftsman to estimate the cost, which would cost a hundred gold.
+Emperor Wen said: One hundred gold is the property of ten households of a middle-class family.
+I continue to guard the palace of the late emperor, and I am always afraid that it will be stained. Why build a terrace?
+Wearing black silk clothes, the beloved Mrs. Shen's clothes are not long enough to touch the floor, and her curtains are not embroidered to show her simplicity and set an example for the world.
+When building Ba's mausoleum, all earthenware vessels are used, and gold, silver, copper, and tin are not allowed to be decorated. Because the mausoleum rises from the mountain, no other tombs are chosen.
+Wei Tuo of Nanyue proclaimed himself emperor. Emperor Wen of the Han Dynasty honored Wei Tuo's brothers and inspired them with virtue and righteousness, and Tuo proclaimed himself a minister again.
+He became friendly with the Xiongnu, but soon the Xiongnu broke the treaty and invaded. Emperor Wen only ordered the border troops to strengthen defense and did not send troops to counterattack the territory, fearing that it would increase the burden on the people.
+King Wu falsely claimed that he was ill and refused to go to court, so Emperor Wen gave him a few sticks to express his condolences. Although the ministers Yuan Ang and others tried their best to advise him not to be deceived by King Wu, Emperor Wen still gave a few sticks to King Wu for use.
+Zhang Wu and others took bribes and money. When they found out, they rewarded them even more, making them feel ashamed and reflect on themselves.
+Emperor Wen's mission was to transform the people with virtue. As a result, the world was prosperous and the trend of etiquette and justice was greatly promoted. Only a few hundred people were imprisoned, and the punishment was almost unnecessary. Alas, the benevolent emperor!
+
+summary:
+summary line 2: During his reign, Emperor Wen faced challenges such as the rebellion of King Xingju of Jibei, which was swiftly suppressed, and conflicts with the Xiongnu, whom he managed through defense rather than costly campaigns. He promoted frugality, wearing simple clothes and forbidding lavish decorations. He also reformed the legal system, abolished corporal punishment, and encouraged the recommendation of virtuous officials. In his later years, he issued an edict on his deathbed, advocating simple funerals and urging the people not to mourn excessively. He was buried in Ba Ling with minimal ceremony, using earthenware vessels and no precious metals. Ban Gu praised Emperor Wen for his benevolence, noting that his reign saw prosperity, few imprisonments, and a flourishing of moral virtue.
+

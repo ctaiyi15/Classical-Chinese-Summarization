@@ -1,0 +1,299 @@
+Summary uses chunk [0, 1, 2, 6, 7, 14, 14, 26, 28]
+
+Chunk 0: 
+original: 
+李斯者，楚上蔡人也。
+年少时，为郡小吏，见吏舍厕中鼠食不絜，近人犬，数惊恐之。
+斯入仓，观仓中鼠，食积粟，居大庑之下，不见人犬之忧。
+於是李斯乃叹曰： 人之贤不肖譬如鼠矣，在所自处耳！
+乃从荀卿学帝王之术。
+学已成，度楚王不足事，而六国皆弱，无可为建功者，欲西入秦。
+辞於荀卿曰： 斯闻得时无怠，今万乘方争时，游者主事。
+今秦王欲吞天下，称帝而治，此布衣驰骛之时而游说者之秋也。
+处卑贱之位而计不为者，此禽鹿视肉，人面而能强行者耳。
+故诟莫大於卑贱，而悲莫甚於穷困。
+久处卑贱之位，困苦之地，非世而恶利，自讬於无为，此非士之情也。
+translation: 
+Li Si was a native of Shangcai, State of Chu.
+When he was young, he worked as a minor official in the county. He saw rats eating dirty things in the toilet near his office. Whenever someone or a dog came near, he would be frightened and run away.
+Later, Li Si walked into the granary and saw the rats in the granary eating the stored grain and living under the big house without having to worry about being disturbed by people or dogs.
+So Li Si sighed with emotion: A person's talent or incompetence is determined by his environment, just like a mouse.
+So Li Si learned from Xunzi how emperors governed the world.
+After completing his studies, Li Si estimated that the King of Chu was not worthy of serving, and that the six kingdoms were already weak and there was no hope of making contributions to them, so he wanted to go west to Qin.
+Before leaving, he said goodbye to Xunzi: I heard that if a person encounters an opportunity, he should not slack off. Nowadays, all the vassal states are striving for opportunities so that lobbyists can make meritorious deeds and gain real power.
+Now that the King of Qin wants to annex other countries and proclaim himself emperor to govern the world, this is a good time for political activists and lobbyists from civilian backgrounds to travel around and express their ambitions.
+Being in a humble position and not thinking about seeking fame and wealth is like an animal. It only wants to eat meat when it sees it. It only has a human face but can barely walk.
+Therefore, the greatest shame is humble status, and the greatest sorrow is poverty.
+Being in a humble position and difficult situation for a long time, yet still criticizing society, hating fame and wealth, and slandering oneself as uncontested is not the original wish of a scholar.
+
+summary:
+summary line 0: Li Si was a native of Shangcai in the State of Chu. As a young county official, he observed rats in the toilet fleeing from people and dogs, contrasting them with granary rats that ate stored grain undisturbed. This led him to conclude that a person's competence depends on their environment. He studied under Xunzi to learn the art of governing an empire. Afterward, deeming the King of Chu unworthy and the six kingdoms too weak for him to achieve merit, he decided to go west to Qin. He told Xunzi that opportunity must be seized, and that the King of Qin's ambition to unify the world was a perfect chance for a commoner to gain fame and wealth. He considered humble status the greatest shame and poverty the greatest sorrow, rejecting the notion of a scholar who claims to be above worldly pursuits.
+
+Chunk 1: 
+original: 
+故斯将西说秦王矣。
+至秦，会庄襄王卒，李斯乃求为秦相文信侯吕不韦舍人；不韦贤之，任以为郎。
+李斯因以得说，说秦王曰： 胥人者，去其几也。成大功者，在因瑕衅而遂忍之。
+昔者秦穆公之霸，终不东并六国者，何也？
+诸侯尚众，周德未衰，故五伯迭兴，更尊周室。
+自秦孝公以来，周室卑微，诸侯相兼，关东为六国，秦之乘胜役诸侯，盖六世矣。
+今诸侯服秦，譬若郡县。
+夫以秦之彊，大王之贤，由灶上骚除，足以灭诸侯，成帝业，为天下一统，此万世之一时也。
+今怠而不急就，诸侯复彊，相聚约从，虽有黄帝之贤，不能并也。
+秦王乃拜斯为长史，听其计，阴遣谋士赍持金玉以游说诸侯。
+诸侯名士可下以财者，厚遗结之；不肯者，利剑刺之。
+离其君臣之计，秦王乃使其良将随其後。
+translation: 
+So I am going west to lobby the King of Qin.
+After Li Si arrived in Qin, just as King Zhuangxiang of Qin passed away, Li Si asked to be a retainer of Lu Buwei, the prime minister of Qin. Lu Buwei appreciated him very much and appointed him Lang Guan.
+As a result, Li Si got the opportunity to lobby. He said to the King of Qin: Mediocre people often lose opportunities, but those who can achieve great achievements are those who can take advantage of opportunities and be ruthless.
+In the past, although Duke Mu of Qin dominated the world, he did not move eastward and annex the six kingdoms of Shandong. What was the reason?
+The reason was that the number of princes was still large and the prestige of the Zhou Dynasty had not completely declined. Therefore, the five hegemons emerged alternately and successively promoted the Eastern Zhou royal family.
+Since Qin Xiaogong, the royal family of the Eastern Zhou Dynasty has been weak and weak, and the princes have merged with each other. The area east of Hangu Pass has been transformed into six kingdoms. Qin State took advantage of the victory to gradually conquer the six kingdoms. It has been about six generations now.
+Nowadays, the princes obey Qin just like the counties obey the imperial court.
+With the power of Qin and the wisdom of the king, just like sweeping away the dust on the stove, it is enough to wipe out the princes, achieve the emperor's cause, and realize the unification of the world. This is the only opportunity that comes once in a lifetime.
+If we are slack now and do not take action on this matter, when the princes become stronger again and enter into alliance alliances, even if they are as capable as Huang Di, they will not be able to annex them.
+Qin Shihuang appointed Li Si as the chief historian, followed his plan, and secretly sent counselors to various countries with gold and jade treasures to lobby.
+If famous figures from various countries can be bribed, they will be bribed with gifts; if they cannot be bribed, they will be killed with sharp swords.
+These are all strategies to alienate the relationship between the princes and their ministers. Then, the King of Qin sent good generals to attack later.
+
+summary:
+summary line 1: Upon arriving in Qin, Li Si became a retainer of Prime Minister Lü Buwei, who appointed him as a Lang official. He then advised the King of Qin that while Duke Mu of Qin had dominated the world, he could not annex the six kingdoms because the Zhou dynasty's prestige had not yet declined. Since Duke Xiao of Qin, the Zhou had weakened, and the six kingdoms had formed. Now, with Qin's power and the king's wisdom, the time was ripe to unify the world. He warned that hesitation would allow the princes to strengthen and form alliances, making conquest impossible. The King of Qin appointed Li Si as Chief Historian, following his plan to bribe or assassinate key figures in other states to alienate them from their rulers, followed by military attacks. Li Si was later made a Guest Minister.
+
+Chunk 2: 
+original: 
+秦王拜斯为客卿。
+会韩人郑国来间秦，以作注溉渠，已而觉。
+秦宗室大臣皆言秦王曰： 诸侯人来事秦者，大抵为其主游间於秦耳，请一切逐客。
+李斯议亦在逐中。
+斯乃上书曰：
+臣闻吏议逐客，窃以为过矣。
+昔缪公求士，西取由余於戎，东得百里奚於宛，迎蹇叔於宋，来丕豹、公孙支於晋。
+此五子者，不产於秦，而缪公用之，并国二十，遂霸西戎。
+孝公用商鞅之法，移风易俗，民以殷盛，国以富彊，百姓乐用，诸侯亲服，获楚、魏之师，举地千里，至今治彊。
+惠王用张仪之计，拔三川之地，西并巴、蜀，北收上郡，南取汉中，包九夷，制鄢、郢，东据成皋之险，割膏腴之壤，遂散六国之从，使之西面事秦，功施到今。
+昭王得范睢，废穰侯，逐华阳，彊公室，杜私门，蚕食诸侯，使秦成帝业。
+此四君者，皆以客之功。
+translation: 
+The King of Qin appointed Li Si as his guest minister.
+At this time, the Korean Zheng Guo came to Qin as a spy in the name of building channels, and was soon discovered.
+The royal family and ministers of the State of Qin all said to the King of Qin: Most of the people who come from various vassal states to serve the King of Qin are lobbying for their king, just to alienate the State of Qin. They ask the King to expel all the guests.
+Li Si was also among the guests planned to be expelled.
+So Li Si wrote a letter saying:
+I heard that officials were talking about expelling guest guests. I privately thought that this was wrong.
+In the past, Duke Mu of Qin recruited talented people, and he obtained Yu Yu from Xirong, Baili Xi from the garden of Chu in the east, Uncle Jian from Song, and Pi Bao and Gongsun Zhi from Jin.
+None of these five people were born in Qin, but Duke Mu of Qin used them to annex more than 20 countries, and then dominated Xirong.
+Qin Xiaogong adopted Shang Yang's new method and changed customs. As a result, the people prospered and the country became rich and powerful. The people were willing to serve the country and the princes sincerely submitted. He defeated the armies of Chu and Wei and captured thousands of miles of land. To this day, the country is politically stable and strong.
+King Qin Hui adopted Zhang Yi's strategy and captured the Sanchuan area, annexed Ba and Shu to the west, occupied Shangjun to the north, captured Hanzhong to the south, captured Jiuyi, controlled Yan and Ying, and occupied the dangerous Chenggao in the east, seizing fertile land, and further disintegrated the alliance of the six countries, making them face the west and serve the Qin State. Their achievements continue to this day.
+King Zhao of Qin won Fan Sui, deposed Ranghou, expelled King Huayang, strengthened the public house, and eliminated the power of private dignitaries. Like silkworms eating mulberry leaves, he gradually annexed the lands of the princes, and finally laid the foundation for Qin to unify the world.
+These four monarchs all relied on the power of guest ministers from other countries.
+
+summary:
+summary line 2: When the Korean spy Zheng Guo was discovered, Qin's nobles urged the king to expel all foreign guests, including Li Si. Li Si wrote a letter arguing against this. He cited Duke Mu of Qin, who used five non-Qin officials to dominate Xirong; Duke Xiao, who used Shang Yang to make Qin rich and powerful; King Hui, who used Zhang Yi to expand territory and break up alliances; and King Zhao, who used Fan Sui to strengthen the royal house. He argued that these four rulers relied on guest ministers. He then compared the king's love for foreign treasures, music, and women to his rejection of foreign talent, stating this was not the way to unify the world. He concluded that expelling guests would weaken Qin and aid its enemies. The king abolished the expulsion order, restored Li Si's position, and later promoted him to Tingwei. Over twenty years, Qin unified the world, and Li Si became Prime Minister.
+
+Chunk 6: 
+original: 
+臣请诸有文学诗书百家语者，蠲除去之。
+令到满三十日弗去，黥为城旦。
+所不去者，医药卜筮种树之书。
+若有欲学者，以吏为师。
+始皇可其议，收去诗书百家之语以愚百姓，使天下无以古非今。
+明法度，定律令，皆以始皇起。
+同文书。治离宫别馆，周遍天下。明年，又巡狩，外攘四夷，斯皆有力焉。
+斯长男由为三川守，诸男皆尚秦公主，女悉嫁秦诸公子。
+三川守李由告归咸阳，李斯置酒於家，百官长皆前为寿，门廷车骑以千数。
+李斯喟然而叹曰： 嗟乎！吾闻之荀卿曰 物禁大盛 。
+夫斯乃上蔡布衣，闾巷之黔首，上不知其驽下，遂擢至此。
+当今人臣之位无居臣上者，可谓富贵极矣。
+物极则衰，吾未知所税驾也！
+translation: 
+I request that all the "Poems", "Books" and works of various schools of thought be swept away.
+Thirty days after the order is issued, if anyone still disobeys, he will be sentenced to tattoos and hard labor in building the city.
+Not included in the purge are books on medicine, divination, planting, etc.
+If anyone wants to learn the law, he should take officials as his teachers.
+Qin Shihuang approved his suggestion and confiscated the "Book of Songs", "Shangshu" and the works of various schools of thought, in order to make the people ignorant and make it impossible for people in the world to use ancient events to criticize the current court.
+The revision of the legal system and the formulation of laws and regulations all started with Qin Shihuang.
+Unified the writing system and built villas throughout the country. The next year, the First Emperor went on inspection tours and pacified the ethnic minorities in all directions. Li Si made a lot of efforts in these measures.
+Li Si's eldest son Li You served as the governor of Sanchuan County. His sons all married Qin princesses, and his daughters all married Qin royal family members.
+Once, when Li You, the governor of Sanchuan County, asked for leave to return to Xianyang, Li Si hosted a banquet at his home, and all the civil and military officials went to toast Li Si and congratulate him. There are thousands of carriages and horses in front of the gate.
+Li Si sighed with emotion: Alas! I heard Xun Qing say that things are too taboo.
+I, Li Si, was originally a commoner in Shangcai, a commoner in the streets. The emperor did not understand that I was of low talent, so he promoted me to such a high status.
+Nowadays, no one who is a minister has a higher position than me. It can be said that I am extremely wealthy and prosperous.
+However, the peak of development of things is about to begin to decline, and I still don’t know where it will end up in the future!
+
+summary:
+summary line 3: In the 34th year of Qin Shi Huang's reign, Dr. Zhou Qingchen praised the emperor, but Chun Yuyue advised enfeoffing clan members, warning that without strong assistants, the dynasty could not last. The First Emperor asked Li Si, who dismissed the argument. Li Si wrote that in ancient times, scholars used the past to criticize the present, undermining the emperor's authority. He requested that all "Poems," "Books," and works of the hundred schools be banned, with punishment for those who disobeyed, except for books on medicine, divination, and planting. The emperor approved, confiscating these texts to make the people ignorant. Li Si also contributed to unifying the writing system and building imperial villas. His sons married Qin princesses, and his daughters married Qin royalty. At a banquet, Li Si lamented that his wealth and status had reached their peak, and he feared the decline that must follow.
+
+Chunk 7: 
+original: 
+始皇三十七年十月，行出游会稽，并海上，北抵琅邪。
+丞相斯、中车府令赵高兼行符玺令事，皆从。
+始皇有二十馀子，长子扶苏以数直谏上，上使监兵上郡，蒙恬为将。
+少子胡亥爱，请从，上许之。
+馀子莫从。
+其年七月，始皇帝至沙丘，病甚，令赵高为书赐公子扶苏曰： 以兵属蒙恬，与丧会咸阳而葬。
+书已封，未授使者，始皇崩。
+书及玺皆在赵高所，独子胡亥、丞相李斯、赵高及幸宦者五六人知始皇崩，馀群臣皆莫知也。
+李斯以为上在外崩，无真太子，故祕之。置始皇居辒辌车中，百官奏事上食如故，宦者辄从辒辌车中可诸奏事。
+赵高因留所赐扶苏玺书，而谓公子胡亥曰： 上崩，无诏封王诸子而独赐长子书。
+长子至，即立为皇帝，而子无尺寸之地，为之柰何？
+translation: 
+In October of the thirty-seventh year of Qin Shihuang, he went on a tour to Kuaiji Mountain, went north along the coast, and arrived at Langye Mountain.
+Prime Minister Li Si and Zhao Gao, the magistrate of CRRC and Fu Xi, accompanied him.
+Qin Shihuang had more than 20 sons. The eldest son Fusuyin repeatedly advised the emperor. The first emperor sent him to Shangjun to supervise the army, and Meng Tian was appointed general.
+The youngest son Hu Hai was very favored and asked to accompany him, and the First Emperor agreed.
+None of the other sons followed.
+In July of this year, Qin Shihuang arrived at Shaqiu and was very ill. He ordered Zhao Gao to write an edict to his son Fusu, saying: Hand over the army to Meng Tian, ​​hurry to Xianyang to attend the funeral, and then bury him.
+The letters were sealed, but before they were delivered to the envoy, Qin Shihuang passed away.
+The letters and seals were all in the hands of Zhao Gao. Only his youngest son Hu Hai, Prime Ministers Li Si and Zhao Gao, and five or six trusted eunuchs knew about the death of the First Emperor. The rest of the officials did not know.
+Li Si believed that the emperor died outside and the crown prince had not been officially established, so he kept it a secret and placed the body of the First Emperor in a car that could both keep warm and ventilate and cool him. The officials performed their duties and presented food and drinks as usual, so the eunuch pretended to ask the emperor to approve the reports from the car.
+Therefore, Zhao Gao withheld the edict given by the First Emperor to Fusu, and said to his son Hu Hai: The emperor has passed away, and there is no edict to make all his sons kings. He only gave an edict to his eldest son Fusu.
+When the eldest son arrives, he ascends the throne and becomes emperor, but you don’t even have a fief of any size. What should you do?
+
+summary:
+summary line 4: In the 37th year, the First Emperor died at Shaqiu. Li Si, Zhao Gao, and Hu Hai kept his death secret. Zhao Gao withheld the emperor's edict to Fusu and persuaded Hu Hai to usurp the throne, arguing that power was in their hands and that great deeds required decisive action. Hu Hai agreed, and Zhao Gao convinced Li Si by warning that Fusu would replace him with Meng Tian, leading to his death. Li Si wept but complied. They forged an edict making Hu Hai crown prince and another ordering Fusu and Meng Tian to commit suicide. Fusu obeyed, but Meng Tian was imprisoned. Hu Hai became the Second Emperor, and Zhao Gao gained great power.
+
+Chunk 14: 
+original: 
+於是群臣诸公子有罪，辄下高，令鞠治之。
+杀大臣蒙毅等，公子十二人僇死咸阳市，十公主矺死於杜，财物入於县官，相连坐者不可胜数。
+公子高欲奔，恐收族，乃上书曰： 先帝无恙时，臣入则赐食，出则乘舆。
+御府之衣，臣得赐之；中厩之宝马，臣得赐之。
+臣当从死而不能，为人子不孝，为人臣不忠。
+不忠者无名以立於世，臣请从死，原葬郦山之足。
+唯上幸哀怜之。
+书上，胡亥大说，召赵高而示之，曰： 此可谓急乎？
+赵高曰： 人臣当忧死而不暇，何变之得谋！
+胡亥可其书，赐钱十万以葬。
+法令诛罚日益刻深，群臣人人自危，欲畔者众。
+又作阿房之宫，治直、驰道，赋敛愈重，戍徭无已。
+於是楚戍卒陈胜、吴广等乃作乱，起於山东，杰俊相立，自置为侯王，叛秦，兵至鸿门而卻。
+李斯数欲请间谏，二世不许。
+而二世责问李斯曰： 吾有私议而有所闻於韩子也，曰 尧之有天下也，堂高三尺，采椽不斫，茅茨不翦，虽逆旅之宿不勤於此矣。
+translation: 
+So the ministers and princes were found guilty and handed over to Zhao Gao, who ordered him to be interrogated and brought to justice.
+Minister Meng Yi and others were killed, ten princes were beheaded in the streets of Xianyang, and twelve princesses were also cut into pieces and executed in Du County. Their property was confiscated and returned to the emperor, and countless others were jointly punished.
+Young Master Gao wanted to escape for his life, but he was afraid of being executed by the whole family, so he wrote a letter saying: When the late emperor was alive, I would give him food when he entered the palace and give him a ride when he left the palace.
+The clothes in the emperor's palace were given to me by the late emperor; the horses in the stables in the palace were also given to me by the late emperor.
+I should have died with the late Emperor but failed to do so. This is my unfilial piety as a son of man and my disloyalty as a minister.
+There is no reason for a disloyal person to live in this world. Please allow me to die with the late emperor, hoping to bury me at the foot of Mount Li.
+I just ask the emperor to pity me and agree to it.
+After the book was presented, Hu Hai was very happy. He called Zhao Gao and showed him the book, saying: "This can be said to be embarrassing and helpless, right?"
+Zhao Gao said: How can you plot a rebellion when the ministers are worried all day long that they will die before it is too late!
+Hu Hai agreed to Gongzi Gao's request and gave him 100,000 yuan for burial.
+At that time, the laws and punishments became more and more cruel day by day. Everyone among the ministers was in danger, and there were many people who wanted to rebel.
+The second generation also built the Epang Palace, straight roads and galloping roads, taxes became heavier and heavier, and military service was endless.
+So Chen Sheng, Wu Guang and others, who were recruited from Chu to guard the border, rebelled and raised troops to the east of Xiaoshan. Heroes and heroes swarmed up, proclaimed themselves princes and rebelled against the Qin Dynasty. Their troops attacked until Hongmen before retreating.
+Li Si wanted to find opportunities to remonstrate many times, but the second emperor did not allow him.
+Instead, the Second Emperor blamed Li Si and said: I have an opinion that I heard from Han Feizi. He said that when Yao ruled the world, the palace was only three feet high, the oak rafters were used without cutting them, and the thatched roofs were made without trimming. Even the accommodation conditions in the hotels were not more difficult than this.
+
+summary:
+summary line 5: The Second Emperor wanted to indulge his desires, but Zhao Gao warned that the princes and former ministers were suspicious and might rebel. He advised implementing harsh laws, killing all opponents, and replacing them with loyalists. The Second Emperor agreed, revising the law. Many princes and ministers were executed, including ten princes beheaded in Xianyang and twelve princesses dismembered. Prince Gao requested to die with the First Emperor, which the Second Emperor approved. Laws grew crueler, taxes heavier, and corvée endless, leading to rebellions like that of Chen Sheng and Wu Guang. Li Si tried to remonstrate but was blamed by the Second Emperor, who argued that a ruler should use the world to satisfy his own desires, not labor like Yao or Yu.
+
+Chunk 14: 
+original: 
+於是群臣诸公子有罪，辄下高，令鞠治之。
+杀大臣蒙毅等，公子十二人僇死咸阳市，十公主矺死於杜，财物入於县官，相连坐者不可胜数。
+公子高欲奔，恐收族，乃上书曰： 先帝无恙时，臣入则赐食，出则乘舆。
+御府之衣，臣得赐之；中厩之宝马，臣得赐之。
+臣当从死而不能，为人子不孝，为人臣不忠。
+不忠者无名以立於世，臣请从死，原葬郦山之足。
+唯上幸哀怜之。
+书上，胡亥大说，召赵高而示之，曰： 此可谓急乎？
+赵高曰： 人臣当忧死而不暇，何变之得谋！
+胡亥可其书，赐钱十万以葬。
+法令诛罚日益刻深，群臣人人自危，欲畔者众。
+又作阿房之宫，治直、驰道，赋敛愈重，戍徭无已。
+於是楚戍卒陈胜、吴广等乃作乱，起於山东，杰俊相立，自置为侯王，叛秦，兵至鸿门而卻。
+李斯数欲请间谏，二世不许。
+而二世责问李斯曰： 吾有私议而有所闻於韩子也，曰 尧之有天下也，堂高三尺，采椽不斫，茅茨不翦，虽逆旅之宿不勤於此矣。
+translation: 
+So the ministers and princes were found guilty and handed over to Zhao Gao, who ordered him to be interrogated and brought to justice.
+Minister Meng Yi and others were killed, ten princes were beheaded in the streets of Xianyang, and twelve princesses were also cut into pieces and executed in Du County. Their property was confiscated and returned to the emperor, and countless others were jointly punished.
+Young Master Gao wanted to escape for his life, but he was afraid of being executed by the whole family, so he wrote a letter saying: When the late emperor was alive, I would give him food when he entered the palace and give him a ride when he left the palace.
+The clothes in the emperor's palace were given to me by the late emperor; the horses in the stables in the palace were also given to me by the late emperor.
+I should have died with the late Emperor but failed to do so. This is my unfilial piety as a son of man and my disloyalty as a minister.
+There is no reason for a disloyal person to live in this world. Please allow me to die with the late emperor, hoping to bury me at the foot of Mount Li.
+I just ask the emperor to pity me and agree to it.
+After the book was presented, Hu Hai was very happy. He called Zhao Gao and showed him the book, saying: "This can be said to be embarrassing and helpless, right?"
+Zhao Gao said: How can you plot a rebellion when the ministers are worried all day long that they will die before it is too late!
+Hu Hai agreed to Gongzi Gao's request and gave him 100,000 yuan for burial.
+At that time, the laws and punishments became more and more cruel day by day. Everyone among the ministers was in danger, and there were many people who wanted to rebel.
+The second generation also built the Epang Palace, straight roads and galloping roads, taxes became heavier and heavier, and military service was endless.
+So Chen Sheng, Wu Guang and others, who were recruited from Chu to guard the border, rebelled and raised troops to the east of Xiaoshan. Heroes and heroes swarmed up, proclaimed themselves princes and rebelled against the Qin Dynasty. Their troops attacked until Hongmen before retreating.
+Li Si wanted to find opportunities to remonstrate many times, but the second emperor did not allow him.
+Instead, the Second Emperor blamed Li Si and said: I have an opinion that I heard from Han Feizi. He said that when Yao ruled the world, the palace was only three feet high, the oak rafters were used without cutting them, and the thatched roofs were made without trimming. Even the accommodation conditions in the hotels were not more difficult than this.
+
+summary:
+summary line 6: Li Si, fearing for his position, wrote a letter flattering the Second Emperor, advocating strict supervision and severe punishments to ensure the ruler's absolute power and pleasure. He cited Shen Buhai, Han Fei, and Shang Yang, arguing that harsh penalties for minor crimes prevent greater offenses. The Second Emperor was pleased and intensified supervision and taxation, leading to half the population being prisoners and corpses piled in the markets. Zhao Gao, fearing exposure, persuaded the Second Emperor to stay in the palace and not meet ministers, allowing Zhao Gao to control all affairs. Zhao Gao then tricked Li Si into seeking an audience during the emperor's leisure, angering the Second Emperor. Zhao Gao accused Li Si of involvement in the Shaqiu conspiracy and of colluding with rebels through his son Li You. The Second Emperor ordered an investigation.
+
+Chunk 26: 
+original: 
+立社稷，脩宗庙，以明主之贤。
+罪四矣。
+更剋画，平斗斛度量文章，布之天下，以树秦之名。
+罪五矣。
+治驰道，兴游观，以见主之得意。
+罪六矣。
+缓刑罚，薄赋敛，以遂主得众之心，万民戴主，死而不忘。
+罪七矣。
+若斯之为臣者，罪足以死固久矣。上幸尽其能力，乃得至今，原陛下察之！
+书上，赵高使吏弃去不奏，曰： 囚安得上书！
+赵高使其客十馀辈诈为御史、谒者、侍中，更往覆讯斯。
+斯更以其实对，辄使人复榜之。
+後二世使人验斯，斯以为如前，终不敢更言，辞服。
+奏当上，二世喜曰： 微赵君，几为丞相所卖。
+及二世所使案三川之守至，则项梁已击杀之。
+使者来，会丞相下吏，赵高皆妄为反辞。
+二世二年七月，具斯五刑，论腰斩咸阳市。
+斯出狱，与其中子俱执，顾谓其中子曰： 吾欲与若复牵黄犬俱出上蔡东门逐狡兔，岂可得乎！
+translation: 
+Establish the state and build ancestral temples to show the lord's wisdom.
+This is my fourth crime.
+Change the symbols engraved on the scales, unify weights, measures and words, and promulgate them to the world to establish the prestige of the Qin Dynasty.
+This is my fifth crime.
+Build roads and places for sightseeing to show that the Lord is satisfied with his will.
+This is my sixth crime.
+Lighten penalties and reduce taxes to satisfy the Lord's desire to win over the people, so that all people will support the Emperor and never forget the Emperor's kindness until death.
+This is my seventh crime.
+It has been a long time since a minister like me, Li Si, committed a crime worthy of death. The emperor hopes that I will do my best to survive to this day. I hope your majesty will understand.
+After the memorial was submitted, Zhao Gao asked the jailer to throw it aside instead of reporting it, saying: "How can a prisoner submit a petition!"
+Zhao Gao sent more than ten of his disciples to pretend to be censors, visitors, and servants, and took turns interrogating Li Si.
+When Li Si responded truthfully, Zhao Gao had people torture him again.
+Later, the Second Emperor sent someone to verify Li Si's confession. Li Si thought it was the same as before, so he finally dared not change his confession and admitted his guilt in the confession.
+Zhao Gao presented the verdict to the emperor, and the second emperor said happily: Without Zhao Jun, I was almost betrayed by the prime minister.
+By the time the envoy from the Second Sect arrived in Sanchuan to investigate Li You, Xiang Liang had already killed him.
+When the envoy returned, just as Li Si had been handed over to the custody of the jailers, Zhao Gao fabricated a whole set of charges against Li You for treason.
+In July of the second year of the Second Emperor's reign, Li Si was sentenced to five punishments and sentenced to be cut in half in the Xianyang market.
+When Li Si was released from prison, he was escorted together with his second son. He turned around and said to his second son: I want to go out to Cai Dongmen with you and lead the yellow dog to hunt and chase cunning rabbits, but how can we do it?
+
+summary:
+summary line 7: Li Si wrote to expose Zhao Gao's ambition, comparing him to usurpers like Tian Chang. The Second Emperor defended Zhao Gao, but Li Si warned of his greed. The Second Emperor told Zhao Gao, who accused Li Si of plotting rebellion. Li Si was arrested and tortured into confessing. In prison, he lamented that the Second Emperor was worse than Jie and Zhou, killing brothers and loyal ministers, building the Epang Palace, and overtaxing the people. He wrote a letter listing his seven crimes, which were actually achievements, but Zhao Gao suppressed it. When the Second Emperor sent investigators, Li Si, fearing torture, did not change his confession. He was sentenced to five punishments and executed in the Xianyang market, along with his entire clan.
+
+Chunk 28: 
+original: 
+留三日，赵高诈诏卫士，令士皆素服持兵内乡，入告二世曰： 山东群盗兵大至！
+二世上观而见之，恐惧，高既因劫令自杀。
+引玺而佩之，左右百官莫从；上殿，殿欲坏者三。
+高自知天弗与，群臣弗许，乃召始皇弟，授之玺。
+子婴既位，患之，乃称疾不听事，与宦者韩谈及其子谋杀高。
+高上谒，请病，因召入，令韩谈刺杀之，夷其三族。
+子婴立三月，沛公兵从武关入，至咸阳，群臣百官皆畔，不適。
+子婴与妻子自系其颈以组，降轵道旁。
+沛公因以属吏。
+项王至而斩之。遂以亡天下。
+translation: 
+The Second Emperor stayed in Wangyi Palace for three days. Zhao Gao pretended to be the Second Emperor's order and asked the guards to wear white clothes and face the palace with weapons in hand. He entered the palace and told the Second Emperor: Bandits from all walks of life in Shandong are coming in large numbers!
+The Second Emperor went to the balcony to watch and saw the guards heading into the palace with weapons. He was very frightened. Zhao Gao immediately forced the Second Emperor to commit suicide.
+Then he took the jade seal and carried it with him. None of the civil and military officials around him followed him. When he ascended the hall, it seemed to collapse several times.
+Zhao Gao knew that God would not grant him the position of emperor, and the officials would not agree, so he called the younger brother of Qin Shihuang's younger brother and handed the jade seal to him.
+After Ziying came to the throne, he was worried that Zhao Gao would cause trouble again, so he pretended to be ill and did not go to court to handle government affairs. He discussed with the eunuch Han Tan and his son how to kill Zhao Gao.
+Zhao Gao came to see him and asked about his condition. Ziying summoned him to the palace and ordered Han Tan to assassinate him and annihilate his three clans.
+Three months after Ziying came to the throne, Liu Bang's army invaded from Wuguan and arrived in Xianyang. All civil and military officials revolted against Qin and did not resist Pei Gong.
+Ziying, his wife and children all tied ribbons around their necks and went to Zhidao Pavilion to surrender.
+Liu Bang handed them over to the custody of his subordinate officials.
+Xiang Yu killed them after arriving in Xianyang, and Qin lost the world.
+
+summary:
+summary line 8: After Li Si's death, Zhao Gao became Prime Minister. He tested his power by presenting a deer and calling it a horse, which all officials affirmed. The Second Emperor, confused, went to fast in Shanglin Garden, where he killed a pedestrian. Zhao Gao advised him to leave the palace to pray, then forced him to commit suicide. Zhao Gao tried to take the throne but failed, so he installed Ziying, a younger brother of the First Emperor. Ziying, fearing Zhao Gao, feigned illness and had him assassinated, annihilating his clan. Three months later, Liu Bang's army entered Xianyang, and Ziying surrendered. Xiang Yu later killed them, and Qin fell. The Grand Historian commented that Li Si, though a commoner, achieved great success but failed to correct the emperor's faults, instead flattering him and implementing harsh laws. He listened to Zhao Gao, deposed the rightful heir, and when rebellions arose, his belated advice was foolish. His loyalty was questionable, and his achievements, while great, were not comparable to those of the Duke of Zhou.
+

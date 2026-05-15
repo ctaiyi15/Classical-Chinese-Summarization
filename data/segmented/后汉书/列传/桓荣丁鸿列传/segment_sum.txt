@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 4]
+Summary uses chunk [0, 1, 4]
 
 Chunk 0: 
 original: 
@@ -15,9 +15,6 @@ original:
 帝称善。曰： 得生几晚！
 会欧阳博士缺，帝欲用荣。
 荣叩头让曰： 臣经术浅薄，不如同门生郎中彭闳，扬州从事皋弘。
-帝曰： 俞，往，女谐。
-因拜荣为博士，引闳、弘为议郎。
-车驾幸大学，会诸博士论难于前，荣被服儒衣，温恭有蕴藉，辩明经义，每以礼让相厌，不以辞长胜人，儒者莫之及，特加赏赐。
 translation: 
 ◆Huan Rong's biography, Huan Rong's courtesy name is Chunqing, and he was a native of Longkang, Pei County.
 When he was young, he studied "Ouyang Shangshu" in Chang'an, with Jiujiang Zhu Pu as his teacher. His family was poor and he often relied on servants to support himself. He was energetic and tireless. He did not go home to visit for fifteen years and did not return until Wang Mang usurped the throne.
@@ -32,48 +29,61 @@ At every court meeting, Huan Rong was often asked to explain the scriptures in f
 The emperor praised: It's too late to get Mr.
 It happened that Dr. Ouyang was vacant, and the emperor wanted to use Rong.
 Rong kowtowed and said in resignation: "I am not as good at Confucian classics as my fellow disciples Peng Hong and Yangzhou engaged in Gaohong."
-The emperor said: OK, go ahead, you can do the job.
-So he worshiped Huan Rong as a doctor, and recommended Peng Hong and Gao Hong as doctors.
-The emperor drove to the university, and just as the doctors were discussing issues, Huan Rong was dressed in Confucian clothes. He was gentle and respectful, broad and erudite. He argued clearly about the classics and the meaning of the scriptures. He always showed courtesy and submission, and did not use words to win over others. None of the Confucian scholars could compare with him, so the emperor specially rewarded him.
 
 summary:
 summary line 0: Huan Rong, courtesy name Chunqing, was a native of Longkang, Pei County. He studied the "Ouyang Shangshu" under Zhu Pu in Chang'an, supporting himself through servant labor. He did not return home for fifteen years, only returning after Wang Mang's usurpation. After Zhu Pu's death, Huan Rong built his grave and stayed to teach, amassing hundreds of disciples. During the chaos following Wang Mang's fall, he fled into the valleys with his students, continuing to lecture despite hunger. Later, he taught in the Jianghuai region.
 
-Chunk 0: 
+Chunk 1: 
 original: 
-桓荣字春卿，沛郡龙亢人也。
-少学长安，习《欧阳尚书》，事博士九江朱普。贫窭无资，常客佣以自给，精力不倦，十五年不窥家园。至王莽篡位乃归。
-会朱普卒，荣奔丧九江，负土成坟，因留教授，徒众数百人。
-莽败，天下乱。荣抱其经书与弟子逃匿山谷，虽常饥困而讲论不辍，后复客授江淮间。
-建武十九年，年六十余，始辟大司徒府。
-时，显宗始立为皇太子，选求明经，乃擢荣弟子豫章何汤为虎贲中郎将，以《尚书》授太子。
-世祖从容问汤本师为谁，汤对曰： 事沛国桓荣。
-帝即召荣，令说《尚书》，甚善之。
-拜为议郎，赐钱十万，入使授太子。
-每朝会，辄令荣于公卿前敷奏经书。
-帝称善。曰： 得生几晚！
-会欧阳博士缺，帝欲用荣。
-荣叩头让曰： 臣经术浅薄，不如同门生郎中彭闳，扬州从事皋弘。
 帝曰： 俞，往，女谐。
 因拜荣为博士，引闳、弘为议郎。
 车驾幸大学，会诸博士论难于前，荣被服儒衣，温恭有蕴藉，辩明经义，每以礼让相厌，不以辞长胜人，儒者莫之及，特加赏赐。
+又诏诸生雅吹击磬，尽日乃罢。
+后荣入会庭中，诏赐奇果，受者皆怀之，荣独举手捧之以拜。
+帝笑指之曰： 此真儒生也。
+以是愈见敬厚，常令止宿太子宫。
+积五年，荣荐门下生九江胡宪侍讲，乃听得出，旦一入而已。
+荣尝寝病，太子朝夕遣中傅问病，赐以珍羞、帷、帐、奴婢，谓曰： 如有不讳，无忧家室也。
+后病愈，复入侍进。
+二十八年，大会百官，诏问谁可傅太子者，群臣承望上意，皆言太子舅执金吾原鹿侯阴识可。
+博士张佚正色曰： 今陛下立太子，为阴氏乎？为天下乎？
+即为阴氏，则阴侯可；为天下，则固宜用天下之贤才。
+帝称善，曰： 欲置傅者，以辅太子也。
+今博士不难正朕，况太子乎？
+即拜佚为太子太傅，而以荣为少傅，赐以辎车、乘马。
+荣大会诸生，陈其车马、印绶，曰： 今日所蒙，稽古之力也，可不勉哉！
+荣以太子经学成毕，上疏谢曰： 臣幸得侍帷幄，执经连年，而智学浅短，无以补益万分。
+今皇太子以聪睿之姿，通明经义，观览古今，储君副主莫能专精博学若此者也。
+斯诚国家福祐，天下幸甚。
+臣师道已尽，皆在太子，谨使掾臣汜再拜归道。
+太子报书曰： 庄以童蒙，学道九载，而典训不明，无所晓识。
+夫《五经》广大，圣言幽远，非天下之至精，岂能与于此！
+况以不才，敢承诲命。
 translation: 
-◆Huan Rong's biography, Huan Rong's courtesy name is Chunqing, and he was a native of Longkang, Pei County.
-When he was young, he studied "Ouyang Shangshu" in Chang'an, with Jiujiang Zhu Pu as his teacher. His family was poor and he often relied on servants to support himself. He was energetic and tireless. He did not go home to visit for fifteen years and did not return until Wang Mang usurped the throne.
-When his teacher Zhu Pu passed away, Huan Rong went to Jiujiang to attend the funeral. He carried the soil to build his teacher's grave, so he stayed to teach and had hundreds of disciples.
-Wang Mang failed and the world was in chaos. Huan Rong took the scriptures and fled into the valley with his students. Although he was often hungry, he continued to lecture on scriptures and treatises. Later, he taught in the Jianghuai area.
-In the 19th year of Jianwu's reign, when Huan Rong was over sixty years old, he was awarded the post of Grand Situ.
-At that time, Xianzong had just been established as the crown prince, and he chose to seek Ming scriptures. He promoted Huan Rong's student Yuzhang Hetang to be the general of Huben Zhonglang, and taught the prince in the Book of Documents.
-Shizu calmly asked He Tang who his master was, and He Tang replied: Huan Rong of Pei State.
-The emperor immediately summoned Huan Rong and ordered him to explain "Shang Shu". He thought it was very good.
-He worshiped Huan Rong as Yilang, gave him one hundred thousand yuan, and allowed him to enter the palace and teach the prince.
-At every court meeting, Huan Rong was often asked to explain the scriptures in front of the ministers.
-The emperor praised: It's too late to get Mr.
-It happened that Dr. Ouyang was vacant, and the emperor wanted to use Rong.
-Rong kowtowed and said in resignation: "I am not as good at Confucian classics as my fellow disciples Peng Hong and Yangzhou engaged in Gaohong."
 The emperor said: OK, go ahead, you can do the job.
 So he worshiped Huan Rong as a doctor, and recommended Peng Hong and Gao Hong as doctors.
 The emperor drove to the university, and just as the doctors were discussing issues, Huan Rong was dressed in Confucian clothes. He was gentle and respectful, broad and erudite. He argued clearly about the classics and the meaning of the scriptures. He always showed courtesy and submission, and did not use words to win over others. None of the Confucian scholars could compare with him, so the emperor specially rewarded him.
+The emperor also ordered all the students to play the chime, which lasted all day.
+Later, when Huan Rong entered the court, the emperor gave him a strange fruit. The recipients all took it into their arms. Huan Rong raised his hand and held the fruit in his hands to thank him.
+The emperor smiled and pointed at him and said, "This man is really a Confucian scholar!"
+From then on, he became more respected and was often asked to stay in the palace of the Crown Prince.
+Five years later, Huan Rong recommended his disciple Hu Xian from Jiujiang to serve as a lecturer. He just listened and went to the palace once every morning.
+Huan Rong was once ill. The prince sent his master to inquire about his illness in the morning and evening. He gave him delicacies, curtains, slaves, etc., and said: "If there is any problem, don't worry about the family."
+Later, he recovered from his illness and went to the palace to give lectures.
+In the twenty-eighth year, there was a meeting of hundreds of officials in the DPRK, and the emperor asked who could be the prince's master? The ministers observed the idea and all said that the prince's uncle could hold Jinwu's original deerhou Yinshi.
+Doctor Zhang Yi said seriously: "Your Majesty, when you appoint a prince, is it for the Yin clan or for the world?"
+If it is the Yin family, then Yinhou can do it; if it is the world, then the talents of the world can be used.
+The emperor thought it was a good statement and said: I want to set up the Taifu to assist the prince.
+Now the doctor can't help me, let alone the prince?
+So he worshiped Zhang Yi as the crown prince and tutor, and Huan Rong as the young tutor, and gave him carriages and horses.
+Huanrong gathered all the students, displayed the chariots and horses, seals and ribbons and said: "Today I am given a gift from the emperor. This is the power of archaeological records. Can't you encourage me?"
+Huan Rong thought that the prince's study of the Confucian classics had been completed, so he thanked him and said: "I am fortunate enough to have been able to lecture on the Confucian classics for several years. However, my knowledge is shallow and short-lived, and it cannot be of great benefit."
+Now the crown prince relies on his intelligence and aptitude for understanding the classics and understanding ancient and modern times. No other prince can be as knowledgeable as this.
+This is really a blessing to the country and a blessing to the world.
+I have finished my duties as a minister, and the rest are all in the hands of the prince. I would like to ask Chen Chen to pay his respects and go home again.
+The prince resumed his belief in Taoism: Zhuang Yi was a boy who had studied Taoism for nine years and knew nothing.
+The "Five Classics" is so vast and the sacred words and teachings are so profound. How can one who is not the smartest person in the world master it?
+What's more, if you are not as talented as me, you dare to teach and teach.
 
 summary:
 summary line 1: In the 19th year of Jianwu, over sixty, Huan Rong was appointed Grand Situ. When Xianzong became crown prince, Huan Rong's student He Tang was chosen to teach him the "Book of Documents." The emperor summoned Huan Rong, was impressed by his explanation of "Shang Shu," and appointed him Yilang, allowing him to teach the prince. Huan Rong declined a promotion to Dr. Ouyang, recommending his disciples Peng Hong and Gao Hong instead. He was later made a doctor. The emperor praised his gentle, erudite manner and rewarded him. Huan Rong served as the prince's young tutor, and after the prince's studies were complete, he requested retirement but was persuaded to stay. He was later appointed Taichang. When Xianzong ascended the throne, Huan Rong was honored as a master of etiquette. He repeatedly requested retirement due to old age, receiving additional rewards each time. The emperor visited him, showing great respect. Huan Rong died after a long illness, and the emperor personally attended his funeral and granted him a tomb.
@@ -89,9 +99,6 @@ original:
 初，綝从世祖征伐，鸿独与弟盛居，怜盛幼小而共寒苦。
 及綝卒，鸿当袭封，上书让国于盛，不报。
 既葬，乃挂缞绖于冢庐而逃去，留书与盛曰： 鸿贪经书，不顾恩义，弱而随师，生不供养，死不饭，皇天先祖，并不祐助，身被大病，不任茅土。
-前上疾状，愿辞爵仲公，章寝不报，迫且当袭封。
-谨自放弃。逐求良医。
-如遂不瘳，永归沟壑。
 translation: 
 In the first year of Jianwu, Ding Linlin was worshiped as the governor of Henan.
 When it came time to award the meritorious officials, the emperor asked everyone to do what they wanted. All the generals occupied Fengyi Mei County, but Ding Linlin was the only one willing to grant the title to his hometown.
@@ -102,9 +109,6 @@ When Ding Hongnian was 13 years old, he studied "Ouyang Shangshu" from Huan Rong
 At first, Ding Jinlin followed Shizu in the expedition, and Ding Hong lived with his younger brother Ding Sheng. They loved Ding Sheng when he was young and lived a poor life together.
 After Ding Jinlin's death, Ding Hong was granted the hereditary title and wrote a letter to transfer the country to Ding Sheng, but received no reply.
 His father had been buried, so he hung mourning clothes in the tomb and slipped away, leaving a message to Ding Sheng: "Hong was greedy for scriptures. He ignored his kindness and righteousness. He studied with his teacher when he was young. He did not support his parents during his life. He could not fulfill his filial piety until his death. The ancestors of the emperor and heaven did not bless and help him. He was seriously ill and could not bear the soil."
-The last time I wrote a letter stating my illness, I was willing to resign my title to my younger brother, but the memorial was shelved without a reply, and the time was approaching for me to be granted a title.
-I would like to give up the title and seek good doctors abroad.
-If the disease cannot be cured, forget about dying in a ravine.
 
 summary:
 summary line 2: Ding Hong, courtesy name Xiaogong, was a native of Dingling, Yingchuan. His father, Ding Lin, surrendered Yingyang to Shizu and was rewarded, later becoming Governor of Henan. Ding Lin chose to be enfeoffed in his hometown, becoming Marquis of Xin'an Township. Ding Hong studied "Ouyang Shangshu" under Huan Rong at thirteen, mastering it in three years. After his father's death, he attempted to cede his title to his younger brother Ding Sheng but fled when his request was ignored. His friend Bao Jun persuaded him to return, citing the importance of upholding his father's legacy. Ding Hong returned, taught disciples, and was later summoned by Emperor Xianzong, becoming a servant and then Captain of Shesheng. He participated in the White Tiger Temple discussions on the Five Classics, where his eloquence was praised. He was promoted to Shaofu and later Taichang. During Empress Dowager Dou's regency, Ding Hong submitted a memorial warning against the Dou family's power, citing solar eclipses as divine warnings. His advice led to the confiscation of Dou Xian's seal and the suicides of Dou Xian and his brothers. Ding Hong also reformed the system for recommending filial and incorrupt candidates. He died in the sixth year of Yongyuan.

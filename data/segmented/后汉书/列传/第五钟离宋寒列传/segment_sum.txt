@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 0, 0, 7, 10, 10, 8, 13]
+Summary uses chunk [0, 10, 16, 17]
 
 Chunk 0: 
 original: 
@@ -41,147 +41,10 @@ The next day, he specially called in and Wu Lun to talk from day to night.
 The emperor jokingly said to Fifth Lun: I heard that when you were an official, you beat your father-in-law and refused to feed your cousin. Is this true? The Fifth Lun replied: I have married three times, but my wives have no father.
 
 summary:
-summary line 0: **Summary of Historical Biographies**
+summary line 0: Fifth Lun, courtesy name Boyu, was from Changling, Jingzhao, descended from the Tian clan of Qi. Upright from youth, he built fortresses during Wang Mang's era to defend against bandits like Bronze Horse and Red Eyebrow, successfully repelling attacks. He served under Yin Xianyu Bao, who recognized his talent, and later became a village official, gaining popularity through fair tax collection and dispute mediation. He moved to Hedong, changed his name to Wang Boqi, and worked as a salt carrier. Recommended by Xianyu Bao, he became chief bookkeeper under Jingzhao Yin Yanxing, where he rectified market scales and coins, earning public trust. Promoted to Xiaolian in 51 CE, he served as chief medical officer for Huaiyang State. Emperor Guangwu, impressed by his governance insights, appointed him governor of Fuyi, then Kuaiji. In Kuaiji, he banned superstitious cattle sacrifices and witch fraud, restoring order. Transferred in 62 CE for legal violations, he was pursued by weeping locals. After release, he farmed privately until appointed magistrate of Danqu County, then governor of Shu Commandery, where he dismissed corrupt officials and promoted virtuous ones, ending bribery. As Sikong under Suzong, he warned against the power of Empress Dowager Mingde's Ma relatives, citing their lavish gifts and potential corruption. He also opposed Ma Fang's Western Qiang campaign, fearing nepotism. Known for strictness but leniency, he criticized harsh governance, advocating for benevolent officials. He retired in 86 CE with honors and died over eighty, receiving imperial burial gifts.
 
-Chunk 0: 
+Chunk 10: 
 original: 
-第五伦字伯鱼，京兆长陵人也。
-其先齐诸田，诸田徙园陵者多，故以次第为氏。
-伦少介然有义行。
-王莽末，盗贼起，宗族闾里争往附之。
-伦乃依险固筑营壁，有贼，辄奋厉其众，引强持满以拒之，铜马、赤眉之属前后数十辈，皆不能下。
-伦始以营长诣郡尹鲜于褒，褒见而异之，署为吏。
-后褒坐事左转高唐令，临去，握伦臂诀曰 恨相知晚
-伦后为乡啬夫，平徭赋，理怨结，得人欢心。
-自以为久宦不达，遂将家属客河东，变名姓，自称王伯齐，载盐往来太原、上党，所过辄为粪除而去，陌上号为道士，亲友故人莫知其处。
-数年，鲜于褒荐之于京兆尹阎兴，兴即召伦为主簿。
-时长安铸钱多奸巧，乃署伦为督铸钱掾，领长安市。
-伦平铨衡，正斗斛，市无阿枉，百姓悦服。
-每读诏书，常叹息曰 此圣主也，一见决矣 等辈笑之曰 尔说将尚不下，安能动万乘乎 伦曰 未遇知己，道不同故耳
-建武二十七年，举孝廉，补淮阳国医工长，随王之国。
-光武召见，甚异之。
-二十九年，从王朝京师，随官属得会见，帝问以政事，伦因此酧对政道，帝大悦。
-明日，复特召入，与语至夕。
-帝戏谓伦曰 闻卿为吏篣妇公，不过从兄饭，宁有之邪 伦对曰 臣三娶妻皆无父。
-translation: 
-◆The fifth Lun biography, the fifth Lun, whose courtesy name is Boyu, was born in Changling, Jingzhao.
-His ancestors had the surname Tian from Qi State. Later, many people with the surname Tian moved to Yuanling, so they used the order as their surname.
-Fifth Lun was very upright and virtuous when he was young.
-In the last years of Wang Mang's life, thieves and thieves appeared in droves, and people from the same clan and fellow villagers rushed to join him.
-Fifth Lun then built a strong fortress based on the dangerous terrain. When thieves came, he mobilized all the villagers to defend themselves with strong crossbows. Dozens of generations like Bronze Horse and Red Eyebrow came to attack, but they could not capture it.
-Wu Lun began to contact the county Yin Xianyu Bao as a battalion commander. When Xianyu Bao met him, he felt that he was different, so he used him as an official.
-Later, Xian Yubao made a mistake and was demoted to Gaotang County Magistrate. Before leaving, he held Wu Lun's hand and said, "I just regret that it was too late to meet each other."
-Wu Lun later became a stingy man in the village, collecting taxes fairly, sending out servants, and mediating civil disputes, and was very popular among the people.
-He himself thought that he would not be able to be a high official for a long time, so he moved his family to Hedong, changed his name, and called himself Wang Boqi. He carried salt between Taiyuan and Shangdang, and the places he passed must be cleaned before leaving. The villagers called him a Taoist priest, and his relatives and friends did not know where he lived.
-A few years later, Xian Yubao recommended Wu Lun to Jingzhao Yin Yanxing, and Yan Xing called Wu Lun to be the chief bookkeeper.
-At that time, most of the people who minted coins in Chang'an resorted to fraud, so Yan Xing ordered Wu Lun to be the official who supervised the minting of coins and was in charge of the Chang'an market.
-The fifth Lun rectified the substandard scales and buckets. From then on, there was fair trade in the market, there were no big scales and small buckets, and the people were convinced.
-Every time Wu Lun read the edict, he often sighed: This is the wise emperor, and my fate will be decided by just meeting him. People of his generation laughed at him and said: "You can't convince the state generals, how can you move the Emperor Wancheng?" Lun said: "I haven't met a close friend, it's just because of different ways."
-In the twenty-seventh year of Jianwu's reign, Wu Lun was promoted to Xiaolian and promoted to the chief medical officer of Huaiyang State Medical University. He followed the king to Kyoto.
-Emperor Guangwu felt strange after summoning him.
-In the twenty-ninth year, he and the king had the opportunity to meet with the capital and accompanying officials. The emperor asked them about political affairs. Wu Lun took this opportunity to answer questions about the way to govern. The emperor was very happy to hear this.
-The next day, he specially called in and Wu Lun to talk from day to night.
-The emperor jokingly said to Fifth Lun: I heard that when you were an official, you beat your father-in-law and refused to feed your cousin. Is this true? The Fifth Lun replied: I have married three times, but my wives have no father.
-
-summary:
-summary line 1: **Fifth Lun (Biography 5)**
-
-Chunk 0: 
-original: 
-第五伦字伯鱼，京兆长陵人也。
-其先齐诸田，诸田徙园陵者多，故以次第为氏。
-伦少介然有义行。
-王莽末，盗贼起，宗族闾里争往附之。
-伦乃依险固筑营壁，有贼，辄奋厉其众，引强持满以拒之，铜马、赤眉之属前后数十辈，皆不能下。
-伦始以营长诣郡尹鲜于褒，褒见而异之，署为吏。
-后褒坐事左转高唐令，临去，握伦臂诀曰 恨相知晚
-伦后为乡啬夫，平徭赋，理怨结，得人欢心。
-自以为久宦不达，遂将家属客河东，变名姓，自称王伯齐，载盐往来太原、上党，所过辄为粪除而去，陌上号为道士，亲友故人莫知其处。
-数年，鲜于褒荐之于京兆尹阎兴，兴即召伦为主簿。
-时长安铸钱多奸巧，乃署伦为督铸钱掾，领长安市。
-伦平铨衡，正斗斛，市无阿枉，百姓悦服。
-每读诏书，常叹息曰 此圣主也，一见决矣 等辈笑之曰 尔说将尚不下，安能动万乘乎 伦曰 未遇知己，道不同故耳
-建武二十七年，举孝廉，补淮阳国医工长，随王之国。
-光武召见，甚异之。
-二十九年，从王朝京师，随官属得会见，帝问以政事，伦因此酧对政道，帝大悦。
-明日，复特召入，与语至夕。
-帝戏谓伦曰 闻卿为吏篣妇公，不过从兄饭，宁有之邪 伦对曰 臣三娶妻皆无父。
-translation: 
-◆The fifth Lun biography, the fifth Lun, whose courtesy name is Boyu, was born in Changling, Jingzhao.
-His ancestors had the surname Tian from Qi State. Later, many people with the surname Tian moved to Yuanling, so they used the order as their surname.
-Fifth Lun was very upright and virtuous when he was young.
-In the last years of Wang Mang's life, thieves and thieves appeared in droves, and people from the same clan and fellow villagers rushed to join him.
-Fifth Lun then built a strong fortress based on the dangerous terrain. When thieves came, he mobilized all the villagers to defend themselves with strong crossbows. Dozens of generations like Bronze Horse and Red Eyebrow came to attack, but they could not capture it.
-Wu Lun began to contact the county Yin Xianyu Bao as a battalion commander. When Xianyu Bao met him, he felt that he was different, so he used him as an official.
-Later, Xian Yubao made a mistake and was demoted to Gaotang County Magistrate. Before leaving, he held Wu Lun's hand and said, "I just regret that it was too late to meet each other."
-Wu Lun later became a stingy man in the village, collecting taxes fairly, sending out servants, and mediating civil disputes, and was very popular among the people.
-He himself thought that he would not be able to be a high official for a long time, so he moved his family to Hedong, changed his name, and called himself Wang Boqi. He carried salt between Taiyuan and Shangdang, and the places he passed must be cleaned before leaving. The villagers called him a Taoist priest, and his relatives and friends did not know where he lived.
-A few years later, Xian Yubao recommended Wu Lun to Jingzhao Yin Yanxing, and Yan Xing called Wu Lun to be the chief bookkeeper.
-At that time, most of the people who minted coins in Chang'an resorted to fraud, so Yan Xing ordered Wu Lun to be the official who supervised the minting of coins and was in charge of the Chang'an market.
-The fifth Lun rectified the substandard scales and buckets. From then on, there was fair trade in the market, there were no big scales and small buckets, and the people were convinced.
-Every time Wu Lun read the edict, he often sighed: This is the wise emperor, and my fate will be decided by just meeting him. People of his generation laughed at him and said: "You can't convince the state generals, how can you move the Emperor Wancheng?" Lun said: "I haven't met a close friend, it's just because of different ways."
-In the twenty-seventh year of Jianwu's reign, Wu Lun was promoted to Xiaolian and promoted to the chief medical officer of Huaiyang State Medical University. He followed the king to Kyoto.
-Emperor Guangwu felt strange after summoning him.
-In the twenty-ninth year, he and the king had the opportunity to meet with the capital and accompanying officials. The emperor asked them about political affairs. Wu Lun took this opportunity to answer questions about the way to govern. The emperor was very happy to hear this.
-The next day, he specially called in and Wu Lun to talk from day to night.
-The emperor jokingly said to Fifth Lun: I heard that when you were an official, you beat your father-in-law and refused to feed your cousin. Is this true? The Fifth Lun replied: I have married three times, but my wives have no father.
-
-summary:
-summary line 2: Fifth Lun, courtesy name Boyu, was from Changling, Jingzhao, descended from the Tian clan of Qi. Upright from youth, he built fortresses during Wang Mang's era to defend against bandits like Bronze Horse and Red Eyebrow, successfully repelling attacks. He served under Yin Xianyu Bao, who recognized his talent, and later became a village official, gaining popularity through fair tax collection and dispute mediation. He moved to Hedong, changed his name to Wang Boqi, and worked as a salt carrier. Recommended by Xianyu Bao, he became chief bookkeeper under Jingzhao Yin Yanxing, where he rectified market scales and coins, earning public trust. Promoted to Xiaolian in 51 CE, he served as chief medical officer for Huaiyang State. Emperor Guangwu, impressed by his governance insights, appointed him governor of Fuyi, then Kuaiji. In Kuaiji, he banned superstitious cattle sacrifices and witch fraud, restoring order. Transferred in 62 CE for legal violations, he was pursued by weeping locals. After release, he farmed privately until appointed magistrate of Danqu County, then governor of Shu Commandery, where he dismissed corrupt officials and promoted virtuous ones, ending bribery. As Sikong under Suzong, he warned against the power of Empress Dowager Mingde's Ma relatives, citing their lavish gifts and potential corruption. He also opposed Ma Fang's Western Qiang campaign, fearing nepotism. Known for strictness but leniency, he criticized harsh governance, advocating for benevolent officials. He retired in 86 CE with honors and died over eighty, receiving imperial burial gifts.
-
-Chunk 0: 
-original: 
-第五伦字伯鱼，京兆长陵人也。
-其先齐诸田，诸田徙园陵者多，故以次第为氏。
-伦少介然有义行。
-王莽末，盗贼起，宗族闾里争往附之。
-伦乃依险固筑营壁，有贼，辄奋厉其众，引强持满以拒之，铜马、赤眉之属前后数十辈，皆不能下。
-伦始以营长诣郡尹鲜于褒，褒见而异之，署为吏。
-后褒坐事左转高唐令，临去，握伦臂诀曰 恨相知晚
-伦后为乡啬夫，平徭赋，理怨结，得人欢心。
-自以为久宦不达，遂将家属客河东，变名姓，自称王伯齐，载盐往来太原、上党，所过辄为粪除而去，陌上号为道士，亲友故人莫知其处。
-数年，鲜于褒荐之于京兆尹阎兴，兴即召伦为主簿。
-时长安铸钱多奸巧，乃署伦为督铸钱掾，领长安市。
-伦平铨衡，正斗斛，市无阿枉，百姓悦服。
-每读诏书，常叹息曰 此圣主也，一见决矣 等辈笑之曰 尔说将尚不下，安能动万乘乎 伦曰 未遇知己，道不同故耳
-建武二十七年，举孝廉，补淮阳国医工长，随王之国。
-光武召见，甚异之。
-二十九年，从王朝京师，随官属得会见，帝问以政事，伦因此酧对政道，帝大悦。
-明日，复特召入，与语至夕。
-帝戏谓伦曰 闻卿为吏篣妇公，不过从兄饭，宁有之邪 伦对曰 臣三娶妻皆无父。
-translation: 
-◆The fifth Lun biography, the fifth Lun, whose courtesy name is Boyu, was born in Changling, Jingzhao.
-His ancestors had the surname Tian from Qi State. Later, many people with the surname Tian moved to Yuanling, so they used the order as their surname.
-Fifth Lun was very upright and virtuous when he was young.
-In the last years of Wang Mang's life, thieves and thieves appeared in droves, and people from the same clan and fellow villagers rushed to join him.
-Fifth Lun then built a strong fortress based on the dangerous terrain. When thieves came, he mobilized all the villagers to defend themselves with strong crossbows. Dozens of generations like Bronze Horse and Red Eyebrow came to attack, but they could not capture it.
-Wu Lun began to contact the county Yin Xianyu Bao as a battalion commander. When Xianyu Bao met him, he felt that he was different, so he used him as an official.
-Later, Xian Yubao made a mistake and was demoted to Gaotang County Magistrate. Before leaving, he held Wu Lun's hand and said, "I just regret that it was too late to meet each other."
-Wu Lun later became a stingy man in the village, collecting taxes fairly, sending out servants, and mediating civil disputes, and was very popular among the people.
-He himself thought that he would not be able to be a high official for a long time, so he moved his family to Hedong, changed his name, and called himself Wang Boqi. He carried salt between Taiyuan and Shangdang, and the places he passed must be cleaned before leaving. The villagers called him a Taoist priest, and his relatives and friends did not know where he lived.
-A few years later, Xian Yubao recommended Wu Lun to Jingzhao Yin Yanxing, and Yan Xing called Wu Lun to be the chief bookkeeper.
-At that time, most of the people who minted coins in Chang'an resorted to fraud, so Yan Xing ordered Wu Lun to be the official who supervised the minting of coins and was in charge of the Chang'an market.
-The fifth Lun rectified the substandard scales and buckets. From then on, there was fair trade in the market, there were no big scales and small buckets, and the people were convinced.
-Every time Wu Lun read the edict, he often sighed: This is the wise emperor, and my fate will be decided by just meeting him. People of his generation laughed at him and said: "You can't convince the state generals, how can you move the Emperor Wancheng?" Lun said: "I haven't met a close friend, it's just because of different ways."
-In the twenty-seventh year of Jianwu's reign, Wu Lun was promoted to Xiaolian and promoted to the chief medical officer of Huaiyang State Medical University. He followed the king to Kyoto.
-Emperor Guangwu felt strange after summoning him.
-In the twenty-ninth year, he and the king had the opportunity to meet with the capital and accompanying officials. The emperor asked them about political affairs. Wu Lun took this opportunity to answer questions about the way to govern. The emperor was very happy to hear this.
-The next day, he specially called in and Wu Lun to talk from day to night.
-The emperor jokingly said to Fifth Lun: I heard that when you were an official, you beat your father-in-law and refused to feed your cousin. Is this true? The Fifth Lun replied: I have married three times, but my wives have no father.
-
-summary:
-summary line 3: **Zhongli Yi (Biography)**
-
-Chunk 7: 
-original: 
-建武十四年，会稽大疫，死者万数，意独身自隐亲，经给医药，所部多蒙全济。
-举孝廉，再迁，辟大司徒侯霸府。
-诏部送徒诣河内，时冬寒，徒病不能行。
-路过弘农，意辄移属县使作徒衣，县不得已与之，而上书言状，意亦具以闻。
-光武得奏，以视霸，曰 君所使掾何乃仁于用心。
-诚良吏也 意遂于道解徒桎梏，恣所欲过，与克期俱至，无或违者。还，以病免。
-后除瑕丘令。
-吏有檀建者，盗窃县内，意屏人问状，建叩头服罪，不忍加刑，遣令长休。
 建父闻之，为建设酒，谓曰 吾闻无道之君以刃残人，有道之君以义行诛。
 子罪，命也 遂令建进药而死。
 二十五年，迁堂邑令。
@@ -200,14 +63,6 @@ original:
 永平三年夏旱，而大起北宫，意诣阙免冤上疏曰：伏见陛下以天时小旱，忧念元元，降避正殿，躬自克责，而比日密云，遂无大润，岂政有未得应天心者邪。
 昔成汤遭旱，以六事自责曰 政不节邪。
 translation: 
-In the 14th year of Jianwu's reign, there was a great plague in Kuaiji, which killed tens of thousands of people. Zhongliyi personally sympathized with him and provided medicine regularly, and his subordinate ministries received many aids from him.
-Zhong Liyi was promoted to Xiaolian and promoted again, and was mentioned in the Grand Situ Houba Mansion.
-The imperial court issued an edict to send the disciple to Hanoi. It was a cold winter and the disciple was sick and could not walk.
-Passing by Hongnong, Zhongliyi sent a letter to the county to make clothes for his disciples. The county had no choice but to give it to him, but the letter explained the situation, and Zhongliyi also reported everything.
-After Emperor Guangwu received the memorial, he showed it to Hou Ba and said, "The constable you sent has such a good conscience. He is indeed a good official."
-Zhongli intended to remove the shackles of the prisoners on the road and let them disperse, but he must arrive at the scheduled time and no one would violate it. After returning, he was dismissed due to illness.
-Later he was awarded the title of Xiaqiu Order.
-One of the officials, Tan Jian, stole something from the county. Zhongliyi retreated and asked for a confession privately. Tan Jian kowtowed and admitted his crime. Zhongliyi could not bear to impose more punishment and ordered him to rest for a long time.
 Tan Jian's father heard about it, held a banquet for Jian, and said to him: "I heard that an unrighteous man kills with a sword, but a righteous man kills with righteousness."
 You are guilty and deserve this. So Jian was told to take medicine and died.
 In the twenty-fifth year, he was promoted to Tangyi Ling.
@@ -227,152 +82,54 @@ There was a severe drought in the summer of the third year of Yongping, and the 
 Once upon a time when Chengtang was hit by a drought, he blamed himself for six things: Isn't government frugal?
 
 summary:
-summary line 4: Zhongli Yi, courtesy name Zi'a, from Shanyin, Kuaiji, began as a county governor. During a plague in 38 CE, he personally provided medicine to victims. Promoted to Xiaolian, he served under Grand Situ Hou Ba, showing compassion by arranging clothes for a sick disciple. As Xiaqiu magistrate, he privately forgave an official's theft, leading the thief's father to force his son's suicide. As Tangyi magistrate, he allowed a prisoner, Guang, to bury his mother, later securing his pardon. Under Xianzong, as minister, he refused tainted pearls from corrupt official Zhang Hui, earning imperial praise and a reward. He criticized the emperor's frequent hunts at Guangcheng Garden, urging frugality during a drought. He also defended a clerk's clerical error, taking blame himself. Known for bold remonstrance, he rescued ministers from punishment and advised leniency in governance. As prime minister of Lu for five years, he promoted moral education, dying in office. His final words urged gentle rule, and the emperor granted burial funds.
+summary line 1: Zhongli Yi, courtesy name Zi'a, from Shanyin, Kuaiji, began as a county governor. During a plague in 38 CE, he personally provided medicine to victims. Promoted to Xiaolian, he served under Grand Situ Hou Ba, showing compassion by arranging clothes for a sick disciple. As Xiaqiu magistrate, he privately forgave an official's theft, leading the thief's father to force his son's suicide. As Tangyi magistrate, he allowed a prisoner, Guang, to bury his mother, later securing his pardon. Under Xianzong, as minister, he refused tainted pearls from corrupt official Zhang Hui, earning imperial praise and a reward. He criticized the emperor's frequent hunts at Guangcheng Garden, urging frugality during a drought. He also defended a clerk's clerical error, taking blame himself. Known for bold remonstrance, he rescued ministers from punishment and advised leniency in governance. As prime minister of Lu for five years, he promoted moral education, dying in office. His final words urged gentle rule, and the emperor granted burial funds.
 
-Chunk 10: 
+Chunk 16: 
 original: 
-亦以此故不得久留，出为鲁相。
-后德阳殿成，百官大会。
-帝思意言，谓公卿曰 钟离尚书若在，此殿不立
-意视事五年，以爱利为化，人多殷富。
-帝每夜入台，辄见崧，问其故，甚嘉之，自此诏太官赐尚书以下朝夕餐，给帷被阜袍，及侍史二人。崧官至南阳太守。宋均字叔庠，南阳安众人也。
-父伯，建武初为五官中郎将。
-均以父任为郎，时年十五，好经书，每休沐日，辄受业博士，通《诗》、《礼》，善论难。
-至二十馀，调补辰阳长。
-其俗少学者而信巫鬼，均为立学校，禁绝淫祀，人皆安之。
-以祖母丧去官，客授颍川。
-后为谒者。
-会武陵蛮反，围武威将军刘尚，诏使均乘传发江夏奔命三千人往救之。
-既至而尚已没。
-会伏波将军马援至，诏因令均监军，与诸将俱进，贼拒厄不得前。
-及马援卒于师，军士多温湿疾病，死者太半。
-均虑军遂不反，乃与诸将议曰 今道远士病，不可以战，欲权承制降之何如 诸将皆伏地莫敢应。
-均曰 夫忠臣出竟，有可以安国家，专之可也 乃矫制调伏波司马吕种守沅陵长，命种奉诏书入虏营，告以恩信，因勒兵随其后。
-蛮夷震怖，即共斩其大帅而降，于是入贼营，散其众，遣归本郡，为置长吏而还。
-均未至，先自劾矫制之罪。
-光武嘉其功，迎赐以金帛，令过家上冢。
-其后每有四方异议，数访问焉。
-迁上蔡令。
+均乃下书曰 自今以后，为山娶者皆娶巫家，勿扰良民 于是遂绝。
+永平元年，迁东海相，在郡五年，坐法免官，客授颍川。
+而东海吏民思均恩化，为之作歌，诣阙乞还者数千人。
+显宗以其能，七年，征拜尚书令。
+每有驳议，多合上旨。
+均尝删剪疑事，帝以为有奸，大怒，收郎缚格之。
+诸尚书惶恐，皆叩头谢罪。
+均顾厉色曰 盖忠臣执义，无有二心。
+若畏威失正，均虽死，不易志 小黄门在傍，入具以闻。
+帝善其不挠，即令贳郎，迁均司隶校尉。
+数月，出为河内太守，政化大行。
+均尝寝病，百姓耆老为祷请，旦夕问起居，其为民爱若此。
+以疾上书乞免，诏除子条为太子舍人。
+均自扶舆诣阙谢恩，帝使中黄门慰问，因留养疾。
+司徒缺，帝以均才任宰相，召入视其疾，令两驺扶之。
+均拜谢曰 天罚有罪，所苦浸笃，不复奉望帷幄 因流涕而辞。
+帝甚伤之，召条扶侍均出，赐钱三十万。
+均性宽和，不喜文法，常以为吏能弘厚，虽贪污放纵，犹无所害。至于苛察之人，身或廉法，而巧黠刻削，毒加百姓，灾害流亡所由而作。
+孙俱，灵帝时为司空。
 translation: 
-For this reason, he could not stay in the capital for a long time and soon became the prime minister of Lu.
-Later, Deyang Hall was built and a gathering of officials was held.
-The emperor remembered Zhong Liyi's words and said to the minister: If Zhongli, the minister, were here, this palace would not be built.
-Zhongliyi served as an official for five years and used caring for and benefiting the people as the basis of education. The people became more prosperous.
-Died in official position due to long illness. The last words were written to the emperor stating that the time of peace was difficult to change and should be treated with a little leniency. The emperor felt sorry for him and issued an edict, giving him 200,000 yuan to settle down. ◆Biography of Song Jun, whose courtesy name is Shuxiang, and who was born in Anzhong, Nanyang.
-His father, Uncle Song, served as a general of the rank and file in the early years of Jianwu.
-Song Jun became a doctor because of his father's appointment. He was fifteen years old at the time. He was fond of reading classics. During his holidays, he would study with doctors. Therefore, he was proficient in "Poetry" and "Li" and could debate issues.
-When you are in your twenties, you will be able to replenish Chen Yang.
-The customs there were less learned and more superstitious about witches and ghosts. Song Jun established schools for them and banned improper sacrifices, so the people settled down.
-In Song Dynasty, Jun left his official position due to the death of his grandmother and was awarded the title of guest in Yingchuan.
-Later he became a visitor.
-Encountering Wuling barbarians and surrounding Wuwei General Liu Shang, the imperial court ordered Song Jun to send 3,000 people from Jiangxia to rescue.
-Liu Shang was dead when he got there.
-It happened that General Fubo Ma Yuan arrived, and the imperial edict ordered Song Jun to serve as a supervisor and advance with the generals. However, he was blocked by thieves and could not advance.
-After Ma Yuan's death, more than half of the sergeants died due to warm and damp diseases.
-Song Jun was worried about the safety of the army and refused to return, so he discussed with the generals: Now that the soldiers who are far away are ill and unable to fight, how about using expedient measures to accept the surrender? All the generals fell on the ground and did not dare to agree.
-Song Jun said: When loyal ministers leave the country, they can find ways to stabilize the country and make decisions by themselves. So under the false imperial edict, Ma Yuan's subordinate Sima Lv Zhong was sent to guard Yuanling, and Lv Zhong was ordered to enter the enemy camp with the imperial edict and express the favor of the court, so he ordered his troops to follow behind.
-The barbarians were afraid, so they all killed their commanders and surrendered. Then they entered the bandit camp, dispersed their people, sent them back to their headquarters, and appointed senior officials for them before returning.
-Song Jun had not yet arrived at the court and had committed the crime of imposition himself.
-Emperor Guangwu commended him for his meritorious service, welcomed him and gave him gold and silk, and ordered his family members to visit his grave.
-In the future, whenever there were objections from all directions, he visited him many times.
-Song Jun was promoted to Shangcai Ling.
+Song Jun wrote a letter saying: From now on, those who marry for the mountains will marry daughters of the witch family, so as not to disturb good people. So this unhealthy trend ended.
+In the first year of Yongping, he was promoted to the Prime Minister of the East China Sea and stayed in the county for five years. Later, he was dismissed for violating the law and was taught in Yingchuan.
+But the officials and people in the East China Sea missed Song Jun Enhua, composed songs for him, and thousands of people came to the court to ask for his return.
+Xianzong thought he was very capable, and for seven years, he was worshiped as a minister.
+Every refutation was in line with the emperor's will.
+Song Jun once deleted some suspicious things. The emperor thought it was treacherous, lost his temper, and punished him.
+All the ministers were frightened and kowtowed to apologize.
+Song Jun said sternly: "A loyal minister sticks to his principles and has no second thoughts."
+If fear of power loses justice, I will not change my original intention even if I die. The little yellow door is nearby, go in and report the situation.
+The emperor praised him for his unyielding, and immediately ordered Lang to be pardoned, and transferred Song Jun to the post of Sili Xiaowei.
+A few months later, he came out to serve as the governor of Hanoi, and political reform flourished.
+Song Jun was once ill, and the elders of the people prayed for him and asked him about his daily life in the morning and evening. He was loved by the people like this.
+He wrote a letter requesting to retire due to illness, and the imperial court issued an edict to make his son Song Tiao the crown prince's successor.
+Song Jun carried his carriage to the court to express his gratitude. The emperor sent Zhonghuangmen to express his condolences, so he stayed at home to recuperate.
+When Situ was vacant, the emperor thought that Song Juncai had been appointed prime minister, so he called him into the palace to observe his condition and sent two horse breeders to help him.
+Song Jun thanked him and said, "God punishes guilty people. They are so tortured by the disease that they can no longer serve in the curtain." So he said goodbye with tears in his eyes.
+The emperor sympathized with him very much, summoned Song Tiao to help Song Jun out, and gave him 300,000 yuan.
+Song Jun had a generous and kind personality, and disliked grammar. He often believed that officials could be generous and generous, and even if they were corrupt and indulgent, there would be no harm. As for the strict and observant people, even if they were honest and law-abiding, they would be cunning and mean, poisoning the people, and disasters and exiles were caused by these people.
+Later, when I was serving as minister, I often wanted to kowtow and argue, but because of tight time constraints, I did not dare to state my opinions.
 
 summary:
-summary line 5: **Song Jun (Biography)**
+summary line 2: Song Jun, courtesy name Shuxiang, from Nanyang, became a doctor at fifteen via his father's appointment. Proficient in classics, he served as Chen Yang's assistant, establishing schools and banning improper sacrifices. He led 3,000 troops to rescue General Liu Shang but arrived after his death. With General Ma Yuan, he faced disease and blockades, so he forged an imperial edict to accept barbarian surrender, dispersing their forces. Emperor Guangwu pardoned his unauthorized action, rewarding him. As Shangcai magistrate, he refused to enforce strict funeral bans, prioritizing justice. As Jiujiang governor, he attributed tiger attacks to corrupt officials, removing traps and promoting virtue, causing tigers to leave. He ended a marriage sacrifice custom in Junqiu County. Promoted to prime minister of East China Sea, he was later dismissed but recalled due to public demand. As minister, he defended his principles against imperial anger, earning praise for his integrity. As Hanoi governor, he was beloved by the people. He retired due to illness, receiving honors. He advocated lenient governance, blaming harsh laws for social ills, and died in 76 CE.
 
-Chunk 10: 
-original: 
-亦以此故不得久留，出为鲁相。
-后德阳殿成，百官大会。
-帝思意言，谓公卿曰 钟离尚书若在，此殿不立
-意视事五年，以爱利为化，人多殷富。
-帝每夜入台，辄见崧，问其故，甚嘉之，自此诏太官赐尚书以下朝夕餐，给帷被阜袍，及侍史二人。崧官至南阳太守。宋均字叔庠，南阳安众人也。
-父伯，建武初为五官中郎将。
-均以父任为郎，时年十五，好经书，每休沐日，辄受业博士，通《诗》、《礼》，善论难。
-至二十馀，调补辰阳长。
-其俗少学者而信巫鬼，均为立学校，禁绝淫祀，人皆安之。
-以祖母丧去官，客授颍川。
-后为谒者。
-会武陵蛮反，围武威将军刘尚，诏使均乘传发江夏奔命三千人往救之。
-既至而尚已没。
-会伏波将军马援至，诏因令均监军，与诸将俱进，贼拒厄不得前。
-及马援卒于师，军士多温湿疾病，死者太半。
-均虑军遂不反，乃与诸将议曰 今道远士病，不可以战，欲权承制降之何如 诸将皆伏地莫敢应。
-均曰 夫忠臣出竟，有可以安国家，专之可也 乃矫制调伏波司马吕种守沅陵长，命种奉诏书入虏营，告以恩信，因勒兵随其后。
-蛮夷震怖，即共斩其大帅而降，于是入贼营，散其众，遣归本郡，为置长吏而还。
-均未至，先自劾矫制之罪。
-光武嘉其功，迎赐以金帛，令过家上冢。
-其后每有四方异议，数访问焉。
-迁上蔡令。
-translation: 
-For this reason, he could not stay in the capital for a long time and soon became the prime minister of Lu.
-Later, Deyang Hall was built and a gathering of officials was held.
-The emperor remembered Zhong Liyi's words and said to the minister: If Zhongli, the minister, were here, this palace would not be built.
-Zhongliyi served as an official for five years and used caring for and benefiting the people as the basis of education. The people became more prosperous.
-Died in official position due to long illness. The last words were written to the emperor stating that the time of peace was difficult to change and should be treated with a little leniency. The emperor felt sorry for him and issued an edict, giving him 200,000 yuan to settle down. ◆Biography of Song Jun, whose courtesy name is Shuxiang, and who was born in Anzhong, Nanyang.
-His father, Uncle Song, served as a general of the rank and file in the early years of Jianwu.
-Song Jun became a doctor because of his father's appointment. He was fifteen years old at the time. He was fond of reading classics. During his holidays, he would study with doctors. Therefore, he was proficient in "Poetry" and "Li" and could debate issues.
-When you are in your twenties, you will be able to replenish Chen Yang.
-The customs there were less learned and more superstitious about witches and ghosts. Song Jun established schools for them and banned improper sacrifices, so the people settled down.
-In Song Dynasty, Jun left his official position due to the death of his grandmother and was awarded the title of guest in Yingchuan.
-Later he became a visitor.
-Encountering Wuling barbarians and surrounding Wuwei General Liu Shang, the imperial court ordered Song Jun to send 3,000 people from Jiangxia to rescue.
-Liu Shang was dead when he got there.
-It happened that General Fubo Ma Yuan arrived, and the imperial edict ordered Song Jun to serve as a supervisor and advance with the generals. However, he was blocked by thieves and could not advance.
-After Ma Yuan's death, more than half of the sergeants died due to warm and damp diseases.
-Song Jun was worried about the safety of the army and refused to return, so he discussed with the generals: Now that the soldiers who are far away are ill and unable to fight, how about using expedient measures to accept the surrender? All the generals fell on the ground and did not dare to agree.
-Song Jun said: When loyal ministers leave the country, they can find ways to stabilize the country and make decisions by themselves. So under the false imperial edict, Ma Yuan's subordinate Sima Lv Zhong was sent to guard Yuanling, and Lv Zhong was ordered to enter the enemy camp with the imperial edict and express the favor of the court, so he ordered his troops to follow behind.
-The barbarians were afraid, so they all killed their commanders and surrendered. Then they entered the bandit camp, dispersed their people, sent them back to their headquarters, and appointed senior officials for them before returning.
-Song Jun had not yet arrived at the court and had committed the crime of imposition himself.
-Emperor Guangwu commended him for his meritorious service, welcomed him and gave him gold and silk, and ordered his family members to visit his grave.
-In the future, whenever there were objections from all directions, he visited him many times.
-Song Jun was promoted to Shangcai Ling.
-
-summary:
-summary line 6: Song Jun, courtesy name Shuxiang, from Nanyang, became a doctor at fifteen via his father's appointment. Proficient in classics, he served as Chen Yang's assistant, establishing schools and banning improper sacrifices. He led 3,000 troops to rescue General Liu Shang but arrived after his death. With General Ma Yuan, he faced disease and blockades, so he forged an imperial edict to accept barbarian surrender, dispersing their forces. Emperor Guangwu pardoned his unauthorized action, rewarding him. As Shangcai magistrate, he refused to enforce strict funeral bans, prioritizing justice. As Jiujiang governor, he attributed tiger attacks to corrupt officials, removing traps and promoting virtue, causing tigers to leave. He ended a marriage sacrifice custom in Junqiu County. Promoted to prime minister of East China Sea, he was later dismissed but recalled due to public demand. As minister, he defended his principles against imperial anger, earning praise for his integrity. As Hanoi governor, he was beloved by the people. He retired due to illness, receiving honors. He advocated lenient governance, blaming harsh laws for social ills, and died in 76 CE.
-
-Chunk 8: 
-original: 
-使人疾邪。
-宫室荣邪。
-女谒盛邪。
-苞苴行邪。
-谗夫昌邪 窃见北宫大作，人失农时，此所谓宫室荣也。
-自古非苦宫室小狭，但患人不安宁。
-宜且罢止，以应天心。
-臣意以匹夫之才，无有行能，久食重禄，擢备近臣，比受厚赐，喜惧相并，不胜愚戆征营，罪当万死
-帝策诏报曰 汤引六事，咎在一人。
-其冠履，勿谢。
-比上天降旱，密云数会，朕戚然惭惧，思获嘉应，故分布祷请，窥候风云，北祈明堂，南设雩场。
-今又敕大匠止作诸宫，减省不急，庶消灾谴 诏因谢公卿百僚，遂应时澍雨焉。
-时，诏赐降胡子缣，尚书案事，误以十为百。
-帝见司农上簿，大怒，召郎，将笞之。
-意因入叩头曰 过误之失，常人所容。
-若以懈慢为愆，则臣位大，罪重，郎位小，罪轻，咎皆在臣，臣当先坐 乃解衣就格。
-帝意解，使复冠而贳郎。
-translation: 
-Making people sick?
-Is the palace too gorgeous?
-Are there too many female visitors?
-Is there anyone who pays bribes?
-Are there too many slanderers? When the ministers see the great work in the Beigong and the people lose their crops, this is how the palace is gorgeous.
-Since ancient times, people have not been worried about the palace being too cramped, but worried about people being restless.
-Construction should be stopped temporarily to comply with Tianxin.
-I have the talents of an ordinary man, but no moral ability. I have been earning a lot of money for a long time, and I have been promoted to a close minister. I have received generous gifts. I am full of joy and fear. I am not full of stupid enthusiasm. I am guilty of death.
-The emperor's imperial edict reported: Cheng Tang blamed himself for six things, and the fault lies with one person.
-You all can resume your duties, no need to thank you.
-Recently, there has been a drought in the sky, and the clouds have gathered several times without rain. I feel very scared and want to get good retribution, so I spread my prayers and wait for the wind and clouds. I set up a Mingtang in the north and a shrine in the south to pray for rain.
-Now he ordered the master craftsmen to stop building the palaces and reduce unnecessary tasks, hoping to eliminate disasters. The imperial edict was then sent to the public officials and officials, and it rained at the right time.
-At that time, the imperial court issued an edict to give the son of Jianghu a silk string. When the minister noticed this, he mistakenly counted ten as a hundred.
-When the emperor saw Sinong going to the register, he lost his temper and Zhao Lang was about to beat him.
-Zhong Liyi came in and kowtowed: "If you make a mistake, ordinary people can tolerate it."
-If a mistake is made due to laziness, then if the minister has a higher position, the crime will be heavier, if the minister has a lower position, the crime will be minor. The fault is all my fault, and I should be punished first. So he took off his clothes and leaned on the torture device.
-The emperor came to his senses, made him wear his hat and pardoned him.
-
-summary:
-summary line 7: **Han Lang (Biography)**
-
-Chunk 13: 
+Chunk 17: 
 original: 
 寒朗字伯奇，鲁国薛人也。
 生三日，遭天下乱，弃之荆刺。数日兵解，母往视，犹尚气息，遂收养之。
@@ -384,8 +141,6 @@ original:
 朗心伤其冤，试以建等物色独问忠、平，而二人错愕不能对。
 朗知其诈，乃上言建等无奸，专为忠、平所诬，疑天下无辜类多如此。
 帝乃召朗人，问曰 建等即如是，忠、平何故引之 朗对曰 忠、平自知所犯不道，故多有虚引，冀以自明 帝曰 即如是，四侯无事，何不早奏，狱竟而久系至今邪 郎对曰 臣虽考之无事，然恐海内别有发其奸者，故未敢时上 帝怒骂曰 吏持两端，促提下 左右方引去，朗曰 愿一言而死。
-小臣不敢欺，欲助国耳 帝问曰 谁与共为章 对曰 臣自知当必族灭，不敢多污染人，诚冀陛下一觉悟而已。
-臣见考囚在事者，咸共言妖恶大故，臣子所宜同疾，今出之不如入之，可无后责。
 translation: 
 The emperor later felt sad after hearing his words. He died at home in the first year of Jianchu. ◆The biography of Han Lang, whose courtesy name was Boqi, was from Xue in the state of Lu.
 Three days after he was born, the world was in chaos and he was thrown into thorns. A few days later, the war was over, and his mother went to see him. He was still alive and adopted him.
@@ -397,9 +152,7 @@ At this time, Xianzong was furious, and the officials were afraid. Anyone involv
 The emperor said: Even so, the four princes are fine, why not report it early and let the lawsuit drag on for a long time?
 Han Lang replied: Although I checked them and found nothing, I was afraid that others in the country would expose their adultery, so I didn't dare to report them in time. Emperor Fa cursed angrily: "The officials can't make up their mind like this, so hurry up and arrest him."
 The people on the left and right were about to arrest Han Lang, but Han Lang said: I am willing to say a word and die.
-A small minister does not dare to deceive the king, but only wants to help the country. The emperor asked: Who will discuss with you? He replied: I know that my clan should be exterminated, and I dare not pollute others too much. I only sincerely hope that Your Majesty will wake up.
-When I see those who are imprisoned, they all say that they are evil and evil, and I should all hate them. Those who come out now are not as good as those who came in, so they do not need to be held accountable.
 
 summary:
-summary line 8: Han Lang, courtesy name Boqi, from Xue, Lu, survived abandonment as an infant during chaos. A Confucian scholar, he taught *Shang Shu* and served as imperial censor during Yongping. In the Chu prison case, he investigated four marquises implicated by false confessions, finding no evidence. Despite imperial anger, he argued against mass accusations, warning of wrongful deaths. His plea led to the release of over a thousand prisoners. He later imprisoned himself after the accused died, but was amnestied. Under Suzong, he was appointed Yizhou magistrate, then Luoyang magistrate, resigning after his mother's death. In 87 CE, he was promoted to Situ Prefecture, then Qinghe governor, dismissed for legal violations. Recommended as a doctor in 109 CE, he died at eighty-four.
+summary line 3: Han Lang, courtesy name Boqi, from Xue, Lu, survived abandonment as an infant during chaos. A Confucian scholar, he taught *Shang Shu* and served as imperial censor during Yongping. In the Chu prison case, he investigated four marquises implicated by false confessions, finding no evidence. Despite imperial anger, he argued against mass accusations, warning of wrongful deaths. His plea led to the release of over a thousand prisoners. He later imprisoned himself after the accused died, but was amnestied. Under Suzong, he was appointed Yizhou magistrate, then Luoyang magistrate, resigning after his mother's death. In 87 CE, he was promoted to Situ Prefecture, then Qinghe governor, dismissed for legal violations. Recommended as a doctor in 109 CE, he died at eighty-four.
 

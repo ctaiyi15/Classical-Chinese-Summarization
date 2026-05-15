@@ -1,0 +1,226 @@
+Summary uses chunk [0, 0, 1, 6, 9, 9, 25, 31]
+
+Chunk 0: 
+original: 
+谷永字子云，长安人也。
+父吉，为卫司马，使送郅支单于侍子，为郅支所杀，语在《陈汤传》。
+永少为长安小史，后博学经书。
+建昭中，御史大夫繁延寿闻其有茂材，除补属，举为太常丞，数上疏言得失。
+建始三年冬，日食、地震同日俱发，诏举方正直言极谏之士，太常阳城侯刘庆忌举永待诏公车。
+对曰：
+陛下秉至圣之纯德，惧天地之戒异，饬身修政，纳问公卿，又下明诏，帅举直言，燕见绎，以求咎愆，使臣等得造明朝，承圣问。
+臣材朽学浅，不通政事。
+translation: 
+Gu Yong, named Ziyun, was from Chang'an.
+His father, Gu Ji, served as Sima of the Wei Dynasty. As an envoy, he sent Shanyu Zhizhi's servant back to his country, but was killed by Zhizhi. This incident was recorded in the "Chen Tang Biography".
+Gu Yong wrote a short history of Chang'an when he was young, and later studied the classics extensively.
+During the reign of Emperor Jianzhao, Fan Yanshou, the imperial censor, heard that he had outstanding talents and appointed him as his subordinate. Later, he recommended him as Taichang Cheng. He wrote many memorials to discuss political gains and losses.
+In the winter of the third year of Jianshi's reign, a solar eclipse and an earthquake occurred on the same day. The emperor ordered the selection of scholars who were upright, dared to speak out, and could try their best to persuade. Tai Chang Yangcheng Marquis Liu Qingji recommended Gu Yong to wait for the imperial edict.
+Gu Yong replied:
+Your Majesty has the purest moral character of the most sage. He is worried about the strange phenomena warned by heaven and earth. He organizes his own state affairs, inquires and adopts the suggestions of the ministers, and issues wise orders, asking the officials to recommend people who dare to speak out. He takes the time to summon them to explore the origins of the changes, to find the reasons for the heaven's punishment, so that we scholars can come to the court of the sage to accept the inquiry of the sage.
+I am not very talented and have little knowledge, and I am not familiar with political affairs.
+
+summary:
+summary line 0: Gu Yong, styled Ziyun, was from Chang'an. His father, Gu Ji, served as a Sima of the Wei Dynasty and was killed by Shanyu Zhizhi while on a diplomatic mission. Gu Yong wrote a short history of Chang'an in his youth and later extensively studied the classics. During Emperor Jianzhao's reign, Fan Yanshou, the imperial censor, recognized his talents and appointed him as a subordinate, later recommending him as Taichang Cheng. Gu Yong wrote many memorials discussing political gains and losses.
+
+Chunk 0: 
+original: 
+谷永字子云，长安人也。
+父吉，为卫司马，使送郅支单于侍子，为郅支所杀，语在《陈汤传》。
+永少为长安小史，后博学经书。
+建昭中，御史大夫繁延寿闻其有茂材，除补属，举为太常丞，数上疏言得失。
+建始三年冬，日食、地震同日俱发，诏举方正直言极谏之士，太常阳城侯刘庆忌举永待诏公车。
+对曰：
+陛下秉至圣之纯德，惧天地之戒异，饬身修政，纳问公卿，又下明诏，帅举直言，燕见绎，以求咎愆，使臣等得造明朝，承圣问。
+臣材朽学浅，不通政事。
+translation: 
+Gu Yong, named Ziyun, was from Chang'an.
+His father, Gu Ji, served as Sima of the Wei Dynasty. As an envoy, he sent Shanyu Zhizhi's servant back to his country, but was killed by Zhizhi. This incident was recorded in the "Chen Tang Biography".
+Gu Yong wrote a short history of Chang'an when he was young, and later studied the classics extensively.
+During the reign of Emperor Jianzhao, Fan Yanshou, the imperial censor, heard that he had outstanding talents and appointed him as his subordinate. Later, he recommended him as Taichang Cheng. He wrote many memorials to discuss political gains and losses.
+In the winter of the third year of Jianshi's reign, a solar eclipse and an earthquake occurred on the same day. The emperor ordered the selection of scholars who were upright, dared to speak out, and could try their best to persuade. Tai Chang Yangcheng Marquis Liu Qingji recommended Gu Yong to wait for the imperial edict.
+Gu Yong replied:
+Your Majesty has the purest moral character of the most sage. He is worried about the strange phenomena warned by heaven and earth. He organizes his own state affairs, inquires and adopts the suggestions of the ministers, and issues wise orders, asking the officials to recommend people who dare to speak out. He takes the time to summon them to explore the origins of the changes, to find the reasons for the heaven's punishment, so that we scholars can come to the court of the sage to accept the inquiry of the sage.
+I am not very talented and have little knowledge, and I am not familiar with political affairs.
+
+summary:
+summary line 1: In the winter of the third year of Jianshi's reign, a solar eclipse and earthquake occurred on the same day. The emperor ordered the selection of upright scholars who dared to speak out. Tai Chang Yangcheng Marquis Liu Qingji recommended Gu Yong to await the imperial edict. Gu Yong replied that the emperor, with his pure moral character, was worried about the strange phenomena and sought advice. He stated that when a sage emperor ascends the throne, he must correct his appearance, speech, sight, hearing, and thinking, and establish imperial rules to obey the will of the Emperor of Heaven. If the king indulges in the harem, pleasure, and hunting, disasters will appear. The solar eclipse and earthquake were signs of faults, and the emperor should look for reasons within himself, possibly due to excessive attention to women, lack of political concern, or improper behavior.
+
+Chunk 1: 
+original: 
+窃闻明王即位，正五事，建大中，以承天心，则庶征序于下，日月理于上；如人君淫溺后宫，船乐游田，五事失于躬，大中之道不立，则咎征降而六极至。
+凡灾异之发，各象过失，以类告人。
+乃十二月朔戊申，日食婺女之分，地震萧墙之内，二者同日俱发，以丁宁陛下，厥咎不远，宜厚求诸身。
+意岂陛下志在闺门，未恤政事，不慎举错，娄失中与？
+内宠大盛，女不遵道，嫉妨专上，妨继嗣与？
+古之王者废五事之中，失夫妇之纪，妻妾得意，谒行于内，势行于外，至覆倾国家，或乱阴阳。
+昔褒姒用国，宗周以丧；阎妻骄扇，日以不臧。
+此其效也。
+translation: 
+I have heard privately that when a sage emperor ascends the throne, he should correct his appearance, speech, sight, hearing, and thinking, establish the rules of imperial rule, and obey the will of the Emperor of Heaven. Only in this way can many auspicious signs appear in sequence below, and only when the sun and moon move in the sky can there be Laws; if the king is too indulged in the harem, content with pleasure and hunting, and loses the correction of the five things, and the rules of rule cannot be established, then the signs of disaster will come and the six abnormal phenomena of punishment will appear.
+All disasters and visions appear, each symbolizing a fault and warning the world according to its type.
+So on the first day of the twelfth lunar month, when the solar eclipse was in Wu Nu, and the earthquake was in Xiao Qiang, both happened on the same day. I repeatedly told Your Majesty that those mistakes are not too far away, and you should deeply look for the reasons in yourself.
+Is it God's will that His Majesty pays attention to women's sex, does not worry about political affairs, does not behave prudently, and repeatedly loses his integrity?
+Is it because she dotes on concubines too much, because women do not abide by women's ethics, because they want to possess the Holy One alone due to jealousy, and hinder the prosperity of their descendants?
+The ancient kings abolished the five principles of justice and lost the moral relationship between husband and wife. If their wives and concubines were favored, they could fulfill their requests internally and abuse their power externally, to the point of overthrowing the country and confusing and disrupting the order of yin and yang.
+In the past, Guo Si was in power, and Zong Zhou lost his country because of it; Yan's wife was arrogant and pampered, so she became prosperous, so there was a solar eclipse.
+This is a sign of a vision.
+
+summary:
+summary line 2: Gu Yong cited historical examples: Guo Si caused Zong Zhou's downfall, and Yan's wife's arrogance led to a solar eclipse. He emphasized that the relationship between husband and wife is crucial for national safety. He advised regulating the harem, clarifying superiority and inferiority, and preventing jealousy and arrogance. He urged the emperor to correct himself, reduce private banquets, stop excessive pleasures, and follow etiquette and law. He also stressed the importance of selecting virtuous officials, assessing their merits, and avoiding favoritism. He warned that disasters are warnings from heaven, and if ignored, punishments will increase.
+
+Chunk 6: 
+original: 
+其夏，皆令诸方正对策，语在《杜钦传》。
+永对毕，因曰： 臣前幸得条对灾异之效，祸乱所极，言关于圣聪。
+书陈于前，陛下委弃不纳，而更使方正对策，背可惧之大异，问不急之常论，废承天之至言，角无用之虚文，欲末杀灾异，满谰诬天，是故皇天勃然发怒，甲己之间暴风三溱，拔树折木，此天至明不可欺之效也。
+上特复问永，永对曰： 日食、地震，皇后、贵妾专宠所致。
+语在《五行志》。
+是时，上初即位，谦让委政元舅大将军王凤，议者多归咎焉。
+永知凤方见柄用，阴欲自托，乃复曰：
+方今四夷宾服，皆为臣妾，北无薰粥冒顿之患，南无赵佗、吕嘉之难，三垂晏然，靡有兵革之警。
+诸侯大者乃食数县，汉吏制其权柄，不得有为，亡吴、楚、燕、梁之势。
+百官盘互，亲疏相错，骨肉大臣有申伯之忠，洞洞属属，小心畏忌，无重合、安阳、博陆之乱。
+translation: 
+That summer, all the founders were ordered to come up with countermeasures. This incident was recorded in "The Biography of Du Qin".
+After Gu Yong finished answering, he continued: I was fortunate enough to be able to make a statement about the effectiveness of the disaster. The disaster was extreme, and the words were related to the sage you listened to.
+The memorial statement was given in front of him, but His Majesty rejected it and refused to adopt it, but instead gave in to the correct countermeasures. He did not face up to the unusual phenomena that were worthy of worry, asked for ordinary opinions that were not urgent, and abolished the wise words that were in line with God's will. He offered useless empty words, trying to obliterate the disaster and deceive the emperor, so the emperor became angry. The storms between armies and Ji came three times, uprooting and breaking the trees. This is the most holy test of the emperor and cannot be deceived.
+The emperor specifically asked Gu Yong, and Gu Yong replied: The solar eclipse and earthquake were caused by the exclusive favor of the queen's concubine.
+This incident is recorded in the "Five Elements Chronicles".
+At this time, the emperor had just ascended the throne. He was modest and courteous and entrusted the political affairs to the general Wang Feng. Most of the ministers blamed Wang Feng.
+Gu Yong knew that Wang Feng had just been trusted and took power, and secretly wanted to rely on Wang Feng, so he said:
+Now that all the barbarians have surrendered, they have all become your concubines. There is no need to worry about making porridge or food in the north, and there is no need to worry about Zhao Tuo or Lu Jia in the south. The borders on three sides are stable, and there is no warning of military revolution.
+The big princes only had salaries in several counties, and the officials of the imperial court controlled their power, preventing them from doing anything. There was no longer a situation where Wu, Chu, Yan, and Liang stood side by side.
+Hundreds of officials are intertwined, close to each other, and the flesh and blood ministers are as loyal as Shen Bo, pious and respectful, cautious and fearful, and there are no rebellions such as Chonghe, Anyang, and Bolu.
+
+summary:
+summary line 3: The emperor was surprised by Gu Yong's countermeasures and summoned him. Gu Yong continued, stating that the solar eclipse and earthquake were caused by the exclusive favor of the queen's concubine. He knew that General Wang Feng had just gained power and secretly wanted to rely on him. He argued that the borders were stable, the princes had limited power, and officials were loyal, so the disasters could not be blamed on the uncles. He advised the emperor to understand the warnings, change past mistakes, eliminate biased favor, and ensure all concubines served in turn to secure descendants and end disasters.
+
+Chunk 9: 
+original: 
+时，对者数十人，永与杜钦为上第焉。
+上皆以其书示后宫。
+后上尝赐许皇后书，采永言以责之，语在《外戚传》。
+永既阴为大将军凤说矣，能实最高，由是擢为光禄大夫。
+永奏书谢凤曰： 永斗筲之材，质薄学朽，无一日之雅，左右之介，将军说其狂言，擢之皂衣之吏，厕之争臣之末，不听浸润之谮，不食肤受之诉，虽齐桓、晋文用士笃密，察父哲兄覆育子弟，诚无以加！
+昔豫子吞炭坏形以奉见异，齐客陨首公门以报恩施，知氏、孟尝犹有死士，何况将军之门！
+凤遂厚之。
+数年，出为安定太守。
+时，上诸舅皆修经书，任政事。
+平阿侯谭年次当继大将军凤辅政，尤与永善。
+阳朔中，凤薨。
+凤病困，荐从弟御史大夫音以自代。
+上从之，以音为大司马车骑将军，领尚书事，而平阿侯谭位特进，领城门兵。
+永闻之，与谭书曰： 君侯躬周、召之德，执管、晏之操，敬贤下士，乐善不倦，宜在上将久矣，以大将军在，故抑郁于家，不得舒愤。
+translation: 
+There were dozens of people who dealt with it at that time, and Gu Yong and Du Qin were the best among them.
+The emperor showed all their memorials to the harem.
+Later, the emperor sent a letter to Empress Xu, quoting Gu Yong's words to rebuke her. This incident was recorded in "The Biography of Foreign Relations".
+Gu Yong had secretly lobbied for General Wang Feng, and he was indeed the most talented, so he was promoted to Doctor Guanglu.
+Gu Yongjin wrote a letter to thank Wang Feng, saying: I only have a talent as small as Dou Shuu, and I have little qualifications and poor knowledge. I have no one-day friendship with the general, and I have no introduction. The general appreciated my arrogant words and promoted me from the position of a small official in soap clothes to the last position of a remonstrating minister. I did not listen to Ji Jian! Deep accusation. If false slanders are not accepted, even if Qi Huan and Jin Wen appoint scholars who are close to each other and have a wise father and wise brother to protect and raise their children, it is really not possible to do more!
+In the past, Yuzi swallowed charcoal, ruined his voice, and his face to repay the unusual treatment. The guests from the Qi family came to repay Lord Mengchang's kindness. Zhishi and Mengchang also had warriors who died for them, not to mention the general's disciples!
+Wang Feng treated Gu Yong favorably.
+Many years later, Gu Yong left the capital and became the prefect of Anding.
+At that time, all the emperor's uncles were studying classics and taking charge of government affairs.
+According to the order of age, Ping Ahou Wang Tan should succeed General Wang Feng to assist in political affairs, especially to be friendly with Gu Yong.
+During the Yangshuo period, Wang Feng died.
+When Wang Feng was seriously ill, he recommended his cousin Wang Yin, the imperial censor, to replace him.
+The emperor followed his advice and appointed Wang Yin as the chief chariot and cavalry general to lead the ministerial affairs, while Ping'ahou Wang Tan gave him the official position of special promotion and led the city gate soldiers.
+Gu Yong heard about this and wrote a letter to Wang Tan saying: You have the character of Zhou Gong and Zhao Gong, have the conduct of Guanzi and Yanzi, respect talented people and treat them with humility, and like to do good deeds tirelessly. You should have been a general long ago. Because of the general's presence, you are depressed at home and cannot express your sorrow and anger.
+
+summary:
+summary line 4: Gu Yong was promoted to Doctor Guanglu. He wrote to thank Wang Feng, praising his support. Later, when Wang Feng died, Wang Yin succeeded him. Gu Yong advised Wang Tan to resign from leading the city gate soldiers, which Wang Tan did, causing a rift with Wang Yin. Gu Yong then advised Wang Yin to work diligently, punish evildoers, and promote virtuous people. He warned about celestial signs like Taibai and Yinghuo, urging Wang Yin to change his ways to comply with God's will.
+
+Chunk 9: 
+original: 
+时，对者数十人，永与杜钦为上第焉。
+上皆以其书示后宫。
+后上尝赐许皇后书，采永言以责之，语在《外戚传》。
+永既阴为大将军凤说矣，能实最高，由是擢为光禄大夫。
+永奏书谢凤曰： 永斗筲之材，质薄学朽，无一日之雅，左右之介，将军说其狂言，擢之皂衣之吏，厕之争臣之末，不听浸润之谮，不食肤受之诉，虽齐桓、晋文用士笃密，察父哲兄覆育子弟，诚无以加！
+昔豫子吞炭坏形以奉见异，齐客陨首公门以报恩施，知氏、孟尝犹有死士，何况将军之门！
+凤遂厚之。
+数年，出为安定太守。
+时，上诸舅皆修经书，任政事。
+平阿侯谭年次当继大将军凤辅政，尤与永善。
+阳朔中，凤薨。
+凤病困，荐从弟御史大夫音以自代。
+上从之，以音为大司马车骑将军，领尚书事，而平阿侯谭位特进，领城门兵。
+永闻之，与谭书曰： 君侯躬周、召之德，执管、晏之操，敬贤下士，乐善不倦，宜在上将久矣，以大将军在，故抑郁于家，不得舒愤。
+translation: 
+There were dozens of people who dealt with it at that time, and Gu Yong and Du Qin were the best among them.
+The emperor showed all their memorials to the harem.
+Later, the emperor sent a letter to Empress Xu, quoting Gu Yong's words to rebuke her. This incident was recorded in "The Biography of Foreign Relations".
+Gu Yong had secretly lobbied for General Wang Feng, and he was indeed the most talented, so he was promoted to Doctor Guanglu.
+Gu Yongjin wrote a letter to thank Wang Feng, saying: I only have a talent as small as Dou Shuu, and I have little qualifications and poor knowledge. I have no one-day friendship with the general, and I have no introduction. The general appreciated my arrogant words and promoted me from the position of a small official in soap clothes to the last position of a remonstrating minister. I did not listen to Ji Jian! Deep accusation. If false slanders are not accepted, even if Qi Huan and Jin Wen appoint scholars who are close to each other and have a wise father and wise brother to protect and raise their children, it is really not possible to do more!
+In the past, Yuzi swallowed charcoal, ruined his voice, and his face to repay the unusual treatment. The guests from the Qi family came to repay Lord Mengchang's kindness. Zhishi and Mengchang also had warriors who died for them, not to mention the general's disciples!
+Wang Feng treated Gu Yong favorably.
+Many years later, Gu Yong left the capital and became the prefect of Anding.
+At that time, all the emperor's uncles were studying classics and taking charge of government affairs.
+According to the order of age, Ping Ahou Wang Tan should succeed General Wang Feng to assist in political affairs, especially to be friendly with Gu Yong.
+During the Yangshuo period, Wang Feng died.
+When Wang Feng was seriously ill, he recommended his cousin Wang Yin, the imperial censor, to replace him.
+The emperor followed his advice and appointed Wang Yin as the chief chariot and cavalry general to lead the ministerial affairs, while Ping'ahou Wang Tan gave him the official position of special promotion and led the city gate soldiers.
+Gu Yong heard about this and wrote a letter to Wang Tan saying: You have the character of Zhou Gong and Zhao Gong, have the conduct of Guanzi and Yanzi, respect talented people and treat them with humility, and like to do good deeds tirelessly. You should have been a general long ago. Because of the general's presence, you are depressed at home and cannot express your sorrow and anger.
+
+summary:
+summary line 5: When a black dragon appeared, Gu Yong explained it as a sign of the same surname, possibly indicating a threat from a relative or a cruel successor. He warned about the dangers of women and evil people in power, citing historical examples. He criticized the emperor for indulging in private pleasures, neglecting duties, and causing disasters. He urged the emperor to reform, reduce taxes, stop excessive construction, and care for the people. The emperor was moved but did not fully trust Gu Yong.
+
+Chunk 25: 
+original: 
+对奏，天子甚感其言。
+永于经书，泛为疏达，与杜钦、杜邺略等，不能洽浃如刘向父子及扬雄也。
+其于天官、《京氏易》最密，故善言灾异，前后所上四十余事，略相反复，专攻上身与后宫而已。
+党于王氏，上亦知之，不甚亲信也。
+永所居任职，为北地太守岁余，卫将军商薨，曲阳侯根为票骑将军，荐永，征入为大司农。
+岁余，永病，三月，有司奏请免。
+故事，公卿病，辄赐告，至永独即时免。
+数月，卒于家。
+本名并，以尉氏樊并反，更名永云。
+杜邺字子夏，本魏郡繁阳人也。
+祖父及父积功劳皆至郡守，武帝时徙茂陵。
+邺少孤，其母张敞女。
+邺。邺壮，从敞子吉学问，得其家书。
+以孝廉以郎。
+与车骑将军王音善。
+平阿侯谭不受城门职，后薨，上闵悔之，乃复令谭弟成都侯商位特进，领城门兵，得举吏如将军府。
+translation: 
+The emperor was very moved by his words.
+Gu Yong was generally as clear and accessible as Du Qin and Du Ye about scriptures, but he was not as comprehensive as Liu Xiang, his son and Yang Xiong.
+He was the most proficient in Tianguan and "Jingshi Yi", so he was good at talking about disasters and phenomena. He recounted more than 40 things before and after, with slight repetitions, and specifically blamed the lord himself and the harem.
+Being protected by the Wang family, the Lord also knew that he was not very close and trusted him.
+Gu Yong was very competent in every position he held. He served as the governor of the North for more than a year. General Wang Shangguan of the Guard and Wang Gen, the Marquis of Quyang, became generals of hussars. They recommended Gu Yong and conscripted him into the capital to be the chief agricultural officer.
+More than a year later, Gu Yongsheng became ill. Two months later, a supervisor petitioned to remove Gu Yong from his position.
+As a precedent, when a minister fell ill, the emperor granted him a leave of absence, and Shan Shan was immediately dismissed from his post when he arrived in Gu Yong.
+A few months later, Gu Yong died at home.
+His real name was Gu Bing, but it is said that he changed his name to Gu Yong because of Fan Bing's rebellion.
+Du Ye, named Zixia, was originally from Fanyang, Wei County.
+After accumulating meritorious service, my grandfather and father were promoted to county governors. During the reign of Emperor Wu, they moved to Maoling.
+Du Ye lost his father when he was young, and his mother was Zhang Chang's daughter.
+When Du Ye was in his prime, he studied with Zhang Chang's son Zhang Ji and obtained books from his family collection.
+He became a man because of his filial piety and integrity.
+Du Ye was friendly with the chariot general Wang Yin.
+Ping'a Hou Wang Tan refused to accept the city gate post and later died. The Lord was sad and regretful about this, so he ordered Wang Tan's younger brother Chengdu Hou Wang Shang to be promoted to a special rank and lead the city gate soldiers, so that he could promote officials like a general's palace.
+
+summary:
+summary line 6: Gu Yong served as governor of the North and later died at home. He was proficient in Tianguan and "Jingshi Yi," and his memorials focused on the lord and the harem. Du Ye, styled Zixia, was from Fanyang and studied with Zhang Ji. He was friendly with Wang Yin and advised him to cooperate with Wang Shang. Du Ye later served as governor of Liangzhou but was dismissed due to illness. During Emperor Ai's reign, he criticized the influence of the Fu and Ding families, warning about solar eclipses and earthquakes as signs of imbalance. He urged the emperor to follow ancient laws and satisfy the people's wishes. Du Ye died without an official title.
+
+Chunk 31: 
+original: 
+其正文字过于邺、竦，故世言小学者由杜公。
+赞曰：孝成之世，委政外家，诸舅持权，重于丁、傅在孝哀时。
+故杜邺敢讥丁、傅，而钦、永不敢言王氏，其势然也。
+及钦欲挹损凤权，而邺附会音、商。
+永陈三七之戒，斯为忠焉，至其引申伯以阿凤，隙平阿于车骑，指金、火以求合，可谓谅不足而谈有余者。
+孔子称 友多闻 ，三人近之矣。
+translation: 
+His writing skills were better than those of Du Ye and Zhang Song, so people say that the study of writing began with Si Gong.
+Zan said: During the era of Emperor Xiaocheng, the political power was entrusted to the family of relatives, and the uncles controlled the political power. Their power was even greater than that of the Lie family and the Fu family during the period of Emperor Xiaoai.
+Therefore, Du Ye dared to accuse the Ding family and the Fu family, while Qin did not dare to talk about the Wang family. This was because the situation made them like that.
+Du Qin wanted to suppress and reduce Wang Feng's power, but Du Ye relied on Wang Yin and Wang Shang. The same was true.
+Gu Yong stated Sanqi's warning, which showed his loyalty. When he cited Shen Bo's story to flatter Wang Huang, alienated Ping Ahou and General Chaoqi, and stated the changes of Jinhuo to seek reconciliation, he can be called a person who lacks integrity but is more than capable of talking.
+Confucius said that "you have many friends", and these three people are similar to this statement.
+
+summary:
+summary line 7: The commentary notes that during Emperor Xiaocheng's era, power was with relatives, while during Emperor Xiaoai's era, the Fu and Ding families held power. Du Ye dared to accuse the Ding and Fu families, but Gu Yong avoided criticizing the Wang family due to circumstances. Gu Yong's loyalty was shown in his warnings, but he also flattered Wang Feng and alienated others, lacking integrity but excelling in rhetoric.
+

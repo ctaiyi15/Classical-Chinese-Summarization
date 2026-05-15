@@ -53,9 +53,6 @@ original:
 民初颇恐惧，或祝诅妄言，伦案之愈急，后遂断绝，百姓以安。
 永平五年，坐法征，老小攀车叩马，啼呼相随，日裁行数里，不得前，伦乃伪止亭舍，阴乘船去。
 众知，复追之。
-及诣廷尉，吏民上书守阙者千馀人。
-是时，显宗方案梁松事，亦多为松讼者。
-帝患之，诏公车诸为梁氏及会稽太守上书者勿复受。
 translation: 
 I suffered from famine when I was young, so I really didn’t dare to invite anyone to eat. The emperor laughed.
 After Wu Lun came out, there was an edict ordering him to be the governor of Fuyi. Before he arrived at the official office, he was chased and reassigned to be the governor of Kuaiji.
@@ -69,13 +66,13 @@ Anyone who kills farm cattle indiscriminately will be punished by officials acco
 The people were a little scared at first, some witches cursed and talked nonsense, and the Fifth Lun pursued them closely. Later, the evil trend disappeared and the people were able to live in peace.
 In the fifth year of Yongping, Wu Lun was transferred because of a violation of the law. People, old and young, climbed on carts, knelt on horses, and cried to see each other off. They could only walk a few miles every day and could not move forward. He pretended to rest in a pavilion, but secretly took a boat and left.
 After everyone found out, they chased after him again.
-When they arrived at Tingwei's place, more than a thousand officials and people sent letters to guard the yamen gate.
-At this time, Xianzong was trying Liang Song's case, and many people expressed their grievances for Liang Song.
-The emperor was a little worried and ordered that anyone who wrote a letter on behalf of the Liang family and the prefect of Kuaiji would not be allowed to accept the carriage.
 
 
 Chunk 2: 
 original: 
+及诣廷尉，吏民上书守阙者千馀人。
+是时，显宗方案梁松事，亦多为松讼者。
+帝患之，诏公车诸为梁氏及会稽太守上书者勿复受。
 会帝幸廷尉录囚徒，得免归田里。
 身自耕种，不交通人物。
 数岁，拜为宕渠令，显拔乡佐玄贺，贺后为九江、沛二郡守，以清洁称，所在化行，终于大司农。
@@ -85,13 +82,10 @@ original:
 所举吏多至九卿、二千石，时以为知人。
 视事七岁，肃宗初立，擢自远郡，代牟融为司空。
 帝以明德太后故，尊崇舅氏马廖，兄弟并居职任。
-廖等倾身交结，冠盖之士争赴趣之。
-伦以后族过盛，欲令朝廷抑损其权，上疏曰：臣闻忠不隐讳，直不避害。
-不胜愚狷，昧死自表。
-《书》曰 臣无作威作福，其害于而家，凶于而国 传曰 大夫无境外之交，束修之馈 近代光烈皇后，虽友爱天至，而卒使阴就归国，徙废阴兴宾客。其后梁、窦之家，互有非法，明帝即位，竟多诛之。
-自是洛中无复权威，书记请托一皆断绝。
-又譬诸外戚曰 苦身待士，不如为国，戴盆望天，事不两施 臣常刻著五臧，书诸绅带。
 translation: 
+When they arrived at Tingwei's place, more than a thousand officials and people sent letters to guard the yamen gate.
+At this time, Xianzong was trying Liang Song's case, and many people expressed their grievances for Liang Song.
+The emperor was a little worried and ordered that anyone who wrote a letter on behalf of the Liang family and the prefect of Kuaiji would not be allowed to accept the carriage.
 Later, when the emperor went to the court to review and record the prisoners' crimes, Wu Lun was released and returned to the fields.
 Farm by yourself and don't interact with others.
 A few years later, the fifth Lun worshiped him as the magistrate of Danqu County and promoted Xuanhe, his hometown minister.
@@ -101,19 +95,33 @@ The Fifth Lun selected those wealthy officials to be dismissed and returned to t
 Most of the officials recommended by the Fifth Lun were nine ministers and two thousand stones. At that time, they were considered to know people well and make good use of them.
 In the seventh year of Wu Lun's tenure as governor, Suzong came to the throne and promoted some people from distant counties. Wu Lun replaced Mou Rong as Sikong.
 Because of the relationship with the Empress Dowager Mingde, the emperor respected his uncle Ma Liao, and the Ma brothers all held important positions.
+
+
+Chunk 3: 
+original: 
+廖等倾身交结，冠盖之士争赴趣之。
+伦以后族过盛，欲令朝廷抑损其权，上疏曰：臣闻忠不隐讳，直不避害。
+不胜愚狷，昧死自表。
+《书》曰 臣无作威作福，其害于而家，凶于而国 传曰 大夫无境外之交，束修之馈 近代光烈皇后，虽友爱天至，而卒使阴就归国，徙废阴兴宾客。其后梁、窦之家，互有非法，明帝即位，竟多诛之。
+自是洛中无复权威，书记请托一皆断绝。
+又譬诸外戚曰 苦身待士，不如为国，戴盆望天，事不两施 臣常刻著五臧，书诸绅带。
+而今之议者，复以马氏为言。
+窃闻卫尉廖以布三千匹，城门校尉防以钱三百万，私赡三辅衣冠，知与不知，莫不毕给。
+又闻腊日亦遗其在洛中者钱各五千，越骑校尉光，腊用羊三百头，米四百斛，肉五千斤。
+translation: 
 Maliao and others put down their identities and made friends, and some prominent figures rushed to join them.
 Wu Lun believed that the Hou clan was too powerful and wanted the court to reduce their power, so he went to Shudao: I heard that loyal ministers do not hide their opinions and direct ministers do not avoid danger.
 Therefore, regardless of Yu's impatience, he risked death to get on this list.
 Ancient books say: Doctors should not cross the border to make friends, and do not send silk and dried meat to ghosts. In modern times, although the martyr queens were very friendly by nature, they finally returned to their country from Yin and moved away the guests of Yinxing. Later, both the Liang and Dou families did some illegal things, and Emperor Ming actually killed many people when he came to the throne.
 From then on, there were no more powerful relatives in Luoyang, and all requests from secretaries disappeared.
 Xiaoyu also said to his relatives: It is better to contribute to the country than to work hard to recruit talents; you cannot look at the sky while wearing a basin, and you cannot take into account both public and private matters. The ministers often kept these lessons in mind and wrote them on their belts and recited them often.
+But now the most talked about is Ma.
+I heard privately that Wei Wei Ma Liao used 3,000 bolts of cloth, and City Gate School Wei Ma Fang used 3 million coins to privately supply officials near the capital. Regardless of whether they knew anyone or not, they all gave it to them.
+I also heard that officials in Luoyang were also given five thousand yuan each in the twelfth lunar month. Ma Guangla, the lieutenant of the Yue Cavalry School, rewarded his cronies with 300 sheep, 400 hu of rice, and 5,000 kilograms of meat.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
-而今之议者，复以马氏为言。
-窃闻卫尉廖以布三千匹，城门校尉防以钱三百万，私赡三辅衣冠，知与不知，莫不毕给。
-又闻腊日亦遗其在洛中者钱各五千，越骑校尉光，腊用羊三百头，米四百斛，肉五千斤。
 臣愚以为不应经义，惶恐不敢不以闻。
 陛下情欲厚之，亦宜所以安之。
 臣今言此，诚欲上忠陛下，下全后家，裁蒙省察。
@@ -125,10 +133,9 @@ original:
 笃为乡里所废，客居美阳，女弟为马氏妻，恃此交通，在所县令苦其不法，收系论之。
 今来防所，议者咸致疑怪，况乃以为从事，将恐议及朝廷。
 今宜为选贤能以辅助之，不可复今防自请人，有损事望。
+苟有所怀，敢不自闻。
+并不见省用。
 translation: 
-But now the most talked about is Ma.
-I heard privately that Wei Wei Ma Liao used 3,000 bolts of cloth, and City Gate School Wei Ma Fang used 3 million coins to privately supply officials near the capital. Regardless of whether they knew anyone or not, they all gave it to them.
-I also heard that officials in Luoyang were also given five thousand yuan each in the twelfth lunar month. Ma Guangla, the lieutenant of the Yue Cavalry School, rewarded his cronies with 300 sheep, 400 hu of rice, and 5,000 kilograms of meat.
 In my humble opinion, I thought this was an abnormal behavior, and I was so frightened that I didn't dare not report it.
 If Your Majesty wants to treat them favorably for personal reasons, you should also try to make them feel comfortable in their positions.
 When I say this, I am indeed calling upon Your Majesty to protect the Queen's family, and I hope Your Majesty will look into it.
@@ -140,12 +147,12 @@ I heard that Ma Fang asked Du Du to be his minister and gave him a lot of money 
 Du Du was once dismissed from his hometown and lived in Meiyang. His sister was Ma Fang's wife. He relied on this relationship to make friends with heroes. The local county magistrate was very difficult to deal with and had to lock him up.
 Now that Ma Fang is here, the people who are talking about it feel very strange, let alone using him for work, I am afraid that the discussion will come to the court in the future.
 Now he should select capable people to assist him. Ma Fang should not be allowed to recruit people without permission, which would damage the country's prestige.
+This is what I thought, and I dare not report it to my superiors.
+These essays were not examined and adopted by the emperor.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
-苟有所怀，敢不自闻。
-并不见省用。
 伦虽峭直，然常疾俗吏苛刻。
 及为三公，值帝长者，屡有善政，乃上疏褒称盛美，因以劝成风德，曰：
 陛下即位，躬天然之德，体晏晏之姿，以宽弘临下，出入四年，前岁诛刺史、二千石贪残者六人。
@@ -155,12 +162,7 @@ original:
 郡国所举，类多辩职俗吏。殊未有宽博之选以应上求者也。
 陈留令刘豫，冠军令驷协，并以刻薄之姿，临人宰邑，专念掠杀，务为严苦，吏民愁怨，莫不疾之，而今之议者反以为能，违天心，失经义，诚不可不慎也。
 非徒应坐豫、协，亦当宜谴举者。
-务进仁贤以任时政，不过数人，则风俗自化矣。
-臣尝读书记，知秦以酷急亡国，又目见王莽亦以苛法自灭，故勤勤恳恳，实在于此，又闻诸王主贵戚，骄奢逾制，京师尚然，何以示远。
-故曰 其身不正，虽令下从 以身教者从，以言教者讼。
 translation: 
-This is what I thought, and I dare not report it to my superiors.
-These essays were not examined and adopted by the emperor.
 Although the fifth Lun is very strict and upright, he often hates the officials who are too harsh.
 Later, when he became the Three Gongs, when he met the emperor who was wise and had good governance many times, he would praise him in the imperial court, so as to encourage good deeds and become a custom and virtue.
 Shushang said: During his reign, Your Majesty had natural virtues, showed a gentle attitude, and treated his ministers with magnanimity. During the four years, he killed the governor and six people who were corrupt and cruel with two thousand shi in the year before last.
@@ -170,19 +172,33 @@ Emperor Guangwu inherited Wang Mang's mess and took some harsh and brutal politi
 Nowadays, most of the people recommended by the county are lay officials who can only judge their duties, and they have not selected some talented people to meet the needs of the superiors.
 Chenliu County Magistrate Liu Yu and Champion County Magistrate Si Xie all handled county affairs with harsh methods. They only wanted to plunder and kill, and they only tortured. The officials and the people were worried and complained, and they all hated them. But now the public opinion thinks that the warriors are against the will of God, against the principles of the classics, and must be done with caution.
 Not only Liu Yu and Si Xie should be punished, but the people who promoted them should also be condemned.
-From now on, benevolent, virtuous and capable people must be selected to hold positions. Only a few people can transform customs.
-I have read ancient books and know that the Qin Dynasty perished due to cruelty, and I saw with my own eyes that Wang Mang also destroyed himself due to harsh laws, so this is the reason for my diligence. I also heard that the princes, nobles, and relatives are proud and extravagant and go beyond the system. If the capital is like this, how can it set an example for distant places?
-The ancients said: He himself does not follow the right path. Even if he issues orders, no one will obey him. Those who demonstrate with their bodies can command obedience, and those who teach others with words can cause arguments.
 
 
-Chunk 5: 
+Chunk 6: 
 original: 
+务进仁贤以任时政，不过数人，则风俗自化矣。
+臣尝读书记，知秦以酷急亡国，又目见王莽亦以苛法自灭，故勤勤恳恳，实在于此，又闻诸王主贵戚，骄奢逾制，京师尚然，何以示远。
+故曰 其身不正，虽令下从 以身教者从，以言教者讼。
 夫阴阳和岁乃丰，君臣同心化乃成也。
 其刺史、太守以下，拜除京师及道出洛阳者，宜皆召见，可因博问四方，兼以观察其人。
 诸上书言事有不合者，可但报归田里，不宜过加喜怒，以明在宽。
 臣愚不足采。
 及诸马得罪归国，而窦氏始贵，伦复上疏曰：臣得以空虚之质，当辅弼之任。素性驽怯，位尊爵重，抱迫大义，思自策厉，虽遭百死，不敢择地，又况亲遇危言之世哉。
 今承百王之敝，人尚文巧，感趋邪路，莫能守正。
+translation: 
+From now on, benevolent, virtuous and capable people must be selected to hold positions. Only a few people can transform customs.
+I have read ancient books and know that the Qin Dynasty perished due to cruelty, and I saw with my own eyes that Wang Mang also destroyed himself due to harsh laws, so this is the reason for my diligence. I also heard that the princes, nobles, and relatives are proud and extravagant and go beyond the system. If the capital is like this, how can it set an example for distant places?
+The ancients said: He himself does not follow the right path. Even if he issues orders, no one will obey him. Those who demonstrate with their bodies can command obedience, and those who teach others with words can cause arguments.
+When the yin and yang qi between the heaven and the earth are in harmony, the rain will fall. Only when you are mature can you be prosperous. Only when the monarch and his ministers are of one heart and one mind can the people be transformed into customs.
+Those officials below the governor and prefect, those who went to the capital to pay homage, and those who passed through Luoyang should be summoned to understand the situation in all directions and to observe their behavior.
+Those who write letters that are unrealistic can be allowed to return to the fields without being overly happy or angry to show generosity.
+My humble opinion may not be correct.
+Later, several relatives surnamed Ma came back after being convicted, and the Dou family began to gain power. The Fifth Lun went to Shudao again: I am responsible for the important task of assisting the country based on my empty nature.
+Now that we have inherited the bad government of the Hundred Kings, people like to take advantage of the situation and try to take the wrong path instead of the right path.
+
+
+Chunk 7: 
+original: 
 伏见虎贲中郎将窦宪，椒房之亲，典司禁兵，出入省闼，年盛志美，卑谦乐善，此诚其好士交结之方。
 然诸出入贵戚者，类多瑕衅禁锢之人，尤少守约安贫之节，士大夫无志之徒更相贩卖，云集其门。
 众煦飘山，聚蚊成雷，盖骄佚所从生也。
@@ -190,13 +206,8 @@ original:
 诐险趣势之徒，诚不可亲近。
 臣愚愿陛下中宫严敕宪等闭门自守，无妄交通士大夫，防其未萌，虑于无形，令宪永保福禄，君臣交欢，无纤介之隙。此臣之至所愿也。
 伦奉公尽节，言事无所依违。
+诸子或时谏止，辄叱遣之，吏人奏记及便宜者，亦并封上，其无私若此。
 translation: 
-When the yin and yang qi between the heaven and the earth are in harmony, the rain will fall. Only when you are mature can you be prosperous. Only when the monarch and his ministers are of one heart and one mind can the people be transformed into customs.
-Those officials below the governor and prefect, those who went to the capital to pay homage, and those who passed through Luoyang should be summoned to understand the situation in all directions and to observe their behavior.
-Those who write letters that are unrealistic can be allowed to return to the fields without being overly happy or angry to show generosity.
-My humble opinion may not be correct.
-Later, several relatives surnamed Ma came back after being convicted, and the Dou family began to gain power. The Fifth Lun went to Shudao again: I am responsible for the important task of assisting the country based on my empty nature.
-Now that we have inherited the bad government of the Hundred Kings, people like to take advantage of the situation and try to take the wrong path instead of the right path.
 I saw that Dou Xian, the general of the Tiger Guard, was a relative of the empress. He had the power to ban soldiers and was in and out of the palace. He was young, ambitious, courteous to others, and liked to do good deeds. This is indeed the way to make friends with good scholars.
 However, most of those who came in and out of the noble family seemed to have shortcomings or had been detained. In particular, they rarely had the integrity to live in peace and be content with poverty. In addition, some unambitious people among the scholar-bureaucrats praised each other and gathered under his disciples.
 When the wind is strong, it can move mountains, and when there are too many mosquitoes, they can scream like thunder. This is probably the breeding ground for arrogance, extravagance and licentiousness.
@@ -204,11 +215,11 @@ The most controversial among recent mothers in the capital were those who even s
 Those who follow the crowd are indeed unapproachable.
 In my humble opinion, I hope that your majesty will strictly order Dou Xian and others to stay behind closed doors in the palace and not to associate with scholar-bureaucrats casually, so as to nip the trouble in the bud and eliminate worries invisibly, so that Xian and others will always remain rich and noble, and the relationship between the monarch and his ministers will be harmonious without any suspicion. This is my greatest wish.
 The fifth moral principle is to abide by the law, be loyal and honest, and never hesitate to say anything.
+His sons sometimes tried to dissuade them, but were often reprimanded. He also sent them along with the officials' notes and some things that were done cheaply. This is how selfless he was.
 
 
-Chunk 6: 
+Chunk 8: 
 original: 
-诸子或时谏止，辄叱遣之，吏人奏记及便宜者，亦并封上，其无私若此。
 性质悫，少文采，在位以贞白称，时人方之前朝贡禹。
 然少蕴藉，不修威仪，亦以此见轻。
 或问伦曰 公有私乎 对曰 昔人有与吾千里马者，吾虽不受，每三公有所选举，心不能忘，而亦终不用也。
@@ -219,10 +230,7 @@ original:
 故种逃亡，苟全性命，冀有朱家之路，以显季布之会，愿陛下无遗须臾之恩，令种有持忠入地之恨。会赦出，卒于家。钟离意字子阿，会稽山阴人也。
 少为郡督邮。
 时部县亭长有受人酒礼者，府下记案考之。
-意封还记，入言于太守曰 《春秋》先内后外，《诗》云刑于寡妻，以御于家邦，明政化之本，由近及远。
-今宜先清府内，且阔略远县细微之愆 太守甚贤之，遂任以县事。
 translation: 
-His sons sometimes tried to dissuade them, but were often reprimanded. He also sent them along with the officials' notes and some things that were done cheaply. This is how selfless he was.
 He had a simple and honest character, with few literary talents. He was known for his loyalty and innocence during his reign. At that time, people compared him to Gongyu of the previous dynasty.
 But he is not subtle enough and does not pay attention to appearance, and he is looked down upon for this.
 Someone asked him: Do you have selfish motives? Answer: Once upon a time, someone gave me a thousand-mile horse. Although I did not accept it, whenever the Sangong was selecting talents, I could never forget the person who gave the horse, but I never used him.
@@ -233,12 +241,12 @@ He died several years later, when he was over eighty years old. The emperor issu
 ◆Zhongliyi's biography, Zhongliyi's courtesy name is Zi'a, and he was a native of Shanyin in Kuaiji.
 When he was young, he worked as a county governor.
 At that time, the head of the pavilion in the county received a wine gift from someone, and he was registered by the government for inspection.
-When Zhongli Yifeng still recorded it, he went in and said to the prefect: "Spring and Autumn" first starts with the inside and then the outside. The "Book of Songs" says: Punish the widow to control the family and the country. This means that the fundamentals of political change should be clarified, from near to far.
-Now we should clean up the house first, and let go of the minor mistakes in distant counties for the time being. The prefect thought he was very capable and appointed him to take charge of county affairs.
 
 
-Chunk 7: 
+Chunk 9: 
 original: 
+意封还记，入言于太守曰 《春秋》先内后外，《诗》云刑于寡妻，以御于家邦，明政化之本，由近及远。
+今宜先清府内，且阔略远县细微之愆 太守甚贤之，遂任以县事。
 建武十四年，会稽大疫，死者万数，意独身自隐亲，经给医药，所部多蒙全济。
 举孝廉，再迁，辟大司徒侯霸府。
 诏部送徒诣河内，时冬寒，徒病不能行。
@@ -247,6 +255,21 @@ original:
 诚良吏也 意遂于道解徒桎梏，恣所欲过，与克期俱至，无或违者。还，以病免。
 后除瑕丘令。
 吏有檀建者，盗窃县内，意屏人问状，建叩头服罪，不忍加刑，遣令长休。
+translation: 
+When Zhongli Yifeng still recorded it, he went in and said to the prefect: "Spring and Autumn" first starts with the inside and then the outside. The "Book of Songs" says: Punish the widow to control the family and the country. This means that the fundamentals of political change should be clarified, from near to far.
+Now we should clean up the house first, and let go of the minor mistakes in distant counties for the time being. The prefect thought he was very capable and appointed him to take charge of county affairs.
+In the 14th year of Jianwu's reign, there was a great plague in Kuaiji, which killed tens of thousands of people. Zhongliyi personally sympathized with him and provided medicine regularly, and his subordinate ministries received many aids from him.
+Zhong Liyi was promoted to Xiaolian and promoted again, and was mentioned in the Grand Situ Houba Mansion.
+The imperial court issued an edict to send the disciple to Hanoi. It was a cold winter and the disciple was sick and could not walk.
+Passing by Hongnong, Zhongliyi sent a letter to the county to make clothes for his disciples. The county had no choice but to give it to him, but the letter explained the situation, and Zhongliyi also reported everything.
+After Emperor Guangwu received the memorial, he showed it to Hou Ba and said, "The constable you sent has such a good conscience. He is indeed a good official."
+Zhongli intended to remove the shackles of the prisoners on the road and let them disperse, but he must arrive at the scheduled time and no one would violate it. After returning, he was dismissed due to illness.
+Later he was awarded the title of Xiaqiu Order.
+One of the officials, Tan Jian, stole something from the county. Zhongliyi retreated and asked for a confession privately. Tan Jian kowtowed and admitted his crime. Zhongliyi could not bear to impose more punishment and ordered him to rest for a long time.
+
+
+Chunk 10: 
+original: 
 建父闻之，为建设酒，谓曰 吾闻无道之君以刃残人，有道之君以义行诛。
 子罪，命也 遂令建进药而死。
 二十五年，迁堂邑令。
@@ -265,14 +288,6 @@ original:
 永平三年夏旱，而大起北宫，意诣阙免冤上疏曰：伏见陛下以天时小旱，忧念元元，降避正殿，躬自克责，而比日密云，遂无大润，岂政有未得应天心者邪。
 昔成汤遭旱，以六事自责曰 政不节邪。
 translation: 
-In the 14th year of Jianwu's reign, there was a great plague in Kuaiji, which killed tens of thousands of people. Zhongliyi personally sympathized with him and provided medicine regularly, and his subordinate ministries received many aids from him.
-Zhong Liyi was promoted to Xiaolian and promoted again, and was mentioned in the Grand Situ Houba Mansion.
-The imperial court issued an edict to send the disciple to Hanoi. It was a cold winter and the disciple was sick and could not walk.
-Passing by Hongnong, Zhongliyi sent a letter to the county to make clothes for his disciples. The county had no choice but to give it to him, but the letter explained the situation, and Zhongliyi also reported everything.
-After Emperor Guangwu received the memorial, he showed it to Hou Ba and said, "The constable you sent has such a good conscience. He is indeed a good official."
-Zhongli intended to remove the shackles of the prisoners on the road and let them disperse, but he must arrive at the scheduled time and no one would violate it. After returning, he was dismissed due to illness.
-Later he was awarded the title of Xiaqiu Order.
-One of the officials, Tan Jian, stole something from the county. Zhongliyi retreated and asked for a confession privately. Tan Jian kowtowed and admitted his crime. Zhongliyi could not bear to impose more punishment and ordered him to rest for a long time.
 Tan Jian's father heard about it, held a banquet for Jian, and said to him: "I heard that an unrighteous man kills with a sword, but a righteous man kills with righteousness."
 You are guilty and deserve this. So Jian was told to take medicine and died.
 In the twenty-fifth year, he was promoted to Tangyi Ling.
@@ -292,7 +307,7 @@ There was a severe drought in the summer of the third year of Yongping, and the 
 Once upon a time when Chengtang was hit by a drought, he blamed himself for six things: Isn't government frugal?
 
 
-Chunk 8: 
+Chunk 11: 
 original: 
 使人疾邪。
 宫室荣邪。
@@ -308,9 +323,6 @@ original:
 今又敕大匠止作诸宫，减省不急，庶消灾谴 诏因谢公卿百僚，遂应时澍雨焉。
 时，诏赐降胡子缣，尚书案事，误以十为百。
 帝见司农上簿，大怒，召郎，将笞之。
-意因入叩头曰 过误之失，常人所容。
-若以懈慢为愆，则臣位大，罪重，郎位小，罪轻，咎皆在臣，臣当先坐 乃解衣就格。
-帝意解，使复冠而贳郎。
 translation: 
 Making people sick?
 Is the palace too gorgeous?
@@ -326,13 +338,13 @@ Recently, there has been a drought in the sky, and the clouds have gathered seve
 Now he ordered the master craftsmen to stop building the palaces and reduce unnecessary tasks, hoping to eliminate disasters. The imperial edict was then sent to the public officials and officials, and it rained at the right time.
 At that time, the imperial court issued an edict to give the son of Jianghu a silk string. When the minister noticed this, he mistakenly counted ten as a hundred.
 When the emperor saw Sinong going to the register, he lost his temper and Zhao Lang was about to beat him.
-Zhong Liyi came in and kowtowed: "If you make a mistake, ordinary people can tolerate it."
-If a mistake is made due to laziness, then if the minister has a higher position, the crime will be heavier, if the minister has a lower position, the crime will be minor. The fault is all my fault, and I should be punished first. So he took off his clothes and leaned on the torture device.
-The emperor came to his senses, made him wear his hat and pardoned him.
 
 
-Chunk 9: 
+Chunk 12: 
 original: 
+意因入叩头曰 过误之失，常人所容。
+若以懈慢为愆，则臣位大，罪重，郎位小，罪轻，咎皆在臣，臣当先坐 乃解衣就格。
+帝意解，使复冠而贳郎。
 帝性褊察，好以耳目隐发为明，故公卿大臣数被诋毁，近臣尚书以下至见提拽。
 尝以事怒郎药崧，以杖撞之。
 崧走入床下，帝怒甚，疾言曰 郎出。
@@ -346,10 +358,10 @@ original:
 至于骨肉相残，毒害弥深，感逆和气，以致天灾。
 百姓可以德胜，难以力服。
 先王要道，民用和睦，故能致天下和平，灾害不生，祸乱不作。
-《鹿鸣》之诗必言宴乐者，以人神之心洽，然后天气和也。
-愿陛下垂圣德，揆万机，诏有司，慎人命，缓刑罚，顺时气，以调阴阳，垂之无极。
-帝虽不能用，然知其至诚。
 translation: 
+Zhong Liyi came in and kowtowed: "If you make a mistake, ordinary people can tolerate it."
+If a mistake is made due to laziness, then if the minister has a higher position, the crime will be heavier, if the minister has a lower position, the crime will be minor. The fault is all my fault, and I should be punished first. So he took off his clothes and leaned on the torture device.
+The emperor came to his senses, made him wear his hat and pardoned him.
 The emperor had an observant temperament and liked to use his ears and eyes to listen to his thoughts privately. Therefore, the ministers and ministers were slandered many times, and his close ministers and ministers were even promoted.
 One time, he was angry with Lang Yaosong and beat him with a stick.
 Yaosong quickly ran under the bed. Emperor was furious and shouted: "Lang, come out!" Come out!
@@ -363,13 +375,13 @@ The officials have no love for each other, and the officials have no intention o
 As for the killing of flesh and blood, the poison is extremely profound, and the power is contrary to the harmonious spirit, causing disasters from heaven.
 People can be educated morally, but cannot be subdued by force.
 The ancient kings maintained a harmonious way and the people were harmonious, so the world could be at peace, disasters and chaos would not occur.
-The poem "Lu Ming" must talk about feasting, which means that the hearts of humans and gods are in harmony, and then the weather will be harmonious.
-I hope that Your Majesty will be sage and virtuous, manage everything, issue edicts in a responsible manner, treat human life with caution, suspend punishments, follow the trend of the times, regulate yin and yang, and be able to live forever in future generations.
-Although the emperor could not adopt it, he knew that he had a sincere heart.
 
 
-Chunk 10: 
+Chunk 13: 
 original: 
+《鹿鸣》之诗必言宴乐者，以人神之心洽，然后天气和也。
+愿陛下垂圣德，揆万机，诏有司，慎人命，缓刑罚，顺时气，以调阴阳，垂之无极。
+帝虽不能用，然知其至诚。
 亦以此故不得久留，出为鲁相。
 后德阳殿成，百官大会。
 帝思意言，谓公卿曰 钟离尚书若在，此殿不立
@@ -378,6 +390,22 @@ original:
 父伯，建武初为五官中郎将。
 均以父任为郎，时年十五，好经书，每休沐日，辄受业博士，通《诗》、《礼》，善论难。
 至二十馀，调补辰阳长。
+translation: 
+The poem "Lu Ming" must talk about feasting, which means that the hearts of humans and gods are in harmony, and then the weather will be harmonious.
+I hope that Your Majesty will be sage and virtuous, manage everything, issue edicts in a responsible manner, treat human life with caution, suspend punishments, follow the trend of the times, regulate yin and yang, and be able to live forever in future generations.
+Although the emperor could not adopt it, he knew that he had a sincere heart.
+For this reason, he could not stay in the capital for a long time and soon became the prime minister of Lu.
+Later, Deyang Hall was built and a gathering of officials was held.
+The emperor remembered Zhong Liyi's words and said to the minister: If Zhongli, the minister, were here, this palace would not be built.
+Zhongliyi served as an official for five years and used caring for and benefiting the people as the basis of education. The people became more prosperous.
+Died in official position due to long illness. The last words were written to the emperor stating that the time of peace was difficult to change and should be treated with a little leniency. The emperor felt sorry for him and issued an edict, giving him 200,000 yuan to settle down. ◆Biography of Song Jun, whose courtesy name is Shuxiang, and who was born in Anzhong, Nanyang.
+His father, Uncle Song, served as a general of the rank and file in the early years of Jianwu.
+Song Jun became a doctor because of his father's appointment. He was fifteen years old at the time. He was fond of reading classics. During his holidays, he would study with doctors. Therefore, he was proficient in "Poetry" and "Li" and could debate issues.
+When you are in your twenties, you will be able to replenish Chen Yang.
+
+
+Chunk 14: 
+original: 
 其俗少学者而信巫鬼，均为立学校，禁绝淫祀，人皆安之。
 以祖母丧去官，客授颍川。
 后为谒者。
@@ -393,14 +421,6 @@ original:
 其后每有四方异议，数访问焉。
 迁上蔡令。
 translation: 
-For this reason, he could not stay in the capital for a long time and soon became the prime minister of Lu.
-Later, Deyang Hall was built and a gathering of officials was held.
-The emperor remembered Zhong Liyi's words and said to the minister: If Zhongli, the minister, were here, this palace would not be built.
-Zhongliyi served as an official for five years and used caring for and benefiting the people as the basis of education. The people became more prosperous.
-Died in official position due to long illness. The last words were written to the emperor stating that the time of peace was difficult to change and should be treated with a little leniency. The emperor felt sorry for him and issued an edict, giving him 200,000 yuan to settle down. ◆Biography of Song Jun, whose courtesy name is Shuxiang, and who was born in Anzhong, Nanyang.
-His father, Uncle Song, served as a general of the rank and file in the early years of Jianwu.
-Song Jun became a doctor because of his father's appointment. He was fifteen years old at the time. He was fond of reading classics. During his holidays, he would study with doctors. Therefore, he was proficient in "Poetry" and "Li" and could debate issues.
-When you are in your twenties, you will be able to replenish Chen Yang.
 The customs there were less learned and more superstitious about witches and ghosts. Song Jun established schools for them and banned improper sacrifices, so the people settled down.
 In Song Dynasty, Jun left his official position due to the death of his grandmother and was awarded the title of guest in Yingchuan.
 Later he became a visitor.
@@ -417,7 +437,7 @@ In the future, whenever there were objections from all directions, he visited hi
 Song Jun was promoted to Shangcai Ling.
 
 
-Chunk 11: 
+Chunk 15: 
 original: 
 时府下记，禁人丧葬不得侈长。
 均曰 夫送终逾制，失之轻者。
@@ -430,8 +450,6 @@ original:
 其务退奸贪，思进忠善，可一去槛阱，除削课制 其后传言虎相与东游度江。
 中元元年，山阳、楚、沛多蝗，其飞至九江界者，辄东西散去，由是名称远近。
 浚遒县有唐、后二山，民共祠之，众巫遂取百姓男女以为公妪，岁岁改易，既而不敢嫁娶，前后守令莫敢禁。
-均乃下书曰 自今以后，为山娶者皆娶巫家，勿扰良民 于是遂绝。
-永平元年，迁东海相，在郡五年，坐法免官，客授颍川。
 translation: 
 At that time, the government issued an order prohibiting people from spending extravagant funerals.
 Song Jun said: People send more than the regulations, which is a slight mistake.
@@ -444,12 +462,12 @@ Now it has become a harm to the people, and the fault lies with the cruel offici
 Only by getting rid of the corrupt officials and promoting loyalty and kindness can all barriers and traps be removed and taxes be exempted. Later I heard that all the tigers were traveling east across the river.
 In the first year of the Zhongyuan Dynasty, there were many locusts in Shanyang, Chu, Pei and other places. Those that flew to the border of Jiujiang dispersed in the east and west directions. Song Jun's reputation was heard far and near.
 There are two mountains in Junqiu County, Tang and Hou. The common people went there to offer sacrifices, and the witches chose men and women among the common people to be the corpse owners of the sacrifices. This changed every year. Soon, the common people did not dare to marry, and no one dared to stop them after following the orders.
-Song Jun wrote a letter saying: From now on, those who marry for the mountains will marry daughters of the witch family, so as not to disturb good people. So this unhealthy trend ended.
-In the first year of Yongping, he was promoted to the Prime Minister of the East China Sea and stayed in the county for five years. Later, he was dismissed for violating the law and was taught in Yingchuan.
 
 
-Chunk 12: 
+Chunk 16: 
 original: 
+均乃下书曰 自今以后，为山娶者皆娶巫家，勿扰良民 于是遂绝。
+永平元年，迁东海相，在郡五年，坐法免官，客授颍川。
 而东海吏民思均恩化，为之作歌，诣阙乞还者数千人。
 显宗以其能，七年，征拜尚书令。
 每有驳议，多合上旨。
@@ -468,6 +486,8 @@ original:
 均性宽和，不喜文法，常以为吏能弘厚，虽贪污放纵，犹无所害。至于苛察之人，身或廉法，而巧黠刻削，毒加百姓，灾害流亡所由而作。
 孙俱，灵帝时为司空。
 translation: 
+Song Jun wrote a letter saying: From now on, those who marry for the mountains will marry daughters of the witch family, so as not to disturb good people. So this unhealthy trend ended.
+In the first year of Yongping, he was promoted to the Prime Minister of the East China Sea and stayed in the county for five years. Later, he was dismissed for violating the law and was taught in Yingchuan.
 But the officials and people in the East China Sea missed Song Jun Enhua, composed songs for him, and thousands of people came to the court to ask for his return.
 Xianzong thought he was very capable, and for seven years, he was worshiped as a minister.
 Every refutation was in line with the emperor's will.
@@ -487,7 +507,7 @@ Song Jun had a generous and kind personality, and disliked grammar. He often bel
 Later, when I was serving as minister, I often wanted to kowtow and argue, but because of tight time constraints, I did not dare to state my opinions.
 
 
-Chunk 13: 
+Chunk 17: 
 original: 
 寒朗字伯奇，鲁国薛人也。
 生三日，遭天下乱，弃之荆刺。数日兵解，母往视，犹尚气息，遂收养之。
@@ -499,8 +519,6 @@ original:
 朗心伤其冤，试以建等物色独问忠、平，而二人错愕不能对。
 朗知其诈，乃上言建等无奸，专为忠、平所诬，疑天下无辜类多如此。
 帝乃召朗人，问曰 建等即如是，忠、平何故引之 朗对曰 忠、平自知所犯不道，故多有虚引，冀以自明 帝曰 即如是，四侯无事，何不早奏，狱竟而久系至今邪 郎对曰 臣虽考之无事，然恐海内别有发其奸者，故未敢时上 帝怒骂曰 吏持两端，促提下 左右方引去，朗曰 愿一言而死。
-小臣不敢欺，欲助国耳 帝问曰 谁与共为章 对曰 臣自知当必族灭，不敢多污染人，诚冀陛下一觉悟而已。
-臣见考囚在事者，咸共言妖恶大故，臣子所宜同疾，今出之不如入之，可无后责。
 translation: 
 The emperor later felt sad after hearing his words. He died at home in the first year of Jianchu. ◆The biography of Han Lang, whose courtesy name was Boqi, was from Xue in the state of Lu.
 Three days after he was born, the world was in chaos and he was thrown into thorns. A few days later, the war was over, and his mother went to see him. He was still alive and adopted him.
@@ -512,12 +530,12 @@ At this time, Xianzong was furious, and the officials were afraid. Anyone involv
 The emperor said: Even so, the four princes are fine, why not report it early and let the lawsuit drag on for a long time?
 Han Lang replied: Although I checked them and found nothing, I was afraid that others in the country would expose their adultery, so I didn't dare to report them in time. Emperor Fa cursed angrily: "The officials can't make up their mind like this, so hurry up and arrest him."
 The people on the left and right were about to arrest Han Lang, but Han Lang said: I am willing to say a word and die.
-A small minister does not dare to deceive the king, but only wants to help the country. The emperor asked: Who will discuss with you? He replied: I know that my clan should be exterminated, and I dare not pollute others too much. I only sincerely hope that Your Majesty will wake up.
-When I see those who are imprisoned, they all say that they are evil and evil, and I should all hate them. Those who come out now are not as good as those who came in, so they do not need to be held accountable.
 
 
-Chunk 14: 
+Chunk 18: 
 original: 
+小臣不敢欺，欲助国耳 帝问曰 谁与共为章 对曰 臣自知当必族灭，不敢多污染人，诚冀陛下一觉悟而已。
+臣见考囚在事者，咸共言妖恶大故，臣子所宜同疾，今出之不如入之，可无后责。
 是以考一连十，考十连百。
 又公卿朝会，陛下问以得失，皆长跪言，旧制大罪祸及九族，陛下大恩，裁止于身，天下幸甚。
 及其归舍，口虽不言，而仰屋窃叹，莫不知其多冤，无敢牾陛下者。
@@ -527,12 +545,9 @@ original:
 会赦，免官。
 复举孝廉。
 建初中，肃宗大会群臣，朗前谢恩，诏以朗纳忠先帝，拜为易长。
-岁馀，迁济阳令，以母丧去官，百姓追思之。
-章和元年，上行东巡狩，过济阳，三老吏人上书陈朗前政治状。
-帝至梁，召见朗，诏三府为辟首，由是辟司徒府。
-永元中，再迁清河太守，坐法免。
-永初三年，太尉张禹荐朗为博士，征诣公车，会卒，时年八十四。
 translation: 
+A small minister does not dare to deceive the king, but only wants to help the country. The emperor asked: Who will discuss with you? He replied: I know that my clan should be exterminated, and I dare not pollute others too much. I only sincerely hope that Your Majesty will wake up.
+When I see those who are imprisoned, they all say that they are evil and evil, and I should all hate them. Those who come out now are not as good as those who came in, so they do not need to be held accountable.
 Therefore, taking one test will lead to ten, and taking ten tests will lead to hundreds.
 Also, when the ministers met in court, when your majesty asked about gains and losses, he always knelt on the ground and spoke. The great crime of the old system had harmed the nine tribes, but your majesty was so kind that he only punished his own sins, and the world was very lucky.
 When I returned home, I didn't say anything, but I raised my head and sighed. No one knew how wronged I was, and no one dared to disobey His Majesty.
@@ -542,6 +557,16 @@ Later, Ping and Zhong died in prison, so Hanlang imprisoned himself.
 In case of amnesty, he will be removed from his official position.
 He was also promoted as Xiaolian.
 During the early years of the founding of the People's Republic of China, Suzong held a meeting with ministers, and Hanlang came forward to express his gratitude. The edict recognized that Hanlang had given loyal advice to the late emperor, and he was appointed as the county magistrate of Yizhou.
+
+
+Chunk 19: 
+original: 
+岁馀，迁济阳令，以母丧去官，百姓追思之。
+章和元年，上行东巡狩，过济阳，三老吏人上书陈朗前政治状。
+帝至梁，召见朗，诏三府为辟首，由是辟司徒府。
+永元中，再迁清河太守，坐法免。
+永初三年，太尉张禹荐朗为博士，征诣公车，会卒，时年八十四。
+translation: 
 After more than a year, he was promoted to the order of Luoyang. He resigned due to the death of his mother and the people missed him.
 In the first year of Zhanghe, the emperor went on a tour to the east and passed through Jiyang. Three old officials wrote a letter describing the political situation before Hanlang.
 When the emperor arrived in Liang, he summoned Hanlang and ordered the three prefectures to be appointed chiefs, thus promoting Hanlang to the Situ Prefecture.

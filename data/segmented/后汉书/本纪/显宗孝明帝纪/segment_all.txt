@@ -12,7 +12,6 @@ original:
 朕承大运，继体守文，不知稼穑之艰难，惧有废失。
 圣恩遗戒，顾重天下，以元元为首。
 公卿百僚，将何以辅朕不逮？
-其赐天下男子爵，人二级；三老、孝悌、力田人三级；爵过公乘，得移与子若同产、同产子；及流人无名数欲自占者人一级；鳏、寡、孤、独、笃癃粟，人十斛。
 translation: 
 Emperor Xianzong Xiaoming Mingzhuang, the fourth son of Emperor Guangwu.
 His mother was Queen Yin, and Emperor Ming was born with a square face. He could read the Spring and Autumn Annals at the age of ten. Guangwu was very surprised by his talent.
@@ -26,11 +25,11 @@ The late emperor upheld the destiny of heaven and revitalized the Han Dynasty. H
 I bear the great fortune of the country. Inheriting the political system, adhering to civility and morality, and not knowing the hardships of farming, I am only afraid of neglect and mistakes.
 Our ancestors' wills warned us to cherish and respect the world and put the people first.
 How will you, my ministers and your officials, assist me in my shortcomings?
-Today, men in the world are given the title of nobility, each with two levels; the three elders, filial brothers, and Li Tian each have three levels. If the title is above eight levels, they can be transferred to the son or the half-brother or the son of the half-brother; as well as homeless people without household registration who want to surrender themselves, each one will be given one level; widowers, widows, orphans, alone, and terminally ill people will each be given ten dendrobium of millet.
 
 
 Chunk 1: 
 original: 
+其赐天下男子爵，人二级；三老、孝悌、力田人三级；爵过公乘，得移与子若同产、同产子；及流人无名数欲自占者人一级；鳏、寡、孤、独、笃癃粟，人十斛。
 其施刑及郡国徒，在中元元年四月己卯赦前所犯而后捕系者，悉免其刑。
 又边人遭乱为内郡人妻，在己卯赦前，一切遣还边，恣其所乐。
 中二千石下至黄绶，贬秩赎论者，悉皆复秩还赎。
@@ -39,11 +38,8 @@ original:
 高密侯禹，元功之首；东平王苍，宽博有谋；并可以受六尺之托，临大节而不挠。其以禹为太傅，苍为骠骑将军。
 大尉憙告谥南郊，司徒奉安梓宫，司空鲂将校复土。
 其封憙为节乡侯，为安乡侯，鲂为杨邑侯。
-秋九月，烧当羌寇陇西，败郡兵于允街。
-赦陇西囚徒，减罪一等，勿收今年租调。
-又所发天水三千人，亦复是岁更赋。遣谒者张鸿讨叛羌于允吾，鸿军大败，战殁。
-冬十一月，遣中郎将窦固监捕虏将军马武等二将军讨烧当羌。
 translation: 
+Today, men in the world are given the title of nobility, each with two levels; the three elders, filial brothers, and Li Tian each have three levels. If the title is above eight levels, they can be transferred to the son or the half-brother or the son of the half-brother; as well as homeless people without household registration who want to surrender themselves, each one will be given one level; widowers, widows, orphans, alone, and terminally ill people will each be given ten dendrobium of millet.
 On April 11, the first year of the Zhongyuan Dynasty, prisoners who were released from their shackles and those who committed crimes but were arrested later will be exempted from punishment.
 Before the amnesty on April 11, civilians on the border who became the wives of people from the inner county due to violence would be sent back to the border, completely subject to their own wishes.
 Those who were demoted from 2,000 shi down to 200 shi, and those who paid for atonement were restored to official rank and paid back the ransom.
@@ -52,14 +48,14 @@ The throne is very important, but I am still young and have superficial thoughts
 Deng Yu, the Marquis of Gaomi, was the most accomplished, and Liu Cang, the King of Dongping, was magnanimous, knowledgeable and resourceful, and would not give in during important events. They could all be entrusted to assist the young master in governing the world. Deng Yu is now appointed as Taifu, and Liu Cang is appointed as General of Hussars.
 Taiwei Zhao Xixin announced his posthumous title to the southern suburbs, Situ Li Fanjin was entrusted with the late Emperor Zi's palace, and Sikong Feng Li general overthrew the school.
 Today, Zhao Xi is granted the title of Marquis of Jiexiang, Li Fanjin is granted the title of Marquis of Anxiang, and Feng Li is granted the title of Marquis of Yangyi.
-In the ninth month of autumn, the Shaodang Qiang invaded Longxi and defeated the Longxi County soldiers at Yunjie.
-The prisoners in Longxi will be pardoned, their crimes reduced to one level, and they will not be charged for this year's rent transfer.
-In addition, the three thousand people from Tianshui who were recruited were exempted from the tax for this year. Zhang Hong was sent to Yunwu to attack the rebellious Qiang. Zhang Hong's army was defeated and Zhang Hong was killed.
-In November of winter, he sent General Dou Gu to supervise the captured general Ma Wu and other two generals to attack the Shaodang Qiang.
 
 
 Chunk 2: 
 original: 
+秋九月，烧当羌寇陇西，败郡兵于允街。
+赦陇西囚徒，减罪一等，勿收今年租调。
+又所发天水三千人，亦复是岁更赋。遣谒者张鸿讨叛羌于允吾，鸿军大败，战殁。
+冬十一月，遣中郎将窦固监捕虏将军马武等二将军讨烧当羌。
 十二月甲寅，诏曰： 方春戒节，人以耕桑。
 其敕有司务顺时气，使无烦扰。
 天下亡命殊死以下，听得赎论：死罪人缣二十匹，右趾至髡钳城旦舂十匹，完城旦舂至司寇作三匹。
@@ -67,14 +63,11 @@ original:
 今选举不实，邪佞未去，权门请托，残吏放手，百姓愁怨，情无告诉。有司明奏罪名，并正举者。
 又郡县每因征发，轻为奸利，诡责羸弱，先急下贫。
 其务在均平，无令枉刻。
-永平元年春正月，帝率公卿已下朝于原陵，如元会仪。
-夏五月，太傅邓禹薨。
-戊寅，东海王彊薨，遣司空冯鲂持节视丧事，赐升龙旄头、銮辂，龙旂。
-六月乙卯，葬东海恭王。
-秋七月，捕虏将军马武等与烧当羌战，大破之。
-募士卒戍陇右，赐钱人三万。
-八月戊子，徙山阳王荆为广陵王，遣就国。
 translation: 
+In the ninth month of autumn, the Shaodang Qiang invaded Longxi and defeated the Longxi County soldiers at Yunjie.
+The prisoners in Longxi will be pardoned, their crimes reduced to one level, and they will not be charged for this year's rent transfer.
+In addition, the three thousand people from Tianshui who were recruited were exempted from the tax for this year. Zhang Hong was sent to Yunwu to attack the rebellious Qiang. Zhang Hong's army was defeated and Zhang Hong was killed.
+In November of winter, he sent General Dou Gu to supervise the captured general Ma Wu and other two generals to attack the Shaodang Qiang.
 On December 26, Emperor Ming issued an edict: It is spring now, and people are busy plowing the fields and raising silkworms.
 All officials must comply with the solar terms and not interfere with agricultural work.
 The desperadoes in the world were sentenced to beheading or less, and they were asked to atone for their sins: for the crime of death, twenty pieces of steel were cut off, and then the right foot was cut off until it reached the edge of the city, and ten pieces of steel were put into it.
@@ -82,6 +75,24 @@ Didn't realize that those who surrendered before the edict was issued would have
 Nowadays, the election is not real, and the evil and sycophants have not been removed. The powerful are bribed and cruel, and the officials are greedy and do whatever they want. The people are miserable and complain, and there is no way to report the truth. The relevant government officials should clearly report the crime and punish those who recommend improperly.
 Every time the counties and counties imposed labor levies, they easily made profits, deceitfully scolded and intimidated the poor and weak civilians, and made them anxious.
 Now it is necessary to make the labor even and not unjust.
+
+
+Chunk 3: 
+original: 
+永平元年春正月，帝率公卿已下朝于原陵，如元会仪。
+夏五月，太傅邓禹薨。
+戊寅，东海王彊薨，遣司空冯鲂持节视丧事，赐升龙旄头、銮辂，龙旂。
+六月乙卯，葬东海恭王。
+秋七月，捕虏将军马武等与烧当羌战，大破之。
+募士卒戍陇右，赐钱人三万。
+八月戊子，徙山阳王荆为广陵王，遣就国。
+是岁，辽东太守祭肜使鲜卑击赤山乌桓，大破之，斩其渠帅。
+越巂姑复夷叛，州郡讨平之。
+二年春正月辛未，宗祀光武皇帝于明堂，帝及公卿列侯始服冠冕、衣裳、玉佩、絇屦以行事。
+礼毕，登灵台。
+使尚书令持节诏骠骑将军、三公曰： 今令月吉日，宗祀光武皇帝于明堂，以配五帝。
+礼备法物，乐和八音，咏祉福，舞功德，班时令，敕群后。
+translation: 
 In the first month of the spring of the first year of Yongping, Emperor Ming led officials below the public minister to pay homage to the original mausoleum, just like the Yuan Hui ceremony.
 In the fifth month of summer, Taifu Deng Yu passed away.
 On the 22nd, Liu Qiang, the king of the East China Sea, passed away. He sent Sikong Fenggui to hold the talisman festival to watch the funeral, and rewarded him with a rising dragon head, a ruan, and a dragon flag.
@@ -89,16 +100,16 @@ On June 24, Prince Gong of Donghai was buried.
 In the seventh month of autumn, the captured general Ma Wu and others fought against the Shaodang Qiang, and the Qiang were defeated.
 Soldiers were recruited to guard Longyou, and each man was rewarded with 30,000 yuan.
 On the fourth day of August, King Liu Jing of Shanyang was transferred to King Guangling and ordered to enter the fiefdom.
+In this year, the governor of Liaodong sacrificed to Xianbei and attacked Wuhuan in Chishan. He defeated Wuhuan and beheaded his commander-in-chief.
+Yuegu Fuyi rebelled, and the state and county troops attacked and put down the rebellion.
+On the 19th day of the first lunar month in the second year of spring, Emperor Guangwu was worshiped in Mingtang. The Emperor Ming and his ministers and princes began to wear crowns, clothes, jade pendants, and colorful robes for the ceremony.
+After the salute, he ascended to the mourning platform.
+The minister was sent to hold the Fujie edict and ordered the Hussar General and Sangong to say: On this auspicious day, we will sacrifice Emperor Guangwu in the Mingtang to be worthy of the Five Emperors.
+Preparing ritual objects, music and music, singing about blessings, dancing to show merit, announcing the seasons, and admonishing the queen.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
-是岁，辽东太守祭肜使鲜卑击赤山乌桓，大破之，斩其渠帅。
-越巂姑复夷叛，州郡讨平之。
-二年春正月辛未，宗祀光武皇帝于明堂，帝及公卿列侯始服冠冕、衣裳、玉佩、絇屦以行事。
-礼毕，登灵台。
-使尚书令持节诏骠骑将军、三公曰： 今令月吉日，宗祀光武皇帝于明堂，以配五帝。
-礼备法物，乐和八音，咏祉福，舞功德，班时令，敕群后。
 事毕，升灵台，望元气，吹时律，观物变。
 群僚藩辅，宗室子孙，众郡奉计，百蛮贡职，乌桓、濊貊咸来助祭，单于侍子、骨都侯亦皆陪位。
 斯固圣祖功德之所致也。
@@ -113,12 +124,6 @@ original:
 眇眇小子，属当圣业。
 间暮春吉辰，初行大射；令月元日，复践辟雍。
 translation: 
-In this year, the governor of Liaodong sacrificed to Xianbei and attacked Wuhuan in Chishan. He defeated Wuhuan and beheaded his commander-in-chief.
-Yuegu Fuyi rebelled, and the state and county troops attacked and put down the rebellion.
-On the 19th day of the first lunar month in the second year of spring, Emperor Guangwu was worshiped in Mingtang. The Emperor Ming and his ministers and princes began to wear crowns, clothes, jade pendants, and colorful robes for the ceremony.
-After the salute, he ascended to the mourning platform.
-The minister was sent to hold the Fujie edict and ordered the Hussar General and Sangong to say: On this auspicious day, we will sacrifice Emperor Guangwu in the Mingtang to be worthy of the Five Emperors.
-Preparing ritual objects, music and music, singing about blessings, dancing to show merit, announcing the seasons, and admonishing the queen.
 After the ceremony, go up to the spiritual platform, look at the clouds, play wind instruments, and observe the changes in things.
 Hundreds of officials, vassal assistants, descendants of the clan, officials from prefectures and counties, and barbarian leaders Wuhuan and Sui Suiyu all came to assist in the ceremony. The Xiongnu Chanyu served the son of the Han Palace, and the Marquis of Gudu also came to attend the ceremony.
 This was the power inspired by the merits of the Holy Ancestor that brought them together.
@@ -134,7 +139,7 @@ I, the insignificant one, inherit the throne.
 Taking advantage of the good time of March in late spring, I performed the great shooting ceremony at the beginning, and on the beautiful first day of October, I went to Piyong again.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
 尊事三老，兄事五更，安车软轮，供绥执授。
 侯王设酱，公卿馔珍，朕亲袒割，执爵而颤。
@@ -150,9 +155,6 @@ original:
 中山王焉始就国。
 甲子，西巡狩，幸长安，祠高庙，遂有事于十一陵。
 历览馆邑，会郡县吏，劳赐作乐。
-十一月甲申，遣使者以中牢祠萧何、霍光。
-帝谒陵园，过式其墓。
-进幸河东，所过赐二千石、令长已下至于掾史，各有差。
 translation: 
 Respect the three elders, take care of the five brothers, install the soft wheel of the car, and personally hold the sash.
 When the princes and kings set up the gravy, and the ministers set out the delicacies, I would personally cut off my legs with my sleeves exposed, hold a wine glass, and rinse the old man's mouth.
@@ -168,13 +170,13 @@ Today, the three elders in the world are given a stone of wine and forty pounds 
 Liu Yan, the king of Zhongshan, began to go to his fiefdom.
 On the 17th, Emperor Ming inspected the west and went to Chang'an to worship Gaodi Temple and the Eleven Tombs.
 Visit the guest houses, summon county and county officials, offer condolences and entertainment.
-On the seventh day of the eleventh month, envoys were sent to sacrifice pigs and sheep to Xiao He and Huo Guang.
-Emperor Ming visited the cemetery and paid tribute to the tomb.
-Marching to the east of Hedong, the county magistrates, county magistrates and officials below were rewarded with two thousand stones in the places they passed.
 
 
-Chunk 5: 
+Chunk 6: 
 original: 
+十一月甲申，遣使者以中牢祠萧何、霍光。
+帝谒陵园，过式其墓。
+进幸河东，所过赐二千石、令长已下至于掾史，各有差。
 癸卯，车驾还宫。
 十二月，护羌校尉窦林下狱死。
 是岁，始迎气于五郊。
@@ -186,9 +188,10 @@ original:
 丙辰，左冯翊郭丹为司徒。
 己未，南阳太守虞延为太尉。
 甲子，立贵人马氏为皇后，皇子炟为皇太子。
-赐天下男子爵，人二级；三老、孝悌、力田人三级；流人无名数欲占者人一级；鳏、寡、孤、独、笃、癃、贫不能自存者粟，人五斛。
-夏四月辛酉，封皇子建为千乘王，羡为广平王。
 translation: 
+On the seventh day of the eleventh month, envoys were sent to sacrifice pigs and sheep to Xiao He and Huo Guang.
+Emperor Ming visited the cemetery and paid tribute to the tomb.
+Marching to the east of Hedong, the county magistrates, county magistrates and officials below were rewarded with two thousand stones in the places they passed.
 On the 26th, Emperor Ming returned to Luoyang.
 In December, Dou Lin, the captain who protected Qiang, was imprisoned and died.
 This year, for the first time, there is a sign of good fortune in the five suburbs.
@@ -200,12 +203,12 @@ On the ninth day of February, Taiwei Zhao Xi and Situ Li Fanjin were dismissed f
 On the 11th, Zuo Fengyi and Guo Dan were appointed as Situ.
 On the 14th, Yu Yan, the governor of Nanyang, was appointed as the Taiwei.
 On the 19th, the noble Ma family was made the queen, and the prince Liu Huodan was made the crown prince.
-The men in the world will be rewarded with a second-level title; each of the three elders, filial brothers, and Litian will be given a third-level title; each homeless person without a registered permanent residence will be given a first-level title; those who are widowed, widowed, lonely, alone, terminally ill, and too poor to survive will be given five dendrobiums of millet.
-On the 17th day of April in the summer, the prince Liu Jian was granted the title of King Qiancheng, and Liu Xian was named the King of Guangping.
 
 
-Chunk 6: 
+Chunk 7: 
 original: 
+赐天下男子爵，人二级；三老、孝悌、力田人三级；流人无名数欲占者人一级；鳏、寡、孤、独、笃、癃、贫不能自存者粟，人五斛。
+夏四月辛酉，封皇子建为千乘王，羡为广平王。
 六月丁卯，有星孛于天船北。
 秋八月戊辰，改大乐为大予乐。
 壬申晦，日有蚀之。诏曰： 朕奉承祖业，无有善政。
@@ -215,16 +218,9 @@ original:
 今之动变，傥尚可救。
 有司勉思厥职，以匡无德。古者卿士献诗，百工箴谏。
 其言事者，靡有所讳。
-冬十月，蒸祭光武庙，初奏《文始》、《五行》、《武德》之舞。
-甲子，车驾从皇太后幸章陵，观旧庐。
-十二月戊辰，至自章陵。
-是岁，起北宫及诸官府。
-京师及郡国七大水。
-四年春二月辛亥，诏曰： 朕亲耕藉田，以祈农事。
-京师冬无宿雪，春不燠沐，烦劳群司，积精祷求。
-而比再得时雨，宿麦润泽。其赐公卿半奏。
-有司勉遵时政，务平刑罚。
 translation: 
+The men in the world will be rewarded with a second-level title; each of the three elders, filial brothers, and Litian will be given a third-level title; each homeless person without a registered permanent residence will be given a first-level title; those who are widowed, widowed, lonely, alone, terminally ill, and too poor to survive will be given five dendrobiums of millet.
+On the 17th day of April in the summer, the prince Liu Jian was granted the title of King Qiancheng, and Liu Xian was named the King of Guangping.
 On June 24, a comet appeared in the north of the Sky Ship Star.
 On the 25th day of the eighth lunar month in autumn, the great music was changed to the great music.
 On the 29th, there was a solar eclipse. Emperor Ming issued an edict: I inherited the ancestral business without good governance.
@@ -234,6 +230,26 @@ In the past, during the reign of King Zhuang of Chu, there were no disasters in 
 It is hoped that the current strange changes can be saved.
 All officials should work hard to do their jobs well and save me from my immorality. In ancient times, officials, officials and scholars wrote poems and allegories, and learned from the proverbs and admonitions of hundreds of scholars.
 If the ministers have something to discuss and criticize, don't be shy about it.
+
+
+Chunk 8: 
+original: 
+冬十月，蒸祭光武庙，初奏《文始》、《五行》、《武德》之舞。
+甲子，车驾从皇太后幸章陵，观旧庐。
+十二月戊辰，至自章陵。
+是岁，起北宫及诸官府。
+京师及郡国七大水。
+四年春二月辛亥，诏曰： 朕亲耕藉田，以祈农事。
+京师冬无宿雪，春不燠沐，烦劳群司，积精祷求。
+而比再得时雨，宿麦润泽。其赐公卿半奏。
+有司勉遵时政，务平刑罚。
+秋九月戊寅，千乘王建薨。
+冬十月乙卯，司徒郭丹、司空冯鲂免。
+丙辰，河南尹范迁为司徒，太仆伏恭为司空。
+十二月，陵乡侯梁松下狱死。
+五年春二月庚戌，骠骑将军东平王苍罢归藩；琅邪王京就国。
+冬十月，行幸邺。与赵王栩会邺。
+translation: 
 In the tenth month of winter, at the Winter Festival at Guangwu Temple, dances of "Wenshi", "Five Elements" and "Wude" began.
 On the 22nd, Emperor Ming went from the Empress Dowager to Zhangling to inspect the old residence.
 On December 27, he returned to Luoyang from Zhangling.
@@ -243,16 +259,16 @@ On the 11th day of the second month in the spring of the fourth year, Emperor Mi
 There was no heavy snowfall in the capital in the winter, and there was no warmth and moisture in the spring. Officials in various departments were troubled and prayed for.
 Fortunately, there have been timely rains recently, and the wheat fields are moist. Now I will reward the minister with half his salary.
 All officials strive to do a good job in current affairs and must punish justice fairly.
+On the twelfth day of the ninth month of autumn, Liu Jian, the king of Qiancheng, passed away.
+On October 19th in winter, Situ Guodan and Sikong Fengli were dismissed from their posts.
+On the 20th, Yin Fanqian of Henan was appointed as Situ, but his servant Fugong was empty.
+In December, Hou Liangsong of Lingxiang was imprisoned and died.
+On the 16th day of the second month in the spring of the fifth year, the hussar general Liu Cang, king of Dongping, was deposed and returned to the feudal vassal; Liu Jing, the king of Langyi, entered the fiefdom.
+In the tenth month of winter, Emperor Ming went to Ye County and met with King Zhao Liu Xu in Ye County.
 
 
-Chunk 7: 
+Chunk 9: 
 original: 
-秋九月戊寅，千乘王建薨。
-冬十月乙卯，司徒郭丹、司空冯鲂免。
-丙辰，河南尹范迁为司徒，太仆伏恭为司空。
-十二月，陵乡侯梁松下狱死。
-五年春二月庚戌，骠骑将军东平王苍罢归藩；琅邪王京就国。
-冬十月，行幸邺。与赵王栩会邺。
 常山三老言于帝曰： 上生于元氏，愿蒙优复。 诏曰： 丰、沛、济阳，受命所由，加恩报德，适其宜也。
 今永平之政，百姓怨结，而吏人求复，令人愧笑。
 重逆此县之拳拳，其复元氏县田租更赋六岁，劳赐县掾史，及门阑走卒。 至自邺。
@@ -263,12 +279,6 @@ original:
 夏四月甲子，诏曰： 昔禹收九牧之金，铸鼎以象物，使人知神奸，不逢恶气。
 遭德则兴，迁于商、周；周德既衰，鼎乃沦亡。
 translation: 
-On the twelfth day of the ninth month of autumn, Liu Jian, the king of Qiancheng, passed away.
-On October 19th in winter, Situ Guodan and Sikong Fengli were dismissed from their posts.
-On the 20th, Yin Fanqian of Henan was appointed as Situ, but his servant Fugong was empty.
-In December, Hou Liangsong of Lingxiang was imprisoned and died.
-On the 16th day of the second month in the spring of the fifth year, the hussar general Liu Cang, king of Dongping, was deposed and returned to the feudal vassal; Liu Jing, the king of Langyi, entered the fiefdom.
-In the tenth month of winter, Emperor Ming went to Ye County and met with King Zhao Liu Xu in Ye County.
 The three elders of Changshan said to Emperor Ming: The Emperor was born in Yuanshi, and he requested preferential treatment and tax exemptions here. Emperor Ming issued an edict saying: Feng, Pei, and Jiyang are the places where the ancestors ordered the establishment of the imperial industry. It is very appropriate to repay kindness with kindness.
 The people are dissatisfied with the current political affairs in Yongping, and officials are demanding exemption from taxes, which makes people laugh.
 It is difficult to violate the diligence and sincerity of the three elders of this county. We are now exempting Yuanshi County from land rent and tax for six years, and are rewarding the county governor and gatekeepers respectively. Emperor Ming returned from Ye to Luoyang.
@@ -280,7 +290,7 @@ In the fourth month of the summer, Emperor Ming issued an edict: In the past, Xi
 The tripod appeared when a virtuous king came, so it was passed down to the Shang and Zhou Dynasties. When Zhou virtue declined, the tripod also sank into the Si River.
 
 
-Chunk 8: 
+Chunk 10: 
 original: 
 祥瑞之降，以应有德。
 方今政化多僻，何以致兹？
@@ -321,7 +331,7 @@ The Yue Cavalry Sima Zheng Zhong was sent to pay a return visit to the Northern 
 General Du Liao was established and stationed at Manbai in Wuyuan.
 
 
-Chunk 9: 
+Chunk 11: 
 original: 
 秋，郡国十四雨水。
 冬十月，北宫成。
@@ -358,7 +368,7 @@ Reading these warnings aloud, I can't help but feel the hair on my bones and tre
 I'm afraid that if I have bad virtue, I will become lazy over time!
 
 
-Chunk 10: 
+Chunk 12: 
 original: 
 北匈奴寇西河诸郡。
 九年春三月辛丑，诏郡国死罪囚减罪，与妻子诣五原、朔方占著，所在死者皆赐妻父若男同产一人复终身；其妻无父兄独有母者，赐其母钱六万，又复其口算。
@@ -371,9 +381,6 @@ original:
 方盛夏长养之时，荡涤宿恶，以报农功。
 百姓勉务桑稼，以备灾害。
 吏敬厥职，无令愆堕。
-闰月甲午，南巡狩，幸南阳，祠章陵。
-日北至，又祠旧宅。
-礼毕，召校官弟子作雅乐，奏《鹿鸣》，帝自御埙篪和之，以娱嘉宾。
 translation: 
 The Northern Xiongnu entered the Kouxi River counties.
 On the first day of the third month in the spring of the ninth year, an order was issued to reduce the sentences of prisoners convicted of death row crimes in the county, and to settle down with their wives and children in Wuyuan and Shuofang. Those who died there would be rewarded with the wife, father or brother, free of tax for life; if the wife had no father or brother but only a mother, the mother would be rewarded with 60,000 yuan, and her population tax would be exempted.
@@ -386,13 +393,13 @@ On the 24th of April in the summer, Emperor Ming issued an edict saying: Last ye
 Now is a good time for all things to grow in midsummer, and all unfavorable factors should be eliminated to benefit farming.
 The common people should work hard to cultivate crops and prevent floods, droughts and insect disasters.
 Officials should do their jobs well and not commit crimes or degenerate.
-On the third day of the leap October, Emperor Ming made an inspection tour to the south. Go to Nanyang to worship Zhang Ling.
-On the summer solstice, worship the old residence.
-After the ceremony, the school directors and disciples were called together to play elegant music and sing the poem "The Deer Ming". Emperor Ming himself played the Xun Chi to harmonize with everyone.
 
 
-Chunk 11: 
+Chunk 13: 
 original: 
+闰月甲午，南巡狩，幸南阳，祠章陵。
+日北至，又祠旧宅。
+礼毕，召校官弟子作雅乐，奏《鹿鸣》，帝自御埙篪和之，以娱嘉宾。
 还，幸南顿，劳飨三老、官属。
 冬十一月，征淮阳王延会平舆，征沛王辅会睢阳。
 十二月甲午，车驾还宫。
@@ -404,9 +411,10 @@ original:
 夏四月，遣将作谒者王吴修汴渠，自荥阳至于千乘海口。
 五月丙辰，赐天下男子爵，人二级，三老、孝悌、力田人三级，流民无名数欲占者人一级；鳏、寡、孤、独、笃癃、贫无家属不能自存者粟，人三斛。
 诏曰： 昔曾、闵奉亲，竭欢致养；仲尼葬子，有棺无椁。
-丧贵致哀，礼存宁俭。
-今百姓送终之制，竞为奢靡。
 translation: 
+On the third day of the leap October, Emperor Ming made an inspection tour to the south. Go to Nanyang to worship Zhang Ling.
+On the summer solstice, worship the old residence.
+After the ceremony, the school directors and disciples were called together to play elegant music and sing the poem "The Deer Ming". Emperor Ming himself played the Xun Chi to harmonize with everyone.
 When he returned, he went to Nandun and entertained the three elders and officials' relatives with wine and food.
 In the eleventh month of winter, Liu Yan, king of Huaiyang, was summoned to meet at Pingyu, and Liu Fu, king of Pei, was summoned to meet at Suiyang.
 On the fourth day of December, Emperor Ming returned to Luoyang.
@@ -418,12 +426,12 @@ In the first month of the spring of the twelfth year, King Yi Ailao from outside
 In the fourth month of summer, Wang Wu, the general who served as a visitor, was sent to repair the Bian Canal and arrived at Qiancheng Haikou from Xingyang.
 On the fourth day of the fifth lunar month, men in the world will be rewarded with a title of two degrees, each of the three elders, filial brothers, and Litian will be given a third grade; each homeless person will be given a first grade; each person who is a widower, widowed, lonely, alone, terminally ill, poor, and homeless will be given three dendrobiums of millet.
 The edict said: In the past, Zengzi and Minzi served their parents and did their best to support them; Confucius buried his son with a coffin but no coffin.
-The important thing in holding a funeral is to express grief, and the etiquette is to lay down a peaceful and frugal person.
-At present, the way people pay their last respects is more ostentatious than lavish.
 
 
-Chunk 12: 
+Chunk 14: 
 original: 
+丧贵致哀，礼存宁俭。
+今百姓送终之制，竞为奢靡。
 生者无担石之储，而财力尽于坟土。
 伏腊无糟糠，而牲牢兼于一奠。
 糜破积世之业，以供终朝之费，子孙饥寒，绝命于此，岂祖考之意哉！
@@ -439,9 +447,9 @@ original:
 三月，河南尹薛昭下狱死。
 夏四月，汴渠成。
 辛巳，行幸荥阳，巡行河渠。
-乙酉，诏曰： 自汴渠决败，六十余岁，加顷年以来，雨水不时，汴流东侵，日月益甚，水门故处，皆在河中，漭瀁广溢，莫测圻岸，荡荡极望，不知纲纪。
-今兖、豫之人，多被水患，乃云县官不先人急，好兴它役。
 translation: 
+The important thing in holding a funeral is to express grief, and the etiquette is to lay down a peaceful and frugal person.
+At present, the way people pay their last respects is more ostentatious than lavish.
 As a result, the living people had no money to save, and all their financial resources were spent on funeral expenses.
 During the twelfth and winter days, there is no food for chaff, but pigs and sheep are used as a funeral offering.
 The savings of past generations were wasted in one morning, the descendants were hungry and cold, and their fate was ruined. Is this the wish of the ancestors?
@@ -457,39 +465,36 @@ After the ceremony, the spectators are given wine and food.
 In March, Yin Xuezhao of Henan was imprisoned and died.
 In April of summer, the repair of Bianqu was completed.
 On the fourth day of the Lunar New Year, Emperor Ming went to Xingyang to inspect the rivers and canals.
-On the eighth day of the lunar month, the edict said: It has been more than 60 years since the Bianqu canal was destroyed. In recent years, the rains have not stopped and the Bianshui flows eastward, and the erosion has become more serious day by day. The original water gates are all in the river, and they are so vague that you can't see the edge. It is so surging that I don't know how to manage it.
-Nowadays, the residents of Yan and Henan are often affected by floods. They all say that the county officials do not pay attention to the residents' urgent needs in advance and only make the people do other labor.
 
 
-Chunk 13: 
+Chunk 15: 
 original: 
+乙酉，诏曰： 自汴渠决败，六十余岁，加顷年以来，雨水不时，汴流东侵，日月益甚，水门故处，皆在河中，漭瀁广溢，莫测圻岸，荡荡极望，不知纲纪。
+今兖、豫之人，多被水患，乃云县官不先人急，好兴它役。
 又或以为河流入汴，幽、冀蒙利，故曰左堤强则右堤伤，左右俱强则下方伤，宜任水势所之，使人随高而处，公家息壅塞之费，百姓无陷溺之患。
 议者不同，南北异论，朕不知所从，久而不决。
 今既筑堤理渠，绝水立门，河、汴分流，复其旧迹，陶丘之北，渐就壤坟，故荐嘉玉絜牲，以礼河神。
 东过洛汭，叹禹之绩。
 今五土之宜，反其正色，滨渠下田，赋与贫人，无令豪右得固其利，庶继世宗《瓠子》之作。 因遂度河。
 登太行，进幸上党。
-壬寅，车驾还宫。
-冬十月壬辰晦，日有食之。三公免冠自劾。
-制曰： 冠履勿劾。
-灾异屡见，咎在朕躬，忧惧遑遑，未知其方。
-将有司陈事，多所隐讳，使君上壅蔽，下有不畅乎？
 translation: 
+On the eighth day of the lunar month, the edict said: It has been more than 60 years since the Bianqu canal was destroyed. In recent years, the rains have not stopped and the Bianshui flows eastward, and the erosion has become more serious day by day. The original water gates are all in the river, and they are so vague that you can't see the edge. It is so surging that I don't know how to manage it.
+Nowadays, the residents of Yan and Henan are often affected by floods. They all say that the county officials do not pay attention to the residents' urgent needs in advance and only make the people do other labor.
 Some people think that the Yellow River flows into Bianshui River, benefiting Youzhou and Jizhou. Therefore, if the left embankment is strong, the right embankment will be injured, and if both the left and right embankments are strong, the lower part will be injured. They should follow the flow of the water, so that residents can live on high ground. The government can save the cost of intercepting and blocking the flow of water, and the people do not have to worry about drowning.
 The discussions were different and the North and the South were in conflict. I couldn't make up my mind and it remained undecided for a long time.
 Embankments have been built to manage the canals, water has been cut off and gates have been erected, the Yellow River and Bianshui have been diverted, and the old paths have been restored. To the north of Tao Qiu, Pyongyang soil mounds have gradually formed, so Jiayu Jie sacrifices are recommended to worship the gods of the Yellow River.
 Passing the Luoshui River in the east and entering the Yellow River, I admired Emperor Yu's achievements.
 Now the five original soils of mountains, forests, rivers, hills, and tombs are suitable for each other, and the nature of the soil has been restored. The lower fields close to the canal should be handed over to the poor, and the powerful should not be allowed to monopolize the benefits. I hope that I can inherit the legacy of King Sejong and be comparable to the great cause of Saihuzi crossing the river.
 So he crossed the Yellow River, climbed the Taihang Mountains, and marched to Shangdang.
-On the 25th, Emperor Ming returned to Luoyang.
-In winter, October, Renchen day, there is a solar eclipse. San Gong took off his hat and self-examined his mistakes.
-Emperor Ming ordered: You officials should not impeach yourself.
-Disasters happen frequently, and the fault lies with me. I feel anxious and uneasy, and I don’t know what to do.
-Could it be that when the officials reported the situation, they kept taboos and concealed it, which blocked my ears and eyes, preventing the following things from being communicated smoothly?
 
 
-Chunk 14: 
+Chunk 16: 
 original: 
+壬寅，车驾还宫。
+冬十月壬辰晦，日有食之。三公免冠自劾。
+制曰： 冠履勿劾。
+灾异屡见，咎在朕躬，忧惧遑遑，未知其方。
+将有司陈事，多所隐讳，使君上壅蔽，下有不畅乎？
 昔卫有忠臣，灵公得守其位。今何以和穆阴阳，消伏灾谴？
 刺史、太守详刑理冤，存恤鳏孤，勉思职焉。
 十一月，楚王英谋反，废，国除，迁于泾县，所连及死徙者数千人。
@@ -501,6 +506,27 @@ original:
 初作寿陵。
 十五年春二月庚子，东巡狩。
 辛丑，幸偃师，诏亡命自殊死以下赎：死罪缣四十匹，右趾至髡钳城旦舂十匹，完城旦至司寇五匹；犯罪未发觉，诏书到日自告者，半入赎。
+translation: 
+On the 25th, Emperor Ming returned to Luoyang.
+In winter, October, Renchen day, there is a solar eclipse. San Gong took off his hat and self-examined his mistakes.
+Emperor Ming ordered: You officials should not impeach yourself.
+Disasters happen frequently, and the fault lies with me. I feel anxious and uneasy, and I don’t know what to do.
+Could it be that when the officials reported the situation, they kept taboos and concealed it, which blocked my ears and eyes, preventing the following things from being communicated smoothly?
+In the past, Wei Linggong was unprincipled, but thanks to his loyal minister Kuang Fu, he was able to keep his position. How can we and Mu Yin Yang eliminate the disaster now?
+The governor and prefect should carefully examine criminal cases, sort out unjust cases, express condolences and care for widowers, widows, orphans, and singles, and try their best to do their jobs well.
+In November, King Liu Ying of Chu rebelled, deposed his throne, revoked the feudal state, and moved to Jing County. Thousands of people died in connection with this and were exiled.
+This year, King Liu Shi of Qi passed away.
+On the third day of March in the spring of the fourteenth year, Situ Yuyan was dismissed from his post and committed suicide.
+On the 16th day of the fourth lunar month in the summer, Xing Mu from Nanyang was appointed as Situ, the prefect of Julu.
+Former Chu King Liu Ying committed suicide.
+In the fifth month of summer, Liu Jingzi and Liu Yuanshou, the deceased king of Guangling, were granted the title of Marquis of Guangling.
+Construction of Shouling began.
+On the fourth day of the second lunar month in the spring of the fifteenth year, Emperor Ming made an inspection tour eastward.
+On the fifth day of the lunar month, I arrived in Yanshi. The edict ordered the desperadoes to atone for their crimes by beheading them: forty pieces of horses were tied up for the death penalty, ten pieces of horses were pounded once the feet were cut off at Kunqiang City, and five pieces of horses were pounded as soon as the city was completed. The crime was not discovered, and half of those who surrendered on the day of the edict were redeemed.
+
+
+Chunk 17: 
+original: 
 征沛王辅会睢阳。
 进幸彭城。
 癸亥，帝耕于下邳。
@@ -515,18 +541,9 @@ original:
 封皇子恭为巨鹿王、党为乐成王、衍为下邳王、畅为汝南王、昞为常山王、长为济阴王。
 赐天下男子爵，人三级；郎、从官视事二十岁已上帛百匹，十岁已上二十匹，十岁已下十匹，官府吏五匹，书佐、小史三匹。
 令天下大酺五日。
+乙巳，大赦天下，其谋反大逆及诸不应宥者，皆赦除之。
+冬，车骑校猎上林苑。
 translation: 
-In the past, Wei Linggong was unprincipled, but thanks to his loyal minister Kuang Fu, he was able to keep his position. How can we and Mu Yin Yang eliminate the disaster now?
-The governor and prefect should carefully examine criminal cases, sort out unjust cases, express condolences and care for widowers, widows, orphans, and singles, and try their best to do their jobs well.
-In November, King Liu Ying of Chu rebelled, deposed his throne, revoked the feudal state, and moved to Jing County. Thousands of people died in connection with this and were exiled.
-This year, King Liu Shi of Qi passed away.
-On the third day of March in the spring of the fourteenth year, Situ Yuyan was dismissed from his post and committed suicide.
-On the 16th day of the fourth lunar month in the summer, Xing Mu from Nanyang was appointed as Situ, the prefect of Julu.
-Former Chu King Liu Ying committed suicide.
-In the fifth month of summer, Liu Jingzi and Liu Yuanshou, the deceased king of Guangling, were granted the title of Marquis of Guangling.
-Construction of Shouling began.
-On the fourth day of the second lunar month in the spring of the fifteenth year, Emperor Ming made an inspection tour eastward.
-On the fifth day of the lunar month, I arrived in Yanshi. The edict ordered the desperadoes to atone for their crimes by beheading them: forty pieces of horses were tied up for the death penalty, ten pieces of horses were pounded once the feet were cut off at Kunqiang City, and five pieces of horses were pounded as soon as the city was completed. The crime was not discovered, and half of those who surrendered on the day of the edict were redeemed.
 The king of Pei, Liu Fu, was recruited to meet in Suiyang.
 March to Pengcheng.
 On the 27th, Emperor Ming plowed in Xiapi.
@@ -541,12 +558,12 @@ Those who converted to Christianity became the Lecheng Kingdom, and Linhuai beca
 The prince Liu Gong was named King of Julu, Liu Dang was named King of Success, Liu Yan was named King of Xiapi, Liu Chang was named King of Runan, Liu Ribing was named King of Changshan, and Liu Chang was named King of Jiyin.
 Reward the men of the world with three levels of nobility; one hundred pieces of silk for men and officials over the age of twenty, twenty pieces for those over ten years old, ten pieces for those under ten years old, five pieces for government officials, and three pieces for Shu Zuo and Xiao Shi.
 Order the world to gather together and drink freely for five days.
+On the Yisi day, a general amnesty will be granted to the whole world. Those who commit treason and other crimes that should not be forgiven will be pardoned.
+In winter, the riding school goes to Linyuan for hunting.
 
 
-Chunk 15: 
+Chunk 18: 
 original: 
-乙巳，大赦天下，其谋反大逆及诸不应宥者，皆赦除之。
-冬，车骑校猎上林苑。
 十二月，遣奉车都尉窦固、驸马都尉耿秉屯凉州。
 十六年春二月，遣太仆祭肜出高阙，奉车都尉窦固出酒泉，驸马都尉耿秉出居延，骑都尉来苗出平城，伐北匈奴。窦固破呼衍王于天山，留兵屯伊吾庐城。
 耿秉、来苗、祭肜并无功而还。
@@ -563,8 +580,6 @@ original:
 三月癸丑，汝南太守鲍昱为司徒。
 是岁，甘露仍降，树枝内附，芝草生殿前，神雀五色翔集京师。
 translation: 
-On the Yisi day, a general amnesty will be granted to the whole world. Those who commit treason and other crimes that should not be forgiven will be pardoned.
-In winter, the riding school goes to Linyuan for hunting.
 In December, Dou Gu, the commander of chariots, and Geng Bing, the commander of consorts, were sent to garrison Liangzhou.
 In the spring and February of the 16th year, the imperial servant was sent to sacrifice Xi out of Gaoque, the captain of Fengcha, Dou Gu, came out of Jiuquan, the captain of Prince Consort, Geng Bing, came out of Juyan, and the captain of cavalry came to Miao and came out of Pingcheng to attack the Northern Xiongnu. Dou Gu defeated King Huyan in Tianshan and left troops to garrison Yiwulu City.
 Geng Bing, Lai Miao, and Ji Xu all returned without success.
@@ -582,7 +597,7 @@ On March 29, Bao Yu, the governor of Runan, was appointed as Situ.
 This year, there were continuous and timely rains, the trees grew with branches, the grass grew in front of the palace, and the five-colored sparrows gathered in the capital.
 
 
-Chunk 16: 
+Chunk 19: 
 original: 
 西南夷哀牢、儋耳、僬侥、槃木、白狼、动黏诸种，前后慕义贡献；西域诸国遣子入侍。
 夏五月戊子，公卿百官以帝威德怀远，祥物显应，乃并集朝堂，奉觞上寿。
@@ -595,8 +610,6 @@ original:
 秋八月丙寅，令武威、张掖、酒泉、敦煌及张掖属国，系囚右趾已下任兵者，皆一切勿治其罪，诣军营。
 冬十一月，遣奉车都尉窦固、驸马都尉耿秉、骑都尉刘张出敦煌昆仑塞，击破白山虏于蒲类海上，遂人车师。
 初置西域都护、戊己校尉。
-是岁，改天水为汉阳郡。
-十八年春三月丁亥，诏曰： 其令天下亡命，自殊死已下赎：死罪缣三十匹，右趾至髡钳城旦舂十匹，完城旦至司寇五匹；吏人犯罪未发觉，诏书到自告者，半入赎。
 translation: 
 The Ailao, Dan'er, Ruhui, Mu, Bai, and Dongnian ethnic groups of the southwestern barbarians paid tribute to each other; all the countries in the Western Regions sent their sons to serve in the court.
 On the fifth day of the fifth lunar month in the summer, the officials and officials gathered in the court hall to celebrate their birthdays with the imperial majesty and virtue, and the mascots appeared in response.
@@ -609,12 +622,12 @@ Those who win 2,000 dan, 2,000 dan to Huang Shou, are demoted and pay for atonem
 On the 15th day of the eighth month of autumn, the order was given to the vassal states of Wuwei, Zhangye, Jiuquan, Dunhuang and Zhangye. If the prisoners who had cut off their right feet were still able to serve as soldiers, they would not be punished and sent to the military camp.
 In the eleventh month of winter, he sent the chariot captain Dou Gu, the consort captain Geng Bing, and the cavalry captain Liu Zhang out of Dunhuang Kunlun Fortress, defeated the Baishan Hulu on the Pulei Sea, and entered the chariot division.
 The Protectorate of the Western Regions and the Wuji School Captain were established.
-This year, Tianshui was renamed Hanyang County.
-In the spring of March 18th, Dinghai, the edict said: The outlaws in the world are ordered to behead themselves and atone for their sins as follows: for the death penalty, thirty horses will be tied, and ten horses will be chopped off after the right foot is reached at Kunniang City, and five horses will be pounded by the Sikou once the city is completed. Those who commit crimes without being discovered by the officials and surrender under the imperial edict will receive half of the atonement.
 
 
-Chunk 17: 
+Chunk 20: 
 original: 
+是岁，改天水为汉阳郡。
+十八年春三月丁亥，诏曰： 其令天下亡命，自殊死已下赎：死罪缣三十匹，右趾至髡钳城旦舂十匹，完城旦至司寇五匹；吏人犯罪未发觉，诏书到自告者，半入赎。
 夏四月己未，诏曰： 自春已来，时雨不降，宿麦伤旱，秋种未下，政失厥中，忧惧而已。
 其赐天下男子爵，人二级，及流民无名数欲占者人一级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人三斛。
 理冤狱，录轻系。
@@ -623,14 +636,9 @@ original:
 六月己未，有星孛于太微。
 焉耆、龟兹攻西域都护陈睦，悉没其众。
 北匈奴及车师后王围戊己校尉耿恭。
-秋八月壬子，帝崩于东宫前殿。年四十八。
-遗诏无起寝庙，藏主于光烈皇后更衣别室。
-帝初作寿陵，制令流水而已，石椁广一丈二尺，长二丈五尺，无得起坟。
-万年之后，扫地而祭，杅水脯糒而已。
-过百日，唯四时设奠，置吏卒数人供给洒扫，勿开修道。
-敢有所兴作者，以擅议宗庙法从事。
-帝遵奉建武制度，无敢违者。
 translation: 
+This year, Tianshui was renamed Hanyang County.
+In the spring of March 18th, Dinghai, the edict said: The outlaws in the world are ordered to behead themselves and atone for their sins as follows: for the death penalty, thirty horses will be tied, and ten horses will be chopped off after the right foot is reached at Kunniang City, and five horses will be pounded by the Sikou once the city is completed. Those who commit crimes without being discovered by the officials and surrender under the imperial edict will receive half of the atonement.
 On April 11th in summer, the edict said: Since the beginning of spring, the rain has not fallen, the wheat planted last year has dried up, the crops for the autumn harvest cannot be planted, and there are deviations in political affairs. I am only worried and fearful.
 The men in the world will be rewarded with a second-level title, and each homeless person without household registration will be given a first-level title. Those who are widowed, widowed, lonely, alone, terminally ill, and too poor to live will be given three dendrobiums of millet.
 Rehabilitate unjust and false cases, and release those who have been imprisoned for misdemeanors.
@@ -639,6 +647,22 @@ There are famous mountains and rivers in the county that can stir up clouds and 
 On June 12, the comet appeared in the Taiwei Star Palace.
 Yanqi and Qiuci attacked Chen Mu, the protector of the Western Regions, and Chen Mu's entire army was destroyed.
 The Northern Xiongnu and the Cheshi Houwang surrounded Wuji Colonel Geng Gong.
+
+
+Chunk 21: 
+original: 
+秋八月壬子，帝崩于东宫前殿。年四十八。
+遗诏无起寝庙，藏主于光烈皇后更衣别室。
+帝初作寿陵，制令流水而已，石椁广一丈二尺，长二丈五尺，无得起坟。
+万年之后，扫地而祭，杅水脯糒而已。
+过百日，唯四时设奠，置吏卒数人供给洒扫，勿开修道。
+敢有所兴作者，以擅议宗庙法从事。
+帝遵奉建武制度，无敢违者。
+后宫之家，不得封侯与政。
+馆陶公主为子求郎，不许，而赐钱千万。
+谓群臣曰： 郎官上应列宿，出宰百里，苟非其人，则民受其殃，是以难之。 故吏称其官，民安其业，远近肃服，户口滋殖焉。
+论曰：明帝善刑理，法令分明。日晏坐朝，幽枉必达。
+translation: 
 On the sixth day of the eighth lunar month in autumn, the emperor passed away in the front hall of the East Palace at the age of forty-eight.
 According to the imperial edict, there is no room for sleeping in the temple, and the main tablet of the Tibetan God is located in the dressing room of Queen Guanglie.
 When Emperor Ming first built the Shouling Mausoleum, he ordered that as long as water could be dispersed, the stone coffin would be one foot two feet wide and two feet five feet long, and no graves would be raised.
@@ -646,23 +670,19 @@ After ten thousand years, it will be enough to sweep the ground and offer sacrif
 After a hundred days, as long as there are four seasons of worship, a few officials and soldiers will be provided to sweep and sweep, and no monastery will be opened.
 Those who dare to do something creative will be judged guilty for being good at discussing the ancestral and temple laws.
 The emperor followed the system of the Jianwu era and no one dared to disobey it.
+The family of a foreign relative is not allowed to become a marquis and participate in politics.
+Princess Guantao, a martial arts girl, asked for the official position of a man for her son. Emperor Ming did not agree, but gave her tens of millions of money.
+He said to the ministers: The official is responsible for the stars in the sky and governs hundreds of miles. If the person is not chosen properly, the people will suffer, so it cannot be approved. Therefore, during the Ming Dynasty, officials were competent, the people were safe in their jobs, people from far and near were convinced, and the registered population increased a lot.
+Historians commented: Emperor Ming was good at criminal proceedings and had clear laws. With Riyan in office, all unjust and unclear issues could be dealt with.
 
 
-Chunk 18: 
+Chunk 22: 
 original: 
-后宫之家，不得封侯与政。
-馆陶公主为子求郎，不许，而赐钱千万。
-谓群臣曰： 郎官上应列宿，出宰百里，苟非其人，则民受其殃，是以难之。 故吏称其官，民安其业，远近肃服，户口滋殖焉。
-论曰：明帝善刑理，法令分明。日晏坐朝，幽枉必达。
 内外无倖曲之私，在上无矜大之色。
 断狱得情，号居前代十二。
 故后之言事者，莫不先建武、永平之政。
 而钟离意、宋均之徒，常以察慧为言，夫岂弘人之度未优乎？
 translation: 
-The family of a foreign relative is not allowed to become a marquis and participate in politics.
-Princess Guantao, a martial arts girl, asked for the official position of a man for her son. Emperor Ming did not agree, but gave her tens of millions of money.
-He said to the ministers: The official is responsible for the stars in the sky and governs hundreds of miles. If the person is not chosen properly, the people will suffer, so it cannot be approved. Therefore, during the Ming Dynasty, officials were competent, the people were safe in their jobs, people from far and near were convinced, and the registered population increased a lot.
-Historians commented: Emperor Ming was good at criminal proceedings and had clear laws. With Riyan in office, all unjust and unclear issues could be dealt with.
 There is no fluke and favoritism inside and outside, and there is no arrogant and showy air at the top.
 The conclusion of the case is reasonable and the case is said to be only two-tenths of the previous case.
 Therefore, everyone who praised things well done later praised Jianwu Yongping's government.

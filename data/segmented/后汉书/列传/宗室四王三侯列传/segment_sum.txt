@@ -1,4 +1,4 @@
-Summary uses chunk [0, 1, 3, 4, 6, 7, 8, 10, 11]
+Summary uses chunk [0, 5, 6, 8, 9, 10, 12, 13]
 
 Chunk 0: 
 original: 
@@ -13,7 +13,6 @@ original:
 使宗室刘嘉往诱新市、平林兵王匡、陈牧等，合军而进，屠长聚及唐子乡，杀湖阳尉，进拔棘阳，因欲攻宛。
 至小长安，与王莽前队大夫酎阜、属正梁丘赐战。
 时天密雾，汉军大败，姊元弟仲皆遇害，宗从死者数十人。
-伯升复收会兵众，还保棘阳。
 translation: 
 ◆Biography of Qi Wu King Liu Yan Qi Wu King Liu Yan, courtesy name Bosheng, was Guangwu's eldest brother.
 He has a resolute character, is generous and generous.
@@ -26,91 +25,16 @@ Bo Sheng personally mobilized the disciples of Chongling, a total of seven to ei
 The clan member Liu Jia was sent to lure Xinshi and Pinglin soldiers Wang Kuang, Chen Mu and others. They joined forces and advanced, massacred Changju and Tangzixiang, killed Huyang Wei, marched to capture Jiyang, and took advantage of the situation to attack Wan.
 Arriving at Xiaochang'an, he fought with Zhen Fu, an officer of Wang Mang's front team, and Qiuci, who belonged to Zhengliang.
 It was a dense fog at that time, and the Han army was defeated. My sister Liu Yuan and my brother Liu Zhong were killed. Dozens of people in the clan died following the uprising.
-Bo Sheng then gathered the troops and returned to Jiyang to defend himself.
 
 summary:
-summary line 0: **Summary of Historical Biographies of the Liu Clan**
+summary line 0: **Qi Wu King Liu Yan (Bosheng)** was the eldest brother of Emperor Guangwu. Resolute and generous, he was angered by Wang Mang's usurpation of the Han dynasty and used his family wealth to befriend heroes, planning to restore the Han. During the chaos of Wang Mang's final years, Bosheng gathered heroes and raised troops with relatives and guests, including Deng Chen in Xinye and Guangwu, Li Tong, and Li Yi in Wan. He mobilized 7,000–8,000 disciples from Chongling, calling them the Zhutiandu tribe. After allying with Xinshi and Pinglin soldiers, they captured several locations and attacked Wan. At Xiaochang'an, they were defeated by Wang Mang's officers Zhen Fu and Liangqiu Ci in dense fog, resulting in the deaths of Bosheng's sister Liu Yuan and brother Liu Zhong. Bosheng regrouped at Jiyang. The enemy forces, with 100,000 elite troops, camped between the Huangchun and Pubi Rivers, removing their bridge to show no retreat. Xinshi and Pinglin soldiers wanted to disperse, but Bosheng convinced 5,000 arriving Xiajiang soldiers to join forces. After a three-day rest, they secretly attacked and captured Lanxiang, seizing enemy baggage. The next morning, the Han army attacked from the southwest and Xiajiang from the southeast, defeating Liangqiu Ci's army. Zhenfu's army fled but was blocked by the Huangchun River; over 20,000 were killed or drowned, and Zhenfu and Liangqiu Ci were beheaded. Bosheng then defeated Yan You and Chen Mao at Yuyang, beheading over 3,000, and besieged Wancheng, naming himself General Zhutian. Wang Mang offered a huge reward for Bosheng's death and had his image painted for archery practice. Over 100,000 people surrendered daily. When generals discussed establishing a Liu clan leader, they favored Bosheng but feared his strictness and preferred Sheng Gong (Gengshi), whom they established. Bosheng warned against premature enthronement, citing Chen Sheng and Xiang Ji as examples, and suggested waiting until after defeating Wang Mang and dealing with Chimei. Most agreed, but General Zhang drew his sword and forced the decision. Sheng Gong was enthroned, and Bosheng was made Grand Situ and Marquis of Han Xin, disappointing many heroes. After attacking Xinye and Bawan, Guangwu defeated Wang Xun and Wang Yi, increasing the brothers' fame. Gengshi and his ministers, feeling uneasy, conspired to kill Bosheng. Despite a warning from his uncle Fan Hong about a possible plot, Bosheng dismissed it. Li Yi, whom Guangwu had warned Bosheng against, and others persuaded Gengshi to arrest and kill Bosheng and his general Liu Ji on the same day. Bosheng's sons were later made kings by Guangwu.
 
-Chunk 1: 
+Chunk 5: 
 original: 
-阜、赐乘胜，留辎重于蓝乡，引精兵十万南渡黄淳水，临沘水，阻两川间为营，绝后桥，示无还心。
-新市、平林见汉兵数败，阜、赐军大至，各欲解去，伯升甚患之。
-会下江兵五千余人至宜秋，乃往为说合从之势，下江从之。
-语在《王常传》。
-伯升于是大飨军士，设盟约。
-休卒三日，分为六部，潜师夜起，袭取蓝乡，尽获其辎重。
-明旦，汉军自西南攻酎阜，下江兵自东南攻梁攻丘赐。
-至食时，赐陈溃，阜军望见散走，汉兵急追之，却迫黄淳水，斩首溺死者二万余人，遂斩阜、赐。
-王莽纳言将军严尤、秩宗将军陈茂闻阜、赐军败，引欲据宛。
-伯升乃陈兵誓众，焚积聚，破釜甑，鼓行而前，与尤、茂遇育阳下，战，大破之，斩首三千余级。
-尤、茂弃军走，伯升遂进围宛，自号柱天大将军。
-王莽素闻其名，大震惧，购伯升邑五万户，黄金十万斤，位上公。
-使长安中官署及天下乡亭皆画伯升像于塾，旦起射之。
-自阜、赐死后，百姓日有降者，众至十余万。
-诸将会议立刘氏以从人望，豪杰咸归于伯升，而新市、平林将帅乐放纵，惮怕升威明而贪圣公懦弱，先共定策立之，然后使骑召伯升，示其议。
-伯升曰： 诸将军幸欲尊立宗室，其德甚厚，然愚鄙之见，窃有未同。
-今赤眉起青、徐，众数十万，闻南阳立宗室，恐赤眉复有所立，如此，必将内争。
-今王莽未灭，而宗室相攻，是疑天下而自损权，非所以破莽也。
-且首兵唱号，鲜有能遂，陈胜、项籍，即其事也。舂陵去宛三百里耳，未足为功。
-translation: 
-Zhenfu and Liangqiu took advantage of the victory and left their baggage in Lanxiang. They led one hundred thousand elite troops to cross the Huangchun River southward, close to the Pubi River. They established a camp between the two rivers and removed the bridge behind them to show that they would never retreat.
-When the soldiers from Xinshi and Pinglin saw that the Han soldiers had suffered several defeats, and the armies of Zhenfu and Liangqiuci were approaching, they all wanted to disperse and leave. Bo Sheng was very worried.
-It happened that more than 5,000 soldiers from Xiajiang arrived in Yiqiu, so they went to explain the situation of joint operations to them, and the soldiers from Xiajiang agreed.
-Bo Sheng's words to convince Jiang Bing were recorded in "Wang Chang Zhuan".
-Bo Sheng then held a banquet for the sergeants and established an alliance.
-Let the soldiers rest for three days, divide them into six groups, secretly raise their troops at night, attack and capture Lanxiang, and seize all the baggage.
-Early the next morning, the Han army attacked Zhenfu from the southwest, and the soldiers from Xiajiang attacked Liangqiuci from the southeast.
-When it was time to eat, Liangqiu Ci's army was defeated. Seeing that Zhenfu's army was fleeing, the Han soldiers rushed to pursue it. The Fu army retreated and was blocked by the Huangchun River. More than 20,000 people were beheaded and drowned, so Zhenfu and Liangqiu Ci were beheaded.
-Wang Mang's general Yan You and Zhizong's general Chen Mao heard that Zhenfu and Liangqiu Ci's armies were defeated and prepared to defend Wancheng.
-Bo Sheng swore an oath to Chen Bing, burned the accumulated supplies, broke the cooking cauldron, beat drums and advanced. He met Yan You and Chen Mao in Yuyang, fought, defeated their army, and beheaded more than 3,000 people.
-Yan You and Chen Mao abandoned their troops and fled, so Bo Sheng surrounded Wancheng and named himself General Zhutian.
-Wang Mang was greatly shocked and frightened when he heard about Bo Sheng's fame. He offered a reward of 50,000 households, 100,000 jins of gold, and the title of Grand Duke to anyone who could kill Bo Sheng.
-He made the official offices in Chang'an City and the rural pavilions all over the world paint Bo Sheng's image on the side hall of the door, and got up early to shoot the image with arrows.
-Since the death of Zhen Fu and Liang Qiu Ci, people have come to surrender every day, up to more than 100,000 people.
-The generals held a meeting to discuss establishing the Liu family in order to comply with everyone's expectations, and the heroes all focused on Bo Sheng. However, the generals of Xinshi and Pinglin were willing to indulge, fearing Bo Sheng's majesty and wisdom and liking Sheng Gong's cowardice, so they jointly planned to establish Sheng Gong in advance, and then sent people to summon Bo Sheng to announce the results of their discussion.
-Bo Sheng said: The generals want to establish the Liu clan, and their virtues are very profound. However, in my humble opinion, there are still some differences in private.
-Now Chimei has raised troops in Qingzhou and Xuzhou, with hundreds of thousands of people. I heard that Nanyang has established a clan, and I am afraid that Chimei will also support one. In this case, internal fighting will inevitably occur.
-Now that Wang Mang has not been destroyed, and the clan members attack each other, it will make the world suspicious and damage their own power. This is not a good way to defeat Wang Mang.
-Moreover, the first uprising to claim the title of emperor rarely succeeds. Chen Sheng and Xiang Ji are the facts. Chung Ling is only three hundred miles away from Wan, which is not enough.
-
-summary:
-summary line 1: **Qi Wu King Liu Yan (Bosheng)** was the eldest brother of Emperor Guangwu. Resolute and generous, he was angered by Wang Mang's usurpation of the Han dynasty and used his family wealth to befriend heroes, planning to restore the Han. During the chaos of Wang Mang's final years, Bosheng gathered heroes and raised troops with relatives and guests, including Deng Chen in Xinye and Guangwu, Li Tong, and Li Yi in Wan. He mobilized 7,000–8,000 disciples from Chongling, calling them the Zhutiandu tribe. After allying with Xinshi and Pinglin soldiers, they captured several locations and attacked Wan. At Xiaochang'an, they were defeated by Wang Mang's officers Zhen Fu and Liangqiu Ci in dense fog, resulting in the deaths of Bosheng's sister Liu Yuan and brother Liu Zhong. Bosheng regrouped at Jiyang. The enemy forces, with 100,000 elite troops, camped between the Huangchun and Pubi Rivers, removing their bridge to show no retreat. Xinshi and Pinglin soldiers wanted to disperse, but Bosheng convinced 5,000 arriving Xiajiang soldiers to join forces. After a three-day rest, they secretly attacked and captured Lanxiang, seizing enemy baggage. The next morning, the Han army attacked from the southwest and Xiajiang from the southeast, defeating Liangqiu Ci's army. Zhenfu's army fled but was blocked by the Huangchun River; over 20,000 were killed or drowned, and Zhenfu and Liangqiu Ci were beheaded. Bosheng then defeated Yan You and Chen Mao at Yuyang, beheading over 3,000, and besieged Wancheng, naming himself General Zhutian. Wang Mang offered a huge reward for Bosheng's death and had his image painted for archery practice. Over 100,000 people surrendered daily. When generals discussed establishing a Liu clan leader, they favored Bosheng but feared his strictness and preferred Sheng Gong (Gengshi), whom they established. Bosheng warned against premature enthronement, citing Chen Sheng and Xiang Ji as examples, and suggested waiting until after defeating Wang Mang and dealing with Chimei. Most agreed, but General Zhang drew his sword and forced the decision. Sheng Gong was enthroned, and Bosheng was made Grand Situ and Marquis of Han Xin, disappointing many heroes. After attacking Xinye and Bawan, Guangwu defeated Wang Xun and Wang Yi, increasing the brothers' fame. Gengshi and his ministers, feeling uneasy, conspired to kill Bosheng. Despite a warning from his uncle Fan Hong about a possible plot, Bosheng dismissed it. Li Yi, whom Guangwu had warned Bosheng against, and others persuaded Gengshi to arrest and kill Bosheng and his general Liu Ji on the same day. Bosheng's sons were later made kings by Guangwu.
-
-Chunk 3: 
-original: 
-初，李轶谄事更始贵将，光武深疑之，常以戒伯升曰： 此人不可复信。 又不受。
-伯升部将宗人刘稷，数陷陈溃围，勇冠三军。
-时将兵击鲁阳，闻更始立，怒曰： 本起兵图大事者，伯升兄弟也，今更始何为者邪？ 更始君臣闻而心忌之，以稷为抗威将军，稷不肯拜。
-更始乃与诸将陈兵数千人，先收稷，将诛之，伯升固争。
-李轶、朱鲔因劝更始并执伯升，即日害之。
-古人以蜂虿为戒，盖畏此也。
-《诗》云： 敬之敬之，命不易哉！
-北海靖五兴，建武二年封为鲁王，嗣光武兄仲。
-初，南顿君娶同郡樊重女，字娴都。
 娴都性婉顺，自为童女，不正容服不出于房，宗族敬焉。
 生三男三女：长男伯升，次仲，次光武；长女黄，次元，次伯姬。
 皇妣以初起兵时病卒，宗人樊巨公收敛焉。
 建武二年，封黄为湖阳长公主，伯姬为宁平长公主。
-translation: 
-At first, Li Yi fawned over Gengshi's noble general. Guangwu was deeply puzzled and often warned Bo Sheng: "Li Yi can no longer be trusted." Bo Sheng didn't accept it again.
-Liu Ji, a member of the same tribe as Bo Sheng's general, fell into battle several times and defeated the enemy. His bravery was the highest among the three armies.
-At that time, he led an army to attack Lu Yang. When he heard that Gengshi had ascended the throne, he became angry and said, "It was Brother Bo Sheng who originally raised the army to plan for great things. How can Gengshi ascend the throne now?" Gengshi emperor and his ministers were very jealous when they heard about it, and regarded Liu Ji as a general to resist power, but Liu Ji refused to accept it.
-Gengshi and the generals arranged thousands of troops to arrest Liu Ji first and were about to kill him. Bo Sheng firmly argued against it.
-Li Yi and Zhu Kun persuaded Gengshi to arrest Bo Sheng at the same time. He was killed on the same day.
-Bo Sheng had two sons. In the second year of Jianwu, Guangwu established Bo Sheng's eldest son Liu Zhang as King of Taiyuan, and his second son Liu Xing as King of Lu.
-In the eleventh year of Jianwu, Liu Zhang was moved to the throne of Qi. In the fifteenth year of Jianwu's reign, his posthumous uncle was promoted to King Wu of Qi.
-◆Beihai Jing Wang Liu Xing passed the throne to Beihai Jing Wang Liu Xing, who was named King of Lu in the second year of Jianwu and succeeded Guangwu's brother Liu Zhong.
-At first, Lord Nanton married all the daughters of Fan Zhong from the same county.
-All women have a docile temperament. Ever since she was a virgin, she has never dressed up or left the boudoir. She is respected and loved by the entire clan.
-They gave birth to three sons and three daughters: the eldest son Bosheng, the second son Zhong, and the third son Guangwu; the eldest daughter Liu Huang, the second daughter Liu Yuan, and the third daughter Boji.
-The emperor's concubine, Nvjiandu, died of illness when Bo Sheng's brothers first launched their army. Fan Jugong, a member of Fan Nvjiandu's tribe, buried her.
-In the second year of Jianwu, Liu Huang was granted the title of eldest princess of Huyang, and Boji was granted the title of eldest princess of Shouping.
-
-summary:
-summary line 2: **Beihai Jing Wang Liu Xing** was named King of Lu in the second year of Jianwu, succeeding Guangwu's brother Liu Zhong. His mother, Lady Nanton, was gentle and respected, giving birth to three sons (Bosheng, Zhong, Guangwu) and three daughters (Liu Huang, Liu Yuan, Boji). She died of illness when Bosheng's brothers first raised troops. Liu Xing served as magistrate of Fengshi County, known for wisdom and good governance, later becoming prefect of Hongnong. After four years, he resigned and was recalled to court. In the 27th year of Jianwu, he returned to his state. The next year, he was moved to be King of Beihai. Emperor Xianzong valued him and consulted him on major issues. He died after 39 years of reign.
-
-Chunk 4: 
-original: 
 元与仲俱殁于小长安，追爵元为新野长公主，十五年，追谥仲为鲁哀王。
 兴其岁试守缑氏令。
 为人有明略，善听讼，甚得名称。
@@ -121,13 +45,11 @@ original:
 三十年，封兴子复为临邑侯。
 中元二年，又封兴二子为县侯。
 显宗器重兴，每有异政，辄乘驿问焉。
-騊駼又自造赋、颂、书、论凡四篇。
-赵孝王良字次伯，光武之叔父也。
-平帝时举孝廉，为萧令。
-光武兄弟少孤，良抚循甚笃。
-及光武起兵，以事告，良大怒，曰： 汝与伯升志操不同，今家欲危亡，而反共谋如是！ 既而不得已，从军至小长安，汉兵大败，良妻及二子皆被害。
-更始立，以良为国三老，从入关。
 translation: 
+All women have a docile temperament. Ever since she was a virgin, she has never dressed up or left the boudoir. She is respected and loved by the entire clan.
+They gave birth to three sons and three daughters: the eldest son Bosheng, the second son Zhong, and the third son Guangwu; the eldest daughter Liu Huang, the second daughter Liu Yuan, and the third daughter Boji.
+The emperor's concubine, Nvjiandu, died of illness when Bo Sheng's brothers first launched their army. Fan Jugong, a member of Fan Nvjiandu's tribe, buried her.
+In the second year of Jianwu, Liu Huang was granted the title of eldest princess of Huyang, and Boji was granted the title of eldest princess of Shouping.
 Both Liu Yuan and Liu Zhong died in Xiaochang'an, and Liu Yuanjue was given the title of Princess Xinye. In the fifteenth year of Jianwu's reign, Liu Zhong was posthumously named King of Lu Ai.
 Liu Xing was tried as the magistrate of Fengshi County that year.
 He is a wise and strategic man, good at handling lawsuits, and has a good reputation.
@@ -138,23 +60,49 @@ Next year, Yi Lu rented more than Donghai, so he moved Liu Xing to be the king o
 In the 30th year, Liu Xing's son Liu Fu was granted the title of Marquis of Linyi.
 In the second year of Zhongyuan, Liu Xing's two sons were granted the title of county marquis.
 Emperor Xianzong attached great importance to Liu Xing. Whenever he encountered major political issues, he often passed documents to Liu Xing for consultation.
+
+summary:
+summary line 1: **Beihai Jing Wang Liu Xing** was named King of Lu in the second year of Jianwu, succeeding Guangwu's brother Liu Zhong. His mother, Lady Nanton, was gentle and respected, giving birth to three sons (Bosheng, Zhong, Guangwu) and three daughters (Liu Huang, Liu Yuan, Boji). She died of illness when Bosheng's brothers first raised troops. Liu Xing served as magistrate of Fengshi County, known for wisdom and good governance, later becoming prefect of Hongnong. After four years, he resigned and was recalled to court. In the 27th year of Jianwu, he returned to his state. The next year, he was moved to be King of Beihai. Emperor Xianzong valued him and consulted him on major issues. He died after 39 years of reign.
+
+Chunk 6: 
+original: 
+騊駼又自造赋、颂、书、论凡四篇。
+赵孝王良字次伯，光武之叔父也。
+平帝时举孝廉，为萧令。
+光武兄弟少孤，良抚循甚笃。
+及光武起兵，以事告，良大怒，曰： 汝与伯升志操不同，今家欲危亡，而反共谋如是！ 既而不得已，从军至小长安，汉兵大败，良妻及二子皆被害。
+更始立，以良为国三老，从入关。
+更始败。良闻光武即位，乃亡奔洛阳。
+建武二年，封良为广阳王。
+五年，徙为赵王，始就国。
+十三年，降为赵公。
+频岁来朝。
+十七年，薨于京师。
+凡六十六年。
+子节王栩嗣。
+立九年，魏初以为崇德侯。
+translation: 
 He died in the thirty-ninth year of his reign, and was succeeded by King Zijing Liu Mu.
 ◆Biography of Zhao Xiaowang Liu Liang Zhao Xiaowang Liu Liang was named Cibo and the uncle of Emperor Guangwu.
 During the reign of Emperor Ping, he was promoted to Xiaolian and became the magistrate of Xiao County.
 Brother Guangwu lost his father when he was young, and Liu Liang took good care of him.
 When Guangwu raised his troops and told Liu Liang what had happened, Liu Liang was furious and said: "You and Bo Sheng have different ambitions and ethics. Do you want your family to be in danger now?" Instead, they conspired to raise an army! Later, as a last resort, he joined the army and went to Xiaochang'an. The Han army was defeated and Liu Liang's wife and two sons were killed.
 When Gengshi came to the throne, he made Liu Liang the third elder of the country and followed him into the pass.
+After the reform failed, Liu Liang fled to Luoyang when he heard that Guangwu had ascended the throne.
+In the second year of Jianwu, Liu Liang was granted the title of King of Guangyang.
+In the fifth year of Jianwu, he moved to Zhao Wang and began to take the throne.
+In the thirteenth year, he was demoted to Duke Zhao.
+He goes to Beijing every year to worship.
+In the seventeenth year of Jianwu's reign, he died in the capital.
+Reigned for sixteen years.
+Liu Xusi, the king of Zijie.
+In the 30th year of Jianwu's reign, Xu's second son was granted the title of Marquis of the Countryside.
 
 summary:
-summary line 3: **Zhao Xiaowang Liu Liang** was Guangwu's uncle. During Emperor Ping's reign, he became magistrate of Xiao County. He cared for the young Guangwu after his father's death. When Guangwu raised troops, Liu Liang was initially furious but later joined the army. At Xiaochang'an, his wife and two sons were killed. Gengshi made him the third elder of the state. After Gengshi's failure, Liu Liang fled to Luoyang upon hearing Guangwu's enthronement. He was made King of Guangyang in the second year of Jianwu, moved to Zhao Wang in the fifth year, demoted to Duke Zhao in the 13th year, and died in the capital in the 17th year after 16 years of reign.
+summary line 2: **Zhao Xiaowang Liu Liang** was Guangwu's uncle. During Emperor Ping's reign, he became magistrate of Xiao County. He cared for the young Guangwu after his father's death. When Guangwu raised troops, Liu Liang was initially furious but later joined the army. At Xiaochang'an, his wife and two sons were killed. Gengshi made him the third elder of the state. After Gengshi's failure, Liu Liang fled to Luoyang upon hearing Guangwu's enthronement. He was made King of Guangyang in the second year of Jianwu, moved to Zhao Wang in the fifth year, demoted to Duke Zhao in the 13th year, and died in the capital in the 17th year after 16 years of reign.
 
-Chunk 6: 
+Chunk 8: 
 original: 
-岁余，会族兄安众侯刘崇起兵，王莽畏恶刘氏，征敞至长安，免归国。
-先是平帝时，敞与崇俱朝京师，助祭明堂。
-崇见莽将危汉室，私谓敞曰： 安汉公擅国权，群臣莫不回从，社稷倾覆至矣。
-太后春秋高，天子幼弱，高皇帝所以分封子弟，盖为此也。 敞心然之。
-及崇事败，敞惧，欲结援树党，乃为祉娶高陵侯翟宣女为妻。
 会宣弟义起兵欲攻莽，南阳捕杀宣女，祉坐系狱。
 敞因上书谢罪，愿率子弟宗族为士卒先。
 莽新居摄，欲慰安宗室，故不被刑诛。
@@ -164,12 +112,13 @@ original:
 及光武起兵，祉兄弟相率从军，前队大夫甄阜尽收其家属系宛狱。
 及汉兵败小长安，祉挺身还保棘阳，甄阜尽杀其母弟妻子。
 更始立，以祉为太常将军，绍封舂陵侯。
+从西入关，封为定陶王。
+别将击破刘婴于临泾。
+及更始降于赤眉，祉乃间行亡奔洛阳。
+是时宗室唯祉先至，光武见之欢甚。
+建武二年，封为城阳王，赐乘舆、御物、车马、衣服。
+追谥敞为康侯。
 translation: 
-More than a year later, when his brother Anzhong Hou Liu Chong raised an army, Wang Mang was afraid of hating the Liu family, so he conscripted Liu Chang to Chang'an and prevented him from returning to his fiefdom.
-During the reign of Emperor Ping, Liu Chang and Liu Chong both gathered in the capital to serve as auxiliary sacrifices in Mingtang.
-Liu Chong saw that Wang Mang was going to harm the Han Dynasty, so he said to Liu Chang privately: Prince Mang of Anhan is monopolizing the state affairs, and all the ministers will not obey him, and the country will be overthrown by him.
-The Queen Mother is old and Emperor Ping is young and weak. This is why Emperor Gao wanted to divide the children among his children. Liu Chang agreed from the bottom of his heart.
-When Liu Chong was defeated, Liu Chang was afraid and wanted to make friends and establish a private party, so he married Gaolinghou Zhai Xuannu to Liu Zhi.
 It happened that Zhai Xuan's younger brother Zhai Yi raised troops to attack Wang Mang. Nanyang County officials arrested and killed Zhai Xuan's daughter, and Liu Zhi was implicated and imprisoned in prison.
 Liu Chang therefore wrote a letter to apologize and was willing to lead his children and clan as vanguard warriors.
 Wang Mang was newly regent and wanted to comfort the clan, so he was not punished.
@@ -179,18 +128,18 @@ Because Liu Zhi was the legitimate son of the late Marquis Liu Chang, his behavi
 When Guangwu raised his army and Liu Zhi's brothers led the army, Zhen Fu, the senior official of the front army, imprisoned all his family members in prison.
 When the Han soldiers failed in Xiao Chang'an and Liu Zhi came back to protect Jiyang, Zhen Fu killed Liu Zhi's mother, brother, and wives.
 Gengshi ascended the throne, and Liu Zhi was appointed Taichang General and succeeded Chonglinghou.
+He followed him into the pass and was named King of Dingtao.
+He also led his troops to defeat Liu Ying in Linjing.
+When the revolution came to Chimei, Liu Zhi fled to Luoyang via a small road.
+At this time, only Liu Zhi of the clan arrived first, and Guangwu was very happy when he saw it.
+In the second year of Jianwu, he was granted the title of King of Chengyang and was given a carriage, royal objects, carriages, horses, and clothes.
+Liu Chang was posthumously named Marquis of Kang.
 
 summary:
-summary line 4: **Chengyang Gong Wang Liu Zhi** was the son of Liu Chang, Marquis of Kang Ling. Liu Chang's ancestor was granted Chongling Marquis. Liu Chang moved to Baishui Township due to low terrain and was praised for his modesty. During Wang Mang's usurpation, Liu Zhi was imprisoned for marrying Zhai Xuan's daughter but was pardoned. When Wang Mang usurped the throne, Liu Zhi's titles were abolished. When Guangwu raised troops, Zhen Fu imprisoned Liu Zhi's family. After the Han defeat at Xiaochang'an, Zhen Fu killed Liu Zhi's mother, brother, and wives. Gengshi made Liu Zhi Taichang General and King of Dingtao. After Gengshi's fall, Liu Zhi fled to Luoyang. Guangwu made him King of Chengyang in the second year of Jianwu. He died at 43, posthumously named Prince Gong.
+summary line 3: **Chengyang Gong Wang Liu Zhi** was the son of Liu Chang, Marquis of Kang Ling. Liu Chang's ancestor was granted Chongling Marquis. Liu Chang moved to Baishui Township due to low terrain and was praised for his modesty. During Wang Mang's usurpation, Liu Zhi was imprisoned for marrying Zhai Xuan's daughter but was pardoned. When Wang Mang usurped the throne, Liu Zhi's titles were abolished. When Guangwu raised troops, Zhen Fu imprisoned Liu Zhi's family. After the Han defeat at Xiaochang'an, Zhen Fu killed Liu Zhi's mother, brother, and wives. Gengshi made Liu Zhi Taichang General and King of Dingtao. After Gengshi's fall, Liu Zhi fled to Luoyang. Guangwu made him King of Chengyang in the second year of Jianwu. He died at 43, posthumously named Prince Gong.
 
-Chunk 7: 
+Chunk 9: 
 original: 
-从西入关，封为定陶王。
-别将击破刘婴于临泾。
-及更始降于赤眉，祉乃间行亡奔洛阳。
-是时宗室唯祉先至，光武见之欢甚。
-建武二年，封为城阳王，赐乘舆、御物、车马、衣服。
-追谥敞为康侯。
 十一年，祉疾病，上城阳王玺绶，愿以列侯奉先人祭祀。
 永平五年，显宗更封平为竟陵侯。
 平卒，子真嗣。真卒，子禹嗣。
@@ -206,12 +155,6 @@ original:
 封长子柱为邔侯，以奉终祀，又封终子凤曲阳侯。
 歙从父弟茂，年十八，汉兵之起，茂自号刘失职，亦聚众亦、密间，称厌新将军。
 translation: 
-He followed him into the pass and was named King of Dingtao.
-He also led his troops to defeat Liu Ying in Linjing.
-When the revolution came to Chimei, Liu Zhi fled to Luoyang via a small road.
-At this time, only Liu Zhi of the clan arrived first, and Guangwu was very happy when he saw it.
-In the second year of Jianwu, he was granted the title of King of Chengyang and was given a carriage, royal objects, carriages, horses, and clothes.
-Liu Chang was posthumously named Marquis of Kang.
 In the eleventh year of Jianwu's reign, Liu Zhi fell ill and offered the seal and ribbon of King Chengyang, hoping that the princes would offer sacrifices to his ancestors.
 Emperor Guangwu personally visited his illness. Liu Zhi died at the age of forty-three, with the posthumous title of Prince Gong. He was buried in Beimang, Luoyang, before he could return to his fiefdom.
 In the thirteenth year of Jianwu's reign, Liu Ping, Liu Zhi's legitimate son, was granted the title of Marquis of Caiyang to worship Liu Zhi; Liu Ping's younger brother Liu Jian was granted the title of Marquis of Gaoxiang.
@@ -228,9 +171,9 @@ The eldest son Liu Zhu was granted the title of Marquis of Ji'an to worship Liu 
 Liu She followed his father's brother Liu Mao when he was eighteen years old. When the Han army rose, Liu Mao called himself Liu Derelict and gathered his troops in Jingxian and Mixian areas, calling him the new general.
 
 summary:
-summary line 5: **Sishui Wang Liu She** was Guangwu's grandson. His son Liu Zhong was close to Guangwu since childhood. Liu Zhong killed Huyang Wei during the Han uprising. Gengshi made Liu She King of Yuan and Liu Zhong his attendant. After Gengshi's failure, they fled to Luoyang. In the second year of Jianwu, Liu She was made King of Sishui, and Liu Zhong King of Zichuan. Liu She died in the 10th year. Liu Zhong died of grief after 20 days of crying. Liu She's brother Liu Mao gathered over 100,000 troops, surrendered to Guangwu, and was made King of Zhongshan, later demoted to Marquis Rang.
+summary line 4: **Sishui Wang Liu She** was Guangwu's grandson. His son Liu Zhong was close to Guangwu since childhood. Liu Zhong killed Huyang Wei during the Han uprising. Gengshi made Liu She King of Yuan and Liu Zhong his attendant. After Gengshi's failure, they fled to Luoyang. In the second year of Jianwu, Liu She was made King of Sishui, and Liu Zhong King of Zichuan. Liu She died in the 10th year. Liu Zhong died of grief after 20 days of crying. Liu She's brother Liu Mao gathered over 100,000 troops, surrendered to Guangwu, and was made King of Zhongshan, later demoted to Marquis Rang.
 
-Chunk 8: 
+Chunk 10: 
 original: 
 攻下颍川、汝南，众十余万人。
 光武既至河内，茂率众降，封为中山王。
@@ -247,8 +190,6 @@ original:
 更始既立，以赐为光禄勋，封广汉侯。
 及伯升被害，代为大司徒，将兵讨汝南。
 未及平，更始又以信为奋威大将军，代赐击汝南，赐与更始俱到洛阳。
-更始欲令亲近大将徇河北，未知所使，赐言诸家子独有文叔可用，大司马朱鲔等以为不可，更始狐疑，赐深劝之，乃拜光武行大司马，持节过河。
-是日以赐为丞相，令先入关，修宗庙宫室。
 translation: 
 He captured Yingchuan and Runan, and had more than 100,000 troops.
 After Guangwu arrived in Hanoi, Liu Mao led his troops to surrender and was named King of Zhongshan.
@@ -265,14 +206,17 @@ It happened that Bo Sheng was raising troops, so he followed Bo Sheng to attack 
 After Gengshi ascended the throne, Liu Ci was granted the title of Guangluxun and the title of Marquis of Guanghan.
 When Bo Sheng was killed, he acted as Da Situ and led troops to attack Runan.
 Without pacification, Gengshi appointed Liu Xin as the powerful general to attack Runan on Liu Ci's behalf. Liu Ci and Gengshi both went to Luoyang.
-Gengshi wanted to order a close general to seize Hebei, but he didn't know who to send. Liu Ci said that only Uncle Wen could be used among the Liu family's children, but the Grand Sima Zhu Tuna and others thought that was not possible. Gengshi was doubtful, but Liu Ci tried his best to persuade him.
-On that day, Liu Ci was appointed as the prime minister and ordered to enter the pass first to repair the ancestral temple and palace.
 
 summary:
-summary line 6: **Ancheng Xiaohou Liu Ci** was Guangwu's clan brother. After his brother Liu Xian was killed by officials, Liu Ci and his nephew Liu Xin killed the officials in revenge and fled, later pardoned. He followed Bosheng to attack counties. Gengshi made him Guangluxun and Marquis of Guanghan. After Bosheng's death, he acted as Da Situ. He recommended Guangwu to Gengshi for the Hebei mission. Gengshi made him King Wan and Grand Sima. After Chimei broke Gengshi, Liu Ci went to Luoyang. Guangwu made him Marquis Shen in the second year of Jianwu, later Anchenghou. He was kind and generous, often hosting banquets, and died in the 28th year.
+summary line 5: **Ancheng Xiaohou Liu Ci** was Guangwu's clan brother. After his brother Liu Xian was killed by officials, Liu Ci and his nephew Liu Xin killed the officials in revenge and fled, later pardoned. He followed Bosheng to attack counties. Gengshi made him Guangluxun and Marquis of Guanghan. After Bosheng's death, he acted as Da Situ. He recommended Guangwu to Gengshi for the Hebei mission. Gengshi made him King Wan and Grand Sima. After Chimei broke Gengshi, Liu Ci went to Luoyang. Guangwu made him Marquis Shen in the second year of Jianwu, later Anchenghou. He was kind and generous, often hosting banquets, and died in the 28th year.
 
-Chunk 10: 
+Chunk 12: 
 original: 
+光武即位，桂阳太守张隆击破之，信乃诣洛阳降，以为汝阴侯。
+永平十三年，亦坐楚事国除。
+成武孝侯顺字平仲，光武族兄也。
+父庆，舂陵侯敞同产弟。
+顺与光武同里闬，少相厚。
 更始即位，以庆为燕王，顺为虎牙将军。
 会更始降赤眉，庆为乱兵所杀，顺乃间行诣光武，拜为南阳太守。建武二年，封成武侯，邑户最大，租入倍宗室诸家。
 八年，使击破六安贼，因拜为六安太守。
@@ -280,13 +224,12 @@ original:
 顺阳怀侯嘉字孙，光武族兄也。
 父宪，舂陵侯敞同产弟。
 嘉少孤，性仁厚，南顿君养视如子，后与伯升俱学长安，习《尚书》、《春秋》。
-及义兵起，嘉随更始征伐。
-汉军之败小长安也。嘉妻子遇害。
-更始即位，以为偏将军。
-及攻破宛，封兴德侯，迁大将军。
-击延岑于冠军，降之。
-更始既都长安，以嘉为汉中王、扶威大将军，持节就国，都于南郑，众数十万。
 translation: 
+In the 30th year of Jianwu's reign, the emperor also granted Liu Min's younger brother Liu Song the title of Bainiuhou. Because the King of Chu conspired to rebel, he was implicated in Liu Min's confession, and his title was revoked. After Liu Min died, his son Liu Shang succeeded him and was granted the title of Bainiuhou.
+After Liu Shang's death, his son Liu Chang succeeded him. ◆The biography of Liu Shun, the Xiaohou of Chengwu
+Chengwu Xiaohou Liu Shun, courtesy name Pingzhong, was Guangwu's clan brother.
+His father, Liu Qing, was the half-brother of Chongling Marquis Liu Chang.
+Liu Shun and Guangwu were from the same hometown and had been close friends since childhood.
 Gengshi ascended the throne, with Liu Qing as King of Yan and Liu Shun as General Huya.
 When Gengshi surrendered to Chimei, Liu Qing was killed by the rebels. Liu Shun paid a visit to Guangwu and was named Nanyang Prefect. In the second year of Jianwu, he was named Chengwuhou. He had the largest household in the town and his land rent income was several times that of each clan member.
 In the eighth year of Jianwu's reign, he was sent to defeat the Liu'an thieves, so he became the prefect of Liu'an.
@@ -294,18 +237,18 @@ A few years ago, Guangwu wanted to recruit him to Beijing, and officials from Lu
 ◆The Huaihou of Shunyang Liu Jia is said to be the Huaihou of Shunyang Liu Jia, courtesy name Xiaosun, and the clan brother of Emperor Guangwu.
 His father, Liu Xian, was the half-brother of Chongling Marquis Liu Chang.
 Liu Jia lost his father when he was young and had a kind and generous nature. Nan Dunjun raised him as his own son. Later, he and Bo Sheng both studied in Chang'an and studied "Shang Shu" and "Spring and Autumn".
-The rebels rose up, and Liu Jia followed Gengshi to fight.
-When the Han army failed in Xiao Chang'an, Liu Jia's wife was killed.
-Gengshi came to the throne, with Liu Jia as the partial general.
-When Wancheng was conquered, he was granted the title of Xingdehou and then moved to the rank of general.
-Defeat Yancen in the championship, Yancen surrendered.
-When Gengshi made his capital Chang'an, he appointed Liu Jia as the king of Hanzhong and the general of Fuwei. He went to Hanzhong to entrust the land with the talisman festival, and the capital was in Nanzheng, with hundreds of thousands of supporters.
 
 summary:
-summary line 7: **Chengwu Xiaohou Liu Shun** was Guangwu's clan brother and childhood friend. Gengshi made his father Liu Qing King of Yan and Liu Shun General Huya. After Liu Qing was killed by rebels, Liu Shun visited Guangwu and was made Nanyang Prefect, later Chengwuhou. He defeated Liu'an thieves and became prefect of Liu'an. He died in the 11th year of Jianwu.
+summary line 6: **Chengwu Xiaohou Liu Shun** was Guangwu's clan brother and childhood friend. Gengshi made his father Liu Qing King of Yan and Liu Shun General Huya. After Liu Qing was killed by rebels, Liu Shun visited Guangwu and was made Nanyang Prefect, later Chengwuhou. He defeated Liu'an thieves and became prefect of Liu'an. He died in the 11th year of Jianwu.
 
-Chunk 11: 
+Chunk 13: 
 original: 
+及义兵起，嘉随更始征伐。
+汉军之败小长安也。嘉妻子遇害。
+更始即位，以为偏将军。
+及攻破宛，封兴德侯，迁大将军。
+击延岑于冠军，降之。
+更始既都长安，以嘉为汉中王、扶威大将军，持节就国，都于南郑，众数十万。
 建武二年，延岑复反，攻汉中，围南郑，嘉兵败走。
 岑遂定汉中，进兵武都，为更始柱功侯李宝所破。
 岑走天水，公孙述遣将侯丹取南郑。
@@ -315,12 +258,13 @@ original:
 嘉手杀湛，遂到云阳就谷。
 李宝等闻邓禹西征，拥兵自守，马嘉且观成败。
 光武闻之，告禹曰： 孝孙素谨善，少且亲爱，当是长安轻薄儿误之耳。 禹即宣帝旨，嘉乃因来歙诣禹于云阳。
-三年，到洛阳，从征伐，拜为千乘太守。
-六年，病，上书乞骸骨，征诣京师。
-十三年，封为顺阳侯。
-秋，复封嘉子廧为黄李侯。
-十五年，嘉卒。
 translation: 
+The rebels rose up, and Liu Jia followed Gengshi to fight.
+When the Han army failed in Xiao Chang'an, Liu Jia's wife was killed.
+Gengshi came to the throne, with Liu Jia as the partial general.
+When Wancheng was conquered, he was granted the title of Xingdehou and then moved to the rank of general.
+Defeat Yancen in the championship, Yancen surrendered.
+When Gengshi made his capital Chang'an, he appointed Liu Jia as the king of Hanzhong and the general of Fuwei. He went to Hanzhong to entrust the land with the talisman festival, and the capital was in Nanzheng, with hundreds of thousands of supporters.
 In the second year of Jianwu, Yancen rebelled, attacked Hanzhong, and besieged Nanzheng. Liu Jia was defeated.
 Yancen then pacified Hanzhong and marched into Wudu, but was defeated by Li Bao, the Marquis of Gengshi Zhugong.
 Yancen was defeated and fled to Tianshui, and Gongsun Shu sent general Hou Dan to attack Nanzheng.
@@ -330,12 +274,7 @@ In Gengshi, King Deng Liao Zhan led a red eyebrow army of 180,000 to attack Liu 
 Liu Jia personally killed Liao Zhan and went to Yunyang to obtain food on the spot.
 When Li Bao and others heard about Deng Yu's western expedition, they gathered troops to defend themselves and advised Liu Jia to sit back and watch the success or failure for the time being.
 After Guangwu heard about it, he told Deng Yu, "Xiaosun has always been cautious and kind, and he and I have been close to each other since childhood. It must be the frivolous son of Chang'an who missed him." Deng Yu announced Guangwu's will, and Liu Jia came to meet Deng Yu in Yunyang.
-In the third year of Jianwu's reign, he went to Luoyang, followed the expedition, and became the prefect of Qiancheng.
-In the sixth year of Jianwu's reign, he fell ill and petitioned to retire, so he was conscripted to the capital.
-In the thirteenth year of Jianwu's reign, he was granted the title of Marquis of Shunyang.
-In autumn, Liu Shen, Liu Jia's son, was granted the title of Huang Lihou.
-In the fifteenth year of Jianwu, Liu Jia passed away.
 
 summary:
-summary line 8: **Shunyang Huaihou Liu Jia** was Guangwu's clan brother. He studied "Shang Shu" and "Spring and Autumn" with Bosheng in Chang'an. He followed Gengshi and was made partial general, later Xingdehou and general. He defeated Yancen, who later surrendered. Gengshi made him King of Hanzhong. After Yancen rebelled and defeated Liu Jia, Liu Jia collected scattered troops and fought Yancen again, defeating him. He also defeated Red Eyebrow leader Liao Zhan. After Guangwu's message, Liu Jia met Deng Yu in Yunyang. In the third year of Jianwu, he went to Luoyang and became prefect of Qiancheng. He was made Marquis of Shunyang in the 13th year and died in the 15th year.
+summary line 7: **Shunyang Huaihou Liu Jia** was Guangwu's clan brother. He studied "Shang Shu" and "Spring and Autumn" with Bosheng in Chang'an. He followed Gengshi and was made partial general, later Xingdehou and general. He defeated Yancen, who later surrendered. Gengshi made him King of Hanzhong. After Yancen rebelled and defeated Liu Jia, Liu Jia collected scattered troops and fought Yancen again, defeating him. He also defeated Red Eyebrow leader Liao Zhan. After Guangwu's message, Liu Jia met Deng Yu in Yunyang. In the third year of Jianwu, he went to Luoyang and became prefect of Qiancheng. He was made Marquis of Shunyang in the 13th year and died in the 15th year.
 

@@ -1,0 +1,239 @@
+Summary uses chunk [0, 0, 1, 20, 25, 35, 35]
+
+Chunk 0: 
+original: 
+刘颂，字子雅，广陵人，汉广陵厉王胥之后也。
+世为名族。
+同郡有雷、蒋、谷、鲁四姓，皆出其下，时人为之语曰 雷、蒋、谷、鲁，刘最为祖。
+父观，平阳太守。
+颂少能辨物理，为时人所称。
+察孝廉，举秀才，皆不就。
+文帝辟为相府掾，奉使于蜀。
+时蜀新平，人饥土荒，颂表求振贷，不待报而行，由是除名。
+武帝践阼，拜尚书三公郎，典科律，申冤讼。
+累迁中书侍郎。
+咸宁中，诏颂与散骑郎白褒巡抚荆、扬，以奉使称旨，转黄门郎。
+迁议郎，守廷尉。
+时尚书令史扈寅非罪下狱，诏使考竟，颂执据无罪，寅遂得免，时人以颂比张释之。
+在职六年，号为详平。
+会灭吴，诸将争功，遣颂校其事，以王浑为上功，王浚为中功。
+帝以颂持法失理，左迁京兆太守，不行，转任河内。
+translation: 
+Liu Song, courtesy name Ziya, was born in Guangling and was a descendant of Liu Xu, King Li of Guangling in the Han Dynasty.
+It has been a prestigious family for generations.
+There were four surnames in the same county: Lei, Jiang, Gu, and Lu, all of which came from the surname Liu. People at that time made up proverbs for them and said: Lei, Jiang, Gu, and Lu, Liu is the most ancestor.
+His father's name is Liu Guan, and he served as the prefect of Pingyang.
+Liu Song was able to analyze physics since he was a child and was praised by people at the time.
+He was recommended as a filial, honest and scholar, but he was not accepted.
+Emperor Wen called him to serve as an official in the Prime Minister's Mansion and was ordered to go to Shu as an envoy.
+At that time, Shu had just been pacified, the people were hungry, and the land was desolate. Liu Song petitioned for relief, but did not wait for an answer before granting relief. Therefore, he was removed from his official position.
+Emperor Wu of the Jin Dynasty ascended the throne and appointed Liu Song as Shangshu Sangonglang, who was responsible for presiding over laws and decrees and redressing unjust cases.
+Gradually he was promoted to the position of Vice Minister of Zhongshu.
+During the Xianning period, Liu Song and Sanqi Lang Bai Bao were ordered to inspect the Jingyang area. Because the envoys were in compliance with the decree, they were transferred to Huang Menlang.
+Then he moved to Yilang and acted as Tingwei.
+At that time, Shi Huyin was not guilty and imprisoned. Shao sent Liu Song to review. He presided over the proof of innocence and Hu Yin was exempted. At that time, people compared Liu Song to Zhang Shizhi.
+He has been on the job for six years and is known as being thorough and fair.
+Qiahui destroyed the Kingdom of Wu. The generals competed for merit and sent Liu Song to investigate the matter. Liu Song believed that Wang Hun should be the one with the highest merit and Wang Jun should be the middle merit.
+The emperor thought that Liu Song was unreasonable in enforcing the law, so he was demoted to the prefect of Jingzhao. Before taking up the post, he was transferred to Hanoi.
+
+summary:
+summary line 0: Liu Song, courtesy name Ziya, was born in Guangling and descended from Liu Xu, King Li of Guangling in the Han Dynasty. His family had been prestigious for generations, belonging to a group of four surnames—Lei, Jiang, Gu, and Lu—all originating from the Liu surname. His father, Liu Guan, served as the prefect of Pingyang. Liu Song demonstrated analytical abilities from childhood and was praised by contemporaries. Though recommended as a filial and honest scholar, he declined the position. Emperor Wen summoned him to serve in the Prime Minister's Mansion and sent him as an envoy to Shu, which had just been pacified. Finding the people hungry and the land desolate, Liu Song petitioned for relief but granted aid without waiting for approval, resulting in his removal from office.
+
+Chunk 0: 
+original: 
+刘颂，字子雅，广陵人，汉广陵厉王胥之后也。
+世为名族。
+同郡有雷、蒋、谷、鲁四姓，皆出其下，时人为之语曰 雷、蒋、谷、鲁，刘最为祖。
+父观，平阳太守。
+颂少能辨物理，为时人所称。
+察孝廉，举秀才，皆不就。
+文帝辟为相府掾，奉使于蜀。
+时蜀新平，人饥土荒，颂表求振贷，不待报而行，由是除名。
+武帝践阼，拜尚书三公郎，典科律，申冤讼。
+累迁中书侍郎。
+咸宁中，诏颂与散骑郎白褒巡抚荆、扬，以奉使称旨，转黄门郎。
+迁议郎，守廷尉。
+时尚书令史扈寅非罪下狱，诏使考竟，颂执据无罪，寅遂得免，时人以颂比张释之。
+在职六年，号为详平。
+会灭吴，诸将争功，遣颂校其事，以王浑为上功，王浚为中功。
+帝以颂持法失理，左迁京兆太守，不行，转任河内。
+translation: 
+Liu Song, courtesy name Ziya, was born in Guangling and was a descendant of Liu Xu, King Li of Guangling in the Han Dynasty.
+It has been a prestigious family for generations.
+There were four surnames in the same county: Lei, Jiang, Gu, and Lu, all of which came from the surname Liu. People at that time made up proverbs for them and said: Lei, Jiang, Gu, and Lu, Liu is the most ancestor.
+His father's name is Liu Guan, and he served as the prefect of Pingyang.
+Liu Song was able to analyze physics since he was a child and was praised by people at the time.
+He was recommended as a filial, honest and scholar, but he was not accepted.
+Emperor Wen called him to serve as an official in the Prime Minister's Mansion and was ordered to go to Shu as an envoy.
+At that time, Shu had just been pacified, the people were hungry, and the land was desolate. Liu Song petitioned for relief, but did not wait for an answer before granting relief. Therefore, he was removed from his official position.
+Emperor Wu of the Jin Dynasty ascended the throne and appointed Liu Song as Shangshu Sangonglang, who was responsible for presiding over laws and decrees and redressing unjust cases.
+Gradually he was promoted to the position of Vice Minister of Zhongshu.
+During the Xianning period, Liu Song and Sanqi Lang Bai Bao were ordered to inspect the Jingyang area. Because the envoys were in compliance with the decree, they were transferred to Huang Menlang.
+Then he moved to Yilang and acted as Tingwei.
+At that time, Shi Huyin was not guilty and imprisoned. Shao sent Liu Song to review. He presided over the proof of innocence and Hu Yin was exempted. At that time, people compared Liu Song to Zhang Shizhi.
+He has been on the job for six years and is known as being thorough and fair.
+Qiahui destroyed the Kingdom of Wu. The generals competed for merit and sent Liu Song to investigate the matter. Liu Song believed that Wang Hun should be the one with the highest merit and Wang Jun should be the middle merit.
+The emperor thought that Liu Song was unreasonable in enforcing the law, so he was demoted to the prefect of Jingzhao. Before taking up the post, he was transferred to Hanoi.
+
+summary:
+summary line 1: When Emperor Wu of the Jin Dynasty ascended, Liu Song was appointed Shangshu Sangonglang, presiding over laws and redressing injustices. He gradually rose to Vice Minister of Zhongshu. During the Xianning period, he inspected Jingyang with Sanqi Lang Bai Bao and was transferred to Huang Menlang, then to Yilang and acting Tingwei. He reviewed the case of Shi Huyin, who was imprisoned without guilt, and proved his innocence, earning comparison to Zhang Shizhi. After six years in office, he was known for thoroughness and fairness. When Wu was conquered and generals competed for merit, Liu Song investigated and determined Wang Hun had highest merit and Wang Jun middle merit. The emperor considered this unreasonable and demoted Liu Song to prefect of Jingzhao, then transferred him to Hanoi. Before departing, he reported matters benefiting the country, petitioning to demolish water dams that caused disasters, bringing convenience to the people.
+
+Chunk 1: 
+original: 
+临发，上便宜，多所纳用。
+郡界多公主水碓，遏塞流水，转为浸害，颂表罢之，百姓获其便利。
+寻以母忧去职。
+服阕，除淮南相。
+在官严整，甚有政绩。
+旧修芍陂，年用数万人，豪强兼并，孤贫失业，颂使大小戮力，计功受分，百姓歌其平惠。
+颂在郡，上疏曰：
+臣昔忝河内，临辞受诏： 卿所言悉要事，宜大小数以闻。
+恆苦多事，或不能悉有报，勿以为疑。
+臣受诏之日，喜惧交集，益思自竭，用忘其鄙，愿以萤烛，增晖重光。
+到郡草具所陈如左，未及书上，会臣婴丁天罚，寝顿累年，今谨封上前事。
+translation: 
+Before departure, it is often used to report things that will benefit the country.
+Many water dams were set up by the public within the boundaries of each county, blocking the water flow and causing disasters. Liu Song petitioned to have these water dams demolished, which brought convenience to the people.
+Soon he left his job due to the death of his mother.
+After the mourning period expired, he was appointed Prime Minister of Huainan.
+During his tenure, he was serious and organized and had great political achievements.
+In the past, the construction of Shaopi required tens of thousands of labors a year. The powerful took advantage of the opportunity to annex the land, and the weak and poor people lost their fields. Liu Song asked the old and young to work together, and the value was calculated according to the amount of repairs. The people praised him for his fair administration and benefiting the people.
+Liu Song wrote in the county:
+I used to serve in Hanoi. When I was leaving, I received an edict and said: "What you talked about are all very important things. After taking office, you should report all the big and small things."
+I usually have a lot to do, so I may not be able to give you all the answers, so please don’t doubt me because of this.
+On the day when the minister accepted the edict, he was filled with joy and fear, and he was even more thoughtful about doing his best to be loyal. Therefore, he forgot his own contempt and was willing to use a small candlelight to increase the glory of the emperor.
+After I took office in the county, I scribbled down the following words. Before I could submit the memorial, I happened to suffer the death of my mother and was suspended from office for many years. Now I am cautiously relaying the things I wanted to memorialize before.
+
+summary:
+summary line 2: After his mother's death, Liu Song left office. Following the mourning period, he became Prime Minister of Huainan, where he was serious and organized with great political achievements. He reformed the construction of Shaopi, which previously required tens of thousands of laborers annually, by having the old and young work together with compensation based on repairs, earning praise for fair administration. Liu Song submitted a lengthy memorial discussing various state affairs, including the establishment of feudal states, the importance of enfeoffing princes to create stable foundations, and the dangers of relying solely on county systems. He argued that enfeoffment would ensure long-term stability, drawing comparisons between the Zhou Dynasty's long duration due to feudal systems and the Qin Dynasty's rapid collapse after abolishing them.
+
+Chunk 20: 
+original: 
+古人有言曰： 君子之过，如日之蚀焉。
+又曰： 过而能改 又曰 不贰过 。
+凡此数者，皆是贤人君子不能无过之言也。
+苟不至于害政，则皆天网之所漏；所犯在甚泰，然后王诛所必加，此举罪浅深之大例者也。
+故君子得全美以善事，不善者必夷戮以警众，此为政诛赦之准式也。
+何则？所谓贤人君子，苟不能无过，小疵不可以废其身，而辄绳以法，则愧于明时。
+何则？
+虽有所犯，轻重甚殊，于士君子之心受责不同而名不异者，故不轨之徒得引名自方，以惑众听，因名可乱，假力取直，故清议益伤也。
+凡举过弹违，将以肃风论而整世教，今举小过，清议益穨。
+是以圣人深识人情而达政体，故其称曰： 不以一眚掩大德。
+又曰： 赦小过，举贤才。
+又曰： 无求备于一人。
+故冕而前旒，充纩塞耳，意在善恶之报必取其尤，然后简而不漏，大罪必诛，法禁易全也。
+何则？
+害法在犯尤，而谨搜微过，何异放兕豹于公路，而禁鼠盗于隅隙。
+translation: 
+The ancients said: A gentleman's fault is like an eclipse of the sun.
+He also said: There are mistakes but they can be corrected. He also said: Don’t make a second mistake.
+These are all remarks about how even a wise man and a gentleman are not without faults.
+If it does not cause harm to the country's affairs, it should be ignored by the law. If the mistake is too big, then the king's law will be dealt with. This is what I mean by how to deal with the severity of the crime.
+A gentleman should preserve his reputation to engage in good governance, and bad people should be killed to warn others. This is the rule of killing or pardoning in government. Why?
+The so-called wise men and gentlemen cannot be without faults. If they do not dismiss people for minor mistakes and bring them to justice at every turn, they will be ashamed of their sage.
+Why?
+Although they have made mistakes, the severity is very different. The punishment in the heart of the gentleman is different, but there is no difference in reputation. Therefore, the lawless people can use their reputation to compare themselves and confuse people. Therefore, it is even more detrimental to current political discussions.
+Generally, the purpose of correcting and impeaching mistakes is to eliminate false accusations and rectify education. Now, correcting minor mistakes makes the Qing discussion even more decadent.
+Therefore, the sage has a deep understanding of human feelings and a thorough understanding of political systems, so he said: Don't cover up your great virtues because of a small mistake.
+He also said: Forgive minor offenses and promote talented people.
+He also said: Don’t seek perfection from others.
+Therefore, wearing a crown with a jade string in front of it and stuffing the ears with silk wadding means not listening to slander. The purpose is that the punishment for the wicked must be greater, and it should be simple but not omitted. Those who commit serious crimes will definitely be punished, so that the law and prohibitions can be easily completed.
+Why?
+To endanger the law is to commit a big crime, but to rigorously search for small faults. What is the difference between leaving jackals, tigers and leopards on the road and strictly prohibiting rats that steal things in the cracks of the wall?
+
+summary:
+summary line 3: Liu Song also discussed the need for proper official evaluation, reducing labor burdens, developing agriculture, and maintaining grain prices. He criticized current governance for focusing on minor faults while ignoring major crimes, comparing this to leaving dangerous beasts on the road while strictly prohibiting mice. He advocated for simpler governance, long-term official appointments, and proper assessment of achievements. The imperial edict replied acknowledging his loyal service and requesting continued reports.
+
+Chunk 25: 
+original: 
+又论肉刑，见《刑法志》。
+诏答曰： 得表陈封国之制，宜如古典，任刑齐法，宜复肉刑，及六州将士之役，居职之宜，诸所陈闻，具知卿之乃心为国也。
+动静数以闻。
+元康初，从准南王允入朝。
+会诛杨骏，颂屯卫殿中，其夜，诏以颂为三公尚书。
+又上疏论律令事，为时论所美。
+久之，转吏部尚书，建九班之制，欲令百官居职希迁，考课能否，明其赏罚。
+贾郭专朝，仕者欲速，竟不施行。
+及赵王伦之害张华也，颂哭之甚恸。
+闻华子得逃，喜曰： 茂先，卿尚有种也！
+伦党张林闻之，大怒，惮颂持正而不能害也。
+孙秀等推崇伦功，宜加九锡，百僚莫敢异议。
+translation: 
+He also discussed his views on corporal punishment, which can be found in "Criminal Law Chronicles".
+The imperial edict replied: "I have received Chen's memorial to establish the feudal state system. It should abide by the ancient regulations, use punishments in accordance with the law, and restore corporal punishment. It also talks about the battle of soldiers in the six states, the methods of serving as officials, etc. From all the articles in the memorial, I know that you are serving the country loyally."
+Please report everything in the future if anything happens.
+In the early years of Yuankang, Liu Yuan followed Sima Yun, the king of Huainan, to enter the court.
+When Yang Jun was about to be executed, Liu Song was stationed in the guard palace. That night, an edict was issued to appoint Liu Song as the Minister of the Three Lords.
+He also wrote a letter to discuss matters related to laws and regulations, and was praised by current commentaries.
+Much later, he was transferred to the Ministry of Civil Affairs and set up a nine-class system. He wanted to make officials less likely to change their positions so that they could test their talents and have clear rewards and punishments.
+At that time, Jia Guo was specialized in government affairs, and officials wanted to be promoted quickly, so this system could not be implemented in the end.
+King Sima Lun of Zhao killed Zhang Hua and cried bitterly.
+When he heard that Zhang Hua's son had escaped, he said happily: Mr. Mao, you still have descendants!
+When Sima Lun's party member Zhang Lin heard about this, he was furious, but he was afraid that Sheng Feng was an upright person and could not assassinate him.
+Sun Xiu and others praised Sima Lun's achievements and believed that Jiuxi should be added, and the officials did not dare to raise objections.
+
+summary:
+summary line 4: In the early Yuankang period, Liu Song followed Sima Yun into court. When Yang Jun was executed, Liu Song guarded the palace and was appointed Minister of the Three Lords. He later transferred to the Ministry of Civil Affairs, establishing a nine-class system to reduce official turnover, but Jia Guo's specialized government prevented implementation. When Sima Lun killed Zhang Hua, Liu Song wept bitterly and rejoiced upon learning Zhang Hua's son had escaped. When Sun Xiu and others praised Sima Lun's achievements and proposed adding Jiuxi, Liu Song opposed it, citing historical precedents. Zhang Lin was furious but spared Liu Song due to Sun Xiu's advice. Liu Song soon died of illness, receiving imperial condolences and gifts.
+
+Chunk 35: 
+original: 
+臣以为宜垂圣恩，及其未没，显加优命。
+时朝廷政乱，竟不能从。
+出为行讨虏护军、平阳太守，崇德化，修学校，表笃行，拔贤能，清简无欲，正身率下，在职三年，弹黜四县。
+弟嶷亡，表去官。
+永康初，赵王伦用为相国左司马，以忧逼成疾而卒，时年四十八。
+家贫，宅宇狭小，无殡敛之地，诏于典客署营丧。
+追赠散骑常侍，谥曰成。
+子式，有美名，官至侍中，咸和初卒。
+史臣曰：子雅束发登朝，竭诚奉国，广陈封建，深中机宜，详辨刑名，该核政体。
+虽文惭华婉，而理归切要。
+游目西京，望贾谊而非远；眷言东国，顾郎顗而有余。
+逮元康之间，贼臣专命，举朝战栗，苟避菹醢；颂以此时，忠鲠不挠，哭张公之非罪，拒赵王之妄锡，虽古遗直，何以尚兹。
+translation: 
+I think we should declare divine grace and give him a gift of recognition before he dies.
+The government was in chaos at the time and ultimately failed to obey.
+Li Chong served as the Protector of the Expeditions and the Prefect of Pingyang. He respected moral education, built schools, commended those who were loyal, and promoted talents. He was honest, frugal and without desires. He set an example for his subordinates. During his three years in office, he impeached and removed officials from four counties.
+After the death of his younger brother Li Yi, he resigned from his official post.
+In the early years of Yongkang, King Sima Lun of Zhao appointed Li Chong as Prime Minister Zuo Sima. He died of illness at the age of forty-eight due to worry.
+The family is poor, the house is small, and there is no place to collect the coffin. In the afternoon, the funeral is held at the Dianke Office.
+As a posthumous gift, he became a regular attendant of Sanqi, and his name was Mi.
+His son's name was Li Shi, who had a good reputation. He reached the rank of servant and died in the early years of Xianhe.
+Shi Chen said: Ziya served as an official in the court when he was young. He devoted his loyalty and efforts to serving the country. He extensively discussed the establishment of feudal states, which was in line with the times. He discussed the names of punishments in detail, and everything he discussed was suitable for the political system.
+Although the words are not gorgeous and graceful, they must be reasonable.
+Compared with the people of the Xijing era, he was not far away from Maiyi; compared with the people of Shu State, he surpassed Lang Chan.
+During the period of Yuankang, the rebellious ministers and thieves were busy with the affairs of the court. The whole court was shocked and everyone was in peace. At this time, Liu Song was still loyal and unyielding. He cried bitterly for Zhang Gong's innocence and refused to make extravagances to the king of Zhao. Even the upright and famous officials in ancient times could not do this.
+
+summary:
+summary line 5: Li Chong, courtesy name Maozeng, was born in Zhongwu, Jiangxia. His father, Li Jing, was governor of Qinzhou. Li Chong was studious and talented, becoming orphaned early and living with his younger brothers, known for his friendship. He discussed the nine-grade system, arguing it was a temporary military measure, not a long-term governance method. He advocated for simpler systems with fewer grades and long-term official positions. He opposed limiting slaves and property, arguing that without restoring the well-field system, such restrictions were impractical. He recommended promoting reclusive talents like Huo Yuan, emphasizing the importance of selecting virtuous people regardless of background. Li Chong served as Protector of Expeditions and Prefect of Pingyang, respecting moral education and promoting talents. After his brother's death, he resigned. He died of illness at age forty-eight, leaving his family poor with no place for his coffin.
+
+Chunk 35: 
+original: 
+臣以为宜垂圣恩，及其未没，显加优命。
+时朝廷政乱，竟不能从。
+出为行讨虏护军、平阳太守，崇德化，修学校，表笃行，拔贤能，清简无欲，正身率下，在职三年，弹黜四县。
+弟嶷亡，表去官。
+永康初，赵王伦用为相国左司马，以忧逼成疾而卒，时年四十八。
+家贫，宅宇狭小，无殡敛之地，诏于典客署营丧。
+追赠散骑常侍，谥曰成。
+子式，有美名，官至侍中，咸和初卒。
+史臣曰：子雅束发登朝，竭诚奉国，广陈封建，深中机宜，详辨刑名，该核政体。
+虽文惭华婉，而理归切要。
+游目西京，望贾谊而非远；眷言东国，顾郎顗而有余。
+逮元康之间，贼臣专命，举朝战栗，苟避菹醢；颂以此时，忠鲠不挠，哭张公之非罪，拒赵王之妄锡，虽古遗直，何以尚兹。
+translation: 
+I think we should declare divine grace and give him a gift of recognition before he dies.
+The government was in chaos at the time and ultimately failed to obey.
+Li Chong served as the Protector of the Expeditions and the Prefect of Pingyang. He respected moral education, built schools, commended those who were loyal, and promoted talents. He was honest, frugal and without desires. He set an example for his subordinates. During his three years in office, he impeached and removed officials from four counties.
+After the death of his younger brother Li Yi, he resigned from his official post.
+In the early years of Yongkang, King Sima Lun of Zhao appointed Li Chong as Prime Minister Zuo Sima. He died of illness at the age of forty-eight due to worry.
+The family is poor, the house is small, and there is no place to collect the coffin. In the afternoon, the funeral is held at the Dianke Office.
+As a posthumous gift, he became a regular attendant of Sanqi, and his name was Mi.
+His son's name was Li Shi, who had a good reputation. He reached the rank of servant and died in the early years of Xianhe.
+Shi Chen said: Ziya served as an official in the court when he was young. He devoted his loyalty and efforts to serving the country. He extensively discussed the establishment of feudal states, which was in line with the times. He discussed the names of punishments in detail, and everything he discussed was suitable for the political system.
+Although the words are not gorgeous and graceful, they must be reasonable.
+Compared with the people of the Xijing era, he was not far away from Maiyi; compared with the people of Shu State, he surpassed Lang Chan.
+During the period of Yuankang, the rebellious ministers and thieves were busy with the affairs of the court. The whole court was shocked and everyone was in peace. At this time, Liu Song was still loyal and unyielding. He cried bitterly for Zhang Gong's innocence and refused to make extravagances to the king of Zhao. Even the upright and famous officials in ancient times could not do this.
+
+summary:
+summary line 6: The historical commentary praised Liu Song for his loyalty, extensive discussions on feudal states, and refusal to compromise with the king of Zhao. Li Chong was commended for his integrity, uprightness, and recommendation of virtuous recluses. Both were considered cornerstones of the country.
+

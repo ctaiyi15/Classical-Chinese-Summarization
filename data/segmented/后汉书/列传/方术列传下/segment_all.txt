@@ -14,8 +14,6 @@ original:
 著书二十八篇，名为《唐子》。
 卒于家。
 公沙穆字文乂，北海胶东人也。
-家贫贱，自为兒童不好戏弄，长习《韩诗》、《公羊春秋》，尤锐思《河》、《洛》推步之术。
-居建成山中，依林阻为室，独宿无侣。
 translation: 
 Tang Tan's biography, Tang Tan's courtesy name is Zichan, a native of Nanchang, Yuzhang.
 When he was young, he traveled to Taixue and studied "Jing's Yi", "Han Shi", and "Yan's Spring and Autumn". He was especially interested in astrology of disasters and aliens.
@@ -31,12 +29,12 @@ According to the memorial, he abandoned his official position and left.
 He wrote twenty-eight chapters called "Tang Zi".
 Died at home.
 Gongshamu's biography, Gongshamu's courtesy name Wengui, was from Jiaodong, Beihai.
-The family is poor and humble. Ever since he was a child, he has not been fond of teasing and playing. When he was older, he studied "Han Shi" and "Gongyang Chunqiu", and especially liked to delve into the magic of "He Luo" to push the steps.
-He lived in the built mountains, built a house near the woods, and stayed alone without any companions.
 
 
 Chunk 1: 
 original: 
+家贫贱，自为兒童不好戏弄，长习《韩诗》、《公羊春秋》，尤锐思《河》、《洛》推步之术。
+居建成山中，依林阻为室，独宿无侣。
 时，暴风震雷，有声于外，呼穆者三，穆不与语。
 有顷，呼者自牖而入，音状甚怪，穆诵经自若，终亦无它妖异，时人奇之。
 后遂隐居东莱山，学者自远而至。
@@ -52,10 +50,9 @@ original:
 乃上没敞所侵官民田地，废其庶子，还立嫡嗣。
 其苍头兒客犯法，皆收考之。
 因苦辞谏敞，敞涕泣为谢，多从其所规。
-迁弘农令。
-县界有螟虫食稼，百姓惶惧。
-穆乃设坛谢曰： 百姓有过，罪穆之由，请以身祷。
 translation: 
+The family is poor and humble. Ever since he was a child, he has not been fond of teasing and playing. When he was older, he studied "Han Shi" and "Gongyang Chunqiu", and especially liked to delve into the magic of "He Luo" to push the steps.
+He lived in the built mountains, built a house near the woods, and stayed alone without any companions.
 At this time, there was a strong storm and thunder, and there were voices calling Mu many times outside, but Mu refused to answer him.
 After a while, the shouter came in through the window, and the shape of the voice was very strange, but Gongshamu recited his sutra as usual, and in the end there was no other strange thing, which made people feel strange at the time.
 Later, he lived in seclusion in Donglai Mountain, and students came from afar.
@@ -71,13 +68,13 @@ I hope Minghou will change the mistakes of the past, repair the future, and seek
 So the superiors confiscated the land that had been occupied by officials and people, deposed his concubine, and established his legitimate son as his heir.
 Their Cangtouer guest broke the law and was arrested and interrogated.
 He also bitterly remonstrated with Liu Chang. Chang wept and thanked him, and listened more to his advice.
-Later it was promoted to Hongnong Order.
-There are borers eating crops in the county boundary, and the people are very scared.
-Gong Shamu then set up an altar to thank him and said: "The people have made mistakes, and Mu's guilt is the root cause. Please pray with yourself."
 
 
 Chunk 2: 
 original: 
+迁弘农令。
+县界有螟虫食稼，百姓惶惧。
+穆乃设坛谢曰： 百姓有过，罪穆之由，请以身祷。
 于是暴雨，不终日，既霁而螟虫自销，百姓称曰神明，永寿元年，霖雨大水，三辅以东莫不湮没。
 穆明晓占候，乃豫告令百姓徙居高地，故弘农人独得免害。
 迁辽东属国都尉，善得吏人欢心。
@@ -89,12 +86,10 @@ original:
 所著《易林》，至今行于世。
 曼少传峻学。
 桓帝时，陇西太守冯绲始拜郡，开绶笥，有两赤蛇分南北走。
-绲令曼筮之，封成，曼曰： 三岁之后，君当为边将，官有东名，当东北行三千里。
-复五年，更为大将军，南征。
-延熹元年，绲出为辽东太守，讨鲜卑，至五年，复拜车骑将军，击武陵蛮贼，皆如占。其余多此类云。
-赵彦者，琅邪人也。
-少有术学。
 translation: 
+Later it was promoted to Hongnong Order.
+There are borers eating crops in the county boundary, and the people are very scared.
+Gong Shamu then set up an altar to thank him and said: "The people have made mistakes, and Mu's guilt is the root cause. Please pray with yourself."
 So there was a heavy rain. After the rain stopped, the borers died on their own, and the people called them gods. In the first year of Yongshou, there was a heavy rain and the floods surged, and all areas east of Sanfu were submerged.
 Gongshamu knew how to divination, so he warned the people to move to high ground, so the Hongnong people were spared.
 Later, he was moved to the position of captain of the vassal state of Liaodong, and he was very popular with the officials and the people.
@@ -106,15 +101,15 @@ He said that he had suffered a serious illness when he was young and had not bee
 His book "Yi Lin" is still popular in the world today.
 Xu Man inherited his grandfather's business when he was young.
 During the reign of Emperor Huan, Feng Zui, the prefect of Longxi, began to pay homage to the county. When he opened his ribbon, two red snakes escaped in the north and south.
-Kui was called Xu Manzhi, and the hexagram was completed. Xu Man said: Three years later, you will be appointed as a border general, with an official name of Dongming, and you will travel three thousand miles northeast.
-In another five years, he will become a general and march south.
-In the first year of Yanxi, Feng Nui came out as the governor of Liaodong to attack Xianbei. In the fifth year, he became a general of chariots and cavalry, and attacked Wuling barbarians, just as the divination said, and many other similar things.
-Zhao Yanchuan, Zhao Yan, was from Langyi.
-When I was young, I had some skills.
 
 
 Chunk 3: 
 original: 
+绲令曼筮之，封成，曼曰： 三岁之后，君当为边将，官有东名，当东北行三千里。
+复五年，更为大将军，南征。
+延熹元年，绲出为辽东太守，讨鲜卑，至五年，复拜车骑将军，击武陵蛮贼，皆如占。其余多此类云。
+赵彦者，琅邪人也。
+少有术学。
 延熹三年，琅邪贼劳丙与太山贼叔孙无忌杀都尉。攻没琅邪属县，残害吏民。
 朝廷以南阳宗资为讨寇中郎将，杖钺将兵，督州郡合讨无忌。
 彦为陈 孤虚 之法，以贼屯在莒，莒有五阳之地，宜发五阳郡兵，从孤击虚以讨之。
@@ -130,10 +125,12 @@ original:
 又说其人既有梓慎、焦、董之识，宜冀圣朝，咨询奇异。
 于是有诏特征，会病终。
 单飏字武宣，山阳湖陆人也。
-以孤特清苦自立，善明天官、算术。
-举孝廉，稍迁太史令，侍中。
-出为汉中太守，公事免。
 translation: 
+Kui was called Xu Manzhi, and the hexagram was completed. Xu Man said: Three years later, you will be appointed as a border general, with an official name of Dongming, and you will travel three thousand miles northeast.
+In another five years, he will become a general and march south.
+In the first year of Yanxi, Feng Nui came out as the governor of Liaodong to attack Xianbei. In the fifth year, he became a general of chariots and cavalry, and attacked Wuling barbarians, just as the divination said, and many other similar things.
+Zhao Yanchuan, Zhao Yan, was from Langyi.
+When I was young, I had some skills.
 In the third year of Yanxi's reign, Langfu thief Lao Bing and Taishan thief Shusun Wuji killed the captain, captured Langfu County, and killed the officials and people.
 The imperial court sent Nanyang Zongzi to serve as the general of Lang and Zhang Yue in the battle against the invaders, to urge the prefectures and counties to jointly attack Wuji.
 Zhao Yan explained to him the method of "Gu Xu". He believed that the thieves were stationed in Ju and that there was a land of Wuyang in Ju. The soldiers of Wuyang County should be mobilized to attack Guxu.
@@ -149,13 +146,13 @@ So I heard about the situation.
 He also said that Fan Zhizhang was a man with the knowledge of Zi Shen, Jiao Yanshou and Dong Zhongshu, so he should assist the Holy Dynasty and consult on some strange phenomena.
 So there was a special edict, and Fan died of illness.
 Shan Yang's biography, Shan Yang's courtesy name is Wuxuan, a native of Shanyang Hulu.
-He lives a lonely and independent life, and knows how to be a heavenly official and arithmetic.
-He was promoted to Xiaolian and soon promoted to Taishi Ling and Shizhong.
-He became the prefect of Hanzhong and was dismissed due to official duties.
 
 
 Chunk 4: 
 original: 
+以孤特清苦自立，善明天官、算术。
+举孝廉，稍迁太史令，侍中。
+出为汉中太守，公事免。
 后拜尚书，卒于官。
 初，熹平末，黄龙见谯，光禄大夫桥玄问飏： 此何祥也？
 飏曰： 其国当有王者兴。
@@ -173,10 +170,10 @@ original:
 中平二年二月，又上封事，克期宫中有灾。
 至日南宫大火。
 迁说江夏太守，公事免，年七十，卒于家。
-董扶字茂安，广汉绵竹人也。
-少游太学，与乡人任安齐名，俱事同郡杨厚，学图谶。
-还家讲授，弟子自远而至。
 translation: 
+He lives a lonely and independent life, and knows how to be a heavenly official and arithmetic.
+He was promoted to Xiaolian and soon promoted to Taishi Ling and Shizhong.
+He became the prefect of Hanzhong and was dismissed due to official duties.
 Later, he became a minister and died in office.
 At first, in the last years of Xiping, Huanglong appeared in Qiao. Qiao Xuan, the doctor of Guanglu, asked Shan Yang: What auspicious sign is this?
 Yang said: The country should have a king rise up.
@@ -194,13 +191,13 @@ The emperor obeyed, and it was just as he said.
 In February of the second year of Zhongping, he went to the imperial court again, saying that there was a disaster in the palace.
 On that day, there was a big fire in Nangong.
 He was promoted to the governor of Jiangxia, and was dismissed due to official business. He died at home at the age of seventy.
-Dong Fuzhuan, whose courtesy name is Mao'an, was born in Mianzhu, Guanghan.
-When he was young, he traveled to Taixue. He was as famous as Ren An, a fellow countryman, and both studied prophecy with Yang Hou from the same county.
-I teach at home, and students come from far away.
 
 
 Chunk 5: 
 original: 
+董扶字茂安，广汉绵竹人也。
+少游太学，与乡人任安齐名，俱事同郡杨厚，学图谶。
+还家讲授，弟子自远而至。
 前后宰府十辟，公车三征，再举贤良方正、博士、有道，皆称疾不就。
 灵帝时，大将军何进荐扶，征拜侍中，甚见器重。
 扶私谓太常刘焉曰： 京师将乱，益州分野有天子气。
@@ -213,16 +210,10 @@ original:
 任安记人之善，忘人之过 云。
 郭玉者，广汉雒人也。
 初，有老父不知何出，常渔钓于涪水，因号涪翁。
-乞食人间，见有疾者，时下针石，辄应时而效，乃著《针经》、《诊脉法》传于世。
-弟子程高，寻求积年，翁乃授之。
-高亦隐迹不仕。
-玉少师事高，学方诊六微之技，阴阳隐侧之术。
-和帝时，为太医丞，多有效应。
-帝奇之，仍试令嬖臣美手腕者与女子杂处帷中，使玉各诊一手，问所疾苦。
-玉曰： 左阳右阴，脉有男女，状若异人。臣疑其故。
-帝叹息称善。
-玉仁爱不矜，虽贫贱厮养，必尽其心力，而医疗贵人，时或不愈。
 translation: 
+Dong Fuzhuan, whose courtesy name is Mao'an, was born in Mianzhu, Guanghan.
+When he was young, he traveled to Taixue. He was as famous as Ren An, a fellow countryman, and both studied prophecy with Yang Hou from the same county.
+I teach at home, and students come from far away.
 He was called up ten times by the Zaifu before and after him, and three times by public transport. He was promoted to be a virtuous and upright man, a doctor, and a wise man, but he was still ill.
 During the reign of Emperor Ling, the general He Jin recommended Dong Fu and made him a servant, and he held him in high esteem.
 Dong Fu privately said to Taichang Liu Yan: There will be chaos in the capital, and there is an emperor's spirit in Yizhou.
@@ -235,6 +226,24 @@ Qin Mi said: Dong Fu rewards small good deeds and demeans small bad deeds.
 Ren'an remembers people's good points and forgets their faults.
 Guo Yuzhuan, Guo Yu, was born in Luo, Guanghan.
 At first, there was an old man who came from nowhere and often fished in Fu River. Everyone called him Fu Weng.
+
+
+Chunk 6: 
+original: 
+乞食人间，见有疾者，时下针石，辄应时而效，乃著《针经》、《诊脉法》传于世。
+弟子程高，寻求积年，翁乃授之。
+高亦隐迹不仕。
+玉少师事高，学方诊六微之技，阴阳隐侧之术。
+和帝时，为太医丞，多有效应。
+帝奇之，仍试令嬖臣美手腕者与女子杂处帷中，使玉各诊一手，问所疾苦。
+玉曰： 左阳右阴，脉有男女，状若异人。臣疑其故。
+帝叹息称善。
+玉仁爱不矜，虽贫贱厮养，必尽其心力，而医疗贵人，时或不愈。
+帝乃令贵人羸服变处，一针即差。
+召玉诘问其状。
+腠理至微，随气用巧，针石之间，毫芒即乖。
+神存于心手之际，可得解而不可得言也。
+translation: 
 The old man often begged people for food. When he met a sick person, he would use needles and stones to treat them, which would produce immediate results. Later, he wrote "Acupuncture Classic" and "Pulse Diagnosis Method" and passed them on to future generations.
 The student Cheng Gao had followed his teacher for many years before the old man taught him the book.
 Cheng Gao also lived in seclusion and did not serve as an official.
@@ -244,14 +253,14 @@ The emperor felt strange. Once, a favored minister with beautiful arms and a wom
 Guo Yu said: There is yang on the left and yin on the right. The pulses are male and female. It looks like a strange person. I suspect there must be a reason.
 The emperor sighed and praised him well.
 Guo Yu was kind-hearted and not arrogant. Even when he was treating poor and humble servants, he would do his best, but when treating noble people, sometimes it would not be effective.
+The emperor asked the nobleman to wear ragged clothes to see a doctor, and the disease was cured with just one injection.
+The emperor called Guo Yu and asked him the reason. Guo Yu said: Medicine is meaning.
+The texture of the skin is very fine, so use it skillfully, and there won't be any mistakes between needles and stones.
+When I treat a disease, I concentrate my energy between my heart and my hands. I can relieve the pain but cannot explain the reason.
 
 
-Chunk 6: 
+Chunk 7: 
 original: 
-帝乃令贵人羸服变处，一针即差。
-召玉诘问其状。
-腠理至微，随气用巧，针石之间，毫芒即乖。
-神存于心手之际，可得解而不可得言也。
 夫贵者处尊高以临臣，臣怀怖慑以承之。
 其为疗也，有四难焉；自用意而不任臣，一难也；将身不谨，二难也；骨节不强，不能使药，三难也；好逸恶劳，四难也。
 针有分寸，时有破漏，重以恐惧之心，加以裁慎之志，臣意且犹不尽，何有于病哉！
@@ -263,11 +272,8 @@ original:
 晓养性之术，年且百岁而犹有壮容，时人以为仙。
 沛相陈珪举孝廉，太尉黄琬辟，皆不就。
 精于方药，处齐不过数种，心识分铢，不假称量，针灸不过数处。
+若疾发结于内，针药所不能及者，乃令先以酒服麻沸散，既醉无所觉，因刳破腹背，抽割积聚。
 translation: 
-The emperor asked the nobleman to wear ragged clothes to see a doctor, and the disease was cured with just one injection.
-The emperor called Guo Yu and asked him the reason. Guo Yu said: Medicine is meaning.
-The texture of the skin is very fine, so use it skillfully, and there won't be any mistakes between needles and stones.
-When I treat a disease, I concentrate my energy between my heart and my hands. I can relieve the pain but cannot explain the reason.
 Those wealthy people in a high position asked me to treat their illnesses. I accepted the task with fear.
 There are four difficulties in treating diseases in this way: the patient makes his own decisions and does not listen to my instructions, which is the first difficulty; the patient does not pay attention to taking care of the body, which is the second difficulty; the patient's joints are not strong and cannot make the medicine effective, which is the third difficulty; the patient is inactive and hates work, which is the fourth difficulty.
 The needle is measured, and sometimes there will be some errors. In addition, I am afraid and cautious. My thoughts are not fully in place. How can I concentrate on the condition?
@@ -279,11 +285,11 @@ He traveled and studied in Xuzhou and became proficient in several scriptures.
 He knew how to cultivate his mind and nature, and he still had the appearance of a man in his fifties. At that time, people thought he was a god.
 Chen Wanggui, the Prime Minister of Pei State, recommended him as Xiaolian, and Taiwei Huang Wan also recommended him, but he did not take up the post.
 Hua Tuo was proficient in prescriptions. He prescribed very few medicines and knew them well, so he didn't need to use a scale to weigh them. He only used acupuncture in a few places.
+If the disease originates from the internal organs and cannot be reached by acupuncture, he would ask the patient to drink Mafei San medicinal wine first. After the patient loses consciousness after anesthesia, he would make an incision on the abdomen or back, cut out the root of the disease and then suture it.
 
 
-Chunk 7: 
+Chunk 8: 
 original: 
-若疾发结于内，针药所不能及者，乃令先以酒服麻沸散，既醉无所觉，因刳破腹背，抽割积聚。
 若在肠胃，则断截湔洗，除去疾秽，既而缝合，傅以神膏，四五日创愈，一月之间皆平复。
 佗尝行道，见有病咽塞者，因语之曰： 向来道隅有卖饼人，萍齑甚酸，可取三升饮之，病自当去。
 即如佗言，立吐一蛇，乃悬于车而候佗。
@@ -302,7 +308,6 @@ original:
 登至期疾动，时佗不在，遂死。
 曹操闻而召佗，常在左右，操积苦头风眩，佗针，随手而差。
 translation: 
-If the disease originates from the internal organs and cannot be reached by acupuncture, he would ask the patient to drink Mafei San medicinal wine first. After the patient loses consciousness after anesthesia, he would make an incision on the abdomen or back, cut out the root of the disease and then suture it.
 If the disease is in the intestines and stomach, the intestines and stomach should be cut open and washed with medicinal water to remove the lesions, then sutured and applied with divine ointment. The wound will heal in four or five days, and the patient will be fully recovered after a month.
 Hua Tuo was walking outside and saw a man with a throat disease. He said to the patient: There is a cake seller on the roadside in front. The water chestnuts he uses are very sour. Ask him for three liters and drink it, and the disease will be cured.
 The patient did as he was told. After drinking it, he immediately vomited out a snake and hung the snake on the car to wait for Hua Tuo to come.
@@ -322,7 +327,7 @@ Three years later, Chen Deng's illness relapsed and Hua Tuo died.
 When Cao Cao heard these legends, he summoned Hua Tuo and kept him by his side. Cao Cao had been suffering from head wind for a long time. Hua Tuo gave him acupuncture and he recovered immediately.
 
 
-Chunk 8: 
+Chunk 9: 
 original: 
 有李将军者，妻病，呼佗视脉。佗曰： 伤身而胎不去。
 将军言间实伤身，胎已去矣。
@@ -340,17 +345,6 @@ original:
 为人性恶，难得意，且耻以医见业，又去家思归，乃就操求还取方，因托妻疾，数期不反。
 操累书呼之，又敕郡县发遣，佗恃能厌事，独不肯至。操大怒，使人廉之，知妻诈疾，乃收付狱讯，考验首服。
 荀彧请曰： 佗方术实工，人命所悬，宜加全宥。
-操不从，竟杀之。
-佗临死，出一卷书与狱吏，曰： 此可以活人。
-吏畏法不敢受，佗不强与，索火烧之。
-初，军吏李成苦咳，昼夜不寐。
-佗以为肠痈，与散两钱服之，即吐二升脓血，于此渐愈。
-乃戒之曰： 后十八岁，疾当发动，若不得此药，不可差也。
-复分散与之，后五六岁，有里人如成先病，请药甚急，成愍而与之，乃故往谯更从佗求，适值见收，意不忍言。
-后十八年，成病发，无药而死。
-广陵吴普、彭城樊阿，皆从佗学。
-普依准佗疗，多所全济。
-佗语普曰： 人体欲得劳动，但不当使极耳。
 translation: 
 General Li's wife was ill and asked Hua Tuo to check her pulse. Tuo said: "Her body is injured but the fetus has not been removed."
 The general said: The body is indeed injured and the fetus has been removed.
@@ -368,6 +362,31 @@ Tu's unique medical skills are all like this.
 Hua Tuo had a bad temper and was very unhappy. He felt ashamed of practicing medicine as a profession, and he had been away from home for too long and wanted to go back. So he asked Cao Cao for leave, saying that he was going back to get medicine. When he arrived in Beijing, he said that his wife was sick and would not come back after the expiration date.
 Cao Cao wrote to him many times and ordered the counties to urge him. Hua Tuo refused to reply because of his ability. Cao Cao was furious and sent someone to inquire. He learned that Hua Tuo's wife was not sick, so he arrested Hua Tuo and imprisoned him. After interrogation, Hua Tuo admitted his guilt.
 Xun Yu asked Cao Cao: Hua Tuo has excellent medical skills and can save lives, so he should be forgiven.
+
+
+Chunk 10: 
+original: 
+操不从，竟杀之。
+佗临死，出一卷书与狱吏，曰： 此可以活人。
+吏畏法不敢受，佗不强与，索火烧之。
+初，军吏李成苦咳，昼夜不寐。
+佗以为肠痈，与散两钱服之，即吐二升脓血，于此渐愈。
+乃戒之曰： 后十八岁，疾当发动，若不得此药，不可差也。
+复分散与之，后五六岁，有里人如成先病，请药甚急，成愍而与之，乃故往谯更从佗求，适值见收，意不忍言。
+后十八年，成病发，无药而死。
+广陵吴普、彭城樊阿，皆从佗学。
+普依准佗疗，多所全济。
+佗语普曰： 人体欲得劳动，但不当使极耳。
+动摇则谷气得销，血脉流通，病不得生，譬犹户枢，终不朽也。
+是以古之仙者，为导引之事，熊经鸱顾，引挽腰体，动诸关节，以求难老。
+吾有一术，名五禽之戏：一曰虎，二曰鹿，三曰熊，四曰猿，五曰鸟。
+亦以除疾，兼利蹄足，以当导引。
+体有不快，起作一禽之戏，恰而汗出，因以著粉，身体轻便而欲食。
+普施行之，年九十余，耳目聪明，齿牙完坚。
+阿善针术。
+凡医咸言背及匈藏之间不可妄针，针之不可过四分，而阿针背入一二寸，巨阙匈藏乃五六寸，而病皆瘳。
+鲁女生数说显宗时事，甚明了，议者疑其时人也。
+translation: 
 Cao Cao refused to listen and finally killed Hua Tuo.
 Before Hua Tuo died, he took out a medical book and gave it to the jailer, saying: "This can save the patient."
 The jailer was afraid of being implicated and did not dare to accept it. Hua Tuo did not force himself and burned the book with fire.
@@ -379,25 +398,6 @@ Eighteen years later, Li Cheng became ill and couldn't find any medicine, so he 
 Wu Pu in Guangling and Fan A in Pengcheng both studied medicine from Hua Tuo.
 Wu Pu followed Hua Tuo's method and saved many people.
 Hua Tuo said to Wu Pu: The human body should exercise regularly, but not excessively.
-
-
-Chunk 9: 
-original: 
-动摇则谷气得销，血脉流通，病不得生，譬犹户枢，终不朽也。
-是以古之仙者，为导引之事，熊经鸱顾，引挽腰体，动诸关节，以求难老。
-吾有一术，名五禽之戏：一曰虎，二曰鹿，三曰熊，四曰猿，五曰鸟。
-亦以除疾，兼利蹄足，以当导引。
-体有不快，起作一禽之戏，恰而汗出，因以著粉，身体轻便而欲食。
-普施行之，年九十余，耳目聪明，齿牙完坚。
-阿善针术。
-凡医咸言背及匈藏之间不可妄针，针之不可过四分，而阿针背入一二寸，巨阙匈藏乃五六寸，而病皆瘳。
-鲁女生数说显宗时事，甚明了，议者疑其时人也。
-董卓乱后，莫知所在。
-徐登者，闽中人也。本女子，化为丈夫。
-善为巫术。
-又赵炳，字公阿，东阳人，能为越方。
-时遭兵乱，疾疫大起，二人遇于乌伤溪水之上，遂结言约，共以其术疗病。
-translation: 
 More exercise can help digest food, circulate blood, and prevent diseases. Like a door hinge, it rotates frequently and is not prone to decay.
 Therefore, ancient gods often guided the human body to move, imitating the movements of a bear owl, to move the waist, head, and joints to delay aging.
 I have a method called Wu Qin Xi. Five animals: the first is tiger, the second is deer, the third is bear, the fourth is monkey, and the fifth is bird.
@@ -407,15 +407,15 @@ Wu Pu did as he was told. He was over ninety years old, had smart eyes and ears,
 Fan Ah knows acupuncture.
 Doctors generally say that needles should not be used indiscriminately on the back and chest, and even if the needles are used, they should not exceed four points. However, Fan A's needles penetrated one or two inches into the back, and five or six inches into the chest, and all the diseases were cured.
 Fan A asked Hua Tuo for a prescription that would be beneficial for long-term use. Hua Tuo gave him Lacquer Leaf Qingnian Powder, which is one bucket of lacquer leaf chips and fourteen taels of Qingnian, and used this as a standard. It is said that if you believe it for a long time, it can remove three kinds of worms, benefit the five internal organs, make the body lose weight, and prevent the hair from becoming gray.
-Fan A obeyed and lived for more than a hundred years.
-Xu Deng's biography, Xu Deng, a native of Fujian, was originally a woman and became a husband.
-Good at witchcraft.
-There is also Zhao Bing, named Gong'a, who is from Dongyang and can serve Yue Fang.
-At that time, there was a military turmoil and an epidemic broke out. The two met on the Wushang River and made a pact to share their magic to cure diseases.
 
 
-Chunk 10: 
+Chunk 11: 
 original: 
+董卓乱后，莫知所在。
+徐登者，闽中人也。本女子，化为丈夫。
+善为巫术。
+又赵炳，字公阿，东阳人，能为越方。
+时遭兵乱，疾疫大起，二人遇于乌伤溪水之上，遂结言约，共以其术疗病。
 各相谓曰： 今既同志，且可各试所能。
 登乃禁溪水，水为不流；炳复次禁枯树，树即生荑，二人相视而笑，共行其道焉。
 登年长，炳师事之。
@@ -427,11 +427,12 @@ original:
 章安令恶其惑众，收杀之。
 人为立祠室于永康，至今蚊蚋不能入也。
 费长房者，汝南人也。曾为市掾。
-市中有老翁卖药，悬一壶于肆头，及市罢，辄跳入壶中。
-市人莫之见，唯长房于楼上睹之，异焉，因往再拜奉酒脯。
-翁知长房之意其神也，谓之曰： 子明日可更来。
-长房旦日复诣翁，翁乃与俱入壶中。
 translation: 
+Fan A obeyed and lived for more than a hundred years.
+Xu Deng's biography, Xu Deng, a native of Fujian, was originally a woman and became a husband.
+Good at witchcraft.
+There is also Zhao Bing, named Gong'a, who is from Dongyang and can serve Yue Fang.
+At that time, there was a military turmoil and an epidemic broke out. The two met on the Wushang River and made a pact to share their magic to cure diseases.
 They discussed with each other: Now that we are comrades, we can each try our best for the time being.
 Xu Deng then banned the stream, and the water stopped flowing; Zhao Bing then banned the withered tree, and the tree sprouted immediately. The two looked at each other and smiled, and practiced their method together.
 Xu Deng was a little older, so Zhao Bing treated him as his teacher.
@@ -443,14 +444,14 @@ I once went to the river to ask for a crossing. The boatman didn't allow it, so 
 The magistrate of Zhang'an was disgusted that he used sorcery to confuse people, so he was arrested and killed.
 The people built a temple for him in Yongkang, and now no mosquitoes can enter the temple.
 Fei Changfang was passed down by Fei Changfang, who was from Runan and once served as a city official.
-There was an old man selling medicine in the city. He hung a pot in front of the shop. When the sale was completed, he jumped into the pot without anyone seeing him.
-Only the long house was seen upstairs, which was strange. So he went to see the old man with wine and dried meat.
-The old man knew that Changfang came because of his own magic, so he said to Changfang: You can come again tomorrow.
-The eldest son went to the old man again at dawn the next day, and the old man took the eldest son into the pot together.
 
 
-Chunk 11: 
+Chunk 12: 
 original: 
+市中有老翁卖药，悬一壶于肆头，及市罢，辄跳入壶中。
+市人莫之见，唯长房于楼上睹之，异焉，因往再拜奉酒脯。
+翁知长房之意其神也，谓之曰： 子明日可更来。
+长房旦日复诣翁，翁乃与俱入壶中。
 唯见玉堂严丽，旨酒甘肴，盈衍其中，共饮毕而出。
 翁约不听与人言之。
 后乃就楼上候长房曰： 我神仙之人，以过见责，今事毕当去，子宁能相随乎？
@@ -460,15 +461,11 @@ original:
 视器如一升许，而二人饮之终日不尽。
 长房遂欲求道，而顾家人为忧。
 翁乃断一青竹，度与长房身齐，使悬之舍后。
-家人见之，即长房形也，以为缢死，大小惊号，遂殡葬之。
-长房立其傍，而莫之见也。
-于是遂随从入深山，践荆棘于群虎之中，留使独处，长房不恐。
-又卧于空室，以朽索悬万斤石于心上，众蛇竞来啮索且断，长房亦不移。
-翁还，抚之曰： 子可教也。
-复使食粪，粪中有三虫，臭秽特甚，长房意恶之。
-翁曰： 子几得道，恨于此不成，如何！
-长房辞归，翁与一竹杖，曰： 骑此任所之，则自至矣。
 translation: 
+There was an old man selling medicine in the city. He hung a pot in front of the shop. When the sale was completed, he jumped into the pot without anyone seeing him.
+Only the long house was seen upstairs, which was strange. So he went to see the old man with wine and dried meat.
+The old man knew that Changfang came because of his own magic, so he said to Changfang: You can come again tomorrow.
+The eldest son went to the old man again at dawn the next day, and the old man took the eldest son into the pot together.
 I saw that the jade hall in the pot was solemn and gorgeous, full of fine wine and delicious food. The two of them drank the wine together before coming out.
 The old man asked him not to talk about this matter with others.
 Later, the old man went upstairs to wait for the elder and said: I am a god, and I was punished because I made a mistake. Now that the matter is over, I should go back. Can you go with me?
@@ -478,18 +475,18 @@ The old man heard it, went downstairs with a smile, and lifted it up with one fi
 It looked like the container of wine only held one liter, but the two of them couldn't finish it after drinking it all day.
 The eldest son wanted to become a god, but he was afraid that his family would be anxious.
 The old man cut a piece of green bamboo, which was probably equal to the height of the eldest son, and asked the eldest son to hang the bamboo behind the house.
-The family members saw the image of the eldest son and thought that the eldest son had hanged himself. The whole family cried in surprise and buried Qingzhu.
-In fact, the elder was standing nearby, and the family did not notice it.
-From then on, he followed the old man to the deep mountains, stepped on thorns, and entered among the tigers. The old man asked the chief to stay alone, but the chief was not afraid at all.
-He also asked the chief to sleep in an empty room, and hung a stone weighing ten thousand kilograms above his heart with a rotten rope. Many snakes came to bite the rope, and the rope was about to break, but the chief did not move.
-The old man came back, caressed the eldest son and said: "You can be educated."
-He also asked the eldest son to eat feces. There were three kinds of insects in the feces, which was smelly and dirty. The eldest son felt disgusted.
-The old man said: You are almost enlightened, but unfortunately you have not passed this level. What should you do?
-The elder said goodbye to the old man. The old man gave him a bamboo stick and said, "You ride on it and let it run around, and you will get home naturally."
 
 
-Chunk 12: 
+Chunk 13: 
 original: 
+家人见之，即长房形也，以为缢死，大小惊号，遂殡葬之。
+长房立其傍，而莫之见也。
+于是遂随从入深山，践荆棘于群虎之中，留使独处，长房不恐。
+又卧于空室，以朽索悬万斤石于心上，众蛇竞来啮索且断，长房亦不移。
+翁还，抚之曰： 子可教也。
+复使食粪，粪中有三虫，臭秽特甚，长房意恶之。
+翁曰： 子几得道，恨于此不成，如何！
+长房辞归，翁与一竹杖，曰： 骑此任所之，则自至矣。
 既至，可以杖投葛陂中也。
 又为作一符，曰： 以此主地上鬼神。
 长房乘杖，须臾来归，自谓去家适经旬日，而已十余年矣。
@@ -498,6 +495,27 @@ original:
 长房曰： 往日所葬，但竹杖耳。
 乃发冢剖棺，杖犹存焉。
 遂能医疗众病，鞭笞百鬼，及驱使社公。
+translation: 
+The family members saw the image of the eldest son and thought that the eldest son had hanged himself. The whole family cried in surprise and buried Qingzhu.
+In fact, the elder was standing nearby, and the family did not notice it.
+From then on, he followed the old man to the deep mountains, stepped on thorns, and entered among the tigers. The old man asked the chief to stay alone, but the chief was not afraid at all.
+He also asked the chief to sleep in an empty room, and hung a stone weighing ten thousand kilograms above his heart with a rotten rope. Many snakes came to bite the rope, and the rope was about to break, but the chief did not move.
+The old man came back, caressed the eldest son and said: "You can be educated."
+He also asked the eldest son to eat feces. There were three kinds of insects in the feces, which was smelly and dirty. The eldest son felt disgusted.
+The old man said: You are almost enlightened, but unfortunately you have not passed this level. What should you do?
+The elder said goodbye to the old man. The old man gave him a bamboo stick and said, "You ride on it and let it run around, and you will get home naturally."
+After you get home, you can throw the bamboo stick into Gepi.
+Then he drew a talisman for Changfang and said: With this, you can dominate the ghosts and gods on the earth.
+Changfang rode his bamboo horse and arrived home soon. He thought it had been ten days since he left home, but he didn't know that more than ten years had passed.
+So he threw the bamboo stick into the pond and it turned into a dragon.
+His family said he had been dead for a long time and did not believe he could come back alive.
+The chief said: It was not me who was buried before, but a bamboo stick!
+So they asked people to dig the grave and open the coffin, but the staff and sticks were still there.
+From then on, Changfang could cure people of all diseases, drive away ghosts with a whip, and dispatch the father-in-law of the land.
+
+
+Chunk 14: 
+original: 
 或在它坐，独自恚怒，人问其故，曰： 吾责鬼魅之犯法者耳。
 汝南岁岁常有魅，伪作太守章服、诣府门椎鼓者，郡中患之。
 时魅适来，而逢长房谒府君，惶惧不得退，便前解衣冠，叩头乞活。
@@ -508,15 +526,9 @@ original:
 后东海君来见葛陂君，因淫其夫人，于是长房劾系之三年，而东海大旱。
 长房至海上，见其人请雨，乃谓之曰： 东海君有罪，吾前系于葛陂，今方出之，使作雨也。
 于是雨立注。
+长房曾与人共行，见一书生黄巾被裘，无鞍骑马，下而叩头，长房曰： 还它马，赦汝死罪。
+人问其故，长房曰： 此狸也，盗社公马耳。
 translation: 
-After you get home, you can throw the bamboo stick into Gepi.
-Then he drew a talisman for Changfang and said: With this, you can dominate the ghosts and gods on the earth.
-Changfang rode his bamboo horse and arrived home soon. He thought it had been ten days since he left home, but he didn't know that more than ten years had passed.
-So he threw the bamboo stick into the pond and it turned into a dragon.
-His family said he had been dead for a long time and did not believe he could come back alive.
-The chief said: It was not me who was buried before, but a bamboo stick!
-So they asked people to dig the grave and open the coffin, but the staff and sticks were still there.
-From then on, Changfang could cure people of all diseases, drive away ghosts with a whip, and dispatch the father-in-law of the land.
 Sometimes he would sit alone and lose his temper. When others asked him why, he would say: I am interrogating a criminal who committed a crime!
 Runan is haunted by ghosts every year. Some ghosts pretend to be governors and come to the gate to play drums, which scares everyone in the county.
 One time, when the ghost just arrived, he met the head of the house to pay homage to the Lord. The ghost was frightened and could not leave for a while, so he stepped forward and took off his clothes, kowtowed and begged for mercy.
@@ -527,12 +539,12 @@ The ghost kowtowed and shed tears, stood by the pond with the letter in his hand
 Later, Lord Donghai came to see Lord Gebei and committed adultery with his wife, so the head of the house locked up Lord Donghai for three years. A severe drought occurred in the East China Sea.
 When the eldest brother arrived at the seaside, he saw many people praying for rain, so he said to everyone: "The dragon king of the East China Sea is guilty. I used to shut him up in Gebei, but now he lets him come out to make rain."
 Then it rained heavily.
+The eldest son once went out with others and saw a scholar wearing a yellow scarf and a sheep's fur riding a saddleless horse. He came down and kowtowed to the eldest son. The chief said: Return the horse to others, and you will be spared the death penalty.
+When others asked the reason, the chief said: "This is a fox stealing the land father-in-law's horse."
 
 
-Chunk 13: 
+Chunk 15: 
 original: 
-长房曾与人共行，见一书生黄巾被裘，无鞍骑马，下而叩头，长房曰： 还它马，赦汝死罪。
-人问其故，长房曰： 此狸也，盗社公马耳。
 又尝坐客，而使至宛市鲊，须臾还，乃饭。
 或一日之间，人见其在千里之外者数处焉。
 后失其符，为众鬼所杀。
@@ -549,8 +561,6 @@ original:
 子训曰： 乃尔乎？
 方安坐饭，食毕，徐出以杖扣之，驴应声奋起，行步如初，即复进道。
 translation: 
-The eldest son once went out with others and saw a scholar wearing a yellow scarf and a sheep's fur riding a saddleless horse. He came down and kowtowed to the eldest son. The chief said: Return the horse to others, and you will be spared the death penalty.
-When others asked the reason, the chief said: "This is a fox stealing the land father-in-law's horse."
 One time, there was a visitor at home. He sent someone to Wan City to buy fish and fish, and he came back in a while, just in time for dinner.
 Sometimes he was seen several times in one day, thousands of miles away.
 Later, Changfang's talisman was lost, and Changfang was killed by ghosts.
@@ -568,7 +578,7 @@ Zi Xun said: Is that so?
 He was sitting down to eat. After the meal, he slowly came out and beat him with his stick. The donkey got up in response to the sound and walked as before, and could walk on the road again.
 
 
-Chunk 14: 
+Chunk 16: 
 original: 
 其追逐观者常有千数。
 既到京师，公卿以下候之者，坐上恒数百人，皆为设酒脯，终日不匮。
@@ -584,9 +594,6 @@ original:
 诸好事者，自远而至，就根学道，太守史祈以根为妖妄，乃收执诣郡，数之曰： 汝有何术，而诬惑百姓？若果有神，可显一验事。不尔，立死矣。
 根曰： 实无它异，颇能令人见鬼耳。
 祈曰： 促召之，使太守目睹，尔乃为明。
-根于是左顾而啸，有顷，祈之亡父祖近亲数十人，皆反缚在前，向根叩头曰： 小兒无状，分当万坐。
-顾而叱祈曰： 汝为子孙，不能有益先人，而反累辱亡灵！可叩头为吾陈谢。
-祈惊惧悲哀，顿首流血，请自甘罪坐。根嘿而不应，忽然俱去，不知在所。
 translation: 
 There are often thousands of people following to watch the fun.
 He has arrived in the capital, and there are often hundreds of people waiting for him, including ministers and ministers. They have arranged food and drinks for them, and there is no shortage of them all day long.
@@ -602,13 +609,13 @@ Live in seclusion in Songshan Mountain.
 Some good people came from far away to learn Taoism from him. The prefect Shi Qi thought that Liu Gen was a monster, so he arrested him and sent him to the county. He scolded him and said: "What kind of magic do you have to deceive the people? If there is a god, it can be fulfilled. Otherwise, you will be executed immediately."
 Liu Gen said: There is really no other magic that can make people see ghosts.
 Shi Qi said: Call him in quickly and let the prefect see it in person, so that you can understand.
-Liu Gen then looked back to the left and let out a loud roar. After a while, Shi Qi's dead father and dozens of close relatives of his ancestors all walked forward with their hands tied behind their backs, kowtowed to Liu Gen and said: "This kid is rude and deserves death."
-The ghosts turned around and scolded Shi and prayed: "As descendants, you cannot benefit our ancestors, but instead bring humiliation to the spirits of the dead. You can kowtow and thank us."
-Shi Qi was frightened and afraid of sorrow, so he kowtowed and begged to suffer the consequences, but Liu Genhe refused and suddenly left together, unknown to where.
 
 
-Chunk 15: 
+Chunk 17: 
 original: 
+根于是左顾而啸，有顷，祈之亡父祖近亲数十人，皆反缚在前，向根叩头曰： 小兒无状，分当万坐。
+顾而叱祈曰： 汝为子孙，不能有益先人，而反累辱亡灵！可叩头为吾陈谢。
+祈惊惧悲哀，顿首流血，请自甘罪坐。根嘿而不应，忽然俱去，不知在所。
 左慈字元放，庐江人也。
 少有神道。
 尝在司空曹操坐，操从容顾众宾曰： 今日高会，珍羞略备，所少吴松江鲈鱼耳。
@@ -622,11 +629,10 @@ original:
 放曰： 亦可得也。
 操恐其近即所取，因曰： 吾前遣人到蜀买锦，可过敕使者，增市二端。
 语顷，即得姜还，并获操使报命。
-后操使蜀反，验问增锦之状及时日早晚，若符契焉。
-后操出近郊，士大夫从者百许人，慈乃为赍酒一升，脯一斤，手自斟酌，百官莫不醉饱。
-操怪之，使寻其故，行视诸垆，悉亡其酒脯矣。
-操怀不喜，因坐上收，欲杀之，慈乃却入壁中，霍然不知所在。
 translation: 
+Liu Gen then looked back to the left and let out a loud roar. After a while, Shi Qi's dead father and dozens of close relatives of his ancestors all walked forward with their hands tied behind their backs, kowtowed to Liu Gen and said: "This kid is rude and deserves death."
+The ghosts turned around and scolded Shi and prayed: "As descendants, you cannot benefit our ancestors, but instead bring humiliation to the spirits of the dead. You can kowtow and thank us."
+Shi Qi was frightened and afraid of sorrow, so he kowtowed and begged to suffer the consequences, but Liu Genhe refused and suddenly left together, unknown to where.
 Zuo Ci Zhuan, Zuo Ci, courtesy name Yuanfang, was from Lujiang.
 He received Shinto at a young age.
 I was once a guest at Cao Cao's place in Sikong. Cao Cao said to the guests calmly: "Today is a rare event. We have prepared all kinds of delicacies and vegetables. The only thing missing is the seabass from Wu Songjiang."
@@ -640,14 +646,14 @@ Cao Cao said again: "The fish has been obtained, but it is a pity that there is 
 Yuan Fang said: This can also be done.
 Cao Cao was afraid that he would find ginger nearby, so he said: I sent someone to Sichuan to purchase silk and satin last time. Please inform him to buy two more pieces.
 As soon as he finished speaking, Jiang bought it back and received a reply from the envoy sent by Cao Cao.
-Later, the messenger came back and asked him about the circumstances and time of buying silk and satin, and he was absolutely right.
-Later, Cao Cao traveled to the suburbs, and there were more than a hundred scholar-officials following him. Zuo Ci took a liter of wine and a pound of dried meat and poured wine for everyone with his own hands. All the officials were drunk and full.
-Cao Cao felt strange and asked people to investigate the reason. They checked the taverns and found that the wine and dried meat were missing.
-Cao Cao was very unhappy, so he imprisoned Zuo Ci on some pretext and wanted to kill him. Zuo Ci fled into the wall and suddenly couldn't see where he was.
 
 
-Chunk 16: 
+Chunk 18: 
 original: 
+后操使蜀反，验问增锦之状及时日早晚，若符契焉。
+后操出近郊，士大夫从者百许人，慈乃为赍酒一升，脯一斤，手自斟酌，百官莫不醉饱。
+操怪之，使寻其故，行视诸垆，悉亡其酒脯矣。
+操怀不喜，因坐上收，欲杀之，慈乃却入壁中，霍然不知所在。
 或见于市者，又捕之，而市人皆变形与慈同，莫知谁是。
 后人逢慈于阳城山头，因复逐之，遂入走羊群。
 操知不可得，乃令就羊中告之曰： 不复相杀，本试君术耳。
@@ -655,6 +661,10 @@ original:
 即竞往赴之，而群羊数百皆变为羝，并屈前膝人立，云 遽如许 ，遂莫知所取焉。
 不探精远，歇感灵效？
 translation: 
+Later, the messenger came back and asked him about the circumstances and time of buying silk and satin, and he was absolutely right.
+Later, Cao Cao traveled to the suburbs, and there were more than a hundred scholar-officials following him. Zuo Ci took a liter of wine and a pound of dried meat and poured wine for everyone with his own hands. All the officials were drunk and full.
+Cao Cao felt strange and asked people to investigate the reason. They checked the taverns and found that the wine and dried meat were missing.
+Cao Cao was very unhappy, so he imprisoned Zuo Ci on some pretext and wanted to kill him. Zuo Ci fled into the wall and suddenly couldn't see where he was.
 Someone found him in the market and sent people to catch him, but everyone in the city had the same image as Zuo Ci, and they didn't know who Zuo Ci was.
 Later, someone encountered Zuo Ci on the top of Yangcheng Mountain and sent people to chase him. Zuo Ci fled into the sheep.
 Cao Cao knew that he could not find Zuo Ci, so he sent someone to the sheep to tell Zuo Ci: "I won't kill you anymore, I'm just testing your skills."

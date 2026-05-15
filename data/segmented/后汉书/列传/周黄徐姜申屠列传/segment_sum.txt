@@ -1,4 +1,4 @@
-Summary uses chunk [4, 4, 1, 3, 4, 5]
+Summary uses chunk [4, 3, 1, 3, 4, 6]
 
 Chunk 4: 
 original: 
@@ -18,16 +18,6 @@ original:
 既至郡中，见肱无衣服，怪问其故，肱托以它辞，终不言盗。
 盗闻而感悔，后乃就精庐，求见征君。
 肱与相见，皆叩头谢罪，而还所略物。
-肱不受，劳以酒食而遣之。
-后与徐稺俱征，不至。
-桓帝乃下彭城使画工图其形状。
-肱卧于幽暗，以被韬面，言患眩疾，不欲出风。
-工竟不得见之。
-中常侍曹节等专执朝事，新诛太傅陈蕃、大将军窦武，欲借宠贤德，以释众望，乃白征肱为太守。
-肱得诏，乃私告其友曰： 吾以虚获实，遂藉身价。
-明明在上，犹当固其本志，况今政在阉竖，夫何为哉！
-乃隐身遁命，远浮海滨。
-再以玄纁聘，不就。
 translation: 
 Everyone was surprised and didn't know the reason.
 Lin Zong said: This must be Xu Ruzi, a scholar from Nanzhou. "Poetry" does not say: A bunch of cud is born, and the person is like jade.
@@ -45,124 +35,18 @@ Jiang Gong fought with his brothers to die, so the thieves let them go and only 
 When he arrived at the county, he saw that Gong had no clothes and asked strangely why. Jiang Gong asked him to explain, but never told him about the robber.
 The robber was moved and regretted when he heard this, and later went to the monastery to ask for an audience with Zhengjun.
 When Jiang Gong met them, they all kowtowed to apologize and returned the plundered property.
-Jiang Gong didn't accept it, rewarded them with wine and food and asked them to leave quickly.
-Later, Jiang Gong and Xu Zhu were both recruited and refused to go.
-Emperor Huan then issued an edict to Pengcheng to have the painter draw his shape.
-Jiang Gong lay in a dark place and covered his face with a quilt, saying that he was suffering from dizziness and could not blow the wind.
-The painter could not see him.
-Zhongchang Shi Cao Jie and others were in charge of court affairs. They had just killed Taifu Chen Fan and General Dou Wu. They wanted to favor the virtuous and make everyone feel at ease, so they called Jiang Gong to be the prefect.
-Jiang Gong got the edict and told his friends privately: "I used falsehood to gain truth, so my reputation is very high."
-It is clear that the superiors should stick to their original ambitions, not to mention that now that the political power is in the hands of eunuchs, what can they do?
-So he became invisible and fled as far as the seaside.
-If the imperial court hires Xuan Jinxun again, it won't work.
 
 summary:
-summary line 0: The text presents biographies of several virtuous men from the Later Han period, emphasizing their moral integrity, reclusiveness, and resistance to officialdom.
-
-Chunk 4: 
-original: 
-众怪，不知其故。
-李昙字云，少孤，继母严酷，昙事之愈谨，为乡里所称法。
-养亲行道，终身不仕。
-姜肱字伯淮，彭城广戚人也。
-家世名族。
-肱与二弟仲海、季江，俱以孝行著闻。
-其友爱天至，常共卧起。
-及各娶妻，兄弟相恋，不能别寝，以系嗣当立，乃递往就室。
-肱博通《五经》，兼明星纬，士之远来就学者三千余人。
-诸公争加辟命，皆不就。
-二弟名声相次，亦不应征聘，时人慕之。
-肱尝与季江谒郡，夜于道遇盗，欲杀之。
-肱兄弟更相争死，贼遂两释焉，但掠夺衣资而已。
-既至郡中，见肱无衣服，怪问其故，肱托以它辞，终不言盗。
-盗闻而感悔，后乃就精庐，求见征君。
-肱与相见，皆叩头谢罪，而还所略物。
-肱不受，劳以酒食而遣之。
-后与徐稺俱征，不至。
-桓帝乃下彭城使画工图其形状。
-肱卧于幽暗，以被韬面，言患眩疾，不欲出风。
-工竟不得见之。
-中常侍曹节等专执朝事，新诛太傅陈蕃、大将军窦武，欲借宠贤德，以释众望，乃白征肱为太守。
-肱得诏，乃私告其友曰： 吾以虚获实，遂藉身价。
-明明在上，犹当固其本志，况今政在阉竖，夫何为哉！
-乃隐身遁命，远浮海滨。
-再以玄纁聘，不就。
-translation: 
-Everyone was surprised and didn't know the reason.
-Lin Zong said: This must be Xu Ruzi, a scholar from Nanzhou. "Poetry" does not say: A bunch of cud is born, and the person is like jade.
-I don't have the moral character to bear it.
-In the early years of Emperor Ling's reign, he wanted to use Pu Lun to hire Xu Zhen, but he happened to be dead at the age of seventy-two. ◆Jiang Gong's biography, Jiang Gong's courtesy name is Bohuai, and he was born in Guangqi, Pengcheng.
-Famous family.
-Hu and his younger brothers Zhonghai and Ji Jiang are both famous for their filial piety.
-They have friendly natures and often lie down together.
-When they each married a wife and the brothers fell in love and couldn't sleep separately, because they were heirs, they went to live in each room one by one.
-Jiang Gongbo was a master of the Five Classics and the study of Xingwei. More than 3,000 people came to study from afar.
-All the princes rushed to invite him, but none of them took office.
-The second brother was of inferior reputation and should not be recruited. People admired them very much at that time.
-Jiang Gong once went to visit the county officials with his younger brother Ji Jiang. They encountered bandits on the road and wanted to kill them.
-Jiang Gong fought with his brothers to die, so the thieves let them go and only robbed them of clothes and materials.
-When he arrived at the county, he saw that Gong had no clothes and asked strangely why. Jiang Gong asked him to explain, but never told him about the robber.
-The robber was moved and regretted when he heard this, and later went to the monastery to ask for an audience with Zhengjun.
-When Jiang Gong met them, they all kowtowed to apologize and returned the plundered property.
-Jiang Gong didn't accept it, rewarded them with wine and food and asked them to leave quickly.
-Later, Jiang Gong and Xu Zhu were both recruited and refused to go.
-Emperor Huan then issued an edict to Pengcheng to have the painter draw his shape.
-Jiang Gong lay in a dark place and covered his face with a quilt, saying that he was suffering from dizziness and could not blow the wind.
-The painter could not see him.
-Zhongchang Shi Cao Jie and others were in charge of court affairs. They had just killed Taifu Chen Fan and General Dou Wu. They wanted to favor the virtuous and make everyone feel at ease, so they called Jiang Gong to be the prefect.
-Jiang Gong got the edict and told his friends privately: "I used falsehood to gain truth, so my reputation is very high."
-It is clear that the superiors should stick to their original ambitions, not to mention that now that the political power is in the hands of eunuchs, what can they do?
-So he became invisible and fled as far as the seaside.
-If the imperial court hires Xuan Jinxun again, it won't work.
-
-summary:
-summary line 1: **Zhou Xie**, from Runan, was born with a disfigured face that his mother wanted to abandon, but his father kept him, foreseeing his future prosperity. He was a precocious child, mastering classics like the *Book of Songs* and *Analects* by age ten, and later specializing in the *Book of Rites* and *Book of Changes*. He lived self-sufficiently, farming and fishing, and refused to eat what he did not produce. Despite being recommended for office multiple times, he feigned illness to avoid service. Eventually, he accepted a summons but soon returned home, citing the difficulty of moving with the times. He died in his seventies.
-
-Chunk 1: 
-original: 
-良亦载病到近县，送礼而还。诏书告二郡，岁以羊、酒养病。
-良字君郎。
-出于孤微，少作县吏。
-年三十，为尉从佐。
-奉檄迎督邮，即路慨然，耻在厮役，因坏车杀马，毁裂衣冠，乃遁至犍为，从杜抚学。
-妻子求索，踪迹断绝。
-后乃见草中有败车死马，衣裳腐朽，谓为虎狼盗贼所害，发丧制服。
-积十许年，乃还乡里。志行高整，非礼不动，遇妻子如君臣，乡党以为仪表。
-燮、良年皆七十余终。
-黄宪字叔度，汝南慎阳人也。
-世贫贱，父为牛医。
-颍川荀淑至慎阳，遇宪于逆族，时年十四，淑竦然异之，揖与语，移日不能去。
-谓宪曰： 子，吾之师表也。
-既而前至袁阆所，未及劳问，逆曰： 子国有颜子，宁识之乎？
-阆曰： 见吾叔度邪？
-是时，同郡戴良才高倨傲，而见宪未尝不正容，及归，罔然若有失也。
-其母问曰： 汝复从牛医兒来邪？
-对曰： 良不见叔度，不自以为不及；既睹其人，则瞻之在前，忽焉在后，固难得而测矣。
-translation: 
-Liang Ye took an illness to a nearby county and returned with thanks. He issued an edict to inform the two counties that sheep wine would be given to them every year to recuperate.
-Liangzijunlang.
-He came from a humble family and worked as a county official when he was young.
-On the 30th of the year, I helped the county captain.
-When he was sent to greet the governor, he felt very emotional on the road. He felt ashamed of being a lowly servant, so he wrecked his car, killed his horse, torn his clothes, and fled to Qianwei to learn from Du Fu.
-His wife searched for him everywhere, but there was no trace of him.
-Later, he saw a dead chariot and a dead horse in the grass, and his clothes were rotten. He thought they were killed by tigers, wolves, and thieves, so he mourned them.
-It took more than ten years before he returned to his hometown. He was determined and upright, never immoral, and treated his wife as seriously as a monarch and his ministers. The township party followed him as an example.
-Zhou Xie and Liang both died in their seventies.
-◆Huang Xianzhuan, Huang Xian's courtesy name Shudu, was born in Shenyang, Runan.
-He has been poor and humble for generations, and his father is a cattle doctor.
-When Xun Shu from Yingchuan arrived in Shenyang, she met Huang Xian in a hotel. Xian was only fourteen years old at the time.
-Then he said to Xian: You are my teacher.
-Soon, when he arrived at Yuan Lang's residence, he said without greeting him: "There is a handsome man in your country, do you know him?"
-Lang said: Have you seen our uncle?
-At this time, Dai Liangcai from the same county was arrogant, but when he saw Huang Xian, he took him seriously. When he returned home, he seemed to have lost something.
-Mother asked: Are you from Niu Jier's place again?
-He replied: If Liang doesn't see his uncle, he doesn't feel inferior to others. When he sees this person, he looks ahead and suddenly behind him, as if it's hard to grasp.
-
-summary:
-summary line 2: **Huang Xian**, also from Runan, was born into a poor family, his father being a cattle doctor. At fourteen, he impressed the scholar Xun Shu, who declared him a teacher. His profound character was noted by contemporaries: Dai Liang felt humbled in his presence, and Chen Fan admitted that seeing Huang Xian curbed his own stinginess. Guo Linzong compared him to vast, immeasurable waters. Huang Xian was recommended for office but never took up a post, dying at forty-eight.
+summary line 0: Biographies of several virtuous men from the Later Han period, emphasizing their moral integrity, reclusiveness, and resistance to officialdom.
 
 Chunk 3: 
 original: 
+家贫，常自耕稼，非其力不食。
+恭俭义让，所居服其德。
+屡辟公府，不起。
+时陈蕃为太守，以礼请署功曹，稺不免之，既谒而退。
+蕃在郡不接宾客，惟稺来特设一榻，去则县之。
+后举有道，家拜太原太守，皆不就。
 延熹二年，尚书令陈蕃、仆射胡广等上疏荐稺等曰： 臣闻善人天地之纪，政之所由也。
 《诗》云： 思皇多士，生此王国。
 天挺俊乂，为陛下出，当辅弼明时，左右大业者也。
@@ -180,6 +64,102 @@ original:
 临诀去，谓容曰： 为我谢郭林宗，大树将颠，非一绳所维，何为栖栖不遑宁处？
 及林宗有母忧，稺往吊之，置生刍一束于庐前而去。
 translation: 
+The family was poor and often farmed by themselves, and would not eat anything other than what they worked for.
+He was respectful, thrifty and generous, and his neighbors all admired his character.
+He was summoned into the palace many times and refused to go out.
+At that time, Chen Fan was the prefect and invited Xu to be a meritorious service officer with gifts. Xu Zhu couldn't help but go there. After paying an audience, he withdrew.
+Chen Fan never received guests in the county. Only Xu Zhen came to set up a special couch, and Xu Zhen hung it up when he left.
+Later, he selected a Taoist man and went to his home to worship him as the governor of Taiyuan, but he did not take office.
+In the second year of Yanxi, the minister ordered Chen Fan, Pushe Hu Guang and others to recommend Xu Zhu and others: "I heard that good people are the order of heaven and earth, and politics is done by them."
+The Book of Songs says: Sihuang Duoshi was born in this kingdom.
+A talented and righteous man born to His Majesty, he will help great causes when he assists Bi Ming.
+Xu Yan from Yuzhang, Jiang Gong from Pengcheng, Yuan Hong from Runan, Zhu from Jing Zhaowei, and Li Tan from Yingchuan were generally recognized as having pure virtues.
+If they are promoted to three things and cooperate with heaven's work, they will surely be able to carry forward their virtues and make the sun and moon shine.
+Emperor Huan then used a car, Xuanlin fumigation, and prepared a ceremony to invite them, but they didn't come out.
+The emperor then asked Chen Fan: "Which one comes first, Xu Zhen, Yuan Hong or Wei Zhu?"
+Chen Fan replied: Yuan Hong was born into a noble family, and he gradually learned the Tao.
+Wei Zhu was good at the customs of Sanfu etiquette and righteousness. It is said that if the fluff grows in the hemp, it will straighten itself without support, and it will carve without carving.
+As for Xu Zhen, he was born in a humble area in the south of the Yangtze River. He is as outstanding as a horn and should be the first.
+Xu Zhen was once summoned by Taiwei Huang Qiong, but he refused to go.
+After Huang Qiong died and was buried, Xu Zhu walked to Jiangxia carrying food on his back, held a small sacrifice of chicken and wine, and left after crying without telling his name.
+Guo Linzong, a famous scholar from all over the world, and dozens of other people who came at that time heard about it and suspected that it was Xu Zhen, so they chose Mao Rong Qingqi, who could speak, to chase him.
+On the way, Mao Rong arranged meals for him and discussed the crops together.
+When leaving, Xu said to Rong: Thank Guo Linzong for me. The big tree is about to fall, and it cannot be tied up with a rope. Why does Qiqi have no time to announce his death?
+Later, Lin Zong's mother died. Xu Zhen went to pay homage to her, put a bunch of cuo in front of the house and left.
+
+summary:
+summary line 1: **Zhou Xie**, from Runan, was born with a disfigured face that his mother wanted to abandon, but his father kept him, foreseeing his future prosperity. He was a precocious child, mastering classics like the *Book of Songs* and *Analects* by age ten, and later specializing in the *Book of Rites* and *Book of Changes*. He lived self-sufficiently, farming and fishing, and refused to eat what he did not produce. Despite being recommended for office multiple times, he feigned illness to avoid service. Eventually, he accepted a summons but soon returned home, citing the difficulty of moving with the times. He died in his seventies.
+
+Chunk 1: 
+original: 
+因自载到颍川阳城，遣门生送敬，遂辞疾而归。
+良亦载病到近县，送礼而还。诏书告二郡，岁以羊、酒养病。
+良字君郎。
+出于孤微，少作县吏。
+年三十，为尉从佐。
+奉檄迎督邮，即路慨然，耻在厮役，因坏车杀马，毁裂衣冠，乃遁至犍为，从杜抚学。
+妻子求索，踪迹断绝。
+后乃见草中有败车死马，衣裳腐朽，谓为虎狼盗贼所害，发丧制服。
+积十许年，乃还乡里。志行高整，非礼不动，遇妻子如君臣，乡党以为仪表。
+燮、良年皆七十余终。
+黄宪字叔度，汝南慎阳人也。
+世贫贱，父为牛医。
+颍川荀淑至慎阳，遇宪于逆族，时年十四，淑竦然异之，揖与语，移日不能去。
+谓宪曰： 子，吾之师表也。
+既而前至袁阆所，未及劳问，逆曰： 子国有颜子，宁识之乎？
+阆曰： 见吾叔度邪？
+translation: 
+So he went to Yangcheng, Yingchuan, sent his disciples to express his gratitude, and then returned home.
+Liang Ye took an illness to a nearby county and returned with thanks. He issued an edict to inform the two counties that sheep wine would be given to them every year to recuperate.
+Liangzijunlang.
+He came from a humble family and worked as a county official when he was young.
+On the 30th of the year, I helped the county captain.
+When he was sent to greet the governor, he felt very emotional on the road. He felt ashamed of being a lowly servant, so he wrecked his car, killed his horse, torn his clothes, and fled to Qianwei to learn from Du Fu.
+His wife searched for him everywhere, but there was no trace of him.
+Later, he saw a dead chariot and a dead horse in the grass, and his clothes were rotten. He thought they were killed by tigers, wolves, and thieves, so he mourned them.
+It took more than ten years before he returned to his hometown. He was determined and upright, never immoral, and treated his wife as seriously as a monarch and his ministers. The township party followed him as an example.
+Zhou Xie and Liang both died in their seventies.
+◆Huang Xianzhuan, Huang Xian's courtesy name Shudu, was born in Shenyang, Runan.
+He has been poor and humble for generations, and his father is a cattle doctor.
+When Xun Shu from Yingchuan arrived in Shenyang, she met Huang Xian in a hotel. Xian was only fourteen years old at the time.
+Then he said to Xian: You are my teacher.
+Soon, when he arrived at Yuan Lang's residence, he said without greeting him: "There is a handsome man in your country, do you know him?"
+Lang said: Have you seen our uncle?
+
+summary:
+summary line 2: **Huang Xian**, also from Runan, was born into a poor family, his father being a cattle doctor. At fourteen, he impressed the scholar Xun Shu, who declared him a teacher. His profound character was noted by contemporaries: Dai Liang felt humbled in his presence, and Chen Fan admitted that seeing Huang Xian curbed his own stinginess. Guo Linzong compared him to vast, immeasurable waters. Huang Xian was recommended for office but never took up a post, dying at forty-eight.
+
+Chunk 3: 
+original: 
+家贫，常自耕稼，非其力不食。
+恭俭义让，所居服其德。
+屡辟公府，不起。
+时陈蕃为太守，以礼请署功曹，稺不免之，既谒而退。
+蕃在郡不接宾客，惟稺来特设一榻，去则县之。
+后举有道，家拜太原太守，皆不就。
+延熹二年，尚书令陈蕃、仆射胡广等上疏荐稺等曰： 臣闻善人天地之纪，政之所由也。
+《诗》云： 思皇多士，生此王国。
+天挺俊乂，为陛下出，当辅弼明时，左右大业者也。
+伏见处士豫章徐稺、彭城姜肱、汝南袁闳、京兆韦著、颍川李昙，德行纯备，著于人听。
+若使擢登三事，协亮天工，必能翼宣盛美，增光日月矣。
+桓帝乃以安车玄纁，备礼征之，并不至。
+帝因问蕃曰： 徐稺、袁闳、韦著谁为先后？
+蕃对曰： 闳生出公族，闻道渐训。
+著长于三辅礼义之俗，所谓不扶自直，不镂自雕。
+至于稺者，爰自江南卑薄之域，而角立杰出，宜当为先。
+稺尝为太尉黄琼所辟，不就。
+及琼卒归葬，稺乃负粮徒步到江夏赴之，设鸡酒薄祭，哭毕而去，不告姓名。
+时会者四方名士郭林宗等数十人，闻之，疑其稺也，乃选能言语生茅容轻骑追之。
+及于涂，容为设饭，共言稼穑之事。
+临诀去，谓容曰： 为我谢郭林宗，大树将颠，非一绳所维，何为栖栖不遑宁处？
+及林宗有母忧，稺往吊之，置生刍一束于庐前而去。
+translation: 
+The family was poor and often farmed by themselves, and would not eat anything other than what they worked for.
+He was respectful, thrifty and generous, and his neighbors all admired his character.
+He was summoned into the palace many times and refused to go out.
+At that time, Chen Fan was the prefect and invited Xu to be a meritorious service officer with gifts. Xu Zhu couldn't help but go there. After paying an audience, he withdrew.
+Chen Fan never received guests in the county. Only Xu Zhen came to set up a special couch, and Xu Zhen hung it up when he left.
+Later, he selected a Taoist man and went to his home to worship him as the governor of Taiyuan, but he did not take office.
 In the second year of Yanxi, the minister ordered Chen Fan, Pushe Hu Guang and others to recommend Xu Zhu and others: "I heard that good people are the order of heaven and earth, and politics is done by them."
 The Book of Songs says: Sihuang Duoshi was born in this kingdom.
 A talented and righteous man born to His Majesty, he will help great causes when he assists Bi Ming.
@@ -218,16 +198,6 @@ original:
 既至郡中，见肱无衣服，怪问其故，肱托以它辞，终不言盗。
 盗闻而感悔，后乃就精庐，求见征君。
 肱与相见，皆叩头谢罪，而还所略物。
-肱不受，劳以酒食而遣之。
-后与徐稺俱征，不至。
-桓帝乃下彭城使画工图其形状。
-肱卧于幽暗，以被韬面，言患眩疾，不欲出风。
-工竟不得见之。
-中常侍曹节等专执朝事，新诛太傅陈蕃、大将军窦武，欲借宠贤德，以释众望，乃白征肱为太守。
-肱得诏，乃私告其友曰： 吾以虚获实，遂藉身价。
-明明在上，犹当固其本志，况今政在阉竖，夫何为哉！
-乃隐身遁命，远浮海滨。
-再以玄纁聘，不就。
 translation: 
 Everyone was surprised and didn't know the reason.
 Lin Zong said: This must be Xu Ruzi, a scholar from Nanzhou. "Poetry" does not say: A bunch of cud is born, and the person is like jade.
@@ -245,31 +215,12 @@ Jiang Gong fought with his brothers to die, so the thieves let them go and only 
 When he arrived at the county, he saw that Gong had no clothes and asked strangely why. Jiang Gong asked him to explain, but never told him about the robber.
 The robber was moved and regretted when he heard this, and later went to the monastery to ask for an audience with Zhengjun.
 When Jiang Gong met them, they all kowtowed to apologize and returned the plundered property.
-Jiang Gong didn't accept it, rewarded them with wine and food and asked them to leave quickly.
-Later, Jiang Gong and Xu Zhu were both recruited and refused to go.
-Emperor Huan then issued an edict to Pengcheng to have the painter draw his shape.
-Jiang Gong lay in a dark place and covered his face with a quilt, saying that he was suffering from dizziness and could not blow the wind.
-The painter could not see him.
-Zhongchang Shi Cao Jie and others were in charge of court affairs. They had just killed Taifu Chen Fan and General Dou Wu. They wanted to favor the virtuous and make everyone feel at ease, so they called Jiang Gong to be the prefect.
-Jiang Gong got the edict and told his friends privately: "I used falsehood to gain truth, so my reputation is very high."
-It is clear that the superiors should stick to their original ambitions, not to mention that now that the political power is in the hands of eunuchs, what can they do?
-So he became invisible and fled as far as the seaside.
-If the imperial court hires Xuan Jinxun again, it won't work.
 
 summary:
 summary line 4: **Jiang Gong**, from Pengcheng, was renowned for filial piety and brotherly love, sleeping with his brothers even after marriage. He taught the Five Classics to over 3,000 students but refused all official positions. When encountering bandits, he and his brother vied to die for each other, moving the thieves to repentance. Later, he feigned illness to avoid being painted for the emperor and fled to the coast to escape eunuch-dominated politics, living in obscurity until his death at seventy-seven.
 
-Chunk 5: 
+Chunk 6: 
 original: 
-即拜太中大夫，诏书至门。肱使家人对云 久病就医 。
-遂羸服间行，窜伏青州界中，卖卜给食。
-召命得断，家亦不知其处，历年乃还。
-年七十七，熹平二年终于家。
-弟子陈留刘操追慕肱德，共刊石颂之。
-申屠蟠字子龙，陈留外黄人也。
-九岁丧父，哀毁过礼。
-服除，不进酒肉十余年。
-每忌日，辄三日不食。
 同郡缑氏女玉为父报仇，杀夫氏之党，吏执玉以告外黄令梁配，配欲论杀玉。
 蟠时年十五，为诸生，进谏曰： 玉之节义，足以感无耻之孙，激忍辱之子。
 不遭明时，尚当表旌庐墓，况在清听，而不加哀矜！
@@ -279,16 +230,13 @@ original:
 郭林宗见而奇之。
 同郡蔡邕深重蟠，及被州辟，乃辞让之曰： 申屠蟠禀气玄妙，性敏心通，丧亲尽礼，几于毁灭。
 至行美义，人所鲜能。
+安贫乐潜，味道守真，不为燥湿轻重，不为穷达易节。
+方之于邕，以齿则长，以德则贤。
+后郡召为主簿，不行。
+遂隐居精学，博贯《五经》，兼明图纬。
+始与济阴王子居同在太学，子居临殁，以身托蟠，蟠乃躬推辇车，送丧归乡里。
+遇司隶从事于河、巩之间，从事义之，为封传护送，蟠不肯受，投传于地而去。
 translation: 
-He was appointed Taizhong doctor, and the edict was sent to his door. The family members of the envoy replied that he should seek medical treatment for a long-term illness.
-So he wore tattered clothes and walked along the alley, hiding in the border of Qingzhou, selling divination and making food.
-His calling was terminated, and his family didn't know where he was. He didn't come back until many years later.
-He was seventy-seven years old and died at home in the second year of Xiping.
-Disciples Chen Liu and Liu Cao admired Jiang Gong's virtues and published stones together to praise him.
-◆The biography of Shen Tu Pan, whose courtesy name is Zilong, is from Chen Liuwai Huang.
-My father died when I was nine, and I grieved excessively.
-After taking off his mourning clothes, he stopped eating meat and wine for more than ten years.
-On the anniversary of his father's death, he often goes without eating for three days.
 A woman named Yu from the same county, named Yu, avenged her father and killed her husband's party. The officials arrested Yu and reported it to Liang Pei, the order of Waihuang. Liang Pei planned to execute Yu.
 Shen Tupan was only fifteen years old at the time and was studying. He asked Huang Ling and Liang Pei to advise him: "Jiu Yu's integrity is enough to impress the shameless grandson and inspire the tolerant son."
 In an era when there is no sage, one should still express condolences to Jinglu Tomb, not to mention that after your clear hearing, there is no sympathy!
@@ -298,6 +246,12 @@ Shen Tupan's family was very poor and he was employed as a painter.
 Guo Linzong was surprised when he saw it.
 Cai Yong of the same county valued Pan very much. When he was called up by the state, he gave way and said: "Shentu Pan had a mysterious temperament and a sensitive mind. When his father died, he paid homage to him, which almost ruined himself."
 His good conduct is difficult for others to achieve.
+Be content with poverty, cultivate your moral character, and not deteriorate due to climate change, nor lose your integrity due to poverty.
+Compared with me, Cai Yong, he is older than me and more virtuous than me.
+Later, the county called Shen Tu Pan to be the chief bookkeeper, but he didn't.
+So he lived in seclusion at home, studied knowledge intensively, mastered the "Five Classics", and also understood the study of diagrams and latitudes.
+He began to study at Taixue with Prince Ju of Jiyin. When Zi Ju was about to die, he entrusted himself to Pan, who personally pushed the cart to send the funeral back to his hometown.
+When he met Sili, he was working between He and Gong. He thought that Shentu Pan was very loyal, so he passed the talisman to him and sent someone to escort him. Pan refused to accept it, threw the talisman on the ground and left.
 
 summary:
 summary line 5: **Shen Tu Pan**, from Chenliu, mourned his father excessively, abstaining from meat and wine for over a decade. At fifteen, he successfully pleaded for a woman avenging her father. He lived in poverty, working as a painter, and was praised by Cai Yong. He refused official posts, including from Taiwei Huang Qiong, and predicted the disaster of the Partisan Prohibitions, which he escaped by living in seclusion. He died at seventy-four, maintaining his principles through turbulent times.

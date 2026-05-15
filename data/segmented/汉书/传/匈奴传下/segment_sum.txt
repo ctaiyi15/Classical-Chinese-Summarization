@@ -1,0 +1,264 @@
+Summary uses chunk [0, 1, 4, 7, 8, 1, 23, 38]
+
+Chunk 0: 
+original: 
+呼韩邪单于归庭数月，罢兵使各归故地，乃收其兄呼屠吾斯在民间者立为左谷蠡王，使人告右贤贵人，欲令杀右贤王。
+其冬，都隆奇与右贤王共立日逐王薄胥堂为屠耆单于，发兵数万人东袭呼韩邪单于。
+呼韩邪单于兵败走，屠耆单于还，以其长子都涂吾西为左谷蠡王，少子姑瞀楼头为右谷蠡王，留居单于庭。
+明年秋，屠耆单于使日逐王先贤掸兄右奥鞬王为乌藉都尉各二万骑，屯东方以备呼韩邪单于。
+是时，西方呼揭王来与唯犁当户谋，共谗右贤王，言欲自立为乌藉单于。
+屠耆单于杀右贤王父子，后知其冤，复杀唯犁当户。
+于是呼揭王恐，遂畔去，自立为呼揭单于。
+右奥鞬王闻之，即自立为车犁单于。
+乌藉都尉亦自立为乌藉单于。
+凡五单于。
+translation: 
+A few months after Huhanxie Shanyu returned to the royal court, he stopped the war and asked everyone to return to their original places. He summoned his brother Hutuwusi, who was a commoner, and appointed him King Zuoguli. He also sent people to inform the nobles of Youxian, asking them to kill King Youxian.
+That winter, Dulongqi and King Youxian jointly supported the king Zhu Wanglian and set up the hall as Kenzhouliyu, and sent tens of thousands of troops to the east to attack Huhanxie Chanyu.
+Huhanxie Chanyu's army was defeated and fled. Tuqi Chanyu returned to the court of the Xiongnu, and appointed his eldest son Dutuwuxi as the king of Zuoguli, and his youngest son Gujiloutou as the king of rightguli, leaving them in the court of the Shanyu.
+In the autumn of the next year, Tuqi Chanyu appointed King Youaota, the elder brother of the Richu King Xianxian Shan, as the Wujie Captain, and asked them to lead 20,000 cavalry respectively and station them at Shubian to guard against Huhanxie Chanyu.
+At this time, the king of Hujie from the west came to plan with Weili, and together they slandered the Shanyu of Tu Qi and slandered King Youxian, saying that he wanted to establish himself as a Uprising Chanyu.
+So Tuqi Chanyu killed King Youxian and his son. Later, Tuqi Chanyu knew that King Youxian had been wronged, so he killed Weili in his own right.
+Therefore, King Hujie was very frightened, so he betrayed Tuqi Chanyu and ran away, and established himself as Hujie Chanyu.
+When King Youao Tartar heard about it, he established himself as the chayu chanyu.
+Wujiu Duwei also established himself as Wujii Chanyu.
+In this way, the Xiongnu had five chanyus.
+
+summary:
+summary line 0: After Huhanxie Chanyu returned to his court, he ended the war and appointed his brother Hutuwusi as King Zuoguli. He also ordered the killing of King Youxian. That winter, Dulongqi and King Youxian supported Zhu Wanglian as a rival chanyu and attacked Huhanxie, who was defeated and fled. Tuqi Chanyu then took control, appointing his sons as kings. The following autumn, Tuqi Chanyu stationed troops to guard against Huhanxie. Internal strife escalated when King Hujie slandered King Youxian, leading to his execution. This caused King Hujie to flee and declare himself Chanyu, followed by others, resulting in five rival chanyus.
+
+Chunk 1: 
+original: 
+屠耆单于自将兵东击车犁单于，使都隆奇击乌藉。
+乌藉、车犁皆败，西北走，与呼揭单于兵合为四万人。
+乌藉、呼揭皆去单于号，共并力尊辅车犁单于。
+屠耆单于闻之，使左大将、都尉将四万骑分屯东方，以备呼韩邪单于，自将四万骑西击车犁单于。
+车犁单于败，西北走，屠耆单于即引西南，留闟敦地。
+其明年，呼韩邪单于遣其弟右谷蠡王等西袭屠耆单于屯兵，杀略万余人。
+屠耆单于闻之，即自将六万骑击呼韩邪单于，行千里，未至嗕姑地，逢呼韩邪单于兵可四万人，合战。
+屠耆单于兵败，自杀。
+都隆奇乃与屠耆少子右谷蠡王姑瞀楼头亡归汉，车犁单于东降呼韩邪单于。
+呼韩邪单于左大将乌厉屈与父呼速累乌厉温敦皆见匈奴乱，率其众数万人南降汉。
+封乌厉屈为新城侯，乌厉温敦为义阳侯。
+是时，李陵子复立乌藉都尉为单于，呼韩邪单于捕斩之，遂复都单于庭，然众裁数万人。
+屠耆单于从弟休旬王将所主五六百骑，击杀左大且渠，并其兵，至右地，自立为闰振单于，在西边。
+其后，呼韩邪单于兄左贤王呼屠吾斯亦自立为郅支骨都侯单于，在东边。
+其后二年，闰振单于率其众东击郅支单于。
+郅支单于与战，杀之，并其兵，遂进攻呼韩邪。呼韩邪破，其兵走，郅支都单于庭。
+呼韩邪之败也，左伊秩訾王为呼韩邪计，劝令称臣入朝事汉，从汉求助，如此匈奴乃定。
+呼韩邪议问诸大臣，皆曰： 不可。
+translation: 
+Tuqi Chanyu personally led his troops eastward to attack Cheli Chanyu, and sent Dulongqi to attack Wujii Chanyu.
+Both Wujii Chanyu and Chesai Chanyu were defeated and fled to the northwest to join Hujie Chanyu's army, which totaled 40,000 people.
+King Wujie and King Hujie both removed their titles of Chanyu and worked together to assist Chanyu Cheli.
+When Tuqi Chanyu heard about it, he sent General Zuo and Duwei with 40,000 cavalry to station in the east to guard against Huhanxie Chanyu. King Xingzhouli himself led 40,000 cavalry to the west to attack Cheli Chanyu.
+Cheli Chanyu was defeated and fled to the northwest. Tuqi Chanyu led his army to the southwest and garrisoned at Mengdun.
+The next year, Huhanxie Chanyu sent his younger brother Yougu Li Wang and others to lead troops west to attack Tuqi Chanyu's army stationed in Hedun, killing and plundering more than 10,000 people.
+When Tu Qi Chanyu heard about it, he personally led 60,000 cavalry to attack Huhanxie Chanyu. They had traveled nearly a thousand miles, but they hadn't arrived yet! In the cricket area, they encountered Huhanxie Chanyu's nearly 40,000 troops.
+The two sides fought, and Tu Qi Shanyu was defeated and committed suicide.
+Tsang Longtong escaped with Tu Qi Chanyu's youngest son, Youguli Wang Guzhong Loutou, and surrendered. Cheli Chanyu went east and surrendered to Huhanxie Shanren.
+Hu Hanxie Shanyu's left-hand general Dan Quli and his father Hu Yingleigu Nie Wenzheng saw Bao Nui in such chaos, so they led tens of thousands of their troops to surrender to the south and surrendered to Forsythia.
+He also sealed Wu Li Zhou as the new city marquis and Gu Li Wen Chi as the Zhan Wu Fort.
+At this time, Kui Lu's son supported Zhou Jiedu as Chanyu. Huhanxie Chanyu sent people to hunt and kill them. So Huhanxie Chanyu returned to the court of the Xiongnu. However, there were only tens of thousands of people in his tribe.
+King Xiu Xun, cousin of Tu Qi Chanyu, led his five or six hundred cavalry to attack and kill Zuo Daqiequ, annexed his army, arrived at Youdi, and established himself as Runzhen Chanyu, living in the west of the Xiongnu.
+Later, Huhanxie Chanyu's brother Zuoxian King Hutuwusi also established himself as Chanyu, the Marquis of Zhizhigu, and lived in Baosusubu.
+Two years later, Runzhen Chanyu led his troops to attack Zhizhi Chanyu eastward.
+Zhizhi Chanyu faced off against Runzhen Chanyu, killed him, annexed his troops, and then attacked Huhanxie Chanyu. The army was defeated, and Zhizhi Chanyu made his capital in the royal court.
+When Huhanxie was defeated and Huhanxie Shanyu was defeated, King Zuoyi Zhizi made plans for King Lizheng Wuli, and persuaded him to surrender to Han and serve the emperor, so as to seek help from Huansu Nabuo, so that he could stabilize his body.
+Huhanxie Shanyu discussed with the ministers and asked them. The ministers all said: This cannot be done.
+
+summary:
+summary line 1: Tuqi Chanyu attacked Cheli Chanyu and Wujii Chanyu, both of whom fled to join Hujie Chanyu. Tuqi then sent forces east and west, but Huhanxie Chanyu attacked and killed over 10,000 of Tuqi's troops. Tuqi retaliated with 60,000 cavalry but was defeated and committed suicide. Huhanxie Chanyu's general Dan Quli surrendered to the Han Dynasty. Huhanxie returned to his court with only tens of thousands of followers. Runzhen Chanyu and Zhizhi Chanyu emerged, with Zhizhi killing Runzhen and attacking Huhanxie, who was defeated.
+
+Chunk 4: 
+original: 
+单于就邸，留月余，遣归国。
+单于自请愿留居光禄塞下，有急保汉受降城。
+汉遣长乐卫尉高昌侯董忠、车骑都尉韩昌将骑万六千，又发边郡士马以千数，送单于出朔方鸡鹿塞。
+诏忠等留卫单于，助诛不服，又转边谷米糒，前后三万四千斛，给赡其食。
+是岁，郅支单于亦遣使奉献，汉遇之甚厚。
+明年，两单于俱遣使朝献，汉待呼韩邪使有加。
+明年，呼韩邪单于复入朝，礼赐如初，加衣百一十袭，锦帛九千匹，絮八千斤。
+以有屯兵，故不复发骑为送。
+始，郅支单于以为呼韩邪降汉，兵弱不能复自还，即引其众西，欲攻定右地。
+又屠耆单于小弟本侍呼韩邪，亦亡之右地，收两兄余兵得数千人，自立为伊利目单于，道逢郅支，合战，郅支杀之，并其兵五万余人。
+闻汉出兵、谷助呼韩邪，即遂留居右地。
+translation: 
+Chanyu lived in Guanyi and stayed there for more than a month. The emperor sent him back to his country.
+Chanyu himself requested that he be allowed to stay and live under Guanglu Fortress so that he could defend the surrendered city of the Han Dynasty in case of emergency.
+The Han Dynasty sent Changle Guardsman Gaochanghou Dong Zhong and Chariot and Cavalry Commander Han Chang to lead 16,000 cavalry, as well as thousands of troops from border prefectures and counties to escort Huhanxie Chanyu out of Jilusai in Shuofang City.
+The emperor ordered Dong Zhong and others to stay there to protect Shanyu and help him attack the rebellious and disobedient people. He also transported 34,000 hu of grain and rice to the frontier for food to the Huns.
+In this year, Zhizhi Shanyu also sent envoys to the Han Dynasty to pay tribute. The Han Dynasty treated the envoys very well.
+The next year, both Chanyus sent envoys to the Han Dynasty to meet the emperor and contribute gifts. The Han Dynasty treated Huhanxie Chanyu's envoy more favorably.
+The next year, Huhanxie Shanyu came to the Jin Dynasty again to see the emperor. The emperor continued to offer the same gifts and rewards as before, and added 110 sets of clothes, 9,000 pieces of brocade and silk, and 8,000 catties of thick silk and cotton.
+Because there were already troops stationed in the Huns, no more troops were sent to escort them.
+At first, Zhizhi Chanyu thought that Huhanxie Chanyu had surrendered to the Han Dynasty and his troops were weak and would not come back again, so he led his army to the west, hoping to attack and pacify Youdi.
+In addition, Tuqi Chanyu's younger brother originally served Huhanxie Chanyu, but now he also fled to the right place, gathered the tribes of his two brothers, got several thousand people, and established himself as Yili Mu Chanyu. On the road, he met Zhizhi Chanyu, and the two sides fought. Zhizhi Chanyu defeated and killed Yilimu Chanyu, and annexed his army of more than 50,000 people.
+Hearing that the Han Dynasty sent troops and food to help Huhanxie Shanyu, he simply stayed and settled in Youdi.
+
+summary:
+summary line 2: King Zuoyi Zhizi advised Huhanxie to surrender to the Han Dynasty for stability. Despite opposition from ministers who valued Xiongnu martial traditions, Huhanxie agreed and led his people south, sending his son as a hostage. The Han emperor received Huhanxie with great honor, granting him titles, gifts, and troops for protection. Huhanxie requested to stay near the Han border for defense. The Han provided food and military support. Zhizhi Chanyu, meanwhile, moved west, attacking Wusun and other tribes, establishing his capital in Jiankun.
+
+Chunk 7: 
+original: 
+昌、猛与单于及大臣俱登匈奴诺水东山，刑白马，单于以径路刀金留犁挠酒，以老上单于所破月氏王头为饮器者共饮血盟。
+昌、猛还奏事，公卿议者以为： 单于保塞为藩，虽欲北去，犹不能为危害。
+昌、猛擅以汉国世世子孙与夷狄诅盟，令单于得以恶言上告于天，羞国家，伤威重，不可得行。
+宜遣使往告祠天，与解盟。
+昌、猛奉使无状，罪至不道。
+上薄其过，有诏昌、猛以赎论，勿解盟。
+其后呼韩邪竟北归庭，人众稍稍归之，国中遂定。
+郅支既杀使者，自知负汉，又闻呼韩邪益强，恐见袭击，欲远去。
+会康居王数为乌孙所困，与诸翕侯计，以为匈奴大国，乌孙素服属之，今郅支单于困厄在外，可迎置东边，使合兵取乌孙以立之，长无匈奴忧矣。
+即使使至坚昆通语郅支。
+郅支素恐，又怨乌孙，闻康居计，大说，遂与相结，引兵而西。
+康居亦遣贵人，橐它驴马数千匹，迎郅支。
+郅支人众中寒道死，余财三千人到康居。
+其后，都护甘延寿与副陈汤发兵即康居诛斩郅支，语在《延寿、汤传》。
+郅支既诛，呼韩邪单于且喜且惧，上书言曰： 常愿谒见天子，诚以郅支在西方，恐其与乌孙俱来击臣，以故未得至汉。
+今郅支已伏诛，愿入朝见。
+竟宁元年，单于复入朝，礼赐如初，加衣服锦帛絮，皆倍于黄龙时。
+单于自言愿婿汉氏以自亲。
+translation: 
+Han Chang, Zhang Meng, Hu Hanxie Chanyu and his ministers climbed to Nuoshuishu Mountain of the Xiongnu and killed the white horse. The Chanyu used a path knife and a golden plow to stir the wine mixed with the blood of the horse, and used the head of the Yuezhi King whom the old Shanyu had killed as a wine cup, and they drank the blood wine together as an alliance.
+Han Chang and Zhang Meng reported this matter after they returned to the Han Dynasty. The ministers discussed the matter and said: "The Chanyu has promised us that we are willing to serve as a vassal to protect the frontier. Even if we want to return to the north, it will not pose a threat or hindrance to the Han Dynasty."
+Han Chang and Zhang Meng acted without authorization and made an alliance with the Xiongnu on the future of the descendants of the Han Dynasty. This allowed the Chanyu to use evil words to tell heaven, humiliating the Han Dynasty and damaging the prestige of the country. This must not be done.
+Envoys should be sent to appeal to Heaven and dissolve the former alliance with the Xiongnu.
+Han Chang and Zhang Meng were ordered to go on a mission, which was not proper and their crimes were extremely treasonous.
+The emperor alleviated their sins and issued an edict that Han Chang and Zhang Meng could be punished for their crimes but not terminate their alliance with the Huns.
+Later, Huhanxie Chanyu finally returned to the court of Chanyu in the north. The Huns gradually surrendered to him, and the country settled down.
+Chanyu Zhizhi killed the envoy of the Han Dynasty, and he knew that he had failed the Han Dynasty. He also heard that Huhanxie was getting stronger, so he was worried about being attacked and wanted to move to a distant place.
+It happened that King Kangju was besieged by the Wusun Kingdom many times at this time. He discussed with his Xihous that the Xiongnu was a powerful country and the Wusun Kingdom had always been subordinate to it. Now that Zhizhi Chanyu was living in exile, he could welcome him and live in Shubu. The two sides worked together to defeat Wusun and let Zhizhi Chanyu become king there. In this way, there would never be worries from the Huns.
+So he sent an envoy to Jiankun to tell Chanyu Zhizhi these words.
+Chanyu Zhizhi was often worried about being invaded by Huhanxie and resented Wusun. He was very happy when he heard King Kangju's plan, so he joined forces with Kangju and led the army to the west.
+Kangju also sent nobles with thousands of camels, donkeys, and horses to meet Zhizhi.
+Many of Zhizhi's tribe died of cold and starvation on the road, and finally only 3,000 people were left to reach Kangju.
+Later, the governor Gan Yanshou and the deputy governor Chen Tang sent troops to Kangju to kill Zhizhi Shanyu. These are recorded in the biographies of Gan Yanshou and Chen Tang.
+After Zhizhi Chanyu was killed, Huhanxie Chanyu was happy and scared, and wrote to the Emperor Xuan: I often hope to go to see His Majesty, but it is actually because Zhizhi Chanyu lives in the west, and I am worried that he will attack me with Mercer, so I cannot go to see the Emperor.
+Now that Wai Mu has been convicted and killed, I hope that I can be allowed to come to the court to pay my respects.
+In the first year of Jingning, Huhanxie Chanyu came to the Han Dynasty again. The Han Dynasty treated him with the same courtesy and rewards as before, and increased the rewards of clothes, brocade, silk, and thick silk and cotton, which were twice as much as in the Huanglong year.
+Chanyu himself said that he would like to be the son-in-law of the Han Dynasty to get closer to the Han Dynasty.
+
+summary:
+summary line 3: Emperor Yuan succeeded and Huhanxie requested aid due to poverty. The Han sent grain. Zhizhi, resentful of Han support for Huhanxie, killed a Han envoy. The Han sent envoys to escort Huhanxie's son back and made an alliance with him, pledging mutual defense. However, Han officials criticized the alliance as unauthorized. Huhanxie eventually returned north, stabilizing his rule. Zhizhi, fearing Han retaliation, moved further west and allied with Kangju, but was later killed by Han forces. Huhanxie, relieved, requested to visit the Han court again.
+
+Chunk 8: 
+original: 
+元帝以后宫良家子王墙字昭君赐单于。
+单于欢喜，上书愿保塞上谷以西至敦煌，传之无穷，请罢边备塞吏卒，以休天子人民。
+天子令下有司议，议者皆以为便。
+郎中侯应习边事，以为不可许。
+上问状，应曰：
+周、秦以来，匈奴暴桀，寇侵边境，汉兴，尤被其害。
+臣闻北边塞至辽东，外有阴山，东西千余里，草木茂盛，多禽兽，本冒顿单于依阻其中，治作弓矢，来出为寇，是其苑囿也。
+至孝武世，出师征伐，斥夺此地，攘之于幕北。
+建塞徼，起亭隧，筑外城，设屯戍以守之，然后边境得用少安。
+幕北地乎，少草木，多大沙，匈奴来寇，少所蔽隐，从塞以南，径深山谷，往来差难。
+translation: 
+Emperor Yuan of the Han Dynasty gave Shanyu Wang Qiangzi Zhaojun, a good woman who was a servant of the harem, as his wife.
+The Chanyu was very happy and wrote to the emperor, saying that he was willing to protect the Han Dynasty frontier from Shanggu west to Dunhuang and pass it on forever. He asked the emperor to withdraw the officials and soldiers guarding the border fortress so that the emperor's subjects could rest and recuperate.
+The emperor handed the matter over to the ministers for discussion, and the ministers in charge thought it was very convenient.
+Langzhong Linghou should be familiar with the affairs of the frontier fortress and thought that he could not agree to the Huns like this.
+Emperor Mo Yuan asked him why, and Hou Ying replied:
+Since the Zhou and Qin Dynasties, the Xiongnu have been very violent and unruly, invading the frontiers. After the establishment of the Han Dynasty, they suffered particularly serious consequences.
+I heard that our northern border fortress reaches all the way to Liaodong. Outside is the Yinshan Mountains, which is more than a thousand miles long from east to west, with lush vegetation and many animals. This place was originally the place where Maodun Shanyu relied on. He made bows and arrows here, trained his troops, and came in and out of Yinshan to harass us. Yinshan was the garden where they raised animals.
+When Emperor Xiaowu arrived, he sent troops to attack and capture the area and drove them to the north of the desert.
+Border fortresses were built, sentry roads were built, cities outside the fortress were built, troops were stationed there, and then the border settled down a little.
+The terrain to the north of the desert is flat, with sparse vegetation and mostly sand and gravel. When the Xiongnu invaded, there was nothing to hide from. From the frontier fortress to the south, it is difficult to travel on the mountain roads.
+
+summary:
+summary line 4: In the first year of Jingning, Huhanxie visited the Han court and received generous gifts. He requested to become a Han son-in-law, and Emperor Yuan gave him Wang Zhaojun as a wife. Huhanxie offered to defend the Han border from Shanggu to Dunhuang and asked for the withdrawal of Han border troops. The emperor consulted officials, and Hou Ying argued against withdrawal, citing ten reasons: the strategic value of the Yinshan Mountains, the Xiongnu's untrustworthy nature, the need to prevent internal crime and defections, and the risk of future emergencies. The emperor agreed and declined Huhanxie's request.
+
+Chunk 1: 
+original: 
+屠耆单于自将兵东击车犁单于，使都隆奇击乌藉。
+乌藉、车犁皆败，西北走，与呼揭单于兵合为四万人。
+乌藉、呼揭皆去单于号，共并力尊辅车犁单于。
+屠耆单于闻之，使左大将、都尉将四万骑分屯东方，以备呼韩邪单于，自将四万骑西击车犁单于。
+车犁单于败，西北走，屠耆单于即引西南，留闟敦地。
+其明年，呼韩邪单于遣其弟右谷蠡王等西袭屠耆单于屯兵，杀略万余人。
+屠耆单于闻之，即自将六万骑击呼韩邪单于，行千里，未至嗕姑地，逢呼韩邪单于兵可四万人，合战。
+屠耆单于兵败，自杀。
+都隆奇乃与屠耆少子右谷蠡王姑瞀楼头亡归汉，车犁单于东降呼韩邪单于。
+呼韩邪单于左大将乌厉屈与父呼速累乌厉温敦皆见匈奴乱，率其众数万人南降汉。
+封乌厉屈为新城侯，乌厉温敦为义阳侯。
+是时，李陵子复立乌藉都尉为单于，呼韩邪单于捕斩之，遂复都单于庭，然众裁数万人。
+屠耆单于从弟休旬王将所主五六百骑，击杀左大且渠，并其兵，至右地，自立为闰振单于，在西边。
+其后，呼韩邪单于兄左贤王呼屠吾斯亦自立为郅支骨都侯单于，在东边。
+其后二年，闰振单于率其众东击郅支单于。
+郅支单于与战，杀之，并其兵，遂进攻呼韩邪。呼韩邪破，其兵走，郅支都单于庭。
+呼韩邪之败也，左伊秩訾王为呼韩邪计，劝令称臣入朝事汉，从汉求助，如此匈奴乃定。
+呼韩邪议问诸大臣，皆曰： 不可。
+translation: 
+Tuqi Chanyu personally led his troops eastward to attack Cheli Chanyu, and sent Dulongqi to attack Wujii Chanyu.
+Both Wujii Chanyu and Chesai Chanyu were defeated and fled to the northwest to join Hujie Chanyu's army, which totaled 40,000 people.
+King Wujie and King Hujie both removed their titles of Chanyu and worked together to assist Chanyu Cheli.
+When Tuqi Chanyu heard about it, he sent General Zuo and Duwei with 40,000 cavalry to station in the east to guard against Huhanxie Chanyu. King Xingzhouli himself led 40,000 cavalry to the west to attack Cheli Chanyu.
+Cheli Chanyu was defeated and fled to the northwest. Tuqi Chanyu led his army to the southwest and garrisoned at Mengdun.
+The next year, Huhanxie Chanyu sent his younger brother Yougu Li Wang and others to lead troops west to attack Tuqi Chanyu's army stationed in Hedun, killing and plundering more than 10,000 people.
+When Tu Qi Chanyu heard about it, he personally led 60,000 cavalry to attack Huhanxie Chanyu. They had traveled nearly a thousand miles, but they hadn't arrived yet! In the cricket area, they encountered Huhanxie Chanyu's nearly 40,000 troops.
+The two sides fought, and Tu Qi Shanyu was defeated and committed suicide.
+Tsang Longtong escaped with Tu Qi Chanyu's youngest son, Youguli Wang Guzhong Loutou, and surrendered. Cheli Chanyu went east and surrendered to Huhanxie Shanren.
+Hu Hanxie Shanyu's left-hand general Dan Quli and his father Hu Yingleigu Nie Wenzheng saw Bao Nui in such chaos, so they led tens of thousands of their troops to surrender to the south and surrendered to Forsythia.
+He also sealed Wu Li Zhou as the new city marquis and Gu Li Wen Chi as the Zhan Wu Fort.
+At this time, Kui Lu's son supported Zhou Jiedu as Chanyu. Huhanxie Chanyu sent people to hunt and kill them. So Huhanxie Chanyu returned to the court of the Xiongnu. However, there were only tens of thousands of people in his tribe.
+King Xiu Xun, cousin of Tu Qi Chanyu, led his five or six hundred cavalry to attack and kill Zuo Daqiequ, annexed his army, arrived at Youdi, and established himself as Runzhen Chanyu, living in the west of the Xiongnu.
+Later, Huhanxie Chanyu's brother Zuoxian King Hutuwusi also established himself as Chanyu, the Marquis of Zhizhigu, and lived in Baosusubu.
+Two years later, Runzhen Chanyu led his troops to attack Zhizhi Chanyu eastward.
+Zhizhi Chanyu faced off against Runzhen Chanyu, killed him, annexed his troops, and then attacked Huhanxie Chanyu. The army was defeated, and Zhizhi Chanyu made his capital in the royal court.
+When Huhanxie was defeated and Huhanxie Shanyu was defeated, King Zuoyi Zhizi made plans for King Lizheng Wuli, and persuaded him to surrender to Han and serve the emperor, so as to seek help from Huansu Nabuo, so that he could stabilize his body.
+Huhanxie Shanyu discussed with the ministers and asked them. The ministers all said: This cannot be done.
+
+summary:
+summary line 5: King Zuoyi Zhizi, who had advised Huhanxie to submit to Han, later fell under suspicion and surrendered to Han. Huhanxie later apologized and asked him to return, but he refused. Huhanxie died after 28 years, succeeded by his son Diao Tao Mogao as Fuzhuanruo Qianchanyu, following the advice of his mother Zhuanquban to avoid instability. The new chanyu appointed his brothers as kings and continued relations with Han. Subsequent chanyus maintained ties, sending sons as hostages and visiting the Han court.
+
+Chunk 23: 
+original: 
+使者曰： 匈奴骨肉相攻，国几绝，蒙中国大恩，危亡复续，妻子完安，累世相继，宜有以报厚恩。
+单于叩头谢罪，执二虏还付使者。
+诏使中郎将王萌待西域恶都奴界上逆受。
+单于遣使送到国，因请其罪。
+使者以闻，有诏不听，会西域诸国王斩以示之。
+乃造设四条：中国人亡入匈奴者，乌孙亡降匈奴者，西域诸国佩中国印绶降匈奴者，乌桓降匈奴者，皆不得受。
+遣中郎将王骏、王昌、副校尉甄阜、王寻使匈奴，班四条与单于，杂函封，付单于，令奉行，因收故宣帝所为约束封函还。
+时，莽奏令中国不得有二名，因使使者以风单于，宜上书慕化，为一名，汉必加厚赏。
+单于从之，上书言： 幸得备藩臣，窍乐太平圣制，臣故名囊知牙斯，今谨更名曰知。
+莽大说，白太后，遣使者答谕，厚赏赐焉。
+translation: 
+The envoy of the Han Dynasty said: At the beginning, the Xiongnu's relatives attacked each other, and the country was almost completely reduced. Thanks to China's great kindness, it supported the Chanyu, so that the Xiongnu who were in danger could continue to survive, and their families, wives and children could be kept safe. From generation to generation, the Xiongnu should repay the great kindness to the Han Dynasty.
+After hearing this, the Shan Yu kowtowed to the envoy to apologize, and captured the two princes who had surrendered and handed them over to the Han Dynasty envoy.
+The Han Dynasty issued an edict to send Zhonglang General Wang Meng to the border of Badunu in the Western Regions to meet and accept the returned people.
+Chanyu sent an envoy to escort him to the Han Dynasty and asked the emperor for forgiveness.
+The envoy reported to the court, but the court issued an edict not to forgive them, and gathered the kings of the Western Regions to kill Gou Gu and Tang Dou to show their guilt.
+Four stipulations were re-established: the Huns were not allowed to accept Chinese people who fled to the Huns, people who fled from the Wusun Kingdom and surrendered to the Huns, people who wore Chinese seals and ribbons from some Western Region countries appointed by the Han Dynasty and surrendered to the Huns, and people who surrendered to the Huns from the Wuhuan Kingdom.
+The Han Dynasty sent Zhonglang General Wang Jun and Wang Chang, as well as deputy captains Zhen Fu and Wang Xun to envoy the Xiongnu. They promulgated four regulations to the Shanyu. The regulations and the seal were mixed in one letter and handed over to the Shanyu, asking him to abide by them. In this regard, they retracted the previous regulations made by Emperor Xuan of the Han Dynasty and the Xiongnu, and returned them in letters.
+At that time, Wang Mang petitioned the emperor for approval and ordered the Chinese not to have two-character names. He also sent envoys to the Xiongnu to use pretexts to persuade the Chanyu that he should write to the court and pursue the civilization and enlightenment of the Han Dynasty. If he only used a one-character name, the Han Dynasty would definitely give him double rewards.
+Chanyu listened to the envoy's advice and wrote to the court, saying: I am fortunate to be a foreign minister of the Han Dynasty, and I like the etiquette of the Taiping Shengming of the Han Dynasty. My original name was Nang Zhi Yasi, but now I am willing to change my name to Zhi.
+Wang Mang was very happy and told Queen Mother Ya to send an envoy to answer the question, and the reward was very generous.
+
+summary:
+summary line 6: During the reign of Wuzhuliu Chanyu, Han envoy Xiahou Fan requested land from the Xiongnu, but the chanyu refused, citing ancestral rights. The Han emperor punished Xiahou Fan. Later, conflicts arose over Wusun raids and Wuhuan tax issues. Wang Mang, after usurping the Han throne, changed the Xiongnu seal and imposed new regulations, causing resentment. The Xiongnu resumed border raids. Wang Mang's military campaigns failed, leading to chaos. The Xiongnu chanyu died, and his successor Xian sought peace with Han but continued raiding. Wang Mang's attempts to control the Xiongnu through titles and gifts ultimately failed, and the border remained unstable.
+
+Chunk 38: 
+original: 
+自汉兴以至于今，旷世历年，多于春秋，其与匈奴，有修文而和亲之矣，有用武而克伐之矣，有卑下而承事之矣，有威服而臣畜之矣，诎伸异变，强弱相反，是故其详可得而言也。
+昔和亲之论，发于刘敬。
+是时，天下初定，新遭平城之难，故从其言，约结和亲，赂遗单于，冀以救安边境。
+孝惠、高后时遵而不违，匈奴寇盗不为衰止，而单于反以加骄倨。
+逮至孝文，与通关市，妻以汉女，增厚其赂，岁以千金，而匈奴数背约束，边境屡被其害。
+是以文帝中年，赫然发愤，遂躬戎服，亲御鞍马，从六郡良家材力之士，驰射上林，讲习战陈，聚天下精兵，军于广武，顾问冯唐，与论将帅，喟然叹息，思古名臣。
+此则和亲无益，已然之明效也。
+仲舒亲见四世之事，犹复欲守旧文，颇增其约。
+translation: 
+From the establishment of the Han Dynasty to the present, many epochs have passed, more than the "Spring and Autumn Annals". The relationship between the Han Dynasty and the Xiongnu has not only advocated civil rule and implemented peacemaking, but also used force to conquer and fight. There are twists and turns, different changes, maybe I am strong, or you are weak, the status is opposite, so we can talk about the details.
+In the past, it was Liu Jing who advocated peace with the Huns.
+At that time, the world had just stabilized, and the Han Dynasty had just experienced the disaster of being besieged by the Xiongnu in Pingcheng. Therefore, the emperor followed Ya Ta's suggestion, discussed peace with the Xiongnu, and gave gold, silver, grain, and cotton to the Chanyu, hoping to stabilize the border.
+When Emperor Xiaohui and Empress Gao were emperors, they obeyed the Huns and did not dare to disobey. However, the Huns' invasions did not reduce or stop at all, and the Chanyu became even more arrogant.
+During the reign of Emperor Xiaowen, he and the Xiongnu traded with each other, opened border markets, married Han princesses to singles, and increased the amount of property given to the Xiongnu, spending a thousand gold each year. However, the Xiongnu repeatedly violated the peace treaty, and the Han Dynasty's borders were repeatedly invaded.
+Therefore, when Emperor Wen reached middle age, he became angry and strong. He personally put on military uniforms, mounted war horses, and led the strong and brave warriors from the six counties to practice horseback archery and battle formations in Shanglin Garden. He mobilized the best soldiers and generals from all over the world and stationed them in Guangwu City. Emperor Wen asked Feng Tang about generals and expressed his longing for famous officials in ancient times.
+Therefore, it is very clear that there is no benefit in making peace with the Xiongnu.
+Dong Zhongshu witnessed with his own eyes the events of the Fourth Dynasty of the Early Han Dynasty, but he still wanted to abide by the past regulations and greatly increased the agreement with the Xiongnu.
+
+summary:
+summary line 7: After Wang Mang's death, the Han Dynasty restored relations with the Xiongnu, but the chanyu remained arrogant. The historian concludes that peace treaties and military campaigns both had limitations, and the Xiongnu's nature made lasting peace difficult.
+

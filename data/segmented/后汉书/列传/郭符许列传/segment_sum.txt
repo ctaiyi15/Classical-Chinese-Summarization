@@ -1,4 +1,4 @@
-Summary uses chunk [0, 2, 5, 7]
+Summary uses chunk [0, 6, 6, 8]
 
 Chunk 0: 
 original: 
@@ -19,7 +19,6 @@ original:
 尝于陈梁间行遇雨，巾一角垫，时人乃故折巾一角，以为 林宗巾 。其见慕皆如此。
 或问汝南范滂曰： 郭林宗何如人？
 滂曰： 隐不违亲，贞不绝俗，天子不得臣，诸侯不得友，吾不知其它。
-后遭母忧，有至孝称。
 translation: 
 ◆Guo Taichuan, named Lin Zong, was born in Jiexiu, Taiyuan. Family background is poor and humble.
 His father died early, and his mother wanted him to work in the county.
@@ -38,54 +37,12 @@ He is eight feet long, has a tall and majestic appearance, wears loose clothes a
 I once walked between Chen and Liang, and when it rained, I folded a corner of the towel and put it up. At that time, people also learned to deliberately fold a corner of the towel, which was called Lin Zongjin. Most people admired it like this.
 Someone asked Fan Pang of Runan: What kind of person is Guo Linzong?
 Fan Pang said: Living in seclusion like Jie Zitui does not violate the mother's will; serving as an official is like Liu Xiahui, who is loyal and not pretentious. The emperor cannot treat him as a minister, and the princes cannot treat him as a friend. Others, I don't know.
-Later, his mother died and he had a reputation of being extremely filial.
 
 summary:
 summary line 0: Guo Taichuan, also known as Lin Zong, was born into a poor family in Jiexiu, Taiyuan. After his father's early death, he refused his mother's suggestion to work in the county, instead studying under Chenggao Qu Boyan. He became well-versed in many books, eloquent, and renowned for his loud voice. While traveling in Luoyang, he befriended Li Ying of Henan, gaining fame in the capital. Returning home, he crossed the river alone with Li Ying, impressing onlookers. Despite recruitment offers from officials like Situ Huang Qiong, he declined, citing his observations of heaven and society. He was known for his tall, majestic appearance and his habit of folding a corner of his towel, which others imitated as "Lin Zongjin." Fan Pang praised him as a man who could not be treated as a subject or friend. After his mother's death, he was known for extreme filial piety. During the party disaster, he avoided harm by refraining from passionate discussions, teaching behind closed doors with thousands of students. In the first year of Jianning, he mourned the deaths of Chen Fan and Dou Wu, predicting the country's danger. He died at home at forty-two, with over a thousand mourners. Cai Yong wrote his epitaph, feeling no shame in doing so.
 
-Chunk 2: 
+Chunk 6: 
 original: 
-或有讥林宗不绝恶人者。
-对曰： 人而不仁，疾之以甚，乱也。 原后忽更怀忿，结客欲报诸生。
-其日林宗在学，原愧负前言，因遂罢去。
-后事露，众人咸谢服焉。茅容字季伟，陈留人也。
-年四十余，耕于野，时与等辈避雨树下，众皆夷踞相对，容独危坐愈恭。
-林宗行见之而奇其异，遂与共言，因请寓宿。
-旦日，容杀鸡为馔，林宗谓为己设，既而以供其母，自以草蔬与客同饭。
-林宗起拜之曰： 卿贤乎哉！
-因劝令学，卒以成德。
-孟敏字叔达，钜鹿杨氏人也。
-客居太原。荷甑墯地，不顾而去。
-林宗见而问其意。对曰： 甑以破矣，视之何益？
-林宗以此异之，因劝令游学。
-十年知名，三公俱辟，并不屈云。
-庾乘字世游，颍川鄢陵人也。
-少给事县廷为门士。林宗见而拔之，劝游学官，遂为诸生佣。
-translation: 
-Some people also ridiculed Guo Linzong for associating with bad people. He replied: If a person is unkind, hating him too harshly will force him to do more bad things.
-Later, Zuo Yuan suddenly became more resentful and gathered guests to take revenge on all living beings.
-Guo Linzong was at school that day. Zuo Yuan felt ashamed that he had failed to live up to what Guo Linzong had said before, so he left.
-Later the story leaked out and everyone thanked him. Mao Rong, courtesy name Jiwei, was born in Chenliu.
-In his forties, he was plowing in the wild. At that time, he and his peers were sheltering from the rain under a tree. Everyone was squatting facing each other, and Mao Rong was sitting alone, very respectful.
-Guo Linzong felt strange when he saw that he was different from everyone else. Because of the conversation with him, Mao Rong invited Lin Zong to stay at his house.
-The next morning, Mao Rong killed a chicken and made vegetables. Lin Zong thought it was for him. Later he found out that it was for his mother, and he used vegetables to eat with the guests.
-Guo Linzong bowed to him and said, "You are so wise!"
-Because he persuaded him to study, he finally became a moral person.
-Meng Min, courtesy name Shuda, was a native of Yang County, Julu County.
-When he was a guest in Taiyuan, he was carrying a steamer. The steamer accidentally fell to the ground and broke. He left without even looking at it.
-Guo Linzong saw him and asked what he meant. Meng Min replied: The steamer is broken, what's the use of it?
-Guo Linzong believed that Meng Min was not an ordinary person and advised him to study abroad.
-After ten years of becoming famous, he was recruited by all three princes, but none of them went.
-Yucheng, whose courtesy name was Shiyou, was from Yanling County, Yingchuan County.
-When he was young, he worked as a servant in the county. Guo Linzong saw him, promoted him, and persuaded him to study as an official because all students were doing odd jobs.
-
-summary:
-summary line 1: Guo Linzong was skilled in identifying and rewarding scholars. He advised Zuo Yuan, a disgraced county student, to reform, citing historical examples. Zuo Yuan later attempted revenge but left out of shame. He recognized Mao Rong's filial piety, persuading him to study and become virtuous. He advised Meng Min, who ignored a broken steamer, to study abroad, leading to his fame. He promoted Yucheng from a servant to a respected scholar. He reformed Song Guo, a vengeful man, into an upright official. He accepted Jia Shu, a sinister man, after his mother's death, leading to Jia's transformation. He predicted Shi Shubin's loss of reputation due to flattery. He warned Huang Yun about losing gains without truth, which came true when Huang dismissed his wife. He noted Xie Zhen and Bian Rang's talents but lack of Taoism, leading to their downfalls. He correctly predicted Wang Rou and Wang Ze's career paths. He also discovered talents among commoners, such as Zhang Xiaozhong and Fan Tezu.
-
-Chunk 5: 
-original: 
-然而逊言危行，终享时晦，恂恂善导，使士慕成名，虽墨、孟之徒，不能绝也。符融字伟明，陈留浚仪人也。少为都官吏，耻之，委去。
-后游太学，师事少府李膺。
 膺风性高简，每见融，辄绝它宾客，听其言论。
 融幅巾奋袖，谈辞如云，膺每捧手叹息。
 郭林宗始入京师，时人莫识，融一见嗟服，因以介于李膺，由是知名。
@@ -98,9 +55,15 @@ original:
 二人自是名论渐衰，宾徒稍省，旬日之间，惭叹逃去。
 后果为轻薄子，并以罪废弃。
 融益以知名。
+州郡礼请，举孝廉，公府连辟，皆不应。
+太守冯岱有名称，到官，请融相见。
+融一往，荐达郡士范冉、韩卓、孔亻由等三人，因辞病自绝。
+会有党事，亦遭禁锢。
+妻亡，贫无殡敛，乡人欲为具棺服，融不肯受。
+曰： 古之亡者，弃之中野。
+唯妻子可以行志，但即土埋藏而已。
+融同郡田盛，字仲向，与郭林宗同好，亦名知人，优游不仕，并以寿终。
 translation: 
-As well as sixty people from the same county, including Guo Changxin, Wang Changwen, Han Wenbu, Li Zizheng, Cao Ziyuan, Dingxiang Zhou Kangzi, Xihe Wang Jiran, Yunzhongqiu Jizhi, Hao Lizhen, etc., all became famous because of him. ◆The biography of Fulong, whose courtesy name is Weiming, was from Junyi, Chenliu County. When he was young, he served as a capital official. He thought it was shameful and abandoned him.
-Later, he traveled to Taixue and became a teacher of Shaofu Li Ying.
 Li Ying had a noble and pure temperament. Every time he met with Fulong, he often declined other guests and listened to Fulong's words.
 Fulong waved his sleeves and talked fluently, while Li Ying often held his hands and sighed.
 Guo Linzong began to go to the capital, and he didn't know each other at the time. Fulong admired him when he met him, and introduced him to Li Ying. Guo Linzong became famous all over the world.
@@ -113,18 +76,67 @@ Li Ying thinks it is right.
 From then on, the reputation of the two gradually declined, and there were fewer guests and disciples. Within ten days, they ran away with a sigh of shame.
 Later I found out that they were really frivolous boys and both were abandoned for committing crimes.
 Fulong became more famous because of this.
+The prefectures and counties invited him with courtesy and commended him for his filial piety and integrity. The government summoned him many times, but he failed.
+The prefect Feng Dai was famous. When he arrived, he asked Fulong to meet him.
+As soon as Fulong left, he recommended three county officials, including Fan Ran, Han Zhuo, and Kong Qianyou, but excused themselves from contact with the prefect because of illness.
+In case of party disaster, he was also banned from serving as an official.
+His wife died, and she was too poor to bury her. The villagers wanted to help him organize a coffin, but Fulong refused to accept it.
+Said: In ancient times, dead people were thrown into the wild.
+Only my wife can carry out my will, so let me bury her in the ground.
+Tian Sheng, whose courtesy name was Zhongxiang, was from the same county as Fulong. He was close to Guo Linzong and had a good understanding of people. He did not hold an official position and was carefree and died at home.
+
+summary:
+summary line 1: Guo Linzong was skilled in identifying and rewarding scholars. He advised Zuo Yuan, a disgraced county student, to reform, citing historical examples. Zuo Yuan later attempted revenge but left out of shame. He recognized Mao Rong's filial piety, persuading him to study and become virtuous. He advised Meng Min, who ignored a broken steamer, to study abroad, leading to his fame. He promoted Yucheng from a servant to a respected scholar. He reformed Song Guo, a vengeful man, into an upright official. He accepted Jia Shu, a sinister man, after his mother's death, leading to Jia's transformation. He predicted Shi Shubin's loss of reputation due to flattery. He warned Huang Yun about losing gains without truth, which came true when Huang dismissed his wife. He noted Xie Zhen and Bian Rang's talents but lack of Taoism, leading to their downfalls. He correctly predicted Wang Rou and Wang Ze's career paths. He also discovered talents among commoners, such as Zhang Xiaozhong and Fan Tezu.
+
+Chunk 6: 
+original: 
+膺风性高简，每见融，辄绝它宾客，听其言论。
+融幅巾奋袖，谈辞如云，膺每捧手叹息。
+郭林宗始入京师，时人莫识，融一见嗟服，因以介于李膺，由是知名。
+时汉中晋文经、梁国黄子艾，并恃其才智，炫曜上京，卧托养疾，无所通接。
+洛中士大夫好事者，承其声名，坐门问疾，犹不得见。
+三公所辟召者，辄以询访之，随所臧否，以为与夺。
+融察其非真，乃到太学，并见李膺曰： 二子行业无闻，以豪桀自置，遂使公卿问疾，王臣坐门。
+融恐其小道破义，空誉违实，特宜察焉。
+膺然之。
+二人自是名论渐衰，宾徒稍省，旬日之间，惭叹逃去。
+后果为轻薄子，并以罪废弃。
+融益以知名。
+州郡礼请，举孝廉，公府连辟，皆不应。
+太守冯岱有名称，到官，请融相见。
+融一往，荐达郡士范冉、韩卓、孔亻由等三人，因辞病自绝。
+会有党事，亦遭禁锢。
+妻亡，贫无殡敛，乡人欲为具棺服，融不肯受。
+曰： 古之亡者，弃之中野。
+唯妻子可以行志，但即土埋藏而已。
+融同郡田盛，字仲向，与郭林宗同好，亦名知人，优游不仕，并以寿终。
+translation: 
+Li Ying had a noble and pure temperament. Every time he met with Fulong, he often declined other guests and listened to Fulong's words.
+Fulong waved his sleeves and talked fluently, while Li Ying often held his hands and sighed.
+Guo Linzong began to go to the capital, and he didn't know each other at the time. Fulong admired him when he met him, and introduced him to Li Ying. Guo Linzong became famous all over the world.
+At that time, Wenjing of Jin Dynasty in Hanzhong and Huang Ziai of Liang Dynasty all relied on their talents to show off to the capital, and excused themselves to stay home due to illness and did not receive guests.
+Sergeant Luo, a nosy doctor, admired his reputation and sat outside his door to ask questions, but did not receive him.
+Sangong was recruited and often visited him, using what they said was good or bad as a criterion for choosing.
+Fulong understood that there was a lie in it, so he went to Taixue and met with Li Ying. He said: "I have not heard that these two people have any virtues, and they consider themselves heroes. Therefore, I sent the minister to ask about their illness. Wang Chen sat outside the door and asked to receive him."
+I'm afraid they are heresy, with false reputations and no facts. We should examine them carefully!
+Li Ying thinks it is right.
+From then on, the reputation of the two gradually declined, and there were fewer guests and disciples. Within ten days, they ran away with a sigh of shame.
+Later I found out that they were really frivolous boys and both were abandoned for committing crimes.
+Fulong became more famous because of this.
+The prefectures and counties invited him with courtesy and commended him for his filial piety and integrity. The government summoned him many times, but he failed.
+The prefect Feng Dai was famous. When he arrived, he asked Fulong to meet him.
+As soon as Fulong left, he recommended three county officials, including Fan Ran, Han Zhuo, and Kong Qianyou, but excused themselves from contact with the prefect because of illness.
+In case of party disaster, he was also banned from serving as an official.
+His wife died, and she was too poor to bury her. The villagers wanted to help him organize a coffin, but Fulong refused to accept it.
+Said: In ancient times, dead people were thrown into the wild.
+Only my wife can carry out my will, so let me bury her in the ground.
+Tian Sheng, whose courtesy name was Zhongxiang, was from the same county as Fulong. He was close to Guo Linzong and had a good understanding of people. He did not hold an official position and was carefree and died at home.
 
 summary:
 summary line 2: Fulong, from Chenliu, abandoned his post as a capital official and studied under Li Ying. He introduced Guo Linzong to Li Ying, making him famous. Fulong exposed the false reputations of Wenjing and Huang Ziai, causing their decline. He refused official posts and buried his wife simply. Tian Sheng, his close friend, was also skilled in understanding people.
 
-Chunk 7: 
+Chunk 8: 
 original: 
-又陈蕃丧妻还葬，乡人毕至，而邵独不往。
-或问其故，劭曰： 太丘道广，广则难周；仲举性峻，峻则少通。
-故不造也。
-其多所裁量若此。
-曹操微时，常卑辞厚礼，求为己目。
-劭鄙其人而不肯对，操乃伺隙胁劭，劭不得已，曰： 君清平之奸贼，乱世之英雄。
 操大悦而去。
 劭从祖敬，敬子训，训子相，并为三公，相以能谄事宦官，故自致台司封侯，数遣请劭。劭恶其薄行，终不候之。
 劭邑人李逵，壮直有高气，劭初善之，而后为隙，又与从兄靖不睦，时议以此少之。
@@ -132,13 +144,13 @@ original:
 司空杨彪辟，举方正、敦朴，征，皆不就。
 或劝劭仕，对曰： 方今小人道长，王室将乱，吾欲避地淮海，以全老幼。
 乃南到广陵。
+徐州刺史陶谦礼之甚厚。
+劭不自安，告其徒曰： 陶恭祖外慕声名，内非真正。
+待吾虽厚，其势必薄。不如去之。
+遂复投扬州刺史刘繇于曲阿。
+其后陶谦果捕诸寓士。乃孙策平吴，劭与繇南奔豫章而卒。时年四十六。
+兄虔亦知名，汝南人称平舆渊有二龙焉。
 translation: 
-Chen Fan's wife died and she returned to her hometown for burial. Everyone in the village went to attend the funeral, but Xu Shao did not go.
-Someone asked him why, and Xu Shao said: Taiqiu's Taoism is too broad, and it is hard to be thorough in wideness; Zhongju has a severe temperament, and he cannot be thorough in Jun.
-So I won't go.
-Most of his comments on people are like this.
-When Cao Cao didn't want to make a name for himself, he once made generous gifts and humbly asked Xu Shao to talk to him.
-Xu Shao looked down on him and refused to speak, so Cao Cao found an opportunity to threaten Xu Shao. Xu Shao had no choice but to say, "You are a traitor in a time of peace and a hero in a time of trouble."
 Cao Cao left very happily.
 Xu Shao's uncle Xu Jing, Xu Jing's son Xu Xun, and Xu Xiang were all ministers of the Three Dukes. Because Xu Xiang flattered the eunuchs, he went to Taisi to grant him the title of Marquis. He sent people to invite Xu Shao many times. Xu Shao thought that Xu Xiang had no virtue and behaved abominably, so he never visited him.
 Li Kui, a native of the same county as Xu Shao, was upright and had noble ambitions. Xu Shao began to be friendly with him, but later they had conflicts and discord with his brother Xu Jing. Public opinion at that time was dissatisfied with him.
@@ -146,6 +158,12 @@ At first, Xu Shao and Xu Jing were both well-known and liked to comment on towns
 When Sikong Yang Biao summoned Xu Shao, he promoted him as upright, upright, and honest, but he failed to respond.
 Someone advised Xu Shao to become an official. He replied: "Now that the villain has succeeded, the royal family will be in chaos. I want to go to Huaihai to escape to save the children and the elderly."
 So we went south to Guangling.
+Tao Qian, the governor of Xuzhou, treated each other with courtesy and was extremely considerate.
+Xu Shao felt uneasy and told his disciples: "Tao Gongzu has a good reputation on the surface, but he is not true in his heart."
+Although it is very kind to me, this situation cannot last long, so it is better to leave.
+So he went to Qu'a to join Liu Yao, the governor of Yangzhou.
+Later, Tao Qian indeed captured the guests who were staying with him. After Sun Ce pacified Wu, Xu Shao and Liu Yaonan fled Yuzhang and died there at the age of forty-six.
+Xu Shao's brother Xu Qian was also famous. People in Runan said Pingyu had two dragons.
 
 summary:
 summary line 3: Xu Shao, from Runan, was known for moral responsibility and commenting on people. He influenced Yuan Shao to reduce his luxury. He avoided visiting Chen Chen and Chen Fan, citing their flaws. He famously called Cao Cao a "traitor in peace, hero in trouble." He refused to visit his uncle Xu Xiang due to his flattery of eunuchs. He and his brother Xu Jing held monthly critiques in Runan. He declined official posts, fleeing to Guangling and later to Qu'a to join Liu Yao. He died in Yuzhang at forty-six. His brother Xu Qian was also famous, known as the "two dragons of Pingyu."

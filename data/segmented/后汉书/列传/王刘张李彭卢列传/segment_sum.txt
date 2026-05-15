@@ -1,4 +1,4 @@
-Summary uses chunk [0, 3, 15]
+Summary uses chunk [0, 3, 16]
 
 Chunk 0: 
 original: 
@@ -37,6 +37,9 @@ summary line 0: Wang Chang, a prince from Handan in Zhao State, was originally a
 
 Chunk 3: 
 original: 
+更始即位，永先诣洛阳，绍封为梁王，都睢阳。永闻更始政乱，遂据国起兵，以弟防为辅国大将军，防弟少公御史大夫，封鲁王。
+遂招诸豪杰沛人周建等，并署为将帅，攻下齐阴、山阴、沛、楚、淮阳、汝南，凡得二十八城。
+又遣使拜西防贼帅山阳佼彊为横行将军。
 是时，东海人董宪起兵据其郡，而张步亦定齐地。
 永遣使拜宪翼汉大将军、步辅汉大将军，与共连兵，遂专据东方。
 及更始败，永自称天子。
@@ -45,19 +48,10 @@ original:
 鲔既降汉，茂亦归命，光武因使茂与盖延俱攻永。军中不相能，茂遂反，杀淮阳太守，掠得数县。据广乐而臣于永。
 永以茂为大司马、淮阳王。
 盖延遂围睢阳，数月，拔之，永将家属走虞。
-虞人反，杀其母及妻子，永与麾下数十人奔谯。
-苏茂。佼彊、周建合军救永，为盖延所败，茂奔还广乐，彊、建从永走保湖陵。
-三年春，永遣使立张步为齐王，董宪为海西王。
-于是遣大司马吴汉等围苏茂于广乐，周建率众救茂，茂、建战败，弃城复还湖陵，而睢阳人反城迎永。
-吴汉与盖延等合军围之，城中食尽，永与茂、建走酂。
-诸将追急，永将庆吾斩永首降，封吾为列侯。
-苏茂、周建奔垂惠，共立永子纡为梁王。
-佼彊还保西防。
-四年秋，遣捕虏将军马武、骑都尉王霸围纡、建于垂惠，苏茂将五校兵救之，纡、建亦出兵与武等战，不克，而建兄子诵反，闭城门拒之。
-建、茂、纡等皆走，建于道死，茂奔下邳与董宪合，纡奔佼彊。
-五年，遣骠骑大将军杜茂攻佼彊于西防，彊与刘纡奔董宪。
-时，平狄将军庞萌反叛，遂袭破盖延，引兵与董宪连和，自号东平王，屯桃乡之北。
 translation: 
+When Gengshi came to the throne, Liu Yong went to Luoyang first, was succeeded as King of Liang, and made his capital Suiyang. Liu Yong heard that Gengshi was in political chaos, so he raised troops based on the feudal city, and appointed his younger brother Liu Fang as the auxiliary general.
+So he summoned all the heroes from Pei, Zhou Jian and others, and served as generals at the same time, and captured Jiyin, Shanyang, Pei, Chu, Huaiyang, and Runan, and captured twenty-eight cities in total.
+He also sent envoys to worship Shanyang Jiaoqiang, the bandit commander in the west, as General Hengxing.
 At this time, Dong Xian, a native of Donghai, raised troops and occupied Donghai County, and Zhang Bu also pacified Qi.
 Liu Yong sent envoys to worship Dong Xian as the general of the Yi Han Dynasty, and Zhang Bu as the general of the auxiliary Han Dynasty. They joined forces with them, so they separated the east.
 Later, the reform failed, and Liu Yong proclaimed himself emperor.
@@ -66,53 +60,49 @@ At first, Su Mao, a native of Chenliu, attacked the general for the purpose of r
 After Zhu Jun surrendered to the Han Dynasty, Su Mao also returned to Guangwu. Guangwu sent Su Mao and Gai Yan to attack Liu Yong together. When there was disharmony among the troops, Su Mao rebelled, killed the governor of Huaiyang, plundered several counties, occupied Guangle and declared himself a vassal to Liu Yong.
 Liu Yong took Su Mao as the Grand Sima and King of Huaiyang.
 Gai Yan then besieged Suiyang for several months and captured Suiyang. Liu Yong and his family fled Yu County.
-The Yu people rebelled and killed Liu Yong's mother, wife and children. Liu Yong and dozens of his men fled to Qiao County.
-Su Mao, Jiaoqiang, and Zhou Jian joined forces to rescue Liu Yong, but were defeated by Gai Yan. Su Mao rushed back to Guangle, while Jiaoqiang and Zhou Jian followed Liu Yong to protect Huling.
-In the spring of the third year of Jianwu, Liu Yong sent envoys to establish Zhang Bu as King of Qi and Dong Xian as King of Haixi.
-Guangwu then sent Grand Sima Wu Han and others to surround Su Mao in Guangle. Zhou Jian led his troops to rescue Su Mao. Sum Mao and Zhou Jian were defeated, abandoned Guangle City and returned to Huling, while the Suiyang people in turn gathered the city to welcome Liu Yong.
-Wu Han, Gai Yan and other combined forces surrounded Suiyang and the city ran out of food. Liu Yong, Su Mao and Zhou Jian fled to Zanhuang County.
-The generals pursued him urgently. Liu Yong beheaded Qingwu and surrendered. Qingwu was granted the title of lord.
-Su Mao and Zhou Jian fled to Chuihui and jointly established Liu Yong's son Liu Yu as King of Liang.
-Jiaoqiang fled back to the west to defend himself.
-In the autumn of the fourth year of Jianwu, Guangwu sent the captured general Ma Wu and the cavalry captain Wang Ba to surround Liu Yu and Zhou Jian in Chuihui. Su Mao led five soldiers to rescue them. Liu Yu and Zhou Jian also sent troops to fight Ma Wu and others, but they were defeated. However, Zhou Jian's nephew Zhou Song rebelled and closed the city gates to resist.
-Su Mao, Zhou Jian, and Liu Yu all fled. Zhou Jian died on the road. Su Mao fled to Xiapi to join Dong Xian, and Liu Yu became the best.
-In the fifth year of Jianwu's reign, Guangwu sent General Du Mao to attack Jiaoqiang and defend against the west. Jiaoqiang and Liu Yu fled to Dong Xian.
-At this time, General Pang Meng of Pingdi rebelled, so he conquered Gaiyan, led his troops to join forces with Dong Xian, named himself King Dongping, and stationed troops in the north of Taoxiang.
 
 summary:
 summary line 1: The next year, Guangwu attacked Wang Lang, besieging Julu and then Handan. Wang Lang sent Du Wei to negotiate, claiming to be the true son of Emperor Cheng, but Guangwu refused. After a 20-day siege, Li Li, Wang Lang's Shaofu, rebelled and opened the city gates. Wang Lang fled but was killed. Liu Yong, an eighth-generation grandson of King Xiao of Liang, was enfeoffed after Gengshi's ascension. He raised troops, captured 28 cities, and allied with Dong Xian and Zhang Bu. After Gengshi's failure, Liu Yong proclaimed himself emperor. Guangwu sent Gai Yan to attack Liu Yong. Su Mao, initially serving Gengshi, surrendered to Guangwu but later rebelled and joined Liu Yong. Gai Yan besieged Suiyang, capturing it, but Liu Yong fled. After several battles, Liu Yong was killed, and his son Liu Yu was briefly established as king before being defeated. Dong Xian and Pang Meng also rebelled but were eventually killed. Zhang Bu, from Langfu, gathered troops and declared himself General Wuwei. He allied with Liu Yong and later killed Fulong, Guangwu's envoy. Guangwu attacked Zhang Bu, who was defeated and surrendered, but later fled and was killed.
 
-Chunk 15: 
+Chunk 16: 
 original: 
-陛下圣德高明，躬率众贤，海内宾服，惠及殊俗。
-以胏附之故，赦臣芳罪，加以仁恩，封为代王，使备北藩。
-无以报塞重责，冀必欲和辑匈奴，不敢遗余力，负恩贷。
-谨奉天子玉玺，思望阙庭。 诏报芳朝明年正月。
-其冬，芳入朝，南及昌平，有诏止，令更朝明岁。
-芳自道还，忧恐，乃复背叛，遂反，与闵堪、闵林相攻连月。
-匈妈遣数百骑迎芳及妻子出塞。
-论曰：传称 盛德必百世祀 ，孔子曰 宽则得众 。夫能得众心，则百世不忘矣。
-观更始之际，刘氏之遗恩余烈，英雄岂能抗之哉！
-然则知高祖、孝文之宽仁，结于人心深矣。
-周人之思邵公，爱其甘棠，又况其子孙哉！
-刘氏之再受命，盖以此乎！
-若数子者，岂有国之远图哉！
-因时扰攘，苟瓷纵而已耳，然犹以附假宗室，能掘强岁月之间。观其智略，固无足以惮汉祖，发其英灵者也。
+今汉亦中绝，刘氏来归我，亦当立之，令尊事我。 乃使句林王将数千骑迎芳，芳与兄禽、弟程俱入匈奴。
+单于遂立芳为汉帝。
+以程为中郎将，将胡骑还入安定。
+初，五原人李兴、随昱，朔方人田飒，代郡人石鲔、闵堪，各起兵自称将军。
+建武四年，单于遣无楼且渠王入五原塞，与李兴等和亲，告兴欲令芳还汉地为帝。
+五年，李兴、闵堪引兵至单于庭迎芳，与俱入塞，都九原县。
+掠有五原、朔方、云中、定襄、雁门五郡，并置守令，与胡通兵，侵苦北边。
+六年，芳将军贾览将胡骑击杀代郡太守刘兴。
+芳后以事诛其五原太守李兴兄弟，而其朔方太守田飒、云中太守桥扈恐惧，叛芳，举郡降，光武令领职如故。
+后大司马吴汉、骠骑大将军杜茂数击芳，并不克。
+十二年，芳与贾览共攻云中，久不下，其将随昱留守九原，欲胁芳降。
+芳知羽翼外附，心膂内离，遂弃辎重，与十余骑亡入匈奴，其众尽归随昱。
+昱乃随使者程恂诣阙。拜昱为五原太守，封镌胡侯，昱弟宪武进侯。
+十六年，芳复入居高柳，与闵堪兄林使使请降。
+乃立芳为代王，堪为代相，林为代太傅，赐缯二万匹，因使和集匈奴。
+芳上疏谢曰： 臣芳过托先帝遗体，弃在边陲。社稷遭王莽废绝，以是子孙之忧，所宜共诛，故遂西连羌戎，北怀匈奴。
+单于不忘旧德，权立救助，是时兵革并起，往往而在。
+臣非敢有所贪觊，期于奉承宗庙，兴立社稷，是以久僣号位，十有余年，罪宜万死。
 translation: 
-Your Majesty has great virtues and virtues. He personally leads the virtuous people. He surrenders to you at home and his favor extends to distant places.
-For the sake of relatives, forgive my sins, show me kindness, make me acting king, and order me to guard the northern border.
-There is no way to repay the heavy responsibility, but I hope that I can live in harmony with the Xiongnu to live up to the divine grace.
-I would like to dedicate the emperor's jade seal to worship in the palace. The imperial edict ordered Lu Fang to enter the court in the first month of the next year.
-In the winter of this year, Lu Fang entered the court and went south to Changping County. He was issued an edict to stop his journey and ordered him to come back next year.
-Lu Fang had no choice but to return where he was. Feeling depressed and frightened, he betrayed him again and fought against Min Kan and Min Lin for months.
-The Huns sent hundreds of horses to welcome Lu Fang and his wife out of the fortress.
-Lu Fang stayed among the Huns for more than ten years and died of illness. The historian commented: It is said that people with great virtues will last for generations. Confucius said: If you are tolerant, you will win people's hearts. If you can win people's hearts, you will not be forgotten for a hundred generations.
-We see that in the era of reform, the Liu family’s legacy remains. Who can resist a hero?
-In this way, we can know how deep the kindness of Gaozu and Xiaowen is in people's hearts.
-The people of the Zhou Dynasty missed Shaogong because Shaogong once heard about Gantang and did not cut it or cut it down, let alone his descendants.
-This is probably why the Liu family was revived.
-Do people like Wang, Liu, Zhang, Li, Peng, and Lu have the foresight to serve their country?
-They were just taking advantage of the situation and doing random things, but they were able to show off their strength in the name of the fake Liu clan. Judging from their wisdom and strategy, it was not enough to scare the emperor of the Han Dynasty and inspire his heroic spirit!
+Now that Han Zuo has been defeated, and the Liu family has returned to me, I should also establish him and let him respect me. So he sent King Julin to lead thousands of horses to meet Lu Fang. Lu Fang, his brother Lu Qin, and his brother Lu Cheng all went to the Xiongnu.
+The Chanyu established Lu Fang as Emperor of the Han Dynasty.
+With Lu Cheng as the Zhonglang general, he led the Huns cavalry back to Anding.
+At first, Li Xing and Sui Yu from Wuyuan, Tian Sa from Shuofang, and Shi Tun and Min Kan from Daijun each raised their own troops and called themselves generals.
+In the fourth year of Jianwu, Shanyu sent King Wulou Qiequ to Wuyuan fortress to make peace with Li Xing and others, and told Li Xing that he wanted to make Lu Fang return to the Han Dynasty and become the emperor of the Han Dynasty.
+In the fifth year of Jianwu's reign, Li Xing and Min Kan led troops to the Shanyu Courtyard to welcome Lu Fang, and they entered the fortress together and made Jiuyuan County their capital.
+The five counties of Wuyuan, Shuofang, Yunzhong, Dingxiang and Yanmen were plundered. They all set up prefectures and magistrates, and fought with the Xiongnu. The northern frontier was invaded and suffered.
+In the sixth year of Jianwu, Lu Fang's general Jia Lan led Hu Qi to kill Liu Xing, the prefect of Daijun.
+Lu Fang later executed the brothers Li Xing, the prefect of Wuyuan, so that Tian Sa, the prefect of Shuofang, and Qiao Hu, the prefect of Yunzhong, were frightened, rebelled against Lu Fang, and surrendered with the whole county. Guangwu ordered them to remain the prefects of the original county as before.
+Later, Grand Sima Wu Han and Hussar General Du Mao attacked Lu Fang several times, but failed to conquer it.
+In the twelfth year of Jianwu's reign, Lu Fang and Jia Lan jointly attacked Yunzhong, but could not capture it for a long time. Their general Sui Yu stayed in Jiuyuan, hoping to force Lu Fang to surrender.
+Lu Fang knew that his subordinates were affiliated with the Han Dynasty and that their confidants were rebelling from within, so he abandoned his baggage and fled to the Xiongnu with more than ten cavalry. All his subordinates joined Sui Yu.
+Sui Yu then went to the capital with his envoy Cheng Xun. Emperor Guangwu worshiped Sui Yu as the governor of Wuyuan, granted him the title of Marquis of Hu, and followed his younger brother Sui Xian as the Marquis of Wujin.
+In the 16th year of Jianwu's reign, Lu Fang returned to Gaoliu County and sent an envoy to Min Kan's brother Min Lin to request his surrender.
+The emperor then appointed Lu Fang as the acting king, Min Kan as the acting prime minister, and Min Lin as the acting Taifu. He gave him 20,000 pieces of silk, so that he could live in peace with the Xiongnu.
+Lu Fang Shangshu Xie En said: My minister Lu Fang entrusted me with the late emperor's body, which was abandoned at the border. The Han Dynasty Sheji was abolished by Wang Mang. This is the worry of the descendants of the Liu family. They should rise up and kill the national traitors together. Therefore, I am connected with the Qiang Rong in the west and the Xiongnu in the north.
+The Shanyu does not forget his old virtues, and he has the right to appoint me to help him. At that time, there were wars and revolutions everywhere.
+I dare not be greedy and covet, but only hope to flatter the ancestral temple and establish the state. Therefore, I have usurped the title of Han Emperor for more than ten years. This is a crime worthy of death.
 
 summary:
 summary line 2: Li Xian, from Xuchang, declared himself King of Huainan and later emperor. Guangwu attacked and captured Shu County, leading to Li Xian's death. Peng Chong, from Wan County, served as a county official and later fled to Yuyang. He supported Guangwu but became resentful when his rewards were insufficient. He rebelled, attacked Zhufu, and allied with the Xiongnu. He declared himself King of Yan but was killed by his servants. Lu Fang, from Sanshui, falsely claimed to be Liu Wenbo, a descendant of Emperor Wu. He allied with the Xiongnu and declared himself emperor. He fought with Guangwu's forces but eventually surrendered, though he later rebelled again and died among the Xiongnu. The historian comments that the Liu family's legacy endured due to the deep kindness of Gaozu and Xiaowen, and that the rebels like Wang, Liu, Zhang, Li, Peng, and Lu merely took advantage of the situation without true foresight or strategy.

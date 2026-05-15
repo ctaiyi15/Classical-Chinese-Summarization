@@ -1,4 +1,4 @@
-Summary uses chunk [0, 2, 3, 10, 0]
+Summary uses chunk [0, 9, 13, 15]
 
 Chunk 0: 
 original: 
@@ -17,12 +17,6 @@ original:
 后以儒术举为侍郎，给事黄门，迁密令。
 劳心谆谆，视人如子，举善而教，口无恶言，吏人亲爱而不忍欺之。
 人尝有言部享长受其米肉遗者，茂辟左右问之曰： 亭长为从汝求乎？为汝有事嘱之而受乎？
-将平居自以恩意遗之乎？ 人曰： 往遗之耳。
-茂曰： 遗之而受，何故言邪？
-人曰： 窃闻贤明之君，使人不畏吏，吏不取人。
-今我畏吏，是以遗之，吏既卒受，故来言耳。
-茂曰： 汝为敝人矣。
-凡人所以贵于禽兽者，以有仁爱，知相敬事也。
 translation: 
 ◆Zhuomao Biography: Zhuomao, courtesy name Zikang, was a native of Wan, Nanyang County.
 Both his father and grandfather were officials and county guards.
@@ -39,93 +33,54 @@ This is how Zhuomao has no disputes with others.
 Later, he was elected as a minister with Confucianism, served in Huangmen, and moved to Mi County as magistrate.
 He works diligently and conscientiously in his duties, treats the people as his sons, practices good governance and teaches others, speaks no evil words, and the officials and the people love him and cannot bear to bully him.
 Some people once said that the chief of the pavilion under Zhuomao once accepted his gifts of rice and meat. Zhuomao avoided his subordinates and asked him, "Did the pavilion chief comply with your request, or did you accept it because you had something to tell him?"
-Or was it given to him because you usually felt that he was kind to you? The man said: I gave it to him myself.
-Zhuo Mao said: You gave it to him and he accepted it, why did he say it out loud?
-The man said: I heard that a wise king can make people not afraid of officials, and officials will not take people's property.
-Now I'm afraid of the officials, so I gave him something. Since the chief of the pavilion has accepted it, that's why I said it.
-Zhuo Mao said: You are an ignorant person.
-The reason why humans are more valuable than animals is because they have benevolence and know how to treat each other with respect.
 
 summary:
-summary line 0: **Summary of Historical Biographies**
+summary line 0: **Zhuomao Biography:** Zhuomao, a native of Wan in Nanyang County, studied in Chang'an under Dr. Jiang Weng, mastering the "Poetry," "Li," and Calendar, and was called a Tongru for exhausting his teacher's scholarship. He was tolerant and respectful. Once, a man mistakenly claimed Zhuomao's horse as his own; Zhuomao gave it to him without dispute. When the man later found his own horse, he returned Zhuomao's horse with apologies. As magistrate of Mi County, Zhuomao governed diligently, treating the people as his sons. When a man admitted to giving gifts to a pavilion chief, Zhuomao explained that such exchanges were part of human relationships, not illegal coercion, and the people accepted his teachings. During a locust plague under Emperor Ping, locusts did not enter Mi County, a fact confirmed by the prefect. Under Wang Mang, Zhuomao was appointed minister of the capital but later resigned due to illness. When Gengshi was established, Zhuomao served briefly but resigned, knowing the political turmoil. Guangwu later visited him, praising his integrity. Zhuomao and six comrades, including Kong Xiu and Liu Xuan, refused to serve Wang Mang. Kong Xiu committed suicide when Wang Mang usurped the throne. Liu Xuan hid in the mountains until Jianwu. The historian noted that Zhuomao, a small county magistrate over seventy, was honored by Guangwu, akin to ancient kings honoring virtuous men.
 
-Chunk 2: 
+Chunk 9: 
 original: 
-及莽居摄，以病免归郡，常为门下掾祭酒，不肯作职吏。
-更始立，以茂为侍中祭酒，从至长安，知更始政乱，以年老乞骸骨归。
-时，光武初即位，先访求茂，茂诣河阳谒见。
-乃下诏曰 前密令卓茂，束身自修，执节淳固，诚能为人所不能为。
-棽卒，子嗣。，子隆嗣。永元十五年，隆卒，无子，国除。初，茂与同县孔休、陈留蔡勋、安众刘宣、楚国龚胜、上党鲍宣六人同志，不仕王莽时，并名重当时。
-休字子泉，哀帝初，守新都令。
-后王莽秉权，休去官归家。
-及莽篡位，遣使赍玄纁、束帛，请为国师，遂欧血托病，杜门自绝。
-光武即位，求休、勋子孙，赐谷以旌显之。
-刘宣字子高，安众侯崇之从弟，知王莽当篡，乃变名姓，抱经书隐避林薮。
-勋事在玄孙邕传。
-论曰：建武之初，雄豪方扰，虓呼者连响，婴城者相望，斯固倥偬不暇给之日。
-卓茂断断小宰，无它庸能，时已七十余矣，而首加聘命，优辞重礼，其与周、燕之君表闾立馆何异哉？
-于是蕴愤归道之宾，越关阻，捐宗族，以排金门者众矣。
-夫厚性宽中近于仁，犯而不校邻于恕，率斯道也，怨悔曷其至乎！
+书奏，不从。
+每政事有益于人，恭辄言其便，无所隐讳。
+其后拜为《鲁诗》博士，由是家法学者日盛。
+迁侍中，数召宴见，问以得失，赏赐恩礼宠异焉。
+迁乐安相。
+是时，东州多盗贼，群辈攻劫，诸郡患之。
+恭到，重购赏，开恩信，其渠帅张汉等率支党降，恭上以汉补博昌尉，其余遂自相捕击，尽破平之，州郡以安。
+永元九年，征拜议郎。
+八月，饮酎，斋会章台，诏使小黄门特引恭前。
+其夜拜侍中，敕使陪乘，劳问甚渥。
+冬，迁光禄勋，选举清平，京师贵戚莫能枉其正。
+十三年，代吕盖为司徒。
+十五年，从巡狩南阳，除子抚为郎中，赐驸马从驾。
+时弟丕亦为侍中。
+兄弟父子并列朝廷。
+后坐事策免。
+殇帝即位，以恭为长乐卫尉。
+永初元年，复代梁鲔为司徒。
 translation: 
-When Wang Mang was living in the country, he was exempted from returning to the county because of his illness. He often offered wine to his disciples and refused to serve as an official.
-Gengshi was established, and Zhuomao was appointed as his attendant to offer wine. He followed him to Chang'an. Knowing that Gengshi was in political turmoil, he asked to resign and return home because of his old age.
-At this time, when Guangwu came to the throne, he first went to visit Zhuomao, and Zhuomao went to Heyang to see him.
-Guangwu issued an edict saying: Zhuomao, the former magistrate of Mi County, restrained and cultivated himself, was honest and steady in his duties, and could do things that others could not do.
-At first, Zhuomao and his six comrades, Kong Xiu from the same county, Cai Xun from Chenliu, Liu Xuan from Anzhong, Gong Sheng from Chu, and Bao Xuan from Shangdang, did not serve in the reign of Wang Mang, but were famous at that time.
-Kong Xiu, whose courtesy name was Ziquan, was the county magistrate of Xindu in the early days of Emperor Ai.
-Later, when Wang Mang assumed power, Kong Xiu resigned from office and returned home.
-When Wang Mang usurped the throne, he sent an envoy with Xuan Jinxun and silk to ask him to be the national advisor. Kong Xiu vomited blood and blamed his illness, and Du Men committed suicide.
-When Guangwu came to the throne, he asked the descendants of Kong Xiu and Cai Xun to give him grain to show his power.
-Liu Xuan, courtesy name Zigao, was a cousin of Anzhonghou Liu Chong. Knowing that Wang Mang would usurp the throne, he changed his name and hid in the mountains holding scriptures.
-When Jianwu first came out of the mountain, Guangwu attacked Liu Xuan and granted him the title of Marquis of An.
-Gong Ci, Gong Sheng's son, was promoted to be the prefect of Shanggu. The historian commented: At the beginning of the founding of the military, the heroes were quarreling, shouting and shouting, and those who defended themselves in the city looked at each other. This was the time when there were too many things to do.
-Zhuomao, a small county magistrate with no other extraordinary talents and over seventy years old, was able to be appointed as the first to be appointed and receive great gifts and words. How is this different from King Wu of Zhou who appointed Bigan to watch Shang Rong and King Zhao of Yan to serve as Guo Wei's tutor in building a palace?
-Therefore, many guests who harbored righteous indignation and hoped to return to the right path crossed the dangerous mountains and abandoned their clans in order to exclude the Jinmen embroidered households.
-Being kind and lenient is closer to benevolence, and not repaying someone for committing a crime is closer to forgiveness. If you can do this, will anyone still be resentful?
+The book was sent to the emperor, but the emperor refused to obey.
+Whenever political affairs were discussed, as long as they were beneficial to others, Lu Gong would always speak frankly and hide nothing.
+Later, he became a doctor of "Lu Shi". From then on, the family's legal scholars became more and more prosperous.
+He was moved to serve as a servant, and he held banquets several times to ask about his gains and losses. His rewards, favors, and favors were different from ordinary people.
+Later, he was moved to the position of Liu Chong, the king of Qiancheng.
+At this time, there were many thieves in Dongzhou, and they formed groups to attack and plunder, causing trouble to all the counties.
+After Lu Gong arrived, he bought rewards with heavy sums of money and spread the favor widely. His commander-in-chief Zhang Han and others led his faction to surrender. Lu Gong used him as Han supplicant Bo Changwei.
+In the ninth year of Yongyuan, he was recruited and worshiped as Yilang.
+In August, he drank pure strong wine and met at Zhangtai. He ordered Xiaohuangmen to lead Lu Gong forward.
+That night he worshiped as a servant and ordered an envoy to accompany him to express his condolences and ask for his kindness.
+In winter, Luxun was moved to Guangzhou, and the election was pure and fair. No one from the capital could distort his integrity.
+In the thirteenth year of Yongyuan, he replaced Lu Gai as Situ.
+In the fifteenth year, the emperor visited Nanyang and appointed his son Lu Fu as the doctor. He was given a deputy horse to drive.
+At this time, his younger brother Lu Pi also became a servant.
+Brothers, father and son sit side by side in the court.
+Later, he was dismissed from office due to his clan brother's affairs.
+Emperor Shang ascended the throne and appointed Lu Gong as the Changle Guard.
+In the first year of Yongchu's reign, Liang Quan was replaced as Situ.
 
 summary:
-summary line 1: **Zhuomao Biography:** Zhuomao, a native of Wan in Nanyang County, studied in Chang'an under Dr. Jiang Weng, mastering the "Poetry," "Li," and Calendar, and was called a Tongru for exhausting his teacher's scholarship. He was tolerant and respectful. Once, a man mistakenly claimed Zhuomao's horse as his own; Zhuomao gave it to him without dispute. When the man later found his own horse, he returned Zhuomao's horse with apologies. As magistrate of Mi County, Zhuomao governed diligently, treating the people as his sons. When a man admitted to giving gifts to a pavilion chief, Zhuomao explained that such exchanges were part of human relationships, not illegal coercion, and the people accepted his teachings. During a locust plague under Emperor Ping, locusts did not enter Mi County, a fact confirmed by the prefect. Under Wang Mang, Zhuomao was appointed minister of the capital but later resigned due to illness. When Gengshi was established, Zhuomao served briefly but resigned, knowing the political turmoil. Guangwu later visited him, praising his integrity. Zhuomao and six comrades, including Kong Xiu and Liu Xuan, refused to serve Wang Mang. Kong Xiu committed suicide when Wang Mang usurped the throne. Liu Xuan hid in the mountains until Jianwu. The historian noted that Zhuomao, a small county magistrate over seventy, was honored by Guangwu, akin to ancient kings honoring virtuous men.
+summary line 1: **Lu Gong Biography:** Lu Gong, from Pingling, Fufeng, was orphaned at twelve. He and his younger brother Lu Pi mourned their father with exceptional propriety. They studied "Lu Shi" at Taixue, ignoring external affairs. Lu Gong let his brother achieve fame first, feigning illness to avoid office. He later served as a county official and was summoned by Suzong to discuss at Baihu Temple. As magistrate of Zhongmu, he focused on moral transformation, not punishment. When a pavilion chief refused to return a borrowed cow, Lu Gong prepared to resign, prompting the chief to return it. During a borer infestation, pests did not enter Zhongmu, and a child showed benevolence by not catching a pheasant hatching chicks. Lu Gong later became imperial censor and admonished Emperor He against attacking the Xiongnu, citing poor harvests, empty granaries, and the need for mourning. He argued that virtue conquers, not force, and warned of disaster. The emperor ignored him. Lu Gong later served as a doctor of "Lu Shi" and as a servant, speaking frankly. He became Situ but was dismissed due to a clan brother's affairs. He later served as Changle Guard and again as Situ. He remonstrated against harsh punishments in summer, advocating for seasonal justice. He died at eighty-one, known for his humble nature and reliance on classics.
 
-Chunk 3: 
-original: 
-鲁恭字仲康，扶风平陵人也。
-其先出于鲁顷公，为楚所灭，迁于下邑，因氏焉。
-世吏二千石，哀、平间，自鲁而徙。
-祖父匡，王莽时，为羲和，有权数，号曰 智囊 。
-父某。建武初，为武陵太守，卒官。
-时恭年十二，弟丕七岁，昼夜号踊不绝声，郡中赙赠无所受，乃归服丧，礼过成人，乡里奇之。
-十五，与母及丕俱居太学，习《鲁诗》，闭户讲诵，绝人间事，兄弟俱为诸儒所称，学士争归之。
-太尉赵憙慕其志，每岁时遣子问以酒粮，皆辞不受。
-恭怜丕小，欲先就其名，托疾不仕。
-郡数以礼请，谢不肯应，母强遣之，恭不得已而西，因留新丰教授。
-建初初，丕举方正，恭始为郡吏。
-太傅赵憙闻而辟之。
-肃宗集诸儒于白虎观，恭特以经明得召，与其议。
-憙复举恭直言，特诏公车，拜中牟令。
-恭专以德化为理，不任刑罚，讼人许伯等争田，累守令不能决，恭为平理曲直，皆退而自责，辍耕相让。
-亭长从人借牛而不肯还之，牛主讼于恭。
-translation: 
-Lu Gong's biography, Lu Gong's courtesy name was Zhongkang, and he was a native of Pingling, Fufeng.
-His ancestors came from Lu Qinggong, who was destroyed by Chu and moved to Xiayi, so he took Lu as his clan surname.
-Generations are worth two thousand stones. During the Aiping years, they migrated from Lu.
-During the reign of Wang Mang, his grandfather Lu Kuang was an official in charge of the four seasons. He had great authority and was known as the "think tank".
-His father, Lu, was the prefect of Wuling in the early days of Jianwu, and he died in the official position.
-At that time, Lu Gong was only twelve years old and his younger brother Lu Pi was only seven years old. The two brothers were crying and jumping day and night. They did not accept the funeral gifts from the county, so they went home to mourn. The etiquette was even more considerate than that of adults. The villagers were deeply surprised.
-At the age of fifteen, he, his mother and his younger brother Lu Pi all lived in Taixue, where they studied "Lu Shi", lectured and recited it behind closed doors, and ignored external affairs. Both brothers were praised by the Confucian scholars, and the bachelors rushed to join them.
-Taiwei Zhao admired his ambition and sent his son to ask if there was a shortage of wine or food during every year and festival, but he refused.
-Lu Gong felt sorry for Lu Pi because he was young and wanted him to achieve his fame first. He pretended that he was ill and would not serve as an official.
-The county invited him several times with courtesy, but Lu Gong thanked him and refused to respond. His mother forced him to send him out. Lu Gong had no choice but to go west, because he stayed in Xinfeng as a professor.
-In the early years of the founding of the People's Republic of China, Lu Pi was promoted to Fangzheng, and Lu Gong began to serve as a county official.
-Taifu Zhao heard the news and called him out to serve.
-Suzong gathered many Confucian scholars at Baihu Temple, and Lu Gongte summoned him with the Ming Sutra to participate in the discussion.
-Zhao also recommended Lu Gong outspokenly and waited for the imperial edict to be sent to the public carriage to pay homage to Mou Ling.
-Lu Gong specialized in moral transformation and did not regard punishment. The litigants Xu Bo and others were fighting for land, and successive orders could not be settled. Lu Gong commented on the merits of the case for them, but in the end they all retreated and blamed themselves, and stopped farming to give up the land to each other.
-The director of the pavilion borrowed someone else's cow and refused to return it, so the owner of the cow sued Lu Gong.
-
-summary:
-summary line 2: **Lu Gong Biography:** Lu Gong, from Pingling, Fufeng, was orphaned at twelve. He and his younger brother Lu Pi mourned their father with exceptional propriety. They studied "Lu Shi" at Taixue, ignoring external affairs. Lu Gong let his brother achieve fame first, feigning illness to avoid office. He later served as a county official and was summoned by Suzong to discuss at Baihu Temple. As magistrate of Zhongmu, he focused on moral transformation, not punishment. When a pavilion chief refused to return a borrowed cow, Lu Gong prepared to resign, prompting the chief to return it. During a borer infestation, pests did not enter Zhongmu, and a child showed benevolence by not catching a pheasant hatching chicks. Lu Gong later became imperial censor and admonished Emperor He against attacking the Xiongnu, citing poor harvests, empty granaries, and the need for mourning. He argued that virtue conquers, not force, and warned of disaster. The emperor ignored him. Lu Gong later served as a doctor of "Lu Shi" and as a servant, speaking frankly. He became Situ but was dismissed due to a clan brother's affairs. He later served as Changle Guard and again as Situ. He remonstrated against harsh punishments in summer, advocating for seasonal justice. He died at eighty-one, known for his humble nature and reliance on classics.
-
-Chunk 10: 
+Chunk 13: 
 original: 
 恭再在公位，选辟高第，至列卿郡守者数十人。
 而其耆旧大姓，或不蒙荐举，至有怨望者。
@@ -164,54 +119,48 @@ Wei Ba only comforted them and did not blame the people below him. He also comfo
 The officials were grateful and tried their best to speed up the progress of the project.
 
 summary:
-summary line 3: **Wei Ba Biography:** Wei Ba, from Jiyinjuyang, was known for family etiquette. He lived with his brothers harmoniously. As prefect of Julu, he governed with simplicity and forgiveness, praising officials' merits and ignoring shortcomings, which curbed false accusations. He oversaw construction of Shunling under Emperor He, comforting officials despite harsh palace envoys. He later served as Taichang and Guanglu doctor, dying in office.
+summary line 2: **Wei Ba Biography:** Wei Ba, from Jiyinjuyang, was known for family etiquette. He lived with his brothers harmoniously. As prefect of Julu, he governed with simplicity and forgiveness, praising officials' merits and ignoring shortcomings, which curbed false accusations. He oversaw construction of Shunling under Emperor He, comforting officials despite harsh palace envoys. He later served as Taichang and Guanglu doctor, dying in office.
 
-Chunk 0: 
+Chunk 15: 
 original: 
-卓茂字子康，南阳宛人也。
-父祖皆至郡守。
-茂，元帝时学于长安，事博士江生，习《诗》、《礼》及历算。究极师法，称为通儒。
-性宽仁恭爱。
-乡党故旧，虽行能与茂不同，而皆爱慕欣欣焉。
-初辟丞相府史，事孔光，光称为长者。
-时尝出行，有人认其马。
-茂问曰： 子亡马几何时？
-对曰： 月余日矣。
-茂有马数年，心知其谬，嘿解与之，挽车而去，顾曰： 若非公马，幸至丞相府归我。
-他日，马主别得亡者，乃诸府送马，叩头谢之。
-茂性不好争如此。
-后以儒术举为侍郎，给事黄门，迁密令。
-劳心谆谆，视人如子，举善而教，口无恶言，吏人亲爱而不忍欺之。
-人尝有言部享长受其米肉遗者，茂辟左右问之曰： 亭长为从汝求乎？为汝有事嘱之而受乎？
-将平居自以恩意遗之乎？ 人曰： 往遗之耳。
-茂曰： 遗之而受，何故言邪？
-人曰： 窃闻贤明之君，使人不畏吏，吏不取人。
-今我畏吏，是以遗之，吏既卒受，故来言耳。
-茂曰： 汝为敝人矣。
-凡人所以贵于禽兽者，以有仁爱，知相敬事也。
+吏人有过，但用蒲鞭罚之，示辱而已，终不加苦。
+事有功善，推之自下。
+灾异或见，引躬克责。
+每行县止息亭传，辄引学官祭酒及处士诸生执经对讲。
+见父老慰以农里之言，少年勉以孝悌之训。
+人感德兴行，日有所化。
+灵帝初，征拜太中大夫，传讲华光殿。
+迁侍中，赐衣一袭。
+转屯骑校尉，迁宗正，转光禄勋。
+熹平五年，代许训为太尉。
+灵帝颇好学艺，每引见宽，常令讲经。
+宽尝于坐被酒睡伏。
+帝问： 太尉醉邪？
+宽仰对曰： 臣不敢醉，但任重责大，忧心如醉。
+帝重其言。
+宽简略嗜酒，不好盥浴，京师以为谚。
+尝坐客，遣苍头市酒，迂久，大醉而还。
+客不堪之，骂曰： 畜产。
 translation: 
-◆Zhuomao Biography: Zhuomao, courtesy name Zikang, was a native of Wan, Nanyang County.
-Both his father and grandfather were officials and county guards.
-Zhuomao studied in Chang'an during the reign of Emperor Yuan. He studied "Poetry", "Li" and Calendar under Dr. Jiang Weng. He exhausted his teacher's scholarship and was called Tongru.
-Tolerant and respectful in nature.
-Although his behavior and talents are different from Zhuo Mao's, they both admire and associate with him.
-At first, he was recruited as an official in the prime minister's palace. From Kong Guang, Kong Guang called him an elder.
-Once on a trip, someone recognized his horse.
-Zhuomao asked: How long has your horse been lost?
-The man replied: It has been lost for more than a month.
-Zhuomao's horse had been with him for several years. He knew that he had admitted his mistake, but he untied the horse and gave it to him. He drove the cart away, and turned back to the man and said: If this horse is not yours, I hope you can take it to the Prime Minister's Mansion and return it to me.
-Later, the horse owner found his lost horse, so he sent Zhuomao's horse to the Prime Minister's Mansion to return it to him and kowtow to apologize.
-This is how Zhuomao has no disputes with others.
-Later, he was elected as a minister with Confucianism, served in Huangmen, and moved to Mi County as magistrate.
-He works diligently and conscientiously in his duties, treats the people as his sons, practices good governance and teaches others, speaks no evil words, and the officials and the people love him and cannot bear to bully him.
-Some people once said that the chief of the pavilion under Zhuomao once accepted his gifts of rice and meat. Zhuomao avoided his subordinates and asked him, "Did the pavilion chief comply with your request, or did you accept it because you had something to tell him?"
-Or was it given to him because you usually felt that he was kind to you? The man said: I gave it to him myself.
-Zhuo Mao said: You gave it to him and he accepted it, why did he say it out loud?
-The man said: I heard that a wise king can make people not afraid of officials, and officials will not take people's property.
-Now I'm afraid of the officials, so I gave him something. Since the chief of the pavilion has accepted it, that's why I said it.
-Zhuo Mao said: You are an ignorant person.
-The reason why humans are more valuable than animals is because they have benevolence and know how to treat each other with respect.
+When officials and common people have offenses, they only use a few whips with grass whips to show insult, without causing any pain to the flesh.
+Wherever there is merit, it is attributed to the following.
+When disaster occurs, take responsibility yourself.
+Every time he stopped at the Tingchuan Inn in the county, he would be greeted by academic officials offering wine and virgins holding scriptures in their hands to talk to each other.
+When you see your elders, you comfort them with words from the farm; when you see young people, you encourage them with the words of filial piety and brotherhood.
+People are motivated to practice virtue when they feel it, and education is becoming more and more popular.
+At the beginning of Emperor Ling's reign, he was worshiped as Taizhong doctor and served as lecturer in Huaguang Palace.
+When he moved to serve as a servant, he was given a set of clothes.
+He was transferred to Tunqi Xiaowei, moved to Zongzheng, and transferred to Guangluxun.
+In the fifth year of Xiping's reign, Xu Xun was appointed Taiwei.
+Emperor Ling loved learning arts very much. Whenever he introduced Liu Kuan, he often asked him to give lectures on Buddhist scriptures.
+Liu Kuan once fell asleep after being drunk on his seat.
+The emperor asked: "Is the Taiwei drunk?"
+Liu Kuan raised his head and replied: "I dare not get drunk, but the task is heavy and the responsibility is great, and I am so worried that I am drunk."
+The emperor valued his words.
+Liu Kuan simply liked to drink, but did not like to wash his hands and bathe, so the capital became a proverb.
+I once sat with a guest and sent an old servant to the market to buy wine. After a long time, the old servant came back drunk.
+The guest was unbearable and cursed: "Beast."
 
 summary:
-summary line 4: **Liu Kuan Biography:** Liu Kuan, from Huayin, was known for his magnanimity. When a man mistakenly claimed his cow, Liu Kuan gave it without argument; the man later returned it with apologies. As Nanyang prefect, he governed with gentleness, using only light whips for punishment and attributing merit to others. He taught filial piety and brotherhood, inspiring virtue. Under Emperor Ling, he served as Taiwei and lecturer. Once drunk at court, he claimed worry, not drunkenness. He disliked bathing, and when a maid spilled soup on him, he asked if she was hurt. He was called an elder. He died at sixty-six, with his son Liu Song succeeding him.
+summary line 3: **Liu Kuan Biography:** Liu Kuan, from Huayin, was known for his magnanimity. When a man mistakenly claimed his cow, Liu Kuan gave it without argument; the man later returned it with apologies. As Nanyang prefect, he governed with gentleness, using only light whips for punishment and attributing merit to others. He taught filial piety and brotherhood, inspiring virtue. Under Emperor Ling, he served as Taiwei and lecturer. Once drunk at court, he claimed worry, not drunkenness. He disliked bathing, and when a maid spilled soup on him, he asked if she was hurt. He was called an elder. He died at sixty-six, with his son Liu Song succeeding him.
 

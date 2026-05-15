@@ -1,0 +1,531 @@
+Summary uses chunk [0, 1, 2, 4, 5, 15, 17, 24, 24, 25, 27, 27, 25, 30, 5, 32, 2]
+
+Chunk 0: 
+original: 
+汉氏承秦燔书，大弘儒训，太学生徒，动以万数，郡国黉舍，悉皆充满。学于山泽者，至或就为列肆，其盛也如是。
+汉末丧乱，其道遂衰。
+魏正始以后，仍尚玄虚之学，为儒者盖寡。
+时荀抃、挚虞之徒，虽删定新礼，改官职，未能易俗移风。
+自是中原横溃，衣冠殄尽；江左草创，日不暇给；以迄于宋、齐。国学时或开置，而劝课未博，建之不及十年，盖取文具，废之多历世祀，其弃也忽诸。
+乡里莫或开馆，公卿罕通经术。朝廷大儒，独学而弗肯养众；后生孤陋，拥经而无所讲习。三德六艺，其废久矣。
+高祖有天下，深愍之，诏求硕学，治五礼，定六律，改斗历，正权衡。
+天监四年，诏曰： 二汉登贤，莫非经术，服膺雅道，名立行成。
+魏、晋浮荡，儒教沦歇，风节罔树，抑此之由。
+translation: 
+The Han Dynasty took the burning books of the Qin Dynasty as a warning and vigorously promoted Confucianism. The number of students in Taixue often reached more than 10,000, and the schools in various prefectures and states were also fully staffed. The schools were located in the mountains and fields, and even shops and markets were opened close to the schools. The prosperity of the schools reached such an extent.
+At the end of the Han Dynasty, the political situation was turbulent, and Confucianism declined.
+After the Zhengshi period of the Wei Dynasty, the Taoist theory of Xuanyuan Nihility was gradually advocated, and therefore fewer people studied Confucianism.
+At that time, Xun Pin, Zhi Yu and others, although they deleted new rituals and changed official positions, they could not change the customs.
+After the founding of the People's Republic of China, the Central Plains was in turmoil and even fell. All civilization and ethics were ruined. The Jin Dynasty moved to Jiangzuo. Everything was being created. The country was busy with affairs and had no time to run schools. In the Song and Qi Dynasties, Chinese studies were sometimes opened, but there was no extensive encouragement and supervision. The establishment time was less than ten years, but they were abandoned for many years. Because the state only provided empty provisions in the regulations for the establishment of schools, they were suddenly abandoned.
+There are no schools in each township, and few ministers are proficient in the classics. The great scholars in the court only practice the classics themselves but refuse to teach students. The young people are ignorant and have no place to study and study the classics. The three virtues and six arts have been neglected for a long time.
+After Emperor Gaozu became emperor, he was deeply saddened and worried about this situation, so he issued an edict to search for knowledgeable scholars, rectify the five rituals, approve the six laws, revise the calendar, and correct the balance.
+In the fourth year of Tianjian, Emperor Gaozu issued an edict saying: There are no wise men in the two deserts who have not taught Confucianism by virtue of their classics and skills, and have established a good reputation and achieved moral success.
+In the Wei and Jin dynasties, the atmosphere was turbulent and Confucian learning declined. Perhaps because of this, the moral integrity could not be established.
+
+summary:
+summary line 0: The Han Dynasty, learning from the Qin Dynasty's book burning, vigorously promoted Confucianism, with the Imperial Academy often hosting over ten thousand students and schools flourishing even in remote areas. However, at the end of the Han Dynasty, political turmoil led to Confucianism's decline. During the Wei Dynasty's Zhengshi period, Taoist philosophy gained prominence, reducing interest in Confucianism. Figures like Xun Pin and Zhi Yu attempted reforms but failed to change customs. After the Jin Dynasty's founding, the Central Plains fell into chaos, and the court moved south, leaving no time for education. During the Song and Qi Dynasties, schools were sporadically opened but quickly abandoned, with no sustained encouragement. Local schools vanished, ministers rarely mastered the classics, and young people had no means to study. The three virtues and six arts were neglected for a long time.
+
+Chunk 1: 
+original: 
+朕日昃罢朝，思闻俊异，收士得人，实惟酬奖。
+可置《五经》博士各一人，广开馆宇，招内后进。
+于是以平原明山宾、吴兴沈峻、建平严植之、会稽贺蒨补博士，各主一馆。
+馆有数百生，给其饩廪。
+其射策通明者，即除为吏。
+十数月间，怀经负笈者云会京师。
+又选遣学生如会稽云门山，受业于庐江何胤。
+分遣博士祭酒，到州郡立学。
+七年，又诏曰： 建国君民，立教为首，砥身砺行，由乎经术。
+朕肇基明命，光宅区宇，虽耕耘雅业，傍阐艺文，而成器未广，志本犹阙。非以熔范贵游，纳诸轨度；思欲式敦让齿，自家刑国。
+今声训所渐，戎夏同风。宜大启痒斅，博延胄子，务彼十伦，弘此三德，使陶钧远被，微言载表。
+于是皇太子、皇子、宗室、王侯始就业焉。
+高祖亲屈舆驾，释奠于先师先圣，申之以宴语，劳之以束帛，济济焉，洋洋焉，大道之行也如是。
+translation: 
+I leave the court very late every day, just because I want to hear news about talented people. If you appoint talented people to get talented people, you should be rewarded.
+Doctors on the Five Classics should be established, with one doctor for each classic, and schools should be established widely to accept young people to study.
+So Pingyuan Mingshanbin, Wu Jun Lu Lian, Wu Xing Shen Jun, Jianping Yan Zhizhi, Kuaiji Hechang, etc. were appointed as replacement doctors, and each of them presided over a school.
+There were hundreds of students in the academy, and the imperial court provided them with salaries.
+Among them, those who choose things to report, if they are enlightened and wise, will be awarded as officials.
+For more than ten years, people who were proficient in Confucian classics and well-read in Confucian classics gathered in the capital.
+He also selected students to go to Yunmen Mountain in Kuaiji and study with He Yin in Lujiang.
+Doctors were sent to each state and county to establish schools.
+In the seventh year of Tianjian, Emperor Gaozu issued another edict: To establish a country and be the monarch of all people, establishing enlightenment and promoting education are the most important things; cultivating knowledge and sharpening virtues, classics study is the must way.
+I have established a foundation that has spread throughout the world. Although I have worked hard to develop Confucianism, there are not many talented people, and the virtues are still lacking. It is not enough to cultivate the princes and nobles and make them obey the laws of Confucianism. I want to encourage them to respect their elders, practice it at home, and then become a model for the world.
+Wherever the prestige is now, the Rong people in China are also inspired. They should vigorously open schools and widely recruit the children of the royal family and nobles to practice the ten ethics and promote the three virtues, so that the imperial education can be spread far and wide, and the exquisite words can be promoted.
+So the crown princes, princes, royal families, and princes began to study in schools.
+In vain, Emperor Gaozu condescended to go to the school in person to pay tribute to Zizi and other saints of the previous generation, talk to the students, encourage them, and comfort them with silk. The school was solemn and the students were numerous, and the journey of the Great Way reached such a prosperous level.
+
+summary:
+summary line 1: Emperor Gaozu of Liang, deeply concerned, issued edicts to seek scholars, rectify rituals, revise laws, and correct standards. In the fourth year of Tianjian, he decreed the establishment of Five Classics doctors, one per classic, and the widespread opening of schools. Scholars like Pingyuan Mingshanbin, Wu Jun Lu Lian, Wu Xing Shen Jun, Jianping Yan Zhizhi, and Kuaiji He Chang were appointed as doctors, each presiding over a school. Hundreds of students received salaries from the court, and those who excelled were appointed as officials. Over a decade, many proficient in Confucian classics gathered in the capital. Students were also sent to study with He Yin in Kuaiji. In the seventh year of Tianjian, Emperor Gaozu further decreed the promotion of education, encouraging the children of nobles to study the ten ethics and three virtues. The crown prince, princes, and nobles began attending schools, and the emperor personally visited to honor sages and encourage students. The school became solemn and prosperous, with scholars like Fu Manrong, He Tongzhi, and Fan Zhen gaining fame.
+
+Chunk 2: 
+original: 
+其伏曼容、何佟之、范缜，有旧名于世；为时儒者，严植之、贺蒨等首膺兹选。
+今并缀为《儒林传》云。
+伏曼容，字公仪，平昌安丘人。
+曾祖滔，晋著作郎。
+父胤之，宋司空主簿。
+曼容早孤，与母兄客居南海。
+少笃学，善《老》、《易》，倜傥好大言，常云： 何晏疑《易》中九事。以吾观之，晏了不学也，故知平叔有所短。
+聚徒教授以自业。
+为骠骑行参军。
+宋明帝好《周易》，集朝臣于清暑殿讲，诏曼容执经。
+曼容素美风采，帝恒以方嵇叔夜，使吴人陆探微画叔夜像以赐之。
+迁司徒参军。
+袁粲为丹阳尹，请为江宁令，入拜尚书外兵郎。
+升明末，为辅国长史、南海太守。
+translation: 
+Among them, Fu Manrong, He Tongzhi and Fan Zhen were already famous in contemporary times; among the famous Confucian scholars at that time, Yan Zhizhi, He Yu and others were among the top candidates.
+Now the deeds of these people are connected together and compiled into "The Scholars".
+Fu Manrong, courtesy name Gongyi, was born in Anqiu, Pingchang.
+His great-grandfather Fu Tao was a scholar in the Jin Dynasty.
+His father Fu Yinzhi was the chief secretary of Sikong during the Song Dynasty.
+Fu Manrong lost his father very early, and he lived in the South China Sea with his mother and brother.
+Fu Manrong has been attentive and studious since he was a child, and he is proficient in "Laozi" and "Book of Changes". He is bold and free and likes to exaggerate. He once said: He Yan has questions about nine things in "Yi". From my perspective, He Yan does not study at all, so I know that Uncle He Ping has shortcomings.
+Fu Manrong gathered students to teach them their studies and regarded this as his profession.
+Fu Manrong Ren Piao rode to join the army.
+Emperor Ming of the Song Dynasty loved "The Book of Changes" and gathered courtiers to discuss the "Book of Changes" in the Qingshu Palace. He ordered Fu Manrong to hold the scriptures and answer questions.
+Fu Manrong was very beautiful in appearance and manners. Emperor Ming of the Song Dynasty often compared him with Ji Shuye. He also ordered the Wu man Lu to explore the portrait of Ji Shuye in Weizhou and give the portrait to Fu Manrong.
+Fu Manrong moved to Situ to join the army.
+When Yuan Can was appointed Danyang Yin, he requested that Fu Manrong be appointed as Jiangning Order. Fu Manrong entered the capital and was awarded the title of Shangshu Waibinglang.
+At the end of the Ming Dynasty, he served as the governor of the auxiliary state and the governor of Nanhai.
+
+summary:
+summary line 2: Fu Manrong, from Anqiu, lost his father early and lived with his mother and brother in the South China Sea. He was studious, proficient in Laozi and the Book of Changes, and bold in speech. He gathered students to teach and held various official positions, including Piaoqi Canjun and Nanhai Prefect. During the Qi Dynasty, he served as Tongzhi Sanqi Changshi and later as Zhongshu Lang. He was known for lecturing on scriptures at home, attracting dozens or hundreds of students. In the Liang Dynasty, he was appointed as Sima and Linhai Prefect, dying at eighty-two. He authored annotations on the Zhouyi, Mao's Poems, and other works.
+
+Chunk 4: 
+original: 
+佟之少好《三礼》，师心独学，强力专精，手不辍卷，读《礼》论二百篇，略皆上口。
+时太尉王俭为时儒宗，雅相推重。
+起家扬州从事，仍为总明馆学士，频迁司徒车骑参军事、尚书祠部郎。
+齐建武中，为镇北记室参军，侍皇太子讲，领丹阳邑中正。
+时步兵校尉刘献、征士吴苞皆已卒，京邑硕儒，唯佟之而已。
+佟之明习事数，当时国家吉凶礼则，皆取决焉，名重于世。
+历步兵校尉、国子博士，寻迁骠骑谘议参军，转司马。
+永元末，京师兵乱，佟之常集诸生讲论，孜孜不怠。
+中兴初，拜骁骑将军。
+高祖践阼，尊重儒术，以佟之为尚书左丞。
+是时百度草创，佟之依《礼》定议，多所裨益。
+天监二年，卒官，年五十五。
+高祖甚悼惜，将赠之官；故事左丞无赠官者，特诏赠黄门侍郎，儒者荣之。
+所著文章、《礼义》百许篇。
+子：朝隐、朝晦。
+translation: 
+He Tongzhi has been interested in "Three Rites" since he was a child. He takes his heart as his teacher, studies independently, works hard to improve, and never lets go of the book. He read three hundred chapters of "Li" and read them all with proficiency, and the sentences could be spoken smoothly.
+Taiwei Wang Jian was the master of Confucianism at that time, and he also respected He Tongzhi very much.
+He Tong first became an official in Yangzhou, and then became a bachelor of Zongming Hall. He was promoted repeatedly, and later he served as Situ Chaqi, a member of the military, and Shangshu Temple Minister.
+During the Jianwu period of Qi Dynasty, he served as the Zhenbei Ji Office, joined the army, served as an assistant to the crown prince, and led the Zhongzheng of Danyang City.
+At that time, the infantry colonel Liu Shan and the conscript Wu Bao had both passed away, and the only scholar in the capital was He Tong.
+He Tongzhiming was familiar with the art of technique and application. At that time, the standard principles of good and bad etiquette in the country all depended on him, and he was famous for a while.
+He Tongzhi successively served as an infantry captain and a doctor of Guozi. Soon he was transferred to hussar to join the army and was transferred to Sima.
+In the last years of Yongyuan, war broke out in the capital, but He Tongzhi often gathered students to comment on and study the meaning of the classics, and he was very diligent and never slacked off.
+In the early years of ZTE, He Tongzhi was worshiped as a general of heroic cavalry.
+After Emperor Gaozu ascended the throne, he respected Confucianism and appointed He Tongzhi as Minister Zuocheng.
+At that time, various systems were in the process of being created. He Tongzhi relied on "Li" to determine his views, which was of great help in formulating the system.
+In the second year of Tianjian, He Tongzhi died during his tenure at the age of fifty-five.
+Emperor Gaozu mourned his death and planned to grant him a title and an official position. According to the previous regulations, there was no precedent for conferring official positions on Zuocheng after his death. However, Emperor Gaozu specifically issued an edict to confer the post of Minister of Huangmen to He Tong. Confucian scholars felt honored by this favor.
+He Tongzhi wrote about one hundred articles in "Li Yi".
+He Tongzhi's sons were named He Chaoyin and He Chaohui.
+
+summary:
+summary line 3: He Tongzhi, from Lujiang, was deeply interested in the Three Rites from childhood, studying independently and mastering three hundred chapters of the Li. Respected by Taiwei Wang Jian, he held various posts, including Shangshu Temple Minister and Infantry Colonel. During the Yongyuan period, despite war, he continued lecturing. After Emperor Gaozu's ascension, he became Zuocheng, aiding in system creation. He died at fifty-five, posthumously honored as Huangmen Shilang. He wrote about one hundred articles on Li Yi.
+
+Chunk 5: 
+original: 
+范缜，字子真，南乡舞阴人也。
+晋安北将军汪六世孙。
+祖璩之，中书郎。
+父濛，早卒。
+缜少孤贫，事母孝谨。
+年未弱冠，闻沛国刘献聚众讲说。
+始往从之，卓越不群而勤学，献甚奇之，亲为之冠。
+在献门下积年，去来归家，恒芒矰布衣，徒行于路。
+献门多车马贵游，缜在其门，聊无耻愧。
+既长，博通经术，尤精《三礼》。
+性质直，好危言高论，不为士友所安。
+唯与外弟萧琛相善，琛名曰口辩，每服缜简诣。
+起家齐宁蛮主簿，累迁尚书殿中郎。
+translation: 
+Fan Zhen, courtesy name Zizhen, was born in Wuyin, Nanxiang.
+He is the sixth generation grandson of Fan Wang, the general of Jin'an North.
+His grandfather Fan Xuzhi served as Zhongshu Lang.
+His father, Fan Meng, died young.
+Fan Zhen lost his father when he was very young. His family was poor and he served his mother with filial piety and respect.
+When Fan Zhen was less than 20 years old, he heard that Liu Shan of Pei State had gathered students to discuss the meaning of the classics, so he went to study with Liu Shan as his teacher.
+Fan Zhen has outstanding talents, is different from ordinary people, and studies diligently. Liu Shan thinks he is a genius and crowns him personally.
+Fan Zhen studied under Liu Shan for many years. Every time he went home, he often wore straw sandals and common clothes and walked back and forth.
+Liu Shan's family had many princes and nobles who rode in carriages and horses. Fan Zhen was under Liu Shan's family and did not feel ashamed at all because of his poverty.
+When Fan Zhen grew older, he became proficient in classics, especially the "Three Rites".
+Fan Zhensheng has a straightforward nature and likes to make honest and extraordinary remarks, so the scholars and friends who associate with him often feel unhappy.
+Fan Zhen only has a good relationship with his cousin Xiao Chen. Xiao Chen is known as an eloquent person, but he is often very impressed by Fan Zhen's concise and thoughtful diction.
+Fan Zhen first became an official and served as the chief registrar of Qining Man. After his meritorious service, he was promoted to the position of lieutenant in the Shangshu Palace.
+
+summary:
+summary line 4: Fan Zhen, from Nanxiang, lost his father young and served his mother filially. He studied under Liu Shan, excelling in the Three Rites. He served as an envoy to the Wei and was known for his straightforward nature. He debated Buddhism with Xiao Ziliang, arguing against the existence of gods. His "Theory on the Destruction of Gods" sparked controversy. He held various posts, including Yidu Prefect and Jin'an Prefect, dying as Zhongshu Lang. His son Fan Xu inherited his knowledge.
+
+Chunk 15: 
+original: 
+少遭父忧，因菜食二十三载，后得风冷疾，乃止。
+齐永明中，始起家为庐陵王国侍郎，迁广汉王国右常侍。
+王诛，国人莫敢视，植之独奔哭，手营殡殓，徒跣送丧墓所，为起冢，葬毕乃还，当时义之。
+建武中，迁员外郎、散骑常侍。
+寻为康乐侯相，在县清白，民吏称之。
+天监二年，板后军骑兵参军事。
+高祖诏求通儒治五礼，有司奏植之治凶礼。
+四年初，置《五经》博士，各开馆教授，以植之兼《五经》博士。
+植之馆在潮沟，生徒常百数。
+植之讲，五馆生必至，听者千余人。
+translation: 
+Yan Zhi's father died when he was young, so he only ate vegetables for twenty-three years. Later, he changed his habit of eating only vegetables because he contracted wind and cold.
+During the next year of Qi Yong, he first became an official and served as the minister of the Luling Kingdom. Moved to serve as the Right Changshi of the Guanghan Kingdom.
+King Guanghan was executed, and no one in the country dared to deal with the body of King Guanghan. Yan Zhi rushed to mourn him and personally handled the funeral of King Guanghan. He carried the coffin to the cemetery with bare feet. After the burial, he built a tomb for King Guanghan. After the burial, he went home. People at the time thought that Yan Zhi was very righteous.
+During the Jianwu period, Yan Zhizhi moved to Yuanwailang and Sanqi Changshi.
+Soon he was appointed as the Houxiang of Kangle. During his tenure in the county, he was an honest official. The people and subordinate officials praised him.
+In the second year of Tianjian, Yan Zhizhi was appointed as a rear army cavalry member to join the military.
+Emperor Gaozu went down to Shao to recruit Confucian scholars who were knowledgeable about ancient and modern times to study the five rituals. There was a report from the minister, and Yan Zhi was able to study the ominous rituals.
+In the fourth year of Tianjian, doctors of "Five Classics" began to be established. Doctors of each classics opened schools to teach students. Yan Zhi was appointed to be a doctor of "Five Classics".
+Yan Zhi's school was located in Qiaotou, and there were often hundreds of students.
+The master of the house explained the meaning of the scriptures, and all the students from the five halls must come. More than a thousand people listened to his lectures.
+
+summary:
+summary line 5: Yan Zhizhi, from Jianping, was proficient in Zhuangzi, Laozi, and the Three Rites. He served as Luling Kingdom Minister and Guanghan Kingdom Right Changshi, known for his righteousness in handling the Guanghan King's funeral. He was appointed as a Five Classics doctor, lecturing to hundreds of students. He died at fifty-two, leaving his family in poverty. He authored 479 volumes of Annotations on Evil Etiquette.
+
+Chunk 17: 
+original: 
+贺瑒，字德琏，会稽山阴人也。
+祖道力，善《三礼》，仕宋为尚书三公郎、建康令。
+瑒少传家业。
+齐时，沛国刘献为会稽府丞，见蒨深器异之。
+尝与俱造吴郡张融，指蒨谓融曰： 此生神明聪敏，将来当为儒者宗。
+献还，荐之为国子生。
+举明经，扬州祭酒，俄兼国子助教。
+历奉朝请、太学博士、太常丞，遭母忧去职。
+天监初，复为太常丞，有司举治宾礼，召见说《礼》义，高祖异之，诏朝朔望，预华林讲。
+四年初，开五馆，以瑒兼《五经》博士，别诏为皇太子定礼，撰《五经义》。
+瑒悉礼旧事。时高祖方创定礼乐，蒨所建议，多见施行。
+七年，拜步兵校尉，领《五经》博士。
+translation: 
+He Yuan's courtesy name was Delian, and he came from Shanyin in Kuaiji.
+His grandfather He Daoli was proficient in the "Three Rites" and served as Sangong Lang and Jiankang Ling in the Song Dynasty.
+He Tan inherited his family education from an early age.
+During the Qi Dynasty, Liu Xian of Pei State was the Prime Minister of Kuaiji. When he saw He Yu, he was very surprised by his talents and thought highly of him.
+Liu Xian once visited Zhang Rong of Wu County with He Chang. Liu Xian pointed to the brush and ink and said to Zhang Rong: This young man has a smart and agile mind and will become a master of Confucianism in the future.
+After Liu Xian returned to the capital, he recommended He Yuan as the son of the emperor.
+He Tuan was recommended as Ming Jing, Jijiu, and soon served as Guozi's assistant.
+He successively served as a doctor of Taixue and Taichang Cheng at the invitation of the imperial court. He resigned when his mother died.
+In the early years of Tianjian, he was appointed as Taichang Cheng. A minister recommended him to study Bin Li. Emperor Gaozu summoned him to lecture on the meaning of "Li". He was deeply surprised by his knowledge and issued an edict to go to court on the first and fifteenth day of every month and participate in lectures in Hualin Garden.
+In the fourth year of his reign, the Five Classics School had just been opened, and he was ordered to hold a doctorate in the Five Classics. He specially ordered Hechang to write the "Five Classics Meanings" for the crown prince.
+Hechang was familiar with rituals and related old practices. At that time, he was reforming and creating the ritual and music system. Most of the ideas put forward by Hechang were directly adopted and implemented.
+In the seventh year of Yujian, Hua Xun was appointed as an infantry captain and received a doctorate in "Five Classics".
+
+summary:
+summary line 6: He Chang, from Kuaiji, inherited family education in the Three Rites. Recommended by Liu Xian, he served as Taichang Cheng and Five Classics doctor, lecturing on the Li. He authored works on etiquette and the Five Classics, dying at fifty-nine. His son He Ge also became a renowned scholar, lecturing on the Three Rites.
+
+Chunk 24: 
+original: 
+经传互文，交相显发，则知慈加之义，通乎大夫以上矣。
+宋代此科，不乖《礼》意，便加除削，良是所疑。
+于是筠等请依制改定：嫡妻之子，母没为父妾所养，服之五月，贵贱并同，以为永制。
+累迁王府谘议、权知左丞事，寻除尚书左丞。
+出为始兴内史，卒官。
+子寿，传父业，明《三礼》。
+大同中，历官尚书祠部郎，出为曲阿令。
+卞华，字昭丘，济阴冤句人也。
+晋骠骑将军忠贞公壸六世孙。
+父伦之，给事中。
+华幼孤贫好学。
+年十四，召补国子生，通《周易》。
+translation: 
+The scriptures of "Biao" and "Zhuan" complement each other, complement each other, and explain each other. It is known that the rules for strengthening the etiquette for loving mothers and changing from wearing gills to wearing Xiaogong mourning clothes are common to all officials and above.
+The regulations of the Song Dynasty do not violate the original intention of the "Li", and it is really doubtful to eliminate them.
+So Sima Yun and others requested that the relevant etiquette be changed in accordance with the order of Emperor Gaozu: if the son of the legitimate wife is raised by his father's concubine after the death of his mother, he should mourn for his adoptive mother for five months after his adoptive mother dies. Both the noble and the low should adopt the regulations and make it a permanent system.
+Sima Yun accumulated merit and moved to the palace to serve as a consultant, with the right to know the affairs of Zuo Cheng. Soon after, he was awarded the title of Shangshu Zuo Cheng.
+He came out of Beijing to serve as the internal history of Shixing and died during his tenure.
+Sima Yun's son Sima Shou inherited his father's studies and was proficient in the "Three Rites".
+During the Datong period, he served as minister of the ancestral hall of Shangshu and went to Beijing to serve as Qu'aling.
+Bian Hua, whose courtesy name is Zhaoqiu, was born in Jiyin Yuanju.
+He is the sixth generation descendant of Zhongzhen Gongtutong, the hussar general of Jin Dynasty.
+His father was a thrifty man who gave everything he wanted.
+Bian Hua lost his father when he was young. His family was poor, but he loved to study.
+When he was fourteen years old, Bian Hua was called to serve as a national scholar and he was proficient in "The Book of Changes".
+
+summary:
+summary line 7: Sima Yun, from Hanoi, lost his father young but loved learning, excelling in the Three Rites. He served as Shangshu Temple Minister and debated mourning rites for loving mothers. He died as Shixing Neishi. His son Sima Shou inherited his studies.
+
+Chunk 24: 
+original: 
+经传互文，交相显发，则知慈加之义，通乎大夫以上矣。
+宋代此科，不乖《礼》意，便加除削，良是所疑。
+于是筠等请依制改定：嫡妻之子，母没为父妾所养，服之五月，贵贱并同，以为永制。
+累迁王府谘议、权知左丞事，寻除尚书左丞。
+出为始兴内史，卒官。
+子寿，传父业，明《三礼》。
+大同中，历官尚书祠部郎，出为曲阿令。
+卞华，字昭丘，济阴冤句人也。
+晋骠骑将军忠贞公壸六世孙。
+父伦之，给事中。
+华幼孤贫好学。
+年十四，召补国子生，通《周易》。
+translation: 
+The scriptures of "Biao" and "Zhuan" complement each other, complement each other, and explain each other. It is known that the rules for strengthening the etiquette for loving mothers and changing from wearing gills to wearing Xiaogong mourning clothes are common to all officials and above.
+The regulations of the Song Dynasty do not violate the original intention of the "Li", and it is really doubtful to eliminate them.
+So Sima Yun and others requested that the relevant etiquette be changed in accordance with the order of Emperor Gaozu: if the son of the legitimate wife is raised by his father's concubine after the death of his mother, he should mourn for his adoptive mother for five months after his adoptive mother dies. Both the noble and the low should adopt the regulations and make it a permanent system.
+Sima Yun accumulated merit and moved to the palace to serve as a consultant, with the right to know the affairs of Zuo Cheng. Soon after, he was awarded the title of Shangshu Zuo Cheng.
+He came out of Beijing to serve as the internal history of Shixing and died during his tenure.
+Sima Yun's son Sima Shou inherited his father's studies and was proficient in the "Three Rites".
+During the Datong period, he served as minister of the ancestral hall of Shangshu and went to Beijing to serve as Qu'aling.
+Bian Hua, whose courtesy name is Zhaoqiu, was born in Jiyin Yuanju.
+He is the sixth generation descendant of Zhongzhen Gongtutong, the hussar general of Jin Dynasty.
+His father was a thrifty man who gave everything he wanted.
+Bian Hua lost his father when he was young. His family was poor, but he loved to study.
+When he was fourteen years old, Bian Hua was called to serve as a national scholar and he was proficient in "The Book of Changes".
+
+summary:
+summary line 8: Bian Hua, from Jiyin, lost his father young but studied the Five Classics, especially the Book of Changes. He served as a Five Classics doctor, known for his eloquence and musical expertise. He died as Wuling Prefect.
+
+Chunk 25: 
+original: 
+既长，遍治《五经》，与平原明山宾、会稽贺蒨同业友善。
+起家齐豫章王国侍郎，累迁奉朝请、征西行参军。
+天监初，迁临川王参军事，兼国子助教，转安成王功曹参军，兼《五经》博士，聚徒教授。
+华博涉有机辩，说经析理，为当时之冠。
+江左以来，钟律绝学，至华乃通焉。
+迁尚书仪曹郎，出为吴令，卒。
+崔灵恩，清河武城人也。
+少笃学，从师遍通《五经》，尤精《三礼》、《三传》。
+先在北仕为太常博士，天监十三年归国。
+高祖以其儒术，擢拜员外散骑侍郎，累迁步兵校尉，兼国子博士。
+灵恩聚徒讲授，听者常数百人。
+translation: 
+After becoming an adult, Bian Hua studied the Five Classics extensively. He studied together with Pingyuan Mingshanbin and Kuaiji He Qian, and they had a good friendship.
+When he first became an official, he was appointed as the minister of the Yuzhang Kingdom of Qi. After his meritorious service, he was promoted to the imperial court and went to the west to join the army.
+In the early years of Tianjian, Bian Hua moved to Linchuan Wang Gongcao to join the army and served as an assistant to Guozi. He was transferred to Ancheng Wang Gongcao to join the army and was also a doctor of "Five Classics", gathering students to teach Confucian classics.
+Bian Hua covered a wide range of subjects, was knowledgeable, witty and eloquent. He explained scriptures and analyzed their meanings. He was the leading figure at that time.
+After the Jin Dynasty moved to Jiangzuo, music rhythm became a unique skill, and it was not until Bian Hua that he became proficient in music rhythm.
+Bian Long moved to the post of Minister Cao Lang, and left the capital to serve as Wu Ling. He died.
+Cui Lingen is from Wucheng, Qinghedong.
+He has been attentive and eager to learn since he was a child. He followed his teacher to learn all the Five Classics, and he was especially proficient in the Three Rites and the Three Legends.
+Cui Lingen first served as an official in the Northern Dynasties and served as Dr. Taichang. In the thirteenth year of Tianjian, he returned to Liang Dynasty.
+Because Cui Lingen was proficient in Confucianism, Emperor Gaozu promoted him to the rank of Minister of Dispersed Cavalry, and he was promoted to the rank of Infantry Colonel and Doctor of the Imperial Academy.
+Cui Lingen gathered students to teach Confucian classics, and the number of students who listened to his lectures often reached hundreds.
+
+summary:
+summary line 9: Cui Lingen, from Qinghe, studied the Five Classics, especially the Three Rites and Three Commentaries. He served as Taichang Doctor in the Northern Dynasties before returning to Liang, where he lectured to hundreds. He authored numerous works on the classics.
+
+Chunk 27: 
+original: 
+少师事何胤，通《五经》，尤明《三礼》、《孝经》、《论语》，讲说并数十遍，生徒亦数百人。
+历官国子助教，三为《五经》博士，迁尚书祠部郎。
+出为海盐、山阴二县令。
+佥儒者，不长政术，在县无绩。
+太清乱，卒于家。
+子俶玄，颇涉文学，官至太学博士。
+佥兄子元素，又善《三礼》，有盛名，早卒。
+卢广，范阳涿人，自云晋司空从事中郎谌之后也。
+谌没死冉闵之乱，晋中原旧族，谌有后焉。
+广少明经，有儒术。
+天监中归国。
+初拜员外散骑侍郎，出为始安太守，坐事免。
+translation: 
+When he was young, Wang Yu worshiped He Yin as his teacher. He was proficient in the Five Classics, especially the Three Rites, Xiaozhi and the Analects of Confucius. He expounded and taught these scriptures dozens of times and had hundreds of students.
+Renxi successively served as an assistant teacher of Guozi, a doctor of "Five Classics" three times, and moved to the post of Shangshu Temple Minister.
+He left Beijing and served as magistrate of two counties.
+Kong Qian was a Confucian scholar who only knew the classics and was not good at governing the people. He had no political achievements during his tenure as county magistrate.
+When turmoil broke out during the Liqian period, Kong Yu died at home.
+Kong Chuxuan, the son of Kong Qian, focused on studying Confucianism, and his official position was promoted to Doctor of Taixue.
+Kong Chuxuan, the son of brother Kong Ling, was also proficient in the "Three Rites" and had a great reputation, but he died young.
+Lu Guang, a native of Fanyang Zhuo, said he was a descendant of Lu Chen, a middle-ranking official in Zhi Sikong.
+Lu Chen was trapped and died in the army during the rebellion. During the Jin Dynasty, Lu Chen was still among the famous families in the Central Plains, and there were descendants of Lu Chen.
+Lu Guang was proficient in scriptures since he was a child and had Confucian knowledge.
+Lu Guang returned to chisel during the Tianjian period.
+At first he was appointed as the Minister of Sanqi, a member of the Yuanwai Sanqi family, and then went to Beijing to serve as the prefect of Quanda. However, he was dismissed from office because of his guilt.
+
+summary:
+summary line 10: Kong Qian, from Kuaiji, studied under He Yin, excelling in the Five Classics. He served as a Five Classics doctor but was not skilled in governance. He died during the Liqian turmoil.
+
+Chunk 27: 
+original: 
+少师事何胤，通《五经》，尤明《三礼》、《孝经》、《论语》，讲说并数十遍，生徒亦数百人。
+历官国子助教，三为《五经》博士，迁尚书祠部郎。
+出为海盐、山阴二县令。
+佥儒者，不长政术，在县无绩。
+太清乱，卒于家。
+子俶玄，颇涉文学，官至太学博士。
+佥兄子元素，又善《三礼》，有盛名，早卒。
+卢广，范阳涿人，自云晋司空从事中郎谌之后也。
+谌没死冉闵之乱，晋中原旧族，谌有后焉。
+广少明经，有儒术。
+天监中归国。
+初拜员外散骑侍郎，出为始安太守，坐事免。
+translation: 
+When he was young, Wang Yu worshiped He Yin as his teacher. He was proficient in the Five Classics, especially the Three Rites, Xiaozhi and the Analects of Confucius. He expounded and taught these scriptures dozens of times and had hundreds of students.
+Renxi successively served as an assistant teacher of Guozi, a doctor of "Five Classics" three times, and moved to the post of Shangshu Temple Minister.
+He left Beijing and served as magistrate of two counties.
+Kong Qian was a Confucian scholar who only knew the classics and was not good at governing the people. He had no political achievements during his tenure as county magistrate.
+When turmoil broke out during the Liqian period, Kong Yu died at home.
+Kong Chuxuan, the son of Kong Qian, focused on studying Confucianism, and his official position was promoted to Doctor of Taixue.
+Kong Chuxuan, the son of brother Kong Ling, was also proficient in the "Three Rites" and had a great reputation, but he died young.
+Lu Guang, a native of Fanyang Zhuo, said he was a descendant of Lu Chen, a middle-ranking official in Zhi Sikong.
+Lu Chen was trapped and died in the army during the rebellion. During the Jin Dynasty, Lu Chen was still among the famous families in the Central Plains, and there were descendants of Lu Chen.
+Lu Guang was proficient in scriptures since he was a child and had Confucian knowledge.
+Lu Guang returned to chisel during the Tianjian period.
+At first he was appointed as the Minister of Sanqi, a member of the Yuanwai Sanqi family, and then went to Beijing to serve as the prefect of Quanda. However, he was dismissed from office because of his guilt.
+
+summary:
+summary line 11: Lu Guang, from Fanyang, was proficient in scriptures and served as a Five Classics doctor, known for his clear pronunciation. He died as Xunyang Prefect.
+
+Chunk 25: 
+original: 
+既长，遍治《五经》，与平原明山宾、会稽贺蒨同业友善。
+起家齐豫章王国侍郎，累迁奉朝请、征西行参军。
+天监初，迁临川王参军事，兼国子助教，转安成王功曹参军，兼《五经》博士，聚徒教授。
+华博涉有机辩，说经析理，为当时之冠。
+江左以来，钟律绝学，至华乃通焉。
+迁尚书仪曹郎，出为吴令，卒。
+崔灵恩，清河武城人也。
+少笃学，从师遍通《五经》，尤精《三礼》、《三传》。
+先在北仕为太常博士，天监十三年归国。
+高祖以其儒术，擢拜员外散骑侍郎，累迁步兵校尉，兼国子博士。
+灵恩聚徒讲授，听者常数百人。
+translation: 
+After becoming an adult, Bian Hua studied the Five Classics extensively. He studied together with Pingyuan Mingshanbin and Kuaiji He Qian, and they had a good friendship.
+When he first became an official, he was appointed as the minister of the Yuzhang Kingdom of Qi. After his meritorious service, he was promoted to the imperial court and went to the west to join the army.
+In the early years of Tianjian, Bian Hua moved to Linchuan Wang Gongcao to join the army and served as an assistant to Guozi. He was transferred to Ancheng Wang Gongcao to join the army and was also a doctor of "Five Classics", gathering students to teach Confucian classics.
+Bian Hua covered a wide range of subjects, was knowledgeable, witty and eloquent. He explained scriptures and analyzed their meanings. He was the leading figure at that time.
+After the Jin Dynasty moved to Jiangzuo, music rhythm became a unique skill, and it was not until Bian Hua that he became proficient in music rhythm.
+Bian Long moved to the post of Minister Cao Lang, and left the capital to serve as Wu Ling. He died.
+Cui Lingen is from Wucheng, Qinghedong.
+He has been attentive and eager to learn since he was a child. He followed his teacher to learn all the Five Classics, and he was especially proficient in the Three Rites and the Three Legends.
+Cui Lingen first served as an official in the Northern Dynasties and served as Dr. Taichang. In the thirteenth year of Tianjian, he returned to Liang Dynasty.
+Because Cui Lingen was proficient in Confucianism, Emperor Gaozu promoted him to the rank of Minister of Dispersed Cavalry, and he was promoted to the rank of Infantry Colonel and Doctor of the Imperial Academy.
+Cui Lingen gathered students to teach Confucian classics, and the number of students who listened to his lectures often reached hundreds.
+
+summary:
+summary line 12: Shen Jun, from Wuxing, studied the Five Classics, especially the Three Rites. Recommended as a Five Classics doctor, he lectured to hundreds. He died as Wukang Ling.
+
+Chunk 30: 
+original: 
+出为武康令，卒官。
+子文阿，传父业，尤明《左氏传》。
+太清中，自国子助教为《五经》博士。
+传峻业者，又有吴郡张及、会稽孔子云，官皆至《五经》博士、尚书祠部郎。
+太史叔明，吴兴乌程人，吴太史慈后也。
+少善《庄》、《老》，兼治《孝经》、《礼记》，其三玄尤精解，当世冠绝，每讲说，听者常五百余人。
+历官国子助教。
+邵陵王纶好其学，及出为江州，携叔明之镇。
+王迁郢州，又随府，所至辄讲授，江外人士皆传其学焉。
+大同十三年，卒，时年七十三。
+孔子袪，会稽山阴人。
+少孤贫好学，耕耘樵采，常怀书自随，投闲则诵读。
+translation: 
+Later he left the capital and served as Wukang Ling, and died during his tenure.
+Shen Jun's son, Shen Wen'a, inherited his father's studies, and was especially proficient in "The Biography of the Zuo Family".
+During the Taiqing period, Shen Wen'a was promoted from assistant teacher of Guozi to doctor of "Five Classics".
+Those who inherited Shen Jun's studies include Zhang Ji of Wujun and Confucius Yun of Kuaiji. Their official positions were promoted to doctor of the Five Classics and minister of the temple.
+Taishi Shuming was a native of Wucheng, Wuxing. He was a descendant of Wu Taishi Ci.
+Taishi Shuming was proficient in "Zhuangzi" and "Laozi" since he was a child. He also studied "The Book of Filial Piety" and "Book of Rites". He was particularly proficient in the three books of "Zhuangzi", "Laozi" and "Book of Changes". He was second to none at the time. During each lecture, there were often more than 500 people listening.
+Uncle Taishi served as Guozi's assistant coach for consecutive years.
+He liked Taishi Shuming's knowledge. When he came to Beijing to serve as the governor of Jiangzhou, he also took Taishi Shuming to Jiangzhou.
+He was appointed governor of Yingzhou, and Taishi Shuming moved to Yingzhou with the palace. Everywhere he went, Taishi Shuming opened a school to teach, and people in the south of the Yangtze River inherited his teachings.
+In the thirteenth year of Datong, Taishi Shuming passed away at the age of seventy-three.
+Confucius was born in Shanyin, Kuaiji.
+He lost his father when he was young, and his family was poor, but he loved learning. When he was cultivating fields and collecting wood in the mountains, he often took books with him and read and recited them whenever he had free time.
+
+summary:
+summary line 13: Taishi Shuming, from Wuxing, was proficient in Zhuangzi, Laozi, and the Book of Changes, lecturing to over five hundred. He died at seventy-three.
+
+Chunk 5: 
+original: 
+范缜，字子真，南乡舞阴人也。
+晋安北将军汪六世孙。
+祖璩之，中书郎。
+父濛，早卒。
+缜少孤贫，事母孝谨。
+年未弱冠，闻沛国刘献聚众讲说。
+始往从之，卓越不群而勤学，献甚奇之，亲为之冠。
+在献门下积年，去来归家，恒芒矰布衣，徒行于路。
+献门多车马贵游，缜在其门，聊无耻愧。
+既长，博通经术，尤精《三礼》。
+性质直，好危言高论，不为士友所安。
+唯与外弟萧琛相善，琛名曰口辩，每服缜简诣。
+起家齐宁蛮主簿，累迁尚书殿中郎。
+translation: 
+Fan Zhen, courtesy name Zizhen, was born in Wuyin, Nanxiang.
+He is the sixth generation grandson of Fan Wang, the general of Jin'an North.
+His grandfather Fan Xuzhi served as Zhongshu Lang.
+His father, Fan Meng, died young.
+Fan Zhen lost his father when he was very young. His family was poor and he served his mother with filial piety and respect.
+When Fan Zhen was less than 20 years old, he heard that Liu Shan of Pei State had gathered students to discuss the meaning of the classics, so he went to study with Liu Shan as his teacher.
+Fan Zhen has outstanding talents, is different from ordinary people, and studies diligently. Liu Shan thinks he is a genius and crowns him personally.
+Fan Zhen studied under Liu Shan for many years. Every time he went home, he often wore straw sandals and common clothes and walked back and forth.
+Liu Shan's family had many princes and nobles who rode in carriages and horses. Fan Zhen was under Liu Shan's family and did not feel ashamed at all because of his poverty.
+When Fan Zhen grew older, he became proficient in classics, especially the "Three Rites".
+Fan Zhensheng has a straightforward nature and likes to make honest and extraordinary remarks, so the scholars and friends who associate with him often feel unhappy.
+Fan Zhen only has a good relationship with his cousin Xiao Chen. Xiao Chen is known as an eloquent person, but he is often very impressed by Fan Zhen's concise and thoughtful diction.
+Fan Zhen first became an official and served as the chief registrar of Qining Man. After his meritorious service, he was promoted to the position of lieutenant in the Shangshu Palace.
+
+summary:
+summary line 14: Confucius Qu, from Kuaiji, lost his father young but became proficient in the Guwen Shangshu. He served as a lecturer and helped compile the Liang Guan. He died at fifty-one, authoring works on the Shangshu.
+
+Chunk 32: 
+original: 
+皇侃，吴郡人，青州刺史皇象九世孙也。
+侃少好学，师事贺蒨，精力专门，尽通其业，尤明《三礼》、《孝经》、《论语》。
+起家兼国子助教，于学讲说，听者数百人。
+撰《礼记讲疏》五十卷，书成奏上，诏付秘阁。
+顷之，召入寿光殿讲《礼记义》，高祖善之，拜员外散骑侍郎，兼助教如故。
+性至孝，常日限诵《孝经》二十遍，以拟《观世音经》。
+丁母忧，解职还乡里。
+平西邵陵王钦其学，厚礼迎之。
+侃既至，因感心疾，大同十一年，卒于夏首，时年五十八。
+所撰《论语义》十卷，与《礼记义》并见重于世，学者传焉。
+translation: 
+Huang Kan, a native of Wu County, is the ninth generation descendant of Huang Xiang, the governor of Qingzhou.
+Huang Kan loved studying since he was a child. He worshiped He Chang as his teacher and devoted himself to learning from He Chang. As a result, he became proficient in Confucian classics, especially the Three Rites, the Classic of Filial Piety, and the Analects of Confucius.
+When he first became an official and served as an assistant to Guozi, he gave lectures on classics and meanings in the academy, and hundreds of students attended his lectures.
+Huang Kan wrote fifty volumes of the "Book of Rites". After it was completed, it was presented to the emperor, who ordered it to be handed over to the secret pavilion for collection.
+Soon, Huang Kan was called to Huayongji to lecture on "Book of Rites". Zhidan thought that he was very knowledgeable, so he was appointed as a member of the Yuanwai Sanqi Shilang, and his position as an assistant teacher remained unchanged.
+Huang Kan was very filial by nature, and often required him to recite the "Filial Piety Sutra" twenty times a day, which was modeled on the recitation of the "Avalokiteśvara Sutra".
+When Huang Kan's mother passed away, he resigned from his post and returned to his hometown to mourn.
+King Shaoling of Qianxi admired Huang Kan's knowledge and went to welcome Huang Kan with generous gifts.
+After Huang Kan went to King Shaoling, he contracted a heart disease and died in Xia Shou in the eleventh year of Datong at the age of fifty-eight.
+The ten volumes of "On Meaning" and "Book of Rites" written by Huang Kan were valued by scholars at that time, and some scholars inherited his theories.
+
+summary:
+summary line 15: Huang Kan, from Wu County, studied under He Chang, excelling in the Three Rites. He lectured to hundreds and authored the Book of Rites. He died at fifty-eight.
+
+Chunk 2: 
+original: 
+其伏曼容、何佟之、范缜，有旧名于世；为时儒者，严植之、贺蒨等首膺兹选。
+今并缀为《儒林传》云。
+伏曼容，字公仪，平昌安丘人。
+曾祖滔，晋著作郎。
+父胤之，宋司空主簿。
+曼容早孤，与母兄客居南海。
+少笃学，善《老》、《易》，倜傥好大言，常云： 何晏疑《易》中九事。以吾观之，晏了不学也，故知平叔有所短。
+聚徒教授以自业。
+为骠骑行参军。
+宋明帝好《周易》，集朝臣于清暑殿讲，诏曼容执经。
+曼容素美风采，帝恒以方嵇叔夜，使吴人陆探微画叔夜像以赐之。
+迁司徒参军。
+袁粲为丹阳尹，请为江宁令，入拜尚书外兵郎。
+升明末，为辅国长史、南海太守。
+translation: 
+Among them, Fu Manrong, He Tongzhi and Fan Zhen were already famous in contemporary times; among the famous Confucian scholars at that time, Yan Zhizhi, He Yu and others were among the top candidates.
+Now the deeds of these people are connected together and compiled into "The Scholars".
+Fu Manrong, courtesy name Gongyi, was born in Anqiu, Pingchang.
+His great-grandfather Fu Tao was a scholar in the Jin Dynasty.
+His father Fu Yinzhi was the chief secretary of Sikong during the Song Dynasty.
+Fu Manrong lost his father very early, and he lived in the South China Sea with his mother and brother.
+Fu Manrong has been attentive and studious since he was a child, and he is proficient in "Laozi" and "Book of Changes". He is bold and free and likes to exaggerate. He once said: He Yan has questions about nine things in "Yi". From my perspective, He Yan does not study at all, so I know that Uncle He Ping has shortcomings.
+Fu Manrong gathered students to teach them their studies and regarded this as his profession.
+Fu Manrong Ren Piao rode to join the army.
+Emperor Ming of the Song Dynasty loved "The Book of Changes" and gathered courtiers to discuss the "Book of Changes" in the Qingshu Palace. He ordered Fu Manrong to hold the scriptures and answer questions.
+Fu Manrong was very beautiful in appearance and manners. Emperor Ming of the Song Dynasty often compared him with Ji Shuye. He also ordered the Wu man Lu to explore the portrait of Ji Shuye in Weizhou and give the portrait to Fu Manrong.
+Fu Manrong moved to Situ to join the army.
+When Yuan Can was appointed Danyang Yin, he requested that Fu Manrong be appointed as Jiangning Order. Fu Manrong entered the capital and was awarded the title of Shangshu Waibinglang.
+At the end of the Ming Dynasty, he served as the governor of the auxiliary state and the governor of Nanhai.
+
+summary:
+summary line 16: Yao Cha noted that these scholars, despite varying fortunes, contributed to Confucian learning during the Liang Dynasty.
+

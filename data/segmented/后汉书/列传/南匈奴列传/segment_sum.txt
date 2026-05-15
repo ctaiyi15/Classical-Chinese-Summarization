@@ -1,4 +1,4 @@
-Summary uses chunk [0, 2, 3, 6, 7]
+Summary uses chunk [0, 2, 3, 6, 12]
 
 Chunk 0: 
 original: 
@@ -80,8 +80,6 @@ original:
 使者曰： 单于当伏拜受诏。
 单于顾望有顷，乃伏称臣。
 拜讫，令译晓使者曰： 单于新立，诚惭于左右，愿使者众中无相屈折也。
-骨都侯等见，皆泣下。
-郴等反命，诏乃听南单于入居云中。
 translation: 
 The emperor accepted the opinion of Geng Guo, the general of the Fifth Palace, and agreed.
 In the winter of that year, Bi Zi established himself as Hu Hanxie Chanyu.
@@ -95,14 +93,13 @@ Chanyu then invited the Han envoys to meet him.
 The messenger said: The Chanyu should lie down on the ground and worship the edict.
 Shanyu looked back and forth for a long time before lying on the ground and proclaiming his vassal.
 After paying homage, the Chanyu had to translate and tell the envoy: The Chanyu has just ascended the throne and feels really ashamed in front of his subordinates. I hope the envoy will not condescend to the Chanyu in front of everyone.
-Seeing this, Guduhou and others shed tears.
-Duan Chen and others came back to answer their orders, and the emperor sent a letter to Shao to follow Nan Danyu to live in Yunzhong.
 
 summary:
 summary line 2: In the spring of the 24th year of Jianwu, Bi was established as Huhanxie Chanyu, seeking to be a barrier for Han. The emperor agreed. In winter, Bi proclaimed himself Chanyu. In the 25th year, Bi's brother attacked and captured Beidan Shanyu's brother, defeating Beidan's army. Beidan Shanyu retreated a thousand miles. The emperor built chariots with watchtowers to resist the Huns. People recalled a prophecy that in the ninth generation of Han, Beidi would retreat thousands of miles. The territory opened up, and many defected to Nandanyu, who proclaimed himself a vassal, presenting treasures and asking for envoys. In the 26th year, the emperor sent envoys to Nandanyu. The Chanyu, after hesitation, worshipped the edict and proclaimed his vassalage. The emperor gave him various gifts, including crowns, clothes, gold seals, and weapons, and transported food and cattle to help the southern Xiongnu. Zhonglang was ordered to set up an office to handle lawsuits and investigate news. The court established a routine of annual gifts and exchanges.
 
 Chunk 6: 
 original: 
+南单于遣兵拒之，逆战不利。
 于是复诏单于徙居西河美稷，因使中郎将段郴及副校尉王郁留西河拥护之，为设官府、从事、掾史。
 令西河长史岁将骑二千、弛刑五百人，助中郎将卫护单于，冬屯夏罢。
 自后以为常，及悉复缘边八郡。南单于既居西河，亦列置诸部王，助为扞戍。
@@ -114,9 +111,8 @@ original:
 今未能出兵，而反交通北虏，臣恐南单于将有二心，北虏降者且不复来矣。
 帝然之，告武威太守勿受其使。
 二十八年，北匈奴复遣使诣阙，贡马及裘，更乞和亲，并请音乐，又求率西域诸国胡客与俱献见。帝下三府议酬答之宜。
-司徒掾班彪奏曰：臣闻孝宣皇帝敕边守尉曰； 匈奴大国，多变诈。
-交接得其情，则却敌折冲；应对入其数，则反为轻欺。
 translation: 
+Nan Shanyu sent troops to resist, but the battle was unfavorable.
 The imperial court then issued a letter from Shao asking Shanyu to move to Meiji, Xihe, and sent Zhonglang Duan Chen and deputy captain Wang Yu to stay in Xihe to protect Shanyu, and to set up an official office, engage in work, and make history for Shanyu.
 He also ordered Xihe Changsheng to lead 2,000 cavalry and 500 unchained prisoners every year to help Zhonglang guard Shanyu, stationed in the winter and withdrawn in the summer. From then on, it was a regular practice.
 It also exempted the eight border counties from all taxes and labor. After Nan Danyu settled in Xihe, he also set up various princes and princes to help the Han Dynasty resist and guard the border.
@@ -128,47 +124,51 @@ The crown prince said: Southern Danyu had just surrendered, and the enemies in t
 Now that the imperial court cannot send troops, but instead communicates with the enemy captives in the north, I am afraid that Nan Shanyu will have second thoughts, and the enemy captives in the north who are willing to surrender will not come to surrender again.
 The emperor thought it was reasonable and told the prefect of Wuwei not to accept Bei Shanyu's envoy.
 In the twenty-eighth year, the Northern Huns once again sent envoys to the court, presenting horses and furs, begging for marriage again, and asking for music from the Han Dynasty. They also asked the Hu people from various countries in the west city to come together to pay tribute and worship. The emperor handed the matter over to the Sangong Mansion to discuss the matter of payment and reply.
-Situ Peng wrote to Ban Biao, saying: I heard that Emperor Xiaoxuan ordered the generals guarding the border to say: The Xiongnu is a big country, full of changes and deceptions.
-If you interact appropriately, you can win the negotiation; if you fall into their scheme, you will be despised and bullied by them in turn.
 
 summary:
 summary line 3: According to Xiongnu custom, there were three dragon temples a year for worship. Since Nan Danyu surrendered, he also offered sacrifices to the Han Emperor, convening ministries to discuss state affairs. The most honorable ministers were the Four Corners and Six Corners, all sons and brothers of the Chanyu. Ministers with different surnames had various titles. Shanyu's surname was a virtual conjunction, with four different surnames: Huyan, Xub, Qiulin, and Lan. In the winter of the 26th year, the sons of the five Gudu lords defected to the south, but were captured by Bei Shanyu. Nan Shanyu's resistance was unfavorable. The court ordered Shanyu to move to Meiji, Xihe, and sent Zhonglang Duan Chen to protect him. They also exempted eight border counties from taxes. Nan Danyu set up various princes to guard the border. Bei Shanyu, frightened, returned many Han people. In the 27th year, Bei Shanyu requested peace, but the crown prince advised against it, fearing Nan Shanyu's second thoughts. The emperor agreed. In the 28th year, Bei Shanyu again sent envoys, offering horses and furs, begging for marriage and music. The emperor, following Ban Biao's advice, gave rewards but did not send envoys.
 
-Chunk 7: 
+Chunk 12: 
 original: 
-今北匈奴见南单于来附，惧谋其国，故数乞和亲，又远驱牛、马与汉合市，重遣名王，多所贡献。斯皆外示富强，以相欺诞也。
-臣见其献益重，知其国益虚，归亲愈数，为惧愈多。
-然今既未获助南，则亦不宜绝北，靶縻之义，礼无不答。
-谓可颇加赏赐，略与所献相当，明加晓告以前世呼韩邪、郅支行事。
-报答之辞，令必有适，今立稿草并上，曰： 单于不忘汉恩，追念先祖旧约，欲修和亲，以辅身安国，计议甚高，为单于嘉之。
-往者，匈奴数有乖乱，呼韩邪、郅支自相仇隙，并蒙孝宣皇帝垂恩救护，故各遣侍子称籓保塞。
-其后郅支忿戾，自绝皇泽；而呼韩附亲，忠孝弥著。
-及汉灭郅支，遂保国传嗣，子孙相继。
-今南单于携众南向，款塞归命。
-自以呼韩嫡长，次第当立，而侵夺失职，猜疑相背，数请兵将，归扫北庭，策谋纷纭，无所不至。
-惟念斯言不可独听，又以北单于比年贡献，欲修和亲，故拒而未许，将以成单于忠孝之义。
-汉秉威信，总率万国，日月所照，皆为臣妾。
-殊俗百蛮，义无亲疏，服顺者褒赏，畔逆者诛罚，善恶之效，呼韩、郅支是也。
-今单于欲修和亲，款诚已达，何嫌而欲率西域诸国俱来献见？
-西域国属匈奴，与属汉何异？
-单于数连兵乱，国内虚耗，贡物裁以通礼，何必献马裘？
+南单于遣左贤王信随太仆祭肜及吴棠出朔方高阙，攻皋林温禺犊王于涿邪山。
+虏闻汉兵来，悉度漠去。肜、棠坐不至涿邪山免，以骑都尉来苗行度辽将军。
+其年，北匈奴入云中，遂至渔阳，太守廉范击却之。
+诏遣使者高弘发三郡兵追之，无所得。
+建初元年，来苗迁济阴太守，以征西将军耿秉行度辽将军。
+时皋林温禺犊王复将众还居涿邪山，南单于闻知，遣轻骑与缘边郡及乌桓兵出塞击之，斩首数百级，降者三四千人。
+其年，南部苦蝗，大饥，肃宗禀给其贫人三万余口。
+七年，耿秉迁执金吾，以张掖太守邓鸿行度辽将军。
+八年，北匈奴三木楼訾大人稽留斯等，率三万八千人、马二万匹、牛、羊十余万，款五原塞降。
+元和元年，武威太守孟云上言北单于复愿与吏人合市，诏书听云遣驿使迎呼慰纳之。
+北单于乃遣大且渠伊莫訾王等，驱牛、马万余头来与汉贾客交易。
+诸王大人或前至，所在郡县为设官邸，赏赐待遇之。
+南单于闻，乃遣轻骑出上郡，遮略生口，抄掠牛、马，驱还入塞。
+二年正月，北匈奴大人车利、涿兵等亡来入塞，凡七十三辈。
+时北虏衰耗，党众离畔，南部攻其前，丁零寇其后，鲜卑击其左，西域侵其右，不复自立，乃远引而去。
+单于长立二十三年薨，单于汗之子宣立。
+伊屠於闾鞮单于宣，元和二年立。
+其岁，单于遣兵千余人猎至涿邪山，卒与北虏温禺犊王遇，因战，获其首级而还。
+冬，孟云上言： 北虏以前既和亲，而南部复往抄掠，北单于谓汉欺之，谋欲犯塞，谓宜还南所掠生口，以慰安其意。
 translation: 
-Now when the Northern Xiongnu saw that the Southern Danyu had come to surrender, they were afraid that we would plot against them, so they begged for peace many times, brought cattle and horses from far away to do business with the Han, and repeatedly dispatched famous princes and paid many tributes. These were all used to show their wealth and strength to the outside world and to deceive us.
-The more I saw that the Xiongnu contributed more, the more empty the Xiongnu country became, and the more urgent the Xiongnu's request for surrender and closeness became, and the more powerful their fear became.
-However, since it is unable to help the south, it is not appropriate to cut off contact with the north. According to the principle of Huairou, Yu Lishu cannot leave without reply.
-The minister thought that he could give them some rewards, which were roughly equivalent to the value of what they had given, so he publicly informed them of the results of the actions of Huhanxie and Zhizhi of the previous generations.
-The wording of your reply must be appropriate. Now submit the drafted manuscript together and say: The Chanyu has not forgotten the kindness of the Han, recalled the old alliance with his ancestors, and plans to establish peace with the Han in order to assist himself and stabilize the country. His strategy is very clever, and we express our appreciation for the Chanyu.
-In the past, the Xiongnu rebelled many times, and Huhanxie and Zhizhi hated each other. They were both rescued and protected by Emperor Xiaoxuan, so each of them sent their sons to serve in the court and guard the borders in the name of the vassal state.
-After that, Zhizhi was resentful and rebellious, cutting off the favor of the court. However, he returned to Han and became closer to him, and his loyalty and filial piety became more and more obvious.
-By the time the Zhi branch was eliminated in the Han Dynasty, the Huhan family finally preserved the country and passed on the throne to their descendants, who inherited the throne from each other.
-Now Nan Danyu led his troops to submit to the south and returned to the desert.
-He thought that Huhan was the legitimate eldest son and should be established as a Chanyu in order. Instead, he was deprived of his position and was suspected of betraying him. He repeatedly asked Mo to send troops to send troops to wipe out Beidan in the royal court. All kinds of strategies were put forward.
-The imperial court considered that it could not accept one-sided words, and because Northern Danyu had paid tribute in consecutive years and wanted to establish a peace marriage, it rejected Southern Danyu's request without agreeing, in order to fulfill Shanyu's idea of ​​loyalty and filial piety.
-The Han Dynasty ruled all the nations with its might and faith. As long as the moon shined, all the people there were the concubines of Mo.
-Many barbarians with different customs have no moral distinction between closeness and alienation. Those who obey and submit will be praised and rewarded, and those who betray and disobey will be punished with elimination. The consequences of good deeds and evil deeds are as follows: Huhanxie and Zhizhi are examples.
-Now that Chanyu wants to make peace and has expressed his sincerity, why is he suspicious and wants to lead all the countries in the Western Region to pay tribute and meet with him?
-The countries in the Western Regions belong to the Xiongnu, what is the difference between those belonging to the Han?
-Chanyu had many military revolts in succession, and the country was depleted of money. The tributes were only enough to pay for courtesy, so why offer horses and furs?
+Nan Shanyu sent Zuoxian Wang Xin to follow Taifu Jixi and Wu Tang out of Gaoque in Shuofang to attack Gaolin Wenyudu King in Zhuoxie Mountain.
+When the enemy captives learned that the Han army was coming, they all fled across the desert. Ji Xu and Wu Tang were convicted and dismissed because they did not arrive at Zhuoxie Mountain. The imperial court appointed the Cavalry Captain to come to Miao and capture the generals of Liao.
+This year, the Northern Xiongnu entered Yunzhong and then arrived at Yuyang. The prefect Lian Fan repelled the enemy.
+The emperor issued an edict and sent the envoy Gao Hong to recruit troops from three counties to pursue them, but found nothing.
+In the first year of Jianchu's reign, Lai Miao was transferred to the post of prefect of Jiyin, and the imperial court appointed Geng Bing, the general who conquered the west, to also take charge of the general of Liao.
+At that time, King Wenyu Du of Gaolin led his troops back to live in Zhuoxie Mountain. After learning about it, Nan Shanyu sent light cavalry and troops from border counties and Wuhuan to attack Lai Miao, killing hundreds of people and surrendering three to four thousand people.
+This year, the southern Huns were suffering from locusts and there was a severe famine. Suzong provided food relief to more than 30,000 poor people in the south.
+In the seventh year, Geng Bing was transferred to Jinwu, and the imperial court appointed Deng Hong, the governor of Zhangye, and the general of Liao Dynasty.
+In the eighth year, Jiliusi, the leader of Sanmulouzi of the Northern Huns, and others led 38,000 people, 20,000 horses, and more than 100,000 cattle and sheep, and surrendered at the Wuyuan border gate.
+In the first year of Yuanhe, Meng Yun, the prefect of Wuwei, wrote a letter saying that Bei Shanyu wanted to gather with officials and people for trade again. The emperor wrote to Shao Shu and asked Meng Yun to send post envoys to greet and express condolences to those who accepted Bei Shanyu.
+So Beidan sent King Daqiequyi Mozi and others to drive more than 10,000 cattle and horses to trade with Han merchants.
+From time to time, princes and leaders would come, and the counties where they went would prepare official residences for them and give them rewards and preferential treatment.
+After Nan Danyu learned about it, he sent light cavalry from Shangjun to intercept and plunder the population, plunder cattle and horses, and drive them into the fortress.
+In the first month of the second year, the Northern Huns leaders Cheli, Zhuo Bing and others fled into the fortress, a total of seventy-three cases.
+At that time, the enemies in the north were weak and depleted, and their tribes rebelled. The Xiongnu in the south attacked in the front, Ding Ling invaded their rear, Xianbei attacked on the left, and the Western Regions invaded on the right. The Northern Huns were unable to stand on their own and had to retreat far away.
+Shanyu Chang died in the 23rd year of his reign, and Shanyu Khan's son Xuan succeeded to the throne.
+Yitu Yulu Qiandan Yuxuan, succeeded to the throne in the second year of Yuanhe.
+One year later, Shanyu sent more than a thousand soldiers to hunt. When they arrived at Zhuoxie Mountain, they suddenly met King Wenyu Du in the north. The two sides fought and returned with the head of King Wenyu Du.
+In winter, Meng Yun wrote a letter saying: The enemy captives in the north had made peace with each other before, but they went to plunder them in the south again. The northern Shanyu thought that the Han had deceived them, and discussed attacking the border fortress. I thought it would be best to return the people plundered from the south to the north, so as to give them psychological comfort.
 
 summary:
 summary line 4: Bi reigned for nine years. After his death, his brother succeeded him. The Han Dynasty established a routine of condolences and rewards for each Shanyu's death. Over the years, various Shanyu succeeded each other, with conflicts between the northern and southern Xiongnu. The Northern Xiongnu, weakened by internal strife and attacks from Xianbei and others, eventually collapsed. The Southern Xiongnu, under various Shanyu, sometimes rebelled and sometimes surrendered, causing ongoing border troubles. The Han Dynasty sent generals to attack and defend, with mixed results. Eventually, the Xiongnu split into northern and southern courts, with the southern court serving as a vassal to Han. The Han Dynasty established the Du Liao military camp to guard against both. Despite occasional rebellions, the southern Xiongnu remained largely submissive, while the northern Xiongnu gradually weakened and disappeared. The Han Dynasty's policy of using barbarians to attack barbarians proved effective, but also led to ongoing conflicts and instability.

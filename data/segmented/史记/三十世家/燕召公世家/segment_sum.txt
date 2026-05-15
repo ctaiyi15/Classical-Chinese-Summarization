@@ -1,0 +1,111 @@
+Summary uses chunk [0, 7, 10]
+
+Chunk 0: 
+original: 
+召公奭与周同姓，姓姬氏。
+周武王之灭纣，封召公於北燕。
+其在成王时，召王为三公：自陕以西，召公主之；自陕以东，周公主之。
+成王既幼，周公摄政，当国践祚，召公疑之，作君奭。
+君奭不说周公。
+周公乃称 汤时有伊尹，假于皇天；在太戊时，则有若伊陟、臣扈，假于上帝，巫咸治王家；在祖乙时，则有若巫贤；在武丁时，则有若甘般：率维兹有陈，保乂有殷 。
+於是召公乃说。
+召公之治西方，甚得兆民和。
+召公巡行乡邑，有棠树，决狱政事其下，自侯伯至庶人各得其所，无失职者。
+召公卒，而民人思召公之政，怀棠树不敢伐，哥咏之，作甘棠之诗。
+translation: 
+Zhao Gongxi has the same surname as the Zhou royal family, Ji.
+After King Wu of Zhou destroyed King Zhou of Shang, he granted Duke Zhao a title in Northern Yan.
+When King Cheng of Zhou was on the throne, Duke Zhao was in charge of the three Dukes: from the west of Shaanxi, Duke Zhao was in charge; from the east of Shaanxi, Duke Zhou was in charge.
+At that time, King Cheng was still young, and Duke Zhou presided over the affairs of state on his behalf and held the power of the country, just like the emperor. Duke Zhao was suspicious of Duke Zhou's actions, so Duke Zhou wrote an article "Jun Shi" to express his confession.
+Duke Zhao was still very dissatisfied with Duke Zhou.
+Duke Zhou then praised the relevant historical facts of the Yin and Shang Dynasties and said: During the reign of Shang Tang, there was Yi Yin, whose merits reached heaven; during Taiwu's reign, there were people like Yi Zhi and Chen Hu, whose merits reached heaven, and Wu Xian managed the government; during Zu Yi's reign, there were people like Wu Xian; during Wu Ding's era, there were people like Gan Ban: these ministers all had the merit of assisting the king and presiding over governance, and the Yin Dynasty was governed and stabilized.
+After hearing these words, Duke Zhao became happy.
+Duke Zhao governed the western region and was deeply loved by the people.
+When Zhao Gong went to inspect villages and towns, he saw a Tangli tree, and he judged lawsuits and handled political affairs under the tree. From marquises, counts to civilians, everyone has been properly accommodated, and there has been no neglect of duty.
+After the death of Duke Zhao, the people missed his political achievements and the time when Duke Zhao handled political affairs under the Tangli tree. They were reluctant to cut down the trees and praised Duke Zhao, writing a poem called "Gantang".
+
+summary:
+summary line 0: The history of the Yan state, beginning with its founder, Zhao Gongxi, a member of the Zhou royal family granted the title in Northern Yan by King Wu. During King Cheng's reign, Zhao Gong governed west of Shaanxi, while the Duke of Zhou governed the east. Suspicious of the Duke of Zhou's regency, Zhao Gong was appeased by the Duke's historical references to virtuous Yin ministers. Zhao Gong governed the western region with great popularity, famously adjudicating under a Tangli tree, which the people later honored in the poem "Gantang" after his death.
+
+Chunk 7: 
+original: 
+然诚得贤士以共国，以雪先王之耻，孤之愿也。
+先生视可者，得身事之。
+郭隗曰： 王必欲致士，先从隗始。
+况贤于隗者，岂远千里哉！
+于是昭王为隗改筑宫而师事之。
+乐毅自魏往，邹衍自齐往，剧辛自赵往，士争趋燕。
+燕王吊死问孤，与百姓同甘苦。
+二十八年，燕国殷富，士卒乐轶轻战，于是遂以乐毅为上将军，与秦、楚、三晋合谋以伐齐。
+齐兵败，愍王出亡于外。
+燕兵独追北，入至临淄，尽取齐宝，烧其宫室宗庙。
+齐城之不下者，独唯聊、莒、即墨，其余皆属燕，六岁。
+昭王三十三年卒，子惠王立。
+惠王为太子时，与乐毅有隙；及即位，疑毅，使骑劫代将。乐毅亡走赵。
+translation: 
+But if I can get wise men to rule the country together and wash away the shame of the late king, this is my wish.
+When my husband sees such a suitable talent, I will definitely serve him personally.
+Guo Wei said: If the king must recruit wise men, then he should start with me, Guo Wei.
+As for those who are more worthy than me, will they still think that they are thousands of miles away and refuse to come?
+So King Zhao rebuilt Guo Wei into a gorgeous residence and treated him with the highest level of etiquette as he would a teacher.
+At this time, Le Yi came from Wei, Zou Yan came from Qi, Ju Xin came from Zhao, and the wise men rushed to Yan.
+King Yan paid homage to the deceased, expressed condolences to the orphans, and shared the joys and sorrows with his ministers.
+In the twenty-eighth year, the state of Yan became rich and prosperous, and its soldiers were willing to attack and were not afraid of war. King Yan then appointed Le Yi as general, and planned together with Qin, Chu, Zhao, Wei, Han and other countries to send troops to conquer Qi.
+The Qi army was defeated and King Qi Min fled to other places.
+The Yan army pursued the fleeing Qi army alone, invaded Linzi, the capital of Qi, seized all the treasures of Qi, and burned the ancestral temples and palaces of Qi.
+The only cities in Qi State that were not captured were Liao, Ju and Jimo. The rest were subordinate to Yan State for six years.
+King Zhao died in the thirty-third year of his reign, and his son King Hui came to the throne.
+When King Hui was the crown prince, he had a quarrel with Le Yi; after he came to the throne, he did not trust Le Yi and asked Qi Jie to replace Le Yi as general.
+
+summary:
+summary line 1: The succession of Yan rulers is then detailed, from Huihou through numerous generations, with key events interspersed: the flight of King Zhou Li, the rise of Qin as vassals, and the reign of King Xuan. The narrative covers Yan's interactions with other states, including attacks on King Hui of Zhou, invasions by Shan Rong (aided by Duke Huan of Qi), and participation in alliances against Qin. Internal strife emerges under King Kuai, who ceded power to his minister Zizhi, leading to chaos, Qi's invasion, and the death of King Kuai. King Zhao of Yan restored stability by recruiting talents like Le Yi, Zou Yan, and Ju Xin, leading to a prosperous period and a successful campaign against Qi, capturing its capital Linzi.
+
+Chunk 10: 
+original: 
+赵孝成王卒，悼襄王立。
+使乐乘代廉颇，廉颇不听，攻乐乘，乐乘走，廉颇奔大梁。
+十二年，赵使李牧攻燕，拔武遂、方城。
+剧辛故居赵，与庞暖善，已而亡走燕。
+燕见赵数困于秦，而廉颇去，令庞暖将也，欲因赵毙攻之。
+问剧辛，辛曰： 庞暖易与耳。
+燕使剧辛将击赵，赵使庞暖击之，取燕军二万，杀剧辛。
+秦拔魏二十城，置东郡。
+十九年，秦拔赵之邺九城。
+赵悼襄王卒。
+二十三年，太子丹质于秦，亡归燕。
+二十五年，秦虏灭韩王安，置颍川郡。
+二十七年，秦虏赵王迁，灭赵。
+赵公子嘉自立为代王。
+燕见秦且灭六国，秦兵临易水，祸且至燕。
+太子丹阴养壮士二十人，使荆轲献督亢地图于秦，因袭刺秦王。
+秦王觉，杀轲，使将军王翦击燕。
+二十九年，秦攻拔我蓟，燕王亡，徙居辽东，斩丹以献秦。
+三十年，秦灭魏。
+三十三年，秦拔辽东，虏燕王喜，卒灭燕。
+是岁，秦将王贲亦虏代王嘉。
+translation: 
+At this time, King Zhao Xiaocheng passed away and King Mouxiang came to the throne.
+King Mouxiang sent Lecheng to take over Lianpo's command, but Lianpo refused to obey orders and attacked Lecheng. Lecheng escaped, and Lianpo also fled to Daliang, the capital of Wei.
+In the twelfth year, Zhao State sent Li Mu to attack Yan State and captured Wu Sui and Fangcheng.
+When Ju Xin lived in the State of Zhao, he was very close to Pang Nuan, but later fled to the State of Yan.
+King Yan saw that Zhao was besieged by Qin soldiers many times and Lian Po left Zhao. At this time, Pang Nuan was leading the army to fight, so he wanted to take advantage of Zhao's fatigue to attack it.
+King Yan asked Ju Xin at this time, and Ju Xin said: Pang Nuan is easy to deal with.
+The King of Yan sent Ju Xin to lead an army to attack the State of Zhao. The State of Zhao sent Pang Nuan to fight, captured 20,000 Yan troops, and killed Ju Xin.
+At this time, Qin State captured twenty cities of Wei State and established Dongjun.
+In the 19th year, Qin State captured nine cities including Ye of Zhao State.
+King Zhao Daoxiang passed away.
+In the twenty-third year, Prince Dan of Yan was sent to Qin as a hostage, but he escaped back to Yan.
+In the twenty-fifth year, Qin captured Han Wangan, destroyed Han, and established Yingchuan County.
+In the twenty-seventh year, Qin captured Zhao Wangqian and destroyed Zhao.
+Prince Jia of the State of Zhao established himself as acting king.
+The monarchs and ministers of the Yan State saw that the Qin State was about to destroy the six countries. The Qin army had already reached Yishui, and disaster was about to befall the Yan State.
+Prince Dan of Yan secretly supported twenty warriors. At this time, he sent Jing Ke to present the map of Dukang to the King of Qin and took the opportunity to assassinate the King of Qin.
+The King of Qin found out, killed Jing Ke, and sent General Wang Jian to attack Yan.
+In the 29th year, the Qin army captured Ji, the capital of Yan State. King Yan fled and later moved to Liaodong. He killed Prince Dan and presented his head to Qin State.
+Thirty years later, Qin destroyed Wei.
+In the thirty-third year, the Qin army captured Liaodong, captured King Xi of Yan, and finally destroyed the Yan state.
+This year, Qin general Wang Ben also captured Dai Wangjia.
+
+summary:
+summary line 2: After King Zhao's death, King Hui's distrust of Le Yi led to Qi's recovery under Tian Dan. Subsequent rulers faced defeats by Zhao, including a failed attack advised by Ju Xin, resulting in heavy losses. The state weakened as Qin expanded, destroying Han and Zhao. Prince Dan of Yan's failed assassination attempt on Qin's king via Jing Ke prompted Qin's invasion, capturing Ji and forcing King Yan to flee to Liaodong. Eventually, Qin captured Liaodong, ending the Yan state. The historian concludes that Yan's survival for eight or nine hundred years, despite external pressures and near destruction, was due to Zhao Gong's virtuous legacy.
+

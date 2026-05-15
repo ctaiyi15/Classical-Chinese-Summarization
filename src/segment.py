@@ -6,10 +6,10 @@ from transformers import AutoTokenizer, AutoModel
 from collections import Counter
 
 
-original_root = Path("../data/raw/original/后汉书")
-translated_root = Path("../data/processed/translated/后汉书")
-summary_root = Path("../data/processed/summary/后汉书")
-output_root = Path("../data/segmented/后汉书")
+original_root = Path("../data/raw/original")
+translated_root = Path("../data/processed/translated")
+summary_root = Path("../data/processed/summary_clean")
+output_root = Path("../data/segmented")
 
 def mean_pooling(model_output, attention_mask):
     token_embeddings = model_output.last_hidden_state
@@ -77,6 +77,7 @@ if __name__ == '__main__':
     model_name = "sentence-transformers/all-MiniLM-L6-v2"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModel.from_pretrained(model_name)
+    mt5_tokenizer = AutoTokenizer.from_pretrained("google/mt5-small")
 
     for file_count,summary_file in enumerate(summary_root.rglob("target.summary.txt")):
 
@@ -109,7 +110,7 @@ if __name__ == '__main__':
         current_chunk_size = 0
         orig_chunks = []
         orig_current_chunk = []
-        token_source = [len(tokenizer.encode(sen)) for sen in tran_text]
+        token_source = [len(mt5_tokenizer.encode(sen)) for sen in tran_text]
 
         for i,sen in enumerate(tran_text):
             if current_chunk_size + token_source[i] < lower_limit:

@@ -1,0 +1,392 @@
+Summary uses chunk [0, 0, 14, 14, 6, 8, 14, 14]
+
+Chunk 0: 
+original: 
+卫青字仲卿。
+其父郑季，河东平阳人也，以县吏给事侯家。
+平阳侯曹寿尚武帝姊阳信长公主。
+季与主家僮卫媪通，生青。
+青有同母兄卫长君及姊子夫，子夫自平阳公主家得幸武帝，故青冒姓为卫氏。
+卫媪长女君孺，次女少皃，次女则子夫。
+子夫男弟步广，皆冒卫氏。
+青为侯家人，少时归其父，父使牧羊。
+民母之子皆奴畜之，不以为兄弟数。
+青尝从人至甘泉居室，有一钳徒相青曰： 贵人也，官至封侯。
+青笑曰： 人奴之生，得无笞骂即足矣，安得封侯事乎！
+青壮，为侯家骑，从平阳主。
+建元二年春，青姊子夫得入宫幸上。
+皇后，大长公主女也，无子，妒。
+大长公主闻卫子夫幸，有身，妒之，乃使人捕青。
+青时给事建章，未知名。
+大长公主执囚青，欲杀之。
+其友骑郎公孙敖与壮士往篡之，故得不死。
+上闻，乃召青为建章监，侍中。
+及母昆弟贵，赏赐数日间累千金。
+君孺为太仆公孙贺妻。
+少皃故与陈掌通，上召贵掌。
+translation: 
+Wei Qing, courtesy name Zhongqing.
+His father, Zheng Ji, was from Pingyang, Hedong Province. He served as a county official and worked as an errand in the Pingyang Hou family.
+Pingyang Hou Cao Shou married Princess Yang Xinchang, the sister of Emperor Mowu.
+Zheng Ji had an affair with his master's servant Wei Wei and gave birth to Wei Qing.
+Wei Qing had an elder brother, Wei Changjun, and an elder sister, Wei Zifu. Wei Zifu was favored by Emperor Wu in Princess Pingyang's family, so Wei Qing assumed the surname Wei.
+Wei's eldest daughter is Junru, her second daughter is Shaoer, and her third daughter is Wei Zifu.
+Wei Zifu's younger brother Bu Guang took the surname Wei.
+Wei Qing was considered a member of Pingyang Hou's family and returned to his father's home when he was a child.
+His father made him herd sheep, and his aunt's sons treated him as a slave and were not counted among their brothers.
+Wei Qing once followed someone to the prisoner's room in Ganquan Palace. A prisoner who was being tortured came to him and said, "You are a noble person. If you become an official, you can become a marquis."
+Wei Qing smiled and said: "A son born from a slave would be very satisfied if he could not be beaten or scolded. How could there be such a good thing as becoming a prince?"
+When Wei Qing grew up, he became a knight of the Pingyang Hou family and followed Princess Pingyang.
+In the spring of the second year of Jianyuan, Wei Qing's sister Wei Zifu entered the palace and was favored by the emperor.
+Queen Chen is the daughter of the eldest princess. She has no son and is jealous of others.
+The eldest princess heard that Wei Zifu was favored and was pregnant. She was jealous of her and sent people to arrest Wei Qing.
+Wei Qing was working as an errand in Jianzhang Palace at that time and was not yet famous.
+The eldest princess caught Wei Qing, imprisoned him, and wanted to kill him.
+Wei Qing's friend Qi Lang Gongsun Ao and the warriors went to snatch him out, and Wei Qing avoided death.
+When the emperor heard about this, he summoned Wei Qing and asked him to be the eunuch of Jianzhang Palace and serve as a minister.
+When his half-brothers became prominent, the rewards amounted to thousands of gold in a few days.
+Jun Ru married Grand Servant Sun He as his wife.
+Wei Shaoer originally had an affair with Chen Zhang, and the emperor summoned Chen Zhang to make him an official.
+
+summary:
+summary line 0: Wei Qing, courtesy name Zhongqing, was the illegitimate son of Zheng Ji, a county official in Pingyang, and a servant named Wei. He assumed the surname Wei after his sister Wei Zifu gained favor with Emperor Wu. As a youth, Wei Qing herded sheep and was treated poorly by his relatives. A prisoner once prophesied he would become a marquis, but Wei Qing dismissed this, content to avoid beatings. He later became a knight for the Pingyang Hou family.
+
+Chunk 0: 
+original: 
+卫青字仲卿。
+其父郑季，河东平阳人也，以县吏给事侯家。
+平阳侯曹寿尚武帝姊阳信长公主。
+季与主家僮卫媪通，生青。
+青有同母兄卫长君及姊子夫，子夫自平阳公主家得幸武帝，故青冒姓为卫氏。
+卫媪长女君孺，次女少皃，次女则子夫。
+子夫男弟步广，皆冒卫氏。
+青为侯家人，少时归其父，父使牧羊。
+民母之子皆奴畜之，不以为兄弟数。
+青尝从人至甘泉居室，有一钳徒相青曰： 贵人也，官至封侯。
+青笑曰： 人奴之生，得无笞骂即足矣，安得封侯事乎！
+青壮，为侯家骑，从平阳主。
+建元二年春，青姊子夫得入宫幸上。
+皇后，大长公主女也，无子，妒。
+大长公主闻卫子夫幸，有身，妒之，乃使人捕青。
+青时给事建章，未知名。
+大长公主执囚青，欲杀之。
+其友骑郎公孙敖与壮士往篡之，故得不死。
+上闻，乃召青为建章监，侍中。
+及母昆弟贵，赏赐数日间累千金。
+君孺为太仆公孙贺妻。
+少皃故与陈掌通，上召贵掌。
+translation: 
+Wei Qing, courtesy name Zhongqing.
+His father, Zheng Ji, was from Pingyang, Hedong Province. He served as a county official and worked as an errand in the Pingyang Hou family.
+Pingyang Hou Cao Shou married Princess Yang Xinchang, the sister of Emperor Mowu.
+Zheng Ji had an affair with his master's servant Wei Wei and gave birth to Wei Qing.
+Wei Qing had an elder brother, Wei Changjun, and an elder sister, Wei Zifu. Wei Zifu was favored by Emperor Wu in Princess Pingyang's family, so Wei Qing assumed the surname Wei.
+Wei's eldest daughter is Junru, her second daughter is Shaoer, and her third daughter is Wei Zifu.
+Wei Zifu's younger brother Bu Guang took the surname Wei.
+Wei Qing was considered a member of Pingyang Hou's family and returned to his father's home when he was a child.
+His father made him herd sheep, and his aunt's sons treated him as a slave and were not counted among their brothers.
+Wei Qing once followed someone to the prisoner's room in Ganquan Palace. A prisoner who was being tortured came to him and said, "You are a noble person. If you become an official, you can become a marquis."
+Wei Qing smiled and said: "A son born from a slave would be very satisfied if he could not be beaten or scolded. How could there be such a good thing as becoming a prince?"
+When Wei Qing grew up, he became a knight of the Pingyang Hou family and followed Princess Pingyang.
+In the spring of the second year of Jianyuan, Wei Qing's sister Wei Zifu entered the palace and was favored by the emperor.
+Queen Chen is the daughter of the eldest princess. She has no son and is jealous of others.
+The eldest princess heard that Wei Zifu was favored and was pregnant. She was jealous of her and sent people to arrest Wei Qing.
+Wei Qing was working as an errand in Jianzhang Palace at that time and was not yet famous.
+The eldest princess caught Wei Qing, imprisoned him, and wanted to kill him.
+Wei Qing's friend Qi Lang Gongsun Ao and the warriors went to snatch him out, and Wei Qing avoided death.
+When the emperor heard about this, he summoned Wei Qing and asked him to be the eunuch of Jianzhang Palace and serve as a minister.
+When his half-brothers became prominent, the rewards amounted to thousands of gold in a few days.
+Jun Ru married Grand Servant Sun He as his wife.
+Wei Shaoer originally had an affair with Chen Zhang, and the emperor summoned Chen Zhang to make him an official.
+
+summary:
+summary line 1: Wei Zifu's entry into the palace and pregnancy provoked jealousy from Empress Chen and her mother, the Grand Princess, who imprisoned Wei Qing. His friend Gongsun Ao rescued him, and the emperor subsequently appointed Wei Qing as a eunuch and minister. His rise brought wealth to his family. In 129 BC, Wei Qing led a cavalry attack on the Xiongnu, reaching Longcheng and killing hundreds. He was made Marquis of Guannei, while other generals faced punishment for failures.
+
+Chunk 14: 
+original: 
+其从军，上为遣太官赍数十乘，既还，重车余弃粱肉，而士有饥者。
+其在塞外，卒乏粮，或不能自振，而去病尚穿域躢鞠也。
+事多此类。
+青仁，喜士退让，以和柔自媚于上，然于天下未有称也。
+去病自四年军后三岁，元狩六年薨。
+上悼之，发属国玄甲，军陈自长安至茂陵，为冢象祁连山。
+谥之并武与广地日景桓侯。
+子嬗嗣。嬗字子侯，上爱之，幸其壮而将之。
+为奉车都尉，从封泰山而薨。
+无子，国除。
+自去病死后，青长子宜春侯伉坐法失侯。
+后五岁，伉弟二人，阴安侯不疑、发干侯登，皆坐酎金失侯。
+后二岁，冠军侯国绝。
+后四年，元封五年，青薨，谥曰烈侯。
+子伉嗣，六年坐法免。
+自青围单于后十四岁而卒，竟不复击匈奴者，以汉马少，又方南诛两越，东伐朝鲜，击羌、西南夷，以故久不伐胡。
+初，青既尊贵，而平阳侯曹寿有恶疾就国，长公主问： 列侯谁贤者？
+左右皆言大将军。
+主笑曰： 此出吾家，常骑从我，奈何？
+左右曰： 于今尊贵无比。
+于是长公主风白皇后，皇后言之，上乃诏青尚平阳主。与主合葬，起冢象卢山云。
+最大将军青凡七出击匈奴，斩捕首虏五万余级。
+一与单于战，收河南地，置朔方郡。
+再益封，凡万六千三百户；封三子为侯，侯千三百户，并之二万二百户。
+translation: 
+When he led his troops on an expedition, the emperor would send eunuchs to bring him dozens of carts of daily necessities. When he came back, he would throw away the remaining rice and meat, but some of the soldiers would starve.
+When fighting outside the Great Wall, the soldiers lacked military rations, and some were so hungry that they could not get up, but Huo Qubing still had to open a field to play football.
+There are many such things.
+General Wei Qing was a kind man, loved his soldiers, was humble and courteous, and relied on his kindness and meekness to please the emperor, but there was no one in the world who praised him.
+Huo Qubing died in the third year after he sent troops in the fourth year of Yuanshou, that is, in the sixth year of Yuanshou.
+Emperor Wu was very sad and dispatched soldiers in black clothes from the subordinate countries to line up from Chang'an to Maoling. A tomb was built for him in Mao Cemetery, shaped like Qilian Mountain.
+He was given the title Mi, combining the two meanings of Wu and Guangdi and called him Marquis Jinghuan.
+His son Huo Shan took the title of prince, and Huo Shan was named Zihou. Emperor Wu loved him and hoped that he would become a general when he grew up.
+Huo Shen later served as the captain of Fengche and died while accompanying the emperor to offer sacrifices to Mount Tai.
+Because Huo Shan had no sons, the feudal state was abolished.
+After Huo Qubing's death, Wei Qing's eldest son, the Marquis of Yichun, Wei and his wife, were removed from the title of marquis for breaking the law.
+Five years later, the two younger brothers of the Wei couple, the Marquis of Yin'an, Wei Buyi, and the Marquis of Fagan, Weideng, both lost their positions due to insufficient gold sacrifices.
+Two years later, the feudal kingdom of champion Hou Huo Qubing cut off his successor.
+Four years later, in the fifth year of Yuanfeng's reign, Wei Qing died and Mi was named Liehou.
+The eldest son Wei and his wife inherited the title of marquis, but six years later they broke the law and were exempted from the title of marquis.
+He died fourteen years after the self-defense Qingwei defeated the Shan. During this period, he did not attack the Xiongnu again because the Han Dynasty had few troops and horses. In addition, he conquered the two Vietnams in the south, conquered Korea, attacked the Qiang in the west, and conquered the southwestern barbarians. Therefore, he did not attack the Xiongnu for a long time.
+At the beginning, after Wei Qing became famous, Cao Shou, the Marquis of Pingyang, suffered from a serious illness and returned to the feudal country. The eldest princess asked: Who is the most virtuous among the princes?
+Everyone on the left and right talks about General Wei Qing.
+The princess smiled and said: He grew up in my family and often followed me on horseback. What about him?
+The people on the left and right said: Now you are extremely noble.
+So the eldest princess told the queen what she wanted, and the queen told her truthfully. The emperor ordered Wei Qing to marry the eldest princess, and they were buried together after their death in a tomb built like Lushan Mountain.
+General Wei Qing attacked the Xiongnu seven times in total, killing and capturing more than 50,000 enemies.
+After fighting the Huns, they recovered the area south of Hetao and established Shuofang County.
+Additional rewards will be added, totaling 16,300 households; the three sons will be granted the title of marquis, each with 1,300 households, for a total of 20,200 households.
+
+summary:
+summary line 2: In subsequent campaigns, Wei Qing defeated the Xiongnu, capturing livestock and driving out kings. He was granted the title of Marquis of Changping with 3,800 households. The emperor praised his victories, which included pacifying the Henan area and building Shuofang City. Despite continued Xiongnu raids, Wei Qing's successes led to additional rewards.
+
+Chunk 14: 
+original: 
+其从军，上为遣太官赍数十乘，既还，重车余弃粱肉，而士有饥者。
+其在塞外，卒乏粮，或不能自振，而去病尚穿域躢鞠也。
+事多此类。
+青仁，喜士退让，以和柔自媚于上，然于天下未有称也。
+去病自四年军后三岁，元狩六年薨。
+上悼之，发属国玄甲，军陈自长安至茂陵，为冢象祁连山。
+谥之并武与广地日景桓侯。
+子嬗嗣。嬗字子侯，上爱之，幸其壮而将之。
+为奉车都尉，从封泰山而薨。
+无子，国除。
+自去病死后，青长子宜春侯伉坐法失侯。
+后五岁，伉弟二人，阴安侯不疑、发干侯登，皆坐酎金失侯。
+后二岁，冠军侯国绝。
+后四年，元封五年，青薨，谥曰烈侯。
+子伉嗣，六年坐法免。
+自青围单于后十四岁而卒，竟不复击匈奴者，以汉马少，又方南诛两越，东伐朝鲜，击羌、西南夷，以故久不伐胡。
+初，青既尊贵，而平阳侯曹寿有恶疾就国，长公主问： 列侯谁贤者？
+左右皆言大将军。
+主笑曰： 此出吾家，常骑从我，奈何？
+左右曰： 于今尊贵无比。
+于是长公主风白皇后，皇后言之，上乃诏青尚平阳主。与主合葬，起冢象卢山云。
+最大将军青凡七出击匈奴，斩捕首虏五万余级。
+一与单于战，收河南地，置朔方郡。
+再益封，凡万六千三百户；封三子为侯，侯千三百户，并之二万二百户。
+translation: 
+When he led his troops on an expedition, the emperor would send eunuchs to bring him dozens of carts of daily necessities. When he came back, he would throw away the remaining rice and meat, but some of the soldiers would starve.
+When fighting outside the Great Wall, the soldiers lacked military rations, and some were so hungry that they could not get up, but Huo Qubing still had to open a field to play football.
+There are many such things.
+General Wei Qing was a kind man, loved his soldiers, was humble and courteous, and relied on his kindness and meekness to please the emperor, but there was no one in the world who praised him.
+Huo Qubing died in the third year after he sent troops in the fourth year of Yuanshou, that is, in the sixth year of Yuanshou.
+Emperor Wu was very sad and dispatched soldiers in black clothes from the subordinate countries to line up from Chang'an to Maoling. A tomb was built for him in Mao Cemetery, shaped like Qilian Mountain.
+He was given the title Mi, combining the two meanings of Wu and Guangdi and called him Marquis Jinghuan.
+His son Huo Shan took the title of prince, and Huo Shan was named Zihou. Emperor Wu loved him and hoped that he would become a general when he grew up.
+Huo Shen later served as the captain of Fengche and died while accompanying the emperor to offer sacrifices to Mount Tai.
+Because Huo Shan had no sons, the feudal state was abolished.
+After Huo Qubing's death, Wei Qing's eldest son, the Marquis of Yichun, Wei and his wife, were removed from the title of marquis for breaking the law.
+Five years later, the two younger brothers of the Wei couple, the Marquis of Yin'an, Wei Buyi, and the Marquis of Fagan, Weideng, both lost their positions due to insufficient gold sacrifices.
+Two years later, the feudal kingdom of champion Hou Huo Qubing cut off his successor.
+Four years later, in the fifth year of Yuanfeng's reign, Wei Qing died and Mi was named Liehou.
+The eldest son Wei and his wife inherited the title of marquis, but six years later they broke the law and were exempted from the title of marquis.
+He died fourteen years after the self-defense Qingwei defeated the Shan. During this period, he did not attack the Xiongnu again because the Han Dynasty had few troops and horses. In addition, he conquered the two Vietnams in the south, conquered Korea, attacked the Qiang in the west, and conquered the southwestern barbarians. Therefore, he did not attack the Xiongnu for a long time.
+At the beginning, after Wei Qing became famous, Cao Shou, the Marquis of Pingyang, suffered from a serious illness and returned to the feudal country. The eldest princess asked: Who is the most virtuous among the princes?
+Everyone on the left and right talks about General Wei Qing.
+The princess smiled and said: He grew up in my family and often followed me on horseback. What about him?
+The people on the left and right said: Now you are extremely noble.
+So the eldest princess told the queen what she wanted, and the queen told her truthfully. The emperor ordered Wei Qing to marry the eldest princess, and they were buried together after their death in a tomb built like Lushan Mountain.
+General Wei Qing attacked the Xiongnu seven times in total, killing and capturing more than 50,000 enemies.
+After fighting the Huns, they recovered the area south of Hetao and established Shuofang County.
+Additional rewards will be added, totaling 16,300 households; the three sons will be granted the title of marquis, each with 1,300 households, for a total of 20,200 households.
+
+summary:
+summary line 3: In 124 BC, Wei Qing led a surprise attack on the Xiongnu's Right King, capturing over 15,000 people and millions of livestock. He was promoted to General-in-Chief, and his sons were made marquises. Wei Qing declined the honors, crediting his officers. The emperor then rewarded several subordinates with marquisates.
+
+Chunk 6: 
+original: 
+是岁也，霍去病始侯。
+霍去病，大将军青姊少皃子也。
+其父霍仲孺先与少皃通，生去病。
+及卫皇后尊，少皃更为詹事陈掌妻。
+去病以皇后姊子，年十八为侍中。
+善骑射，再从大将军。
+大将军受诏，予壮士，为票姚校尉，与轻勇骑八百直弃大军数百里赴利，斩捕首虏过当。
+于是上曰： 票姚校尉去病斩首捕虏二千二十八级，得相国、当户，斩单于大父行籍若侯产，捕季父罗姑比，再冠军，以二千五百户封去病为冠军侯。
+上谷太守郝贤四从大将军，捕首虏千三百级，封贤为终利侯。
+骑干孟已有功，赐爵关内侯，邑二百户。
+是岁失两将军，亡翕侯，功不多，故青不益封。
+苏建至，上弗诛，赎为庶人。
+translation: 
+This year, Huo Qubing began to become a marquis.
+Huo Qubing was the son of General Wei Qing's sister Wei Shaohao.
+His father, Huo Zhongru, had an affair with Wei Shao'er and gave birth to Huo Qubing.
+When Queen Wei came to her favor, Wei Shaoer married Zhan Shichenzhang.
+Huo Qubing was the son of the queen's sister, and he became a servant at the age of eighteen.
+Because he was good at horseback riding and archery, he accompanied General Wei Qing on two expeditions against the Huns.
+According to the emperor's order, the general assigned him a group of strong soldiers and appointed him as the captain of Piao Yao. He led 800 light cavalry warriors hundreds of miles away from the army led by Wei Qing to win military exploits and kill many enemies.
+At this time Emperor Wu said: Huo Qubing, the captain of Piaoyao School, annihilated 2,028 enemies, captured alive the prime minister and the householder, killed Shanyu's grandfather's Jiuruohou Chan, captured Shanyu's uncle Luo Gu and others alive, and won the title of the entire army twice for his merits. He named Huo Qubing the champion with 2,500 households.
+Hao Xian, the prefect of Shanggu, went on four expeditions with the general, killing 1,300 enemies, and made him the final profiteer.
+The knight Meng Ji also had military exploits and was given the title of Marquis of Guannei, with a title of enfeoffment to 200 households.
+In this year, the Han Dynasty lost two troops led by Su Jian and Tan Xin, and Zhao Xin, the Marquis of Xi, surrendered to the Huns. His military achievements were not many, so Wei Qing was not able to increase his title.
+The right general Su Jian returned to the court. The emperor did not kill him, but asked him to spend money to atone for his sins and serve the people.
+
+summary:
+summary line 4: In 123 BC, Wei Qing's campaign saw the defection of former Xiongnu marquis Zhao Xin and the destruction of Su Jian's force. Wei Qing spared Su Jian, sending him to the emperor for judgment. That year, Huo Qubing, Wei Qing's nephew, began his rise, leading a successful raid with 800 cavalry and being made Marquis of Champion.
+
+Chunk 8: 
+original: 
+转战六日，过焉支山千有余里，合短兵，鏖皋兰下，杀折兰王，斩卢侯王，锐悍者诛，全甲获丑，执浑邪王子及相国、都尉，捷首虏八千九百六十级，收休屠祭天金人，师率减什七，益封去病二千二百户。
+其夏，去病与合骑侯敖俱出北地，异道。
+博望侯张赛、郎中令李广俱出右北平，异道。
+广将四千骑先至，骞将万骑后。
+匈奴左贤王将数万骑围广，广与战二日，死者过半，所杀亦过当。
+骞至，匈奴引兵去。
+骞坐行留，当斩，赎为庶人。
+而去病出北地，遂深入，合骑侯失道，不相得。去病至祁连山，捕首虏甚多。
+上曰： 票骑将军涉钧耆，济居延，遂臻小月氏，攻祁连山，扬武乎鱳得，得单于单桓、酋涂王，及相国、都尉以众降下者二千五百人，可谓能舍服知成而止矣。
+捷首虏三万二百，获五王，王母、单于阏氏、王子五十九人，相国、将军、当户、都尉六十三人，师大率减什三，益封去病五千四百户。
+赐校尉从至小月氏者爵左庶长。
+鹰击司马破奴再从票骑将军斩脩濮王，捕稽且王，右千骑将得王、王母各一人，王子以下四十一人，捕虏三千三百三十人，前行捕虏千四百人，封破奴为从票侯。
+校尉高不识从票骑将军捕呼于耆王王子以下十一人，捕虏千七百六十八人，封不识为宜冠侯。
+校尉仆多有功，封为煇渠侯。
+合骑侯敖坐行留不与票骑将军会，当斩，赎为庶人。
+translation: 
+After six days of fighting, they crossed Yanzhi Mountain for more than a thousand miles, fought hand-to-hand with the enemy, and fought hard at the foot of Gaolan Mountain. They killed King Zhelan, beheaded King Luhou, killed the stubborn enemies, and captured all the others. They captured the son of King Hunxie, the Prime Minister, and the captain, killing the enemy and capturing 8,960 people in total, and captured King Xiutu's golden man offering sacrifices to heaven. About seven-tenths of his soldiers suffered casualties. 2,200 households were granted the title of Huo Qubing Shiyi.
+In the summer of this year, Huo Qubing and Heqihou Gongsun Ao sent troops from Beidi County in two directions.
+Bowang Hou Zhang Qian and Lang Zhongling Li Guangze also sent troops from You Beiping County in two groups.
+Li Guang led 4,000 cavalry to the destination first, and Zhang Qian led 10,000 cavalry to arrive later.
+King Zuoxian of the Xiongnu led tens of thousands of cavalry to surround Li Guang's tribe. Li Guang fought fiercely with the enemy for two days, suffering over half casualties and killing even more enemies.
+It was not until Zhang Qian's troops arrived that the Huns retreated.
+Because Zhang Qian's troops were slow to move, he should be beheaded to atone for his sins and serve the people.
+After Huo Qubing set out from the north, he went deep into the Xiongnu region. Heqihou Gongsun Ao took the wrong route and was unable to join forces with Huo Qubing. Huo Qubing led his army to the Qilian Mountains and killed many enemies.
+Emperor Wu ordered: General Hussar crossed the Gouqi River and Juyanze, arrived at Xiaoyueshi, captured the Qilian Mountains, and showed off his force in Kunde. He captured Shanyu's King Shanhuan and King Tutu, as well as the ministers and captains who led their troops to surrender, a total of 2,500 people. It can be said that he can surrender leniently and knows how to stop after success.
+In this victory, 30,200 people were beheaded and captured, including five Xiongnu kings, fifty-nine people including the queen mother, Shan Yuque clan, and princes, and sixty-three prime ministers, generals, officials, and captains. Huo Qubing's soldiers suffered approximately three-tenths casualties. Huo Qubing was granted the title of 5,400 households.
+The captains who followed Xiao Yuezhi to fight were given the title of Zuo Shu Zhang.
+Eagle Strike Sima Zhao Ponu twice followed the general Hussar to kill King Pu Pu and capture King Jiqie. General You Qianqi captured one person each of the Xiongnu King and the Queen Mother, and four princes and one person, and captured 3,330 enemies. The last time he captured 1,400 enemies, he was granted the title of Congpiaohou.
+Gao Bushi, the school lieutenant, followed General Hussar and captured eleven people below Prince Huyu Qi, and captured 1,768 enemies. Gao Bushi was granted the title of Marquis of Yiguan.
+Most of the school's servants were granted the title of Huiquhou due to their military exploits.
+Gongsun Ao, the Marquis of Heqi, was delayed on the march and was unable to join forces with the General of Hussar. He should be beheaded to atone for his sins for the people.
+
+summary:
+summary line 5: Huo Qubing's subsequent campaigns were highly successful, including capturing the Xiongnu's golden statue and defeating the Hunxie King, who surrendered with 100,000 people. Huo Qubing was rewarded with additional households, and the surrendered Xiongnu were settled as vassal states.
+
+Chunk 14: 
+original: 
+其从军，上为遣太官赍数十乘，既还，重车余弃粱肉，而士有饥者。
+其在塞外，卒乏粮，或不能自振，而去病尚穿域躢鞠也。
+事多此类。
+青仁，喜士退让，以和柔自媚于上，然于天下未有称也。
+去病自四年军后三岁，元狩六年薨。
+上悼之，发属国玄甲，军陈自长安至茂陵，为冢象祁连山。
+谥之并武与广地日景桓侯。
+子嬗嗣。嬗字子侯，上爱之，幸其壮而将之。
+为奉车都尉，从封泰山而薨。
+无子，国除。
+自去病死后，青长子宜春侯伉坐法失侯。
+后五岁，伉弟二人，阴安侯不疑、发干侯登，皆坐酎金失侯。
+后二岁，冠军侯国绝。
+后四年，元封五年，青薨，谥曰烈侯。
+子伉嗣，六年坐法免。
+自青围单于后十四岁而卒，竟不复击匈奴者，以汉马少，又方南诛两越，东伐朝鲜，击羌、西南夷，以故久不伐胡。
+初，青既尊贵，而平阳侯曹寿有恶疾就国，长公主问： 列侯谁贤者？
+左右皆言大将军。
+主笑曰： 此出吾家，常骑从我，奈何？
+左右曰： 于今尊贵无比。
+于是长公主风白皇后，皇后言之，上乃诏青尚平阳主。与主合葬，起冢象卢山云。
+最大将军青凡七出击匈奴，斩捕首虏五万余级。
+一与单于战，收河南地，置朔方郡。
+再益封，凡万六千三百户；封三子为侯，侯千三百户，并之二万二百户。
+translation: 
+When he led his troops on an expedition, the emperor would send eunuchs to bring him dozens of carts of daily necessities. When he came back, he would throw away the remaining rice and meat, but some of the soldiers would starve.
+When fighting outside the Great Wall, the soldiers lacked military rations, and some were so hungry that they could not get up, but Huo Qubing still had to open a field to play football.
+There are many such things.
+General Wei Qing was a kind man, loved his soldiers, was humble and courteous, and relied on his kindness and meekness to please the emperor, but there was no one in the world who praised him.
+Huo Qubing died in the third year after he sent troops in the fourth year of Yuanshou, that is, in the sixth year of Yuanshou.
+Emperor Wu was very sad and dispatched soldiers in black clothes from the subordinate countries to line up from Chang'an to Maoling. A tomb was built for him in Mao Cemetery, shaped like Qilian Mountain.
+He was given the title Mi, combining the two meanings of Wu and Guangdi and called him Marquis Jinghuan.
+His son Huo Shan took the title of prince, and Huo Shan was named Zihou. Emperor Wu loved him and hoped that he would become a general when he grew up.
+Huo Shen later served as the captain of Fengche and died while accompanying the emperor to offer sacrifices to Mount Tai.
+Because Huo Shan had no sons, the feudal state was abolished.
+After Huo Qubing's death, Wei Qing's eldest son, the Marquis of Yichun, Wei and his wife, were removed from the title of marquis for breaking the law.
+Five years later, the two younger brothers of the Wei couple, the Marquis of Yin'an, Wei Buyi, and the Marquis of Fagan, Weideng, both lost their positions due to insufficient gold sacrifices.
+Two years later, the feudal kingdom of champion Hou Huo Qubing cut off his successor.
+Four years later, in the fifth year of Yuanfeng's reign, Wei Qing died and Mi was named Liehou.
+The eldest son Wei and his wife inherited the title of marquis, but six years later they broke the law and were exempted from the title of marquis.
+He died fourteen years after the self-defense Qingwei defeated the Shan. During this period, he did not attack the Xiongnu again because the Han Dynasty had few troops and horses. In addition, he conquered the two Vietnams in the south, conquered Korea, attacked the Qiang in the west, and conquered the southwestern barbarians. Therefore, he did not attack the Xiongnu for a long time.
+At the beginning, after Wei Qing became famous, Cao Shou, the Marquis of Pingyang, suffered from a serious illness and returned to the feudal country. The eldest princess asked: Who is the most virtuous among the princes?
+Everyone on the left and right talks about General Wei Qing.
+The princess smiled and said: He grew up in my family and often followed me on horseback. What about him?
+The people on the left and right said: Now you are extremely noble.
+So the eldest princess told the queen what she wanted, and the queen told her truthfully. The emperor ordered Wei Qing to marry the eldest princess, and they were buried together after their death in a tomb built like Lushan Mountain.
+General Wei Qing attacked the Xiongnu seven times in total, killing and capturing more than 50,000 enemies.
+After fighting the Huns, they recovered the area south of Hetao and established Shuofang County.
+Additional rewards will be added, totaling 16,300 households; the three sons will be granted the title of marquis, each with 1,300 households, for a total of 20,200 households.
+
+summary:
+summary line 6: In 119 BC, Wei Qing and Huo Qubing led a massive campaign. Wei Qing defeated the Xiongnu Chanyu but failed to capture him. Huo Qubing's forces killed over 70,000 enemies. Both were made Grand Sima, but Huo Qubing's star rose while Wei Qing's declined. Huo Qubing died in 117 BC, deeply mourned by the emperor.
+
+Chunk 14: 
+original: 
+其从军，上为遣太官赍数十乘，既还，重车余弃粱肉，而士有饥者。
+其在塞外，卒乏粮，或不能自振，而去病尚穿域躢鞠也。
+事多此类。
+青仁，喜士退让，以和柔自媚于上，然于天下未有称也。
+去病自四年军后三岁，元狩六年薨。
+上悼之，发属国玄甲，军陈自长安至茂陵，为冢象祁连山。
+谥之并武与广地日景桓侯。
+子嬗嗣。嬗字子侯，上爱之，幸其壮而将之。
+为奉车都尉，从封泰山而薨。
+无子，国除。
+自去病死后，青长子宜春侯伉坐法失侯。
+后五岁，伉弟二人，阴安侯不疑、发干侯登，皆坐酎金失侯。
+后二岁，冠军侯国绝。
+后四年，元封五年，青薨，谥曰烈侯。
+子伉嗣，六年坐法免。
+自青围单于后十四岁而卒，竟不复击匈奴者，以汉马少，又方南诛两越，东伐朝鲜，击羌、西南夷，以故久不伐胡。
+初，青既尊贵，而平阳侯曹寿有恶疾就国，长公主问： 列侯谁贤者？
+左右皆言大将军。
+主笑曰： 此出吾家，常骑从我，奈何？
+左右曰： 于今尊贵无比。
+于是长公主风白皇后，皇后言之，上乃诏青尚平阳主。与主合葬，起冢象卢山云。
+最大将军青凡七出击匈奴，斩捕首虏五万余级。
+一与单于战，收河南地，置朔方郡。
+再益封，凡万六千三百户；封三子为侯，侯千三百户，并之二万二百户。
+translation: 
+When he led his troops on an expedition, the emperor would send eunuchs to bring him dozens of carts of daily necessities. When he came back, he would throw away the remaining rice and meat, but some of the soldiers would starve.
+When fighting outside the Great Wall, the soldiers lacked military rations, and some were so hungry that they could not get up, but Huo Qubing still had to open a field to play football.
+There are many such things.
+General Wei Qing was a kind man, loved his soldiers, was humble and courteous, and relied on his kindness and meekness to please the emperor, but there was no one in the world who praised him.
+Huo Qubing died in the third year after he sent troops in the fourth year of Yuanshou, that is, in the sixth year of Yuanshou.
+Emperor Wu was very sad and dispatched soldiers in black clothes from the subordinate countries to line up from Chang'an to Maoling. A tomb was built for him in Mao Cemetery, shaped like Qilian Mountain.
+He was given the title Mi, combining the two meanings of Wu and Guangdi and called him Marquis Jinghuan.
+His son Huo Shan took the title of prince, and Huo Shan was named Zihou. Emperor Wu loved him and hoped that he would become a general when he grew up.
+Huo Shen later served as the captain of Fengche and died while accompanying the emperor to offer sacrifices to Mount Tai.
+Because Huo Shan had no sons, the feudal state was abolished.
+After Huo Qubing's death, Wei Qing's eldest son, the Marquis of Yichun, Wei and his wife, were removed from the title of marquis for breaking the law.
+Five years later, the two younger brothers of the Wei couple, the Marquis of Yin'an, Wei Buyi, and the Marquis of Fagan, Weideng, both lost their positions due to insufficient gold sacrifices.
+Two years later, the feudal kingdom of champion Hou Huo Qubing cut off his successor.
+Four years later, in the fifth year of Yuanfeng's reign, Wei Qing died and Mi was named Liehou.
+The eldest son Wei and his wife inherited the title of marquis, but six years later they broke the law and were exempted from the title of marquis.
+He died fourteen years after the self-defense Qingwei defeated the Shan. During this period, he did not attack the Xiongnu again because the Han Dynasty had few troops and horses. In addition, he conquered the two Vietnams in the south, conquered Korea, attacked the Qiang in the west, and conquered the southwestern barbarians. Therefore, he did not attack the Xiongnu for a long time.
+At the beginning, after Wei Qing became famous, Cao Shou, the Marquis of Pingyang, suffered from a serious illness and returned to the feudal country. The eldest princess asked: Who is the most virtuous among the princes?
+Everyone on the left and right talks about General Wei Qing.
+The princess smiled and said: He grew up in my family and often followed me on horseback. What about him?
+The people on the left and right said: Now you are extremely noble.
+So the eldest princess told the queen what she wanted, and the queen told her truthfully. The emperor ordered Wei Qing to marry the eldest princess, and they were buried together after their death in a tomb built like Lushan Mountain.
+General Wei Qing attacked the Xiongnu seven times in total, killing and capturing more than 50,000 enemies.
+After fighting the Huns, they recovered the area south of Hetao and established Shuofang County.
+Additional rewards will be added, totaling 16,300 households; the three sons will be granted the title of marquis, each with 1,300 households, for a total of 20,200 households.
+
+summary:
+summary line 7: Wei Qing died in 106 BC, having attacked the Xiongnu seven times and killing over 50,000 enemies. He recovered the Hetao region and established Shuofang County. His three sons were marquises, but all lost their titles. Huo Qubing's six campaigns killed over 110,000 enemies and opened the Hexi region. His subordinates also received honors. The text concludes with brief biographies of other generals and notes that Wei Qing and Huo Qubing refrained from recruiting scholars, following the emperor's wishes.
+

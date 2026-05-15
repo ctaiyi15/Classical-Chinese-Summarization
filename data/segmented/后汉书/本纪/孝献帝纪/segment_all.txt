@@ -21,8 +21,6 @@ original:
 十二月戊戌，司徒黄琬为太尉，司空杨彪为司徒，光禄勋荀爽为司空。
 省扶风都尉，置汉安都护。
 诏除光熹、昭宁、永汉三号，还复中平六年。
-初平元年春正月，山东州郡起兵以讨董卓。
-辛亥，大赦天下。
 translation: 
 Xiaoxian Emperor Liu Xie, the neutron son of Emperor Ling.
 Why did the queen harm the beautiful mother?
@@ -45,12 +43,12 @@ On the first day of November, Dong Zhuo appointed himself Prime Minister.
 In December of 1898, Situ Huang Wan was appointed Taiwei, Sikong Yang Biao was appointed Situ, and Guang Luxun Xun Shuang was appointed Sikong.
 The captain of Fufeng was omitted and the captain of Han'an was set up.
 The imperial edict abolished the titles of Guangxi, Zhaoning and Yonghan in the third year, and returned them to the sixth year of Zhongping.
-In the first month of spring in the first year of Chuping, the prefectures and counties in Shandong raised troops to attack Dong Zhuo.
-On the tenth day of the first lunar month, there is a general amnesty for the whole world.
 
 
 Chunk 1: 
 original: 
+初平元年春正月，山东州郡起兵以讨董卓。
+辛亥，大赦天下。
 癸酉，董卓杀弘农王。
 白波贼寇东郡。
 二月乙亥，太尉黄琬、司徒杨彪免。
@@ -66,9 +64,9 @@ original:
 六月辛丑，光禄大夫种拂为司空。
 大鸿胪韩融、少府阴脩、执金吾胡母班、将作大匠吴脩、越骑校尉王瑰安集关东，后将军袁术、河内太守王匡各执而杀之，唯韩融获免。
 董卓坏五铢钱，更铸小钱。
-冬十一月庚戌，镇星、荧惑、太白合于尾。
-是岁，有司奏，和、安、顺、桓四帝无功德，不宜称宗，又恭怀、敬隐、恭愍三皇后并非正嫡，不合称后，皆请除尊号。
 translation: 
+In the first month of spring in the first year of Chuping, the prefectures and counties in Shandong raised troops to attack Dong Zhuo.
+On the tenth day of the first lunar month, there is a general amnesty for the whole world.
 On the third day of February, Dong Zhuo killed Hongnong King Liu Bian.
 Baibo bandits raided Dongjun.
 On the fifth day of February, Taiwei Huang Wan and Situ Yang Biao were dismissed from their posts.
@@ -84,12 +82,12 @@ In May of summer, Sikong Xunshuang passed away.
 In Xinchou in June, Dr. Guanglu was appointed Sikong Fu.
 Dahonglu Han Rong, Shaofu Yinxiu, Zhijinwu Hu Muban, General Wu Xiu, the great craftsman, and Yueqi captain Wang Gui'an gathered in Guandong. Later general Yuan Shu and Hanoi prefect Wang Kuang captured and killed them respectively. Only Han Rong was spared.
 Dong Zhuo destroyed five baht coins and exchanged them for small coins.
-On November 14th in winter, Saturn, Mars, and Venus converge in Ojuku, one of the twenty-eight constellations.
-This year, the stewards requested that the three empresses He Di Mu Zong, An Di Gong Zong, Shun Di Jing Zong, and Huan Di Wei Zong have no merit and should not be called the clan; and the three empresses Gong Huai, Jing Yin, and Gong Min were not legitimate, and if they were not suitable for the title, they were all asked to have their titles revoked.
 
 
 Chunk 2: 
 original: 
+冬十一月庚戌，镇星、荧惑、太白合于尾。
+是岁，有司奏，和、安、顺、桓四帝无功德，不宜称宗，又恭怀、敬隐、恭愍三皇后并非正嫡，不合称后，皆请除尊号。
 制曰： 可。 孙坚杀荆州刺史王叡，又杀南阳太守张咨。
 二年春正月辛丑，大赦天下。
 二月丁丑，董卓自为太师。
@@ -104,14 +102,9 @@ original:
 十一月，青州黄巾寇太山，太山太守应劭击破之。
 黄巾转寇勃海，公孙瓒与战于东光，复大破之。
 是岁，长沙有人死经月复活。
-三年春正月丁丑，大赦天下。
-袁术遣将孙坚攻刘表于襄阳，坚战殁。
-袁绍及公孙瓒战于界桥，瓒军大败。
-夏四月辛巳，诛董卓，夷三族。
-司徒王允录尚书事，总朝政，遣使者张种抚慰山东。
-青州黄巾击杀兖州刺史刘岱于东平。
-东郡太守曹操大破黄巾于寿张，降之。
 translation: 
+On November 14th in winter, Saturn, Mars, and Venus converge in Ojuku, one of the twenty-eight constellations.
+This year, the stewards requested that the three empresses He Di Mu Zong, An Di Gong Zong, Shun Di Jing Zong, and Huan Di Wei Zong have no merit and should not be called the clan; and the three empresses Gong Huai, Jing Yin, and Gong Min were not legitimate, and if they were not suitable for the title, they were all asked to have their titles revoked.
 Emperor Xian’s edict said: Yes. Sun Jian killed Wang Ruiyou, the governor of Jingzhou, and Zhang Zi, the governor of Nanyang.
 On the sixth day of the first lunar month of the second year of spring, a general amnesty was held.
 On February 12, Dong Zhuo appointed himself Grand Master.
@@ -126,17 +119,17 @@ On the first day of October in winter, Dong Zhuo killed the guard Zhang Wen.
 In November, the Qingzhou Yellow Turban Army raided Taishan, and the Taishan Prefect Ying Shao defeated them.
 The Yellow Turban Army turned around and raided Bohai. Gongsun Zan fought with them in Dongguang and defeated them severely.
 This year, someone died in Changsha and was resurrected after a month.
-In the spring of the third year of the first lunar month, Ding Chou issued a general amnesty to the whole world.
-Yuan Shu sent general Sun Jian to attack Liu Biao in Xiangyang, and Sun Jian died in the battle.
-Yuan Shao and Gongsun Zan fought at Jieqiao, and Gongsun Zan's army was defeated.
-On April 23rd in summer, Dong Zhuo was executed, and his father, mother, and wife clans were wiped out.
-Situ Wangyun acted as the Secretary, took charge of the government affairs, and sent envoy Zhang Zhong to appease and comfort the people in Shandong area.
-The Qingzhou Yellow Turban Army killed Liu Dai, the governor of Yanzhou, in Dongping.
-Cao Cao, the governor of Dongjun, defeated the Yellow Turban Army in Shouzhang and forced them to surrender.
 
 
 Chunk 3: 
 original: 
+三年春正月丁丑，大赦天下。
+袁术遣将孙坚攻刘表于襄阳，坚战殁。
+袁绍及公孙瓒战于界桥，瓒军大败。
+夏四月辛巳，诛董卓，夷三族。
+司徒王允录尚书事，总朝政，遣使者张种抚慰山东。
+青州黄巾击杀兖州刺史刘岱于东平。
+东郡太守曹操大破黄巾于寿张，降之。
 五月丁酉，大赦天下。
 丁未，征西将军皇甫嵩为车骑将军。
 董卓部曲将李傕、郭汜、樊稠、张济等反，攻京师。
@@ -157,6 +150,13 @@ original:
 三月，袁术杀杨州刺史陈温，据淮南。
 长安宣平城门外屋自坏。
 translation: 
+In the spring of the third year of the first lunar month, Ding Chou issued a general amnesty to the whole world.
+Yuan Shu sent general Sun Jian to attack Liu Biao in Xiangyang, and Sun Jian died in the battle.
+Yuan Shao and Gongsun Zan fought at Jieqiao, and Gongsun Zan's army was defeated.
+On April 23rd in summer, Dong Zhuo was executed, and his father, mother, and wife clans were wiped out.
+Situ Wangyun acted as the Secretary, took charge of the government affairs, and sent envoy Zhang Zhong to appease and comfort the people in Shandong area.
+The Qingzhou Yellow Turban Army killed Liu Dai, the governor of Yanzhou, in Dongping.
+Cao Cao, the governor of Dongjun, defeated the Yellow Turban Army in Shouzhang and forced them to surrender.
 On the tenth day of the fifth lunar month, there is a general amnesty.
 On May 20th, Huangfu Song, the general who conquered the west, was appointed as the general of chariots and cavalry.
 Dong Zhuo's generals Li Chu, Guo Si, Fan Chou, Zhang Ji and others rebelled and attacked the capital.
@@ -199,10 +199,6 @@ original:
 司空杨彪免，太常赵温为司空。
 公孙瓒杀大司马刘虞。
 十二月辛丑，地震。
-司空赵温免，乙巳，卫尉张喜为司空。
-是岁，琅邪王容薨。
-兴平元年春正月辛酉，大赦天下，改元兴平。
-甲子，帝加元服。
 translation: 
 On May 22nd in the summer, there was no cloud but thunder.
 In June, strong winds and hail fell in the Fufeng area.
@@ -223,14 +219,14 @@ Comet appears in Tianshi star.
 Sikong Yang Biao was dismissed and Taichang Zhao Wen was appointed as Sikong.
 Gongsun Zan killed the Grand Sima Liu Yu.
 December 23, earthquake.
-Sikong Zhao Wen was dismissed, and on December 27, Weiwei Zhang happy was appointed as Sikong.
-In this year, Langyi King Liu Rong passed away.
-On the thirteenth day of the first spring month of the first year of Xingping, a general amnesty was granted to the whole country, and the Yuan Dynasty was changed to Xingping.
-On the 16th, the emperor crowned him.
 
 
 Chunk 5: 
 original: 
+司空赵温免，乙巳，卫尉张喜为司空。
+是岁，琅邪王容薨。
+兴平元年春正月辛酉，大赦天下，改元兴平。
+甲子，帝加元服。
 二月壬午，追尊谥皇妣王氏为灵怀皇后，甲申，改葬于文昭陵。
 丁亥，帝耕于藉田。
 三月，韩遂、马腾与郭汜、樊稠战于长平观，遂、腾败绩，左中郎将刘范、前益州刺史种劭战殁。
@@ -242,12 +238,11 @@ original:
 戊午，太常杨彪为太尉，录尚书事。
 三辅大旱，自四月至于是月。
 帝避正殿请雨，遣使者洗囚徒，原轻系。
-是时谷一斛五十万，豆麦一斛二十万，人相食啖，白骨委积。
-帝使侍御史侯汶出太仓米豆，为饥人作糜粥，经日而死者无降。
-帝疑赋恤有虚，乃亲于御坐前量试作糜，乃知非实，使侍中刘艾出让有司。
-于是尚书令以上皆诣省阁谢，奏收侯汶考实。
-诏曰： 未忍致汶于理，可杖五十。 自是之后，多得全济。
 translation: 
+Sikong Zhao Wen was dismissed, and on December 27, Weiwei Zhang happy was appointed as Sikong.
+In this year, Langyi King Liu Rong passed away.
+On the thirteenth day of the first spring month of the first year of Xingping, a general amnesty was granted to the whole country, and the Yuan Dynasty was changed to Xingping.
+On the 16th, the emperor crowned him.
 On the fifth day of the second lunar month, the imperial concubine Wang was posthumously honored as Queen Linghuai. On the seventh day of the second lunar month, she was buried in Wenzhao Mausoleum.
 On the tenth day of the lunar month, the emperor plowed the fields.
 In March, Han Sui and Ma Teng fought with Guo Si and Fan Chou at Changpingguan. Han Sui and Ma Teng failed. Liu Fan, the general of Zuo Zhonglang, and Zhongshao, the former governor of Yizhou, were killed in the battle.
@@ -259,15 +254,15 @@ On the seventh day of July in autumn, Captain Zhu Jun was dismissed from his pos
 On the 13th, Taichang Yang Biao was appointed as Taiwei, acting as Shangshu.
 There is a severe drought in Sanfu area from April to July.
 The emperor went into the main hall to worship the sky and pray for rain, and sent envoys to clean up and examine the prisoners, and to forgive the minor criminals in custody.
-At this time, a handful of grain cost 500,000 yuan, and a handful of beans and wheat cost 200,000 yuan. People were so hungry that they ate people, and their bones were piled up everywhere.
-The emperor sent Hou Wen, the imperial censor, to take out the rice and beans from Taicang, the capital, and give rice porridge to the hungry people, but the number of dead among the hungry people was not reduced after many days.
-The emperor suspected that the relief was false, so he personally measured the rice and beans in front of his seat and tried to make rice porridge. As a result, he found that the quality and quantity of Hou Wen's rice porridge were not real. Liu Ai, one of the servants, was sent to question the person in charge.
-Therefore, the minister ordered the following officials to go to the Provincial Central Government Office to admit their mistakes, and asked Hou Wen to be arrested for investigation and verification.
-The emperor issued an edict saying: If Hou Wen cannot bear to be tried by the prison officer, he will be punished with fifty canes. From then on, most of the hungry people received full relief.
 
 
 Chunk 6: 
 original: 
+是时谷一斛五十万，豆麦一斛二十万，人相食啖，白骨委积。
+帝使侍御史侯汶出太仓米豆，为饥人作糜粥，经日而死者无降。
+帝疑赋恤有虚，乃亲于御坐前量试作糜，乃知非实，使侍中刘艾出让有司。
+于是尚书令以上皆诣省阁谢，奏收侯汶考实。
+诏曰： 未忍致汶于理，可杖五十。 自是之后，多得全济。
 八月，冯翊羌叛，寇属县，郭汜、樊稠击破之。
 九月，桑复生椹，人得以食。
 司徒淳于嘉罢。
@@ -276,6 +271,24 @@ original:
 十二月，分安定、扶风为新平郡。
 是岁，杨州刺史刘繇与袁术将孙策战于曲阿，繇军败绩，孙策遂据江东。
 太傅马日磾薨于寿春。
+translation: 
+At this time, a handful of grain cost 500,000 yuan, and a handful of beans and wheat cost 200,000 yuan. People were so hungry that they ate people, and their bones were piled up everywhere.
+The emperor sent Hou Wen, the imperial censor, to take out the rice and beans from Taicang, the capital, and give rice porridge to the hungry people, but the number of dead among the hungry people was not reduced after many days.
+The emperor suspected that the relief was false, so he personally measured the rice and beans in front of his seat and tried to make rice porridge. As a result, he found that the quality and quantity of Hou Wen's rice porridge were not real. Liu Ai, one of the servants, was sent to question the person in charge.
+Therefore, the minister ordered the following officials to go to the Provincial Central Government Office to admit their mistakes, and asked Hou Wen to be arrested for investigation and verification.
+The emperor issued an edict saying: If Hou Wen cannot bear to be tried by the prison officer, he will be punished with fifty canes. From then on, most of the hungry people received full relief.
+In August, Feng Yiqiang rebelled and invaded the subordinate county. Guo Si and Fan Chou defeated them.
+In September, the mulberry trees grow again and people can eat.
+Situ Chun left in Jia.
+In October of winter, the city gate of Chang'an collapsed on its own.
+Wei Wei Zhao Wen was appointed as Situ to act as the minister.
+In December, Anding and Fufeng were divided into Xinping counties.
+In this year, Yangzhou governor Liu Yao fought with Yuan Shu's general Sun Ce in Qu'a. Liu Yao was defeated and Sun Ce occupied Jiangdong.
+Taifu Ma Rishidan passed away in Shouchun.
+
+
+Chunk 7: 
+original: 
 二年春正月癸丑，大赦天下。
 二月乙亥，李傕杀樊稠而与郭汜相攻。
 三月丙寅，李傕胁帝幸其营，焚宫室。
@@ -291,15 +304,11 @@ original:
 八月甲辰，幸新丰。
 冬十月戊戌，郭汜使其将伍习夜烧所幸学舍，逼胁乘舆。
 杨定、杨奉与郭汜战，破之。
+壬寅，幸华阴，露次道南。
+是夜，有赤气贯紫宫。
+张济复反，与李傕、郭汜合。
+十一月庚午，李傕、郭汜等追乘舆，战于东涧，王师败绩，杀光禄勋邓泉、卫尉士孙瑞、廷尉宣播、大长秋苗祀、步兵校尉魏桀、侍中朱展、射声校尉沮俊。
 translation: 
-In August, Feng Yiqiang rebelled and invaded the subordinate county. Guo Si and Fan Chou defeated them.
-In September, the mulberry trees grow again and people can eat.
-Situ Chun left in Jia.
-In October of winter, the city gate of Chang'an collapsed on its own.
-Wei Wei Zhao Wen was appointed as Situ to act as the minister.
-In December, Anding and Fufeng were divided into Xinping counties.
-In this year, Yangzhou governor Liu Yao fought with Yuan Shu's general Sun Ce in Qu'a. Liu Yao was defeated and Sun Ce occupied Jiangdong.
-Taifu Ma Rishidan passed away in Shouchun.
 On the eleventh day of the first lunar month in the second year of spring, a general amnesty was given to the whole world.
 On the third day of February, Li Ju killed Fan Chou and attacked Guo Si.
 On March 25, Li Chu forced Emperor Xian to go to his military camp and burn the palace.
@@ -315,14 +324,14 @@ Zhang Ji was a hussar general and was still stationed in Shaanxi after his retur
 On the sixth day of August, Emperor Xian arrived at Xinfeng.
 On the first day of October in winter, Guo Si sent his general Wu Xi to burn down the school building where Emperor Xian lived at night. Forced and threatened Xiandi.
 Yang Ding and Yang Feng fought with Guo Si, and Guo Si was defeated.
+On the fifth day of the lunar month, Emperor Xian arrived in Huayin and slept in the south of the avenue.
+This night, there is a red air band crossing the purple palace constellation.
+Zhang Ji returned and joined forces with Li Chu and Guo Si.
+On the third day of November, Li Chu, Guo Si and others chased Emperor Xian. A fight broke out in Dongjian, and Wang Shi was defeated. Guang Luxun Deng Quan, guard captain Sun Rui, Ting Lieutenant Xuanbo, Dachangqiu Miao Si, infantry captain Wei Jie, Shizhong Zhu Zhan, and Shesheng captain Ju Zi were killed.
 
 
-Chunk 7: 
+Chunk 8: 
 original: 
-壬寅，幸华阴，露次道南。
-是夜，有赤气贯紫宫。
-张济复反，与李傕、郭汜合。
-十一月庚午，李傕、郭汜等追乘舆，战于东涧，王师败绩，杀光禄勋邓泉、卫尉士孙瑞、廷尉宣播、大长秋苗祀、步兵校尉魏桀、侍中朱展、射声校尉沮俊。
 壬申，幸曹阳，露次田中。
 杨奉、董承引白波帅胡才、李乐、韩暹及匈奴左贤王去卑，率师奉迎，与李傕等战，破之。
 十二月庚辰，车驾乃进。
@@ -340,10 +349,6 @@ original:
 癸卯，安国将军张杨为大司马，韩暹为大将军，杨奉为车骑将军。
 是时，宫室烧尽，百官披荆棘，依墙壁间。
 translation: 
-On the fifth day of the lunar month, Emperor Xian arrived in Huayin and slept in the south of the avenue.
-This night, there is a red air band crossing the purple palace constellation.
-Zhang Ji returned and joined forces with Li Chu and Guo Si.
-On the third day of November, Li Chu, Guo Si and others chased Emperor Xian. A fight broke out in Dongjian, and Wang Shi was defeated. Guang Luxun Deng Quan, guard captain Sun Rui, Ting Lieutenant Xuanbo, Dachangqiu Miao Si, infantry captain Wei Jie, Shizhong Zhu Zhan, and Shesheng captain Ju Zi were killed.
 On the fifth day of the lunar month, Emperor Xian arrived in Caoyang and slept in the fields.
 Yang Feng and Dong Cheng led Baibo generals Hu Cai, Li Le, Han Xian and the Xiongnu Zuoxian King to Bei, and led their troops to meet Emperor Xian. They fought with Li Chu and others, and defeated Li Chu.
 In December Gengchen, Emperor Xian continued to move forward.
@@ -362,7 +367,7 @@ On the tenth day of the lunar month, Zhang Yang, the general of Anguo, was appoi
 At this time, the palace was burned down, and the officials cut off the thorns and lived among the walls.
 
 
-Chunk 8: 
+Chunk 9: 
 original: 
 州郡各拥强兵，而委输不至，群僚饥乏，尚书郎以下自出采稆，或饥死墙壁间，或为兵士所杀。
 辛亥，镇东将军曹操自领司隶校尉，录尚书事。
@@ -421,7 +426,7 @@ In the seventh month of autumn, Prince Liu Feng was made King of Nanyang.
 On the 12th, Nanyang King Liu Feng passed away.
 
 
-Chunk 9: 
+Chunk 10: 
 original: 
 九月庚午朔，日有食之。
 诏三公举至孝二人，九卿、校尉、郡国守、相各一人。
@@ -442,7 +447,6 @@ original:
 夏四月，墨山贼张燕率众降。
 秋九月，赐百官尤贫者金、帛，各有差。
 十一年春正月，有星孛于北斗。
-三月，曹操破高幹于并州，获之。
 translation: 
 On the first day of September, there is a solar eclipse.
 Emperor Xian ordered the Three Dukes to recommend two people who were of the highest filial piety, and the Jiuqing, Xiaowei, and Prime Minister each recommended one person.
@@ -463,11 +467,11 @@ In the first month of the spring of the tenth year, Cao Cao defeated Yuan Tan in
 In April of summer, the Black Mountain bandit Zhang Yan led his troops to surrender.
 In the autumn and ninth month, the particularly poor among the officials were given gold and silk in varying amounts.
 In the first month of spring of the eleventh year, a comet appeared in the Big Dipper.
-In March, Cao Cao defeated Gao Gan in Bingzhou and captured him.
 
 
-Chunk 10: 
+Chunk 11: 
 original: 
+三月，曹操破高幹于并州，获之。
 秋七月，武威太守张猛杀雍州刺史邯郸商。
 是岁，立故琅邪王容子熙为琅邪王。
 齐、北海、阜陵、下邳、常山、甘陵、济北、平原八国皆除。
@@ -489,7 +493,11 @@ original:
 十六年秋九月庚戌，曹操与韩遂、马超战于渭南，遂等大败，关西平。
 是岁，赵王赦薨。
 十七年夏五月癸未，诛卫尉马腾，夷三族。
+六月庚寅晦，日有食之。秋七月，洧水、颍水溢。
+螟。
+八月，马超破凉州，杀刺史韦康。
 translation: 
+In March, Cao Cao defeated Gao Gan in Bingzhou and captured him.
 In the seventh month of autumn, Zhang Meng, the governor of Wuwei, killed Handan merchants, the governor of Yongzhou.
 In this year, Liu Rongzi Liu Xi, the deceased king of Langji, was established as the king of Langji.
 The eight feudal states of Qi, Beihai, Fuling, Xiapi, Changshan, Ganling, Jibei and Pingyuan were revoked.
@@ -511,13 +519,13 @@ On the first day of the second lunar month in the spring of the fifteenth year, 
 On September 15, in the autumn of the 16th year, Cao Cao fought with Han Sui and Ma Chao in Weinan. Han Sui and others were defeated and Guanxi was pacified.
 This year, King Zhao Liu She passed away.
 In the summer of the 17th year, in the fifth month of Guiwei, Ma Teng, the Weiwei Lieutenant, was executed, and his father, mother, and wife clans were exterminated.
+June 29th, solar eclipse. In autumn, in July, the Jishui and Yingshui rivers overflow.
+Locust plague.
+In August, Ma Chao captured Liangzhou and killed Wei Kang, the assassin.
 
 
-Chunk 11: 
+Chunk 12: 
 original: 
-六月庚寅晦，日有食之。秋七月，洧水、颍水溢。
-螟。
-八月，马超破凉州，杀刺史韦康。
 九月庚戌，立皇子熙为济阴王，懿为山阳王，为济北王，敦为东海王。
 冬十二月，星孛于五诸侯。
 十八年春正月庚寅，复《禹贡》九州。
@@ -537,10 +545,8 @@ original:
 秋七月，曹操破汉中，张鲁降。
 二十一年夏四月甲午，曹操自进号魏王。
 五月己亥朔，日有食之。秋七月，匈奴南单于来朝。
+是岁，曹操杀琅邪王熙，国除。
 translation: 
-June 29th, solar eclipse. In autumn, in July, the Jishui and Yingshui rivers overflow.
-Locust plague.
-In August, Ma Chao captured Liangzhou and killed Wei Kang, the assassin.
 On September 21st, the prince Liu Xi was made the King of Jiyin, Liu Yi was the King of Shanyang, Liu was the King of Jibei, and Liu Dun was the King of the East China Sea.
 In the twelfth month of winter, the comet appeared in the Five Princes Star.
 On the third day of the first lunar month in the spring of the 18th year, the names of Yan, Yu, Qing, Xu, Jing, Yang, Yong, Yi, and Ji Jiuzhou in "Yu Gong" were restored.
@@ -560,11 +566,11 @@ The princes, princes and ministers are given the following valleys, each of whic
 In the seventh month of autumn, Cao Cao captured Hanzhong and Zhang Lu surrendered.
 On April 25, in the summer of the 21st year, Cao Cao promoted himself as King of Wei.
 On the first day of May, there is a solar eclipse. In autumn and July, the Xiongnu Nan Chanyu came to worship.
+In this year, Cao Cao killed Liu Xi, the king of Langfu, and the feudal state was revoked.
 
 
-Chunk 12: 
+Chunk 13: 
 original: 
-是岁，曹操杀琅邪王熙，国除。
 二十二年夏六月，丞相军师华歆为御史大夫。
 冬，有星孛于东北。
 是岁大疫。
@@ -580,10 +586,7 @@ original:
 二月丁未朔，日有食之。三月，改元延康。
 冬十月乙卯，皇帝逊位，魏王丕称天子。
 奉帝为山阳公，邑一万户，位在诸侯王上，奏事不称臣，受诏不拜，以天子车服郊祀天地，宗庙、祖、腊皆如汉制，都山阳之浊鹿城。
-四皇子封王者，皆降为列侯。
-明年，刘备称帝于蜀，孙权亦自王于吴，于是天下遂三分矣。
 translation: 
-In this year, Cao Cao killed Liu Xi, the king of Langfu, and the feudal state was revoked.
 In the summer and June of the 22nd year, Hua Xin, the prime minister's military advisor, became the censor.
 In winter, comets appear in the northeast.
 There was a pandemic this year.
@@ -599,12 +602,12 @@ His son Cao Pi succeeded to the throne.
 On the first day of February, there was a solar eclipse. In March, it was changed to Yankang.
 On October 13th in winter, Emperor Xian abdicated and King Cao Pi of Wei became emperor.
 Emperor Xian was granted the title Duke of Shanyang, with a fiefdom of 10,000 households, and his status was higher than that of the princes and kings. He refused to submit to Wei Emperor Cao Pi's duties, and did not kneel down when receiving Wei Emperor's orders. He worshiped heaven and earth in the suburbs with the emperor's chariots and costumes. The Han Dynasty's ancestral temples, ancestral tombs, and sacrifices in the twelfth lunar month were all according to the Han Dynasty system. The capital was built in Zhuolu City, Shanyang.
-The four princes Liu Xi, Liu Yi, Liu and Liu Dun who were granted the title of king were all demoted to the rank of marquis.
-The next year, Liu Bei proclaimed himself emperor of Shu, and Sun Quan also claimed to be king of Wu, so the world became divided into three parts: Wei, Shu, and Wu.
 
 
-Chunk 13: 
+Chunk 14: 
 original: 
+四皇子封王者，皆降为列侯。
+明年，刘备称帝于蜀，孙权亦自王于吴，于是天下遂三分矣。
 魏青龙二年三月庚寅，山阳公薨。自逊位至薨，十有四年，年五十四，谥孝献皇帝。
 八月壬申，以汉天子礼仪葬于禅陵，置园邑令丞。
 太子早卒，孙康立五十一年，晋太康六年薨。
@@ -612,10 +615,9 @@ original:
 子秋立二十年，永嘉中为胡贼所杀，国除。
 论曰：传称鼎之为器，虽小而重，故神之所宝，不可夺移。
 至令负而趋者，此亦穷运之归乎！
-天厌汉德久矣，山阳其何诛焉！
-赞曰：献生不辰，身播国屯。
-终我四百，永作虞宾。
 translation: 
+The four princes Liu Xi, Liu Yi, Liu and Liu Dun who were granted the title of king were all demoted to the rank of marquis.
+The next year, Liu Bei proclaimed himself emperor of Shu, and Sun Quan also claimed to be king of Wu, so the world became divided into three parts: Wei, Shu, and Wu.
 On the sixth day of March in the second year of Wei Qinglong, Duke Shanyang abdicated one by one and died of Han Xian Emperor Liu Xie. It took a total of fourteen years from abdication to death. At the age of fifty-four, he was given the posthumous title of Emperor Xiaoxian.
 On August 20, he was buried in the Zen Mausoleum of Xiuwu County, Huaizhou with the rites of the Emperor of the Han Dynasty. A residential area was set up to guard the cemetery, and officials were appointed to manage the cemetery.
 The eldest son of Emperor Xian died early, his grandson Liu Kang was in his fiftieth year, and Emperor Wu of Jin died in the sixth year of Taikang.
@@ -623,6 +625,14 @@ Liu Kangzi and Liu Jin were established for four years, and Taikang died in the 
 In the 21st year of Liu Qiuli's reign, Liu Jinzi, Emperor Huai of Jin Dynasty Yongjiazhong was killed by barbarians, and the feudal state was revoked.
 Historians commented: "The Biography of the Zuo Family" states that the tripod is a sacred tool passed down to the country. Although it is small but heavy, it is a treasure of the gods and cannot be taken away.
 If the royal family does not build it, evil spirits are rampant, and although the divine tripod is large but light, and people carry it on their backs, this will be the time when the country's destiny is exhausted and cannot be revived.
+
+
+Chunk 15: 
+original: 
+天厌汉德久矣，山阳其何诛焉！
+赞曰：献生不辰，身播国屯。
+终我四百，永作虞宾。
+translation: 
 Since the time of Emperor He of the Han Dynasty, politics and religion have been gradually lost, and the world has long hated Han virtues. How can this disaster be completely pushed to Xian Emperor Shan Yanggong and blame him alone?
 Historians praise: Emperor Xian was born at the wrong time, he was displaced, and the country suffered.
 The Han family's four hundred years of rule over the world were finally lost in his hands, and he could only be a guest of Wei Emperor Cao Pi, just like Emperor Yao's son Danzhu was a guest of Emperor Shun.

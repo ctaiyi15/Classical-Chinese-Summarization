@@ -1,4 +1,4 @@
-Summary uses chunk [0, 3, 4, 4, 4, 5, 6, 8, 9, 9, 11, 12, 13, 15, 15, 15, 16, 17, 17, 17, 18, 17, 19, 20, 19, 19, 21]
+Summary uses chunk [0, 3, 4, 4, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 16, 17, 18, 18, 18, 18, 18, 20, 21, 21, 21, 22]
 
 Chunk 0: 
 original: 
@@ -63,8 +63,6 @@ original:
 陇右溃，隗嚣奔西城，遗大司马吴汉、征南大将军岑彭围之；进幸上邽，不降，命虎牙大将军盖延、建威大将军耿弇攻之。
 颍川盗贼寇没属县，河东守守兵亦叛，京师骚动。
 秋，大水。
-八月，帝自上邽晨夜东驰。
-九月乙卯，车驾还宫。
 translation: 
 On the sixth day of May, former general Li Tong became the Grand Sikong.
 On the 22nd, the officials were ordered to go or stay, according to their own wishes, if they suffered from famine, war, or were robbed by Qingzhou and Xuzhou thieves as slaves and wives.
@@ -82,14 +80,14 @@ In the leap month, Emperor Guangwu personally marched against Kaixiao. Hexi Gene
 Wei Xiao was defeated at Longyou and fled to the west city. Emperor Guangwu sent Grand Sima Wu Han and General Zhengnan Cen Peng to surround Xicheng. When Emperor Guangwu arrived at Shangguiquan, Kaixiao refused to surrender, so he sent General Huya Gai Yan and General Jianwei Geng to attack him.
 Yingchuan bandits invaded and captured the counties under Yingchuan. The governor of Hedong and the guards also rebelled, causing shock and commotion in Kyoto.
 In autumn, there are floods.
-In August, Emperor Guangwu drove east from Shangguang day and night.
-On the first day of September, I returned to Luoyang.
 
 summary:
 summary line 1: In the seventh year, an edict released prisoners except those guilty of capital crimes. Emperor Guangwu condemned lavish burials and advocated frugality. The canal guard captain was dismissed, and military forces were reduced. Gongsun Shu made Kuai Xiao King of Shuoning. A solar eclipse led to a five-day suspension of state affairs. An edict blamed the emperor for disasters and called for officials to fulfill their duties. Another edict granted amnesty and ordered recommendations of virtuous individuals. Li Tong became Grand Sikong. Slaves captured during famines or wars were to be released. Continuous rain fell. Wang Chang was appointed general. Liu Shao was made King of Hejian. Wei Xiao was driven back from Anding. Lu Fang's generals surrendered. The Changshui and Shesheng school lieutenants were omitted.
 
 Chunk 4: 
 original: 
+八月，帝自上邽晨夜东驰。
+九月乙卯，车驾还宫。
 庚申，帝自征颍川盗贼，皆降。
 安丘侯张步叛归琅邪，琅邪太守陈俊讨获之。
 戊寅，至自颍川。
@@ -120,6 +118,8 @@ original:
 是岁，省定襄郡，徙其民于西河。
 泗水王歙薨。淄川王终薨。
 translation: 
+In August, Emperor Guangwu drove east from Shangguang day and night.
+On the first day of September, I returned to Luoyang.
 On the sixth day of the lunar month, Emperor Guangwu personally conquered the Yingchuan thieves and surrendered.
 Anqiu Marquis Zhang Bu rebelled and returned to Langfu. Chen Jun, the governor of Langfu, attacked Zhang Bu and captured him alive.
 On the 24th, Emperor Guangwu returned to Beijing from Yingchuan.
@@ -155,6 +155,8 @@ summary line 2: In the eighth year, Zhonglang Lai She attacked Lueyang. Sili sch
 
 Chunk 4: 
 original: 
+八月，帝自上邽晨夜东驰。
+九月乙卯，车驾还宫。
 庚申，帝自征颍川盗贼，皆降。
 安丘侯张步叛归琅邪，琅邪太守陈俊讨获之。
 戊寅，至自颍川。
@@ -185,6 +187,8 @@ original:
 是岁，省定襄郡，徙其民于西河。
 泗水王歙薨。淄川王终薨。
 translation: 
+In August, Emperor Guangwu drove east from Shangguang day and night.
+On the first day of September, I returned to Luoyang.
 On the sixth day of the lunar month, Emperor Guangwu personally conquered the Yingchuan thieves and surrendered.
 Anqiu Marquis Zhang Bu rebelled and returned to Langfu. Chen Jun, the governor of Langfu, attacked Zhang Bu and captured him alive.
 On the 24th, Emperor Guangwu returned to Beijing from Yingchuan.
@@ -220,6 +224,8 @@ summary line 3: In the ninth year, Wei Xiao died, and his son Wei Chun became ki
 
 Chunk 4: 
 original: 
+八月，帝自上邽晨夜东驰。
+九月乙卯，车驾还宫。
 庚申，帝自征颍川盗贼，皆降。
 安丘侯张步叛归琅邪，琅邪太守陈俊讨获之。
 戊寅，至自颍川。
@@ -250,6 +256,8 @@ original:
 是岁，省定襄郡，徙其民于西河。
 泗水王歙薨。淄川王终薨。
 translation: 
+In August, Emperor Guangwu drove east from Shangguang day and night.
+On the first day of September, I returned to Luoyang.
 On the sixth day of the lunar month, Emperor Guangwu personally conquered the Yingchuan thieves and surrendered.
 Anqiu Marquis Zhang Bu rebelled and returned to Langfu. Chen Jun, the governor of Langfu, attacked Zhang Bu and captured him alive.
 On the 24th, Emperor Guangwu returned to Beijing from Yingchuan.
@@ -377,6 +385,11 @@ summary line 6: In the twelfth year, Wu Han killed Shi Xing. An edict freed thos
 
 Chunk 8: 
 original: 
+丁巳，降赵王良为赵公，太原王章为齐公，鲁王兴为鲁公。
+庚午，以殷绍嘉公孔安为宋公，周承休公姬武为卫公。
+省并西京十三国：广平属巨鹿，真定属常山，河间属信都，城阳属琅邪，泗水属广陵，淄川属高密，胶东属北海，六安属庐江，广阳属上谷。
+三月辛未，沛郡太守韩歆为大司徒。
+丙子，行大司空马成罢。
 夏四月，大司马吴汉自蜀还京师，于是大飨将士，班劳策勋。
 功臣增邑更封，凡三百六十五人。
 其外戚恩泽封者四十五人。
@@ -386,14 +399,12 @@ original:
 时，兵革既息，天下少事，文书调役，务从简寡，至乃十存一焉。
 甲寅，冀州牧窦融为大司空。
 五月，匈奴寇河东。
-秋七月，广汉徼外白马羌豪率种人内属。
-九月，日南徼外蛮夷献白雉、白兔。
-冬十二月甲寅，诏益州民自八年以来被略为奴婢者，皆一切免为庶人；或依托为人下妻，欲去者，恣听之；敢拘留者，比青、徐二州以略人法从事。
-复置金城郡。
-十四年春正月，起南宫前殿。
-匈奴遣使奉献，使中郎将报命。
-夏四月辛巳，封孔子后志为褒成侯。
 translation: 
+On the 28th, King Liu Liang of Zhao was made Duke of Zhao, King Liu Zhang of Taiyuan was made Duke of Qi, and King Liu Xing of Lu was made Duke of Lu.
+On March 11, Kong An, Duke Jia of Yin Shao, was granted the title of Duke of Song, and Duke Chengxiu of Zhou Ji Wu was granted the title of Duke of Wei.
+The nine feudal states in the Western Han Dynasty were omitted and merged: Guangping merged with Julu, Zhending merged with Changshan, Hejian merged with Xindu, Chengyang merged with Langfu, Sishui merged with Guangling, Zichuan merged with Gaomi, Jiaodong merged with Beihai, Liu'an merged with Lujiang, and Guangyang merged with Shanggu.
+On March 12, Han Xin, the governor of Peijun, was appointed as the chief situ.
+On March 17, acting chief minister Kong Ma Cheng was dismissed from office.
 In April of summer, Grand Sima Wu Han returned to the capital from Shu, so he held a big banquet to reward the officers and soldiers, announced everyone's merits and recorded them in a book.
 The number of meritorious officials increased and their titles were renewed, totaling 365 people.
 Forty-five people were honored by their relatives.
@@ -403,6 +414,27 @@ Yizhou sent Gongsun Shu Gushi, suburban temple musical instruments, carriages, a
 By this time the war had ended, and there was peace and few things going on in the world. Official documents were required to levy and send out servants, so they had to be simply reduced, so that the number was only one-tenth of what it was before.
 On the 26th, he appointed Mu Dou of Jizhou as Da Sikong.
 In May, the Xiongnu invaded Hedong.
+
+summary:
+summary line 7: In the thirteenth year, Hou Ba died. An edict stopped counties from contributing exotic delicacies. Ma Wu was sent to guard against the Xiongnu. Lu Fang rebelled. Several kings were demoted to marquises. Nine feudal states were merged. Han Xin became Grand Situ. Ma Cheng was dismissed. Wu Han returned from Shu, and meritorious officials were rewarded. The left and right generals were abolished. Gongsun Shu's treasures were used to complete palace ceremonies. Official documents were reduced to one-tenth. Dou Mu became Grand Sikong. The Xiongnu invaded Hedong. The Baima Qiang surrendered. Japan presented white pheasants and rabbits. An edict freed slaves in Yizhou. Jincheng County was restored.
+
+Chunk 9: 
+original: 
+秋七月，广汉徼外白马羌豪率种人内属。
+九月，日南徼外蛮夷献白雉、白兔。
+冬十二月甲寅，诏益州民自八年以来被略为奴婢者，皆一切免为庶人；或依托为人下妻，欲去者，恣听之；敢拘留者，比青、徐二州以略人法从事。
+复置金城郡。
+十四年春正月，起南宫前殿。
+匈奴遣使奉献，使中郎将报命。
+夏四月辛巳，封孔子后志为褒成侯。
+越巂人任贵自称太守，遣使奉计。
+秋九月，平城人贾丹杀卢芳将尹由来降。
+是岁，会稽大疫。
+莎车国、鄯善国遣使奉献。
+十二月癸卯，诏益、凉二州奴婢，自八年以来自讼在所官，一切免为庶人，卖者无还直。
+十五年春正月辛丑，大司徒韩歆免，自杀。
+丁未，有星孛于昴。
+translation: 
 In the seventh month of autumn, outside the Great Wall of Guanghan, the Baima Qianghao led his tribesmen to surrender.
 In September, the barbarians outside the Great Wall of Japan presented white pheasants and white rabbits.
 On the 30th day of the twelfth lunar month in winter, the edict was issued to the residents of Yizhou who had been robbed as slaves and maidservants in the past eight years since Gongsun Shu's death, and were to be restored to civilian status. Those who rely on others to become concubines and want to leave should be allowed to do so of their own free will; those who dare to stay and are difficult to detain will be punished by the Population Robbery Law according to the methods of Qing and Xu Prefectures.
@@ -410,29 +442,6 @@ Restore setting Jincheng County.
 In the spring and first month of the fourteenth year, the front hall of the Nangong was built.
 The Huns sent envoys to pay tribute, and Emperor Guangwu sent General Liu Xiang to pay a return visit to the Huns.
 On April 29th in the summer, Kong Zhi, a descendant of Confucius, was granted the title of Bongchenghou.
-
-summary:
-summary line 7: In the thirteenth year, Hou Ba died. An edict stopped counties from contributing exotic delicacies. Ma Wu was sent to guard against the Xiongnu. Lu Fang rebelled. Several kings were demoted to marquises. Nine feudal states were merged. Han Xin became Grand Situ. Ma Cheng was dismissed. Wu Han returned from Shu, and meritorious officials were rewarded. The left and right generals were abolished. Gongsun Shu's treasures were used to complete palace ceremonies. Official documents were reduced to one-tenth. Dou Mu became Grand Sikong. The Xiongnu invaded Hedong. The Baima Qiang surrendered. Japan presented white pheasants and rabbits. An edict freed slaves in Yizhou. Jincheng County was restored.
-
-Chunk 9: 
-original: 
-越巂人任贵自称太守，遣使奉计。
-秋九月，平城人贾丹杀卢芳将尹由来降。
-是岁，会稽大疫。
-莎车国、鄯善国遣使奉献。
-十二月癸卯，诏益、凉二州奴婢，自八年以来自讼在所官，一切免为庶人，卖者无还直。
-十五年春正月辛丑，大司徒韩歆免，自杀。
-丁未，有星孛于昴。
-汝南太守欧阳歙为大司徒。
-建义大将军朱祐罢。
-丁未，有星孛于营室。
-二月，徙雁门、代郡、上谷三郡民，置常山关、居庸关以东。
-初，巴蜀既平，大司马吴汉上书请封皇子，不许，重奏连岁。
-三月，乃诏群臣议。
-大司空融、固始侯通、胶东侯复、高密侯禹、太常登等奏议曰： 古者封建诸侯，以藩屏京师。
-周封八百，同姓诸姬并为建国，夹辅王室，尊事天子，享国永长，为后世法。
-故《诗》云： 大启尔宇，为周室辅。
-translation: 
 Rengui, a native of Yuexi, claimed to be the governor and sent an envoy to bring hundreds of names.
 In autumn and September, Jia Dan, a native of Pingcheng, killed Lu Fang's general Yin You and surrendered.
 This year, the Kuaiji plague spread widely.
@@ -440,28 +449,12 @@ Shache Kingdom and Shanshan Kingdom sent envoys to pay tribute.
 On the 12th day of the twelfth month of the lunar month, the imperial edict ordered slaves from Yi and Liang prefectures to be restored to civilian status without having to repay their worth.
 In the fifteenth year of the year, on the 23rd of the first lunar month of spring, Great Situ Han Xin was dismissed from office and committed suicide.
 On the 29th, a comet appeared in the Pleiades.
-He appointed Ouyang She, the governor of Runan, as the chief situ.
-Jianyi General Zhu You was dismissed from office.
-On the 29th, a comet appeared in the camp.
-In February, the residents of Yanmen, Daijun and Shanggu counties were relocated to the east of Changshan Pass and Juyong Pass.
-At the beginning, Bashu had been pacified, and the Grand Sima Wu Han wrote a letter asking for the title of prince. Emperor Guangwu refused, so Wu Han continued to write letters on this matter for several years.
-In March, Emperor Guangwu ordered officials to discuss.
-The Great Sikong Dou Rong, the First Marquis of the Kingdom Li Tong, the Marquis of Jiaodong Jia Fu, the Marquis of Gaomi Deng Yu, Taichang Deng and others wrote letters saying: In ancient times, princes were enfeoffed and feudal states were established to serve as a barrier for the capital.
-In the Zhou Dynasty, there were 800 feudal princes. Anyone with the surname Ji established a princely state, assisted the royal family around them, and served the emperor respectfully. As a result, the country's destiny was long-lasting and set an example for future generations.
-所以《诗经》上说 ：大大地开放经营你所管辖的地方，作为我周家天下的辅佐。
 
 summary:
 summary line 8: In the fourteenth year, the Nangong front hall was built. The Xiongnu paid tribute. Kong Zhi was made a marquis. Ren Gui claimed to be governor. Jia Dan surrendered. A plague struck Kuaiji. Shache and Shanshan paid tribute. Slaves in Yi and Liang were freed.
 
-Chunk 9: 
+Chunk 10: 
 original: 
-越巂人任贵自称太守，遣使奉计。
-秋九月，平城人贾丹杀卢芳将尹由来降。
-是岁，会稽大疫。
-莎车国、鄯善国遣使奉献。
-十二月癸卯，诏益、凉二州奴婢，自八年以来自讼在所官，一切免为庶人，卖者无还直。
-十五年春正月辛丑，大司徒韩歆免，自杀。
-丁未，有星孛于昴。
 汝南太守欧阳歙为大司徒。
 建义大将军朱祐罢。
 丁未，有星孛于营室。
@@ -471,14 +464,15 @@ original:
 大司空融、固始侯通、胶东侯复、高密侯禹、太常登等奏议曰： 古者封建诸侯，以藩屏京师。
 周封八百，同姓诸姬并为建国，夹辅王室，尊事天子，享国永长，为后世法。
 故《诗》云： 大启尔宇，为周室辅。
+高祖圣德，光有天下，亦务亲亲，封立兄弟诸子，不违旧章。陛下德横天地，兴复宗统，褒德赏勋，亲睦九族，功臣宗室，咸蒙封爵，多受广地，或连属县。
+今皇子赖天，能胜衣趋拜，陛下恭谦克让，抑而未议，群臣百姓，莫不失望。
+宜因盛夏吉时，定号位，以广藩辅，明亲亲，尊宗庙，重社稷，应古合旧，厌塞众心。
+臣请大司空上舆地图，太常择吉日，具礼仪。 制曰： 可。
+夏四月戊申，以太牢告祠宗庙。
+丁巳，使大司空融告庙，封皇子辅为右翊公，英为楚公，阳为东海公，康为济南公，苍为东平公，延为淮阳公，荆为山阳公，衡为临淮公，焉为左翊公，京为琅邪公。
+癸丑，追谥兄伯升为齐武公，兄仲为鲁哀公。
+六月庚午，复置屯骑、长水、射声三校尉官，改青巾左校尉为越骑校尉。
 translation: 
-Rengui, a native of Yuexi, claimed to be the governor and sent an envoy to bring hundreds of names.
-In autumn and September, Jia Dan, a native of Pingcheng, killed Lu Fang's general Yin You and surrendered.
-This year, the Kuaiji plague spread widely.
-Shache Kingdom and Shanshan Kingdom sent envoys to pay tribute.
-On the 12th day of the twelfth month of the lunar month, the imperial edict ordered slaves from Yi and Liang prefectures to be restored to civilian status without having to repay their worth.
-In the fifteenth year of the year, on the 23rd of the first lunar month of spring, Great Situ Han Xin was dismissed from office and committed suicide.
-On the 29th, a comet appeared in the Pleiades.
 He appointed Ouyang She, the governor of Runan, as the chief situ.
 Jianyi General Zhu You was dismissed from office.
 On the 29th, a comet appeared in the camp.
@@ -488,12 +482,21 @@ In March, Emperor Guangwu ordered officials to discuss.
 The Great Sikong Dou Rong, the First Marquis of the Kingdom Li Tong, the Marquis of Jiaodong Jia Fu, the Marquis of Gaomi Deng Yu, Taichang Deng and others wrote letters saying: In ancient times, princes were enfeoffed and feudal states were established to serve as a barrier for the capital.
 In the Zhou Dynasty, there were 800 feudal princes. Anyone with the surname Ji established a princely state, assisted the royal family around them, and served the emperor respectfully. As a result, the country's destiny was long-lasting and set an example for future generations.
 所以《诗经》上说 ：大大地开放经营你所管辖的地方，作为我周家天下的辅佐。
+The great ancestor was wise and had great influence over the world. He also valued the relationship between relatives and conferred titles on brothers and disciples without violating the laws of the past. The emperor's virtues filled the world and revitalized the ancestral traditions. He commended the virtuous and rewarded those with meritorious service. He was in harmony with the nine tribes and the meritorious clans were all granted titles. Most of them received large tracts of land, and some even connected several counties.
+Now that the prince has grown up with the blessing of God, he can wear clothes and bow to him, but the emperor has been humble and restrained from granting him a title. The officials and the people are very disappointed.
+We should take advantage of this good time in midsummer to determine the title of the prince, so as to expand the vassal auxiliary, show the righteousness of relatives, respect the ancestral temple and the country, comply with the ancient system and satisfy everyone's wishes.
+We ask Da Sikong to present the map, Tai Chang chooses a good day and prepares the ceremony.
+Emperor Guangwu ordered: "Okay." On the second day of April in summer, cattle, sheep and pigs are sacrificed to ancestors. On the eleventh day, the chief minister Kong Dourong was sent to inform the ancestral temple.
+The princes were granted the titles of Prince Liu Fu as Duke of You Yi, Liu Ying as Duke of Chu, Liu Yang as Duke of Donghai, Liu Kang as Duke of Jinan, Liu Cang as Duke of Dongping, Liu Yan as Duke of Huaiyang, Liu Jing as Duke of Shanyang, and Liu Heng as Duke of Linhuai. Liu Yan was the Duke of Zuo Yigong, and Liu Jing was the Duke of Langfu.
+Guichou, posthumously promoted his elder brother to Duke Wu of Qi, and his elder brother Liu Zhong to the title of Duke Ai of Lu.
+On June 25, the three lieutenants of Tunqi, Changshui and Shesheng were restored; the captain of Qingjin Zuo was changed to the lieutenant of Yueqi.
 
 summary:
 summary line 9: In the fifteenth year, Han Xin committed suicide. Comets appeared. Ouyang She became Grand Situ. Zhu You was dismissed. Residents of Yanmen, Daijun, and Shanggu were relocated. Wu Han requested titles for princes. Officials recommended enfeoffment. Emperor Guangwu agreed. Princes were granted dukedoms. The three lieutenants were restored. An order was issued to verify land and household registrations. Ouyang She died in prison. Dai She became Grand Situ. Lu Fang returned from the Xiongnu. Du Mao and Gai Yan died.
 
 Chunk 11: 
 original: 
+诏下州郡检核垦田顷亩及户口年纪，又考实二千石长吏阿枉不平者。
 冬十一月甲戌，大司徒欧阳歙下狱死。
 十二月庚午，关内侯戴涉为大司徒。
 卢芳自匈奴入居高柳。
@@ -511,8 +514,8 @@ original:
 于是更相追捕，贼并解散。
 徙其魁帅于它郡，赋田受禀，使安生业。
 自是牛马放牧，邑门不闭。
-卢芳遣使乞降，十二月甲辰，封芳为代王。
 translation: 
+An order was issued to order the prefectures and counties to inspect and verify the acres of cultivated land and the age and number of household registrations. He also examined two thousand officials who acted in a way that violated the law or acted unfairly.
 On the first day of the eleventh month in winter, the great Situ Ouyang She was imprisoned and died in prison.
 On December 27, Daishe, the Marquis of Guannei, was appointed as Chief Situ.
 Lu Fang came to Gaoliu from the Xiongnu.
@@ -530,13 +533,13 @@ If the pastoral commander is guilty of failing to collect and capture the bandit
 So they cooperated to hunt each other, and the group of thieves disintegrated.
 They also moved their leaders to other counties, gave them arable land, and provided them with grain to support their old age, so that they could live and work in peace and contentment.
 From then on, cattle and horses grazed without guarding, and city gates did not need to be closed.
-Lu Fang sent an envoy to ask for surrender. On the first day of December, Lu Fang was granted the title of acting king.
 
 summary:
 summary line 10: In the sixteenth year, Jiaochangzhi women rebelled. A solar eclipse occurred. Officials were imprisoned for fraud. Bandits caused chaos. An edict allowed bandits to report each other. Lu Fang surrendered. Five baht coins were introduced.
 
 Chunk 12: 
 original: 
+卢芳遣使乞降，十二月甲辰，封芳为代王。
 初，王莽乱后，货币杂用布、帛、金、粟。是岁，始行五铢钱。
 十七年春正月，赵公良薨。
 二月乙未晦，日有食之。
@@ -551,9 +554,8 @@ original:
 甲申，幸章陵。
 修园庙，祠旧宅，观田庐，置酒作乐，赏赐。
 时，宗室诸母因酣悦，相与语曰： 文叔少时谨信，与人不款曲，唯直柔耳。
-今乃能如此！ 帝闻之，大笑曰： 吾理天下，亦欲以柔道行之。 乃悉为舂陵宗室起祠堂。
-有五凤凰见于颍川之郏县。
 translation: 
+Lu Fang sent an envoy to ask for surrender. On the first day of December, Lu Fang was granted the title of acting king.
 At first, after Wang Mang's rebellion, cloth, silk, gold, and millet were used as currency. This year, five baht coins began to be used.
 In the first month of the spring of the seventeenth year, Zhao Gongliang passed away.
 On February 29th, it was dark, and there was a solar eclipse.
@@ -568,14 +570,14 @@ The other nine princes were promoted to kings based on their original fiefdoms.
 On the 22nd, Emperor Guangwu arrived at Zhangling.
 Repair gardens and ancestral temples, offer sacrifices to old houses, inspect fields and houses, buy wine and have fun, and reward money and goods.
 At this time, many mothers in the clan were talking to each other while they were drinking happily: Uncle Wen was cautious and honest when he was young, and he did not know how to deal with people attentively. He was always loyal and gentle, but today he became the emperor!
-After hearing this, Guangwu laughed and said: When I govern the world, I will also use judo to implement government and education. Therefore, ancestral halls were built for the Chongling clan.
-At this time, five phoenixes appeared in Jiaxian County, Yingchuan.
 
 summary:
 summary line 11: In the seventeenth year, Zhao Gongliang died. A solar eclipse occurred. Emperor Guangwu visited the south. Liu Heng died. Li Guang rebelled but was killed. Queen Guo was deposed, and Noble Yin became empress. Princes were promoted. Emperor Guangwu visited Zhangling. Five phoenixes appeared. Yarkand paid tribute.
 
 Chunk 13: 
 original: 
+今乃能如此！ 帝闻之，大笑曰： 吾理天下，亦欲以柔道行之。 乃悉为舂陵宗室起祠堂。
+有五凤凰见于颍川之郏县。
 十二月，至自章陵。
 是岁，莎车国遣使贡献。
 十八年春二月，蜀郡守将史歆叛，遣大司马吴汉率二将军讨之，围成都。
@@ -593,9 +595,9 @@ original:
 壬戌，赦益州所部殊死已下。
 冬十月庚辰，幸宜城。还，祠章陵。
 十二月乙丑，车驾还宫。
-是岁，罢州牧，置刺史。
-十九年春正月庚子，追遵孝宣皇帝曰中宗。
 translation: 
+After hearing this, Guangwu laughed and said: When I govern the world, I will also use judo to implement government and education. Therefore, ancestral halls were built for the Chongling clan.
+At this time, five phoenixes appeared in Jiaxian County, Yingchuan.
 In December, Guangwu returned from Zhangling to Luoyang.
 This year, the Kingdom of Yarkand sent envoys to pay tribute.
 In the spring and February of the 18th year, Shi Xin, the guard general of Shu County, rebelled and sent the Grand Sima Wu Han to lead two generals to attack and surround Chengdu.
@@ -613,209 +615,145 @@ In the seventh month of autumn, Wu Han captured Chengdu and killed Shi Xin and o
 In Renxu, criminals who rebelled against Yizhou were exempted from crime except those who had to be executed.
 On the twenty-fourth day of the tenth month in winter, Emperor Guangwu went to Yicheng and when he returned to Luoyang, he offered sacrifices to Zhang Ling.
 On December 10, Emperor Guangwu returned to Luoyang.
-In this year, he was dismissed from the state as a pastor and appointed as a governor.
-On the fifteenth day of the first lunar month in the spring of the nineteenth year, Emperor Xiaoxuan was honored as Zhongzong.
 
 summary:
 summary line 12: In the eighteenth year, Shi Xin rebelled but was defeated. Emperor Guangwu visited Chang'an. An edict abolished harsh laws for border counties. Ma Yuan attacked Jiaozhi. Lu Fang fled to the Xiongnu. Wu Han killed Shi Xin. Emperor Guangwu visited Yicheng. State pastors were dismissed and replaced by governors.
 
-Chunk 15: 
+Chunk 14: 
 original: 
-父老前叩头言： 皇考居此日久，陛下识知寺舍，每来辄加厚恩，愿赐复十年。 帝曰： 天下重器，常恐不任，日复一日，安敢远期十岁乎？ 吏人又言： 陛下实惜之，何言谦也？ 帝大笑，复增一岁。
-进幸淮阳、梁、沛。
-西南夷寇益州郡，遣武威将军刘尚讨之。
-越巂太守任贵谋叛，十二月，刘尚袭贵，诛之。
-是岁，复置函谷关都尉。
-修西京宫室。
-二十年春二月戊子，车驾还宫。
-夏四月庚辰，大司徒戴涉下狱死。
-大司空窦融免。
-五月辛亥，大司马吴汉薨。
-匈奴寇上党、天水，遂至扶风。
-六月庚寅，广汉太守蔡茂为大司徒，太仆朱浮为大司空。
-壬辰，左中郎将刘隆为骠骑将军，行大司马事。
-乙未，徙中山王辅为沛王。
-秋，东夷韩国人率众诣乐浪内附。
-冬十月，东巡狩。甲午，幸鲁，进幸东海、楚、沛国。
-十二月，匈奴寇天水。
-壬寅，车驾还宫。
-是岁，省五原郡，徙其吏人置河东。复济阳县徭役六岁。
-二十一年春正月，武威将军刘尚破益州夷，平之。
-夏四月，安定属国胡叛，屯聚青山，遣将兵长史陈讨平之。
-秋，鲜卑寇辽东，辽东太守祭肜大破之。
-冬十月，遣伏波将军马援出塞击乌桓，不克。
-匈奴寇上谷、中山。
-其冬，鄯善王、车师王等十六国皆遣子入侍奉献，愿请都护。
-帝以中国初定，未遑外事，乃还其侍子，厚加赏赐。
-二十二年春闰月丙戌，幸长安，祠高庙，遂有事十一陵。
-二月己巳，至自长安。
+是岁，罢州牧，置刺史。
+十九年春正月庚子，追遵孝宣皇帝曰中宗。
+始祠昭帝、元帝于太庙，成帝、哀帝、平帝于长安，舂陵节侯以下四世于章陵。
+妖巫单臣、傅镇等反，据原武，遣太中大夫臧宫围之。
+夏四月，拔原武，斩臣、镇等。
+伏波将军马援破交阯，斩微侧等。因击破九真贼都阳等，降之。
+闰月戊申，进赵、齐、鲁三国公爵为王。
+六月戊申，诏曰： 《春秋》之义，立子以贵。
+东海王阳，皇后之子，宜承大统。
+皇太子彊，崇执谦退，愿备藩国。
+父子之情，重久违之。
+其以彊为东海王，立阳为皇太子，改名庄。
+秋九月，南巡狩。
+壬申，幸南阳，进幸汝南南顿县舍，置酒会，赐吏人，复南顿田租岁。
 translation: 
-The elders came forward and kowtowed and said, "The emperor's father has lived here for a long time. The emperor is familiar with the government buildings here. Every time he comes, he is rewarded a lot." Please waive farm rent in Nanton County for ten years. The emperor said: The responsibility of governing the world is heavy. I often worry that I will not be able to do it. I am afraid that something will go wrong day by day. How dare I expect it to last ten years? The officials and the people also said: The emperor is actually reluctant to reduce or reduce the amount, why do he speak so humbly? Emperor Guangwu laughed and added another year to the rent-free period.
-Emperor Guangwu marched to Huaiyang, Liang, Pei and other places.
-The southwestern barbarians invaded Yizhou County, and Emperor Guangwu sent General Liu Shang to attack them.
-Ren Gui, the governor of Yuexun, rebelled. In December, Liu Shang attacked Ren Gui and killed him.
-This year, the establishment of the Hangu Pass Commandery was restored.
-Repair the palace in Chang'an.
-On the tenth day of the second lunar month in the spring of the 20th year, Emperor Guangwu returned to Luoyang.
-On the third day of the fourth lunar month in the summer, Situ Dai was involved in a crime and was imprisoned to death.
-Dou Rong, the chief minister, was dismissed from office.
-On the fourth day of May, Grand Sima Wu Han passed away.
-The Huns invaded Shangdang, Tianshui, and even Fufeng.
-On June 14, Cai Mao, the prefect of Guanghan, was appointed as the Grand Situ, and Zhu Fu, the imperial servant, was appointed as the Grand Sikong.
-On the 18th, Zuo Zhonglang appointed Liu Long as the General of Hussars and took charge of the affairs of the Grand Sima.
-On the 21st, Liu Fu, the king of Zhongshan, was transferred to be the king of Pei.
-In autumn, Dongyi Koreans led the people to Lelang and surrendered to the mainland.
-In the tenth month of winter, Emperor Guangwu inspected the east. On the 20th, he arrived in Lu and marched to the countries of Donghai, Chu and Pei.
-In December, the Xiongnu invaded Tianshui.
-On the 28th, Emperor Guangwu returned to Luoyang.
-In this year, Wuyuan County was abolished, the officials and people were relocated to Hedong, and Jiyang County was exempted from corvee service for six years.
-In the first month of the spring of the twenty-first year, General Liu Shang of Wuwei defeated the Yizhou Yi people and the place was pacified.
-In April of summer, Hu rebelled in the Anding state and gathered in Qingshan. Emperor Guangwu sent General Shi Chen Yunjin to attack and quell the rebellion.
-In the autumn, Xianbei invaded Liaodong, and the prefect of Liaodong sacrificed to the moon and defeated Xianbei.
-In the tenth month of winter, he sent General Fubo Ma Yuan to the north of the Great Wall to attack Wuhuan, but failed to win.
-The Xiongnu invaded Shanggu and Zhongshan.
-In the winter of this year, King Shanshan, King Cheshi and other sixteen kingdoms all sent their sons to serve in the palace and contributed gifts. Please set up a guardian to protect them.
-Emperor Guangwu considered that the country had just been pacified and had no time to care about external affairs, so he returned the sons they sent to serve and rewarded them with many gifts.
-On the 19th day of the first month in the spring of the 22nd year, Emperor Guangwu went to Chang'an to worship the Gaomiao and the Eleven Tombs.
-In February, I returned to Luoyang from Chang'an.
+In this year, he was dismissed from the state as a pastor and appointed as a governor.
+On the fifteenth day of the first lunar month in the spring of the nineteenth year, Emperor Xiaoxuan was honored as Zhongzong.
+It began to enshrine Emperor Zhao and Emperor Yuan in the Taimiao; Emperor Cheng, Emperor Ai, and Emperor Ping in Chang'an; and the following four generations of Chung Ling Jiehou were in Zhangling.
+Shan Chen, Fu Zhen and others who were practicing witchcraft rebelled, occupied Yuanwu, and sent Taizhong doctor Zang Gong to encircle and suppress them.
+In the fourth month of summer, they captured Yuanwu, killed Shanchen, Fu Zhen and others.
+General Fubo Ma Yuan captured Jiaozhi, killed Zheng Side and others, and took the opportunity to defeat Jiuzhen thief Du Yang and others, making them surrender.
+On the 25th of leap April, he was promoted to Duke of Zhao, Qi and Lu.
+On June 26, the edict stated: According to the principles of the Spring and Autumn Annals, the criterion for establishing a prince is noble birth.
+Liu Yang, King of the East China Sea, the son of the Queen, should inherit the throne.
+The crown prince Liu Qiang respected and humbled himself and was willing to become the king of the vassal states.
+The relationship between father and son makes it difficult for me to go against his wishes for a long time.
+Now Liu Qiang is the king of East China Sea, Liu Yang is made the crown prince, and his name is changed to Zhuang.
+In the ninth month of autumn, Emperor Guangwu visited the south.
+On the 21st, he went to Nanyang and then to the residence of Nanton County in Runan County. He held a banquet to reward the officials and exempted him from the land rent in Nanton County for one year.
 
 summary:
 summary line 13: In the nineteenth year, Emperor Xiaoxuan was honored as Zhongzong. Shanchen rebelled but was killed. Ma Yuan captured Jiaozhi. Princes were promoted. Liu Yang became crown prince. Emperor Guangwu visited the south. Nanton County was exempted from rent. The southwestern barbarians invaded. Ren Gui rebelled but was killed. The Hangu Pass Commandery was restored.
 
-Chunk 15: 
-original: 
-父老前叩头言： 皇考居此日久，陛下识知寺舍，每来辄加厚恩，愿赐复十年。 帝曰： 天下重器，常恐不任，日复一日，安敢远期十岁乎？ 吏人又言： 陛下实惜之，何言谦也？ 帝大笑，复增一岁。
-进幸淮阳、梁、沛。
-西南夷寇益州郡，遣武威将军刘尚讨之。
-越巂太守任贵谋叛，十二月，刘尚袭贵，诛之。
-是岁，复置函谷关都尉。
-修西京宫室。
-二十年春二月戊子，车驾还宫。
-夏四月庚辰，大司徒戴涉下狱死。
-大司空窦融免。
-五月辛亥，大司马吴汉薨。
-匈奴寇上党、天水，遂至扶风。
-六月庚寅，广汉太守蔡茂为大司徒，太仆朱浮为大司空。
-壬辰，左中郎将刘隆为骠骑将军，行大司马事。
-乙未，徙中山王辅为沛王。
-秋，东夷韩国人率众诣乐浪内附。
-冬十月，东巡狩。甲午，幸鲁，进幸东海、楚、沛国。
-十二月，匈奴寇天水。
-壬寅，车驾还宫。
-是岁，省五原郡，徙其吏人置河东。复济阳县徭役六岁。
-二十一年春正月，武威将军刘尚破益州夷，平之。
-夏四月，安定属国胡叛，屯聚青山，遣将兵长史陈讨平之。
-秋，鲜卑寇辽东，辽东太守祭肜大破之。
-冬十月，遣伏波将军马援出塞击乌桓，不克。
-匈奴寇上谷、中山。
-其冬，鄯善王、车师王等十六国皆遣子入侍奉献，愿请都护。
-帝以中国初定，未遑外事，乃还其侍子，厚加赏赐。
-二十二年春闰月丙戌，幸长安，祠高庙，遂有事十一陵。
-二月己巳，至自长安。
-translation: 
-The elders came forward and kowtowed and said, "The emperor's father has lived here for a long time. The emperor is familiar with the government buildings here. Every time he comes, he is rewarded a lot." Please waive farm rent in Nanton County for ten years. The emperor said: The responsibility of governing the world is heavy. I often worry that I will not be able to do it. I am afraid that something will go wrong day by day. How dare I expect it to last ten years? The officials and the people also said: The emperor is actually reluctant to reduce or reduce the amount, why do he speak so humbly? Emperor Guangwu laughed and added another year to the rent-free period.
-Emperor Guangwu marched to Huaiyang, Liang, Pei and other places.
-The southwestern barbarians invaded Yizhou County, and Emperor Guangwu sent General Liu Shang to attack them.
-Ren Gui, the governor of Yuexun, rebelled. In December, Liu Shang attacked Ren Gui and killed him.
-This year, the establishment of the Hangu Pass Commandery was restored.
-Repair the palace in Chang'an.
-On the tenth day of the second lunar month in the spring of the 20th year, Emperor Guangwu returned to Luoyang.
-On the third day of the fourth lunar month in the summer, Situ Dai was involved in a crime and was imprisoned to death.
-Dou Rong, the chief minister, was dismissed from office.
-On the fourth day of May, Grand Sima Wu Han passed away.
-The Huns invaded Shangdang, Tianshui, and even Fufeng.
-On June 14, Cai Mao, the prefect of Guanghan, was appointed as the Grand Situ, and Zhu Fu, the imperial servant, was appointed as the Grand Sikong.
-On the 18th, Zuo Zhonglang appointed Liu Long as the General of Hussars and took charge of the affairs of the Grand Sima.
-On the 21st, Liu Fu, the king of Zhongshan, was transferred to be the king of Pei.
-In autumn, Dongyi Koreans led the people to Lelang and surrendered to the mainland.
-In the tenth month of winter, Emperor Guangwu inspected the east. On the 20th, he arrived in Lu and marched to the countries of Donghai, Chu and Pei.
-In December, the Xiongnu invaded Tianshui.
-On the 28th, Emperor Guangwu returned to Luoyang.
-In this year, Wuyuan County was abolished, the officials and people were relocated to Hedong, and Jiyang County was exempted from corvee service for six years.
-In the first month of the spring of the twenty-first year, General Liu Shang of Wuwei defeated the Yizhou Yi people and the place was pacified.
-In April of summer, Hu rebelled in the Anding state and gathered in Qingshan. Emperor Guangwu sent General Shi Chen Yunjin to attack and quell the rebellion.
-In the autumn, Xianbei invaded Liaodong, and the prefect of Liaodong sacrificed to the moon and defeated Xianbei.
-In the tenth month of winter, he sent General Fubo Ma Yuan to the north of the Great Wall to attack Wuhuan, but failed to win.
-The Xiongnu invaded Shanggu and Zhongshan.
-In the winter of this year, King Shanshan, King Cheshi and other sixteen kingdoms all sent their sons to serve in the palace and contributed gifts. Please set up a guardian to protect them.
-Emperor Guangwu considered that the country had just been pacified and had no time to care about external affairs, so he returned the sons they sent to serve and rewarded them with many gifts.
-On the 19th day of the first month in the spring of the 22nd year, Emperor Guangwu went to Chang'an to worship the Gaomiao and the Eleven Tombs.
-In February, I returned to Luoyang from Chang'an.
-
-summary:
-summary line 14: In the twentieth year, Emperor Guangwu returned to Luoyang. Dai She died in prison. Dou Rong was dismissed. Wu Han died. The Xiongnu invaded. Cai Mao became Grand Situ. Liu Long became general. Liu Fu was transferred to Pei. Koreans surrendered. Emperor Guangwu inspected the east. The Xiongnu invaded Tianshui. Wuyuan County was abolished.
-
-Chunk 15: 
-original: 
-父老前叩头言： 皇考居此日久，陛下识知寺舍，每来辄加厚恩，愿赐复十年。 帝曰： 天下重器，常恐不任，日复一日，安敢远期十岁乎？ 吏人又言： 陛下实惜之，何言谦也？ 帝大笑，复增一岁。
-进幸淮阳、梁、沛。
-西南夷寇益州郡，遣武威将军刘尚讨之。
-越巂太守任贵谋叛，十二月，刘尚袭贵，诛之。
-是岁，复置函谷关都尉。
-修西京宫室。
-二十年春二月戊子，车驾还宫。
-夏四月庚辰，大司徒戴涉下狱死。
-大司空窦融免。
-五月辛亥，大司马吴汉薨。
-匈奴寇上党、天水，遂至扶风。
-六月庚寅，广汉太守蔡茂为大司徒，太仆朱浮为大司空。
-壬辰，左中郎将刘隆为骠骑将军，行大司马事。
-乙未，徙中山王辅为沛王。
-秋，东夷韩国人率众诣乐浪内附。
-冬十月，东巡狩。甲午，幸鲁，进幸东海、楚、沛国。
-十二月，匈奴寇天水。
-壬寅，车驾还宫。
-是岁，省五原郡，徙其吏人置河东。复济阳县徭役六岁。
-二十一年春正月，武威将军刘尚破益州夷，平之。
-夏四月，安定属国胡叛，屯聚青山，遣将兵长史陈讨平之。
-秋，鲜卑寇辽东，辽东太守祭肜大破之。
-冬十月，遣伏波将军马援出塞击乌桓，不克。
-匈奴寇上谷、中山。
-其冬，鄯善王、车师王等十六国皆遣子入侍奉献，愿请都护。
-帝以中国初定，未遑外事，乃还其侍子，厚加赏赐。
-二十二年春闰月丙戌，幸长安，祠高庙，遂有事十一陵。
-二月己巳，至自长安。
-translation: 
-The elders came forward and kowtowed and said, "The emperor's father has lived here for a long time. The emperor is familiar with the government buildings here. Every time he comes, he is rewarded a lot." Please waive farm rent in Nanton County for ten years. The emperor said: The responsibility of governing the world is heavy. I often worry that I will not be able to do it. I am afraid that something will go wrong day by day. How dare I expect it to last ten years? The officials and the people also said: The emperor is actually reluctant to reduce or reduce the amount, why do he speak so humbly? Emperor Guangwu laughed and added another year to the rent-free period.
-Emperor Guangwu marched to Huaiyang, Liang, Pei and other places.
-The southwestern barbarians invaded Yizhou County, and Emperor Guangwu sent General Liu Shang to attack them.
-Ren Gui, the governor of Yuexun, rebelled. In December, Liu Shang attacked Ren Gui and killed him.
-This year, the establishment of the Hangu Pass Commandery was restored.
-Repair the palace in Chang'an.
-On the tenth day of the second lunar month in the spring of the 20th year, Emperor Guangwu returned to Luoyang.
-On the third day of the fourth lunar month in the summer, Situ Dai was involved in a crime and was imprisoned to death.
-Dou Rong, the chief minister, was dismissed from office.
-On the fourth day of May, Grand Sima Wu Han passed away.
-The Huns invaded Shangdang, Tianshui, and even Fufeng.
-On June 14, Cai Mao, the prefect of Guanghan, was appointed as the Grand Situ, and Zhu Fu, the imperial servant, was appointed as the Grand Sikong.
-On the 18th, Zuo Zhonglang appointed Liu Long as the General of Hussars and took charge of the affairs of the Grand Sima.
-On the 21st, Liu Fu, the king of Zhongshan, was transferred to be the king of Pei.
-In autumn, Dongyi Koreans led the people to Lelang and surrendered to the mainland.
-In the tenth month of winter, Emperor Guangwu inspected the east. On the 20th, he arrived in Lu and marched to the countries of Donghai, Chu and Pei.
-In December, the Xiongnu invaded Tianshui.
-On the 28th, Emperor Guangwu returned to Luoyang.
-In this year, Wuyuan County was abolished, the officials and people were relocated to Hedong, and Jiyang County was exempted from corvee service for six years.
-In the first month of the spring of the twenty-first year, General Liu Shang of Wuwei defeated the Yizhou Yi people and the place was pacified.
-In April of summer, Hu rebelled in the Anding state and gathered in Qingshan. Emperor Guangwu sent General Shi Chen Yunjin to attack and quell the rebellion.
-In the autumn, Xianbei invaded Liaodong, and the prefect of Liaodong sacrificed to the moon and defeated Xianbei.
-In the tenth month of winter, he sent General Fubo Ma Yuan to the north of the Great Wall to attack Wuhuan, but failed to win.
-The Xiongnu invaded Shanggu and Zhongshan.
-In the winter of this year, King Shanshan, King Cheshi and other sixteen kingdoms all sent their sons to serve in the palace and contributed gifts. Please set up a guardian to protect them.
-Emperor Guangwu considered that the country had just been pacified and had no time to care about external affairs, so he returned the sons they sent to serve and rewarded them with many gifts.
-On the 19th day of the first month in the spring of the 22nd year, Emperor Guangwu went to Chang'an to worship the Gaomiao and the Eleven Tombs.
-In February, I returned to Luoyang from Chang'an.
-
-summary:
-summary line 15: In the twenty-first year, Liu Shang pacified Yizhou. The Anding Hu rebelled but were quelled. Xianbei invaded Liaodong. Ma Yuan attacked Wuhuan unsuccessfully. The Xiongnu invaded. Sixteen kingdoms requested protection but were refused.
-
 Chunk 16: 
 original: 
+乙未，徙中山王辅为沛王。
+秋，东夷韩国人率众诣乐浪内附。
+冬十月，东巡狩。甲午，幸鲁，进幸东海、楚、沛国。
+十二月，匈奴寇天水。
+壬寅，车驾还宫。
+是岁，省五原郡，徙其吏人置河东。复济阳县徭役六岁。
+二十一年春正月，武威将军刘尚破益州夷，平之。
+夏四月，安定属国胡叛，屯聚青山，遣将兵长史陈讨平之。
+秋，鲜卑寇辽东，辽东太守祭肜大破之。
+冬十月，遣伏波将军马援出塞击乌桓，不克。
+匈奴寇上谷、中山。
+其冬，鄯善王、车师王等十六国皆遣子入侍奉献，愿请都护。
+帝以中国初定，未遑外事，乃还其侍子，厚加赏赐。
+二十二年春闰月丙戌，幸长安，祠高庙，遂有事十一陵。
+二月己巳，至自长安。
 夏五月乙未晦，日有食之。
 秋七月，司隶校尉苏邺下狱死。
 九月戊辰，地震裂。
 制诏曰： 日者地震，南阳尤甚。
 夫地者，任物至重，静而不动者也。
 而今震裂，咎在君上。
+translation: 
+On the 21st, Liu Fu, the king of Zhongshan, was transferred to be the king of Pei.
+In autumn, Dongyi Koreans led the people to Lelang and surrendered to the mainland.
+In the tenth month of winter, Emperor Guangwu inspected the east. On the 20th, he arrived in Lu and marched to the countries of Donghai, Chu and Pei.
+In December, the Xiongnu invaded Tianshui.
+On the 28th, Emperor Guangwu returned to Luoyang.
+In this year, Wuyuan County was abolished, the officials and people were relocated to Hedong, and Jiyang County was exempted from corvee service for six years.
+In the first month of the spring of the twenty-first year, General Liu Shang of Wuwei defeated the Yizhou Yi people and the place was pacified.
+In April of summer, Hu rebelled in the Anding state and gathered in Qingshan. Emperor Guangwu sent General Shi Chen Yunjin to attack and quell the rebellion.
+In the autumn, Xianbei invaded Liaodong, and the prefect of Liaodong sacrificed to the moon and defeated Xianbei.
+In the tenth month of winter, he sent General Fubo Ma Yuan to the north of the Great Wall to attack Wuhuan, but failed to win.
+The Xiongnu invaded Shanggu and Zhongshan.
+In the winter of this year, King Shanshan, King Cheshi and other sixteen kingdoms all sent their sons to serve in the palace and contributed gifts. Please set up a guardian to protect them.
+Emperor Guangwu considered that the country had just been pacified and had no time to care about external affairs, so he returned the sons they sent to serve and rewarded them with many gifts.
+On the 19th day of the first month in the spring of the 22nd year, Emperor Guangwu went to Chang'an to worship the Gaomiao and the Eleven Tombs.
+In February, I returned to Luoyang from Chang'an.
+On May 30th in summer, it was dark and there was a solar eclipse.
+In the seventh month of autumn, Su Ye, the captain of Sili School, was imprisoned and died.
+On the fifth day of September, there was an earthquake.
+An edict was issued saying: The recent earthquake in Nanyang was particularly severe.
+Originally the earth carried a heavy load and was calm and unshakable.
+Now it is shaking and splitting, and the blame lies with the king.
+
+summary:
+summary line 14: In the twentieth year, Emperor Guangwu returned to Luoyang. Dai She died in prison. Dou Rong was dismissed. Wu Han died. The Xiongnu invaded. Cai Mao became Grand Situ. Liu Long became general. Liu Fu was transferred to Pei. Koreans surrendered. Emperor Guangwu inspected the east. The Xiongnu invaded Tianshui. Wuyuan County was abolished.
+
+Chunk 16: 
+original: 
+乙未，徙中山王辅为沛王。
+秋，东夷韩国人率众诣乐浪内附。
+冬十月，东巡狩。甲午，幸鲁，进幸东海、楚、沛国。
+十二月，匈奴寇天水。
+壬寅，车驾还宫。
+是岁，省五原郡，徙其吏人置河东。复济阳县徭役六岁。
+二十一年春正月，武威将军刘尚破益州夷，平之。
+夏四月，安定属国胡叛，屯聚青山，遣将兵长史陈讨平之。
+秋，鲜卑寇辽东，辽东太守祭肜大破之。
+冬十月，遣伏波将军马援出塞击乌桓，不克。
+匈奴寇上谷、中山。
+其冬，鄯善王、车师王等十六国皆遣子入侍奉献，愿请都护。
+帝以中国初定，未遑外事，乃还其侍子，厚加赏赐。
+二十二年春闰月丙戌，幸长安，祠高庙，遂有事十一陵。
+二月己巳，至自长安。
+夏五月乙未晦，日有食之。
+秋七月，司隶校尉苏邺下狱死。
+九月戊辰，地震裂。
+制诏曰： 日者地震，南阳尤甚。
+夫地者，任物至重，静而不动者也。
+而今震裂，咎在君上。
+translation: 
+On the 21st, Liu Fu, the king of Zhongshan, was transferred to be the king of Pei.
+In autumn, Dongyi Koreans led the people to Lelang and surrendered to the mainland.
+In the tenth month of winter, Emperor Guangwu inspected the east. On the 20th, he arrived in Lu and marched to the countries of Donghai, Chu and Pei.
+In December, the Xiongnu invaded Tianshui.
+On the 28th, Emperor Guangwu returned to Luoyang.
+In this year, Wuyuan County was abolished, the officials and people were relocated to Hedong, and Jiyang County was exempted from corvee service for six years.
+In the first month of the spring of the twenty-first year, General Liu Shang of Wuwei defeated the Yizhou Yi people and the place was pacified.
+In April of summer, Hu rebelled in the Anding state and gathered in Qingshan. Emperor Guangwu sent General Shi Chen Yunjin to attack and quell the rebellion.
+In the autumn, Xianbei invaded Liaodong, and the prefect of Liaodong sacrificed to the moon and defeated Xianbei.
+In the tenth month of winter, he sent General Fubo Ma Yuan to the north of the Great Wall to attack Wuhuan, but failed to win.
+The Xiongnu invaded Shanggu and Zhongshan.
+In the winter of this year, King Shanshan, King Cheshi and other sixteen kingdoms all sent their sons to serve in the palace and contributed gifts. Please set up a guardian to protect them.
+Emperor Guangwu considered that the country had just been pacified and had no time to care about external affairs, so he returned the sons they sent to serve and rewarded them with many gifts.
+On the 19th day of the first month in the spring of the 22nd year, Emperor Guangwu went to Chang'an to worship the Gaomiao and the Eleven Tombs.
+In February, I returned to Luoyang from Chang'an.
+On May 30th in summer, it was dark and there was a solar eclipse.
+In the seventh month of autumn, Su Ye, the captain of Sili School, was imprisoned and died.
+On the fifth day of September, there was an earthquake.
+An edict was issued saying: The recent earthquake in Nanyang was particularly severe.
+Originally the earth carried a heavy load and was calm and unshakable.
+Now it is shaking and splitting, and the blame lies with the king.
+
+summary:
+summary line 15: In the twenty-first year, Liu Shang pacified Yizhou. The Anding Hu rebelled but were quelled. Xianbei invaded Liaodong. Ma Yuan attacked Wuhuan unsuccessfully. The Xiongnu invaded. Sixteen kingdoms requested protection but were refused.
+
+Chunk 17: 
+original: 
 鬼神不顺无德，灾殃将及吏人，朕甚惧焉。
 其令南阳勿输今年田租刍稿。
 遣谒者案行，其死罪系囚在戊辰以前，减死罪一等；徒皆弛解钳，衣丝絮。赐郡中居人压死者棺钱，人三千。
@@ -829,13 +767,8 @@ original:
 乌桓击破匈奴，匈奴北徒，幕南地空。诏罢诸边郡亭侯吏卒。
 二十三年春正月，南郡蛮叛，遣武将军刘尚讨破之，徒其种人于江夏。
 夏五月丁卯，大司徒蔡茂薨。
+秋八月丙戌，大司空杜林薨。
 translation: 
-On May 30th in summer, it was dark and there was a solar eclipse.
-In the seventh month of autumn, Su Ye, the captain of Sili School, was imprisoned and died.
-On the fifth day of September, there was an earthquake.
-An edict was issued saying: The recent earthquake in Nanyang was particularly severe.
-Originally the earth carried a heavy load and was calm and unshakable.
-Now it is shaking and splitting, and the blame lies with the king.
 The ghosts and gods are dissatisfied with the immoral behavior, and disasters will befall the officials and the people. I am very afraid.
 Nanyang is now ordered not to pay land rent or firewood this year.
 Visitors were sent to conduct inspections. Prisoners sentenced to death before the fifth day of September were exempted from death and their sentences reduced to one degree. Those sentenced to prison were released from shackles and could wear silk clothes. Those in the county who were crushed to death were given three thousand yuan for the coffin.
@@ -849,13 +782,13 @@ The Xiongnu emperor Zhao Dan was chasing Wang Bi and sent people to Yuyang to as
 Wuhuan defeated the Xiongnu, and the Xiongnu moved northward. The southern part of the desert was deserted, and an edict was issued to remove the officers and soldiers from the outposts in the border counties.
 In the first month of the spring of the twenty-third year, the Nanjun barbarians rebelled and sent General Liu Shang to defeat them and move the people of this tribe to Jiangxia.
 On the eighth day of the fifth lunar month in the summer, Grand Situ Cai Mao passed away.
+In the eighth month of autumn, Bingxu, the great Sikong Dulin passed away.
 
 summary:
 summary line 16: In the twenty-second year, Emperor Guangwu visited Chang'an. A solar eclipse occurred. Su Ye died in prison. An earthquake struck Nanyang. An edict provided relief. Zhufu was dismissed. Du Lin became Grand Sikong. The Xiongnu sought peace. Wuhuan defeated the Xiongnu.
 
-Chunk 17: 
+Chunk 18: 
 original: 
-秋八月丙戌，大司空杜林薨。
 九月辛未，陈留太守玉况为大司徒。
 冬十月丙申，太仆张纯为大司空。
 高句丽率种人诣乐浪内属。
@@ -876,8 +809,8 @@ original:
 夫馀王遣使奉献。
 是岁，乌桓大人率众内属，诣厥朝贡。
 二十六年春正月，诏有司增百官奉。其千石已上，减于西京旧制；六百石已下，增于旧秩。
+初作寿陵。
 translation: 
-In the eighth month of autumn, Bingxu, the great Sikong Dulin passed away.
 On September 13th, Yu Kuang, the prefect of Chenliu, was appointed as the Grand Situ.
 On the ninth day of the tenth lunar month in winter, Zhang Chun, the imperial servant, was appointed as the Grand Sikong.
 Goguryeo led his tribe to join Lelang.
@@ -898,13 +831,13 @@ In the tenth month of winter, the rebel generals surrendered their capital.
 King Fuyu sent envoys to pay tribute.
 In this year, Wuhuan Qushuai led the people to surrender and went to the court to contribute gifts.
 In the first month of the spring of the twenty-sixth year, the relevant departments were ordered to increase the salary of hundreds of officials. Those above one thousand shi would be less than the old standard in the Western Han Dynasty, and those below 600 shi would be increased than the old standard in the Western Han Dynasty.
+Construction of Shouling began.
 
 summary:
 summary line 17: In the twenty-third year, the Nanjun barbarians rebelled but were subdued. Cai Mao and Du Lin died. Yu Kuang became Grand Situ. Zhang Chun became Grand Sikong. Goguryeo joined Lelang. The Wuling barbarians rebelled, and Liu Shang died in battle.
 
-Chunk 17: 
+Chunk 18: 
 original: 
-秋八月丙戌，大司空杜林薨。
 九月辛未，陈留太守玉况为大司徒。
 冬十月丙申，太仆张纯为大司空。
 高句丽率种人诣乐浪内属。
@@ -925,8 +858,8 @@ original:
 夫馀王遣使奉献。
 是岁，乌桓大人率众内属，诣厥朝贡。
 二十六年春正月，诏有司增百官奉。其千石已上，减于西京旧制；六百石已下，增于旧秩。
+初作寿陵。
 translation: 
-In the eighth month of autumn, Bingxu, the great Sikong Dulin passed away.
 On September 13th, Yu Kuang, the prefect of Chenliu, was appointed as the Grand Situ.
 On the ninth day of the tenth lunar month in winter, Zhang Chun, the imperial servant, was appointed as the Grand Sikong.
 Goguryeo led his tribe to join Lelang.
@@ -947,13 +880,13 @@ In the tenth month of winter, the rebel generals surrendered their capital.
 King Fuyu sent envoys to pay tribute.
 In this year, Wuhuan Qushuai led the people to surrender and went to the court to contribute gifts.
 In the first month of the spring of the twenty-sixth year, the relevant departments were ordered to increase the salary of hundreds of officials. Those above one thousand shi would be less than the old standard in the Western Han Dynasty, and those below 600 shi would be increased than the old standard in the Western Han Dynasty.
+Construction of Shouling began.
 
 summary:
 summary line 18: In the twenty-fourth year, a general amnesty was declared. The Xiongnu leader sought peace. The Wuling barbarians invaded. Ma Yuan led an attack. The Xiongnu split into southern and northern parts.
 
-Chunk 17: 
+Chunk 18: 
 original: 
-秋八月丙戌，大司空杜林薨。
 九月辛未，陈留太守玉况为大司徒。
 冬十月丙申，太仆张纯为大司空。
 高句丽率种人诣乐浪内属。
@@ -974,8 +907,8 @@ original:
 夫馀王遣使奉献。
 是岁，乌桓大人率众内属，诣厥朝贡。
 二十六年春正月，诏有司增百官奉。其千石已上，减于西京旧制；六百石已下，增于旧秩。
+初作寿陵。
 translation: 
-In the eighth month of autumn, Bingxu, the great Sikong Dulin passed away.
 On September 13th, Yu Kuang, the prefect of Chenliu, was appointed as the Grand Situ.
 On the ninth day of the tenth lunar month in winter, Zhang Chun, the imperial servant, was appointed as the Grand Sikong.
 Goguryeo led his tribe to join Lelang.
@@ -996,48 +929,13 @@ In the tenth month of winter, the rebel generals surrendered their capital.
 King Fuyu sent envoys to pay tribute.
 In this year, Wuhuan Qushuai led the people to surrender and went to the court to contribute gifts.
 In the first month of the spring of the twenty-sixth year, the relevant departments were ordered to increase the salary of hundreds of officials. Those above one thousand shi would be less than the old standard in the Western Han Dynasty, and those below 600 shi would be increased than the old standard in the Western Han Dynasty.
+Construction of Shouling began.
 
 summary:
 summary line 19: In the twenty-fifth year, the Qi people surrendered. The Southern Shanyu paid tribute. Ma Yuan defeated the Wuling barbarians. Fuyu paid tribute. Wuhuan surrendered.
 
 Chunk 18: 
 original: 
-初作寿陵。
-将作大匠窦融上言： 园陵广袤，无虑所用。 帝曰： 古者帝王之葬，皆陶人瓦器，木车茅马，使后世之人不知其处。
-太宗识终始之义，景帝能述遵孝道，遭天下反覆，而霸陵独完受其福，岂不美哉！
-令所制地不过二三顷，无为山陵，陂池裁令流水而已。
-遣中郎将段郴授南单于玺绶，令入居云中，始置使匈奴中郎将，将兵卫护之。
-南单于遣子入侍，奉奏诣厥。
-于是云中、五原、朔方、北地、定襄、雁门、上谷、代八郡民归于本土。
-遣谒者分将施刑补理城郭。
-发遣边民在中国者，布还诸县，皆赐以装钱，转输给食。
-二十七年夏四月戊午，大司徒玉况薨。
-五月丁丑，诏曰： 昔契作司徒，禹作司空，皆无 大 名，其令二府去 大 。 又改大司马为太尉。
-骠骑大将军行大司马刘隆即日罢，以太仆赵熹为太尉，大司农冯勤为司徒。
-益州郡徼外蛮夷率种人内属。
-北匈奴遣使诣武威乞和亲。
-translation: 
-Construction of Shouling began.
-The great craftsman Dou Rong wrote a letter explaining the area occupied by the mausoleum and all the necessary utensils. Guangwu said: In ancient times, emperors were buried with pottery, earthenware vessels, wooden carts and thatched horses, so that future generations would not know their location.
-Taizong understood the righteousness of life and death, Emperor Jing could abide by filial piety, and despite all the chaos in the world, Ba Ling remained intact. Isn't it a good thing?
-The land planned now is only two or three hectares, and there are no mountains or hills. The Pichi can only be used to disperse water.
-Emperor Guangwu sent Zhonglang General Duan Chen to grant the seal to Nandan Yu, allowing him to live in Yunzhong County in the interior. He began to set up the Xiongnu Zhonglang General to lead troops to protect the Southern Xiongnu.
-Nan Danyu sent his son to the court to serve Guangwu and submitted a memorial.
-So the people of the eight counties of Yunzhong, Wuyuan, Shuofang, Beidi, Dingxiang, Yanmen, Shanggu and Dai returned to their hometown.
-Send emissaries to repair and tidy up the city respectively for those who have been released from prison.
-The border residents who were dispatched and repatriated to the mainland were sent back to their respective counties of origin. They were all given transportation fees and supplies were transported by vehicles.
-On April 21, summer 27, Great Situ Yukuang passed away.
-On May 11th, Emperor Guangwu issued an edict saying: In the past, the title of "Situ" and "Sikong of Yu" did not have the character "". Now I order the two governments to remove the character "".
-He also changed the rank of Grand Sima to Taiwei, and General Hussar acted as Grand Sima. Liu Long was dismissed from his post on that day, and his servant Zhao Xian was appointed as Taiwei, and the Grand Secretary Nong Feng Qin was appointed as Situ.
-The tribes led by barbarians outside Yizhou County belong to it.
-The Northern Huns sent envoys to Wuwei to request peace.
-
-summary:
-summary line 20: In the twenty-sixth year, official salaries were adjusted. Shouling construction began. The Southern Shanyu was granted a seal. Border residents returned home.
-
-Chunk 17: 
-original: 
-秋八月丙戌，大司空杜林薨。
 九月辛未，陈留太守玉况为大司徒。
 冬十月丙申，太仆张纯为大司空。
 高句丽率种人诣乐浪内属。
@@ -1058,8 +956,8 @@ original:
 夫馀王遣使奉献。
 是岁，乌桓大人率众内属，诣厥朝贡。
 二十六年春正月，诏有司增百官奉。其千石已上，减于西京旧制；六百石已下，增于旧秩。
+初作寿陵。
 translation: 
-In the eighth month of autumn, Bingxu, the great Sikong Dulin passed away.
 On September 13th, Yu Kuang, the prefect of Chenliu, was appointed as the Grand Situ.
 On the ninth day of the tenth lunar month in winter, Zhang Chun, the imperial servant, was appointed as the Grand Sikong.
 Goguryeo led his tribe to join Lelang.
@@ -1080,12 +978,65 @@ In the tenth month of winter, the rebel generals surrendered their capital.
 King Fuyu sent envoys to pay tribute.
 In this year, Wuhuan Qushuai led the people to surrender and went to the court to contribute gifts.
 In the first month of the spring of the twenty-sixth year, the relevant departments were ordered to increase the salary of hundreds of officials. Those above one thousand shi would be less than the old standard in the Western Han Dynasty, and those below 600 shi would be increased than the old standard in the Western Han Dynasty.
+Construction of Shouling began.
+
+summary:
+summary line 20: In the twenty-sixth year, official salaries were adjusted. Shouling construction began. The Southern Shanyu was granted a seal. Border residents returned home.
+
+Chunk 18: 
+original: 
+九月辛未，陈留太守玉况为大司徒。
+冬十月丙申，太仆张纯为大司空。
+高句丽率种人诣乐浪内属。
+十二月，武陵蛮叛，寇掠郡县，遣刘尚讨之，战于沅水，尚军败殁。
+是岁，匈奴薁鞬日逐王比率部曲遣使诣西河内附。
+二十四年春正月乙亥，大赦天下。
+匈奴薁鞬日逐王比遣使款五原塞，求扞御北虏。
+秋七月，武陵蛮寇临沅，遣谒者李嵩、中山太守马成讨蛮，不克，于是伏波将军马援率四将军讨之。
+诏有司申明旧制阿附蕃王法。
+冬十月，匈奴薁鞬日逐王比自立为南单于，于是分为南、北匈奴。
+二十五年春正月，辽东徼外貊人寇右北平、渔阳、上谷、太原，辽东太守祭肜招降之。
+乌桓大人来朝。
+南单于遣使诣厥贡献，奉蕃称臣；又遣其左贤王击破北匈奴，却地千余里。
+三月，南单于遗子入侍。
+戊申晦，日有食之。
+伏波将军马援等破武陵蛮于临沅。
+冬十月，叛蛮悉降。
+夫馀王遣使奉献。
+是岁，乌桓大人率众内属，诣厥朝贡。
+二十六年春正月，诏有司增百官奉。其千石已上，减于西京旧制；六百石已下，增于旧秩。
+初作寿陵。
+translation: 
+On September 13th, Yu Kuang, the prefect of Chenliu, was appointed as the Grand Situ.
+On the ninth day of the tenth lunar month in winter, Zhang Chun, the imperial servant, was appointed as the Grand Sikong.
+Goguryeo led his tribe to join Lelang.
+In December, the Wuling barbarians rebelled, plundered counties and counties, and sent Liu Shang to attack them. They fought in Yuanshui, and Liu Shang's entire army died in the battle.
+In this year, the Xiongnu leader Zhao Gan Ri Zhu Wangbi led his subordinates and sent an envoy to Xihe Nei.
+On the 19th day of the first lunar month in the spring of the 24th year, a general amnesty was given to all criminals in the world.
+The Xiongnu's leader, Rizhu Wangbi, sent people to Wuyuan Fortress to express friendship and request that the Han family defend the northern tribes.
+In the seventh month of autumn, Wuling barbarians invaded Linyuan. They sent Li Song, the envoy, and Ma Cheng, the prefect of Zhongshan, to attack them. However, they failed to win, so General Fubo Ma Yuan led four generals to attack them.
+Some departments were ordered to clarify the previously formulated laws that stipulated that the princes and kings of Afu should be severely punished.
+In the tenth month of winter, the Xiongnu conquered King Bi and proclaimed himself the Southern Chanyu, so the Xiongnu were divided into southern and northern parts.
+In the first month of the spring of the twenty-fifth year, the Qi people from outside Liaodong invaded Beiping, Yuyang, Shanggu, and Taiyuan. The prefect of Liaodong sacrificed and surrendered to them.
+Commander Wuhuan Qu came to pay homage.
+The Shanyu of the South sent envoys to the capital to pay tribute and pay tribute as a vassal state. He also sent his King Xian of Zuo to defeat the Northern Xiongnu and expand the territory for more than a thousand miles.
+In March, Nan Shanyu sent his son to serve Emperor Guangwu.
+On the 28th, it was dark, and there was a solar eclipse.
+General Fubo Ma Yuan and others defeated the Wuling barbarians in Linyuan.
+In the tenth month of winter, the rebel generals surrendered their capital.
+King Fuyu sent envoys to pay tribute.
+In this year, Wuhuan Qushuai led the people to surrender and went to the court to contribute gifts.
+In the first month of the spring of the twenty-sixth year, the relevant departments were ordered to increase the salary of hundreds of officials. Those above one thousand shi would be less than the old standard in the Western Han Dynasty, and those below 600 shi would be increased than the old standard in the Western Han Dynasty.
+Construction of Shouling began.
 
 summary:
 summary line 21: In the twenty-seventh year, Yu Kuang died. Official titles were changed. The Northern Xiongnu sought peace. Princes entered their fiefdoms.
 
-Chunk 19: 
+Chunk 20: 
 original: 
+骠骑大将军行大司马刘隆即日罢，以太仆赵熹为太尉，大司农冯勤为司徒。
+益州郡徼外蛮夷率种人内属。
+北匈奴遣使诣武威乞和亲。
 冬，鲁王兴、齐王石始就国。
 二十八年春正月己巳，徙鲁王兴为北海王，以鲁国益东海。
 赐东海王彊虎贲、旄头、钟虡之乐。
@@ -1096,13 +1047,10 @@ original:
 二十九年春二月丁巳朔，日有食之。
 遣使者举冤狱，出系囚。
 庚申，赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人五斛。
-夏四月乙丑，诏令天下系囚自殊死已下及徒各减本罪一等，其余赎罪输作各有差。
-三十年春正月，鲜卑大人内属，朝贺。
-二月，东巡狩。甲子，幸鲁，进幸济南。
-闰月癸丑，车驾还宫。
-有星孛于紫宫。
-夏四月戊子，徙左翊王焉为中山王。
 translation: 
+He also changed the rank of Grand Sima to Taiwei, and General Hussar acted as Grand Sima. Liu Long was dismissed from his post on that day, and his servant Zhao Xian was appointed as Taiwei, and the Grand Secretary Nong Feng Qin was appointed as Situ.
+The tribes led by barbarians outside Yizhou County belong to it.
+The Northern Huns sent envoys to Wuwei to request peace.
 In winter, King Liu Xing of Lu and King Liu Shi of Qi entered the fiefdom.
 On the first month of the spring of the twenty-eighth year, Liu Xing, the king of Lu, was transferred to the throne of Beihai, and the land of Lu was added to the East China Sea.
 Reward Liu Qiang, King of the East China Sea, with the joy of tigers, heads, and bells.
@@ -1113,18 +1061,18 @@ The Northern Huns sent envoys to pay tribute and beg for peace.
 In the spring and February of the 29th year, there was a solar eclipse.
 Emperor Guangwu sent people to redress the injustice and release the prisoners.
 Geng Shen rewarded all the men in the world with a second-level title; those who were widowed, widowed, orphaned, alone, terminally ill, or too poor to survive were given five dendrobiums of millet.
-On the tenth day of the fourth lunar month in the summer, an order was issued for all prisoners in the country to have their sentences below beheading reduced by one level for their original crime, and for the remaining atonements, they were ordered to do hard labor in varying degrees.
-In the first month of the spring of the 30th year, Xianbei Qushuai returned to the mainland and paid tribute.
-In February, Emperor Guangwu inspected the east. On the 13th, he arrived in Lu and marched to Jinan.
-On the leap month of Guichou, Emperor Guangwu returned to Luoyang.
-A comet appears in the Purple Palace.
-On the ninth day of the fourth lunar month in the summer, Liu Yan, king of Zuoyi, was appointed king of Zhongshan.
 
 summary:
 summary line 22: In the twenty-eighth year, Liu Xing was transferred to Beihai. Queen Mother Pei Guo died. Princes entered their fiefdoms. Prisoners were summoned for punishment. The Northern Xiongnu paid tribute.
 
-Chunk 20: 
+Chunk 21: 
 original: 
+夏四月乙丑，诏令天下系囚自殊死已下及徒各减本罪一等，其余赎罪输作各有差。
+三十年春正月，鲜卑大人内属，朝贺。
+二月，东巡狩。甲子，幸鲁，进幸济南。
+闰月癸丑，车驾还宫。
+有星孛于紫宫。
+夏四月戊子，徙左翊王焉为中山王。
 五月，大水。
 赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人五斛。
 秋七月丁酉。幸鲁国。
@@ -1136,16 +1084,13 @@ original:
 是夏，蝗。
 秋九月甲辰，诏令死罪系囚皆一切募下蚕室，其女子宫。
 是岁，陈留雨谷，形如稗实。
-北匈奴遣使奉献。
-中元元年春正月，东海王彊、沛王辅、楚王英、济南王康、淮阳王延、赵王盱皆来朝。
-丁卯，东巡狩。
-二月己卯，幸鲁，进幸太山。
-北海王兴、齐王石朝于东岳。
-辛卯，柴望岱宗，登封太山；甲午，禅于梁父。
-三月戊辰，司空张纯薨。
-夏四月癸酉，车驾还宫。
-己卯，大赦天下。
 translation: 
+On the tenth day of the fourth lunar month in the summer, an order was issued for all prisoners in the country to have their sentences below beheading reduced by one level for their original crime, and for the remaining atonements, they were ordered to do hard labor in varying degrees.
+In the first month of the spring of the 30th year, Xianbei Qushuai returned to the mainland and paid tribute.
+In February, Emperor Guangwu inspected the east. On the 13th, he arrived in Lu and marched to Jinan.
+On the leap month of Guichou, Emperor Guangwu returned to Luoyang.
+A comet appears in the Purple Palace.
+On the ninth day of the fourth lunar month in the summer, Liu Yan, king of Zuoyi, was appointed king of Zhongshan.
 In May, the water rose.
 The men in the world will be rewarded with a second-level title; those who are widowed, widowed, lonely, alone, terminally ill, or too poor to survive will be given five dendrobiums of millet.
 In the seventh month of Autumn and Dingyou, Emperor Guangwu came to the State of Lu.
@@ -1157,99 +1102,103 @@ On the 30th, it is dark, and a solar eclipse occurs.
 This summer, there was a locust plague.
 On the third day of the ninth lunar month in autumn, the imperial edict ordered that all prisoners sentenced to death were summoned to the jam room to be tortured by corruption, and women were tortured by castration.
 This year, millet fell from the sky in Chenliu, shaped like tares.
-The Northern Huns sent envoys to pay tribute.
-In the first month of spring in the first year of the Zhongyuan Dynasty, King Liu Qiang of East China Sea, King Liu Fu of Pei, King Liu Ying of Chu, King Liu Kang of Jinan, King Liu Yan of Huaiyang, and King Liu Xu of Zhao all came to Beijing to pay homage.
-On the 28th, Emperor Guangwu made an eastward inspection tour.
-On the tenth day of the second lunar month, Emperor Guangwu arrived in Lu and marched to Mount Tai.
-Liu Xing, the king of Beihai, and Liu You, the king of Qi, paid homage to the emperor in Dongyue.
-On the 22nd, they burned firewood to worship Daizong and climbed Mount Tai to worship heaven. On the 25th, they worshiped earth at Mount Liangfu.
-On March 30, Sikong Zhang Chun passed away.
-On the fifth day of April in the summer, Emperor Guangwu returned to Luoyang.
-On the eleventh day, a general amnesty was given to the whole world.
 
 summary:
 summary line 23: In the twenty-ninth year, a solar eclipse occurred. Prisoners were released. Rewards were given.
 
-Chunk 19: 
+Chunk 21: 
 original: 
-冬，鲁王兴、齐王石始就国。
-二十八年春正月己巳，徙鲁王兴为北海王，以鲁国益东海。
-赐东海王彊虎贲、旄头、钟虡之乐。
-夏六月丁卯，沛太后郭氏薨，因诏郡县捕王侯宾客，坐死者数千人。
-秋八月戊寅，东海王彊、沛王辅、楚王英、济南王康、淮阳王延始就国。
-冬十月癸酉，诏死罪系囚皆一切募下蚕室，其女子宫。
-北匈奴遣使贡献，乞和亲。
-二十九年春二月丁巳朔，日有食之。
-遣使者举冤狱，出系囚。
-庚申，赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人五斛。
 夏四月乙丑，诏令天下系囚自殊死已下及徒各减本罪一等，其余赎罪输作各有差。
 三十年春正月，鲜卑大人内属，朝贺。
 二月，东巡狩。甲子，幸鲁，进幸济南。
 闰月癸丑，车驾还宫。
 有星孛于紫宫。
 夏四月戊子，徙左翊王焉为中山王。
+五月，大水。
+赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人五斛。
+秋七月丁酉。幸鲁国。
+复济阳县是年徭役。
+冬十一月丁酉，至自鲁。
+三十一年夏五月，大水。
+戊辰，赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人六斛。
+癸酉晦，日有食之。
+是夏，蝗。
+秋九月甲辰，诏令死罪系囚皆一切募下蚕室，其女子宫。
+是岁，陈留雨谷，形如稗实。
 translation: 
-In winter, King Liu Xing of Lu and King Liu Shi of Qi entered the fiefdom.
-On the first month of the spring of the twenty-eighth year, Liu Xing, the king of Lu, was transferred to the throne of Beihai, and the land of Lu was added to the East China Sea.
-Reward Liu Qiang, King of the East China Sea, with the joy of tigers, heads, and bells.
-On the seventh day of the sixth lunar month in Xia, Queen Mother Pei Guo passed away. Gengshi's son Liu Li used the help of Peixian King Liu Fu to kill Liu Penzi's brother Liu Gong. Emperor Guangwu ordered the counties to capture the princes' guests, resulting in thousands of deaths.
-On August 19 in autumn, King Liu Qiang of Donghai, King Liu Fu of Pei, King Liu Ying of Chu, King Liu Kang of Jinan, and King Liu Yan of Huaiyang began to enter the fiefdom.
-On the 15th day of the tenth month in winter, all prisoners sentenced to death were ordered to be summoned to the silkworm room to be tortured by rotting, and women were tortured by castration.
-The Northern Huns sent envoys to pay tribute and beg for peace.
-In the spring and February of the 29th year, there was a solar eclipse.
-Emperor Guangwu sent people to redress the injustice and release the prisoners.
-Geng Shen rewarded all the men in the world with a second-level title; those who were widowed, widowed, orphaned, alone, terminally ill, or too poor to survive were given five dendrobiums of millet.
 On the tenth day of the fourth lunar month in the summer, an order was issued for all prisoners in the country to have their sentences below beheading reduced by one level for their original crime, and for the remaining atonements, they were ordered to do hard labor in varying degrees.
 In the first month of the spring of the 30th year, Xianbei Qushuai returned to the mainland and paid tribute.
 In February, Emperor Guangwu inspected the east. On the 13th, he arrived in Lu and marched to Jinan.
 On the leap month of Guichou, Emperor Guangwu returned to Luoyang.
 A comet appears in the Purple Palace.
 On the ninth day of the fourth lunar month in the summer, Liu Yan, king of Zuoyi, was appointed king of Zhongshan.
+In May, the water rose.
+The men in the world will be rewarded with a second-level title; those who are widowed, widowed, lonely, alone, terminally ill, or too poor to survive will be given five dendrobiums of millet.
+In the seventh month of Autumn and Dingyou, Emperor Guangwu came to the State of Lu.
+Jiyang County is exempted from corvee this year.
+In the eleventh month of winter, I returned to Luoyang from Lu.
+In the summer of the 31st May, the water rose.
+On the 25th, all men in the world will be rewarded with a second-level title; those who are widowed, widowed, orphaned, alone, terminally ill, or too poor to survive will be given six bushels of grain.
+On the 30th, it is dark, and a solar eclipse occurs.
+This summer, there was a locust plague.
+On the third day of the ninth lunar month in autumn, the imperial edict ordered that all prisoners sentenced to death were summoned to the jam room to be tortured by corruption, and women were tortured by castration.
+This year, millet fell from the sky in Chenliu, shaped like tares.
 
 summary:
 summary line 24: In the thirtieth year, Xianbei paid tribute. Emperor Guangwu inspected the east. A comet appeared. Liu Yan became king of Zhongshan. Floods occurred. Rewards were given.
 
-Chunk 19: 
+Chunk 21: 
 original: 
-冬，鲁王兴、齐王石始就国。
-二十八年春正月己巳，徙鲁王兴为北海王，以鲁国益东海。
-赐东海王彊虎贲、旄头、钟虡之乐。
-夏六月丁卯，沛太后郭氏薨，因诏郡县捕王侯宾客，坐死者数千人。
-秋八月戊寅，东海王彊、沛王辅、楚王英、济南王康、淮阳王延始就国。
-冬十月癸酉，诏死罪系囚皆一切募下蚕室，其女子宫。
-北匈奴遣使贡献，乞和亲。
-二十九年春二月丁巳朔，日有食之。
-遣使者举冤狱，出系囚。
-庚申，赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人五斛。
 夏四月乙丑，诏令天下系囚自殊死已下及徒各减本罪一等，其余赎罪输作各有差。
 三十年春正月，鲜卑大人内属，朝贺。
 二月，东巡狩。甲子，幸鲁，进幸济南。
 闰月癸丑，车驾还宫。
 有星孛于紫宫。
 夏四月戊子，徙左翊王焉为中山王。
+五月，大水。
+赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人五斛。
+秋七月丁酉。幸鲁国。
+复济阳县是年徭役。
+冬十一月丁酉，至自鲁。
+三十一年夏五月，大水。
+戊辰，赐天下男子爵，人二级；鳏、寡、孤、独、笃癃、贫不能自存者粟，人六斛。
+癸酉晦，日有食之。
+是夏，蝗。
+秋九月甲辰，诏令死罪系囚皆一切募下蚕室，其女子宫。
+是岁，陈留雨谷，形如稗实。
 translation: 
-In winter, King Liu Xing of Lu and King Liu Shi of Qi entered the fiefdom.
-On the first month of the spring of the twenty-eighth year, Liu Xing, the king of Lu, was transferred to the throne of Beihai, and the land of Lu was added to the East China Sea.
-Reward Liu Qiang, King of the East China Sea, with the joy of tigers, heads, and bells.
-On the seventh day of the sixth lunar month in Xia, Queen Mother Pei Guo passed away. Gengshi's son Liu Li used the help of Peixian King Liu Fu to kill Liu Penzi's brother Liu Gong. Emperor Guangwu ordered the counties to capture the princes' guests, resulting in thousands of deaths.
-On August 19 in autumn, King Liu Qiang of Donghai, King Liu Fu of Pei, King Liu Ying of Chu, King Liu Kang of Jinan, and King Liu Yan of Huaiyang began to enter the fiefdom.
-On the 15th day of the tenth month in winter, all prisoners sentenced to death were ordered to be summoned to the silkworm room to be tortured by rotting, and women were tortured by castration.
-The Northern Huns sent envoys to pay tribute and beg for peace.
-In the spring and February of the 29th year, there was a solar eclipse.
-Emperor Guangwu sent people to redress the injustice and release the prisoners.
-Geng Shen rewarded all the men in the world with a second-level title; those who were widowed, widowed, orphaned, alone, terminally ill, or too poor to survive were given five dendrobiums of millet.
 On the tenth day of the fourth lunar month in the summer, an order was issued for all prisoners in the country to have their sentences below beheading reduced by one level for their original crime, and for the remaining atonements, they were ordered to do hard labor in varying degrees.
 In the first month of the spring of the 30th year, Xianbei Qushuai returned to the mainland and paid tribute.
 In February, Emperor Guangwu inspected the east. On the 13th, he arrived in Lu and marched to Jinan.
 On the leap month of Guichou, Emperor Guangwu returned to Luoyang.
 A comet appears in the Purple Palace.
 On the ninth day of the fourth lunar month in the summer, Liu Yan, king of Zuoyi, was appointed king of Zhongshan.
+In May, the water rose.
+The men in the world will be rewarded with a second-level title; those who are widowed, widowed, lonely, alone, terminally ill, or too poor to survive will be given five dendrobiums of millet.
+In the seventh month of Autumn and Dingyou, Emperor Guangwu came to the State of Lu.
+Jiyang County is exempted from corvee this year.
+In the eleventh month of winter, I returned to Luoyang from Lu.
+In the summer of the 31st May, the water rose.
+On the 25th, all men in the world will be rewarded with a second-level title; those who are widowed, widowed, orphaned, alone, terminally ill, or too poor to survive will be given six bushels of grain.
+On the 30th, it is dark, and a solar eclipse occurs.
+This summer, there was a locust plague.
+On the third day of the ninth lunar month in autumn, the imperial edict ordered that all prisoners sentenced to death were summoned to the jam room to be tortured by corruption, and women were tortured by castration.
+This year, millet fell from the sky in Chenliu, shaped like tares.
 
 summary:
 summary line 25: In the thirty-first year, floods and locusts occurred. Prisoners were summoned for punishment. The Northern Xiongnu paid tribute.
 
-Chunk 21: 
+Chunk 22: 
 original: 
+北匈奴遣使奉献。
+中元元年春正月，东海王彊、沛王辅、楚王英、济南王康、淮阳王延、赵王盱皆来朝。
+丁卯，东巡狩。
+二月己卯，幸鲁，进幸太山。
+北海王兴、齐王石朝于东岳。
+辛卯，柴望岱宗，登封太山；甲午，禅于梁父。
+三月戊辰，司空张纯薨。
+夏四月癸酉，车驾还宫。
+己卯，大赦天下。
 复嬴、博、梁父、奉高，勿出今年田租刍稿。改年为中元。
 行幸长安。
 戊子，祀长陵。
@@ -1261,15 +1210,16 @@ original:
 郡国频上甘露。
 群臣奏言： 地祇灵应而朱草萌生。
 孝宣帝每有嘉瑞，辄以改元、神爵、五凤、甘露、黄龙，列为年纪，盖以感致神祇，表彰德信。
-是以化致升平，称为中兴。
-今天下清宁，灵物仍降。
-陛下情存损挹，推而不居，岂可使祥符显庆，没而无闻？
-宜令太史撰集，以传来世。 帝不纳。
-常自谦无德，每郡国所上，辄抑而不当，故史官罕得记焉。
-秋，郡国三蝗。
-冬十月辛未，司隶校尉东莱李为司徒。
-甲申，使司空告祠高庙曰： 高皇帝与群臣约，非刘氏不王。
 translation: 
+The Northern Huns sent envoys to pay tribute.
+In the first month of spring in the first year of the Zhongyuan Dynasty, King Liu Qiang of East China Sea, King Liu Fu of Pei, King Liu Ying of Chu, King Liu Kang of Jinan, King Liu Yan of Huaiyang, and King Liu Xu of Zhao all came to Beijing to pay homage.
+On the 28th, Emperor Guangwu made an eastward inspection tour.
+On the tenth day of the second lunar month, Emperor Guangwu arrived in Lu and marched to Mount Tai.
+Liu Xing, the king of Beihai, and Liu You, the king of Qi, paid homage to the emperor in Dongyue.
+On the 22nd, they burned firewood to worship Daizong and climbed Mount Tai to worship heaven. On the 25th, they worshiped earth at Mount Liangfu.
+On March 30, Sikong Zhang Chun passed away.
+On the fifth day of April in the summer, Emperor Guangwu returned to Luoyang.
+On the eleventh day, a general amnesty was given to the whole world.
 Ying, Bo, Liang Fu, and Feng Gao are exempted from renting firewood for this year. The year name was changed to Zhongyuan.
 Emperor Guangwu arrived in Chang'an.
 On the 20th, sacrifices were made to Changling.
@@ -1281,14 +1231,6 @@ There are also red grass growing on the cliffs beside the water.
 The county has reported timely rain many times.
 The ministers reported that the earth god had a spirit and the red grass sprouted.
 Whenever an auspicious phenomenon appeared, Emperor Xiaoxuan would change the era according to the auspiciousness. Shenjue, Five Phoenixes, Manna, and Huanglong were listed as the year names. He probably used them to thank the gods and commend his virtue and integrity.
-That’s why education spreads and the world becomes peaceful. It's called ZTE.
-Now the world is at peace, and spiritual things are descending one after another.
-The emperor's humble concession and rejection could drown out the auspiciousness of the auspicious talisman.
-Taishi should be ordered to write and collect it so that it can be passed down to future generations. Emperor Guangwu did not accept it.
-He was always self-effacing and immoral, and every time he reported good luck to the county, he suppressed it and did not publicize it, so historians rarely recorded it.
-In autumn, there were three locust plagues in the county.
-On the sixth day of the tenth lunar month in winter, Li Yunjin, a native of Donglai, was appointed as Situ.
-On the 19th, he sent Sikong to offer sacrifices to Gaomiao and said: Emperor Gao has made an appointment with his ministers, and no one other than a descendant of the Liu family can be king.
 
 summary:
 summary line 26: In the first year of Zhongyuan, princes paid homage. Emperor Guangwu performed sacrifices on Mount Tai. A general amnesty was declared. Sweet spring water and red grass appeared. Emperor Guangwu rejected auspicious omens. Locusts struck. Sikong Zhang Chun died. Feng Li became Sikong. Situ Fengqin died. Emperor Guangwu died at age sixty-two. An edict ordered frugal burial. Historians noted auspicious signs at his birth and throughout his reign.

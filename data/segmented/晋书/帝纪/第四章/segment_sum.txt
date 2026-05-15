@@ -1,0 +1,220 @@
+Summary uses chunk [0, 0, 2, 5, 13, 24]
+
+Chunk 0: 
+original: 
+孝惠皇帝讳衷，字正度，武帝第二子也。
+泰始三年，立为皇太子，时年九岁。
+太熙元年四月己酉，武帝崩。是日，皇太子即皇帝位，大赦，改元为永熙。尊皇后杨氏曰皇太后，立妃贾氏为皇后。
+夏五月辛未，葬武皇帝于峻阳陵。
+丙子。增天下位一等，预丧事者二等，复租调一年，二千石已上皆封关中侯。
+以太尉杨骏为太傅，辅政。
+秋八月壬午，立广陵王遹为皇太子，以中书监何劭为太子太师，吏部尚书王戎为太子太傅，卫将军杨济为太子太保。
+赖祖宗遗灵，宰辅忠贤，得以眇身托于群后之上，昧于大道，不明于训，战战兢兢，夕惕若厉。乃者哀迷之际，三事股肱，惟社稷之重，率遵翼室之典，犹欲长奉先皇之制，是以有永熙之号。然日月逾迈，已涉新年，开元易纪，礼之旧章。
+其改永熙二年为永平元年。
+又诏子弟及郡官并不得谒陵。
+丙午，皇太子冠，丁未，见于太庙。
+二月甲寅，赐王公已下帛各有差。
+translation: 
+Emperor Hui Ji, Emperor Xiaohui's name is Zhong, and his courtesy name is Zhengdu. He is the second son of Emperor Wu.
+In the third year of Taishi's reign, he was established as the crown prince. He was nine years old at the time.
+On April 20, the first year of Taixi, Emperor Wu died. On that day, the crown prince ascended the throne as emperor. He granted a general amnesty to sinners, changed the reign name to Yongxi, honored the empress Yang as the empress dowager, and established the crown prince Jia as the empress.
+On the 13th day of the fifth lunar month, Emperor Wu was buried in Junyang Mausoleum.
+On the 18th, the official rank in the world was increased to one level, and those who participated in the funeral of Emperor Wu were increased to the second level. People were exempted from taxes for one year, and officials with more than 2,000 shi were granted the title of Guanzhong Marquis.
+Taiwei Yang Jun was appointed as Taifu to assist in government affairs.
+On the twenty-sixth day of the eighth month in autumn, Sima Wei, the king of Guangling, was established as the crown prince, He Shao, the eunuch of the Zhongshu, as the crown prince's chief tutor, Wang Rong, the official secretary of the Ministry of Personnel, as the crown prince's Taifu, and General Yang Ji of the Wei as the crown prince's Taibao.
+Nan Zhonglang General Shi Chong, Shesheng Colonel Hu Yi, Changshui Colonel Zhao Jun, and Yang Lie General Zhao Huan were sent to lead their troops to garrison in all directions. On the sixth day of the tenth lunar month in winter, Sikong Shijian was appointed as Taiwei, and Sima Tai, the former general of Zhenxi and King of Longxi, was appointed as Sikong. On the first day of spring in the first year of Yongping, Emperor Hui came to the court to celebrate, but there was no music. The edict said: I have suffered misfortune early on and have endured hardships for a long time. It is only because of the spirit of my ancestors and the loyalty and virtuousness of my ministers and ministers that I am able to entrust my small body to the princes and ministers. I don't know the great road and ancient precepts, so I am trembling with fear, day and night. The three ministers attached great importance to the country, abided by the old regulations in the palace, and always followed the system of the previous emperor, so they changed the reign name to Yongxi. However, as time passed, the new year has entered, and the new era has changed, but the old rituals are still the same.
+The second year of Yongxi is now changed to the first year of Yongping.
+He also issued an edict that his children and officials were not allowed to visit the mausoleum.
+On the 22nd, the crown prince came of age and was crowned. On the 23rd, he went to the Ancestral Temple to pay his respects.
+On the first day of the second lunar month, the following silks were given to the prince.
+
+summary:
+summary line 0: Emperor Hui Ji, named Zhong and styled Zhengdu, was the second son of Emperor Wu. He was made crown prince at age nine in the third year of Taishi and ascended the throne on April 20, the first year of Taixi, upon Emperor Wu's death. He granted amnesty, changed the reign name to Yongxi, honored Empress Yang as empress dowager, and established Crown Prince Jia as empress. Emperor Wu was buried in Junyang Mausoleum on May 13. Officials and participants in the funeral received rank promotions, taxes were exempted for a year, and high-ranking officials were granted titles. Taiwei Yang Jun was appointed Taifu to assist in governance.
+
+Chunk 0: 
+original: 
+孝惠皇帝讳衷，字正度，武帝第二子也。
+泰始三年，立为皇太子，时年九岁。
+太熙元年四月己酉，武帝崩。是日，皇太子即皇帝位，大赦，改元为永熙。尊皇后杨氏曰皇太后，立妃贾氏为皇后。
+夏五月辛未，葬武皇帝于峻阳陵。
+丙子。增天下位一等，预丧事者二等，复租调一年，二千石已上皆封关中侯。
+以太尉杨骏为太傅，辅政。
+秋八月壬午，立广陵王遹为皇太子，以中书监何劭为太子太师，吏部尚书王戎为太子太傅，卫将军杨济为太子太保。
+赖祖宗遗灵，宰辅忠贤，得以眇身托于群后之上，昧于大道，不明于训，战战兢兢，夕惕若厉。乃者哀迷之际，三事股肱，惟社稷之重，率遵翼室之典，犹欲长奉先皇之制，是以有永熙之号。然日月逾迈，已涉新年，开元易纪，礼之旧章。
+其改永熙二年为永平元年。
+又诏子弟及郡官并不得谒陵。
+丙午，皇太子冠，丁未，见于太庙。
+二月甲寅，赐王公已下帛各有差。
+translation: 
+Emperor Hui Ji, Emperor Xiaohui's name is Zhong, and his courtesy name is Zhengdu. He is the second son of Emperor Wu.
+In the third year of Taishi's reign, he was established as the crown prince. He was nine years old at the time.
+On April 20, the first year of Taixi, Emperor Wu died. On that day, the crown prince ascended the throne as emperor. He granted a general amnesty to sinners, changed the reign name to Yongxi, honored the empress Yang as the empress dowager, and established the crown prince Jia as the empress.
+On the 13th day of the fifth lunar month, Emperor Wu was buried in Junyang Mausoleum.
+On the 18th, the official rank in the world was increased to one level, and those who participated in the funeral of Emperor Wu were increased to the second level. People were exempted from taxes for one year, and officials with more than 2,000 shi were granted the title of Guanzhong Marquis.
+Taiwei Yang Jun was appointed as Taifu to assist in government affairs.
+On the twenty-sixth day of the eighth month in autumn, Sima Wei, the king of Guangling, was established as the crown prince, He Shao, the eunuch of the Zhongshu, as the crown prince's chief tutor, Wang Rong, the official secretary of the Ministry of Personnel, as the crown prince's Taifu, and General Yang Ji of the Wei as the crown prince's Taibao.
+Nan Zhonglang General Shi Chong, Shesheng Colonel Hu Yi, Changshui Colonel Zhao Jun, and Yang Lie General Zhao Huan were sent to lead their troops to garrison in all directions. On the sixth day of the tenth lunar month in winter, Sikong Shijian was appointed as Taiwei, and Sima Tai, the former general of Zhenxi and King of Longxi, was appointed as Sikong. On the first day of spring in the first year of Yongping, Emperor Hui came to the court to celebrate, but there was no music. The edict said: I have suffered misfortune early on and have endured hardships for a long time. It is only because of the spirit of my ancestors and the loyalty and virtuousness of my ministers and ministers that I am able to entrust my small body to the princes and ministers. I don't know the great road and ancient precepts, so I am trembling with fear, day and night. The three ministers attached great importance to the country, abided by the old regulations in the palace, and always followed the system of the previous emperor, so they changed the reign name to Yongxi. However, as time passed, the new year has entered, and the new era has changed, but the old rituals are still the same.
+The second year of Yongxi is now changed to the first year of Yongping.
+He also issued an edict that his children and officials were not allowed to visit the mausoleum.
+On the 22nd, the crown prince came of age and was crowned. On the 23rd, he went to the Ancestral Temple to pay his respects.
+On the first day of the second lunar month, the following silks were given to the prince.
+
+summary:
+summary line 1: In the eighth month, Sima Wei, King of Guangling, was made crown prince, with He Shao, Wang Rong, and Yang Ji as his tutors. Generals were sent to garrison various regions. In winter, Sikong Shijian became Taiwei, and Sima Tai, King of Longxi, became Sikong. In the first year of Yongping, Emperor Hui issued an edict expressing his humility and fear, changing the reign name from Yongxi to Yongping. He forbade officials from visiting the mausoleum, and the crown prince came of age and was crowned. In the second month, silks were given to the prince, and Sima Wei and Sima Yun visited. In the third month, Grand Tutor Yang Jun and others were killed, and their clans were exterminated. Empress Jia deposed the empress dowager and killed her mother. Sima Liang, King of Runan, was made Dazai to assist in government, and other nobles received appointments. Over a thousand people were ennobled, but Sima Yao and Sima Mao were later dismissed.
+
+Chunk 2: 
+original: 
+夏四月癸亥，以征东将军、梁王肜为征西大将军、都督关西诸军事，太子少傅阮垣为平东将军、监青徐二州诸军事。
+己巳，以太子太傅王戎为尚书右仆射。
+五月甲戌，毗陵王轨薨。
+壬午，除天下户调绵绢，赐孝悌、高年、鳏寡、力田者帛，人三匹。
+六月，贾后矫诏使楚王玮杀太宰、汝南王亮，太保、菑阳公卫瓘。
+乙丑，以玮擅害亮、瓘，杀之。
+曲赦洛阳。
+以广陵王师刘寔为太子太保，司空、陇西王泰录尚书事。
+秋七月，分扬州、荆州十郡为江州。
+八月庚申，以赵王伦为征东将军、都督徐兗二州诸军事；河间王颙为北中郎将，镇鄴；太子太师何劭为都督豫州诸军事，镇许昌。
+徙长沙王乂为常山王。
+己巳，进西阳公羕爵为王。
+辛未，立陇西世子越为东海王。
+九月甲午，大将军、秦王柬薨。
+辛丑，徵征西大将军、梁王肜为卫将军、录尚书事，以赵王伦为征西大将军、都督雍梁二州诸军事。
+translation: 
+On the 11th day of the fourth lunar month in the summer, Sima Xu, the king of Liang and the general of Zhengdong, was appointed as the general of Zhengxi and the commander-in-chief of all the military forces in Guanxi. The prince Shaofu Ruan Tan was appointed as the general of Pingdong and the governor of Qing and Xuzhou.
+On the 17th, Prince Taifu Wang Rong was appointed as the right servant of Shangshu.
+On the day of Jiaxu in the fifth month, Sima Gui, the king of Piling, died.
+On Renwu, all people in the world were exempted from taxes and silk. Those who were filial, elderly, widowed, and those who worked hard in the fields were given three pieces of silk each.
+In the sixth month, Empress Jia used the emperor's edict to send King Sima Wei of Chu to kill Dazai, King Sima Liang of Runan, and Taibao Sima Wei.
+On the 13th, Sima Wei was executed for killing Sima Liang and Wei Ni without permission.
+Amnesty for prisoners in Luoyang.
+Liu Shi, the teacher of King Guangling, was appointed as the Taibao of the Crown Prince, and Sikong and King Sima Tai of Longxi were appointed ministers.
+In the seventh month of autumn, ten counties were divided from Jingzhou and Yangzhou into Jiangzhou.
+On the ninth day of August, Sima Lun, king of Zhao, was appointed as the general to conquer the east and the military commander of Xu and Yanzhou; Sima Yong, king of Hejian, was the general of Beizhonglang, guarding Yecheng; He Shao, the prince's grand master, was the commander of the military of Yuzhou and guarded Xuchang.
+King Sima Kui moved to Changsha and became the King of Changshan.
+On the 18th, Ma Fan of Xiyang Company was promoted to king.
+On the 20th, Sima Yue, the eldest son of Longxi King Sima Tai, was made King of East China Sea.
+On September 14th, the general Qin Wang Sima Jian died.
+On the 21st, Sima Xu, the general of the expedition to the west and the king of Liang, was recruited as the general of the guard and the official secretary. Sima Lun, the king of Zhao, was recruited as the general of the expedition to the west and the governor of Yong and Liang states.
+
+summary:
+summary line 2: In the fourth month, Sima Xu, King of Liang, was appointed general, and Ruan Tan became governor. In the fifth month, Sima Gui, King of Piling, died, and taxes were exempted for the elderly and widowed. In the sixth month, Empress Jia ordered Sima Wei to kill Sima Liang and Sima Wei, then executed Sima Wei for unauthorized killings. In the seventh month, ten counties were divided into Jiangzhou. In the eighth month, Sima Lun, King of Zhao, and Sima Yong, King of Hejian, received military commands. Sima Kui moved to Changshan, and Ma Fan and Sima Yue were made kings. In the ninth month, Sima Jian, King of Qin, died. In the twelfth month, an earthquake struck the capital. That year, seventeen Dongyi countries and twenty-four Nanyi tribes made contact.
+
+Chunk 5: 
+original: 
+五月，荆、扬二州大水。
+匈奴郝散弟度元帅冯翊、北地马兰羌、庐水胡反，攻北地，太守张损死之。
+冯翊太守欧阳建与度元战，建败绩。
+徵征西大将军、赵王伦为车骑将军，以太子太保、梁王肜为征西大将军、都督雍梁二州诸军事，镇关中。
+秋八月，雍州刺史解系又为度元所破。
+秦雍氐、羌悉叛，推氐帅齐万年僭号称帝，围泾阳。
+冬十月乙未，曲赦雍、凉二州。
+十一月丙子，遣安西将军夏侯俊、建威将军周处等讨万年，梁王肜屯好畤。
+关中饥，大疫。
+七年春正月癸丑，周处及齐万年战于六陌，王师败绩，处死之。
+夏五月，鲁国雨雹。
+秋七月，雍、梁州疫。
+大旱，陨霜，杀秋稼。
+关中饥，米斛万钱。诏骨肉相卖者不禁。
+丁丑，司徒、京陵公王浑薨。
+九月，以尚书右仆射王戎为司徒，太子太师何劭为尚书左仆射。
+translation: 
+In May, there were floods in Jingzhou and Yangzhou.
+Duyuan, the brother of Hao San, the Xiongnu, led Feng Yi, Malanqiang and Lushui Hu people in the Beidi area to rebel and attack the Beidi. The governor of the Beidi died in the battle.
+Ouyang Jian, the governor of Feng Yi, fought with Du Yuan, and Ouyang Jian was defeated.
+He summoned the General of the West and Zhao Wang Sima Lun as the Chariot and Cavalry General, and the Prince Taibao and the Liang King Sima Xu as the General of the West. They commanded the military forces of Yong and Liang Provinces to guard Guanzhong.
+In the eighth month of autumn, Yongzhou governor Jie Xi was defeated by Du Yuan again.
+The Di and Qiang people in Qin Yong's area rebelled, elected Qi Wannian, the leader of the Di people, proclaimed himself emperor, and besieged Jingyang.
+On the fourteenth day of the tenth month in winter, Yong and Liang prefectures were granted amnesty.
+On November 26, General Xia Houjun of Anxi, General Zhou Chu of Jianwei and others were sent to attack Qi Wannian. King Sima Xu of Liang garrisoned the territory.
+Famine and plague occurred in Guanzhong.
+On the fourth day of the first lunar month in the seventh year of spring, Zhou Chu and Qi Wannian fought at Liumo. The Jin army was defeated and Zhou Chu died in the battle.
+In the fifth month of summer, there was hail in the state of Lu.
+In the seventh month of autumn, plague broke out in Yongzhou and Liangzhou.
+Severe drought and frost destroy autumn crops.
+There was a famine in Guanzhong, and the price of dendrobium was 10,000 yuan per hoe. The emperor issued an edict, allowing the selling of sons and daughters.
+Ding Chou, Prince Qingsheng of Jingling.
+In the ninth month, Wang Rong, the right servant of Shangshu, was appointed as Situ, and He Shao, the crown prince and grand master, was appointed as Shangshu's left servant.
+
+summary:
+summary line 3: In the second year, Empress Jia killed the empress dowager. In the eighth month, a general amnesty was declared. In the ninth month, Sima Dan, King of Zhongshan, died. In the eleventh month, a great plague occurred. Hail destroyed crops in Pei. In the third year, hail fell in Xingyang and Hongnong. In the fourth year, Shi Jian died, and natural disasters struck Shu and Shouchun. The Xiongnu Hao San rebelled but later surrendered and was killed. Earthquakes and landslides caused casualties and famine. In the fifth year, a comet appeared, and earthquakes, hail, and strong winds caused damage. A fire destroyed the arsenal. Floods struck several provinces, and the emperor sent censors to provide relief. In the sixth year, amnesty was declared, and officials died or were appointed. Earthquakes, frost, and blood on the ground occurred. Floods and rebellions by the Xiongnu and Di peoples led to battles and sieges. Famine and plague struck Guanzhong. In the seventh year, Zhou Chu died in battle, and hail, plague, drought, and famine continued. The emperor allowed the sale of children. In the eighth year, earthquakes and floods occurred, but Yongzhou had a good harvest. In the ninth year, Meng Guan captured Qi Wannian. Sima Xu and Sima Yong received commands. Zhang Chengji’s rebellion was suppressed. The crown prince Sima Wei was deposed and killed.
+
+Chunk 13: 
+original: 
+长沙王乂奉乘舆屯南止车门，攻冏，杀之，幽其诸子于金墉城，废冏弟北海王寔。
+大赦，改元。
+以长沙王乂为太尉、都督中外诸军事。
+封东莱王蕤子照为齐王。
+二年春正月甲子朔，赦五岁刑。
+三月，李特攻陷益州。
+荆州刺史宋岱击特，斩之，传首京师。
+夏四月，特子雄复据益州。
+五月，义阳蛮张昌举兵反，以山都人丘沈为主，改姓刘氏，伪号汉，建元神凤，攻破郡县，南阳太守刘彬，平南将军羊尹，镇南大将军、新野王歆并遇害。
+六月，遣荆州刺史刘弘等讨张昌于方城，王师败绩。
+秋七月，中书令卞粹、侍中冯荪、河南尹李含等贰于长沙王乂，乂疑而害之。
+张昌陷江南诸郡，武陵太守贾隆、零陵太守孔纮、豫章太守阎济、武昌太守刘根皆遇害。
+昌别帅石冰寇扬州，刺史陈徽与战，大败，诸郡尽没。
+临淮人封云举兵应之，自阜陵寇徐州。
+八月，河间王颙、成都王颖举兵讨长沙王乂，帝以乂为大都督，帅军御之。
+庚申，刘弘及张昌战于清水，斩之。
+颙遣其将张方，颍遣其将陆机、牵秀、石超等来逼京师。
+乙丑，帝幸十三里桥，遣将军皇甫商距方于宜阳。
+translation: 
+Changsha King Sima Zhou coerced the emperor to station troops in the south, attacked Sima Cheng and killed him. He imprisoned Sima Cheng's sons in Jinyong City and deposed Sima Cheng's brother Beihai King Sima Shi.
+A general amnesty was implemented and the reign name was changed.
+Sima Xi, the king of Changsha, was appointed as the Taiwei and the commander-in-chief of the Chinese and foreign military forces.
+Sima Huozhao, son of Sima Rui, King of Donglai, was granted the title of King of Qi.
+On the first day of the first lunar month of the second year, criminals under five years old will be pardoned.
+In March, Li Te captured Yizhou.
+Song Dai, the governor of Jingzhou, attacked Li Te. Li Te was killed and his head was sent to the capital.
+In April of summer, Li Xiong, son of Li Te, occupied Yizhou again.
+In May, Zhang Chang, a barbarian from Yiyang, rebelled. He promoted Qiu Shen, a native of Shandu, as the monarch. He changed his surname to Liu, his pseudonym Han, and his reign name Shenfeng. He conquered the prefectures and counties. Liu Bin, the prefect of Nanyang, Yang Yi, the general of Pingnan, and Sima Xin, the king of Xinye, the general of Zhennan, were all killed.
+In June, Liu Hong, the governor of Jingzhou, and others were sent to attack Zhang Chang and attack Fangcheng. The Jin army was defeated.
+In the seventh month of Autumn, Bian Cui of the Imperial Secretariat, Feng Sun, Henan Yin and Li Han had second thoughts about Sima Xi. Sima Xi also suspected them and killed them.
+Zhang Chang captured the counties south of the Yangtze River. Jia Long, the prefect of Wuling, Kong Hong, the prefect of Lingling, Yan Ji, the prefect of Yuzhang, and Liu Gen, the prefect of Wuchang, were all killed.
+Zhang Chang's general Shi Bing invaded Yangzhou, and the governor Chen Hui fought against him. He was defeated and all the counties in Yangzhou were occupied by Shi Bing.
+Fengyun, a native of Linhuai, raised his troops to respond to Zhang Chang and set out from Fuling to invade Xuzhou.
+In August, Sima Yong, the king of Hejian, and Sima Ying, the king of Chengdu, raised troops to attack Sima Xun, the king of Changsha. Emperor Hui made Sima Xun the commander-in-chief and led his troops to resist.
+On the 19th, Liu Hong and Zhang Chang fought in Qingshui, and Zhang Chang was killed.
+Sima Yong dispatched Zhang Fang, and Sima Ying dispatched Lu Ji, Qian Xiu, Shi Chao and others to attack the capital.
+On the 24th, Emperor Hui personally visited Shisanli Bridge and sent General Huangfu Shang to resist Zhang Fang in Yiyang.
+
+summary:
+summary line 4: In the first year of Yongkang, amnesty was declared, and the reign name changed. Solar eclipses, strong winds, and blood rain occurred. Empress Jia killed the deposed prince. Sima Lun and Sima Xu deposed Empress Jia, killed Zhang Hua and others, and Sima Lun became prime minister. Sima Xu became chief minister. Sima Lun killed the deposed empress. The emperor’s grandson Sima Zang was made heir. Sima Yun attacked Sima Lun but failed and was killed. Sima Lun usurped the throne in the first year of Yongning, moving Emperor Hui to Jinyong City. Sima Wei, King of Qi, raised troops against Sima Lun, joined by Sima Ying, Sima Yong, and others. Sima Lun’s forces were defeated, and Emperor Hui was restored. Sima Lun and his party were killed. Sima Wei became chief commander, and Sima Ying and Sima Yong received high offices. In the second year of Tai’an, Sima Xu died, and Li Te rebelled in Shu. Sima Yong and Sima Ying attacked Sima Xi, King of Changsha. Emperor Hui personally led troops but was defeated. Zhang Fang entered the capital, causing destruction and famine. Sima Yue arrested Sima Xi, who was killed. Li Xiong occupied Shu. In the first year of Yongxing, Sima Ying became crown prince, but was later deposed. Emperor Hui was kidnapped to Chang’an by Zhang Fang. Sima Yong controlled the government. In the second year, Sima Yue marched west to rescue the emperor. After battles, Emperor Hui returned to Luoyang. In the first year of Guangxi, Sima Yong killed Zhang Fang. Sima Yue’s forces escorted Emperor Hui back. Emperor Hui died in Xianyang Hall at age 48, possibly poisoned by Sima Yue.
+
+Chunk 24: 
+original: 
+尝悉召东宫官属，使以尚书事令太子决之，帝不能对。
+贾妃遣左右代对，多引古义。
+给事张泓曰： 太子不学，陛下所知，今宜以事断，不可引书。
+妃从之。
+泓乃具草，令帝书之。
+武帝览而大悦，太子遂安。
+及居大位，政出群下，纲纪大坏，货赂公行，势位之家，以贵陵物，忠贤路绝，谗邪得志，更相荐举，天下谓之互市焉。
+高平王沈作《释时论》，南阳鲁褒作《钱神论》，庐江杜嵩作《任子春秋》，皆疾时之作也。
+帝文尝在华林园，闻虾蟆声，谓左右曰： 此鸣者为官乎，私乎？
+或对曰： 在官地为官，在私地为私。
+及天下荒乱，百姓饿死，帝曰： 何不食肉糜？
+其蒙蔽皆此类也。
+后因食饼中毒而崩，或云司马越之鸩。
+史臣曰：不才之子，则天称大，权非帝出，政迩宵人。
+褒姒共叔带并兴，襄后与犬戎俱运。
+translation: 
+Once, the officials of the East Palace were gathered together and asked the prince to decide on the government affairs of the minister, but the prince could not answer.
+Concubine Jia sent her trusted aide to answer the question on the prince's behalf, quoting many scriptures.
+Zhang Hong said to Concubine Jia: Your Majesty knows that the prince does not like to study. Today, you should answer questions based on the facts and do not quote ancient books.
+Concubine Jia agreed with this opinion.
+So Zhang Hong was asked to draft an answer sheet and the prince copied it and submitted it.
+Emperor Wu was overjoyed after seeing it, and the prince's status was stabilized.
+After he came to the throne, all major affairs of the state were in the hands of ministers, discipline was corrupted, bribery was common, powerful families used their nobles to dominate others, the path of loyalty and virtue was cut off, those who slandered and evil succeeded, and those who succeeded were recommended to each other. People all over the world called it "mutual market".
+Wang Chen from Gaoping wrote "Shi Shi Lun", Lu Bao from Nanyang wrote "Qian Shen Lun", and Du Song from Lujiang wrote "Ren Zi Chun Qiu", all of which are cynical works.
+Emperor Hui once visited Hualin Garden and heard the croaking of frogs. He asked his attendants, "Are they croaking like this for official business or for private matters?"
+Someone answered: In public it is for business, in private it is private.
+Later, there was war and famine in the world, and many people starved to death. Emperor Hui said: They have no food, why don't they eat meat?
+Emperor Hui was confused and mostly like this.
+Emperor Hui died of poisoning from eating pancakes. Some people say it was Sima Yue who poisoned him.
+Shi Chen said: When an unworthy son ascends to the throne, the imperial power falls away, and those in power become close to villains.
+Bao Si and his uncle had the same fortune, and Empress Xiang and Quan Rong had the same fortune.
+
+summary:
+summary line 5: Emperor Hui was deemed unfit for rule, and his reign saw corruption and chaos. He once asked if frogs croaked for public or private reasons and suggested starving people eat meat. His death ended a tumultuous period marked by civil war and decline.
+

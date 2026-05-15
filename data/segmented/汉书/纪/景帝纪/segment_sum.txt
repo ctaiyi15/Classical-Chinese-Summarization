@@ -1,0 +1,129 @@
+Summary uses chunk [0, 3, 5]
+
+Chunk 0: 
+original: 
+孝景皇帝，文帝太子也。
+母曰窦皇后。
+后七年六月，文帝崩。
+丁未，太子即皇帝位，尊皇太后薄氏曰太皇太后，皇后曰皇太后。
+九月，有星孛于西方。
+元年冬十月，诏曰： 盖闻古者祖有功而宗有德，制礼乐各有由。
+歌者，所以发德也；舞者，所以明功也。
+高庙酎，奏《武德》、《文始》《五行》之舞。
+孝惠庙酎，奏《文始》、《五行》之舞。
+孝文皇帝临天下，通关梁，不异远方；除诽谤，去肉刑，赏赐长老，收恤孤独，以遂群生；减耆欲，不受献，罪人不帑，不诛亡罪，不私其利也；除宫刑，出美人，重绝人之世也。
+朕既不敏，弗能胜识。
+此皆上世之所不及，而孝文皇帝亲行之。
+translation: 
+Emperor Jing of Han was the prince of Emperor Wen of Han.
+His mother is Queen Dou.
+In June of the seventh year of the Second Yuan Dynasty, Emperor Wen died.
+On June 9, the prince succeeded to the throne and honored the empress dowager Bo as the empress dowager, and the empress dowager Dou as the empress dowager.
+In September, a comet appeared in the west.
+In the winter and tenth month of the first year of Emperor Jingdi's reign, the emperor issued an edict saying: I have often heard that in ancient times, the ancestors who conquered the world had merit, and the ancestors who governed the world had virtue, and rituals and music had their own origins.
+Singing is used to praise great virtues; dancing is used to express achievements.
+Offer sacrifices to Emperor Gaozu in the temple and perform the dances of "Wude", "Wen Shi" and "Five Elements".
+Offer sacrifices to Emperor Hui in the temple and perform the dances of "Wen Shi" and "Five Elements".
+Emperor Wen reigned over the world, and his government was harmonious, far and near; he eliminated the crime of slandering the emperor, stopped corporal punishment, rewarded the elderly and virtuous, comforted the lonely and helpless, and fulfilled the wishes of his subjects as much as possible; he controlled his hobbies and desires, did not accept donations, did not implicate the wife and children of sinners, did not let innocent people suffer injustice, was strict with himself, and enforced the law impartially; abolished palace punishment, and repatriated beauties in the palace to avoid having no heirs.
+I am stupid by nature, and I still don’t know all about my father’s merits.
+Only the above points were failed to be implemented by the ancient sage emperors and sage kings, but Emperor Wen implemented them all.
+
+summary:
+summary line 0: Emperor Jing of Han, son of Emperor Wen and Queen Dou, ascended the throne on June 9 after his father's death in the seventh year of the Second Yuan Dynasty. He honored Empress Dowager Bo and Empress Dowager Dou. In his first year, he issued an edict praising Emperor Wen's virtues—abolishing slander laws, corporal punishment, and palace punishment; rewarding the elderly; and repatriating palace women. He ordered the "Zhao De" dance for Emperor Wen's temple. Prime Minister Shen Tujia proposed establishing Emperor Gao's temple as Taizu and Emperor Wen's as Taizong, with perpetual ancestral worship, which Emperor Jing approved.
+
+Chunk 3: 
+original: 
+春三月，立皇子德为河间王，阏为临江王，馀为淮阳王，非为汝南王，彭祖为广川王，发为长沙王。
+夏四月壬午，太皇太后崩。
+六月，丞相嘉薨。
+封故相国萧何孙系为列侯。
+秋，与匈奴和亲。
+三年冬十二月，诏曰： 襄平侯嘉子恢说不孝，谋反，欲以杀嘉，大逆无道。
+其赦嘉为襄平侯，及妻子当坐者复故爵。论恢说及妻子如法。
+春正月，淮阳王宫正殿灾。
+吴王濞、胶西王卬、楚王戊、赵王遂、济南王辟光、菑川王贤、胶东王雄渠皆举兵反。
+大赦天下。
+遣太尉亚夫、大将军窦婴将兵击之。
+斩御史大夫晁错以谢七国。
+二月壬子晦，日有蚀之。
+诸将破七国，斩首十余万级。
+追斩吴王濞于丹徒。
+胶西王卬、楚王戊、赵王遂、济南王辟光、菑川王贤、胶东王雄渠皆自杀。
+夏六月，诏曰： 乃者吴王濞等为逆，起兵相胁，诖误吏民，吏民不得已。
+今濞等已灭，吏民当坐濞等及逋逃亡军者，皆赦之。
+楚元王子艺等与濞等为逆，朕不忍加法，除其籍，毋令污宗室。
+立平陆侯刘礼为楚王，续元王后。
+立皇子端为胶西王，胜为中山王。赐民爵一级。
+translation: 
+In the third month of spring, Prince De was named King of Hejian, Prince Yan was named King of Linjiang, Prince Yu was named King of Huaiyang, Prince Fei was named King of Runan, Prince Pengzu was named King of Guangchuan, and Prince Fa was named King of Changsha.
+On the 25th of April in the summer, the Empress Dowager passed away.
+In June, Prime Minister Shen Tujia passed away.
+Xiao Xi, the grandson of Xiao He, the former prime minister, was made a lord.
+In autumn, he made peace with the Xiongnu.
+In the twelfth month of the third year of Emperor Jing's reign, he issued an edict saying: Hui, the son of Marquis Ji Jia of Xiangping, said he was unfilial, attempted rebellion, and wanted to kill Jia, which was actually a great treason.
+Ji Jia is now pardoned and remains the Marquis of Xiangping. All those whose wives should have been seated according to the law are restored to their original rank, while Huishuo and his wife are executed.
+In the first month of spring, a fire broke out in the main hall of Huaiyang Palace.
+King Liu Bi of Wu, King Liu Xian of Jiaoxi, King Liu Wu of Chu, King Liu Sui of Zhao, King Liu Biguang of Jinan, King Liu Xian of Zichuan, and King Liu Xiongqu of Jiaodong jointly raised troops to rebel.
+Emperor Jing ordered a general amnesty for the whole country.
+He sent Taiwei Zhou Yafu and General Dou Ying to lead the expedition.
+Chao Cuo, the imperial censor, suggested cutting down the vassal vassal to avoid being too powerful to appease the seven kingdoms that launched a rebellion.
+On the first day of February, there was a partial solar eclipse.
+The soldiers commanded by Zhou Yafu and Dou Ying defeated the rebels of the Seven Kingdoms and beheaded more than 100,000 people.
+Chasing and killing Wu Wang Biyu Dan Tu.
+Wang Yan of Jiaoxi, Wang Wu of Chu, Wang Sui of Zhao, Wang Biguang of Jinan, Wang Xian of Zichuan, and Wang Xiongqu of Jiaodong all committed suicide.
+In the sixth month of summer, Emperor Jing issued an edict saying: In the past, King Wu and others rebelled, raised troops to threaten the court, and deceived the officials and the people, so the officials and the people had no choice but to obey.
+Now that Liu Bi and others have been eliminated, the deceived officials and civilians and the soldiers who fled will not be held accountable for the law of sitting together, but will be pardoned.
+Liu Yi, the son of King Chu Yuan, participated in the rebellion of Liu Bi and others. I could not bear to bring him to justice and expelled him from the royal family tree to avoid tarnishing the clan.
+Fengping Luhou Liu Li was made King of Chu to succeed King Yuan.
+The prince Liu Duan was made the King of Jiaoxi and Liu Sheng was the King of Zhongshan. They were rewarded with the first-level civilian title.
+
+summary:
+summary line 1: In subsequent years, Emperor Jing addressed food shortages by encouraging migration to fertile lands, granted amnesties, reduced farmland rent by half, and reformed laws on official bribery and gift acceptance. Comets appeared, and the Empress Dowager died in 144 BC. The Seven Kingdoms rebellion led by Liu Bi of Wu and others erupted; Emperor Jing sent Zhou Yafu and Dou Ying to suppress it, resulting in over 100,000 rebel deaths and the suicides of the rebel kings. He pardoned deceived officials and civilians.
+
+Chunk 5: 
+original: 
+列侯薨及诸侯太傅初除之官，大行奏谥、诔、策。
+王薨，遣光禄大夫吊襚、祠、赗，视丧事，因立嗣子。
+列侯薨，遣太中大夫吊祠，视丧事，因立嗣。
+其葬，国得发民挽丧、穿、复土，治坟无过三百人毕事。
+匈奴入燕。
+改磔曰弃市，勿复磔。
+三月，临江王荣坐侵太宗庙地，征诣中尉，自杀。
+夏四月，有星孛于西北。
+立皇子越为广川王，寄为胶东王。
+秋七月，更郡守为太守，郡尉为都尉。
+九月，封故楚、赵傅、相、内史前死事者四人子皆为列侯。
+甲戌晦，日有蚀之。
+三年冬十一月，罢诸侯御史大夫官。
+春正月，皇太后崩。
+夏，旱，禁酤酒。
+戊戌晦，日有蚀之。
+立皇子乘为清河王。
+四年春三月，起德阳宫。
+御史大夫绾奏禁马高五尺九寸以上，齿未平，不得出关。
+夏，蝗。
+translation: 
+When a prince passed away, the princes and princes were sent as mourning officials to express their condolences, and the senior officials reported their whereabouts, and the court issued mourning edicts.
+When the King of Qin passed away, he sent Dr. Guanglu to offer condolences and present him with clothes, clothes and utensils. He also presided over the memorial service and established the king's heir.
+When a marquis passed away, he sent a large and medium-sized official to the mourning hall to offer condolences, preside over memorial activities, and establish an heir.
+When the above princes died, migrant workers were drafted to dig graves instead of hearses. Grave repairs shall not exceed 300 working days.
+The Xiongnu entered Yan territory.
+Change the method of dismemberment for death penalty to discard the corpse, and abolish the method of dismemberment.
+In March, Linjiang King Liu Rong was guilty of invading Taizong's temple grounds. The lieutenant arrested him and Liu Rong committed suicide.
+In April in summer, comets appear in the northwest sky.
+The prince Liu Yue was made King of Guangchuan, and Liu Ji was made King of Jiaodong.
+In autumn and July, the county governor was renamed the prefect, and the county lieutenant was renamed the captain.
+In September, the former Chu Prime Minister Zhang Shang, Taifu Zhao Yiwu, Zhao Xiang Jiande, and Nei Shi Wang Han were killed by their king because they each advised their king not to rebel. Now, the sons of the four of them are ennobled as marquises.
+On July 30th, there was a partial solar eclipse.
+In the winter of the third year in November, it was ordered that there would be no more imperial censors for princes.
+In the first month of spring, the Queen Mother passed away.
+During the summer drought, selling alcohol is prohibited.
+In autumn and September, comets appear in the northwest sky. On September 30th, there was a partial solar eclipse.
+The prince Liu Cheng was granted the title of King of Qinghe.
+In the spring and March of the fourth year, Deyang Palace was built.
+Wei Wan, the imperial censor, reported that tall horses with a height of more than five feet and nine inches and less than ten years old were prohibited from being transported outside the customs.
+In summer, there is a locust plague.
+
+summary:
+summary line 2: He appointed princes, resumed checkpoint inspections, made Liu Rong crown prince (later deposed), and Liu Che crown prince. He reformed mourning rites for princes, changed execution methods, and renamed officials. He prohibited tall horses from leaving the empire, faced locust plagues, and built Yangling. He issued edicts against bribery and harsh judgments, reformed official attire, and reduced whipping penalties. The Xiongnu invaded, and Zhou Yafu died in prison. He abolished the rule requiring princes to visit fiefs, promoted agriculture, and allowed those with 40,000 yuan assets to become officials. Emperor Jing died in Weiyang Palace in the first month of the third year of Houyuan, was buried in Yangling, and was praised by Ban Gu for continuing Emperor Wen's frugal policies, leading to a prosperous era comparable to the Zhou dynasty's Chengkang period.
+

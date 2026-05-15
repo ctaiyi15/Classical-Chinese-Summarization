@@ -1,0 +1,732 @@
+Summary uses chunk [0, 1, 2, 5, 6, 10, 10, 12, 13, 15, 16, 20, 24, 25, 26, 30, 33, 12]
+
+Chunk 0: 
+original: 
+自古受命帝王及继体过文之君，非独内德茂也，盖亦有外戚之助焉。
+夏之兴也以涂山，而桀之放也用末喜；殷之兴也以有娀及有，而纣之灭也嬖妲己；周之兴也以姜嫄及太任、太姒，而幽王之禽也淫褒姒。
+故《易》基《乾》、《坤》，《诗》首《关睢》，《书》美釐降，《春秋》讥不亲迎。
+夫妇之际，人道之大伦也。
+礼之用，唯昏姻为兢兢。
+夫乐调而四时和，阴阳之变，万物之统也，可不慎与！
+人能弘道，末如命何。
+甚哉妃匹之爱，君不能得之臣，父不能得之子，况卑下乎！
+既欢合矣，或不能成子姓，成子姓矣，而不能要其终，岂非命也哉！
+孔子罕言命，盖难言之。
+非通幽明之变，恶能识乎性命！
+translation: 
+Since ancient times, emperors who started their own business and monarchs who inherited the throne and followed the laws established by the previous kings did not only rely on their own good virtues, but also were inseparable from the help of their relatives.
+The rise of the Xia Dynasty was related to the Tushan clan, while Jie's exile was due to Moxi; the rise of the Yin Dynasty was inseparable from the thieves and marries, and the demise of Zhou was due to his favor and trust in Daji; the rise of the Zhou Dynasty depended on Jiang Xi, Tairen, and Taisi, and King You was captured by Rong Di because of his lewd relationship with Guo Si.
+Therefore Ti begins with the two hexagrams "Qian" and "Kun", "The Book of Songs" takes "Guan Ju" as its first chapter, "Shangshu" praises Tang Yao for marrying his two daughters to Yu Shun, and "Spring and Autumn" satirizes Duke Yin of Lu for marrying his wife instead of marrying him himself.
+The relationship between husband and wife is a matter of human ethics. Marriage matters in etiquette and law must be done with caution.
+Only when music is harmonious can the four seasons be harmonious.
+The changes of yin and yang create all things in the world, so how can we not be cautious!
+People can carry forward the great road, but they can't do anything about destiny.
+The affection between spouses is beyond all else. Even with the dignity of a king and father, he cannot force his children to surrender, let alone the lowly ones!
+The love between husband and wife is joyful and harmonious, but some people cannot have children, and even if they have children, they cannot have a good death. Isn't this the destiny of heaven!
+Confucius rarely talked about the Mandate of Heaven, probably because it was difficult to explain clearly.
+If you don’t understand the changes of yin and yang, how can you know life!
+
+summary:
+summary line 0: Since ancient times, emperors who founded dynasties and monarchs who inherited thrones have relied not only on their own virtues but also on the help of their relatives. The rise of the Xia Dynasty was tied to the Tushan clan, while Jie's exile was due to Moxi; the Yin Dynasty's rise involved thieves and marries, and Zhou's demise came from favoring Daji; the Zhou Dynasty depended on Jiang Xi, Tairen, and Taisi, and King You was captured by Rong Di because of his lewd relationship with Guo Si. Thus, the "Book of Changes" begins with the hexagrams "Qian" and "Kun," "The Book of Songs" starts with "Guan Ju," "Shangshu" praises Tang Yao for marrying his daughters to Yu Shun, and "Spring and Autumn" criticizes Duke Yin of Lu for his marriage. The relationship between husband and wife is a matter of human ethics, and marriage must be handled with caution. Only when music is harmonious can the four seasons be harmonious, and the changes of yin and yang create all things. People can carry forward the great road but cannot control destiny. The affection between spouses is paramount, and even a king or father cannot force his children to surrender. The love between husband and wife is joyful, but some cannot have children or have children who die young—this is destiny. Confucius rarely spoke of the Mandate of Heaven, probably because it was difficult to explain. Without understanding yin and yang, one cannot know life.
+
+Chunk 1: 
+original: 
+汉兴，因秦之称号，帝母称皇太后，祖母称太皇太后，適称皇后，妾皆称夫人。
+又有美人、良人、八子、七子、长使、少使之号焉。
+至武帝制婕妤、濩娥、傛华、充依，各有爵位，而元帝加昭仪之号，凡十四等云。
+昭仪位视丞相，爵比诸侯王。
+婕妤视上卿，比列侯。
+濩娥视中二千石，比关内侯。
+傛华视真二千石，比大上造。
+美人视二千石，比少上造。
+八子视千石，比中更。
+充依视千石，比左更。
+七子视八百石，比右庶长。
+良人视八百石，比左庶长。
+长使视六百石，比五大夫。
+少使视四百石，比公乘。
+五官视三百石。
+顺常视二百石。
+无涓、共和、娱灵、保林、良使、夜者皆视百石。
+上家人子、中家人子视有秩斗食云。
+五官以下，葬司马门外。
+translation: 
+The Han Dynasty followed the titles of the Qin Dynasty. The emperor's mother was called the empress dowager, his grandmother was called the empress dowager, his wife was called the queen, and his concubines were all called madam.
+There are also titles such as Beauty, Beloved, Eighth Son, Seventh Son, Long Envoy, and Young Envoy.
+By the time of Emperor Wu of the Han Dynasty, Jieyu, Xi'e, Suhua, and Chongyi were established, each with a certain title. Under Emperor Yuan, the title of Zhaoyi was established, with a total of fourteen levels.
+Zhaoyi's salary rank is equivalent to that of the prime minister, and his title is equivalent to that of princes and kings.
+Jie Jie is equivalent to a high official, and his title is equivalent to that of a prince.
+Nephew'e is equivalent to two thousand stones, and her title is the same as that of Guannei Marquis.
+Ronghua is equivalent to two thousand stones, and the title is the same as that of Dashangzo.
+The beauty is equivalent to two thousand stones, and the title is the same as that of the young master.
+Bazi is equivalent to Ganshi, and his title is the same as Zhonggeng.
+Chunyi is equivalent to Qianshi, and his title is the same as Zuogeng.
+The seventh son is equivalent to eight hundred stones, and the title is the same as that of the right concubine.
+The price of a good man is equivalent to eight hundred dan, and his title is the same as that of Zuo Shuzhang.
+The chief envoy is equivalent to six hundred dan, and his title is the same as that of the fifth official.
+A minor envoy is equivalent to four hundred dan, and his title is equivalent to that of a public servant.
+The five senses are equivalent to three hundred stones.
+It is usually equivalent to two hundred stones.
+Wujuan, Gonghe, Yuling, Baolin, Liangshi, and Yezhe are all equivalent to a hundred stones.
+The sons of the upper family and the sons of the middle family are equivalent to fighting for food with rank and wealth.
+Those with grades below the five sense organs are buried outside Simamen after death.
+
+summary:
+summary line 1: The Han Dynasty followed Qin titles: the emperor's mother was the empress dowager, his grandmother the grand empress dowager, his wife the queen, and concubines were called madam. Titles like Beauty, Beloved, Eighth Son, Seventh Son, Long Envoy, and Young Envoy existed. Under Emperor Wu, Jieyu, Xi'e, Suhua, and Chongyi were established, with fourteen levels under Emperor Yuan. Zhaoyi's salary rank equaled the prime minister, and her title equaled princes and kings. Jie Jie equaled a high official, nephew'e equaled two thousand stones, Ronghua equaled two thousand stones, beauty equaled two thousand stones, Bazi equaled Ganshi, Chunyi equaled Qianshi, the seventh son equaled eight hundred stones, a good man equaled eight hundred stones, the chief envoy equaled six hundred stones, a minor envoy equaled four hundred stones, the five senses equaled three hundred stones, and it was usually two hundred stones. Wujuan, Gonghe, Yuling, Baolin, Liangshi, and Yezhe equaled a hundred stones. Sons of upper and middle families equaled fighting for food with rank. Those below the five sense organs were buried outside Simamen after death.
+
+Chunk 2: 
+original: 
+高祖吕皇后，父吕公，单父人也，好相人。
+高祖微时，吕公见而异之，乃以女妻高祖，生惠帝、鲁元公主。
+高祖为汉王，元年封吕公为临泗侯，二年立孝惠为太子。
+后汉王得定陶戚姬，爱幸，生赵隐王如意。
+太子为人仁弱，高祖以为不类己，常欲废之而立如意， 如意类我 。
+戚姬常从上之关东，日夜啼泣，欲立其子。
+吕后年长，常留守，希见，益疏。
+如意且立为赵王，留长安，几代太子者数。
+赖公卿大臣争之，及叔孙通谏，用留侯之策，得无易。
+吕后为人刚毅，佐高帝定天下，兄二人皆为列将，从征伐。
+长兄泽为周吕侯，次兄释之为建成侯，逮高祖而侯者三人。
+高祖四年，临泗侯吕公薨。
+高祖崩，惠帝立，吕后为皇太后，乃令永巷囚戚夫人，髡钳衣赭衣，令舂。
+戚夫人舂且歌曰： 子为王，母为虏，终日舂薄幕，常与死为伍！
+translation: 
+Empress Lu of Emperor Gaozu of the Han Dynasty, whose father was Lu Gong, was a single father and liked to meet people.
+When Emperor Gaozu was poor and humble, Lu Gong saw him and thought he was not an ordinary person, so he married his daughter to him and gave birth to Emperor Hui and Princess Lu Yuan.
+Emperor Gaozu became the king of Han, and in the first year he granted Duke Lu the title of Marquis of Linsi. In the second year, he made Emperor Xiaohui the crown prince.
+Later, the king of Han married Qi Ji of Dingtao and loved her very much. Qi Ji gave birth to King Ruyi of Zhao Yin.
+The prince was kind and cowardly. Emperor Gaozu thought that he was not like himself, so he often planned to abolish the prince and replace him with Ruyi, saying that Ruyi was like me.
+Qi Ji often followed the emperor on expeditions to Guandong, crying day and night, hoping to make her son the crown prince.
+As Queen Lu was getting older, she often stayed in Guanzhong and rarely saw the emperor, so she became even more alienated.
+Ruyi was named King of Zhao and lived in Chang'an. He was almost made a prince several times.
+Fortunately, the ministers strongly opposed it. When Shusun Tong came to remonstrate, he adopted the strategy of staying in the marquis, so the prince was not replaced.
+Empress Lu was a resolute person and assisted Gaozu in bringing peace to the world. Her two brothers were both generals and fought with Gaozu.
+The eldest brother Lu Ze was granted the title of Marquis of Zhou Lu, and the second brother Lu Shizhi was granted the title of Marquis of Jiancheng. By the time Gaozu proclaimed himself emperor, three people in the Lu family had been granted the title of marquis.
+In the fourth year of Emperor Gaozu's reign, Duke Lu, the Marquis of Linsi, passed away.
+After the death of Emperor Gaozu, Emperor Hui ascended the throne, and Empress Lu became the empress dowager, she ordered Mrs. Qi to be imprisoned in Yongxiang. Her hair was shaved, an iron ring was tied around her neck, she was put on the red clothes of a prisoner, and she was asked to do hard labor by pounding rice.
+Mrs. Qi sang a song while pounding rice: The son is a king, the mother is a slave, pounding rice all day long, often accompanied by death!
+
+summary:
+summary line 2: Empress Lu of Emperor Gaozu was the daughter of Lu Gong, who married her to Gaozu when he was poor, seeing him as extraordinary. She gave birth to Emperor Hui and Princess Lu Yuan. Gaozu became king of Han and made Lu Gong the Marquis of Linsi. He later married Qi Ji of Dingtao, who gave birth to King Ruyi of Zhao. Gaozu wanted to replace the kind-hearted prince with Ruyi, but ministers opposed it. Empress Lu, resolute and assisting Gaozu, had brothers Lu Ze and Lu Shizhi as generals. After Gaozu's death, Empress Dowager Lu imprisoned Qi Ji, shaved her hair, and made her pound rice. Qi Ji sang about her son being a king and she a slave, angering the Queen Mother, who summoned King Zhao to Chang'an. Emperor Hui protected him, but the Queen Mother poisoned King Zhao. She then mutilated Qi Ji, calling her a "human pig." Emperor Hui, horrified, fell ill and died seven years later. The Queen Mother, advised by Zhang Piqiang, appointed Lu Tai and Lu Chan as generals, consolidating Lu family power. She killed several of Gaozu's sons and named Lu family members kings. After her death, ministers Zhou Bo and Chen Ping executed the Lu family and established Dai Wang as Emperor Xiaowen.
+
+Chunk 5: 
+original: 
+太后崩，太尉周勃、丞相陈平、朱虚侯刘章等共诛产、禄、悉捕诸吕男女，无少长皆斩之。
+而迎立代王，是为孝文皇帝。
+孝惠张皇后。
+宣平侯敖尚帝姊鲁元公主，有女。
+惠帝即位，吕太后欲为重亲，以公主女配帝为皇后。
+欲其生子，万方终无子，乃使阳为有身，取后宫美人子名之，杀其母，立所名子为太子。
+惠帝崩，太子立为帝，四年，乃自知非皇后子，出言曰： 太后安能杀吾母而名我！
+我壮即为所为。
+太后闻而患之，恐其作乱，乃幽之永巷，言帝病甚，左右莫得见。
+太后下诏废之，语在《高后纪》。
+遂幽死，更立恒山王弘为皇帝，而以吕禄女为皇后。欲连根固本牢甚，然而无益也。
+吕太后崩，大臣正之，卒灭吕氏。
+少帝恒山、淮南、济川王，皆以非孝惠子诛。
+独置孝惠皇后，废处北宫，孝文后元年薨，葬安陵，不起坟。
+translation: 
+After the death of the Empress Dowager, Taiwei Zhou Bo, Prime Minister Chen Ping, Zhu Xuhou Liu Zhang and others jointly executed Lu Chan and Lu Lu, and captured all the Lu family members, young and old, and killed them all.
+So he welcomed Dai Wang and established him as emperor, that is, Emperor Xiaowen.
+Empress Zhang of Emperor Xiaohui.
+Zhang Ao, Marquis of Xuanping, married Princess Lu Yuan, the sister of Emperor Hui, and gave birth to a daughter.
+After Emperor Hui ascended the throne, Empress Dowager Lu planned to marry the princess, so she betrothed the princess's daughter to Emperor Hui as the queen.
+Empress Dowager Lu hoped that the queen would give birth to a son, but she still had no child despite all possible means, so she asked her to pretend to be pregnant, pretending that the son born to a beauty in the harem was the queen's son, and then killed the child's biological mother and made the child the prince.
+After the death of Emperor Hui, the prince was made emperor. After four years on the throne, he realized that he was not the biological son of the queen. He said boldly: How could the queen mother kill my mother and say that I was born to the queen!
+When I grow up, I know what to do.
+The Queen Mother was very worried when she heard about it, fearing that he would cause trouble in the future, so she imprisoned him in Yongxiang and announced that the emperor was seriously ill and that even the attendants could not see him.
+The Queen Mother issued an edict to depose him, and this incident was recorded in the "Gaohou Ji".
+The young emperor was imprisoned and died. The Queen Mother changed the name of Hengshan King Liu Hong to the emperor and made Lu Lu's daughter the queen, hoping to fundamentally consolidate the Lu family's status, but these did not have much effect.
+After the death of Empress Dowager Lu, the ministers brought order to the chaos and finally annihilated the Lu family.
+The young emperor Hengshan King, Huainan King, and Jichuan King were all killed because they were not the biological sons of Emperor Xiaohui.
+Only Queen Xiaohui remained, and her title of queen was abolished, and she lived in the North Palace. In the first year of Emperor Xiaowen's reign, Queen Xiaohui died and was buried in Anling without building a mausoleum.
+
+summary:
+summary line 3: Empress Zhang of Emperor Xiaohui was the daughter of Zhang Ao and Princess Lu Yuan. Empress Dowager Lu married her to Emperor Hui, hoping for a son. When she had none, the Queen Mother pretended she was pregnant and passed off a beauty's son as hers, killing the mother. After Emperor Hui's death, the prince became emperor but learned the truth and threatened revenge. The Queen Mother imprisoned and deposed him, then made Hengshan King Liu Hong emperor. After her death, ministers killed the Lu family and the non-biological sons of Emperor Hui, leaving only Queen Xiaohui, who died in the first year of Emperor Xiaowen's reign.
+
+Chunk 6: 
+original: 
+高祖薄姬，文帝母也。
+父吴人，秦时与故魏王宗女魏媪通，生薄姬。
+而薄姬父死山阴，因葬焉。
+及诸侯畔秦，魏豹立为王，而魏媪内其女于魏宫。
+许负相薄姬，当生天子。
+是时，项羽方与汉王相距荥阳，天下未有所定。
+豹初与汉击楚，及闻许负言，心喜，因背汉而中立，与楚连和。
+汉使曹参等虏魏王豹，以其国为郡，而薄姬输织室。
+豹已死，汉王入织室，见薄姬，有诏内后宫，岁余不得幸。
+始姬少时，与管夫人、赵子儿相爱，约曰： 先贵毋相忘！
+已而管夫人、赵子儿先幸汉王。
+汉王四年，坐河南成皋灵台，此两美人侍，相与笑薄姬初时约。
+汉王问其故，两人俱以实告。
+汉王心凄然怜薄姬，是日召，欲幸之。
+对曰： 昨暮梦龙据妾胸。
+上曰： 是贵征也，吾为汝成之。
+遂幸，有身。
+translation: 
+Gaozu's Bo Ji was the mother of Emperor Wen.
+Bo Ji's father was from Wu. During the Qin Dynasty, he had an affair with Wei Lao, a woman from the original clan of the King of Wei. Give birth to Bo Ji.
+Bo Ji's father died in Shanyin and was buried there.
+When the princes rebelled against the Qin Dynasty, Wei Bao proclaimed himself king, and Wei Yu sent her daughter to the Wei palace.
+Xu Fu met Bo Ji and said that she could give birth to the emperor.
+At this time, Xiang Yu was confronting the King of Han in Rongyang, and the world was not yet peaceful.
+Wei Bao initially attacked Chu with Mo. After hearing Xu Negi's words, he was overjoyed, betrayed Han, implemented neutrality, and made friends with Chu.
+The king of Han sent Cao Shen and others to capture King Bao of Wei and set his territory as a county, while Bo Ji was sent to the weaving room.
+After Wei Bao's death, the King of Han entered the weaving room and saw Bo Ji, so he issued an edict to include her in the harem. However, he did not receive the emperor's favor for more than a year.
+When Bo Ji was young, she was very close to Mrs. Guan and Zhao Zier, and she swore: Whoever gets the honor first, don't forget the others!
+Soon Mrs. Guan and Zhao Zier were the first to be favored by the King of Han.
+In the fourth year of the Han Dynasty, when he was visiting Lingtai in Chenggao, Henan, these two beauties stood aside and laughed at Bo Ji's alliance with them.
+The king of Han asked about the reason, and the two men told him the truth.
+The King of Han felt pity for Bo Ji, so he summoned her that day and planned to protect her.
+Bo Ji said to the King of Han: Last night, I dreamed of a dragon coiled on my chest.
+The King of Han said: This is a sign of your honor. I will help you achieve it.
+Fortunately, Bo Ji became pregnant.
+
+summary:
+summary line 4: Gaozu's Bo Ji was the mother of Emperor Wen. Her father had an affair with Wei Lao, giving birth to Bo Ji. During the Qin Dynasty, Wei Bao proclaimed himself king, and Bo Ji entered his palace. Xu Fu predicted she would give birth to an emperor. Wei Bao betrayed Han, was captured, and Bo Ji was sent to the weaving room. Gaozu saw her and included her in the harem but did not favor her for over a year. She was close to Mrs. Guan and Zhao Zier, who later laughed at her alliance. Gaozu pitied her, summoned her, and she became pregnant, giving birth to Emperor Wen. After Gaozu's death, Bo Ji, rarely favored, followed her son to Dai and became Queen Mother Dai. After Empress Dowager Lu's death, ministers, hating the Lu family, praised Bo Ji's kindness and made King Dai emperor. Bo Ji became Empress Dowager, and her brother Bo Zhao was named Zhihou. She died in the second year of Emperor Jing's reign and was buried in Nanling.
+
+Chunk 10: 
+original: 
+窦长君、少君由此为退让君子，不敢以富贵骄人。
+窦皇后疾，失明。
+文帝幸邯郸慎夫人、尹姬，皆无子。
+文帝崩，景帝位，皇后为皇太后，乃封广国为章武侯。
+长君先死，封其子彭祖为南皮侯。
+吴、楚反时，太后从昆弟子窦婴侠，喜士，为大将军，破吴、楚、封魏其侯。
+窦氏侯者凡三人。
+窦太后好黄帝、老子言，景帝及诸窦不得不读《老子》尊其术。
+太后后景帝六岁，凡立四十五年，建元六年崩，合葬霸陵。
+遗诏尽以东宫金钱财物赐长公主嫖。
+至武帝时，魏其侯窦婴为丞相，后诛。
+孝景薄皇后，孝文薄太后家女也。
+景帝为太子时，薄太后取以为太子妃。
+景帝立，立薄妃为皇后，无子无宠。
+立六年，薄太后崩，皇后废。
+废后四年薨，葬长安城东平望亭南。
+孝景王皇后，武帝母也。
+translation: 
+From then on, Dou Changjun and Dou Shaojun became humble and courteous gentlemen, who did not dare to be arrogant because of their high status.
+Queen Dou later became ill and became blind.
+Emperor Wen also favored Mrs. Handan Shen and Yin Ji, but they had no sons.
+After Emperor Wen passed away and Emperor Jing ascended the throne, Empress Bao became the Empress Dowager and granted Dou Guangguo the title of Marquis Zhangwu.
+Dou Changjun died early and named his son Dou Pengzu the Marquis of Nanpi.
+When Wu, Chu and other seven countries rebelled, Dou Ying, the cousin of the Queen Mother, was chivalrous and brave, and liked to make friends with scholars. He was appointed as a general. After the Wu and Chu rebellions were suppressed, he was named Wei Qihou.
+There are three people in the Dou family who have been granted the title of Marquis.
+Empress Dowager Dou liked the teachings of Huangdi and Laozi. Emperor Jing and the Dou family had to read "Laozi" and admire Huang and Laozi's techniques.
+Empress Dowager Dou died six years after Emperor Jing's death, fifty-one years after she was established as queen, that is, in the sixth year of Yuanguang, and was buried in Ba Ling with Emperor Wen.
+According to his instructions, Shao rewarded the eldest princess Liu Prostitute with all the gold and silver belongings in Shu Palace.
+During the reign of Emperor Wu of the Han Dynasty, Wei Qihou Dou Ying became prime minister and was later killed.
+Emperor Xiaojing and Empress Bo were the daughters of Emperor Xiaowen and Empress Dowager Bo.
+When Emperor Jing was the crown prince, Empress Dowager Bo married Bo as the crown prince for him.
+After Emperor Jing ascended the throne, he made Concubine Bo the queen. Empress Bo had no sons and was not favored by Emperor Jing.
+Bo served as queen for six years, but after the death of Empress Dowager Bo, she was deposed.
+Empress Bo died in the fourth year after she was deposed and was buried south of Shupingwang Pavilion in Chang'an City.
+Empress Xiaojing was the mother of Emperor Wu.
+
+summary:
+summary line 5: Empress Xiaowen Dou was the mother of Emperor Jing. She was elected to the palace during Empress Dowager Lu's reign. When maids were sent to princes, she wanted to go to Zhao but was mistakenly sent to Dai. In Dai, King Dai favored her, and she gave birth to Emperor Jing. After King Dai became emperor, Dou Ji was made queen. Her brother Dou Guang, sold as a child, was later found and rewarded. Dou Changjun and Dou Shaojun became humble gentlemen. Queen Dou later became blind. After Emperor Wen's death, she became Empress Dowager and granted Dou Guang the title of Marquis Zhangwu. During the rebellion of the seven states, Dou Ying was made a general and later Marquis Weiqi. Empress Dowager Dou liked Huang-Lao teachings and died in the sixth year of Yuanguang, buried with Emperor Wen.
+
+Chunk 10: 
+original: 
+窦长君、少君由此为退让君子，不敢以富贵骄人。
+窦皇后疾，失明。
+文帝幸邯郸慎夫人、尹姬，皆无子。
+文帝崩，景帝位，皇后为皇太后，乃封广国为章武侯。
+长君先死，封其子彭祖为南皮侯。
+吴、楚反时，太后从昆弟子窦婴侠，喜士，为大将军，破吴、楚、封魏其侯。
+窦氏侯者凡三人。
+窦太后好黄帝、老子言，景帝及诸窦不得不读《老子》尊其术。
+太后后景帝六岁，凡立四十五年，建元六年崩，合葬霸陵。
+遗诏尽以东宫金钱财物赐长公主嫖。
+至武帝时，魏其侯窦婴为丞相，后诛。
+孝景薄皇后，孝文薄太后家女也。
+景帝为太子时，薄太后取以为太子妃。
+景帝立，立薄妃为皇后，无子无宠。
+立六年，薄太后崩，皇后废。
+废后四年薨，葬长安城东平望亭南。
+孝景王皇后，武帝母也。
+translation: 
+From then on, Dou Changjun and Dou Shaojun became humble and courteous gentlemen, who did not dare to be arrogant because of their high status.
+Queen Dou later became ill and became blind.
+Emperor Wen also favored Mrs. Handan Shen and Yin Ji, but they had no sons.
+After Emperor Wen passed away and Emperor Jing ascended the throne, Empress Bao became the Empress Dowager and granted Dou Guangguo the title of Marquis Zhangwu.
+Dou Changjun died early and named his son Dou Pengzu the Marquis of Nanpi.
+When Wu, Chu and other seven countries rebelled, Dou Ying, the cousin of the Queen Mother, was chivalrous and brave, and liked to make friends with scholars. He was appointed as a general. After the Wu and Chu rebellions were suppressed, he was named Wei Qihou.
+There are three people in the Dou family who have been granted the title of Marquis.
+Empress Dowager Dou liked the teachings of Huangdi and Laozi. Emperor Jing and the Dou family had to read "Laozi" and admire Huang and Laozi's techniques.
+Empress Dowager Dou died six years after Emperor Jing's death, fifty-one years after she was established as queen, that is, in the sixth year of Yuanguang, and was buried in Ba Ling with Emperor Wen.
+According to his instructions, Shao rewarded the eldest princess Liu Prostitute with all the gold and silver belongings in Shu Palace.
+During the reign of Emperor Wu of the Han Dynasty, Wei Qihou Dou Ying became prime minister and was later killed.
+Emperor Xiaojing and Empress Bo were the daughters of Emperor Xiaowen and Empress Dowager Bo.
+When Emperor Jing was the crown prince, Empress Dowager Bo married Bo as the crown prince for him.
+After Emperor Jing ascended the throne, he made Concubine Bo the queen. Empress Bo had no sons and was not favored by Emperor Jing.
+Bo served as queen for six years, but after the death of Empress Dowager Bo, she was deposed.
+Empress Bo died in the fourth year after she was deposed and was buried south of Shupingwang Pavilion in Chang'an City.
+Empress Xiaojing was the mother of Emperor Wu.
+
+summary:
+summary line 6: Emperor Xiaojing and Empress Bo were the daughters of Emperor Xiaowen and Empress Dowager Bo. Empress Dowager Bo married her to Emperor Jing as crown prince. After becoming emperor, he made her queen, but she had no sons and was not favored. After Empress Dowager Bo's death, she was deposed and died four years later.
+
+Chunk 12: 
+original: 
+会薄皇后废，长公主日谮栗姬短。
+景帝尝属诸姬子，曰： 吾百岁后，善视之。
+栗姬怒不肯应，言不逊，景帝心衔之而未发也。
+长公主日誉王夫子男之美，帝亦自贤之。
+又耳曩者所梦日符，计未有所定。
+王夫人又阴使人趣大臣立栗姬为皇后。
+大行奏事，文曰：  子以母贵，母以子贵。 今太子母号宜为皇后。
+帝怒曰： 是乃所当言邪！
+遂案诛大行，而废太子为临江王。
+栗姬愈恚，不得见，以忧死。
+卒立王夫人为皇后，男为太子。
+封皇后兄信为盖侯。
+初，皇后始入太子家，后女弟皃姁亦复入，生四男。
+皃姁蚤卒，四子皆为王。
+皇后长女为平阳公主，次南宫公主，次隆虑公主。
+皇后立九年，景帝崩。
+武帝即位，为皇太后，尊太后母臧皃为平原君，封田蚡为武安侯，胜为周阳侯。
+王氏、田氏侯者凡三人。
+盖侯信好酒，田蚡、胜贪，巧于文辞。
+蚡至丞相，追尊王仲为共侯，槐里起园邑二百家，长丞奉守。
+及平原君薨，从田氏葬长陵，亦置园邑如共侯法。
+初，皇太后微时所为金王孙生女俗，在民间，盖讳之也。
+translation: 
+At this time, Queen Bo was deposed, and the eldest princess spoke ill of Li Ji in front of Emperor Jing every day.
+Emperor Jing once entrusted Li Ji with the princes born to his wives, saying: After I die, you must take good care of them.
+Li Ji was very angry, refused to agree, and spoke rudely. Emperor Jing was very dissatisfied, but he did not show it.
+The eldest princess praised Mrs. Wang's son every day, and Emperor Jing himself thought the child was talented.
+Coupled with the auspicious news that the child was born in a dream, Emperor Jing thought about it over and over again and could not make up his mind.
+Mrs. Wang secretly sent people to urge the ministers to propose canonizing Li Ji as queen.
+Daxing wrote a letter to commemorate the matter, and one sentence said: A son is more valuable than his mother, and a mother is more valuable than his son. Now the title of the prince's mother should be the queen.
+Emperor Jing was furious and said: Is this what you should say?
+So he went to Shao and killed Daxing, deposed the prince and changed his title to King Linjiang.
+Li Ji was even more angry and could not be summoned by the emperor, so she died of fear.
+Finally, Mrs. Wang was appointed queen, and Mrs. Wang's son became the prince.
+He also made Wang Xin, the brother of Queen Wang, the Marquis of Gai.
+At first, the queen had just entered the crown prince's womb, and later her sister Ergu was also brought in and gave birth to four sons.
+Erku died very early, and all four sons became kings.
+The queen's eldest daughter was named Princess Pingyang, her second daughter was named Princess Nangong, and her third daughter was named Princess Longlu.
+In the ninth year after Queen Wang was enthroned, Emperor Jing died.
+When Emperor Wu came to the throne and Queen Wang became the empress dowager, he honored his mother Zang'er as Lord of Pingyuan, Tian Pan as Marquis of Wu'an, and Tian Sheng as Marquis of Zhou Yang.
+There are three people in the Wang and Tian families who have been granted the title of marquis.
+Gaihou Wang Xin likes to drink, while Tian Xi and Tian Sheng are greedy and good at eloquence.
+Tian Jin's officials continued to be prime ministers, and he honored Wang Zhong as a co-marquis. He set up a cemetery and 200 households in Huaili, and set up a garden director and a garden chief to guard the sacrifices.
+After Lord Pingyuan passed away, he was buried with the Tian family in Changling, and a garden was also set up. The specifications and ceremonies were the same as those of Gonghou.
+At the beginning, when the Empress Dowager was humble, she gave the name of the daughter she gave birth to to King Jin's grandson, because among the people, she did not want anyone to know.
+
+summary:
+summary line 7: Empress Xiaojing Wang was the mother of Emperor Wu. Her father Wang Zhong died, and her mother Zang'er remarried. Zang'er, divining that her daughters would be noble, sent her eldest daughter to the crown prince's womb. Mrs. Wang dreamed of a sun entering her belly, giving birth to a son. After Emperor Jing became emperor, Mrs. Wang's son became prince. The eldest princess Liu Piao wanted to marry her daughter to the prince, but Li Ji refused. The princess then spoke ill of Li Ji and praised Mrs. Wang's son. Emperor Jing deposed the prince and made Mrs. Wang queen. Her son became Emperor Wu. Empress Dowager Wang reigned for twenty-five years and died in the third year of Yuanshuo, buried with Emperor Jing.
+
+Chunk 13: 
+original: 
+武这始立，韩嫣白之。
+帝曰： 何为不蚤言？
+乃车驾自往迎之。
+其家在长陵小市，直至其门，使左右入求之。
+家人惊恐，女逃匿。
+扶将出拜，帝下车立曰： 大姊，何藏之深也？
+载至长乐宫，与俱谒太后，太后垂涕，女亦悲泣。
+帝奉酒，前为寿。
+钱千万，奴婢三百人，公田百顷，甲第，以赐姊。
+太后谢曰： 为帝费。
+因赐汤沐邑，号修成君。
+男女各一人，女嫁诸侯，男号修成子仲，以太后故，横于京师。
+太后凡立二十五年，后景帝十五岁，元朔三年崩，合葬阳陵。
+孝武陈皇后，长公主嫖女也。
+曾祖父陈婴与项羽俱起，后归汉，为堂邑侯。
+传子至孙午，午尚长公主，生女。
+初，武帝得立为太子，长主有力，取主女为妃。
+及帝即位，立为皇后，擅宠骄贵，十余年而无子，闻卫子夫得幸，几死者数焉。
+上愈怒。
+后又挟妇人媚道，颇觉。
+元光五年，上遂穷治之，女子楚服等坐为皇后巫蛊祠祭祝诅，大逆无道，相连及诛者三百余人，楚服枭首于市。
+使有司赐皇后策曰： 皇后失序，惑于巫祝，不可以承天命。
+translation: 
+When Emperor Wu first came to the throne, Han Yan told him about the incident.
+Emperor Wu said: Why didn't you tell me earlier?
+So he went to greet him in person.
+Her family lived in a small market in Changling. Emperor Wu and others went straight to her door and sent their men in to invite Jin.
+His family was horrified, and Kim was so frightened that he hid.
+The servants helped her out to pay homage to the emperor. As soon as Emperor Wu got out of the car, he said: Sister, why are you hiding so deeply?
+Then they got in the car and went to Changle Palace to meet the Queen Mother together. The Queen Mother shed tears, and Jin also cried sadly.
+Emperor Wu raised a glass of wine and came forward to wish them longevity.
+Emperor Wu rewarded his sister with 10 million guan of money, 300 slaves, 100 hectares of land, and a luxurious mansion.
+The Queen Mother thanked her and said, "It's a waste of time for the Emperor."
+He also gave her Tang Muyi and named her Xiuchengjun.
+Lord Xiucheng had one son and one daughter each. His daughter was married to a prince, and his son was called Xiucheng Zizhong. He relied on the power of the Queen Mother to run rampant and tyrannical in the capital.
+The Queen Mother reigned for a total of twenty-five years. Fifteen years after the death of Emperor Jing, that is, the third year of Yuan Shuo, the Queen Mother died and was buried with Emperor Jing in Yangling.
+Empress Chen, Emperor Xiaowu, was the daughter of the eldest princess Liu Piao.
+Her great-grandfather Chen Ying and Xiang Yu fought together, and later surrendered to the King of Han and were granted the title of Marquis of Tangyi.
+The title was passed on to his son, and then to his grandson Chen Wu. Chen Wu married the eldest princess and gave birth to a daughter.
+At the beginning, when Emperor Wu was able to be established as the prince, the eldest princess contributed a lot, so he married the eldest princess's daughter as his concubine.
+After Emperor Wu came to the throne, Chen was appointed as the queen. She was extremely favored, proud and domineering. She had not had children for more than ten years. When she heard that Wei Zifu was favored by the emperor, he repeatedly harmed her.
+Emperor Wu became even more angry.
+Empress Chen once again used women's pleasing skills to try to win the emperor's favor, and things gradually came to light.
+In the fifth year of Yuanguang, Emperor Wu investigated and punished the incident. The woman Chu Fu and others were convicted of using sorcery to bring disaster to others on behalf of the queen. The crime was so heinous that more than 300 people were killed. Chu Fu was beheaded in public display.
+The emperor sent an official to reward the queen with a document saying: The queen does not abide by etiquette, prays to ghosts and gods, brings disaster to others, and cannot bear the destiny.
+
+summary:
+summary line 8: Empress Chen of Emperor Xiaowu was the daughter of the eldest princess. She was favored but had no children for over ten years. When Wei Zifu was favored, Empress Chen used sorcery, leading to her deposition and retreat to Nagato Palace. She died and was buried in Baling.
+
+Chunk 15: 
+original: 
+入宫岁余，不复幸。
+武帝择宫人不中用者斥出之，子夫得见，涕泣请出。
+上怜之，复幸。遂有身，尊宠。
+召其兄卫长君、弟青侍中。
+而子夫生三女，元朔元年生男据，遂立为皇后。
+先是，卫长君死，乃以青为将军，击匈奴有功，封长平侯。
+青三子在襁褓中，皆为列侯。
+及皇后姊子霍去病亦以军功为冠军侯，至大司马票骑将军。
+青为大司马大将军。
+卫氏支属侯者五人。
+青还，尚平阳主。
+皇后立七年，而男立为太子。
+后色衰，赵之王夫人、中山李夫人有宠，皆蚤卒。
+后有尹婕妤、钩弋夫人更幸。
+卫后立三十八年，遭巫蛊事起，江充为奸，太子惧不能自明，遂与皇后共诛充，发兵，兵败，太子亡走。
+诏遣宗正刘长乐、执金吾刘敢奉策收皇后玺绶，自杀。
+黄门苏文、姚定汉舆置公车令空舍，盛以小棺，瘗之城南桐柏。
+卫氏悉灭。
+宣帝立，乃改葬卫后，追谥曰思后，置园邑三百家，长丞周卫奉守焉。
+孝武李夫人，本以倡进。
+初，夫人兄延年性知音，善歌舞，武帝爱之。
+每为新声变曲，闻者莫不感动。
+translation: 
+It has been more than a year since Madam Weizi's palace was visited by the Emperor again.
+Emperor Wu selected the maids who were no longer needed in the palace and drove them out of the palace. Zifu was able to see Emperor Wu and cried and begged to be allowed to leave the palace.
+Emperor Wu was very fond of her. Fortunately, Zihu became pregnant again, and she was deeply favored by Emperor Wu.
+Emperor Wu called Zifu's elder brother Wei Changjun and younger brother Wei Qing to serve as servants.
+Zifu gave birth to three daughters. In the first year of Yuanshuo, his son Liu Shi was born, and she was named queen.
+After the death of Wei Changjun, Wei Qing was made a general. He made great achievements in conquering the Xiongnu and was granted the title of Marquis of Changping.
+Wei Qing had three sons who were ennobled as marquises when they were still in their infancy.
+Huo Qubing, the son of Empress Wei's sister, was also awarded the title of Champion Marquis for his military merits, and his official rank reached the rank of Grand Sima Hussar General.
+Wei Qing is the great general of Sima.
+Five of Wei's relatives were granted the title of marquis.
+Wei Qing returned from the expedition and married Princess Pingyang.
+In the seventh year after Queen Wei was enthroned, her son was established as the prince.
+Later, the queen's appearance deteriorated, and Mrs. Wang of Zhao and Mrs. Li of Zhongshan were favored by Emperor Wu, and they both died young.
+Later, Mrs. Yin Jiandan and Mrs. Gou Yi were favored by Emperor Wu one after another.
+In the thirty-eighth year of Queen Wei's reign, she encountered a witchcraft disaster and Jiang Chong used treacherous tactics. The prince was afraid but could not prove his innocence, so he and Queen Wei killed Jiang Chong and raised an army. As a result, the battle was defeated and the prince escaped.
+Emperor Wu issued an edict and sent Zongzheng Liu Changle and Zhijinwu Liu Gan to take back the queen's seal with documents, and Queen Wei committed suicide.
+Huangmen Suwen and Yao Dinghan carried the body of Empress Shangwei in a car and placed it in an empty room in the public carriage. They also put it into a small coffin and buried it in Tongbai in the south of the city.
+The entire Wei family was killed.
+After Emperor Xuan ascended the throne, Empress Wei was buried instead, and she was given the posthumous title of Empress Mi. A cemetery and 300 households were set up, and the director and the chief minister were ordered to offer sacrifices to her.
+Mrs. Li, Emperor Xiaowu, originally entered the palace as a singer.
+At first, Mrs. Li's brother Li Yannian was proficient in music and good at singing and dancing, and Emperor Wu liked him very much.
+Every time Li Yannian composed a new piece of music, everyone who heard it was moved.
+
+summary:
+summary line 9: Empress Xiaowu Wei, also known as Zifu, was a singer of Princess Pingyang. Emperor Wu favored her, and she gave birth to a son, Liu Shi, who was made prince. Wei Qing and Huo Qubing became generals. Later, Empress Wei's appearance deteriorated, and she faced a witchcraft disaster. The prince killed Jiang Chong and raised an army but was defeated. Empress Wei committed suicide. After Emperor Xuan ascended the throne, she was reburied with the posthumous title of Empress Mi.
+
+Chunk 16: 
+original: 
+延年侍上起舞，歌曰： 北方有佳人，绝世而独立，一顾倾人城，再顾倾人国。
+宁不知倾城与倾国，佳人难再得！
+上叹息曰： 善！
+世岂有此人乎？
+平阳主因言延年有女弟，上乃召见之，实妙丽善舞。
+由是得幸，生一男，是为昌邑哀王。
+李夫人少而蚤卒，上怜闵焉，图画其形于甘泉宫。
+及卫思后废后四年，武帝崩，大将军霍光缘上雅意，以李夫人配食，追上尊号曰孝武皇后。
+初，李夫人病笃，上自临候之，夫人蒙被谢曰： 妾久寝病，形貌毁坏，不可以见帝。
+愿以王及兄弟为托。
+上曰： 夫人病甚，殆将不起，一见我属托王及兄弟，岂不快哉？ 夫人曰： 妇人貌不修饰，不见君父。
+妾不敢以燕媠见帝。
+上曰： 夫人弟一见我，将加赐千金，而予兄弟尊言。
+夫人曰： 尊官在帝，不在一见。
+上复言欲必见之，夫人遂转乡歔欷而不复言。
+于是上不说而起。
+夫人姊妹让之曰： 贵人独不可一见上属托兄弟邪？
+何为恨上如此？
+夫人曰： 所以不欲见帝者，乃欲以深托兄弟也。
+我以容貌之好，得从微贱爱幸于上。
+translation: 
+He danced for Emperor Wu and sang: There is a beauty in the north, whose beauty is unparalleled in the world. Look back and smile, overturning the country. Look back and smile again, overturning the country.
+It’s not that we don’t cherish the city and country, it’s just that beauty is hard to come by again.
+The emperor sighed and said: OK!
+Is there really such a person in the world?
+Princess Pingyang said that Li Yannian had a sister, and Emperor Wu summoned her. She was indeed beautiful and good at dancing.
+Therefore, he was favored by Emperor Wu and gave birth to a son, King Ai of Changyi.
+Mrs. Li died young but died young. Emperor Wu felt very sorry for her, so he painted a portrait of her and hung it in Ganquan Palace.
+Four years after Wei Si was deposed, Emperor Wu died. General Huo Guang followed Emperor Wu's wishes and gave Mrs. Li the title of Queen Xiaowu in the ancestral temple.
+At first, Mrs. Li was seriously ill, and Emperor Wu went to visit her in person. The wife covered her face with a quilt and said: I have been ill for a long time and am ugly, so I cannot see the emperor.
+Please take good care of my son and brother, Your Majesty. Emperor Wu said: My wife is very ill and may be dying.
+Aren't you happy to meet me and tell me about your son and brothers? The lady said: A woman cannot see her father without dressing up.
+I don't dare to see the emperor in a disheveled manner.
+Emperor Wu said: Madam, as long as you meet me once, I will reward you with a thousand pieces of gold, and give your brother a promotion.
+The lady said: The promotion is decided by the emperor, not just to meet me.
+Emperor Wu said again that he must see her, so the lady turned away and sobbed and stopped talking.
+So Emperor Wu left very unhappy.
+The madam's sister complained to her and said, "Can't you meet with the emperor and ask about your brother's affairs?"
+Why are you so resentful of the emperor?
+The lady said: The reason why I don't want to see the emperor is to take this opportunity to entrust my brother.
+By virtue of my beauty, I was able to win the favor of the emperor from a humble person.
+
+summary:
+summary line 10: Mrs. Li of Emperor Xiaowu was a singer. Her brother Li Yannian sang about a beauty, and Emperor Wu summoned her. She gave birth to King Ai of Changyi but died young. Emperor Wu mourned her and later gave her the title of Queen Xiaowu. Her brothers Li Guangli and Li Yannian were rewarded, but the Li family was later exterminated.
+
+Chunk 20: 
+original: 
+后卫太子败，而燕王旦、广陵王胥多过失，宠姬王夫人男齐怀王、李夫人男昌邑哀王皆蚤薨，钩弋子年五六岁，壮大多知，上常言 类我 ，又感其生与众异，甚奇爱之，心欲立焉，以其年稚母少，恐女主颛恣乱国家，犹与久之。
+钩弋婕妤从幸甘泉，有过见谴，以忧死，因葬云阳。
+后上疾病，乃立钩弋子为皇太子。
+拜奉车都尉霍光为大司马大将军，辅少主。
+明日，帝崩。
+昭帝即位，追尊钩弋婕妤为皇太后，发卒二万人起云陵，邑三千户。
+追尊外祖赵父为顺成侯，诏右扶风置园邑二百家，长丞奉守如法。
+顺成侯有姊君姁，赐钱二百万，奴婢第宅以充实焉。
+诸昆弟各以亲疏受赏赐。
+赵氏无在位者，唯赵父追封。
+孝昭上官皇后。
+祖父桀，陇西人邽人也。
+translation: 
+Later, Crown Prince Wei was defeated. King Liu Dan of Yan and King Liu Xu of Guangling often did wrong things. King Qi Huai, son of the doting Queen, and King Ai of Changyi, son of Mrs. Li, both died early. When Gou Yizi was five or six years old, he was born with a great body and very smart. Emperor Wu often said: "Like me" , and felt that his birth was different from others, so he loved him especially, and planned to make him the prince. And because he was young and his mother was young, he was worried that the heroine's dictatorship would cause chaos in the country again, so he always hesitated.
+Gou Yi Jiandan followed Emperor Wu to Ganquan Palace. He made a small mistake and was scolded by Emperor Wu. As a result, he died of fear and was buried in Yunyang.
+Later, Emperor Wu became seriously ill and appointed Gou Yizi as the crown prince.
+He also named Huo Guang, the captain of Fengche, as the Great Sima General and asked him to assist the young monarch.
+The next day, Emperor Wu died.
+After Emperor Zhao ascended the throne, he honored Gou Yi's nephew as the empress dowager, sent 20,000 soldiers to build Yunling Tomb, and set up 3,000 families to guard the mausoleum.
+He also honored his maternal grandfather, Father Zhao, as the Marquis of Shuncheng, and issued an edict to set up a cemetery and 200 households in Youfufeng, and set up a Changcheng to guard it in accordance with the law.
+Marquis Shuncheng had a sister named Junju, and he rewarded her with two million yuan, slaves and a house.
+The brothers of Marquis Shuncheng each gave rewards according to their closeness.
+There was no official in the Zhao family, only Zhao Jiantun's father was forced to become a marquis.
+Emperor Xiaozhao and Queen Shangguan.
+Her grandfather Shangguan Jie was from Shangbang in Longxi.
+
+summary:
+summary line 11: Gouyi of Emperor Xiaowu was the mother of Emperor Zhao. Emperor Wu summoned her, and she gave birth to Emperor Zhao after fourteen months. After Crown Prince Wei's defeat, Gou Yizi was made prince. Emperor Wu appointed Huo Guang to assist him. After Emperor Zhao ascended the throne, Gouyi was honored as empress dowager, and her father was named Marquis of Shuncheng.
+
+Chunk 24: 
+original: 
+书奏，上以问光，光执不许。
+及告光罪过，上又疑之，愈亲光而疏桀、安。
+桀安浸恚，遂结党与谋杀光，诱征燕王至而诛之，因废帝而立桀。
+或曰： 当如皇后何？
+安曰： 逐麋之狗，当顾菟邪！
+且用皇后为尊，一旦人主意有所移，虽欲为家人亦不可得，此百世之一时也。
+事发觉，燕王、盖主皆自杀。
+语在《霍光传》。
+桀、安宗族既灭，皇后以年少不与谋，亦光外孙，故得不废。
+皇后母前死，葬茂陵郭东，追尊曰敬夫人，置园邑二百家，长丞奉守如法。
+皇后自使私奴婢守桀、安冢。
+光欲皇后擅宠有子，帝时体不安，左右及医皆阿意，言宜禁内，虽宫人使令皆为穷裤，多其带，后宫莫有进者。
+translation: 
+After the memorial was presented, Emperor Zhao asked Huo Guang for his opinion, but Huo Guang insisted that he disagreed.
+When King Yan wrote another letter accusing Huo Guang of being guilty, Emperor Zhao became more suspicious. He became closer to Huo Guang and alienated Shangguan Jie and Shangguan An.
+Shangguan father and son gradually became angry from shame, so they secretly gathered their party members to plot to kill Huo Guang, tricked King Yan into coming to Beijing to kill Huo Guang, and then deposed Emperor Zhao and established Shangguan Jie as emperor.
+Someone said: What can the queen do?
+Shangguan An said: Can a hunting dog chasing a moose care about a little rabbit?
+Moreover, relying on the queen to obtain the honorable position, once the emperor changes his mind, it is impossible to become a commoner. This is true no matter what dynasty.
+After the incident was revealed, both King Yan and Princess Gai committed suicide.
+This incident is recorded in "The Biography of Huo Guang".
+Shangguan Jie and Shangguan An's father and son were exterminated. The queen was young and did not participate in the rebellion. She was Huo Guang's granddaughter, so she was not deposed.
+The queen's mother had died before that and was buried to the east of Maolingguo. She was given the honorific title Lady Jing, and a cemetery and 200 households were set up.
+The queen sent her slaves to guard the tombs of Shangguan Jie and Shangguan An.
+Huo Guang hoped that the queen would be pampered and give birth to a son. Emperor Zhao was often in poor health. The waiters and medical officers around him all agreed with Huo Guang and said that desires should be controlled. Even the maids ordered them to wear crotchless pants and many belts, so no women in the harem could enter the palace.
+
+summary:
+summary line 12: Emperor Xiaozhao and Queen Shangguan were the granddaughter of Huo Guang. She became queen at six years old. Shangguan Jie and Shangguan An plotted to kill Huo Guang but were exposed and exterminated. The queen, young and uninvolved, was not deposed. After Emperor Zhao's death, she became empress dowager and died at fifty-two, buried with Emperor Zhao.
+
+Chunk 25: 
+original: 
+皇后立十岁而昭帝崩，后年十四五云。
+昌邑王贺征即位，尊皇后为皇太后。
+光与太后共废王贺，立孝宣帝。
+宣帝好位，为太皇太后。
+凡立四十七年，年五十二，建昭二年崩，合葬平陵。
+卫太子史良娣，宣帝祖母也。
+太子有妃，有良娣，有孺子，妻、妾凡三等，子皆称皇孙。
+史良娣家本鲁国，有母贞君，史恭。
+以元鼎四年人为良娣，生男进，号史皇孙。
+武帝末，巫蛊事起，卫太子及良娣、史皇孙皆遭害。
+史皇孙有一男，号皇曾孙，时生数月，犹坐太子系狱，积五岁乃遭赦。
+治狱使者邴吉怜皇曾孙无所归，载以付史恭。
+恭母贞君年老，见孙孤，甚哀之，自养视焉。
+后曾孙收养于掖庭，遂登至尊位，是为宣帝。
+而贞君及恭已死，恭三子皆以旧恩封。
+长子高为乐陵侯，曾为将陵侯，玄为平台侯，及高子丹以功德封武阳侯，侯者凡四人。
+高至大司马车骑将军，丹左将军，自有传。
+translation: 
+In the tenth year after Queen Shangguan was enthroned, Emperor Zhao died. The queen is only fourteen or fifteen years old.
+Liu He, the king of Changyi, was summoned to become the emperor, and Queen Shangguan was honored as the empress dowager.
+Later, Huo Guang and the Queen Mother deposed Liu He and established Emperor Xiaoxuan instead.
+After Emperor Xuan ascended the throne, the Queen Mother became the Empress Dowager.
+Shangguan reigned for a total of forty-seven years. She died at the age of fifty-two in the second year of Jianzhao, and she and Emperor Zhao were buried together in Pingling.
+Shi Liangdi, the crown prince of Wei, was the grandmother of Emperor Xuan.
+The prince has concubines, concubines, and children. The wives and concubines are divided into three levels, and the sons are called the emperor's grandchildren.
+Shi Liangdi was originally from the state of Lu. Her mother was named Zhenjun and her brother was named Shi Gong.
+In the fourth year of Yuanding, Shi entered the palace and became the crown prince Liangdi. She gave birth to a son, Liu Jin, who was called the grandson of Emperor Shi.
+In the last years of Emperor Wu's reign, a witchcraft disaster occurred, and Prince Wei, Liang Di, and Emperor Shi's grandson were all killed.
+Shi Huangsun had a son, called Huang great-grandson, who was just a few months old at the time. He was also implicated by the prince and imprisoned. He was not pardoned until he was five years old.
+Bing Ji, the envoy in charge of the prison, took pity on the emperor's great-grandson and gave him to Shi Gong to raise him.
+Shi Gong's mother, Zhenjun, was old. Seeing the child alone, she felt very sad, so she took care of the child herself.
+Later, the great-grandson of the emperor was adopted in Yeting and became emperor again, namely Emperor Xuan.
+At this time Zhenjun and Shi Gong had passed away, and Shi Gong's three sons were all rewarded for their old kindness.
+The eldest son Shi Gao was granted the title of Marquis of Leling, Shi Zeng was granted the title of Marquis of General Ling, and Shi Xuan was granted the title of Marquis of Platform. When Shi Gao's son Shi Dan was granted the title of Marquis of Wuyang due to his merit and virtue, there were four people in the Shi family who were granted the title of marquis.
+Shi Gaoguan was promoted to the Great Sima Cavalry General, and Shi Dan was promoted to Zuo General. They each have their own biographies.
+
+summary:
+summary line 13: Shi Liangdi of Crown Prince Wei was the grandmother of Emperor Xuan. She gave birth to Liu Jin, who was killed in a witchcraft disaster. Emperor Xuan, as a baby, was saved and raised by Shi Gong. After becoming emperor, he honored Shi Liangdi as Mourning Queen.
+
+Chunk 26: 
+original: 
+史皇孙王夫人，宣帝母也，名翁须，太始中得幸于史皇孙。
+皇孙妻、帝无号位，皆称家人子。
+征和二年，生宣帝。
+帝生数月，卫太子、皇孙败，家人子皆坐诛，莫有收葬者，唯宣帝得全。
+即尊位后，追尊母王夫人谥曰悼后，祖母史良娣曰戾后，皆改葬，起园邑，长丞奉守。
+语在《戾太子传》。
+地节三年，求得外祖母王媪，媪男无故，无故弟武皆随使者诣阙。
+时乘黄牛车，故百姓谓之黄牛妪。
+初，上即位，数遣使者求外家。久远，多似类而非是。
+既得王媪，令太中大夫任宣与丞相御史属杂考问乡里识知者，皆曰王妪。
+妪言名妄人，家本涿郡蠡吾平乡。
+年十四嫁为同乡王更得妻。
+translation: 
+Mrs. Wang Sun, Emperor Xuan's mother, was named Wengxu. She was favored by Sun Huang during the Taishi period.
+The wives and concubines of the emperor's grandson have no names and are all called family members.
+In the second year of Zhenghe, Wengxu gave birth to Emperor Xuan.
+Only a few months after Emperor Xuan was born, Crown Prince Wei and Emperor Shi's grandson were defeated, and all their family members were implicated and killed. Their bodies could not be collected and buried. Only Emperor Xuan survived.
+After Emperor Xuan ascended the throne, he honored his mother, Mrs. Wang, with the title of Mourning Queen, and his grandmother, Shi Liangdi, with the title of Mourning Queen. They were all reburied, a cemetery and a family home were set up, and Chang Cheng guarded them.
+This incident is recorded in "The Biography of Prince Ru."
+In the third year of Dijie, Emperor Xuan found his grandmother Wang Yu. Wang Yu's son Wang Wuyou and Wuyou's younger brother Wang Wu both followed the envoys to the palace.
+At that time, they were riding in a scalper's cart, so the people called Wang Lao the scalper woman.
+At the beginning, after Emperor Xuan ascended the throne, he sent envoys many times to find people in his grandmother's family. However, due to the passage of time, many people looked similar but were not.
+After finding Wang Nu, he sent Taizhong doctor Ren Xuan and the officials under the Prime Minister and Yushi to ask people in the same town who knew her, and they all said she was Wang Nu.
+Concubine Wang said that her name was Huanren and that she was originally from Liwuping Township, Zhuo County.
+When she was fourteen years old, she married the king of her hometown, Geng.
+
+summary:
+summary line 14: Mrs. Wang Sun, Emperor Xuan's mother, was named Wengxu. She gave birth to Emperor Xuan but was killed in the disaster. Emperor Xuan honored her as Mourning Queen and found his grandmother Wang Yu, who was named Lord Boping. The Wang family had two marquises.
+
+Chunk 30: 
+original: 
+贺弟安世为右将军，与霍将军同心辅政，闻贺称誉皇曾孙，欲妻以女，安世怒曰： 曾孙乃卫太子后也，幸得以庶人衣食县官，足矣，勿复言予女事。
+于是贺止。
+时许广汉有女平君，年十四五，当为内者令欧侯氏子妇。
+临当入，欧侯氏子死。
+其母将行卜相，言当大贵，母独喜。
+贺闻许啬夫有女，乃置酒请之，酒酣，为言： 曾孙体近，下人，乃关内侯，可妻也。 广汉许诺。
+明日，妪闻之，怒。
+广汉重令为介，遂与曾孙，一岁生元帝。
+数月，曾孙立为帝，平君为婕妤。
+是时，霍将军有小女，与皇太后有亲。
+公卿议更立皇后，皆心仪霍将军女，亦未有言。
+上乃诏求微时故剑，大臣知指，白立许婕妤为皇后。
+既立，霍光以后父广汉刑人不宜君国，岁余乃封为昌成君。
+霍光夫人显欲贵其小女，道无从。
+明年，许皇后当娠，病。
+女医淳于衍者，霍氏所爱，尝入宫侍皇后疾。
+translation: 
+Zhang He's younger brother Zhang Anshi served as the right general and worked with General Huo to assist Emperor Zhao. When he heard Zhang He praising the emperor's great-grandson and wanting to marry his granddaughter to him, he became angry and said: The emperor's great-grandson is a descendant of Prince Wei. He is fortunate enough to be supported by the court as a commoner. It is enough. Don't mention marrying his granddaughter to him.
+Therefore Zhang He had to give up.
+At that time, Xu Guanghan had a daughter named Pingjun, who was fourteen or fifteen years old. She was supposed to be the daughter-in-law of the concubine Ling Ouhou.
+When it was time to get married, Ouhou's son died.
+Her mother asked a fortune teller to tell her that she would be rich and wealthy, and her mother was secretly happy.
+Zhang He heard that Xu Shifu had a daughter, so he held a banquet for him. When he was drinking well, he said, "The emperor's great-grandson is close relatives with the emperor. Even if his talents are inferior, he can still be a Marquis of Guannei. You can betroth your daughter to him as your wife."
+Guangmo agreed. The next day, Pingjun's mother heard the news and was very angry.
+But Guangmo hired someone to act as a matchmaker again, so he married his daughter to the emperor's great-grandson, and gave birth to Emperor Yuan a year later.
+A few months later, the emperor's great-grandson was appointed emperor, and Lord Xu Ping was named Qizai.
+At this time, General Huo also had a young daughter who was not married and was related to the Empress Dowager.
+The ministers proposed to appoint a queen, and they all preferred General Huo's daughter, but no one spoke.
+Emperor Xuan issued an edict to find an old sword he had owned when he was poor and humble. The ministers understood the emperor's intention and petitioned to appoint Xu Jianzi as queen.
+After the queen was appointed, Huo Guang believed that the queen's father Xu Guangmo was a man who had been castrated and was not suitable for managing the place. It took more than a year before he named him Lord Changcheng.
+Huo Guang's wife Huo Xian wanted to make her little daughter noble, but she couldn't think of a way.
+The next year, Queen Xu fell ill when she was about to give birth.
+The female doctor Chun Yuyan had a close relationship with the Huo family and once went to the palace to serve the queen.
+
+summary:
+summary line 15: Empress Xu of Emperor Xiaoxuan was the mother of Wuhu. Her father Xu Guanghan was a eunuch. Emperor Xuan, as a great-grandson, married Xu Pingjun, who gave birth to Emperor Yuan. After becoming emperor, Xu was made queen. Huo Guang's wife Huo Xian had her poisoned to make her daughter queen. Queen Xu died and was named Queen Gongai.
+
+Chunk 33: 
+original: 
+母显，即使淳于衍阴杀许后，显因为成君衣补，治入宫具，劝光内之，果立为皇后。
+初，许后起微贱，登至尊日浅，从官车服甚节俭，五日一朝皇太后于长乐宫，亲奉案上食，以妇道共养。
+及霍后立，亦修许后故事。而皇太后亲霍后之姊子，故常竦体，敬而礼之。
+皇后轝驾侍从甚盛，赏赐官属以千万计，与许后时县绝矣。
+上亦宠之，颛房燕。
+立三岁而光薨。
+后一岁，上立许后男为太子，昌成君者为平恩侯。
+显怒恚不食，呕血，曰： 此乃民间时子，安得立？
+即后有子，反为王邪！
+复教皇后令毒太子。
+皇后数召太子赐食，保阿辄先尝之，后挟毒不得行。
+后杀许后事颇泄，显遂与诸婿昆弟谋反，发觉，谐诛灭。
+使有司赐皇后策曰： 皇后荧惑失道，怀不德，挟毒与母博陆宣成侯夫人显谋欲危太子，无人母之恩，不宜奉宗庙衣服，不可以承天命。
+其退避宫，上玺绶有司。
+霍后立五年，废处昭台宫。
+后十二岁，徙云林馆，乃自杀，葬昆吾亭东。
+translation: 
+Queen Huo's mother, Huo Xian, sent Chunyu Yan to kill Queen Xu secretly. Then she made Chengjun's wedding clothes, prepared the tools for entering the palace, and persuaded Huo Guang to send his daughter to the palace. Sure enough, Chengjun was appointed queen.
+At the beginning, Empress Xu was from a humble background, and her time as empress was very short. Her servants, drivers, and attire were all very frugal. She went to Changle Palace to see the Empress Dowager every five days, and personally held a food table to offer food to the Empress Dowager, as a filial piety to her granddaughter-in-law.
+When I arrived at Queen Huo, I also followed the old practices of Queen Xu. However, the Queen Mother was the daughter of Queen Huo's sister, so she was always cautious and respected her very much.
+The queen's chariots and horses were very impressive, and she rewarded her subordinates with tens of millions of dollars, which was very different from that of Queen Xu.
+Emperor Xuan also doted on her very much, and Queen Yuzu was the only one who was good at doting on her.
+In the third year after Queen Huo was enshrined, Huo Guang passed away.
+Another year later, Emperor Xuan appointed Queen Xu's son as the prince, and granted Chang Chengjun the title of Ping'enhou.
+Huo Xian was so angry that he couldn't eat and even vomited blood. He said, "This is a child born in the common people. How can he be made a prince?"
+If the queen gives birth to a son, can she only become the king?
+She also instructed Queen Huo to poison the prince.
+The queen summoned the prince many times to give him food, but the nanny always tasted it first, and the queen hid poison but could not use it.
+Later, the murder of Queen Xu was gradually leaked out, and Huo Xian conspired with his son-in-law and his children. The plot was leaked, and Emperor Xuan had the Huo family wiped out.
+He also sent a secretary to give the queen a document, saying: The queen has evil intentions and evil intentions. She conspired with her mother, Huo Xian, the wife of Hou Xuancheng and Bo Lu, to harm the prince. She has no kindness as a mother and is not suitable to worship the ancestors anymore, let alone accept the destiny. well!
+He should retreat to the cold palace and return his seal and ribbon.
+Queen Huo reigned for five years and was deposed and took refuge in Zhaotai Palace.
+Twelve years later, when Huo was asked to move to Yunlin Pavilion, she committed suicide and was buried east of Kunwu Pavilion.
+
+summary:
+summary line 16: Empress Huo of Emperor Xiaoxuan was the daughter of Huo Guang. After Queen Xu's death, she became queen. Huo Xian tried to poison the prince but failed. The murder was exposed, and the Huo family was wiped out. Queen Huo was deposed and committed suicide.
+
+Chunk 12: 
+original: 
+会薄皇后废，长公主日谮栗姬短。
+景帝尝属诸姬子，曰： 吾百岁后，善视之。
+栗姬怒不肯应，言不逊，景帝心衔之而未发也。
+长公主日誉王夫子男之美，帝亦自贤之。
+又耳曩者所梦日符，计未有所定。
+王夫人又阴使人趣大臣立栗姬为皇后。
+大行奏事，文曰：  子以母贵，母以子贵。 今太子母号宜为皇后。
+帝怒曰： 是乃所当言邪！
+遂案诛大行，而废太子为临江王。
+栗姬愈恚，不得见，以忧死。
+卒立王夫人为皇后，男为太子。
+封皇后兄信为盖侯。
+初，皇后始入太子家，后女弟皃姁亦复入，生四男。
+皃姁蚤卒，四子皆为王。
+皇后长女为平阳公主，次南宫公主，次隆虑公主。
+皇后立九年，景帝崩。
+武帝即位，为皇太后，尊太后母臧皃为平原君，封田蚡为武安侯，胜为周阳侯。
+王氏、田氏侯者凡三人。
+盖侯信好酒，田蚡、胜贪，巧于文辞。
+蚡至丞相，追尊王仲为共侯，槐里起园邑二百家，长丞奉守。
+及平原君薨，从田氏葬长陵，亦置园邑如共侯法。
+初，皇太后微时所为金王孙生女俗，在民间，盖讳之也。
+translation: 
+At this time, Queen Bo was deposed, and the eldest princess spoke ill of Li Ji in front of Emperor Jing every day.
+Emperor Jing once entrusted Li Ji with the princes born to his wives, saying: After I die, you must take good care of them.
+Li Ji was very angry, refused to agree, and spoke rudely. Emperor Jing was very dissatisfied, but he did not show it.
+The eldest princess praised Mrs. Wang's son every day, and Emperor Jing himself thought the child was talented.
+Coupled with the auspicious news that the child was born in a dream, Emperor Jing thought about it over and over again and could not make up his mind.
+Mrs. Wang secretly sent people to urge the ministers to propose canonizing Li Ji as queen.
+Daxing wrote a letter to commemorate the matter, and one sentence said: A son is more valuable than his mother, and a mother is more valuable than his son. Now the title of the prince's mother should be the queen.
+Emperor Jing was furious and said: Is this what you should say?
+So he went to Shao and killed Daxing, deposed the prince and changed his title to King Linjiang.
+Li Ji was even more angry and could not be summoned by the emperor, so she died of fear.
+Finally, Mrs. Wang was appointed queen, and Mrs. Wang's son became the prince.
+He also made Wang Xin, the brother of Queen Wang, the Marquis of Gai.
+At first, the queen had just entered the crown prince's womb, and later her sister Ergu was also brought in and gave birth to four sons.
+Erku died very early, and all four sons became kings.
+The queen's eldest daughter was named Princess Pingyang, her second daughter was named Princess Nangong, and her third daughter was named Princess Longlu.
+In the ninth year after Queen Wang was enthroned, Emperor Jing died.
+When Emperor Wu came to the throne and Queen Wang became the empress dowager, he honored his mother Zang'er as Lord of Pingyuan, Tian Pan as Marquis of Wu'an, and Tian Sheng as Marquis of Zhou Yang.
+There are three people in the Wang and Tian families who have been granted the title of marquis.
+Gaihou Wang Xin likes to drink, while Tian Xi and Tian Sheng are greedy and good at eloquence.
+Tian Jin's officials continued to be prime ministers, and he honored Wang Zhong as a co-marquis. He set up a cemetery and 200 households in Huaili, and set up a garden director and a garden chief to guard the sacrifices.
+After Lord Pingyuan passed away, he was buried with the Tian family in Changling, and a garden was also set up. The specifications and ceremonies were the same as those of Gonghou.
+At the beginning, when the Empress Dowager was humble, she gave the name of the daughter she gave birth to to King Jin's grandson, because among the people, she did not want anyone to know.
+
+summary:
+summary line 17: Emperor Xiaoxuan and Queen Wang were from a family with a marquis title. She became queen after Queen Huo's deposition, rarely favored. After Emperor Xuan's death, she became empress dowager and died in her seventies, buried with Emperor Xuan.
+

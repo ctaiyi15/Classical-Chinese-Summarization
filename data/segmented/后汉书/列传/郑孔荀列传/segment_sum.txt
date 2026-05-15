@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 6, 15]
+Summary uses chunk [0, 7, 21]
 
 Chunk 0: 
 original: 
@@ -43,60 +43,10 @@ Dong Zhuo was unhappy and said: According to what you say, soldiers are useless?
 Zheng Gongye became frightened, so he made up a lie and said to Dong Zhuo: "I'm not saying that soldiers are useless, I just mean that Shandong doesn't have enough soldiers."
 
 summary:
-summary line 0: # Summary of Historical Biographies
+summary line 0: **Zheng Taichuan (Zheng Gongye)** was born in Kaifeng, Henan, as the great-grandson of Sinong Zheng Zhong. Talented from youth, his mother foresaw chaos in the final years of Emperor Ling's reign and secretly befriended heroes. Despite owning 400 hectares of land, he often lacked food. He was renowned throughout Shandong. Initially recommended for office, he declined multiple appointments. When General He Jin recruited him as Minister of the Secretariat and Censor, Zheng warned against recruiting Dong Zhuo, predicting his violent ambition would endanger the court. He Jin ignored this advice, so Zheng resigned. After He Jin was killed and Dong Zhuo rebelled, Zheng conspired with others to oppose Dong Zhuo. When Dong Zhuo wanted to attack the rebels, Zheng argued that governing depends on virtue, not military might. Fearing Dong Zhuo's anger, he fabricated a flattering analysis listing ten reasons why Dong Zhuo would defeat the rebels. Dong Zhuo appointed him general, but others warned of Zheng's cunning, so Dong Zhuo revoked the command. Zheng later plotted to kill Dong Zhuo, but the plan leaked. He escaped to Yuan Shu, who appointed him Governor of Yangzhou, but he died en route at age forty-one.
 
-Chunk 0: 
+Chunk 7: 
 original: 
-郑太字公业，河南开封人，司农众之曾孙也。
-少有少略。灵帝末，知天下将乱，阴交结豪杰。
-家富于财，有田四百顷，而食常不足，名闻山东。
-初，举孝廉，三府辟，公车征，皆不就。
-及大将军何进辅政，征用名士，以公业为尚书待郎，迁待御史。
-进将诛阉官，欲召并州牧董卓为助。
-公业谓进曰： 董卓强忍寡义，志欲无厌。
-若借之朝政，授以大事。将恣凶欲，必危朝廷。
-明公以亲德之重，据阿衡之权，秉意独断，诛除有罪，诚不宜假卓以为资援也。
-且事留变生，殷鉴不远。
-又为陈时务之所急数事。
-进不能用，乃弃官去。
-谓颍川人旬攸曰： 何公未易辅也。
-进寻见害，卓果作乱。
-公业等与侍中伍琼、卓长史何颙共说卓，以袁绍为勃海太守，以发山东之谋。
-及义兵起，卓乃会公卿议，大发卒讨之，群僚莫敢忤旨。
-公业恐其众多益横，凶强难制，独曰： 夫政在德，不在众也。
-卓不悦，曰： 如卿此言，兵为无用邪？
-公业惧，乃诡词更对曰：非谓无用，以为山东不足加大兵耳。
-translation: 
-◆Zheng Taichuan, also named Gongye, was born in Kaifeng, Henan. The great-grandson of Sinong Zheng Zhong.
-He was talented when he was young. In the last years of Emperor Ling's reign, Mrs. Zheng knew that the world would be in chaos, so she secretly made friends with heroes.
-His family was very wealthy, with 400 hectares of land, but he often had no food to eat. He was very famous, and everyone in Shandong knew about him.
-At the beginning, he was promoted to Xiaolian, and he was recruited from the three government offices and buses, but he was not accepted.
-After the general He Jin assisted in the administration, he recruited famous people and appointed Zheng Gongye as the Minister of the Secretariat and promoted to the Censor.
-He Jin was preparing to kill the eunuchs and wanted to recruit Dong Zhuo, the governor of Bingzhou, as his assistant.
-Zheng Gongye said to He Jin: Dong Zhuo is violent, cruel, unloyal, and very ambitious.
-If you lend him the government affairs and grant him important tasks, you will be able to fulfill your evil desires and endanger the court.
-With your important position as a pro-German, you have the authority to guide the emperor and preside over state affairs. Chengyi is arbitrary and punishes the guilty, so he really shouldn't use Dong Zhuo's power as a back-up.
-And things change over time, and lessons are never far away.
-Why enter Chen's top priority?
-He Jin couldn't use it, so he abandoned his official position and left.
-He said to Xun You, a native of Yingchuan: Mr. He is not easy to help.
-He Jin was soon killed, and Dong Zhuo indeed rebelled.
-Zheng Gongye and others, together with his servant Wu Qiong and Dong Zhuo's chief historian He, jointly talked about Dong Zhuo and appointed Yuan Shao as the prefect of Bohai to carry out Shandong's plan.
-When the rebels arose, Dong Zhuo convened a discussion with the ministers and sent out a large army to attack the rebels. All the officials did not dare to violate Dong Zhuo's will.
-Zheng Gongye was worried that if Dong Zhuo had more soldiers, he would become more arrogant and vicious and difficult to control. He said: "Ruling a country depends on virtue, not on having many soldiers."
-Dong Zhuo was unhappy and said: According to what you say, soldiers are useless?
-Zheng Gongye became frightened, so he made up a lie and said to Dong Zhuo: "I'm not saying that soldiers are useless, I just mean that Shandong doesn't have enough soldiers."
-
-summary:
-summary line 1: **Zheng Taichuan (Zheng Gongye)** was born in Kaifeng, Henan, as the great-grandson of Sinong Zheng Zhong. Talented from youth, his mother foresaw chaos in the final years of Emperor Ling's reign and secretly befriended heroes. Despite owning 400 hectares of land, he often lacked food. He was renowned throughout Shandong. Initially recommended for office, he declined multiple appointments. When General He Jin recruited him as Minister of the Secretariat and Censor, Zheng warned against recruiting Dong Zhuo, predicting his violent ambition would endanger the court. He Jin ignored this advice, so Zheng resigned. After He Jin was killed and Dong Zhuo rebelled, Zheng conspired with others to oppose Dong Zhuo. When Dong Zhuo wanted to attack the rebels, Zheng argued that governing depends on virtue, not military might. Fearing Dong Zhuo's anger, he fabricated a flattering analysis listing ten reasons why Dong Zhuo would defeat the rebels. Dong Zhuo appointed him general, but others warned of Zheng's cunning, so Dong Zhuo revoked the command. Zheng later plotted to kill Dong Zhuo, but the plan leaked. He escaped to Yuan Shu, who appointed him Governor of Yangzhou, but he died en route at age forty-one.
-
-Chunk 6: 
-original: 
-时，黄巾复来侵暴，融乃出屯都昌，为贼管亥所围。
-融逼急，乃遣东莱太史慈求救于平原相刘备。
-备惊曰： 孔北海乃复知天下有刘备邪？
-即遣兵三千救之，贼乃散走。
-时，袁、曹方盛，而融无所协附。
 左丞祖者，称有意谋，劝融有所结纳。
 融知绍、操终图汉室，不欲与同，故怒而杀之。
 融负有高气，志在靖难，而才疏意广，迄无成功。
@@ -108,11 +58,6 @@ original:
 融乃独议曰： 日磾以上公之尊，秉髦节之使，衔命直指，宁辑东夏，而曲媚奸臣，为所牵率，章表署用，辄使首名，附下罔上，奸以事君。
 昔国佐当晋军而不挠，宜僚临白刃而正色。
 translation: 
-At this time, the Yellow Turbans invaded again. Kong Rong then went to Duchang County and was surrounded by the thief Guan Hai.
-Kong Rong was in great danger and sent Donglai Taishi Ci to ask for help from Pingyuan Prime Minister Liu Bei.
-Liu Bei said in surprise: Kong Beihai actually knew that there was another Liu Bei in the world.
-Three thousand soldiers were immediately sent to rescue him, but the thief escaped because he was scattered.
-At that time, Yuan Shao and Cao Cao were very powerful, and Kong Rong did not rely on anyone.
 Zuo Chengzu was rich in strategy and advised Kong Rong to join forces with Cao Cao and Yuan Shao.
 Kong Rong knew that Yuan Shao and Cao Cao were ultimately trying to usurp the Han Dynasty, and he didn't want to get involved with them, so he killed Zuo Chengzu in a rage.
 Kong Rong himself thought that he had a noble spirit and was determined to quell the country's crisis, but he failed because of his limited talents and empty ideas.
@@ -125,46 +70,44 @@ Every time the emperor visited and summoned his ministers, Kong Rong often made 
 In the past, the state assisted the enemy Jin army and was not convinced. Yi Liao's expression did not change in front of the shining white sword.
 
 summary:
-summary line 2: **Kong Rong**, a descendant of Confucius, showed exceptional intelligence as a child. At ten, he cleverly gained an audience with Li Ying by claiming family friendship through Confucius and Laozi. When Chen Wei dismissed him, Kong retorted sharply. At thirteen, his father's death caused such grief he needed support to stand. At sixteen, he sheltered the fugitive Zhang Jian, leading to his brother's execution when the family competed to take blame. Kong Rong became famous and was recruited as an official. He criticized corrupt eunuch relatives, offended He Jin, and later opposed Dong Zhuo's deposition of the Young Emperor. Dong Zhuo sent him to troubled Beihai as punishment. There, Kong Rong built cities, schools, promoted Confucianism, and recommended worthy men. When surrounded by Yellow Turban rebels, Liu Bei rescued him, amazed that Kong Rong knew of him. Kong Rong refused to ally with Yuan Shao or Cao Cao, knowing they would usurp the Han. After six years, Liu Bei recommended him as Qingzhou governor. Yuan Tan attacked; though outnumbered, Kong Rong remained calm, reading and laughing until the city fell. He fled, but his wife was captured. Later serving Emperor Xian, Kong Rong often made court decisions. He opposed corporal punishment, argued against publicizing Liu Biao's treason, and criticized Cao Cao's massacre of Yecheng and his son's marriage to Yuan Xi's wife. He mocked Cao Cao's campaigns and opposed his alcohol ban. Cao Cao, though outwardly tolerant, grew jealous. Eventually, Cao Cao had Kong Rong executed for treason at fifty-six. His children were also killed; his seven-year-old daughter and nine-year-old son calmly accepted death, saying a destroyed nest cannot have unbroken eggs.
+summary line 1: **Kong Rong**, a descendant of Confucius, showed exceptional intelligence as a child. At ten, he cleverly gained an audience with Li Ying by claiming family friendship through Confucius and Laozi. When Chen Wei dismissed him, Kong retorted sharply. At thirteen, his father's death caused such grief he needed support to stand. At sixteen, he sheltered the fugitive Zhang Jian, leading to his brother's execution when the family competed to take blame. Kong Rong became famous and was recruited as an official. He criticized corrupt eunuch relatives, offended He Jin, and later opposed Dong Zhuo's deposition of the Young Emperor. Dong Zhuo sent him to troubled Beihai as punishment. There, Kong Rong built cities, schools, promoted Confucianism, and recommended worthy men. When surrounded by Yellow Turban rebels, Liu Bei rescued him, amazed that Kong Rong knew of him. Kong Rong refused to ally with Yuan Shao or Cao Cao, knowing they would usurp the Han. After six years, Liu Bei recommended him as Qingzhou governor. Yuan Tan attacked; though outnumbered, Kong Rong remained calm, reading and laughing until the city fell. He fled, but his wife was captured. Later serving Emperor Xian, Kong Rong often made court decisions. He opposed corporal punishment, argued against publicizing Liu Biao's treason, and criticized Cao Cao's massacre of Yecheng and his son's marriage to Yuan Xi's wife. He mocked Cao Cao's campaigns and opposed his alcohol ban. Cao Cao, though outwardly tolerant, grew jealous. Eventually, Cao Cao had Kong Rong executed for treason at fifty-six. His children were also killed; his seven-year-old daughter and nine-year-old son calmly accepted death, saying a destroyed nest cannot have unbroken eggs.
 
-Chunk 15: 
+Chunk 21: 
 original: 
-彧以少有才名，故得免于讥议。
-南阳何颙名知人，见彧而异之，曰： 王佐才也。
-中平六年，举孝廉，再迁亢父令。
-董卓之乱，弃官归乡里。
-同郡韩融时将宗亲千余家，避乱密西山中。
-彧谓父老曰： 颍川，四战之地也。
-天下有变，常为兵冲。
-密虽小固，不足以大难，宜亟避之。
-乡人多怀土不能去。
-会冀州牧同郡韩馥遣骑迎之，彧乃独将宗族从馥，留者后多为董卓将李所杀略焉。
-彧比至冀州，而袁绍已夺馥位，绍待彧以上宾之礼。
-彧明有意数，见汉室崩乱，每怀匡佐之义。
-时，曹操在东郡，彧闻操有雄略，而度绍终不能定大业。
-初平二年，乃去绍从操。
-操与语大悦，曰： 吾子房也。
-以为奋武司马，时年二十九。
-明年，又为操镇东司马。
+操每征伐在外，其军国之事，皆与彧筹焉，彧又进操计谋之士从子攸，及钟繇、郭嘉、陈群、杜袭、司马懿、戏志才等，皆称其举。
+唯严象为杨州，韦康为凉州，后并负败焉。
+袁绍既兼河朔之地，有骄气。
+而操败于张绣，绍与操书甚倨。
+操大怒，欲先攻之，而患力不敌，以谋于彧。
+彧量绍虽强，终为操所制，乃说先取吕布，然后图绍，操从之。
+三年，遂擒吕布，定徐州。
+五年，袁绍率大众以攻许，操与相距。
+绍甲兵甚盛，议者咸怀惶惧。
+少府孔融谓彧曰： 袁绍地广兵强，田丰、许攸智计之士为其谋，审配、逢纪尽忠之臣任其事，颜良、文丑勇冠三军，统其兵，殆难克乎？
+彧曰： 绍兵虽多而法不整，田丰刚而犯上，许攸贪而不正，审配专而无谋，逢纪果而自用，颜良、文丑匹夫之勇，可一点而擒也。
+后皆如彧所筹，事在《袁绍传》。
+操保官度，与绍连战，虽胜而军粮方尽，书与彧议，欲还许以致绍师。
+彧报曰： 今谷食虽少，未若楚汉在荥阳、成皋间也。
+是时刘、项莫肯先退者，以为先退则势屈也。
+公以十分居一之众，画地而守之，扼其喉而不得进，已半年矣。
 translation: 
-Xun Yu was saved from being ridiculed because he was famous for his talent at a young age.
-He Yong from Nanyang claimed to be able to understand people. When he saw Xun Yu, he thought he was extraordinary and said: "This is the talent of the emperor's assistant."
-In the sixth year of Zhongping, he was recommended as Xiaolian and appointed as the magistrate of Kangfu County.
-When Dong Zhuo rebelled, he abandoned his official position and returned to his hometown.
-Han Rong from the same county took more than a thousand members of his clan to escape the chaos in the western mountains of Mi County.
-Xun Yu said to his elders: Yingchuan is a place where war must pass.
-When the world changes, it is often the place where troops are needed.
-Although Mi County is somewhat safe, it is not enough to withstand a major disaster. You should leave here as soon as possible.
-Most of the fellow countrymen are nostalgic for their homeland and are unwilling to leave.
-When Han Fu, a fellow herdsman from Jizhou, sent cavalry to pick them up, Xun Yu led his clan to follow Han Fu. Most of the people he left behind were later killed and robbed by Dong Zhuo's general Li Jue.
-By the time Xun Yu arrived in Jizhou, Yuan Shao had already usurped Han Fu's position. Yuan Shao treated Xun Yu like a distinguished guest.
-Xun Yu was a well-informed person. Seeing the chaos in the Han Dynasty, he always wanted to correct things.
-At that time, Cao Cao was in Dongjun. Xun Yu heard that Cao Cao was talented and strategist, but he estimated that Yuan Shao would not be able to achieve great things in the end.
-In the second year of Chuping, he left Yuan Shao and went to Cao Cao.
-Cao Cao was overjoyed after talking to him and said: "This is my Zhang Liang."
-He was appointed Fenwu Sima when he was twenty-nine years old.
-The next year, he was appointed Sima of Zhendong.
+Cao Cao often went out to fight, and discussed all major military and state affairs with Xun Yu. Xun Yu also recommended to Cao Cao his nephew Xun You who was good at strategy, as well as Zhong Yao, Guo Jia, Chen Qun, Du Xi, Sima Yi, Xi Zhicai, etc., and they all lived up to his recommendation.
+Only Yan Xiang was appointed governor of Yangzhou and Wei Kang was appointed governor of Liangzhou, but they were both defeated and died.
+After Yuan Shao annexed the land of Heshuo, he became arrogant.
+When Cao Cao was defeated by Zhang Xiu, Yuan Shao's letter to Cao Cao was very arrogant.
+Cao Cao was furious and wanted to attack Yuan Shao first, but was afraid that he would not be able to defeat him, so he discussed this with Xun Yu.
+Xun Yu estimated that although Yuan Shao was strong, he would be subdued by Cao Cao sooner or later, so he advised Cao Cao to eliminate Lu Bu first and then deal with Yuan Shao. Cao Cao followed his advice.
+In the third year of Jian'an, Lu Bu was finally captured and Xuzhou was pacified.
+In the fifth year of Jian'an, Yuan Shao led an army to attack Xuchang, and Cao Cao had a stalemate with him.
+Yuan Shao's army was large, and everyone who discussed this matter was afraid.
+Kong Rong, the Shaofu, said to Xun Yu: "Yuan Shao has a vast territory and a strong army. Wise men like Tian Feng and Xu You are planning for him. He has appointed ministers who are loyal and loyal to discipline and assigned to important positions. Yan Liang and Wen Chou are the bravest among the three armies." command his army.
+I'm afraid it's hard to win, right? Xun Yu said: Although Yuan Shao had many soldiers, his military law was not strict, Tian Feng was upright and committed crimes, Xu You was greedy and not upright, his officers were arbitrary but unintelligent, he was bold and self-righteous in the face of discipline, Yan Liangwen was brave and ugly, and he could capture them in one battle.
+Later, everything happened as Xun Yu expected. This matter is recorded in "The Biography of Yuan Shao".
+Cao Cao was guarding Guandu and fought successive battles with Yuan Shao. Although he won the victory, he was about to run out of military rations. He wrote to Xun Yu to discuss the matter and wanted to return to Xuchang to wait for Yuan Shao's army.
+Xun Yu wrote back and said: Although there is little food now, it is not like when Chu and Han were in a stalemate between Xingyang and Chenggao.
+At that time, Liu Bang and Xiang Yu refused to retreat first, thinking that retreating first would damage morale.
+It has been half a year since you used one-tenth of the opponent's troops to defend the territory and guard the choke points to prevent him from advancing.
 
 summary:
-summary line 3: **Xun Yu**, grandson of Magistrate Xun Shu, was recognized as extraordinary by He Yong. Recommended as Xiaolian, he abandoned office when Dong Zhuo rebelled. He warned his clan to flee Yingchuan, predicting war; those who stayed were later killed. He joined Yuan Shao but, seeing the Han's chaos, left for Cao Cao, who called him "my Zhang Liang." When Zhang Miao and Chen Gong rebelled, Xun Yu defended Zhen City, outsmarting their deception and personally meeting Guo Gong to prevent his alliance with rebels. He secured three cities for Cao Cao's return. Xun Yu advised Cao Cao to stabilize Yanzhou before attacking Xuzhou, leading to Lu Bu's defeat. He urged Cao Cao to welcome Emperor Xian to Xuchang, arguing this would bring legitimacy. Xun Yu recommended talented men like Xun You, Zhong Yao, and Guo Jia. He predicted Yuan Shao's defeat despite his strength, correctly assessing his generals' weaknesses. During the Guandu stalemate, when Cao Cao wanted to retreat, Xun Yu insisted on holding position, leading to Yuan Shao's defeat. He advised against attacking Liu Biao before pacifying Yuan Shao's remnants. When Cao Cao wanted to restore the ancient Jiuzhou system, Xun Yu warned it would cause panic, and Cao Cao abandoned the plan. Cao Cao praised Xun Yu's strategies as turning defeat into victory. When Dong Zhao proposed making Cao Cao Duke of Jin, Xun Yu opposed it, saying Cao Cao should remain loyal to Han. Cao Cao grew resentful. During a southern campaign, Cao Cao kept Xun Yu at his camp, then sent him an empty food box. Xun Yu took poison and died at fifty. The next year, Cao Cao declared himself Duke of Wei.
+summary line 2: **Xun Yu**, grandson of Magistrate Xun Shu, was recognized as extraordinary by He Yong. Recommended as Xiaolian, he abandoned office when Dong Zhuo rebelled. He warned his clan to flee Yingchuan, predicting war; those who stayed were later killed. He joined Yuan Shao but, seeing the Han's chaos, left for Cao Cao, who called him "my Zhang Liang." When Zhang Miao and Chen Gong rebelled, Xun Yu defended Zhen City, outsmarting their deception and personally meeting Guo Gong to prevent his alliance with rebels. He secured three cities for Cao Cao's return. Xun Yu advised Cao Cao to stabilize Yanzhou before attacking Xuzhou, leading to Lu Bu's defeat. He urged Cao Cao to welcome Emperor Xian to Xuchang, arguing this would bring legitimacy. Xun Yu recommended talented men like Xun You, Zhong Yao, and Guo Jia. He predicted Yuan Shao's defeat despite his strength, correctly assessing his generals' weaknesses. During the Guandu stalemate, when Cao Cao wanted to retreat, Xun Yu insisted on holding position, leading to Yuan Shao's defeat. He advised against attacking Liu Biao before pacifying Yuan Shao's remnants. When Cao Cao wanted to restore the ancient Jiuzhou system, Xun Yu warned it would cause panic, and Cao Cao abandoned the plan. Cao Cao praised Xun Yu's strategies as turning defeat into victory. When Dong Zhao proposed making Cao Cao Duke of Jin, Xun Yu opposed it, saying Cao Cao should remain loyal to Han. Cao Cao grew resentful. During a southern campaign, Cao Cao kept Xun Yu at his camp, then sent him an empty food box. Xun Yu took poison and died at fifty. The next year, Cao Cao declared himself Duke of Wei.
 

@@ -1,91 +1,47 @@
-Summary uses chunk [11, 0, 2, 2, 4, 5, 8, 9]
+Summary uses chunk [1, 2, 3, 5, 7, 10, 12]
 
-Chunk 11: 
+Chunk 1: 
 original: 
-自生民以来，厚终之敝，未有若此者。
-虽有仲尼重明周礼，墨子勉以古道，犹不能御也。
-是以华夏之士，争相陵尚，违礼之本，事礼之末，务礼之华，弃礼之实，单家竭财，以相营赴。废事生而营终亡，替所养而为厚葬，岂云圣人制礼之意乎。
-记曰 丧虽有礼，哀为主矣 又曰 丧与其易也宁戚 今则不然，并棺合椁，以为孝恺，丰资重襚，以昭恻隐，吾所不取也。
-昔舜葬苍梧，二妃不从。岂有匹配之会，守常之所乎。
-圣主明王，其犹若斯，况于品庶，礼所不及。
-古人时同即会，时乖则别，动静应礼，临事合宜。
-王孙裸葬，墨夷露骸，皆达于性理，贵于速变。
-梁伯鸾父没，卷席而葬，身亡不反其尸。
-彼数子岂薄至亲之恩，亡忠孝之道邪。
-况我鄙暗，不德不敏，薄意内昭，志有所慕，上同古人，下不为咎。
-果必行之，勿生疑异。
-恐尔等目厌所见，耳讳所议，必欲改殡，以乖吾志，故远采古圣，近揆行事，以悟尔心。
-但欲制坎，令容棺椁，棺归即葬，平地无坟。勿卜时日，葬无设奠，勿留墓侧，无起封树。
-於戏小子，其勉之哉，吾蔑复有言矣。
-朱祇、萧建送丧到家，子胤不忍父体与土并合，欲更改殡，祇、建譬以顾命，于是奉行，时称咨明达。
-translation: 
-Since the beginning of the people, there has been no such custom of burying the dead in such a generous manner.
-Although Zhongni reaffirmed the Zhou rites and Mozi tried to follow the ancient ways, he still could not resist.
-Therefore, Chinese people compete with each other, violate the fundamentals of etiquette, engage in the end of etiquette, advocate luxury, abandon simplicity, use all their family wealth to support each other, abolish life and pay attention to death, ignore health care and only care about rich burials. Is this the original intention of the saints in making rituals?
-"Ji" says: Although there are etiquette in funerals, mourning is the main thing. He also said: It is better to mourn than to be sad. This is not the case now. I think it is the way to be filial to the emperor, and to use it to express sympathy for the coffin. This is what I dare not do.
-In the past, Emperor Shun was buried in Cangwu, but his two concubines refused to follow him. Is there any chance of getting married and staying in the usual place?
-If the Holy Lord and Mingjun are like this, let alone the common people, whose etiquette is beyond their reach.
-The ancients said that meetings are the same at the same time, but different at different times. Movements and stillness should be in line with etiquette, and situations should be adapted to local conditions.
-The kings and grandsons were buried naked, and the bodies of Mo Yi were exposed in the wild, all of which were based on human nature and rationality and valued rapid change.
-Liang Boluan's father died and was buried in a banquet. Even after his death, he did not return to his hometown.
-Are these people being unfavorable to their relatives and forgetting the principles of loyalty and filial piety?
-What's more, I am not moral and sensitive, I have a weak mind and a bright mind. I have the ambition to admire the ancient sages. I am the same as the ancients, and I am not to blame.
-Be sure to carry out a light burial and avoid any suspicion.
-I am afraid that what you see with your eyes, stomachs, dogs, and ears will make you want to change the funeral and go against my ambitions. Therefore, I adopt the practices of ancient saints from afar and practice them closely to make you aware.
-Just dig a ditch that can accommodate the coffin. Bury the coffin as soon as it is returned. There is no need to build a grave on flat ground. There is no need to choose a date, no need to pay homage, no need to mourn beside the tomb, and no need to plant trees at the head of the tomb.
-Woohoo boy, please act with encouragement, I have nothing more to say!
-When Zhu Zhi and Xiao Jian arrived home for the funeral, their son Zhao Yin couldn't bear to let his father's body merge with the earth, and wanted to change the burial method. Zhi and Jian told his father's last order, so he followed the instructions. At that time, people said that Zhao Zi was a wise man.
-
-summary:
-summary line 0: Based solely on the provided text, here is a summary:
-
-Chunk 0: 
-original: 
-刘平字公子，楚郡彭城人也。
-本名旷，显宗后改为平。
-王莽时为郡吏，守菑丘长，政教大行。
-其后每属县有剧贼，辄令平守之，所至皆理，由是一郡称其能。
-更始时，天下乱，平弟仲为贼所杀。
-其后贼复忽然而至，平扶侍其母，奔走逃难。
-仲遗腹女始一岁，平抱仲女而弃其子。
-母欲还取之，平不听，曰 力不能两活，仲不可以绝类 遂去不顾，与母俱匿野泽中。
-平朝出求食，逢饿贼，将亨之，平叩头曰 今旦为老母求菜，老母待旷为命，愿得先归，食母毕，还就死 因涕泣。
-贼见其至诚，哀而遣之。
-平还，既食母讫，因白曰 属与贼期，义不可欺 遂还诣贼。
-众皆大惊，相谓曰 常闻烈士，乃今见之。
-子去矣，吾不忍食子 于是得全。
 建武初，平狄将军庞萌反于彭城，攻败郡守孙萌。
 平时复为郡吏，冒白刃伏萌身上，被七创，困顿不知所为，号泣请曰 愿以身代府君 贼乃敛兵止，曰 此义士也，勿杀 遂解去。
 萌伤甚气绝，有顷苏，渴求饮，平倾其创血以饮之。
 后数日萌竟死，平乃裹创，扶送萌丧，至其本县。
 后举孝廉，拜济阴郡丞，太守刘育甚重之，任以郡职，上书荐平。
 会平遭父丧去官。
+服阕，拜全椒长。政有恩惠，百姓怀感，人或增赀就赋，或减年从役。
+刺使、太守行部，狱无系囚，人自以得所，不知所问，唯班诏书而去。
+后以病免。
+显宗初，尚书仆射钟离意上书荐平及琅邪王望、东莱王扶曰 臣窃见琅邪王望、楚国刘旷、东莱王扶，皆年七十，执性恬淡，所居之处，邑里化之，修身行义，应在朝次。
+臣诚不足知人，窃慕推士进贤之义 书奏，有诏征平等，特赐办装钱。
+后拜议郎，会见，恂恂似不能言。然性沈正，不可干以非义，当世高之。
+永平中，临邑侯刘复著《汉德颂》，盛称扶为名臣云。赵孝字长平，沛国蕲人也。
+父普，王莽时为田禾将军，任孝为郎。
 translation: 
-◆The biography of Liu Ping, named Gongzi, was from Pengcheng, Chu County.
-His real name was Kuang, but it was changed to Ping after he became emperor.
-During Wang Mang's time, he became a county official, guarding the Qiu chief, and flourished in politics and religion.
-Later, when there were thieves in each county, Liu Ping was sent to guard them. Wherever he went, he was controlled. From then on, every county praised his ability.
-During the Gengshi period, the world was in chaos, and Liu Ping's younger brother Liu Zhong was killed by thieves.
-Later, the thieves suddenly arrived. Liu Ping supported his mother and ran away.
-Liu Zhong's posthumous daughter was only one year old. Liu Ping embraced Zhong's daughter and abandoned his biological son.
-The mother wanted to go back to get her son, but Liu Ping refused to listen and said: "I cannot support two children, and the second child cannot have offspring." So he left without caring, and hid in Nozawa with his mother.
-Liu Ping went out to look for food in the morning. He met a hungry thief and was about to cook him. Liu Ping kowtowed and said, "I will find some wild vegetables for my mother to satisfy her hunger this morning. My mother is waiting for me to survive. I wish I could go back first. When my mother finishes eating, I will definitely come back and let you kill her."
-So the tears continued. The thief saw that he was sincere, sympathized with him and let him go home.
-When Liu Ping went back, after his mother finished eating, he said to his mother: "I just made an appointment with a thief, so I can't deceive others."
-So he returned to the thief. Everyone was shocked and talked to each other: "I often hear about martyrs, but today I actually saw them."
-Just go away, we can't bear to eat you. As a result, Liu Ping's life was saved.
 In the early years of Jianwu, General Pang Meng of Pingdi made troops in Pengcheng and defeated the governor of the county, Sun Meng.
 Liu Ping was working as a county official at that time. He risked his life by lying on Sun Meng's body and suffered seven stab wounds. He was so trapped that he didn't know what to do, so he cried and begged: "I am willing to replace the king with my body." The thieves gathered their weapons and stopped killing, saying, "This man is a righteous man, don't kill him." So dismissed and walked away.
 Sun Meng was seriously injured and died. After a while, he came back to life. He was thirsty and looked for water. Liu Ping took blood from his own wound and gave it to him to drink.
 After a few days, Sun Meng finally died, so Liu Ping bandaged the stab wound, helped carry Sun Meng's coffin, and sent it back to the county.
 Later, Liu Ping was promoted to Xiaolian and became the Prime Minister of Jiyin County. The prefect Liu Yu attached great importance to him and appointed him to the county position.
 When the mourning clothes are full, Quanjiao Chang is awarded.
+People are grateful for political favors. Some increase wages or taxes, and some reduce the age and enter the service earlier.
+The governor and the prefect came to inspect, but there were no prisoners in the prison. Everyone was in his place, and he didn't know what to ask. He just issued the edict and left.
+Later he was dismissed due to illness.
+In the early years of Emperor Xianzong's reign, Shangshu Pushe Zhongliyi wrote a letter recommending Liu Ping, Wang Wang of Langfu, and Fu Dao, King of Donglai: I personally saw that Liu Kuang, Wang Wang of Langfu, and Fu Wang of Donglai were both seventy years old.
+I don't understand them well enough, I just envy them for promoting talented people. In the memorial, there was an edict to recruit Liu Ping and others, and they were given special money to do the work.
+After arriving at the imperial court, they all worshiped him as Yilang and were introduced to him many times. Liu Ping was promoted to minister again, and in the third year of Yongping he was promoted to Zongzheng. He recommended famous scholars such as Chenggong and Xun Xun several times.
+After eight years in office, Shangshu asked to retire and go home due to old age and illness, and died at home. ◆Zhao Xiaozhuan, Zhao Xiao was named Changnian and was from Peiguoqi.
+His father, Zhao Pu, served as General Tianhe during Wang Mang's reign and appointed Zhao Xiao as Lang.
 
 summary:
-summary line 1: The text contains biographies of several individuals from the Han dynasty. Liu Ping, originally named Kuang, was from Pengcheng. During Wang Mang's time, he was a county official. During the Gengshi period, when thieves arrived, he fled with his mother, abandoning his own son to save his orphaned niece. He later encountered a hungry thief who wanted to eat him, but Liu Ping begged to feed his mother first and promised to return. The thief, moved by his sincerity, let him go. Liu Ping kept his promise and returned, but the thief spared him. In the early Jianwu years, he risked his life to protect the wounded governor Sun Meng, suffering seven stab wounds and even offering his own blood to the thirsty Sun Meng. Liu Ping was later promoted to Xiaolian and became Prime Minister of Jiyin County. He was later recommended by Zhongliyi and served as Yilang and Zongzheng, recommending famous scholars. He died at home after requesting retirement due to old age and illness.
+summary line 0: Biographies of several individuals from the Han dynasty. Liu Ping, originally named Kuang, was from Pengcheng. During Wang Mang's time, he was a county official. During the Gengshi period, when thieves arrived, he fled with his mother, abandoning his own son to save his orphaned niece. He later encountered a hungry thief who wanted to eat him, but Liu Ping begged to feed his mother first and promised to return. The thief, moved by his sincerity, let him go. Liu Ping kept his promise and returned, but the thief spared him. In the early Jianwu years, he risked his life to protect the wounded governor Sun Meng, suffering seven stab wounds and even offering his own blood to the thirsty Sun Meng. Liu Ping was later promoted to Xiaolian and became Prime Minister of Jiyin County. He was later recommended by Zhongliyi and served as Yilang and Zongzheng, recommending famous scholars. He died at home after requesting retirement due to old age and illness.
 
 Chunk 2: 
 original: 
+每告归，常白衣步担。
+尝从长安还，欲止邮亭。
+亭长先时闻孝当过，以有长者客，扫洒待之。
+孝既至，不自名，长不肯内，因问曰 闻田禾将军子当从长安来，何时至乎 孝曰 寻到矣 于是遂去。
+及天下乱，人相食。
 孝弟礼为饿贼所得，孝闻之，即自缚诣贼，曰 礼久饿羸瘦，不如孝肥饱 贼大惊，并放之，谓曰 可且归，更持米糒来 孝求不能得，复往报贼，愿就亨。
 众异之，遂不害。
 乡常服其义。
@@ -93,6 +49,25 @@ original:
 举孝廉，不应。
 永平中，辟太尉府，显宗素闻其行，诏拜谏议大夫，迁侍中，又迁长乐卫尉。
 复征弟礼为御史中丞。
+translation: 
+Every time I go home on leave, I often walk in white clothes and carry my own luggage.
+I once returned home from Chang'an and wanted to stay overnight at the post office.
+The chief of the pavilion first heard that Zhao Xiaohui was passing by and thought that an elderly guest was coming, so he swept the room and waited.
+When Zhao Xiao arrived, he did not announce his name. The pavilion chief refused to accommodate him, so he asked: "I heard that the son of General Tian He is coming from Chang'an. When will he arrive?" Zhao Xiao said: It will arrive soon. So he left.
+Later, the world was in chaos, and people were eating people.
+Zhao Xiao's younger brother Zhao Li was captured by a hungry thief. When Zhao Xiao heard about it, he tied himself up and went to the thief, saying: "Zhao Li has been hungry for a long time and is very thin. He is not as fat as me." The thieves were shocked, so they released them and said to their brothers: "You can go home temporarily and get some food." Zhao Xiao searched for food but failed to find it, so he went back and told the thieves that he was willing to let them cook food.
+Everyone found it strange and did not harm him.
+The township party admired his loyalty.
+When recruiting from prefectures and counties, etiquette must be observed when advancing or retreating.
+He was promoted to be filial and honest, so he should not be drafted.
+During the Yongping period, he was drafted into the Taiwei Mansion. Xianzong had always heard that Zhao Xiao had good conduct, and issued an edict to grant him the title of admonishing the officials. He was promoted to the rank of Attendant, and then to the rank of Changle Guardsman.
+He also called his younger brother Zhao Li to be the censor Zhongcheng.
+
+summary:
+summary line 1: Zhao Xiao, named Changnian, was from Peiguo. His father served under Wang Mang. Zhao Xiao was known for his humility, traveling in plain clothes. During a famine, his brother Zhao Li was captured by hungry thieves. Zhao Xiao bound himself and went to the thieves, offering his own fatter body in exchange. The thieves released them. He was later recruited and served as an admonishing official and Changle Guardsman. His brother Zhao Li also became an official. The emperor favored them, but Zhao Li died a few years later. Zhao Xiao died at home after returning from leave.
+
+Chunk 3: 
+original: 
 礼亦恭谦行已，类于孝。
 帝嘉其兄弟笃行，欲宠异之，诏礼十日一就卫尉府，太官送供具，令共相对尽欢。
 数年，礼卒，帝令孝从官属送丧归葬。
@@ -103,13 +78,6 @@ original:
 王莽末，岁饑兵起，恭兄崇将为盗所亨，恭请代，得俱免。
 初遭贼寇，百姓莫事农桑。恭常独力田耕，乡人止之曰 时方淆乱，死生未分，何空自苦为 恭曰 纵我不得，他人何伤 垦耨不辍。
 translation: 
-Zhao Xiao's younger brother Zhao Li was captured by a hungry thief. When Zhao Xiao heard about it, he tied himself up and went to the thief, saying: "Zhao Li has been hungry for a long time and is very thin. He is not as fat as me." The thieves were shocked, so they released them and said to their brothers: "You can go home temporarily and get some food." Zhao Xiao searched for food but failed to find it, so he went back and told the thieves that he was willing to let them cook food.
-Everyone found it strange and did not harm him.
-The township party admired his loyalty.
-When recruiting from prefectures and counties, etiquette must be observed when advancing or retreating.
-He was promoted to be filial and honest, so he should not be drafted.
-During the Yongping period, he was drafted into the Taiwei Mansion. Xianzong had always heard that Zhao Xiao had good conduct, and issued an edict to grant him the title of admonishing the officials. He was promoted to the rank of Attendant, and then to the rank of Changle Guardsman.
-He also called his younger brother Zhao Li to be the censor Zhongcheng.
 Zhao Li was also respectful, modest and restrained himself, similar to Zhao Xiao.
 The emperor commended their brothers for their virtue and wanted to treat them specially. Zhao Li was ordered to go to Weiwei's Mansion once every ten days, and the eunuch delivered the offerings and told them to have a good time together.
 A few years later, Zhao Li died, and the emperor ordered Zhao Xiao to attend the funeral and bury him as an official.
@@ -121,49 +89,13 @@ In Wang Mang's last years, there was famine and war. Chun Yugong's brother Chun 
 Later, Chunyu Chong died. Chunyu Gong raised his orphans and children, and taught them to learn. If they did not follow the law, he would beat himself with a stick to make the children understand. The children were indeed ashamed and changed their ways. At the beginning, thieves invaded, and the people could not engage in farming. Chunyugong often plowed the fields alone. The villagers tried to dissuade him, saying: The current situation is in great chaos, and life and death are still unknown. Why work in vain and ask for trouble? Chunyu Gong said: Even if I can't gain anything, what loss will it cause to others? Keep on plowing.
 
 summary:
-summary line 2: Zhao Xiao, named Changnian, was from Peiguo. His father served under Wang Mang. Zhao Xiao was known for his humility, traveling in plain clothes. During a famine, his brother Zhao Li was captured by hungry thieves. Zhao Xiao bound himself and went to the thieves, offering his own fatter body in exchange. The thieves released them. He was later recruited and served as an admonishing official and Changle Guardsman. His brother Zhao Li also became an official. The emperor favored them, but Zhao Li died a few years later. Zhao Xiao died at home after returning from leave.
+summary line 2: Chunyu Gong, named Meng Sun, was from Beihai. He was a quiet man who studied Laozi. When someone stole his fruit, he helped them harvest it. When he saw a thief stealing seedlings, he hid to avoid shaming him. During a famine, he offered to replace his brother Chunyu Chong who was about to be cooked by bandits, and both were spared. He raised his brother's children, disciplining them by beating himself. He continued to farm despite chaos. He refused multiple calls to serve, living in seclusion for decades. Emperor Suzong eventually summoned him, made him a counselor, and later promoted him. He died in office, and the emperor ordered a stone carving to commend him.
 
-Chunk 2: 
+Chunk 5: 
 original: 
-孝弟礼为饿贼所得，孝闻之，即自缚诣贼，曰 礼久饿羸瘦，不如孝肥饱 贼大惊，并放之，谓曰 可且归，更持米糒来 孝求不能得，复往报贼，愿就亨。
-众异之，遂不害。
-乡常服其义。
-州郡辟召，进退必以礼。
-举孝廉，不应。
-永平中，辟太尉府，显宗素闻其行，诏拜谏议大夫，迁侍中，又迁长乐卫尉。
-复征弟礼为御史中丞。
-礼亦恭谦行已，类于孝。
-帝嘉其兄弟笃行，欲宠异之，诏礼十日一就卫尉府，太官送供具，令共相对尽欢。
-数年，礼卒，帝令孝从官属送丧归葬。
-淳于恭字孟孙，北海淳于人也。
-善说《老子》，清静不慕荣名。
-家有山田果树，人或侵盗，辄助为收采。
-又见偷刈禾者，恭念其愧，因伏草中，盗去乃起，里落化之。
-王莽末，岁饑兵起，恭兄崇将为盗所亨，恭请代，得俱免。
-初遭贼寇，百姓莫事农桑。恭常独力田耕，乡人止之曰 时方淆乱，死生未分，何空自苦为 恭曰 纵我不得，他人何伤 垦耨不辍。
-translation: 
-Zhao Xiao's younger brother Zhao Li was captured by a hungry thief. When Zhao Xiao heard about it, he tied himself up and went to the thief, saying: "Zhao Li has been hungry for a long time and is very thin. He is not as fat as me." The thieves were shocked, so they released them and said to their brothers: "You can go home temporarily and get some food." Zhao Xiao searched for food but failed to find it, so he went back and told the thieves that he was willing to let them cook food.
-Everyone found it strange and did not harm him.
-The township party admired his loyalty.
-When recruiting from prefectures and counties, etiquette must be observed when advancing or retreating.
-He was promoted to be filial and honest, so he should not be drafted.
-During the Yongping period, he was drafted into the Taiwei Mansion. Xianzong had always heard that Zhao Xiao had good conduct, and issued an edict to grant him the title of admonishing the officials. He was promoted to the rank of Attendant, and then to the rank of Changle Guardsman.
-He also called his younger brother Zhao Li to be the censor Zhongcheng.
-Zhao Li was also respectful, modest and restrained himself, similar to Zhao Xiao.
-The emperor commended their brothers for their virtue and wanted to treat them specially. Zhao Li was ordered to go to Weiwei's Mansion once every ten days, and the eunuch delivered the offerings and told them to have a good time together.
-A few years later, Zhao Li died, and the emperor ordered Zhao Xiao to attend the funeral and bury him as an official.
-More than a year later, he returned home on leave from the Weiwei. Died at home. ◆ Chunyu Gongzhuan, Chunyu Gong's courtesy name is Meng Sun, Chunyu Ren in Beihai.
-He is good at speaking about "Laozi", he is quiet and does not envy fame.
-There are fruit trees in the mountains at home. If someone steals the fruit, he will help him harvest it.
-He also saw someone stealing seedlings. Chun Yugong was worried that others would be ashamed, so he hid in the grass and waited for the thief to leave before coming out. The villagers were moved.
-In Wang Mang's last years, there was famine and war. Chun Yugong's brother Chun Yuchong was about to be cooked by bandits. Chun Yugong asked to be replaced, and both of them were spared from death.
-Later, Chunyu Chong died. Chunyu Gong raised his orphans and children, and taught them to learn. If they did not follow the law, he would beat himself with a stick to make the children understand. The children were indeed ashamed and changed their ways. At the beginning, thieves invaded, and the people could not engage in farming. Chunyugong often plowed the fields alone. The villagers tried to dissuade him, saying: The current situation is in great chaos, and life and death are still unknown. Why work in vain and ask for trouble? Chunyu Gong said: Even if I can't gain anything, what loss will it cause to others? Keep on plowing.
-
-summary:
-summary line 3: Chunyu Gong, named Meng Sun, was from Beihai. He was a quiet man who studied Laozi. When someone stole his fruit, he helped them harvest it. When he saw a thief stealing seedlings, he hid to avoid shaming him. During a famine, he offered to replace his brother Chunyu Chong who was about to be cooked by bandits, and both were spared. He raised his brother's children, disciplining them by beating himself. He continued to farm despite chaos. He refused multiple calls to serve, living in seclusion for decades. Emperor Suzong eventually summoned him, made him a counselor, and later promoted him. He died in office, and the emperor ordered a stone carving to commend him.
-
-Chunk 4: 
-original: 
+遭天下乱，盗贼并起，革负母逃难，备经阻险，常采拾以为养。
+数遇贼，或劫欲将去，革辄涕泣求哀，言有老母，辞气愿款，有足感动人者。
+贼以是不忍犯之，或乃指避兵之方，遂得俱全于难。
 革转客下邳，穷贫裸跣，行佣以供母，便身之物，莫不必给。
 建武末年，与母归乡里。
 每至岁时，县当案比，革以母老，不欲摇动，自在辕中挽车，不用牛马，由是乡里称之曰 江巨孝 。
@@ -175,15 +107,10 @@ original:
 楚王英驰遣官属追之，遂不肯还。
 复使中傅赠送，辞不受。
 后数应三公命，辄去。
-建妆初，太尉牟融举贤良方正。再迁司空长史。
-肃宗甚崇礼之，迁五官中朗将。
-每朝会，帝常使虎贲扶侍，及进拜，恒目礼焉。
-时有疾不会，辄太官送醪膳，恩宠有殊。
-于是京师贵戚卫尉马廖、侍中窦宪慕其行，各奉书致礼，革无所报受。
-帝闻而益善之。
-后上书乞骸骨，转拜谏议大夫，赐告归，因谢病称笃。
-元和中，天子思革至行，制诏齐相曰 谏议大夫江革，前以病归，今起居何如。
 translation: 
+When the world was in chaos and thieves broke out, Jiang Ge fled with his mother on his back. He encountered many dangers and often picked wild fruits to survive.
+Several times he met thieves, and some wanted to kidnap him. Jiang Ge cried and begged, saying that his mother relied on him to support him. His tone was very sincere and touching.
+The thief couldn't bear to invade him, and someone even showed him where to escape, so both mother and son had to survive the disaster safely.
 When Jiang Ge arrived in Xiapi, he was so poor that he was barefoot and shirtless. He relied on working to support his mother. He tried his best to provide the necessary things around him.
 In the last years of Jianwu, he returned to his hometown with his mother.
 At the end of every year, interviews were held in the county. Jiang Ge didn't want to move around because his mother was there, so he pulled the cart by himself in the shaft without using oxen or horses. From then on, the village called him "Jiang Da Duozi".
@@ -195,25 +122,12 @@ After more than a month, he voluntarily abandoned his official position and left
 Chu Wangying sent people to chase him quickly and refused to go back.
 He also asked his master to give him gifts, but he refused to accept them.
 Later, I went several times in response to Sangong's orders.
-In the early years of the founding of the People's Republic of China, Taiwei Mou Rong promoted virtuous and upright people, and Jiang Ge was promoted to Sikong Changshi again.
-Suzong treated him with great respect and courtesy, and promoted him to the rank of General of the Five Features.
-During every court meeting, the emperor often sent tiger tigers to assist him, and often kept an eye on him when he came to worship.
-At this time, Jiang Ge was ill and could not attend court, so the emperor sent an eunuch to bring him wine and food. The favor was very special.
-Therefore, Ma Liao, a noble of the capital, and Dou Xian, a lieutenant in the capital, were envious of Jiang Ge's character, and each sent him letters and gifts. Jiang Ge neither replied nor accepted gifts.
-The emperor praised him even more.
-Later, Jiang Ge wrote a letter requesting to retire and return to his hometown. The imperial court turned him into an admonishing doctor and granted him the title of "Resigning to his hometown." However, Xie fell seriously ill.
-During the Yuanhe period, the emperor missed Jiang Ge's good conduct and drafted an edict to Prime Minister Qi: I would like to advise the doctor Jiang Ge. He returned home due to illness. How is his daily life now?
 
 summary:
-summary line 4: Jiang Ge, named Cweng, was from Linzi. He fled with his mother on his back during chaos, picking wild fruits to survive. When thieves tried to kidnap him, he cried and begged, saying his mother depended on him, and the thieves spared him. He worked to support his mother in poverty. After returning home, he pulled his mother in a cart himself, earning the nickname "Jiang Da Duozi." He refused official invitations due to his mother's age. After her death, he slept by her tomb. He was later promoted to Xiaolian and served as Taipu of Chu, but abandoned the post. He later served as Sikong Changshi and General of the Five Features. The emperor treated him with great respect. He refused gifts from nobles. He requested retirement and was made an admonishing doctor. The emperor later issued an edict praising his filial piety and ordered the county to give him gifts.
+summary line 3: Jiang Ge, named Cweng, was from Linzi. He fled with his mother on his back during chaos, picking wild fruits to survive. When thieves tried to kidnap him, he cried and begged, saying his mother depended on him, and the thieves spared him. He worked to support his mother in poverty. After returning home, he pulled his mother in a cart himself, earning the nickname "Jiang Da Duozi." He refused official invitations due to his mother's age. After her death, he slept by her tomb. He was later promoted to Xiaolian and served as Taipu of Chu, but abandoned the post. He later served as Sikong Changshi and General of the Five Features. The emperor treated him with great respect. He refused gifts from nobles. He requested retirement and was made an admonishing doctor. The emperor later issued an edict praising his filial piety and ordered the county to give him gifts.
 
-Chunk 5: 
+Chunk 7: 
 original: 
-夫孝，百行之冠，众善之始也。
-国家每惟志士，未尝不及革。
-县以见谷千斛赐巨孝，常以八月长吏存问，致羊酒，以终厥身。
-如有不幸，祠以中牢 由是 巨孝 之称，行于天下。
-及卒，诏复赐谷千斛。
 刘般字伯兴，宣帝之玄孙也。
 宣帝封子嚣于楚，是为孝王。
 孝王生思王衍，衍生王纡，纡生般。
@@ -229,11 +143,6 @@ original:
 其母及诸舅，以为身寄绝域，死生未必，不宜苦精若此，数以晓般，般犹不改其业。
 建武八年，隗嚣败，河西始通，般即将家属东至洛阳，修经学于师门。
 translation: 
-Filial piety is the first of all actions and the beginning of all good deeds.
-Whenever the country misses people with lofty ideals, they always think of Jiang Ge.
-The county was ordered to use Dendrobium dendrobium as a gift to Juxiao. Every August, officials were sent to express condolences and give him sheep wine until his lifetime.
-If something unfortunate happens, use the middle prison to offer sacrifices. From then on, the title of "Ju Xiao" became popular all over the world.
-After his death, the imperial edict granted him a thousand dendrobium grains.
 ◆Liu Banchuan, also known as Liu Banxing, was the great-great-grandson of Emperor Xuan.
 Emperor Xuan granted his son Liu Xiao to Chu, making him the Xiaowang.
 The filial king gave birth to Wang Yan, which gave rise to Wang Yu, and Yu gave rise to commonness.
@@ -250,10 +159,13 @@ His mother and uncles believed that living in a remote area, where life and deat
 In the eighth year of Jianwu's reign, Kuai Xiao was defeated and Hexi was able to communicate with the mainland. Liu Ban moved his family east to Luoyang and studied Confucian classics under his teacher.
 
 summary:
-summary line 5: Liu Ban was the great-great-grandson of Emperor Xuan. His father Liu Yu raised his younger brother Liu Ping after their mother died, and died of grief after Liu Ping's death. Liu Ban lived with his mother during Wang Mang's failure. He studied diligently despite his family's concerns. In the eighth year of Jianwu, he moved to Luoyang to study. He was later enfeoffed as a marquis. The emperor commended him for his good conduct. He served as Jinwu and captain of the cavalry school. He advised against establishing the Changpingcang, arguing it would harm the people. He also argued against a ban on farmers engaging in fishing and hunting, and against officials inflating land cultivation figures. He died at age sixty.
+summary line 4: Liu Ban was the great-great-grandson of Emperor Xuan. His father Liu Yu raised his younger brother Liu Ping after their mother died, and died of grief after Liu Ping's death. Liu Ban lived with his mother during Wang Mang's failure. He studied diligently despite his family's concerns. In the eighth year of Jianwu, he moved to Luoyang to study. He was later enfeoffed as a marquis. The emperor commended him for his good conduct. He served as Jinwu and captain of the cavalry school. He advised against establishing the Changpingcang, arguing it would harm the people. He also argued against a ban on farmers engaging in fishing and hunting, and against officials inflating land cultivation figures. He died at age sixty.
 
-Chunk 8: 
+Chunk 10: 
 original: 
+建宁中，复为太中大夫，卒于宫。
+周磐字坚伯，汝南安成人，征士燮之宗也。
+祖父业，建武初为天水太守。
 磐少游京师，学《古文尚书》、《洪范五行》、《左氏传》，好礼有行，非典谟不言，诸儒宗之。
 居贫养母，俭薄不充。
 尝诵《诗》至《汝坟》之卒章，慨然而叹，乃解韦带，就孝廉之举。
@@ -262,10 +174,10 @@ original:
 教授门徒常千人。
 公府三辟，皆以有道特征，磐语友人曰 昔方回、支父啬神养和，不以荣利滑其生术。
 吾亲以没矣，从物何为 遂不应。
-建光元年，年七十三，岁朝会集诸生，讲论终日，因令其二子曰 吾日者梦见先师东里先生，与我讲于阴堂之奥 既而长叹 岂吾齿之尽乎。
-母平生畏雷，自亡后，每有雷震，顺辄圜冢泣，曰 顺在此 崇闻之，每雷辄为差车马到墓所。后太守鲍众举孝廉，顺不能远离坟墓，遂不就。
-年八十，终于家。
 translation: 
+Liu Ban discussed political affairs many times during his reign. His actions in recuperating the nine tribes were particularly significant, and people at the time praised him very much. He died in the third year of Jianchu at the age of sixty.
+◆In the biography of Zhou Pan, Zhou Pan's courtesy name was Jianbo, and he was an adult in Runan. A member of the same tribe as the conqueror Zhou Xie.
+His grandfather Zhou Ye was the prefect of Tianshui in the early years of Jianwu.
 Zhou Pan traveled to the capital when he was young and studied "Guwen Shangshu", "Five Elements of Hong Fan" and "Zuo Shi Zhuan". He liked to talk about etiquette and had good conduct. He would not speak anything that was not in line with the classics. Most Confucian students regarded him as their master.
 The family was poor, and it was not enough to support his mother.
 I once recited "Poetry" to the last chapter of "Ru Tomb", which was very generous and lamentable, so I dismissed Wei Dai and participated in the recommendation of Xiaolian.
@@ -274,22 +186,12 @@ When his mother died, her body was almost destroyed by grief, and her mourning p
 The professor often has thousands of disciples.
 The government called Zhou Pan three times, and they all thought Zhou Pan was a virtuous man and invited him to come out. Zhou Pan said to his friends: In the past, Fang Hui and Zhifu rejected Yao and Shun and rested their minds at home, not disturbing their health care for glory and profit.
 My mother is dead, why do I need foreign objects? So he didn't apply.
-In the first year of Jianguang, he was seventy-three years old. Every New Year's Day, the court gathered all the students and gave lectures all day long. So he said to his two sons: The day before yesterday, I dreamed that my master, Mr. Dongli, was talking to me in the underworld. Then he sighed and said: Is my age already over?
-If the tomb coffin is large enough to contain the body at the end of life, the outer coffin can be used to hold the inner coffin. Wrap it in clothes and hang it directly into the tomb. Use washed clothes and a scarf. Weave a two-foot-four-inch long bamboo slip and copy an article from "Yao Canon", together with a knife and pen, and place them in front of the coffin to show that you have not forgotten the holy way.
-On the 15th of this month, he died without illness. Scholars believe that he was a man who understood destiny.
 
 summary:
-summary line 6: Zhou Pan, named Jianbo, was from Runan. He studied classics and was known for his good conduct. He left his official post to return home when he missed his mother. After his mother died, he lived next to her grave and taught thousands of disciples. He refused multiple government calls, saying he had no need for external things after his mother's death. At age seventy-three, he predicted his death, gave his sons instructions for a simple burial with a copy of the "Yao Canon," and died without illness.
+summary line 5: Zhou Pan, named Jianbo, was from Runan. He studied classics and was known for his good conduct. He left his official post to return home when he missed his mother. After his mother died, he lived next to her grave and taught thousands of disciples. He refused multiple government calls, saying he had no need for external things after his mother's death. At age seventy-three, he predicted his death, gave his sons instructions for a simple burial with a copy of the "Yao Canon," and died without illness.
 
-Chunk 9: 
+Chunk 12: 
 original: 
-赵咨字文楚，东郡燕人也。
-父畅，为博士。
-咨少孤，有孝行，州郡召举孝廉，并不就。
-延憙元年，大司农陈奇举咨至孝有道，仍迁博士。
-灵帝初，太傅陈蕃、大将军窦武为宦者所诛，咨乃谢病去。
-太尉杨赐特辟，使饰巾出入，请与讲议。
-举高第，累迁敦煌太守。
 以病免还，躬率子孙耕农为养。
 盗尝夜往劫之，咨恐母惊惧，乃先至门迎盗，因请为设食，谢曰 老母八十，疾病须养，居贫，朝夕无储，乞少量衣粮 妻子物馀，一无所请。
 盗皆惭叹，跪而辞曰 所犯无状，干暴贤者 言毕奔出，咨追以物与之，不及。
@@ -304,13 +206,6 @@ original:
 抗疾京师，将终，告其故吏朱祇、萧建等，使薄敛素棺，籍以黄壤，欲令速朽，早归后土，不听子孙改之。
 乃遗书敕子胤曰：夫含气之伦，有生必终，盖天地之常期，自然之至数。
 translation: 
-◆Zhao Zichuan, named Wenchu, was from Yan in Dongjun.
-His father, Zhao Chang, has a doctorate.
-Zhao Zi's father died when he was young. He behaved filially and was recommended by the prefectures and counties as filial and honest, but he refused.
-In the first year of Yanxi's reign, Chen Qi, the chief minister, recommended Zhao Zi, saying that he was extremely filial and moral, so he was promoted to a doctorate.
-In the early years of Emperor Ling's reign, Taifu Chen Fan and General Dou Wu were killed by eunuchs, so Zhao Zi resigned due to illness.
-Taiwei Yang Ci specially invited him and asked him to use a scarf as jewelry and not add a crown to go in and give lectures to everyone.
-Later, he was promoted to high rank and became the governor of Dunhuang several times.
 Later, he was dismissed from his post due to illness and returned home, where he personally led his children and grandchildren to make a living in the fields.
 One time, robbers came to his house at night to rob him. Zhao Zi was afraid of disturbing his mother, so he went to the door to greet the robbers. The robbers asked him to prepare meals. He declined and said, "My mother is eighty years old. She is sick and needs treatment. The family is very poor and has no food for shelter. Please leave some clothes and food." Apart from his wife, he had nothing. The robbers felt ashamed and sighed, knelt down and said goodbye: "We are too rude and should not intrude on the wise man."
 After saying that, they all ran away.
@@ -326,5 +221,5 @@ He arrived in the capital while ill, and when he was about to die, he sued his f
 So he wrote a suicide note to his son Zhao Yin and said: "Human beings are alive and must die. This is the decree of heaven and earth, and it is the natural end."
 
 summary:
-summary line 7: Zhao Zi, named Wenchu, was from Dongjun. He was known for his filial piety. When robbers came to his house, he asked them to leave some food for his sick mother. The robbers, ashamed, left. He was later summoned to be an official and became Prime Minister of the East China Sea. He was known for his frugality. Before his death, he instructed his son to use a simple, thin coffin to allow his body to decay quickly and return to the earth. He wrote a long suicide note criticizing lavish burials and advocating for simplicity, citing ancient examples. His son followed his instructions.
+summary line 6: Zhao Zi, named Wenchu, was from Dongjun. He was known for his filial piety. When robbers came to his house, he asked them to leave some food for his sick mother. The robbers, ashamed, left. He was later summoned to be an official and became Prime Minister of the East China Sea. He was known for his frugality. Before his death, he instructed his son to use a simple, thin coffin to allow his body to decay quickly and return to the earth. He wrote a long suicide note criticizing lavish burials and advocating for simplicity, citing ancient examples. His son followed his instructions.
 

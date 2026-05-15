@@ -1,0 +1,315 @@
+Summary uses chunk [0, 0, 3, 6, 11, 26, 29]
+
+Chunk 0: 
+original: 
+王沈，字处道，太原晋阳人也。
+祖柔，汉匈奴中郎将。
+父机，魏东郡太守。
+沈少孤，养于从叔司空昶，事昶如父。奉继母寡嫂以孝义称。
+好书，善属文。
+大将军曹爽辟为掾，累迁中书门下侍郎。
+及爽诛，以故吏免。
+后起为治书侍御史，转秘书监。
+正元中，迁散骑常侍、侍中，典著作。
+与荀顗、阮籍共撰《魏书》，多为时讳，未若陈寿之实录也。
+时魏高贵乡公好学有文才，引沈及裴秀数于东堂讲宴属文，号沈为文籍先生，秀为儒林丈人。
+及高贵乡公将攻文帝，召沈及王业告之，沈、业驰白帝，以功封安平侯，邑二千户。
+沈既不忠于主，甚为众论所非。
+寻迁尚书，出监豫州诸军事、奋武将军、豫州刺史。
+至镇，乃下教曰： 自古贤圣，乐闻诽谤之言，听舆人之论，刍荛有可录之事，负薪有廊庙之语故也。
+translation: 
+Wang Chen, courtesy name Chudao, was born in Jinyang, Taiyuan.
+His grandfather, Wang Rou, was a lieutenant general of the Huns in the Han Dynasty.
+His father, Wang Ji, was the prefect of Wei Dong County.
+When Wang Chen lost his father when he was young, he was adopted by his cousin Sikong Wang Chang. He served Wang Chang as if he were his biological father, and he was famous for his filial piety in serving his stepmother and widowed sister-in-law.
+Good at reading and good at writing articles.
+General Cao Shuang recruited him as a subordinate officer, and gradually moved to the position of minister under Zhongshu's family.
+When Cao Shuang was executed, he was dismissed because of his status as an old official.
+Later, he was appointed as the censor of the book administration department and transferred to the position of secretary supervisor.
+During the Zhengyuan period, he was promoted to the rank of Sanqi Changshi and Shizhong, and was in charge of writings.
+Together with Xunjie and Ruan Ji, he wrote the "Book of Wei". He often had hidden taboos and did not record it as truthfully as Chen Shou did.
+At that time, Duke Gaogui of Wei was eager to learn and have literary talents. He invited Wang Chen and Pei Xiu to give lectures, banquets and write articles in Shutang many times.
+Duke Gaogui was about to attack Emperor Wen, so he summoned Wang Shen and Wang Ye to tell them. Wang Chen and Wang Ye quickly reported to Emperor Wen, and they were granted the title of Marquis of Anping for their meritorious service. There are two thousand households in the city.
+Because Wang Chen was disloyal to his master, he was criticized by public opinion.
+Soon he was promoted to minister, and went out of the capital to supervise the military affairs of Yuzhou, General Fenwu, and governor of Yuzhou.
+When he arrived at his post, he taught: The ancient sages like to listen to criticism and listen to the opinions of their servants. Those who cut grass and chop wood can also record things, and those who carry firewood can tell the affairs of the court.
+
+summary:
+summary line 0: Wang Chen, courtesy name Chudao, was born in Jinyang, Taiyuan. His grandfather Wang Rou served as a lieutenant general of the Huns in the Han Dynasty, and his father Wang Ji was the prefect of Wei Dong County. Orphaned young, Wang Chen was adopted by his cousin Sikong Wang Chang, whom he served as a biological father, gaining fame for his filial piety toward his stepmother and widowed sister-in-law. He was well-read and skilled in writing. General Cao Shuang recruited him as a subordinate officer, and he gradually rose to minister under Zhongshu's family. After Cao Shuang's execution, Wang Chen was dismissed as an old official but later reappointed as censor of the book administration department and transferred to secretary supervisor. During the Zhengyuan period, he was promoted to Sanqi Changshi and Shizhong, overseeing writings. Together with Xunjie and Ruan Ji, he compiled the "Book of Wei," though he often concealed taboos and did not record events as truthfully as Chen Shou.
+
+Chunk 0: 
+original: 
+王沈，字处道，太原晋阳人也。
+祖柔，汉匈奴中郎将。
+父机，魏东郡太守。
+沈少孤，养于从叔司空昶，事昶如父。奉继母寡嫂以孝义称。
+好书，善属文。
+大将军曹爽辟为掾，累迁中书门下侍郎。
+及爽诛，以故吏免。
+后起为治书侍御史，转秘书监。
+正元中，迁散骑常侍、侍中，典著作。
+与荀顗、阮籍共撰《魏书》，多为时讳，未若陈寿之实录也。
+时魏高贵乡公好学有文才，引沈及裴秀数于东堂讲宴属文，号沈为文籍先生，秀为儒林丈人。
+及高贵乡公将攻文帝，召沈及王业告之，沈、业驰白帝，以功封安平侯，邑二千户。
+沈既不忠于主，甚为众论所非。
+寻迁尚书，出监豫州诸军事、奋武将军、豫州刺史。
+至镇，乃下教曰： 自古贤圣，乐闻诽谤之言，听舆人之论，刍荛有可录之事，负薪有廊庙之语故也。
+translation: 
+Wang Chen, courtesy name Chudao, was born in Jinyang, Taiyuan.
+His grandfather, Wang Rou, was a lieutenant general of the Huns in the Han Dynasty.
+His father, Wang Ji, was the prefect of Wei Dong County.
+When Wang Chen lost his father when he was young, he was adopted by his cousin Sikong Wang Chang. He served Wang Chang as if he were his biological father, and he was famous for his filial piety in serving his stepmother and widowed sister-in-law.
+Good at reading and good at writing articles.
+General Cao Shuang recruited him as a subordinate officer, and gradually moved to the position of minister under Zhongshu's family.
+When Cao Shuang was executed, he was dismissed because of his status as an old official.
+Later, he was appointed as the censor of the book administration department and transferred to the position of secretary supervisor.
+During the Zhengyuan period, he was promoted to the rank of Sanqi Changshi and Shizhong, and was in charge of writings.
+Together with Xunjie and Ruan Ji, he wrote the "Book of Wei". He often had hidden taboos and did not record it as truthfully as Chen Shou did.
+At that time, Duke Gaogui of Wei was eager to learn and have literary talents. He invited Wang Chen and Pei Xiu to give lectures, banquets and write articles in Shutang many times.
+Duke Gaogui was about to attack Emperor Wen, so he summoned Wang Shen and Wang Ye to tell them. Wang Chen and Wang Ye quickly reported to Emperor Wen, and they were granted the title of Marquis of Anping for their meritorious service. There are two thousand households in the city.
+Because Wang Chen was disloyal to his master, he was criticized by public opinion.
+Soon he was promoted to minister, and went out of the capital to supervise the military affairs of Yuzhou, General Fenwu, and governor of Yuzhou.
+When he arrived at his post, he taught: The ancient sages like to listen to criticism and listen to the opinions of their servants. Those who cut grass and chop wood can also record things, and those who carry firewood can tell the affairs of the court.
+
+summary:
+summary line 1: Duke Gaogui of Wei, eager to learn and talented, frequently invited Wang Chen and Pei Xiu to lectures and banquets in Shutang. When the Duke planned to attack Emperor Wen, he summoned Wang Chen and Wang Ye to inform them, but Wang Chen and Wang Ye quickly reported to Emperor Wen. For this, they were granted the title of Marquis of Anping with two thousand households. Wang Chen's disloyalty to his master drew public criticism. He was soon promoted to minister and sent to supervise military affairs in Yuzhou as General Fenwu and governor. Upon arrival, he issued a decree encouraging criticism and recommendations, offering rewards of grain for those who exposed corruption or proposed beneficial policies. His chief registrars, Chen Chang and Chu Bi, advised caution, fearing that rewards might deter honest people or attract greedy ones. Wang Chen initially insisted on his sincerity but eventually relented, following Chu Bi's advice. He then focused on good governance, implementing legal prohibitions established since Jia Kui and promoting education to reform declining customs.
+
+Chunk 3: 
+original: 
+沈无以夺之，遂从议。
+沈探寻善政，案贾逵以来法制禁令，诸所施行，择善者而从之。
+又教曰： 后生不闻先王之教，而望政道日兴，不可得也。
+文武并用，长久之道也。
+俗化陵迟，不可不革。
+革俗之要，实在敦学。
+昔原伯鲁不悦学，闵马父知其必亡。
+将吏子弟，优闲家门，若不教之，必致游戏，伤毁风俗矣。
+于是九郡之士，咸悦道教，移风易俗。
+迁征虏将军、持节、都督江北诸军事。
+五等初建，封博陵侯，班在次国。
+平蜀之役，吴人大出，声为救蜀，振荡边境，沈镇御有方，寇闻而退。
+转镇南将军。
+武帝即王位，拜御史大夫，守尚书令，加给事中。
+沈以才望，显名当世，是以创业之事，羊祜、荀勖、裴秀、贾充等，皆与沈谘谋焉。
+translation: 
+Wang Chen did not refute him, so he followed Chu Bi's opinion.
+Wang Chen searched for good governance and implemented the policies implemented according to the legal prohibitions since Jia Kui.
+He also taught: It is impossible for young people to expect political morality to flourish day by day without learning from the teachings of the previous kings.
+Using both civil and military forces is the way to achieve long-term peace and stability.
+The folk customs have declined and have to be reformed.
+The key to reforming old customs is actually to pay attention to learning.
+In the past, Yuan Bolu was not good at learning, and Min Ma's father knew that he would fail.
+The children of generals and officials are leisurely at home. If they are not educated, they will definitely play games with life and corrupt morals.
+Therefore, the people of the nine counties all like moral education and changing customs.
+He was promoted to General Zhenglu, Chijie, and Commander-in-Chief of all military affairs in the north of the Yangtze River.
+When the fifth-class title was first established, he was granted the title of Marquis of Boling, ranking second in the feudal state.
+In the battle to pacify Shu, the Wu people went out in large numbers, claiming to save Shu, causing turmoil on the border. Wang Chen guarded the area well and the enemy retreated after hearing the sound.
+He was transferred to General Zhennan.
+Emperor Wu ascended the throne and worshiped Wang Shen as the imperial censor. He abided by the Shangshu order and gave special advice to Shizhong.
+Wang Chen was famous for his talents and fame at that time. Therefore, Yang Hu, Xun Xu, Pei Xiu, Jia Chong and others all discussed with Wang Chen about starting a business.
+
+summary:
+summary line 2: Wang Chen was promoted to General Zhenglu and Commander-in-Chief of all military affairs north of the Yangtze River. When the fifth-class title system was established, he was granted the title of Marquis of Boling. During the pacification of Shu, Wu forces threatened the border, but Wang Chen defended well, causing the enemy to retreat. He was later transferred to General Zhennan. After Emperor Wu ascended the throne, Wang Chen became imperial censor and abided by the Shangshu order. Known for his talent and fame, he consulted with Yang Hu, Xun Xu, Pei Xiu, and Jia Chong on state affairs. For his role in the abdication, he was promoted to general of hussars and granted the title of Duke of Boling County, which he initially refused but later accepted with 1,800 households. He died in the second year of Taishi, and the emperor mourned him with lavish gifts. Posthumously, he was given the title of Sikong Gong. Wang Chen was always honest and frugal, leaving no property. His son Wang Jun succeeded him.
+
+Chunk 6: 
+original: 
+及赵王伦篡位，三王起义兵，浚拥众挟两端，遏绝檄书，使其境内士庶不得赴义，成都王颖欲讨之而未暇也。
+伦诛，进号安北将军。
+及河间王颙、成都王颖兴兵内向，害长沙王乂，而浚有不平之心。
+颖表请幽州刺史石堪为右司马，以右司马和演代堪，密使演杀浚，并其众。
+演与乌丸单于审登谋之，于是与浚期游蓟城南清泉水上。
+蓟城内西行有二道，演浚各从一道。
+演与浚欲合卤簿，因而图之。
+值天暴雨，兵器沾湿，不果而还。
+单于由是与其种人谋曰： 演图杀浚，事垂克而天卒雨，使不得果，是天助浚也。
+违天不祥，我不可久与演同。
+乃以谋告浚。
+浚密严兵，与单于围演。
+演持白幡诣浚降，遂斩之，自领幽州。
+大营器械，召务勿尘，率胡晋合二万人，进军讨颖。
+以主溥祁弘为前锋，遇颖将石超于平棘，击败之。
+浚乘胜遂克鄴城，士众暴掠，死者甚多。
+鲜卑大略妇女，浚命敢有挟藏者斩，于是沉于易水者八千人。
+黔庶荼毒，自此始也。
+translation: 
+After King Sima Lun of Zhao usurped the throne, the three kings raised troops to protest. Wang Jun led the troops to wait and see, preventing the message from being passed on, so that the people in his territory could not join the rebel army. King Sima Ying of Chengdu wanted to attack Wang Jun but had no time.
+King Zhao Sima Lun was executed, and Wang Junjin was named General Anbei.
+When Sima Yi, king of Hejian, and Sima Ying, king of Chengdu, attacked Luoyang and killed Sima Yi, king of Changsha, Wang Jun felt indignant.
+Sima Ying petitioned Youzhou Governor Shi Kan to serve as You Sima, replaced Shi Kan with You Sima He Yan, and secretly ordered He Yan to kill Wang Jun and annex Wang Jun's army.
+Heyan and Wuwan Shanyu Shendeng planned this matter, so they agreed with Wang Jun to go to the clear spring in the south of Jicheng to play.
+There are two roads going west in Jicheng, one for He Yan and one for Wang Jun.
+He Yan prepared to take the opportunity to strike when he met Wang Jun with the honor guard.
+It was raining heavily and all the weapons were wet, so they returned without being able to realize their plan.
+Shan Yu therefore plotted with his fellow tribesmen and said: He Yan planned to kill Wang Jun, but when he was about to succeed, it rained and the plan failed to come true. This is God's help to Wang Jun.
+Going against God's will is unlucky, and I cannot be complicit with He Yan for a long time.
+So he told Wang Jun his plan.
+Wang Jun secretly ordered the army to impose martial law, and He Chanyu surrounded He Yan.
+He Yan took the white banner and went to Wang Jun's place to surrender, so He Yan was killed and Wang Jun occupied Youzhou himself.
+He built equipment on a large scale, summoned Wuchen, and led a total of 20,000 Hu and Jin people to march against Sima Ying.
+With Chief Qi Hong as the vanguard, he encountered Sima Ying's general Shi Chao in Pingji and defeated Shi Chao.
+Wang Jun took advantage of the victory and captured Yecheng. The soldiers looted and looted brutally, and many people died.
+The Xianbei people plundered women wantonly. Wang Jun ordered the beheading of women who dared to hide them, so eight thousand people were thrown into the Yishui River.
+The disaster for the people began at this time.
+
+summary:
+summary line 3: Wang Jun, courtesy name Peng Zu, was born to a poor mother from a common family. Initially despised by his father, he became heir at fifteen after Wang Chen's death. He served as Prince Consort and later held various military and civil posts. During the chaos of the court, he allied with Yi Di, marrying his daughters to Xianbei leaders for safety. After King Sima Lun of Zhao usurped the throne, Wang Jun led troops to wait and see. He later killed He Yan, who plotted against him, and occupied Youzhou. He built equipment and led 20,000 Hu and Jin troops against Sima Ying, defeating his general and capturing Yecheng, where his soldiers looted brutally. Wang Jun's power grew, and he was promoted to General Hussar and Commander-in-Chief of Hebei. During the Yongjia period, he fought Shi Le and Liu Kun, but his harsh rule led to defections. He planned to become emperor based on prophecies, killing those who advised against it. Shi Le pretended to surrender, and Wang Jun, trusting him, was captured and killed. Wang Jun had no sons, and his title passed to his nephew Daosu.
+
+Chunk 11: 
+original: 
+幼为姊婿陈群所赏。
+性至孝，总角知名，博学洽闻，理思周密。
+魏时以父勋除中郎。
+宣帝辅政，见顗奇之，曰： 荀令君之子也。
+擢拜散骑侍郎，累迁侍中。
+为魏少帝执经，拜骑都尉，赐爵关内侯。
+难钟会《易》无互体，又与扶风王骏论仁孝孰先，见称于世。
+时曹爽专权，何晏等欲害太常傅嘏，顗营救得免。
+及高贵乡公立，顗言于景帝曰： 今上践阼，权道非常，宜速遣使宣德四方，且察外志。
+毌丘俭、文钦果不服，举兵反。
+顗预讨俭等有功，进爵万岁亭侯，邑四百户。
+文帝辅政，迁尚书。
+帝征诸葛诞，留顗镇守。
+顗甥陈泰卒，顗代泰为仆射，领吏部，四辞而后就职。
+顗承泰后，加之淑慎，综核名实，风俗澄正。
+咸熙中，迁司空，进爵乡侯。
+顗年逾耳顺，孝养蒸蒸，以母忧去职，毁几灭性，海内称之。
+文帝奏，宜依汉太傅胡广丧母故事，给司空吉凶导从。
+及蜀平，兴复五等，命顗定礼仪。
+顗上请羊祜、任恺、庚峻、应贞、孔颢共删改旧文，撰定晋礼。
+咸熙初，封临淮侯。
+武帝践阼，进爵为公，食邑一千八百户。
+translation: 
+When he was young, he was appreciated by his brother-in-law Chen Qun.
+He was extremely filial by nature, and was famous at an early age, with extensive knowledge and thoughtful thinking.
+Wei Shi was appointed Zhonglang because of his father's meritorious service.
+Emperor Xuan assisted in the government affairs and was surprised to see Xun Hao and said, "He is really Xun Lingjun's son."
+He was promoted to the rank of Sanqi Shilang, and then promoted to the rank of Shizhong.
+He taught classics to the young emperor of Wei. He was worshiped as a cavalry captain and given the title of Marquis of Guannei.
+He criticized Zhong Huizhi for not being consistent in the Book of Changes, and he discussed with Sima Jun, the king of Fufeng, about who should be the leader in benevolence and filial piety, which was praised by the world.
+At that time, Cao Shuang had sole power. He Yan and others wanted to harm Taichang Fu Gu, but Xun Hao rescued him and saved him from danger.
+When Gao Guixiang Gong came to the throne, Xunjie said to Emperor Jing: Now that the emperor has ascended the throne, the way to obtain the monarchy is unusual. We should quickly send people to various places to declare benevolence and observe the trends in the outside world.
+His mothers Qiu Jian and Wen Qin were indeed dissatisfied and sent troops to rebel.
+Xunjie participated in the expedition against Ceqiu Jian and others and made meritorious service. He was promoted to the title of Marquis of Wansuiting and was granted the title of 400 households.
+When Emperor Wen assisted in government affairs, he was promoted to Shangshu.
+Emperor Wen conquered Zhuge Dan and left Xunjie to guard him.
+Xunjie's nephew Chen Tai died. Xunjie replaced Chen Tai as a servant and was also in charge of the staff. He resigned four times and then took office.
+Xun Hao succeeded Chen Tai and became more respectful and prudent, comprehensively assessed reputation and reality, and clarified customs.
+During the reign of Xianxi, he was promoted to Sikong and became a rural marquis.
+Xunjie was over sixty years old. He was filial and devoted. He resigned from his post because of his mother's funeral. He was so sad that he almost lost his mind. He was praised throughout the country.
+Emperor Wen ordered that Sikong should be given a funeral ceremonial entourage in accordance with the precedent of the Han Dynasty Fu Guang's funeral for his mother.
+After Shu was pacified, five levels of nobility were established, and Xun Zhuan was ordered to formulate etiquette.
+Xun Yun Shangshu asked Yang Hu, Ren Kai, Yu Jun, Ying Zhen, and Kong Hao to jointly delete the old regulations and compile the Jin etiquette.
+In the early years of Xianxi's reign, he was granted the title of Marquis of Linhuai.
+Emperor Wu ascended the throne, was promoted to the title of Duke, and had 1,800 households living in the city.
+
+summary:
+summary line 4: Xunjie, courtesy name Jingqian, was from Yingchuan and the sixth son of Wei Taiwei Xun You. Known for filial piety and extensive knowledge, he served as Zhonglang and later Sanqi Shilang. He taught the young emperor of Wei and was granted the title of Marquis of Guannei. He rescued Fu Gu from Cao Shuang's harm and advised Emperor Jing to declare benevolence after Gao Guixiang Gong's ascension. He participated in suppressing rebellions and was promoted to Marquis of Wansuiting. Under Emperor Wen, he became Shangshu and later Sikong. He was filial, resigning for his mother's funeral, and was praised nationwide. He formulated Jin etiquette and was promoted to Duke of Linhuai. He served as Crown Prince Tutor and Taiwei, settling music before dying in the tenth year of Taishi. The emperor mourned him greatly. Xunjie understood the "Three Rites" but lacked upright moral integrity, catering to Xun Xu and Jia Chong. He had no sons, and his title passed to his grandnephew Xun Hui.
+
+Chunk 26: 
+original: 
+转司隶校尉，加特进、光禄大夫，常侍如故。
+于时天下已乱，组兄弟贵盛，惧不容于世，虽居大官，并讽议而已。
+永嘉末，复以组为侍中，领太子太保。
+未拜，会刘曜、王弥逼洛阳，组与籓俱出奔。
+怀帝蒙尘，司空王浚以组为司隶校尉。
+组与籓移檄天下，以琅邪王为盟主。
+愍帝称皇太子，组即太子之舅，又领司隶校尉，行豫州刺史事，与籓并保荥阳之开封。
+建兴初，诏籓行留台事。
+俄而籓薨，帝更以组为司空，领尚书左仆射，又兼司隶，复行留台事，州征郡守皆承制行焉。
+进封临颍县公，加太夫人、世子印绶。
+明年，进位太尉，领豫州牧、假节。
+元帝承制，以组都督司州诸军，加散骑常侍，余如故。
+顷之，又除尚书令，表让不拜。
+及西都不守，组乃遣使移檄天下共劝进。
+帝欲以组为司徒，以问太常贺循。
+循曰： 组旧望清重，忠勤显著，迁训五品，实允众望。
+于是拜组为司徒。
+组逼于石勒，不能自立。
+太兴初，自许昌率其属数百人渡江，给千兵百骑，组先所领仍皆统摄。
+顷之，诏组与太保、西阳王羕并录尚书事，各加班剑六十人。
+永昌初，迁太尉，领太子太保。
+未拜，薨，年六十五。
+谥曰元。
+子奕嗣。
+奕字玄欣。
+少拜太子舍人、驸马都尉，侍讲东宫。
+出为镇东参军，行扬武将军、新汲令。
+愍帝为皇太子，召为中舍人，寻拜散骑侍郎，皆不就。
+随父渡江。
+元帝践阼，拜中庶子，迁给事黄门郎。
+父忧去职，服阕，补散骑常侍、侍中。
+translation: 
+He was transferred to the post of Sili Xiaowei, Jia Tejin and Guanglu doctor, and his regular attendants remained.
+At that time, the world was in chaos, and the Xunzu brothers were prosperous and powerful. They were afraid that they would not be allowed to do so, so even though they were high-ranking officials, they only gave advice and discussions.
+In the last years of Yongjia's reign, he took the group as a servant and also as the crown prince's Taibao.
+Before he took office, it happened that Liu Yao and Wang Mi were approaching Luoyang, and they both fled.
+When Emperor Huai was in trouble, Sikong Wang Jun made the group the Sili Xiaowei.
+The group and Hui moved to send a message, with King Langxie as the leader of the alliance.
+When Emperor Min became the crown prince, Xun Zu was the prince's uncle. He also served as Sili Xiaowei, served as governor of Yuzhou, and worked with Xun Fan to defend Kaifeng in Rongyang County.
+In the early years of Jianxing, Xun Fan was appointed to stay in Taiwan.
+Soon after Xun Fan died, the emperor again appointed Xun Zu as Sikong, leading Shangshu Zuopushe, and serving as Sili, and was responsible for the affairs of Liutai. He acted according to the orders of the conquests and guards of the prefectures and counties.
+He was granted the title of Duke of Linying County, and was awarded the seal ribbon to his wife and prince.
+In the second year, he was promoted to Taiwei, and concurrently served as the shepherd and holiday official of Yuzhou.
+In accordance with his decree, Emperor Yuan appointed Xun as the commander-in-chief of the Sizhou armies, as well as casual cavalry and regular attendants. Other positions remained the same.
+Soon, he was appointed Shangshu Ling, but he resigned and refused to take office.
+When the Western Capital was lost, Xunzu sent envoys to spread messages across the country to persuade the Yuan Emperor to ascend the throne.
+The emperor wanted to appoint Xun Zu as Situ and asked Taichang He Xun about this matter.
+He Xun said: Xun Zu was famous for his loyalty and outstanding achievements. His promotion to the position of teaching the Five Permanent Leaders was really expected by everyone.
+So he appointed Xunzu as Situ.
+Xun Zu was forced by Shi Le and could not stand on his own.
+In the early years of Taixing, he led hundreds of his subordinates from Xuchang across the river and gave him thousands of soldiers and hundreds of horses. All the people previously led by Xun Zu were still under his control.
+Soon, the imperial edict ordered Xunzu and Sima Lai, King of Xiyang, to serve as Green Ministers, each with sixty sword guards.
+In the early years of Yongchang, he was promoted to Taiwei and served as the crown prince's Taibao.
+He died before taking office at the age of sixty-five.
+Mi Hao Yuan.
+He was succeeded by his son Xun Yi.
+Xun Yi's courtesy name is Xuan Xin.
+When he was young, he worshiped Prince Sheren and Prince Consort Duwei, and served as lecturer in the East Palace.
+He took up the post of Zhenshu and joined the army, and became a general in military affairs and a new commander.
+When Emperor Min became the crown prince, he called him a minister of Zhongshe, and soon he was appointed as a minister of Sanqi, but he did not take up the post.
+Cross the river with his father.
+Emperor Yuan ascended the throne, became his concubine, and was promoted to Shi Huang Menlang.
+He left his post due to his father's funeral. After the mourning was completed, he was appointed as the regular attendant and attendant of the Sanqi.
+
+summary:
+summary line 5: Xun Xu, courtesy name Gongzeng, was from Yingyin, Yingchuan, and the great-grandson of Han Sikong Xun Shuang. Orphaned young, he was raised by his uncle. He was intelligent and wrote articles in his teens. He served under Cao Shuang and later became Zhongshu Tongshilang. After Cao Shuang's death, he alone attended the funeral, earning respect. He served as Anyang Order and later Tingweizheng, participating in Emperor Wen's military affairs. He advised against assassins and warned of Zhong Hui's rebellion. He wrote documents to Sun Hao of Wu, which were praised as better than a hundred thousand troops. After Emperor Wu's abdication, he was granted the title of Duke of Jibei County but refused, becoming a marquis. He served as Zhongshu Supervisor and jointly formulated laws with Jia Chong. He helped secure Jia Chong's daughter as crown prince's concubine, drawing criticism. He revised music rhythms and compiled classics. He opposed the attack on Wu but was overruled. He advised against sending princes to feudal states and discussed reducing officials. He praised the prince's character, leading to respect for He Jiao and disdain for him. He died in the tenth year of Taikang, with ten sons, including Xun Ji, Xun Fan, and Xun Zu. Xun Xu's descendants continued his legacy, with Xun Sui and Xun He crossing the river eastward during the chaos.
+
+Chunk 29: 
+original: 
+承颜悦色，宠爱日隆。贾充、荀勖并与之亲善。
+充女之为皇太子妃也，紞有力焉。
+及妃之将废，紞、勖干没救请，故得不废。
+伐吴之役，紞领汝南太守，以郡兵随王浚入秣陵。
+迁御史中丞，转侍中。
+帝病笃得愈，紞与勖见朝野之望，属在齐王攸。攸素薄勖。
+勖以太子愚劣，恐攸得立，有害于己，乃使紞言于帝曰： 陛下前者疾若不差，太子其废矣。
+齐王为百姓所归，公卿所仰，虽欲高让，其得免乎！
+宜遣还籓，以安社稷。
+帝纳之。
+及攸薨，朝野悲恨。
+初，帝友于之情甚笃，既纳紞、勖邪说，遂为身后之虑，以固储位。
+既闻攸殒，哀恸特深。
+紞侍立，因言曰： 齐王名过于实，今得自终，此乃大晋之福。
+陛下何乃过哀！
+帝收泪而止。
+translation: 
+He was able to please the emperor obediently and favored him greatly. Both Jia Chong and Xun Xu were friendly to him.
+Jia Chong's daughter became the dowager, and Feng Shou helped in this matter.
+When Concubine Jia was about to be deposed, Feng Shou and Xun Xu tried their best to save her, so she was not deposed.
+During the battle against Wu, Feng You, who was also the prefect of Runan, led the county soldiers to follow Wang Jun into Moling.
+He was promoted to censor Zhongcheng and transferred to Shizhong.
+After the emperor recovered from a serious illness, Feng You and Xun Xu's desire to see each other inside and outside the court rested on Qi King Sima You. Sima You had always looked down on Xun Xu.
+Because the prince was stupid, Xun Xu was afraid that Sima You would succeed to the throne, which would be harmful to him, so he asked Feng Shou to tell the emperor: If your majesty has not recovered from his illness some time ago, the prince may be deposed.
+King Cha is the one whom the people turn to and whom the ministers look up to. Even if he is of high moral character and wants to give way, can he be spared?
+He should be sent back to the feudal state to stabilize the country.
+The emperor accepted his words.
+When Sima You died, there was sadness and resentment inside and outside the court.
+At first, the emperor's brotherly love was very deep. After adopting the heresies of Feng Shou and Gou Xu, he began to worry about what would happen after his death in order to stabilize the status of the crown prince.
+After hearing the news of Sima You's death, my grief was particularly deep.
+Feng Shou stood nearby and said, "The King of Qi has lived up to his reputation, and now he dies. This is the blessing of the Jin Dynasty."
+Why should Your Majesty be overly sad!
+The emperor no longer cried.
+
+summary:
+summary line 6: Feng You, courtesy name Shaozhou, was from Anping. He read extensively and was eloquent. He served as prefect of Wei County and later General Zuowei, favored by Emperor Wu. He befriended Jia Chong and Xun Xu, helping Jia Chong's daughter become dowager. He opposed the attack on Wu but later followed Wang Jun into Moling. He advised the emperor to send Qi King Sima You to his feudal state, leading to Sima You's death. He hated Zhang Hua and prevented his promotion. He died in the seventh year of Taikang, leaving two sons, Feng Bo and Feng Xiong. The historian comments that Wang Chen's disloyalty and Wang Jun's violence brought disaster, while Xunjie and Xun Xu, despite their talents, contributed to court strife. Feng You's flattery led to Sima You's death and Jia's rise, causing endless civil unrest.
+

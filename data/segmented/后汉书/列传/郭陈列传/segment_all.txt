@@ -17,8 +17,6 @@ original:
 兵事呼吸，不容先关督帅。
 且汉制戟即为斧钺，于法不合罪。
 帝从躬议。
-又有兄弟共杀人者，而罪未有所归。
-帝以兄不训弟，故报兄重而减弟死。
 translation: 
 ◆The biography of Guo Gong, named Zhongsun, was born in Yangzhai, Yingchuan. The family has been officials for generations.
 His father, Guo Hong, studied "Xiao Du Lv" and the prefect Kou Xun used Guo Hong to make judgments on Cao Cao. He stayed in prison for thirty years and his methods were fair.
@@ -37,12 +35,12 @@ Guo Gong replied: "Unifying under the governor is a matter of trilogy." Today's 
 Military affairs are as urgent as human breathing, and the commander is not allowed to be notified in advance.
 Moreover, under the system of the Han Dynasty, Zhuoge was the same as Wu, and he was not considered guilty legally.
 The emperor listened to Guo Gong's opinion.
-There are also brothers who commit murder together, and it is hard to pin the blame on whom.
-The emperor believed that the elder brother should not discipline his younger brother, so he reported that the elder brother should be sentenced severely and the younger brother should be commuted to death.
 
 
 Chunk 1: 
 original: 
+又有兄弟共杀人者，而罪未有所归。
+帝以兄不训弟，故报兄重而减弟死。
 中常侍孙章宣诏，误言两报重，尚书奏章矫制，罪当腰斩。
 帝复召躬问之，躬对 章应罚金 。
 帝曰： 章矫诏杀人，何谓罚金？
@@ -52,14 +50,9 @@ original:
 帝曰： 善。
 迁躬廷尉正，坐法免。
 后三迁，元和三年，拜为廷尉。
-躬家世掌法，务在宽平，及典理官，决狱断刑，多依矜恕，乃条诸重文可从轻者四十一事奏之，事皆施行，著于令，章和元年，赦天下系囚在四月丙子以前减死罪一等，勿笞，诣金城，而文不及亡命未发觉者。
-躬上封事曰： 圣恩所以减死罪使戍边者，重人命也。
-今死罪亡命无虑万人，又自赦以来，捕得甚众，而诏令不及，皆当重论。
-伏惟天恩莫不荡宥，死罪已下并蒙更生，而亡命捕得独不沾泽。
-臣以为赦前犯死罪而系在赦后者，可皆勿笞诣金城，以全人命，有益于边。
-肃宗善之，即下诏赦焉。
-躬奏谳法科，多所生全。
 translation: 
+There are also brothers who commit murder together, and it is hard to pin the blame on whom.
+The emperor believed that the elder brother should not discipline his younger brother, so he reported that the elder brother should be sentenced severely and the younger brother should be commuted to death.
 The imperial edict was read out by Sun Zhang, who made a mistake and was punished twice. The minister reported that Sun Zhang had falsely conveyed the imperial edict and should be cut in half for his crime.
 The emperor called Guo Gong to ask again, and Guo Gong replied: Sun Zhang should be fined.
 The emperor said: Sun Zhang falsely issued an imperial edict to kill people, how can he say that he was only fined?
@@ -69,6 +62,20 @@ Guo Gong said: The road is as flat as a hammer, and as straight as an arrow. A g
 The emperor said: OK.
 He was awarded the title of Tingweizheng, but was later dismissed for breaking the law.
 Later, he was promoted three times, and in the third year of Yuanhe, he was promoted to Tingwei.
+
+
+Chunk 2: 
+original: 
+躬家世掌法，务在宽平，及典理官，决狱断刑，多依矜恕，乃条诸重文可从轻者四十一事奏之，事皆施行，著于令，章和元年，赦天下系囚在四月丙子以前减死罪一等，勿笞，诣金城，而文不及亡命未发觉者。
+躬上封事曰： 圣恩所以减死罪使戍边者，重人命也。
+今死罪亡命无虑万人，又自赦以来，捕得甚众，而诏令不及，皆当重论。
+伏惟天恩莫不荡宥，死罪已下并蒙更生，而亡命捕得独不沾泽。
+臣以为赦前犯死罪而系在赦后者，可皆勿笞诣金城，以全人命，有益于边。
+肃宗善之，即下诏赦焉。
+躬奏谳法科，多所生全。
+若乃推己以议物，舍状以贪情，法家之能庆延于世，盖由此也！
+陈宠字昭公，沛国人也。
+translation: 
 Guo Gong's family has been in charge of law for generations, and their affairs are in Kuanping. When he was a magistrate, he decided on prisons and sentences, and mostly acted on the principle of mercy. Therefore, he reported to the emperor the forty-one things that meant severe punishment could be mitigated, and everything was implemented according to the law. In the first year of Zhanghe, the prisoners in the world were pardoned before Bingzi in April, and their death penalty was reduced to one level, without being flogged, and they were sent to Jincheng. However, the article did not mention those who escaped unnoticed.
 Guo Gong went to Fengshi and said: The reason why the holy grace reduces the death penalty and makes the border guards more important is that human life is the most important thing.
 There are probably tens of thousands of people on death row today, and since the pardon, many criminals have been arrested. Even if the edict does not involve them, they should all be punished with serious crimes.
@@ -76,12 +83,12 @@ Thinking of God's kindness, all those who were convicted of capital crimes were 
 I think that those who have committed capital crimes before and are imprisoned after the pardon may not be flogged to Jincheng, so as to save lives and benefit the frontier.
 Suzong thought it was very good and immediately issued an edict to pardon him.
 Guo Gong reported on the legal system, and many people saved their lives.
+In the sixth year of Yongyuan, he died in the official government. The middle son, Guo Rizhi, also understood the law. His official position was the prefect of Nanyang, and he was famous in politics.
+◆Chen Chong's biography, Chen Chong's courtesy name is Zhaogong, and he was a member of the Pei Kingdom.
 
 
-Chunk 2: 
+Chunk 3: 
 original: 
-若乃推己以议物，舍状以贪情，法家之能庆延于世，盖由此也！
-陈宠字昭公，沛国人也。
 曾祖父咸，成、哀间以律令为尚书。
 平帝时，王莽辅政，多改汉制，咸心非之。
 及莽因吕宽事诛不附己者何武、鲍宣等，咸乃叹曰： 《易》称 君子见几而作，不俟终日 ，吾可以逝矣！
@@ -94,8 +101,6 @@ original:
 建武初，钦子躬为廷尉左监，早卒。
 躬生宠，明习家业，少为州郡吏，辟司徒鲍昱府。
 translation: 
-In the sixth year of Yongyuan, he died in the official government. The middle son, Guo Rizhi, also understood the law. His official position was the prefect of Nanyang, and he was famous in politics.
-◆Chen Chong's biography, Chen Chong's courtesy name is Zhaogong, and he was a member of the Pei Kingdom.
 My great-grandfather, Chen Xian, served as Minister of Law and Order during the reigns of Emperor Cheng and Emperor Ai.
 During the reign of Emperor Ping, Wang Mang assisted the government and made many changes to the Han Dynasty system, which made Chen Xian dissatisfied.
 When Wang Mang killed He Wu, Bao Xuan and others who were not attached to him because of Lu Kuan's affairs, Chen Xian sighed: "The Book of Changes" says: "A gentleman acts when the opportunity arises. If I don't wait until the end of the day, I can pass away!"
@@ -109,7 +114,7 @@ In the early years of Jianwu's reign, Chen Qinzi and Chen Gong served as the lef
 Chen Gong gave birth to Chen Chong, who learned about the family business. When he was young, Chong served as a state and county official and was called to Situ Baoyu's mansion.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
 是时，三府掾属专尚交游，以不肯视事为高。
 宠常非之，独勤心物务，数为昱陈当世便宜。
@@ -123,12 +128,6 @@ original:
 乃上疏曰：臣闻先王之政，常不僭，刑不滥，与其不得已，宁僭不滥。
 故唐尧著典， 眚灾肆赦 ；周公作戒， 勿误庶狱 ；伯夷之典， 惟敬五刑，以成三德 。
 由此言之，圣贤之政，以刑罚为首。
-往者断狱严明，所以威惩奸慝，奸慝既平，必宜济之以宽，陛下即位，率由此义，数诏群僚，弘崇晏晏。
-而有司执事，未悉奉承，典刑用法，犹尚深刻。
-断狱者急于格酷烈之痛，执宪者烦于诋欺放滥之交，或因公行私，逞纵威福。
-夫为政犹张琴瑟，大弦急者小弦绝。
-故子贡非臧孙之猛法，而美郑乔之仁政。
-《诗》云： 不刚不柔，布政优优。
 translation: 
 At this time, the three houses were very friendly, and it was considered noble to refuse to do anything.
 Chen Chongchang disagreed and worked hard alone, explaining contemporary politics to Bao Yu several times.
@@ -142,21 +141,37 @@ At this time, the old practices of the Yongping period were inherited. The offic
 So Shangshu said: I have heard that in the previous king's government, rewards were not excessive and punishments were not excessive. Rather than being forced to do so, I would rather be excessive than excessive.
 Therefore, Tang Yao wrote the "Yao Canon", which advocated "forgiveness of disasters". The Duke of Zhou gave a precept, not to miss the rules of Boyi in prison, but to respect the five punishments in order to achieve the three virtues.
 From this point of view, the government of sages is centered on punishment.
+
+
+Chunk 5: 
+original: 
+往者断狱严明，所以威惩奸慝，奸慝既平，必宜济之以宽，陛下即位，率由此义，数诏群僚，弘崇晏晏。
+而有司执事，未悉奉承，典刑用法，犹尚深刻。
+断狱者急于格酷烈之痛，执宪者烦于诋欺放滥之交，或因公行私，逞纵威福。
+夫为政犹张琴瑟，大弦急者小弦绝。
+故子贡非臧孙之猛法，而美郑乔之仁政。
+《诗》云： 不刚不柔，布政优优。
+方今圣德充塞，假于上下，宜隆先王之道，荡涤烦苛之法。轻薄楚，以济群生；全广至德，以奉天心。
+帝敬纳宠言，每事务于宽厚。
+其后遂诏有司，绝钻钻诸惨酷之科，解妖恶之禁，除文致之请谳五十余事，定著于令。
+是后人俗和平，屡有嘉瑞。
+汉旧事断狱报重，常尽三冬之月，是时帝始改用冬初十月而已。
+translation: 
 In the past, prisons were strictly enforced, so bad guys were dealt with harshly. Since bad guys are equal, it is better to be lenient. After His Majesty came to the throne, most of them followed this rule, calling on the officials many times to promote the moderate policy.
 However, some officials did not obey everything, and used harsh punishments.
 Those who try cases are eager to torture, and those who enforce the law are tired of slandering fraud and abuses. Some even pretend to be public and practice private, and show dominance.
 Being in charge of government is like playing the harp. If the big string becomes too fast, the small string will break.
 Therefore, Zigong denied Zang Sun's fierce methods and praised Zheng Zhiqiao's benevolent government.
 "The Book of Songs" says: Neither hard nor soft, administration is excellent.
+Nowadays, holy virtues fill the heaven and earth. We should follow the ways of the ancestors and eliminate the cumbersome methods. Use punishment lightly to benefit the people, promote virtue, and serve the heart of heaven.
+The emperor respectfully accepted Chong's words and advocated generosity in everything.
+Later, he called on officials to put an end to cruel punishments, lift the ban on evil, exonerate the innocent of his predecessors, and write down more than fifty things in the law and fix them on the law.
+From then on, the folk customs were peaceful and good omens appeared frequently.
+In the Han Dynasty, it was customary to decide cases and impose the death penalty in the third month of winter. At this time, the emperor changed the date to the first ten months of winter.
 
 
-Chunk 4: 
+Chunk 6: 
 original: 
-方今圣德充塞，假于上下，宜隆先王之道，荡涤烦苛之法。轻薄楚，以济群生；全广至德，以奉天心。
-帝敬纳宠言，每事务于宽厚。
-其后遂诏有司，绝钻钻诸惨酷之科，解妖恶之禁，除文致之请谳五十余事，定著于令。
-是后人俗和平，屡有嘉瑞。
-汉旧事断狱报重，常尽三冬之月，是时帝始改用冬初十月而已。
 元和二年，旱，长水校尉贾宗等上言，以为断狱不尽三冬，故阴气微弱，阳气发泄，招致灾旱，事在于此。
 帝以其言下公卿议宠奏曰：夫冬至之节，阳气始萌，故十一月有兰、射干、芸、荔之应。
 《时令》曰： 诸生荡，安形体。
@@ -166,12 +181,11 @@ original:
 三微成著，以通三统。
 周以天元，殷以地元，夏以人元。
 若以此时行刑，则殷、周岁首皆当流血，不合人心，不稽天意。
+《月令》曰： 孟冬之月，趣狱刑，无留罪。
+明大刑毕在立冬也。
+又： 仲冬之月，身欲宁，事欲静。
+若以降威怒，不可谓宁；若以行大刑，不可谓静。
 translation: 
-Nowadays, holy virtues fill the heaven and earth. We should follow the ways of the ancestors and eliminate the cumbersome methods. Use punishment lightly to benefit the people, promote virtue, and serve the heart of heaven.
-The emperor respectfully accepted Chong's words and advocated generosity in everything.
-Later, he called on officials to put an end to cruel punishments, lift the ban on evil, exonerate the innocent of his predecessors, and write down more than fifty things in the law and fix them on the law.
-From then on, the folk customs were peaceful and good omens appeared frequently.
-In the Han Dynasty, it was customary to decide cases and impose the death penalty in the third month of winter. At this time, the emperor changed the date to the first ten months of winter.
 In the second year of Yuanhe, there was a drought. Jia Zong, the captain of Changshui School, and others came forward and believed that the prison would not last for three winters, so the yin energy was weak and the yang energy vented, causing the drought. This is the root of the matter.
 The emperor handed his words to the ministers for discussion, and Chen Chong reported: During the winter solstice, Yang Qi sprouts, so in November there are orchids, Shegan, Yun, Lychee and other flowers.
 "Shi Ling" says: All things are shaken, and the body is settled.
@@ -181,14 +195,14 @@ In the twelfth month of the twelfth month, Yang Qi has arrived, heaven and earth
 The three micro-forms are written to connect the three unifications.
 Zhou began with heaven, Shang began with earth, and Xia began with humans.
 If the execution is carried out at this time, then the capital of Shang and Zhousui should bleed, which is not in line with the people and the will of God.
+"Moon Order" says: Mengdong's moon is like prison and punishment, and there is no crime left.
+It shows that the punishment should be completed at the beginning of winter.
+"Moon Order" also says: In the midwinter moon, the body wants peace and things want to be quiet.
+If one uses force to reduce anger, it cannot be said to be peaceful; if one uses severe punishment, it cannot be said to be tranquility.
 
 
-Chunk 5: 
+Chunk 7: 
 original: 
-《月令》曰： 孟冬之月，趣狱刑，无留罪。
-明大刑毕在立冬也。
-又： 仲冬之月，身欲宁，事欲静。
-若以降威怒，不可谓宁；若以行大刑，不可谓静。
 议者咸曰： 旱之所由，咎在改律。
 臣以为殷、周断狱不以三微，而化致康平，无有灾害。
 自元和以前，皆用三冬，而水旱之异，往往为患。
@@ -199,11 +213,8 @@ original:
 书奏，帝纳之，遂不复改。
 宠性周密，常称人臣之义，苦不畏慎。
 自在枢机，谢遣门人，拒绝知友，惟在公家而已。朝廷器之。
+皇后弟侍中窦宪，荐真定令张林为尚书，帝以问宠，宠对 林虽有才能，而素行贪浊 ，宪以此深恨宠。
 translation: 
-"Moon Order" says: Mengdong's moon is like prison and punishment, and there is no crime left.
-It shows that the punishment should be completed at the beginning of winter.
-"Moon Order" also says: In the midwinter moon, the body wants peace and things want to be quiet.
-If one uses force to reduce anger, it cannot be said to be peaceful; if one uses severe punishment, it cannot be said to be tranquility.
 Those who discussed it all said: The cause of the drought is due to the change of laws.
 I believe that the Shang and Zhou dynasties did not use trivial measures to end the prisons, but turned them into a prosperous and peaceful world without disasters.
 Since the Yuanhe period, three winters have been used, and floods and droughts often cause disasters.
@@ -214,11 +225,11 @@ Your Majesty explores the secrets and analyzes the details, believes in the righ
 The emperor accepted the memorial and made no further changes.
 Chen Chong has a thoughtful nature and often talks about the meaning of being a minister. He is not afraid of hardship.
 Since he was in the Privy Council, he had sent his disciples to his disciples and refused to be close friends. He only stayed in public houses. The court valued him very much.
+The queen's younger brother, Dou Xian, recommended Zhen Ding to make Zhang Lin the minister. The emperor asked Chen Chong about this. Chong replied: Although Zhang Lin is talented, his daily behavior is corrupt. Dou Xian deeply hated Chen Chong because of this.
 
 
-Chunk 6: 
+Chunk 8: 
 original: 
-皇后弟侍中窦宪，荐真定令张林为尚书，帝以问宠，宠对 林虽有才能，而素行贪浊 ，宪以此深恨宠。
 林卒被用，而以臧污抵罪。
 及帝崩，宪等秉权，常衔宠，乃白太后，令典丧事，欲因过中之。
 黄门侍郎鲍德素敬宠，说宪弟夏阳侯瑰曰： 陈宠奉事先帝，深见纳任，故久留台阁，赏赐有殊。
@@ -237,7 +248,6 @@ original:
 永元六年，宠代郭躬为廷尉。
 性仁矜。
 translation: 
-The queen's younger brother, Dou Xian, recommended Zhen Ding to make Zhang Lin the minister. The emperor asked Chen Chong about this. Chong replied: Although Zhang Lin is talented, his daily behavior is corrupt. Dou Xian deeply hated Chen Chong because of this.
 Zhang Lin was finally used, and Zang Xun was used to atone for his crime.
 After the emperor's death, Dou Xian and others came to power and often hated Chen Chongxian. So he reported to the Queen Mother and asked Chong to be in charge of the funeral, trying to find fault and slander him.
 Bao De, the minister of Huangmen, always respected Chen Chong and persuaded Dou Xian's younger brother Xia Yanghou Dou Dao: "When Chen Chong served the late emperor, he was very trusted, so he stayed in Taige for a long time, and the reward was somewhat special."
@@ -257,7 +267,7 @@ In the sixth year of Yongyuan, Chen Chong replaced Guo Gong as a court captain.
 Kind and reserved personality.
 
 
-Chunk 7: 
+Chunk 9: 
 original: 
 及为理官，数议疑狱，常亲自为奏，每附经典，务从宽恕，帝辄从之，济活者甚众。
 其深文刻敝，于此少衰。
@@ -271,8 +281,6 @@ original:
 宜令三公、廷尉平定律令，应经合义者，可使大辟二百，而耐罪、赎罪二千八百，并为三千，悉删除其余令，与礼相应，以易万人视听，以致刑措之美，传之无穷。
 未及施行，会坐诏狱吏与囚交通抵罪。
 诏特免刑，拜为尚书。
-迁大鸿胪。
-宠历二郡三卿，所在有迹，见称当时。
 translation: 
 Later, he became a judge. He discussed difficult cases many times and often presented memorials in person. Every time he attached a sutra, he asked for forgiveness. The emperor often listened to him and saved many prisoners.
 Only at this time did the number of cases with profound stories decrease a lot.
@@ -286,17 +294,19 @@ There are three schools of law, and their explanations are different.
 It is necessary to order Sangong and Tingweiping to make decrees that should be consistent with the law, so that the general punishment can be 200, and the punishment and atonement can be 2800, and the total number can be 3000, and all the remaining orders should be deleted, corresponding to the etiquette, so as to change the hearing and hearing of thousands of people, so as to obtain the reputation of not using punishment measures, which can be passed down to endless generations.
 There was no time to implement it, so the jailer was ordered to socialize with the prisoners to compensate for the crime.
 The imperial court issued an edict to exempt him from punishment and worship him as minister.
-Promoted to Dahonglu.
-Chen Chong experienced two counties and three ministers, and his deeds were famous at that time.
 
 
-Chunk 8: 
+Chunk 10: 
 original: 
+迁大鸿胪。
+宠历二郡三卿，所在有迹，见称当时。
 十六年，代徐防为司空。
 宠虽传法律，而兼通经书，奏议温粹，号为任职相。
 在位三年薨。
 以太常南阳尹勤代为司空。
 translation: 
+Promoted to Dahonglu.
+Chen Chong experienced two counties and three ministers, and his deeds were famous at that time.
 In the 16th year, he served as Sikong on behalf of Xu Fang.
 Although Chen Chong specializes in law, he is also a master of classics. He made a report to Wen Cui and was named Prime Minister.
 He died after reigning for three years.

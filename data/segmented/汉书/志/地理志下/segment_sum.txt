@@ -1,0 +1,228 @@
+Summary uses chunk [0, 1, 4, 29]
+
+Chunk 0: 
+original: 
+武都郡，武帝元鼎六年置。
+莽曰乐平。
+户五万一千三百七十六，口二十三万五千五百六十。
+县九：武都，东汉水受氐道水，一名沔，过江夏，谓之夏水，入江。天池大泽在县西。
+莽曰循虏。
+上禄，故道，莽曰善治。
+河池。泉街水南至沮入汉，行五百二十里。
+莽曰乐平亭。
+平乐道，沮，沮水出东狼谷，南至沙羡南入江，过郡五，行四千里，荆州川。
+嘉陵道，循成道，下辨道。
+莽曰杨德。
+陇西郡，秦置。莽曰厌戎。
+户五万三千九百六十四，口二十三万六千八百二十四。
+有铁官、盐官。
+县十一：狄道，白石山在东。
+莽曰操虏。
+上邽，安故，氐道，《禹贡》养水所出，至武都为汉。
+莽曰亭道。
+translation: 
+Wudu County was established in the sixth year of Emperor Yuanding's reign.
+During the reign of Wang Mang, it was called Leping County.
+There are 51,376 households with a population of 235,560.
+There are nine counties: Wudu County. The Shuhan River receives the water source of the Didao River. One is called Mianshui. It passes through Jiangxia and is called Xia River. It flows into the Yangtze River and Tianchi Daze in the west of the county.
+During the reign of Wang Mang, it was called Xunlu County.
+Shanglu County, Gudao County, was called Shanzhi County during the reign of Wang Mang.
+In Hechi County, the spring street water flows southward to Ju County and flows into the Han River, a journey of 520 miles.
+During Wang Mang's reign, it was called Lepingting County.
+Pingledao County, Ju County, the Ju River originates from the East Wolf Valley, flows south to the south of Shaxian County, and flows into the Yangtze River. It passes through five counties and travels four thousand miles. It is a river in Jingzhou.
+Jialingdao County, Xunchengdao County, and Xiabendao County.
+During Wang Mang's reign, his name was Yang Zuomo.
+Longxi County was established during the Qin Dynasty and was called Yanrong County during the reign of Wang Mang.
+There are 53,964 households with a population of 236,824 people.
+There are iron officials and salt officials.
+There are eleven counties: Didao County, with Shishan in the east.
+During Wang Mang's reign, it was called Caolu County.
+Shangbang County, Angu County, and Didao County are the birthplaces of the Yangshui River in "Yu Gong". When they reach Wudu, they become the Han River.
+During Wang Mang's reign, it was called Tingdao County.
+
+summary:
+summary line 0: A detailed census and geographical record of numerous commanderies and kingdoms in ancient China, primarily during the Han dynasty and the Xin dynasty of Wang Mang. It lists the administrative divisions, their populations, and notable geographical features such as rivers, mountains, and lakes. For each commandery, the text provides the number of households and total population, followed by a list of its constituent counties. Many entries include the name changes implemented during Wang Mang's reign. For example, Wudu County was established in the sixth year of Emperor Yuanding's reign and was called Leping County under Wang Mang, with 51,376 households and a population of 235,560. Similarly, Longxi County, established during the Qin dynasty, was renamed Yanrong County by Wang Mang, with 53,964 households and 236,824 people.
+
+Chunk 1: 
+original: 
+首阳，《禹贡》鸟鼠同穴山在西南，谓水所出，东至船司空入河，过郡四，行千八百七十里，雍州浸。
+予道，莽曰德道。
+大夏，莽曰顺夏。
+羌道，羌水出塞外，南至阴平入白水，过郡三，行六百里。
+襄武，莽曰相桓。
+临洮，洮水出西羌中，北至枹罕东入河。
+《禹贡》西顷山在县西，南部都尉治也。
+西。
+《禹贡》嶓冢山，西汉所出，南入广汉白水，东南至江州入江，过郡四，行二千七百六十里。
+莽曰西治。
+金城郡，昭帝始元六年置。
+莽曰西海。
+户三万八千四百七十，口十四万九千六百四十八。
+县十三：允吾，乌亭逆水出参街谷，东至枝阳入湟。
+莽曰修远。
+浩亹，浩亹水出西塞外，东至允吾入湟水。
+莽曰兴武。
+令居，涧水出西北塞外，至县西南，入郑伯津。
+莽曰罕虏。
+枝阳，金城，莽曰金屏。
+榆中，枹罕，白石，离水出西塞外，东至枹罕入河。
+莽曰顺砾。
+河关，积石山在西南羌中。
+河水行塞外，东北入塞内，至章武入海，过郡十六，行九千四百里。
+破羌，宣帝神爵二年置。
+安夷，允街，宣帝神爵二年置。
+莽曰修远。
+临羌。
+西北至塞外，有西王母石室、仙海、盐池。
+北则湟水所出，东至允吾入河。
+西有须抵池，有弱水、昆仑山祠。
+莽曰盐羌。
+天水郡，武帝元鼎三年置。
+莽曰填戎。
+translation: 
+Shouyang County, the Wushu Tongxue Mountain in "Yu Gong" is in the southwest, and is the birthplace of Wei Shui. It goes eastward to Chuansikong and enters the Yellow River. It passes through four counties and travels 1,870 miles. It is the irrigation canal of Yongzhou.
+Yudao County was called Dedao County during the reign of Wang Mang.
+Daxia County was called Shunxia County during Wang Mang's reign.
+In Qiangdao County, the Qiang River flows out of the Great Wall, flows south to Yinping County, and flows into Baishui County. It passes through three counties and travels 600 miles.
+Xiangwu County was called Xianghuan County during the reign of Wang Mang.
+In Lintao County, the Tao water flows out of the Western Qiangzhong and flows northward to Paohanshu face into the Yellow River.
+Xiqing Mountain in "Yu Gong" is in the west of the county, and the southern part is governed by the captain.
+West County.
+Banzhong Mountain in "Yu Gong" is the birthplace of the Western Han River. It flows southward into Baishui in Guanghan County, and southeastward into Jiangzhou County into the Yangtze River. It passes through four counties and travels 2,760 miles.
+During Wang Mang's reign, it was called Xizhi County.
+Jincheng County was established in the sixth year of Emperor Zhao's reign.
+During Wang Mang's reign, it was called Xihai County.
+There are 38,470 households with a population of 149,648.
+There are thirteen counties: Yunwu County, Wuting flows out of Shenjie Valley against the current, and flows eastward to Zhiyang County and flows into Huangshui River.
+During Wang Mang's reign, it was called Xiuyuan County.
+In Haodie County, the Haodie River flows out of the West Barrier and flows eastward to Yunwu County, where it flows into the Huangshui River.
+During the reign of Wang Mang, it was called Xingwu County.
+In Lingju County, the stream flows out outside the northwest wall, to the southwest of the county, and flows into Zheng Boxin.
+During the reign of Wang Mang, it was called Hanlu County.
+Zhiyang County, Jincheng County, was called Jinping County during the reign of Wang Mang.
+In Yuzhong County, Baohan County, and Baishi County, Lishui flows out of the West Barrier and flows eastward to Paohan County into the Yellow River.
+During Wang Mang's reign, it was called Shunli County.
+Heguan County, Jishi Mountain is in the southwest Qiang.
+The Yellow River flows outside the Great Wall, flows northeast into the Great Wall, and flows into the sea in Zhangwu County. It passes through 16 counties and travels 9,400 miles.
+Poqiang County was established in the second year of Emperor Xuan Shenjue's reign.
+Anyi County and Yunjie County were established in the second year of Emperor Xuan Shenjue's reign.
+During Wang Mang's reign, it was called Xiuyuan County.
+Linqiang County.
+From the northwest to the outside of the Great Wall, there are the Stone Chamber of the Queen Mother of the West, the Immortal Sea, and the Salt Pond.
+To the north is the birthplace of Huangshui River, and to the east it flows into the Yellow River in Yunwu County.
+To the west are Xudachi, Weishui and Kunlun Mountain Temple.
+During the reign of Wang Mang, it was called Yanqiang County.
+Tianshui County was established in the third year of Emperor Yuanding's reign.
+During Wang Mang's reign, it was called Fillrong County.
+
+summary:
+summary line 1: The text also records the origins and courses of major rivers. The Shuhan River, which receives water from the Didao River, is also called Mianshui and flows into the Yangtze River. The Ju River originates from the East Wolf Valley and flows into the Yangtze River, passing through five counties. The Yellow River is described as flowing outside the Great Wall, then northeast into it, and eventually into the sea in Zhangwu County, passing through 16 counties. The text notes the presence of iron and salt officials in certain commanderies, such as Longxi County, and mentions specific mountains like Jishi Mountain in Heguan County and Xiqing Mountain in Lintao County.
+
+Chunk 4: 
+original: 
+东部都尉治东部障。
+莽曰萧武。
+池头，绥弥，乾齐。
+西部都尉治西部障。
+莽曰测虏。
+敦煌郡，武帝后元年分酒泉置。
+正西关外有白龙堆沙，有蒲昌海。
+莽曰敦德。
+户万一千二百，口三万八千三百三十五。
+县六：敦煌。中部都尉治步广候官。
+杜林以为古瓜州地，生美瓜。
+莽曰敦德。
+冥安，南籍端水出南羌中，西北入其泽，溉民田。
+效穀，渊泉，广至，宜禾都尉治昆仑障。
+莽曰广桓。
+龙勒。
+有阳关、玉门关，皆都尉治。
+氐置水出南羌中，东北入泽，溉民田。
+安定郡，武帝元鼎三年置。
+户四万二千七百二十五，口十四万三千二百九十四。
+县二十一：高平，莽曰铺睦。
+复累，安俾，抚夷，莽曰抚宁。
+朝那，有端旬祠十五所，胡巫祝，又有湫渊祠。
+translation: 
+The Eastern Duwei was in charge of all the obstacles.
+During the reign of Wang Mang, it was called Xiaowu County.
+Chitou County, Suimi County, Qianqi County.
+The Western Duwei governs the Western Barrier.
+During Wang Mang's reign, he was called Chalu Se.
+Dunhuang County was established from Jiuquan County in the first year after Emperor Wu.
+Outside Zhengxi Pass, there is Bailongdu Sand and Puchang Sea.
+During the reign of Wang Mang, it was called Dunde County.
+There are 11,200 households and 38,335 people.
+There are six counties: Dunhuang County, in the central part of the country, Duweizhi Buguang has a waiting officer.
+Du Lin believes that it was the ancient Guazhou land, which produced beautiful melons.
+During the reign of Wang Mang, it was called Dunde County.
+In Ming'an County, Duanshui originates from the southern Qiangzhong in the south and flows northwest into the lake to irrigate people's fields.
+Xiaogu County, Yuanquan County, Guangzhi County, Yihe Duwei governed the Kunlun Barrier.
+During the reign of Wang Mang, it was called Guanghuan County.
+Longle County.
+There are Yangguan and Yumentian, both of which are governed by captains.
+Dizhi water originates from the middle of Nanqiang and flows northeast into the lake to irrigate people's fields.
+Anding County was established in the third year of Emperor Yuanding's reign.
+There are 42,725 households with a population of 143,294 people.
+There are twenty-one counties: Gaoping County, which was called Pumu County during the reign of Wang Mang.
+Fulei County, Anbi County, Fuyi County, and during Wang Mang's reign were called Funing County.
+In Chaona County, there are fifteen Duanxun temples, offering witchcraft blessings to the barbarians. There is also Qiuyuan Temple.
+
+summary:
+summary line 2: The summary continues with similar entries for many other commanderies, including Tianshui, Wuwei, Zhangye, Jiuquan, and Dunhuang, each with their own population figures and county lists. For instance, Tianshui County had 63,700 households and 261,348 people, while Wuwei County had 17,581 households and 76,419 people. The text also details the administrative structure, noting the presence of various Duwei (military commanders) governing specific barriers or regions, such as the Northern Duwei governing the Shenquan barrier in Fuping County. The document covers a vast geographical area, from the western frontier commanderies like Dunhuang, which was established from Jiuquan County and had 11,200 households, to the eastern commanderies like Liaoxi, which had 72,654 households.
+
+Chunk 29: 
+original: 
+县五：六，故国，皋繇后，偃姓，为楚所灭。
+如溪水首受沘，东北至寿春入芍陂。
+蓼，故国，皋繇后，为楚所灭。
+安丰，《禹贡》大别山在西南。
+莽曰美丰。
+安风，莽曰安风亭。
+阳泉。
+长沙国，秦郡，高帝五年为国。
+莽曰填蛮。
+属荆州。
+户四万三千四百七十，口二十三万五千八百二十五。
+县十三：临湘，莽曰抚睦。
+罗，连道，益阳，湘山在北。
+下隽，莽曰闰隽。
+攸，酃，承阳，湘南，《禹贡》衡山在东南，荆州山。
+昭陵，荼陵。泥水西入湘，行七百里。
+莽曰声乡。
+容陵，安成。
+庐水东至庐陵，入湖汉。
+莽曰思成。
+本秦京师为内史，分天下作三十六郡。
+汉兴，以其郡太大，稍复开置，又立诸侯王国。
+武帝开广三边。
+故自高祖增二十六，文、景各六，武帝二十八，昭帝一，讫于孝平，凡郡国一百三，县邑千三百一十四，道三十二，侯国二百四十一。
+translation: 
+There are five counties: Six counties were originally vassal states. The descendants of Gao Yao, with the surname Yan, were reduced by the Chu state.
+For example, the stream first receives water from Xianshui River and flows northeast to Shouchun into Shaopi.
+Liao County was originally a vassal state. The descendants of Gao Yao were destroyed by the Chu State.
+Anfeng County, the Dabie Mountains in "Yu Gong" are in the southwest.
+During the reign of Wang Mang, it was called Meifeng County.
+Anfeng County was called Anfeng Pavilion during Wang Mang's reign.
+Yangquan County.
+Changsha State, a county of Qin State, became a state in the fifth year of Emperor Gao.
+During Wang Mang's reign, it was called Caiman Kingdom.
+Belongs to Jingzhou.
+There are 43,470 households with 235,825 people.
+There are thirteen counties: Linxiang County, which was called Fumu County during the reign of Wang Mang.
+Luo County, Liandao County, Yiyang County, and Xiangshan County are in the north.
+Xiajun County was called Runjun County during the reign of Wang Mang.
+You County, Ling County, Chengyang County, and Xiangnan County. Hengshan Mountain in "Yu Gong" is in the southeast and is the mountain of Jingzhou.
+Zhaoling County, Daling County, muddy water flows westward into the Xiangshui River, a journey of 700 miles.
+During Wang Mang's reign, he was called Xiangxian.
+Rongling County, Ancheng County.
+Lushui flows eastwards to Luduise and flows into the plastic selection.
+Wang Ling's name was Mo Shengzhong.
+Originally, the capital of the Qin State was called Neishi, and the world was divided into thirty-six counties.
+After the establishment of the Han Dynasty, because the counties of the Qin Dynasty were too large, they were gradually re-opened and established, and feudal states of princes and kings were established.
+During the reign of Emperor Wu, the land on three sides of the border was extensively developed.
+So from the time of Emperor Gaozu, twenty-six counties were added, Emperors Wen and Jing each added six counties, Emperor Wu added twenty-eight counties, and Emperor Zhao added one county. By the time of Emperor Xiaoping, there were a total of 103 counties, 1,314 counties, 32 roads, and 241 princes.
+
+summary:
+summary line 3: The text further records commanderies in the northern and central regions, such as Shuofang, Wuyuan, Yunzhong, and Dingxiang, each with their own population data and county lists. For example, Shuofang County had 34,338 households and 136,628 people. It also includes commanderies in the southern regions, like Nanhai, Yulin, Cangwu, and Jiaozhi, with Jiaozhi County having 92,440 households and 746,237 people. The text notes the historical origins of some commanderies, such as Wuyuan County being called Jiuyuan County in the Qin dynasty. The document concludes with a summary of the entire Han empire, stating that by the time of Emperor Xiaoping, there were a total of 103 commanderies, 1,314 counties, 32 roads, and 241 marquisates, with a total population of 59,594,978 and 12,233,062 households.
+

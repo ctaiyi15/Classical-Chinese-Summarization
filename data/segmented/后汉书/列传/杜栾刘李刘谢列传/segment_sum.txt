@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 1, 2, 11, 11, 14, 18]
+Summary uses chunk [0, 1, 3, 12, 12, 15, 21]
 
 Chunk 0: 
 original: 
@@ -16,8 +16,6 @@ original:
 太后使人检视，根遂诈死，三日，目中生蛆，因得逃窜，为宜城山中酒家保。
 积十五年，酒家知其贤，厚敬待之。
 及邓氏诛，左右皆言根等之忠。
-帝谓根已死，乃下诏布告天下，录其子孙。
-根方归乡里，征诣公车，拜侍御史。
 translation: 
 ◆The biography of Du Gen, whose courtesy name is Bojian, was from Dingling County, Yingchuan County.
 His father, Du An, whose courtesy name was Boyi, was ambitious and upright when he was young. He entered Imperial College at the age of thirteen and was known as Qitong.
@@ -33,53 +31,14 @@ Because Dugan was famous, the law enforcement officers quietly told the killers 
 The Queen Mother had the body examined, and Du Gen faked his death. For three days, maggots appeared in his eyes, so he was able to escape and work as a busboy in a hotel in the mountains of Yicheng.
 For a total of fifteen years, the restaurant knew that he was a good person and treated him with respect.
 When Deng was executed, everyone around the emperor said that Du Gen and others were loyal.
-The emperor said that Du Gen was dead, so he issued an edict to the world to recruit his descendants.
-As soon as Du Gen returned to his hometown, he was recruited into the public car and appointed as an imperial censor.
 
 summary:
-summary line 0: # Summary of Historical Biographies
-
-Chunk 0: 
-original: 
-杜根字伯坚，颍川定陵人也。
-父安，字伯夷，少有志节，年十三入太学，号奇童。
-京师贵戚慕其名，或遗之书，安不发，悉壁藏之。
-及后捕案贵戚宾客，安开壁出书，印封如故，竟不离其患，时人贵之。
-位至巴郡太守，政甚有声。
-根性方实，好绞直。
-永初元年，举孝廉，为郎中。
-时和熹邓后临朝，权在外戚。
-根以安帝年长，宜亲政事，乃与同时郎上书直谏。
-太后大怒，收执根等，令盛以缣囊，于殿上扑杀之。
-执法者以根知名，私语行事人使不加力，既而载出城外，根得苏。
-太后使人检视，根遂诈死，三日，目中生蛆，因得逃窜，为宜城山中酒家保。
-积十五年，酒家知其贤，厚敬待之。
-及邓氏诛，左右皆言根等之忠。
-帝谓根已死，乃下诏布告天下，录其子孙。
-根方归乡里，征诣公车，拜侍御史。
-translation: 
-◆The biography of Du Gen, whose courtesy name is Bojian, was from Dingling County, Yingchuan County.
-His father, Du An, whose courtesy name was Boyi, was ambitious and upright when he was young. He entered Imperial College at the age of thirteen and was known as Qitong.
-The dignitaries and relatives of the capital were all envious of his reputation. Some wrote to him, but Du An kept them in the wall without opening them.
-Later, when the noble family and guests were arrested for the crime, Du An opened the folder and took out the book. The seal was still the same as before. Finally, he was not harmed. People at that time respected him very much.
-He was the prefect of Ba County and had a strong political voice.
-Dugan has an upright and down-to-earth nature and is impatient.
-In the first year of Yongchu, he was elected as Xiaolian and appointed as a doctor.
-At that time, Queen Hexi and Deng were in charge of the government, and the power was in the hands of their relatives.
-Du Gen believed that Emperor An was old and should be in charge of political affairs, so he and his contemporaries wrote a letter to directly remonstrate.
-The Queen Mother was furious, arrested Dugan and others, packed them in leather bags, and beat them to death in the palace.
-Because Dugan was famous, the law enforcement officers quietly told the killers not to use too much force. Later, they pulled him out of the city in a car and Dugan regained consciousness.
-The Queen Mother had the body examined, and Du Gen faked his death. For three days, maggots appeared in his eyes, so he was able to escape and work as a busboy in a hotel in the mountains of Yicheng.
-For a total of fifteen years, the restaurant knew that he was a good person and treated him with respect.
-When Deng was executed, everyone around the emperor said that Du Gen and others were loyal.
-The emperor said that Du Gen was dead, so he issued an edict to the world to recruit his descendants.
-As soon as Du Gen returned to his hometown, he was recruited into the public car and appointed as an imperial censor.
-
-summary:
-summary line 1: **Du Gen** (courtesy name Bojian) was from Dingling County, Yingchuan. His father Du An was known for his integrity, entering Imperial College at thirteen and gaining fame as "Qitong." Du Gen was elected Xiaolian in Yongchu's first year and appointed as a doctor. When Empress Dowager Deng controlled the government, Du Gen believed Emperor An was old enough to rule and wrote a direct remonstrance. The Queen Mother had him beaten nearly to death in the palace. He feigned death for three days until maggots appeared in his eyes, then escaped and worked as a busboy in Yicheng for fifteen years. After Deng's execution, he was recruited as an imperial censor. During Emperor Shun's reign, he became prefect of Jiyin, resigned, and died at seventy-eight.
+summary line 0: **Du Gen** (courtesy name Bojian) was from Dingling County, Yingchuan. His father Du An was known for his integrity, entering Imperial College at thirteen and gaining fame as "Qitong." Du Gen was elected Xiaolian in Yongchu's first year and appointed as a doctor. When Empress Dowager Deng controlled the government, Du Gen believed Emperor An was old enough to rule and wrote a direct remonstrance. The Queen Mother had him beaten nearly to death in the palace. He feigned death for three days until maggots appeared in his eyes, then escaped and worked as a busboy in Yicheng for fifteen years. After Deng's execution, he was recruited as an imperial censor. During Emperor Shun's reign, he became prefect of Jiyin, resigned, and died at seventy-eight.
 
 Chunk 1: 
 original: 
+帝谓根已死，乃下诏布告天下，录其子孙。
+根方归乡里，征诣公车，拜侍御史。
 初，平原郡吏成翊世亦谏太后归政，坐抵罪，与根俱征，擢为尚书郎，并见纳用。
 或问根曰： 往者遇祸，天下同义，知故不少，何至自苦如此？
 根曰： 周旋民间，非绝迹之处，邂逅发露，祸及知亲，故不为也。
@@ -97,6 +56,8 @@ original:
 后尚书令左雄、仆射郭虔复举为尚书。
 在朝正色，百僚敬之。
 translation: 
+The emperor said that Du Gen was dead, so he issued an edict to the world to recruit his descendants.
+As soon as Du Gen returned to his hometown, he was recruited into the public car and appointed as an imperial censor.
 First, Cheng Xushi, an official from Pingyuan County, admonished the Queen Mother to return to power and was convicted. At this time, he and Du Gen were recruited and elected as Shangshu Lang, and both of them were appointed.
 Someone asked Dugan: When you were in trouble before, everyone in the world sympathized with your loyalty and you had many friends. Why did you suffer like this?
 Dugan said: "It is impossible not to leave traces among the people. If I are discovered accidentally, disaster will befall my relatives and friends, so I did not do this."
@@ -115,49 +76,42 @@ Later, the minister ordered Zuo Xiong and Pushe Guo Qian to appoint him as minis
 He was unsmiling and unsmiling in the court, and all the officials respected and loved him.
 
 summary:
-summary line 2: **Cheng Yishi** (courtesy name Jiming) was studious and familiar with Taoism. During Yanguang period, when Fan Feng and Wang Sheng slandered the crown prince, Cheng wrote defenses but was framed and imprisoned. When the prince became Emperor Shun, Sikong Zhang Hao recommended Cheng as Yilang, but Cheng declined, feeling his contribution was insufficient. He was later conscripted again as Yilang. He was unsmiling in court, and all officials respected him.
+summary line 1: **Cheng Yishi** (courtesy name Jiming) was studious and familiar with Taoism. During Yanguang period, when Fan Feng and Wang Sheng slandered the crown prince, Cheng wrote defenses but was framed and imprisoned. When the prince became Emperor Shun, Sikong Zhang Hao recommended Cheng as Yilang, but Cheng declined, feeling his contribution was insufficient. He was later conscripted again as Yilang. He was unsmiling in court, and all officials respected him.
 
-Chunk 2: 
+Chunk 3: 
 original: 
-栾巴字叔元，魏郡内黄人也。
-好道。
-顺帝世，以宦者给事掖庭，补黄门令，非其好也。
-性质直，学览经典，虽在中官，不与诸常侍交接。
-后阳气通暢，白上乞退，擢拜郎中，四迁桂杨太守。
-以郡处南垂，不闲典训，为吏人定婚姻丧纪之礼，兴立学校，以奖进之。
-虽干吏卑末，皆课令习读，程试殿最，随能升授。
-政事明察。视事七年，以病乞骸骨。
-荆州刺史李固荐巴治迹，征拜议郎，守光禄大夫，与杜乔、周举等八人徇行州郡。
-巴使徐州还，再迁豫章太守。
-郡土多山川鬼怪，小人常破赀产以祈祷。
-巴素有道术，能役鬼神，乃悉毁坏房祀，剪理奸巫，于是妖异自消。
-百姓始颇为惧，终皆安之。
-迁沛相。所在有绩，征拜尚书。
 会帝崩，营起宪陵。
 陵左右或有小人坟冢，主者欲有所侵毁，巴连上书苦谏。
+时梁太后临朝，诏诘巴曰： 大行皇帝晏驾有日，卜择陵园，务从省约，茔域所极，裁二十顷，而巴虚言主者坏人冢墓。
+事既非实，寝不报下，巴犹固遂其愚，复上诽谤。苟肆狂瞽，益不可长。
+巴坐下狱，抵罪，禁锢还家。
+二十余年，灵帝即位，大将军窦武、太傅陈蕃辅政，征拜议郎。
+蕃、武被诛，巴以其党，复谪为永昌太守。
+以功自劾，辞病不行，上书极谏，理陈、窦之冤。
+帝怒，下诏切责，收付廷尉。
+巴自杀。子贺，官至云中太守。
+刘陶字子奇，一名伟，颍川颍阴人，济北贞王勃之后。
+陶为人居简，不修上节。
 translation: 
-◆The biography of Luan Ba, named Shuyuan, was from Huang County, Wei County.
-Good Taoism.
-During the reign of Emperor Shun, he was a eunuch and served in Yeting. It is not his wish to be an official because he is a member of the Huang family.
-He has a simple and upright temperament, and studies Confucian classics. Although he is a middle-ranking official, he does not associate with the regular attendants.
-Later, the yang energy was unblocked and the body returned to its original shape. He reported to the emperor and requested to quit the eunuchship. He was elected as a doctor and moved to Guiyang as the governor.
-Because Guiyang County was located in the southern border area and was not familiar with the classics, it established marriage and funeral etiquette for officials, established schools, and rewarded progress.
-Even if they are minor officials, they are all allowed to study and take exams, and they will be promoted or given officials according to their abilities.
-His political affairs were clear and he served for seven years. He asked to go home due to illness.
-Li Gu, the governor of Jingzhou, recommended Luan Ba's political achievements, recruited Yilang, acted as Dr. Guanglu, and inspected the prefecture and county with Du Qiao, Zhou Ju and other eight people.
-Luan Ba ​​sent him back to Xuzhou and then moved him to Yuzhang as governor.
-There are many ghosts and monsters in the mountains and rivers in the county, and the people in the mountains often spend money to pray.
-Luan Ba ​​had Taoist skills and could drive ghosts and gods, so he completely destroyed the sacrifices in those halls and exterminated the treacherous witches, so the monsters were naturally eliminated.
-At first, the people were a little scared, but later they became peaceful.
-He was appointed as the prime minister of the country. Wherever he went, he made political achievements and recruited ministers.
 When the emperor died, he built the Xianling Mausoleum.
 There are occasional tombs of villains on the left and right sides of the mausoleum. The majors wanted to destroy them, so Luan Ba ​​wrote letters repeatedly to remonstrate.
+At this time, the Empress Dowager Liang was in charge of the government and issued an edict to interrogate Luan Ba: It had been a few days since the death of Emperor Daxing. When choosing a cemetery, it was necessary to save it. The cemetery was only twenty hectares, but Luan Ba ​​said something about the main person destroying the tomb.
+Since it is not the truth, he should go to bed without retribution. However, Luan Ba ​​was stupid and liked to use himself. He also went to the court to slander the imperial court. He acted boldly and recklessly. This trend should not last long.
+Luanba was convicted and imprisoned. He should be punished and not allowed to be an official. He was sent back home.
+More than twenty years later, Emperor Ling came to the throne. General Dou Wu and Taifu Chen Fan assisted the government and recruited Yilang.
+Chen Fan and Dou Wu were killed, and Luan Ba ​​was relegated to Yongchang Prefect because he was their ally.
+He impeached himself based on his merits, but could not do it because of his illness. He wrote a letter of extreme remonstrance, complaining about the unjust case of Chen Fan and Dou Wu.
+The emperor was angry, issued an edict, and arrested Jiao Tingwei.
+Luan Ba ​​committed suicide, and his son Luan He became the governor of Yunzhong.
+◆The biography of Liu Tao, Liu Tao's courtesy name is Ziqi, his famous name is Wei, he was a native of Yingyin County, Yingchuan County, and the successor of Liu Bo, the Zhen King of Jibei Province.
+Liu Tao is a simple man and doesn't pay attention to details.
 
 summary:
-summary line 3: **Luan Ba** (courtesy name Shuyuan) was from Huang County, Wei County, and practiced Taoism. During Emperor Shun's reign, he served as a eunuch in Yeting against his wishes. He had a simple, upright temperament and studied Confucian classics. After his yang energy returned, he requested to quit the eunuchship, became a doctor, then governor of Guiyang. He established marriage and funeral rites, built schools, and promoted officials based on ability. After seven years, he resigned due to illness. He later became governor of Yuzhang, where he used Taoist skills to destroy demonic sacrifices and eliminate monsters. When Emperor Shun died, Luan Ba remonstrated against destroying small tombs near the imperial mausoleum. Empress Dowager Liang interrogated him, convicted him, and sent him home. Over twenty years later, Emperor Ling ascended, and Luan Ba was recruited as Yilang. When Chen Fan and Dou Wu were killed, Luan Ba was relegated to Yongchang Prefect. He wrote an extreme remonstrance about their unjust case, and the emperor ordered his arrest. Luan Ba committed suicide.
+summary line 2: **Luan Ba** (courtesy name Shuyuan) was from Huang County, Wei County, and practiced Taoism. During Emperor Shun's reign, he served as a eunuch in Yeting against his wishes. He had a simple, upright temperament and studied Confucian classics. After his yang energy returned, he requested to quit the eunuchship, became a doctor, then governor of Guiyang. He established marriage and funeral rites, built schools, and promoted officials based on ability. After seven years, he resigned due to illness. He later became governor of Yuzhang, where he used Taoist skills to destroy demonic sacrifices and eliminate monsters. When Emperor Shun died, Luan Ba remonstrated against destroying small tombs near the imperial mausoleum. Empress Dowager Liang interrogated him, convicted him, and sent him home. Over twenty years later, Emperor Ling ascended, and Luan Ba was recruited as Yilang. When Chen Fan and Dou Wu were killed, Luan Ba was relegated to Yongchang Prefect. He wrote an extreme remonstrance about their unjust case, and the emperor ordered his arrest. Luan Ba committed suicide.
 
-Chunk 11: 
+Chunk 12: 
 original: 
+宦官事急，共谗陶曰： 前张解事发，诏书示以威恩，自此以来，各各改悔。
 今者四方安静，而陶疾害圣政，专言妖孽。州郡不上，陶何缘知？
 疑陶与贼通情。
 于是收陶，下黄门北寺狱，掠按日急。
@@ -176,6 +130,7 @@ original:
 初举孝廉，再迁白马令。
 桓帝延熹二年，诛大将军梁冀，而中常侍单超等五人皆以诛冀功并封列侯，专权选举。又立掖庭民女氏为皇后，数月间，后家封者四人，赏赐巨万。
 translation: 
+The eunuchs were anxious, and they framed Liu Tao, saying: "In the past, when Zhang Jiao's incident happened, both edicts and grace were used. From then on, everyone repented."
 Now that there is peace in all directions, Liu Tao hates the lack of political clarity in the court and talks about Zhang Jiao as a monster. The prefectures and counties did not report it. How did Liu Tao know this?
 We suspect that Liu Tao is in contact with thieves.
 So Liu Tao was arrested and imprisoned in the Huangmen North Temple Prison. He was tortured and whipped every day. Liu Tao knew that he would definitely die.
@@ -195,10 +150,11 @@ He was promoted to Xiaolian at first and then magistrate of Baima County.
 In the second year of Emperor Huan's reign of Emperor Yanxi, he executed the general Liang Ji. Shan Chao and five other people were granted the title of marquis because of their merit in killing Liang Ji. He also appointed Bo, a popular woman from Yeting, as the queen. Within a few months, the queen's family was awarded huge rewards to the four people who were granted the title.
 
 summary:
-summary line 4: **Liu Tao** (courtesy name Ziqi) was from Yingyin County, Yingchuan, descendant of Liu Bo, King of Jibei. He was simple and made friends only with like-minded people. When General Liang Ji held power and disasters struck, Liu Tao studied at Taixue and submitted a memorial criticizing the emperor for allowing villains to torture the people, causing heaven to send disasters. He recommended Zhu Mu and Li Ying as capable officials. The emperor did not accept his advice. When officials proposed recoining money, Liu Tao argued that food was more urgent than currency, stating that people could live without money but not without food. The emperor stopped minting money. Liu Tao later became chief of Shunyang, where he recruited former criminals to help catch traitors. He was dismissed due to illness, and the people made a song missing him. He annotated the Shangshu and Chunqiu. When Zhang Jiao rebelled, Liu Tao warned the emperor but was ignored. After Zhang Jiao's rebellion caused chaos, the emperor made Liu Tao Marquis of Zhongling Township and promoted him to Shangshu Ling. Because of his remonstrances, powerful ministers feared him and transferred him to Jing Zhaoyin. He refused to buy his position with money and resigned due to illness. The emperor valued his talents and conscripted him as an admonition official. Liu Tao submitted eight urgent matters blaming eunuchs for the country's chaos. The eunuchs framed him, and he was tortured in prison. He wrote hundreds of thousands of words, including "Qi Yao Lun," "Kuang Laozi," "Anti-Han Fei," and "Reply to Mencius." He died in prison.
+summary line 3: **Liu Tao** (courtesy name Ziqi) was from Yingyin County, Yingchuan, descendant of Liu Bo, King of Jibei. He was simple and made friends only with like-minded people. When General Liang Ji held power and disasters struck, Liu Tao studied at Taixue and submitted a memorial criticizing the emperor for allowing villains to torture the people, causing heaven to send disasters. He recommended Zhu Mu and Li Ying as capable officials. The emperor did not accept his advice. When officials proposed recoining money, Liu Tao argued that food was more urgent than currency, stating that people could live without money but not without food. The emperor stopped minting money. Liu Tao later became chief of Shunyang, where he recruited former criminals to help catch traitors. He was dismissed due to illness, and the people made a song missing him. He annotated the Shangshu and Chunqiu. When Zhang Jiao rebelled, Liu Tao warned the emperor but was ignored. After Zhang Jiao's rebellion caused chaos, the emperor made Liu Tao Marquis of Zhongling Township and promoted him to Shangshu Ling. Because of his remonstrances, powerful ministers feared him and transferred him to Jing Zhaoyin. He refused to buy his position with money and resigned due to illness. The emperor valued his talents and conscripted him as an admonition official. Liu Tao submitted eight urgent matters blaming eunuchs for the country's chaos. The eunuchs framed him, and he was tortured in prison. He wrote hundreds of thousands of words, including "Qi Yao Lun," "Kuang Laozi," "Anti-Han Fei," and "Reply to Mencius." He died in prison.
 
-Chunk 11: 
+Chunk 12: 
 original: 
+宦官事急，共谗陶曰： 前张解事发，诏书示以威恩，自此以来，各各改悔。
 今者四方安静，而陶疾害圣政，专言妖孽。州郡不上，陶何缘知？
 疑陶与贼通情。
 于是收陶，下黄门北寺狱，掠按日急。
@@ -217,6 +173,7 @@ original:
 初举孝廉，再迁白马令。
 桓帝延熹二年，诛大将军梁冀，而中常侍单超等五人皆以诛冀功并封列侯，专权选举。又立掖庭民女氏为皇后，数月间，后家封者四人，赏赐巨万。
 translation: 
+The eunuchs were anxious, and they framed Liu Tao, saying: "In the past, when Zhang Jiao's incident happened, both edicts and grace were used. From then on, everyone repented."
 Now that there is peace in all directions, Liu Tao hates the lack of political clarity in the court and talks about Zhang Jiao as a monster. The prefectures and counties did not report it. How did Liu Tao know this?
 We suspect that Liu Tao is in contact with thieves.
 So Liu Tao was arrested and imprisoned in the Huangmen North Temple Prison. He was tortured and whipped every day. Liu Tao knew that he would definitely die.
@@ -236,11 +193,10 @@ He was promoted to Xiaolian at first and then magistrate of Baima County.
 In the second year of Emperor Huan's reign of Emperor Yanxi, he executed the general Liang Ji. Shan Chao and five other people were granted the title of marquis because of their merit in killing Liang Ji. He also appointed Bo, a popular woman from Yeting, as the queen. Within a few months, the queen's family was awarded huge rewards to the four people who were granted the title.
 
 summary:
-summary line 5: **Li Yun** (courtesy name Xingzu) was from Ganling County. He was learned in yin-yang and became magistrate of Baima County. In Emperor Huan's second year of Yanxi, after Liang Ji was executed, Shan Chao and others were made marquises, and a popular woman became queen. Disasters struck, and Li Yun submitted a memorial criticizing the emperor's rewards and the disorder of official positions. The emperor became furious and ordered Li Yun's arrest. Du Zhong and Chen Fan pleaded for him, but Li Yun died in prison.
+summary line 4: **Li Yun** (courtesy name Xingzu) was from Ganling County. He was learned in yin-yang and became magistrate of Baima County. In Emperor Huan's second year of Yanxi, after Liang Ji was executed, Shan Chao and others were made marquises, and a popular woman became queen. Disasters struck, and Li Yun submitted a memorial criticizing the emperor's rewards and the disorder of official positions. The emperor became furious and ordered Li Yun's arrest. Du Zhong and Chen Fan pleaded for him, but Li Yun died in prison.
 
-Chunk 14: 
+Chunk 15: 
 original: 
-若夫托物见情，因文载旨，使言之者无罪，闻之者足以自戒，贵在于意达言从，理归乎正。
 曷其绞讦摩上，以沽成名哉？
 李云草茅之生，不识失身之义，遂乃露布帝者，班檄三公，至于诛死而不顾，斯岂古之狂也！
 夫未信而谏，则以为谤己，故说者识其难焉。
@@ -254,7 +210,6 @@ original:
 臣在下土，听闻歌谣，骄臣虐政之事，远近呼嗟之音，窃为辛楚，泣血涟如。
 幸得引录，备答圣问，泄写至情，不敢庸回。
 translation: 
-Borrowing objects to express one's feelings and writing articles to state one's intentions, the most important thing is that the meaning is clear, the language is smooth, and the truth is pure.
 Why are you so eager to show off and gain fame?
 Li Yun is a commoner in the grassland who does not understand the principle of losing his virginity if he keeps secrets from his ministers. He dares to publicly report to the emperor and the three princes, regardless of life and death. Is this what the madmen in ancient times were like?
 If he fails to gain the emperor's trust and remonstrates with the emperor, the emperor will think that the remonstrance is slander against him. So when speaking, you should understand the difficulties of speaking!
@@ -269,48 +224,30 @@ When I was in the countryside, I heard some songs about proud ministers who brut
 I am happy to be recommended. When answering the emperor's questions, I should express my feelings with complete loyalty and not dare to deceive others.
 
 summary:
-summary line 6: **Liu Yu** (courtesy name Jiji) was from Guangling, descendant of King Jing of Guangling. He was skilled in astronomy and mathematics. In Yanxi's eighth year, Taiwei Yang Bing recommended him as virtuous and upright. He submitted a memorial criticizing eunuchs for creating offspring to inherit titles, the harem's excess, and the people's suffering. He advised the emperor to open the path of remonstrance. When General Dou Wu failed to kill the eunuchs, Liu Yu was killed.
+summary line 5: **Liu Yu** (courtesy name Jiji) was from Guangling, descendant of King Jing of Guangling. He was skilled in astronomy and mathematics. In Yanxi's eighth year, Taiwei Yang Bing recommended him as virtuous and upright. He submitted a memorial criticizing eunuchs for creating offspring to inherit titles, the harem's excess, and the people's suffering. He advised the emperor to open the path of remonstrance. When General Dou Wu failed to kill the eunuchs, Liu Yu was killed.
 
-Chunk 18: 
+Chunk 21: 
 original: 
-举方正，不行。
-谢弼字辅宣，东郡武阳人也。
-中直方正，为乡邑所宗师。
-建宁二年，诏举有道之士，弼与东海陈敦、玄菟公孙度俱对策，皆除郎中。
-时，青蛇见前殿，大风拔木，诏公卿以下陈得失。
-弼上封事曰：臣闻和气应于有德，妖异生乎失政。
-上天告谴，则王者思其愆；政道或亏，则奸臣当其罚。夫蛇者，阴气所生；鳞者，甲兵之符也。
-《鸿范传》曰： 厥极弱，时则有蛇龙之孽。
-又荧惑守亢，裴回不去，法有近臣谋乱，发于左右。不知陛下所与从容帷幄之内，亲信者为谁？
-宜急斥黜，以消天戒。
-臣又闻 惟虺惟蛇，女子之祥 。
-伏惟皇太后定策官闼，授立圣明，《书》云： 父子兄弟，罪不相及。
-窦氏之诛，岂宜咎延太后？
-幽隔空宫，愁感天心，有如雾露之疾，陛下当何面目以见天下？
-昔周襄王不能敬事其母，戎狄遂至交侵。
-孝和皇帝不绝窦后之恩，前世以为美谈。
-礼为人后者为之子，今以桓帝为父，岂得不以太后为母哉？
-《援神契》曰： 天子行孝，四夷和平。
+今之四公，唯司空刘宠断断守善，余皆素餐致寇之人，必有折足覆餗之凶。
+可因灾异，并加罢黜。
+征故司空王暢，长乐少府李膺，并居政事，庶灾变可消，国祚惟永。
+臣山薮顽暗，未达国典。策曰 无有所隐 ，敢不尽愚，用忘讳忌。
+伏惟陛下裁其诛罚。
+左右恶其言，出为广陵府丞。
+去官归家。
+中常侍曹节从子绍为东郡太守，忿疾于弼，遂以它罪收考掠按，死狱中，时人悼伤焉。
+初平二年，司隶校尉赵廉讼弼忠节，求报其怨魂，乃收绍斩之。
 translation: 
-It is said that it is square and it should not be done.
-◆Xie Bi Chuan, courtesy name Fuxuan, was a native of Wuyang County, Dongjun.
-Zhongzheng is upright and upright, and he is admired and respected by his hometown clan.
-In the second year of Jianning, an imperial edict was issued to recruit virtuous men. Xie Bi, Chen Dun of Donghai, and Gongsun Du of Xuantu all passed the examination and were awarded the title of doctor.
-At this time, a green snake appeared in the front hall, and the strong wind blew down the trees. He ordered the officials below to report their mistakes in political affairs.
-Xie Bi sent a secret report and said: I heard that harmony comes from virtue, and evil comes from political failure.
-God has issued a warning, and the emperor must think about his faults; if there are shortcomings in politics and religion, traitors should be punished. Snakes are born from Yin energy and are similar to dragons. Dragons have scales and are the symbols of armored soldiers.
-"Hong Fan Zhuan" says: When Jue is extremely weak, he will suffer from the sins of snakes and dragons.
-It is said that if the emperor is weak, snakes and dragons will appear strangely. Also, the star Yinghuo is guarding Kangxing, lingering around, as if there are conspiracies by the ministers on the left and right to cause trouble. I wonder who is your most trusted person when the emperor is leisurely and working in the palace on weekdays.
-They should be repelled as soon as possible to eliminate God's warning.
-I also heard that a snake is a symbol of auspiciousness for a woman.
-I think the empress dowager decided to go deep into the palace to support the emperor. The "Book" said: Father, son, brother, the sins are not related to each other.
-Could it be that the Queen Mother was involved in Dou's execution?
-She was imprisoned in the palace, and her sorrow touched the heart of heaven. If she died of illness, how could the emperor show his face to the people of the world?
-In the past King Xiang of Zhou could not respect his mother, so Rong and Di invaded her.
-Emperor Xiaohe never ceased the kindness of Empress Dou, and was praised by all generations.
-The empress is the son of a person, and now he recognizes Emperor Huan as his father. Can he not recognize the Queen Mother as his mother?
-"The Deed of Assistance to the Gods" says: The emperor performs filial piety and the barbarians are at peace.
+Now among the four princes, only Sikong Liu Chong is not a liar and keeps himself clean, while the rest are just some of the bandits who live in a state of solitude. They are incompetent and must do bad things.
+They can be dismissed or dismissed due to the occurrence of disasters.
+Recruiting the former Sikong Wang Chang and Changle Shaofu Li Ying to jointly manage political affairs. In this way, the disasters of the common people can be eliminated and the country can be peaceful.
+I am a commoner in the mountains and I don’t know the country’s laws. The emperor told me not to hide anything, that is to say, I don’t have any worries. How dare you not speak freely and forget your taboos?
+I beg the emperor to punish me for my sins.
+The people around the emperor were disgusted by what he said and sent him to serve as the prime minister of Guangling Prefecture.
+Later, he resigned from office and returned home.
+Cao Shao, the nephew of Cao Jie, the official minister of Zhongchang, was the governor of Dongjun and hated Xie Bi. So under the guise of other matters, he was arrested, tortured and interrogated, and died in prison. At that time, people mourned his death.
+In the second year of Chuping, Zhao Qian, the captain of the Sili school, appealed to Xie Bizhongjie and asked for revenge for his resentment, so he arrested Cao Shao and killed him.
 
 summary:
-summary line 7: **Xie Bi** (courtesy name Fuxuan) was from Wuyang County, Dongjun. In Jianning's second year, he was recruited as a doctor. When a green snake appeared and strong winds blew, Xie Bi submitted a secret report blaming the emperor's weakness, the Queen Mother's imprisonment, and the execution of Chen Fan. He recommended recruiting Wang Chang and Li Ying. The emperor's attendants sent him to be prime minister of Guangling. He later resigned. Cao Shao, nephew of eunuch Cao Jie, hated Xie Bi and had him tortured to death in prison. In Chuping's second year, Zhao Qian avenged Xie Bi by arresting and killing Cao Shao.
+summary line 6: **Xie Bi** (courtesy name Fuxuan) was from Wuyang County, Dongjun. In Jianning's second year, he was recruited as a doctor. When a green snake appeared and strong winds blew, Xie Bi submitted a secret report blaming the emperor's weakness, the Queen Mother's imprisonment, and the execution of Chen Fan. He recommended recruiting Wang Chang and Li Ying. The emperor's attendants sent him to be prime minister of Guangling. He later resigned. Cao Shao, nephew of eunuch Cao Jie, hated Xie Bi and had him tortured to death in prison. In Chuping's second year, Zhao Qian avenged Xie Bi by arresting and killing Cao Shao.
 

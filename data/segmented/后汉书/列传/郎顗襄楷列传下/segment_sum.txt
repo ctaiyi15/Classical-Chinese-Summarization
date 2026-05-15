@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 0, 17, 17, 22]
+Summary uses chunk [0, 0, 14, 19, 25]
 
 Chunk 0: 
 original: 
@@ -13,9 +13,6 @@ original:
 昼研精义，夜占象度，勤心锐思，朝夕无倦。
 州郡辟召，举有道、方正，不就。
 顺帝时，灾异屡见，阳嘉二年正月，公正征，顗乃诣阙拜章曰：臣闻天垂妖象，地见灾符，所以谴告人主，责躬修德，使正机平衡，流化兴政也。
-《易内传》曰： 凡灾异所生，各以其政。
-变之则除，消之亦除。
-伏惟陛下躬日吴之听，温三省之勤，思过念咎，务消祇悔。
 translation: 
 ◆The Legend of Lang Yi
 Lang Yi, courtesy name Yaguang, was born in Anqiu, Beihai.
@@ -28,12 +25,9 @@ When he was young, Lang Yi passed on his father's studies and learned the classi
 During the day, he studies the essence and at night, he divines the images. He meditates diligently and is tireless in the morning and evening.
 The prefectures and counties appointed him to be a man of integrity and uprightness, but he did not go to the post.
 During the reign of Emperor Shun, disasters occurred many times. In the first month of the second year of Yangjia, when public transport was called for, Lang Yi went to the court to pay homage and wrote a memorial: I heard that monsters descended from the sky and disaster talismans appeared on the earth, in order to condemn the masters, to punish the people, to cultivate virtues, to balance the good opportunities, and to promote the government.
-"Yi Neizhuan" says: All disasters and disasters are caused by different things, and everyone has their own governance.
-Change it and eliminate it, eliminate it and eliminate it.
-Thinking of His Majesty personally attending to the affairs of state every day, I should review Zengzi's three self-examinations, reflect on my faults and blame, and make sure to eliminate my great regrets.
 
 summary:
-summary line 0: **Summary of Historical Records: Lang Yi and Xiang Kai**
+summary line 0: Lang Yi, courtesy name Yaguang, was born in Anqiu, Beihai. His father, Lang Zong, studied the "Jing's Book of Changes," excelled in divination and astrology, and supported himself by fortune-telling. Emperor An summoned him, and his responses set a standard for Confucian scholars. He later became magistrate of Wu County, where he accurately predicted a fire in the capital through divination. The imperial court summoned him with a doctor's title, but Lang Zong, ashamed of being known for fortune-telling, fled by night, hanging his seal in the county court, and never served as an official again.
 
 Chunk 0: 
 original: 
@@ -48,9 +42,6 @@ original:
 昼研精义，夜占象度，勤心锐思，朝夕无倦。
 州郡辟召，举有道、方正，不就。
 顺帝时，灾异屡见，阳嘉二年正月，公正征，顗乃诣阙拜章曰：臣闻天垂妖象，地见灾符，所以谴告人主，责躬修德，使正机平衡，流化兴政也。
-《易内传》曰： 凡灾异所生，各以其政。
-变之则除，消之亦除。
-伏惟陛下躬日吴之听，温三省之勤，思过念咎，务消祇悔。
 translation: 
 ◆The Legend of Lang Yi
 Lang Yi, courtesy name Yaguang, was born in Anqiu, Beihai.
@@ -63,53 +54,47 @@ When he was young, Lang Yi passed on his father's studies and learned the classi
 During the day, he studies the essence and at night, he divines the images. He meditates diligently and is tireless in the morning and evening.
 The prefectures and counties appointed him to be a man of integrity and uprightness, but he did not go to the post.
 During the reign of Emperor Shun, disasters occurred many times. In the first month of the second year of Yangjia, when public transport was called for, Lang Yi went to the court to pay homage and wrote a memorial: I heard that monsters descended from the sky and disaster talismans appeared on the earth, in order to condemn the masters, to punish the people, to cultivate virtues, to balance the good opportunities, and to promote the government.
-"Yi Neizhuan" says: All disasters and disasters are caused by different things, and everyone has their own governance.
-Change it and eliminate it, eliminate it and eliminate it.
-Thinking of His Majesty personally attending to the affairs of state every day, I should review Zengzi's three self-examinations, reflect on my faults and blame, and make sure to eliminate my great regrets.
 
 summary:
-summary line 1: Lang Yi, courtesy name Yaguang, was born in Anqiu, Beihai. His father, Lang Zong, studied the "Jing's Book of Changes," excelled in divination and astrology, and supported himself by fortune-telling. Emperor An summoned him, and his responses set a standard for Confucian scholars. He later became magistrate of Wu County, where he accurately predicted a fire in the capital through divination. The imperial court summoned him with a doctor's title, but Lang Zong, ashamed of being known for fortune-telling, fled by night, hanging his seal in the county court, and never served as an official again.
+summary line 1: Lang Yi inherited his father's studies, lived in seclusion by the sea, and taught hundreds of disciples. During Emperor Shun's reign, disasters occurred frequently. In the first month of the second year of Yangjia, Lang Yi was summoned to court. He submitted a memorial attributing disasters to the ruler's governance, urging the emperor to practice frugality, reflect on faults, and reform policies. He warned that luxury, excessive construction, and harsh punishments caused celestial anomalies like prolonged cloudiness, cold spells, and fires. He cited classical texts to argue that the emperor should reduce palace expenditures, release palace maids to restore harmony, and dismiss incompetent officials. He also predicted earthquakes, floods, and invasions if reforms were not enacted.
 
-Chunk 0: 
+Chunk 14: 
 original: 
-郎顗襄楷
-郎顗字雅光，北海安丘人也。
-父宗，字仲绥，学《京氏易》，善风角、星算、六日七分，能望气占候吉凶，常卖卜自奉。
-安帝征之，对策为诸儒表，后拜吴令。
-时卒有暴风，宗占知京师当有大火，记识时日，遣人参候，果如其言。
-诸公闻而表上，以博士征之。
-宗耻以占验见知，闻征书到，夜县印绶于县廷而遁去，遂终身不仕。
-顗少传父业，兼明经典，隐居海畔，延致学徒常数百人。
-昼研精义，夜占象度，勤心锐思，朝夕无倦。
-州郡辟召，举有道、方正，不就。
-顺帝时，灾异屡见，阳嘉二年正月，公正征，顗乃诣阙拜章曰：臣闻天垂妖象，地见灾符，所以谴告人主，责躬修德，使正机平衡，流化兴政也。
-《易内传》曰： 凡灾异所生，各以其政。
-变之则除，消之亦除。
-伏惟陛下躬日吴之听，温三省之勤，思过念咎，务消祇悔。
+朝廷前加优宠，宾于上位。
+琼入朝日浅，谋谟未就，因以丧病，致命遂志。
+《老子》曰： 大音希声，大器晚成。
+善人为固，三年乃立。
+天下莫不嘉朝廷有此良人，而复怪其不时还任。
+陛下宜加降崇之恩，极养贤之礼，征反京师，以慰天下。
+又处士汉中李固，年四十，通游、夏之艺，履颜、闵之仁。
+洁白之节，情同璬日，忠贞之操，好是正直，卓冠古人，当世莫及。
+元精所生，王之佐臣，天之生固，必为圣汉，宜蒙特征，以示四方。
+夫有出伦之才，不应限以官次。
+昔颜子十八，天下归仁；子奇稚齿，化阿有声。
+若还琼征固，任以时政，伊尹、傅说，不足为此，则可垂景光，致休祥矣。
+臣顗明不知人，伏听众言，百姓所归，臧否共叹。
+愿泛问百僚，核其名行，有一不合，则臣为欺国。
 translation: 
-◆The Legend of Lang Yi
-Lang Yi, courtesy name Yaguang, was born in Anqiu, Beihai.
-His father, Langzong, whose courtesy name was Zhongsui, studied "Jing's Book of Changes" and was good at wind angle, astrology, and six-day and seven-minute calculations. He could tell the weather about good and bad luck, and he often sold divination to support himself.
-Emperor An summoned him, and his countermeasures set an example for other Confucian scholars. Later, he became the magistrate of Wu County.
-At this time, there was a sudden storm, and Lang Zong learned from divination that there was going to be a fire in the capital. He noted the time and sent someone to inquire, and it was indeed as he said.
-After hearing this, all the princes went up to the table to hear the news, and the imperial court summoned him with a doctor.
-Lang Zong thought it was shameful to be known for his fortune-telling. When he heard that the summons had arrived, he hung his seal and ribbon in the county court at night and fled, so he never served as an official for the rest of his life.
-When he was young, Lang Yi passed on his father's studies and learned the classics. He lived in seclusion by the sea and often taught hundreds of disciples.
-During the day, he studies the essence and at night, he divines the images. He meditates diligently and is tireless in the morning and evening.
-The prefectures and counties appointed him to be a man of integrity and uprightness, but he did not go to the post.
-During the reign of Emperor Shun, disasters occurred many times. In the first month of the second year of Yangjia, when public transport was called for, Lang Yi went to the court to pay homage and wrote a memorial: I heard that monsters descended from the sky and disaster talismans appeared on the earth, in order to condemn the masters, to punish the people, to cultivate virtues, to balance the good opportunities, and to promote the government.
-"Yi Neizhuan" says: All disasters and disasters are caused by different things, and everyone has their own governance.
-Change it and eliminate it, eliminate it and eliminate it.
-Thinking of His Majesty personally attending to the affairs of state every day, I should review Zengzi's three self-examinations, reflect on my faults and blame, and make sure to eliminate my great regrets.
+In front of the imperial court, he was favored and extended as a distinguished guest.
+Huang Qiong had not been in the dynasty for a long time, and his plans had not yet been demonstrated. Because of his illness, his ambition was fatal.
+"Laozi" said: Great sound and no sound, great achievements come late.
+It takes three years for good people to govern a country to achieve results.
+Everyone in the world is not unhappy that there is such a good person in the court, but they also find it strange that he still does whatever he does from time to time.
+Your Majesty should bestow the grace of Long Chong, fulfill the gift of nurturing talents, and call him back to the capital to comfort the people of the world.
+There is also Li Gu, a scholar in Hanzhong, who is forty years old. He is proficient in the literature and art of Ziyou and Zixia, and practices the benevolence of Yan Yuan and Min Ziqian.
+The purity of moral integrity is like daylight, the loyalty of conduct, and the love of integrity were not common among the ancients, and no one in the present generation can catch up with them.
+A person born from the spirit of heaven, a king's auxiliary minister, this Li Gu must be specially recruited for the sake of the Holy Han, to show it to people everywhere.
+If you have outstanding talents, you should not be limited to official rank.
+Once upon a time, when Yanzi was eighteen years old, the whole world bowed to his benevolence; when Qi Guozi was eighteen years old, he became the governor of Ayi, and the city was greatly prospered.
+If Huang Qiong is recalled, Li Gu is recruited, and entrusted with current affairs, Yi Yin and Fu say that they cannot compare with them, then a good situation can be left and auspiciousness can be created.
+I don't know what people say. After hearing what everyone said, the people's return depends on the common evaluation.
+I hope to extensively inquire all officials to verify their reputation and deeds. One thing is unrealistic, that is, I have committed the crime of bullying the country.
 
 summary:
-summary line 2: Lang Yi inherited his father's studies, lived in seclusion by the sea, and taught hundreds of disciples. During Emperor Shun's reign, disasters occurred frequently. In the first month of the second year of Yangjia, Lang Yi was summoned to court. He submitted a memorial attributing disasters to the ruler's governance, urging the emperor to practice frugality, reflect on faults, and reform policies. He warned that luxury, excessive construction, and harsh punishments caused celestial anomalies like prolonged cloudiness, cold spells, and fires. He cited classical texts to argue that the emperor should reduce palace expenditures, release palace maids to restore harmony, and dismiss incompetent officials. He also predicted earthquakes, floods, and invasions if reforms were not enacted.
+summary line 2: In a dialogue with the minister, Lang Yi elaborated on seven urgent matters: cemetery fires due to extravagance, hypocritical officials causing yin-yang imbalances, impending droughts and floods, the need to establish an heir, white rainbow portending coups, and the necessity to change the calendar and official titles. He recommended recruiting virtuous men like Huang Qiong and Li Gu to stabilize the state. Despite his detailed warnings, Lang Yi resigned from his appointed doctor position and returned home. His predictions of earthquakes, droughts, and barbarian invasions later proved accurate. He was eventually killed by a local knight-errant, Sun Li.
 
-Chunk 17: 
+Chunk 19: 
 original: 
-书奏，特诏拜郎中，辞病不就，即去归家。
-至四月京师地震，遂陷。
-其夏大旱。
 秋，鲜卑入马邑城，破代郡兵。
 明年，西羌寇陇右。
 皆略如顗言。
@@ -124,10 +109,9 @@ original:
 臣窃见去岁五月，荧惑入太微，犯帝座，出端门，不轨常道。
 其闰月良辰，太白入房，犯心小星，震动中耀。
 中耀，天王也；傍小星者，天王子也。
+夫太微天廷，五帝之坐，而金火罚星扬光其中，于占，天子凶；又俱入房、心，法无继嗣。
+今年岁星久守太微，逆行西至掖门，还切执汉。
 translation: 
-The book was sent up, and he was specially ordered to be appointed as a doctor. Lang Yi resigned from his illness and refused to take up his post, so he went home immediately.
-In April, there was an earthquake in the capital and it fell.
-There was a severe drought this summer.
 In autumn, the Xianbei people invaded Mayi City and defeated the troops of Dai County.
 The next year, the Western Qiang invaded Longyou.
 It's all roughly as Lang Yi said.
@@ -142,53 +126,15 @@ Although Yao and Shun were saints, they must have observed the calendar, the sun
 I saw privately that in May last year, the star Yinghuo invaded the Taiwei star, invaded the throne of the emperor, went out of the Duanmen, and did not move as usual.
 In the leap month and Gengchen, the Taibai star invades the house star, offends the small star in the heart, and shakes the center.
 Zhongyao is the King of Heaven; the little star next to him is the son of the King of Heaven.
+Taiwei Tianting is the seat of the five emperors, and Venus and Mars are shining in it. According to divination, the emperor is the main evil; and they all enter the house star and the heart star, so there is no heir.
+This year, Sui Xing stayed in Taiwei for a long time and traveled westward to Yemen, approaching the law enforcement.
 
 summary:
-summary line 3: In a dialogue with the minister, Lang Yi elaborated on seven urgent matters: cemetery fires due to extravagance, hypocritical officials causing yin-yang imbalances, impending droughts and floods, the need to establish an heir, white rainbow portending coups, and the necessity to change the calendar and official titles. He recommended recruiting virtuous men like Huang Qiong and Li Gu to stabilize the state. Despite his detailed warnings, Lang Yi resigned from his appointed doctor position and returned home. His predictions of earthquakes, droughts, and barbarian invasions later proved accurate. He was eventually killed by a local knight-errant, Sun Li.
+summary line 3: Xiang Kai, courtesy name Gongju, was from Xiyin, Pingyuan. During Emperor Huan's reign, eunuchs dominated, punishments were brutal, and disasters were frequent. In the ninth year of Yanxi, Xiang Kai submitted a memorial citing astronomical anomalies—Mars and Venus invading key stars—as warnings against harsh rule and unjust executions. He criticized the killing of loyal officials like Li Yun and Du Zhong, the neglect of heirs due to excessive palace maids, and the decline of education. He noted omens like a dead dragon and falling stars, linking them to past dynastic collapses. He urged the emperor to reform punishments, release prisoners, and promote virtue.
 
-Chunk 17: 
+Chunk 25: 
 original: 
-书奏，特诏拜郎中，辞病不就，即去归家。
-至四月京师地震，遂陷。
-其夏大旱。
-秋，鲜卑入马邑城，破代郡兵。
-明年，西羌寇陇右。
-皆略如顗言。
-后复公车征，不行。
-同县孙礼者，积恶凶暴，好游侠，与其同里人常慕顗名德，欲与亲善。
-顗不顾，以此结怨，遂为礼所杀。
-襄楷字公矩，平原隰阴人也。
-好学博古，善天文阴阳之术。
-桓帝时，宦官专朝，政刑暴滥，又比失皇子，灾异尤数。
-延熹九年，楷自家诣阙上疏曰：臣闻皇天不言，以文象设教。
-尧、舜虽圣，必历象日月星辰，察五纬所在，故能享百年之寿，为万世之法。
-臣窃见去岁五月，荧惑入太微，犯帝座，出端门，不轨常道。
-其闰月良辰，太白入房，犯心小星，震动中耀。
-中耀，天王也；傍小星者，天王子也。
-translation: 
-The book was sent up, and he was specially ordered to be appointed as a doctor. Lang Yi resigned from his illness and refused to take up his post, so he went home immediately.
-In April, there was an earthquake in the capital and it fell.
-There was a severe drought this summer.
-In autumn, the Xianbei people invaded Mayi City and defeated the troops of Dai County.
-The next year, the Western Qiang invaded Longyou.
-It's all roughly as Lang Yi said.
-Later, the court officials summoned him in a bus, but he refused to come out.
-Sun Li, a native of the same county, was evil and violent, and liked knight-errants. People in his hometown often envied Lang Yi's reputation and wanted to be friendly with him.
-Lang Yi ignored them and became enemies, so Lang Yi was killed by Sun Li.
-◆Xiangkai Chuan Xiangkai was named Gongju and was from Xiyin, Pingyuan.
-He is good at learning, has extensive knowledge of ancient books, and knows the art of astronomy and yin and yang.
-During the reign of Emperor Huan, the eunuchs monopolized the affairs of the state, and brutal punishments were rampant. Princes also died one after another, and disasters were particularly common.
-In the ninth year of Yanxi's reign, Xiangkai left home and went to the court to preach: I heard that the emperor did not speak, so he used astronomical pictograms to teach.
-Although Yao and Shun were saints, they must have observed the calendar, the sun, the moon, the stars, and the positions of the five latitudes. Therefore, they could live a hundred years and become an example for all generations.
-I saw privately that in May last year, the star Yinghuo invaded the Taiwei star, invaded the throne of the emperor, went out of the Duanmen, and did not move as usual.
-In the leap month and Gengchen, the Taibai star invades the house star, offends the small star in the heart, and shakes the center.
-Zhongyao is the King of Heaven; the little star next to him is the son of the King of Heaven.
-
-summary:
-summary line 4: Xiang Kai, courtesy name Gongju, was from Xiyin, Pingyuan. During Emperor Huan's reign, eunuchs dominated, punishments were brutal, and disasters were frequent. In the ninth year of Yanxi, Xiang Kai submitted a memorial citing astronomical anomalies—Mars and Venus invading key stars—as warnings against harsh rule and unjust executions. He criticized the killing of loyal officials like Li Yun and Du Zhong, the neglect of heirs due to excessive palace maids, and the decline of education. He noted omens like a dead dragon and falling stars, linking them to past dynastic collapses. He urged the emperor to reform punishments, release prisoners, and promote virtue.
-
-Chunk 22: 
-original: 
+楷不正辞理，指陈要务，而析言破律，违背经艺，假借星宿，伪托神灵，造合私意，诬上罔事。请下司隶，正楷罪法，收送洛阳狱。
 帝以楷言虽激切，然皆天文恒象之数，故不诛，犹司寇论刑。
 初，顺帝时，琅邪宫崇诣阙，上其师干吉于曲阳泉水上所得神书百七十卷，皆缥白素朱介青首朱目，号《太平清领书》。
 其言以阴阳五行为家，而多巫觋杂语。
@@ -199,6 +145,7 @@ original:
 乡里宗之，每太守至，辄致礼清。
 中平中，与荀爽、郑玄俱以博士征，不至，卒于家。
 translation: 
+Xiangkai is not correct in his rhetoric, pointing out the important affairs of the country, but breaking the law with analysis, violating the classics and art, using the stars and gods, falsely entrusting gods, creating personal agendas, and slandering the Holy One for neglecting state affairs. Please hand it over to Sili, and he will be imprisoned in Luoyang Prison for the crime of Zhengkai.
 The emperor believed that although Xiangkai's words were passionate, they were all astronomical and constant phenomena, so he was not killed, but was handed over to the commander of the army for deliberation.
 At the beginning, during the reign of Emperor Shun, Langfu Palace Chong came to the court and presented one hundred and seventy volumes of sacred books that his master Ganji had obtained in the Quyang Spring. They were all written in white, with Zhu Jieqing's head and eyes, and they were called "Taiping Qingling Shu".
 His language is based on yin and yang and the five elements, and is mostly based on shamanism and miscellaneous language.
@@ -210,5 +157,5 @@ Whenever the governor of the village comes to take office, he always greets him 
 During the Zhongping period, both Xun Shuang and Zheng Xuan were recruited as doctors, but they did not go and died at home.
 
 summary:
-summary line 5: Emperor Huan initially ignored Xiang Kai's reports. When summoned, Xiang Kai condemned eunuchs, stating their proliferation caused the lack of an heir. The minister of corrections accused him of slander, but the emperor spared him, citing the astronomical basis of his words. Xiang Kai later refused official posts, including one offered by Grand Tutor Chen Fan, and died at home during the Zhongping period.
+summary line 4: Emperor Huan initially ignored Xiang Kai's reports. When summoned, Xiang Kai condemned eunuchs, stating their proliferation caused the lack of an heir. The minister of corrections accused him of slander, but the emperor spared him, citing the astronomical basis of his words. Xiang Kai later refused official posts, including one offered by Grand Tutor Chen Fan, and died at home during the Zhongping period.
 

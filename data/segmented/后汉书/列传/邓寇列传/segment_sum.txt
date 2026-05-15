@@ -1,4 +1,4 @@
-Summary uses chunk [0, 1, 4, 5, 8, 9, 13]
+Summary uses chunk [0, 2, 5, 6, 10, 11, 16]
 
 Chunk 0: 
 original: 
@@ -33,16 +33,8 @@ Let him stay in the tent and discuss strategic plans together.
 summary:
 summary line 0: Deng Yu, courtesy name Zhonghua, was from Xinye County, Nanyang. At thirteen, he could recite poems and studied in Chang'an, where he befriended Guangwu, recognizing his extraordinary nature. After returning home, he refused offers from other heroes when the Han army rose. He told Guangwu he wished to serve him and achieve lasting fame. Guangwu kept him close, and Deng Yu advised that while Gengshi held Guanxi, instability in Shandong and bandit groups like the Red Eyebrows threatened order. He urged Guangwu to recruit heroes, win over the people, and build a great cause. Guangwu appointed him General Deng and consulted him on strategies.
 
-Chunk 1: 
+Chunk 2: 
 original: 
-及王郎起兵，光武自蓟至信都，使禹发奔命，得数千人，令自将之，别攻拔乐阳。从至广阿，光武舍城楼上，披舆地图，指示禹曰： 天下郡国如是，今始乃得其一。
-子前言以吾虑天下不足定，何也？ 禹曰： 方今海内淆乱，人思明君，犹赤子之慕慈母。古之兴者，在德薄厚，不以大小。 光武悦。
-时任使诸将，多访于禹，禹每有所举者，皆当其才，光武以为知人。
-使别将骑，与盖延等击铜马于清阳。
-延等先至，战不利，还保城，为贼所围。禹遂进与战，破之，生获其大将。
-从光武追贼至蒲阳，连大克获，北州略定。
-及赤眉西入关，更始使定国上公王匡、襄邑王成丹、抗威将军刘均及诸将，分据河东、弘农以拒之。
-赤眉众大集，王匡等莫能当。光武筹赤眉必破长安，欲乘并关中，而方自事山东，未知所寄，以禹沉深有大度，故授以西讨之略。
 乃拜为前将军持节，中分麾下精兵二万人，遣西入关，令自选偏裨以下可与俱者。
 于是以韩歆为军师，李文、李春、程虑为祭酒，冯愔为积弩将军，樊崇为骁骑将军，宗歆为车骑将军，邓寻为建威将军，耿为赤眉将军，左于为军师将军，引而西。
 建武元年正月，禹自箕关将入河东，河东都尉守关不开，禹攻十日，破之，获辎重千余乘。
@@ -56,15 +48,8 @@ original:
 是月，光武即位于鄗，使使者持节拜禹为大司徒。
 策曰： 制诏前将军禹：深执忠孝，与朕谋谟帷幄，决胜千里。
 孔子曰： 自吾有回，门人日亲。
+斩将破军，平定山西，功效尤著。
 translation: 
-When Wang Lang raised his army, Guangwu went from Ji to Xindu and sent Deng Yu to recruit "quick troops" from various counties. He got thousands of people and ordered him to personally lead them to attack Leyang County.
-Deng Yu said: Now there is chaos in the sea, and people miss Ming Jun like a baby longing for its loving mother. In ancient times, it was the strength of virtue, not the size of the land, that made great achievements and conquered the world. Guangwu is happy.
-When appointing generals at that time, they often visited Deng Yu. The talents recommended by Deng Yu were all worthy of their positions. Guangwu believed that Deng Yu knew people.
-He was sent to lead another cavalry team with Gai Yan and others to attack the bronze horses in Qingyang.
-Gai Yan and others arrived first, but lost the battle and retreated to protect the city. They were trapped by the thieves. Deng Yu advanced to fight with the thieves, defeated the thieves and captured their general alive.
-From Guangwu chasing the thieves to Puyang, they won consecutive battles and Beizhou was generally pacified.
-When Chimei entered the pass in the west, Gengshi sent Duke Kuang of Dingguo, Chengdan of Xiangyi, General Liu Jun of Anti-Wei and other generals to guard Hedong and Hongnong counties respectively to resist.
-The Red Eyebrow tribe gathered in large numbers, and Wang Kuang and others could not resist it. Guangwu expected that the Red Eyebrow Army would break through Chang'an and wanted to take advantage of the opportunity to annex Guanzhong. However, he was busy with Shandong and did not know who to entrust with the Western Expedition. Since Deng Yu had the demeanor of a general, he gave him the strategy of Western Expedition.
 He worshiped Deng Yu as the former general and divided his 20,000 elite troops equally. He sent him to the west and ordered Deng Yu to select the generals and subordinates who could join him in the western expedition.
 So Han Xin was appointed as the military advisor, Li Wen, Li Chun, and Cheng Liu were used as sacrificial wines, Feng Yiyin was appointed as General Jinu, Fan Chong was appointed General Xiaoqi, Zong Xin was appointed General Chariot, Deng Xun was appointed General Jianwei, Geng Jinjin was appointed General Red Eyebrow, and Zuo Yu was appointed General Advisor, and they led the army westward.
 In the first month of the first year of Jianwu, Deng Yu entered Hedong County from Jiguan. The captain of Hedong County guarded the pass and refused to open it. Deng Yu attacked for ten days and broke through the pass, seizing more than a thousand vehicles with baggage.
@@ -78,12 +63,19 @@ Wang Kuang and others abandoned their troops and fled, but Deng Yu led his light
 In the same month, Guangwu ascended the throne in Gaohuang and sent envoys to worship Deng Yu as the chief minister.
 The order of the official appointment said: The former general Deng Yu is ordered to: Adhere to loyalty and filial piety, and plan strategies with me to win a decisive victory thousands of miles away.
 Confucius said: Since I had Yan Hui, my disciples have become increasingly close.
+He beheaded the generals and defeated the army, and pacified Shanxi, which was a particularly outstanding achievement.
 
 summary:
 summary line 1: Deng Yu recruited troops for Guangwu, defeating enemies like the bronze horses in Qingyang. When the Red Eyebrows threatened, Guangwu entrusted Deng Yu with the Western Expedition, appointing him Former General with 20,000 elite troops. In the first year of Jianwu, Deng Yu entered Hedong, defeating Gengshi generals and pacifying the region. Guangwu ascended the throne and made Deng Yu Chief Minister, praising his loyalty and achievements. At twenty-four, Deng Yu crossed into Xiayang, defeating more enemies as the Red Eyebrows entered Chang'an. His disciplined troops attracted many followers, and he became famous in Guanxi.
 
-Chunk 4: 
+Chunk 5: 
 original: 
+帝问使人： 愔所亲爱为谁？ 对曰： 护军黄防。 帝度愔、防不能久和，势必相忤，因报禹曰： 缚冯愔者，必黄防也。 乃遣尚书宗广持节降之。
+后月余，防果执愔，将其众归罪。
+更始诸将王匡、胡殷等皆诣广降，与共东归。
+至安邑，道欲亡，广悉斩之。
+愔至洛阳，赦不诛。
+二年春，遣使者更封禹为梁侯，食四县。
 时，赤眉西走扶风，禹乃南至长安，军昆明池，大飨士卒。
 率诸将斋戒，择吉日，修礼谒祠高庙，收十一帝神主，遣使奉诣洛阳，因循行园陵，为置吏士奉守焉。
 禹引兵与延岑战于蓝田，不克，复就谷云阳。
@@ -101,11 +93,13 @@ original:
 遣禹护复汉将军邓晔、辅汉将军于匡，击破岑于邓；追至武当，复破之。
 岑奔汉中，余党悉降。
 十三年，天下平定，诸功臣皆增户邑，定封禹为高密侯，食高密、昌安、夷安、淳于四县。
-帝以禹功高，封弟宽为明亲侯。
-其后左右将军官罢，以特进奉朝请。
-禹内文明，笃行淳备，事母至孝。
-天下既定，常欲远名势。
 translation: 
+The emperor asked the envoy: Who is the dearest to you? The messenger said: This is Huang Fang, the protector of the army. The emperor guessed that Feng Yiyin and Huang Fang could not reconcile for a long time and would inevitably have a confrontation. Therefore, he told Deng Yu: The person who arrested Feng Yanyin must be Huang Fang. So he sent Shangshu Zongguang to take the talisman to recruit Huang Fang to surrender.
+More than a month later, Huang Fang indeed arrested Feng Yanyin and led his troops to accuse him.
+Gengshi generals Wang Kuang, Hu Yin and others surrendered to Zong Guang and returned east together with Zong Guang.
+When they arrived at Anyi, Wang Kuang and others tried to escape on the way, but Zong Guang killed them all.
+Feng Yiyin went to Luoyang and was pardoned but not killed.
+In the spring of the second year of Jianwu, he sent envoys to change the title of Deng Yu to the title of Marquis of Liang, and granted him four counties in the city.
 At this time, the Red Eyebrow Army marched west to Fufeng, and Deng Yu then went south to Chang'an, where he garrisoned at Kunming Pool and feasted the soldiers with wine and food.
 He led the generals to bathe, change clothes, fast, choose auspicious days, practice etiquette and worship in the Gaozu Temple, accept the god of the eleven emperors, and send envoys to Luoyang to visit the garden and mausoleum, and specially arranged officials and soldiers to worship and guard the mausoleum.
 Deng Yu led his troops to fight with Yan Cen in Lantian, but failed, so he went to Yunyang.
@@ -123,16 +117,16 @@ In the spring of the fourth year, they invaded the Shunyang area again.
 He sent Deng Yu to protect General Deng Ye of the Fu Han Dynasty and General Yu Kuang of the Fu Han Dynasty, and defeated Yan Cen against Deng. He pursued them to Wudang and defeated Yan Cen again.
 Cen fled to Hanzhong, and the rest of the party surrendered.
 In the 13th year of Jianwu's reign, the world was peaceful, and all the meritorious officials increased their households. They appointed Deng Yu as the Marquis of Gaomi and received the taxes from the four counties of Gaomi, Chang'an, Yi'an, and Chunyu.
-The emperor considered Deng Yu's meritorious service and made Deng Yu's younger brother Deng Kuan the prince of the Ming Dynasty.
-Later, the titles of left and right generals were revoked, and they were granted special access to the court to see the emperor.
-Deng Yu was civilized at heart, honest, honest and considerate in his behavior, and he served his mother very filially.
-The world has been peaceful, and people often want to distance themselves from fame and power.
 
 summary:
 summary line 2: Deng Yu advised against directly attacking Chang'an, citing the Red Eyebrows' strength and advocating a strategy of gathering resources in the north to observe their weaknesses. He led his army north, defeating Red Eyebrow camps and gaining surrenders. However, internal conflicts among his generals led to setbacks. In the second year of Jianwu, Deng Yu was made Marquis of Liang. He fought the Red Eyebrows but faced defeats, and Guangwu recalled him, advising caution. Deng Yu, ashamed, continued fighting but was ultimately defeated in the third year, returning to Yiyang with few men and resigning his posts. He was later reinstated as Right General and achieved victories against Yan Cen.
 
-Chunk 5: 
+Chunk 6: 
 original: 
+帝以禹功高，封弟宽为明亲侯。
+其后左右将军官罢，以特进奉朝请。
+禹内文明，笃行淳备，事母至孝。
+天下既定，常欲远名势。
 有子十三人，各使守一艺。
 修整闺门，教养子孙，皆可以为后世法。
 显宗即位，以禹先帝元功，拜为太傅，进见东向，甚见尊宠。
@@ -144,15 +138,11 @@ original:
 永平中，以为小侯。
 引入与议边事，帝以为能，拜将兵长史，率五营士屯雁门。
 肃宗时，为度辽将军。
-永元中，与大将军窦宪俱出击匈奴，有功，征行车骑将军。
-出塞追畔胡逢侯，坐逗留，下狱死。
-高密侯震卒，子乾嗣。
-乾尚显宗女沁水公主。
-永元十四年，阴皇后巫蛊事发，乾从兄奉以后舅被诛，乾从坐，国除。
-元兴元年，和帝复封乾本国，拜侍中。
-乾卒，子成嗣。
-成卒，子褒嗣。
 translation: 
+The emperor considered Deng Yu's meritorious service and made Deng Yu's younger brother Deng Kuan the prince of the Ming Dynasty.
+Later, the titles of left and right generals were revoked, and they were granted special access to the court to see the emperor.
+Deng Yu was civilized at heart, honest, honest and considerate in his behavior, and he served his mother very filially.
+The world has been peaceful, and people often want to distance themselves from fame and power.
 He had thirteen children, and each of them mastered a skill.
 By regulating family rules and educating children and grandchildren, you can become a model for future generations.
 All expenses are derived from fiefdom taxes, and no private property is repaired or private gain is sought. Therefore the emperor respects him more.
@@ -164,19 +154,11 @@ Yu's young son, Zihong, was good at making plans.
 In Yongpingzhong, I thought I was Xiaohou.
 Introducing and discussing border affairs, the emperor thought he could, worshiped the general and commander Shi, and led five battalions of soldiers to garrison Yanmen.
 During the reign of Emperor Suzong, he was the general of Du Liao.
-In the Yongyuan period, he and the general Dou Xian jointly attacked the Huns and achieved great success, conquering the chariot and cavalry generals.
-He went out of the fortress to pursue Hu Fenghou, stayed there, and was thrown into prison to die.
-Gaomi Hou Zhen died and was succeeded by his son.
-Princess Qinshui, the daughter of Emperor Qian Shangxian.
-In the fourteenth year of Yongyuan, the Yin Queen's witchcraft incident occurred. Qian Cong's brother Feng Hou's uncle was executed, Qian Cong was seated, and the country was eliminated.
-In the first year of Yuanxing, Emperor He was granted the title of Qian and served as his minister.
-When the emperor dies, the son becomes an heir.
-After death, the son praises the heir.
 
 summary:
 summary line 3: In the 13th year of Jianwu, Deng Yu was made Marquis of Gaomi. He was known for his filial piety, modesty, and avoidance of fame and power. He had thirteen children, each skilled in a craft, and lived frugally on his fiefdom taxes. He served as Acting Situ again and accompanied the emperor to Mount Tai. Under Xianzong, he was made Grand Tutor and treated with great respect. He died at fifty-seven in the first year of Yongping, posthumously titled Yuan Hou. His sons inherited his titles, and his descendants continued in service, though some faced downfall due to political incidents.
 
-Chunk 8: 
+Chunk 10: 
 original: 
 今始至上谷而先堕大信，沮向化之心，生离畔之隙，将复何以号令它郡乎？
 且耿府君在上谷，久为使人所亲，今易之，得贤则造次未安，不紧则只更生乱。
@@ -203,7 +185,7 @@ Kou Xun returned to Changping, attacked the envoy sent by Handan, killed him, an
 summary:
 summary line 4: Kou Xun, courtesy name Ziyi, was from Changping, Shanggu, from a prominent family. He served as a county officer under Prefect Geng Kuang. When Gengshi sent envoys, Kou Xun ensured Geng Kuang retained his position by persuading an envoy to return the seal. When Wang Lang rose, Kou Xun advised Geng Kuang to ally with Guangwu, citing his virtue. He attacked Handan's envoys and joined Guangwu, who made him a partial general. Deng Yu admired him, and Guangwu entrusted him with guarding Hanoi, comparing him to Xiao He.
 
-Chunk 9: 
+Chunk 11: 
 original: 
 拜恂为偏将军，号承义侯，从破群贼。
 数与邓禹谋议，禹奇之，因奉牛、酒共交欢。
@@ -228,14 +210,8 @@ When Zhu Tuna heard that Guangwu was heading north and Hanoi was isolated, he se
 summary:
 summary line 5: Kou Xun fortified Hanoi, supplying Guangwu's army with arrows, horses, and grain. When Zhu Tuna attacked Wen, Kou Xun led a swift defense, defeating Su Mao and Jia Qiang with reinforcements. Guangwu praised him and ascended the throne. Kou Xun continued supplying the army, but heeded advice to feign illness to avoid suspicion. He later served as Prefect of Yingchuan, suppressing bandits, and was made Marquis of Yongnu. He avoided conflict with General Jia Fu, reconciling with him for the nation's sake.
 
-Chunk 13: 
+Chunk 16: 
 original: 
-七年，代朱浮为执金吾。
-明年，从车驾击隗嚣，而颍川盗贼群起，帝乃引军还，谓恂曰： 颍川迫近京师，当以时定。
-惟念独卿能平之耳，从九卿复出，以忧国可也。 恂对曰： 颍川剽轻，闻陛下远逾阻险，有事陇、蜀，故狂狡乘间相诖误耳。
-如闻乘舆南向，贼必惶怖归死。
-臣愿执锐前驱。 即日车驾南征，恂从至颍川，盗贼悉降，而竟不拜郡。
-百姓遮道曰： 愿从陛下复借寇君一年。 乃留恂长社，镇抚使人，受纳余降。
 初，隗嚣将安定高峻，拥兵万人，据高平第一，帝使待诏马援招降峻，由是河西道开。
 中郎将来歙承制拜峻通路将军，封关内侯，后属大司马吴汉，共围嚣于冀。
 及汉军退，峻亡归故营，复助嚣拒陇阺。
@@ -252,13 +228,8 @@ original:
 欲降，急降；不欲，固守。 峻惶恐，即日开城门降。
 诸将皆贺，因曰： 敢问杀其使而降其城，何也？ 恂曰： 皇甫文，峻之腹心，其所取计者也。
 今来，辞意不屈，必无降心。
+全之则文得其计，杀之则峻亡其胆，是以降耳。 诸将皆曰： 非所及也。 遂传峻还洛阳。
 translation: 
-In the seventh year of Jianwu's reign, Zhu Fu was replaced by King Wu.
-The next year, following Guangwu's attack on Kuaixiao, a group of bandits emerged in Yingchuan. The emperor then led his troops back and told Kou Xun: Yingchuan is approaching the capital and should be pacified as soon as possible.
-Thinking of it, you are the only one who can put down the thieves. Come back from the high position of Jiuqing and worry about the country. Kou Xun replied: Yingchuan is strong and agile. I heard that your Majesty went on a dangerous expedition to deal with Long and Shu, so the rebellious and cunning people took the opportunity to cause chaos.
-If they hear that His Majesty is heading south, the thieves will surely surrender in fear.
-I am willing to lead the elite as a pioneer. That day, he drove south to march, and Kou Xun followed him to Yingchuan. All the thieves surrendered, but he was not appointed as the county guard.
-The people gathered in the street and said, "I hope to borrow Kou Jun from your majesty for another year." So Kou Xun was left in Changshe to pacify the officials and the people, and to accept the remaining surrenderers.
 At first, the Kaixiao tribe settled Gao Jun, supported tens of thousands of troops, and occupied the first city of Gaoping County. The emperor sent Ma Yuan to recruit Gao Jun to surrender, thus opening the Hexi passage.
 Zhonglang came to serve Gao Jun as the general of Tongtong under the orders of Emperor She, and was granted the title of Marquis of Guan Nei. Later, he belonged to the Grand Sima Wu Han, and together they surrounded Weihuo in Hebei.
 When the Han army retreated, Gao Jun fled back to his old camp, and then helped Kuai Xiao to defend Longnan Di.
@@ -275,6 +246,7 @@ Let his deputy go back and tell Gao Jun: "The military advisor was rude and has 
 If you want to surrender, hurry up; if you don't want to surrender, just hold on. Gao Jun was frightened and immediately opened the city gate and surrendered.
 All the generals celebrated and said: "Excuse me, I killed his envoy and Gao Jun surrendered the whole city. What is the reason for this?" Kou Xun said: Huangfu Wen is Gao Jun's confidant, and Gao Jun draws all his strategies from him.
 Now that he is here, his words are unyielding and he will have no intention of surrender.
+If you let him go, Gao Jun will succeed in his plan; if you kill him, Gao Jun will be frightened and surrender. All the generals said: We didn't expect it. So Gao Jun was arrested and returned to Luoyang.
 
 summary:
 summary line 6: Kou Xun governed Runan, building schools and teaching the Spring and Autumn Annals. He pacified Yingchuan again when bandits rose, and the people begged for his continued service. He advised Guangwu against personally attacking Gaoping, but when the campaign stalled, he persuaded Gao Jun to surrender by executing his advisor. Kou Xun was known for his virtue, generosity, and learning, and was considered prime minister material. He died in the 12th year of Jianwu, posthumously titled Wei Hou. His descendants continued his legacy, and his family remained influential. The historian praised his ability to control his emotions and avoid grudges, likening him to Boyi and Shuqi.

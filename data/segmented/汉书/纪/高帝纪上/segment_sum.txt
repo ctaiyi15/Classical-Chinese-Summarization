@@ -1,0 +1,373 @@
+Summary uses chunk [0, 2, 3, 4, 9, 15, 20, 31, 12]
+
+Chunk 0: 
+original: 
+高祖，沛丰邑中阳里人也，姓刘氏。
+母媪尝息大泽之陂，梦与神遇。
+是时雷电晦冥，父太公往视，则见交龙于上。
+已而有娠，遂产高祖。
+高祖为人，隆准而龙颜，美须髯，左股有七十二黑子。
+宽仁爱人，意豁如也。
+常有大度，不事家人生产作业。
+及壮，试吏，为泗上亭长，廷中吏无所不狎侮。
+好酒及色。
+常从王媪、武负贳酒，时饮醉卧，武负、王媪见其上常有龙，怪之。
+高祖每酤留饮，酒雠数倍。及见怪，岁竟，此两家常折券弃责。
+高祖常徭咸阳，纵观秦皇帝，喟然大息，曰： 嗟乎，大丈夫当如此矣！
+单父人吕公善沛令，辟仇，从之客，因家焉。
+translation: 
+Han Gaozu was a native of Zhongyangli, Fengyi, Peixian County, and his surname was Liu.
+His mother once closed her eyes and took a nap on the embankment of a pond, and unexpectedly met the god in her dream.
+At that time, there was thunder and lightning and the sky was dark. His father Taigong went to Tangba to meet his mother and saw a dragon crawling on his mother's body.
+Soon after, she became pregnant and gave birth to Han Gaozu.
+Emperor Gaozu had a high nose, raised eyebrows, a beautiful beard, and seventy-two black moles on his left thigh.
+He is kind, generous and broad-minded.
+Usually informal, but unwilling to engage in ordinary productive labor.
+When he grew up, he served as a minor official and became the chief of Sishang Pavilion. But he looked down upon the officials in the government.
+Emperor Gaozu loved wine and sex.
+He often went to Wang Po and Wu Ma's hotel to buy wine on credit, and sometimes he was extremely drunk. Wang Po and Wu Ma saw strange phenomena appearing on his body while he was lying drunk.
+Every time Gaozu drank wine on credit, the hotel always doubled the price of the wine. Later, seeing his mysterious atmosphere when he was drunk, when settling the wine bill at the end of the year, the two families often tore up the IOUs and waived his wine debt.
+Emperor Gaozu once went to Xianyang, the capital of Qin, to do corvee service and saw the majesty of Qin Shihuang with his own eyes. He sighed and said: A real man should be like this!
+Lu Gong of Shanfu County was a good friend of the magistrate of Pei County. Because he was hiding from his enemies, he stayed in the magistrate's apartment and later moved his family to Pei County.
+
+summary:
+summary line 0: Han Gaozu, originally named Liu Ji, was born in Peixian County. His mother dreamed of a god during a thunderstorm, and his father saw a dragon on her, leading to his birth. He had a distinctive appearance with a high nose, raised eyebrows, a beautiful beard, and seventy-two black moles on his left thigh. He was generous and broad-minded, disliking ordinary labor, and served as a minor official, often looking down on others. He loved wine and women, frequently buying wine on credit from Wang Po and Wu Ma, who noticed strange phenomena when he was drunk and eventually forgave his debts. While performing corvée in Xianyang, he saw Qin Shihuang and declared, "A real man should be like this."
+
+Chunk 2: 
+original: 
+沛令善公，求之不与，何自妄许与刘季？
+吕公曰： 此非兒女子所知。
+卒与高祖。
+吕公女即吕后也，生孝惠帝、鲁元公主。
+高祖尝告归之田。
+吕后与两子居田中，有一老父过，请饮，吕后因餔之。
+老父相后曰： 夫人天下贵人也。
+令相两子，见孝惠帝，曰： 夫人所以贵者，乃此男也。
+相鲁元公主，亦皆贵。
+老父已去，高祖适从旁舍来，吕后具言： 客有过，相我子母皆大贵。
+高祖问，曰： 未远。
+乃追及，问老父。
+老父曰： 乡者夫人兒子皆以君，君相贵不可言。
+高祖乃谢曰： 诚如父言，不敢忘德。
+及高祖贵，遂不知老父处。
+高祖为亭长，乃以竹皮为冠，令求盗之薛治，时时冠之，及贵常冠，所谓 刘氏冠 也。
+高祖以亭长为县送徒骊山，徒多道亡。
+自度比至皆亡之，到丰西泽中亭，止饮，夜皆解纵所送徒，曰： 公等皆去，吾亦从此逝矣！
+translation: 
+Peiling is on good terms with you, but you want to marry my daughter but you refuse. Why do you want to marry me to Liu Ji today?
+Lu Gong smiled and said: This is not what you women know.
+In the end, he married his daughter to Gaozu.
+Gong Lu's daughter was later Empress Lu, and gave birth to Emperor Xiaohui of Han and Princess Lu Yuan.
+Emperor Gaozu of the Han Dynasty once resigned as the pavilion chief and went home to work on the farm.
+Queen Lu and her two children lived in a small shed in the field. An old man who was passing by asked him for water, and Queen Lu even let him have a meal.
+The father-in-law looked at Empress Lu's compliments and said: "My wife is a noble person in the world."
+Empress Lu asked him to look at the faces of the two children. He looked at Emperor Xiaohui and said: The reason why my wife became a noble person is because of this son.
+He looked at Princess Lu Yuan again and said that she would be a noble person in the future.
+After the father-in-law left, Gaozu returned from another farmhouse. Empress Lu told him about the past, saying that the father-in-law, my mother and my son were all high-ranking ministers.
+Emperor Gaozu asked where his father-in-law was, and Empress Lu said: "He has not gone far."
+Emperor Gaozu chased his father-in-law and asked him about his life.
+The father-in-law said: Just now, I said that my wife and son are so noble in life, it is all due to your great blessing. Your life is priceless.
+Emperor Gaozu quickly thanked him and said: "As the old gentleman said, I will always remember your kindness."
+After Emperor Gaozu ascended the throne, the whereabouts of this father-in-law was unknown.
+The emperor of the Han Dynasty was the chief of the pavilion and wore a bamboo hat. He sent the thief-catching pavilion soldiers to Xuedi to learn the craftsmanship of making bamboo hats. He often wore this kind of hat and still wore it when he was in a high position. Later, this kind of bamboo hat was called "Liu Shi Guan".
+Emperor Gaozu of the Han Dynasty sent servants to Lishan Mountain for Peixian County as the pavilion chief. Many servants escaped on the way.
+When he thought about Lishan, they might all run away, so he went to Fengxi Zezhong Pavilion, asked the servants to stop and rest, invited everyone to drink, and let all the servants go at night. He said: Everyone should just run away!
+
+summary:
+summary line 1: Lu Gong, a friend of the Pei County magistrate, moved to the area, and Liu Ji falsely claimed a gift of ten thousand yuan at a gathering. Lu Gong, skilled in physiognomy, recognized Liu Ji's noble appearance and married his daughter to him, despite his wife's objections. This daughter later became Empress Lu, mother of Emperor Xiaohui and Princess Lu Yuan. After resigning as pavilion chief, Liu Ji worked on a farm. An old man predicted that Empress Lu and her children would be noble, and that Liu Ji's destiny was priceless. Liu Ji later wore a distinctive bamboo hat, known as the "Liu Shi Guan."
+
+Chunk 3: 
+original: 
+徒中壮士愿从者十余人。
+高祖被酒，夜径泽中，令一人行前。
+行前者还报曰： 前有大蛇当径，愿还。
+高祖醉，曰： 壮士行，何畏！
+乃前，拔剑斩蛇。蛇分为两，道开。
+行数里，醉困卧。
+后人来至蛇所，有一老妪夜哭。
+人问妪何哭，妪曰： 人杀吾子。
+人曰： 妪子何为见杀？
+妪曰： 吾子，白帝子也，化为蛇当道，今者赤帝子斩之，故哭。
+人乃以妪为不诚，欲苦之，妪因忽不见。
+后人至，高祖觉。
+告高祖，高祖乃心独喜，自负。
+诸从者日益畏之。
+秦始皇帝尝曰 东南有天子气 ，于是东游以当之。
+高祖隐于芒、砀山泽间，吕后与人俱求，常得之。
+高祖怪问吕后，后曰： 季所居上常有云气，故从往常得季。
+translation: 
+I will fly far away from now on!
+Among the servants, there were more than ten vigorous men who were willing to go with Gaozu. Emperor Gaozu took advantage of the drunkenness and led everyone to escape from the Zezhong trail, and sent one person to explore the road ahead.
+The pathfinder came back and reported: There is a big snake blocking the road ahead. Let's go back.
+Emperor Gaozu said drunkenly: Warriors march forward, why should they be afraid?
+So he went forward himself, drew his sword and killed the snake. The snake was cut into two pieces, and the road was passable.
+After walking for several miles, Emperor Gaozu was drunk and sleepy, so he lay down on the road.
+Someone caught up from behind and passed by where Gaozu killed the snake. He saw an old mother crying by the roadside at night.
+The man asked the reason, and the old mother said: Someone else killed my son.
+This person said: Who killed my mother’s son?
+The old mother said: My child is the son of the White Emperor. He turned into a big snake and blocked the road. When he met the son of the Red Emperor, he was beheaded, so I am crying here.
+This person thought that the old mother was talking nonsense and wanted to cross-examine her, but she disappeared in the blink of an eye.
+When this man caught up with Gaozu, Gaozu had already woken up.
+This person told Gaozu about this, and Gaozu was secretly happy and believed that he would become a big success.
+Those who followed him also grew in awe of him.
+Qin Shihuang once heard someone say: There is the emperor's cloud in the southeast. So the First Emperor made an eastward tour to suppress this cloud.
+Emperor Gaozu sometimes hid in the mountains and rivers of Mangdang. When Empress Lu and others went to look for him, it was always easy to find him.
+Emperor Gaozu felt strange and asked the reason. Queen Lu said: There is a layer of clouds above where you are staying. If you look for the place where the clouds are, you will find it.
+
+summary:
+summary line 2: As pavilion chief, Liu Ji was tasked with sending servants to Lishan, but many escaped. He released them all, and over ten strong men chose to follow him. While fleeing, he killed a large snake blocking the path. An old woman later claimed the snake was the son of the White Emperor, killed by the son of the Red Emperor, which Liu Ji took as a sign of his destiny. Qin Shihuang heard of an emperor's cloud in the southeast and toured to suppress it. Empress Lu could always find Liu Ji by following a cloud above his hiding place, further convincing others of his destiny.
+
+Chunk 4: 
+original: 
+高祖又喜。
+沛中子弟或闻之，多欲附者。
+秦二世元年秋七月，陈涉起蕲。
+至陈，自立为楚王，遣武臣、张耳、陈馀略赵地。
+八月，武臣自立为赵王。
+郡县多杀长吏以应涉。
+九月，沛令欲以沛应之。掾、主吏萧何、曹参曰： 君为秦吏，今欲背之，帅沛子弟，恐不听。
+愿君召诸亡在外者，可得数百人，因以劫众，众不敢不听。
+乃令樊哙召高祖。
+高祖之众已数百人矣。
+于是樊哙从高祖来。沛令后悔，恐其有变，乃闭城城守，欲诛萧、曹。
+萧、曹恐，逾城保高祖。
+高祖乃书帛射城上，与沛父老曰： 天下同苦秦久矣。
+今父老虽为沛令守，诸侯并起，今屠沛。
+translation: 
+Gaozu was very happy again.
+The children of Peizhong also heard this legend, and many people wanted to attach themselves to him.
+In the autumn and seventh month of the first year of Qin II, Chen She revolted in Qixian County, arrived in Chendi, and proclaimed himself the king of Chu.
+He sent Wu Chen, Zhang Er, and Chen Yu to capture Zhao's territory.
+In August, Wu Chen proclaimed himself King of Zhao.
+In various counties and counties, major officials were killed one after another in response to Chen She.
+In September, the magistrate of Peixian County wanted to respond to Chen She in Peixian County. His aides Xiao He and Cao Shen came forward and said: As an official of the Qin Dynasty, you now want to betray the Qin Dynasty and lead the children of Peizhong to revolt. I am afraid that everyone will not listen.
+I hope you can recruit those who have fled, and you can get hundreds of people. With the power of these people, you can appeal to the worried children of Peizhong, and the children of Peizhong will not dare not listen.
+So the magistrate of Peixian County sent Fan Kuai to invite Gaozu.
+At this time, Gaozu already had hundreds of people.
+When Fan Kuai and Gaozu came with their troops, Peiling went back on his word. He was afraid that Gaozu would seize his power, so he closed the city and wanted to kill Xiao He and Cao Shen.
+Xiao He and Cao Shen were afraid and secretly crossed the city wall to seek refuge with Gaozu.
+Emperor Gaozu then wrote a silk book and shot it on the city. The book told the elders of Peixian County: The whole world has been bullied by the Qin Dynasty for a long time.
+Although you, the elders, are guarding the city for Pei Ling today, as soon as the rebels from various places arrive, they will use force in Pei land.
+
+summary:
+summary line 3: In the first year of Qin II, Chen She rebelled, and the Pei County magistrate considered joining. Xiao He and Cao Shen advised him to recruit fugitives, including Liu Ji. When Liu Ji arrived with followers, the magistrate reneged and tried to kill Xiao He and Cao Shen, who fled to Liu Ji. Liu Ji shot a message into the city, urging the elders to kill the magistrate and join the rebellion. They did so, and Liu Ji was elected Duke of Pei after multiple refusals. He honored Huangdi and Chiyou, used red flags, and quickly expanded his army to 3,000 men. Other rebellions followed, including Xiang Liang and Xiang Yu in Wu.
+
+Chunk 9: 
+original: 
+章邯已破项梁，以为楚地兵不足忧，乃渡河北击赵王歇，大破之。
+歇保巨鹿城，秦将王离围之。
+赵数请救，怀王乃以宋义为上将，项羽为次将，范增为末将，北救赵。
+初，怀王与诸将约，先入定关中者王之。
+当是时，秦兵强，常乘胜逐北，诸将莫利先入关。
+独羽怨秦破项梁，奋势，愿与沛公西入关。
+怀王诸老将皆曰： 项羽为人慓悍祸贼，尝攻襄城，襄城无噍类，所过无不残灭。
+且楚数进取，前陈王、项梁皆败，不如更遣长者扶义而西，告谕秦父兄。
+秦父兄苦其主久矣，今诚得长者往，毋侵暴，宜可下。
+项羽不可遣，独沛公素宽大长者。
+卒不许羽，而遣沛公西收陈王、项梁散卒。
+translation: 
+After Qin general Zhang Han defeated Xiang Liang, he thought that the rebel Qin forces in Chu were no longer a threat, so he crossed the river and went north to attack Zhao Wangxie and defeated Zhao Wangxie.
+King Zhao retreated to defend Julu City, and Qin General Wang Li's troops surrounded Julu.
+King Zhao asked King Huai of Chu for help many times, and King Huai appointed Song Yi as general, Xiang Yu as deputy general, and Fan Zeng as junior general. Lead the troops north to rescue Zhao Jun.
+Originally, King Huai had made an appointment with the generals, and whoever could conquer Guanzhong first would be crowned king.
+During this period, the Qin army was powerful and often took advantage of its victory to pursue the rebels. The generals were afraid of its power and did not dare to enter the pass.
+Only Xiang Yu hated the Qin army for defeating and killing Xiang Liang. He was very angry and was willing to enter the pass with Peigong west.
+Some of King Huai's veterans said: What kind of person is Xiang Yu? He was fierce and good at killing. When Xiangcheng was captured, there were almost no survivors in Xiangcheng. Everywhere Xiang Yu passed by was destroyed.
+Moreover, the Chu army's many attempts to advance against the former Chu kings Chen She and Xiang Liang all ended in failure. It would be better to send another generous elder to march westward with righteousness and inform the fathers and brothers of Qin.
+The people of Qin have suffered from the Qin Dynasty for a long time. If there is an elder who leads the army and does not attack Qiu, Xianyang, the capital of Qin, should be able to be captured.
+Xiang Yu cannot take on this responsibility. Only Peiping has always been a tolerant and kind person.
+In the end, King Huai did not agree with Xiang Yu's march westward, and sent Pei Gong to the west to collect the scattered troops of Chen She and Xiang Liang.
+
+summary:
+summary line 4: Liu Ji's forces grew through various battles, including victories at Huling, Fangyu, and Xue. He faced setbacks, such as Yong Chi's betrayal to Wei, but regained Feng. He joined Xiang Liang, who made Sun Mixin King of Chu Huai. After Xiang Liang's death, Liu Ji and Xiang Yu moved King Huai to Pengcheng. King Huai appointed Liu Ji as Marquis of Wu'an and ordered that whoever first entered Guanzhong would be king. Liu Ji was chosen for his kindness, while Xiang Yu was deemed too violent.
+
+Chunk 15: 
+original: 
+急击之，勿失。
+于是飨士，旦日合战。
+是时，羽兵四十万，号百万。
+沛公兵十万，号二十万，力不敌。
+会羽季父左尹项伯素善张良，夜驰见张良，具告其实，欲与俱去，毋特俱死。
+良曰： 臣为韩王送沛公，不可不告，亡去不义。
+乃与项伯俱见沛公。
+沛公与伯约为婚姻，曰： 吾入关，秋毫无所敢取，籍吏民，封府库，待将军。
+所以守关者，备他盗也。
+日夜望将军到，岂敢反邪！
+愿伯明言不敢背德。
+项伯许诺，即夜复去，戒沛公曰： 旦日不可不早自来谢。 项伯还，具以沛公言告羽，因曰： 沛公不先破关中兵，公巨能入乎？
+且人有大功，击之不祥，不如因善之。
+羽许诺。
+沛公旦日从百余骑见羽鸿门，谢曰： 臣与将军戮力攻秦，将军战河北，臣战河南，不自意先入关，能破秦，与将军复相见。
+今者有小人言，令将军与臣有隙。
+羽曰： 此沛公左司马曹毋伤言之，不然，籍何以至此？
+translation: 
+We must attack as early as possible to avoid causing trouble in the future.
+So Xiang Yu rewarded his soldiers and ordered them to fight tomorrow.
+At this time, Xiang Yu had an army of 400,000, which was said to be one million.
+Pei Gong had 100,000 soldiers, and he claimed to have 200,000 soldiers. There was a huge disparity in military strength.
+Xiang Yu's uncle Zuo Yin, Xiang Bo, was Zhang Liang's old friend. He met Zhang Liang overnight and told Xiang Yu in detail the military facts of tomorrow's attack on Pei Gong. He wanted Zhang Liang to escape the danger with him so that he would not have to die with Pei Gong.
+Zhang Liang said: I am here as an envoy of the King of Han to submit to Pei Gong. I cannot leave without saying goodbye. It is unjust to say goodbye without saying goodbye.
+So he and Xiang Bo went to see Pei Gong.
+Pei Gong and Xiang Bo were about to get married, and he said to Xiang Bo: After I entered the pass, I didn't dare to take away anything. I kept the records of the officials and people, and sealed the Qin Dynasty's treasury to wait for General Xiang Yu.
+The reason why I sent troops to guard the pass is to guard against other thieves.
+How dare you have any evil intentions when you look forward to General Xiang's arrival day and night.
+Xiang Bo nodded in agreement and returned to the camp overnight.
+Before leaving, he warned Pei Gong: "You must pay homage to Xiang Yu as soon as possible tomorrow morning." After Xiang Bo returned to the camp, he relayed the details to Xiang Yu and continued: If Pei Gong had not defeated the Qin army in Guanzhong first, would you have been able to reach Guanzhong so smoothly?
+What's more, Peigong has great achievements and attacking him is unpopular. It is better to take this opportunity to show friendship to him.
+Xiang Yu agreed.
+Early in the morning, Pei Gong led his entourage of more than a hundred horses to see Xiang Yu at Hongmen. He paid homage to Xiang Yu and said: The general and the general worked together to attack Qin. The general moved to Hebei and the last general fought in Henan. Unintentionally, he entered Guanzhong first and defeated the Qin Dynasty. We can join forces with the general here.
+Today, there are villains who are slandering and causing discord between the general and the last general.
+Xiang Yu said: This is the news from Pei Gongzuo Sima Cao Wushang. Otherwise, why would I, Xiang Yu, take such action?
+
+summary:
+summary line 5: Liu Ji advanced westward, defeating Qin forces and accepting surrenders. He entered Wuguan and reached Bashui, where Qin Prince Ying surrendered. Liu Ji spared him, entered Xianyang, and issued the "three chapters of the law," abolishing harsh Qin laws. He refused gifts from the people, winning their support. He guarded Hangu Pass against Xiang Yu, who grew angry. Xiang Yu's uncle Xiang Bo warned Zhang Liang, leading to the Hongmen Banquet, where Liu Ji narrowly escaped assassination. Xiang Yu later entered Xianyang, killed Prince Ying, and burned the palaces, disappointing the people.
+
+Chunk 20: 
+original: 
+田荣闻羽徙齐王市于胶东而立田都为齐王，大怒，以齐兵迎击田都。都走降楚。
+六月，田荣杀田市，自立为齐王。
+时彭越在巨野，众万余人，无所属。
+荣与越将军印，因令反梁地。
+越击杀济北王安，荣遂并三齐之地。
+燕王韩广亦不肯徙辽东。
+秋八月，臧荼杀韩广，并其地。
+塞王欣、翟王翳皆降汉。
+初，项梁立韩后公子成为韩王，张良为韩司徒。
+羽以良从汉王，韩王成又无功，故不遣就国，与俱至彭城，杀之。
+及闻汉王并关中，而齐、梁畔之，羽大怒，乃以故吴令郑昌为韩王，距汉。
+令萧公角击彭越，越败角兵。
+时张良徇韩地，遗羽书曰： 汉欲得关中，如约即止，不敢复东。
+羽以故无西意，而北击齐。
+九月，汉王遣将军薛欧、王吸出武关，因王陵兵，从南阳迎太公、吕后于沛。
+羽闻之，发兵距之阳夏，不得前。
+二年冬十月，项羽使九江王布杀义帝于郴。
+陈馀亦怨羽独不王己，从田荣借助兵，以击常山王张耳。
+耳败走降汉，汉王厚遇之。
+陈馀迎代王歇还赵，歇立馀为代王。
+张良自韩间行归汉，汉王以为成信侯。
+汉王如陕，镇抚关外父老。
+河南王申阳降，置河南郡。
+使韩太尉韩信击韩，韩王郑昌降。
+十一月，立韩太尉信为韩王。
+汉王还归，都栎阳，使诸将略地，拔陇西。
+translation: 
+Qi general Tian Rong was furious when he heard that Xiang Yu had moved King Tianshi of Qi to Jiaodong and made Tiandu the king of Qi. He led the Qi troops to intercept Tiandu, but Tiandu was defeated and surrendered to Chu.
+In June, Tian Rong killed Tian Shi and proclaimed himself king of Qi.
+At this time, Peng Yue garrisoned troops in Juye, with more than 10,000 soldiers but no one to belong to.
+Tian Rong awarded Peng Yue the seal of general and ordered him to attack from Liang.
+Peng Yue killed Tian An, the king of Jibei, and Tian Rong occupied the entire area of ​​Qi, Jibei, and Jiaodong.
+Han Guang, King of Yan, also refused to move to Liaodong.
+In the eighth month of autumn, Zang Tu, the new king of Yan, killed Han Guang and occupied his territory.
+Sima Xin, king of Sai, and Dong Yi, king of Zhai, both surrendered to the Han.
+At the beginning, the son after Xiang Liang established Korea became the king of Han, and Zhang Liang became the disciple of the king of Han.
+Xiang Yu did not allow Zhang Liang to return to Han because he had followed the King of Han, and King Cheng of Han had not made any military exploits. He took him to Pengcheng and executed him.
+At this time, Xiang Yu heard that the King of Han had annexed Guanzhong, and that Qi and Liang had rebelled against him. He was furious, so he sent Zheng Chang, the original Wu commander, as the King of Han to resist the Han soldiers.
+He ordered Xiao Gongjiao to attack Peng Yue, but was defeated by Peng Yue.
+During this period, Zhang Liang was touring Han and sent a letter to Xiang Yu, saying: The king of Han wants to capture Guanzhong. If he fulfills his promise to enter Guanzhong first, he will stop advancing and will not dare to continue to advance eastward.
+Therefore, Xiang Yu had no intention of going west for the time being, and instead attacked Qi Wang Tianrong in the north.
+In September, the King of Han sent generals Xue Ou and Wang Sui out of Wuguan to join the troops guarding Wang Ling in Nanyang, and went from Nanyang to Pei to meet the Taigong and Empress Lu.
+When Xiang Yu heard the news, he sent troops to intercept them in Yangxia. Wang Ling and others were unable to advance.
+In the winter of October of the second year of Emperor Gaozu of the Han Dynasty, Xiang Yu sent Wang Yingbu of Jiujiang to kill Emperor Yi in Chen County.
+Chen Yuhuai resented Xiang Yu for not making him king, so he asked Qi King Tian Rong to borrow troops to attack Changshan King Zhang Er.
+Zhang Er was defeated and surrendered to the Han Dynasty. The king of Han gave him a grand courtesy.
+Chen Yu welcomed Dai Wang Xie and returned Zhao land, and Dai Wang Xie made Chen Yu the acting king.
+Zhang Liang secretly came to the King of Han from Han, and the King of Han made him the Marquis of Chengxin.
+The King of Han arrived in Shaanxi County to comfort the elders outside the Pass.
+King Shenyang of Henan surrendered to the Han, and the Han established Henan County here.
+Han Taiwei Han Xin was sent to attack Han, and Han King Zheng Chang surrendered.
+In November, Taiwei Han was granted the title of King of Han.
+The King of Han returned to Hanzhong, with his capital in Yueyang, and sent generals to seize the enemy's land and conquer Longxi.
+
+summary:
+summary line 6: Xiang Yu violated the agreement, making Liu Ji King of Han in Ba, Shu, and Hanzhong, while dividing Guanzhong among three Qin generals. Liu Ji resented this but was dissuaded from attacking. He burned the plank road to show no intention of leaving Hanzhong. Han Xin, recommended by Xiao He, was made general and advised an eastern campaign. Liu Ji defeated Zhang Han and expanded, while rebellions by Tian Rong and others weakened Xiang Yu.
+
+Chunk 31: 
+original: 
+大司马咎、长史欣皆自刭汜水上。
+汉王引兵渡河，复取成皋，军广武，就敖仓食。
+羽下梁地十余城，闻海春侯破，乃引兵还。
+汉军方围钟离末于荥阳东，闻羽至，尽走险阻。
+羽亦军广武，与汉相守。
+丁壮苦军旅，老弱罢转饷。
+汉王、羽相与临广武之间而语。
+羽欲与汉王独身挑战，汉王数羽曰： 吾始与羽俱受命怀王，曰先定关中者王之。
+羽负约，王我于蜀、汉，罪一也。
+羽矫杀卿子冠军，自尊，罪二也。
+羽当以救赵还报，而擅劫诸侯兵入关，罪三也。
+怀王约，入秦无暴掠，羽烧秦宫室，掘始皇帝冢，收私其财，罪四也。
+又强杀秦降王子婴，罪五也。
+诈坑秦子弟新安二十万，王其将，罪六也。
+皆王诸将善地，而徙逐故主，令臣下争畔逆。罪七也。
+出逐义帝彭城，自都之，夺韩王地，并王梁、楚，多自与，罪八也。
+使人阴杀义帝江南，罪九也。
+夫为人臣而杀其主，杀其已降，为政不平，主约不信，天下所不容，大逆无道，罪十也。
+吾以义兵从诸侯诛残贼，使刑余罪人击公，何苦乃与公挑战！
+羽大怒，伏弩射中汉王。汉王伤胸，乃扪足曰： 虏中吾指！
+translation: 
+The great Sima Cao Jiu and the Chang Shi Xin both committed suicide on the banks of Si River.
+The King of Han led his troops across the Yellow River and reoccupied Chenggao. He garrisoned troops in Guangwu and transported grain from Aocang.
+Xiang Yu captured more than ten cities in Liang. When he heard that Haichunhou was defeated by the Han army, he led his troops back.
+The Han army was besieging Zhong Limei in the east of Xingyang. When they heard that Xiang Yu's troops had arrived, they all fled to a dangerous place.
+Xiang Yu also garrisoned troops in Guangwu and confronted the Han army.
+The young are tired of marching and fighting, and the old and weak are exhausted from transporting food and wages.
+The King of Han and Xiang Yu went to Guangwu Stream to have a conversation.
+Xiang Yu was about to challenge the King of Han to a decisive battle. The King of Han listed Xiang Yu's crimes and said: At the beginning, Xiang Yu and I both accepted the order of King Huai of Chu and agreed to conquer Guanzhong first and become the King of Guanzhong.
+You Xiang Yu broke the agreement and made me the king of Shu Han. This is the first crime.
+You, Xiang Yu, falsely conveyed the king's will and killed the champion of Qingzi, claiming to be a general. This is the second crime.
+You, Xiang Yu, have rescued Zhao and should repay King Huai, but instead you coerce the troops of the princes to enter the pass with you without permission. This is the third crime.
+King Huai agreed not to burn, kill or loot when entering Qin. Xiang Yu burned down the palaces of the Qin Dynasty, dug up the emperor's tomb, and took the finances of Qin for private use. This is the fourth crime.
+He also killed Prince Qin Ying who had surrendered. This was the fifth crime.
+Cruelly and deceptively, he buried 200,000 Qin soldiers alive in Xin'an, but then made their general king. This is the sixth crime.
+The generals were sealed in good places, but they moved to drive away the original princes and kings, and allowed the subordinates to rebel in order to fight for the throne. This is the seventh crime.
+After driving Emperor Yi out of Pengcheng, he established his capital there, seized the land of the King of Han, and annexed the Chu lands of Liang Dynasty, all of which were assigned to himself. This is the eighth crime.
+He sent people to secretly kill Emperor Yi in Jiangnan. This was the ninth crime.
+You are a minister but you murder the monarch and kill those who have surrendered. You govern unfairly. You uphold the covenant but do not keep your word. You are not tolerated by the world and are treasonous. This is the 10th offense.
+I lead the rebels to fight against the princes, and I send a convicted criminal to beat you, so why bother me to challenge you in a one-on-one fight?
+Xiang Yu was furious and shot the King of Han with a crossbow from an ambush. The King of Han was injured in the chest, but he touched his feet and said: "This thief shot my toes."
+
+summary:
+summary line 7: Liu Ji's forces grew, and he captured Pengcheng, but Xiang Yu counterattacked, defeating him. Liu Ji regrouped in Xingyang, using strategies like Sui He persuading Yingbu to rebel. He faced a famine in Guanzhong and sent Han Xin to conquer Wei, Zhao, and Qi. After a series of battles, including the siege of Xingyang, Liu Ji escaped using a decoy. He regained Chenggao and confronted Xiang Yu at Guangwu, listing ten crimes. Xiang Yu shot him, but he feigned a minor injury.
+
+Chunk 12: 
+original: 
+七月，南阳守齮降，封为殷侯，封陈恢千户。
+引兵西，无不下者。
+至丹水，高武侯鳃、襄侯王陵降。
+还攻胡阳，遇番君别将梅鋗，与偕攻析、郦，皆降。
+所过毋得卤掠，秦民喜。遣魏人甯昌使秦。
+是月，章邯举军降项羽，羽以为雍王。
+瑕丘申阳下河南。
+八月，沛公攻武关，入秦。
+秦相赵高恐，乃杀二世，使人来，欲约分王关中，沛公不许。
+九月，赵高立二世兄子子婴为秦王。
+子婴诛灭赵高，遣将将兵距峣关。
+沛公欲击之，张良曰： 秦兵尚强，未可轻。
+愿先遣人益张旗帜于山上为疑兵，使郦食其、陆贾往说秦将，啗以利。
+秦将果欲连和，沛公欲许之。
+张良曰： 此独其将欲叛，恐其士卒不从，不如因其怠懈击之。
+沛公引兵绕峣关，逾蒉山，击秦军，大破之蓝田南。遂至蓝田，又战其北，秦兵大败。
+元年冬十月，五星聚于东井。
+沛公至霸上。秦王子婴素车白马，系颈以组，封皇帝玺、符、节、降枳道旁。诸将或言诛秦王，沛公曰： 始怀王遣我，固以能宽容，且人已服降，杀之不祥。
+translation: 
+In the seventh month, the governor of Nanyang, Ji Qi, surrendered. Pei Gong granted him the title of Marquis of Yin, and granted Chen Hui the title of Qianhu.
+Leading troops to the west, the momentum is like breaking bamboo.
+When the troops arrived at Danshui, Qin Gao Wuhou Ji and Xianghou Wang Ling surrendered.
+Returning to attack Hu Yang, he met Fan Jun's general Mei Jie and joined forces with him to attack Zhe County and Li County, but they all surrendered.
+Pei Gong ordered the troops not to plunder wherever they passed. The people of Qin welcomed him very much and sent Wei people Ningchang to Qin to persuade them to surrender.
+In the same month, Qin general Zhang Han led the entire army to surrender to Xiang Yu, and Xiang Yu named Zhang Han King Yong.
+Xiaqiu Gong Shenyang captured Henan.
+In August, Peigong captured Wuguan. Entering the suburbs of Qin.
+Qin Prime Minister Zhao Gao was frightened, so he killed Qin II and sent an envoy to see Pei Gong, wanting to make an agreement to divide the Guanzhong land equally, but Pei Gong refused.
+In September, Zhao Gao made Ziying, the son of his second brother, king.
+Ziying killed Zhao Gao and sent generals to lead troops to guard Shanyao Pass.
+Pei Gong wanted to attack, but Zhang Liang stopped him and said: Qin's army is strong and should not be underestimated.
+It is suggested to send people to plant more flags on the nearby mountains to make the soldiers suspicious, and then send Li Shiqi and Lu Jia to the Qin camp to act as lobbyists to lure them.
+The general of Qin really wanted to make peace with Pei Gong, and Pei Gong agreed.
+Zhang Liang said: This is just a buffer strategy for Qin's generals who want to rebel against Qin and are afraid that their soldiers will not obey. It is better to take advantage of Qin's unpreparedness and launch an attack.
+So Peigong led his troops to bypass Shanyao Pass, cross the Huangshan Mountains, and attack the Qin army. Then they marched to Lantian and attacked from the north. The Qin army was defeated again.
+In the tenth month of winter in the first year of Emperor Gaozu of the Han Dynasty, Pei Gong led his troops to reach Bashui River.
+Qin Prince Ying drove a plain chariot and a white horse, with a ribbon tied around his neck, and the emperor's jade seal seal, and surrendered to Pei Gong beside the Zhidao Pavilion. Some of the generals suggested that Pei Gong kill the King of Qin. Pei Gong said: Originally, the reason why King Huai of Chu sent me to pass was because I can tolerate people. Besides, the King of Qin has surrendered, so it is not good to kill him.
+
+summary:
+summary line 8: Liu Ji recovered, made Han Xin King of Qi, and Yingbu King of Huainan. With Xiang Yu's resources dwindling, they agreed to divide the world using the chasm. However, Zhang Liang and Chen Ping advised Liu Ji to attack, leading to Xiang Yu's eventual defeat.
+

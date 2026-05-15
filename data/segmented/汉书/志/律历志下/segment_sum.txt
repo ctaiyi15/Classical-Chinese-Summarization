@@ -1,0 +1,194 @@
+Summary uses chunk [0, 9, 9, 20]
+
+Chunk 0: 
+original: 
+统母日法八十一。元始黄钟初九自乘，一龠之数，得日法。
+闰法十九，因为章岁。合天地终数，得闰法。
+统法一千五百三十九。以闰法乘日法，得统法。
+元法四千六百一十七。参统法，得元法。
+会数四十七。参天九，两地十，得会数。
+章月二百三十五。五位乘会数，得章月。
+月法二千三百九十二。推大衍象，得月法。
+通法五百九十八。四分月法，得通法。
+中法十四万五百三十。以章月乘通法，得中法。
+周天五十六万二千一百二十。以章月乘月法，得周天。
+岁中十二。以三统乘四时，得岁中。
+月周二百五十四。以章月加闰法，得月周。
+朔望之会百三十五。参天数二十五，两地数三十，得朔望之会。
+会月六千三百四十五。以会数乘朔望之会，得会月。
+统月一万九千三十五。参会月，得统月。
+元月五万七千一百五。参统月，得元月。
+章中二百二十八。以闰法乘岁中，得章中。
+统中一万八千四百六十八。以日法乘章中，得统中。
+元中五万五千四百四。参统中，得元中。
+策余八千八十。什乘元中，以减周天，得策余。
+周至五十七。参闰法，得周至。
+translation: 
+Said method: eighty-one; the original Huang Zhong Chujiu multiplied by itself, which is a number, and it is called the method number.
+Leap method: nineteen; use it as the number of years in a chapter, add up the ending numbers of heaven and earth, and get the leap method number.
+Tongfa: one thousand five hundred and thirty-nine; multiply the leap number by the daily number to get the unified number.
+Yuanfa: four thousand six hundred and seventeen; multiply the number of unified methods by three, and get the number of yuanfa.
+Able to count: forty-seven; multiply the number nine by three in the sky, multiply the tens in the earth by two, and add them up to get the number you can count.
+Zhang month: two hundred and thirty-five; multiply the number by five digits to get the number of Zhang month.
+Moon Dharma: Two Thousand Three Hundred and Ninety-Two; deducing the Great Evolutionary Signs, we can get the number of the Moon Dharma.
+Tongfa: five hundred and ninety-eight; divide the moon method by four to get the number of Tongfa.
+Zhongfa: One hundred and four hundred and five hundred and thirty; multiply the number of Zhang Yue by the general method to get the Zhongfa number.
+Weekly days: five hundred and sixty-two thousand one hundred and twenty; multiply the number of chapters and months by the number of months to get the number of days of the week.
+The middle of the year: twelve; multiply the three numbers by the four hours to get the middle of the year.
+Week of the month: two hundred and fifty-four; use the number of the month plus the leap method to get the number of the week of the month.
+The number of the synodic meeting: one hundred and thirty-five; multiply three times the number of days and twenty-five, multiply two times the number of two places and count thirty, and add the products together to get the number of the synodic meeting.
+Meeting month: six thousand three hundred and forty-five; multiply the meeting number by the synodic meeting number to get the number of meeting months.
+Tongyue: Nineteen thousand and thirty-five; count to get the number of Tongyue.
+The first month: fifty-seven thousand one hundred and five; count to get the number of the first month.
+Multiply the Hui month by three and the Tong month chapter by three: two hundred and twenty-eight; multiply the year number by the leap number to get the chapter number.
+Tongzhong: eighteen thousand four hundred and sixty-eight; multiply the number in the chapter by the number in the law to get the number in the system.
+Yuanzhong: fifty-five thousand four hundred and four; multiply the number of the united number by three to get the number of the yuanzhong.
+Ce Yu: eight thousand and eighty; multiply the number by ten yuan, subtract the number of weeks from the product, and get the Ce remainder.
+Zhou Zhi: fifty-seven; multiply the leap method by three to get the number of Zhou Zhi.
+
+summary:
+summary line 0: A comprehensive system of astronomical and calendrical calculations, beginning with a series of defined numerical constants and methods. The "method number" is derived from multiplying the original Huang Zhong Chujiu by itself. The "leap method" of nineteen is used as the number of years in a chapter. The "Tongfa" (1,539) is obtained by multiplying the leap number by the daily number, and the "Yuanfa" (4,617) is three times the Tongfa. Other key numbers include the "Zhang month" (235), "Moon Dharma" (2,392), and "Weekly days" (562,120). The text details the calculation of various astronomical cycles, including the synodic meeting, meeting months, and the cycles of the year star, Taibai Star, Zhenxing, Yinghuo, and the stars (Mercury). For each planet, the text provides specific numbers for its appearance, motion (direct, retrograde, and stationary), and the duration of its visibility and concealment, along with the degrees it travels.
+
+Chunk 9: 
+original: 
+盈章中，数所得，起冬至，算外，则中至终闰盈。
+中气在朔若二日，则前月闰也。
+推冬至，以策余乘入统岁数，盈弦法得一，名曰大余，不盈者名曰小余。
+除数如法，则所求冬至日也。
+求八节，加大余四十五，小余千一十。
+求二十四气，三其小余，加大余十五，小余千一十。
+推中部二十四气，皆以元为法。
+推五行，其四行各七十三日，统法分之七十七。
+中央各十八日，统法分之四百四。
+冬至后，中央二十七日六百六分。
+推合晨所在星，置积日，以统法乘之，以十九乘小余而并之。
+盈周天，除去之；不盈者，令盈统法得一度。
+数起牵牛，算外，则合晨所入星度也。
+推其日夜半所在星，以章岁乘月小余，以减合晨度。
+小余不足者，破全度。
+推其月夜半所在星，以月周乘月小余，盈统法得一度，以减合晨度。
+推诸加时，以十二乘小余为实，各盈分母为法，数起于子，算外，则所加辰也。
+推月食，置会余岁积月，以二十三乘之，盈百三十五，除之。
+不盈者，加二十三得一月，盈百三十五，数所得，起其正，算外，则食月也。
+加时，在望日冲辰。
+translation: 
+In the full chapter, the calculated results, starting from the winter solstice, and not counting, are the leap full from the mid-qi to the end point.
+If the period of the first day of the lunar month is two days, then the previous month will be a leap year.
+Deducing the winter solstice: Multiply Ce Yu into Tong years. If the Tong method is full, it will be named Dayu. If the Tong method is not enough, it will be named Xiao Yu.
+The divisor is the same as before, which is the desired winter solstice day.
+Find eight verses: Just add the big remainder forty-five and the small remainder one thousand and ten.
+To find the twenty-four hour qi: just multiply three times the small remainder, add the larger remainder of fifteen, and the smaller remainder is one thousand and ten.
+To calculate the twenty-four qi in the central part: Yuan is used as the method number.
+Calculate the five elements: four of them have seventy-three days each, which is the seventy-seventh of the unified method.
+There are eighteen days in each center, which is 404/4 of the unified law.
+After the winter solstice, there are twenty-seven days and six hundred and six minutes in the center.
+Calculate the stars for all mornings: multiply the product by the unified method, multiply the nineteen by the small remainder and add the accumulated day.
+If it is full of Zhou Tian, ​​then get rid of it; if it is not full of Zhou Tian, ​​let Mantong Dharma gain one degree.
+The calculation starts from the morning glory, and what is removed from the calculation is the number of stars entered throughout the morning.
+To calculate the star position at midnight of day and night: multiply Zhang Sui by the small remainder of the moon, and then subtract the combined morning degree.
+If the small excess is insufficient, the full degree will be broken.
+To calculate the star where the moon is at midnight: multiply the moon's week by the moon's small remainder, and then subtract the combined morning degree to get one degree.
+Calculate the added hours: multiply the remainder by twelve to be a real number, and the perfect denominator to be a normal number. Start counting from the child, and calculate and remove what is added.
+Calculate the lunar eclipse: Multiply the remaining years and months by twenty-three, and when it reaches one hundred and thirty-five, remove it.
+If it is less than one hundred and thirty-five, then thirteen is counted as one month. If it is more than one hundred and thirty-five, the calculated result is calculated starting from the right and removing the eclipse moon.
+In extra time, we are looking forward to the sun and the sun.
+
+summary:
+summary line 1: The text then outlines methods for deducing the Sun-Moon Yuan Tong, calculating the winter solstice, and determining the positions of the five stars. It describes how to calculate the number of years since the original Shangyuan and the specific cycles of Jiazi, Jiachen, and Jiashen. Procedures are given for calculating the first day of the lunar month, the location of the leap remainder, and the twenty-four solar terms. The text also details the calculation of the stars' positions at morning and midnight, the lunar eclipse, and the complex numbers for the manifestation of the five stars. It explains how to determine the middle number of a star's appearance, the star and the moon, and the degree of the next day after entering the center.
+
+Chunk 9: 
+original: 
+盈章中，数所得，起冬至，算外，则中至终闰盈。
+中气在朔若二日，则前月闰也。
+推冬至，以策余乘入统岁数，盈弦法得一，名曰大余，不盈者名曰小余。
+除数如法，则所求冬至日也。
+求八节，加大余四十五，小余千一十。
+求二十四气，三其小余，加大余十五，小余千一十。
+推中部二十四气，皆以元为法。
+推五行，其四行各七十三日，统法分之七十七。
+中央各十八日，统法分之四百四。
+冬至后，中央二十七日六百六分。
+推合晨所在星，置积日，以统法乘之，以十九乘小余而并之。
+盈周天，除去之；不盈者，令盈统法得一度。
+数起牵牛，算外，则合晨所入星度也。
+推其日夜半所在星，以章岁乘月小余，以减合晨度。
+小余不足者，破全度。
+推其月夜半所在星，以月周乘月小余，盈统法得一度，以减合晨度。
+推诸加时，以十二乘小余为实，各盈分母为法，数起于子，算外，则所加辰也。
+推月食，置会余岁积月，以二十三乘之，盈百三十五，除之。
+不盈者，加二十三得一月，盈百三十五，数所得，起其正，算外，则食月也。
+加时，在望日冲辰。
+translation: 
+In the full chapter, the calculated results, starting from the winter solstice, and not counting, are the leap full from the mid-qi to the end point.
+If the period of the first day of the lunar month is two days, then the previous month will be a leap year.
+Deducing the winter solstice: Multiply Ce Yu into Tong years. If the Tong method is full, it will be named Dayu. If the Tong method is not enough, it will be named Xiao Yu.
+The divisor is the same as before, which is the desired winter solstice day.
+Find eight verses: Just add the big remainder forty-five and the small remainder one thousand and ten.
+To find the twenty-four hour qi: just multiply three times the small remainder, add the larger remainder of fifteen, and the smaller remainder is one thousand and ten.
+To calculate the twenty-four qi in the central part: Yuan is used as the method number.
+Calculate the five elements: four of them have seventy-three days each, which is the seventy-seventh of the unified method.
+There are eighteen days in each center, which is 404/4 of the unified law.
+After the winter solstice, there are twenty-seven days and six hundred and six minutes in the center.
+Calculate the stars for all mornings: multiply the product by the unified method, multiply the nineteen by the small remainder and add the accumulated day.
+If it is full of Zhou Tian, ​​then get rid of it; if it is not full of Zhou Tian, ​​let Mantong Dharma gain one degree.
+The calculation starts from the morning glory, and what is removed from the calculation is the number of stars entered throughout the morning.
+To calculate the star position at midnight of day and night: multiply Zhang Sui by the small remainder of the moon, and then subtract the combined morning degree.
+If the small excess is insufficient, the full degree will be broken.
+To calculate the star where the moon is at midnight: multiply the moon's week by the moon's small remainder, and then subtract the combined morning degree to get one degree.
+Calculate the added hours: multiply the remainder by twelve to be a real number, and the perfect denominator to be a normal number. Start counting from the child, and calculate and remove what is added.
+Calculate the lunar eclipse: Multiply the remaining years and months by twenty-three, and when it reaches one hundred and thirty-five, remove it.
+If it is less than one hundred and thirty-five, then thirteen is counted as one month. If it is more than one hundred and thirty-five, the calculated result is calculated starting from the right and removing the eclipse moon.
+In extra time, we are looking forward to the sun and the sun.
+
+summary:
+summary line 2: The text provides a detailed breakdown of the five steps of calculation for the planets, using the number of days since their first appearance and their daily motion. It also describes the calculation of the age (Sui Xing) and its profits and losses, noting that the Sui star's misplacement can cause disasters. The text then lists the twelve celestial divisions (Xingji) from Dou Twelve Degrees to Dou Shidu, associating each with a solar term and the corresponding months in the Xia, Shang, and Zhou calendars. It provides the degrees for various constellations and explains the cycles of nine ends and three ends, which relate to the unification of the calendar.
+
+Chunk 20: 
+original: 
+始垂衣裳，有轩、冕之服，故天下号曰轩辕氏。
+少昊帝《孝德》曰少昊曰清。
+清者，黄帝之子清阳也，是其子孙名挚立。
+土生金，故为金德，天下号曰金天氏。
+周迁其乐，故《易》不载，序于行。
+颛顼帝《春秋外传》曰：少昊之衰，九黎乱德，颛顼受之，乃命重黎。
+苍林昌意之子也。
+金生水，故为水德。
+天下号曰高阳氏。
+周迁其乐，故《易》不载，序于行。
+帝喾《春秋外传》曰：颛顼之所建，帝喾受之。
+清阳玄嚣之孙也。
+水生木，故为木德。
+天下号曰高辛氏。
+帝挚继之，不知世数。
+周迁其乐，故《易》不载。
+周人禘之。
+唐帝《帝系》曰：帝喾四妃，陈丰生帝尧，封于唐。
+盖高辛氏衰，天下归之。
+木生火，故为火德，天下号曰陶唐氏。
+让天下于虞，使子朱处于丹渊为诸侯。
+translation: 
+At the beginning, he ruled without doing anything, with Xuan chariots and crown uniforms, so the world called him Xuanyuan clan.
+Emperor Shaowu, "Kaode" said that Shaohao was called Qing.
+Qing was Qingyang, the son of Huangdi, and it was his descendants named Zhi who ascended the throne.
+Gold is born in the soil, so it is the virtue of gold, and the world is called the Jintian clan.
+The Zhou Dynasty changed his music, so it was not recorded in the "Yi", only recorded in action.
+Emperor Zhuan Xu, "Chun Qiu Wai Zhuan" said that after Shao Wu grew old and Jiu Li deviated from his virtue, Zhuan Xu accepted the throne and appointed Chong He Li.
+They are the sons of Cang Lin Changyi.
+Metal generates water, so it has the virtue of water.
+The world is called Gaoyang clan.
+The Zhou Dynasty changed his music, so it was not recorded in the "Yi", only recorded in action.
+Emperor Xue, "Chun Qiu Wai Zhuan" said that what Zhuan Xiang established was accepted by Emperor Yu.
+The emperor is the grandson of Qingyang Xuanxiao.
+Water produces wood, so it is wood virtue.
+The world is called Gaoxin clan.
+Emperor Zhi succeeded him to the throne for an unknown number of years.
+The Zhou Dynasty changed his music.
+Therefore, there is no record in "Yi". People in Zhou Dynasty offered sacrifices to him.
+Emperor Tang, "Emperor Lineage" says that Emperor Ying had four concubines. Chen Feng gave birth to Emperor Yao, who was granted a title in the Tang Dynasty.
+When the Gao Xin family weakened, the world surrendered to Emperor Yao.
+Wood generates fire, so it has the virtue of fire, and the world is called Tao Tang.
+Later, he ceded the world to Yu and made his son Zhu Danyuan a prince.
+
+summary:
+summary line 3: The text includes a historical chronology, starting from the legendary emperors (Taiwu, Yandi, Huangdi, Shaowu, Zhuan Xu, Xue, Tang, Yu) and their associated virtues (wood, fire, earth, metal, water). It traces the lineage and reigns of the Xia, Shang, and Zhou dynasties, providing specific years and astronomical events. For example, it notes that the Xia dynasty had 432 years, the Shang dynasty 629 years, and the Zhou dynasty 867 years. The text also details the reigns of the Qin dynasty and the early Han emperors, from Gaozu to Emperor Guangwu, providing the number of years for each reign and the total years since the Shangyuan. It concludes with the reign of Emperor Guangwu, noting that he reigned for 33 years.
+

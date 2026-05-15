@@ -1,0 +1,194 @@
+Summary uses chunk [0, 1, 2, 4, 9, 0]
+
+Chunk 0: 
+original: 
+季布，楚人也，为任侠有名。
+项籍使将兵，数窘汉王。
+顶籍灭，高祖购求布千金，敢有舍匿，罪三族。
+布匿濮阳周氏，周氏曰： 汉求将军急，迹且至臣家，能听臣，臣敢进计；即否，愿先自刭。
+布许之。
+乃髡钳布，衣褐，置广柳车中，并与其家僮数十人，之鲁朱家所卖之。
+朱家心知其季布也，买置田舍。
+乃之雒阳见汝阴侯滕公，说曰： 季布何罪？
+臣各为其主用，职耳。项氏臣岂可尽诛邪？
+今上始得天下，而以私怨求一人，何示不广也？
+且以季布之贤，汉求之急如此，此不北走胡，南走越耳。
+translation: 
+Ji Bu, a native of Chu, was famous for his chivalry.
+Xiang Yu asked him to lead troops, which put the king of Han in difficulty several times.
+After Xiang Yu was wiped out, Emperor Gaozu spent a thousand taels of gold to purchase Ji Bu. Anyone who dared to harbor Ji Bu would be punished by the three tribes.
+Ji Bu hid in Zhou's house in Puyang. Zhou said: The Han Dynasty is anxious to find the general and will come to my house to look for him soon. If you can listen to me, I will dare to find a way for you; if you can't listen to me, I am willing to commit suicide first.
+Ji Bu agreed.
+So he treated Ji Bu as a criminal, shaved off his hair, tied his neck with an iron ring, put on the prisoner's coarse cloth, and put him in a funeral car. Together with dozens of his slaves, he went to the Zhu family's home in Ludi and wanted to sell them.
+Zhu Jiaxin knew that he was Ji Bu, so he bought it and placed it in a house in the countryside.
+He himself went to Luoyang to see Xia Houying, the Marquis of Ruyin, and asked, "What crime did Ji Bu commit?"
+As ministers, they were their own masters at the beginning and were in charge of their duties. Should all Xiang Yu's ministers be executed?
+Now, the emperor has just brought peace to the world, and if he rewards a person with a thousand pieces of gold for his personal grudge, doesn't it show that he is not broad-minded?
+Moreover, given Ji Bu's talents, the Han Dynasty captured him so quickly. Didn't this force him to flee north to the Huns and south to South Vietnam?
+
+summary:
+summary line 0: Ji Bu, a native of Chu, was known for his chivalry and served as a general under Xiang Yu, causing difficulties for Liu Bang, the King of Han. After Xiang Yu's defeat, Emperor Gaozu of Han offered a reward for Ji Bu's capture, threatening punishment for anyone who harbored him. Ji Bu hid at Zhou's house in Puyang, and with Zhou's help, disguised himself as a prisoner and was sold to the Zhu family in Lu. Zhu Jia, recognizing Ji Bu, bought him and later persuaded Xia Houying, the Marquis of Ruyin, to intercede with the emperor. Xia Houying conveyed Zhu Jia's argument that pursuing Ji Bu would show a lack of magnanimity and might drive him to enemy states. The emperor pardoned Ji Bu, who then became a doctor.
+
+Chunk 1: 
+original: 
+夫忌壮士以资敌国，此伍子胥所以鞭荆平之墓也。
+君何不从容为上言之？
+滕公心知朱家大侠，意布匿其所，乃许诺。
+侍间，果言如朱家指。
+上乃赦布。
+当是时，诸公皆多布能摧刚为柔，朱家亦以此名闻当世。
+布召见，谢，拜郎中。
+孝惠时，为中郎将。
+单于尝为书嫚吕太后，太后怒，召诸将议之。
+上将军樊哙曰： 臣愿得十万众，横行匈奴中。
+诸将皆阿吕太后，以哙言为然。布曰： 樊哙可斩也！
+夫以高帝兵三十余万，困于平城，哙时亦在其中。
+今哙奈何以十万众横行匈奴中，面谩！
+且秦以事胡，陈胜等起。
+今疮痍未瘳，哙又面谀，欲摇动天下。
+是时，殿上皆恐，太后罢朝，遂不复议击匈奴事。
+translation: 
+To hate strong men and force them to go to the enemy's country is not the lesson of Wu Zixu who helped Wu destroy Chu and dug up the tomb of King Ping of Chu and whipped his corpse.
+Why don't you speak to the Emperor in a gentle manner?
+Xiahou Ying knew in his heart that the Zhu family were famous chivalrous people, and guessed that Ji Bu was hiding in the Zhu family's home, so he agreed.
+While serving Tian Guang, he indeed told the emperor what the Zhu family said.
+Liu Bang then pardoned Ji Bu.
+At that time, some elders in the society praised Ji Bu for his ability to turn toughness into softness, and the Zhu family became famous all over the world because of this incident.
+Ji Bu was summoned by the emperor. Ji Bu expressed his gratitude and confessed his crime, and the emperor appointed him as a doctor.
+During the reign of Emperor Hui of the Han Dynasty, Jibu Guan rose to Zhonglang General.
+The Xiongnu Chanyu once wrote a letter to insult the Queen Mother Lu. The Queen Mother was very angry and summoned the generals to discuss countermeasures.
+General Fan Kuai said: I am willing to lead an army of 100,000 to sweep across the Xiongnu.
+The generals all obeyed Empress Lu's will and believed that Fan Kuai's statement was correct. Ji Bu said: Fan Kuai should be beheaded.
+In the past, Emperor Gao led more than 300,000 soldiers and was surrounded by the Xiongnu in Pingcheng. At that time, Fan Kuai was also surrounded and surrounded.
+How could Fan Sha be able to sweep away the Xiongnu with more than 100,000 men now? This is a lie to his face.
+Moreover, the Qin Dynasty's use of troops against the Xiongnu led to an uprising by Chen Sheng and others.
+A few days ago, the wounds of the war had not yet been healed, and Fan Kuai flattered him in person, hoping to shake the world.
+At that time, everyone in the palace was frightened, and the Queen Mother immediately withdrew from the court and never discussed the attack on the Xiongnu again.
+
+summary:
+summary line 1: During Emperor Hui's reign, Ji Bu served as Zhonglang General. When the Xiongnu Chanyu insulted Empress Lu, General Fan Kuai proposed leading 100,000 troops against them. Ji Bu opposed, citing Emperor Gaozu's past defeat with 300,000 soldiers and warning that such action could incite rebellion. The Empress abandoned the plan. Later, as Governor of Hedong, Ji Bu was summoned by Emperor Wen but sent back after a month. He criticized the emperor for being swayed by praise and slander, and Emperor Wen, ashamed, allowed him to return to his post.
+
+Chunk 2: 
+original: 
+布为河东守。
+孝文时，人有言其贤，召欲以为御史大夫。
+人又言其勇，使酒难近。
+至，留邸一月，见罢。
+布进曰： 臣待罪河东，陛下无故召臣，此人必有以臣欺陛下者。
+今臣至，无所受事，罢去，此人必有毁臣者。
+夫陛下以一人誉召臣，一人毁去臣，臣恐天下有识者闻之，有以窥陛下。
+上默然，惭曰： 河东吾股肱郡，故特召君耳。
+布之宫。
+辩士曹丘生数招权顾金钱，事贵人赵谈等，与窦长君善。
+布闻，寄书谏长君曰： 吾闻曹丘生非长者，勿与通。
+translation: 
+Later, Ji Bu became the governor of Hedong County.
+During the reign of Emperor Wen of the Han Dynasty, someone told Emperor Wen that Ji Bu was talented and virtuous, and Emperor Wen wanted to summon him to the capital to serve as a censor.
+Others said that Ji Bu was very brave, but he drank too much and was willful, so he was not suitable for being a close minister.
+Jibu arrived in the capital and stayed in a guest house for a month. After being summoned, he was sent back to his original county.
+Ji Bu then advanced and said: "I am in Hedong, fearing that I will be punished for not doing my job well. Your Majesty summoned me to the capital for no reason. Someone must have falsely praised me and deceived Your Majesty."
+Now that I have come, your Majesty has not given me any ministry, and has asked me to return to my original county. Someone must be slandering me.
+Your Majesty summoned me because someone praised me, and sent me back because someone slandered me. I am worried that the knowledgeable people in the world will know the depth of your Majesty after hearing about this incident.
+Emperor Wen was silent after hearing this, and said with shame: Hedong County is a county that I rely on as much as my thighs, so I specially summoned you!
+Ji Bu resigned and returned to his original post as governor of Hedong County.
+Cao Qiusheng, who was good at rhetoric, repeatedly sought power and was entrusted by others to collect money from the entrusters. He served the eunuch Tantan and others, and was friendly with Baochangjun, the uncle of Emperor Jing.
+Ji Bu knew about it and wrote a letter to advise Baochangjun, saying: "I heard that Cao Qiusheng is not an honest and honest person. Don't associate with him."
+
+summary:
+summary line 2: Cao Qiusheng, a rhetorician, sought Ji Bu's favor through a letter from Baochangjun. Despite initial anger, Ji Bu welcomed him after Cao explained that he could enhance Ji Bu's reputation. Ji Bu's fame grew due to Cao's promotion. Ji Bu's half-brother Ding Gong, who had spared Liu Bang during a battle, was executed by Emperor Gaozu for disloyalty.
+
+Chunk 4: 
+original: 
+布母弟丁公，为项羽将，逐窘高祖彭城西。
+短兵接，汉王急，顾谓丁公曰： 两贤岂相厄哉！
+丁公引兵而还。
+及项王灭，丁公谒见高祖，以丁公徇军中，曰： 丁公为项王臣不忠，使项王失天下者也。
+遂斩之，曰： 使后为人臣无效丁公也！ 栾布，梁人也。
+彭越为家人时，尝与布游，穷困，卖庸于齐，为酒家保。
+数岁别去，而布为人所略卖，为奴于燕。
+为其主家报仇，燕将臧荼举以为都尉。
+荼为燕王，布为将。
+及荼反，汉击燕，虏布。
+梁王彭越闻之，乃言上，请赎布为梁大夫。
+translation: 
+Ji Bu's half-brother Ding Gong served as Xiang Yu's general. He once pursued Han Emperor Gaozu and trapped him west of Pengcheng.
+During the hand-to-hand fight, the king of Han was in danger and turned back to Ding Gong and said: Are two wise men going to persecute each other?
+Ding Gong then led his troops to withdraw, and the king of Han was able to escape.
+After Xiang Yu's death, Duke Ding went to pay homage to Emperor Gaozu. Emperor Gaozu asked him to be paraded in the military camp and said: Duke Chang was disloyal because he was a subject of Xiang Yu, and he was the one who caused King Xiang to lose the world.
+So he beheaded Duke Ding and said: "I want all future ministers not to imitate Duke Ding!" Luan Bu was from Liang.
+When Peng Yue was still a civilian, he had a relationship with Le Bu. Because of poverty, he worked as a laborer in Qi and was employed by Qi Diyi. hotel.
+He left a few years later and was kidnapped and sold as a slave to the State of Yan.
+He avenged his master and was elected as the captain by Yan general Zang Tu.
+Later Zang Tu became king of Yan, and Lebu was appointed as a general.
+When Zang Tu rebelled, the Han army attacked Yan and captured Le Bu.
+The king of Liang, Peng Yue, found out about this and interceded with the Emperor of Han, asking for Le Bu to atone for his sins and let him be appointed as the official of the Liang Kingdom.
+
+summary:
+summary line 3: Luan Bu, a former slave and general under Peng Yue, mourned Peng Yue after his execution for treason. Arrested and threatened with death, Luan Bu defended Peng Yue's loyalty and criticized the emperor's harshness. He was released and made a captain. Later, he served as prime minister of Yan and was known for rewarding kindness and avenging wrongs.
+
+Chunk 9: 
+original: 
+相初至官，民以王取其财物自言者百余人。
+叔取其渠率二十人笞，怒之曰： 王非汝主邪？
+何敢自言主！
+鲁王闻之，大惭，发中府钱，使相偿之。
+相曰： 王自使人偿之，不尔，是王为恶而相为善也。
+鲁王好猎，相常从入苑中，王辄休相就馆。
+相常暴坐苑外，终不休，曰： 吾王暴露，独何为舍？
+王以故不大出游。
+数年以官卒，鲁以百金祠，少子仁不受，曰： 义不伤先人名。
+仁以壮勇为卫将军舍人，数从击匈奴。
+卫将军进言仁为郎中，至二千石、丞相长史，失官。
+后使刺三河，还，奏事称意，拜为京辅都尉。
+月余，迁司直。
+数岁，戾太子举兵，仁部闭城门，令太子得亡，坐纵反者族。
+赞曰：以项羽之气，而季布以勇显名楚，身履军搴旗者数矣，可谓壮士。
+translation: 
+Uncle Tian was the prime minister of Lu. When he first took office, more than a hundred people reported to King Lu that he had taken away their property.
+Uncle Tian caught the twenty leaders and whipped them, and said angrily: "Isn't King Lu your master?"
+How dare you sue the master!
+King Lu was deeply ashamed when he heard this. He took the money out of the treasury and asked Uncle Tian to pay it back to the people.
+Uncle Tian said: King Lu will send someone to repay it himself. Otherwise, you become the bad guy and I become the good guy.
+King Lu loved hunting, and Uncle Tian often followed him into the gardens. King Lu immediately stopped him and asked him to rest in the garden.
+But Uncle Tian often sat outside his room to wrap himself in the open air, and never went into the house to rest. He said: "The king of Lu is wrapping his clothes in the open air, how can I wrap myself in the house alone?"
+For this reason, King Lu did not go out much for hunting.
+A few years later, Uncle Tian died in office. The State of Lu offered a hundred catties of gold as a sacrifice, but his youngest son Tian Ren refused to accept it, saying: Morally, the honor of his father cannot be harmed.
+Because Tian Ren was strong and brave, he became a household official of General Wei Qing. He followed Wei Qing to attack the Xiongnu several times.
+General Wei recommended him to Emperor Mowu, and he was appointed as a doctor. He was transferred to Erqianshi and served as prime minister for a long time. Later, he was dismissed due to some affairs.
+Later, he was appointed as the governor of Sanhe County. When he returned to Beijing to report his affairs, he was in line with Emperor Wu's wishes and was appointed as the capital of Jingfu.
+More than a month later, he was promoted to Prime Minister Sizhi.
+A few years later, Liu Zheng, the crown prince of Emperor Wu, raised an army due to an incident. At that time, Tian Ren was in charge of opening and closing the city gates. He asked the prince to flee the city. He was exterminated for indulging the rebels.
+Praise said: While Xiang Yu was heroic, Ji Bu was famous for his bravery in Chu State. He defeated the enemy many times and took up his banner. He can be called a hero!
+
+summary:
+summary line 4: Uncle Tian, a native of Zhao, served as a doctor under King Zhang Ao. When Zhang Ao was implicated in a plot against the emperor, Uncle Tian followed him to Chang'an in prison garb. After Zhang Ao's release, Uncle Tian became a county guard. Emperor Wen appointed him prime minister of Lu, where he handled disputes and discouraged King Lu from hunting. He died in office, and his son Tian Ren refused funeral gifts, later serving as a general under Wei Qing. Tian Ren was executed for allowing the crown prince to flee during a rebellion.
+
+Chunk 0: 
+original: 
+季布，楚人也，为任侠有名。
+项籍使将兵，数窘汉王。
+顶籍灭，高祖购求布千金，敢有舍匿，罪三族。
+布匿濮阳周氏，周氏曰： 汉求将军急，迹且至臣家，能听臣，臣敢进计；即否，愿先自刭。
+布许之。
+乃髡钳布，衣褐，置广柳车中，并与其家僮数十人，之鲁朱家所卖之。
+朱家心知其季布也，买置田舍。
+乃之雒阳见汝阴侯滕公，说曰： 季布何罪？
+臣各为其主用，职耳。项氏臣岂可尽诛邪？
+今上始得天下，而以私怨求一人，何示不广也？
+且以季布之贤，汉求之急如此，此不北走胡，南走越耳。
+translation: 
+Ji Bu, a native of Chu, was famous for his chivalry.
+Xiang Yu asked him to lead troops, which put the king of Han in difficulty several times.
+After Xiang Yu was wiped out, Emperor Gaozu spent a thousand taels of gold to purchase Ji Bu. Anyone who dared to harbor Ji Bu would be punished by the three tribes.
+Ji Bu hid in Zhou's house in Puyang. Zhou said: The Han Dynasty is anxious to find the general and will come to my house to look for him soon. If you can listen to me, I will dare to find a way for you; if you can't listen to me, I am willing to commit suicide first.
+Ji Bu agreed.
+So he treated Ji Bu as a criminal, shaved off his hair, tied his neck with an iron ring, put on the prisoner's coarse cloth, and put him in a funeral car. Together with dozens of his slaves, he went to the Zhu family's home in Ludi and wanted to sell them.
+Zhu Jiaxin knew that he was Ji Bu, so he bought it and placed it in a house in the countryside.
+He himself went to Luoyang to see Xia Houying, the Marquis of Ruyin, and asked, "What crime did Ji Bu commit?"
+As ministers, they were their own masters at the beginning and were in charge of their duties. Should all Xiang Yu's ministers be executed?
+Now, the emperor has just brought peace to the world, and if he rewards a person with a thousand pieces of gold for his personal grudge, doesn't it show that he is not broad-minded?
+Moreover, given Ji Bu's talents, the Han Dynasty captured him so quickly. Didn't this force him to flee north to the Huns and south to South Vietnam?
+
+summary:
+summary line 5: The text praises Ji Bu for his resilience and eventual fame, Luan Bu for his loyalty, and Uncle Tian for his integrity, emphasizing that their actions were driven by faith and purpose.
+

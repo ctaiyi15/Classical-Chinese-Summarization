@@ -49,11 +49,6 @@ original:
 冲、质之间，梁太后临朝，规举贤良方正。
 对策曰：伏惟孝顺皇帝，初勤王政，纪纲四方，几以获安。
 后遭奸伪，威分近习，畜货聚马，戏谑是闻。又因缘嬖幸，受赂卖爵，轻使宾客，交错其间，天下扰扰，从乱如归。
-故每有征战，鲜不挫伤，官民并竭，上下穷虚。
-臣在关西，窃听风声，未闻国家有所先后，而威福之来，咸归权幸。
-陛下体兼乾坤，聪哲纯茂。
-摄政之初，拔用忠贞，其余维纲，多所改正。远近翕然，望见太平。
-而地震之后，雾气白浊，日月不光，旱魃为虐，大贼从横，流血丹野，庶品不安，谴诫累至，殆以奸臣权重之所致也。
 translation: 
 Weeping and weeping for God's sorrow, fearing that something might happen.
 Therefore, the period of peace is very short, and once chaos breaks out, it lasts for many years.
@@ -67,19 +62,33 @@ The emperor did not use him at that time.
 During the reign of Emperor Chong and Emperor Zhi, the Empress Dowager Liang was in power, and Huangfu Gui was praised as virtuous and upright.
 Huangfu Gui countermeasures asked: If you want to be filial to the emperor, if you are in power and establish court discipline, the country will soon be at peace.
 Later, he was cheated and manipulated, and his authority was controlled by the villains close to him. He accumulated wealth and made fun of people. He also cheated on the villains, accepted bribes, sold his official position, and used guests at will. He interacted with each other in confusion and disturbed the world. He returned from chaos.
+
+
+Chunk 2: 
+original: 
+故每有征战，鲜不挫伤，官民并竭，上下穷虚。
+臣在关西，窃听风声，未闻国家有所先后，而威福之来，咸归权幸。
+陛下体兼乾坤，聪哲纯茂。
+摄政之初，拔用忠贞，其余维纲，多所改正。远近翕然，望见太平。
+而地震之后，雾气白浊，日月不光，旱魃为虐，大贼从横，流血丹野，庶品不安，谴诫累至，殆以奸臣权重之所致也。
+其常侍尤无状者，亟便黜遣，披埽凶党，收入财贿，以塞痛怨，以答天诫。
+今大将军梁冀、河南尹不疑，处周、邵之任，为社稷之镇，加与王室世为姻族，今日立号虽尊可也，实宜增修谦节，辅以儒术，省去游娱不急之务，割减庐第无益之饰。
+夫君者舟也，人者水也。群臣乖舟者也，将军兄弟操楫者也。
+若能平志毕力，以度元元，所谓福也。如其怠，将沦波涛。可不慎乎！
+translation: 
 Every time there is an expedition, there are always failures and setbacks. Officials and people are exhausted, and everything is empty.
 When I was in Kansai, I heard the news that the country had not taken any measures in this regard, and that the powerful and sycophant were dominating and doing whatever they wanted.
 The emperor is great, wise and pure.
 In the early days of the regency, Zhongliang was selected and appointed, and various political measures were made. Many corrections were made. Regardless of whether they were far or near, they quickly obeyed orders, and we can wait and see how the world will be peaceful.
 But after the earthquake, the fog was white and turbid, the sun and moon were dim, droughts and tyrants were causing disasters, thieves were rampant everywhere, blood was shed, and the people and animals were uneasy. God condemned and warned one after another, probably because the treacherous ministers were too powerful.
+Those particularly bad regular servants should be dismissed and deported as soon as possible, the bad gangsters should be eliminated, and their property should be confiscated to block the source of hatred and resentment and repay God for his warning.
+Now the generals Liang Ji and Henan Yin Bujie hold the important responsibilities of Zhou Gong and Shao Gong, and are the important towns of the country. In addition, they have been married to the royal family for generations. Although it is okay to have a more noble title now, they should really be modest and frugal, pay attention to Confucian governance, eliminate leisurely affairs, and cut off useless decorations in the house.
+For example, the monarch is the boat, the people are the water, the officials and ministers are the people riding the boat, and the generals and brothers are the oars and boat operators.
+If you can work together with peace of mind to save the people of Yuanyuan, this is a blessing; if you are lazy and slack off, you will be lost in the waves. Isn't it worth being cautious?
 
 
-Chunk 2: 
+Chunk 3: 
 original: 
-其常侍尤无状者，亟便黜遣，披埽凶党，收入财贿，以塞痛怨，以答天诫。
-今大将军梁冀、河南尹不疑，处周、邵之任，为社稷之镇，加与王室世为姻族，今日立号虽尊可也，实宜增修谦节，辅以儒术，省去游娱不急之务，割减庐第无益之饰。
-夫君者舟也，人者水也。群臣乖舟者也，将军兄弟操楫者也。
-若能平志毕力，以度元元，所谓福也。如其怠，将沦波涛。可不慎乎！
 夫德不称禄，犹凿墉之趾，以益其高。
 岂量力审功安固之道哉？
 凡诸宿猾、酒徒、戏客，皆耳纳邪声，口出谄言，甘心逸游，唱造不义。
@@ -88,11 +97,11 @@ original:
 又在位素餐，尚书怠职，有司依违，莫肯纠察，故使陛下专受谄谀之言，不闻户牖之外。
 臣诚知阿谀有福，深言近祸，岂敢隐心以避诛责乎！
 臣生长边远，希涉紫庭，恢慑失守，言不尽心。
+梁冀忿其刺己，以规为下第，拜郎中。
+托疾免归，州郡承冀旨，几陷死者再三。
+遂以《诗》、《易》教授，门徒三百余人，积十四年。
+后梁冀被诛，旬月之间，礼命五至，皆不就。
 translation: 
-Those particularly bad regular servants should be dismissed and deported as soon as possible, the bad gangsters should be eliminated, and their property should be confiscated to block the source of hatred and resentment and repay God for his warning.
-Now the generals Liang Ji and Henan Yin Bujie hold the important responsibilities of Zhou Gong and Shao Gong, and are the important towns of the country. In addition, they have been married to the royal family for generations. Although it is okay to have a more noble title now, they should really be modest and frugal, pay attention to Confucian governance, eliminate leisurely affairs, and cut off useless decorations in the house.
-For example, the monarch is the boat, the people are the water, the officials and ministers are the people riding the boat, and the generals and brothers are the oars and boat operators.
-If you can work together with peace of mind to save the people of Yuanyuan, this is a blessing; if you are lazy and slack off, you will be lost in the waves. Isn't it worth being cautious?
 A person's character is not commensurate with his position, which is like chipping away at the base of a wall to make it taller.
 Is it the method of measuring one's ability, reviewing one's merits, and ensuring one's strength?
 All those treacherous, drunkards, and entertainers listen to evil voices, speak flattering words, enjoy themselves, and advocate injustice.
@@ -101,14 +110,14 @@ This made Liang Ji and others deeply consider the benefits of gaining wise men a
 In addition, the corpse was sitting on a plain diet, not doing anything, the minister was neglecting his duties, and the officials were unwilling to do anything, and they did not pick up the matter. Therefore, the emperor listened to some flattering words, and could not even hear what was going on outside the window.
 I really know that flattery will bring benefits and telling the truth will cause trouble, but do I dare to ignore my conscience and avoid being punished?
 I grew up in a remote place and seldom came to the capital. I was so frightened that I did not speak out everything that was in my heart.
+Liang Ji hated Huangfu Gui for mocking him, so he took Huangfu Gui as his subordinate and appointed him as a doctor.
+Huangfu Gui excused himself from official duties and returned home due to illness. The prefectures and counties followed Liang Ji's will and almost framed him to death several times.
+Huangfu taught more than 300 students using "Poetry" and "Yi" for a total of fourteen years.
+Later, Liang Ji was killed. Within a month, the court summoned him five times with courtesy, but he failed.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
-梁冀忿其刺己，以规为下第，拜郎中。
-托疾免归，州郡承冀旨，几陷死者再三。
-遂以《诗》、《易》教授，门徒三百余人，积十四年。
-后梁冀被诛，旬月之间，礼命五至，皆不就。
 时，太山贼叔孙无忌侵乱郡县，中郎将宗资讨之未服。
 公车特征规，拜太山太守。
 规到官，广设方略，寇贼悉平。
@@ -118,11 +127,8 @@ original:
 今猾贼就灭，太山略平，复闻群羌并皆反逆。
 臣生长邠岐，年五十有九，昔为郡吏，再更叛羌，豫筹其事，有误中之言。
 臣素有固疾，恐犬马齿穷，不报大恩，愿乞冗官，备单车一介之使，劳来三辅，宣国威泽，以所习地形兵势，佐助诸军。
+臣穷居孤危之中，坐观郡将，已数十年矣。
 translation: 
-Liang Ji hated Huangfu Gui for mocking him, so he took Huangfu Gui as his subordinate and appointed him as a doctor.
-Huangfu Gui excused himself from official duties and returned home due to illness. The prefectures and counties followed Liang Ji's will and almost framed him to death several times.
-Huangfu taught more than 300 students using "Poetry" and "Yi" for a total of fourteen years.
-Later, Liang Ji was killed. Within a month, the court summoned him five times with courtesy, but he failed.
 At this time, the Taishan bandit uncle Sun Wuji invaded the counties, and Zhonglang conquered Zongzi without success.
 The character of the bus was called Huangfu Gui, who was appointed as the prefect of Taishan.
 Huangfu Gui took office and launched various conquest strategies, and all the bandits were pacified.
@@ -132,11 +138,11 @@ Huangfu Gui was usually familiar with Qiang affairs and was determined to work h
 Now that the cunning Qiang thieves have been exterminated, and most of the Taishan bandits have been put down, it is also heard that the Qiang groups are revolting.
 I am Changqi, now fifty-nine years old. I used to be a county official. After several Qiang rebellions, I planned in advance and often said the right things.
 I have a stubborn illness and am afraid of dogs and horses. Once I die, I will not be able to repay the emperor's great kindness. Please allow me to serve as an official and prepare a bicycle to comfort the three assistants, promote the country's prestige and grace, and use the familiar terrain and military forces to help the armies.
+I have been living in poverty, isolation and danger, watching the commander-in-chief for decades.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
-臣穷居孤危之中，坐观郡将，已数十年矣。
 自鸟鼠至于东岱，其病一也。力求猛敌，不如清平；勤明吴、孙，未若奉法。
 前变未远，臣诚戚之。
 是以越职，尽其区区。
@@ -146,16 +152,7 @@ original:
 明年，规因发其骑共讨陇右，而道路隔绝，军中大疫，死者十三四。
 规亲入庵庐，巡视将士，三军感悦。
 东羌遂遣使乞降，凉州复通。
-先是，安定太守孙受取狼籍，属国都尉李翕、督军御史张禀多杀降羌，凉州剌史郭闳、汉阳大守越熹并老弱不堪任职，而皆倚恃权贵，不遵法度。
-规到州界，悉条奏其罪，或免或诛。
-羌人闻之，翕然反善。沈氐大豪滇昌、饥恬等十余万口，复诣规降。
-规出身数年，持节为将，拥众立功，还督乡里，既无他私惠，而多所举奏，又恶绝宦官，不与交通，于是中外并怨，遂共诬规货赂群羌，令其文降。
-天子玺书诮让相属。
-规惧不免，上疏自讼曰：四年之秋，戎丑蠢戾，爰自西州，侵及泾阳，旧都惧骇，朝廷西顾。
-明诏不以臣愚驽，急使军就道。
-幸蒙威灵，遂振国命，羌戎诸种，大小稽首，辄移书营郡，以访诛纳，所省之费，一亿以上。
 translation: 
-I have been living in poverty, isolation and danger, watching the commander-in-chief for decades.
 From Niao Mo to Dong Dai, it was because the governor did not appease the Qiang and led to rebellion. The cause of the disaster was the same. If you want brave generals, it is better to have a peaceful politics of the Qing Dynasty and to study the military techniques of Wu Qi and Sun Wu than to have a county guard follow the law so that they will not rebel.
 The memories of the Qiang rebellion in the past are still fresh in my mind, and I am really worried about this.
 Therefore, I went beyond my duties and submitted a letter to fulfill my only patriotic intention.
@@ -165,6 +162,19 @@ There were more than 100,000 Qiang people who envied Huangfu Gui's prestige and 
 The next year, Huangfu Gui took the opportunity to mobilize his cavalry to jointly attack Longyou. However, the roads were blocked and an epidemic broke out in the army. Three or four out of ten people died of the disease.
 Huangfu Gui personally entered the nunnery to express condolences to the soldiers. The three armies were grateful and happy.
 Because the Eastern Qiang sent envoys to beg for surrender, Liangzhou was no longer blocked.
+
+
+Chunk 6: 
+original: 
+先是，安定太守孙受取狼籍，属国都尉李翕、督军御史张禀多杀降羌，凉州剌史郭闳、汉阳大守越熹并老弱不堪任职，而皆倚恃权贵，不遵法度。
+规到州界，悉条奏其罪，或免或诛。
+羌人闻之，翕然反善。沈氐大豪滇昌、饥恬等十余万口，复诣规降。
+规出身数年，持节为将，拥众立功，还督乡里，既无他私惠，而多所举奏，又恶绝宦官，不与交通，于是中外并怨，遂共诬规货赂群羌，令其文降。
+天子玺书诮让相属。
+规惧不免，上疏自讼曰：四年之秋，戎丑蠢戾，爰自西州，侵及泾阳，旧都惧骇，朝廷西顾。
+明诏不以臣愚驽，急使军就道。
+幸蒙威灵，遂振国命，羌戎诸种，大小稽首，辄移书营郡，以访诛纳，所省之费，一亿以上。
+translation: 
 At that time, Sun Gen, the governor of Anding, was very serious about bribery and corruption. Li Xi, the captain of the country, and Zhang Xun, the governor's censor, killed and surrendered the Qiang. Guo Hong, the governor of Liangzhou, and Zhao Xi, the governor of Hanyang, were both old and weak and could not hold their posts. However, they relied on powerful relatives and did not abide by the laws of the country.
 Huangfu Gui arrived at the state border and reported their crimes one by one. Some were removed from their official positions and some were sentenced to death.
 After hearing this, the Qiang people quickly surrendered. More than 100,000 people including Dianchang and Xongtian, the great tycoons of the Shen family, surrendered to Huangfu Gui.
@@ -175,7 +185,7 @@ The imperial edict of the Ming Dynasty did not consider me a fool and ordered me
 Thanks to the emperor's power, the country's fortunes were greatly boosted. Qiang and Rong, large and small, kowtowed and submitted. I immediately sent a letter to the military camp and the county guard to inquire how many they had killed and how many they had surrendered. This saved the cost, which was more than 100 million.
 
 
-Chunk 5: 
+Chunk 7: 
 original: 
 以为忠臣之义，不敢告劳，故耻以片言自及微效。
 然比方先事，庶免罪悔。
@@ -204,7 +214,7 @@ Now that I have returned to the homeland, I have prosecuted and impeached the co
 Although I am guilty, no one knows about my integrity, and I am about to die. The shame and pain are too deep.
 
 
-Chunk 6: 
+Chunk 8: 
 original: 
 传称 鹿死不择音 ，谨冒味略上。
 其年冬，征还拜议郎。论功当封。
@@ -218,16 +228,6 @@ original:
 伏见中郎将张奂，才略兼优，宜正元帅，以从众望。
 若犹谓愚臣宜充军事者，愿乞冗官，以为奂副。
 朝廷从之，以奂代为度辽将军，规为使匈奴中郎将。及奂迁大司农，规复代为度辽将军。
-规为人多意算，自以连在大位，欲退身避第，数上病，不见听。
-会友人上郡太守王旻丧还，规缟素越界，到下亭迎之。
-因令客密告并州刺史胡芳，言规擅远军营，公违禁宪，当急举奏。
-芳曰： 威明欲避第仕涂，故激发我耳。
-吾当为朝廷爱才，何能申此子计邪！
-遂无所问。
-及党事大起，天下名贤多见染逮，规虽为名将，素誉不高。
-自以西州豪桀，耻不得豫，乃先自上言： 臣前荐故大司农张奂，是附党也。
-又臣昔论输左校时，太学生张凤等上书讼臣，是为党人所附也。
-朝廷知而不问，时人以为规贤。
 translation: 
 "The Biography" says that "a deer will not choose his voice even if it dies". I don't care about it anymore, so I will ignore it lightly.
 In the winter of this year, he was called back to the imperial court as Yilang. According to his merits, he should be knighted.
@@ -241,6 +241,23 @@ Said: I heard that people have unchanging customs, that politics is regulated an
 Zhang Huan, the commander-in-chief, is very talented and strategic. He should be appointed as the marshal in order to meet everyone's expectations.
 If I can still serve in the military, I would like to be given a casual official position as Zhang Huan's assistant.
 The imperial court approved his request, and Zhang Huan was appointed as the general to conquer the Liao Dynasty, and Huangfu Gui was appointed as the envoy to the Xiongnu Zhonglang General. Later, Zhang Huan was promoted to the chief minister of agriculture, and Huangfu Gui was appointed as the general to conquer the Liao Dynasty again.
+
+
+Chunk 9: 
+original: 
+规为人多意算，自以连在大位，欲退身避第，数上病，不见听。
+会友人上郡太守王旻丧还，规缟素越界，到下亭迎之。
+因令客密告并州刺史胡芳，言规擅远军营，公违禁宪，当急举奏。
+芳曰： 威明欲避第仕涂，故激发我耳。
+吾当为朝廷爱才，何能申此子计邪！
+遂无所问。
+及党事大起，天下名贤多见染逮，规虽为名将，素誉不高。
+自以西州豪桀，耻不得豫，乃先自上言： 臣前荐故大司农张奂，是附党也。
+又臣昔论输左校时，太学生张凤等上书讼臣，是为党人所附也。
+朝廷知而不问，时人以为规贤。
+在事数岁，北边威服，永康元年，征为尚书。其夏日食，诏公卿举贤良方正，下问得失。
+规对曰：天之于王者，如君之于臣，父之于子也。诫以灾妖，使从福祥。
+translation: 
 Huangfu Gui was very scheming. He thought that he was still in the high position, and wanted to retire quickly and stop serving as an official. He wrote many times to complain about his illness, but no one listened.
 When the coffin of his friend Wang, the governor of Shangjun, passed away and returned to his hometown, Huangfu Gui crossed the border in white plain clothes and went to the lower pavilion to welcome the funeral.
 Yin Lingke secretly told Hu Fang, the governor of Bingzhou, that Huangfu Gui stayed away from the military camp without permission and blatantly violated the ban, so he should report it immediately.
@@ -251,12 +268,12 @@ Later, party affairs broke out, and many celebrities and sages in the world were
 He considered himself a hero of Xizhou, and thought it was shameful that he was not involved in party affairs, so he wrote to him first and said: I used to recommend Zhang Huan, the great minister of agriculture, but this was a sign of being a party member.
 Also, when I was undergoing reform through labor at the Left School, Taipei student Zhang Feng and others wrote a letter to appeal on my behalf. This was a party member trying to win over me, and I should be held accountable.
 The imperial court knew this but did not hold anyone accountable. People at that time thought Huangfu Gui was a wise man.
+During the past few years, nothing happened on the northern border. In the first year of Yongkang, he was recruited as a minister. In the summer of that year, there was a solar eclipse. The emperor ordered the ministers to recommend virtuous and upright people and ask about political gains and losses.
+Huangfu Gui replied: God treats a king just as a king treats his ministers, and a father treats his son. He warns him with disasters and monsters, so that he can achieve happiness and good fortune.
 
 
-Chunk 7: 
+Chunk 10: 
 original: 
-在事数岁，北边威服，永康元年，征为尚书。其夏日食，诏公卿举贤良方正，下问得失。
-规对曰：天之于王者，如君之于臣，父之于子也。诫以灾妖，使从福祥。
 陛下八年之中，三断大狱，一除内嬖，再诛外臣。
 而灾异犹见，人情未安者，殆贤愚进退，威刑所加，有非其理也。
 前太尉陈蕃、刘矩，忠谋高世，废在里巷；刘祜、冯绲、赵典、尹勋，正直多怨，流放家门；李膺、王暢、孔翊，洁身守礼，终无宰相之阶。
@@ -268,13 +285,7 @@ original:
 再转为护羌校尉。
 熹平三年，以疾召还，未至，卒于穀城，年七十一。
 所著赋、铭、碑、赞、祷文、吊、章表、教令、书、檄、笺记，凡二十七篇。
-论曰：孔子称 其言之不怍，则其为之也难 。
-察皇甫规之言，其心不怍哉！
-夫其审己则干禄，见贤则委位，故干禄不为贪，而委位不求让；称己不疑伐，而让人无惧情。
-故能功成于戎狄，身全于邦家也。
 translation: 
-During the past few years, nothing happened on the northern border. In the first year of Yongkang, he was recruited as a minister. In the summer of that year, there was a solar eclipse. The emperor ordered the ministers to recommend virtuous and upright people and ask about political gains and losses.
-Huangfu Gui replied: God treats a king just as a king treats his ministers, and a father treats his son. He warns him with disasters and monsters, so that he can achieve happiness and good fortune.
 During the eight years of the emperor's reign, he cleared prisons three times, eliminated his internal concubines once, and then executed his foreign ministers.
 However, there are still disasters and uneasy relationships, probably due to the appointment of wise and foolish people and the implementation of criminal laws, which are also unreasonable.
 Former Taiwei Chen Fan and Liu Ju were loyal and outstanding, but were discarded; Liu, Feng Nui, Zhao Dian, and Yin Xun were upright and resentful, so they were exiled; Li Ying, Wang Chang, and Kong Yi were honest and law-abiding, and were never appointed as prime ministers.
@@ -286,14 +297,14 @@ He transferred Huangfu to serve as the prefect of Hongnong, and granted him the 
 He was then transferred to the rank of Colonel Protecting Qiang.
 In the third year of Xiping's reign, he was recalled to the court due to illness, but he did not arrive and died in Yuncheng at the age of seventy-one.
 He wrote a total of twenty-seven articles including poems, inscriptions, tablets, praises, prayers, condolences, chapters, orders, letters, epistles, and notes.
-Historian's comment: Confucius said: If you speak well, you will not feel ashamed, but doing it is not easy.
-After examining what Huangfu Gui said, he would not be ashamed in his heart!
-Seeking an official position based on one's own talents, and giving the position to others when he sees someone smarter than himself; therefore, his seeking an official position is not considered greedy, and giving the position to others is not asking for concessions; he does not doubt his own talents, and does not brag, so that people have no fear.
-Therefore, you can achieve success in the army and Di, and achieve good things for your family and country.
 
 
-Chunk 8: 
+Chunk 11: 
 original: 
+论曰：孔子称 其言之不怍，则其为之也难 。
+察皇甫规之言，其心不怍哉！
+夫其审己则干禄，见贤则委位，故干禄不为贪，而委位不求让；称己不疑伐，而让人无惧情。
+故能功成于戎狄，身全于邦家也。
 张奂字然明，敦煌渊泉人也。
 父忄享，为汉阳太守。
 奂少游三辅，师事太尉朱宠，学《欧阳尚书》。
@@ -301,14 +312,11 @@ original:
 后辟大将军梁冀府，乃上书桓帝，奏其《章句》，诏下东观，以疾去官，复举贤良，对策第一，擢拜议郎。
 永寿元年，迁安定属国都尉。
 初到职，而南匈奴左薁鞬台耆、且渠伯德等七千余人寇美稷，东羌复举种应之，而奂壁唯有二百许人，闻即勒兵而出。
-军吏以为力不敌，叩头争止之。奂不听，遂进屯长城，收集兵士，遣将王卫招诱东羌，因据龟兹，使南匈奴不得交通东羌。
-诸豪遂相率与奂和亲，共击薁鞬等，连战破之。
-伯德惶恐，将其众降，郡界以宁。
-羌豪帅感奂恩德，上马二十匹，先零酋长又遗金八枚，奂并受之，而召主簿于诸羌前，以酒酹地曰： 使马如羊，不以入厩；使金如粟，不以入怀。
-悉以金马还之。
-羌性贪而贵吏清，前有八都尉率好财货，为所患苦，及奂正身洁己，威化大行。
-迁使匈奴中郎将。
 translation: 
+Historian's comment: Confucius said: If you speak well, you will not feel ashamed, but doing it is not easy.
+After examining what Huangfu Gui said, he would not be ashamed in his heart!
+Seeking an official position based on one's own talents, and giving the position to others when he sees someone smarter than himself; therefore, his seeking an official position is not considered greedy, and giving the position to others is not asking for concessions; he does not doubt his own talents, and does not brag, so that people have no fear.
+Therefore, you can achieve success in the army and Di, and achieve good things for your family and country.
 ◆The biography of Zhang Huan, named Ranming, was from Yuanquan County, Dunhuang County.
 His father, Zhang, was the governor of Hanyang.
 When Zhang Huan was young, he traveled to study at Sanfu, where he studied "Ouyang Shangshu" with Taiwei Zhu Chong as his teacher.
@@ -316,6 +324,22 @@ At first, "Mou's Chapters" contained many redundant words and phrases, with more
 Later, the general Liang Jifu was recruited, so he wrote to Emperor Huan and presented his "Zhangju" and ordered him to serve in Dongguan. He was dismissed from the official position due to illness, and was recommended as a virtuous person. When the emperor asked for advice, he answered first, and was promoted to Yilang.
 In the first year of Yongshou, he was transferred to the capital of Anding.
 Just after taking office, more than 7,000 people including Zuo Ge, Qiequ Bode and others from the Southern Xiongnu invaded Meiji. The Eastern Qiang responded to them all again. There were only 200 people in Zhang Huan's position. When he heard the alarm, he led his troops out.
+
+
+Chunk 12: 
+original: 
+军吏以为力不敌，叩头争止之。奂不听，遂进屯长城，收集兵士，遣将王卫招诱东羌，因据龟兹，使南匈奴不得交通东羌。
+诸豪遂相率与奂和亲，共击薁鞬等，连战破之。
+伯德惶恐，将其众降，郡界以宁。
+羌豪帅感奂恩德，上马二十匹，先零酋长又遗金八枚，奂并受之，而召主簿于诸羌前，以酒酹地曰： 使马如羊，不以入厩；使金如粟，不以入怀。
+悉以金马还之。
+羌性贪而贵吏清，前有八都尉率好财货，为所患苦，及奂正身洁己，威化大行。
+迁使匈奴中郎将。
+时，休屠各及朔方乌桓并同反叛，烧度辽将军门，引屯赤坑，烟火相望。
+兵众大恐，各欲亡去。
+奂安坐帷中，与弟子讲诵自若，军士稍安。
+乃潜诱乌桓阴与和通，遂使斩屠各渠帅，袭破其众。诸胡悉降。
+translation: 
 The military officials believed that they were not as powerful as the enemy and kowtowed to stop them. Zhang Huan refused to listen. They stationed at the Great Wall, gathered soldiers, and sent general Wang Wei to lure the Eastern Qiang. They occupied Qiuci so that the Southern Huns could not communicate with the Eastern Qiang.
 The leaders of various ministries made peace with Zhang Huan, and together they attacked the Gejian and other ministries. They defeated the Gejian and other ministries in several consecutive battles.
 Byrd was frightened and led his men to surrender, and the county was at peace.
@@ -323,14 +347,14 @@ The Qiang marshal was grateful for Zhang Huan's kindness and presented him with 
 All the golden horses were returned to the marshal and chief.
 The Qiang people are greedy in nature, but they respect honest officials the most. In the past, the eight captains were all fond of wealth and suffered from them.
 Promoted to the Xiongnu Zhonglang General.
+At this time, Xiutuge and Wuhuan of Shuofang rebelled at the same time. They burned the general gate of Duliao and stationed in Chinankang, facing each other with fireworks.
+The army was frightened and wanted to escape.
+Zhang Huan sat safely in the curtain, talking and reciting to his disciples freely, and his subordinates finally settled down a little.
+So he secretly lured Wuhuan to make peace with him, ordered the generals to behead Xiutu, and attacked them suddenly, defeating them, and all the Husbands surrendered.
 
 
-Chunk 9: 
+Chunk 13: 
 original: 
-时，休屠各及朔方乌桓并同反叛，烧度辽将军门，引屯赤坑，烟火相望。
-兵众大恐，各欲亡去。
-奂安坐帷中，与弟子讲诵自若，军士稍安。
-乃潜诱乌桓阴与和通，遂使斩屠各渠帅，袭破其众。诸胡悉降。
 延熹元年，鲜卑寇边，奂率南单于击之，斩首数百级。
 明年，梁冀被诛，奂以故吏免官禁锢。
 奂与皇甫规友善，奂既被锢，凡诸交旧莫敢为言，唯规荐举前后七上。
@@ -342,11 +366,9 @@ original:
 数载间，幽、并清静。
 九年春，征拜大司农。
 鲜卑闻奂去，其夏，遂招结南匈奴、乌桓数道入塞，或五六千骑，或三四千骑，寇掠缘边九郡，杀略百姓。
+秋，鲜卑复率八九千骑入塞，诱引东羌与共盟诅。
+于是上郡沈氐、安定先零诸种共寇武威、张掖，缘边大被其毒。
 translation: 
-At this time, Xiutuge and Wuhuan of Shuofang rebelled at the same time. They burned the general gate of Duliao and stationed in Chinankang, facing each other with fireworks.
-The army was frightened and wanted to escape.
-Zhang Huan sat safely in the curtain, talking and reciting to his disciples freely, and his subordinates finally settled down a little.
-So he secretly lured Wuhuan to make peace with him, ordered the generals to behead Xiutu, and attacked them suddenly, defeating them, and all the Husbands surrendered.
 In the first year of Yanxi, Xianbei invaded the border. Zhang Huan led Nan Shanyu to attack them and beheaded hundreds of them.
 The next year, Liang Ji was executed. Zhang Huan was dismissed from office because he was a subordinate of Liang Ji, and was banned from serving as an official.
 Zhang Huan and Huangfu Gui were good friends, but Zhang Huan had been imprisoned. None of his old friends and relatives dared to speak for Zhang Huan. Only Huangfu recommended Zhang Huan seven times.
@@ -358,12 +380,12 @@ He was recommended by You Yi as the general of Liao Dynasty.
 In the past few years, Youzhou and Bingzhou were quiet and peaceful.
 In the spring of the ninth year, he was recruited and appointed as the chief agricultural officer.
 When Xianbei heard about Zhang Huan's mobilization, that summer, he summoned the Southern Xiongnu and Wuhuan to invade the fortress in several groups. Some had five or six thousand cavalry, and some had three or four thousand cavalry. They invaded and plundered the nine surrounding counties, killing and plundering the people.
+In autumn, Xianbei led eight or nine thousand cavalry to invade the fortress and lured the Dong Qiang to make an alliance with them.
+So the Shen family of Shangjun, Anding Xianling and others invaded Wuwei and Zhangye together, causing great harm to the border area.
 
 
-Chunk 10: 
+Chunk 14: 
 original: 
-秋，鲜卑复率八九千骑入塞，诱引东羌与共盟诅。
-于是上郡沈氐、安定先零诸种共寇武威、张掖，缘边大被其毒。
 朝廷以为忧，复拜奂为护匈奴中郎将，以九卿秩督幽、并、凉三州及度辽、乌桓二营，兼察刺史、二千石能否，赏赐甚厚。
 匈奴、乌桓闻奂至，因相率还降，凡二十万口。
 奂但诛其首恶，余皆慰纳之。
@@ -378,12 +400,7 @@ original:
 时窦太后临朝，大将军窦武与大傅陈蕃谋诛宦官，事泄，中常侍遭节等于中作乱，以奂新征，不知本谋，矫制使奂与少府周靖率五营士围武。武自杀，蕃因见害。
 奂迁少府，又拜大司农，以功封侯。
 奂深病为节所卖，上书固让，封还印绶，卒不肯当。
-明年夏，青蛇见于御坐轩前，又大风雨雹，霹雳拔树，诏使百僚各言灾应。
-奂上疏曰：臣闻风为号令，动物通气。木生于火，相须乃明。
-蛇能屈申，配龙腾蛰。
 translation: 
-In autumn, Xianbei led eight or nine thousand cavalry to invade the fortress and lured the Dong Qiang to make an alliance with them.
-So the Shen family of Shangjun, Anding Xianling and others invaded Wuwei and Zhangye together, causing great harm to the border area.
 The court felt worried. Zhang Huan was then appointed as the Zhonglang General who protected the Xiongnu. According to the position of Jiuqing, he would oversee the three states of You, Bing, and Liang, as well as the two camps of Liao and Wuhuan. He also inspected the governor and inspected the competent and incompetent officials with two thousand stones. He was rewarded with many rewards.
 When the Xiongnu and Wuhuan heard that Zhang Huan was coming, they led the Prime Minister back, and a total of 200,000 people surrendered.
 Zhang Huan only killed the most guilty ones, and the rest of the people comforted and accepted them.
@@ -398,13 +415,13 @@ In the first year of Jianning, he led his army back to the dynasty.
 At this time, Empress Dowager Dou came to power. General Dou Wu and Tai Fu Chen Fan plotted to kill the eunuchs. The matter was leaked out, and Zhongchang Shi Cao Jie and others caused trouble. Because Zhang Huanxin was recruited, they did not know about the plan. Cao Jie and others pretended to entrust Zhang Huan to the imperial court, and Shaofu Zhou Jing led five battalions to surround Dou Wu. Dou Wu committed suicide, and Chen Fan was also killed.
 Zhang Huan was promoted to the post of Shaofu and then to the post of Chief Agriculture Officer, and was granted the title of Marquis for his meritorious service.
 Zhang Huan was devastated to be betrayed by Cao Jie, so he resolutely resigned in a letter and returned the seal and ribbon, but finally refused to accept it.
-In the summer of the second year, a green snake was found in front of the imperial pavilion. There was also strong wind, rain, hail, and thunder uprooting trees, and the officials were ordered to report the unusual disaster.
-Zhang Huan Shangshu said: I heard that wind is the command, animals are ventilated, wood is born from fire, and wind and fire interact to produce light.
-The snake can bend and stretch, matching the dragon's soaring sting.
 
 
-Chunk 11: 
+Chunk 15: 
 original: 
+明年夏，青蛇见于御坐轩前，又大风雨雹，霹雳拔树，诏使百僚各言灾应。
+奂上疏曰：臣闻风为号令，动物通气。木生于火，相须乃明。
+蛇能屈申，配龙腾蛰。
 顺至为休征，逆来为殃咎。
 阴气专用，则凝精为雹。
 故大将军窦武、太傅陈蕃，或志宁社稷，或方直不回，前以谗胜，并伏诛戮，海内默默，人怀震愤。
@@ -415,6 +432,24 @@ original:
 又皇太后虽居南宫，而恩礼不接，朝臣莫言，远近失望。
 宜思大义顾复之报。
 天子深纳奂言，以问诸黄门常侍，左右皆恶之，帝不得自从。
+translation: 
+In the summer of the second year, a green snake was found in front of the imperial pavilion. There was also strong wind, rain, hail, and thunder uprooting trees, and the officials were ordered to report the unusual disaster.
+Zhang Huan Shangshu said: I heard that wind is the command, animals are ventilated, wood is born from fire, and wind and fire interact to produce light.
+The snake can bend and stretch, matching the dragon's soaring sting.
+It's a good sign if things go smoothly, but it's a disaster if things go wrong.
+If the Yin energy is used exclusively, the essence will be condensed into hail.
+The late General Dou Wu and Grand Tutor Chen Fan either aspired to a peaceful country or were upright and upright. They were all executed because of traitors and bad words. They were silent at home and did not dare to speak. People were shocked and angry.
+In the past, Duke Zhou was buried improperly, and God took action because of this.
+Now that Dou Wu and Chen Fan have been killed loyally and without Zhaoxue, the evil disaster is all because of this.
+They should be reburied as soon as possible and their families should be moved back to their place of origin.
+Those who have been imprisoned because of their relationship must be vindicated and all slanderous and untrue claims must be overturned.
+Moreover, although the Empress Dowager lived in the Nangong Palace, she did not accept her kindness. The ministers in the court did not dare to speak, and people near and far were greatly disappointed.
+I want to miss the kindness my parents gave me when I was born and take care of me, and I should repay it in some way.
+The emperor fully accepted Zhang Huan's words, so he asked the Huangmen's regular attendants, and they all disagreed. The emperor dare not make his own decision.
+
+
+Chunk 16: 
+original: 
 转奂太常，与尚书刘猛、刁韪、卫良同荐王暢、李膺可参三公之选，而曹节等弥疾其言，遂下诏切责之。
 奂等皆自囚廷尉，数日乃得出，并以三月俸赎罪。
 司隶校尉王寓，出于宦官，欲借宠公卿，公求荐举，百僚畏惮，莫不许诺，唯奂独拒之。
@@ -426,16 +461,6 @@ original:
 父母朽骨，孤魂相托，若蒙矜怜，壹惠咳唾，则泽流黄泉，施及冥寞，非奂生死所能报塞。
 夫无毛发之劳，而欲求人丘山之用，此淳于髡所以拍髀仰天而笑者也。
 translation: 
-It's a good sign if things go smoothly, but it's a disaster if things go wrong.
-If the Yin energy is used exclusively, the essence will be condensed into hail.
-The late General Dou Wu and Grand Tutor Chen Fan either aspired to a peaceful country or were upright and upright. They were all executed because of traitors and bad words. They were silent at home and did not dare to speak. People were shocked and angry.
-In the past, Duke Zhou was buried improperly, and God took action because of this.
-Now that Dou Wu and Chen Fan have been killed loyally and without Zhaoxue, the evil disaster is all because of this.
-They should be reburied as soon as possible and their families should be moved back to their place of origin.
-Those who have been imprisoned because of their relationship must be vindicated and all slanderous and untrue claims must be overturned.
-Moreover, although the Empress Dowager lived in the Nangong Palace, she did not accept her kindness. The ministers in the court did not dare to speak, and people near and far were greatly disappointed.
-I want to miss the kindness my parents gave me when I was born and take care of me, and I should repay it in some way.
-The emperor fully accepted Zhang Huan's words, so he asked the Huangmen's regular attendants, and they all disagreed. The emperor dare not make his own decision.
 It was too often that Zhang Huan, together with the ministers Liu Meng, Diao Wei, and Wei Liang, recommended Wang Chang and Li Ying to participate in the selection of the three princes. However, Cao Jie and others hated their recommendation and issued an edict to severely reprimand them.
 Zhang Huan and others went to Tingwei to be prisoners. It took several days to get out, and they used three months' salary to atone for their sins.
 Wang Yu, the captain of the Sili school, was a eunuch. He wanted to favor the eunuch and ask for his recommendation. All the officials were afraid of him and everyone agreed. Only Zhang Huan objected.
@@ -448,7 +473,7 @@ Although my parents' bones have decayed and their souls are alone, if you take p
 He was a hairless man, but wanted to be used by others. This was why Chunyu Kun patted his thighs and looked up to the sky, laughing.
 
 
-Chunk 12: 
+Chunk 17: 
 original: 
 诚知言必见讥，然犹未能无望。
 何者？朽骨无益于人，而文王葬之；死马无所复用，而燕昭宝之。
@@ -493,7 +518,7 @@ A person's wealth and poverty are destined by fate, and a person's life and deat
 But there is darkness under the ground, and there is never any dawn, but the coffin is wrapped in silk and nails are densely hammered on it. This is what I don't like.
 
 
-Chunk 13: 
+Chunk 18: 
 original: 
 幸有前窀，朝殒夕下，措尸灵床，幅巾而已。
 奢非晋文，俭非王孙，推情从意，庶无咎吝。
@@ -506,7 +531,6 @@ original:
 论曰：自鄛乡之封，中官世盛，暴恣数十年间，四海之内，莫不切齿愤盈，愿投兵于其族。
 陈蕃、窦武奋义草谋，征会天下，名士有识所共闻也，而张奂见欺竖子，扬戈以断忠烈。虽恨毒在心，辞爵谢咎。
 《诗》云： 啜其泣矣，何嗟及矣！
-段颎字纪明，武威姑臧人也。
 translation: 
 We have prepared caves before, which is good. If he died in the morning, he would bury it in the evening, put the body on the bier, and cover it with a scarf.
 If you are extravagant and don’t learn Jin literature, if you are frugal you don’t learn from the kings and grandsons, if you follow your destiny and love, you will hardly have any guilt.
@@ -519,11 +543,11 @@ Later, Zhang Meng was born, and he served as the prefect of Wuwei in Jian'an. He
 Historian comments: Since the eunuch Zheng Zhong was granted the title of Marquis of Chaoxiang, the eunuchs have wielded power for generations and caused harm for decades. There is no one in the four seas who does not hate him with gnashing of teeth and hopes to eliminate his species.
 Chen Fan and Dou Wu rose up to make plans and called on the world. This is known to all celebrities and knowledgeable people. However, Zhang Huan was deceived by the eunuchs and fought to kill loyal people. Although he held a grudge for the rest of his life, he declined rewards and apologized. "Poetry" says: Tears are streaming down his face!
 It’s too late to lament!
-◆The biography of Duan Jiong, whose courtesy name is Ji Ming, was from Guzang County, Wuwei County. His ancestors came from Duan Jiong, uncle of Zheng Gong.
 
 
-Chunk 14: 
+Chunk 19: 
 original: 
+段颎字纪明，武威姑臧人也。
 其先出郑共叔段，西域都护会宗之从曾孙也。
 颎少便习弓马，尚游侠，轻财贿，长乃折节好古学。
 初举孝廉，为宪陵园丞、阳陵令，所在有能政。
@@ -534,11 +558,8 @@ original:
 坐诈玺书伏重刑，以有功论司寇。
 刑竟，征拜议郎。
 时，太山、琅邪贼东郭窦、公孙举等聚众三万人，破坏郡县，遣兵讨之，连年不克。
-永寿二年，桓帝诏公卿选将有文武者，司徒尹颂荐颎，乃拜为中郎将。
-击窦、举等，大破斩之，获首万余级，余党降散。
-封颎为列侯，赐钱五十万，除一子为郎中。
-延熹二年，迁护羌校尉。
 translation: 
+◆The biography of Duan Jiong, whose courtesy name is Ji Ming, was from Guzang County, Wuwei County. His ancestors came from Duan Jiong, uncle of Zheng Gong.
 He is the great-grandson of the Western Region Protector Huizong.
 Duan Juan learned horse racing and archery when he was young. He liked knight-errants and took bribes lightly. When he grew up, he changed his youthful ambition and became interested in ancient learning.
 He was initially elected as Xiaolian and served as Xianlingyuan Cheng and Yangling Ling. He showed great talents in office.
@@ -549,14 +570,14 @@ Duan Qiao then sent out a large number of troops, and all the Xianbei invaders w
 Duan Jong, however, deserved severe punishment for falsely claiming to be the official seal official. Because of his meritorious service, he was punished as a bandit and sent to the border to defend against enemies.
 After serving his sentence, he was appointed as Yilang.
 At this time, Taishan, Langfu bandits Dongguo Dou, Gongsun Ju and others gathered 30,000 people and destroyed the counties. The imperial court sent troops to suppress the rebellion, which could not be quelled for several years.
-In the second year of Yongshou's reign, Emperor Huan ordered the ministers to elect those with all-round talents in both civil and military affairs as generals. Situ Yin Song recommended Duan Jiong, and Duan Jiong was awarded the title of Zhonglang General.
-He conquered Dongguo Dou, Gongsun Ju and others and won a great victory. He killed Dongguo Dou and Gongsun Ju and gained more than 10,000 leaders. Some of the remaining party members fled and some surrendered.
-He made Duanju a prince, rewarded him with 500,000 yuan, and appointed one of his sons as a doctor.
-In the second year of Yanxi's reign, he was promoted to the rank of Colonel Protecting Qiang.
 
 
-Chunk 15: 
+Chunk 20: 
 original: 
+永寿二年，桓帝诏公卿选将有文武者，司徒尹颂荐颎，乃拜为中郎将。
+击窦、举等，大破斩之，获首万余级，余党降散。
+封颎为列侯，赐钱五十万，除一子为郎中。
+延熹二年，迁护羌校尉。
 会烧当、烧何、当煎、勒姐等八种羌寇陇西、金城塞，颎将兵及湟中义从羌万二千骑出湟谷，击破之。
 追讨南度河，使军吏田晏、夏育募先登，悬索相引，复战于罗亭，大破之，斩其酋豪以下二千级，获生口万余人，虏皆奔走。
 明年春，余羌复与烧何大豪寇张掖，攻没钜鹿坞，杀属国吏民，又招同种千余落，并兵晨奔颎军。
@@ -574,12 +595,11 @@ original:
 朝廷知颎为郭闳所诬，诏问其状。
 颎但谢罪，不敢言枉，京师称为长者。
 起于徒中，复拜议郎，迁并州刺史。
-时，滇那等诸种羌五六千人寇武威、张掖、酒泉，烧人庐舍。
-六年，寇势转盛，凉州几亡。
-冬，复以颎为护羌校尉，乘驿之职。
-明年春，羌封、良多、滇那等酋豪三百五十五人率三千落诣颎降。
-当煎、勒姐种犹自屯结。
 translation: 
+In the second year of Yongshou's reign, Emperor Huan ordered the ministers to elect those with all-round talents in both civil and military affairs as generals. Situ Yin Song recommended Duan Jiong, and Duan Jiong was awarded the title of Zhonglang General.
+He conquered Dongguo Dou, Gongsun Ju and others and won a great victory. He killed Dongguo Dou and Gongsun Ju and gained more than 10,000 leaders. Some of the remaining party members fled and some surrendered.
+He made Duanju a prince, rewarded him with 500,000 yuan, and appointed one of his sons as a doctor.
+In the second year of Yanxi's reign, he was promoted to the rank of Colonel Protecting Qiang.
 When eight kinds of Qiang including Shaodang, Shaohe, Dangjian and Lejie invaded the borders of Longxi and Jincheng, Duan Jun led his troops and 12,000 Huangzhong uprising Qiang cavalry out of Huanggu and defeated them.
 Pursuing the remaining troops who fled south across the Yellow River, they sent military officials Tian Yan and Xia Yu to recruit warriors to ascend first and use ropes to pull them up. They then fought at Luoting and won a great victory. They killed 2,000 people under their leader and captured more than 10,000 people. The remaining captives fled.
 In the spring of the second year, the remaining Qiang captives and Marshal Shao He invaded Zhangye, captured Juluwu, and killed the officials and people of the country. They also summoned more than a thousand tribesmen of their own kind and concentrated their forces to attack Duan Jiong's troops at dawn.
@@ -597,15 +617,15 @@ The Qiang pirates became more rampant, captured camps, and colluded with each ot
 The imperial court knew that Duan Jiong had been framed by Guo Hong, and the emperor issued an edict to inquire about Duan Jiong's situation.
 Duan Jiong just apologized and did not dare to say that he had been wronged. The capital called Duan Jiong an elder.
 He was transferred from among the criminals, appointed as Yilang, and promoted to governor of Bingzhou.
-At that time, five or six thousand Qiang people from Dian and other tribes invaded Wuwei, Zhangye, and Jiuquan and burned people's houses.
-In six years, the enemy forces became stronger and Liangzhou almost fell.
-In the winter, Duan Ji was appointed as the captain of the Qiang Guard, and he rushed to his post by post.
-In the spring of the next year, 355 Qiang marshals including Fengshuang, Liangduo, and Dianna led 3,000 tribesmen and surrendered in front of Duan Jiao's army.
-Dangjian and Lejiezhong also gathered and stationed themselves.
 
 
-Chunk 16: 
+Chunk 21: 
 original: 
+时，滇那等诸种羌五六千人寇武威、张掖、酒泉，烧人庐舍。
+六年，寇势转盛，凉州几亡。
+冬，复以颎为护羌校尉，乘驿之职。
+明年春，羌封、良多、滇那等酋豪三百五十五人率三千落诣颎降。
+当煎、勒姐种犹自屯结。
 冬，颎将万余人击破之，斩其酋豪，首虏四千余人。
 八年春，颎复击勒姐种，斩首四百余级，降者二千余人。
 夏，进军击当煎种于湟中，颎兵败，被围三日，用隐士樊志张策，潜师夜出，鸣鼓还战，大破之，首虏数千人。
@@ -616,11 +636,12 @@ original:
 而东羌先零等，自覆没征西将军马贤后，朝廷不能讨，遂数寇扰三辅。
 其后度辽将军皇甫规、中郎将张奂招之连年，既降又叛。
 桓帝诏问颎曰： 先零东羌造恶反逆，而皇甫规、张奂各拥强众，不时辑定。
-欲颎移兵东讨，未识其宜，可参思术略。
-颎因上言曰： 臣伏见先零东羌虽数叛逆，而降于皇甫规者，已二万许落，善恶既分，余寇无几。
-今张奂踌躇久不进者，当虑外离内合，兵往必惊。
-且自冬践春，屯结不散，人畜疲羸，自亡之势，徒更招降，坐制强敌耳。
 translation: 
+At that time, five or six thousand Qiang people from Dian and other tribes invaded Wuwei, Zhangye, and Jiuquan and burned people's houses.
+In six years, the enemy forces became stronger and Liangzhou almost fell.
+In the winter, Duan Ji was appointed as the captain of the Qiang Guard, and he rushed to his post by post.
+In the spring of the next year, 355 Qiang marshals including Fengshuang, Liangduo, and Dianna led 3,000 tribesmen and surrendered in front of Duan Jiao's army.
+Dangjian and Lejiezhong also gathered and stationed themselves.
 In winter, Duan Juan defeated them with more than 10,000 people, beheaded their commander, and killed more than 4,000 prisoners.
 In the spring of the eighth year, Duan Juan attacked Lejiezhong again, beheading more than 400 people and surrendering more than 2,000 people.
 In the summer, they marched to attack Dang Jianzhong in Huangzhong. Duan Zhao's soldiers were defeated and were besieged for three days. He used the hermit Fan Zhi to devise a strategy and secretly sent out troops at night, beating drums to fight back. They defeated the rebel army and killed thousands of people.
@@ -631,41 +652,39 @@ In the first year of Yongkang, Dangjian Zhuzhong rebelled and gathered more than
 Since the Eastern Qiang Xianling and others defeated the general Ma Xian who conquered the West, the imperial court was unable to conquer and often harassed the three assistants.
 Later, the Liao generals Huangfu Gui and Zhonglang general Zhang Huan tried to surrender year after year, but they always surrendered and then rebelled.
 Emperor Huan issued an edict and asked Duan Qiang: "Xian Ling Dong Qiang rebelled against evil, but Huangfu Gui and Zhang Huan each had elite troops and could not quell them on time."
-I want you to lead an army to conquer the east, but I don't know what is appropriate. Can you come up with some strategies?
-Duan Jiong said: I saw that although the Xianling Dongqiang rebelled many times, about 20,000 tribesmen had surrendered to Huangfu Gui. Who is good and who is evil has been distinguished, and there are not many bandits left.
-Now Zhang Huan is delaying to advance, probably because he is afraid that the enemy will separate from the outside and unite with the inside. If he sends troops to go there, those who surrender will be frightened.
-Moreover, they have been gathering and stationed from winter to spring. The men and horses are tired and sick. This is a suicidal situation. As long as they recruit surrender quickly, they can subdue the powerful enemy without sending a single soldier.
 
 
-Chunk 17: 
+Chunk 22: 
 original: 
+欲颎移兵东讨，未识其宜，可参思术略。
+颎因上言曰： 臣伏见先零东羌虽数叛逆，而降于皇甫规者，已二万许落，善恶既分，余寇无几。
+今张奂踌躇久不进者，当虑外离内合，兵往必惊。
+且自冬践春，屯结不散，人畜疲羸，自亡之势，徒更招降，坐制强敌耳。
 臣以为狼子野心，难以恩纳，势穷虽服，兵去复动。
 唯当长子挟胁，白刃加颈耳。
 计东种所余三万余落，居近塞内，路无险折，非有燕、齐、秦、赵从横之势，而久乱并、凉，累侵三辅，西河、上郡，已各内徙，安定、北地，复至单危，自云中、五原，西至汉阳二千余里，匈奴，种羌，并擅其地，是为痈疽伏疾，留滞胁下，如不加诛，转就滋大。
 今若以骑五千，步万人，车三千两，三冬二夏，足以破定，无虑用费为钱五十四亿。
 如此，则可令群羌破尽，匈奴长服，内徙郡县，得反本土。
+translation: 
+I want you to lead an army to conquer the east, but I don't know what is appropriate. Can you come up with some strategies?
+Duan Jiong said: I saw that although the Xianling Dongqiang rebelled many times, about 20,000 tribesmen had surrendered to Huangfu Gui. Who is good and who is evil has been distinguished, and there are not many bandits left.
+Now Zhang Huan is delaying to advance, probably because he is afraid that the enemy will separate from the outside and unite with the inside. If he sends troops to go there, those who surrender will be frightened.
+Moreover, they have been gathering and stationed from winter to spring. The men and horses are tired and sick. This is a suicidal situation. As long as they recruit surrender quickly, they can subdue the powerful enemy without sending a single soldier.
+I think the ambition of a wolf is not easy to be met with kindness. When they are cornered, they may surrender, but once they withdraw their troops, they will become riotous again.
+The only way to scare them is to use a spear with a white blade on their necks!
+It is estimated that there are more than 30,000 tribes left in Dongzhong, which are close to the fortress. The roads are flat and there is no situation where Yan, Qi, Qin, and Zhao are in the same position. However, they have harassed Bingzhou and Liangzhou for a long time, and have repeatedly invaded Sanfu, Xihe, and Shangjun. This is like a hidden cancer that stays under the side of the body. If it is not eliminated, it will soon grow bigger.
+Now if we use 5,000 cavalry, 10,000 infantry, and 3,000 chariots, we can completely defeat them and pacify them in two or three years, and we don't have to worry about the cost of 5.4 billion.
+In this way, the Qiang group can be defeated and the Xiongnu can be subdued. Those who moved to Sene County can return to their homeland.
+
+
+Chunk 23: 
+original: 
 伏计永初中，诸羌反叛，十有四年，用二百四十亿；永和之末，复经七年，用八十余亿。
 费耗若此，犹不诛尽，余孽复起，于兹作害。今不暂疲人，则永宁无期。
 臣庶竭驽劣，伏待节度。
 帝许之，悉听如所上。
 建宁元年春，颎将兵万余人，赍十五日粮，从彭阳直指高平，与先零诸种战于逢义山。
 虏兵盛，颎众恐。
-translation: 
-I think the ambition of a wolf is not easy to be met with kindness. When they are cornered, they may surrender, but once they withdraw their troops, they will become riotous again.
-The only way to scare them is to use a spear with a white blade on their necks!
-It is estimated that there are more than 30,000 tribes left in Dongzhong, which are close to the fortress. The roads are flat and there is no situation where Yan, Qi, Qin, and Zhao are in the same position. However, they have harassed Bingzhou and Liangzhou for a long time, and have repeatedly invaded Sanfu, Xihe, and Shangjun. This is like a hidden cancer that stays under the side of the body. If it is not eliminated, it will soon grow bigger.
-Now if we use 5,000 cavalry, 10,000 infantry, and 3,000 chariots, we can completely defeat them and pacify them in two or three years, and we don't have to worry about the cost of 5.4 billion.
-In this way, the Qiang group can be defeated and the Xiongnu can be subdued. Those who moved to Sene County can return to their homeland.
-I think in the early years of Yonghe, the Qiang rebelled, spending 24 billion for four years; at the end of Yonghe, after another seven years, more than 8 billion were spent.
-After spending so much money and time, they still haven't killed them all. The remnants have reappeared and are causing harm to this day. If we don't temporarily tire the people, there will never be peace.
-I am willing to use all my dull talents and wait for the fate to be dispatched.
-The emperor praised him and fully listened to his words.
-In the spring of the first year of Jianning, Duan Juan led more than 10,000 troops and carried fifteen days' worth of food and grass from Pengyang to Gaoping, where he fought with Xianling and others at Fengyi Mountain.
-There were many captives, and Duan Jiong's troops became frightened.
-
-
-Chunk 18: 
-original: 
 颎乃令军中张镞利刃，长矛三重，挟以强弩，列轻骑为左右翼。激怒兵将曰： 今去家数千里，进则事成，走必尽死，努力共功名！
 因大呼，众皆应声腾赴，颎驰骑于傍，突而击之，虏众大溃，斩首八千余级，获牛马羊二十八万头。
 时，窦太后临朝，下诏曰： 先零东羌历载为患，颎前陈状，欲必埽灭。
@@ -673,12 +692,13 @@ original:
 曾未浃日，凶丑奔破，连尸积俘，掠获无算。
 洗雪百年之逋负，以慰忠将之亡魂。功用显著，朕甚嘉之。
 须东羌尽定，当并录功勤。
-今且赐颎钱二十万，以家一人为郎中。
-敕中藏府调金钱彩物，增助军费。
-拜颎破羌将军。
-夏，颎复追羌出桥门，至走马水上。
-寻闻虏在奢延泽，乃将轻兵兼行，一日一夜二百余里，晨及赋，击破之。余虏走向落川，复相屯结。
 translation: 
+I think in the early years of Yonghe, the Qiang rebelled, spending 24 billion for four years; at the end of Yonghe, after another seven years, more than 8 billion were spent.
+After spending so much money and time, they still haven't killed them all. The remnants have reappeared and are causing harm to this day. If we don't temporarily tire the people, there will never be peace.
+I am willing to use all my dull talents and wait for the fate to be dispatched.
+The emperor praised him and fully listened to his words.
+In the spring of the first year of Jianning, Duan Juan led more than 10,000 troops and carried fifteen days' worth of food and grass from Pengyang to Gaoping, where he fought with Xianling and others at Fengyi Mountain.
+There were many captives, and Duan Jiong's troops became frightened.
 Duan Jong ordered his troops to tighten their bowstrings, sharpen their swords and spears, use triple spears, carry strong crossbows, and deploy light cavalry on the left and right wings. He encouraged the generals and said: "Now that we are thousands of miles away from home, if we advance, our career will be successful; if we escape, we will die. Let's work together to gain fame!"
 So with a loud shout, the army jumped into battle. Duan Jun was galloping beside him and suddenly attacked. The captive army collapsed. More than 8,000 soldiers were beheaded and 280,000 cattle, horses and sheep were captured.
 At this time, Empress Dowager Dou came to power and issued an edict: "Xian Ling Dong Qiang has been causing harm for many years. Duan Qiang previously stated the situation and believed that it must be eradicated."
@@ -686,15 +706,15 @@ Duan Jiong walked in the frost and snow, marching quickly during the day and nig
 In less than ten days, the enemy invaders fled and dispersed. Their bodies were connected and many were captured alive. The number of captives cannot be counted.
 He has wiped away the hatred of defeat for a hundred years and comforted the soul of the loyal general. His contribution is remarkable, and I highly commend him.
 When Dong Qiang is completely pacified, his meritorious deeds should be remembered together.
-Now Duan is temporarily given 200,000 yuan and a member of his family is appointed as the doctor.
-At the same time, the Zhongzang government was ordered to allocate money and gifts to increase military expenditures.
-Appointed Duan Jiong as General Po Qiang.
-In the summer, Duan Qiang pursued the Qiang out of the bridge gate and onto the Zouma River.
-Soon, I heard the news that the bandits were captured in Sheyanze, so I led my brisk troops to advance quickly, covering more than 200 miles in a day and night. I caught up with the thieves in the morning and defeated them. The remaining bandits fled to Luochuan and gathered again.
 
 
-Chunk 19: 
+Chunk 24: 
 original: 
+今且赐颎钱二十万，以家一人为郎中。
+敕中藏府调金钱彩物，增助军费。
+拜颎破羌将军。
+夏，颎复追羌出桥门，至走马水上。
+寻闻虏在奢延泽，乃将轻兵兼行，一日一夜二百余里，晨及赋，击破之。余虏走向落川，复相屯结。
 颎乃分遣骑司马田晏将五千人出其东，假司马夏育将二千人绕其西。羌分六七千人攻围晏等，晏等与战，羌溃走。
 颎急进，与晏等共追之于令鲜水上。
 颎士卒饥渴，乃勒众推方夺其水，虏复散走。
@@ -703,6 +723,24 @@ original:
 羌遂大败，弃兵而走。
 追之三日三夜，士皆重茧。
 既到泾阳，余寇四千落，悉散入汉阳山谷间。
+translation: 
+Now Duan is temporarily given 200,000 yuan and a member of his family is appointed as the doctor.
+At the same time, the Zhongzang government was ordered to allocate money and gifts to increase military expenditures.
+Appointed Duan Jiong as General Po Qiang.
+In the summer, Duan Qiang pursued the Qiang out of the bridge gate and onto the Zouma River.
+Soon, I heard the news that the bandits were captured in Sheyanze, so I led my brisk troops to advance quickly, covering more than 200 miles in a day and night. I caught up with the thieves in the morning and defeated them. The remaining bandits fled to Luochuan and gathered again.
+Duan Yan then sent his cavalry commander Tian Yan to lead 5,000 men out to the east, fake Sima Xia Yu to lead 2,000 men around the west, and the Qiang sent 6 to 7,000 men to besiege Tian Yan and others. Tian Yan and others fought with the captives, and the captives broke up and fled.
+Duan Yan rushed forward and pursued with Tian Yan and others on the Lingxianshui River.
+Duan Jong's soldiers were hungry and thirsty, so he ordered his troops to advance together to seize the water, but the captives broke up and fled.
+Duan Jiawei chased after him, and the prisoners fought and retreated until they reached Lingwu Valley.
+Duan Yan took the lead in the battle wearing armor, and no soldier dared to stand still.
+The Qiang captives were defeated and fled away, abandoning their weapons.
+After three days and three nights of pursuit, the soldier's feet were covered with thick calluses.
+After chasing to Jingyang, the remaining 4,000 tribesmen dispersed into the Hanyang Valley.
+
+
+Chunk 25: 
+original: 
 时，张奂上言： 东羌虽破，余种难尽，颎性轻果，虑负败难常。
 宜且以恩降，可无后悔。
 诏书下颎。
@@ -719,14 +757,6 @@ original:
 按奂为汉吏，身当武职，驻军二年，不能平寇，虚欲修文戢戈，招降犷敌，诞辞空说，僭而无征。
 何以言之？
 translation: 
-Duan Yan then sent his cavalry commander Tian Yan to lead 5,000 men out to the east, fake Sima Xia Yu to lead 2,000 men around the west, and the Qiang sent 6 to 7,000 men to besiege Tian Yan and others. Tian Yan and others fought with the captives, and the captives broke up and fled.
-Duan Yan rushed forward and pursued with Tian Yan and others on the Lingxianshui River.
-Duan Jong's soldiers were hungry and thirsty, so he ordered his troops to advance together to seize the water, but the captives broke up and fled.
-Duan Jiawei chased after him, and the prisoners fought and retreated until they reached Lingwu Valley.
-Duan Yan took the lead in the battle wearing armor, and no soldier dared to stand still.
-The Qiang captives were defeated and fled away, abandoning their weapons.
-After three days and three nights of pursuit, the soldier's feet were covered with thick calluses.
-After chasing to Jingyang, the remaining 4,000 tribesmen dispersed into the Hanyang Valley.
 At this time, Zhang Huan said: Although the Eastern Qiang has been destroyed, the remaining species are not easy to eliminate. Duan Qiang is frivolous but courageous. He is worried that he will lose the battle and cannot guarantee permanent victory.
 You should use kindness to persuade others to surrender, so that you will not regret it.
 The edict was issued to Duan Jiong.
@@ -744,7 +774,7 @@ Zhang Huan was an official of the Han Dynasty. As an officer, he had been statio
 Why do you say that?
 
 
-Chunk 20: 
+Chunk 26: 
 original: 
 昔先零作寇，赵充国徙令居内，煎当乱边，马援迁之三辅，始服终叛，至今为鲠。
 故远识之士，以为深忧。
@@ -757,8 +787,6 @@ original:
 羌悉众攻之，厉声问曰： 田晏、夏育在此不？
 湟中义从羌悉在何面？
 今日欲决死生。
-军中恐，晏等劝激兵士，殊死大战，遂破之。
-羌众溃，东奔，复聚射虎谷，分兵守诸谷上下门。
 translation: 
 In the past, when there were no border invaders, Zhao Chongguo moved them to the interior; when Jian Dang harassed the border, Ma Yuan moved them to Sanfu and initially submitted them, but in the end they rebelled and have caused harm to this day.
 Therefore, people with far-sighted vision think this is the most worrying thing.
@@ -771,12 +799,12 @@ In the summer, Duan Jue himself entered the camp forty or fifty miles away from 
 The whole Qiang army attacked and asked sternly: "Are Tian Yan and Xia Yu here?"
 Where are the Qiang who surrendered in Huangzhong?
 Today we have to fight to the death.
-The army was frightened, so Tian Yan and others encouraged the soldiers to fight desperately and defeated the Qiang captives.
-The Qiang army broke up and fled eastward. They gathered in Shehu Valley and divided their troops to guard the upper and lower gates of each valley.
 
 
-Chunk 21: 
+Chunk 27: 
 original: 
+军中恐，晏等劝激兵士，殊死大战，遂破之。
+羌众溃，东奔，复聚射虎谷，分兵守诸谷上下门。
 颎规一举灭之，不欲复令散走，乃遣千人于西县结木为栅，广二十步，长四十里，遮之。
 分遣晏、育等将七千人，衔枚夜上西山，结营穿堑，去虏一里许。
 又遣司马张恺等将三千人上东山。
@@ -786,12 +814,9 @@ original:
 颎追至谷上下门穷山深谷之中，处处破之，斩其渠帅以下万九千级，获牛马驴骡氈裘庐帐什物，不可胜数。
 冯禅等所招降四千人，分置安定、汉阳、陇西三郡，于是东羌悉平。
 凡百八十战，斩三万八千六百余级，获牛马骡驴驼四十二万七千五百余头，费用四十四亿，军士死者四百余人。
-更封新丰县侯，邑万户。
-颎行军仁爱，士卒疾病者，亲自瞻省，手为裹创。
-在边十余年，未尝一日蓐寝。
-与将士同苦，故皆乐为死战。
-三年春，征还京师，将秦胡步骑五万余人，及汗血千里马，生口万余人。
 translation: 
+The army was frightened, so Tian Yan and others encouraged the soldiers to fight desperately and defeated the Qiang captives.
+The Qiang army broke up and fled eastward. They gathered in Shehu Valley and divided their troops to guard the upper and lower gates of each valley.
 Duan Juan planned to eliminate them in one fell swoop and prevent them from escaping again, so he sent thousands of people to build a wooden fence in west County, twenty paces wide and forty miles long, to stop them.
 Tian Yan and Xia Yu were assigned to lead 7,000 people to quietly go up to the Western Mountains at night and build a position about a mile away from the Qiang captives.
 He also sent Sima Zhang Kai and others to lead 3,000 people to Dongshan.
@@ -801,15 +826,15 @@ The Qiang captives retreated, but because they, together with Zhang Kai and othe
 Duan Jiong pursued him into the barren mountains and deep valleys at the upper and lower gates of the valley, defeating them everywhere. He killed 19,000 levels below his commander, and obtained innumerable oxen, horses, mules, donkeys, felt, fur, tents, tents, and other items.
 The four thousand people recruited by Feng Chan were placed in Anding, Hanyang, and Longxi counties respectively. So far, all the Eastern Qiang were pacified.
 A total of 180 battles were fought, more than 38,600 enemies were beheaded, more than 427,500 cattle, horses, sheep, mules, donkeys and camels were captured, at a cost of 4.4 billion, and more than 400 soldiers were killed.
-Duan Jiong was granted the title of Marquis of Xinfeng County, with ten thousand households in the city.
-Duan Yan marched with benevolence, and when his soldiers were sick, he personally expressed condolences and bandaged their wounds.
-I have been on the border for more than ten years and have never had a good night's sleep.
-He shares the joys and sorrows with the soldiers, so the soldiers are willing to fight to the death for him.
-In the spring of the third year, he summoned back the capital and led more than 50,000 Qin and Hu infantry and cavalry, as well as thousands of horses with sweat and blood, and captured more than 10,000 people.
 
 
-Chunk 22: 
+Chunk 28: 
 original: 
+更封新丰县侯，邑万户。
+颎行军仁爱，士卒疾病者，亲自瞻省，手为裹创。
+在边十余年，未尝一日蓐寝。
+与将士同苦，故皆乐为死战。
+三年春，征还京师，将秦胡步骑五万余人，及汗血千里马，生口万余人。
 诏遣大鸿胪持节慰劳于镐。
 军至，拜侍中，转执金吾河南尹。
 有盗发冯贵人冢，坐左转谏议大夫，再迁司隶校尉。
@@ -818,10 +843,12 @@ original:
 数岁，转颎川太守，征拜太中大夫。
 光和二年，复代桥玄为太尉。
 在位月余，会日食自劾，有司举奏，诏收印绶，诣廷尉。
-时司隶校尉阳球奏诛王甫，并及颎，就狱中诘责之，遂饮鸩死，家属徙边。
-后中常侍吕强上疏，追讼颎功，灵帝诏颎妻子还本郡。
-初，颎与皇甫威明、张然明，并知名显达，京师称为 凉州三明 云。
 translation: 
+Duan Jiong was granted the title of Marquis of Xinfeng County, with ten thousand households in the city.
+Duan Yan marched with benevolence, and when his soldiers were sick, he personally expressed condolences and bandaged their wounds.
+I have been on the border for more than ten years and have never had a good night's sleep.
+He shares the joys and sorrows with the soldiers, so the soldiers are willing to fight to the death for him.
+In the spring of the third year, he summoned back the capital and led more than 50,000 Qin and Hu infantry and cavalry, as well as thousands of horses with sweat and blood, and captured more than 10,000 people.
 The emperor sent Dahong to show condolences to Hao.
 When the troops arrived, Duan Jiong was granted the title of Shizhong. He was transferred to Jinwu and Henan Yin.
 Some thieves excavated Feng Guiren's tomb, and after being convicted, he was demoted to an admonishing doctor, and then promoted to a lieutenant.
@@ -830,6 +857,14 @@ In the second year, he replaced Li Xian as Taiwei. In the winter of this year, h
 A few years later, he was transferred to the prefect of Yingchuan and recruited as a doctor in Taizhong.
 In the second year of Guanghe's reign, he replaced Qiao Xuan as Taiwei.
 After reigning for more than a month, he impeached himself due to a solar eclipse. Officials reported him and ordered him to take away his seal and ribbon and send him to the court for trial.
+
+
+Chunk 29: 
+original: 
+时司隶校尉阳球奏诛王甫，并及颎，就狱中诘责之，遂饮鸩死，家属徙边。
+后中常侍吕强上疏，追讼颎功，灵帝诏颎妻子还本郡。
+初，颎与皇甫威明、张然明，并知名显达，京师称为 凉州三明 云。
+translation: 
 At this time, Captain Yang Qiu of the Sili School ordered Wang Fu to be killed, which implicated Duan Jiong, so he was questioned and reprimanded in prison. Duan Jiong then committed suicide by committing poison, and his family members moved to the border.
 Later, Lu Qiang, the general servant of the imperial court, came to Shu to pursue Duan Juan's achievements. Emperor Ling issued an edict to return Duan Juan's wife and children to the county.
 In the past, Duan Juan, Huangfu Weiming and Zhang Ranming were all famous, and the capital was called "Liangzhou Sanming".

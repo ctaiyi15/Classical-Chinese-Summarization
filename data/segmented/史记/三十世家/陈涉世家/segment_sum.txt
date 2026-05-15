@@ -1,0 +1,150 @@
+Summary uses chunk [0, 2, 3, 7]
+
+Chunk 0: 
+original: 
+陈胜者，阳城人也，字涉。
+吴广者，阳夏人也，字叔。
+陈涉少时，尝与人佣耕，辍耕之垄上，怅恨久之，曰： 苟富贵，无相忘。
+庸者笑而应曰： 若为庸耕，何富贵也？
+陈涉太息曰： 嗟乎，燕雀安知鸿鹄ú之志哉！
+二世元年七月，发闾左敌戍渔阳，九百人屯大泽乡。
+陈胜、吴广皆次当行，为屯长。
+会天大雨，道不通，度已失期。
+失期，法皆斩。
+陈胜、吴广乃谋曰： 今亡亦死，举大计亦死，等死，死国可乎？
+陈胜曰： 天下苦秦久矣。
+吾闻二世少子也，不当立，当立者乃公子扶苏。
+扶苏以数谏故，上使外将兵。
+今或闻无罪，二世杀之。
+translation: 
+Chen Sheng, a native of Yangcheng, was named She.
+Wu Guang, a native of Yangxia, was given the courtesy name Uncle.
+When Chen She was young, he was hired to plow the fields with others. Once when he stopped plowing and went to rest on the ridge of the field, he lamented and resented for a long time and said, "If anyone becomes rich in the future, let's not forget each other."
+The companions who were employed with him smiled and replied: You are hired to plow the fields, how can you be rich? Chen She sighed and said: Alas!
+How can small birds such as swallows and sparrows understand the lofty aspirations of geese and swans!
+In July of the first year of Qin II, the poor living on the left side of the lane were recruited to defend Yuyang. A total of 900 people were stationed in Daze Township.
+Chen Sheng and Wu Guang both joined the ranks of this expedition and became village commanders.
+It happened to be raining heavily and the roads were blocked. They probably missed the deadline to reach Yuyang.
+After the prescribed time limit, everyone should be beheaded according to the law.
+Chen Sheng and Wu Guang discussed it and said: Now it is death to escape, and it is death to rise up and do a great cause. It is also death. Is it good to die for national affairs?
+Chen Sheng said: The world has been suffering from the rule of the Qin Dynasty for a long time.
+I heard that the second emperor was the youngest son of the first emperor. He should not succeed to the throne. The one who should succeed was the young master Fusu.
+Because Fusu repeatedly advised the emperor, the emperor sent him to lead troops to station in other places.
+Now some people heard that he was not guilty of any crime, but was killed by the second emperor.
+
+summary:
+summary line 0: Chen Sheng, a native of Yangcheng, and Wu Guang, from Yangxia, were conscripted in July of the first year of Qin II to defend Yuyang, along with 900 others stationed in Daze Township. Heavy rain blocked the roads, causing them to miss the deadline, which meant execution by law. Chen Sheng and Wu Guang discussed that fleeing or rising up both led to death, but dying for a national cause was preferable. Chen Sheng noted the world’s suffering under Qin rule, suggesting using the names of Prince Fusu and Chu general Xiang Yan to rally support, as both were respected. Wu Guang agreed. They consulted a fortune teller, who hinted at establishing prestige through supernatural means. Chen Sheng wrote “King Chen Sheng” on silk, hid it in a fish, and had Wu Guang mimic a fox’s cry at night, shouting “Great Chu will rise, King Chen Sheng.” The garrison soldiers were startled and discussed it the next day.
+
+Chunk 2: 
+original: 
+将尉醉，广故数言欲亡，忿恚尉，令辱之，以激怒其众。
+尉果笞广。尉剑挺，广起，夺而杀尉。
+陈胜佐之，并杀两尉。
+召令徒属曰： 公等遇雨，皆已失期，失期当斩。
+藉弟令毋斩，而戍死者固十六七。
+且壮士不死即已，死即举大名耳，王侯将相宁有种乎！
+徒属皆曰： 敬受命。
+乃诈称公子扶苏、项燕，从民欲也。
+袒右，称大楚。
+为坛而盟，祭以尉首。
+陈胜自立为将军，吴广为都尉。
+攻大泽乡，收而攻蕲。
+蕲下，乃令符离人葛婴将兵徇蕲í以东。
+攻铚、酂、苦、柘、谯皆下之。
+translation: 
+Once, the county captain escorting the team was drunk. Wu Guang deliberately threatened to escape many times to anger the county captain, provoke him to humiliate him in public, and anger everyone.
+As expected, the county lieutenant whipped Wu Guang, and the county lieutenant drew his sword again. Wu Guang rose up, grabbed the sword, and killed the county lieutenant.
+Chen Sheng assisted Wu Guang and killed two county captains together.
+Then he summoned his subordinates and said: "Everyone has encountered heavy rain here. Everyone has missed the deadline to go to Yuyang. If you miss the deadline, you will be beheaded according to regulations."
+Even if they are not beheaded, six out of ten people will definitely die while guarding the border in the future.
+Besides, as long as a man dies, he must be famous for future generations. Are princes, generals and ministers all born noble?
+After hearing this, all the subordinates said in unison: We are willing to obey the orders.
+So Chen Sheng and others staged an uprising in the name of Prince Fusu and Chu general Xiang Yan to comply with the people's wishes.
+Everyone showed their right arms as a sign, under the banner of "Great Chu".
+They also built a high platform to take the oath and used the general's head as a sacrifice.
+Chen Sheng appointed himself as general and Wu Guang as captain.
+First they attacked Daze Township, and after that they attacked Qixian County.
+After Qixian was captured, he sent Ge Ying from Fuli to lead his troops to capture the area east of Qixian.
+They attacked Qi, Feng, Kuzhe and Qiao in succession and captured them all.
+
+summary:
+summary line 1: Wu Guang, known for his care, provoked a drunken county captain, who whipped him and drew his sword. Wu Guang killed the captain, and Chen Sheng helped kill two others. Chen Sheng addressed the troops, stating that missing the deadline meant beheading, and even if spared, many would die guarding borders. He declared that princes and generals were not born noble. The troops pledged obedience. They rebelled in the names of Fusu and Xiang Yan, baring their right arms under the banner “Great Chu.” They built an altar, sacrificed the captain’s head, and Chen Sheng declared himself general, Wu Guang as captain. They attacked Daze Township and Qi County, then sent Ge Ying to capture eastern areas, taking Qi, Feng, Kuzhe, and Qiao. As they marched, their forces grew to six to seven hundred chariots, over a thousand cavalry, and tens of thousands of infantry by the time they reached Chen County. The county magistrate was killed, and they occupied the city.
+
+Chunk 3: 
+original: 
+行收兵。比至陈，车六七百乘，骑千余，卒数万人。
+攻陈，陈守令皆不在，独守丞与战谯门中。
+弗胜，守丞死，乃入据陈。
+数日，号令召三老、豪杰与皆来会计事。
+三老、豪杰皆曰： 将军身被坚执锐，伐无道，诛暴秦，复立楚国之社稷，功宜为王。 陈涉乃立为王，号为张楚。
+当此时，诸郡县苦秦吏者，皆刑其长吏，杀之以应陈涉。
+乃以吴叔为假王，监诸将以西击荥阳。
+令陈人武臣、张耳、陈余徇赵地，令汝阴人邓宗徇九江郡。
+当此时，楚兵数千人为聚者，不可胜数。
+葛婴至东城，立襄强为楚王。
+婴后闻陈王已立，因杀襄强，还报。
+至陈，陈王诛杀葛婴。
+陈王令魏人周市北徇魏地。
+吴广围荥阳。
+李由为三川守，守荥阳，吴叔弗能下。
+陈王征国之豪杰与计，以上蔡人房君蔡赐为上柱国。
+translation: 
+As they marched, they continued to replenish their troops and expand their ranks. By the time they reached Chen County, they had six to seven hundred chariots, more than a thousand cavalry, and tens of thousands of infantry.
+When Chen County was attacked, the county guards and magistrates there were not in the city. Only the county magistrate who stayed behind led the troops and fought with the rebels under the city gate.
+As a result, the county magistrate was defeated and died, so the rebel army entered the city and occupied Chen County.
+A few days later, Chen Sheng ordered the three elders in charge of education and local heroes to be summoned for a meeting.
+Everyone present said: General, you are wearing armor and holding sharp weapons. You have attacked the unprincipled king, destroyed the tyrannical Qin Dynasty, and re-established the Chu State. In terms of merit, you should be called the king. Chen She then proclaimed himself king and named his country Zhang Chu.
+At this time, the people in various counties and counties who suffered due to the governance of the officials of the Qin Dynasty responded to Chen She by hijacking the officials to judge their crimes and killing them.
+So Wu Guang was appointed as the acting king and led the generals to attack Xingyang westward.
+He ordered Wu Chen, Zhang Er, and Chen Yu from Chen County to capture the original jurisdiction of Zhao, and ordered Deng Zong from Ruyin to capture Jiujiang County.
+At this time, thousands of rebels from the Chu region gathered together, too many to count.
+Ge Ying arrived at Dongcheng and established Xiang Qiang as King of Chu.
+Ge Ying later heard that Chen Sheng had proclaimed himself king, so he killed Xiang Qiang and reported back to Chen Sheng.
+As soon as he arrived in Chen County, Chen Sheng killed Ge Ying.
+Chen Sheng ordered Wei people Zhou Shi to go north to capture the places that originally belonged to the Wei state.
+Wu Guang surrounded Xingyang.
+Li You was appointed as the governor of Sanchuan County to defend Xingyang, but Wu Guang could not attack it for a long time.
+Chen Sheng summoned the heroes of the country to discuss countermeasures and appointed Cai Ci, the Lord of Shangcai Renfang, as the Shangzhu Kingdom.
+
+summary:
+summary line 2: Chen Sheng summoned local elders and heroes, who praised him for attacking the tyrannical Qin and re-establishing Chu, urging him to become king. He proclaimed himself king of Zhang Chu. People in various counties responded by killing Qin officials. Wu Guang was appointed acting king to attack Xingyang westward. Chen Sheng ordered Wu Chen, Zhang Er, and Chen Yu to capture Zhao, and Deng Zong to take Jiujiang. Ge Ying killed Xiang Qiang, whom he had made king of Chu, after hearing of Chen Sheng’s kingship, but Chen Sheng executed Ge Ying. Zhou Shi was sent north to capture Wei lands. Wu Guang besieged Xingyang but failed to take it. Chen Sheng appointed Cai Ci as Shangzhu Kingdom and Zhou Wen as general to lead troops west. Zhou Wen gathered forces, reaching Hangu Pass with thousands of chariots and hundreds of thousands of soldiers, but was defeated by Qin’s Zhang Han, who recruited criminals and slaves. Zhou Wen fled and committed suicide after repeated defeats.
+
+Chunk 7: 
+original: 
+与战，田臧死，军破。
+章邯进兵击李归等荥阳下，破之，李归等死。
+阳城人邓说将兵居郏，章邯别将击破之，邓说军散走陈。
+铚人伍徐将兵居许，章邯击破之，伍徐军皆散走陈。
+陈王诛邓说。
+陈王初立时，陵人秦嘉、铚人董绁、符离人朱鸡石、取虑人郑布、徐人丁疾等皆特起，将兵围东海守庆于郯。
+陈王闻，乃使武平君畔为将军，监郯下军。
+秦嘉不受命，嘉自立为大司马，恶属武平君。
+告军吏曰： 武平君年少，不知兵事，勿听！
+因矫以王命杀武平君畔。
+章邯已破伍徐，击陈，柱国房君死。
+章邯又进兵击陈西张贺军。
+陈王出监战，军破，张贺死。
+腊月，陈王之汝阴，还至下城父，其御庄贾杀以降秦。
+陈胜葬砀，谥曰隐王。
+陈王故涓人将军吕臣为仓头军，起新阳，攻陈下之，杀庄贾，复以陈为楚。
+translation: 
+Fighting with the Qin army, Tian Zang died in the battle and the army was defeated.
+Zhang Han marched to Xingyang City to attack Li Gui and others, defeated them, and Li Gui and others died in the battle.
+Deng Yue, a native of Yangcheng, led his troops to station in Jiacheng, but was defeated by a force led by Zhang Han's general. Deng Yue led his army to flee to Chen County.
+Wu Xu, a Zhi man, led his troops to station in Xu County, but Zhang Han's army defeated him. Wu Xu's army broke up and fled to Chen County.
+King Chen killed Deng and said.
+When Chen Sheng first became king, Qin Jia from Ling County, Dong Jie from Zhi County, Zhu Jishi from Fuli, Zheng Bu from Qilu, and Ding Ji from Xu County all formed an army to rebel against Qin. They led their troops and besieged the governor of Donghai County named Qing in Tancheng.
+After King Chen heard about it, he sent Wu Pingjun as a general to supervise and lead all the armies under Tan City.
+Qin Jia refused to accept this order and established himself as Grand Sima, not wanting to be subordinate to Lord Wuping.
+Then he told his military officials: Mr. Wu Ping is young and does not understand military affairs. Don't listen to him!
+Then he killed Wu Pingpan under the pretense of King Chen's order.
+After Zhang Han defeated Wu Xu, he then attacked Chen County. Cai Ci, the king of Chen's state, was killed in the battle.
+Zhang Han then led troops to attack Zhang He's troops stationed in the west of Chen County.
+King Chen personally came out to supervise the battle, but the Chu army was still defeated and Zhang He was killed.
+In December, King Chen retreated to Ruyin. When he returned to Xiachengfu, his coachman Zhuang Jia killed him and surrendered to the Qin army.
+After Chen Sheng's death, he was buried in Dang County, and his posthumous title was King Yin.
+General Lu Chen, a former minister of King Chen, organized a "Cangtou Army" with their heads wrapped in green scarves. They attacked Chen County from Xinyang. After conquering, they killed Zhuang Jia and made Chen County the capital of Chu.
+
+summary:
+summary line 3: Wu Chen proclaimed himself King of Zhao in Handan. Chen Sheng, angered, imprisoned Wu Chen’s family but released them on Cai Ci’s advice, sending congratulations to Zhao. Zhao’s generals advised against marching west, instead expanding north into Yan. Han Guang became King of Yan. Zhou Shi was defeated by Tian Dan, who declared himself King of Qi. Zhou Shi made Ningling Jun Jiu King of Wei. Tian Zang killed Wu Guang, claiming Chen Sheng’s order, and led elite troops west but died in battle. Zhang Han defeated other Chu forces. Chen Sheng killed Deng Yue and Wu Xu after their defeats. Qin Jia killed Wu Pingpan and made Jing Ju king of Chu. Zhang Han attacked Chen County, killing Cai Ci. Chen Sheng was defeated and killed by his charioteer Zhuang Jia in December. He was buried in Dang County with the posthumous title King Yin. Lu Chen killed Zhuang Jia and made Chen County Chu’s capital. Song Liu surrendered to Qin and was executed. Chen Sheng reigned for six months. His former friend visited but was killed for speaking of past events, causing others to leave. Chen Sheng appointed Zhu Fang and Hu Wu, who harshly punished officials, leading to his failure. Despite his death, his uprising led to Qin’s downfall. Emperor Gaozu of Han later honored his tomb.
+

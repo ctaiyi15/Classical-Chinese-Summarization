@@ -1,0 +1,309 @@
+Summary uses chunk [0, 0, 1, 3, 6, 11, 15, 21, 24]
+
+Chunk 0: 
+original: 
+孝元皇后，王莽姑也。
+莽自谓黄帝之后，其《自本》曰：黄帝姓姚氏，八世生虞舜。
+舜起妫汭，以妫为姓。
+至周武王封舜后妫满于陈，是为胡公，十三世生完。
+完字敬仲，奔齐，齐桓公以为卿，姓田氏。
+十一世，田和有齐国，二世称王，至王建为秦所灭。
+项羽起，封建孙安为济北王。
+至汉兴，安失国，齐人谓之 王家 ，因以为氏。
+文、景间，安孙遂字伯纪，处东平陵，生贺，字翁孺。
+为武帝绣衣御史，逐捕魏郡群盗坚卢等党与，及吏畏懦逗留当坐者，翁孺皆纵不诛。
+它部御史暴胜之等奏杀二千石，诛千石以下，及通行饮食坐连及者，大部至斩万余人，语见《酷吏传》。
+翁孺以奉使不称免，叹曰： 吾闻活千人者有封子孙，吾所活者万余人，后世其兴乎！
+翁孺既免，而与东平陵终氏为怨，乃徙魏郡元城委粟里，为三老，魏郡人德之。
+元城建公曰： 昔春秋沙麓崩，晋史卜之，曰： 阴为阳雄，土火相乘，故有沙麓崩。
+translation: 
+Queen Xiaoyuan is Wang Mang's aunt.
+Wang Mang claimed to be a descendant of the Yellow Emperor. In his autobiography of his lineage, "Ziben", he said: The Yellow Emperor's surname was Yao, and his eighth-generation grandson was Yu Shun.
+Shun rose from the bend of Ma River and took Yan as his surname.
+At the time of King Wu of Zhou Dynasty, Yan Man, a descendant of Shun, was granted the title of Lord Hu in Chen. He was passed down to the thirteenth generation and gave birth to Chen Wan.
+Chen Wan, whose courtesy name was Jingzhong, fled to the State of Qi. Duke Huan of Qi worshiped him as his minister, and his surname was Tian.
+In the eleventh generation, Tian He took control of the Qi State, and passed on for two more generations to become king. When it was passed to Qi King Tian Jian, the Qi State was destroyed by the Qin State.
+Xiang Yu raised an army and made Tian An, the grandson of King Tian Jian of Qi, the King of Jibei.
+After the rise of the Han Dynasty, Tian An lost his feudal state. The people of Qi called him "Wang Family" and took Wang as their surname.
+During the reigns of Emperors Wen and Jing, Wang An's grandson Wang Sui, also named Boji, lived in Shupingling. Wang Sui gave birth to Wang He, also named Wengru.
+Weng Ru was Emperor Wu's embroidered censor. He arrested the associates of the bandit Jian Lu and others in Wei County, as well as the cowardly and stagnant officials who should be punished. Weng Ru let them all go without severe punishment.
+Other censors, such as Bao Shengzhi, petitioned to kill officials worth two thousand shi. Officials with less than 1,000 shi were left at their disposal. There were also those who were implicated due to their dealings. In severe cases, tens of thousands of people were killed. These are all recorded in the "Biography of Cool Officials".
+Weng Ru was dismissed because he was ordered to perform a task that was not in line with the emperor's wishes. He sighed and said: I heard that if you save a thousand people, your descendants will be rewarded. I have rescued more than ten thousand people. Does it mean that the descendants will be prosperous!
+After Weng Ru resigned from office, he developed a grudge against the Zhong family of Shu Pingling, so he moved to Suli, Yuancheng Committee, Wei County, and became the third elder. The people of Wei County were very grateful to him.
+Duke Jiang of Yuancheng said: In the past, during the Spring and Autumn Period, Shalu collapsed. Taishi of the Jin Dynasty performed a divination and said: Yin was strong and Yang was declining, and earth and fire were fighting, so Shalu collapsed.
+
+summary:
+summary line 0: Queen Xiaoyuan was the aunt of Wang Mang, who claimed descent from the Yellow Emperor. According to Wang Mang's autobiography "Ziben," the lineage traced from the Yellow Emperor through Yu Shun to various descendants who were granted titles during the Zhou Dynasty. The family eventually took the surname Wang after Tian An, a descendant of Qi royalty, lost his feudal state during the Han Dynasty and was called "Wang Family" by the people of Qi.
+
+Chunk 0: 
+original: 
+孝元皇后，王莽姑也。
+莽自谓黄帝之后，其《自本》曰：黄帝姓姚氏，八世生虞舜。
+舜起妫汭，以妫为姓。
+至周武王封舜后妫满于陈，是为胡公，十三世生完。
+完字敬仲，奔齐，齐桓公以为卿，姓田氏。
+十一世，田和有齐国，二世称王，至王建为秦所灭。
+项羽起，封建孙安为济北王。
+至汉兴，安失国，齐人谓之 王家 ，因以为氏。
+文、景间，安孙遂字伯纪，处东平陵，生贺，字翁孺。
+为武帝绣衣御史，逐捕魏郡群盗坚卢等党与，及吏畏懦逗留当坐者，翁孺皆纵不诛。
+它部御史暴胜之等奏杀二千石，诛千石以下，及通行饮食坐连及者，大部至斩万余人，语见《酷吏传》。
+翁孺以奉使不称免，叹曰： 吾闻活千人者有封子孙，吾所活者万余人，后世其兴乎！
+翁孺既免，而与东平陵终氏为怨，乃徙魏郡元城委粟里，为三老，魏郡人德之。
+元城建公曰： 昔春秋沙麓崩，晋史卜之，曰： 阴为阳雄，土火相乘，故有沙麓崩。
+translation: 
+Queen Xiaoyuan is Wang Mang's aunt.
+Wang Mang claimed to be a descendant of the Yellow Emperor. In his autobiography of his lineage, "Ziben", he said: The Yellow Emperor's surname was Yao, and his eighth-generation grandson was Yu Shun.
+Shun rose from the bend of Ma River and took Yan as his surname.
+At the time of King Wu of Zhou Dynasty, Yan Man, a descendant of Shun, was granted the title of Lord Hu in Chen. He was passed down to the thirteenth generation and gave birth to Chen Wan.
+Chen Wan, whose courtesy name was Jingzhong, fled to the State of Qi. Duke Huan of Qi worshiped him as his minister, and his surname was Tian.
+In the eleventh generation, Tian He took control of the Qi State, and passed on for two more generations to become king. When it was passed to Qi King Tian Jian, the Qi State was destroyed by the Qin State.
+Xiang Yu raised an army and made Tian An, the grandson of King Tian Jian of Qi, the King of Jibei.
+After the rise of the Han Dynasty, Tian An lost his feudal state. The people of Qi called him "Wang Family" and took Wang as their surname.
+During the reigns of Emperors Wen and Jing, Wang An's grandson Wang Sui, also named Boji, lived in Shupingling. Wang Sui gave birth to Wang He, also named Wengru.
+Weng Ru was Emperor Wu's embroidered censor. He arrested the associates of the bandit Jian Lu and others in Wei County, as well as the cowardly and stagnant officials who should be punished. Weng Ru let them all go without severe punishment.
+Other censors, such as Bao Shengzhi, petitioned to kill officials worth two thousand shi. Officials with less than 1,000 shi were left at their disposal. There were also those who were implicated due to their dealings. In severe cases, tens of thousands of people were killed. These are all recorded in the "Biography of Cool Officials".
+Weng Ru was dismissed because he was ordered to perform a task that was not in line with the emperor's wishes. He sighed and said: I heard that if you save a thousand people, your descendants will be rewarded. I have rescued more than ten thousand people. Does it mean that the descendants will be prosperous!
+After Weng Ru resigned from office, he developed a grudge against the Zhong family of Shu Pingling, so he moved to Suli, Yuancheng Committee, Wei County, and became the third elder. The people of Wei County were very grateful to him.
+Duke Jiang of Yuancheng said: In the past, during the Spring and Autumn Period, Shalu collapsed. Taishi of the Jin Dynasty performed a divination and said: Yin was strong and Yang was declining, and earth and fire were fighting, so Shalu collapsed.
+
+summary:
+summary line 1: Wang Mang's ancestor Wang He (Wengru) served as Emperor Wu's embroidered censor. Unlike other harsh officials who killed tens of thousands, Wengru showed leniency and was dismissed for not following the emperor's wishes. He saved over ten thousand people and predicted his descendants would prosper. After resigning, he moved to Yuancheng in Wei County, where a divination predicted that a virtuous woman would appear in 645 years, and later that the Wang family would have a noble daughter who would flourish.
+
+Chunk 1: 
+original: 
+后六百四十五年，宜有圣女兴。
+其齐田乎！今王翁孺徙，正真其地，日月当之。
+元城郭东有五鹿之虚，即沙鹿地也。
+后八十年，当有贵女兴天下 云。
+翁孺生禁，字稚君，少学法律长安，为廷尉史，本始三年，生女政君，即元后也。
+禁有大志，不修廉隅，好酒色，多取傍妻，凡有四女八男；长女君侠，次即元后政君，次君力，次君弟；长男凤孝卿，次曼元卿，谭子元，崇少子，商子夏，立子叔，根稚卿，逢时委卿，唯凤、崇与元后政君同母。
+母，適妻，魏郡李氏女也。
+后以妒去，更嫁为河内苟宾妻。
+初，李亲任政君在身，梦月入其怀。
+及壮大，婉顺得妇人道。
+尝许嫁未行，所许者死。
+后东平王聘政君为姬，未入，王薨。
+禁独怪之，使卜数者相政君， 当大贵，不可言。
+禁心以为然，乃教书，学鼓琴。
+五凤中，献政君，年十八矣，入掖庭为家人子。
+translation: 
+Six hundred and forty-five years later, a virtuous woman will appear.
+It was probably the Qitian clan. Now Wang Wengru happened to move to this place, and the time is consistent with the divination.
+To the east of Yuancheng are the ruins of Wulu, which is the former site of Shalu.
+Eighty years later, the Wang family will have a noble daughter who will flourish in the world.
+Wang Wengru gave birth to Wang Jin, named Zhijun. When he was young, he studied law in Chang'an and became a court official. In the third year of Benshi, she gave birth to her daughter Zhengjun, who was also the Queen of Yuan Dynasty.
+Wang Jin had great ambitions, indulged in wine and sex, and took many concubines. He had four daughters and eight sons in total: the eldest daughter Junxia, ​​the second daughter was the empress of the Yuan Dynasty, the third daughter Junli, and the younger daughter Jundi; Only Wang Feng, Wang Chong and Yuan Hou Zhengjun were born from the same mother.
+Their mother is the head wife, the daughter of Li family in Wei County.
+Later, he was divorced due to jealousy and remarried to Hanoi Goubin's wife.
+At first, when Mrs. Li was pregnant with Zhengjun, she dreamed of the moon falling into her belly.
+When Zhengjun grows up, he will be gentle and abide by women's conduct.
+I was once betrothed to someone, but before I got married, the other person died.
+Later, King Shuhu married Zhengjun as his concubine, but before Zhengjun entered the palace, King Shuping also passed away.
+Wang Jin felt strange and asked a magician to see Mr. Zheng. He said it was extremely valuable.
+Wang Jinxin also thought that this was the case, so he taught his daughter to read and play the piano.
+In the year of Wufeng, Lord Xianzheng entered the palace. She was already eighteen years old at that time and was a family member in Yeting.
+
+summary:
+summary line 2: Wengru's son Wang Jin fathered Wang Zhengjun, who became Empress of Emperor Yuan. Before her birth, her mother dreamed of the moon falling into her belly. Zhengjun was gentle and virtuous. After two betrothals ended with her fiancés dying, a fortune-teller declared her extremely valuable. She entered the palace at eighteen and became pregnant after being summoned by the crown prince, giving birth to Emperor Cheng.
+
+Chunk 3: 
+original: 
+宣帝爱之，自名曰骜，字太孙，常置左右。
+后三年，宣帝崩，太子即位，是为孝元帝。
+立太孙为太子，以母王妃为婕妤，封父禁为阳平侯。
+后三日，婕妤立为皇后，禁位特进，禁弟弘至长乐卫尉。
+永光二年，禁薨，谥曰顷侯。
+长子凤嗣侯，为卫尉侍中，皇后自有子后，希复进见。
+太子壮大，宽博恭慎，语在《成纪》。
+其后幸酒，乐燕乐，元帝不以为能。
+而傅昭仪有宠于上，生定陶共王。
+王多材艺，上甚爱之，坐则侧席，行则同辇，常有意欲废太子而立共王。
+时凤在位，与皇后、太子同心忧惧，刺侍中史丹拥右太子，语在《丹传》。
+上亦以皇后素谨慎，而太子先帝所常留意，故得不废。
+元帝崩，太子立，是为孝成帝。
+尊皇后为皇太后，以凤为大司马大将军领尚书事，益封五千户。
+王氏之兴自凤始。
+又封太后同母弟崇为安成侯，食邑万户。
+凤庶弟谭等皆赐爵关内侯，食邑。
+translation: 
+Emperor Xuan liked this grandson very much and named him Liu Yuan, also known as Taisun, and often took him with him.
+Three years later, Emperor Xuan died and the prince ascended the throne, becoming Emperor Xiaoyuan.
+The grandson was registered as the prince, the prince's mother, the princess, was named Jieyu, and Wang Jieyu's father, Wang Jin, was named Marquis of Yangping.
+Three days later, Wang Jieyu was appointed queen, Wang Jin was given the special throne, and Wang Jin's younger brother Wang Hong became the Changle Guardsman.
+In the second year of Yongguang's reign, Wang Jin died and Mi was given the title of Marquis of Qing.
+The eldest son Wang Feng inherited the title of Marquis and was appointed as a Weiwei Shizhong. Since the queen gave birth to her son, she has rarely been summoned by Emperor Yuan.
+When the prince grew up, he was generous, understanding, respectful and prudent. These are all recorded in the "Chronicle of the Emperor".
+Later, the prince was fond of drinking and feasting for fun. Emperor Yuan thought he had no talent.
+Fu Zhaoyi was favored by the emperor and gave birth to King Dingtao Gong.
+King Gong was versatile, and Emperor Yuan liked him very much. He let him sit next to him when he ate, and let him ride in the same chariot with him when traveling. He often planned to abolish the prince and establish a king in his place.
+At that time, Wang Feng was an official in the court and was worried about this matter together with the queen and the prince. Fortunately, Shi Dan, the servant, supported the prince. This incident was recorded in Shi Dan's original biography.
+Emperor Yuan also felt that the queen was always cautious, and the prince was highly valued by the late emperor, so he did not abolish the prince.
+After the death of Emperor Yuan, the prince ascended the throne and became Emperor Xiaocheng.
+The queen was honored as the empress dowager, Wang Feng was appointed as the great general of Sima to lead the secretarial affairs, and five thousand households were granted the title of fief.
+The prosperity of the Wang family began with Wang Feng.
+He also granted the title of Marquis of Ancheng to the Queen Mother's younger half-brother Wang Chong, who was granted the title of Marquis of Ancheng, with a household of 10,000 households.
+Wang Feng's concubine Wang Tan and others were given the title of Marquis of Guannei and were rewarded with food and towns.
+
+summary:
+summary line 3: When Emperor Yuan considered deposing the prince due to his fondness for King Dingtao Gong, Wang Feng (the queen's brother) worried alongside the queen. Emperor Yuan ultimately did not depose the prince due to the queen's caution and the late emperor's regard for him. After Emperor Yuan's death, Emperor Cheng ascended, honoring his mother as Empress Dowager and appointing Wang Feng as Grand General. The Wang family's prosperity began, with five brothers granted marquisates on the same day, known as the Five Marquises.
+
+Chunk 6: 
+original: 
+上曰： 此小事，何须关大将军？
+左右叩头争之。
+上于是语凤，凤以为不可，乃止。
+其见惮如此。
+上即位数年，无继嗣，体常不平。
+定陶共王来朝，太后与上承先帝意，遇共王甚厚，赏赐十倍于它王，不以往事为纤介。
+共王之来朝也，天子留，不遣归国。
+上谓共王： 我未有子，人命不讳，一朝有它，且不复相见。
+尔长留侍我矣！
+其后，天子疾益有瘳，共王因留国邸，旦夕侍上，上甚亲重。
+大将军凤心不便共王在京师，会日蚀，凤因言： 日蚀，阴盛之象，为非常异。
+定陶王虽亲，于礼当奉藩在国。
+今留侍京师，诡正非常，故天见戒。
+宜遣王之国。
+上不得已于凤而许之。
+共王辞去，上与相对涕泣而决。
+translation: 
+Emperor Cheng said: Do you still need to ask the general for such a small matter?
+Kowtow to the left and right and insist on doing so.
+Emperor Cheng told Wang Feng. Wang Feng thought it was impossible, so he had to give up.
+Emperor Cheng was afraid of Wang Feng to such an extent.
+Emperor Cheng had been in power for several years, had no heirs, and was often unwell.
+King Dingtao came to see him. The Queen Mother and Emperor Cheng followed the late emperor's wishes and treated him favorably. They rewarded him ten times as much as other princes and kings. They did not take to heart the past festivals that almost destroyed the prince.
+After the king came to see him, Emperor Cheng kept him in the capital and refused to let him return to his country.
+Emperor Cheng said to King Gong: I still have no son, and human life is impermanent and cannot be denied. Once something changes, we will no longer be able to meet each other.
+Just stay in the capital and stay with me!
+Later, Emperor Cheng's illness worsened, so the king lived in the palace and served Emperor Cheng day and night. Emperor Cheng was very close to him and relied on him.
+General Wang Feng believed that it was not good for him to stay in the capital. When a solar eclipse happened, Gong Feng said: A solar eclipse is a phenomenon caused by excessive Yin energy, and it is an unusual disaster.
+Although King Dingtao is a close relative, he should still guard the feudal state according to etiquette.
+Now I am staying in the capital to serve His Majesty. I have violated the right path and broken the rules. Therefore, God has shown a vision to warn me.
+King Dingtao should be allowed to return to the feudal state.
+Emperor Cheng had no choice but to agree.
+When King Gong was leaving, Emperor Cheng and he faced each other and said goodbye in tears.
+
+summary:
+summary line 4: Wang Feng held immense power, with Emperor Cheng afraid to act independently. When Emperor Cheng wanted to appoint Liu Xin as a regular attendant, he was told to ask Wang Feng first, who refused. Emperor Cheng had no choice but to give up. Wang Feng dominated all state affairs, and ministers dared not look directly at him.
+
+Chunk 11: 
+original: 
+而五侯群弟，争为奢移，赂遗珍宝，四面而至；后廷姬妾，各数十人，僮奴以千百数，罗钟馨，舞郑女，作倡优，狗马驰逐；大治第室，起土山渐台，洞门高廊阁道，连属弥望。
+百姓歌之曰： 五侯初起，曲阳最怒，坏决高都，连竟外杜，土山渐台西白虎。
+其奢僣如此。
+然皆通敏人事，好士养贤，倾财施予，以相高尚。
+凤辅政凡十一岁。
+阳朔三年秋，凤疾，天子数自临问，亲执其手，涕泣曰： 将军病，如有不可言，平阿侯谭次将军矣。
+凤顿首泣曰： 谭等虽与臣至亲，行皆奢僣，无以率导百姓，不如御史大夫音谨敕，臣敢以死保之。
+及凤且死，上疏谢上，复固荐音自代，言谭等五人必不可用。
+天子然之。
+初，谭倨，不肯事凤，而音敬凤，卑恭如子，故荐之。
+translation: 
+The five younger brothers who were granted the title of marquis, competed to spend extravagantly, bribed and gave away treasures in an endless stream. Each family had dozens of concubines in the back courtyard, and there were hundreds or even thousands of slaves. They rang bells and chimes, beautiful women danced, watched acrobatics, and sensual dogs and horses;
+The common people sang songs for them and said: When the five princes first became prosperous, Quyanghou was the strongest. He destroyed Gaodu and built a palace, and then spread to the Waidu area. The earth and mountains gradually became taller, like the emperor's White Tiger Palace.
+They are so extravagant and arrogant.
+But these people are well versed in the ways of the world, like to cultivate wise men, and spend all their money in this area to show that they are not vulgar.
+Wang Feng assisted the government for a total of eleven years.
+In the autumn of the third year of Yangshuo, Wang Feng was seriously ill. Emperor Cheng personally visited his home many times. He held his hand and cried and said: The general is seriously ill. If he fails, let Ping'ahou Wang Tan take his place.
+Wang Feng kowtowed and said with tears: Although Wang Tan and others are my closest relatives, they advocate extravagance and cannot set an example for the people of the world. They are not as cautious as Wang Yin, the imperial censor. I am willing to die to recommend them.
+When Wang Feng died, Shangshu thanked the emperor, but insisted on recommending Wang Yin to replace him, saying that Wang Tan and other five people must not be reused.
+Emperor Cheng agreed.
+At first, Wang Tan was arrogant and refused to serve Wang Feng, but Wang Yin respected Wang Feng and was as humble as a son to his father, so Wang Feng recommended him.
+
+summary:
+summary line 5: After Wang Feng's death, Wang Yin succeeded him as Grand Sima, followed by Wang Shang and Wang Gen. The Wang family's extravagance was legendary, with concubines, slaves, and lavish palaces. The common people sang songs comparing their palaces to the emperor's White Tiger Palace. Despite their excesses, they cultivated wise men to appear refined.
+
+Chunk 15: 
+original: 
+商辅政四岁，病乞骸骨，天子悯之，更以为大将军，益封二千户，赐钱百万。
+商薨，吊赠如大将军故事，谥曰景成侯，子况嗣侯。
+红阳侯立次当辅政，有罪过，语在《孙宝传》。
+上乃废立，而用光禄勋曲阳侯根为大司马票骑将军，岁余益封千七百户。
+高平侯逢时无材能名称，是岁薨，谥曰戴侯，子买之嗣侯。
+绥和元年，上即位二十余年无继嗣，而定陶共王已薨，子嗣立为王。
+王祖母定陶傅太后重赂遗票骑将军根，为王求汉嗣，根为言，上亦欲立之，遂征定陶王为太子。
+时根辅政五岁矣，乞骸骨，上乃益封根五千户，赐安车驷马，黄金五百斤，罢就第。
+先是，定陵侯淳于长以外属能谋议，为卫尉侍中，在辅政之次。
+是岁，新都侯莽告长伏罪与红阳侯立相连，长下狱死，立就国，语在《长传》。
+故曲阳侯根荐莽以自代，上亦以为莽有忠直节，遂擢莽从侍中骑都尉光禄大夫为大司马。
+岁余，成帝崩，哀帝即位。
+translation: 
+Wang Shang assisted the government for four years when he became seriously ill and asked to resign. Emperor Cheng took pity on him and made him a general. He also rewarded 2,000 households and 1 million yuan.
+When Wang Shang passed away, Emperor Cheng personally paid his respects according to the old system of generals and bestowed him with honors and favors. Mi was given the title Marquis of Jingcheng. Wang Shang's son Wang Kuang succeeded him as Marquis.
+The Marquis of Hongyang should have joined the court to assist the government in order, but he committed a crime and gave up. This incident is recorded in "Sun Baozhuan".
+Emperor Cheng gave up Wang Li and appointed Guangluxun Quyanghou Wanggen as the Grand Sima Hussar General. More than a year later, 1,700 households were added as fiefs.
+The Marquis of Gaoping had neither talent nor fame. He died that year and was given the title of Marquis of Dai. His son Wang Maizhi succeeded him as Marquis of Dai.
+In the first year of Suihe, Emperor Cheng had ascended the throne for more than 20 years and still had no heirs. King Dingtao Gong had died and his son succeeded to the throne.
+Queen Dingtao, the grandmother of King Dingtao, bribed General Wang Gen with generous gifts in the hope of making King Dingtao the prince. Wang Gen spoke on her behalf. Emperor Cheng also planned to make King Dingtao the prince, so he summoned him to the capital to be crowned prince.
+At this time, Wang Gen had been assisting the government for five years. He asked to resign and return to his hometown. Emperor Cheng added 5,000 households to Wang Gen's fiefdom, rewarded him with a carriage, four horses, and five hundred catties of gold. He dismissed his official position and returned to his mansion.
+Previously, Chun Yuchang, the Marquis of Dingling, was able to make suggestions as a relative and served as a guard official, assisting in government affairs.
+In this year, Wang Mang, the Marquis of Xindu, reported Chun Yuchang's past crimes and had colluded with Hongyang Marquis Wang Li. Chun Yuchang was imprisoned and died, and Wang Li returned to his fiefdom. This incident was recorded in "The Biography of Chunyu Chang".
+Therefore, Wang Gen, the Marquis of Quyang, recommended Wang Mang to replace him. Emperor Cheng also believed that Wang Mang was loyal and upright, so he promoted Wang Mang from the position of Guanglu Guanglu to the rank of Chief Sima.
+More than a year later, Emperor Cheng died and Emperor Ai ascended the throne.
+
+summary:
+summary line 6: Emperor Cheng had no heirs for over twenty years. King Dingtao's grandmother bribed Wang Gen to make him crown prince. After Emperor Cheng's death, Emperor Ai ascended but was unhappy with the Wang family's power. He eventually forced Wang Mang and others to return to their fiefdoms. When Emperor Ai died without an heir, the Empress Dowager appointed Wang Mang as Grand Sima, and they installed Emperor Ping, who was only nine years old.
+
+Chunk 21: 
+original: 
+人如此者，狗猪不食其余，天下岂有而兄弟邪！
+且若自以金匮符命为新皇帝，变更正朔服制，亦当自更作玺，传之万世，何用此亡国不详玺为，而欲求之？
+我汉家老寡妇，旦暮且死，欲与此玺俱葬，终不可得！
+太后因涕泣而言，旁侧长御以下皆垂涕。
+舜亦悲不能自止，良久乃仰谓太后： 臣等已无可言者。
+莽必欲得传国玺，太后宁能终不与邪！
+太后闻舜语切，恐莽欲胁之，乃出汉传国玺，投之地以授舜，曰： 我老已死，如而兄弟，今族灭也！
+舜既得传国玺，奏之，莽大说，乃为太后置酒未央宫渐台，大纵众乐。
+莽又欲改太后汉家旧号，易其玺绶，恐不见听，而莽疏属王谏欲谄莽，上书言： 皇天废去汉而命立新室，太皇太后不宜称尊号，当随汉废，以奉天命 。
+莽乃车驾至东宫，亲以其书白太后。
+太后曰： 此言是也！
+translation: 
+People like this are worse than pigs and dogs. How can there be brothers like you in the world!
+Besides, I used the Golden Chamber Talisman to become the new emperor and changed the calendar and the system of clothing, carriages and horses, so I should make my own national seal and pass it on to all generations. Why do I need to come here to get the national seal that is unlucky for the country to perish?
+I am an old widow of the Han family. I am about to die. I want to be buried with this Fang Chuanguo Seal, but you will not be able to get it in the end!
+The Queen Mother cried while speaking, and all the waiters below the chief minister beside her shed tears.
+Wang Shun couldn't restrain his sadness. After a long time, he raised his head and said to the Queen Mother: We people have nothing to say.
+Wang Mang must get the imperial seal, can the Queen Mother never give it to him?
+When the Queen Mother heard Wang Shun's sincere words, she was afraid that Wang Mang would threaten her, so she took out the imperial seal and threw it on the ground to Wang Shun, saying: I am old and dying, and if you brothers behave like this, the Wang family will be exterminated!
+Wang Shun got the imperial seal and presented it to Wang Mang. Wang Mang was so happy that he held a banquet for the Empress Dowager at the terrace of Weiyang Palace and had fun.
+Wang Mang also wanted to change the Queen Mother's Han Dynasty title and her seal, but he was afraid that she would not agree. Wang Mang's distant cousin, Wang Jian, wanted to flatter Wang Mang and wrote a letter saying: God abolished the Han Dynasty and established a new house. The Empress Dowager can no longer have the honorary title and should be abolished along with the Han Dynasty to comply with the destiny of heaven.
+Wang Mang took a carriage and horse to the East Palace and personally reported the contents of the memorial to the Queen Mother.
+The Queen Mother said: This is right!
+
+summary:
+summary line 7: Wang Mang gradually consolidated power, eventually becoming regent and later usurping the throne to establish the Xin dynasty. The Empress Dowager refused to give him the imperial seal, angrily denouncing him for betraying the Han dynasty. She threw the seal on the ground, predicting the Wang family would be exterminated. Wang Mang changed her title to "New Empress Dowager Wenmu," severing her connection to Han. She died at eighty-four, and ten years later, Han soldiers killed Wang Mang.
+
+Chunk 24: 
+original: 
+太后年八十四，建国五年二月癸丑崩。
+三月乙酉，合葬渭陵。
+莽诏大夫扬雄作诔曰： 太阴之精，沙麓之灵，作合于汉，配元生成。
+著其协于元城沙麓。
+太阴精者，谓梦月也。
+太后崩后十年，汉兵诛莽。
+初，红阳侯立就国南阳，与诸刘结恩，立少子丹为中山太守。
+世祖初起，丹降，为将军，战死。
+上闵之，封丹子泓为武桓侯，至今。
+司徒掾班彪曰：三代以来，《春秋》所记，王公国君，与其失世，稀不以女宠。
+汉兴，后妃之家吕、霍、上官，几危国者数矣。
+及王莽之兴，由孝元后历汉四世为天下母，飨国六十余载，群弟世权，更持国柄，五将十侯，卒成新都。
+位号已移于天下，而元后卷卷犹握一玺，不欲以授莽，妇人之仁，悲夫！
+translation: 
+When the Queen Mother was eighty-four years old, in February of the fifth year of the founding of the People's Republic of China, Guichou died.
+In March Yiyou, he was buried in Weiling together with Emperor Yuan.
+Wang Mang issued an edict and asked the doctor Yang Xiong to write a sacrificial text, saying: The essence of Taiyin, the spirit of Shalu, the sky unites with Han, and the matching element is generated.
+It shows that she is in harmony with Shalu of Yuancheng.
+The essence of Taiyin means that the Queen Mother was born from a dream of the moon.
+Ten years after the death of the Queen Mother, Han soldiers killed Wang Mang.
+At the beginning, Wang Li, the Marquis of Hongyang, returned to his fiefdom of Nanyang and formed a relationship with the Liu family's children. Wang Li's youngest son, Wang Dan, became the prefect of Zhongshan.
+When Emperor Guangwu of Shizu just raised an army, Wang Dan surrendered and he became a general and died in battle.
+Shizu took great pity on him and named his son Wang Hong the Marquis of Wuhuan. This title has been passed down to this day.
+Situ Peng Ban Biao said: Since the Three Dynasties, the reasons for the demise of princes and monarchs recorded in the "Spring and Autumn" have rarely been caused by favored women.
+After the rise of the Han Dynasty, the concubines' families, the Lu family, the Huo family, and the Shangguan family, nearly endangered the country several times.
+The rise of Wang Mang was due to the fact that after Xiaoyuan, there were four generations of emperors in the Han Dynasty. Her mother respected the world. She reigned for more than sixty years. Her younger brothers came to power one after another and controlled the government. They granted a total of five generals and ten princes. Finally, Wang Mang, the new prince of the capital, realized his ambition.
+The dynasties have changed, but the Queen of the Yuan Dynasty is still loyal and holds the imperial seal in her hand, and does not want to hand it over to Wang Mang. The kindness of a woman is really pitiful!
+
+summary:
+summary line 8: The historian Ban Biao noted that since the Three Dynasties, few dynasties fell due to favored women. The Wang family's rise came through four generations of empresses, with five generals and ten marquises, culminating in Wang Mang's usurpation. The Yuan Empress Dowager's loyalty, holding the imperial seal and refusing to surrender it, was truly pitiful.
+

@@ -1,0 +1,134 @@
+Summary uses chunk [0, 1, 1, 6]
+
+Chunk 0: 
+original: 
+西域以孝武时始通，本三十六国，其后稍分至五十余，皆在匈奴之西，乌孙之南。
+南北有大山，中央有河，东西六千余里，南北千余里。
+东则接汉，厄以玉门、阳关，西则限以葱岭。
+其南山，东出金城，与汉南山属焉。
+其河有两原：一出葱岭出，一出于阗。
+于阗在南山下，其河北流，与葱岭河合，东注蒲昌海。
+蒲昌海，一名盐泽者也，去玉门、阳关三百余里，广袤三四百里。
+其水亭居，冬夏不增减，皆以为潜行地下，南出于积石，为中国河云。
+自玉门、阳关出西域有两道：从鄯善傍南山北，波河西行至莎车，为南道，南道西逾葱岭则出大月氏、安息。
+自车师前王廷随北山，波河西行至疏勒，为北道，北道西逾葱岭则出大宛、康居、奄蔡焉。
+translation: 
+The Western Regions began to communicate with the Central Plains from the time of Emperor Wu of the Han Dynasty. There were originally thirty-six countries in that area. Later, it was gradually divided into more than fifty kingdoms, all of which were located to the west of the Xiongnu and south of the Wusun.
+The Western Region has large mountains in the north and south, and a river in the center. It is more than 6,000 miles wide from east to west and more than 1,000 miles long from north to south.
+It is connected to the Han Dynasty in the east, with Yumen Pass and Yang Pass as dangerous fortresses, and Congling as the boundary in the west.
+Its Nanshan Mountain starts from Jincheng County and is connected to the Nanshan Mountain of the Han Dynasty.
+Its river has two sources: one originates from Congling Mountain and the other originates from Khotan.
+Khotan is at the foot of Nanshan Mountain. The river flows north, merges with the Congling River, and then flows eastward into the Puchang Sea.
+Puchanghai, also known as Yanze, is more than 300 miles away from Yumenguan and Yangguan. The length and width of the lake are about 300 miles.
+The lake water is stable and does not increase or decrease in winter and summer. The lake water flows underground and emerges from Jishi Mountain to the south, which is the Huanghui in the Central Plains.
+There are two roads from Yumenguan and Yangguan to the Western Regions. From Shanshan, follow the north side of Nanshan and go west along the Tarim River to Yarkand, which is the south road; the south road goes west across Congling to reach Dayuezhi and Anxi.
+From Cheshiqian Wangting, follow the south side of Beishan and go west along the Tarim River to Shule, which is the north road: the north road goes west across Congling to reach Dawan, Kangju, and Yancai.
+
+summary:
+summary line 0: The Western Regions began communication with the Central Plains during Emperor Wu of Han, originally comprising thirty-six countries that later divided into over fifty kingdoms, all located west of the Xiongnu and south of the Wusun. The region spans more than 6,000 miles east to west and over 1,000 miles north to south, bordered by the Han Dynasty to the east with Yumen Pass and Yang Pass as fortresses, and Congling to the west. Its central river has two sources: one from Congling Mountain and another from Khotan, flowing north to merge and eastward into Puchang Sea (also known as Yanze), a stable lake about 300 miles wide. The lake water flows underground, emerging at Jishi Mountain as the Huanghui in the Central Plains. Two main roads lead from Yumen and Yang Pass to the Western Regions: the south road via Shanshan and Yarkand, crossing Congling to reach Dayuezhi and Anxi; the north road via Cheshi and Shule, crossing Congling to reach Dawan, Kangju, and Yancai.
+
+Chunk 1: 
+original: 
+西域诸国大率土著，有城郭田畜，与匈奴、乌孙异俗，故皆役属匈奴。
+匈奴西边日逐王置僮仆都尉，使领西域，常居焉耆、危须、尉黎间，赋税诸国，取富给焉。
+自周衰，戎狄错居泾渭之北。
+及秦始皇攘却戎狄，筑长城，界中国，然西不过临洮。
+汉兴至于孝武，事征四夷，广威德，而张骞始开西域之迹。
+其后骠骑将军击破匈奴右地，降浑邪、休屠王，遂空其地，始筑令居以西，初置酒泉郡，后稍发徙民充实之，分置武威、张掖、敦煌，列四郡，据两关焉。
+自贰师将军伐大宛之后，西域震惧，多遣使来贡献。汉使西域者益得职。
+于是自敦煌西至盐泽，往往起亭，而轮台、渠犁皆有田卒数百人，置使者校尉领护，以给使外国者。
+至宣帝时，遣卫司马使护鄯善以西数国。
+及破姑师，未尽殄，分以为车师前后王及山北六国。
+时汉独护南道，未能尽并北道也。然匈奴不自安矣。
+其后日逐王畔单于，将众来降，护鄯善以西使者郑吉迎之。
+既至汉，封日逐王为归德侯，吉为安远侯。
+translation: 
+Most of the countries in the Western Regions lived a settled life, with cities, fields, and livestock. They were different from the customs of the Xiongnu and Wusun. They were all enslaved and subordinate to the Xiongnu in the past.
+King Yue Zhu in the western Xiongnu set up a boy servant captain to manage the western regions. He was often stationed in Yanqi, Weixu, Weili and other places, collecting taxes from various countries, and he was very wealthy.
+Since the decline of the Zhou Dynasty, the Rong, Di and other ethnic groups have lived together in the north of the Jingshui and Weishui rivers.
+When Qin Shihuang arrived, he drove away the Rong and Di and built the Great Wall as the border of the Central Plains countries, but the west of Qin did not exceed Lintao County.
+From the establishment of the Western Han Dynasty to the time of Emperor Wu, he managed the surrounding ethnic areas and promoted mighty virtue, so Zhang Qian began to open the road to the Western Regions.
+Later, Husband General Huo Qubing defeated the Xiongnu in the right area, and King Hunxie and Xiutu surrendered. There were no Xiongnu in the right area. The Han Dynasty began to build beacons to the west of Lingju and began to establish Jiuquan County. Later, the people were recruited to live here, and Wuwei, Zhangye, and Dunhuang were established in four counties, and they guarded Yumen and Yangguan Pass.
+Since Li Guangli, the general of the Second Division, attacked Dayuan, all countries in the Western Regions were frightened. Most countries sent envoys to Chang'an to pay tribute. The Han Dynasty's envoys to the Western Regions were increasingly rewarded and promoted.
+So from the west of Dunhuang to Yanze, pavilions and barriers were built everywhere. Hundreds of field soldiers were stationed in Luntai and Quli. Envoys and captains were set up to supervise the field affairs and provide livelihood for the Han Dynasty's envoys to foreign countries.
+During the reign of Emperor Xuan, Wei Sima was assigned to oversee several countries west of Shanshan.
+When it came time to defeat Gu Shi, he did not eliminate them all, but divided them into the former king of Cheshi, the queen of Cheshi, and the six kingdoms of Shanbei.
+At that time, the Han Dynasty only supervised the southern route and did not annex all the northern routes, but the Huns were already feeling very uneasy.
+Later, King Rizhu betrayed Chanyu and led his troops to surrender to the Han Dynasty. Zheng Ji, the envoy of the Han Dynasty who protected Shanshan from the west, met King Rizhu.
+In the Han Dynasty, the Han Dynasty named Zhu Wang as the Marquis of Guide and Zheng Ji as the Marquis of Anyuan.
+
+summary:
+summary line 1: Most Western Region countries were settled, with cities, fields, and livestock, distinct from Xiongnu and Wusun customs. They were historically enslaved by the Xiongnu, who appointed a boy servant captain to manage the region, collecting taxes from various countries. After the Zhou Dynasty's decline, Rong and Di ethnic groups lived north of the Jingshui and Weishui rivers. Qin Shihuang drove them out and built the Great Wall, but the west did not exceed Lintao County. From the Western Han's establishment to Emperor Wu, Zhang Qian opened the road to the Western Regions. Later, Huo Qubing defeated the Xiongnu, leading to the surrender of King Hunxie and Xiutu. The Han Dynasty built beacons west of Lingju, established Jiuquan County, and later recruited people to settle in Wuwei, Zhangye, and Dunhuang, guarding Yumen and Yang Pass.
+
+Chunk 1: 
+original: 
+西域诸国大率土著，有城郭田畜，与匈奴、乌孙异俗，故皆役属匈奴。
+匈奴西边日逐王置僮仆都尉，使领西域，常居焉耆、危须、尉黎间，赋税诸国，取富给焉。
+自周衰，戎狄错居泾渭之北。
+及秦始皇攘却戎狄，筑长城，界中国，然西不过临洮。
+汉兴至于孝武，事征四夷，广威德，而张骞始开西域之迹。
+其后骠骑将军击破匈奴右地，降浑邪、休屠王，遂空其地，始筑令居以西，初置酒泉郡，后稍发徙民充实之，分置武威、张掖、敦煌，列四郡，据两关焉。
+自贰师将军伐大宛之后，西域震惧，多遣使来贡献。汉使西域者益得职。
+于是自敦煌西至盐泽，往往起亭，而轮台、渠犁皆有田卒数百人，置使者校尉领护，以给使外国者。
+至宣帝时，遣卫司马使护鄯善以西数国。
+及破姑师，未尽殄，分以为车师前后王及山北六国。
+时汉独护南道，未能尽并北道也。然匈奴不自安矣。
+其后日逐王畔单于，将众来降，护鄯善以西使者郑吉迎之。
+既至汉，封日逐王为归德侯，吉为安远侯。
+translation: 
+Most of the countries in the Western Regions lived a settled life, with cities, fields, and livestock. They were different from the customs of the Xiongnu and Wusun. They were all enslaved and subordinate to the Xiongnu in the past.
+King Yue Zhu in the western Xiongnu set up a boy servant captain to manage the western regions. He was often stationed in Yanqi, Weixu, Weili and other places, collecting taxes from various countries, and he was very wealthy.
+Since the decline of the Zhou Dynasty, the Rong, Di and other ethnic groups have lived together in the north of the Jingshui and Weishui rivers.
+When Qin Shihuang arrived, he drove away the Rong and Di and built the Great Wall as the border of the Central Plains countries, but the west of Qin did not exceed Lintao County.
+From the establishment of the Western Han Dynasty to the time of Emperor Wu, he managed the surrounding ethnic areas and promoted mighty virtue, so Zhang Qian began to open the road to the Western Regions.
+Later, Husband General Huo Qubing defeated the Xiongnu in the right area, and King Hunxie and Xiutu surrendered. There were no Xiongnu in the right area. The Han Dynasty began to build beacons to the west of Lingju and began to establish Jiuquan County. Later, the people were recruited to live here, and Wuwei, Zhangye, and Dunhuang were established in four counties, and they guarded Yumen and Yangguan Pass.
+Since Li Guangli, the general of the Second Division, attacked Dayuan, all countries in the Western Regions were frightened. Most countries sent envoys to Chang'an to pay tribute. The Han Dynasty's envoys to the Western Regions were increasingly rewarded and promoted.
+So from the west of Dunhuang to Yanze, pavilions and barriers were built everywhere. Hundreds of field soldiers were stationed in Luntai and Quli. Envoys and captains were set up to supervise the field affairs and provide livelihood for the Han Dynasty's envoys to foreign countries.
+During the reign of Emperor Xuan, Wei Sima was assigned to oversee several countries west of Shanshan.
+When it came time to defeat Gu Shi, he did not eliminate them all, but divided them into the former king of Cheshi, the queen of Cheshi, and the six kingdoms of Shanbei.
+At that time, the Han Dynasty only supervised the southern route and did not annex all the northern routes, but the Huns were already feeling very uneasy.
+Later, King Rizhu betrayed Chanyu and led his troops to surrender to the Han Dynasty. Zheng Ji, the envoy of the Han Dynasty who protected Shanshan from the west, met King Rizhu.
+In the Han Dynasty, the Han Dynasty named Zhu Wang as the Marquis of Guide and Zheng Ji as the Marquis of Anyuan.
+
+summary:
+summary line 2: After Li Guangli attacked Dayuan, Western Region countries sent envoys to Chang'an. The Han Dynasty built pavilions and barriers from Dunhuang to Yanze, stationed field soldiers in Luntai and Quli, and set up envoys and captains to supervise farming. During Emperor Xuan's reign, Wei Sima oversaw several countries west of Shanshan. After defeating Gu Shi, the Han Dynasty divided it into the former and latter kings of Cheshi and the six kingdoms of Shanbei, initially supervising only the southern route. Later, King Rizhu betrayed Chanyu and surrendered to the Han Dynasty. Zheng Ji, the envoy protecting Shanshan, met King Rizhu, and both were granted marquis titles. The Han Dynasty established the Protectorate, beginning with Zheng Ji, who protected the North Road. The Xiongnu's child servant captain was dismissed, weakening the Xiongnu. The Han Dynasty moved people to farm in Beixu Tar, dividing Shache's land. The Protectorate monitored Wusun, Kangju, and other foreign countries, stationed in Wulei City, 2,738 miles from Yangguan, due to its fertile land and central location.
+
+Chunk 6: 
+original: 
+其弟尉屠耆降汉，具言状。
+元凤四年，大将军霍光白遣平乐监傅介子往刺其王。
+介子轻将勇敢士，赍金币，扬言以赐外国为名。
+既至楼兰，诈其王欲赐之，王喜，与介子饮，醉，将其王屏语，壮士二人从后刺杀之，贵人左右皆散走。
+介子告谕以： 王负汉罪，天子遣我诛王，当更立王弟尉屠耆在汉者。
+汉兵方至，毋敢动，自令灭国矣！
+介子遂斩王尝归首，驰传诣阙，悬首北阙下。
+封介子为义阳侯。
+乃立尉屠耆为王，更名其国为鄯善，为刻印章，赐以宫女为夫人，备车骑辎重，丞相将军率百官送至横门外，祖而遣之。
+王自请天子曰： 身在汉久，今归，单弱，而前王有子在，恐为所杀。
+国中有伊循城，其地肥美，愿汉遣一将屯田积谷，令臣得依其威重。
+于是汉遣司马一人、吏士四十人，田伊循以填抚之。
+其后更置都尉。
+伊循官置始此矣。
+鄯善当汉道冲，西通且末七百二十里。
+自且末以往皆种五谷，土地草木，畜产作兵，略与汉同，有异乃记云。
+translation: 
+Later, Wei Tuqi, the younger brother of King Loulan, surrendered to the Han Dynasty and told the relevant situation.
+In the fourth year of Yuanfeng, after reporting to Emperor Zhao, the general Huo Guang sent Pingyue supervisor Fu Jiezi to assassinate King Loulan.
+Fu Jiezi led the warriors lightly equipped with gold coins and silk, threatening to give them to foreign countries.
+When he arrived at Loulan, he lied to the King of Loulan and said that he would give it to him. The king was very happy and drank with Fu Jiezi. When he was drunk, Fu Jiezi talked with the king alone. Two strong men assassinated the king from behind, and the nobles and relatives of Loulan all ran away.
+Fu Jiezi declared: King Loulan has failed the Han Dynasty, and the emperor has sent me to kill him. He should make Wei Tuqi, the king's younger brother in the Han Dynasty, king.
+The Han soldiers are about to arrive, don't move, otherwise, you will be destroyed!
+Fu Jiezi cut off the head of King Loulan Changgui and sent it to the Chang'an court in a post carriage, where he hung his head under the North Tower.
+The Han Dynasty granted Fu Jiezi the title of Marquis of Yiyang.
+He established Wei Tu Qi as the King of Loulan and changed the name of the country to Shanshan. The court carved a seal for him and gave him a palace maid as his wife. He was equipped with chariots and riding supplies. The prime minister led hundreds of officials to send him outside Hengmen. After worshiping the road god, he was sent back to his country.
+King Shanshan personally petitioned Emperor Wu: I have been in the Han Dynasty for a long time. When I go back today, I am weak. The former king has a son who is still alive, and I am afraid he will kill him.
+There is a city called Yixun in the country with fertile land. I hope that the Han Dynasty will send a general to farm and accumulate grain there so that I can have something to rely on.
+So the Han Dynasty sent one Sima and forty officials to garrison Yixun to intimidate and pacify them.
+Later, he was changed to captain.
+This was the beginning of the establishment of officials in Yixun.
+Shanshan was at the strategic point of the Han Dynasty's road to the Western Regions. From the west to Qiemo, it is 720 miles.
+From Qiemo to the west, grains were grown, and the land, vegetation, livestock, and weapons were similar to those of the Han Dynasty.
+
+summary:
+summary line 3: During Emperor Yuan's reign, Wuji Xiaowei was appointed to man fields. Wang Zilizhi of Baotui Dongpu surrendered with over 1,700 people, and the Protectorate allocated land for them. Since the Xuancha and Wutong period, Li Sculpture Chanyu Xianghui became a vassal, and details of land, mountains, rivers, and distances were recorded. Starting from the nearest west of Yangguan, the Laoqiang Kingdom had 450 households, 1,750 people, and 500 troops, living with livestock and not farming. The Shanshan Kingdom (formerly Loulan) had 1,570 households, 14,100 people, and 2,912 troops, with officials including Fu Guohou and translators. It produced jade, reeds, and willow, and its people lived with livestock. Initially, Emperor Wu was moved by Zhang Qian's words and sent many envoys to Dawan. Loulan and Gushi, on the main road, attacked Han envoys and acted as Xiongnu spies. Emperor Wu sent Zhao Ponu and Wang Hui to attack Gushi and capture the King of Loulan, leading to the construction of pavilions west to Yumen Pass. Loulan surrendered but later sent hostages to both the Han and Xiongnu. After King Loulan died, the Han Dynasty could not send back a castrated hostage, leading to a new king who declined to visit the Han emperor. Later, Wei Tuqi, the king's brother, surrendered to the Han Dynasty. In the fourth year of Yuanfeng, Fu Jiezi assassinated King Loulan, established Wei Tuqi as king, and renamed the country Shanshan. The Han Dynasty sent a Sima and forty officials to garrison Yixun, marking the beginning of official establishment there. Shanshan was a strategic point on the road to the Western Regions, with various countries like Qiemo, Xiaowan, Jingjue, Ronglu, Shanmi, Qule, Khotan, Pishan, Wushuo, Xiye, Puli, Yinai, Wulei, Nandou, and Jibin, each with specific populations, troops, and distances from Chang'an. Jibin, a large country not under the Western Region Protector, had a mild climate, produced various crops and metals, and had a market with gold and silver coins. The Han Dynasty's communication with Jibin began under Emperor Wu, but later conflicts arose, including the killing of Han envoys. Du Qin advised against further engagement due to the dangers and costs, and the Han Dynasty eventually limited contact. Wuyi Mountain, another large country, had similar customs to Jibin, with a hot climate and lush vegetation. Anxi Kingdom, a very large country with hundreds of cities, used silver coins and had a written language. Emperor Wu sent envoys to Parthia, who were greeted by a general with 20,000 cavalry. Dayuezhi, originally a nomadic country, was defeated by the Xiongnu and moved west to Daxia, establishing their capital. Daxia was divided into five tribes, each with its own marquis, all belonging to Dayuezhi. Kangju, with 120,000 households and 600,000 people, had customs similar to Dayuezhi and was restrained by the Xiongnu. During Emperor Xuan's reign, the Han Dynasty killed Zhizhi Chanyu. Under Emperor Cheng, King Kangju was arrogant, and the Protectorate recommended cutting ties, but the court maintained relations. Yancai, northwest of Kangju, had over 100,000 warriors and customs similar to Kangju. Dayuan, with 60,000 households and 300,000 people, produced good horses and used grapes for wine. Emperor Wu sent Li Guangli to attack Dayuan, resulting in the dedication of two Pegasus horses annually. From Dawan to Parthia, residents had different languages but similar customs, with deep-set eyes and long beards. They were skilled in business and obtained gold and silver from the Han Dynasty. After Huhanxie Chanyu submitted to the Han Dynasty, these countries respected the Han. Various other kingdoms like Taohua, Xiuxun, Zhendu, Shache, Shule, and Weitou had specific populations, troops, and distances, with some farming and raising livestock.
+

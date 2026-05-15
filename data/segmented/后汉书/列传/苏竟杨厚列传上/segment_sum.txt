@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 3, 4]
+Summary uses chunk [0, 4, 5]
 
 Chunk 0: 
 original: 
@@ -16,10 +16,6 @@ original:
 竟时在南阳，与龚书晓之曰：君执事无恙。
 走昔以摩研编削之才，与国师公从事出入，校定秘书，窃自依依，末由自远。
 盖闻君子愍同类而伤不遇。
-人无愚智，莫不先避害然后求利，先定志然后求名。
-昔智果见智伯穷兵必亡，故变名远逝，陈平知项王为天所弃，故归心高祖，皆智之至也。
-闻郡前权时屈节，北面延牙，乃后觉悟，栖迟养德。
-先世数子，又何以加。
 translation: 
 ◆The Story of Su Jing
 Su Jing, courtesy name Bo Kuang, was born in Pingling, Fufeng County.
@@ -35,65 +31,12 @@ At first, Yancen's army guard Deng Zhongkuang supported his troops and occupied 
 Su Jing was in Nanyang at that time, so he wrote to Liu Gong to tell him: You and your left are well.
 I used to work with your uncle Liu Xin as a compilation and compilation talent, and I was a proofreading secretary. I only relied on your uncle's guidance and did not achieve much on my own.
 I heard that a gentleman shows mercy to his fellow men and hurts them.
-No matter whether a person is stupid or wise, he must first avoid harm and then seek benefit, and first set his mind and then seek fame.
-In the past, Zhiguo saw that Zhibo was prone to war and would die, so he changed his name and went away. Chen Ping knew that Xiang Yu was abandoned by heaven, so he returned to Liu Bang. These are extremely smart people.
-I heard that you once temporarily abdicated and served Yancen, but later you woke up and stopped serving Yancen.
-In the past, Zhiguo and Chen Ping were not higher than you.
 
 summary:
-summary line 0: **Summary of Su Jing and Yang Hou**
+summary line 0: Su Jing, courtesy name Bo Kuang, was a scholar from Pingling, Fufeng, proficient in the Book of Changes and skilled in drawing. During Wang Mang’s reign, he compiled books with Liu Xin and served as Lieutenant of Daijun, where he kept the northern frontier safe from Hunnic raids. Under Emperor Guangwu, he became Governor of Daijun and strengthened defenses against the Xiongnu. In the fifth year of Jianwu, Lu Fang plundered the north; Su Jing, gravely ill, handed his troops to his brother and went to the capital to apologize. He was appointed a servant but dismissed months later due to illness.
 
-Chunk 0: 
+Chunk 4: 
 original: 
-苏竟杨厚
-苏竟字伯况，扶风平陵人也。
-平帝世，竟以明《易》为博士讲《书》祭酒。
-善图纬，能通百家之言。
-王莽时，与刘歆等共典校书，拜代郡中尉。
-时匈奴扰乱，北边多罹其祸，竟终完辑一郡。
-光武即位，就拜代郡太守，使固塞以拒匈奴。
-建武五年冬，卢芳略得北边诸郡，帝使偏将军随弟屯代郡。
-竟病笃，以兵属弟，诣京师谢罪。
-拜侍中，数月，以病免。
-初，延岑护军邓仲况拥兵据南阳阴县为寇，而刘歆兄子龚为其谋主。
-竟时在南阳，与龚书晓之曰：君执事无恙。
-走昔以摩研编削之才，与国师公从事出入，校定秘书，窃自依依，末由自远。
-盖闻君子愍同类而伤不遇。
-人无愚智，莫不先避害然后求利，先定志然后求名。
-昔智果见智伯穷兵必亡，故变名远逝，陈平知项王为天所弃，故归心高祖，皆智之至也。
-闻郡前权时屈节，北面延牙，乃后觉悟，栖迟养德。
-先世数子，又何以加。
-translation: 
-◆The Story of Su Jing
-Su Jing, courtesy name Bo Kuang, was born in Pingling, Fufeng County.
-During the reign of Emperor Ping, Su Jing, who was proficient in the Book of Changes, lectured on the Book of Changes and offered wine to his doctor.
-He is good at drawing and can understand books from hundreds of schools of thought.
-During the reign of Wang Mang, he worked with Liu Xin and others to compose and compile books, and was appointed Lieutenant of Daijun.
-At that time, the Huns were in trouble, and the northern frontier suffered many disasters, but Su Jing's Daijun was completely safe.
-When Guangwu came to the throne, he was worshiped as the governor of Daijun and asked to strengthen the frontier to resist the Xiongnu.
-In the winter of the fifth year of Jianwu's reign, Lu Fang plundered the northern counties, and the emperor sent a partial general to follow his younger brother to garrison the counties.
-Su Jing was seriously ill, so he handed over his troops and horses to his younger brother and went to the capital to apologize.
-He was worshiped as a servant, but a few months later he was dismissed due to illness.
-At first, Yancen's army guard Deng Zhongkuang supported his troops and occupied Yin County in Nanyang as bandits, while Liu Xin's nephew Liu Gong served as Deng Zhongkuang's military adviser.
-Su Jing was in Nanyang at that time, so he wrote to Liu Gong to tell him: You and your left are well.
-I used to work with your uncle Liu Xin as a compilation and compilation talent, and I was a proofreading secretary. I only relied on your uncle's guidance and did not achieve much on my own.
-I heard that a gentleman shows mercy to his fellow men and hurts them.
-No matter whether a person is stupid or wise, he must first avoid harm and then seek benefit, and first set his mind and then seek fame.
-In the past, Zhiguo saw that Zhibo was prone to war and would die, so he changed his name and went away. Chen Ping knew that Xiang Yu was abandoned by heaven, so he returned to Liu Bang. These are extremely smart people.
-I heard that you once temporarily abdicated and served Yancen, but later you woke up and stopped serving Yancen.
-In the past, Zhiguo and Chen Ping were not higher than you.
-
-summary:
-summary line 1: Su Jing, courtesy name Bo Kuang, was a scholar from Pingling, Fufeng, proficient in the Book of Changes and skilled in drawing. During Wang Mang’s reign, he compiled books with Liu Xin and served as Lieutenant of Daijun, where he kept the northern frontier safe from Hunnic raids. Under Emperor Guangwu, he became Governor of Daijun and strengthened defenses against the Xiongnu. In the fifth year of Jianwu, Lu Fang plundered the north; Su Jing, gravely ill, handed his troops to his brother and went to the capital to apologize. He was appointed a servant but dismissed months later due to illness.
-
-Chunk 3: 
-original: 
-德在中宫，刑在木，木胜土，刑制德，今年兵事毕已，中国安宁之效也。
-五七之家三十五姓，彭、秦、延氏不得豫焉。
-如何怪惑，依而恃之？
-《葛累》之诗， 求福不回 ，其若是乎！
-图谶之占，众变之验，皆君所明。
-善恶之分，去就之决，不可不察。无忽鄙言！
 夫周公之善康叔，以不从管、蔡之乱也；景帝之悦济北，以不从吴濞之畔也。
 自更始以来，孤恩背逆，归义向善，臧否粲然，可不察欤！
 良医不能救无命，强梁不能与天争，故天之所坏，人不得支。
@@ -105,13 +48,9 @@ original:
 龚字孟公，长安人，善论议，扶风马援、班彪并器重之。
 竟终不伐其功，潜乐道术，作《记诲篇》及文章传于世。
 年七十，卒于家。
+杨厚字仲桓，广汉新都人也。
+祖父春卿，善图谶学，为公孙述将。
 translation: 
-Virtue is in the middle palace, punishment is in wood, wood wins over earth, and punishment controls virtue. After the war ends this year, China will have the effect of peace.
-Among the thirty-five surnames of the Wuqi family, Peng, Qin, and Yan are not allowed to participate.
-Why be confused and dependent?
-The poem "Ge Lei" says that seeking happiness and fortune with integrity is like this!
-You understand the divination of prophecies and their ever-changing effects.
-The difference between good and evil, and the decision to go or stay, must be carefully considered. Don’t ignore my advice!
 The reason why Duke Zhou was kind to Uncle Kang was because Uncle Kang did not participate in the rebellion of Uncle Guan and Uncle Cai; Emperor Jing of the Han Dynasty liked Liu Zhi, King of Jibei, because Liu Zhi refused to follow the rebellion of King Wu Liu Bi.
 Since the Reformation, the treatment of those who are ungrateful and rebellious and those who turn to righteousness and do good has been completely different. How can we not examine it?
 A good doctor cannot save a lifeless person, and a strong beam cannot fight against the sky. Therefore, if the sky wants to destroy it, humans cannot support it.
@@ -123,14 +62,14 @@ He also wrote to Deng Zhongkuang to persuade him, but most of his articles were 
 Liu Gong, courtesy name Meng Gong, was from Chang'an. He was good at argumentation. Fufeng, Ma Yuan and Ban Biao both thought highly of him.
 Su Jing did not take credit for his work, but devoted himself to Taoism. He wrote "Records of Teachings" and other articles that have been passed down to the world.
 He died at home when he was seventy years old.
+◆Biography of Yang Hou Yang Hou was named Zhonghuan and was a native of Xindu, Guanghan County.
+Grandfather Yang Chunqing was good at prophecy and was a general under Gongsun Shu.
 
 summary:
-summary line 2: While in Nanyang, Su Jing wrote to Liu Gong, Liu Xin’s nephew, who served as an adviser to the bandit Deng Zhongkuang. He urged Liu Gong to abandon rebellion, citing historical examples like Zhiguo and Chen Ping, who wisely avoided harm. He argued that the Han dynasty, despite Wang Mang’s usurpation, was revived by Guangwu, and that celestial signs—such as irregular movements of Taibai and Yinghuo—foretold doom for rebels like Dong Xian and Peng Chong. He warned against following false prophecies and urged surrender, comparing Liu Gong’s potential choice to the virtuous actions of Duke Zhou’s uncle Kang and King Jibei Liu Zhi. Su Jing also wrote to Deng Zhongkuang, who eventually surrendered with Liu Gong. Su Jing died at home at age seventy, leaving writings like *Records of Teachings*.
+summary line 1: While in Nanyang, Su Jing wrote to Liu Gong, Liu Xin’s nephew, who served as an adviser to the bandit Deng Zhongkuang. He urged Liu Gong to abandon rebellion, citing historical examples like Zhiguo and Chen Ping, who wisely avoided harm. He argued that the Han dynasty, despite Wang Mang’s usurpation, was revived by Guangwu, and that celestial signs—such as irregular movements of Taibai and Yinghuo—foretold doom for rebels like Dong Xian and Peng Chong. He warned against following false prophecies and urged surrender, comparing Liu Gong’s potential choice to the virtuous actions of Duke Zhou’s uncle Kang and King Jibei Liu Zhi. Su Jing also wrote to Deng Zhongkuang, who eventually surrendered with Liu Gong. Su Jing died at home at age seventy, leaving writings like *Records of Teachings*.
 
-Chunk 4: 
+Chunk 5: 
 original: 
-杨厚字仲桓，广汉新都人也。
-祖父春卿，善图谶学，为公孙述将。
 汉兵平蜀，春卿自杀，临命戒子统曰： 吾绨帙中有先祖所传秘记，为汉家用，尔其修之。
 统感父遗言，服阕，辞家从犍为周循学习先法，又就同郡郑伯山受《河洛书》及天文推步之术。
 建初中为彭城令，一州大旱，统推阴阳消伏，县界蒙泽。
@@ -155,8 +94,6 @@ original:
 永建二年，顺帝特征，诏告郡县督促发遣。
 厚不得已，行到长安，以病自上，因陈汉三百五十年之厄，宜蠲汉改宪之道，及消伏灾异，凡五事。
 translation: 
-◆Biography of Yang Hou Yang Hou was named Zhonghuan and was a native of Xindu, Guanghan County.
-Grandfather Yang Chunqing was good at prophecy and was a general under Gongsun Shu.
 When the Han soldiers defeated Shu, Yang Chunqing committed suicide. Before his death, he told his son Yang Tong: "In my collection, there are secret records passed down by my ancestors for the use of the Han family. You should study them carefully."
 Yang Tong was grateful for his father's last words. After three years of mourning, Cijia followed Jianwei Zhouxun to learn the methods of his ancestors. He also learned the "He Luo Shu" and the astronomical push technique from Zheng Boshan, a native of the same county.
 When Jian Chuzhong was appointed as the magistrate of Pengcheng County, a severe drought hit the state. Yang Tong implemented the technique of yin and yang to eliminate depression, and the county boundaries were covered with rain.
@@ -182,5 +119,5 @@ In the second year of Yongjian's reign, Emperor Shun ordered the counties and co
 Yang Hou had no choice but to travel to Chang'an and report that he was ill. Because of the misfortune of the Han Dynasty for three hundred and fifty years, Yang Hou should clarify the principles of improving laws and regulations and eliminate disasters and anomalies, a total of five things.
 
 summary:
-summary line 3: Yang Hou, courtesy name Zhonghuan, was from Guanghan. His grandfather Yang Chunqing, skilled in prophecy, served Gongsun Shu but committed suicide after Han’s victory, instructing his son Yang Tong to study secret records. Yang Tong learned prophecy and astronomy, served as a magistrate, and prayed for rain during droughts. He wrote two volumes on prophecy and died at ninety. Yang Hou, his son, studied these arts. In Emperor An’s third year, when Taibai entered Beidou and Luoyang flooded, Yang Hou advised sending princes back to their states; the queen mother complied, and the omens ceased. He was appointed a middle man but dismissed after displeasing the queen mother with his prophecies. Later, he refused official posts, citing illness. In Emperor Shun’s reign, he predicted disasters like locust plagues and barbarian revolts, which occurred. He declined gifts from the powerful Liang Ji and retired to teach Huang-Lao arts to over 3,000 disciples. He died at eighty-two, posthumously named Wen Fu, with a temple built by his students.
+summary line 2: Yang Hou, courtesy name Zhonghuan, was from Guanghan. His grandfather Yang Chunqing, skilled in prophecy, served Gongsun Shu but committed suicide after Han’s victory, instructing his son Yang Tong to study secret records. Yang Tong learned prophecy and astronomy, served as a magistrate, and prayed for rain during droughts. He wrote two volumes on prophecy and died at ninety. Yang Hou, his son, studied these arts. In Emperor An’s third year, when Taibai entered Beidou and Luoyang flooded, Yang Hou advised sending princes back to their states; the queen mother complied, and the omens ceased. He was appointed a middle man but dismissed after displeasing the queen mother with his prophecies. Later, he refused official posts, citing illness. In Emperor Shun’s reign, he predicted disasters like locust plagues and barbarian revolts, which occurred. He declined gifts from the powerful Liang Ji and retired to teach Huang-Lao arts to over 3,000 disciples. He died at eighty-two, posthumously named Wen Fu, with a temple built by his students.
 

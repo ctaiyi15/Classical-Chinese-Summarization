@@ -1,4 +1,4 @@
-Summary uses chunk [0, 2, 4, 8, 14, 15, 21]
+Summary uses chunk [0, 3, 8, 11, 17, 24, 24]
 
 Chunk 0: 
 original: 
@@ -17,10 +17,6 @@ original:
 固对： 为官写书，受直以养老母。
 帝乃除超为兰台令史。
 后坐事免官。
-十六年，奉车都尉窦固出击匈奴，以超为假司马，将兵别击伊吾，战于蒲类海，多斩首虏而还。
-固以为能，遣与从事郭恂惧使西域。
-超到鄯善，鄯善王广奉超礼敬甚备，后忽更疏懈。
-超谓其官属曰： 宁觉广礼意薄乎？
 translation: 
 ◆Ban Chao's biography, Ban Chao's courtesy name is Zhong Sheng, a native of Pingling County, Fufeng, and the youngest son of Ban Biao, the magistrate of Xu County.
 He is ambitious and does not stick to trivial matters.
@@ -37,128 +33,116 @@ After a long time, Xianzong asked Ban Gu: Where is your brother?
 Ban Gu said to Xianzong: He is copying documents for the government and needs some money to support his old mother.
 Emperor Xianzong appointed Ban Chao as the Lantai Lingshi.
 Later, Ban Chao was dismissed from office due to his fault.
-In the 16th year of Yongping, Dou Gu, the captain of Fengdong, attacked the Xiongnu. He appointed Ban Chao as a fake Sima and asked him to lead an army to attack Yiwu. They fought in Puleihai and returned with many enemy heads beheaded.
-Dou Gu thought Ban Chao was very talented and sent him to follow Guo Xun on an envoy to the Western Regions.
-When Ban Chao arrived in Shanshan, King Guang of Shanshan received him respectfully and politely, but then suddenly became cold.
-Ban Chao said to his subordinates: Have you ever felt that King Guang of Shanshan's respect for us has diminished?
 
 summary:
 summary line 0: Ban Chao, courtesy name Zhong Sheng, was from Pingling County, Fufeng, and the youngest son of Ban Biao. Ambitious and diligent, he supported his mother by copying documents. In the fifth year of Yongping, he followed his brother Ban Gu to Luoyang. Dissatisfied with clerical work, he aspired to emulate Fu Jiezi and Zhang Qian in foreign exploits. A fortune-teller predicted he would become a marquis. Emperor Xianzong appointed him Lantai Lingshi, but he was later dismissed.
 
-Chunk 2: 
+Chunk 3: 
 original: 
-会天大风，超令十人持鼓藏虏舍后，约曰： 见火然，皆当鸣鼓大呼。
-余人悉持兵弩夹门而伏。
-超乃顺风纵火，前后鼓噪。
-虏众惊乱，超手格杀三人，吏兵斩其使及从士三十余级，余众百许人悉烧死。
-明日乃还告郭恂，恂大惊，既而色动。
-超知其意，举手曰： 掾虽不行，班超何心独擅之乎？
-恂乃悦。
 超于是召鄯善王广，以虏使首示之，一国震怖。
 超晓告抚慰，遂纳子为质。
 还奏于窦固，固大喜，具上超功效，并求更选使使西域，帝壮超节，诏固曰： 吏如班超，何故不遣而更选乎？
 今以超为军司马，令遂前功。
 超复受使，固欲益其兵，超曰： 愿将本所从三十余人足矣。
 如有不虞，多益为累。
+是时，于窴王广德新攻破莎车，遂雄张南道，而匈奴遣使监护其国，超既西，先至于窴。广德礼意甚疏。
+且其俗信巫。
+巫言： 神怒何故欲向汉？
+汉使有騧马，急求取以祠我。
+广德乃遣使就超请马。
+超密知其状，报许之，而令巫自来取马。
+有顷，巫至，超即斩其首以送广德，因辞让之。
+广德素闻超在鄯善诛灭虏使，大惶恐，即攻杀匈奴使者而降超。
+超重赐其王以下，因镇抚焉。
 translation: 
-At this time, a strong wind was blowing. Ban Chao asked ten people to hold drums and hide behind the Xiongnu envoy's station, and made an agreement: When you see the fire attack, all of you will beat the drums and shout loudly.
-The rest of the people were armed with bows and arrows and ambush on both sides of the door of the Huns envoy's residence.
-Banchao set fire to the wind, beating drums and making noises in front and back, causing the Huns to panic and panic.
-Ban Chao killed three people with his own hands, and his subordinates killed the Xiongnu envoy, and also killed more than 30 of the Xiongnu envoy's followers, and chopped off their heads. The remaining more than a hundred people were burned to death.
-The next day, I went back and informed Guo Xun of the situation. Guo Xun was startled, and his expression changed after a while.
-Ban Chao knew that he wanted to share the credit, so he raised his hand and said to Guo Xun: Although you didn't defeat the enemy together, how could I deliberately take the credit?
-Only then did Guo Xun become happy.
 Ban Chao then called King Guang of Shanshan and showed him the head of the Huns envoy. The whole country of Shanshan was shocked.
 Ban Chao made the matter public and comforted him. So King Shanshan sent his son to the Han Dynasty as a hostage.
 Ban Chao came back and reported the incident to Dou Gu. Dou Gu was overjoyed and reported Ban Chao's achievements to the emperor in detail, and asked to send another envoy to the Western Regions. Emperor Ming of the Han Dynasty praised Ban Chao's integrity and ordered Dou Gu: Why don't you choose an official like Ban Chao, but choose someone else?
 Now Ban Chao is appointed as Army Sima and asked to complete his unfinished work.
 Ban Chao was once again ordered to go on an envoy to the Western Regions. Dou Gu wanted to give more soldiers to Ban Chao, but Ban Chao said: I only want to give me the original thirty more soldiers.
 If something unexpected happens, more people will be even more of a burden.
+At this time, Yu Bin Wang Guangde had just conquered Shadong Kingdom and became the lord in the south of Tianshan Mountain. And the Xiongnu sent envoys to guard their country. When Banchao went to the Western Regions, he first arrived in the country of Ming. King Guangde was very cold to him and his etiquette was not very thoughtful.
+Moreover, the customs of this country are based on witchcraft.
+The wizard said: The god lost his temper, why did he want to get close to the Han Dynasty?
+The envoy from the Han Dynasty had a bad horse, and he quickly brought it to me as a sacrifice.
+King Guangde sent people to Ban Chao to ask for the horse.
+Ban Chao secretly learned about this situation, so he agreed to give him the horse and asked the wizard to come and hold the horse himself.
+After a while, the wizard came, and Ban Chao killed him, cut off his head and gave it to King Guangde, and reproached him with words.
+King Guangde had long heard about Ban Chao's destruction of the Huns' envoys in Shanshan, and was very frightened, so he killed the Huns' envoys and surrendered to Ban Chao.
+Ban Chao rewarded King Guangde and his subordinates heavily, thus frightening and pacifying Yu Chong.
 
 summary:
 summary line 1: In the 16th year of Yongping, Ban Chao served as a fake Sima under Dou Gu, attacking the Xiongnu at Puleihai. Dou Gu then sent him as an envoy to the Western Regions. In Shanshan, Ban Chao deduced that the Huns had arrived when King Guang's hospitality waned. He interrogated a servant, confirmed his suspicion, and gathered his 36 men. At night, he led a fire attack on the Hun camp, killing the envoy and over 30 followers, with 100 burned to death. King Guang, impressed, sent his son as a hostage. Ban Chao reported to Dou Gu, who recommended him to Emperor Ming. Appointed Army Sima, Ban Chao refused extra troops, retaining only his original 36 men.
 
-Chunk 4: 
+Chunk 8: 
 original: 
-左右出其不意，皆惊惧奔走。
-虑驰报超，超即赴之，悉召疏勒将吏，说以龟兹无道之状，因立其故王兄子忠为王，国人大悦。
-忠及官属皆请杀兜题，超不听，欲示以威信，释而遣之。
-疏勒由是与龟兹结怨。
-十八年，帝崩。焉耆以中国大丧，遂攻没都护陈睦。
-超孤立无援，而龟兹、姑墨数发兵攻疏勒。
-超守盘橐城，与忠为首尾，士吏单少，拒守岁余。
-肃宗初即位，以陈睦新没，恐超单危不能自立，下诏征超。
-超发还，疏勒举国忧恐。
-其都尉黎弇曰： 汉使弃我，我必复为龟兹所灭耳。诚不忍见汉使去。
-因以刀自刎。
-超还至于窴，王侯以下皆号泣曰： 依汉使如父母，诚不可去。
-互抱超马脚，不得行。
-超恐于窴终不听其东，又欲遂本志，乃更还疏勒。
-疏勒两城自超去后，复降龟兹，而与尉头连兵。
-超欲因此叵平诸国，乃上疏请兵。
-曰：臣窃见先帝欲开西城，故北击匈奴，西使外国，鄯善、于窴即时向化。
+以乌孙兵强，宜历其力，乃上言： 乌孙大国，控弦十万，故武帝妻以公主，至孝宣皇帝，卒得其用。
+今可遣使招慰，与共合力。
+帝纳之。
+八年，拜超为将兵长史，假鼓吹幢麾。
+以徐为军司马，别遣卫侯李邑护送乌孙使者，赐大小昆弥以下锦帛。
+李邑始到于窴，而值龟兹攻疏勒，恐惧不敢前，因上书陈西域之功不可成，又盛毁超拥爱妻，抱爱子，安乐外国，无内顾心。
+超闻之，叹曰： 身非曾参而有三至之谗，恐见疑于当时矣。
+遂去其妻。
+帝知超忠，乃切责邑曰： 纵超拥爱妻，抱爱子，思归之士千余人，何能尽与超同心乎？
 translation: 
-Douzi's entourage had an accident and all of them were scared away.
-Tian Liu Pegasus informed Ban Chao. Banchao rushed to Lucheng, summoned all the Shule generals and officers, told them about Qiuci's rebellious behavior, and promoted their brother's son, named Zhong, to be king of Shule. The people of Shule were very happy.
-Shule Wang Zhong and his subordinates all requested that Dooti be killed. Ban Chao disagreed and wanted to show his prestige, so he released Dooti.
-Shule and Qiuci had enmity from then on.
-In the 18th year of Yongping, Emperor Ming of the Han Dynasty died. Ma Qi attacked and killed the governor Chen Mu because there was a big funeral in China.
-Banchao was isolated without foreign aid, and Kucha, Gumo and other countries sent troops to attack Shule many times.
-Ban Chao guarded the city, forming a leading and trailing force with Shule Wang Zhong, and held on for more than a year with very few troops.
-When Suzong first ascended the throne, because Chen Mugang had just been killed, he was afraid that Ban Chao's troops were too weak to protect himself, so he ordered Ban Chao to be summoned to return to the court.
-Ban Chao was preparing to return home, and the whole country in Shule was worried and fearful.
-Du Wei Li said: "The Han envoys have abandoned us, and we will definitely be destroyed by Qiuci again. I really can't bear to see the Han envoys leave."
-So he drew his knife and committed suicide.
-When Ban Chao returned to Yu Sheng, everyone in the state of Yu Sheng, from the prince to the prince, cried and said: "We rely on the Han envoys just like we rely on our parents. We really can't leave!"
-So each other held Ban Chao's legs, making Ban Chao unable to walk.
-Ban Chao was afraid that Yu Xing would never let him return eastward, and wanted to realize his original wish, so he returned to Shule.
-There are two cities in Shule. Since Banchao left, they have been sent to Guibei and are in the same place as Weitou State Company.
-Banchao hunted down the rebels, defeated Weitou, and killed more than 600 people. Shule was peaceful again.
-In the third year of Jianchu's reign, Ban Chao led 10,000 troops from Shule, Kangju, Yuxing and Kumi to attack Gumo Stone City, captured the city and beheaded 700 people. Ban Chao wanted to take advantage of the victory to pacify the other countries, so he wrote to the emperor asking for more troops, saying: I secretly thought that the late emperor wanted to open up the Western Region, so I sent troops to the north to attack the Xiongnu, and sent envoys to the west to go to foreign countries. Shanshan and Yu Shen soon submitted to our court.
+Because Wusun has a strong army, we should rely on his strength. So he wrote to the emperor and said: Wusun is a big country with one hundred thousand soldiers who use bows and arrows. Therefore, Emperor Wu married Princess Xijun, the daughter of King Fei of Jiangdu, to King Wusun. By the time of Emperor Xiaoxuan, he finally got its help and defeated the Xiongnu.
+Now you can send envoys to appease Wusun and work together with him.
+The emperor adopted Ban Chao's opinion.
+In the eighth year of the founding of the People's Republic of China, Ban Chao was appointed commander-in-chief of the generals and soldiers, and Xu Qian was appointed commander-in-chief of the army.
+In addition, Wei Hou Li Yi was sent to escort Wusun's envoys, and officials from Kunmi to Kunmi were all given brocade and silk.
+As soon as Li Yi arrived at Yucheng, he encountered Qiuci attacking Shule. He was afraid and did not dare to advance. So he wrote a letter to the emperor, stating that it was impossible to pacify the Western Regions. He also tried his best to slander Ban Chao, saying that Ban Chao embraced his beloved wife, held his young son in his arms, and enjoyed peace and happiness abroad without thinking about domestic affairs.
+When Ban Chao heard this, he sighed and said: "I have not participated in it but have been slandered by the Three Supreme Beings. I'm afraid someone will doubt me now."
+So he left his wife.
+The emperor knew that Ban Chao was loyal, so he scolded Li Yi severely and said: Even if Ban Chao embraces his beloved wife and carries his young son in his arms, how can more than a thousand soldiers who miss their hometown be of the same mind as Ban Chao?
 
 summary:
 summary line 2: In Yutian, Ban Chao killed a wizard who demanded his horse, shocking King Guangde into submitting. In Shule, he captured the usurper Douti, installed King Zhong, and released Douti to show prestige. After Emperor Ming's death, Ban Chao faced isolation but held Shule with minimal forces. Recalled by Emperor Suzong, he was persuaded by the people to stay, defeating rebels and stabilizing Shule. In the third year of Jianchu, he led 10,000 troops to capture Gumo, then petitioned for reinforcements to conquer Qiuci, proposing to use local forces and resources. The emperor approved, sending Xu Qian with 1,000 men. Ban Chao defeated Fan Chen, and later, despite slander from Li Yi, he remained loyal, leaving his wife to prove his commitment.
 
-Chunk 8: 
+Chunk 11: 
 original: 
-莎车阴通使疏勒王忠，啖以重利，忠遂反从之，西保乌即城。
-超乃更立其府丞成大为疏勒王，悉发其不反者以攻忠。
-积半岁，而康居遣精兵救之，超不能下。
-是时，月氏新与康居婚，相亲，超乃使使多赍锦帛遗月氏王，令晓示康居王，康居王乃罢兵，执忠以归其国，乌即城遂降于超。
-后三年，忠说康居王借兵，还据损中，密与龟兹谋，遣使诈降于超。
-超内知其奸而外伪许之。忠大喜，即从轻猗诣超。
-超密勒兵待之，为供张设乐，酒行，乃叱吏缚忠斩之。
-因击破其众，杀七百余人，南道于是遂通。
-明年，超发于窴诸国兵二万五千人，复击莎车。而龟兹王遣左将军发温宿、姑墨、尉头合五万人求之。
-超召将校及于窴王议曰： 今兵少不敌，其计莫若各散去。
-于窴从是而东，长史亦于此西归，可须夜鼓声而发。
-阴缓所得生口。
-龟兹王闻之大喜，自以万骑于西界遮超，温宿王将八千骑于东界徼于窴。
-超知二虏已出，密召诸部勒兵，鸡鸣驰赴莎车营，胡大惊乱奔走，追斩五千余级，大获其马畜财物。
-莎车遂将，龟兹等因各退散，自是威震西域。
 初，月氏尝助汉击车师有功，是岁贡奉珍宝、符拔、师子，因求汉公主。
+超拒还其使，由是怨恨。
+永元二年，月氏遣其副王谢将兵七万攻超。
+超众少，皆大恐。
+超譬军士曰： 月氏兵虽多，然数千里逾葱领来，非有运输，何足忧邪？
+但当收谷坚守，彼饥穷自降，不过数十日决矣。
+谢遂前攻超，不下，又抄掠无所得。
+超度其粮将尽，必从龟兹求救，乃遣兵数百于东界要之。
+谢果遣骑赍金银珠玉以赂龟兹。
+超伏兵庶击，尽杀之，持其使首以示谢。
+谢大惊，即遣使请罪，愿得生归。
+超纵遣之。月氏由是大震，岁奉贡献。
+明年，龟兹、姑墨、温宿皆降，乃以超为都护，徐为长史。拜白霸为龟兹王，遣司马姚光送之。
+超与光共胁龟兹废其王尤利多而立白霸，使光将尤利多还诣京师。
+超居龟兹它乾城，徐屯疏勒。
+西域唯焉耆、危须、尉犁以前没都护，怀二心，其余悉定。
+六年秋，超遂发龟兹、鄯善等八国兵合七万人，及吏士贾客千四百人讨焉耆。
+兵到尉犁界，而遣晓说焉耆、尉犁、危须曰： 都护来者，欲镇抚三国。
 translation: 
-Shadong secretly sent someone to Shule Wang Zhong to bribe him with huge profits. King Zhong of Shule rebelled against Banchao and followed Shadong's instructions to protect Wuji City in the west.
-Ban Chao appointed Shule's prime minister, Cheng Da, as King of Shule, and mobilized all the troops who had not rebelled to attack King Zhong of Shule.
-Half a year later, Kang Ju sent elite troops to rescue Wang Zhong of Shule, but Ban Chao could not attack.
-At this time, Yuezhi had just married Kang Ju and they were friendly to each other. Ban Chao sent an envoy to bring more brocade and silk to King Yuezhi, and enlightened Xiao to King Kangju. King Kangju then stopped his troops, arrested Wang Zhong of Shule, and sent him back to Shule.
-Wu Jicheng surrendered to Ban Chao. In the next three years, King Zhong of Shule lobbied King Kang Ju to borrow troops from him and returned to Sizhong. He also secretly conspired with Qiuci and sent envoys to pretend to surrender to Banchao.
-Ban Chao learned of their plot and pretended to accept surrender. King Zhong of Shule was overjoyed and immediately led his light cavalry to Banchao to feign surrender.
-Ban Chao secretly ambush the soldiers, set up tents, arranged banquets and banquets, and waited for the arrival of Shule Wang Zhong.
-King Zhong of Shule came. While drinking, Ban Chao ordered his soldiers to tie up King Zhong of Shule and kill him. So he took advantage of the victory and attacked his army, killing more than 700 people, and the southern road was opened.
-The next year, Ban Chao led an army of 25,000 from the Yu Sheng Kingdom to attack Shadong again, while King Qiuci sent General Zuo to lead a total of 50,000 troops from Wensu, Gumo, Weitou and other countries to rescue Shadong.
-Ban Chao summoned the generals to discuss with King Yu Shen and said: Now that we can't defeat the enemy with a small number of soldiers, the best strategy is to disperse.
-Yu Xing walked eastward from here, and Chang Shi returned westward from here. Wait until you hear the sound of drums in the night before setting off.
-Secretly relax the imprisonment of captured prisoners.
-King Qiuci was very happy when he heard the news and led 10,000 cavalry to the west to stop Banchao; King Wensu led 8,000 cavalry to the east to intercept King Yu.
-Ban Chao knew that two groups of enemy troops had set off, so he secretly ordered his troops to rush to the Shadong military camp when the rooster crows. The enemy was frightened and fled in a hurry. Banchao's army pursued the enemy, killed more than 5,000 enemy soldiers, and seized a large amount of property and horses.
-Sha Dong surrendered. Kucha and other countries also retreated and dispersed. From then on, Ban Chao became famous in the Western Regions.
 In the past, the Yuezhi helped the Han Dynasty attack the Cheshi Kingdom and made great contributions. This year, he contributed pearls, talismans, and lions to the Han Dynasty, and asked the Han Dynasty to marry him as a princess.
+Ban Chao rejected the Yuezhi's request and sent back their envoy. From then on, the Yuezhi resented the Han Dynasty.
+In the second year of Yongyuan, Yuezhi sent his deputy king Xie with 70,000 troops to attack Banchao.
+Ban Chao had few soldiers and horses, and the sergeants were frightened.
+Sergeant Ban Chao Xiaoyu said: Although there are many Yueshi soldiers, they have to travel thousands of miles and cross the green mountains to invade, and transportation is extremely inconvenient. What is there to worry about?
+As long as the food is stored well and held tight, the enemy will surrender due to hunger. The enemy will be defeated in just a few dozen days.
+Xie, the deputy king of the Yuezhi, led his army to attack Ban Chao, but could not win; he also looted and looted, but gained nothing.
+Ban Chao estimated that the enemy troops would run out of food and would definitely ask for help from Qiuci. So hundreds of troops were sent to intercept on the east road.
+Sure enough, Xie, the deputy king of Yuezhi, sent cavalry to bribe Qiuci with gold, silver, pearls and jade.
+Ban Chao's ambush troops stepped out to intercept and kill all the enemies, and sent someone to show the deputy king Xie the head of the Yuezhi envoy.
+Xie was shocked and immediately sent an envoy to Ban Chao to apologize, asking only for him to be allowed to go back alive.
+Ban Chao then released Yuezhi Deputy Wang Xie and asked him to go back.
+The Yueshi were greatly shaken from then on and paid tribute to the Han Dynasty every year. In the third year of Yongyuan, Qiuci, Gumo, and Wensu all surrendered. The imperial court appointed Ban Chao as the county protector, Xu Qian as the long history, Bai Ba as the king of Qiuci, and sent Sima Yao Guang to escort him.
+Ban Chao and Yao Guang jointly coerced Qiuci to depose the original king Yuliduo and establish Baiba as king, and sent Yao Guang to return to the capital with Yuliduo.
+Banchao was stationed in Tagancheng, Kucha, and Xu Gan was stationed in Shule.
+Only Yanqi, Weixu, and Yuli in the Western Regions had killed Chen Mu, the guard of the Han Dynasty, but had second thoughts and did not dare to surrender. The rest of the countries in the Western Regions were pacified.
+In the autumn of the sixth year of Yongyuan, Banchao mobilized a total of 70,000 troops from eight countries including Qiuci and Shanshan, and 1,400 officials and officials to attack Yanqi.
+When the army arrived at the border of Yuli, they sent someone to tell Yanqi, Yuli and Weixu: "The governor came here this time just to stabilize and appease the three countries."
 
 summary:
 summary line 3: Ban Chao conquered Shadong, killed the treacherous King Zhong, and opened the southern route. In a major battle, he feigned retreat, then attacked Shadong at dawn, killing 5,000 and securing surrender. Yuezhi attacked but were repelled due to supply issues. By the third year of Yongyuan, Qiuci, Gumo, and Wensu submitted. Ban Chao became Protector General, stationed in Tagancheng. In the sixth year, he led 70,000 troops to attack Yanqi, capturing and executing King Guang and others, pacifying over 50 states. He was granted the title Marquis of Dingyuan.
 
-Chunk 14: 
+Chunk 17: 
 original: 
 妾愚戆不知大义，触犯忌讳。
 书奏，帝感其言，乃征超还。
@@ -175,7 +159,6 @@ original:
 而蛮夷怀鸟兽之心，难养易败。
 今君性严急，水清无大鱼，察政不得下和。
 宜荡佚简易，宽小过，总大纲而已。
-超去后，尚私谓所亲曰： 我以班君当有奇策，今所言平平耳。
 translation: 
 I am stupid and do not understand justice, and I have violated a taboo.
 The memorial was sent up, and the emperor was moved by her words and recalled Ban Chao.
@@ -192,50 +175,22 @@ The officials and soldiers outside the Great Wall were not filial sons and grand
 The barbarians, on the other hand, have an animal heart, which makes them difficult to adopt and easy to do bad things.
 Now you have a stern and somewhat impatient nature. If the water is clear, there will be no big fish. If supervision is strict, the people below will not be happy.
 You should be tolerant and calm, act simply, deal with minor mistakes leniently, and just stick to the important links.
-After Ban Chao left, Ren Shang said privately to his cronies: I thought Ban Chao had some clever ideas, but what he said now was just ordinary remarks.
 
 summary:
 summary line 4: Aged and homesick, Ban Chao petitioned to return, citing his long service. His sister Ban Zhao also pleaded. In the 14th year of Yongyuan, he returned to Luoyang, dying at 71. His son Ban Xiong inherited his title. Ban Chao's advice to successor Ren Shang—to be lenient—was ignored, leading to rebellion.
 
-Chunk 15: 
+Chunk 24: 
 original: 
-尚至数年，而西域反乱，以罪被征，如超所戒。
-有三子。长子雄，累迁屯骑校尉。
-会叛羌寇三辅，诏雄将五营兵屯长安，就拜京兆尹。
-雄卒，子始嗣，尚清河孝王女阴城公主。
-主顺帝之姑，贵骄淫乱，与嬖人居帷中，而召始入，使伏床下。
-始积怒，永建五年，遂拔刃杀主。
-帝大怒，腰斩始，同产皆弃市。
-超少子勇。
-勇字宜僚，少有父风。
-永初元年，西域反叛，以勇为军司马。
-与兄雄俱出敦煌，迎都护及西域甲卒而还。
-因罢都护。
-后西域绝无汉吏十余年。
-元初六年，敦煌太守曹宗遣长史索班将千余人屯伊吾，车师前王及鄯善王皆来降班。
-后数月，北单于与车师后部遂共攻没班，进击走前王，略有北道。
-translation: 
-A few years after Ren Shang took office, there was a rebellion in the Western Regions. Ren Shang was recalled because of his guilt, just as Ban Chao warned.
-Ban Chao had three sons. The eldest son was named Ban Xiong, who was promoted to the rank of captain of the garrison.
-When the Qiang invaded Sanfu, the emperor ordered Ban Xiong to lead five battalions of soldiers and horses to station in Chang'an and appointed him as Jing Zhaoyin.
-After Ban Xiong died, his son Ban Shi inherited his position and married Princess Yincheng, the daughter of King Xiao of Qinghe.
-Princess Yincheng is the aunt of Emperor Shun, who is arrogant and promiscuous. She was in the curtain with her beloved, and asked Ban Shi to go in and ask him to crawl under the bed.
-Ban Shi could not hold back his anger. In the fifth year of Yongjian's reign, he drew his sword and killed the princess.
-Emperor Shun was furious and had Ban Shi cut in half, and all his people were killed.
-Ban Chao's youngest son is named Ban Yong.
-◆Ban Yongzhuan, Ban Yong, courtesy name Yi Liao. When he was young, he had the general demeanor of his father, Ban Chao.
-In the first year of Yongchu, the Western Regions rebelled against the Han Dynasty, and the imperial court sent Ban Yong to serve as an army commander.
-Ban Yong and his brother Ban Xiong both sent troops from Dunhuang to welcome the return of the Duhu and the armored soldiers from the Western Regions.
-So he dismissed the governor.
-Later, there were no officials from the Han Dynasty in the Western Regions for more than ten years.
-In the sixth year of the Yuan Dynasty, Shi Suoban, the governor of Dunhuang Cao Zong, led more than a thousand people to garrison in Yiwu. The former king of Cheshi and the king of Shanshan both surrendered here to Suoban.
-A few months later, Bei Shanyu and the rear of the chariot division attacked Soban, drove away the former king, and occupied the road to the north.
-
-summary:
-summary line 5: Ban Yong, Ban Chao's son, served as an army commander. In the first year of Yongchu, he helped withdraw Han forces from the Western Regions. Later, he advised against a costly campaign, recommending a modest garrison in Dunhuang. His strategy was adopted, stabilizing the region. In the second year of Yanguang, he led 500 soldiers to Liuzhong, securing Shanshan and Qiuci's submission. He defeated the Xiongnu and pacified Cheshi. In Yongjian's first year, he attacked Yanqi but was imprisoned for missing a rendezvous, later dying at home.
-
-Chunk 21: 
-original: 
+二年，勇上请攻元孟，于是遗敦煌太守张朗将河西四郡兵三千人配勇。
+因发诸国兵四万余人，分骑为两道击之。
+勇从南道，朗从北道，约期俱至焉耆。
+而朗先有罪，欲徼功自赎，遂先期至爵离关，遣司马将兵前战，首虏二千余人。
+元孟惧诛，逆遣使乞降，张朗径入焉耆受降而还。
+元孟竟不肯面缚，惟遣子诣阙贡献。
+朗遂得免诛。
+勇以后期，征下狱，免。后卒于家。
+梁字伯威，北地弋居人也。
+父讽，历州宰。
 永元元年，车骑将军窦宪出征匈奴，除讽为军司马，令先赍金帛使北单于，宣国威德，其归附者万余人。
 后坐失宪意，髡输武威，武威太守承旨杀之。
 窦氏既灭，和帝知其为宪所诬，征，除为郎中。
@@ -248,9 +203,17 @@ original:
 它乾城小，以为不可固，乃谲说龟兹王白霸，欲入共保其城，白霸许之。
 吏人固谏，白霸不听，懂既入，遣将急迎禧、博，合军八九千人。
 龟兹吏人并叛其王，而与温宿、姑墨数万兵反，共围城。
-等出战，大破之。
-连兵数月，胡众败走，乘胜追击，凡斩首万余级，获生口数千人，骆驼畜产数万头，龟兹乃定。
 translation: 
+The next year, Ban Yong wrote a letter requesting to attack Yuan and Meng, so the imperial court sent Zhang Lang, the governor of Dunhuang, to lead 3,000 soldiers from Hexi County to cooperate with Ban Yong.
+Ban Yong mobilized more than 40,000 soldiers from various countries and divided them into two groups to attack.
+Ban Yong walked from the south road, Zhang Lang walked from the north road, and agreed to meet at Yanqi on a date.
+However, Zhang Lang was guilty first and wanted to make atonement, so he rushed to Jue Liguan first. Sima was sent to lead troops to attack the front station and captured more than 2,000 enemy people.
+Yuan Meng was afraid of beheading, so he sent an envoy to ask for surrender. Zhang Lang went directly to Yanqi and surrendered.
+Yuan Meng actually refused to be tied up in person, and only sent his son to the court to pay tribute.
+Zhang Lang was pardoned from the death penalty.
+Because Ban Yong did not arrive as scheduled, he was convicted and imprisoned. He was pardoned soon after, and later died at home.
+◆In the biography of Liang Jin, Liang Jin was named Bowei and was a native of Yiju in the north.
+His father, Liang Xi, served successively as governor of the state.
 In the first year of Yongyuan, Dou Xian, the general of chariots and cavalry, went to conquer the Xiongnu. Liang Xi was granted the title of Army Sima, and he was asked to bring gold and silk as an envoy to Bei Chanyu to promote the country's might and virtue. More than ten thousand people joined him.
 Later, because he violated Dou Xian's will, he was exiled to Wuwei, and the prefect of Wuwei ordered to kill him.
 After the Dou family was destroyed, Emperor He knew that Liang Xi had been unjustly killed by Dou Xian, so he summoned him as a doctor.
@@ -263,8 +226,57 @@ Duan and Zhao guarded Qiancheng.
 Qiancheng was very small, and Liang Jin thought it was not very strong, so he cunningly persuaded Bai Ba, the king of Qiuci, to come in and protect the city together. Bai Ba agreed.
 The officials tried to dissuade him, but Bai Ba refused to listen. After Liang Jin entered the city, he sent generals to greet Duan Xi and Zhao Bo, with a total of eight or nine thousand sergeants.
 The officials of Qiuci all rebelled against their king, and they rebelled with tens of thousands of soldiers from Wensu and Gumo, and together they surrounded the city.
-Liang Jin and others came out to fight and defeated them.
-After several months of continuous fighting, the Hu soldiers were defeated and fled. Liang Jin took advantage of the victory and pursued him, beheading more than 10,000 people, capturing thousands of prisoners, and raising tens of thousands of camels, before Kucha was pacified.
+
+summary:
+summary line 5: Ban Yong, Ban Chao's son, served as an army commander. In the first year of Yongchu, he helped withdraw Han forces from the Western Regions. Later, he advised against a costly campaign, recommending a modest garrison in Dunhuang. His strategy was adopted, stabilizing the region. In the second year of Yanguang, he led 500 soldiers to Liuzhong, securing Shanshan and Qiuci's submission. He defeated the Xiongnu and pacified Cheshi. In Yongjian's first year, he attacked Yanqi but was imprisoned for missing a rendezvous, later dying at home.
+
+Chunk 24: 
+original: 
+二年，勇上请攻元孟，于是遗敦煌太守张朗将河西四郡兵三千人配勇。
+因发诸国兵四万余人，分骑为两道击之。
+勇从南道，朗从北道，约期俱至焉耆。
+而朗先有罪，欲徼功自赎，遂先期至爵离关，遣司马将兵前战，首虏二千余人。
+元孟惧诛，逆遣使乞降，张朗径入焉耆受降而还。
+元孟竟不肯面缚，惟遣子诣阙贡献。
+朗遂得免诛。
+勇以后期，征下狱，免。后卒于家。
+梁字伯威，北地弋居人也。
+父讽，历州宰。
+永元元年，车骑将军窦宪出征匈奴，除讽为军司马，令先赍金帛使北单于，宣国威德，其归附者万余人。
+后坐失宪意，髡输武威，武威太守承旨杀之。
+窦氏既灭，和帝知其为宪所诬，征，除为郎中。
+有勇气，常慷慨好功名。
+初为车骑将军邓鸿司马，再迁，延平元年拜西域副校尉。
+行至河西，会西域诸国反叛，攻都护任尚于疏勒。
+尚上书求救，诏将河西四郡羌胡五千骑驰赴之，未至而尚已得解。
+会征尚还，以骑都尉段禧为都护，西域长史赵博为骑都尉。
+禧、博守它乾城。
+它乾城小，以为不可固，乃谲说龟兹王白霸，欲入共保其城，白霸许之。
+吏人固谏，白霸不听，懂既入，遣将急迎禧、博，合军八九千人。
+龟兹吏人并叛其王，而与温宿、姑墨数万兵反，共围城。
+translation: 
+The next year, Ban Yong wrote a letter requesting to attack Yuan and Meng, so the imperial court sent Zhang Lang, the governor of Dunhuang, to lead 3,000 soldiers from Hexi County to cooperate with Ban Yong.
+Ban Yong mobilized more than 40,000 soldiers from various countries and divided them into two groups to attack.
+Ban Yong walked from the south road, Zhang Lang walked from the north road, and agreed to meet at Yanqi on a date.
+However, Zhang Lang was guilty first and wanted to make atonement, so he rushed to Jue Liguan first. Sima was sent to lead troops to attack the front station and captured more than 2,000 enemy people.
+Yuan Meng was afraid of beheading, so he sent an envoy to ask for surrender. Zhang Lang went directly to Yanqi and surrendered.
+Yuan Meng actually refused to be tied up in person, and only sent his son to the court to pay tribute.
+Zhang Lang was pardoned from the death penalty.
+Because Ban Yong did not arrive as scheduled, he was convicted and imprisoned. He was pardoned soon after, and later died at home.
+◆In the biography of Liang Jin, Liang Jin was named Bowei and was a native of Yiju in the north.
+His father, Liang Xi, served successively as governor of the state.
+In the first year of Yongyuan, Dou Xian, the general of chariots and cavalry, went to conquer the Xiongnu. Liang Xi was granted the title of Army Sima, and he was asked to bring gold and silk as an envoy to Bei Chanyu to promote the country's might and virtue. More than ten thousand people joined him.
+Later, because he violated Dou Xian's will, he was exiled to Wuwei, and the prefect of Wuwei ordered to kill him.
+After the Dou family was destroyed, Emperor He knew that Liang Xi had been unjustly killed by Dou Xian, so he summoned him as a doctor.
+Liang Jin was courageous and generous in his fame.
+At first, he was the Sima of Deng Hong, the chariot and cavalry general. He was promoted again and became the deputy captain of the Western Regions in the first year of Yanping.
+When Liang Jin went to Hexi, he encountered the rebellion of various countries in the Western Regions. He attacked the capital and protected Shang Yu in Shule.
+Ren Shang wrote a letter asking for help, and the court summoned Commander Liang Jin to lead five thousand Qiang and Hu cavalry from the four counties of Hexi to run to the rescue. However, Liang Jin did not arrive and Ren Shang had already rescued the siege.
+Just when Ren Shang was called back, the imperial court appointed Duan Xi, the Cavalry Commander, as the Protector, and Zhao Bo, the chief historian of the Western Regions, as the Cavalry Commander.
+Duan and Zhao guarded Qiancheng.
+Qiancheng was very small, and Liang Jin thought it was not very strong, so he cunningly persuaded Bai Ba, the king of Qiuci, to come in and protect the city together. Bai Ba agreed.
+The officials tried to dissuade him, but Bai Ba refused to listen. After Liang Jin entered the city, he sent generals to greet Duan Xi and Zhao Bo, with a total of eight or nine thousand sergeants.
+The officials of Qiuci all rebelled against their king, and they rebelled with tens of thousands of soldiers from Wensu and Gumo, and together they surrounded the city.
 
 summary:
 summary line 6: Liang Jin, a brave officer, served as Deputy Captain of the Western Regions. During a rebellion, he defended Qiuci with King Baiba, defeating tens of thousands of attackers. After the Western Regions were abandoned, he fought Qiang rebels, stabilizing Hexi. He later campaigned against the Xiongnu, accepting Chanyu's surrender. Appointed General Who Conquers the Liao, he died of illness while suppressing Qiang rebels.

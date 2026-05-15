@@ -1,37 +1,4 @@
-Summary uses chunk [14, 0, 0, 4, 8, 15]
-
-Chunk 14: 
-original: 
-时，梁冀子弟五人及中常侍等以无功并封，乔上书谏曰 陛下越从藩臣，龙飞即位，天人瞩心，万邦攸赖。
-不急忠贤之礼，而先左右之封，伤善害德，兴长佞谀。
-臣闻古之明君，褒罚必以功过。末世暗主，诛赏各缘其私。
-今梁氏一门，宦者微孽，并带无功之绂，裂劳臣之土，其为乖滥，胡可胜言。
-夫有功不赏，为善失其望。奸回不诘，为恶肆其凶。
-故陈资斧而人靡畏，班爵位而物无劝。
-苟遂斯道，岂伊伤政，为乱而已，丧身亡国，可不慎哉 书奏不省。
-益州刺史种暠举劾永昌太守刘君世以金蛇遗梁冀，事发觉，以蛇输司农。
-冀从乔借观之，乔不肯与，冀始为恨。
-累迁大鸿胪。
-时，冀小女死，令公卿会丧，乔独不往，冀又衔之。
-迁光禄勋。
-建和元年，代胡广为太尉。
-translation: 
-At this time, the five descendants of Liang Ji and the ministers of Zhongchang had no merit and were granted the title. Du Qiao wrote a letter to remonstrate: The emperor comes from the vassals, Long Fei ascends the throne, heaven and man return, and all nations rely on them.
-However, instead of appointing loyal and virtuous people, they first appoint the left and right confidants. This harms good people, is harmful to virtue, and encourages the trend of flattery.
-I heard that in ancient times, wise kings were rewarded for their merits and punished for their faults; the declining kings were dim and incompetent, and rewards and punishments were all based on selfish motives.
-Nowadays, the Liang family, the eunuchs and evil sons, all wear seals and ribbons with no merit, and the fiefdoms for their hard work and merit are given to them. How can we fully explain the perverseness and disorder of this practice.
-Merits are not rewarded, and good deeds are not rewarded as they should be; no one cares about treacherous people, allowing them to do evil and cause disaster.
-Therefore, people are not afraid of the murderous butcher's knife placed in front of them, and conferring titles and titles will not serve as a reward.
-If this continues for a long time, is it just harmful to political integrity? It is enough to cause chaos and ruin the country. It is worthy of vigilance! Please play, your Majesty does not need it.
-Yizhou governor Zhongfan impeached Yongchang prefect Liu Junshi and sent a golden snake to Liang Ji. When the incident was discovered, he sent the golden snake to Sinong.
-Liang Ji asked Du Qiao to borrow it for a look, but Du Qiao refused, and Liang Ji began to hold a grudge.
-Du Qiao was promoted to Dahonglu.
-At this time, Liang Ji's daughter died, and all the officials went to attend the funeral. Du Qiao could not go alone, and Liang Ji hated him even more.
-Du Qiao was promoted to Guang Luxun.
-In the first year of Jianhe, Hu Guang was appointed Taiwei on his behalf.
-
-summary:
-summary line 0: Based solely on the provided text, here is a summary:
+Summary uses chunk [0, 0, 6, 9, 17]
 
 Chunk 0: 
 original: 
@@ -49,12 +16,6 @@ original:
 夫化以职成，官由能理。
 古之进者，有德有命。今之进者，唯才与力。
 伏闻诏书务求宽博，疾恶严暴。
-而今长吏多杀伐致声名者，必加迁赏。其存宽和无党援者，辄见斥逐。
-是以淳厚之风不宣，雕薄之俗未革。
-虽繁刑重禁，何能有益。
-前孝安皇帝变乱旧典，封爵阿母，因造妖，使樊丰之徒乘权放恣，侵夺主威，改乱嫡嗣，至令圣躬狼狈，亲遇其艰。
-既拔自困殆，龙兴即位，天下喁喁，属望风政。
-积敝之后，易致中兴，诚当沛然思惟善道。而论者犹云，方今之事，复同于前。
 translation: 
 ◆The biography of Li Gu, whose courtesy name was Zijian, was from Nanzheng, Hanzhong, and the son of Situ Li Hui.
 Li Hui's deeds are in "The Biography of Fang Shu".
@@ -70,15 +31,9 @@ This is all related to the heart of heaven, and the results are achieved in achi
 The so-called transformation is achieved by job, and officials are able to manage.
 In ancient times, those who became officials were all virtuous and had titles; those who become officials today only have wealth and strength.
 The ministers heard that the imperial edict sought to be lenient and generous, but resented harshness and cruelty.
-However, today's chief officials have made a name for themselves by killing more, and they will definitely be promoted and rewarded; while those who are kind-hearted and have no support from party members are often ostracized and exiled.
-Therefore, honest and honest customs cannot be promoted, and Zhou's thin customs cannot be reformed.
-Even if we use heavy punishment and heavy prohibition, what is the benefit?
-The former Emperor Xiao'an messed up the old rules and conferred a title on his mother, Wang Sheng, thus creating a monster, which allowed Fan Feng and others to take advantage of their power and usurp the majesty of the Lord.
-Since he emerged from the crisis and became emperor, everyone in the world is looking up to him, hoping that the political system will change.
-After a long time of accumulation, it is easy to revive, and one should indeed be generous and think about the way to do good; but the people who discuss it also say that the current things are the same as before.
 
 summary:
-summary line 1: Li Gu, courtesy name Zijian, was from Nanzheng, Hanzhong, and the son of Situ Li Hui. He had a peculiar appearance with bones on his head protruding like a tripod foot and turtle inscriptions on his feet. He was an eager learner who traveled thousands of miles to find teachers, befriended many wise men, and attracted students from across the land. He was promoted as Xiaolian but did not take office.
+summary line 0: Li Gu, courtesy name Zijian, was from Nanzheng, Hanzhong, and the son of Situ Li Hui. He had a peculiar appearance with bones on his head protruding like a tripod foot and turtle inscriptions on his feet. He was an eager learner who traveled thousands of miles to find teachers, befriended many wise men, and attracted students from across the land. He was promoted as Xiaolian but did not take office.
 
 Chunk 0: 
 original: 
@@ -96,12 +51,6 @@ original:
 夫化以职成，官由能理。
 古之进者，有德有命。今之进者，唯才与力。
 伏闻诏书务求宽博，疾恶严暴。
-而今长吏多杀伐致声名者，必加迁赏。其存宽和无党援者，辄见斥逐。
-是以淳厚之风不宣，雕薄之俗未革。
-虽繁刑重禁，何能有益。
-前孝安皇帝变乱旧典，封爵阿母，因造妖，使樊丰之徒乘权放恣，侵夺主威，改乱嫡嗣，至令圣躬狼狈，亲遇其艰。
-既拔自困殆，龙兴即位，天下喁喁，属望风政。
-积敝之后，易致中兴，诚当沛然思惟善道。而论者犹云，方今之事，复同于前。
 translation: 
 ◆The biography of Li Gu, whose courtesy name was Zijian, was from Nanzheng, Hanzhong, and the son of Situ Li Hui.
 Li Hui's deeds are in "The Biography of Fang Shu".
@@ -117,52 +66,48 @@ This is all related to the heart of heaven, and the results are achieved in achi
 The so-called transformation is achieved by job, and officials are able to manage.
 In ancient times, those who became officials were all virtuous and had titles; those who become officials today only have wealth and strength.
 The ministers heard that the imperial edict sought to be lenient and generous, but resented harshness and cruelty.
-However, today's chief officials have made a name for themselves by killing more, and they will definitely be promoted and rewarded; while those who are kind-hearted and have no support from party members are often ostracized and exiled.
-Therefore, honest and honest customs cannot be promoted, and Zhou's thin customs cannot be reformed.
-Even if we use heavy punishment and heavy prohibition, what is the benefit?
-The former Emperor Xiao'an messed up the old rules and conferred a title on his mother, Wang Sheng, thus creating a monster, which allowed Fan Feng and others to take advantage of their power and usurp the majesty of the Lord.
-Since he emerged from the crisis and became emperor, everyone in the world is looking up to him, hoping that the political system will change.
-After a long time of accumulation, it is easy to revive, and one should indeed be generous and think about the way to do good; but the people who discuss it also say that the current things are the same as before.
 
 summary:
-summary line 2: In the second year of Yangjia, after earthquakes and landslides, the emperor asked Li Gu for advice. Li Gu replied that if the royal way works, Yin and Yang are harmonious; if politics are disobedient, disasters occur. He criticized that officials today only seek wealth and power, and that harsh officials are promoted while kind ones are ostracized. He advised against enfeoffing the emperor's grandmother, citing the danger of excessive power for relatives, and warned against the influence of the Liang family and eunuchs. He urged the emperor to select virtuous officials, dismiss eunuchs, and follow the laws of sages. Emperor Shun adopted many of his suggestions, but eunuchs framed Li Gu, leading to his dismissal. He later became a magistrate but resigned and returned home.
+summary line 1: In the second year of Yangjia, after earthquakes and landslides, the emperor asked Li Gu for advice. Li Gu replied that if the royal way works, Yin and Yang are harmonious; if politics are disobedient, disasters occur. He criticized that officials today only seek wealth and power, and that harsh officials are promoted while kind ones are ostracized. He advised against enfeoffing the emperor's grandmother, citing the danger of excessive power for relatives, and warned against the influence of the Liang family and eunuchs. He urged the emperor to select virtuous officials, dismiss eunuchs, and follow the laws of sages. Emperor Shun adopted many of his suggestions, but eunuchs framed Li Gu, leading to his dismissal. He later became a magistrate but resigned and returned home.
 
-Chunk 4: 
+Chunk 6: 
 original: 
-大司农黄尚等请之于大将军梁商，又仆射黄琼救明固事，久乃得拜议郎。
-出为广汉召隹令，至白水关，解印绶，还汉中，杜门不交人事。
-岁中，梁商请为从事中郎。
-《春秋》褒仪父以开义路，贬无骇以闭利门，夫义路闭则利门开，利门开则义路闭也。
-前孝安皇帝内任伯荣、樊丰之属，外委周广、谢恽之徒，开门受赂，署用非次，天下纷然，怨声满道。
-朝廷初立，颇存清静，未能数年，稍复堕损。
-左右党进者，日有迁拜，守死善道者，滞洇穷路，而未有改敝立德之方。
-又即位以来，十有馀年，圣嗣未立，群下继望。
-可令中宫博简嫔媵，兼采微贱宜子之人，进御至尊，顺助天意。
-若有皇子，母自乳养，无委保妾医巫，以致飞燕之祸。
-明将军望尊位显，当以天下为忧，崇尚谦省，垂则万方。
-而新营祠堂，费功亿计，非以昭明令德，崇示清俭。
-自数年以来，灾怪屡见，比无雨润，而沉阴郁泱。
-宫省之内，容有阴谋。
+诚令王纲一整，道行忠立，明公踵伯成之高，全不朽之誉，岂与此外戚凡辈耽荣好位者同日而论哉。
+固狂夫下愚，不达大体，窃感古人一饭之报，况受顾遇而容不尽乎。
+商不能用。
+永和中，荆州盗贼起，弥年不定，乃以固为荆州刺史。
+固到，遣吏劳问境内，赦寇盗前衅，与之更始。
+于是贼帅夏密等敛其魁党六百馀人，自缚归首。
+固皆原之，遣还，使自相招集，开示威法。
+半岁间，馀类悉降，州内清平。
+上奏南阳太守高赐等臧秽。
+赐等惧罪，遂共重赂大将军梁冀，冀为千里移檄，而固持之愈急。
+冀遂令徙固为太山太守。
+时，太山盗贼屯聚历年，郡兵常千人，追讨不能制。
+固到，悉罢遣归农，但选留任战者百馀人，以恩信招诱之。
+未满岁，贼皆弭散。
+迁将作大匠。
 translation: 
-The chief minister Huang Shang and others asked the general Liang Shang, and the servant Huang Qiong investigated Li Gu's case. It took a long time before he was appointed as Yilang.
-Li Gu went out to become the magistrate of Luo County in Guanghan. When he arrived at Baishui Pass, he removed his seal and ribbon, returned to Hanzhong, and closed his door to avoid interacting with others.
-For half a year, Liang Shang asked Li Guzuo to work as a lieutenant.
-Liang Shang assisted the government as his father, but he was meek and defensive, unable to rectify the situation. Disasters occurred many times, and the power below him became increasingly powerful. Li Gu wanted to ask Liang Shang to rectify his morals first and resign from his position as Gao Man, so he wrote a memorial to Liang Shang: "Spring and Autumn" praises Yi father to open up the path of righteousness, and blames Wu Hao to close the door of benefit. When the way of righteousness is closed, the door of profit is opened; when the door of profit is opened, the way of righteousness is blocked.
-The former Emperor Xiao'an appointed Borong, Fan Feng and others internally, and Zhou Guang, Xie Yun and others were appointed externally. They accepted bribes and hired people improperly. There was a lot of discussion in the world and the voice of resentment was everywhere.
-When the imperial court was first established, it was relatively quiet. Within a few years, it gradually deteriorated.
-As the party advances, people are promoted every day, and those who stick to the good path are at the end of their rope, without any way to correct their shortcomings and establish righteousness.
-After taking the throne for more than ten years, the crown prince has not yet been established, and everyone is looking forward to it.
-The number of concubines in the palace can be reduced, and people of low status but suitable for having children can be selected to join the emperor and help God's will.
-If there is a prince, the mother should breastfeed the baby herself, and should not leave it to the witch doctor who protects the concubine, which may lead to the disaster of murdering her son like Zhao Feiyan.
-The generals of the Ming Dynasty have high prestige and status. They should worry about world affairs, advocate modesty and frugality, and set an example for everyone.
-However, building a new ancestral hall requires hundreds of millions of labor and is not to show virtue or frugality.
-Over the past few years, disasters have appeared many times, and it has not rained for many consecutive years, but it has been gloomy and cloudy.
-There must be a conspiracy within the palace.
+If Wang Gang is kept intact, his conduct is loyal, Ming Gong follows the path of Bo Gao, and his immortal reputation is preserved, is it the same as these mediocre relatives who enjoy a good position?
+I am a foolish person who is ignorant of the general situation. I secretly feel that the ancients repaid a favor with a meal. How much more can I not do my best to receive care and preferential treatment?
+Liang Shang did not listen.
+During the Yonghe period, bandits arose in Jingzhou and could not be pacified for many years, so the imperial court appointed Li Gu as the governor of Jingzhou.
+After Li Gu took office, he sent officials to visit the territory to express condolences, pardon the bandits' previous crimes, and start over with them.
+So the bandit leader Xia Mi and others recruited more than 600 of their gang members, tied themselves up, and came to surrender.
+Li Gudu forgave them and asked them to go back, so that they could gather among themselves and start a demonstration.
+Within half a year, all the thieves surrendered, and the state was at peace ever since.
+Li Gu reported to Nanyang Governor Gao Ci and others about their corrupt behavior.
+Gao Ci and others were afraid of being punished, so they jointly bribed the general Liang Ji with a large sum of money. Liang Ji sent the message thousands of miles for them, but Li Gu held on tighter.
+Liang Ji then ordered Li Gu to be appointed as the prefect of Taishan.
+At this time, the bandits in Taishan had been gathering for many years. There were often thousands of soldiers in the county, and they could not be suppressed by pursuit.
+After Li Gu took office, he dismissed all the county soldiers and went back to farm. He only selected more than a hundred people with fighting ability to stay and used their kindness to lure the thieves to surrender.
+Within a year, the thieves had all fled.
+Li Gu was promoted to a general and a master craftsman.
 
 summary:
-summary line 3: Liang Shang asked Li Gu to be a lieutenant. Li Gu wrote to Liang Shang, criticizing the corruption of previous reigns and urging him to rectify morals, reduce palace concubines, and establish a crown prince. He warned against building new ancestral halls and noted that disasters and eclipses indicated conspiracies within the palace. Liang Shang did not listen. During the Yonghe period, Li Gu was appointed governor of Jingzhou, where he pardoned bandits and pacified the region within half a year. He reported corrupt officials, who bribed Liang Ji, leading to Li Gu's transfer to Taishan. There, he dismissed most soldiers and used kindness to subdue bandits within a year.
+summary line 2: Liang Shang asked Li Gu to be a lieutenant. Li Gu wrote to Liang Shang, criticizing the corruption of previous reigns and urging him to rectify morals, reduce palace concubines, and establish a crown prince. He warned against building new ancestral halls and noted that disasters and eclipses indicated conspiracies within the palace. Liang Shang did not listen. During the Yonghe period, Li Gu was appointed governor of Jingzhou, where he pardoned bandits and pacified the region within half a year. He reported corrupt officials, who bribed Liang Ji, leading to Li Gu's transfer to Taishan. There, he dismissed most soldiers and used kindness to subdue bandits within a year.
 
-Chunk 8: 
+Chunk 9: 
 original: 
 及冲帝即位，以固为太尉，与梁冀参录尚书事。
 明年帝崩，梁太后以杨、徐盗贼盛强，恐惊扰致乱，使中常侍诏固等，欲须所征诸王侯到乃发丧。
@@ -195,10 +140,11 @@ This group of people were both resentful and wanted Liang Ji's help, so they joi
 In ancient times, after Yao's death, Shun admired him for three years. When he sat down, he saw Yao by the wall, and when he was eating, he saw Yao beside the soup.
 
 summary:
-summary line 4: Li Gu was promoted and recommended several scholars. He later became Taiwei under Emperor Chong. When the emperor died, Li Gu insisted on immediate mourning, opposing the Empress Dowager's delay. He advocated for establishing an older, virtuous emperor, but Liang Ji appointed the young Liu Zuan as Emperor Zhi. Li Gu reduced burial costs for the emperor. He dismissed over a hundred improperly appointed officials, who then slandered him to Liang Ji, accusing him of nepotism, extravagance, and lack of mourning. The Empress Dowager spared Li Gu from death. Liang Ji later poisoned Emperor Zhi. Li Gu cried over the emperor's body. When establishing a new emperor, Li Gu advocated for Liu Lian, the King of Qinghe, but Liang Ji, persuaded by eunuchs, chose Liu Zhidang (Emperor Huan) instead. Liang Ji later falsely accused Li Gu of plotting to make Liu Lian emperor and imprisoned him. Despite public support, Liang Ji had Li Gu killed at age 54. Before death, Li Gu wrote to Hu Guang and Zhao Jie, blaming them for following Liang Ji and causing the decline of the Han dynasty. His sons died in prison, and his body was exposed. His disciple Guo Liang and others mourned him, and the Empress Dowager eventually allowed his burial.
+summary line 3: Li Gu was promoted and recommended several scholars. He later became Taiwei under Emperor Chong. When the emperor died, Li Gu insisted on immediate mourning, opposing the Empress Dowager's delay. He advocated for establishing an older, virtuous emperor, but Liang Ji appointed the young Liu Zuan as Emperor Zhi. Li Gu reduced burial costs for the emperor. He dismissed over a hundred improperly appointed officials, who then slandered him to Liang Ji, accusing him of nepotism, extravagance, and lack of mourning. The Empress Dowager spared Li Gu from death. Liang Ji later poisoned Emperor Zhi. Li Gu cried over the emperor's body. When establishing a new emperor, Li Gu advocated for Liu Lian, the King of Qinghe, but Liang Ji, persuaded by eunuchs, chose Liu Zhidang (Emperor Huan) instead. Liang Ji later falsely accused Li Gu of plotting to make Liu Lian emperor and imprisoned him. Despite public support, Liang Ji had Li Gu killed at age 54. Before death, Li Gu wrote to Hu Guang and Zhao Jie, blaming them for following Liang Ji and causing the decline of the Han dynasty. His sons died in prison, and his body was exposed. His disciple Guo Liang and others mourned him, and the Empress Dowager eventually allowed his burial.
 
-Chunk 15: 
+Chunk 17: 
 original: 
+建和元年，代胡广为太尉。
 桓帝将纳梁冀未，冀欲令以厚礼迎之，乔据执旧典，不听。
 又冀属乔举汜宫为尚书，乔以宫臧罪明著，遂不肯用，因此日忏于冀。
 先是李固见废，内外丧气，群臣侧足而立，唯乔正色无所回桡。
@@ -220,6 +166,7 @@ original:
 补蕲长，政有异绩，迁平原令。
 时国相徐曾，中常侍璜之兄也，匡耻与接事，托疾牧豕云。
 translation: 
+In the first year of Jianhe, Hu Guang was appointed Taiwei on his behalf.
 Emperor Huan planned to accept Liang Ji's sister as his queen. Liang Ji wanted to welcome his sister with generous gifts, but Du Qiao refused to listen to him according to the old regulations.
 Liang Ji asked Du Qiao to appoint Si Gong as minister. Du Qiao believed that Si Gong was guilty of embezzlement and refused to use it. This greatly contradicted Liang Ji's wishes.
 First, Li Gu was deposed, and everyone inside and outside the court was dejected. All the ministers were afraid and trembling. Only Du Qiao was serious and did not dare to offend.
@@ -242,5 +189,5 @@ He was appointed chief of Qi, had outstanding political achievements, and was pr
 At this time, Xu Zeng, the Prime Minister of the State, was the elder brother of Xu Huang, the imperial minister. Yang Kuang thought it was shameful to work with him, so he pretended to be ill and went home to herd pigs.
 
 summary:
-summary line 5: Du Qiao, courtesy name Shurong, was from Linli, Hanoi. He served as a prefect and later as a servant. He reported that Li Gu had the best political performance and that others, including Liang Ji's relatives, had embezzled money. He was promoted to Minister of Agriculture. He remonstrated against granting titles to Liang Ji's relatives and eunuchs without merit, warning it would cause chaos. He refused Liang Ji's requests to borrow evidence and attend his daughter's funeral, earning Liang Ji's hatred. As Guang Luxun, he opposed lavish gifts for Liang Ji's sister becoming queen and refused to appoint a corrupt official. After Li Gu was deposed, Du Qiao remained serious and unyielding. He was dismissed due to an earthquake. Eunuchs and Liang Ji framed him for opposing the emperor's ascension and colluding with Li Gu. He was arrested and died in prison. His body was exposed, but his former subordinate Yang Kuang mourned him and requested burial, which the Empress Dowager granted. The historian commented that Li Gu and Du Qiao sacrificed their lives for righteousness, unlike Hu Guang and Zhao Jie.
+summary line 4: Du Qiao, courtesy name Shurong, was from Linli, Hanoi. He served as a prefect and later as a servant. He reported that Li Gu had the best political performance and that others, including Liang Ji's relatives, had embezzled money. He was promoted to Minister of Agriculture. He remonstrated against granting titles to Liang Ji's relatives and eunuchs without merit, warning it would cause chaos. He refused Liang Ji's requests to borrow evidence and attend his daughter's funeral, earning Liang Ji's hatred. As Guang Luxun, he opposed lavish gifts for Liang Ji's sister becoming queen and refused to appoint a corrupt official. After Li Gu was deposed, Du Qiao remained serious and unyielding. He was dismissed due to an earthquake. Eunuchs and Liang Ji framed him for opposing the emperor's ascension and colluding with Li Gu. He was arrested and died in prison. His body was exposed, but his former subordinate Yang Kuang mourned him and requested burial, which the Empress Dowager granted. The historian commented that Li Gu and Du Qiao sacrificed their lives for righteousness, unlike Hu Guang and Zhao Jie.
 

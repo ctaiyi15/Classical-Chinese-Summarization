@@ -19,8 +19,6 @@ original:
 段颎大破先零羌于逢义山。
 闰月甲午，追尊皇祖为孝元皇，夫人夏氏为孝元皇后，考为孝仁皇，夫人董氏为慎园贵人。
 夏四月戊辰，大尉周景薨。
-司空宣酆免，长乐卫尉王畅为司空。
-五月丁未朔，日有食之。
 translation: 
 Emperor Xiaoling, Liu Hong, was the great-great-grandson of Emperor Suzong.
 His great-grandfather Liu Kai, the Xiaowang of Hejian, his grandfather Liu Shu, and his father Liu Chang.
@@ -41,12 +39,12 @@ The titles and silks given to the people varied.
 Duan Jiong defeated the Xianling Qiang at Fengyi Mountain.
 On the first day of the third month of the leap month, the imperial ancestor was named Emperor Xiaoyuan, his wife Xia was named Queen Xiaoyuan, his father was named Emperor Xiaoren, and his wife Dong was the noble lady of Shenyuan.
 On the Wuchen day of April in the summer, Taiwei Zhou Jing passed away.
-Sikong Xuanbang was dismissed from his post and appointed Changle Weiwei as Sikong.
-On the first day of May, a solar eclipse occurs.
 
 
 Chunk 1: 
 original: 
+司空宣酆免，长乐卫尉王畅为司空。
+五月丁未朔，日有食之。
 诏公卿以下各上封事，及郡国守、相举有道之士各一人；又故刺史、二千石清高有遗惠、为众所归者，皆诣公车。
 太中大夫刘矩为太尉。
 六月，京师雨水。
@@ -62,10 +60,9 @@ original:
 二年春正月丁丑，大赦天下。
 三月乙巳，尊慎园董贵人为孝仁皇后。
 夏四月癸巳，大风，雨雹。
-诏公卿以下各上封事。
-五月，大尉闻人袭罢，司空许栩免。
-六月，司徒刘宠为太尉，太常许训为司徒，太仆长沙刘嚣为司空。
 translation: 
+Sikong Xuanbang was dismissed from his post and appointed Changle Weiwei as Sikong.
+On the first day of May, a solar eclipse occurs.
 The ministers and ministers below were ordered to write secretly to make criticisms and suggestions on the state affairs, to report and expose, and to recommend one person to the governor of the county and the country. The former governor, Erqianshi Qinggao, who had left a legacy and was supported by the masses, all came to the bus door.
 Liu Ju, the Taizhong doctor, was appointed Taiwei.
 In June, it rains a lot in the capital.
@@ -81,13 +78,13 @@ In December, the Xianbei and Haoqi bandits raided You and merged with the two st
 In the spring of the second year, on the first month of the first lunar month, Ding Chou held a general amnesty for the whole world.
 On the third day of March, Gui Dong of Zun Shen Garden was appointed Queen Xiaoren.
 On April 22nd in the summer, strong winds blew and hail fell.
-The ministers and ministers below were ordered to secretly submit criticisms and suggestions on state affairs, and report and expose them.
-In May, the Taiwei heard about the attack and left, and Sikong Xu Xu was dismissed from his post.
-In June, he appointed Situ Liu Chong as Taiwei, Taichang Xu Xun as Situ, and Taiwen Changsha Liu Xiao as Sikong.
 
 
 Chunk 2: 
 original: 
+诏公卿以下各上封事。
+五月，大尉闻人袭罢，司空许栩免。
+六月，司徒刘宠为太尉，太常许训为司徒，太仆长沙刘嚣为司空。
 秋七月，破羌将军段颎大破先零羌于射虎塞外谷。
 东羌悉平。九月，江夏蛮叛，州郡讨平之。
 丹阳山越贼围太守陈夤，夤击破之。
@@ -106,7 +103,11 @@ original:
 冬，济南贼起，攻东平陵。
 郁林乌浒民相率内属。
 四年春正月甲子，帝加元服，大赦天下。
+赐公卿以下各有差，唯党人不赦。
 translation: 
+The ministers and ministers below were ordered to secretly submit criticisms and suggestions on state affairs, and report and expose them.
+In May, the Taiwei heard about the attack and left, and Sikong Xu Xu was dismissed from his post.
+In June, he appointed Situ Liu Chong as Taiwei, Taichang Xu Xun as Situ, and Taiwen Changsha Liu Xiao as Sikong.
 In the seventh month of the autumn, general Duan Yin of Po Qiang defeated the Xianling Qiang in the valley outside Shehu Fortress, and the Eastern Qiang were all pacified.
 In September, the barbarians in Jiangxia rebelled, and the prefectures and counties subsided.
 Danyangshan Yue thieves surrounded the prefect Chen Wei, but Chen Wei defeated them.
@@ -125,11 +126,11 @@ In September, Jinwu Dong Chong died in prison.
 In winter, bandits appeared in Jinan and attacked Dongpingling.
 The people of Yulin and Wuhu returned to the mainland together with each other.
 On the third day of the first lunar month in the fourth year of spring, the emperor crowned the emperor and granted amnesty to the whole world.
+There are no differences between the ministers and the ministers. Only party members will not be forgiven.
 
 
 Chunk 3: 
 original: 
-赐公卿以下各有差，唯党人不赦。
 二月癸卯，地震，海水溢，河水清。
 三月辛酉朔，日有食之。
 太尉闻人袭免，太仆李咸为太尉。
@@ -152,7 +153,6 @@ original:
 宦官讽司隶校尉段颎捕系太学诸生千余人。
 冬十月，渤海王悝被诬谋反，丁亥，悝及妻子皆自杀。
 translation: 
-There are no differences between the ministers and the ministers. Only party members will not be forgiven.
 On February 13, an earthquake occurred, the sea water overflowed, and the water of the Yellow River was clear.
 On Xinyoushuo day in March, there was a solar eclipse.
 When the Taiwei heard about the attack, he was dismissed from his post and appointed his servant Li Xian as the Taiwei.
@@ -246,11 +246,6 @@ original:
 令郡国遇灾者，减田租之半；其伤害十四以上，勿收责。
 冬十月丁巳，令天下系囚罪未决，入缣赎。
 拜冲帝母虞美人为宪园贵人，质帝母陈夫人为勃海孝王妃。
-改平准为中准，使宦者为令，列于内署。
-自是诸署悉以阉人为丞、令。
-五年夏四月癸亥，大赦天下。
-益州郡夷叛，太守李颙讨平之。
-复崇高山名为嵩高山。
 translation: 
 On the fourteenth day of the tenth month in winter, it was ordered that all prisoners in custody who had not been sentenced should be punished by imprisonment.
 In November, Zang Min, the governor of Yangzhou, led Chen Wei, the prefect of Danyang, to defeat Xu Sheng in Kuaiji and killed him.
@@ -269,15 +264,15 @@ Send palace guards to the salt prison to run through the canals for the benefit 
 If the county suffers a disaster, half of the land rent will be reduced; if more than four-tenths of the damage is caused, the money owed will not be collected.
 On October 23rd in winter, it was ordered that all prisoners in the country who had not been sentenced should be punished.
 He worshiped Emperor Chong's mother, Yu Mei, as the noble lady of Xianyuan, and worshiped Emperor Zhi's mother, Mrs. Chen, as Princess Xiao of Bohai.
-Change Pingzhun to Zhongzhun, entrust eunuchs to make orders, and list them in the internal affairs department.
-Since then, all offices have eunuchs as prime ministers and ministers.
-In the summer of the fifth year and in the fourth month of Guihai, a general amnesty was granted to the whole world.
-The Yi people in Yizhou County rebelled, and the prefect Li Yong suppressed their rebellion.
-The lofty mountain was restored and named Songgao Mountain.
 
 
 Chunk 6: 
 original: 
+改平准为中准，使宦者为令，列于内署。
+自是诸署悉以阉人为丞、令。
+五年夏四月癸亥，大赦天下。
+益州郡夷叛，太守李颙讨平之。
+复崇高山名为嵩高山。
 大雩。
 使侍御史行诏狱亭部，理冤枉，原轻系，休囚徒。
 五月，太尉陈耽罢，司空许训为太尉。
@@ -290,15 +285,12 @@ original:
 十一月丙戌，光禄大夫杨赐为司徒。
 十二月，甘陵王定薨。
 试太学生年六十以上百余人，除郎中、太子舍人至王家郎、郡国文学吏。
-是岁，鲜卑寇幽州。
-沛国言黄龙见谯。
-六年春正月辛丑，大赦天下。
-二月，南宫平城门及武库东垣屋自坏。
-夏四月，大旱，七州蝗。
-鲜卑寇三边。
-市贾民为宣陵孝子者数十人，皆除太子舍人。
-秋七月，司空刘逸免，卫尉陈球为司空。
 translation: 
+Change Pingzhun to Zhongzhun, entrust eunuchs to make orders, and list them in the internal affairs department.
+Since then, all offices have eunuchs as prime ministers and ministers.
+In the summer of the fifth year and in the fourth month of Guihai, a general amnesty was granted to the whole world.
+The Yi people in Yizhou County rebelled, and the prefect Li Yong suppressed their rebellion.
+The lofty mountain was restored and named Songgao Mountain.
 The Ozu Festival is held to pray for rain.
 The imperial censor was sent to inspect the prisons where prisoners were detained under the imperial edict, and the pavilion guards who were in charge of catching thieves, clearing up unjust cases, pardoning prisoners who had committed misdemeanors and pardoning them according to their circumstances, and allowing prisoners who were doing hard labor to rest.
 In May, Taiwei Chen Dan resigned and was appointed Sikong Xu Xun as Taiwei.
@@ -311,18 +303,18 @@ Situ Yuan Kai left.
 In November Bingxu, Guanglu doctor Yang was granted the title of Situ.
 In December, King Liu Ding of Ganling passed away.
 More than 100 students who were over 60 years old in the exam were appointed as doctors, princes, princes, princes, princes, princes, princes, princes, princes, and county literary officials.
-This year, the Xianbei bandits raided Youzhou.
-Peiguo reported that Huanglong appeared in Qiao.
-On the fifteenth day of the first month of the sixth year of spring, a general amnesty was held.
-In February, the Nangong Pingcheng Gate and the Dongyuan House of the Arsenal were naturally destroyed.
-In April, a major drought occurred and locust plagues occurred in seven states.
-The Xianbei bandits raided the east, west and north sides.
-Dozens of Jiamin in the city were filial sons of Xuanling, and all of them were appointed as Prince Sheren.
-In the seventh month of autumn, Sikong Liu Yi was dismissed and appointed Wei Wei Chen Qiu as Sikong.
 
 
 Chunk 7: 
 original: 
+是岁，鲜卑寇幽州。
+沛国言黄龙见谯。
+六年春正月辛丑，大赦天下。
+二月，南宫平城门及武库东垣屋自坏。
+夏四月，大旱，七州蝗。
+鲜卑寇三边。
+市贾民为宣陵孝子者数十人，皆除太子舍人。
+秋七月，司空刘逸免，卫尉陈球为司空。
 八月，遣破鲜卑中郎将田晏出云中，使匈奴中郎将臧旻与南单于出雁门，护乌桓校尉夏育出高柳，并伐鲜卑，晏等大败。
 冬十月癸丑朔，日有食之。太尉刘宽免。
 帝临辟雍。
@@ -341,13 +333,15 @@ original:
 三月辛丑，大赦天下，改元光和。
 太常常山张颢为太尉。
 夏四月丙辰，地震。
-侍中寺雌鸡化为雄。
-司空陈耽免，太常来艳为司空。
-五月壬午，有白衣人入德阳殿门，亡去不获。
-六月丁丑，有黑气堕所御温德殿庭中。
-秋七月壬子，青虹见御坐玉堂后殿庭中。
-八月，有星孛于天市。
 translation: 
+This year, the Xianbei bandits raided Youzhou.
+Peiguo reported that Huanglong appeared in Qiao.
+On the fifteenth day of the first month of the sixth year of spring, a general amnesty was held.
+In February, the Nangong Pingcheng Gate and the Dongyuan House of the Arsenal were naturally destroyed.
+In April, a major drought occurred and locust plagues occurred in seven states.
+The Xianbei bandits raided the east, west and north sides.
+Dozens of Jiamin in the city were filial sons of Xuanling, and all of them were appointed as Prince Sheren.
+In the seventh month of autumn, Sikong Liu Yi was dismissed and appointed Wei Wei Chen Qiu as Sikong.
 In August, the Xianbei Zhonglang general Tian Yan was sent to Yunzhong, the Xiongnu Zhonglang general Zang Min and Nan Shanyu were sent to Yanmen, and the Wuhuan captain Xia Yu sent troops to Gaoliu to attack Xianbei. Tian Yan and others were defeated.
 On the first day of October in winter, there is a solar eclipse. Taiwei Liu Kuan was dismissed from his post.
 The emperor came to Piyong.
@@ -366,16 +360,16 @@ Start setting up Hongdumen students.
 On Xinchou Day in March, a general amnesty was granted to the whole country, and the name was changed to Guanghe.
 He appointed Zhang Hao from Taichang Mountain as Taiwei.
 On the seventh day of April in summer, there was an earthquake.
-The female chicken of Shizhong Temple turned into a rooster.
-Sikong Chen Dan was dismissed from his post and Taichang Laiyan was appointed as Sikong.
-On the third day of May, a man in white entered the gate of Deyang Palace and escaped without being captured.
-On June 29, black energy fell into the Wende Palace Courtyard where the emperor lived.
-In autumn, in the seventh month of Renzi, a green rainbow appeared in the courtyard behind the jade hall where the emperor sat.
-The August comet appears in the sky star.
 
 
 Chunk 8: 
 original: 
+侍中寺雌鸡化为雄。
+司空陈耽免，太常来艳为司空。
+五月壬午，有白衣人入德阳殿门，亡去不获。
+六月丁丑，有黑气堕所御温德殿庭中。
+秋七月壬子，青虹见御坐玉堂后殿庭中。
+八月，有星孛于天市。
 九月，太尉张颢罢，太常陈球为太尉。司空来艳薨。
 冬十月，屯骑校尉袁逢为司空。
 皇后宋氏废，后父执金吾酆下狱死。
@@ -391,18 +385,13 @@ original:
 乙丑，太尉桥玄罢，太中大夫段颎为太尉。
 京兆地震。
 司空袁逢罢，太常张济为司空。
-夏四月甲戌朔，日有食之。辛巳，中常侍王甫及太尉段颎并下狱死。
-丁酉，大赦天下，诸党人禁锢小功以下皆除之。
-东平王端薨。
-五月，卫尉刘宽为太尉。
-秋七月，使匈奴中郎将张脩有罪，下狱死。
-冬十月甲申，司徒刘郃、永乐少府陈球、卫尉阳球、步兵校尉刘纳谋诛宦者，事泄，皆下狱死。
-巴郡板楯蛮叛，遣御史中丞萧瑗督益州刺史讨之，不克。
-十二月，光禄勋杨赐为司徒。
-鲜卑寇幽、并二州。
-是岁，河间王利薨。
-洛阳女子生儿，两头四臂。
 translation: 
+The female chicken of Shizhong Temple turned into a rooster.
+Sikong Chen Dan was dismissed from his post and Taichang Laiyan was appointed as Sikong.
+On the third day of May, a man in white entered the gate of Deyang Palace and escaped without being captured.
+On June 29, black energy fell into the Wende Palace Courtyard where the emperor lived.
+In autumn, in the seventh month of Renzi, a green rainbow appeared in the courtyard behind the jade hall where the emperor sat.
+The August comet appears in the sky star.
 In September, Taiwei Zhang Hao resigned and Taichang Chen Qiu was appointed as Taiwei. Sikong Laiyan died.
 In October of winter, Yuan Feng, the commander of the garrison cavalry school, became Sikong.
 The Queen Song family was deposed, and the Queen's father was imprisoned by Jinwu Song Bang to death.
@@ -418,6 +407,29 @@ In March, Situ Yuan Pang was dismissed and Dahonglu and Liu He were appointed Si
 On the 22nd, Taiwei Qiaoxuan resigned and appointed Duan Yu, the senior official of Taizhong, as Taiwei.
 An earthquake occurred in Beijing.
 Sikong Yuan Feng was dismissed and Taichang Zhang Ji was appointed as Sikong.
+
+
+Chunk 9: 
+original: 
+夏四月甲戌朔，日有食之。辛巳，中常侍王甫及太尉段颎并下狱死。
+丁酉，大赦天下，诸党人禁锢小功以下皆除之。
+东平王端薨。
+五月，卫尉刘宽为太尉。
+秋七月，使匈奴中郎将张脩有罪，下狱死。
+冬十月甲申，司徒刘郃、永乐少府陈球、卫尉阳球、步兵校尉刘纳谋诛宦者，事泄，皆下狱死。
+巴郡板楯蛮叛，遣御史中丞萧瑗督益州刺史讨之，不克。
+十二月，光禄勋杨赐为司徒。
+鲜卑寇幽、并二州。
+是岁，河间王利薨。
+洛阳女子生儿，两头四臂。
+三年春正月癸酉，大赦天下。
+二月，公府驻驾庑自坏。
+三月，梁王元薨。
+夏四月，江夏蛮叛。
+六月，诏公卿举能通《古文尚书》、《毛诗》、《左氏》、《穀梁春秋》各一人，悉除议郎。
+秋，表是地震，涌水出。
+八月，令系囚罪未决，入缣赎，各有差。
+translation: 
 On the first day of April in summer, there is a solar eclipse. On the eighth day of the lunar month, Wang Fu, the regular attendant, and Duan Zhen, the Taiwei, were both imprisoned to death.
 On the 24th, there was a general amnesty for the whole country, and all party members who were implicated, including children and younger, were released from imprisonment.
 Liu Duan, King of Dongping, passed away.
@@ -429,17 +441,17 @@ In December, he was appointed Situ by Guang Luxun and Yang Ci.
 The Xianbei bandits plundered You and merged with two states.
 In this year, Liu Li, the king of Hejian, passed away.
 A woman in Luoyang gave birth to a son with two heads and four arms.
+In the spring of the third year of the first lunar month, Guiyou, a general amnesty was granted to the whole world.
+In February, the parking lot of Sangong Mansion collapsed on its own.
+In March, Liang Wang Liu Yuan passed away.
+In April of summer, the barbarians in Jiangxia rebelled.
+In the sixth month, the imperial edict recommended one person who was proficient in "Guwen Shangshu", "Mao Shi", "Zuo Shi", and "Gu Liang Chun Qiu" to be appointed as Yilang.
+In autumn, there are earthquakes and gushing water.
+In August, prisoners in custody whose crimes have not yet been judged can be punished by serving various punishments.
 
 
-Chunk 9: 
+Chunk 10: 
 original: 
-三年春正月癸酉，大赦天下。
-二月，公府驻驾庑自坏。
-三月，梁王元薨。
-夏四月，江夏蛮叛。
-六月，诏公卿举能通《古文尚书》、《毛诗》、《左氏》、《穀梁春秋》各一人，悉除议郎。
-秋，表是地震，涌水出。
-八月，令系囚罪未决，入缣赎，各有差。
 冬闰月，有星孛于狼、弧。
 鲜卑寇幽、并二州。
 十二月己巳，立贵人何氏为皇后。
@@ -457,14 +469,11 @@ original:
 冬十月，太常陈耽为司徒。
 鲜卑寇幽、并二州。
 是岁，帝作列肆于后宫，使诸采女贩卖，更相盗窃争斗。
+帝著商估服，饮宴为乐。
+又于西园弄狗，著进贤冠，带绶。
+又驾四驴，帝躬自操辔，驱驰周旋，京师转相放效。
+五年春正月辛未，大赦天下。
 translation: 
-In the spring of the third year of the first lunar month, Guiyou, a general amnesty was granted to the whole world.
-In February, the parking lot of Sangong Mansion collapsed on its own.
-In March, Liang Wang Liu Yuan passed away.
-In April of summer, the barbarians in Jiangxia rebelled.
-In the sixth month, the imperial edict recommended one person who was proficient in "Guwen Shangshu", "Mao Shi", "Zuo Shi", and "Gu Liang Chun Qiu" to be appointed as Yilang.
-In autumn, there are earthquakes and gushing water.
-In August, prisoners in custody whose crimes have not yet been judged can be punished by serving various punishments.
 In the leap month of winter, comets appear on the two stars Wolf and Arc.
 The Xianbei bandits harassed You and merged with two states.
 On the fifth day of the twelfth lunar month, the noble He family was made queen.
@@ -482,14 +491,14 @@ Situ Yangci left.
 In the tenth month of winter, Taichang and Chen Dan were appointed as Situ.
 Xianbei bandits plundered You and merged two states.
 This year, the emperor built a series of shops in the inner palace where the concubines lived, allowing many colorful girls to do business. They stole from each other, fought and fought.
+The emperor wore the clothes of a businessman and held banquets, drinking and having fun.
+He also played with dogs in the West Garden and made the dogs wear the crowns and ribbons used by civil servants.
+He also harnessed the chariot to four donkeys, and the emperor personally drove and pulled the bridles. They galloped around, and the capitals followed suit.
+On the fourteenth day of the first month of the fifth year of spring, a general amnesty was granted to the whole world.
 
 
-Chunk 10: 
+Chunk 11: 
 original: 
-帝著商估服，饮宴为乐。
-又于西园弄狗，著进贤冠，带绶。
-又驾四驴，帝躬自操辔，驱驰周旋，京师转相放效。
-五年春正月辛未，大赦天下。
 二月，大疫。
 三月，司徒陈耽免。
 夏四月，旱。
@@ -511,11 +520,9 @@ original:
 始置圃囿署，以宦者为令。
 冬，东海、东莱、琅邪井中冰厚尺余。
 大有年。
+中平元年春二月，巨鹿人张角自称 黄天 ，其部帅有三十六方，皆著黄巾，同日反叛。
+安平、甘陵人各执其王以应之。
 translation: 
-The emperor wore the clothes of a businessman and held banquets, drinking and having fun.
-He also played with dogs in the West Garden and made the dogs wear the crowns and ribbons used by civil servants.
-He also harnessed the chariot to four donkeys, and the emperor personally drove and pulled the bridles. They galloped around, and the capitals followed suit.
-On the fourteenth day of the first month of the fifth year of spring, a general amnesty was granted to the whole world.
 In February, a major epidemic occurred.
 In March, Situ Chendan was dismissed from office.
 In the summer of April, drought occurs.
@@ -537,12 +544,12 @@ The Wuyuan mountain bank collapsed.
 A nursery and confinement office was set up, with eunuchs as orders.
 In winter, the ice in Donghai, Donglai and Langfu wells is more than a foot thick.
 This year is a year of great harvest.
+In the spring and February of the first year of Zhongping, Zhang Jiao from Julu called himself "Huang Tian". Thirty-six commanders under his command, all wearing yellow scarves, rebelled on the same day.
+The people of Anping and Ganling each took their kings Liu Xu and Liu Zhong hostage and rose up to respond.
 
 
-Chunk 11: 
+Chunk 12: 
 original: 
-中平元年春二月，巨鹿人张角自称 黄天 ，其部帅有三十六方，皆著黄巾，同日反叛。
-安平、甘陵人各执其王以应之。
 三月戊申，以河南尹何进为大将军，将兵屯都亭。
 置八关都尉官。壬子，大赦天下党人，还诸徙者，唯张角不赦。
 诏公卿出马、弩，举列将子孙及吏民有明战阵之略者，诣公车。
@@ -559,6 +566,27 @@ original:
 交阯屯兵执刺史及合浦太守来达，自称 柱天将军 ，遣交阯刺史贾琮讨平之。
 皇甫嵩、朱俊大破汝南黄巾于西华。
 诏嵩讨东郡，朱俊讨南阳。
+translation: 
+On the third day of March, he appointed Henan Yin Hejin as the general and led his troops to garrison in the capital pavilion.
+Set up the eight passes of Hangu, Guangcheng, Yique, Dugu, Longyuan, Xuanmen, Xiaopingjin and Mengjin. On the seventh day of the lunar month, all party members in the world were pardoned, and all those who had been exiled were recalled to their hometowns. Only Zhang Jiao was not pardoned.
+The ministers were ordered to present their horses, bows and crossbows, and the descendants of the generals, officials and people who were shrewd in war strategies were recommended to come to the carriage door.
+Send Bei Zhonglang's general Lu Zhi to attack Zhang Jiao, Zuo Zhonglang's general Huangfu Song, and You Zhonglang's general Zhu Jun to attack the Yingchuan Yellow Turbans.
+Gengzi, Nanyang Yellow Turban Zhang Mancheng attacked and killed the governor Chu Gong.
+In April of summer, Taiwei Yang Ci was dismissed from his post and his servant Hongnong Deng Sheng was appointed as Taiwei.
+Sikong Zhang Ji resigned and was appointed as Sikong Zhang Wen.
+Zhu Jun was defeated by Huang Jinbo.
+Attendants Xiang Xu and Zhang Jun were imprisoned for gossiping about eunuchs.
+The Runan Yellow Turbans defeated the prefect Zhao Qian in Shaoling.
+The Yellow Turbans in Guangyang killed Guo Xun, the governor of Youzhou, and Liu Wei, the prefect.
+In May, Huangfu Song and Zhu Jun fought against Bo Cai again in Changshe and defeated Bo Cai.
+In June, Qin Jie, the governor of Nanyang, attacked Zhang Mancheng and killed him.
+The troops stationed in Jiaozhi captured the governor and the prefect of Hepu and came to Da. They called themselves General Zhutian and sent Jia Cong, the governor of Jiaozhi, to attack and put down their rebellion.
+Huangfu Song and Zhu Jun defeated the Runan Yellow Turbans in Xihua.
+Huangfu Song was ordered to attack Dongjun, and Zhu Jun was ordered to attack Nanyang.
+
+
+Chunk 13: 
+original: 
 卢植破黄巾，围张角于广宗。
 宦官诬奏植，抵罪。
 遣中郎将董卓攻张角，不克。
@@ -578,24 +606,6 @@ original:
 十二月己巳，大赦天下，改元中平。
 是岁，下邳王意薨，无子，国除。
 translation: 
-In the spring and February of the first year of Zhongping, Zhang Jiao from Julu called himself "Huang Tian". Thirty-six commanders under his command, all wearing yellow scarves, rebelled on the same day.
-The people of Anping and Ganling each took their kings Liu Xu and Liu Zhong hostage and rose up to respond.
-On the third day of March, he appointed Henan Yin Hejin as the general and led his troops to garrison in the capital pavilion.
-Set up the eight passes of Hangu, Guangcheng, Yique, Dugu, Longyuan, Xuanmen, Xiaopingjin and Mengjin. On the seventh day of the lunar month, all party members in the world were pardoned, and all those who had been exiled were recalled to their hometowns. Only Zhang Jiao was not pardoned.
-The ministers were ordered to present their horses, bows and crossbows, and the descendants of the generals, officials and people who were shrewd in war strategies were recommended to come to the carriage door.
-Send Bei Zhonglang's general Lu Zhi to attack Zhang Jiao, Zuo Zhonglang's general Huangfu Song, and You Zhonglang's general Zhu Jun to attack the Yingchuan Yellow Turbans.
-Gengzi, Nanyang Yellow Turban Zhang Mancheng attacked and killed the governor Chu Gong.
-In April of summer, Taiwei Yang Ci was dismissed from his post and his servant Hongnong Deng Sheng was appointed as Taiwei.
-Sikong Zhang Ji resigned and was appointed as Sikong Zhang Wen.
-Zhu Jun was defeated by Huang Jinbo.
-Attendants Xiang Xu and Zhang Jun were imprisoned for gossiping about eunuchs.
-The Runan Yellow Turbans defeated the prefect Zhao Qian in Shaoling.
-The Yellow Turbans in Guangyang killed Guo Xun, the governor of Youzhou, and Liu Wei, the prefect.
-In May, Huangfu Song and Zhu Jun fought against Bo Cai again in Changshe and defeated Bo Cai.
-In June, Qin Jie, the governor of Nanyang, attacked Zhang Mancheng and killed him.
-The troops stationed in Jiaozhi captured the governor and the prefect of Hepu and came to Da. They called themselves General Zhutian and sent Jia Cong, the governor of Jiaozhi, to attack and put down their rebellion.
-Huangfu Song and Zhu Jun defeated the Runan Yellow Turbans in Xihua.
-Huangfu Song was ordered to attack Dongjun, and Zhu Jun was ordered to attack Nanyang.
 Lu Zhi broke the yellow scarf and surrounded Guangzong.
 The eunuch falsely accused Lu Zhi of committing the crime.
 He sent General Dong Zhuo to attack Zhangjiao, but failed to capture it.
@@ -616,7 +626,7 @@ On December 29th, a general amnesty was granted to the whole country, and the Yu
 In this year, Liu Yi, the king of Xiapi, passed away without any children, and the feudal state was revoked.
 
 
-Chunk 12: 
+Chunk 14: 
 original: 
 郡国生异草，备龙蛇鸟兽之形。
 二年春正月，大疫。
@@ -638,8 +648,6 @@ original:
 前司徒陈耽、谏议大夫刘陶坐直言，下狱死。
 十一月，张温破北宫伯玉于美阳，因遣荡寇将军周慎追击之，围榆中；又遣中郎将董卓讨先零羌。慎、卓并不克。
 鲜卑寇幽、并二州。
-是岁，造万金堂于西园。
-洛阳民生儿，两头四臂。
 translation: 
 Strange grass grows in the county, taking the form of dragons, snakes, birds and beasts.
 In the first month of the spring of the second year, the epidemic spread.
@@ -661,12 +669,12 @@ In the winter of October, Gengyin, Sikong Yangci passed away, and Xu Xiang, the 
 Former Situ Chen Dan and admonishment doctor Liu Tao were imprisoned for speaking out.
 In November, Zhang Wen defeated Beigong Boyu in Meiyang, and sent the gangster general Zhou Shen to pursue and surround Yuzhong. He also sent Zhonglang general Dong Zhuo to attack the Xianling Qiang. Neither Zhou Shen nor Dong Zhuo won.
 The Xianbei bandits plundered You and merged with two states.
-This year, Wanjin Hall was built in the West Garden.
-The people of Luoyang are born with two heads and four arms.
 
 
-Chunk 13: 
+Chunk 15: 
 original: 
+是岁，造万金堂于西园。
+洛阳民生儿，两头四臂。
 三年春二月，江夏兵赵慈反，杀南阳太守秦颉。
 庚戌，大赦天下。
 大尉张延罢。
@@ -684,14 +692,9 @@ original:
 三月，河南尹何苗讨荥阳贼，破之，拜苗为车骑将军。
 夏四月，凉州刺史耿鄙讨金城贼韩遂，鄙兵大败，遂寇汉阳，汉阳太守傅燮战没。
 扶风人马腾、汉阳人王国并叛，寇三辅。
-太尉张温免，司徒崔烈为太尉。
-五月，司空许相为司徒，光禄勋沛国丁宫为司空。
-六月，洛阳民生男，两头共身。
-渔阳人张纯与同郡张举举兵叛，攻杀右北平太守刘政、辽东太守杨终、护乌桓校尉公綦稠等。
-举自称天子，寇幽、冀二州。
-秋九月丁酉，令天下系囚罪未决，入缣赎。
-冬十月，零陵人观鹄自称 平天将军 ，寇桂阳，长沙太守孙坚击斩之。
 translation: 
+This year, Wanjin Hall was built in the West Garden.
+The people of Luoyang are born with two heads and four arms.
 In the spring and February of the third year, Zhao Ci, a soldier from Jiangxia, rebelled and killed Qin Jie, the prefect of Nanyang.
 On the 16th, a general amnesty was given to the whole world.
 Taiwei Zhang Yan left.
@@ -709,17 +712,17 @@ On the 11th, the inner hall of the Nangong and the Ququ Pavilion were destroyed 
 In March, Yin Hemiao of Henan attacked the Xingyang bandits and defeated them. He Miao was awarded the title of General of Chariots and Cavalry.
 In April of summer, Liangzhou governor Geng Bi attacked the Jincheng bandit Han Sui, and Geng Bi's army was defeated. Han Sui invaded Hanyang and Fu Xie, the prefect of Hanyang, died in the battle.
 The Fufeng people Ma Teng and the Hanyang people rebelled at the same time, and the bandits plundered the three auxiliaries.
-Taiwei Zhang Wen was dismissed from his post and appointed Situ Cui Lie as Taiwei.
-In May, he appointed Sikong Xuxiang as Situ, and Guanglu Xunpei Guoding Palace as Sikong.
-In June, Luoyang Minsheng male, both ends share the same body.
-Zhang Chun from Yuyang and Zhang Ju from the same county rebelled and attacked and killed Liu Zheng, the governor of Beiping, Yang Zhong, the governor of Liaodong, Gong Qichou, the governor of Wuhuan School, and others.
-Zhang Ju claimed to be the emperor and raided Youzhou and Jizhou.
-On September 13th in the autumn, it is ordered that all prisoners in custody who have not yet been sentenced can be put into prison to atone for their sins.
-In the tenth month of winter, Guan Hu, a native of Lingling, called himself "General Pingtian" and raided Guiyang. Sun Jian, the governor of Changsha, attacked and killed him.
 
 
-Chunk 14: 
+Chunk 16: 
 original: 
+太尉张温免，司徒崔烈为太尉。
+五月，司空许相为司徒，光禄勋沛国丁宫为司空。
+六月，洛阳民生男，两头共身。
+渔阳人张纯与同郡张举举兵叛，攻杀右北平太守刘政、辽东太守杨终、护乌桓校尉公綦稠等。
+举自称天子，寇幽、冀二州。
+秋九月丁酉，令天下系囚罪未决，入缣赎。
+冬十月，零陵人观鹄自称 平天将军 ，寇桂阳，长沙太守孙坚击斩之。
 十一月，太尉崔烈罢，大司农曹嵩为太尉。
 十二月，休屠各胡叛。
 是岁，卖关内侯，假金印紫绶，传世，入钱五百万。
@@ -728,6 +731,26 @@ original:
 二月，有星孛于紫宫。
 黄巾余贼郭太等起于西河白波谷，寇太原、河东。
 三月，休屠各胡攻杀并州刺史张懿，遂与南匈奴左部胡合，杀其单于。
+translation: 
+Taiwei Zhang Wen was dismissed from his post and appointed Situ Cui Lie as Taiwei.
+In May, he appointed Sikong Xuxiang as Situ, and Guanglu Xunpei Guoding Palace as Sikong.
+In June, Luoyang Minsheng male, both ends share the same body.
+Zhang Chun from Yuyang and Zhang Ju from the same county rebelled and attacked and killed Liu Zheng, the governor of Beiping, Yang Zhong, the governor of Liaodong, Gong Qichou, the governor of Wuhuan School, and others.
+Zhang Ju claimed to be the emperor and raided Youzhou and Jizhou.
+On September 13th in the autumn, it is ordered that all prisoners in custody who have not yet been sentenced can be put into prison to atone for their sins.
+In the tenth month of winter, Guan Hu, a native of Lingling, called himself "General Pingtian" and raided Guiyang. Sun Jian, the governor of Changsha, attacked and killed him.
+In November, Cui Lie, the Taiwei, resigned and appointed Cao Song, the chief minister, as the Taiwei.
+In December, Xiutu Gehu rebelled.
+This year, the Marquis of Guan Nei was sold and given a gold seal and purple ribbon, which could be passed down to descendants for generations, and he paid five million.
+In the first month of the spring of the fifth year, Xiu massacred all the barbarian bandits and raided Xihe, killing the county governor Xing Ji.
+On the 15th, a general amnesty was given to the whole world.
+The February Comet appears in the constellation Purple House.
+The remaining Yellow Turban bandits Guo Tai and others started in the Baibo Valley of the Xihe River and raided Taiyuan and Hedong.
+In March, Xiutu Gehu attacked and killed Zhang Yi, the governor of Bingzhou, and joined forces with the Hu people from the left of the Southern Xiongnu to kill the Chanyu of the Southern Xiongnu.
+
+
+Chunk 17: 
+original: 
 夏四月，汝南葛陂黄巾攻没郡县。
 太尉曹嵩罢。
 五月，永乐少府樊陵为太尉。
@@ -741,15 +764,16 @@ original:
 光禄勋南阳刘弘为司空。
 卫尉董重为票骑将军。
 九月，南单于叛，与白波贼寇河东。
+遣中郎将孟益率骑都尉公孙瓒讨渔阳贼张纯等。
+冬十月，青、徐黄巾复起，寇郡县。
+甲子，帝自称 无上将军 ，燿兵于平乐观。
+十一月，凉州贼王国围陈仓，右将军皇甫嵩救之。
+遣下军校尉鲍鸿讨葛陂黄巾。
+巴郡板楯蛮叛，遣上军别部司马赵瑾讨平之。
+公孙瓒与张纯战于石门，大破之。
+是岁，改刺史，新置牧。
+六年春二月，左将军皇甫嵩大破王国于陈仓。
 translation: 
-In November, Cui Lie, the Taiwei, resigned and appointed Cao Song, the chief minister, as the Taiwei.
-In December, Xiutu Gehu rebelled.
-This year, the Marquis of Guan Nei was sold and given a gold seal and purple ribbon, which could be passed down to descendants for generations, and he paid five million.
-In the first month of the spring of the fifth year, Xiu massacred all the barbarian bandits and raided Xihe, killing the county governor Xing Ji.
-On the 15th, a general amnesty was given to the whole world.
-The February Comet appears in the constellation Purple House.
-The remaining Yellow Turban bandits Guo Tai and others started in the Baibo Valley of the Xihe River and raided Taiyuan and Hedong.
-In March, Xiutu Gehu attacked and killed Zhang Yi, the governor of Bingzhou, and joined forces with the Hu people from the left of the Southern Xiongnu to kill the Chanyu of the Southern Xiongnu.
 In April of summer, the Yellow Turbans of Runan Gepi captured the counties.
 Taiwei Cao Song goes away.
 In May, he appointed Fan Ling, the Shaofu of Yongle, as Taiwei.
@@ -763,19 +787,19 @@ Situ Xu resigned and appointed Sikong Dinggong as Situ.
 Ren Guang Luxun Nanyang Liu Hong was appointed Sikong.
 He appointed Weiwei Dong Chong as General of Hussars.
 In September, Nan Shanyu rebelled and raided Hedong with Baibo bandits.
+He sent Zhonglang General Meng Yi to lead the cavalry captain Gongsun Zan to attack the Yuyang bandit Zhang Chun and others.
+In October of winter, the Yellow Turbans rose again in Qingzhou and Xuzhou and raided counties.
+On the 16th, the emperor proclaimed himself "Supreme General" and reviewed the army in Pingtang.
+In November, the Liangzhou bandit kingdom surrounded Chencang, and the right general Huangfu Song went to help.
+He sent military captain Bao Hong to attack the Yellow Turbans in Gebei.
+The Banchen barbarians in Bajun rebelled, and Sima Zhao Jin of the Shanxi Army was sent to attack them and quell the rebellion.
+Gongsun Zan fought with Zhang Chun at Shimen, and Zhang Chun was defeated.
+This year, the governor was changed and a new pastor was established.
+In the spring and February of the sixth year, the left general Huangfu Song defeated the kingdom in Chencang.
 
 
-Chunk 15: 
+Chunk 18: 
 original: 
-遣中郎将孟益率骑都尉公孙瓒讨渔阳贼张纯等。
-冬十月，青、徐黄巾复起，寇郡县。
-甲子，帝自称 无上将军 ，燿兵于平乐观。
-十一月，凉州贼王国围陈仓，右将军皇甫嵩救之。
-遣下军校尉鲍鸿讨葛陂黄巾。
-巴郡板楯蛮叛，遣上军别部司马赵瑾讨平之。
-公孙瓒与张纯战于石门，大破之。
-是岁，改刺史，新置牧。
-六年春二月，左将军皇甫嵩大破王国于陈仓。
 三月，幽州牧刘虞购斩渔阳贼张纯。
 下军校尉鲍鸿下狱死。
 夏四月丙午朔，日有食之。太尉马日磾免，幽州牧刘虞为太尉。
@@ -790,16 +814,13 @@ original:
 六月辛亥，孝仁皇后董氏崩。
 辛酉，葬孝灵皇帝于文陵。
 雨水。
+秋七月，甘陵王忠薨。
+庚寅，孝仁皇后归葬河间慎陵。
+徙渤海王协为陈留王。
+司徒丁宫罢。
+八月戊辰，中常侍张让、段珪杀大将军何进，于是虎贲中郎将袁术烧东西宫，攻诸宦者。
+庚午，张让、段珪等劫少帝及陈留王幸北宫德阳殿。
 translation: 
-He sent Zhonglang General Meng Yi to lead the cavalry captain Gongsun Zan to attack the Yuyang bandit Zhang Chun and others.
-In October of winter, the Yellow Turbans rose again in Qingzhou and Xuzhou and raided counties.
-On the 16th, the emperor proclaimed himself "Supreme General" and reviewed the army in Pingtang.
-In November, the Liangzhou bandit kingdom surrounded Chencang, and the right general Huangfu Song went to help.
-He sent military captain Bao Hong to attack the Yellow Turbans in Gebei.
-The Banchen barbarians in Bajun rebelled, and Sima Zhao Jin of the Shanxi Army was sent to attack them and quell the rebellion.
-Gongsun Zan fought with Zhang Chun at Shimen, and Zhang Chun was defeated.
-This year, the governor was changed and a new pastor was established.
-In the spring and February of the sixth year, the left general Huangfu Song defeated the kingdom in Chencang.
 In February, Liu Yu, the shepherd of Youzhou, offered a reward for killing the Yuyang bandit Zhang Chun.
 Bao Hong, the lieutenant of the military academy, died in prison.
 On the first day of April in summer, there is a solar eclipse. Taiwei Ma Rishidan was dismissed from his post and Liu Yu, the shepherd of Youzhou, was appointed as Taiwei.
@@ -814,16 +835,16 @@ On the sixth day of the fifth lunar month, Dong Chong, the hussar general, died 
 On the seventh day of June, Empress Xiaoren Dong passed away.
 On the 17th, Emperor Xiaoling was buried in Wenling.
 Lots of rain.
+In the seventh month of autumn, Liu Zhong, the king of Ganling, passed away.
+On the 16th, Queen Xiaoren was buried in Shenling Mausoleum in Hejian.
+Liu Xie, the king of Bohai, was transferred to King Chenliu.
+Let's go to Situ Ding Palace.
+On August 25, Zhang Rang, Duan Wanggui and others killed the general He Jin, so Huben Zhonglang sent Yuan Shu to burn the East and West palaces and attack the eunuchs.
+On the 27th, Zhang Rang, Duan Wanggui and others kidnapped the young emperor and Chenliu King Liu Xie to the Deyang Hall of the North Palace.
 
 
-Chunk 16: 
+Chunk 19: 
 original: 
-秋七月，甘陵王忠薨。
-庚寅，孝仁皇后归葬河间慎陵。
-徙渤海王协为陈留王。
-司徒丁宫罢。
-八月戊辰，中常侍张让、段珪杀大将军何进，于是虎贲中郎将袁术烧东西宫，攻诸宦者。
-庚午，张让、段珪等劫少帝及陈留王幸北宫德阳殿。
 何进部曲将吴匡与车骑将军何苗战于朱雀阙下，苗败，斩之。
 辛末，司隶校尉袁绍勒后收伪司隶校尉樊陵、河南尹许相及诸阉人，无少长皆斩之。
 让、珪等复劫少帝、陈留王走小平津。
@@ -836,12 +857,6 @@ original:
 九月甲戌，董卓废帝为弘农王。
 自六月雨，至于是月。
 translation: 
-In the seventh month of autumn, Liu Zhong, the king of Ganling, passed away.
-On the 16th, Queen Xiaoren was buried in Shenling Mausoleum in Hejian.
-Liu Xie, the king of Bohai, was transferred to King Chenliu.
-Let's go to Situ Ding Palace.
-On August 25, Zhang Rang, Duan Wanggui and others killed the general He Jin, so Huben Zhonglang sent Yuan Shu to burn the East and West palaces and attack the eunuchs.
-On the 27th, Zhang Rang, Duan Wanggui and others kidnapped the young emperor and Chenliu King Liu Xie to the Deyang Hall of the North Palace.
 He Jin's troops fought Wu Kuang and the cavalry general He Miao under the Zhuque Tower. He Miao defeated and beheaded Wu Kuang.
 On the 28th, Sili Colonel Yuan Shao led the army to arrest the puppet Sili Colonel Fan Ling, Henan Yin Xuxiang and many eunuchs, and killed them all regardless of their junior or senior status.
 Zhang Rang, Duan Wanggui and others kidnapped the young emperor and Chenliu King Liu Xie to Xiaopingjin.

@@ -1,0 +1,217 @@
+Summary uses chunk [0, 1, 2, 7, 25, 0, 30]
+
+Chunk 0: 
+original: 
+淮南厉王长者，高祖少子也，其母故赵王张敖美人。
+高祖八年，从东垣过赵，赵王献之美人。
+厉王母得幸焉，有身。
+赵王敖弗敢内宫，为筑外宫而舍之。
+及贯高等谋反柏人事发觉，并逮治王，尽收捕王母兄弟美人，系之河内。
+厉王母亦系，告吏曰： 得幸上，有身。
+吏以闻上，上方怒赵王，未理厉王母。
+厉王母弟赵兼因辟阳侯言吕后，吕后妒，弗肯白，辟阳侯不彊争。
+及厉王母已生厉王，恚，即自杀。
+吏奉厉王诣上，上悔，令吕后母之，而葬厉王母真定。
+真定，厉王母之家在焉，父世县也。
+高祖十一年月，淮南王黥布反，立子长为淮南王，王黥布故地，凡四郡。
+上自将兵击灭布，厉王遂即位。
+厉王蚤失母，常附吕后，孝惠、吕后时以故得幸无患害，而常心怨辟阳侯，弗敢发。
+及孝文帝初即位，淮南王自以为最亲，骄蹇，数不奉法。
+translation: 
+Liu Chang, King Li of Huainan, was the youngest son of Emperor Gaozu of the Han Dynasty. His mother was the concubine of Zhang Ao, the former king of Zhao.
+In the eighth year of Emperor Gaozu's reign, Emperor Gao passed by Zhao from Dongyuan County, and King Zhao dedicated King Li's mother to him.
+She was favored by the emperor and became pregnant.
+From then on, King Zhao Zhang Ao did not dare to let her live in the palace, so he built another palace for her to live in.
+The following year, the imperial court discovered that Zhao Xiangguan and others were plotting to kill Emperor Gaozu in Bairen County. King Zhao was also arrested and charged. His mother, brothers and concubines were all arrested and imprisoned in the Hanoi County government.
+King Li's mother said to the jailer in prison: I am favored by the emperor and am pregnant.
+The jailer reported truthfully that the emperor was angry because of King Zhao's incident and ignored the complaint of King Li's mother.
+Zhao Jian, the younger brother of King Li's mother, asked Piyang Hou Shenshi to inform Empress Lu. Queen Lu was jealous and refused to plead with the emperor, so Piyang Hou stopped trying to persuade him.
+King Li's mother was resentful after giving birth to Queen Li, so she committed suicide.
+The jailer carried King Li to the emperor. The emperor regretted it and ordered Queen Lu to raise him and bury King Li's mother in Zhending County.
+Zhending is the hometown of King Li's mother, and her ancestors lived there.
+In July of the eleventh year of Emperor Gaozu, King Yingbu of Huainan rebelled, so the emperor appointed his son Liu Chang as King of Huainan, putting him in charge of the four counties and fiefdoms that were formerly under Yingbu's territory.
+The emperor personally led an army to go out and annihilated Yingbu, so King Li took the throne of Huainan.
+King Li lost his mother when he was young and grew up dependent on Empress Lu. Therefore, he was able to avoid political disasters during the reign of Emperor Xiaohui and Empress Lu. However, he always resented Marquis Piyang in his heart and did not dare to take action.
+When Emperor Xiaowen came to the throne, King Huainan considered himself the closest to the emperor. He was arrogant and arrogant, and repeatedly violated laws and disciplines.
+
+summary:
+summary line 0: Liu Chang, King Li of Huainan, was the youngest son of Emperor Gaozu of Han. His mother, a concubine of the former King of Zhao, was favored by Emperor Gaozu and became pregnant. After the King of Zhao was implicated in a plot against the emperor, she was imprisoned and, despite being pregnant, her pleas for help were ignored due to the emperor's anger and Empress Lü's jealousy. After giving birth to Liu Chang, she committed suicide. The emperor regretted this and had Empress Lü raise the child. Liu Chang was later made King of Huainan after suppressing a rebellion.
+
+Chunk 1: 
+original: 
+上以亲故，常宽赦之。
+三年，入朝。甚横。
+从上入苑囿猎，与上同车，常谓上 大兄 。
+厉王有材力，力能扛鼎，乃往请辟阳侯。
+辟阳侯出见之，即自袖铁椎椎辟阳侯，令从者魏敬刭之。
+厉王乃驰走阙下，肉袒谢曰： 臣母不当坐赵事，其时辟阳侯力能得之吕后，弗争，罪一也。赵王如意子母无罪，吕后杀之，辟阳侯弗争，罪二也。吕后王诸吕，欲以危刘氏，辟阳侯弗争，罪三也。
+臣谨为天下诛贼臣辟阳侯，报母之仇，谨伏阙下请罪。
+孝文伤其志，为亲故，弗治，赦厉王。
+当是时，薄太后及太子诸大臣皆惮厉王，厉王以此归国益骄恣，不用汉法，出入称警跸，称制，自为法令，拟於天子。
+translation: 
+The emperor thought of his brother-sister relationship and often tolerated and pardoned his faults.
+In the third year of Emperor Xiaowen's reign, King Huainan professed his own country and entered the dynasty. His attitude was very arrogant.
+He followed the emperor to the imperial garden for hunting, rode in the same car with the emperor, and often called the emperor "big brother".
+King Li was talented and brave, and could lift a heavy cauldron with all his strength, so he went to the mansion of Piyang Hou to seek an audience.
+When Marquis Piyang came out to see him, he took out an iron mallet from his sleeve and struck Marquis Piyang, and ordered his attendant Wei Jing to cut off Marquis Piyang's head.
+Afterwards, King Li galloped to the palace and apologized to the emperor, saying: "My mother should not have been convicted of Zhao's rebellion. At that time, if Marquis Piyang had tried his best to save her, he would have been able to get help from Empress Lu, but he did not try hard. This was the first crime." King Zhao Ruyi and his son were not guilty. Empress Lu deliberately killed them, but Marquis Piyang did not try to dissuade them. This was the second crime. Empress Lu made a relative of the Lu family king, intending to threaten the Liu family, and Marquis Piyang did not stand up to fight. This is the third crime.
+I killed the treacherous minister Piyanghou for the people of the world, and avenged my mother. I came to the court to kneel down and plead guilty.
+The emperor's desire to pity King Li, and out of brotherly love, did not punish him and pardoned him.
+During this period, the Empress Dowager Bo, the Crown Prince, and all the ministers were all afraid of King Li. Therefore, King Li became more arrogant and unruly after returning to the country. He did not act in accordance with the court decrees. He issued orders to warn Qingdao when entering and leaving the palace. He also called the orders he issued "zhi" and made laws by himself, imitating the emperor.
+
+summary:
+summary line 1: Growing up under Empress Lü's protection, Liu Chang escaped political disasters but harbored resentment against Marquis Piyang for not helping his mother. After Emperor Xiaowen ascended, Liu Chang became arrogant, calling the emperor "big brother" and violating laws. He eventually killed Marquis Piyang in revenge, claiming three crimes against him. The emperor pardoned him out of brotherly love, but Liu Chang grew more unruly, imitating imperial decrees and plotting rebellion.
+
+Chunk 2: 
+original: 
+六年，令男子但等七十人与棘蒲侯柴武太子奇谋，以輂车四十乘反谷口，令人使闽越、匈奴。
+事觉，治之，使使召淮南王。淮南王至长安。
+丞相臣张仓、典客臣冯敬、行御史大夫事宗正臣逸、廷尉臣贺、备盗贼中尉臣福昧死言：淮南王长废先帝法，不听天子诏，居处无度，为黄屋盖乘舆，出入拟於天子，擅为法令，不用汉法。
+及所置吏，以其郎中春为丞相，聚收汉诸侯人及有罪亡者，匿与居，为治家室，赐其财物爵禄田宅，爵或至关内侯，奉以二千石，所不当得，欲以有为。
+大夫但、士五开章等七十人与棘蒲侯太子奇谋反，欲以危宗庙社稷。
+使开章阴告长，与谋使闽越及匈奴发其兵。
+开章之淮南见长，长数与坐语饮食，为家室娶妇，以二千石俸奉之。
+开章使人告但，已言之王。
+春使使报但等。
+吏觉知，使长安尉奇等往捕开章。
+translation: 
+In the sixth year of Emperor Xiaowen's reign, King Li asked seventy men without official titles to discuss with Chai Qi, the son of Chai Wu, Marquis of Jipu, and planned to use forty large trucks to rebel in Gukou County, and sent envoys to Minyue and Xiongnu to contact various places.
+The imperial court found out about this, punished the rebels, and sent envoys to summon King Huainan to the capital. King Huainan came to Chang'an.
+Prime Minister Zhang Bao, Dian Kechen Feng Jing, Imperial Censor Shizong Zhengchenyi, Tingwei Chenhe, and the thief Lieutenant Chenfu risked death. They reported: Huainan King Liu Chang abandoned the grammar of the late emperor, disobeyed the emperor's edict, and engaged in non-compliance with the law in daily life. He made his own chariot with a yellow satin umbrella that the emperor rode.
+He appointed officials without authorization, appointed his doctor Zhongchun as the prime minister of the country, collected people from various counties and vassal states, as well as fugitives who had committed crimes, hid them in places to live, settled their families, and granted them money, materials, titles, salaries, and houses. Some people were even granted titles to marquises in Guannei, enjoying the favor of two thousand shi. King Huainan wanted to do evil by giving them everything they didn't deserve.
+The doctor Dan, together with seventy people including the guilty and disgraced official Kaizhang, conspired with Chai Qi, the son of Chai Wu, the Marquis of Ji Pu, to cause harm to the ancestral temple and the state.
+They asked Kai Zhang to secretly report to Liu Chang and discuss sending people to contact Minyue and the Huns to send troops to respond.
+Kai Zhang went to Huainan to meet Liu Chang. Liu Chang met and had banquets with him many times, and also helped him get married and marry him, and provided him with a salary of two thousand dan.
+Open the chapter and tell people to report to the doctor that everything has been settled with the King of Huainan.
+Prime Minister Chun also sent envoys to inform Dan.
+After the officials in the DPRK discovered this, they sent Wei Qi and others from Chang'an County to arrest Kai Zhang.
+
+summary:
+summary line 2: In the sixth year of Emperor Xiaowen's reign, Liu Chang conspired with seventy men to rebel, contacting Minyue and Xiongnu. The plot was discovered, and he was summoned to Chang'an. Officials reported his numerous crimes, including forging imperial chariots, appointing unauthorized officials, harboring fugitives, and killing innocents. The emperor, unable to bear punishing him, deposed him and exiled him to Shu County. Liu Chang went on a hunger strike and died en route. The emperor later posthumously honored him as King Li and enfeoffed his sons.
+
+Chunk 7: 
+original: 
+其相曰： 大王必欲发兵应吴，臣原为将。
+王乃属相兵。
+淮南相已将兵，因城守，不听王而为汉；汉亦使曲城侯将兵救淮南：淮南以故得完。
+吴使者至庐江，庐江王弗应，而往来使越。
+吴使者至衡山，衡山王坚守无二心。
+孝景四年，吴楚已破，衡山王朝，上以为贞信，乃劳苦之曰： 南方卑湿。
+徙衡山王王济北，所以襃之。
+及薨，遂赐谥为贞王。
+庐江王边越，数使使相交，故徙为衡山王，王江北。
+淮南王如故。
+淮南王安为人好读书鼓琴，不喜弋猎狗马驰骋，亦欲以行阴德拊循百姓，流誉天下。
+时时怨望厉王死，时欲畔逆，未有因也。
+translation: 
+The Prime Minister of Huainan said: If the king insists on sending troops to respond to the king of Wu, I would like to be the commander-in-chief of the army.
+The king of Huainan handed over the army to him.
+After the Huainan State Prime Minister obtained military power, he commanded the army to occupy the city to defend the rebels. He did not listen to the Huainan King's orders and served the court. The court also sent Qucheng Hou Gujie to lead an army to rescue Huainan: Huainan State was thus preserved.
+The envoy from the State of Wu came to Lujiang, but the King of Lujiang refused to respond, and instead sent someone to contact the State of Yue.
+The envoy from the State of Wu went to Hengshan. The king of Hengshan was loyal to the imperial court and defended the city without hesitation.
+In the fourth year of Emperor Xiaojing's reign, the Wu and Chu rebels had been defeated. King Hengshan came to Beijing to see him. The emperor believed that he was loyal and trustworthy, so he comforted him and said: The land in the south is low-lying and humid.
+As a reward, he was appointed King of Hengshan to take charge of the area north of Jishui.
+After his death, he was granted the title of King Zhen.
+King Lujiang's fiefdom was adjacent to the Kingdom of Yue, and he repeatedly sent envoys to make friends with it. Therefore, he was moved north to become King of Hengshan and took charge of the area north of the Yangtze River.
+King Huainan is the same as before.
+Liu An, the king of Huainan, liked reading and playing the piano, but he didn't like shooting and letting dogs and horses race. He also wanted to do good deeds secretly to appease the people and spread his good name throughout the world.
+He often complained about the death of King Li and often wanted to rebel against the court, but he had no chance.
+
+summary:
+summary line 3: Liu Chang's son, Liu An, became King of Huainan. He was cultured and sought to win over the people, but he resented his father's death and plotted rebellion. He befriended guests, accumulated weapons, and bribed officials. His daughter, Liu Ling, spied in Chang'an. The king's advisor, Wu Bei, warned against rebellion, citing the failures of Wu and Chu and the stability of the Han dynasty. Despite this, Liu An continued preparations, forging seals and planning to assassinate officials.
+
+Chunk 25: 
+original: 
+丞相弘、廷尉汤等以闻，天子使宗正以符节治王。
+未至，淮南王安自刭杀。
+王后荼、太子迁诸所与谋反者皆族。
+天子以伍被雅辞多引汉之美，欲勿诛。
+廷尉汤曰： 被首为王画反谋，被罪无赦。
+遂诛被。
+国除为九江郡。
+衡山王赐，王后乘舒生子三人，长男爽为太子，次男孝，次女无采。
+又姬徐来生子男女四人，美人厥姬生子二人。
+衡山王、淮南王兄弟相责望礼节，间不相能。
+衡山王闻淮南王作为畔逆反具，亦心结宾客以应之，恐为所并。
+元光六年，衡山王入朝，其谒者卫庆有方术，欲上书事天子，王怒，故劾庆死罪，彊榜服之。
+衡山内史以为非是，卻其狱。
+translation: 
+Prime Minister Gongsun Hong, Tingwei Zhang Tang and others reported everyone's opinions, and the emperor sent Zongzheng holding a talisman to judge the Huainan King.
+Before Zongzheng arrived in Huainan, King Liu An of Huainan had committed suicide in advance.
+Queen Tu, Prince Liu Qian and all those who collaborated in the rebellion were all killed.
+When the emperor of Huainan, Liu An, was dissuaded from rebelling because of Wu, his words were elegant and upright. He said a lot of good things about the government and wanted not to kill him.
+Ting Wei Zhang Tang said: Wu Ban was the first to plot a rebellion for the King of Huainan, and his crime cannot be forgiven.
+So Wu Bei was killed.
+Huainan Kingdom was abolished as Jiujiang County.
+The king of Hengshan was named Liu Ci, and Queen Chengshu gave birth to three children. The eldest son Liu Shuang was established as the prince, the second son Liu Xiao, and the third daughter Liu Wucai.
+Concubine Xu Lai also gave birth to four children, and concubine Jue Ji gave birth to two children.
+The two brothers, the King of Hengshan and the King of Huainan, blamed each other and complained about etiquette. Their relationship was estranged and they were not harmonious.
+When the King of Hengshan heard that the King of Huainan was making utensils for rebellion, he also made friends with guests to guard against him, fearing that he would annex him.
+In the sixth year of Yuanguang, King Hengshan came to Beijing to pay homage. His visitor, Wei Qing, knew alchemy and wanted to write a letter asking him to serve the emperor. The King of Hengshan was very angry and deliberately accused Wei Qing of committing a capital crime and tortured him to force him to admit it.
+The domestic history of Hengshan thought it was wrong and refused to hear the case.
+
+summary:
+summary line 4: The plot was exposed when Liu An's grandson, Liu Jian, informed on the prince. The court investigated, and Liu An, fearing exposure, hesitated to act. His advisor Wu Bei again urged caution, but Liu An persisted. Eventually, the court arrested the conspirators, and Liu An committed suicide before his arrest. His queen and prince were executed, and Huainan was reduced to a commandery.
+
+Chunk 0: 
+original: 
+淮南厉王长者，高祖少子也，其母故赵王张敖美人。
+高祖八年，从东垣过赵，赵王献之美人。
+厉王母得幸焉，有身。
+赵王敖弗敢内宫，为筑外宫而舍之。
+及贯高等谋反柏人事发觉，并逮治王，尽收捕王母兄弟美人，系之河内。
+厉王母亦系，告吏曰： 得幸上，有身。
+吏以闻上，上方怒赵王，未理厉王母。
+厉王母弟赵兼因辟阳侯言吕后，吕后妒，弗肯白，辟阳侯不彊争。
+及厉王母已生厉王，恚，即自杀。
+吏奉厉王诣上，上悔，令吕后母之，而葬厉王母真定。
+真定，厉王母之家在焉，父世县也。
+高祖十一年月，淮南王黥布反，立子长为淮南王，王黥布故地，凡四郡。
+上自将兵击灭布，厉王遂即位。
+厉王蚤失母，常附吕后，孝惠、吕后时以故得幸无患害，而常心怨辟阳侯，弗敢发。
+及孝文帝初即位，淮南王自以为最亲，骄蹇，数不奉法。
+translation: 
+Liu Chang, King Li of Huainan, was the youngest son of Emperor Gaozu of the Han Dynasty. His mother was the concubine of Zhang Ao, the former king of Zhao.
+In the eighth year of Emperor Gaozu's reign, Emperor Gao passed by Zhao from Dongyuan County, and King Zhao dedicated King Li's mother to him.
+She was favored by the emperor and became pregnant.
+From then on, King Zhao Zhang Ao did not dare to let her live in the palace, so he built another palace for her to live in.
+The following year, the imperial court discovered that Zhao Xiangguan and others were plotting to kill Emperor Gaozu in Bairen County. King Zhao was also arrested and charged. His mother, brothers and concubines were all arrested and imprisoned in the Hanoi County government.
+King Li's mother said to the jailer in prison: I am favored by the emperor and am pregnant.
+The jailer reported truthfully that the emperor was angry because of King Zhao's incident and ignored the complaint of King Li's mother.
+Zhao Jian, the younger brother of King Li's mother, asked Piyang Hou Shenshi to inform Empress Lu. Queen Lu was jealous and refused to plead with the emperor, so Piyang Hou stopped trying to persuade him.
+King Li's mother was resentful after giving birth to Queen Li, so she committed suicide.
+The jailer carried King Li to the emperor. The emperor regretted it and ordered Queen Lu to raise him and bury King Li's mother in Zhending County.
+Zhending is the hometown of King Li's mother, and her ancestors lived there.
+In July of the eleventh year of Emperor Gaozu, King Yingbu of Huainan rebelled, so the emperor appointed his son Liu Chang as King of Huainan, putting him in charge of the four counties and fiefdoms that were formerly under Yingbu's territory.
+The emperor personally led an army to go out and annihilated Yingbu, so King Li took the throne of Huainan.
+King Li lost his mother when he was young and grew up dependent on Empress Lu. Therefore, he was able to avoid political disasters during the reign of Emperor Xiaohui and Empress Lu. However, he always resented Marquis Piyang in his heart and did not dare to take action.
+When Emperor Xiaowen came to the throne, King Huainan considered himself the closest to the emperor. He was arrogant and arrogant, and repeatedly violated laws and disciplines.
+
+summary:
+summary line 5: Liu An's brother, Liu Ci, King of Hengshan, also plotted rebellion. He feuded with his brother and prepared for war, forging documents and building weapons. His internal conflicts, including disputes over succession and adultery, led to his downfall. After his son Liu Xiao surrendered and revealed the plot, Liu Ci committed suicide. His kingdom was also abolished.
+
+Chunk 30: 
+original: 
+王闻，即自刭杀。
+孝先自告反，除其罪；坐与王御婢奸，弃市。
+王后徐来亦坐蛊杀前王后乘舒，及太子爽坐王告不孝，皆弃市。
+诸与衡山王谋反者皆族。
+国除为衡山郡。
+太史公曰：诗之所谓 戎狄是膺，荆舒是惩 ，信哉是言也。
+淮南、衡山亲为骨肉，疆土千里，列为诸侯，不务遵蕃臣职以承辅天子，而专挟邪僻之计，谋为畔逆，仍父子再亡国，各不终其身，为天下笑。
+此非独王过也，亦其俗薄，臣下渐靡使然也。
+夫荆楚僄勇轻悍，好作乱，乃自古记之矣。
+translation: 
+When the King of Hengshan heard the news, he cut his neck and committed suicide.
+Liu Xiao was acquitted because he voluntarily surrendered and rebelled; but he was still sentenced to death for committing adultery with the maid of the Prince of Hengshan.
+Queen Xu Lai was also guilty of murdering the former Queen Chengshu by falsely accusing her of poison, and Prince Liu Shuang was accused of unfilial piety by the King of Hengshan, so they were all executed and abandoned in the market.
+All the criminals who participated in the rebellion of King Hengshan were killed.
+Hengshan State was abolished and became Hengshan County.
+Tai Shigong said: "The Book of Songs" says: "Fight the Rong and Di, punish the Chu people. This is true!"
+Although the King of Huainan and the King of Hengshan were close relatives, owned thousands of miles of territory, and were granted the title of vassal, they did not devote themselves to abide by the duties of vassals to assist the emperor. Instead, they blindly harbored evil plans and plotted rebellion. As a result, father and son were subjugated for the second time in succession. No one was able to enjoy the full life of his life, and was ridiculed by the world.
+This is not only their fault, but also the result of the weak local customs and the bad influence of subordinate ministers.
+The people of Chu are agile, brave, fierce, and fond of causing chaos. This has been recorded in books since ancient times.
+
+summary:
+summary line 6: Sima Qian comments that despite their noble status, the kings of Huainan and Hengshan failed in their duties and plotted rebellion, leading to their ruin. Their faults were compounded by the influence of unruly subordinates and local customs.
+

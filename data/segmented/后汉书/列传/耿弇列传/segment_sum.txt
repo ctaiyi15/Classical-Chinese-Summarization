@@ -1,4 +1,4 @@
-Summary uses chunk [0, 1, 1, 1, 7, 8]
+Summary uses chunk [0, 1, 2, 2, 4, 12]
 
 Chunk 0: 
 original: 
@@ -10,7 +10,6 @@ original:
 况自以莽之所置，怀不自安。
 时，弇年二十一，乃辞况奉奏诣更始，因赍贡献，以求自固之宜。
 及至宋子，会王郎诈称成帝子子舆，起兵邯郸，弇从吏孙仓、卫包于道共谋曰： 刘子舆成帝正统，舍此不归，远行安之？ 弇按剑曰： 子舆弊贼，卒为降虏耳。
-我至长安，与国家陈渔阳、上谷兵马之用，还出太原、代郡，反复数十日，归发突骑以辚乌合之众，如摧枯折腐耳。
 translation: 
 Geng Yan, courtesy name Bozhao, was from Maoling County, Fufeng County.
 During the reign of Emperor Wu, his ancestors migrated from Julu to Fufeng with two thousand stones.
@@ -20,13 +19,13 @@ When Wang Mang was defeated and Geng Shi was established, the generals plundered
 Geng Kuang thought he was appointed by Wang Mang and felt uneasy.
 Geng Yan was twenty-one years old at this time, so he resigned from his father's post and went to reform, so he brought tributes with him in order to consolidate himself.
 When we arrived in the Song Dynasty, it happened that Wang Lang pretended to be Emperor Cheng's son Ziyu and raised troops in Handan. Geng Yan's subordinates Sun Cang and Wei Bao conspired together on the road and said: Liu Ziyu is the orthodox Emperor Cheng. If he doesn't surrender to him, where can he go? Geng Yan raised his sword and scolded: "Ziyu is a deceitful thief, and he will eventually become a prisoner."
-I went to Chang'an to explain to the country the usefulness of the soldiers and horses of Yuyang and Shanggu. I also went out to Taiyuan and Daijun for dozens of days. When I came back, I suddenly attacked the mob with cavalry. It was as easy as destroying the dead. I see that if you don't know how to leave, the disaster of family execution is just around the corner.
 
 summary:
 summary line 0: Geng Yan, courtesy name Bozhao, was from Maoling County, Fufeng County. His ancestors migrated from Julu during Emperor Wu's reign. His father, Geng Kuang, was a doctor proficient in Confucian classics who studied Laozi with Wang Mang. Geng Yan was eager to learn in his youth and became interested in military affairs after observing county captains training knights. When Wang Mang was defeated and Gengshi Emperor was established, generals often replaced local officials arbitrarily. Geng Kuang, appointed by Wang Mang, felt uneasy. At twenty-one, Geng Yan left his father to seek reform, bringing tributes to consolidate his position.
 
 Chunk 1: 
 original: 
+我至长安，与国家陈渔阳、上谷兵马之用，还出太原、代郡，反复数十日，归发突骑以辚乌合之众，如摧枯折腐耳。
 观公等不识去就，族灭不久也！ 仓、包不从，遂亡降王郎。弇道闻光武在卢奴，乃驰北上谒，光武留署门下吏。弇因说护军朱祐，求归发兵，以定邯郸。
 光武笑曰： 小儿曹乃有大意哉！ 因数召见加恩慰。
 弇因从光武北至蓟。
@@ -34,22 +33,8 @@ original:
 弇曰： 今兵从南来，不可南行。
 渔阳太守彭宠，公之邑人；上谷太守，即弇父也。
 发此两郡，控弦万骑，邯郸不足虑也。 光武官属腹心皆不肯，曰： 死尚南首，奈何北行入囊中？ 光武指弇曰： 是我北道主人也。 会蓟中乱，光武遂南驰，官属各分散。
-弇走昌平就况，因说况使寇恂东约彭宠，各发突骑二千匹，步兵千人。
-弇与景丹、寇恂及渔阳兵合军而南，所过击斩王郎大将、九卿、校尉以下四百余级，得印绶百二十五，节二，斩首三万级，定涿郡、中山、巨鹿、清河、河间凡二十二县，遂及光武于广阿。
-是时，光武方攻王郎，传言二郡兵为邯郸来，众皆恐。
-既而悉诣营上谒。
-光武见弇等，说，曰： 当与渔阳、上谷士大夫共此大功。 乃皆以为偏将军，使还领其兵。
-加况大将军、兴义侯，得自置偏裨。
-弇等遂从拔邯郸。
-时，更始征代郡太守赵永，而况劝永不应召，令诣于光武。
-光武遣永复郡。
-永北还，而代令张晔据城反畔，乃招迎匈奴、乌桓以为援助。
-光武以弇弟舒为复胡将军，使击晔，破之。
-永乃得复郡。
-时，五校贼二十余万北寇上谷，况与舒连击破之，贼皆退走。
-更始见光武威声日盛，君臣疑虑，乃遣使立光武为萧王，令罢兵与诸将有功者还长安；遣苗曾为幽州牧，韦顺为上谷太守，蔡充为渔阳太守，并北之部。
-时，光武居邯郸宫，昼卧温明殿。
 translation: 
+I went to Chang'an to explain to the country the usefulness of the soldiers and horses of Yuyang and Shanggu. I also went out to Taiyuan and Daijun for dozens of days. When I came back, I suddenly attacked the mob with cavalry. It was as easy as destroying the dead. I see that if you don't know how to leave, the disaster of family execution is just around the corner.
 Sun Cang and Wei Bao refused, so they went to surrender to Wang Lang. Geng Yan heard on the road that Guangwu was in Lunu, so he went north to pay a visit to Jin. Guangwu kept him as a subordinate. Geng Yan therefore persuaded Zhu, the army guard, to ask him to go back and send troops to pacify Handan.
 Guangwu smiled and said: You are so ambitious at such a young age! Therefore, he was summoned several times to give him comfort.
 Geng Yan then followed Guangwu as far north as Ji.
@@ -57,34 +42,12 @@ I heard that the Handan soldiers had just arrived, and General Guangwu was about
 Geng Yan said: Now the soldiers are coming from the south, so we must not go south.
 Peng Chong, the governor of Yuyang, is a fellow villager of Gong; the governor of Shanggu is my father.
 If the men and horses from these two counties are mobilized and there are tens of thousands of horses, Handan will be easy to capture. Even the military attache and his confidants refused, saying: "If you want to die, you have to head south. How can you go north and enter the bag?" Guangwu pointed at Geng Yan and said: He is my master in the North Road. It happened that a commotion broke out in Ji at this time, Guangwu rushed to the south, and the officials and subordinates dispersed.
-Geng Yan arrived in Changping and found his father Kuang, so he persuaded Kuang to let Kou Xun make an appointment with Peng Chong, each with 2,000 fast cavalry and 1,000 infantry.
-Geng Yan joined forces with Jing Dan, Kou Xun and Yu Yang and headed south. Along the way, they killed more than 400 people below General Wang Lang, Jiu Qing, and Xiao Wei. They obtained 125 seals and ribbons, two talismans, and beheaded 30,000 people. They defeated a total of 22 counties in Zhuojun, Zhongshan, Julu, Qinghe, and Hejian. Then they went to Guang'a to catch up with Guangwu.
-At that time, Guangwu was attacking Wang Lang. Legend has it that the soldiers and horses from the two counties came from Handan. They all thought they were Wang Lang's reinforcements and were frightened.
-When the troops arrived, they all went to the barracks to pay homage to Guangwu.
-When Guangwu saw Geng Yan and others, he was very happy and said, "I should share this great achievement with the scholar-bureaucrats in Yuyang and Shanggu." So they were all promoted to generals and sent back to lead their troops.
-Geng Kuang was granted the title of General and Marquis of Xingyi, and he placed all the generals and subordinates on his own.
-Geng Yan and others took advantage of the situation to attack Handan.
-At this time, Gengshi summoned Zhao Yong, the prefect of Daijun, but Geng Kuang advised Zhao Yong not to answer the call and let him go to see Guangwu.
-Guangwu sent Zhao Yong back to his dynasty and still served as the prefect.
-When Zhao Yongbei returned, Zhang Ye, the magistrate of the county, rebelled in the city and recruited the Xiongnu and Wuhuan for aid.
-Guangwu appointed Geng Yan's younger brother Geng Shu as General Hu, and ordered him to attack Zhang Ye and break through.
-Zhao Yong had to resume his duties as county governor.
-At this time, more than 200,000 thieves from the five schools invaded Shanggu from the north. Geng Kuang and Geng Shu defeated the thieves in succession, and they all retreated.
-Gengshi saw that Guangwu's reputation was growing, and the emperor and his ministers had doubts, so he sent envoys to make Guangwu the king of Xiao, and ordered him to stop his troops and return to Chang'an with the meritorious generals. He also sent Miao Zeng to be the shepherd of Youzhou, Wei Shun to be the governor of Shanggu, and Cai Chong to be the governor of Yuyang, and annex the north.
-At this time, Guangwu lived in Handan Palace and slept in Wenming Palace during the day.
 
 summary:
 summary line 1: Traveling to Songzi, he encountered Wang Lang, who falsely claimed to be Emperor Cheng's son Ziyu and raised troops in Handan. Geng Yan's subordinates Sun Cang and Wei Bao conspired to join Wang Lang, but Geng Yan rebuked them, calling Ziyu a deceitful thief. He went to Chang'an to explain the usefulness of troops from Yuyang and Shanggu, then traveled to Taiyuan and Daijun. Upon returning, he attacked with cavalry, but Sun and Wei refused and surrendered to Wang Lang. Hearing Guangwu was in Lunu, Geng Yan went north to meet him. Guangwu kept him as a subordinate, and Geng Yan persuaded him to send troops to pacify Handan. Guangwu praised his ambition.
 
-Chunk 1: 
+Chunk 2: 
 original: 
-观公等不识去就，族灭不久也！ 仓、包不从，遂亡降王郎。弇道闻光武在卢奴，乃驰北上谒，光武留署门下吏。弇因说护军朱祐，求归发兵，以定邯郸。
-光武笑曰： 小儿曹乃有大意哉！ 因数召见加恩慰。
-弇因从光武北至蓟。
-闻邯郸兵方到，光武将欲南归，召官属计议。
-弇曰： 今兵从南来，不可南行。
-渔阳太守彭宠，公之邑人；上谷太守，即弇父也。
-发此两郡，控弦万骑，邯郸不足虑也。 光武官属腹心皆不肯，曰： 死尚南首，奈何北行入囊中？ 光武指弇曰： 是我北道主人也。 会蓟中乱，光武遂南驰，官属各分散。
 弇走昌平就况，因说况使寇恂东约彭宠，各发突骑二千匹，步兵千人。
 弇与景丹、寇恂及渔阳兵合军而南，所过击斩王郎大将、九卿、校尉以下四百余级，得印绶百二十五，节二，斩首三万级，定涿郡、中山、巨鹿、清河、河间凡二十二县，遂及光武于广阿。
 是时，光武方攻王郎，传言二郡兵为邯郸来，众皆恐。
@@ -100,14 +63,9 @@ original:
 时，五校贼二十余万北寇上谷，况与舒连击破之，贼皆退走。
 更始见光武威声日盛，君臣疑虑，乃遣使立光武为萧王，令罢兵与诸将有功者还长安；遣苗曾为幽州牧，韦顺为上谷太守，蔡充为渔阳太守，并北之部。
 时，光武居邯郸宫，昼卧温明殿。
+弇入造床下请间，因说曰： 今更始失政，君臣淫乱，诸将擅命于畿内，贵戚纵横于都内。
+天子之命，不出城门，所在牧守，辄自迁易，百姓不知所从，士人莫敢自安。
 translation: 
-Sun Cang and Wei Bao refused, so they went to surrender to Wang Lang. Geng Yan heard on the road that Guangwu was in Lunu, so he went north to pay a visit to Jin. Guangwu kept him as a subordinate. Geng Yan therefore persuaded Zhu, the army guard, to ask him to go back and send troops to pacify Handan.
-Guangwu smiled and said: You are so ambitious at such a young age! Therefore, he was summoned several times to give him comfort.
-Geng Yan then followed Guangwu as far north as Ji.
-I heard that the Handan soldiers had just arrived, and General Guangwu was about to return south, so he summoned his officials to discuss it.
-Geng Yan said: Now the soldiers are coming from the south, so we must not go south.
-Peng Chong, the governor of Yuyang, is a fellow villager of Gong; the governor of Shanggu is my father.
-If the men and horses from these two counties are mobilized and there are tens of thousands of horses, Handan will be easy to capture. Even the military attache and his confidants refused, saying: "If you want to die, you have to head south. How can you go north and enter the bag?" Guangwu pointed at Geng Yan and said: He is my master in the North Road. It happened that a commotion broke out in Ji at this time, Guangwu rushed to the south, and the officials and subordinates dispersed.
 Geng Yan arrived in Changping and found his father Kuang, so he persuaded Kuang to let Kou Xun make an appointment with Peng Chong, each with 2,000 fast cavalry and 1,000 infantry.
 Geng Yan joined forces with Jing Dan, Kou Xun and Yu Yang and headed south. Along the way, they killed more than 400 people below General Wang Lang, Jiu Qing, and Xiao Wei. They obtained 125 seals and ribbons, two talismans, and beheaded 30,000 people. They defeated a total of 22 counties in Zhuojun, Zhongshan, Julu, Qinghe, and Hejian. Then they went to Guang'a to catch up with Guangwu.
 At that time, Guangwu was attacking Wang Lang. Legend has it that the soldiers and horses from the two counties came from Handan. They all thought they were Wang Lang's reinforcements and were frightened.
@@ -123,19 +81,14 @@ Zhao Yong had to resume his duties as county governor.
 At this time, more than 200,000 thieves from the five schools invaded Shanggu from the north. Geng Kuang and Geng Shu defeated the thieves in succession, and they all retreated.
 Gengshi saw that Guangwu's reputation was growing, and the emperor and his ministers had doubts, so he sent envoys to make Guangwu the king of Xiao, and ordered him to stop his troops and return to Chang'an with the meritorious generals. He also sent Miao Zeng to be the shepherd of Youzhou, Wei Shun to be the governor of Shanggu, and Cai Chong to be the governor of Yuyang, and annex the north.
 At this time, Guangwu lived in Handan Palace and slept in Wenming Palace during the day.
+Geng Yan entered the bedroom and went to the bed to take advantage of Guangwu's free time, so he said: Today is the beginning of political chaos, the monarchs and ministers are promiscuous, the generals are arrogant and domineering in the capital, and the princes and nobles are tyrannical in the capital.
+The emperor's order could not leave the city gate, and the governors and governors below were moved and replaced at every turn. The people did not know what to do, and the soldiers and the people did not dare to feel at ease.
 
 summary:
 summary line 2: Geng Yan followed Guangwu to Ji. When Handan soldiers approached, Guangwu planned to return south. Geng Yan advised against it, proposing to mobilize troops from Yuyang and Shanggu, which would make Handan easy to capture. Despite opposition, Guangwu appointed Geng Yan as his guide north. After a commotion in Ji, Geng Yan found his father Geng Kuang and persuaded him to join forces with Kou Xun and Peng Chong, each providing 2,000 cavalry and 1,000 infantry. Geng Yan, Jing Dan, and Kou Xun marched south, killing over 400 of Wang Lang's officials, capturing 125 seals, and beheading 30,000 people. They subdued 22 counties before meeting Guangwu at Guang'a. Guangwu was delighted and promoted them all.
 
-Chunk 1: 
+Chunk 2: 
 original: 
-观公等不识去就，族灭不久也！ 仓、包不从，遂亡降王郎。弇道闻光武在卢奴，乃驰北上谒，光武留署门下吏。弇因说护军朱祐，求归发兵，以定邯郸。
-光武笑曰： 小儿曹乃有大意哉！ 因数召见加恩慰。
-弇因从光武北至蓟。
-闻邯郸兵方到，光武将欲南归，召官属计议。
-弇曰： 今兵从南来，不可南行。
-渔阳太守彭宠，公之邑人；上谷太守，即弇父也。
-发此两郡，控弦万骑，邯郸不足虑也。 光武官属腹心皆不肯，曰： 死尚南首，奈何北行入囊中？ 光武指弇曰： 是我北道主人也。 会蓟中乱，光武遂南驰，官属各分散。
 弇走昌平就况，因说况使寇恂东约彭宠，各发突骑二千匹，步兵千人。
 弇与景丹、寇恂及渔阳兵合军而南，所过击斩王郎大将、九卿、校尉以下四百余级，得印绶百二十五，节二，斩首三万级，定涿郡、中山、巨鹿、清河、河间凡二十二县，遂及光武于广阿。
 是时，光武方攻王郎，传言二郡兵为邯郸来，众皆恐。
@@ -151,14 +104,9 @@ original:
 时，五校贼二十余万北寇上谷，况与舒连击破之，贼皆退走。
 更始见光武威声日盛，君臣疑虑，乃遣使立光武为萧王，令罢兵与诸将有功者还长安；遣苗曾为幽州牧，韦顺为上谷太守，蔡充为渔阳太守，并北之部。
 时，光武居邯郸宫，昼卧温明殿。
+弇入造床下请间，因说曰： 今更始失政，君臣淫乱，诸将擅命于畿内，贵戚纵横于都内。
+天子之命，不出城门，所在牧守，辄自迁易，百姓不知所从，士人莫敢自安。
 translation: 
-Sun Cang and Wei Bao refused, so they went to surrender to Wang Lang. Geng Yan heard on the road that Guangwu was in Lunu, so he went north to pay a visit to Jin. Guangwu kept him as a subordinate. Geng Yan therefore persuaded Zhu, the army guard, to ask him to go back and send troops to pacify Handan.
-Guangwu smiled and said: You are so ambitious at such a young age! Therefore, he was summoned several times to give him comfort.
-Geng Yan then followed Guangwu as far north as Ji.
-I heard that the Handan soldiers had just arrived, and General Guangwu was about to return south, so he summoned his officials to discuss it.
-Geng Yan said: Now the soldiers are coming from the south, so we must not go south.
-Peng Chong, the governor of Yuyang, is a fellow villager of Gong; the governor of Shanggu is my father.
-If the men and horses from these two counties are mobilized and there are tens of thousands of horses, Handan will be easy to capture. Even the military attache and his confidants refused, saying: "If you want to die, you have to head south. How can you go north and enter the bag?" Guangwu pointed at Geng Yan and said: He is my master in the North Road. It happened that a commotion broke out in Ji at this time, Guangwu rushed to the south, and the officials and subordinates dispersed.
 Geng Yan arrived in Changping and found his father Kuang, so he persuaded Kuang to let Kou Xun make an appointment with Peng Chong, each with 2,000 fast cavalry and 1,000 infantry.
 Geng Yan joined forces with Jing Dan, Kou Xun and Yu Yang and headed south. Along the way, they killed more than 400 people below General Wang Lang, Jiu Qing, and Xiao Wei. They obtained 125 seals and ribbons, two talismans, and beheaded 30,000 people. They defeated a total of 22 counties in Zhuojun, Zhongshan, Julu, Qinghe, and Hejian. Then they went to Guang'a to catch up with Guangwu.
 At that time, Guangwu was attacking Wang Lang. Legend has it that the soldiers and horses from the two counties came from Handan. They all thought they were Wang Lang's reinforcements and were frightened.
@@ -174,78 +122,41 @@ Zhao Yong had to resume his duties as county governor.
 At this time, more than 200,000 thieves from the five schools invaded Shanggu from the north. Geng Kuang and Geng Shu defeated the thieves in succession, and they all retreated.
 Gengshi saw that Guangwu's reputation was growing, and the emperor and his ministers had doubts, so he sent envoys to make Guangwu the king of Xiao, and ordered him to stop his troops and return to Chang'an with the meritorious generals. He also sent Miao Zeng to be the shepherd of Youzhou, Wei Shun to be the governor of Shanggu, and Cai Chong to be the governor of Yuyang, and annex the north.
 At this time, Guangwu lived in Handan Palace and slept in Wenming Palace during the day.
+Geng Yan entered the bedroom and went to the bed to take advantage of Guangwu's free time, so he said: Today is the beginning of political chaos, the monarchs and ministers are promiscuous, the generals are arrogant and domineering in the capital, and the princes and nobles are tyrannical in the capital.
+The emperor's order could not leave the city gate, and the governors and governors below were moved and replaced at every turn. The people did not know what to do, and the soldiers and the people did not dare to feel at ease.
 
 summary:
 summary line 3: Geng Yan and others attacked Handan. Gengshi Emperor summoned Zhao Yong, but Geng Kuang advised him to join Guangwu. When Zhang Ye rebelled with Xiongnu and Wuhuan aid, Guangwu sent Geng Yan's brother Geng Shu to defeat him. Gengshi, suspicious of Guangwu's growing power, sent envoys to make Guangwu King of Xiao and ordered him to stop fighting. Geng Yan advised Guangwu to ignore the order, warning of chaos under Gengshi and urging him to seize the world. Guangwu appointed Geng Yan as general to recruit troops from Youzhou. Geng Yan killed Gengshi's governors Wei Shun and Cai Chong, while Wu Han killed Miao Zeng. They led Youzhou's soldiers south, defeating multiple rebel groups. Geng Yan often led the vanguard.
 
-Chunk 7: 
+Chunk 4: 
 original: 
-步闻大笑曰： 以尤来、大彤十余万众，吾皆即其营而破之。
-今大耿兵少于彼，又皆疲劳，何足惧乎！ 乃与三弟蓝、弘、寿及故大彤渠帅重异等兵号二十万，至临淄大城东，将攻弇。弇先出兵淄水上，与重异遇，突骑欲纵，弇恐挫其锋，令步不敢进，故示弱以盛其气，乃引归小城，陈兵于内。
-步气盛，直攻弇营，与刘歆等合战，弇升王宫坏台望之，视歆等锋交，乃自引精兵以横突步陈于东城下，大破之。
-是时，帝在鲁，闻弇为步所攻，自往救之，未至。
-陈俊谓弇曰： 剧虏兵盛，可且闭营休士，以须上来。 弇曰： 乘舆且到，臣子当击牛酾酒以待百官，反欲以贼虏遗君父邪？ 乃出兵大战，自旦及昏，复大破之，杀伤无数，城中沟堑皆满。
-弇知步困将退，豫置左右翼为伏以待之。
-人定时，步果引去，伏兵起纵击，追至钜昧水上，八九十里僵尸相属，收得辎重二千余两。
-步还剧，兄弟各分兵散去。
-后数日，车驾至临淄自劳军，群臣大会。
-帝谓弇曰： 昔韩信破历下以开基，今将军攻祝阿以发迹，此皆齐之西界，功足相方。
-而韩信袭击已降，将军独拔劲敌，其功乃难于信也。
-又田横亨郦生，及田横降，高帝诏卫尉不听为仇。
-张步前亦杀伏隆，若步来归命，吾当诏大司徒释其怨，又事尤相类也。
-将军前在南阳建此大策，常以为落落难合，有志者事竟成也！ 弇因复追步，步奔平寿，乃肉袒负斧锧于军门。
-弇传步诣行在所，而勒兵入据其城。
-树十二郡旗鼓，令步兵各以郡人诣旗下，众尚十余万，辎重七千余两，皆罢遣归乡里。弇复引兵至城阳，降五校余党，齐地悉平。振旅还京师。
-六年，西拒隗嚣，屯兵于漆。
-复以国弟广、举并为中郎将。
-弇兄弟六人皆垂青紫，省侍医药，当代以为荣。
+时，军士疲弊，遂大败奔还，壁范阳，数日乃振，贼亦退去，从追至容城、小广阳、安次，连战破之。
+光武还蓟，复遣弇与吴汉、景丹、盖延、朱祐、邳彤、耿纯、刘植、岑彭、祭遵、坚镡、王霸、陈俊、马武十三将军，追贼至潞东，及平谷，再战，斩首万三千余级，遂穷追于右北平无终、土垠之间，至俊靡而还。
+贼散入辽西、辽东，或为乌桓、貊人所抄击，略尽。
+光武即位，拜弇为建威大将军。
+与骠骑大将军景丹、强弩将军陈俊攻厌新贼于敖仓，皆破降之。
+建武二年，更封好畤侯，食好畤、美阳二县。
+三年，延岑自武关出攻南阳，下数城。
+穰人杜弘率其众以从岑。
+弇与岑等战于穰，大破之，斩首三千余级，生获其将士五千余人，得印绶三百。
+杜弘降，岑与数骑遁走东阳。
 translation: 
-When Zhang Bu heard this, he laughed and said: "Yulai and Datong have more than ten thousand people, and I will defeat them all in their own camp."
-Today there are fewer Geng Yan soldiers than them, and they are all tired, so what is there to fear? So, together with his third brother Zhang Lan, Zhang Hong, Zhang Shou and the former Datong Marshal Chongyi, they arrived with 200,000 soldiers to the east of Linzi Dacheng to attack Geng Yan. Geng Yan went out of the Zi River first and met Chongyi.
-Zhang Bu was so angry that he attacked Geng Yan's camp directly and joined forces with Liu Xin and others. Geng Yan climbed up to the palace's bad platform to watch. When he saw Xin and others fighting, he led his elite troops to attack Zhang Bu's formation from the side under the east city and defeated Zhang Bu.
-The flying arrow hit Geng Yan in the buttocks, and Geng Yan sent out to fight again early the next morning. At this time, the emperor was in Lu. He heard that Geng Yan was attacked by Zhang Bu and went to rescue him in person, but he had not yet arrived.
-Chen Jun said to Geng Yan: "The bandit army is strong, so we can temporarily close the camp to recuperate and wait for the emperor's arrival." Geng Yan said: The emperor is about to arrive, and the ministers should kill the cows and drink wine to wait for the arrival of the officials. Instead, should they bother the emperor with thieves and captives? So they sent out troops to fight, from early morning to dusk, they once again defeated Zhang's infantry, killing countless people, and the ravines in the city were filled with corpses.
-Geng Yan knew that Zhang Infantry was about to retreat, so he set up ambushes on his left and right wings in advance.
-In the middle of the night, Zhang Bu led his troops to retreat. The ambush troops on both sides rose up and attacked, and chased them to the Jumeishui River. For eighty or ninety miles, dead bodies were piled up, and more than two thousand vehicles of baggage were collected.
-Zhang Bu returned to the play, and the brothers dispersed.
-A few days later, Guangwu personally came to Linzi to labor the army and hold a meeting of ministers.
-The emperor said to Geng Yan: In the past, Han Xin defeated the Qi army at Lixia to establish the foundation, but now the general attacks Zhu Ayi to make a fortune. This is the western border of Qi, and the credit is enough.
-However, Han Xin's attack has been surrendered, and the general defeated the powerful enemy alone. His contribution is even more valuable than that of Han Xin.
-Tian Hengpang killed Li Shiqi again, and later Tian Heng surrendered. Emperor Gaozu ordered Li Shiqi's younger brother Li Shang not to retaliate.
-Zhang Bu had killed Fulong before. If Zhang Bu came to return, I would also order Fulong's father, the great Situ Fuzhan, to release his grudge. This would be even more similar.
-The general proposed the strategic decision to attack Zhang Bu in Nanyang before, thinking that Shukuo would be difficult to achieve, but now where there is a will, things can come true! Geng Yan then pursued Zhang Bu again, and Zhang Bu ran to Pingshou. He took off his shirt, exposed his limbs, and carried an ax to plead guilty to the army.
-An order was sent to Zhang Bu to march to the camp, and his troops marched into the city to occupy it.
-After establishing the banner of the county to which he belonged, there were still more than 100,000 troops and more than 1,000 vehicles of baggage, all of whom were dismissed and returned to their hometowns. Geng Yan again led troops to Chengyang, surrendered the remaining parties of the five schools, and pacified the entire territory. Zhenbing returned to the capital.
-In the sixth year, Wei Xiao was rejected from the west and troops were stationed in Qi.
-In the eighth year, Congdi attacked Long. The next year, he and Zhonglang Laishe divided their forces to pacify Anding and conquer all the forts in the north.
-Geng Yan pacified a total of forty-six counties and captured a total of three hundred cities in his lifetime, without suffering any failure or setback.
+At this time, the sergeant was exhausted, so he rushed back after being defeated, built a fortification and stood firm at Fan Yang, Xiao Guang Yang and An Ci, and won every battle.
+Guangwu returned to Ji, and then sent Geng Yan and the thirteen generals Wu Han, Jingdan, Gai Yan, Zhu, Pitong, Geng Chun, Liu Zhi, Cen Peng, Ji Zun, Jian Tan, Wang Ba, Chen Jun and Ma Wu to pursue the thieves to Ludong, Pinggu, and fight again, beheading more than 13,000 people. Then they pursued the thieves between Wu Ending and Tuyin in Youbeiping, and then returned to Junmi.
+The thieves scattered into western Liaoning and eastern Liaoning, or were attacked by Wuhuan and Qian people, and most of them were destroyed.
+Guangwu ascended the throne and worshiped Geng Yan as General Jianwei.
+Together with the hussar general Jing Dan and the strong crossbow general Chen Jun, they attacked the new thieves in Aocang, and the thieves were defeated and surrendered.
+In the second year of Jianwu's reign, he changed the title of Geng Yan to the title of Marquis of Haoju, and granted him the title of Marquis of Haoju, and granted him two counties, namely Haoju and Meiyang.
+In the third year, Yancen attacked Nanyang from Wuguan and captured several cities.
+Du Hong, a native of Rang, led his troops to follow Cen.
+Geng Yan fought with Yan Cen and others in Rang, and defeated Yan's army, beheading more than 3,000 of his troops, capturing more than 5,000 of his soldiers alive, and obtained 300 seals and ribbons.
+Du Hong surrendered, and Yancen and several riders fled to Dongyang.
 
 summary:
 summary line 4: Guangwu ascended the throne and made Geng Yan General Jianwei. In the second year of Jianwu, he was made Marquis of Haoju. In the third year, he defeated Yan Cen and Du Hong, capturing over 3,000 heads and 5,000 prisoners. In the fourth year, he was ordered to attack Yuyang but hesitated due to family ties. The emperor reassured him. Geng Yan later defeated mountain bandits and, with Wu Han, captured Fuping, causing 40,000 thieves to surrender. He then attacked Zhang Bu, using strategy to lure Fei Yi into battle, defeating him and capturing Juli. He took Linzi in half a day, isolating Xi'an. Zhang Bu attacked with 200,000 troops but was defeated twice. Geng Yan pursued him, and Zhang Bu surrendered. Geng Yan pacified the region, capturing 300 cities without defeat.
 
-Chunk 8: 
+Chunk 12: 
 original: 
-及况卒，谥烈侯，少子霸袭况爵。
-十三年，增弇户邑，上大将军印绶，罢，以列侯奉朝请。
-每有四方异议，辄召入问筹策。
-年五十六，永平元年卒，谥为愍侯。
-子忠嗣。
-忠以骑都尉击匈奴于天山，有功。
-忠卒，子冯嗣。
-冯卒，子良嗣，一名无禁。
-延光中，尚安帝妹濮阳长公主，位至侍中。
-良卒，子协嗣。
-隃麋侯霸卒，子文金嗣。
-文金卒，子喜嗣。
-喜卒，子显嗣，为羽林左监。
-显卒，子援嗣。
-尚桓帝妹长社公主，为河东太守。
-后曹操诛耿氏，唯援孙弘存焉。
-牟平侯舒卒，子袭嗣。
-尚显宗女隆虑公主。
-袭卒，子宝嗣。
-宝女弟为清河孝王妃。
-及安帝立，尊孝王，母为孝德皇后，以妃为甘园大贵人。
 帝以宝元舅之重，使监羽林左骑，位至大将军。
 而附事内宠，与中常侍樊丰、帝乳母王圣等谮废皇太子为济阴王，及排陷太尉杨震，议者怨之。
 宝弟子承袭公主爵为林虑侯，位至侍中。
@@ -259,28 +170,11 @@ original:
 论曰：淮阴延论项王，审料成势，则知高祖之庙胜矣。
 耿弇决策河北，定计南阳，亦见光武之业成矣。
 然弇自克拔全齐，而无复尺寸功。
+夫岂不怀？
+将时之度数，不足以相容乎？
+三世为将，道家所忌，而耿氏累叶以功名自终。将其用兵欲以杀止杀乎？
+何其独能隆也！
 translation: 
-In the twelfth year, Geng Kuang fell ill, and Emperor Guangwu visited him several times. When Geng Kuang died, he was granted the posthumous title Liehou.
-In the thirteenth year, Geng Yan's food estate was increased, and he was awarded the seal of the general. After removing the general, he was invited to the court as a prince.
-Whenever the emperor encountered different opinions from the four parties, he often summoned Geng Yan as his adviser to make plans.
-He died in the first year of Yongping in the fifty-sixth year of his life. His posthumous title was Minhou.
-Son of a loyal heir.
-Zhong used his cavalry captain to attack the Xiongnu in the Tianshan Mountains, which was a meritorious service.
-Zhongzu, his son Feng Si.
-Feng Zu, a good heir, has no ban.
-In Yanguangzhong, Princess Puyang, the emperor's sister of Shang'an, was promoted to the imperial court.
-A good soldier and a descendant.
-The tyrant Hou Mihou died, and Ziwen was the heir of Jin.
-Wen Jin died, and his son was happy to have an heir.
-After his death, his son showed an heir and became the left prisoner of Yulin.
-Showing death, the son supports the heir.
-Princess Changshe, the sister of Emperor Shanghuan, was the governor of Hedong.
-Later, Cao Cao killed the Geng family and only supported Sun Hongcunyan.
-Hou Shu of Mouping died, and his son succeeded him.
-Princess Longli, the daughter of Shang Xianzong.
-Attack the dead, and the son will be the heir.
-Bao's younger brother is Princess Qinghexiao.
-When Emperor An was established, he respected King Xiao, his mother was Queen Xiaode, and his concubine was the noble lady of Ganyuan.
 The emperor took advantage of his uncle Baoyuan and sent him to oversee Yulin Zuoqi, who was promoted to the rank of general.
 As a favor, he worked with Fan Feng, the imperial wet nurse, Wang Sheng, and others to depose the crown prince as King of Jiyin, and to exclude the Taiwei Yang Zhen, who complained about it.
 Bao's disciple inherited the title of Marquis of Lin Lu from the princess, and was promoted to the rank of Attendant.
@@ -294,6 +188,10 @@ A few years later, Ji Tui found it and merged with more than ten members of his 
 The historian commented: Han Xin commented on Xiang Yu in front of Liu Bang and carefully predicted the situation between Chu and Han, so he knew that Gaozu would definitely win.
 Geng Yan decided to make plans for Hebei and Nanyang, and he also saw that Guangwu's imperial career would be successful.
 However, since Geng Yan conquered Qi, he has not made any new achievements.
+Don't you want to make new achievements?
+Or was it because the laws at that time did not allow him to make new achievements?
+Being a general for three generations is considered unlucky and taboo among Taoists, but the Geng family has been able to commit suicide for generations for their fame. Could it be that the Geng family's use of troops is to stop killings with killing?
+Why can alone prosper?
 
 summary:
 summary line 5: Geng Yan died at fifty-six, posthumously titled Minhou. His descendants served as generals and married into the imperial family. The historian commented that Geng Yan, like Han Xin, foresaw Guangwu's success. Though he achieved no new feats after conquering Qi, the Geng family's military legacy endured for generations, possibly because they used war to end killing.

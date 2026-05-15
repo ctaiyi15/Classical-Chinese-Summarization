@@ -1,0 +1,229 @@
+Summary uses chunk [0, 1, 2, 3, 20, 0, 35]
+
+Chunk 0: 
+original: 
+司马相如者，蜀郡成都人也，字长卿。
+少时好读书，学击剑，故其亲名之曰犬子。
+相如既学，慕蔺相如之为人，更名相如。
+以赀为郎，事孝景帝，为武骑常侍，非其好也。
+会景帝不好辞赋，是时梁孝王来朝，从游说之士齐人邹阳、淮阴枚乘、吴庄忌夫子之徒，相如见而说之，因病免，客游梁。
+梁孝王令与诸生同舍，相如得与诸生游士居数岁，乃著子虚之赋。
+会梁孝王卒，相如归，而家贫，无以自业。
+素与临邛令王吉相善，吉曰： 长卿久宦游不遂，而来过我。
+於是相如往，舍都亭。
+临邛令缪为恭敬，日往朝相如。
+相如初尚见之，後称病，使从者谢吉，吉愈益谨肃。
+临邛中多富人，而卓王孙家僮八百人，程郑亦数百人，二人乃相谓曰： 令有贵客，为具召之。
+translation: 
+Sima Xiangru was born in Chengdu, Shu County, and his courtesy name was Changqing.
+When he was a boy, he liked to read and learn swordsmanship, so his parents named him Quanzi.
+After Sima Xiangru completed his studies, he admired Lin Xiangru's character and changed his name to Xiangru.
+Initially, due to his family's wealth, he was awarded the position of Langguan, guarded Emperor Xiao Jing, and became a regular servant of martial arts, but this was not his hobby.
+It happened that Emperor Jing of the Han Dynasty did not like Ci Fu. At this time, King Liang Xiao came to the capital to see Emperor Jing. He was accompanied by people who were good at lobbying, including Zou Yang from Qijun, Meicheng from Huaiyin, and Mr. Zhuang Ji from Wuxian. Xiangru fell in love with these people when he saw them, so he resigned from his official position on the pretext of illness and lived in Liang State.
+King Liang Xiao asked Xiangru and other scholars to live together. Xiangru had the opportunity to get along with scholars and lobbyists for several years, so he wrote "Zixu Fu".
+Just when King Liang Xiao died, Xiangru had to return to Chengdu. However, his family was poor and he had no occupation that could support his life.
+Xiangru always got along well with Wang Ji, the magistrate of Linqiong County. Wang Ji said: Chang Qing, you have been away from home for a long time and are seeking an official position. It is not satisfactory. You can come to see me.
+So Xiangru went to Linqiong and lived in the capital pavilion in the city.
+The Linqiong County Magistrate pretended to be respectful and visited Xiangru every day.
+At first, Xiangru still met each other with courtesy. Later, he lied about being ill and asked his entourage to refuse Wang Ji's visit. However, Wang Ji was more cautious and respectful.
+There are many rich people in Linqiong County. For example, the Sun family of King Zhuo has 800 slaves, and the Cheng Zheng family has hundreds of people. The two discussed with each other and said: The county magistrate has a distinguished guest, and we are going to prepare a banquet for him.
+
+summary:
+summary line 0: Sima Xiangru, courtesy name Changqing, was born in Chengdu, Shu County. As a youth, he studied literature and swordsmanship, and later admired Lin Xiangru, changing his name accordingly. He initially served as a Langguan under Emperor Jing of Han due to family wealth, but disliked his post. When Emperor Jing showed little interest in rhapsodies (Ci Fu), Xiangru befriended scholars like Zou Yang and Mei Cheng during a visit from King Xiao of Liang. He resigned on pretence of illness and lived in Liang, where he wrote "Zixu Fu." After King Xiao's death, Xiangru returned to Chengdu impoverished.
+
+Chunk 1: 
+original: 
+并召令。
+令既至，卓氏客以百数。
+至日中，谒司马长卿，长卿谢病不能往，临邛令不敢尝食，自往迎相如。
+相如不得已，彊往，一坐尽倾。
+酒酣，临邛令前奏琴曰： 窃闻长卿好之，原以自娱。
+相如辞谢，为鼓一再行。
+是时卓王孙有女文君新寡，好音，故相如缪与令相重，而以琴心挑之。
+相如之临邛，从车骑，雍容间雅甚都；及饮卓氏，弄琴，文君窃从户窥之，心悦而好之，恐不得当也。
+既罢，相如乃使人重赐文君侍者通殷勤。
+文君夜亡奔相如，相如乃与驰归成都。
+家居徒四壁立。
+translation: 
+The county magistrate was also invited.
+When the county magistrate arrived at the Zhuo family, there were already hundreds of guests in the Zhuo family.
+At noon, I went to invite Sima Changqing, but he refused to come, saying that he was ill. Linqiong ordered to see Xiangru not come and did not dare to eat. He went to greet Xiangru himself.
+Xiangru had no choice but to come to Zhuo's house. All the guests were amazed and envious of his charisma.
+When the wine was in full swing, the Linqiong County Magistrate stepped forward, placed the harp in front of Xiangru, and said, "I heard that Chang Qing likes to play the harp very much, and I hope to listen to a piece of music to cheer you up."
+After thanking Xiangru, he played one or two pieces of music.
+At this time, Zhuo Wangsun had a daughter named Wenjun, who was newly widowed and loved music. So Xiangru pretended to respect each other with the county magistrate, and secretly aroused her love with the sound of the piano.
+When Xiangru came to Qiong, he was followed by carriages and horses. He was dignified in appearance, quiet and elegant, and very generous. When Zhuo Wang and Sun's family were drinking and playing piano music, Zhuo Wenjun secretly looked at him through the crack in the door. He was very happy and liked him very much, but he was afraid that he would not understand his feelings.
+After the banquet, Xiangru asked someone to reward Wenjun's waiter with a large sum of money to convey his admiration to her.
+So Zhuo Wenjun ran away from home at night and eloped with Xiangru. Xiangru and Wenjun hurried back to Chengdu.
+When I entered the house, I saw nothing but four walls.
+
+summary:
+summary line 1: Xiangru's friend Wang Ji, magistrate of Linqiong, invited him to stay. Wang Ji feigned deference, but Xiangru eventually refused visits, feigning illness. Wealthy locals, including Zhuo Wangsun and Cheng Zheng, hosted a banquet for the magistrate. Xiangru initially declined but attended after the magistrate personally invited him. During the feast, Xiangru played the zither, captivating Zhuo Wangsun's newly widowed daughter, Wenjun, who secretly admired him. After the banquet, Xiangru bribed her attendants to convey his feelings, and Wenjun eloped with him to Chengdu, where they lived in poverty with only four walls.
+
+Chunk 2: 
+original: 
+卓王孙大怒曰： 女至不材，我不忍杀，不分一钱也。
+人或谓王孙，王孙终不听。
+文君久之不乐，曰： 长卿第俱如临邛，从昆弟假贷犹足为生，何至自苦如此！
+相如与俱之临邛，尽卖其车骑，买一酒舍酤酒，而令文君当炉。
+相如身自著犊鼻裈，与保庸杂作，涤器於市中。
+卓王孙闻而耻之，为杜门不出。
+昆弟诸公更谓王孙曰： 有一男两女，所不足者非财也。
+今文君已失身於司马长卿，长卿故倦游，虽贫，其人材足依也，且又令客，独柰何相辱如此！
+卓王孙不得已，分予文君僮百人，钱百万，及其嫁时衣被财物。
+文君乃与相如归成都，买田宅，为富人。
+居久之，蜀人杨得意为狗监，侍上。
+上读子虚赋而善之，曰： 朕独不得与此人同时哉！
+得意曰： 臣邑人司马相如自言为此赋。
+translation: 
+When Zhuo Wangsun learned about his daughter's elopement, he was furious and said: "My daughter is extremely unqualified. I can't bear to hurt her, but I won't give her a cent either."
+Some people tried to persuade Zhuo Wangsun, but he still refused to listen.
+After a long time, Wenjun felt unhappy and said: "Chang Qing, as long as you go to Linqiong with me, you can make a living by borrowing money from your brothers. Why have you made yourself so miserable?"
+Xiangru came to Linqiong with Wenjun, sold all his carriages and horses, and bought a hotel to sell wine.
+He also asked Wenjun to personally take charge of the wine shop business in Longqian, while he put on his calf-nosed trousers and worked with the employees, washing wine vessels in the busy city.
+When Zhuo Wangsun heard about this, he felt so ashamed that he stayed behind closed doors.
+Some brothers and elders talked to Zhuo Wangsun and said, "You have a son and two daughters. What the family lacks is not money."
+Now, Wenjun has become the wife of Sima Changqing. Changqing was tired of running away from home. Although he was poor, he was indeed a talent and could be completely relied on. Besides, he is a distinguished guest of the county magistrate, why do you despise him like this!
+Zhuo Wangsun had no choice but to give Wenjun 100 slaves, 1 million in money, clothes, bedding and various belongings when she got married.
+Wenjun returned to Chengdu with Xiangru, bought land and houses, and became a wealthy family.
+After a long period of time, Yang Deyi, a native of Shu County, served as a dog supervisor to serve the emperor.
+One day, Emperor Wu read "Zixu Fu" and thought it was well written. He said: "I cannot be at the same time as this author."
+Yang Deyi said: My fellow countryman Sima Xiangru claimed that he wrote this poem.
+
+summary:
+summary line 2: Zhuo Wangsun was furious and refused to support them. Wenjun suggested they return to Linqiong, where they sold their possessions and opened a tavern. Wenjun managed the shop while Xiangru worked publicly in menial tasks. Ashamed, Zhuo Wangsun, persuaded by relatives, eventually gave them 100 slaves, money, and belongings, enabling them to become wealthy.
+
+Chunk 3: 
+original: 
+上惊，乃召问相如。
+相如曰： 有是。
+然此乃诸侯之事，未足观也。
+请为天子游猎赋，赋成奏之。
+上许，令尚书给笔札。
+相如以 子虚 ，虚言也，为楚称； 乌有先生 者，乌有此事也，为齐难； 无是公 者，无是人也，明天子之义。
+故空藉此三人为辞，以推天子诸侯之苑囿。
+其卒章归之於节俭，因以风谏。
+奏之天子，天子大说。
+其辞曰：
+楚使子虚使於齐，齐王悉发境内之士，备车骑之众，与使者出田。
+田罢，子虚过詑乌有先生，而无是公在焉。
+坐定，乌有先生问曰： 今日田乐乎？
+子虚曰： 乐。  获多乎？
+曰： 少。
+然则何乐？
+曰： 仆乐齐王之欲夸仆以车骑之众，而仆对以云梦之事也。
+曰： 可得闻乎？ 子虚曰： 可。
+王驾车千乘，选徒万骑，田於海滨。
+translation: 
+Emperor Wu was very surprised and summoned Xiangru to ask.
+Xiangru said: There is such a thing.
+However, this Fu only describes the affairs of the princes and is not worth reading.
+Please ask me to write a poem about the emperor's hunting trip. After the poem is completed, I will present it to the emperor.
+Emperor Wu agreed and ordered the minister to give him a pen and wooden slips.
+Xiangru used the fictitious words "Zixu" to state the beauty of the Chu State; "Mr. Wu You" means that there is no such thing, and uses it to refute the Chu State for the Qi State; "Wu Shi Gong" means that there is no such person to clarify the principle of being the emperor.
+Therefore, an article was written under the guise of these three people to deduce the prosperous scenes of the emperor and the princes.
+The theme of the last chapter of the Fu comes down to frugality, in order to exhort the emperor.
+After presenting the gift to the emperor, the emperor was very happy.
+The text of the poem says:
+The King of Chu sent Zixu as an envoy to the State of Qi. The King of Qi dispatched all the soldiers in the territory, prepared many chariots and horses, and went hunting with the envoy.
+After the hunting was over, Zixu went to visit Mr. Wu You and boasted about the incident to him. Wu Shigong happened to be present.
+After everyone sat down, Mr. Wu You asked Zixu: "Are you happy hunting today?"
+Zixu said: Happy. Is there a lot of prey?
+Zixu replied: Very few.
+If this is the case, where does the joy come from?
+Zixu replied: I am happy that King Qi wanted to boast to me about his many chariots and horses, but I answered him with the grand scene of King Chu hunting in Yunmengze.
+Mr. Wuyou said: Can you tell me and listen? Zixu said, "Okay."
+The King of Qi commanded thousands of chariots and selected tens of thousands of riders to hunt on the shores of the East China Sea.
+
+summary:
+summary line 3: Later, Emperor Wu of Han read "Zixu Fu" and admired it. Yang Deyi informed him that Xiangru was the author. Summoned, Xiangru offered to write a grander rhapsody about the emperor's hunting grounds. He composed "Shanglin Fu," using fictitious characters—Zixu (Chu), Mr. Wuyou (Qi), and Wu Shigong (the emperor's perspective)—to contrast princely extravagance with imperial virtue. The rhapsody described vast landscapes, hunting scenes, and concluded with a call for frugality and benevolence. The emperor was delighted and appointed Xiangru as Langguan.
+
+Chunk 20: 
+original: 
+天子问相如，相如曰： 邛、筰、厓、駹者近蜀，道亦易通，秦时尝通为郡县，至汉兴而罢。
+今诚复通，为置郡县，愈於南夷。
+天子以为然，乃拜相如为中郎将，建节往使。
+副使王然于、壶充国、吕越人驰四乘之传，因巴蜀吏币物以赂西夷。
+至蜀，蜀太守以下郊迎，县令负弩矢先驱，蜀人以为宠。
+於是卓王孙、临邛诸公皆因门下献牛酒以交驩。
+卓王孙喟然而叹，自以得使女尚司马长卿晚，而厚分与其女财，与男等同。
+司马长卿便略定西夷，邛、筰、厓、駹、斯榆之君皆请为内臣。
+除边关，关益斥，西至沬、若水，南至牂柯为徼，通零关道，桥孙水以通邛都。
+还报天子，天子大说。
+相如使时，蜀长老多言通西南夷不为用，唯大臣亦以为然。
+相如欲谏，业已建之，不敢，乃著书，籍以蜀父老为辞，而己诘难之，以风天子，且因宣其使指，令百姓知天子之意。
+translation: 
+The emperor asked Xiangru about this, and Xiangru said: Qiong Ze, Ran, Zhen, etc. are all very close to Shu, and the roads are easy to open. Prefectures and counties were already established during the Qin Dynasty and were abolished only after the founding of the Han Dynasty.
+Now that it is really going to be reopened and set up as counties, its value exceeds that of Nanyi.
+The emperor thought that Xiangru was right, so he appointed Xiangru as Zhonglang General and ordered Chijie to go on an envoy.
+Deputy envoys Wang Ranyu, Hu Chongguo, Lu Yueren and others rode forward in a carriage driven by four horses, relying on officials and property from Ba and Shu to win over the southwestern barbarians.
+When Xiangru and others arrived at Shu County, the prefect of Shu County and his officials went to the outskirts to greet Xiangru. The county magistrate, carrying a bow and arrow, opened the way in front of him. The people of Shu were all proud of this.
+So Zhuo Wangsun and Linqiong elders all came to Xiangru's door through their connections, offered cattle and wine, and talked happily with Xiangru.
+Zhuo Wangsun sighed and thought that it was too late to marry his daughter to Sima Xiangru, so he gave Wen Jun a generous piece of property to share equally with his son.
+Sima Xiangru then pacified the southwestern barbarians. The princes of Qiong, Zuo, Ran, Zhen, and Siyu all requested to become ministers of the Han Dynasty.
+So the old passes were demolished, and the border was expanded to reach Moshui and Ruoshui in the west, and Zangke in the south. Using this as the boundary, the Lingguan Road was opened, and a bridge was built on Sunshui River, leading directly to Qiong and Zeo.
+Xiangru returned to Beijing to report to the emperor, who was very happy.
+When Xiangru was sent as an envoy to the southwestern barbarians, most of the elders in Shu County said it was useless to open the door to the southwestern barbarians. Even the court ministers thought this was the case.
+Xiangru also wanted to remonstrate with the emperor, but the suggestion had already been made by himself, so he did not dare to remonstrate further, so he wrote an article, pretending to be an elder in Shu County, and used it to challenge the other party.
+
+summary:
+summary line 4: Xiangru served as an envoy to blame Tang Meng for harsh policies in Ba and Shu, issuing an imperial proclamation reassuring the people. He later advocated for reopening southwestern territories, becoming Zhonglang General to pacify the region. Despite opposition, he succeeded, and the emperor was pleased. However, accusations of bribery led to his dismissal, though he was later reinstated as Langguan.
+
+Chunk 0: 
+original: 
+司马相如者，蜀郡成都人也，字长卿。
+少时好读书，学击剑，故其亲名之曰犬子。
+相如既学，慕蔺相如之为人，更名相如。
+以赀为郎，事孝景帝，为武骑常侍，非其好也。
+会景帝不好辞赋，是时梁孝王来朝，从游说之士齐人邹阳、淮阴枚乘、吴庄忌夫子之徒，相如见而说之，因病免，客游梁。
+梁孝王令与诸生同舍，相如得与诸生游士居数岁，乃著子虚之赋。
+会梁孝王卒，相如归，而家贫，无以自业。
+素与临邛令王吉相善，吉曰： 长卿久宦游不遂，而来过我。
+於是相如往，舍都亭。
+临邛令缪为恭敬，日往朝相如。
+相如初尚见之，後称病，使从者谢吉，吉愈益谨肃。
+临邛中多富人，而卓王孙家僮八百人，程郑亦数百人，二人乃相谓曰： 令有贵客，为具召之。
+translation: 
+Sima Xiangru was born in Chengdu, Shu County, and his courtesy name was Changqing.
+When he was a boy, he liked to read and learn swordsmanship, so his parents named him Quanzi.
+After Sima Xiangru completed his studies, he admired Lin Xiangru's character and changed his name to Xiangru.
+Initially, due to his family's wealth, he was awarded the position of Langguan, guarded Emperor Xiao Jing, and became a regular servant of martial arts, but this was not his hobby.
+It happened that Emperor Jing of the Han Dynasty did not like Ci Fu. At this time, King Liang Xiao came to the capital to see Emperor Jing. He was accompanied by people who were good at lobbying, including Zou Yang from Qijun, Meicheng from Huaiyin, and Mr. Zhuang Ji from Wuxian. Xiangru fell in love with these people when he saw them, so he resigned from his official position on the pretext of illness and lived in Liang State.
+King Liang Xiao asked Xiangru and other scholars to live together. Xiangru had the opportunity to get along with scholars and lobbyists for several years, so he wrote "Zixu Fu".
+Just when King Liang Xiao died, Xiangru had to return to Chengdu. However, his family was poor and he had no occupation that could support his life.
+Xiangru always got along well with Wang Ji, the magistrate of Linqiong County. Wang Ji said: Chang Qing, you have been away from home for a long time and are seeking an official position. It is not satisfactory. You can come to see me.
+So Xiangru went to Linqiong and lived in the capital pavilion in the city.
+The Linqiong County Magistrate pretended to be respectful and visited Xiangru every day.
+At first, Xiangru still met each other with courtesy. Later, he lied about being ill and asked his entourage to refuse Wang Ji's visit. However, Wang Ji was more cautious and respectful.
+There are many rich people in Linqiong County. For example, the Sun family of King Zhuo has 800 slaves, and the Cheng Zheng family has hundreds of people. The two discussed with each other and said: The county magistrate has a distinguished guest, and we are going to prepare a banquet for him.
+
+summary:
+summary line 5: Xiangru suffered from diabetes and avoided court debates. He advised the emperor against dangerous hunting, writing a remonstrance. He also composed "Ode to the Immortals" and "Adult Fu," depicting celestial journeys. His final work, a treatise on the Feng and Shan sacrifices, urged the emperor to perform these rites. The emperor later conducted them after Xiangru's death.
+
+Chunk 35: 
+original: 
+披艺观之，天人之际已交，上下相发允答。
+圣王之德，兢兢翼翼也。
+故曰 兴必虑衰，安必思危 。
+是以汤武至尊严，不失肃祗；舜在假典，顾省厥遗：此之谓也。
+司马相如既卒五岁，天子始祭后土。
+八年而遂先礼中岳，封于太山，至梁父禅肃然。
+相如他所著，若遗平陵侯书、与五公子相难、草木书篇不采，采其尤著公卿者云。
+太史公曰：春秋推见至隐，易本隐之以显，大雅言王公大人而德逮黎庶，小雅讥小己之得失，其流及上。
+所以言虽外殊，其合德一也。
+相如虽多虚辞滥说，然其要归引之节俭，此与诗之风谏何异。
+translation: 
+It should be entrusted accordingly and tell the king to hold a Zen ceremony. Looking through the classics, we can see that there is a relationship between nature and human society, and the two inspire each other and are harmonious.
+The virtue of a wise king is to act conscientiously and cautiously.
+Therefore, we must consider decline when we are prosperous, and be aware of danger when we are peaceful and happy.
+Therefore, although King Tang of Shang and King Wu of Zhou were in the highest position, they still maintained the virtue of seriousness and respect. During the ceremony, Yu Shun still observed and reflected on his shortcomings and mistakes.
+That's the truth. Sima Xiangru had been dead for five years before the emperor began to worship the earth god.
+Eight years after his death, the emperor finally offered sacrifices to Zhongyue Mountain first, then to Mount Tai, and then to Liangfu Mountain and Zen Suran Mountain.
+Xiangru's other works, such as "The Book of the Marquis of Pingling", "The Dilemma with the Five Young Masters", and "The Book of Caomu" are not included, but his works that are particularly famous among public ministers are included.
+Tai Shigong said: "Spring and Autumn" can delve into the most subtle aspects of things, "Book of Changes" is originally subtle but can be explained in a simple way, "Daya" talks about the virtues of princes and the common people, "Xiaoya" ridicules the gains and losses of humble authors, but its rumors can affect court politics.
+Therefore, although the external manifestations of words are different, their gentle and enlightening effect is the same.
+Although the similar articles contain many false words and exaggerated statements, their main theme is frugality. How is this different from the satirical remonstrance in the Book of Songs?
+
+summary:
+summary line 6: Sima Qian noted that Xiangru's works, though ornate, promoted frugality, akin to the "Book of Songs." Yang Xiong criticized their imbalance between luxury and admonition, but Sima Qian defended their value.
+

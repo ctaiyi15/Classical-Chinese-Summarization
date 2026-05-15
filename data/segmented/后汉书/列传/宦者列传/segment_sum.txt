@@ -1,44 +1,11 @@
-Summary uses chunk [0, 1, 1, 16, 19, 1]
+Summary uses chunk [1, 1, 1, 18, 1, 1]
 
-Chunk 0: 
+Chunk 1: 
 original: 
-《易》曰： 天垂象，圣人则之。
-宦者四星，在皇位之侧，故《周礼》置官，亦备其数。
-阍者守中门之禁，寺人掌女宫之戒。
-又云 王之正内者五人 。
-《月令》： 仲冬，命阉尹审门闾，谨房室。
-《诗》之《小雅》，亦有《巷伯》刺谗之篇。
-然宦人之在王朝者，其来旧矣。
-将以其体非全气，情志专良，通关中人，易以役养乎？
-然而后世因之，才任稍广，其能者，则勃貂、管苏有功于楚、晋，景监、缪贤著庸于秦、赵。
-及其敝也，则竖刁乱齐，伊戾祸宋。
-汉兴，仍袭秦制，置中常侍官。
 然亦引用士人，以参其选，皆银珰左貂，给事殿省。
 及高后称制，乃以张卿为大谒者，出入卧内，受宣诏命。
 文帝时，有赵谈、北宫伯子，颇见亲幸。
 至于孝武，亦爱李延年。
-translation: 
-◆In the preface to the biographies of eunuchs, "Book of Changes" says: Heaven shows down the image of the Dharma, and the saints imitate it.
-There are four eunuch stars in the sky, next to the emperor star, so the "Book of Rites of Zhou" includes eunuchs to fill the number.
-The eunuchs guard the inner gate of the palace, and the eunuchs guard the precepts of the female palace.
-"The Rites of Zhou" also says: There are five servants in the king's bedroom.
-The "Moon Order" records: In the middle of winter, the officials in charge of the eunuchs were ordered to inspect the gates and keep the doors open and closed.
-There is also a poem called "Xiang Bo" written by an eunuch in "The Book of Songs·Xiaoya" that satirizes King You of Zhou for believing in slander.
-It can be seen that eunuchs have been serving in the imperial court for a long time.
-Probably because they have insufficient yang energy in their bodies, are single-minded in temperament, and have no evil thoughts. They are easy to interact with and manage the people in the palace, right?
-However, later generations followed this system and the scope of their appointment gradually expanded. Among them, talented ones such as Bo Diao and Guan Su made contributions to the Jin and Chu states. Jing Jian and Miao Xian made contributions to the Qin and Zhao states because they recommended Shang Yang and Lin Xiangru respectively.
-As for the disasters caused by eunuchs, they caused chaos to the Qi State and brought violence to the Song State. These are obvious examples.
-When the Han Dynasty flourished, the system of the Qin Dynasty was still used, and the official position of Zhongchangshi was set up.
-But it is also cited that scholars participated in the selection of regular servants. They all wear hats decorated with silver bells and sable tails, and work in the palace and Taiwan Province.
-When Empress Lu came to the throne, she appointed Zhang Qing as her chief visitor, who came in and out of her bedroom to receive and convey her orders.
-During the reign of Emperor Wen, there were uncles Zhao Tan and Beigong, who were very lucky to have relatives.
-Emperor Wu of the Han Dynasty also loved Li Yannian.
-
-summary:
-summary line 0: The preface to the biographies of eunuchs in the *Book of the Later Han* explains that eunuchs have served in imperial courts since ancient times, as evidenced by celestial signs and classical texts like the *Book of Changes* and the *Rites of Zhou*. Initially, they were employed for their perceived lack of evil thoughts and suitability for managing the inner palace. However, over time, their roles expanded. While some, like Bo Diao and Guan Su, made contributions to states, others caused disasters, such as in Qi and Song. During the Han Dynasty, the system continued, with eunuchs like Zhang Qing serving Empress Lü and later emperors. Their power grew significantly during the Eastern Han, starting with Zheng Zhong, who helped Emperor He eliminate the Dou Xian faction and was enfeoffed, marking the beginning of eunuch influence. This trend continued under subsequent rulers, with eunuchs like Sun Cheng playing key roles in supporting emperors, leading to their increased authority and the granting of titles and lands.
-
-Chunk 1: 
-original: 
 帝数宴后庭，或潜游离馆，故请奏机事，多以宦人主之。
 至元帝之世，史游为黄门令，勤心纳忠，有所补益。
 其后弘恭、石显以佞险自进，卒有萧、周之祸，损秽帝德焉。
@@ -54,6 +21,53 @@ original:
 或称伊、霍之勋，无谢于往载；或谓良、平之画，复兴于当今。
 虽时有忠公，而竟见排斥。
 translation: 
+But it is also cited that scholars participated in the selection of regular servants. They all wear hats decorated with silver bells and sable tails, and work in the palace and Taiwan Province.
+When Empress Lu came to the throne, she appointed Zhang Qing as her chief visitor, who came in and out of her bedroom to receive and convey her orders.
+During the reign of Emperor Wen, there were uncles Zhao Tan and Beigong, who were very lucky to have relatives.
+Emperor Wu of the Han Dynasty also loved Li Yannian.
+Emperor Wu had banquets in the harem many times, or secretly visited the villa outside the palace. Therefore, eunuchs were usually responsible for reporting confidential matters.
+By the time of Emperor Yuan, Shi You was the magistrate of Huangmen. He was loyal and diligent, and was very helpful to political affairs.
+Later, Hong Gong and Shi Xian relied on insidious flattery to get promoted, which finally led to the murder of Xiao Wangzhi and the deposed Zhou Kan, which damaged and tarnished the emperor's virtue.
+At the beginning of the Eastern Han Dynasty when the dynasty was reestablished, all eunuchs were eunuchs and no longer mixed with other scholars.
+During the Yongping period, the staff began to be recruited: four people from the Zhongchang sect and ten people from the Xiaohuang sect.
+Emperor He ascended the throne at a young age, and the Dou Xian brothers controlled the government. Officials inside and outside were unable to approach Emperor He, and only eunuchs lived with Emperor He.
+Therefore, the eunuch Zheng Zhong was able to make plans with Emperor He alone in the forbidden palace, and finally killed the traitorous minister Dou Xian. Zheng Zhong was named the Marquis of Chao'an Township and was given the title of Palace Minister.
+The power of eunuchs began to grow.
+From Emperor Ming to the Yanping period, the scope of eunuch appointments was gradually expanded, and the number of eunuchs was slightly increased. The number of eunuchs increased to ten, and the number of small Huangmen was twenty. The decorations on their hats were all changed to gold right mink, and they also served as Jiuqing and other foreign court officials.
+Empress Dowager Deng presided over the government as a heroine, and there were many political affairs. The courtiers discussed national affairs and could not enter the inner palace to participate in planning and issue edicts without going beyond the queen's residence. Therefore, she had to appoint eunuchs and pin the fate of the country on them.
+They hold the power of nobility in their hands and carry the royal decrees in their mouths. They no longer just hold positions in the palace and Yongxiang.
+Later, the eunuch Sun Cheng made great achievements in supporting Emperor Shun, and Cao Teng participated in the plan to support Emperor Huan. Subsequently, the five marquises Shan Chao, Xu Huang, Ju Yuan, Zuo Xuanguan, and Tang Heng conspired to have Liang Ji, a relative of his, executed. What they did was fair and just, and their kindness was in the emperor's heart, so they obeyed both inside and outside the court, and no one dared to criticize them.
+Some people praise them for having the same achievements as Yi Yin and Huo Guang, and are worthy of the previous generations; some say that the strategies of Zhang Liang and Chen Ping have appeared again today.
+Although there were loyal ministers who served the public affairs at that time, they were eventually rejected.
+
+summary:
+summary line 0: The preface to the biographies of eunuchs in the *Book of the Later Han* explains that eunuchs have served in imperial courts since ancient times, as evidenced by celestial signs and classical texts like the *Book of Changes* and the *Rites of Zhou*. Initially, they were employed for their perceived lack of evil thoughts and suitability for managing the inner palace. However, over time, their roles expanded. While some, like Bo Diao and Guan Su, made contributions to states, others caused disasters, such as in Qi and Song. During the Han Dynasty, the system continued, with eunuchs like Zhang Qing serving Empress Lü and later emperors. Their power grew significantly during the Eastern Han, starting with Zheng Zhong, who helped Emperor He eliminate the Dou Xian faction and was enfeoffed, marking the beginning of eunuch influence. This trend continued under subsequent rulers, with eunuchs like Sun Cheng playing key roles in supporting emperors, leading to their increased authority and the granting of titles and lands.
+
+Chunk 1: 
+original: 
+然亦引用士人，以参其选，皆银珰左貂，给事殿省。
+及高后称制，乃以张卿为大谒者，出入卧内，受宣诏命。
+文帝时，有赵谈、北宫伯子，颇见亲幸。
+至于孝武，亦爱李延年。
+帝数宴后庭，或潜游离馆，故请奏机事，多以宦人主之。
+至元帝之世，史游为黄门令，勤心纳忠，有所补益。
+其后弘恭、石显以佞险自进，卒有萧、周之祸，损秽帝德焉。
+中兴之初，宦官悉用阉人，不复杂调他士。
+至永平中，始置员数，中常侍四人，小黄门十人。
+和帝即祚幼弱，而窦宪兄弟专总权威，内外臣僚，莫由亲接，所与居者，唯庵宦而已。
+故郑众得专谋禁中，终除大憝，遂享分土之封，超登宫卿之位。
+于是中官始盛焉。
+自明帝以后，迄乎延平，委用渐大，而其员稍增，中常侍至有十人，小黄门二十人，改以金珰右貂，兼领卿署之职。
+邓后以女主临政，而万机殷远，朝臣国议，无由参断帷幄，称制下令，不出房闱之间，不得不委用刑人，寄之国命。
+手握王爵，口含天宪，非复掖廷永巷之职，闺牖房闼之任也。
+其后孙程定立顺之功，曹腾参建桓之策，续以五侯合谋，梁冀受钺，迹因公正，恩固主心，故中外服从，上下屏气。
+或称伊、霍之勋，无谢于往载；或谓良、平之画，复兴于当今。
+虽时有忠公，而竟见排斥。
+translation: 
+But it is also cited that scholars participated in the selection of regular servants. They all wear hats decorated with silver bells and sable tails, and work in the palace and Taiwan Province.
+When Empress Lu came to the throne, she appointed Zhang Qing as her chief visitor, who came in and out of her bedroom to receive and convey her orders.
+During the reign of Emperor Wen, there were uncles Zhao Tan and Beigong, who were very lucky to have relatives.
+Emperor Wu of the Han Dynasty also loved Li Yannian.
 Emperor Wu had banquets in the harem many times, or secretly visited the villa outside the palace. Therefore, eunuchs were usually responsible for reporting confidential matters.
 By the time of Emperor Yuan, Shi You was the magistrate of Huangmen. He was loyal and diligent, and was very helpful to political affairs.
 Later, Hong Gong and Shi Xian relied on insidious flattery to get promoted, which finally led to the murder of Xiao Wangzhi and the deposed Zhou Kan, which damaged and tarnished the emperor's virtue.
@@ -74,6 +88,10 @@ summary line 1: Cai Lun, a eunuch known for his talent and integrity, served und
 
 Chunk 1: 
 original: 
+然亦引用士人，以参其选，皆银珰左貂，给事殿省。
+及高后称制，乃以张卿为大谒者，出入卧内，受宣诏命。
+文帝时，有赵谈、北宫伯子，颇见亲幸。
+至于孝武，亦爱李延年。
 帝数宴后庭，或潜游离馆，故请奏机事，多以宦人主之。
 至元帝之世，史游为黄门令，勤心纳忠，有所补益。
 其后弘恭、石显以佞险自进，卒有萧、周之祸，损秽帝德焉。
@@ -89,6 +107,10 @@ original:
 或称伊、霍之勋，无谢于往载；或谓良、平之画，复兴于当今。
 虽时有忠公，而竟见排斥。
 translation: 
+But it is also cited that scholars participated in the selection of regular servants. They all wear hats decorated with silver bells and sable tails, and work in the palace and Taiwan Province.
+When Empress Lu came to the throne, she appointed Zhang Qing as her chief visitor, who came in and out of her bedroom to receive and convey her orders.
+During the reign of Emperor Wen, there were uncles Zhao Tan and Beigong, who were very lucky to have relatives.
+Emperor Wu of the Han Dynasty also loved Li Yannian.
 Emperor Wu had banquets in the harem many times, or secretly visited the villa outside the palace. Therefore, eunuchs were usually responsible for reporting confidential matters.
 By the time of Emperor Yuan, Shi You was the magistrate of Huangmen. He was loyal and diligent, and was very helpful to political affairs.
 Later, Hong Gong and Shi Xian relied on insidious flattery to get promoted, which finally led to the murder of Xiao Wangzhi and the deposed Zhou Kan, which damaged and tarnished the emperor's virtue.
@@ -107,8 +129,15 @@ Although there were loyal ministers who served the public affairs at that time, 
 summary:
 summary line 2: The power of eunuchs peaked during the reign of Emperor Huan, when five eunuchs—Shan Chao, Xu Huang, Ju Yuan, Zuo Xuanguan, and Tang Heng—helped the emperor eliminate the powerful Liang Ji family. They were all enfeoffed as marquises on the same day, becoming known as the "Five Marquises." Their influence led to widespread corruption, with their relatives and associates plundering the people and causing chaos. Despite some attempts at reform, the eunuchs’ power only grew, leading to the persecution of upright officials and the establishment of party prisons. The historian notes that while Yuan Shao later killed all eunuchs, this merely replaced one form of violence with another, and the Han dynasty ultimately fell due to its reliance on eunuchs.
 
-Chunk 16: 
+Chunk 18: 
 original: 
+遂代曹节领长乐太仆。
+熹平元年，有司举奏览专权骄奢，策收印绶，自杀。阿党者皆免。
+曹节字汉丰，南阳新野人也。
+其本魏郡人，世吏二千石。
+顺帝初，以西园骑迁小黄门。
+桓帝时，迁中常侍，奉车都尉。
+建宁元年，持节将中黄门虎贲羽林千人，北迎灵帝，陪乘入宫。
 及即位，以定策封长安乡侯，六百户。
 时，窦太后临朝，后父大将军武与太傅陈蕃谋诛中官，节与长乐五官史朱瑀、从官史共普、张亮、中黄门王尊、长乐谒者腾是等十七人，共矫诏以长乐食监王甫为黄门令，将兵诛武、蕃等，事已具《蕃》、《武传》。
 节迁长乐卫尉，封育阳侯，增邑三千户；甫迁中常侍，黄门令如故；瑀封都乡侯，千五百户；普、亮等五人各三百户；余十一人皆为关内侯，岁食租二千斛。
@@ -118,15 +147,14 @@ original:
 有顷疾瘳，上印绶，罢，复为中常侍，位特进，秩中二千石，寻转大长秋。
 熹平元年，窦太后崩，有何人书朱雀阙，言 天下大乱，曹节、王甫幽杀太后，常侍侯览多杀党人，公卿皆尸禄，无有忠言者。
 于是诏司隶校尉刘猛逐捕，十日一会。
-猛以诽书言直，不肯急捕，月余，主名不立。
-猛坐左转谏议大夫，以御史中丞段颎代猛，乃四出逐捕，及太学游生，系者千余人。
-节等恕猛不已，使颎以他事奏猛，抵罪输左校。
-朝臣多以为言，乃免刑，复公车征之。
-节遂与王甫等诬奏桓帝弟勃海王悝谋反，诛之。
-以功封者十二人。
-甫封冠军侯。
-节亦增邑四千六百户，并前七千六百户。
 translation: 
+Because Cao Jie led the servant of Changle.
+In the first year of Xiping, officials complained to Hou Lan about his power, arrogance and extravagance, and ordered him to take away his seal and ribbon. Hou Lan committed suicide and all his colleagues were dismissed from their official positions.
+◆Cao Jie's biography, Cao Jie's courtesy name is Hanfeng, a new savage from Nanyang.
+He was originally from Weijun, and his family had two thousand shi from generation to generation.
+In the early years of Emperor Shun's reign, Yixiyuanqi was promoted to Xiaohuangmen.
+During the reign of Emperor Huan, he was promoted to regular attendant and served as captain of chariot.
+In the first year of Jianning, the general Zhijie led thousands of soldiers from Huangmen to the Yulin to welcome Emperor Ling from the north and accompanied Emperor Ling's chariot into the palace.
 Emperor Ling ascended the throne and was granted the title of Marquis of Chang'an Township and six hundred households due to his merits in making policies.
 At this time, the Empress Dowager Dou came to power. The Empress Dowager's father, General Dou Wu, and the Grand Tutor Chen Fan discussed the execution of the eunuchs. Cao Jie, along with Changle Wuguan Shi Zhu Wangyu, Congguan Shi Gongpu, Zhang Liang, Zhonghuangmen Wang Zun, Changle Ye Zhe Tengshi and other seventeen people jointly pretended to be the emperor's edict and appointed Wang Fu, Changle Food Supervisor, as the Huangmen Order, and led troops to kill Dou Wu, Chen Fan and others. The matter has been recorded in "Chen Fan" and "Dou Wu".
 Cao Jie was promoted to Changle Weiwei, and was granted the title of Marquis of Yuyang, adding 3,000 households to the city; Wang Fu was promoted to a regular servant, and was still the Huangmen Order; King Zhu Yu was granted the title of Duxiang Marquis, with 1,500 households; Gong Pu, Zhang Liang and other five people each had 300 households; the remaining 11 people were all Guannei Marquis, with an annual food rent of 2,000 dendrobium.
@@ -136,63 +164,16 @@ In the second year, Cao Jie fell seriously ill and was ordered to serve as a gen
 It didn't take long for him to recover from his illness. He was given the seal and ribbon, and then he became a regular servant again. He was promoted to a special rank and was awarded two thousand stones. Soon he was promoted to Changqiu.
 In the first year of Xiping, Empress Dowager Dou passed away. I don't know who wrote in Zhuque Que: The world was in chaos. Cao Jie and Wang Fuyou killed the empress dowager. Chang Shi Hou Landuo killed party members. The ministers were all people who had nothing to do with their bodies and had no loyal words.
 So he ordered Commander Liu Meng to arrest them one by one and report them every ten days.
-Liu Meng believed that the slanderous letter was honest and refused to rush to arrest him. For more than a month, the main culprit was not caught.
-Liu Meng was convicted and demoted to the position of admonishment official, and he was replaced by Yushi Zhongcheng Duan. So he searched everywhere and arrested more than a thousand people including Taixue wanderers.
-Cao Jie and others resented Liu Meng, so they sent Duan to do other things to punish Liu Meng, so as to offend Liu Meng and send him to the left school labor camp.
-Many people in the court spoke up for him, so he was exempted from punishment and was recruited in a public car.
-Cao Jie, together with Wang Fu and others, falsely accused Emperor Huan's brother Bohai Wang Kui of treason, and Liu Kui was executed.
-Twelve people were sealed for their merit.
-Wang Fu was awarded the title of Champion Hou.
-Cao Jie also added 4,600 households to the city, adding a total of 7,600 households to the previous ones.
 
 summary:
 summary line 3: The biographies of individual eunuchs detail their rise and fall. Hou Lan, a favorite of Emperor Huan, amassed immense wealth through bribery and corruption, with his brother Hou Shen committing atrocities. Hou Lan was eventually impeached by Zhang Jian, but he retaliated by having Zhang Jian killed. He later committed suicide after being stripped of his titles. Cao Jie, who served under Emperor Shun and Huan, helped Emperor Ling ascend the throne and was instrumental in the massacre of the Dou Wu and Chen Fan factions. He and his associates, including Wang Fu, were granted extensive titles and lands, leading to widespread corruption and abuse of power. Despite some opposition, Cao Jie died in office, and his adopted son inherited his title.
 
-Chunk 19: 
-original: 
-四年，卒，赠车骑将军。
-后瑀亦病卒，皆养子传国。
-审忠字公诚，宦官诛后，辟公府。
-吕强字汉盛，河南成皋人也。
-少以宦者为小黄门，再迁中常侍。
-为人清忠奉公。
-愿陛下详思臣言，不以记过见玼为责。
-书奏不省。中平元年，黄巾贼起，帝问强所宜施行。
-强欲先诛左右贪浊者，大赦党人，料简刺史、二千石能否。
-帝纳之，乃先赦党人。
-于是诸常侍人人求退，又各自征还宗亲子弟在州郡者。
-中常侍赵忠、夏恽等遂共构强，云 与党人共议朝廷，数读《霍光传》。
-强兄弟所在并皆贪秽 。
-帝不悦，使中黄门持兵召强。
-强闻帝召，怒曰： 吾死，乱起矣。
-丈夫欲尽忠国家，岂能对狱吏乎！
-遂自杀。
-忠、恽复谮曰： 强见召未知所问，而就处草自屏，有奸明审。
-translation: 
-Four years later, he died and was presented to the general of chariots and cavalry.
-Later, Zhu Wangyu also died of illness, and both adopted sons to pass on the country.
-Shen Zhong was named Gongcheng, and after being killed by the eunuchs, he was summoned to the palace.
-◆Biography of Lu Qiang, whose courtesy name was Han Sheng and a native of Chenggao, Henan.
-When he was young, he served as an eunuch as a small Huangmen, and then he was promoted to a regular attendant.
-He is honest, loyal, and law-abiding.
-During the reign of Emperor Ling, he was granted the title of eunuch in accordance with the regulations, and Lu Qiang was granted the title of Duxiang Marquis. Lu Qiang's words were sincere and he refused to accept them, so Emperor Ling had no choice but to obey him.
-At that time, Emperor Ling accumulated a lot of private wealth and collected treasures from the world. The contribution of the county and the country had to be paid to the internal affairs department first, which was called "guide fee". In the first year of Zhongping, the Yellow Turban bandits were causing trouble. Emperor Ling asked Lu Qiang what to do.
-Lu Qiang's opinion was to first kill the corrupt elements around the emperor, grant amnesty to party members, and examine the merits of the governor and Erqianshi.
-Emperor Ling accepted it. So he first granted amnesty to the party members.
-In this way, the various ministers resigned from the court at everyone's request, and each recalled their relatives and children in the prefectures and counties.
-Zhao Zhong, Xia Yun and others jointly framed Lu Qiang, saying: Lu Qiang discussed the court with party members, often read "Huo Guang Zhuan", and wanted to depose the emperor and establish another emperor.
-Wherever the Lu Qiang brothers were, there was corruption and perversion of the law.
-The emperor was unhappy and sent Zhonghuangmen to summon Lu Qiang with weapons.
-When Lu Qiang heard that the emperor called him, he said angrily: If I die, the country will be in chaos!
-How can a doctor, who is loyal to the country, obey the jailer's instructions?
-Just commit suicide.
-Zhao Zhong and Xia Yun also framed him and said: Lu Qiang was summoned by the emperor for questioning. He didn't know what to ask, but committed suicide in the weeds outside. It was obvious that he had a conspiracy.
-
-summary:
-summary line 4: Lu Qiang, a eunuch known for his honesty, advised Emperor Ling to eliminate corrupt officials and grant amnesty to party members during the Yellow Turban rebellion. However, he was falsely accused by other eunuchs and committed suicide. Other eunuchs like Zhao and Li Xun were noted for their learning and integrity, but they were exceptions. Zhang Rang and Zhao Zhong, who served under Emperor Ling, were among the most powerful eunuchs. They controlled the court, collected exorbitant taxes, and built lavish palaces. Their corruption and cruelty drove many to join the Yellow Turbans. After Emperor Ling’s death, Yuan Shao led a massacre of eunuchs, killing thousands. Zhang Rang and others fled with the emperor but eventually committed suicide by drowning.
-
 Chunk 1: 
 original: 
+然亦引用士人，以参其选，皆银珰左貂，给事殿省。
+及高后称制，乃以张卿为大谒者，出入卧内，受宣诏命。
+文帝时，有赵谈、北宫伯子，颇见亲幸。
+至于孝武，亦爱李延年。
 帝数宴后庭，或潜游离馆，故请奏机事，多以宦人主之。
 至元帝之世，史游为黄门令，勤心纳忠，有所补益。
 其后弘恭、石显以佞险自进，卒有萧、周之祸，损秽帝德焉。
@@ -208,6 +189,53 @@ original:
 或称伊、霍之勋，无谢于往载；或谓良、平之画，复兴于当今。
 虽时有忠公，而竟见排斥。
 translation: 
+But it is also cited that scholars participated in the selection of regular servants. They all wear hats decorated with silver bells and sable tails, and work in the palace and Taiwan Province.
+When Empress Lu came to the throne, she appointed Zhang Qing as her chief visitor, who came in and out of her bedroom to receive and convey her orders.
+During the reign of Emperor Wen, there were uncles Zhao Tan and Beigong, who were very lucky to have relatives.
+Emperor Wu of the Han Dynasty also loved Li Yannian.
+Emperor Wu had banquets in the harem many times, or secretly visited the villa outside the palace. Therefore, eunuchs were usually responsible for reporting confidential matters.
+By the time of Emperor Yuan, Shi You was the magistrate of Huangmen. He was loyal and diligent, and was very helpful to political affairs.
+Later, Hong Gong and Shi Xian relied on insidious flattery to get promoted, which finally led to the murder of Xiao Wangzhi and the deposed Zhou Kan, which damaged and tarnished the emperor's virtue.
+At the beginning of the Eastern Han Dynasty when the dynasty was reestablished, all eunuchs were eunuchs and no longer mixed with other scholars.
+During the Yongping period, the staff began to be recruited: four people from the Zhongchang sect and ten people from the Xiaohuang sect.
+Emperor He ascended the throne at a young age, and the Dou Xian brothers controlled the government. Officials inside and outside were unable to approach Emperor He, and only eunuchs lived with Emperor He.
+Therefore, the eunuch Zheng Zhong was able to make plans with Emperor He alone in the forbidden palace, and finally killed the traitorous minister Dou Xian. Zheng Zhong was named the Marquis of Chao'an Township and was given the title of Palace Minister.
+The power of eunuchs began to grow.
+From Emperor Ming to the Yanping period, the scope of eunuch appointments was gradually expanded, and the number of eunuchs was slightly increased. The number of eunuchs increased to ten, and the number of small Huangmen was twenty. The decorations on their hats were all changed to gold right mink, and they also served as Jiuqing and other foreign court officials.
+Empress Dowager Deng presided over the government as a heroine, and there were many political affairs. The courtiers discussed national affairs and could not enter the inner palace to participate in planning and issue edicts without going beyond the queen's residence. Therefore, she had to appoint eunuchs and pin the fate of the country on them.
+They hold the power of nobility in their hands and carry the royal decrees in their mouths. They no longer just hold positions in the palace and Yongxiang.
+Later, the eunuch Sun Cheng made great achievements in supporting Emperor Shun, and Cao Teng participated in the plan to support Emperor Huan. Subsequently, the five marquises Shan Chao, Xu Huang, Ju Yuan, Zuo Xuanguan, and Tang Heng conspired to have Liang Ji, a relative of his, executed. What they did was fair and just, and their kindness was in the emperor's heart, so they obeyed both inside and outside the court, and no one dared to criticize them.
+Some people praise them for having the same achievements as Yi Yin and Huo Guang, and are worthy of the previous generations; some say that the strategies of Zhang Liang and Chen Ping have appeared again today.
+Although there were loyal ministers who served the public affairs at that time, they were eventually rejected.
+
+summary:
+summary line 4: Lu Qiang, a eunuch known for his honesty, advised Emperor Ling to eliminate corrupt officials and grant amnesty to party members during the Yellow Turban rebellion. However, he was falsely accused by other eunuchs and committed suicide. Other eunuchs like Zhao and Li Xun were noted for their learning and integrity, but they were exceptions. Zhang Rang and Zhao Zhong, who served under Emperor Ling, were among the most powerful eunuchs. They controlled the court, collected exorbitant taxes, and built lavish palaces. Their corruption and cruelty drove many to join the Yellow Turbans. After Emperor Ling’s death, Yuan Shao led a massacre of eunuchs, killing thousands. Zhang Rang and others fled with the emperor but eventually committed suicide by drowning.
+
+Chunk 1: 
+original: 
+然亦引用士人，以参其选，皆银珰左貂，给事殿省。
+及高后称制，乃以张卿为大谒者，出入卧内，受宣诏命。
+文帝时，有赵谈、北宫伯子，颇见亲幸。
+至于孝武，亦爱李延年。
+帝数宴后庭，或潜游离馆，故请奏机事，多以宦人主之。
+至元帝之世，史游为黄门令，勤心纳忠，有所补益。
+其后弘恭、石显以佞险自进，卒有萧、周之祸，损秽帝德焉。
+中兴之初，宦官悉用阉人，不复杂调他士。
+至永平中，始置员数，中常侍四人，小黄门十人。
+和帝即祚幼弱，而窦宪兄弟专总权威，内外臣僚，莫由亲接，所与居者，唯庵宦而已。
+故郑众得专谋禁中，终除大憝，遂享分土之封，超登宫卿之位。
+于是中官始盛焉。
+自明帝以后，迄乎延平，委用渐大，而其员稍增，中常侍至有十人，小黄门二十人，改以金珰右貂，兼领卿署之职。
+邓后以女主临政，而万机殷远，朝臣国议，无由参断帷幄，称制下令，不出房闱之间，不得不委用刑人，寄之国命。
+手握王爵，口含天宪，非复掖廷永巷之职，闺牖房闼之任也。
+其后孙程定立顺之功，曹腾参建桓之策，续以五侯合谋，梁冀受钺，迹因公正，恩固主心，故中外服从，上下屏气。
+或称伊、霍之勋，无谢于往载；或谓良、平之画，复兴于当今。
+虽时有忠公，而竟见排斥。
+translation: 
+But it is also cited that scholars participated in the selection of regular servants. They all wear hats decorated with silver bells and sable tails, and work in the palace and Taiwan Province.
+When Empress Lu came to the throne, she appointed Zhang Qing as her chief visitor, who came in and out of her bedroom to receive and convey her orders.
+During the reign of Emperor Wen, there were uncles Zhao Tan and Beigong, who were very lucky to have relatives.
+Emperor Wu of the Han Dynasty also loved Li Yannian.
 Emperor Wu had banquets in the harem many times, or secretly visited the villa outside the palace. Therefore, eunuchs were usually responsible for reporting confidential matters.
 By the time of Emperor Yuan, Shi You was the magistrate of Huangmen. He was loyal and diligent, and was very helpful to political affairs.
 Later, Hong Gong and Shi Xian relied on insidious flattery to get promoted, which finally led to the murder of Xiao Wangzhi and the deposed Zhou Kan, which damaged and tarnished the emperor's virtue.

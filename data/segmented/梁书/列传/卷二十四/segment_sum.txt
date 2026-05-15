@@ -1,0 +1,323 @@
+Summary uses chunk [0, 1, 1, 4, 5, 1, 4]
+
+Chunk 0: 
+original: 
+萧景，字子昭，高祖从父弟也。
+父崇之字茂敬，即左光禄大夫道赐之子。
+道赐三子：长子尚之，字茂先；次太祖文皇帝；次崇之。
+初，左光禄居于乡里，专行礼让，为众所推。仕历宋太尉江夏王参军，终于治书侍御史。齐末，追赠散骑常侍、左光禄大夫。
+尚之敦厚有德器，为司徒建安王中兵参军，一府称为长者；琅邪王僧虔尤善之，每事多与议决。
+迁步兵校尉，卒官。
+天监初，追谥文宣侯。
+尚之子灵钧，仕齐广德令。
+高祖义师至，行会稽郡事，顷之卒。
+高祖即位，追封东昌县侯，邑一千户。
+子謇嗣。
+崇之以干能显，为政尚严厉，官至冠军将军、东阳太守。
+永明中，钱唐唐珝之反，别众破东阳，崇之遇害。
+天监初，追谥忠简侯。
+景八岁随父在郡，居丧以毁闻。
+既长好学，才辩能断。
+translation: 
+Xiao Jing, courtesy name Zizhao, was Gaozu's cousin.
+His father, Xiao Chong, also known as Chong, was the son of Xiao Dao, a doctor from Zuo Guanglu.
+Xiao Daomo had three sons: the eldest son Xiao Tangzhi, named Maoxian; the second son was Emperor Taizu Wen; and the third son was Xiao Chongzhi.
+When Zuo Guanglu Daoyan lived in the countryside, he paid great attention to the practice of courtesy and was highly praised by everyone. He served as a Taiwei of the Song Dynasty and joined the army of King Jiangxia.
+Xiao Shangzhi had a kind-hearted character and virtuous conduct. When he joined the army as a soldier of Situ Jianbaoyu, everyone in Fuxiang called him an elder. They valued him especially and often consulted with him before making decisions when encountering matters.
+Later, Xiao Shangzhi was moved to the rank of infantry captain and died in his official post.
+In the early years of Tianjian, he was posthumously given the title Wenxuanhou.
+Xiao Shangzhi's son Xiao Lingjun was appointed magistrate of Guangde County in Qi.
+When Gaozu's righteous master arrived, he was carrying out the affairs of Kuaiji County and died soon after.
+After Emperor Gaozu ascended the throne, he was posthumously granted the title of Marquis of Dongchang County, with a settlement of 1,000 households.
+His son Xiao Jian succeeded him.
+Xiao Chongzhi was famous for his talent and ability. He advocated strictness in politics and became a champion general and Dongyang governor in his palace.
+During the Yongming Dynasty, Qian, Tang and Tang Jui rebelled and led their troops to capture Dongyang. Xiao Chongzhi was killed.
+In the early years of Tianjian, he was posthumously given the title of Marquis Zhongjian.
+When Xiao Jing was eight years old, he lived with his father in Dongyang County. After his father's death, Xiao Jing became famous far and wide because he lost weight due to grief during the period of mourning.
+When I grow up, I love to learn, so I can argue with others and be decisive in doing things.
+
+summary:
+summary line 0: Xiao Jing, courtesy name Zizhao, was a cousin of Emperor Gaozu. His father Xiao Chongzhi was a son of Xiao Daomo, who had three sons: Xiao Shangzhi, Emperor Taizu Wen, and Xiao Chongzhi. Xiao Shangzhi was known for his virtuous conduct and served as an infantry captain, dying in office. Posthumously titled Wenxuanhou in the early Tianjian era, his son Xiao Lingjun served as a county magistrate and was later granted the title of Marquis of Dongchang County. Xiao Chongzhi, a champion general and Dongyang governor, was killed during a rebellion in the Yongming era and posthumously titled Marquis Zhongjian.
+
+Chunk 1: 
+original: 
+齐建武中，除晋安王国左常侍，迁永宁令，政为百城最。
+永嘉太守范述曾居郡，号称廉平，雅服景为政，乃榜郡门曰： 诸县有疑滞者，可就永宁令决。
+顷之，以疾去官。
+永嘉人胡仲宣等千人诣阙，表请景为郡，不许。
+还为骠骑行参军。
+永元二年，以长沙宣武王懿勋，除步兵校尉。
+是冬，宣武王遇害，景亦逃难。
+高祖义师至，以景为宁朔将军、行南兗州军事。
+时天下未定，江北伧楚各据坞壁。景示以威信，渠帅相率面缚请罪，旬日境内皆平。
+中兴二年，迁督南兗州诸军事、辅国将军、监南兗州。
+高祖践阼，封吴平县侯，食邑一千户，仍为使持节、都督南、北兗、青、冀四州诸军事、冠军将军、南兗州刺史。
+诏景母毛氏为国太夫人，礼如王国太妃，假金章紫绶。
+景居州，清恪有威裁，明解吏职，文案无壅，下不敢欺，吏人畏敬如神。
+会年荒，计口赈恤，为穀粥于路以赋之，死者给棺具，人甚赖焉。
+天监四年，王师北伐，景帅众出淮阳，进屠宿预。
+丁母忧，诏起摄职。
+五年，班师，除太子右卫率，迁辅国将军、卫尉卿。
+七年，迁左骁骑将军，兼领军将军。
+领军管天下兵要，监局官僚，旧多骄侈，景在职峻切，官曹肃然。
+制局监皆近幸，颇不堪命，以是不得久留中。
+translation: 
+During the Zhibian and Jianwu years, he was awarded the title of King Gui's left-hand minister and moved to Chengkong County Magistrate. His political performance was the best among the local palaces.
+Fan Shu, the prefect of Yongjia County, once lived in the county and was known to be honest and fair. He had always admired Xiao Jing's political performance, so he posted a notice on the county gate saying: "Any difficult and backlogged problems in each county can be solved by the Yongning County Magistrate."
+Soon, Xiao Jing resigned due to illness.
+Hu Zhongxuan, a native of Yongjia, and more than a thousand people came to the palace and petitioned Xiao Jing to continue to serve as county governor, but the emperor did not agree.
+Xiao Jing returned to the court and became a knight and joined the army.
+In the second year of Yongyuan, Xiao Jing was awarded the title of Infantry Colonel for his contribution to Changsha Xuanwu King Xiao Yi.
+In the winter of that year, King Xuanwu was killed and Xiao Jing also fled.
+After Gaozu's uprising team arrived, he appointed Xiao Jing as General Ningshuo to carry out the military affairs of Southern Yanzhou.
+At that time, the world was not yet peaceful, and the Chu people on the north bank of the Yangtze River each occupied earthen forts for defense. Xiao Jing showed his authority to them, and the leaders were bound one after another and came to plead guilty. Ten days later, everything in the territory calmed down.
+In the second year of the Zhongxing Dynasty, Xiao Jingqian was appointed to supervise the military affairs of Southern Yanzhou, assist the country as a general, and supervise Southern Yanzhou.
+After Emperor Gaozu ascended the throne, he granted Xiao Jing the title of Marquis of Wuping County, with a settlement of 1,000 households. He also served as envoy commander, governor of the military of the four states of South Yanzhou, North Yanzhou, Qingzhou, and Jizhou, champion general, and governor of South Yanzhou.
+Emperor Shao ordered Xiao Jing's mother, Mao, to be the concubine of the state, and she was treated ceremonially like a concubine of the kingdom, with fake gold medals and purple ribbons.
+When Xiao Jing lived in Zhoujie, he was honest, cautious and authoritative. He clearly understood the responsibilities of the officials and never had a backlog of documents. The staff below did not dare to deceive him. The officials respected and feared him very much, just like a god.
+When there was a famine in the year of the millennium, Xiao Jing asked people to provide relief and pensions. He prepared rice and porridge and put them on the roadside for people passing by. Those who died were given coffins. The people are very dependent on him.
+In the fourth year of Tianjian, during the Liang Dynasty's Northern Expedition, Xiao Jing led the army from Huaiyang to attack Suyu City.
+He resigned due to the death of his mother, and the Emperor Xia Shao appointed him as an acting official.
+Five years later, Banshi returned to the court. He was appointed as the prince's right guard, and moved to the post of general of the auxiliary state and Weiweiqing.
+In the seventh year, he was moved to General Zuo Xiaoqi and concurrently served as the leading general.
+The leader is responsible for the country's military secrets, and the bureaucrats in the Supervision Bureau were mostly arrogant and extravagant in the past. Lu Liang was very strict during his tenure, and the officials were very restrained.
+The supervisors of the military attache system were all favored people, and they could not bear Xiao Jing, so Xiao Jing could not stay in the court for a long time.
+
+summary:
+summary line 1: Xiao Jing became famous at age eight for his grief during mourning. He loved learning, was decisive, and served as Chengkong County Magistrate, where his political performance was exemplary. After resigning due to illness, he returned to court and was appointed Infantry Colonel. Following Gaozu's uprising, he became General Ningshuo and pacified the Chu people on the Yangtze's north bank. After Gaozu ascended, Xiao Jing was granted the title of Marquis of Wuping County and governed several states. He was known for his honesty, strictness, and efficiency, with no backlog of documents. During a famine, he provided relief and coffins. In the fourth year of Tianjian, he led an army in the Northern Expedition. After his mother's death, he resigned but was later reappointed to various positions, including General Zuo Xiaoqi. He was strict with officials, causing resentment among favored supervisors, leading to his transfer to Yongzhou as governor.
+
+Chunk 1: 
+original: 
+齐建武中，除晋安王国左常侍，迁永宁令，政为百城最。
+永嘉太守范述曾居郡，号称廉平，雅服景为政，乃榜郡门曰： 诸县有疑滞者，可就永宁令决。
+顷之，以疾去官。
+永嘉人胡仲宣等千人诣阙，表请景为郡，不许。
+还为骠骑行参军。
+永元二年，以长沙宣武王懿勋，除步兵校尉。
+是冬，宣武王遇害，景亦逃难。
+高祖义师至，以景为宁朔将军、行南兗州军事。
+时天下未定，江北伧楚各据坞壁。景示以威信，渠帅相率面缚请罪，旬日境内皆平。
+中兴二年，迁督南兗州诸军事、辅国将军、监南兗州。
+高祖践阼，封吴平县侯，食邑一千户，仍为使持节、都督南、北兗、青、冀四州诸军事、冠军将军、南兗州刺史。
+诏景母毛氏为国太夫人，礼如王国太妃，假金章紫绶。
+景居州，清恪有威裁，明解吏职，文案无壅，下不敢欺，吏人畏敬如神。
+会年荒，计口赈恤，为穀粥于路以赋之，死者给棺具，人甚赖焉。
+天监四年，王师北伐，景帅众出淮阳，进屠宿预。
+丁母忧，诏起摄职。
+五年，班师，除太子右卫率，迁辅国将军、卫尉卿。
+七年，迁左骁骑将军，兼领军将军。
+领军管天下兵要，监局官僚，旧多骄侈，景在职峻切，官曹肃然。
+制局监皆近幸，颇不堪命，以是不得久留中。
+translation: 
+During the Zhibian and Jianwu years, he was awarded the title of King Gui's left-hand minister and moved to Chengkong County Magistrate. His political performance was the best among the local palaces.
+Fan Shu, the prefect of Yongjia County, once lived in the county and was known to be honest and fair. He had always admired Xiao Jing's political performance, so he posted a notice on the county gate saying: "Any difficult and backlogged problems in each county can be solved by the Yongning County Magistrate."
+Soon, Xiao Jing resigned due to illness.
+Hu Zhongxuan, a native of Yongjia, and more than a thousand people came to the palace and petitioned Xiao Jing to continue to serve as county governor, but the emperor did not agree.
+Xiao Jing returned to the court and became a knight and joined the army.
+In the second year of Yongyuan, Xiao Jing was awarded the title of Infantry Colonel for his contribution to Changsha Xuanwu King Xiao Yi.
+In the winter of that year, King Xuanwu was killed and Xiao Jing also fled.
+After Gaozu's uprising team arrived, he appointed Xiao Jing as General Ningshuo to carry out the military affairs of Southern Yanzhou.
+At that time, the world was not yet peaceful, and the Chu people on the north bank of the Yangtze River each occupied earthen forts for defense. Xiao Jing showed his authority to them, and the leaders were bound one after another and came to plead guilty. Ten days later, everything in the territory calmed down.
+In the second year of the Zhongxing Dynasty, Xiao Jingqian was appointed to supervise the military affairs of Southern Yanzhou, assist the country as a general, and supervise Southern Yanzhou.
+After Emperor Gaozu ascended the throne, he granted Xiao Jing the title of Marquis of Wuping County, with a settlement of 1,000 households. He also served as envoy commander, governor of the military of the four states of South Yanzhou, North Yanzhou, Qingzhou, and Jizhou, champion general, and governor of South Yanzhou.
+Emperor Shao ordered Xiao Jing's mother, Mao, to be the concubine of the state, and she was treated ceremonially like a concubine of the kingdom, with fake gold medals and purple ribbons.
+When Xiao Jing lived in Zhoujie, he was honest, cautious and authoritative. He clearly understood the responsibilities of the officials and never had a backlog of documents. The staff below did not dare to deceive him. The officials respected and feared him very much, just like a god.
+When there was a famine in the year of the millennium, Xiao Jing asked people to provide relief and pensions. He prepared rice and porridge and put them on the roadside for people passing by. Those who died were given coffins. The people are very dependent on him.
+In the fourth year of Tianjian, during the Liang Dynasty's Northern Expedition, Xiao Jing led the army from Huaiyang to attack Suyu City.
+He resigned due to the death of his mother, and the Emperor Xia Shao appointed him as an acting official.
+Five years later, Banshi returned to the court. He was appointed as the prince's right guard, and moved to the post of general of the auxiliary state and Weiweiqing.
+In the seventh year, he was moved to General Zuo Xiaoqi and concurrently served as the leading general.
+The leader is responsible for the country's military secrets, and the bureaucrats in the Supervision Bureau were mostly arrogant and extravagant in the past. Lu Liang was very strict during his tenure, and the officials were very restrained.
+The supervisors of the military attache system were all favored people, and they could not bear Xiao Jing, so Xiao Jing could not stay in the court for a long time.
+
+summary:
+summary line 2: In the eighth year, when Wei's governor Wu Jin invaded, Xiao Jing accepted surrendered barbarians, defeating the enemy and burying the dead. He built barracks, strengthened defenses, and encouraged farming, resulting in a peaceful and theft-free territory. He was later recalled to court and served in various roles, including General Youwei. In the thirteenth year, he was summoned as leading general, receiving a salary increase. Xiao Jing was personable and well-spoken, and Gaozu treated him with great courtesy, consulting him on military and state affairs. He declined a promotion to Yangzhou governor but was eventually appointed. His strictness was legendary; an old woman noted his talismans were like fire. He died at age forty-seven, posthumously titled Shizhong.
+
+Chunk 4: 
+original: 
+有田舍老姥尝诉得符，还至县，县吏未即发，姥语曰： 萧监州符，火爄汝手，何敢留之！
+其为人所畏敬如此。
+十八年，累表陈解，高祖未之许。
+明年，出为使持节、散骑常侍、都督郢、司、霍三州诸军事、安西将军、郢州刺史。
+将发，高祖幸建兴苑饯别，为之流涕。
+既还宫，诏给鼓吹一部。
+在州复有能名。
+齐安、竟陵郡接魏界，多盗贼，景移书告示，魏即焚坞戍保境，不复侵略。
+普通四年，卒于州，时年四十七。
+诏赠侍中、中抚军、开府仪同三司。
+谥曰忠。
+子劢嗣。
+昌字子建，景第二弟也。
+齐豫章末，为晋安王左常侍。
+天监初，除中书侍郎，出为豫章内史。
+五年，加宁朔将军。
+六年，迁持节、督广、交、越、桂四州诸军事、辅国将军、平越中郎将、广州刺史。
+七年，进号征远将军。
+九年，分湘州置衡州，以昌为持节、督广州之绥建湘州之始安诸军事、信武将军、衡州刺史，坐免。
+十三年，起为散骑侍郎，寻以本官兼宗正卿。
+其年，出为安右长史。
+累迁太子中庶子、通直散骑常侍，又兼宗正卿。
+昌为人亦明悟，然性好酒，酒后多过。
+translation: 
+There was an old woman in the countryside. After she complained, she received instructions from Xiao Jing. When she returned to the county, the county officials did not send them out immediately. The old woman said: Xiao Jianzhou's talisman will burn your hands like fire. How dare you keep it!
+Xiao Jing was so awed by people.
+In the eighteenth year, Xiao Jing repeatedly petitioned the emperor to be relieved of his duties, but Gaozu did not agree.
+In the second year, Xiao Jing served as envoy Chijie, regular attendant of Sanqi, military commander of Yingzhou, Sizhou and Huozhou, general of Anxi, and governor of Yingzhou.
+Before setting off, Emperor Gaozu came to Xingjian Garden to bid farewell to Xiao Jing, for which he burst into tears.
+Gaozu returned to the palace and ordered Xiao Jing to preach a piece of music.
+Xiao Jing was known for his ability during his tenure.
+The counties of Chabao, Deng and Tongduo bordered the Wei State, and there were many thieves. After Xiao Jing conveyed the notice to the Wei State, the Wei State immediately burned the earthen forts defended by the thieves to protect the border and prevent any further invasion of the two counties.
+Four years later, Xiao Liang died in Jian maggot at the age of forty-seven.
+The emperor decreed that he be awarded the posthumous title of Shizhong, Zhongfujun, and Kaifu Yitong.
+Mi Hao Zhong.
+He was succeeded by his son Xiao Qin.
+Xiao Chang, whose courtesy name is Zijian, is Xiao Jing's second younger brother.
+In the last years of Yuzhang of Qi Dynasty, he served as Zuo Changshi of King Jin'an.
+In the early years of Liang Tianjian's reign, he served as the Minister of Zhongshu and the internal history of Yuzhang County.
+In the fifth year, Xiao Chang was appointed General Ning Shuo.
+In the sixth year, he was moved to the post of Chijie, in charge of the military affairs of Guangzhou, Jiaozhou, Yuesu and Guangzhou, general of the auxiliary state, general of Zhonglang in Pingyue, and governor of Luye.
+In the seventh year, he was promoted to General Zhengyuan.
+In the ninth year, Hengzhou was separated from Xiangzhou, and Xiao Chang was appointed as the governor, supervising Xujian in Guangzhou and Shi'an military affairs in Xiangzhou, General Xinwu, and governor of Hengzhou. He was dismissed from office for crimes.
+In the thirteenth year, Xiao Chang was appointed as the Minister of Sanqi, and soon he took the original official position and concurrently served as Zongzhengqing.
+In the same year, Xiao Chang became the chief historian of An You.
+He was repeatedly moved to serve as the prince's concubine, Tongzhi Sanqi's regular attendant, and also served as Zong Zhengqing.
+Xiao Chang is also very understanding and understanding, but he likes to drink by nature, and after drinking, he often makes mistakes.
+
+summary:
+summary line 3: Xiao Chang, Xiao Jing's second brother, served in various roles, including governor of Hengzhou, but was dismissed for crimes. He was understanding but prone to drinking and making mistakes, often killing people while drunk without remorse. He died at age thirty-nine.
+
+Chunk 5: 
+original: 
+在州郡，每醉辄径出入人家，或独诣草野。
+其于刑戮，颇无期度。
+醉时所杀，醒或求焉，亦无悔也。
+属为有司所劾，入留京师，忽忽不乐，遂纵酒虚悸。
+在石头东斋，引刀自刺，左右救之，不殊。
+十七年，卒，时年三十九。
+子伯言。
+昂字子明，景第三弟也。
+天监初，累迁司徒右长史，出为轻车将军、监南兗州。
+初，兄景再为南兗，德惠在人，及昂来代，时人方之冯氏。
+征为琅邪、彭城二郡太守，军号如先。
+复以轻车将军出为广州刺史。
+普通二年，为散骑常侍、信威将军。
+四年，转散骑侍郎、中领军、太子中庶子，出为吴兴太守。
+translation: 
+When he was in office in the state department, he would often go in and out of other people's homes whenever he was drunk, and sometimes go to the wilderness alone.
+He also had no limits in using torture and killing.
+He killed someone when he was drunk, and then went to find that person again when he sobered up. Just like that, he didn't regret it.
+Finally impeached by relevant officials, Luchang was summoned to stay in the capital. He was very unhappy, so he drank all day long, became very weak, and suffered from heart disease.
+In Gentijianzhai, Luken stabbed himself with a knife, but his entourage quickly rescued him, but he did not die.
+In the seventeenth year, Xiao Chang died at the age of thirty-nine.
+His son's name is Xiao Boyan.
+Xiao Ang, whose courtesy name is Ziming, is Xiao Jing's third younger brother.
+In the early years of Tianjian, he was transferred to Situ Youchangshi many times, served as general of light vehicles, and supervised southern Yanzhou.
+At the beginning, when his brother Lu Liang was appointed as the governor of Yinchaye for the second time, his merits and favors were still in people's hearts. When Xiao Ang came to replace him, people compared him to Feng.
+Xiao Ang was recruited as the prefect of Langye and Pengcheng counties, and the military trumpets remained as before.
+He also served as the governor of Guangzhou with the official position of General Qingche.
+In the second year of ordinary life, he was appointed as a regular servant of Sanqi and general Xinwei.
+In the fourth year, he was transferred to the rank of minister of Sanqi, the leader of the army, the prince's concubine, and the prefect of Wuxing County.
+
+summary:
+summary line 4: Xiao Ang, the third brother, served as governor of Southern Yanzhou and Guangzhou, among other roles. He died at age fifty-three, posthumously titled Gong.
+
+Chunk 1: 
+original: 
+齐建武中，除晋安王国左常侍，迁永宁令，政为百城最。
+永嘉太守范述曾居郡，号称廉平，雅服景为政，乃榜郡门曰： 诸县有疑滞者，可就永宁令决。
+顷之，以疾去官。
+永嘉人胡仲宣等千人诣阙，表请景为郡，不许。
+还为骠骑行参军。
+永元二年，以长沙宣武王懿勋，除步兵校尉。
+是冬，宣武王遇害，景亦逃难。
+高祖义师至，以景为宁朔将军、行南兗州军事。
+时天下未定，江北伧楚各据坞壁。景示以威信，渠帅相率面缚请罪，旬日境内皆平。
+中兴二年，迁督南兗州诸军事、辅国将军、监南兗州。
+高祖践阼，封吴平县侯，食邑一千户，仍为使持节、都督南、北兗、青、冀四州诸军事、冠军将军、南兗州刺史。
+诏景母毛氏为国太夫人，礼如王国太妃，假金章紫绶。
+景居州，清恪有威裁，明解吏职，文案无壅，下不敢欺，吏人畏敬如神。
+会年荒，计口赈恤，为穀粥于路以赋之，死者给棺具，人甚赖焉。
+天监四年，王师北伐，景帅众出淮阳，进屠宿预。
+丁母忧，诏起摄职。
+五年，班师，除太子右卫率，迁辅国将军、卫尉卿。
+七年，迁左骁骑将军，兼领军将军。
+领军管天下兵要，监局官僚，旧多骄侈，景在职峻切，官曹肃然。
+制局监皆近幸，颇不堪命，以是不得久留中。
+translation: 
+During the Zhibian and Jianwu years, he was awarded the title of King Gui's left-hand minister and moved to Chengkong County Magistrate. His political performance was the best among the local palaces.
+Fan Shu, the prefect of Yongjia County, once lived in the county and was known to be honest and fair. He had always admired Xiao Jing's political performance, so he posted a notice on the county gate saying: "Any difficult and backlogged problems in each county can be solved by the Yongning County Magistrate."
+Soon, Xiao Jing resigned due to illness.
+Hu Zhongxuan, a native of Yongjia, and more than a thousand people came to the palace and petitioned Xiao Jing to continue to serve as county governor, but the emperor did not agree.
+Xiao Jing returned to the court and became a knight and joined the army.
+In the second year of Yongyuan, Xiao Jing was awarded the title of Infantry Colonel for his contribution to Changsha Xuanwu King Xiao Yi.
+In the winter of that year, King Xuanwu was killed and Xiao Jing also fled.
+After Gaozu's uprising team arrived, he appointed Xiao Jing as General Ningshuo to carry out the military affairs of Southern Yanzhou.
+At that time, the world was not yet peaceful, and the Chu people on the north bank of the Yangtze River each occupied earthen forts for defense. Xiao Jing showed his authority to them, and the leaders were bound one after another and came to plead guilty. Ten days later, everything in the territory calmed down.
+In the second year of the Zhongxing Dynasty, Xiao Jingqian was appointed to supervise the military affairs of Southern Yanzhou, assist the country as a general, and supervise Southern Yanzhou.
+After Emperor Gaozu ascended the throne, he granted Xiao Jing the title of Marquis of Wuping County, with a settlement of 1,000 households. He also served as envoy commander, governor of the military of the four states of South Yanzhou, North Yanzhou, Qingzhou, and Jizhou, champion general, and governor of South Yanzhou.
+Emperor Shao ordered Xiao Jing's mother, Mao, to be the concubine of the state, and she was treated ceremonially like a concubine of the kingdom, with fake gold medals and purple ribbons.
+When Xiao Jing lived in Zhoujie, he was honest, cautious and authoritative. He clearly understood the responsibilities of the officials and never had a backlog of documents. The staff below did not dare to deceive him. The officials respected and feared him very much, just like a god.
+When there was a famine in the year of the millennium, Xiao Jing asked people to provide relief and pensions. He prepared rice and porridge and put them on the roadside for people passing by. Those who died were given coffins. The people are very dependent on him.
+In the fourth year of Tianjian, during the Liang Dynasty's Northern Expedition, Xiao Jing led the army from Huaiyang to attack Suyu City.
+He resigned due to the death of his mother, and the Emperor Xia Shao appointed him as an acting official.
+Five years later, Banshi returned to the court. He was appointed as the prince's right guard, and moved to the post of general of the auxiliary state and Weiweiqing.
+In the seventh year, he was moved to General Zuo Xiaoqi and concurrently served as the leading general.
+The leader is responsible for the country's military secrets, and the bureaucrats in the Supervision Bureau were mostly arrogant and extravagant in the past. Lu Liang was very strict during his tenure, and the officials were very restrained.
+The supervisors of the military attache system were all favored people, and they could not bear Xiao Jing, so Xiao Jing could not stay in the court for a long time.
+
+summary:
+summary line 5: Xiao Yu, the fourth brother, served as Secretary Lang and other positions but frequently refused appointments. He wrote a memorial expressing shame and fear, requesting dismissal. Emperor Gaozu replied, criticizing his refusals and dismissing him. Later, Xiao Yu was exiled for minting coins but was recalled. He became a model of propriety and was appointed Prefect of Jinling County, where he implemented beneficial policies. He died after a severe illness, mourned by the people, who built temples and steles for him. He was posthumously appointed governor of Xiangzhou, titled Gong.
+
+Chunk 4: 
+original: 
+有田舍老姥尝诉得符，还至县，县吏未即发，姥语曰： 萧监州符，火爄汝手，何敢留之！
+其为人所畏敬如此。
+十八年，累表陈解，高祖未之许。
+明年，出为使持节、散骑常侍、都督郢、司、霍三州诸军事、安西将军、郢州刺史。
+将发，高祖幸建兴苑饯别，为之流涕。
+既还宫，诏给鼓吹一部。
+在州复有能名。
+齐安、竟陵郡接魏界，多盗贼，景移书告示，魏即焚坞戍保境，不复侵略。
+普通四年，卒于州，时年四十七。
+诏赠侍中、中抚军、开府仪同三司。
+谥曰忠。
+子劢嗣。
+昌字子建，景第二弟也。
+齐豫章末，为晋安王左常侍。
+天监初，除中书侍郎，出为豫章内史。
+五年，加宁朔将军。
+六年，迁持节、督广、交、越、桂四州诸军事、辅国将军、平越中郎将、广州刺史。
+七年，进号征远将军。
+九年，分湘州置衡州，以昌为持节、督广州之绥建湘州之始安诸军事、信武将军、衡州刺史，坐免。
+十三年，起为散骑侍郎，寻以本官兼宗正卿。
+其年，出为安右长史。
+累迁太子中庶子、通直散骑常侍，又兼宗正卿。
+昌为人亦明悟，然性好酒，酒后多过。
+translation: 
+There was an old woman in the countryside. After she complained, she received instructions from Xiao Jing. When she returned to the county, the county officials did not send them out immediately. The old woman said: Xiao Jianzhou's talisman will burn your hands like fire. How dare you keep it!
+Xiao Jing was so awed by people.
+In the eighteenth year, Xiao Jing repeatedly petitioned the emperor to be relieved of his duties, but Gaozu did not agree.
+In the second year, Xiao Jing served as envoy Chijie, regular attendant of Sanqi, military commander of Yingzhou, Sizhou and Huozhou, general of Anxi, and governor of Yingzhou.
+Before setting off, Emperor Gaozu came to Xingjian Garden to bid farewell to Xiao Jing, for which he burst into tears.
+Gaozu returned to the palace and ordered Xiao Jing to preach a piece of music.
+Xiao Jing was known for his ability during his tenure.
+The counties of Chabao, Deng and Tongduo bordered the Wei State, and there were many thieves. After Xiao Jing conveyed the notice to the Wei State, the Wei State immediately burned the earthen forts defended by the thieves to protect the border and prevent any further invasion of the two counties.
+Four years later, Xiao Liang died in Jian maggot at the age of forty-seven.
+The emperor decreed that he be awarded the posthumous title of Shizhong, Zhongfujun, and Kaifu Yitong.
+Mi Hao Zhong.
+He was succeeded by his son Xiao Qin.
+Xiao Chang, whose courtesy name is Zijian, is Xiao Jing's second younger brother.
+In the last years of Yuzhang of Qi Dynasty, he served as Zuo Changshi of King Jin'an.
+In the early years of Liang Tianjian's reign, he served as the Minister of Zhongshu and the internal history of Yuzhang County.
+In the fifth year, Xiao Chang was appointed General Ning Shuo.
+In the sixth year, he was moved to the post of Chijie, in charge of the military affairs of Guangzhou, Jiaozhou, Yuesu and Guangzhou, general of the auxiliary state, general of Zhonglang in Pingyue, and governor of Luye.
+In the seventh year, he was promoted to General Zhengyuan.
+In the ninth year, Hengzhou was separated from Xiangzhou, and Xiao Chang was appointed as the governor, supervising Xujian in Guangzhou and Shi'an military affairs in Xiangzhou, General Xinwu, and governor of Hengzhou. He was dismissed from office for crimes.
+In the thirteenth year, Xiao Chang was appointed as the Minister of Sanqi, and soon he took the original official position and concurrently served as Zongzhengqing.
+In the same year, Xiao Chang became the chief historian of An You.
+He was repeatedly moved to serve as the prince's concubine, Tongzhi Sanqi's regular attendant, and also served as Zong Zhengqing.
+Xiao Chang is also very understanding and understanding, but he likes to drink by nature, and after drinking, he often makes mistakes.
+
+summary:
+summary line 6: The historian comments that Xiao Jing's talent and judgment benefited the government, making him a person of grace and dignity in the You clan.
+

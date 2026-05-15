@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 6, 8, 13, 14, 17]
+Summary uses chunk [0, 8, 9, 14, 15, 17]
 
 Chunk 0: 
 original: 
@@ -13,10 +13,6 @@ original:
 产业每增，辄以赡宗族知友，年六十七，建和三年卒，李膺时为尚书，自表师丧。
 二县皆为立祠。
 有子八人：俭、绲、靖、焘、汪、爽、肃、专，并有名称，时人谓之 八龙 。
-初，荀氏旧里名西豪，颍阴令勃海苑康以为昔高阳氏有才子八人，今荀氏亦有八子，故改其里曰高阳里。
-靖有至行，不仕，年五十而终，号曰玄行先生。
-淑兄子昱字伯条，昙字无智。
-昱为沛相，昙为广陵太守。
 translation: 
 ◆The biography of Xun Shu, named Jihe, was a native of Yingyin, Yingchuan County, and the eleventh generation grandson of Xun Qing.
 When he was young, he had noble virtues and profound knowledge. He did not like to carve out chapters and sentences. He only worked on words and did not pay attention to practical knowledge.
@@ -29,83 +25,58 @@ Not long after, he resigned and returned home to live leisurely and cultivate hi
 When the family property increases, it is distributed among clan members and close friends. He was sixty-seven years old and died in the third year of Jianhe. Li Ying was appointed minister at this time, and he submitted himself to the imperial court and mourned for three years.
 Both counties have temples.
 There were eight sons: Jian, Nian, Jing, Tao, Wang, Shuang, Su, and Zhuan. They were all famous. People at that time called them "Eight Dragons".
-At first, the Xun family's old neighborhood was called Xihao. Yingyin ordered Bohai Yuankang to think that the Gaoyang family had eight talented people in the past, and now the Xun family also has eight, so he changed the old neighborhood to Gaoyangli.
-Xun Jing was a virtuous man who refused to be an official. He died at the age of fifty and was named Mr. Xuan Xing.
-Xun Shu's son Xun Yu was named Bo Tiao, and Xun Tan was named Yuan Zhi.
-Xun Yu was the prime minister of Pei, and Xun Tan was the prefect of Guangling.
 
 summary:
-summary line 0: # Summary of Historical Biographies
-
-Chunk 0: 
-original: 
-荀淑子爽孙悦韩韶钟皓陈寔子纪荀淑字季和，颍川颍阴人，荀卿十一世孙也。
-少有高行，博学而不好章句，多为俗儒所非，而州里称其知人。
-安帝时，征拜郎中，后再迁当涂长。
-去职还乡里。
-当世名贤李固、李膺等皆师宗之。
-及梁太后临朝，有日食地震之变，诏公卿举贤良方正，光禄勋杜乔、少府房植举淑对策，讥刺贵幸，为大将军梁冀所忌，出补朗陵侯相。
-莅事明理，称为神君。
-顷之，弃官归，闲居养志。
-产业每增，辄以赡宗族知友，年六十七，建和三年卒，李膺时为尚书，自表师丧。
-二县皆为立祠。
-有子八人：俭、绲、靖、焘、汪、爽、肃、专，并有名称，时人谓之 八龙 。
-初，荀氏旧里名西豪，颍阴令勃海苑康以为昔高阳氏有才子八人，今荀氏亦有八子，故改其里曰高阳里。
-靖有至行，不仕，年五十而终，号曰玄行先生。
-淑兄子昱字伯条，昙字无智。
-昱为沛相，昙为广陵太守。
-translation: 
-◆The biography of Xun Shu, named Jihe, was a native of Yingyin, Yingchuan County, and the eleventh generation grandson of Xun Qing.
-When he was young, he had noble virtues and profound knowledge. He did not like to carve out chapters and sentences. He only worked on words and did not pay attention to practical knowledge.
-Therefore, he is often looked down upon by vulgar scholars. But the state said he knew people well. During the reign of Emperor An, he was recruited as a doctor, and later promoted to Tu Chang.
-Resigned and returned to his hometown.
-The famous sages Li Gu and Li Ying respected him as their teacher.
-When the Empress Dowager Liang was in charge of the government, there were changes caused by solar eclipses and earthquakes. She issued an order to the ministers to promote the virtuous and upright. Guangluxun Du Qiao and Shaofu Fang Zhi promoted Xun Shu to answer the emperor's questions. Xun Shu ridiculed and accused the emperor's noble relatives and favored people. The general Liang Ji was jealous and transferred him to serve as the Marquis of Langling.
-He is upright in his duties and knows how to govern, so he is called the "divine king".
-Not long after, he resigned and returned home to live leisurely and cultivate his ambitions.
-When the family property increases, it is distributed among clan members and close friends. He was sixty-seven years old and died in the third year of Jianhe. Li Ying was appointed minister at this time, and he submitted himself to the imperial court and mourned for three years.
-Both counties have temples.
-There were eight sons: Jian, Nian, Jing, Tao, Wang, Shuang, Su, and Zhuan. They were all famous. People at that time called them "Eight Dragons".
-At first, the Xun family's old neighborhood was called Xihao. Yingyin ordered Bohai Yuankang to think that the Gaoyang family had eight talented people in the past, and now the Xun family also has eight, so he changed the old neighborhood to Gaoyangli.
-Xun Jing was a virtuous man who refused to be an official. He died at the age of fifty and was named Mr. Xuan Xing.
-Xun Shu's son Xun Yu was named Bo Tiao, and Xun Tan was named Yuan Zhi.
-Xun Yu was the prime minister of Pei, and Xun Tan was the prefect of Guangling.
-
-summary:
-summary line 1: **Xun Shu (Jihe)** was a native of Yingyin, Yingchuan County, and the eleventh-generation grandson of Xun Qing. From youth, he possessed noble virtues and profound knowledge, though he disliked detailed textual analysis and was looked down upon by vulgar scholars. During Emperor An's reign, he was recruited as a doctor and later promoted to Tu Chang, but resigned to return home. The famous sages Li Gu and Li Ying respected him as their teacher. When Empress Dowager Liang governed, Xun Shu was promoted to answer imperial questions, where he criticized the emperor's noble relatives and favored people. General Liang Ji, jealous of him, transferred him to serve as Marquis of Langling. Known for his upright governance, he was called the "divine king." He soon resigned and returned home, distributing family property among clan members. He died at sixty-seven in the third year of Jianhe. Li Ying mourned him for three years. Both counties built temples in his honor. Xun Shu had eight sons—Jian, Nian, Jing, Tao, Wang, Shuang, Su, and Zhuan—all famous, known as the "Eight Dragons." Their neighborhood was renamed Gaoyangli after the ancient Gaoyang family's eight talented members. Xun Jing, a virtuous man who refused office, died at fifty and was named Mr. Xuan Xing. Xun Shu's sons Xun Yu and Xun Tan both hated evil and sought to eradicate eunuchs, killing even minor offenders among eunuch branches. Xun Yu later died with General Dou Wu and Li Ying, while Xun Tan was imprisoned for life.
-
-Chunk 6: 
-original: 
-昔季氏八佾舞于庭，非有伤害困于人物，而孔子犹曰 是可忍也，孰不可忍 《洪范》曰 惟辟作威，惟辟作福，惟辟玉食 凡此三者，君所独行而臣不得同也。
-今臣僭君服，下食上珍，所谓害于而家，凶于而国者也。
-宜略依古礼尊卑之差，及董仲舒制度之别，严督有司，必行其命。此则禁乱善俗足用之要。
-奏闻，即弃官去。
-后遭党锢，隐于海上，又南遁汉滨，积十馀年，以著述为事，遂称为硕儒。
-党禁解，五府并辟，司空袁逢举有道，不应。
-及逢卒，爽制服三年，当世往往化以为俗。
-时人多不行妻服，虽在亲忧犹有吊问丧疾者，又私谥其君父及诸名士，爽皆引据大义，正之经典，虽不悉变，亦颇有改。
-后公车征为大将军何进从事中郎。
-进恐其不至，迎荐为侍中，及进败而诏命中绝。
-献帝即位，董卓辅政，复征之。
-爽欲遁命，吏持之急，不得去，因复就拜平原相。
-translation: 
-In the past, eight hundred people of the Ji family danced in the court without harming anyone or anything. Confucius also said: This can be tolerated, what else cannot be tolerated. "Hong Fan" says: Only you can exercise authority, only you can bring blessings, and only you can eat well.
-These three items are what the monarch alone does and his ministers are not allowed to be the same as the monarch. Now the ministers wear the monarch's clothes, and the people below eat precious things that only those above can eat. This is called harm to your family and your country!
-Officials should be strictly ordered and implemented in strict accordance with ancient rituals and the distinction between superior and inferior in Dong Zhongshu's system. This is to prohibit disorder, improve customs, and use money to its fullest extent.
-After the memorial was delivered, he abandoned his official position and left.
-Later, he was troubled by Li Ying and others' struggle with the eunuchs. He lived in seclusion on the sea, and then fled south to Hanbin. He spent more than ten years writing books and was called a great Confucian.
-After the party ban was lifted, he was recruited by all the five governments. Sikong Yuan Feng recommended him because of his righteousness, but he was not accepted.
-When Yuan Feng died, Xun Shuang mourned him for three years. At that time, people often followed his example and it became a custom.
-At that time, many people couldn't bear the death of their wives. Even if their parents died, there were still people who expressed their condolences. He also privately named his father and some celebrities after their death. Xun Shuang quoted the classics to discuss whether he was right or wrong. Although not all of his changes could be followed, there were some changes.
-Later, he was recruited by General He Jin to serve as a lieutenant.
-He Jin was afraid that he would not go, so he recommended him as a servant. However, He Jin was defeated and the edict was interrupted.
-Emperor Xian ascended the throne, Dong Zhuo assisted in the administration, and he was recruited.
-Xun Shuang wanted to escape the conquest, but the officials pressed him hard and had to go, so he worshiped Prime Minister Ping Ping.
-
-summary:
-summary line 2: **Xun Shuang (Ciming)** was eager to learn from childhood, understanding "Spring and Autumn" and "The Analects" by age twelve. Taiwei Du Qiao praised him as capable of being a teacher. Xun Shuang delved deeply into the scriptures, ignoring village celebrations and funerals. In the ninth year of Yanxi, he was recommended as filial and incorruptible, becoming a doctor. In response to an imperial question, he discussed the Han Dynasty's virtue of fire, filial piety, and the importance of proper mourning rites. He criticized officials who failed to observe three-year mourning periods and advocated for correcting funeral etiquette. He also addressed the improper subordination of husbands to wives in marriage rituals, arguing it violated cosmic principles. He condemned the excessive number of palace women—five to six thousand—which drained the treasury and caused disasters, urging their release to restore harmony. He further criticized ministers who usurped imperial privileges in dress and luxury. After submitting his memorial, he abandoned his post. Later, due to conflicts with eunuchs, he lived in seclusion for over ten years, writing books and becoming a great Confucian. After the party ban was lifted, he was recruited multiple times but refused. When Yuan Feng died, Xun Shuang mourned him for three years, setting a custom. He later served under General He Jin and then Dong Zhuo, rising to Sikong within ninety-five days. Seeing Dong Zhuo's cruelty, he conspired with Wang Yun but died of illness at sixty-three. He wrote numerous works, including "Li," "Yizhuan," and "Hanyu," totaling over a hundred chapters, many now lost.
+summary line 0: **Xun Shu (Jihe)** was a native of Yingyin, Yingchuan County, and the eleventh-generation grandson of Xun Qing. From youth, he possessed noble virtues and profound knowledge, though he disliked detailed textual analysis and was looked down upon by vulgar scholars. During Emperor An's reign, he was recruited as a doctor and later promoted to Tu Chang, but resigned to return home. The famous sages Li Gu and Li Ying respected him as their teacher. When Empress Dowager Liang governed, Xun Shu was promoted to answer imperial questions, where he criticized the emperor's noble relatives and favored people. General Liang Ji, jealous of him, transferred him to serve as Marquis of Langling. Known for his upright governance, he was called the "divine king." He soon resigned and returned home, distributing family property among clan members. He died at sixty-seven in the third year of Jianhe. Li Ying mourned him for three years. Both counties built temples in his honor. Xun Shu had eight sons—Jian, Nian, Jing, Tao, Wang, Shuang, Su, and Zhuan—all famous, known as the "Eight Dragons." Their neighborhood was renamed Gaoyangli after the ancient Gaoyang family's eight talented members. Xun Jing, a virtuous man who refused office, died at fifty and was named Mr. Xuan Xing. Xun Shu's sons Xun Yu and Xun Tan both hated evil and sought to eradicate eunuchs, killing even minor offenders among eunuch branches. Xun Yu later died with General Dou Wu and Li Ying, while Xun Tan was imprisoned for life.
 
 Chunk 8: 
+original: 
+献帝即位，董卓辅政，复征之。
+爽欲遁命，吏持之急，不得去，因复就拜平原相。
+行至宛陵，复追为光禄勋。
+视事三日，进拜司空。
+爽自被征命及登台司，九十五日。
+因从迁都长安。
+爽见董卓忍暴滋甚，必危社稷，其所辟举皆取才略之士，将共图之，亦与司徒王允及卓长史何颙等为内谋。会病薨，年六十三。
+著《礼》、《易传》、《诗传》、《尚书正经》、《春秋条例》，又集汉事成败可为鉴戒者，谓之《汉语》。又作《公羊问》及《辩谶》，并它所论叙，题为《新书》。
+凡百馀篇，今多所亡缺。
+兄子悦、彧并知名。
+彧自有传。
+论曰：荀爽、郑玄、申屠蟠俱以儒行为处士，累征并谢病不诣。
+及董卓当朝，复备礼召之。
+蟠、玄竟不屈以全其高。
+爽已黄发矣，独至焉，未十旬而取卿相。
+不然，何为违贞吉而履虎尾焉。观其逊言迁都之议，以救杨、黄之祸。
+及后潜图董氏，几振国命，所谓 大直若屈 ，道故逶迤也。
+悦字仲豫，俭之子也。
+俭早卒。
+悦年十二，能说《春秋》。
+translation: 
+Emperor Xian ascended the throne, Dong Zhuo assisted in the administration, and he was recruited.
+Xun Shuang wanted to escape the conquest, but the officials pressed him hard and had to go, so he worshiped Prime Minister Ping Ping.
+When he got to Wanling, he pursued him as Guang Luxun.
+After three days of service, he was promoted to Sikong.
+It had only been ninety-five days since Xun Shuang was summoned to the stage.
+Because he moved the capital to Chang'an.
+Xun Shuang saw that Dong Zhuo was very cruel and determined to overthrow the country. He recommended some wise and resourceful talents and was ready to work with them to plan great things. He also conspired with Situ Wang Yun and Dong Zhuo Chang Shi, and died of illness at the age of sixty-three.
+Xun Shuang wrote "Li", "Yizhuan", "Shizhuan", "Shangshu Zhengjing", and "Spring and Autumn Regulations"; he also collected the history of the Han Dynasty and its successes and failures as a reference, called "Hanyu"; he also wrote "Gongyang Wen" and "Bian Prophecy", plus other narrations, titled "New Book".
+There are more than a hundred chapters in total, many of which are now missing.
+Brothers Xun Yue and Xun are both famous.
+Xun has another biography.
+The historian commented: Xun Shuang, Zheng Xuan, and Shen Tupan all practiced Confucianism and became virgins at home. The imperial court summoned him repeatedly, but he always said that he was ill and would not go away.
+When Dong Zhuo came to power, he once again recruited them with courtesy.
+Shen Tupan and Zheng Xuan finally preserved their integrity.
+Xun Shuang's hair was already yellow at that time, so he went alone and became prime minister in less than ten days.
+Some people suspect that it is wrong for him to be so forward and backward. I discussed Xun Shuang's thoughts and believed that it is important for a gentleman to go out to serve the world and retreat to the privacy of his home. If the world is peaceful, one should carry forward the great road to realize one's own ambitions. If the world is in chaos, one should also devote oneself to the world to remedy the shortcomings of the times. Isn't Xun Shuang's eagerness to encourage himself a great virtue that a gentleman should have?
+Otherwise, why should we step on the tiger's tail instead of taking a safe and smooth road? Seeing that he did not talk about moving the capital, saving Yang Biao and Huang Wan from disaster, and later plotting against Dong Zhuo, the country's destiny was almost revitalized. As the saying goes, the road is originally tortuous.
+◆Xun Yue's biography, Xun Yue's courtesy name is Zhongyu, and he is the son of Xun Jian.
+Xun Jian died early.
+When Xun Yue was twelve years old, he was able to explain "Spring and Autumn".
+
+summary:
+summary line 1: **Xun Shuang (Ciming)** was eager to learn from childhood, understanding "Spring and Autumn" and "The Analects" by age twelve. Taiwei Du Qiao praised him as capable of being a teacher. Xun Shuang delved deeply into the scriptures, ignoring village celebrations and funerals. In the ninth year of Yanxi, he was recommended as filial and incorruptible, becoming a doctor. In response to an imperial question, he discussed the Han Dynasty's virtue of fire, filial piety, and the importance of proper mourning rites. He criticized officials who failed to observe three-year mourning periods and advocated for correcting funeral etiquette. He also addressed the improper subordination of husbands to wives in marriage rituals, arguing it violated cosmic principles. He condemned the excessive number of palace women—five to six thousand—which drained the treasury and caused disasters, urging their release to restore harmony. He further criticized ministers who usurped imperial privileges in dress and luxury. After submitting his memorial, he abandoned his post. Later, due to conflicts with eunuchs, he lived in seclusion for over ten years, writing books and becoming a great Confucian. After the party ban was lifted, he was recruited multiple times but refused. When Yuan Feng died, Xun Shuang mourned him for three years, setting a custom. He later served under General He Jin and then Dong Zhuo, rising to Sikong within ninety-five days. Seeing Dong Zhuo's cruelty, he conspired with Wang Yun but died of illness at sixty-three. He wrote numerous works, including "Li," "Yizhuan," and "Hanyu," totaling over a hundred chapters, many now lost.
+
+Chunk 9: 
 original: 
 家贫无书，每之人间，所见篇牍，一览多能诵记。
 性沉静，美姿容，尤好著述。
@@ -120,8 +91,6 @@ original:
 五典以经之，群籍以纬之，咏之歌之，弦之舞之，前监既明，后复申之。
 故古之圣王，其于仁义也，申重而已。
 致政之术，先屏四患，乃崇五政。
-一曰伪，二曰私，三曰放，四曰奢。
-伪乱俗，私坏法，放越轨，奢败制。
 translation: 
 My family was poor and I had no books, so I often went to other people's homes and saw chapters and writings, and I could recite most of them.
 He has a calm and quiet personality, beautiful appearance, and is especially fond of writing books.
@@ -136,19 +105,49 @@ The content is summarized as follows: The foundation of the great road can be su
 The five classics use it as the sutra, and the group of books use it as the weft. They chant and recite it, compose the music, and dance the form. The previous lessons are clear, and they will be elaborated later.
 Therefore, in ancient times, the sages and kings always taught one or even three things about benevolence and righteousness.
 In the art of government, we must first eliminate the four dangers, and then focus on the five political affairs.
-The so-called four troubles: one is hypocrisy, the other is selfishness, the third is freedom, and the fourth is extravagance.
-Hypocrisy disrupts customs, selfishness corrupts laws, debauchery creates no rules, and luxury cannot be restrained.
 
 summary:
-summary line 3: **Xun Yue (Zhongyu)** was the son of Xun Jian, who died early. At twelve, Xun Yue could explain "Spring and Autumn." Despite poverty and lack of books, he could recite most texts after reading them at others' homes. During Emperor Ling's reign, when eunuchs held power, he feigned illness and lived in seclusion. He later served under Cao Cao and became Minister of Huangmen. Emperor Xian, fond of literature, conversed with Xun Yue and Kong Rong daily. As political power shifted to Cao Cao, Xun Yue wrote five chapters of "Shenjian" on governance, emphasizing benevolence and righteousness. He identified four troubles—hypocrisy, selfishness, debauchery, and luxury—and five policies: promoting agriculture, distinguishing good from evil, spreading culture, establishing military force, and enforcing rewards and punishments. He also criticized the marriage system for placing women above men and advocated for historical recording. The emperor, finding Bangu's "Hanshu" too lengthy, ordered Xun Yue to write thirty chapters of "Han Ji" in the style of "Zuo Shi Zhuan." Xun Yue's work was concise yet detailed. He also wrote "Chongde" and "Zhenglun." He died in the fourteenth year of Jian'an at age sixty-two.
+summary line 2: **Xun Yue (Zhongyu)** was the son of Xun Jian, who died early. At twelve, Xun Yue could explain "Spring and Autumn." Despite poverty and lack of books, he could recite most texts after reading them at others' homes. During Emperor Ling's reign, when eunuchs held power, he feigned illness and lived in seclusion. He later served under Cao Cao and became Minister of Huangmen. Emperor Xian, fond of literature, conversed with Xun Yue and Kong Rong daily. As political power shifted to Cao Cao, Xun Yue wrote five chapters of "Shenjian" on governance, emphasizing benevolence and righteousness. He identified four troubles—hypocrisy, selfishness, debauchery, and luxury—and five policies: promoting agriculture, distinguishing good from evil, spreading culture, establishing military force, and enforcing rewards and punishments. He also criticized the marriage system for placing women above men and advocated for historical recording. The emperor, finding Bangu's "Hanshu" too lengthy, ordered Xun Yue to write thirty chapters of "Han Ji" in the style of "Zuo Shi Zhuan." Xun Yue's work was concise yet detailed. He also wrote "Chongde" and "Zhenglun." He died in the fourteenth year of Jian'an at age sixty-two.
 
-Chunk 13: 
+Chunk 14: 
 original: 
+汉四百有六载，拨乱反正，统武兴文，永惟祖宗之洪业，思光启乎万嗣。
+圣上穆然，惟文之恤，瞻前顾后，是绍是继，阐崇大猷，命立国典。
+于是缀叙旧书，以述《汉纪》。
+中兴以前，明主贤臣得失之轨，亦足以观矣。
+又著《崇德》、《正论》及诸论数十篇。
+年六十二，建安十四年卒。
+韩韶字仲黄，颍川舞阳人也。
+少仕郡，辟司徒府。
+时，太山贼公孙举伪号历年，守、令不能破散，多为坐法。
+尚书选三府掾能理剧者，乃以韶为赢长。
 贼闻其贤，相戒不入赢境。
 余县多被寇盗，废耕桑，其流入县界求索衣粮者甚众。
 韶愍其饑困，乃开仓赈之，所禀赡万馀户。
 主者争谓不可。
 韶曰 长活沟壑之人，而以此伏罪，含笑入地矣 太守素知韶名德，竟无所坐。
+translation: 
+During the four hundred and six years of the Han Dynasty, the chaos was brought to an end, and Wuxing was promoted to civil society. He always thought of the great deeds of his ancestors and how they would be carried forward to all generations.
+The emperor pondered in silence, loved literary affairs, looked forward and backward, carried forward the past and opened up the future, explained the lofty and grand plans, and ordered the establishment of national ceremonies.
+So he collected and sorted out old books and wrote "Han Ji".
+Before the ZTE, the gains and losses of the Ming Dynasty’s wise ministers could be clearly seen.
+He also wrote "Chongde", "Zhenglun" and dozens of other treatises.
+He died in the 62nd year of Jian'an in the 14th year of Jian'an.
+◆The biography of Han Shao, whose courtesy name is Zhonghuang, was born in Wuyang County, Yingchuan County.
+When he was young, he served as an official in the county and was recruited into the Situ Mansion.
+At this time, the Taishan bandit Gongsun Ju had been falsely claiming to have a false name for several years. He was unable to defeat or disperse him and often broke the law.
+The Shangshu Province selected people from the three mansions who could manage troubles to solve this problem. So Han Shao was appointed as the county magistrate.
+When the Taishan bandits heard that Han Shao was a good official, they restrained each other from entering Ying County.
+But other counties were more invaded by them, making it impossible for men to plow the fields and women to raise sericulture. Therefore, many people fled to Ying County to beg.
+Han Shao felt sorry for them because they were hungry, so he opened a warehouse to help them. More than 10,000 families received food.
+The county supervisors all argued that it couldn’t be done.
+Han Shao said: If you save these people who will die in the ravine and are punished for it, you will be happy even if you die. The prefect knew Han Shao's character on weekdays and finally did not deal with him.
+
+summary:
+summary line 3: **Han Shao (Zhonghuang)** was from Wuyang County, Yingchuan. He served as a county official and was recruited into the Situ Mansion. When Taishan bandit Gongsun Ju caused trouble, Han Shao was appointed county magistrate. The bandits, hearing of his reputation, avoided Ying County, but other counties suffered. Many fled to Ying County, and Han Shao opened granaries to feed over 10,000 families, despite objections from supervisors. He died in office. Li Ying, Chen Chen, Du Mi, and Xun Shu erected monuments praising him. His son Han Rong became a servant under Emperor Xian and died at seventy.
+
+Chunk 15: 
+original: 
 以病卒官。
 同郡李膺、陈寔、杜密、荀淑等为立碑颂焉。
 子融，字无长。
@@ -156,12 +155,10 @@ original:
 献帝初，至太仆。
 年七十卒。
 同郡陈寔，年不及皓，皓引与为友。
+皓为郡功曹，会辟司徒府，临辞，太守问 谁可代卿者 皓曰 明府欲必得其人，西门亭长陈寔可 寔闻之，曰 钟君似不察人，不知何独识我 皓顷之自劾去。
+前后九辟公府，征为廷尉正、博士、林虑长，皆不就。
+时，皓及荀淑并为士大夫所归慕。
 translation: 
-When the Taishan bandits heard that Han Shao was a good official, they restrained each other from entering Ying County.
-But other counties were more invaded by them, making it impossible for men to plow the fields and women to raise sericulture. Therefore, many people fled to Ying County to beg.
-Han Shao felt sorry for them because they were hungry, so he opened a warehouse to help them. More than 10,000 families received food.
-The county supervisors all argued that it couldn’t be done.
-Han Shao said: If you save these people who will die in the ravine and are punished for it, you will be happy even if you die. The prefect knew Han Shao's character on weekdays and finally did not deal with him.
 Died in office due to illness.
 Li Ying, Chen Chen, Du Mi and Xun Shu from the same county erected monuments to praise him.
 His son Han Rong has a long character.
@@ -169,93 +166,51 @@ When he was young, he was able to debate famous theories without writing poems. 
 In the early years of Emperor Xian's reign, he became a servant.
 Died at the age of seventy.
 ◆Zhong Hao's biography, Zhong Hao's courtesy name was Ji Ming, and he was a native of Changshe County, Yingchuan County.
-
-summary:
-summary line 4: **Han Shao (Zhonghuang)** was from Wuyang County, Yingchuan. He served as a county official and was recruited into the Situ Mansion. When Taishan bandit Gongsun Ju caused trouble, Han Shao was appointed county magistrate. The bandits, hearing of his reputation, avoided Ying County, but other counties suffered. Many fled to Ying County, and Han Shao opened granaries to feed over 10,000 families, despite objections from supervisors. He died in office. Li Ying, Chen Chen, Du Mi, and Xun Shu erected monuments praising him. His son Han Rong became a servant under Emperor Xian and died at seventy.
-
-Chunk 14: 
-original: 
-皓为郡功曹，会辟司徒府，临辞，太守问 谁可代卿者 皓曰 明府欲必得其人，西门亭长陈寔可 寔闻之，曰 钟君似不察人，不知何独识我 皓顷之自劾去。
-前后九辟公府，征为廷尉正、博士、林虑长，皆不就。
-时，皓及荀淑并为士大夫所归慕。
-李膺常叹曰 荀君清识难尚，钟君至德可师
-皓兄子瑾母，膺之姑也。
-瑾好学慕古，有退让风，与膺同年，俱有声名。
-膺祖太尉脩，常言 瑾似我家性，邦有道不废，邦无道免于刑戮 复以膺妹妻之。
-瑾辟州府。未尝屈志。
-膺谓之曰 孟子以为人无是非之心，非人也。
-弟何期不与孟轲同邪 瑾常以膺言白皓。
-皓曰 昔国武子好昭人过，以致怨本。
-卒保身全家，尔道为贵 其体训所安，多此类也。
-年六十九，终于家。
-诸儒颂之曰 林虑懿德，非礼不处。
-悦此诗书，弦琴乐古。
-translation: 
 It is a common surname in the county and has been proficient in law for generations. When he was young, Zhong Hao was praised for his honesty and honesty, and was continuously recruited by the government. Because his second brother did not serve as an official, he lived in seclusion in the mountains and taught poetry and rhythm to more than a thousand students. Chen Chen from the same county was younger than Zhong Hao, so Zhong Hao became friends with him. Zhong Hao was appointed as the county's meritorious officer. When he was summoned to the Situ Mansion, before he left, the prefect asked him: Who can take your place? Zhong Hao said: If the prefect must find the right person, Chen Chen, the chief of the Ximen Pavilion, can do it. Chen Chen heard about it and said: "Zhong Jun doesn't seem to be carefully inspecting people. I don't know why he only looks at me?" Not long after, Zhong Hao resigned.
 He was recruited by the government nine times, and he was promoted to Tingweizheng, doctor, and Lin Luchang, but he failed.
 At that time, both Zhong Hao and Xun Shu were admired by the scholar-bureaucrats.
-Li Ying once sighed and said: "It is difficult to compare Xunjun's clear knowledge with him, but Zhongjun's virtue can be his teacher's example."
-The mother of Zhong Hao's nephew Zhong Jin is Li Ying's aunt.
-Zhong Jin was eager to learn and admire ancient Taoism, and he was modest and conciliatory. He was the same age as Li Ying and both were famous.
-Li Ying's grandfather, Taiwei Li Xiu, once said: Zhong Jin is like my family's temperament. If the country is righteous, he can make use of his talents, but if the country is ungrateful, he can avoid punishment. He also married Li Ying's sister to him.
-Zhong Jin summoned the state capital and never gave in to his will.
-Li Ying said to him: Mencius believed that if a person has no sense of right and wrong, he cannot be considered a human being.
-Why don't you agree with what Meng Ke said? Zhong Jin once told Zhong Hao what Li Ying said.
-Zhong Hao said: In the past, Guo Wuzi, a senior official in the state of Qi, liked to expose other people's sins, so as to attract resentment.
-In the end, it is your humility that is more valuable than your own to protect your family. He realizes that the teachings of the ancients are not dogmatic, but seek to implement them appropriately.
-This is often the case. He died at home at the age of sixty-nine.
-Confucian scholars praised him: "Lin considers virtue and does not do anything inappropriate."
-He loves poetry and books, and plays ancient music.
 
 summary:
-summary line 5: **Zhong Hao (Ji Ming)** was from Changshe County, Yingchuan, from a family proficient in law. Praised for honesty, he lived in seclusion teaching poetry to over a thousand students. He befriended Chen Chen and served as the county's meritorious officer. Recruited nine times by the government, he never accepted. Both Zhong Hao and Xun Shu were admired by scholar-bureaucrats. Li Ying said Xun Shu's knowledge was hard to match, but Zhong Hao's virtue could be a teacher's example. Zhong Hao's nephew Zhong Jin married Li Ying's sister. Zhong Hao died at sixty-nine at home. Confucian scholars praised his virtue. His grandson Zhong Yao became Sili Xiaowei.
+summary line 4: **Zhong Hao (Ji Ming)** was from Changshe County, Yingchuan, from a family proficient in law. Praised for honesty, he lived in seclusion teaching poetry to over a thousand students. He befriended Chen Chen and served as the county's meritorious officer. Recruited nine times by the government, he never accepted. Both Zhong Hao and Xun Shu were admired by scholar-bureaucrats. Li Ying said Xun Shu's knowledge was hard to match, but Zhong Hao's virtue could be a teacher's example. Zhong Hao's nephew Zhong Jin married Li Ying's sister. Zhong Hao died at sixty-nine at home. Confucian scholars praised his virtue. His grandson Zhong Yao became Sili Xiaowei.
 
 Chunk 17: 
 original: 
-时中常侍张让权倾天下。让父死，归葬颍川，虽一郡毕至，而名士无往者，让甚耻之，寔乃独吊焉。
-及后复诛党人，让感寔，故多所全宥。
-寔在乡闾，平心率物。
-其有争讼，辄求判正，晓譬曲直，退无怨者。
-至乃叹曰 宁为刑罚所加，不为陈君所短 时、岁荒民俭，有盗夜入其室，止于梁上。
-寔阴见，乃起自整拂，呼命子孙，正色训之曰 夫人不可不自勉。不善之人未必本恶，习以性成，遂至于此。
-梁上君子者是矣 盗大惊，自投于地，稽颡归罪。寔徐譬之曰 视君状貌，不似恶人，宜深克己反善。
-然此当由贫困 令遗绢二匹。
-自是一县无复盗窃。
-太尉杨赐、司徒陈耽，每拜公卿，群僚毕贺，赐等常叹寔大位未登，愧于先之。及党禁始解，大将军何进、司徒袁隗遣人敦寔，欲特表以不次之位。
-寔乃谢使者曰 寔久绝人事，饰巾待终而已 时，三公每缺，议者归之，累见征命，遂不起，闭门悬车，栖迟养老。
-中平四年，年八十四，卒于家。
-何进遣使吊祭，海内赴者三万馀人，制衰麻者以百数。
-共刊石立碑，谥为文范先生。
-有六子，纪、谌最贤。
-纪字元方，亦以至德称。
-兄弟孝养，闺门雍和，后进之士皆推慕其风。
-及遭党锢，发愤著书数万言，号曰《陈子》。
-党禁解，四府并命，无所屈就。
-遭父忧，每哀至，辄欧血绝气，虽衰服已除，而积毁消瘠，殆将灭性。
-豫州刺史嘉其至行，表上尚书，图象百城，以厉风俗。
+陈寔字仲弓，颍川许人也。
+出于单微。
+自为儿童，虽在戏弄，为等类所归。
+少作县吏，常给事厮役，后为都亭佐。
+而有志好学，坐立诵读。
+县令邓邵试与语，奇之，听受业太学。
+后令复召为吏，乃避隐阳城山中。
+时有杀人者，同县杨吏以疑寔，县遂逮系，考掠无实，而后得出。
+乃为督邮，乃密托许令，礼召杨吏。
+远近闻者，咸叹服之。
+家贫，复为郡西门亭长，寻转功曹。
+时中常侍侯览托太守高伦用吏，伦教署为文学掾。
+寔知非其人，怀檄请见。言曰 此人不宜用，而侯常侍不可违。
+寔乞从外署，不足以尘明德 伦从之。
+于是乡论怪其非举，寔终无所言。
+伦后被征为尚书，郡中士大夫送至轮氏传舍。
+伦谓众人言曰 吾前为侯常侍用吏，陈君密持教还，而于外白署。
 translation: 
-At that time, the official Zhang Rang was very powerful. When Zhang Rang's father died, he was sent back to Yingchuan for burial. Although everyone in the county went, none of the famous scholar-bureaucrats went. Zhang Rang felt that he had no face and was very ashamed, but Chen Chen went to mourn alone.
-Later, the party members were killed again. Zhang Rang was grateful to Chen Chen for his condolences. Many people were forgiven and their wealth and lives were saved.
-In the countryside, Chen Chen set an example by being fair.
-If there is a dispute, he will seek correct judgment and the right and wrong will be explained clearly. After returning home, there will be no complaints.
-Some even sighed and said: I would rather be punished than be told wrong by Chen Chen. At this time, there was a famine and the people were in poverty. A thief entered his room and stopped on the beam.
-Chen Shi secretly saw it, so he got up, arranged the bedding, and cleaned the house. Then he called his descendants together and warned him sternly: "People must encourage themselves. Bad people are not necessarily inherently bad. Habits are caused by nature, leading to this point." Liang Shangjun is this kind of person!
-The thief was shocked. He knelt on the ground and knelt down to apologize. Chen Chen slowly told him: "You don't look like a bad person. You should reflect deeply and become a good person."
-However, this time it was probably because of poverty that he did this. He ordered his family to send him two pieces of silk.
-Since then, there have been no burglaries in the county.
-Every time Taiwei Yang Ci and Situ Chen Dan were appointed ministers, hundreds of officials came to congratulate them. Yang Ci and others often lamented that Chen Chen had not ascended to the big position, and they felt ashamed. When the party ban was lifted, Generals He Jin and Situ Yuan Wei sent people to persuade Chen Chen, hoping to make an exception and give Chen Chen a big position.
-Chen Chen declined the envoy and said: I have not thought about the things in the world for a long time. I am just dressing up my clothes and waiting for death. At this time, every time the three princes were vacant, everyone thought of Chen Chen. He was called up many times and refused to go. He closed the door and hung up the car to rest and retire.
-He died at home in the fourth year of Zhongping at the age of eighty-four.
-He Jin sent envoys to offer condolences, and more than 30,000 people from all over the country came to express their condolences, hundreds of them wearing mourning clothes.
-They jointly carved stones and erected monuments, and their posthumous title was Mr. Wen Fan.
-He has six sons, among whom Chen Ji and Chen Chen are the best.
-Chen Ji's character Yuan Fang was also praised by others for his virtuous conduct.
-His brothers are filial, his women are harmonious, and the younger generations in the village are envious of his good family tradition.
-Being imprisoned by the party, he worked hard to write a book of tens of thousands of words called "Chen Zi".
-The ban on the party was lifted, and the four governments competed for appointments, but he was not accepted.
-When his father passed away, he was extremely grieved. He often vomited blood and died. Although the period of mourning was over, he was still grieving so much that his body became emaciated, leaving only a few bones, and he became like a dead person.
-The governor of Yuzhou believed that Chen Ji's excellence was extremely valuable, so he commissioned it as a minister, and all cities in Yuzhou painted images of Chen Ji and other figures to encourage customs.
+◆Chen Shizhuan, also named Zhonggong, was a native of Xu County, Yingchuan County.
+Of humble origin.
+As a child, even though he was playing, he was still supported by the children.
+When he was young, he was a county official. He worked for some slaves in the county and later served as Du Tingzuo.
+He is eager to learn and can sit up and read without stopping.
+The county magistrate Deng Shao tried to talk to him and thought that he was not an ordinary petty official, so he asked him to study at Taixue.
+Later, the county magistrate called him as an official again, so he escaped and lived in seclusion in Yangcheng Mountain.
+At this time, someone killed someone. Yang Li from the same county suspected that it was Chen Chen, and the county arrested him. The torture and interrogation had no basis in fact, so he was released.
+Later, Chen Shi became the postal supervisor and secretly asked Xu Ling to summon Yang officials with courtesy.
+When people near and far heard about it, they marveled and admired him.
+Chen Chen's family was poor, so he became the head of the west gate pavilion of the county. Soon, he was promoted to a meritorious official.
+At this time, Zhongchang Shihou Lan asked Gao Lun, the prefect, to appoint officials, and Gao Lun ordered him to act as an agent for literature.
+Chen Chen knew that this person was not suitable, so he gave Gao Lun's teachings to Xi. When Huai Xi met Gao Lun, he said: "This person is not suitable for use, but the orders of Changshi Hou cannot be disobeyed."
+I would like to ask an external official, as this will not harm Mingde. Gao Lun listened to him.
+So public opinion blamed Chen Chen for being unpopular, but Chen Chen never said anything.
+Gao Lun was later recruited as Shangshu, and was sent to Lun's Hotel by the county sergeant-officials.
+Gao Lun said to everyone: "I used to be a servant of Hou Chang, and Chen Jun secretly returned with my teachings. I was working in vain in other places."
 
 summary:
-summary line 6: **Chen Chen (Zhonggong)** was from Xu County, Yingchuan, of humble origin. From childhood, he was respected by peers. He served as a county official and studied at Taixue. When falsely accused of murder, he was tortured but released. Later, as postal supervisor, he treated his accuser with courtesy, earning admiration. As a meritorious officer, he refused to appoint an unsuitable candidate recommended by eunuch Hou Lan, taking the blame himself. He served as Chief of Taiqiu, governing with virtue and quietness. During the party arrests, he willingly imprisoned himself. He mourned for Zhang Rang's father, later saving many lives during renewed party persecutions. In his village, he settled disputes fairly. When a thief entered his home, he admonished him and gave him silk, ending burglaries in the county. He repeatedly refused high positions, closing his door to retire. He died at eighty-four in the fourth year of Zhongping. Over 30,000 mourners attended his funeral. His posthumous title was Mr. Wen Fan. His sons Chen Ji and Chen Chen were also virtuous. Chen Ji served under Dong Zhuo but opposed moving the capital, warning of destruction. He later became Dahonglu and died at seventy-one. Historians praised Chen Chen's virtue, noting that while imperial teachings declined, integrity survived among the people.
+summary line 5: **Chen Chen (Zhonggong)** was from Xu County, Yingchuan, of humble origin. From childhood, he was respected by peers. He served as a county official and studied at Taixue. When falsely accused of murder, he was tortured but released. Later, as postal supervisor, he treated his accuser with courtesy, earning admiration. As a meritorious officer, he refused to appoint an unsuitable candidate recommended by eunuch Hou Lan, taking the blame himself. He served as Chief of Taiqiu, governing with virtue and quietness. During the party arrests, he willingly imprisoned himself. He mourned for Zhang Rang's father, later saving many lives during renewed party persecutions. In his village, he settled disputes fairly. When a thief entered his home, he admonished him and gave him silk, ending burglaries in the county. He repeatedly refused high positions, closing his door to retire. He died at eighty-four in the fourth year of Zhongping. Over 30,000 mourners attended his funeral. His posthumous title was Mr. Wen Fan. His sons Chen Ji and Chen Chen were also virtuous. Chen Ji served under Dong Zhuo but opposed moving the capital, warning of destruction. He later became Dahonglu and died at seventy-one. Historians praised Chen Chen's virtue, noting that while imperial teachings declined, integrity survived among the people.
 

@@ -1,0 +1,376 @@
+Summary uses chunk [0, 0, 1, 4, 8, 20, 20, 35]
+
+Chunk 0: 
+original: 
+山涛，字巨源，河内怀人也。
+父曜，宛句令。
+涛早孤，居贫，少有器量，介然不群。
+性好《庄》《老》，每隐身自晦。
+与嵇康、吕安善，后遇阮籍，便为竹林之交，著忘言之契。康后坐事，临诛，谓子绍曰： 巨源在，汝不孤矣。
+涛年四十，始为郡主簿、功曹、上计掾。
+举孝廉，州辟部河南从事。
+与石鉴共宿，涛夜起蹴鉴曰： 今为何等时而眠邪！
+知太傅卧何意？
+鉴曰： 宰相三不朝，与尺一令归第，卿何虑也！
+涛曰： 咄！石生无事马蹄间邪！
+投传而去。
+未二年，果有曹爽之事，遂隐身不交世务。
+与宣穆后有中表亲，是以见景帝。
+帝曰： 吕望欲仕邪？
+命司隶举秀才，除郎中。
+转骠骑将军王昶从事中郎。
+久之，拜赵国相，迁尚书吏部郎。
+文帝与涛书曰： 足下在事清明，雅操迈时。
+念多所乏，今致钱二十万、谷二百斛。
+魏帝尝赐景帝春服，帝以赐涛。
+又以母老，并赐藜杖一枚。
+晚与尚书和逌交，又与钟会、裴秀并申款昵。
+以二人居势争权，涛平心处中，各得其所，而俱无恨焉。
+translation: 
+Shantao is named Juyuan, and Hanoi embraces people.
+Father Shan Yao is Wanjuling.
+Shantao lost his father in his early years and his family was poor. When he was young, he was thoughtful and unique.
+He likes "Zhuangzi" and "Laozi" and often hides himself without showing his talents.
+He had friendship with Ji Kang and Lu An, and later met Ruan Ji, and established a friendship in the bamboo forest and became the Seven Sages of the Bamboo Forest. They had a tacit understanding of understanding each other without having to speak. Ji Kang was later convicted. Before his execution, he said to his son Ji Shao: With Juyuan here, you are no longer an orphan.
+Shan Tao was forty years old, and he was initially appointed as the princess's administrator, meritorious officer, and chief planner.
+He was elected Xiaolian, and the state called him to serve in the Ministry of Henan.
+Living with Shi Jian, Shan Tao wrapped himself up at night and pushed Shi Jian awake and said: "When are you still sleeping now?"
+Do you know what Tai Tu meant by calling him sick?
+Shi Jian said: "The prime minister failed to come to court three times, so I issued an edict to let him go home. What are you worried about?"
+Shan Tao said: Alas, Mr. Shi will not be in danger during the war!
+He threw down the talisman and left.
+Within two years, Cao Shuang changed his mind and he became invisible and no longer participated in world affairs.
+After Yu Xuanmu was a middle cousin, he met Emperor Jing.
+Emperor Jing said: "Does Lu Wang want to be an official?"
+He was ordered to recommend him as a scholar and a doctor.
+He was transferred to General Wang Chang and served as a lieutenant.
+After a long time, he paid homage to Zhao Guoxiang. He was promoted to minister of official affairs.
+Emperor Wen wrote to Shan Tao: You are honest and smart in doing things, and your elegant conduct is beyond the world.
+Considering your shortage of various supplies, I will send you 200,000 yuan of money and 200 dendrobium of grain today.
+Emperor Wei once gave spring clothes to Emperor Jing, who in turn gave them to Shan Tao.
+And because his mother was old, she also gave him a quinoa staff.
+In his later years, he interacted with Shangshu Hekui and treated Zhong Hui and Pei Xiu sincerely and intimately.
+Since they were high-ranking officials and competed for power, Shantao lived peacefully among them, each getting what he wanted without any regrets.
+
+summary:
+summary line 0: Shantao, also known as Juyuan, was a man of Hanoi who lost his father early and grew up in poverty. He was thoughtful from a young age, favored the works of Zhuangzi and Laozi, and often concealed his talents. He formed deep friendships with Ji Kang, Lu An, and later Ruan Ji, becoming one of the Seven Sages of the Bamboo Forest. At forty, he began his official career, serving in various roles such as the princess's administrator and chief planner. He was known for his integrity and wisdom, once warning Shi Jian about the dangers of Cao Shuang's rebellion. After Cao Shuang's downfall, Shantao withdrew from public life for a time.
+
+Chunk 0: 
+original: 
+山涛，字巨源，河内怀人也。
+父曜，宛句令。
+涛早孤，居贫，少有器量，介然不群。
+性好《庄》《老》，每隐身自晦。
+与嵇康、吕安善，后遇阮籍，便为竹林之交，著忘言之契。康后坐事，临诛，谓子绍曰： 巨源在，汝不孤矣。
+涛年四十，始为郡主簿、功曹、上计掾。
+举孝廉，州辟部河南从事。
+与石鉴共宿，涛夜起蹴鉴曰： 今为何等时而眠邪！
+知太傅卧何意？
+鉴曰： 宰相三不朝，与尺一令归第，卿何虑也！
+涛曰： 咄！石生无事马蹄间邪！
+投传而去。
+未二年，果有曹爽之事，遂隐身不交世务。
+与宣穆后有中表亲，是以见景帝。
+帝曰： 吕望欲仕邪？
+命司隶举秀才，除郎中。
+转骠骑将军王昶从事中郎。
+久之，拜赵国相，迁尚书吏部郎。
+文帝与涛书曰： 足下在事清明，雅操迈时。
+念多所乏，今致钱二十万、谷二百斛。
+魏帝尝赐景帝春服，帝以赐涛。
+又以母老，并赐藜杖一枚。
+晚与尚书和逌交，又与钟会、裴秀并申款昵。
+以二人居势争权，涛平心处中，各得其所，而俱无恨焉。
+translation: 
+Shantao is named Juyuan, and Hanoi embraces people.
+Father Shan Yao is Wanjuling.
+Shantao lost his father in his early years and his family was poor. When he was young, he was thoughtful and unique.
+He likes "Zhuangzi" and "Laozi" and often hides himself without showing his talents.
+He had friendship with Ji Kang and Lu An, and later met Ruan Ji, and established a friendship in the bamboo forest and became the Seven Sages of the Bamboo Forest. They had a tacit understanding of understanding each other without having to speak. Ji Kang was later convicted. Before his execution, he said to his son Ji Shao: With Juyuan here, you are no longer an orphan.
+Shan Tao was forty years old, and he was initially appointed as the princess's administrator, meritorious officer, and chief planner.
+He was elected Xiaolian, and the state called him to serve in the Ministry of Henan.
+Living with Shi Jian, Shan Tao wrapped himself up at night and pushed Shi Jian awake and said: "When are you still sleeping now?"
+Do you know what Tai Tu meant by calling him sick?
+Shi Jian said: "The prime minister failed to come to court three times, so I issued an edict to let him go home. What are you worried about?"
+Shan Tao said: Alas, Mr. Shi will not be in danger during the war!
+He threw down the talisman and left.
+Within two years, Cao Shuang changed his mind and he became invisible and no longer participated in world affairs.
+After Yu Xuanmu was a middle cousin, he met Emperor Jing.
+Emperor Jing said: "Does Lu Wang want to be an official?"
+He was ordered to recommend him as a scholar and a doctor.
+He was transferred to General Wang Chang and served as a lieutenant.
+After a long time, he paid homage to Zhao Guoxiang. He was promoted to minister of official affairs.
+Emperor Wen wrote to Shan Tao: You are honest and smart in doing things, and your elegant conduct is beyond the world.
+Considering your shortage of various supplies, I will send you 200,000 yuan of money and 200 dendrobium of grain today.
+Emperor Wei once gave spring clothes to Emperor Jing, who in turn gave them to Shan Tao.
+And because his mother was old, she also gave him a quinoa staff.
+In his later years, he interacted with Shangshu Hekui and treated Zhong Hui and Pei Xiu sincerely and intimately.
+Since they were high-ranking officials and competed for power, Shantao lived peacefully among them, each getting what he wanted without any regrets.
+
+summary:
+summary line 1: Shantao later served under Emperor Jing and Emperor Wen, holding positions such as Zhao Guoxiang and minister of official affairs. He was praised for his honesty and intelligence, receiving generous gifts from the emperor. In his later years, he interacted with high-ranking officials like Zhong Hui and Pei Xiu, maintaining harmony among them. He was promoted to general and lieutenant, and during the campaign against Shu, he was entrusted with guarding Ye. In the early years of Xianxi, he was named Xin Da Zi and later served as Prime Minister Zuo Changshi.
+
+Chunk 1: 
+original: 
+迁大将军从事中郎。
+钟会作乱于蜀，而文帝将西征。
+时魏氏诸王公并在鄴，帝谓涛曰： 西偏吾自了之，后事深以委卿。
+以本官行军司马，给亲兵五百人，镇鄴。
+咸熙初，封新沓子。
+转相国左长史，典统别营。
+时帝以涛乡闾宿望，命太子拜之。
+帝以齐王攸继景帝后，素又重攸，尝问裴秀曰： 大将军开建未遂，吾但承奉后事耳。
+故立攸，将归功于兄，何如？
+秀以为不可，又以问涛。
+涛对曰： 废长立少，违礼不祥。
+国之安危，恆必由之。
+太子位于是乃定。
+太子亲拜谢涛。
+及武帝受禅，以涛守大鸿胪，护送陈留王诣鄴。
+泰始初，加奉车都尉，进爵新沓伯。
+及羊祜执政，时人欲危裴秀，涛正色保持之。
+由是失权臣意，出为冀州刺史，加宁远将军。
+冀州俗薄，无相推毂。
+涛甄拔隐屈，搜访贤才，旌命三十余人，皆显名当时。
+translation: 
+He was promoted to general and became a lieutenant.
+The bell box is causing chaos in Shu, and Sai Tong will march westward.
+At that time, all the princes of the Wei family were in Ye, and Emperor Wen said to Shan Tao: I will handle the affairs in the west by myself, and I will entrust you with everything in the rear.
+I appointed my officer as an agent for the marching Sima, and assigned 500 personal soldiers to guard Ye.
+In the early years of Xianxi's reign, he was named Xin Da Zi.
+He was transferred to the post of Prime Minister Zuo Changshi and took charge of other camps.
+At that time, the emperor ordered the prince to pay homage to Shan Tao because he was famous in the countryside.
+The emperor succeeded King Jing with Sima You, King of Qi, and he always thought highly of Sima You. He once asked Pei Xiu: "The general failed to achieve his great cause, so I only inherited what he did after his death."
+Therefore, the appointment of Sima You will be attributed to his brother, is that okay?
+Pei Zhou thought it was impossible and asked Shan Tao about this matter.
+Shan Tao replied: It is against etiquette and ominous to abolish the elder and establish the younger.
+The safety of the country often arises from this.
+The candidate for the crown prince was then determined.
+The prince personally thanked Shan Tao.
+After Emperor Wu accepted the concession, he asked Shantao to guard Dahonglu and escort King Chenliu to Ye.
+In the early years of Taishi, he was awarded the title of Captain of Fengche and was promoted to the title of Xin Da Po.
+When Yang Hu was in power, people at that time wanted to exclude Tomb Chui, but Shan Tao protected him sternly.
+Therefore, against the wishes of his powerful ministers, he left the capital to serve as the governor of Jizhou and became the general of Ningyuan.
+The customs in Jizhou are despicable and they do not recommend each other.
+He screened and selected hermits and aggrieved people on the mountainside, searched for and visited talented people, and commended and recruited more than 30 people. He was famous at that time.
+
+summary:
+summary line 2: When Emperor Wu succeeded, Shantao advised against appointing Sima You, citing the importance of proper succession. He served as Dahonglu and later as Fengche Captain. As governor of Jizhou, he reformed local customs by recommending talented individuals. He resigned multiple times due to his mother's age, but was eventually persuaded to return to office. He served as Shangshu of the Ministry of Personnel, selecting officials based on merit. Despite facing criticism, he continued his work, earning the title "Monkey Announcement" for his screening methods.
+
+Chunk 4: 
+original: 
+涛辞不获已，乃起视事。
+涛再居选职十有余年，每一官缺，辄启拟数人，诏旨有所向，然后显奏，随帝意所欲为先。
+故帝之所用，或非举首，众情不察，以涛轻重任意。
+或谮之于帝，故帝手诏戒涛曰： 夫用人惟才，不遗疏远单贱，天下便化矣。
+而涛行之自若，一年之后众情乃寝。
+涛所奏甄拔人物，各为题目，时称《山公启事》。
+涛中立于朝，晚值后党专权，不欲任杨氏，多有讽谏，帝虽悟而不能改。
+后以年衰疾笃，上疏告退曰： 臣年垂八十，救命旦夕，若有毫末之益，岂遗力于圣时，迫以老耄，不复任事。
+今四海休息，天下思化，从而静之，百姓自正。
+但当崇风尚教以敦之耳，陛下亦复何事。
+臣耳目聋瞑，不能自励。
+君臣父子，其间无文，是以直陈愚情，乞听所请。
+translation: 
+Shan Tao couldn't refuse and began to take office.
+Shan Tao once again held the post of selecting officials for more than ten years. Every time there was a vacancy in an official position, a few people were drafted, the intention was stated in the imperial edict, and then the report was publicly reported, and the order of appointment was decided according to the emperor's wishes.
+Therefore, some of the people appointed by the emperor were not those who were recommended first. Everyone was unclear and believed that Shan Tao chose people arbitrarily.
+Someone came to the emperor and said bad things about him, so the emperor warned Shan Tao: Use people only according to their talents, and do not alienate the poor and lowly, and the world will be peaceful.
+But Shantao still did that, and it took a year for everyone's complaints to subside.
+Shan Tao wrote memorials for the screening and selection, each with its own title, which was called "Monkey Announcement" at the time.
+Shan Tao was an official in the government and held an important position. In his later years, he encountered the dictatorship of the Hou Party and did not want to appoint Yang. Shan Tao advised him many times. Although the emperor understood it, he could not change it.
+Later, due to old age and serious illness, Shangshu resigned and said: I am nearly eighty years old and I am trying to save my life every day. If I had a little energy, how could I not contribute in this era of sage? Forced by old age, he no longer holds office.
+Now the world is resting and recuperating, and the world is yearning for enlightenment to make them peaceful, and the people will naturally return to the right path.
+As long as you encourage them by advocating customs and education, there is nothing else for your Majesty to do.
+I am deaf, blind, and unable to encourage myself.
+Lord, minister, father and son, there is no need to hide, so I state my thoughts and beg to obey my request.
+
+summary:
+summary line 3: In his later years, Shantao faced the dictatorship of the Hou party and advised the emperor without success. He resigned due to old age and illness, but was repeatedly called back to service. He was promoted to Youpuse and Guanglu doctor, but continued to decline due to health. After Wu was pacified, he advised against withdrawing military forces, a warning that proved prescient during later chaos. He was appointed Situ but refused, eventually dying at seventy-nine. He was given posthumous honors and his family was provided for by the emperor.
+
+Chunk 8: 
+original: 
+涛乃取丝付吏，积年尘埃，印封如初。
+涛饮酒至八斗方醉，帝欲试之，乃以酒八斗饮涛，而密益其酒，涛极本量而止。
+有五子：该、淳、允、谟、简。
+该字伯伦，嗣父爵，仕至并州刺史、太子左率，赠长水校尉。
+该子玮字彦祖，翊军校尉。
+次子世回，吏部郎、散骑常侍。
+淳字子玄，不仕，允字叔真，奉车都尉，并少尪病，形甚短小，而聪敏过人。
+武帝闻而欲见之，涛不敢辞，以问于允。
+允自以尪陋，不肯行。
+涛以为胜己，乃表曰： 臣二子尪病，宜绝人事，不敢受诏。
+谟字季长，明惠有才智，官至司空掾。
+简字季伦。
+性温雅，有父风，年二十余，涛不之知也。
+简叹曰： 吾年几三十，而不为家公所知！
+后与谯国嵇绍、氵市郡刘谟、弘农杨准齐名。
+translation: 
+Shan Tao took out the silk and gave it to the officials. After years of dust accumulation, the seal was not opened.
+Shan Tao drank until he was drunk until he was drunk. The emperor wanted to test him, so he prepared eight measures of wine for him to drink, and secretly added more wine for him. Shan Tao drank to his limit and stopped drinking.
+He has five sons: Shan Gai, Shan Chun, Shan Yun, Shan Mo, and Shan Jian.
+Shan Gai, whose courtesy name was Bolun, inherited his father's title. He became governor of Bingzhou and crown prince Zuo Li, and was posthumously awarded the title of Captain of Changshui.
+Shan Gai's son Shan Zhang was named Yanzu and served as a lieutenant in the Yi Army.
+The second son returned to Shanshi and served as a official official and a regular attendant on Sanqi.
+Shan Chun, whose courtesy name was Zixuan, was not an official, while Shan Yun, whose courtesy name was Shuzhen, was appointed as the captain of Fengche. Both of them had a hunchback and were short in stature, but they were extremely intelligent.
+After Emperor Wu heard about it, he wanted to see them. Shan Tao did not dare to refuse, so he went to ask Shan Yun.
+Shan Yun thought he was short with a hunchback and refused to go.
+Shan Tao thought that they were better than him, so he wrote: My two sons are weak and sick, do not interact with others, and dare not accept orders.
+Shan Mo, whose courtesy name is Ji Chang, is intelligent and talented, and his official position reaches the rank of Sikong Tu.
+Shan Jian's courtesy name is Ji Lun.
+He has a gentle temperament and a fatherly demeanor. He is in his twenties and Shantao doesn't understand him.
+The mountain slip sighed and said: I am almost thirty years old and my father does not understand me!
+Later, he became famous with Ji Shao from Qiao, Liu Mo from Peijun, and Yang Zhun from Hongnong.
+
+summary:
+summary line 4: Shantao was known for his frugality and loyalty, never taking concubines despite his high status. He distributed his salary to relatives and friends. He once accepted silk from a corrupt official but kept it sealed, later returning it when the official's crimes were exposed. He had five sons: Shan Gai, Shan Chun, Shan Yun, Shan Mo, and Shan Jian. Shan Gai inherited his title and served as governor of Bingzhou. Shan Jian, known for his gentle temperament, became a prominent official, serving as minister and governor of various regions.
+
+Chunk 20: 
+original: 
+有庶子兴，戎所不齿。
+以从弟阳平太守愔子为嗣。
+衍字夷甫，神情明秀，风姿详雅。
+总角尝造山涛，涛嗟叹良久，既去，目而送之曰： 何物老妪，生宁馨兒！
+然误天下苍生者，未必非此人也。
+父乂，为平北将军，常有公事，使行人列上，不时报。
+衍年十四，时在京师，造仆射羊祜，申陈事状，辞甚清辩。
+祜名德贵重，而衍幼年无屈下之色，众咸异之。
+杨骏欲以女妻焉，衍耻之，遂阳狂自免。
+武帝闻其名，问戎曰： 夷甫当世谁比？
+戎曰： 未见其比，当从古人中求之。
+泰始八年，诏举奇才可以安边者，衍初好论从横之术，故尚书卢钦举为辽东太守。
+不就，于是口不论世事，唯雅咏玄虚而已。
+尝因宴集，为族人所怒，举累掷其面。
+衍初无言，引王导共载而去。
+然心不能平，在车中揽镜自照，谓导曰： 尔看吾目光乃在牛背上矣。
+父卒于北平，送故甚厚，为亲识之所借贷，因以舍之。
+数年之间，家资罄尽，出就洛城西田园而居焉。后为太子舍人，还尚书郎。
+出补元城令，终日清谈，而县务亦理。
+入为中庶子、黄门侍郎。
+魏正始中，何晏、王弼等祖述《老》《庄》，立论以为： 天地万物皆以无为本。
+translation: 
+There was a concubine named Wang Xing, and Wang Rong looked down upon him.
+Let the son of his cousin Wang Qing, the prefect of Yangping, succeed him.
+Wang Yan, whose courtesy name is Yifu, has a clear and beautiful expression, tranquility and elegance.
+When I was a child, I visited Shan Tao. Shan Tao sighed for a long time. Wang Yan left. Shan Tao looked at him and said: What an old woman, she gave birth to such a son!
+The person who delays the people of the world may not be this person.
+His father, Wang Yi, was a general in Qianbei Province. He often had official matters and sent people to list them and report them from time to time.
+Wang Yan was fourteen years old. He was in the capital at that time. He went to the servant She Yangkun to explain the matter. His words were very clear and eloquent.
+Yang Hu had a reputation for being very virtuous, but although Wang Yan was young, he did not appear to be aggrieved by others. Everyone was surprised.
+Yang Jun wanted to marry his daughter to him, but Wang Yan was ashamed of this and pretended to be crazy to avoid the matter.
+Emperor Wu heard about his reputation and asked Wang Rong: Who can Yifu be compared with in this world?
+Wang Rong said: If you don't see anyone who can compare with him, you should look for it from the ancients.
+In the eighth year of Taishi, Xia Shao asked him to recommend people with talents who could stabilize the border. Wang Jie initially liked to talk about Zongheng, so Lu Lian, the minister, recommended him as the governor of Liaosai.
+I didn't go to my post, so I didn't talk about worldly affairs. I just wrote poems and talked about it.
+Once, because of a banquet, the tribesmen were angry and threw a wooden plate into his face.
+Wang Yan didn't say anything at first and asked Wang Zun to get in the car and leave.
+However, I felt dissatisfied. I picked up the mirror in the car and looked at myself, and said to Director Wang: You are looking at me on the back of the cow.
+His father died in Peiping, and he gave many gifts at his funeral. His relatives and friends borrowed money from him and gave it to them.
+Within a few years, his family property was exhausted and he went to live in the countryside west of Luocheng. Later, he was appointed Prince Sheren and promoted to Shangshu Lang.
+He left the capital to serve as the magistrate of Yuancheng and talked all day long, but the government affairs in the county were also handled.
+He was summoned to serve as the concubine of the middle school and the minister of Huangmen.
+During the Zhengshi period of Wei, He Yan, Wang Bi and others began to discuss "Lao" and "Zhuang", arguing that: Everything in the world is based on nothingness.
+
+summary:
+summary line 5: Wang Rong, courtesy name Junchong, was from Linyi. He was known for his intelligence and calmness from a young age, once standing unafraid during a tiger's roar. He was friends with Ruan Ji and others, and was known for his insight. He served in various official roles, including governor of Jingzhou and Yuzhou, and was involved in the conquest of Wu. He was known for his filial piety, though he did not strictly adhere to rituals. He was criticized for his greed and stinginess, often calculating his wealth day and night. He died at seventy-two, posthumously named Yuan.
+
+Chunk 20: 
+original: 
+有庶子兴，戎所不齿。
+以从弟阳平太守愔子为嗣。
+衍字夷甫，神情明秀，风姿详雅。
+总角尝造山涛，涛嗟叹良久，既去，目而送之曰： 何物老妪，生宁馨兒！
+然误天下苍生者，未必非此人也。
+父乂，为平北将军，常有公事，使行人列上，不时报。
+衍年十四，时在京师，造仆射羊祜，申陈事状，辞甚清辩。
+祜名德贵重，而衍幼年无屈下之色，众咸异之。
+杨骏欲以女妻焉，衍耻之，遂阳狂自免。
+武帝闻其名，问戎曰： 夷甫当世谁比？
+戎曰： 未见其比，当从古人中求之。
+泰始八年，诏举奇才可以安边者，衍初好论从横之术，故尚书卢钦举为辽东太守。
+不就，于是口不论世事，唯雅咏玄虚而已。
+尝因宴集，为族人所怒，举累掷其面。
+衍初无言，引王导共载而去。
+然心不能平，在车中揽镜自照，谓导曰： 尔看吾目光乃在牛背上矣。
+父卒于北平，送故甚厚，为亲识之所借贷，因以舍之。
+数年之间，家资罄尽，出就洛城西田园而居焉。后为太子舍人，还尚书郎。
+出补元城令，终日清谈，而县务亦理。
+入为中庶子、黄门侍郎。
+魏正始中，何晏、王弼等祖述《老》《庄》，立论以为： 天地万物皆以无为本。
+translation: 
+There was a concubine named Wang Xing, and Wang Rong looked down upon him.
+Let the son of his cousin Wang Qing, the prefect of Yangping, succeed him.
+Wang Yan, whose courtesy name is Yifu, has a clear and beautiful expression, tranquility and elegance.
+When I was a child, I visited Shan Tao. Shan Tao sighed for a long time. Wang Yan left. Shan Tao looked at him and said: What an old woman, she gave birth to such a son!
+The person who delays the people of the world may not be this person.
+His father, Wang Yi, was a general in Qianbei Province. He often had official matters and sent people to list them and report them from time to time.
+Wang Yan was fourteen years old. He was in the capital at that time. He went to the servant She Yangkun to explain the matter. His words were very clear and eloquent.
+Yang Hu had a reputation for being very virtuous, but although Wang Yan was young, he did not appear to be aggrieved by others. Everyone was surprised.
+Yang Jun wanted to marry his daughter to him, but Wang Yan was ashamed of this and pretended to be crazy to avoid the matter.
+Emperor Wu heard about his reputation and asked Wang Rong: Who can Yifu be compared with in this world?
+Wang Rong said: If you don't see anyone who can compare with him, you should look for it from the ancients.
+In the eighth year of Taishi, Xia Shao asked him to recommend people with talents who could stabilize the border. Wang Jie initially liked to talk about Zongheng, so Lu Lian, the minister, recommended him as the governor of Liaosai.
+I didn't go to my post, so I didn't talk about worldly affairs. I just wrote poems and talked about it.
+Once, because of a banquet, the tribesmen were angry and threw a wooden plate into his face.
+Wang Yan didn't say anything at first and asked Wang Zun to get in the car and leave.
+However, I felt dissatisfied. I picked up the mirror in the car and looked at myself, and said to Director Wang: You are looking at me on the back of the cow.
+His father died in Peiping, and he gave many gifts at his funeral. His relatives and friends borrowed money from him and gave it to them.
+Within a few years, his family property was exhausted and he went to live in the countryside west of Luocheng. Later, he was appointed Prince Sheren and promoted to Shangshu Lang.
+He left the capital to serve as the magistrate of Yuancheng and talked all day long, but the government affairs in the county were also handled.
+He was summoned to serve as the concubine of the middle school and the minister of Huangmen.
+During the Zhengshi period of Wei, He Yan, Wang Bi and others began to discuss "Lao" and "Zhuang", arguing that: Everything in the world is based on nothingness.
+
+summary:
+summary line 6: Wang Yan, courtesy name Yifu, was known for his clear expression and elegance. He was a leading figure in the Qingtan movement, advocating the philosophy of nothingness. He held high positions but was criticized for his lack of integrity and self-preservation. During the chaos of the Jin dynasty, he advised his brothers to take up posts in strategic regions, a plan known as the "cunning rabbit's three burrows." He was captured by Shi Le and killed after refusing to take responsibility for the dynasty's fall. He was fifty-six at his death.
+
+Chunk 35: 
+original: 
+先是河南官舍多妖怪，前尹多不敢处正寝，广居之不疑。
+尝外户自闭，左右皆惊，广独自若。
+顾见墙有孔，使人掘墙，得狸而杀之，其怪亦绝。
+愍怀太子之废也，诏故臣不得辞送，众官不胜愤叹，皆冒禁拜辞。
+司隶校尉满奋敕河南中部收缚拜者送狱，广即便解遣。
+众人代广危惧。
+孙琰说贾谧曰： 前以太子罪恶，有斯废黜，其臣不惧严诏，冒罪而送。
+今若系之，是彰太子之善，不如释去。
+谧然其言，广故得不坐。
+迁吏部尚书左仆射，后东安王繇当为仆射，转广为右仆射，领吏部，代王戎为尚书令，始戎荐广，而终践其位，时人美之。
+成都王颖，广之婿也，及与长沙王乂遘难，而广既处朝望，群小谗谤之。
+乂以问广，广神色不变，徐答曰： 广岂以五男易一女。
+乂犹以为疑，广竟以忧卒。
+荀籓闻广之不免也，为之流涕。
+三子：凯、肇、谟。
+凯字弘绪，大司马齐王掾，参骠骑军事。
+肇字弘茂，太傅东海王掾。
+洛阳陷，兄弟相携南渡江。
+谟字弘范，征虏将军、吴郡内史。
+史臣曰：汉相清静，见机于旷务；周史清虚，不嫌于尸禄。
+岂台揆之任，有异于常班者欤！
+濬冲善发谈端，夷甫仰希方外，登槐庭之显列，顾漆圆而高视。
+translation: 
+Before that, there were many monsters in the official residences of Henan. Most of the former Henan Yins did not dare to live in the main house, but Le Guang was not afraid to live there.
+Once the door outside closed by itself, everyone on the left and right were frightened, but only Le Guang remained calm.
+When he saw a hole in the wall, he sent people to dig out the wall, catch the fox and kill it, and the strange things disappeared.
+When Prince Minhuai was deposed, the old officials were ordered not to say goodbye. The officials were very angry and even braved the ban to say goodbye.
+Sili Colonel Man Fen ordered the people who were seeing them off in central Henan to be captured and sent to prison, but Yue Guang let them go.
+Everyone was worried about Le Guang.
+Sun Yan advised Jia Mi: "In the past, the prince was deposed because of his sins. His ministers were not afraid of severe prohibitions and took the risk to see him off."
+If arresting them would only promote the prince's interests, it would be better to let them go.
+Mai Mi thought he was right, and Yue Guang was not convicted.
+He was promoted to Zuopushe, the Minister of the Ministry of Personnel. Later, Sima Yao, King of Shu'an, was supposed to be the Pushe. He was appointed as Youpushe to Yue Guang, leading the Ministry of Personnel, and acting as the Shangshuling on behalf of Wang Rong. At first Wang Rong recommended Yue Guang, but eventually he took his place. People at the time praised Yue Guang.
+Sima Ying, the king of Chengdu, was Le Guang's son-in-law. When Sima Yi, the king of Changsha, launched an attack, Le Guang was already in an important position in the court, and some villains slandered him.
+Sima Yi asked Le Guang about this matter. Le Guang's expression remained unchanged and he slowly replied: "How can I exchange five men for one woman?"
+Sima Yi still had doubts, and Le Guang eventually died of worry.
+When Xun Fan heard that Yue Guang had not been able to escape the disaster, he shed tears for him.
+He has three sons: Le Kai, Le Zhao and Le Chen.
+Le Kai, whose courtesy name was Hongxu, was appointed as the commander-in-chief of the King of Qi, and participated in the Hussar Army.
+Yue Zhao, whose courtesy name was Hongmao, was appointed as Taifu Shuhaiwangju.
+Luoyang fell, and the brothers crossed the Yangtze River south together.
+Lemo's courtesy name was Hongfan, and he served as General Zhenglu and Internal Secretary of Wu County.
+Shi Chen said: The Han prime minister was quiet and governed by doing nothing; the Zhou prime minister was pure and empty, receiving salary and not doing political affairs.
+Is the appointment of the three prime ministers different from that of ordinary officials?
+Junchong is good at talking, Yifu advocates Taoism, ascends to the prominent position of Sangong, learns from Laozi and Zhuangzhuang and is lofty.
+
+summary:
+summary line 7: Le Guang, courtesy name Yanfu, was known for his calm and far-sighted nature. He was skilled in conversation and used simple words to explain profound truths. He served as Henan Yin and was known for his ability to resolve disputes. He once cured a guest's illness by explaining the illusion of a snake in a cup. He was praised for his integrity and adherence to ritual, even during times of chaos. He died of worry after being slandered. He had three sons: Le Kai, Le Zhao, and Le Chen.
+

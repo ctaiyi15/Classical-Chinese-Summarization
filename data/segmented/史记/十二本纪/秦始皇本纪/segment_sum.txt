@@ -1,0 +1,287 @@
+Summary uses chunk [0, 3, 5, 6, 9, 23, 36]
+
+Chunk 0: 
+original: 
+秦始皇帝者，秦庄襄王子也。
+庄襄王为秦质子於赵，见吕不韦姬，悦而取之，生始皇。
+以秦昭王四十八年正月生於邯郸。
+及生，名为政，姓赵氏。
+年十三岁，庄襄王死，政代立为秦王。
+当是之时，秦地已并巴、蜀、汉中，越宛有郢，置南郡矣；北收上郡以东，有河东、太原、上党郡；东至荥阳，灭二周，置三川郡。
+吕不韦为相，封十万户，号曰文信侯。
+招致宾客游士，欲以并天下。
+李斯为舍人。蒙骜、王齮、麃公等为将军。
+王年少，初即位，委国事大臣。
+晋阳反，元年，将军蒙骜击定之。
+二年，麃公将卒攻卷，斩首三万。
+三年，蒙骜攻韩，取十三城。
+王齮死。
+十月，将军蒙骜攻魏氏畼有诡。
+岁大饥。
+四年，拔畼有诡。
+三月，军罢。
+秦质子归自赵，赵太子出归国。
+translation: 
+The First Emperor of Qin was the son of King Zhuangxiang of Qin.
+When King Zhuang Xiang was a hostage of Qin in Zhao, he saw Lu Buwei's concubine and liked her very much, so he married her and gave birth to the first emperor.
+The First Emperor was born in Handan in the first month of the forty-eighth year of King Zhao of Qin.
+When he was born, he was named Zheng and his surname was Zhao.
+At the age of thirteen, King Zhuang Xiang died, and Zheng succeeded him as King of Qin.
+At that time, the Qin State had annexed Ba, Shu, and Hanzhong, crossed Wan, occupied Ying, and established Nanjun; went north to the east of Shangjun, and occupied Hedong, Taiyuan, and Shangdang counties; east to Rongyang, eliminated the Western Zhou and Eastern Zhou Dynasties, and established Sanchuan County.
+Lu Buwei became prime minister, granted a fief of 100,000 households, and was named Marquis Wenxin.
+Recruiting guests and tourists, intending to annex the world.
+Li Si was Shiren, and Meng Ao, Wang Jue, Hegong and others were generals.
+The King of Qin was young and in the early days of his accession to the throne, state affairs were left to the ministers.
+Jinyang rebelled, and in the first year of Qin Wangzheng's reign, General Meng Ao put down the rebellion.
+In the second year, Duke He led his army to attack Juanyi and killed 30,000 people.
+In three years, Meng Ao attacked South Korea and captured thirteen cities.
+Wang Ye is dead.
+In the tenth month, General Meng Ao attacked Wei's Yi and Yougui.
+This year the food harvest failed.
+In four years, he conquered Yi and Yougui.
+In March, the troops were withdrawn.
+The hostages of Qin returned from Zhao, and the prince of Zhao left Qin and returned to Zhao.
+
+summary:
+summary line 0: The First Emperor of Qin, son of King Zhuangxiang of Qin, was born Zheng in Handan in the first month of the forty-eighth year of King Zhao of Qin. At thirteen, he succeeded as King of Qin after his father's death. The Qin state had already expanded significantly, annexing territories like Ba, Shu, Hanzhong, and establishing commanderies. Lu Buwei served as prime minister, with Li Si as a retainer and Meng Ao, Wang Jue, and others as generals. Due to the king's youth, state affairs were managed by ministers.
+
+Chunk 3: 
+original: 
+杨端和攻衍氏。
+彗星见西方，又见北方，从斗以南八十日。
+十年，相国吕不韦坐嫪毐免。
+桓齮为将军。
+齐、赵来置酒。
+齐人茅焦说秦王曰： 秦方以天下为事，而大王有迁母太后之名，恐诸侯闻之，由此倍秦也。
+秦王乃迎太后於雍而入咸阳，复居甘泉宫。
+大索，逐客，李斯上书说，乃止逐客令。
+李斯因说秦王，请先取韩以恐他国，於是使斯下韩。
+韩王患之。与韩非谋弱秦。
+大梁人尉缭来，说秦王曰： 以秦之彊，诸侯譬如郡县之君，臣但恐诸侯合从，翕而出不意，此乃智伯、夫差、湣王之所以亡也。
+原大王毋爱财物，赂其豪臣，以乱其谋，不过亡三十万金，则诸侯可尽。
+秦王从其计，见尉缭亢礼，衣服食饮与缭同。
+缭曰： 秦王为人，蜂准，长目，挚鸟膺，豺声，少恩而虎狼心，居约易出人下，得志亦轻食人。
+我布衣，然见我常身自下我。
+诚使秦王得志於天下，天下皆为虏矣。
+不可与久游。
+乃亡去。
+秦王觉，固止，以为秦国尉，卒用其计策。
+而李斯用事。
+translation: 
+Yang Duanhe attacked Yanshi.
+The comet appeared in the west and then in the north, following the Beidou as it moved southward for eighty days.
+Ten years later, the Prime Minister Lu Buwei was convicted of Lao Ai's involvement and was removed from the post of Prime Minister.
+Huan  was made general.
+The envoys from Qi and Zhao came to prepare a banquet with wine.
+Mao Jiao, a native of Qi State, advised the King of Qin: The State of Qin is taking running the world as its own responsibility, and the King has the reputation of banishing his mother and the Queen Mother. I am afraid that the princes of various countries will hear about this and rebel against the State of Qin.
+The King of Qin went to Yongdi to welcome the Queen Mother, returned to Xianyang, and asked her to live in Ganquan Palace again.
+The King of Qin carried out large-scale raids and expelled guests from the vassal states. Li Si wrote a letter to dissuade him, and the King of Qin revoked the order to expel the guests.
+He took the opportunity to advise King Qin. He first conquered Korea and made other vassal states fearful. So King Qin sent Li Si to attack South Korea.
+The King of Han was very worried and discussed with Han Fei to weaken Qin's power.
+Wei Liao, a native of Daliang, came to Qin and advised the king of Qin: With the great power of Qin, the princes are like the monarchs of a county. But I am worried that the princes will unite and attack Qin by surprise. This is why Zhibo, Fucha and King Min perished.
+I hope that the king will not be stingy with money, bribe their powerful ministers, and destroy their plans. The loss will only be 300,000 catties of gold, and all the princes will be wiped out.
+The King of Qin followed his advice and treated Wei Liao with equal etiquette every time he met with him. His clothes and food were also the same as Wei Liao's.
+Wei Liao said: King Qin has a high nose, slender eyes, a chest like a bird of prey, and a voice like a jackal. He is mean and ungrateful, and his heart is like a tiger or a wolf. He is prone to humility when he is in poverty, and he is easy to devour others when he is successful.
+I am a commoner, but when they receive me, they are often willing to be inferior to me.
+If King Qin succeeds in conquering the world, everyone in the world will become his captives.
+I can't get along with him for a long time.
+Wei Liao ran away.
+The King of Qin found out and firmly retained him, making him a captain of the Qin State, and finally adopted his strategy.
+At this time, Li Si was in charge of the government.
+
+summary:
+summary line 1: In the early years of his reign, Qin faced rebellions and military campaigns. Meng Ao suppressed a revolt in Jinyang and later attacked Wei, capturing twenty cities. The king faced challenges including a locust plague, famine, and a coalition attack from five states. In the eighth year, Lao Ai was granted the title of Marquis Changxin and given extensive authority. The following year, his conspiracy to rebel was discovered, leading to a battle in Xianyang. Lao Ai was captured, and his followers were executed or exiled. Lu Buwei was removed as prime minister due to his involvement.
+
+Chunk 5: 
+original: 
+韩王请为臣。
+十五年，大兴兵，一军至鄴，一军至太原，取狼孟。
+地动。
+十六年九月，发卒受地韩南阳假守腾。
+初令男子书年。
+魏献地於秦。
+秦置丽邑。
+十七年，内史腾攻韩，得韩王安，尽纳其地，以其地为郡，命曰颍川。
+地动。
+华阳太后卒。
+民大饥。
+十八年，大兴兵攻赵，王翦将上地，下井陉，端和将河内，羌瘣伐赵，端和围邯郸城。
+十九年，王翦、羌瘣尽定取赵地东阳，得赵王。
+引兵欲攻燕，屯中山。
+秦王之邯郸，诸尝与王生赵时母家有仇怨，皆阬之。
+秦王还，从太原、上郡归。
+始皇帝母太后崩。
+赵公子嘉率其宗数百人之代，自立为代王，东与燕合兵，军上谷。
+大饥。
+translation: 
+The King of Han requested to be a vassal of Qin.
+In the fifteenth year, the State of Qin sent out a large number of troops. One army arrived in Yeyi and another army arrived in Taiyuan and captured Langmeng.
+An earthquake occurs.
+In September of the 16th year, troops were sent to take over the Nanyang area of ​​South Korea, and Teng temporarily acted as the county governor.
+Men were ordered to register their age.
+Wei State donated land to Qin State.
+Qin established Liyi.
+In the seventeenth year, Neishiteng attacked South Korea, captured Han Wangan, annexed all South Korean territory, and set up a county in its territory, named Yingchuan.
+An earthquake occurs.
+Queen Mother Huayang died.
+The people suffered from severe famine.
+In the eighteenth year, a large number of troops were sent to attack the State of Zhao. Wang Jian led the soldiers from Shangdi to capture Jingxing. Yang Duanhe led the Hanoi soldiers, Qiang Yu also led his army to attack Zhao, and Yang Duanhe besieged Handan City.
+In the 19th year, Wang Jian and Qiang You all captured and pacified the Dongyang area of ​​​​Zhao and captured the king of Zhao.
+He led his troops to prepare to attack Yan State and stationed his troops in Zhongshan.
+When the King of Qin came to Handan, he killed all those who had a grudge against his mother's family when he was born in the State of Zhao.
+The King of Qin returned to Qin from Taiyuan and Shangjun.
+The Empress Dowager, the mother of the First Emperor, passed away.
+Prince Jia of the State of Zhao led several hundred people from his clan to Dai, proclaimed himself King of Dai, and united with the army of the State of Yan eastward, stationed in Shanggu.
+A severe famine occurred during this year.
+
+summary:
+summary line 2: The king implemented policies to strengthen Qin, including expelling guest officials, though Li Si's counsel led to the revocation of this order. Wei Liao advised bribing enemy officials, a strategy the king adopted. Military campaigns continued, with Wang Jian and others attacking Zhao and capturing cities. In the seventeenth year, Qin conquered Han, establishing Yingchuan Commandery. The conquest of Zhao followed, with the king personally executing those who had wronged his mother's family in Handan.
+
+Chunk 6: 
+original: 
+二十年，燕太子丹患秦兵至国，恐，使荆轲刺秦王。
+秦王觉之，体解轲以徇，而使王翦、辛胜攻燕。
+燕、代发兵击秦军，秦军破燕易水之西。
+二十一年，王贲攻荆。
+乃益发卒诣王翦军，遂破燕太子军，取燕蓟城，得太子丹之首。
+燕王东收辽东而王之。
+王翦谢病老归。新郑反。
+昌平君徙於郢。
+大雨雪，深二尺五寸。
+二十二年，王贲攻魏，引河沟灌大梁，大梁城坏，其王请降，尽取其地。
+二十三年，秦王复召王翦，彊起之，使将击荆。
+取陈以南至平舆，虏荆王。
+秦王游至郢陈。
+荆将项燕立昌平君为荆王，反秦於淮南。
+二十四年，王翦、蒙武攻荆，破荆军，昌平君死，项燕遂自杀。
+二十五年，大兴兵，使王贲将，攻燕辽东，得燕王喜。
+还攻代，虏代王嘉。
+王翦遂定荆江南地；降越君，置会稽郡。
+五月，天下大酺。
+translation: 
+Twenty years ago, Crown Prince Dan of Yan State was worried about Qin's army coming to Yan State. He was panic-stricken and sent Jing Ke to assassinate the King of Qin.
+The King of Qin noticed this, dismembered Jing Ke's body and paraded it to the public, and sent Wang Jian and Xin Sheng to attack Yan.
+Yan and Dai sent troops to attack the Qin army, and the Qin army defeated the Yan army west of Yishui.
+In the twenty-first year, Wang Ben attacked Jingdi.
+He dispatched more soldiers to Wang Jian's army, defeated Prince Yan's army, captured Jicheng of Yan State, and obtained Prince Dan's head.
+King Yan went east to gather troops from Liaodong and proclaimed himself king there.
+Wang Jian excused himself from illness and retired to his hometown. Xinzheng rebelled.
+Lord Changping moved to Yingdi.
+It snowed heavily, the snow was two feet five inches deep.
+In the 22nd year, Wang Ben attacked Wei and dug ditches to divert water from the river to flood Daliang. The city wall of Daliang was destroyed. King Wei asked for surrender, and Qin occupied all Wei territory.
+In the twenty-third year, the King of Qin recruited Wang Jian again, insisted on using him, and sent him to lead the army to attack Jing State.
+They captured the area from the south of Chendi to Pingyu and captured King Jing.
+The king of Qin arrived at Yingchen on his parade.
+Jing general Xiang Yan established Lord Changping as King of Jing and raised troops south of the Huai River to rebel against Qin.
+In the twenty-fourth year, Wang Jian and Meng Wu attacked Jingdi and defeated the Jing army. Lord Changping died in the battle, and Xiang Yan committed suicide.
+In the twenty-fifth year, he sent out a large number of troops, sent Wang Ben as general, led the army to attack the Liaodong area of ​​Yan State, and captured King Xi of Yan.
+He returned to attack the state of Dai and captured Dai Wangjia.
+Wang Jian pacified the Jiangnan area of ​​Jing State, surrendered Yuejun, and established Kuaiji County.
+In May, the whole world gathers for a feast.
+
+summary:
+summary line 3: The assassination attempt by Jing Ke of Yan failed, leading to Qin's attack on Yan. Wang Jian and others captured Yan's capital and obtained Prince Dan's head. Wei was conquered by diverting rivers to flood Daliang. Jing (Chu) was attacked, with Wang Jian capturing King Jing. Xiang Yan's rebellion was suppressed, and by the twenty-fifth year, Yan, Dai, and Qi were all conquered, unifying China.
+
+Chunk 9: 
+original: 
+始皇推终始五德之传，以为周得火德，秦代周，德从所不胜。
+方今水德之始，改年始，朝贺皆自十月朔。衣服旄旌节旗皆上黑。
+数以六为纪，符、法冠皆六寸，而舆六尺，六尺为步，乘六马。
+更名河曰德水，以为水德之始。
+刚毅戾深，事皆决於法，刻削毋仁恩和义，然後合五德之数。
+於是急法，久者不赦。
+丞相绾等言： 诸侯初破，燕、齐、荆地远，不为置王，毋以填之。
+请立诸子，唯上幸许。
+始皇下其议於群臣，群臣皆以为便。
+廷尉李斯议曰： 周文武所封子弟同姓甚众，然後属疏远，相攻击如仇雠，诸侯更相诛伐，周天子弗能禁止。
+今海内赖陛下神灵一统，皆为郡县，诸子功臣以公赋税重赏赐之，甚足易制。
+天下无异意，则安宁之术也。
+置诸侯不便。
+始皇曰： 天下共苦战斗不休，以有侯王。赖宗庙，天下初定，又复立国，是树兵也，而求其宁息，岂不难哉！
+廷尉议是。
+translation: 
+The First Emperor deduced based on the order of succession of the five virtues, and believed that the Zhou Dynasty obtained the fire virtue, and the Qin Dynasty replaced the fire virtue of the Zhou Dynasty. Following the law of the victory of the five elements, the water virtue should now be the beginning.
+At the beginning of October, the first month of the new year, a group of ministers came to the court to celebrate. Clothes, banners, and festival flags are all black.
+Six is ​​used as the standard for number, the talisman and the dharma crown are all six inches, the chariot is six feet wide, the steps are six feet, and the chariot is driven by six horses.
+The river was renamed Deshui as the beginning of water virtue.
+Being tough and decisive in politics, being violent and harsh, deciding everything in accordance with the law, being harsh and severe, without kindness, kindness, warmth and morality, this is in line with the principles of the evolution of the Five Virtues.
+So the law was strict and criminals who had been imprisoned for a long time were not pardoned.
+Prime Minister Wang Wan and others suggested: The princes of various countries have just been wiped out, and the lands of Yan, Qi, and Jing are far away. If there is no king there, there will be no one to pacify Yan, Qi, and Jing.
+Please make the emperor's sons kings, hoping to get the emperor's approval.
+The First Emperor submitted Wang Wan and others' suggestions to the ministers for discussion, and they all thought it was appropriate.
+Tingwei Li Si suggested: King Wen of Zhou and King Wu of Zhou had many children with the same surname. However, later on, the clansmen became estranged and attacked each other like enemies. The princes fought against each other and the emperor of Zhou could not stop them.
+Now, relying on His Majesty's spirit, the world has been unified and divided into counties and counties. The emperor's children and meritorious officials are heavily rewarded with state taxes, making it easy to govern.
+There is no two minds in the world. This is the way to stabilize the country.
+It is not appropriate to create feudal lords.
+The First Emperor said: The world is suffering from endless wars because of the princes and kings. Relying on the spirit of the ancestral temple, we have just pacified the world and then established the princely states. This is creating enemies for ourselves, and seeking peace is not very difficult!
+Tingwei's suggestion is correct.
+
+summary:
+summary line 4: The king declared himself the First Emperor, abolishing posthumous titles and establishing a system of succession for ten thousand generations. He adopted water virtue, with black as the color, six as the standard, and harsh laws. The empire was divided into thirty-six commanderies, with unified laws, weights, measures, and writing. Wealthy families were moved to Xianyang, and palaces were built imitating those of conquered states.
+
+Chunk 23: 
+original: 
+始皇闻亡，乃大怒曰： 吾前收天下书不中用者尽去之。
+悉召文学方术士甚众，欲以兴太平，方士欲练以求奇药。
+今闻韩众去不报，徐巿等费以巨万计，终不得药，徒奸利相告日闻。
+卢生等吾尊赐之甚厚，今乃诽谤我，以重吾不德也。
+诸生在咸阳者，吾使人廉问，或为訞言以乱黔首。
+於是使御史悉案问诸生，诸生传相告引，乃自除犯禁者四百六十馀人，皆阬之咸阳，使天下知之，以惩後。
+益发谪徙边。
+始皇长子扶苏谏曰： 天下初定，远方黔首未集，诸生皆诵法孔子，今上皆重法绳之，臣恐天下不安。
+唯上察之。
+始皇怒，使扶苏北监蒙恬於上郡。三十六年，荧惑守心。
+有坠星下东郡，至地为石，黔首或刻其石曰 始皇帝死而地分 。
+始皇闻之，遣御史逐问，莫服，尽取石旁居人诛之，因燔销其石。
+始皇不乐，使博士为仙真人诗，及行所游天下，传令乐人歌弦之。
+translation: 
+When the First Emperor heard about the escape of Hou Sheng and Lu Sheng, he was very angry and said: I used to collect books from all over the world and burned them all if they were not suitable for the time.
+Many literary and alchemists were recruited to bring peace to the country. These alchemists planned to refine elixirs and obtain strange medicines.
+Now I heard that Han Zhong never came back after leaving. Xu Shi and others spent tens of thousands of dollars, but in the end they still didn't get the elixir, but there were some rumors about profiteering every day.
+I have great respect for Lu Sheng and others, and have received generous rewards. Now they are slandering me to aggravate my unkindness.
+I sent people to investigate some Confucian scholars in Xianyang, and some of them created weird and heresies to confuse the people.
+So he sent a censor to interrogate the Confucian scholars, and the Confucian scholars would be able to absolve themselves of their sins by reporting them. More than 460 people who violated the law were all buried alive in Xianyang, making the whole country aware of this incident and serving as a warning to future generations.
+More disciples were dispatched to guard the borders.
+Fusu, the eldest son of the First Emperor, advised: The world has not long been peaceful, and the people in distant places have not yet been settled. The Confucian scholars have studied and imitated Confucius. Now you use severe punishments and ropes to punish them. I am worried that the world will be in turmoil.
+I hope you are aware of this matter.
+The First Emperor was very angry and sent Fusu to Shangjun in the north to monitor Meng Tian. For thirty-six years, Mars occupies the heart.
+A meteorite fell in Dongjun and turned into stone when it reached the ground. Some people among the people wrote on the stone: "The First Emperor died and the earth was divided."
+The First Emperor heard this and sent his censors to interrogate them one by one. No one confessed, so he arrested and executed all the people living near the stone, and burned the stone with fire.
+The First Emperor was unhappy and asked the doctor to compose "Poetry of Immortal Immortals" and ordered musicians to play and sing wherever he went on tour.
+
+summary:
+summary line 5: The First Emperor toured extensively, erecting stone tablets praising his achievements. He sought immortality, sending Xu Shi with boys and girls to find the elixir. He burned books and buried Confucian scholars alive, enforcing strict laws. The construction of the Epang Palace and the Lishan tomb involved hundreds of thousands of workers. The emperor's death was concealed, and a forged edict made Hu Hai the Second Emperor, forcing Fusu to commit suicide.
+
+Chunk 36: 
+original: 
+夏，章邯等战数卻，二世使人让邯，邯恐，使长史欣请事。
+赵高弗见，又弗信。
+欣恐，亡去，高使人捕追不及。
+欣见邯曰： 赵高用事於中，将军有功亦诛，无功亦诛。
+项羽急击秦军，虏王离，邯等遂以兵降诸侯。
+八月己亥，赵高欲为乱，恐群臣不听，乃先设验，持鹿献於二世，曰： 马也。
+二世笑曰： 丞相误邪？
+谓鹿为马。
+问左右，左右或默，或言马以阿顺赵高。
+或言鹿，高因阴中诸言鹿者以法。
+後群臣皆畏高。
+高前数言 关东盗毋能为也 ，及项羽虏秦将王离等钜鹿下而前，章邯等军数卻，上书请益助，燕、赵、齐、楚、韩、魏皆立为王，自关以东，大氐尽畔秦吏应诸侯，诸侯咸率其众西乡。
+沛公将数万人已屠武关，使人私於高，高恐二世怒，诛及其身，乃谢病不朝见。
+translation: 
+In the summer, Zhang Han and others repeatedly retreated from the war. The Second Emperor sent people to rebuke Zhang Han. Zhang Han was frightened and sent Commander Shi Simaxin to ask for instructions.
+Zhao Gao refused to meet him and did not trust him.
+Sima Xin was scared and ran away. Zhao Gao sent people to hunt him down but failed to catch up.
+Sima Xin saw Zhang Han and said: Zhao Gao controls the power in the court. Generals who have meritorious service will be killed, and generals who have no merit will also be killed.
+Xiang Yu quickly attacked the Qin army and captured Wang Li. Zhang Han and others led their troops to surrender to the various princes.
+In August Jihai, Zhao Gao wanted to cause chaos, but was afraid that the officials would not obey, so he made an experiment in advance and presented a deer to the emperor, saying: "This is a horse."
+The Second Emperor smiled and said: "Is the Prime Minister wrong?"
+Say the deer is a horse.
+Zhao Gao asked the ministers on the left and right. Some of the ministers on the left and right were silent, and some said they were horses, coming to flatter Zhao Gao.
+Some said it was a deer, and Zhao Gao used the law to secretly frame those who said it was a deer.
+Later, the ministers were all afraid of Zhao Gao.
+Zhao Gao had said many times before that the thieves in Guandong would do nothing. When Xiang Yu captured the Qin general Wang Li and others in Julu and continued to advance, Zhang Han and others' troops retreated many times and sent letters requesting more troops. Yan, Zhao, Qi, Chu, Han, and Wei all declared themselves kings. From the east of Hangu Pass, almost all of them betrayed the Qin officials and responded to the various princes. The princes led their armies to advance westward.
+Peigong led tens of thousands of people to massacre Wuguan and sent people to have an affair with Zhao Gao. Zhao Gao was afraid that the second generation would be angry and be killed, so he refused to go to court on the pretext that he was ill.
+
+summary:
+summary line 6: The Second Emperor's reign was marked by cruelty and rebellion. Chen She's uprising spread, and Zhang Han suppressed it with convicts. Zhao Gao gained power, killing officials and princes. The Second Emperor was eventually forced to commit suicide by Zhao Gao's agents. Ziying, made king, killed Zhao Gao but soon surrendered to Liu Bang. Xiang Yu killed Ziying and the Qin clan, burning Xianyang. The Qin dynasty ended after 610 years from Duke Xiang to the Second Emperor.
+

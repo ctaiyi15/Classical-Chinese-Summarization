@@ -1,4 +1,4 @@
-Summary uses chunk [0, 9, 12, 11]
+Summary uses chunk [0, 12, 16, 17]
 
 Chunk 0: 
 original: 
@@ -14,15 +14,6 @@ original:
 立二十六年薨，是为孝王。
 无子，太后立桓帝弟蠡吾侯悝为勃海王，奉鸿祀。
 延熹八年，悝谋为不道，有司请废之。帝不忍，乃贬为陶王，食一县。
-悝后因中常侍王甫求复国，许谢钱五千万。
-帝临崩，遗诏复为勃海王。
-悝知非甫功，不肯还谢钱。
-甫怒，阴求其过。
-初，迎立灵帝，道路流言悝恨不得立，欲抄征书，而中常侍郑飒、中黄门董腾并任侠通剽轻，数与悝交通。
-王甫司察，以为有奸，密告司隶校尉段颎。
-熹平元年，遂收飒送北寺狱。
-使尚书令廉忠诬奏飒等谋迎立悝，大逆不道。
-遂招冀州刺史收悝考实，又遣大鸿胪持节与宗正、廷尉之勃海，迫责悝。悝自杀。
 translation: 
 ◆Biography of the Eight Kings of Emperor Zhang, Emperor Xiaozhang’s eight sons: Song Gui was born as Xiao Wang Liu Qing of Qinghe, Liang Gui was born as Emperor Liu Zhao, Shen Gui was born as King Hui of Jibei Liu Shou, and King Xiao of Hejian Liu Kai. The other four kings do not remember their mother's name.
 Liu and his wife, the king of Qianchengzhen, were granted the title in the fourth year of Jianchu.
@@ -36,24 +27,12 @@ Liu Hong gave birth to Emperor Liu Zan. After Emperor Zhi was established, the E
 He died in the twenty-sixth year of his reign and was named King Xiao.
 Prince Xiao had no children, so the Empress Dowager made Emperor Huan Liu Zhi's younger brother Liwuhou Liu Kui the King of Bohai to serve Liu Hong's sacrifices.
 In the eighth year of Yanxi's reign, Liu Kui conspired and the relevant officials requested that Liu Kui be deposed. Emperor Zhi could not bear to depose him, so he demoted him to the title of King Ying Tao and had to pay the tax of a county.
-Later, Liu Kui wanted to rely on Wang Fu, the official official of Zhongchang, to restore his feudal state, and promised to give him 50 million yuan as a gift to thank him.
-Emperor Zhi was about to die and issued an edict to restore Liu Kui to the throne of Bohai.
-Liu Kui knew that it was not Wang Fu's credit, so he refused to thank Wang Fu for the money.
-Wang Fu became angry and secretly collected Liu Kui's crimes.
-At first, when the Ling Emperor Liu Hong was proclaimed, there were rumors on the road that Liu Kui did not establish himself as emperor, but held a grudge and wanted to seize the conscription documents by force. Both Zhong Chang Shi Zheng Sa and Zhong Huangmen Dong Teng had the courage to associate righteousness with the strong and light men, and colluded with Liu Kui many times.
-Wang Fu conducted reconnaissance and thought there must be a conspiracy, so he secretly reported it to Duan Zhen, the captain of Sili School.
-In the first year of Xiping, Zheng Sa was arrested and sent to Beisi Prison.
-The minister ordered Lian Zhong to submit a report to slander Zheng Sa and other plots to welcome Liu Kui, which was a treasonous act.
-So he ordered the governor of Jizhou to arrest Liu Kui and question him about the implementation. He also sent Dahong Zhijie, Zongzheng and Tingwei to Bohai to force Liu Kui to denounce him, and Liu Kui committed suicide.
 
 summary:
-summary line 0: The text details the lives and fates of Emperor Zhang's eight sons, focusing on the lineages of several kings. Liu Qing, King Xiao of Qinghe, was born to Noble Consort Song. His mother and aunt were favored by Emperor Zhang but were framed by Empress Dou after the death of Empress Dowager Ma, leading to their forced suicide. Liu Qing was deposed as crown prince in favor of his half-brother Liu Zhao (Emperor He). Despite this, Liu Qing maintained a close and respectful relationship with Emperor He, who treated him with great favor and trust. Liu Qing was known for his filial piety, caution, and grief over his mother's unjust death, often making private sacrifices. He died at age 29 and was buried in Guangqiu. His son Liu Hu succeeded him but died without heirs, leading to the appointment of Liu Yanping, son of Liu Chong, as King of Qinghe. Later, Liu Qing was posthumously honored as Emperor Xiaode, and his mother as Empress Jingyin.
+summary line 0: The lives and fates of Emperor Zhang's eight sons, focusing on the lineages of several kings. Liu Qing, King Xiao of Qinghe, was born to Noble Consort Song. His mother and aunt were favored by Emperor Zhang but were framed by Empress Dou after the death of Empress Dowager Ma, leading to their forced suicide. Liu Qing was deposed as crown prince in favor of his half-brother Liu Zhao (Emperor He). Despite this, Liu Qing maintained a close and respectful relationship with Emperor He, who treated him with great favor and trust. Liu Qing was known for his filial piety, caution, and grief over his mother's unjust death, often making private sacrifices. He died at age 29 and was buried in Guangqiu. His son Liu Hu succeeded him but died without heirs, leading to the appointment of Liu Yanping, son of Liu Chong, as King of Qinghe. Later, Liu Qing was posthumously honored as Emperor Xiaode, and his mother as Empress Jingyin.
 
-Chunk 9: 
+Chunk 12: 
 original: 
-和帝遵肃宗故事，兄弟皆留京师，恩宠笃密。
-有司请遣诸王归籓，不忍许之，及帝崩，乃就国。
-永初元年，邓太后封寿舅申转为新亭侯。
 寿立三十一年薨，自永初己后，戎狄叛乱，国用不足，始封王薨，减赙钱为千万，布万区；嗣王薨五百万，布五千匹。
 时，唯寿最尊亲，特赙钱三千万，布三万匹。
 子节王登嗣。
@@ -67,9 +46,6 @@ original:
 建和元年，梁太后下诏曰： 济北王次以幼年守籓，躬履孝道，父没哀恸，焦毁过礼，草庐土席，衰杖在身，头不批沐，体生疮肿。
 谅暗已来二十八月，自诸国有忧，未之闻也，朝廷甚嘉焉。
 translation: 
-Emperor He abided by Suzong's old custom, and his brothers all stayed in the capital, and their love was extremely close.
-The officials asked the kings to return to the feudal kingdom, but the emperor could not bear them leaving. He waited until the emperor died before returning to the feudal kingdom.
-In the first year of Yongchu, Empress Dowager Deng granted Liu Shou's uncle Shen Zhuan the title of Marquis of Xinting.
 Liu Shouli passed away in the 31st year of his reign. Since Yongchu, Rong and Di rebelled, and the country's finances were insufficient. When the newly crowned king passed away, the funeral expenses were reduced to tens of millions and ten thousand pieces of cloth. When the king who succeeded the throne died, the money was five million and five thousand pieces of cloth.
 At this time, only Liu Shou respected his relatives the most, and specially sent him 30 million yuan for funeral expenses and 30,000 pieces of cloth.
 Zijie King Liu ascended to the throne.
@@ -86,13 +62,8 @@ Since the beginning of mourning, in the 28th month of the twelfth month, since e
 summary:
 summary line 1: Liu Shou, King Hui of Jibei, was born to Noble Consort Shen. He was granted his kingdom in the second year of Yongyuan. Emperor He, following his father's customs, kept his brothers in the capital, and they were very close. Liu Shou died after 31 years as king. His descendants included Liu Deng, Liu Duo (who died without sons), and Liu Anguo, who was appointed king. Liu Ci, son of Liu Anguo, was noted for his extreme filial piety during his father's mourning, for which Empress Dowager Liang granted him an additional 5,000 households. The Jibei line ended when Liu Zheng died without sons in the eleventh year of Jian'an.
 
-Chunk 12: 
+Chunk 16: 
 original: 
-永建五年，父开上书，愿分蠡吾县以封翼，顺帝从之。
-翼卒，子志嗣，为大将军梁冀所立，是为桓帝。
-梁太后诏追尊河间孝王为孝穆皇，夫人赵氏曰孝穆后，庙曰清庙，陵曰乐成陵；蠡吾先侯曰孝崇皇，庙曰列庙，陵曰博陵。
-皆置令、丞，使司徒持节奉策书、玺绶，祠以太牢。
-建和二年，更封帝弟都乡侯硕为平原王，留博陵，奉翼后。
 尊翼夫人马氏为孝崇博园贵人，以涿郡之良乡、故安，河间之蠡吾三县为汤沐邑。
 硕嗜酒，多过失，帝令马贵人领王家事。
 建安十一年，国除。
@@ -106,11 +77,6 @@ original:
 子开嗣，立十三年，魏受禅，以为崇德侯。
 城阳怀王淑，以永元二年分济阴为国。
 translation: 
-In the fifth year of Yongjian's reign, his father Liu Kai wrote a letter requesting that Liwu County be divided and given the title of Liu Yi, and Emperor Shun agreed.
-Liu Yi died and his son Liu Zhi succeeded him. He was established as Emperor Huan by General Liang Ji.
-The Empress Dowager Liang honored King Xiao of Hejian as Emperor Xiaomu, and his wife Zhao as Empress Xiaomu. The temple was called Qingmiao and the mausoleum was Lecheng Ling.
-They all set up orders and ministers to make the Situ hold the policy books and seals and ribbons in a strict manner, and the sacrifices were too tight.
-In the second year of Jianhe's reign, Liu Shuo, the emperor's younger brother, the Marquis of Duxiang, was granted the title of King of Pingyuan. He stayed in Boling and served Liu Yi's descendants.
 He respected Liu Yi's wife, Ma, as a noble of Xiao Chongbo Garden, and designated the three counties of Liangxiang and Gu'an in Zhuojun and Liwu in Hejian as Tangmuyi, and the income from the town was used for bathing.
 Liu Shuo, the Marquis of Duxiang, was fond of drinking and made many mistakes. The emperor sent Ma Guiren to manage the king's household affairs.
 In the eleventh year of Jian'an, the feudal state was abolished.
@@ -127,41 +93,33 @@ Liu Shu, the Huaiwang of Chengyang, was divided into Jiyin and the country in th
 summary:
 summary line 2: Liu Kai, King Xiao of Hejian, was granted his kingdom in the second year of Yongyuan. He was known for abiding by the law and was respected by his subordinates. He died after 42 years as king. His son Liu Zheng was arrogant and cruel but was reformed by the strict Prime Minister Shen Jing. Liu Zheng's descendants included Liu Jian, Liu Li, and Liu Ye, who was made Marquis of Chongde when Wei accepted the Han abdication. Liu Yi, a son of Liu Kai, was initially favored by Empress Dowager Deng but was later framed and demoted. He eventually became the father of Emperor Huan, who honored Liu Kai as Emperor Xiaomu. Liu Shu, another son of Liu Kai, was posthumously honored as Emperor Xiaoyuan by his son, Emperor Ling.
 
-Chunk 11: 
+Chunk 17: 
 original: 
-今相谒王，岂谒无礼者邪！
-王惭而更服，景然后拜。
-出住宫门外，请王傅责之曰： 前发京师，陛下见受诏，以王不恭，使相检督。
-诸君空受爵禄，而无训导之义。
-因奏治罪，诏书让政而诘责傅。
-景因捕诸奸人上案其罪，杀戮尤恶者数十人，出冤狱百余人。
-政遂为改节，悔过自修。
-阳嘉元年，封政弟十三人皆为亭侯。
-政立十年薨，子贞王建嗣。
-建立十年薨，子安王利嗣。
-利立二十八年薨，子陔嗣。陔立四十一年，魏受禅，以为崇德侯。
-蠡吾侯翼，元初六年邓太后征济北、河间王诸子诣京师，奇翼美仪容，故以为平原怀王后焉。留在京师。
-岁余，太后崩。
-安帝乳母王圣与中常侍江京等谮邓骘兄弟及翼，云与中大夫赵王谋图不轨，窥觎神器，怀大逆心。
-贬为都乡侯，遣归河间。
-翼于是谢宾客，闭门自处。
+立五年薨，葬于京师，无子，国除，还并济阴。
+广宗殇王万岁，以永元五年封，分巨鹿为国。
+其年薨，葬于京师。
+无子，国除，并还巨鹿。
+平原怀王胜，和帝长子也。
+不载母氏。
+少有痼疾，延平元年封。
+立八年薨，葬于京师。
+无子，邓太后立乐安夷王宠子得为平原王，奉胜后，是为哀王。
+得立六年薨，无子，永宁元年，太后又立河间王开子都乡侯翼为平原王嗣。安帝废之。国除。
+论曰：传称吴子夷昧，甚德而度，有吴国者，必其子孙。
+章帝长者，事从敦厚，继祀汉室，咸其苗裔，古人之言信哉！
 translation: 
-Now that the prime minister has come to pay homage to the king, is it allowed to pay homage to someone who is rude?
-The king was ashamed, changed his clothes, and then bowed to Shen Jing.
-Shen Jing went out of the palace and invited Liu Zheng's master to question him and said: "Go to the capital. The emperor ordered me to supervise because the king is disrespectful."
-You have taken the state's salary in vain and failed to fulfill your responsibility to teach the king.
-He was punished because of the memorial. The imperial court issued an edict to blame Liu Zheng and questioned and condemned his master.
-As a result, Shen Jing arrested many traitors and petitioned them to be punished for their crimes. Killed dozens of people who had committed heinous crimes, and released more than a hundred people who had been wrongly imprisoned.
-Liu Zhengnai corrected his behavior and repented.
-In the first year of Yangjia, all thirteen of Liu Zheng's younger brothers were granted the title of Tinghou.
-Liu Zhengli died ten years ago, and Zizhen King Liu Jian succeeded to the throne.
-Liu Jianli died in ten years, and Liu Li, King of Zi'an, succeeded to the throne.
-Liu Li died in the 28th year of his reign, and his son Liu Ye succeeded to the throne. In the 41st year of Liu Li's reign, Wei accepted the abdication of the Han Dynasty and made him the Marquis of Chongde.
-In the sixth year of the Yuan Dynasty, in the sixth year of the Yuan Dynasty, Empress Dowager Deng summoned the princes of Jibei and Hejian to Liu Yi, the Marquis of Liwu. She admired Liu Yi's beauty and considered him a descendant of Liu De, Huai King of Pingyuan, and stayed in the capital.
-More than a year later, the Queen Mother passed away.
-Wang Sheng, the wet nurse of Emperor An, and Jiang Jing, the minister of Zhongchang, framed the brothers Deng Zhi and Liu Yi, saying that they had conspired with King Zhao, the chief minister of Zhongzhong, to seize the throne and were treasonous.
-He was demoted to the title of Marquis of Duxiang and sent back to Hejian.
-Liu Yi then declined the guests, refused to interact with them, and kept to himself.
+Having no children, the feudal state was removed and still merged into Jiyin.
+Liu Wansui, the mourning king of Guangzong, was granted the title in the fifth year of Yongyuan, and he was divided into Julu as the country.
+He died this year and was buried in the capital.
+Having no children, the feudal state was removed. Still merged into Julu.
+Liu Sheng, King Huai of Pingyuan, was the eldest son of Emperor He.
+The mother's name is not recorded.
+He had a difficult-to-treat disease when he was young, so he was granted the title in the first year of Yanping.
+He died in the eighth year of his life and was buried in the capital.
+Having no children, Empress Dowager Deng made Liu De, the son of Liu Chong, King of Le'anyi, the King of Pingyuan. As a descendant of Liu Sheng, he was the King of Ai.
+Liu Deli died in the sixth year without any children. In the first year of Yongning, the Queen Mother appointed Liu Kaizi, the king of Hejian, and Liu Yi, the duxianghou, as the successor of the Pingyuan king. Emperor An deposed him and removed the feudal state.
+The historian commented: "Zuo Zhuan" said that Wu Ziyi was ignorant, very virtuous and magnanimous. Whoever is the king of Wu must be his descendant.
+Emperor Zhang was a well-educated elder, honest and honest in his dealings, and all the people who inherited the Han Dynasty were his descendants. The words of the ancients are really trustworthy!
 
 summary:
 summary line 3: The text also briefly mentions other sons of Emperor Zhang: Liu Quan, King of Qiancheng, who died without heirs; Liu Shu, King Huai of Chengyang, who died without children; Liu Wansui, King Ai of Guangzong, who died the same year he was enfeoffed; and Liu Sheng, King Huai of Pingyuan, who died young without heirs. The historian's commentary notes that the descendants of Emperor Zhang, known for their virtue and honesty, became the rulers of the Han dynasty, fulfilling an ancient saying.

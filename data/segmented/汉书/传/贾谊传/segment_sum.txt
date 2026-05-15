@@ -1,0 +1,278 @@
+Summary uses chunk [0, 0, 2, 6, 6, 33, 33, 34]
+
+Chunk 0: 
+original: 
+贾谊，雒阳人也，年十八，以能诵诗书属文称于郡中。
+河南守吴公闻其秀材，召置门下，甚幸爱。
+文帝初立，闻河南守吴公治平为天下第一，故与李斯同邑，而尝学事焉，征以为廷尉。
+廷尉乃言谊年少，颇通诸家之书。
+文帝召以为博士。
+是时，谊年二十余，最为少。
+每诏令议下，诸老先生未能言，谊尽为之对，人人各如其意所出。诸生于是以为能。
+文帝说之，超迁，岁中至太中大夫。
+谊以为汉兴二十余年，天下和洽，宜当改正朔，易服色制度，定官名，兴礼乐。
+乃草具其仪法，色上黄，数用五，为官名悉更，奏之。
+文帝廉让未皇也。
+然诸法令所更定，及列侯就国，其说皆谊发之。
+于是天子议以谊任公卿之位。
+绛、灌、东阳侯、冯敬之属尽害之，乃毁谊曰： 雒阳之人年少初学，专欲擅权，纷乱诸事。
+于是天子后亦疏之，不用其议，以谊为长沙王太傅。
+谊既以適去，意不自得，及渡湘水，为赋以吊屈原。
+屈原，楚贤臣也，被谗放逐，作《离骚赋》，其终篇曰： 已矣！
+translation: 
+Jia Yi, a native of Luoyang, was famous locally for his ability to recite poems and write articles when he was eighteen years old.
+When Wu Gong, the governor of Henan Province, heard that he had excellent talents and studies, he summoned him to his sect and thought highly of him.
+Not long after Emperor Wen of Han came to the throne, he heard that Wu Gong, the governor of Henan Province, had the best political performance in the country. He was from the same hometown as Li Si and had learned from Li Si, so he recruited him as a court captain.
+Tingwei recommended that although Jia Yi was young, he was well versed in the books of various schools of thought.
+Emperor Wen of Han called Jia Yi to become a doctor.
+At this time, Jia Yi was in his twenties and the youngest among the Ph.D.
+Every time Emperor Wen of the Han Dynasty ordered the questions to be discussed, the older doctors could not say anything, but Jia Yi could answer them one by one, and everyone felt that they had said what they meant. The doctors then thought that Jia Yi had outstanding talents.
+Emperor Wen of the Han Dynasty liked him and promoted him unusually, and within a year he was promoted to Taizhong doctor.
+Jia Yi believes that the Han Dynasty has been established for more than 20 years and the country is peaceful and harmonious. The calendar should be revised, the colors of carriages and horses should be changed, the legal system should be formulated, the names of official positions should be determined, and rituals and music should be revitalized.
+So he drafted regulations for various ceremonies, using yellow as the color of nobility, using a five-character seal for the official seal, confirming the title of the official position, changing all the old systems, and Jia Yi reported to the emperor.
+Emperor Wen of the Han Dynasty was cautious and had no time to implement it.
+However, the changes in various laws and regulations and the fact that various princes moved to their own feudal states were all proposed by Jia Yi.
+So Emperor Wen of the Han Dynasty discussed with his ministers and let Jia Yi take the position of public minister.
+Jianghou, Guanhou, Dongyanghou, Feng Jing and others were jealous of him and slandered him: "This young man in Luoyang is young and has little knowledge. He wants to monopolize power and causes chaos in many things."
+Because of this, Emperor Wen of the Han Dynasty later alienated him, did not adopt his opinions, and made him the Prince of Changsha.
+Jia Yi left because he was demoted, and his will was not exerted. When crossing the Xiang River, he wrote a poem in memory of Qu Yuan.
+Qu Yuan was a wise minister of the Chu State. He was slandered and exiled. He wrote "Li Sao Fu" and wrote at the end: Forget it!
+
+summary:
+summary line 0: Jia Yi, a native of Luoyang, was renowned for his literary talents at eighteen. Governor Wu Gong of Henan summoned him after hearing of his abilities. When Emperor Wen of Han ascended the throne, he appointed Wu Gong as a court captain due to his excellent governance and connection to Li Si. Wu Gong recommended Jia Yi, who was then made a doctor at around twenty years old, the youngest among them. Jia Yi excelled in court discussions, impressing the emperor, who promoted him to Taizhong doctor within a year. Jia Yi proposed reforming the calendar, legal system, and rituals, drafting regulations with yellow as the noble color and a five-character seal. Emperor Wen hesitated to implement these changes, but many legal reforms and the relocation of princes were Jia Yi's ideas.
+
+Chunk 0: 
+original: 
+贾谊，雒阳人也，年十八，以能诵诗书属文称于郡中。
+河南守吴公闻其秀材，召置门下，甚幸爱。
+文帝初立，闻河南守吴公治平为天下第一，故与李斯同邑，而尝学事焉，征以为廷尉。
+廷尉乃言谊年少，颇通诸家之书。
+文帝召以为博士。
+是时，谊年二十余，最为少。
+每诏令议下，诸老先生未能言，谊尽为之对，人人各如其意所出。诸生于是以为能。
+文帝说之，超迁，岁中至太中大夫。
+谊以为汉兴二十余年，天下和洽，宜当改正朔，易服色制度，定官名，兴礼乐。
+乃草具其仪法，色上黄，数用五，为官名悉更，奏之。
+文帝廉让未皇也。
+然诸法令所更定，及列侯就国，其说皆谊发之。
+于是天子议以谊任公卿之位。
+绛、灌、东阳侯、冯敬之属尽害之，乃毁谊曰： 雒阳之人年少初学，专欲擅权，纷乱诸事。
+于是天子后亦疏之，不用其议，以谊为长沙王太傅。
+谊既以適去，意不自得，及渡湘水，为赋以吊屈原。
+屈原，楚贤臣也，被谗放逐，作《离骚赋》，其终篇曰： 已矣！
+translation: 
+Jia Yi, a native of Luoyang, was famous locally for his ability to recite poems and write articles when he was eighteen years old.
+When Wu Gong, the governor of Henan Province, heard that he had excellent talents and studies, he summoned him to his sect and thought highly of him.
+Not long after Emperor Wen of Han came to the throne, he heard that Wu Gong, the governor of Henan Province, had the best political performance in the country. He was from the same hometown as Li Si and had learned from Li Si, so he recruited him as a court captain.
+Tingwei recommended that although Jia Yi was young, he was well versed in the books of various schools of thought.
+Emperor Wen of Han called Jia Yi to become a doctor.
+At this time, Jia Yi was in his twenties and the youngest among the Ph.D.
+Every time Emperor Wen of the Han Dynasty ordered the questions to be discussed, the older doctors could not say anything, but Jia Yi could answer them one by one, and everyone felt that they had said what they meant. The doctors then thought that Jia Yi had outstanding talents.
+Emperor Wen of the Han Dynasty liked him and promoted him unusually, and within a year he was promoted to Taizhong doctor.
+Jia Yi believes that the Han Dynasty has been established for more than 20 years and the country is peaceful and harmonious. The calendar should be revised, the colors of carriages and horses should be changed, the legal system should be formulated, the names of official positions should be determined, and rituals and music should be revitalized.
+So he drafted regulations for various ceremonies, using yellow as the color of nobility, using a five-character seal for the official seal, confirming the title of the official position, changing all the old systems, and Jia Yi reported to the emperor.
+Emperor Wen of the Han Dynasty was cautious and had no time to implement it.
+However, the changes in various laws and regulations and the fact that various princes moved to their own feudal states were all proposed by Jia Yi.
+So Emperor Wen of the Han Dynasty discussed with his ministers and let Jia Yi take the position of public minister.
+Jianghou, Guanhou, Dongyanghou, Feng Jing and others were jealous of him and slandered him: "This young man in Luoyang is young and has little knowledge. He wants to monopolize power and causes chaos in many things."
+Because of this, Emperor Wen of the Han Dynasty later alienated him, did not adopt his opinions, and made him the Prince of Changsha.
+Jia Yi left because he was demoted, and his will was not exerted. When crossing the Xiang River, he wrote a poem in memory of Qu Yuan.
+Qu Yuan was a wise minister of the Chu State. He was slandered and exiled. He wrote "Li Sao Fu" and wrote at the end: Forget it!
+
+summary:
+summary line 1: Jealous officials slandered Jia Yi, leading to his demotion as Tutor to the Prince of Changsha. On his journey, he wrote a poem mourning Qu Yuan, comparing their fates. The poem lamented Qu Yuan's unjust exile and suicide, criticizing a world that values the worthless over the worthy. Jia Yi advised retreat and self-preservation, using metaphors of dragons and phoenixes to urge distancing from corruption. He argued that Qu Yuan should have sought a wise ruler rather than cling to Chu.
+
+Chunk 2: 
+original: 
+凤缥缥其高逝兮，夫固自引而远去。
+袭九渊之神龙兮，沕渊潜以自珍；偭蟂獭以隐处兮，夫岂从虾与蛭螾？
+所贵圣之神德兮，远浊世而自臧。
+使骐骥可系而羁兮，岂云异夫犬羊？
+般纷纷其离此邮兮，亦夫子之故也！
+历九州而相其君兮，何必怀此都也？
+凤皇翔于千仞兮，览德煇而下之；见细德之险征兮，遥增击而去之。
+彼寻常之污渎佤，岂容吞舟之鱼！
+横江湖之鳣鲸兮，固将制于蝼蚁。
+谊为长沙傅三年，有服飞入谊舍，止于坐隅。
+服似鸮，不祥鸟也。
+谊既以適居长沙，长沙卑湿，谊自伤悼，以为寿不得长，乃为赋以自广。
+其辞曰：
+translation: 
+If no one understands it, it should fly high and disappear into the distance like a phoenix bird, retiring on its own.
+Imitate the dragon hidden in the abyss, hide yourself deep in the water and cherish yourself. How can the dragon associate with water bugs, fish, shrimps, toads, leeches, earthworms and the like?
+To stay away from the filthy realm and cherish it yourself, you must cherish the virtues passed down by the saints!
+If a horse can be tethered and controlled by others, how is it any different from a dog or a sheep?
+You have encountered all kinds of persecution and misfortunes because you did not keep yourself clean and stay away from this dirty world!
+You can travel around the land of China and choose a wise king to assist him. Why do you have to miss Chu State?
+A gentleman like a phoenix can fly thousands of miles into the sky, and will only come down when he sees a wise king with glorious virtues. When he sees signs of danger in his shortcomings and despicable virtues, he immediately flaps his wings and flies away.
+How could a large fish that could swallow a boat be accommodated in a stagnant puddle with only a dozen feet in length and width?
+The big fish swimming back and forth in rivers and lakes will inevitably be attacked by mole crickets and ants once they swim into stagnant puddles.
+In Jia Yi's third year as the Tutor of Changsha, an owl flew into Jia Yi's room and stopped next to his seat.
+The owl is like a cuckoo and is an unlucky bird.
+Jia Yi had been demoted and came to live in Changsha. Changsha was low-lying and humid. Jia Yi was often sad and thought that his life would not be long, so he wrote poems to comfort himself.
+Fu wrote:
+
+summary:
+summary line 2: In his third year in Changsha, an owl, an unlucky bird, entered Jia Yi's room. He wrote a poem exploring fate and fortune, reflecting on the cyclical nature of life and the futility of human concerns. The poem discusses the interplay of fortune and misfortune, using examples like Li Si and Fu Yue to illustrate unpredictability. It advocates detachment from worldly desires, embracing the Dao, and accepting life's transience. Jia Yi concluded that the owl's omen was trivial.
+
+Chunk 6: 
+original: 
+后岁余，文帝思谊，征之。
+至，入见，上方受厘，坐宣室。
+上因感鬼神事，而问鬼神之本。
+谊具道所以然之故。
+至夜半，文帝前席。
+既罢，曰： 吾久不见贾生，自以为过之，今不及也。
+乃拜谊为梁怀王太傅。
+怀王，上少子，爱，而好书，故令谊傅之，数问以得失。
+是时，匈奴强，侵边。
+天下初定，制度疏阔。
+诸侯王僣拟，地过古制，淮南、济北王皆为逆诛。
+谊数上疏陈政事，多所欲匡建，其大略曰：
+臣窃惟事势，可为痛哭者一，可为流涕者二，可为长太息者六，若其它背理而伤道者，难遍以疏举。
+translation: 
+More than a year later, Emperor Wen of Han missed Jia Yi and summoned him back to the capital Chang'an.
+Jia Yi arrived and entered the court to ask for an audience. Emperor Wen of Han was receiving the blessings from the gods and sat in the Xuan room to receive Jia Yi.
+Emperor Wen of Han Dynasty had some feelings about ghosts and gods, so he asked Jia Yi about the origin of ghosts and gods.
+Jia Yi explained the rationale in detail.
+The conversation lasted until late at night, and Emperor Wen of Han Dynasty moved to the front of the table without noticing.
+After the discussion, Emperor Wen of Han said: I haven't seen Jia Sheng for a long time. I thought I was better than him, but today it seems that I am still not as good as him.
+So Jia Yi was appointed as the Taifu of King Huai of Liang.
+King Huai of Liang was the youngest son of Emperor Wen of Han Dynasty. He was very favored and liked to read, so he asked Jia Yi to be his teacher. He asked Jia Yi many times for advice on success and failure.
+During this period, the Xiongnu became powerful and often invaded the Han Dynasty's borders.
+The Han Dynasty had just been established, and the laws and regulations were rough and unclear.
+The princes and kings exceeded the scope of their power and occupied more land than the ancient system. The king of Huainan and the king of Jibei were both executed for rebellion.
+Jia Yi went to Shu to state political affairs many times. Most of his opinions were to change and establish a new system. The general idea was:
+I have privately considered the current national situation and believe that there is one thing that can be cried over, two things that can be shed tears over, and six things that can be sighed over. As for the other things that go against the truth and harm the right path, it is difficult to list them in detail.
+
+summary:
+summary line 3: Emperor Wen later recalled Jia Yi, discussing ghosts and gods late into the night. Impressed, he appointed Jia Yi as Tutor to his favored son, King Huai of Liang. Jia Yi frequently advised on state affairs, highlighting crises: the Xiongnu threat, rebellious princes, and corrupt customs. He argued that the realm was not truly peaceful, comparing it to sleeping on a pyre. He proposed dividing large fiefdoms to weaken princes, using historical examples to show that power leads to rebellion. He urged the emperor to adopt a system of smaller states to ensure stability, warning that inaction would lead to disaster.
+
+Chunk 6: 
+original: 
+后岁余，文帝思谊，征之。
+至，入见，上方受厘，坐宣室。
+上因感鬼神事，而问鬼神之本。
+谊具道所以然之故。
+至夜半，文帝前席。
+既罢，曰： 吾久不见贾生，自以为过之，今不及也。
+乃拜谊为梁怀王太傅。
+怀王，上少子，爱，而好书，故令谊傅之，数问以得失。
+是时，匈奴强，侵边。
+天下初定，制度疏阔。
+诸侯王僣拟，地过古制，淮南、济北王皆为逆诛。
+谊数上疏陈政事，多所欲匡建，其大略曰：
+臣窃惟事势，可为痛哭者一，可为流涕者二，可为长太息者六，若其它背理而伤道者，难遍以疏举。
+translation: 
+More than a year later, Emperor Wen of Han missed Jia Yi and summoned him back to the capital Chang'an.
+Jia Yi arrived and entered the court to ask for an audience. Emperor Wen of Han was receiving the blessings from the gods and sat in the Xuan room to receive Jia Yi.
+Emperor Wen of Han Dynasty had some feelings about ghosts and gods, so he asked Jia Yi about the origin of ghosts and gods.
+Jia Yi explained the rationale in detail.
+The conversation lasted until late at night, and Emperor Wen of Han Dynasty moved to the front of the table without noticing.
+After the discussion, Emperor Wen of Han said: I haven't seen Jia Sheng for a long time. I thought I was better than him, but today it seems that I am still not as good as him.
+So Jia Yi was appointed as the Taifu of King Huai of Liang.
+King Huai of Liang was the youngest son of Emperor Wen of Han Dynasty. He was very favored and liked to read, so he asked Jia Yi to be his teacher. He asked Jia Yi many times for advice on success and failure.
+During this period, the Xiongnu became powerful and often invaded the Han Dynasty's borders.
+The Han Dynasty had just been established, and the laws and regulations were rough and unclear.
+The princes and kings exceeded the scope of their power and occupied more land than the ancient system. The king of Huainan and the king of Jibei were both executed for rebellion.
+Jia Yi went to Shu to state political affairs many times. Most of his opinions were to change and establish a new system. The general idea was:
+I have privately considered the current national situation and believe that there is one thing that can be cried over, two things that can be shed tears over, and six things that can be sighed over. As for the other things that go against the truth and harm the right path, it is difficult to list them in detail.
+
+summary:
+summary line 4: Jia Yi criticized the Xiongnu policy of appeasement, calling it humiliating and ineffective. He offered to subdue them through strategy. He also condemned lavish dress among commoners, which drained resources and undermined social hierarchy. He lamented the decline of moral standards, tracing it to Qin's abandonment of propriety. He advocated for early education of the crown prince, citing the long reigns of Xia, Shang, and Zhou, which prioritized ritual and moral instruction, unlike Qin's harsh laws that led to rapid collapse.
+
+Chunk 33: 
+original: 
+文帝于是从谊计，乃徙淮阳王武为梁王，北界泰山，西至高阳，得大县四十余城；徙城阳王喜为淮南王，抚其民。
+时又封淮南厉王四子皆为列侯。
+谊知上必将复王之也，上疏谏曰： 窃恐陛下接王淮南诸子，曾不与如臣者孰计之也。
+淮南王之悖逆亡道，天下孰不知其罪？
+陛下幸而赦迁之，自疾而死，天下孰以王死之不当？
+今奉尊罪人之子，适足以负谤于天下耳。
+此人少壮，岂能忘其父哉 白公胜所为父报仇者，大父与伯父、叔父也。
+白公为乱，非欲取国代主也，发愤快志，剡手以冲仇人之匈，固为俱靡而已。
+淮南虽小，黥布尝用之矣，汉存特幸耳。
+夫擅仇人足以危汉之资，于策不便。
+虽割而为四，四子一心也。
+予之众，积之财，此非有子胥、白公报于广都之中，即疑有剸诸、荆轲起于两柱之间，所谓假贼兵为虎翼者也。
+愿陛下少留计！
+translation: 
+Emperor Wen of the Han Dynasty then adopted Jia Yi's strategy and appointed Liu Wu, King of Huaiyang, as King of Liang. The Liang Kingdom was bounded by Mount Tai in the north and Gaoyang in the west, with more than 40 large counties. He appointed Liu happy, King of Chengyang, as King of Huainan to appease his people.
+At that time, the four sons of Liu Chang, King Li of Huainan, were all made marquises.
+Jia Yi knew that the emperor must restore the titles of princes and kings, so he admonished him and said: "I am privately worried that your majesty will make several sons of King Li of Huainan king. This has not been carefully discussed with the ministers."
+The King of Huainan rebelled and started rebellion. Who in the world didn’t know about his crime?
+Fortunately, His Majesty was lenient and banished him. He committed suicide and died. Who in the world thinks that his death was undeserved?
+Today's use of the son of a sinner has just lived up to the condemnation of King Li by the people of the world!
+When King Li's son grew up, could he forget his father's hatred? Bai Gongsheng avenged his father, targeting his grandfather, uncle, and uncles.
+Bai Gongsheng launched a coup, not to seize power, but to vent his resentment. He stabbed his enemy in the chest with a sharp knife, intending to die together with his enemy.
+Although Huainan is a small place, Yingbu once used it to rebel against the Han Dynasty. It was really lucky for the Han Dynasty to exist.
+It would be unwise to let the enemy possess capital that could endanger the Han Dynasty.
+Although King Li's four sons were separated, they had the same idea of ​​avenging their father.
+Give them a lot of people and enable them to accumulate a lot of property. If they do not openly raise armies in the capital to avenge like Wu Zixu and Bai Gong, there will be assassinations like Zhuanzhu and Jingke. This is the so-called lending weapons to thieves and giving wings to tigers.
+I hope your Majesty will give it some thought!
+
+summary:
+summary line 5: Jia Yi emphasized the importance of ritual over punishment, arguing that ritual prevents wrongdoing subtly, while punishment only reacts. He urged the emperor to respect ministers, using historical examples to show that honor fosters loyalty. He advised against humiliating officials, as it erodes their integrity. He used the case of Zhou Bo, falsely accused of treason, to argue for leniency. Emperor Wen heeded this, and thereafter, guilty ministers committed suicide rather than face execution.
+
+Chunk 33: 
+original: 
+文帝于是从谊计，乃徙淮阳王武为梁王，北界泰山，西至高阳，得大县四十余城；徙城阳王喜为淮南王，抚其民。
+时又封淮南厉王四子皆为列侯。
+谊知上必将复王之也，上疏谏曰： 窃恐陛下接王淮南诸子，曾不与如臣者孰计之也。
+淮南王之悖逆亡道，天下孰不知其罪？
+陛下幸而赦迁之，自疾而死，天下孰以王死之不当？
+今奉尊罪人之子，适足以负谤于天下耳。
+此人少壮，岂能忘其父哉 白公胜所为父报仇者，大父与伯父、叔父也。
+白公为乱，非欲取国代主也，发愤快志，剡手以冲仇人之匈，固为俱靡而已。
+淮南虽小，黥布尝用之矣，汉存特幸耳。
+夫擅仇人足以危汉之资，于策不便。
+虽割而为四，四子一心也。
+予之众，积之财，此非有子胥、白公报于广都之中，即疑有剸诸、荆轲起于两柱之间，所谓假贼兵为虎翼者也。
+愿陛下少留计！
+translation: 
+Emperor Wen of the Han Dynasty then adopted Jia Yi's strategy and appointed Liu Wu, King of Huaiyang, as King of Liang. The Liang Kingdom was bounded by Mount Tai in the north and Gaoyang in the west, with more than 40 large counties. He appointed Liu happy, King of Chengyang, as King of Huainan to appease his people.
+At that time, the four sons of Liu Chang, King Li of Huainan, were all made marquises.
+Jia Yi knew that the emperor must restore the titles of princes and kings, so he admonished him and said: "I am privately worried that your majesty will make several sons of King Li of Huainan king. This has not been carefully discussed with the ministers."
+The King of Huainan rebelled and started rebellion. Who in the world didn’t know about his crime?
+Fortunately, His Majesty was lenient and banished him. He committed suicide and died. Who in the world thinks that his death was undeserved?
+Today's use of the son of a sinner has just lived up to the condemnation of King Li by the people of the world!
+When King Li's son grew up, could he forget his father's hatred? Bai Gongsheng avenged his father, targeting his grandfather, uncle, and uncles.
+Bai Gongsheng launched a coup, not to seize power, but to vent his resentment. He stabbed his enemy in the chest with a sharp knife, intending to die together with his enemy.
+Although Huainan is a small place, Yingbu once used it to rebel against the Han Dynasty. It was really lucky for the Han Dynasty to exist.
+It would be unwise to let the enemy possess capital that could endanger the Han Dynasty.
+Although King Li's four sons were separated, they had the same idea of ​​avenging their father.
+Give them a lot of people and enable them to accumulate a lot of property. If they do not openly raise armies in the capital to avenge like Wu Zixu and Bai Gong, there will be assassinations like Zhuanzhu and Jingke. This is the so-called lending weapons to thieves and giving wings to tigers.
+I hope your Majesty will give it some thought!
+
+summary:
+summary line 6: Jia Yi later proposed strengthening the kingdoms of Huaiyang and Liang to counter powerful princes like Huainan. He warned against granting titles to the sons of the rebellious King Li of Huainan, predicting they would seek revenge. Emperor Wen partially adopted his advice, appointing Liu Wu as King of Liang. After Jia Yi's death at thirty-three, his predictions came true: the Seven Kingdoms rebelled, but Liang's strength helped suppress them. Emperor Wu later executed some of King Li's sons for rebellion.
+
+Chunk 34: 
+original: 
+梁王胜坠马死，谊自伤为傅无状，常哭泣，后岁余，亦死。
+贾生之死，年三十三矣。
+后四岁，齐文王薨，亡子。
+文帝思贾生之言，乃分齐为六国，尽立悼惠王子六人为王；又迁淮南王喜于城阳，而分淮南为三国，尽立厉王三子以王之。
+后十年，文帝崩，景帝立；三年而吴、楚、赵与四齐王合从举兵，西乡京师，梁王扞之，卒破七国。
+至武帝时，淮南厉王子为王者两国亦反诛。
+孝武初立，举贾生之孙二人至郡守。
+贾嘉最好学，世其家。
+赞曰：刘向称 贾谊言三代与秦治乱之意，其论甚美，通达国体，虽古之伊、管未能远过也。
+使时见用，功化必盛。
+为庸臣所害，甚可悼痛。
+translation: 
+Liang Wang Liu Sheng fell from his horse and died. Jia Yi lamented that he had failed in his duty as a tutor and often cried. More than a year later, he also died.
+Jia Yi was thirty-three years old when he died.
+Four years later, King Qi Wen died without a son.
+Emperor Wen of the Han Dynasty remembered Jia Yi's words, so he divided Qi into six small kingdoms and made King Hui's six sons king respectively. He also transferred Huainan King Liu happy to Chengyang, divided Huainan into three small countries, and made King Li's six sons king respectively.
+In the next ten years, Emperor Wen of the Han Dynasty died and Emperor Jing of the Han Dynasty succeeded to the throne. In the third year of Emperor Jing's reign, Wu, Chu, Zhao and the four Qi kings jointly rebelled and marched westward to the Mojing city of Chang'an. Liang Xiao Wang Liu Wu defended Chang'an and finally defeated the Seven Kingdoms.
+By the time of Emperor Wu of the Han Dynasty, the son of King Li of Huainan became king, and some of the two rebelled against him and were executed.
+Emperor Wu of the Han Dynasty ascended the throne and appointed Jia Yi's two grandsons as prefects of the county.
+Among them, Maijia is the most studious and inherits a scholarly family background.
+Praise: Liu Xiangcheng Jia Yi talked about the significance of the Xia, Shang, Zhou and Qin dynasties in regulating chaos. His discussion was very beautiful. He was familiar with national regulations and systems. Even Yi Yin and Guan Zhong in ancient times could not surpass him.
+If his ideas had been implemented at that time, his achievements and enlightenment would have been significant.
+But it is really sad that he was framed by mediocrity.
+
+summary:
+summary line 7: The historian praised Jia Yi's insights on governance, comparing him to Yi Yin and Guan Zhong. Though his ideas were only partially implemented, his writings on statecraft were influential. His early death prevented him from reaching high office, but his legacy endured through his fifty-eight essays.
+

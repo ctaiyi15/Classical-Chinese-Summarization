@@ -1,0 +1,241 @@
+Summary uses chunk [0, 1, 1, 1, 3, 2, 2]
+
+Chunk 0: 
+original: 
+夫人含天地阴阳之灵，有哀乐喜怒之情。
+乃圣垂范，以为民极，节其骄淫，以防其暴乱；崇高天地，虔敬鬼神，列尊卑之序，成夫妇之义，然后为国为家，可得而治也。
+《传》曰： 一日克己复礼，天下归仁。
+若乃太一初分，燧人钻火，志有暢于恭俭，情不由乎玉帛，而酌玄流于春涧之右，焚封豕于秋林之外，亦无得而阙焉。
+轩顼依神，唐虞稽古，逮乎隆周，其文大备。
+或垂百官之范，置不刊之法；或礼经三百，威仪三千，皆所以弘宣天意，雕刻人理。
+叔代浇讹，王风陵谢，事睽光国，礼亦愆家。
+赵简子问太叔以揖让周旋之礼，对曰： 盖所谓仪而非礼也。
+天经地义之道，自兹尤缺。
+translation: 
+Human beings contain the spiritual energy between yin and yang of heaven and earth, and have emotions of sadness, joy, joy and anger.
+The sages passed down their examples as standards for the people. Control their arrogance to prevent them from rioting; worship heaven and earth, worship ghosts and gods devoutly, arrange the order of honor and inferiority, and establish the moral principles of husband and wife, and then the country and family can be governed well.
+"Biography" says: For one day, if one restrains oneself and returns to ritual, the world will return to benevolence.
+Since the beginning of the world, the Sui people have drilled wood to make fire. Their ambitions have been modesty and frugality. Their feelings do not care about jade and silk. Instead, they drink the clear water on the banks of streams in spring, and set fires near forests in autumn to drive away hogs. There is nothing imperfect about it.
+Xuanyuan and Zhuanxu obeyed the gods, and Yao and Yushun of Tang Dynasty investigated the archaeological system. It was passed to the prosperous Zhou Dynasty, and the regulations and systems were greatly completed.
+It not only left an example of setting up hundreds of officials and formulated unchangeable laws and regulations; it also had 300 rules on etiquette and 3,000 kinds of rituals, all of which were used to promote and spread the will of God and adjust and standardize human behavior.
+At the end of the Zhou Dynasty, the world's social customs changed, the king's rule declined, things went against the traditions of a beautiful country, and even the way of running a family in etiquette was lost.
+Chang Jianzi asked Taishu about the etiquette of yielding and dealing with others, and he replied: "That can only be called a ceremony but not a true etiquette."
+The truth that is a matter of course has been ignored ever since.
+
+summary:
+summary line 0: The evolution of ritual and ceremonial systems in ancient China, emphasizing their role in maintaining social order and moral conduct. Humans possess spiritual energy and emotions, and sages established rituals to control arrogance, worship heaven and earth, and define social hierarchies, thereby ensuring good governance. The text references the concept that self-restraint and a return to ritual can lead to universal benevolence.
+
+Chunk 1: 
+original: 
+哀公十一年，孔子自卫反鲁，迹三代之典，垂百王之训，时无明后，道噎不行。
+若夫情尚分流，堤防之仁是弃；浇讹异术，洙泗之风斯泯。
+是以汉文罢再期之丧，中兴为一郊之祭，随时之义，不其然欤！
+而西京元鼎之辰，中兴永平之日，疏璧流而延冠带，启儒门而引诸生，两京之盛，于斯为美。
+及山鱼登俎，泽豕睽经，礼乐恆委，浮华相尚，而郊禋之制，纲纪或存。
+魏氏光宅，宪章斯美。
+王肃、高堂隆之徒，博通前载，三千条之礼，十七篇之学，各以旧文增损当世，岂所谓致君于尧舜之道焉。
+世属雕墙，时逢秕政，周因之典，务多违俗，而遗编残册，犹有可观者也。
+景初元年，营洛阳南委粟山以为圆丘，祀之日以始祖帝舜配，房俎生鱼，陶樽玄酒，非搢绅为之纲纪，其孰能兴于此者哉！
+宣景戎旅，未遑伊制。
+太康平吴，九州共一，礼经咸至，乐器同归，于是齐鲁诸生，各携缃素。
+武皇帝亦初平寇乱，意先仪范。
+其吉礼也，则三茅不翦，日观停瑄；其凶礼也，则深衣布冠，降席撤膳。
+明乎一谦三益之义，而教化行焉。
+元皇中兴，事多权道，遗文旧典，不断如发。
+translation: 
+In the eleventh year of Duke Ai, Confucius returned to Lu from Wei, studied the models of the three generations, and wrote down the lessons of hundreds of kings. At that time, there was no wise king, so his ideas could not be implemented.
+If sentiment is allowed to develop, benevolence will inevitably be thrown aside; if heresy is allowed to cause trouble, the style of Confucianism may be excluded.
+Therefore, Emperor Wen of the Han Dynasty abolished the two-year mourning system, and Emperor Guangwu combined the suburban sacrifices into one.
+This practice of catering to the current customs is not worthy of recognition. However, during the Yuanding period of the Western Han Dynasty and the Yongping era of the Shu Han Dynasty, they promoted education and respected the gentry, advocated Confucianism and appointed Confucian scholars. The prosperity of the two deserts era was the most beautiful in the Zao period.
+Later, the small fish in the mountains became offerings in temples, and the wild boars in the swamp also went against the norm. The ritual and music system was abandoned for a long time, and the world advocated glitz, but the sacrificial etiquette was generally preserved.
+During the Cao and Wei Dynasties, the rules and regulations were very good.
+Wang Sheng, Gao Tanglong and others were erudite and well versed in the records of their predecessors, such as the three thousand articles of "Zhou Rites" and the seventeen articles of etiquette.
+People hoped for great governance in the world, but what they caught up with at that time was not good governance. If the laws passed down from the Zhou Dynasty were used too much, they would violate the customs of the time, but the remaining chapters and books still have something for reference.
+In the first year of Jingchu, a round mound was built on Weisu Mountain in the south of Luoyang. On the day of the sacrifice, the ancestor Emperor Shun was served as a meal. The jade sacrificial vessels contained fresh fish and the pottery vessels contained clear water. If the scholar-bureaucrats did not plan for him, then who could do these things!
+Emperor Xuan and Emperor Jing went to war without having time to formulate a manufacturing system.
+During the Lichen period, Chengxi was pacified, Kyushu was unified, etiquette books were centralized, musical instruments and sacrificial vessels were placed in one place, so Confucian scholars from the Qilu area came to seek refuge with their books.
+Emperor Wu also wanted to promote etiquette and standards in order to put down the bandits and bandits.
+In the auspicious sacrifices at that time, the three-ridged green grass was not trimmed, and in the Riguan Peak sacrifice to the sky, no large jade was used; in the funeral rites at that time, dark clothes and cloth crowns were worn, and the banquet was canceled and the meals were reduced.
+Once the principle of Yi Qian and San Benefit is preached, education will be carried out.
+When Emperor Yuan revitalized the Jin Dynasty, many affairs had to be dealt with expediently, and the previous rules and regulations were almost extinct.
+
+summary:
+summary line 1: Historically, early practices were simple, with modest ambitions and frugal customs. Over time, rulers like Xuanyuan, Zhuanxu, Yao, and Shun developed systems, which were perfected during the Zhou dynasty with detailed regulations and rituals. However, by the end of the Zhou, social customs declined, and the king's rule weakened, leading to a loss of proper etiquette. Confucius later studied ancient models but could not implement his ideas due to a lack of a wise ruler.
+
+Chunk 1: 
+original: 
+哀公十一年，孔子自卫反鲁，迹三代之典，垂百王之训，时无明后，道噎不行。
+若夫情尚分流，堤防之仁是弃；浇讹异术，洙泗之风斯泯。
+是以汉文罢再期之丧，中兴为一郊之祭，随时之义，不其然欤！
+而西京元鼎之辰，中兴永平之日，疏璧流而延冠带，启儒门而引诸生，两京之盛，于斯为美。
+及山鱼登俎，泽豕睽经，礼乐恆委，浮华相尚，而郊禋之制，纲纪或存。
+魏氏光宅，宪章斯美。
+王肃、高堂隆之徒，博通前载，三千条之礼，十七篇之学，各以旧文增损当世，岂所谓致君于尧舜之道焉。
+世属雕墙，时逢秕政，周因之典，务多违俗，而遗编残册，犹有可观者也。
+景初元年，营洛阳南委粟山以为圆丘，祀之日以始祖帝舜配，房俎生鱼，陶樽玄酒，非搢绅为之纲纪，其孰能兴于此者哉！
+宣景戎旅，未遑伊制。
+太康平吴，九州共一，礼经咸至，乐器同归，于是齐鲁诸生，各携缃素。
+武皇帝亦初平寇乱，意先仪范。
+其吉礼也，则三茅不翦，日观停瑄；其凶礼也，则深衣布冠，降席撤膳。
+明乎一谦三益之义，而教化行焉。
+元皇中兴，事多权道，遗文旧典，不断如发。
+translation: 
+In the eleventh year of Duke Ai, Confucius returned to Lu from Wei, studied the models of the three generations, and wrote down the lessons of hundreds of kings. At that time, there was no wise king, so his ideas could not be implemented.
+If sentiment is allowed to develop, benevolence will inevitably be thrown aside; if heresy is allowed to cause trouble, the style of Confucianism may be excluded.
+Therefore, Emperor Wen of the Han Dynasty abolished the two-year mourning system, and Emperor Guangwu combined the suburban sacrifices into one.
+This practice of catering to the current customs is not worthy of recognition. However, during the Yuanding period of the Western Han Dynasty and the Yongping era of the Shu Han Dynasty, they promoted education and respected the gentry, advocated Confucianism and appointed Confucian scholars. The prosperity of the two deserts era was the most beautiful in the Zao period.
+Later, the small fish in the mountains became offerings in temples, and the wild boars in the swamp also went against the norm. The ritual and music system was abandoned for a long time, and the world advocated glitz, but the sacrificial etiquette was generally preserved.
+During the Cao and Wei Dynasties, the rules and regulations were very good.
+Wang Sheng, Gao Tanglong and others were erudite and well versed in the records of their predecessors, such as the three thousand articles of "Zhou Rites" and the seventeen articles of etiquette.
+People hoped for great governance in the world, but what they caught up with at that time was not good governance. If the laws passed down from the Zhou Dynasty were used too much, they would violate the customs of the time, but the remaining chapters and books still have something for reference.
+In the first year of Jingchu, a round mound was built on Weisu Mountain in the south of Luoyang. On the day of the sacrifice, the ancestor Emperor Shun was served as a meal. The jade sacrificial vessels contained fresh fish and the pottery vessels contained clear water. If the scholar-bureaucrats did not plan for him, then who could do these things!
+Emperor Xuan and Emperor Jing went to war without having time to formulate a manufacturing system.
+During the Lichen period, Chengxi was pacified, Kyushu was unified, etiquette books were centralized, musical instruments and sacrificial vessels were placed in one place, so Confucian scholars from the Qilu area came to seek refuge with their books.
+Emperor Wu also wanted to promote etiquette and standards in order to put down the bandits and bandits.
+In the auspicious sacrifices at that time, the three-ridged green grass was not trimmed, and in the Riguan Peak sacrifice to the sky, no large jade was used; in the funeral rites at that time, dark clothes and cloth crowns were worn, and the banquet was canceled and the meals were reduced.
+Once the principle of Yi Qian and San Benefit is preached, education will be carried out.
+When Emperor Yuan revitalized the Jin Dynasty, many affairs had to be dealt with expediently, and the previous rules and regulations were almost extinct.
+
+summary:
+summary line 2: The text then discusses the Han dynasty's efforts to revive rituals, noting that Emperor Wen abolished the two-year mourning period, and Emperor Guangwu combined suburban sacrifices. During the Yuanding and Yongping eras, education and Confucianism were promoted. However, later periods saw a decline in ritual and music systems, with a focus on glitz, though sacrificial rites were generally preserved. The Cao and Wei dynasties saw improvements, with scholars like Wang Sheng and Gao Tanglong studying ancient texts.
+
+Chunk 1: 
+original: 
+哀公十一年，孔子自卫反鲁，迹三代之典，垂百王之训，时无明后，道噎不行。
+若夫情尚分流，堤防之仁是弃；浇讹异术，洙泗之风斯泯。
+是以汉文罢再期之丧，中兴为一郊之祭，随时之义，不其然欤！
+而西京元鼎之辰，中兴永平之日，疏璧流而延冠带，启儒门而引诸生，两京之盛，于斯为美。
+及山鱼登俎，泽豕睽经，礼乐恆委，浮华相尚，而郊禋之制，纲纪或存。
+魏氏光宅，宪章斯美。
+王肃、高堂隆之徒，博通前载，三千条之礼，十七篇之学，各以旧文增损当世，岂所谓致君于尧舜之道焉。
+世属雕墙，时逢秕政，周因之典，务多违俗，而遗编残册，犹有可观者也。
+景初元年，营洛阳南委粟山以为圆丘，祀之日以始祖帝舜配，房俎生鱼，陶樽玄酒，非搢绅为之纲纪，其孰能兴于此者哉！
+宣景戎旅，未遑伊制。
+太康平吴，九州共一，礼经咸至，乐器同归，于是齐鲁诸生，各携缃素。
+武皇帝亦初平寇乱，意先仪范。
+其吉礼也，则三茅不翦，日观停瑄；其凶礼也，则深衣布冠，降席撤膳。
+明乎一谦三益之义，而教化行焉。
+元皇中兴，事多权道，遗文旧典，不断如发。
+translation: 
+In the eleventh year of Duke Ai, Confucius returned to Lu from Wei, studied the models of the three generations, and wrote down the lessons of hundreds of kings. At that time, there was no wise king, so his ideas could not be implemented.
+If sentiment is allowed to develop, benevolence will inevitably be thrown aside; if heresy is allowed to cause trouble, the style of Confucianism may be excluded.
+Therefore, Emperor Wen of the Han Dynasty abolished the two-year mourning system, and Emperor Guangwu combined the suburban sacrifices into one.
+This practice of catering to the current customs is not worthy of recognition. However, during the Yuanding period of the Western Han Dynasty and the Yongping era of the Shu Han Dynasty, they promoted education and respected the gentry, advocated Confucianism and appointed Confucian scholars. The prosperity of the two deserts era was the most beautiful in the Zao period.
+Later, the small fish in the mountains became offerings in temples, and the wild boars in the swamp also went against the norm. The ritual and music system was abandoned for a long time, and the world advocated glitz, but the sacrificial etiquette was generally preserved.
+During the Cao and Wei Dynasties, the rules and regulations were very good.
+Wang Sheng, Gao Tanglong and others were erudite and well versed in the records of their predecessors, such as the three thousand articles of "Zhou Rites" and the seventeen articles of etiquette.
+People hoped for great governance in the world, but what they caught up with at that time was not good governance. If the laws passed down from the Zhou Dynasty were used too much, they would violate the customs of the time, but the remaining chapters and books still have something for reference.
+In the first year of Jingchu, a round mound was built on Weisu Mountain in the south of Luoyang. On the day of the sacrifice, the ancestor Emperor Shun was served as a meal. The jade sacrificial vessels contained fresh fish and the pottery vessels contained clear water. If the scholar-bureaucrats did not plan for him, then who could do these things!
+Emperor Xuan and Emperor Jing went to war without having time to formulate a manufacturing system.
+During the Lichen period, Chengxi was pacified, Kyushu was unified, etiquette books were centralized, musical instruments and sacrificial vessels were placed in one place, so Confucian scholars from the Qilu area came to seek refuge with their books.
+Emperor Wu also wanted to promote etiquette and standards in order to put down the bandits and bandits.
+In the auspicious sacrifices at that time, the three-ridged green grass was not trimmed, and in the Riguan Peak sacrifice to the sky, no large jade was used; in the funeral rites at that time, dark clothes and cloth crowns were worn, and the banquet was canceled and the meals were reduced.
+Once the principle of Yi Qian and San Benefit is preached, education will be carried out.
+When Emperor Yuan revitalized the Jin Dynasty, many affairs had to be dealt with expediently, and the previous rules and regulations were almost extinct.
+
+summary:
+summary line 3: During the Wei and Jin dynasties, there were debates and reforms in sacrificial practices. For example, in the first year of Jingchu, a round mound was built for sacrifices, and Emperor Wu of Jin sought to promote etiquette. The text details various rituals, including suburban sacrifices, Mingtang ceremonies, and the worship of the Five Emperors. It also discusses the establishment of the northern suburbs and the integration of various gods into the sacrificial system.
+
+Chunk 3: 
+original: 
+又以《丧服》最多疑阙，宜见补定。
+又以今礼篇卷烦重，宜随类通合。
+事久不出，惧见寝嘿。
+盖冠婚祭会诸吉礼，其制少变；至于《丧服》，世之要用，而特易失旨。
+故子张疑高宗谅阴三年，子思不听其子服出母，子游谓异父昆弟大功，而子夏谓之齐衰，及孔子没而门人疑于所服。
+此等皆明达习礼，仰读周典，俯师仲尼，渐渍圣训，讲肄积年，及遇丧事，尤尚若此，明丧礼易惑，不可不详也。
+况自此已来，篇章焚散，去圣弥远，丧制诡谬，固其宜矣。
+是以《丧服》一卷，卷不盈握，而争说纷然。
+三年之丧，郑云二十七月，王云二十五月。
+改葬之服，郑云服缌三月，王云葬讫而除。
+继母出嫁，郑云皆服，王云从乎继寄育乃为之服。
+无服之殇，郑云子生一月哭之一日，王云以哭之日易服之月。
+如此者甚众。
+《丧服》本文省略，必待注解事义乃彰；其传说差详，世称子夏所作。
+郑王祖《经》宗《传》，而各有异同，天下并疑，莫知所定，而顗直书古《经》文而已，尽除子夏《传》及先儒注说，其事不可得行。
+translation: 
+It is also believed that the part of "Mourning Clothes" contains the most doubts and should be supplemented and confirmed.
+He also believes that the current ritual system is too long and should be classified and merged.
+The memorial had not been approved for a long time, so I was afraid of being ignored.
+For auspicious rituals such as wedding ceremonies, there have been few changes in the relevant system; as for "mourning clothes", they are very commonly used in daily life, but they are particularly easy to lose their essence.
+Therefore, Zi Zhang suspected that Gaozong had been in mourning for three years without speaking. Zi Si did not allow his son to mourn for his biological mother who had been abandoned. Zi You believed that half-brothers should mourn each other, but Zi Xia believed that Qi Xi should mourn. After Confucius died, his disciples did not understand how to mourn.
+These people were all smart and well-versed in studying etiquette. They read the laws of the Zhou Dynasty at first and studied with Zhongni at the lower end. They were immersed in the precepts of saints and studied for many years. However, they still behaved like this when they encountered funerals. This shows that funerals are easy to be confused and must be treated carefully.
+What's more, since then, the scriptures have been burned and scattered, and they have become further away from the saints. It is natural that there are errors in the mourning system.
+Therefore, the volume of "Mourning Clothes" is less than one volume, but there are many arguments and explanations.
+For the three-year mourning period, Zheng Xuan said it was twenty-seven months, and Wang Su said it was twenty-five months.
+Zheng Xuan said that the mourning clothes should be worn for three months after the burial, while Wang Su said that they would not be worn as soon as the funeral was over.
+After the remarried stepmother passed away, Zheng Xuan said that she should be mourned, while Wang Su said that he should live with his stepmother in other people's homes and be raised before mourning for her.
+For children who died under the age of eight, Zheng Xuan said that after the child was born for a month, he would cry for a day, and Wang Lu said that the day of crying should be changed to mourning for a month.
+There are many situations like this.
+The text of "Mourning Clothes" is very brief, and annotations are needed to understand its content. Later generations' explanations are not detailed, and the world thinks it was written by Zixia.
+Zheng Xuan and Wang Su took the "Jing" and "Zhuan" as the basis, but they have similarities and differences. Everyone in the world can't figure it out, and no one knows which one is correct. However, Xunti only wrote down the ancient "Jing" text, completely deleting Wang Xia's "Biography" and the annotations of the previous generations of Confucian scholars. It was impossible to implement it.
+
+summary:
+summary line 4: The text delves into specific debates, such as the correct duration of mourning (twenty-seven months according to Zheng Xuan, twenty-five according to Wang Su) and the proper rituals for mourning different relatives. It highlights the confusion and differing interpretations of mourning rites, emphasizing the need for clear regulations. The text also covers the rituals for solar eclipses, including the use of red scarves and drums to save the sun, and the debates over whether to cancel court meetings during eclipses.
+
+Chunk 2: 
+original: 
+是以常侍戴邈诣阙上疏云： 方今天地更始，万物权舆，荡近世之流弊，创千龄之英范。
+是故双剑之节崇，而飞白之俗成；挟琴之容饰，而赴曲之和作。
+其所以兴起礼文，劝帝身先之也。
+穆哀之后，王猷渐替，桓温居揆，政由己出，而有司或曜斯文，增晖执事，主威长谢，臣道专行。
+《记》曰， 苟无其位，不可以作礼乐 ，岂斯之谓欤！晋始则有荀顗、郑冲裁成国典，江左则有荀崧、刁协损益朝仪。
+《周官》五礼，吉凶军宾嘉，而吉礼之大，莫过祭祀，故《洪范》八政，三日祀。
+祀者，所以昭孝事祖，通于神明者也。
+汉兴，承秦灭学之后，制度多未能复古。
+历东、西京四百余年，故往往改变。
+魏氏承汉末大乱，旧章殄灭，命侍中王粲、尚书卫顗草创朝仪。
+及晋国建，文帝又命荀顗因魏代前事，撰为新礼，参考今古，更其节文，羊祜、任恺、庾峻、应贞并共刊定，成百六十五篇，奏之。
+太康初，尚书仆射硃整奏付尚书郎挚虞讨论之。
+虞表所宜损增曰：臣典校故太尉顗所撰《五礼》，臣以为夫革命以垂统，帝王之美事也，隆礼以率教，邦国之大务也，是以臣前表礼事稽留，求速讫施行。
+translation: 
+Therefore, Dai Miao, the constant attendant, submitted a seal to the court and said: When the earth is renewed, all things begin to prosper, sweeping away the evils of modern times, and setting an example for thousands of years.
+Therefore, advocating loyalty and integrity creates cultural and educational customs; organizing the appearance of playing the piano can lead to harmonious resonance.
+He wanted to use these to promote etiquette and civilization and encourage the emperor to lead by example.
+Later, when the royal power declined and Li Guo came to power, he issued political orders himself, but the relevant officials tarnished the civility and whitewashed the powerful ministers. The emperor's prestige was ruined, and the ministers did whatever they wanted.
+"Ji" says: Without fame and position, it is impossible to promote rituals and music. Could it be that this is the case? At the beginning of the burial period, Bao Su and Qian Yi formulated national regulations, and during the period of the burial period, Bao Pi and Wang Xie revised the court etiquette.
+There are five types of etiquette in "Zhou Guan", namely auspicious etiquette, unlucky etiquette, military etiquette, guest etiquette, and honorable etiquette. Among them, the most important auspicious etiquette is sacrifice, so the third of the eight political affairs in "Hongfan" is called sacrificial ceremony.
+Sacrifice is a way to express filial piety, serve ancestors, and communicate with gods.
+After the establishment of the Han Dynasty and the destruction of Confucianism by the Qin Dynasty, many aspects of the system have not been able to return to the way they were in ancient times.
+After more than 400 years in Tokyo and Xijing, there have been many changes.
+The Wei Dynasty followed the chaos at the end of the Han Dynasty, and the old regulations were completely destroyed. Wang Can and Wei Jian, the ministers, were ordered to draft and formulate court etiquette.
+After the establishment of the Jin Dynasty, Emperor Wen ordered Xunjie to follow what had been done in the Wei Dynasty and write a new etiquette system. Taking into account the situation at that time and the ancient dispatch system, he changed the chapters and articles in it. Yang Ku, Ren Kai, Yu Jun, and Ying Zhen jointly reviewed it and made it into 165 chapters, which were presented to the emperor.
+In the early years of Taikang, Shangshu Pushe Zhu Zheng submitted a memorial request to Shangshu Lang Zhiyu for consideration.
+Zhiyu wrote a memorial regarding the changes that should be made: I compiled the "Five Rites" compiled by the late Taiwei Xun Pin. I believe that it is a beautiful thing for an emperor to create an emperor's legacy and pass it on to future generations; it is a major event to govern a country by making the etiquette prosperous and guiding education. Therefore, my previous statement on etiquette matters was delayed, so please implement it as soon as possible.
+
+summary:
+summary line 5: The text discusses the establishment of temples and sacrifices for ancestors, including the seven-temple system and the placement of divine tablets. It notes that during the Jin dynasty, the ancestral temple was rebuilt, and the system of moving divine tablets based on generational ties was implemented. The text also covers the rituals for the queen's silkworm ceremony and the emperor's plowing ceremony, which were meant to promote agriculture and filial piety.
+
+Chunk 2: 
+original: 
+是以常侍戴邈诣阙上疏云： 方今天地更始，万物权舆，荡近世之流弊，创千龄之英范。
+是故双剑之节崇，而飞白之俗成；挟琴之容饰，而赴曲之和作。
+其所以兴起礼文，劝帝身先之也。
+穆哀之后，王猷渐替，桓温居揆，政由己出，而有司或曜斯文，增晖执事，主威长谢，臣道专行。
+《记》曰， 苟无其位，不可以作礼乐 ，岂斯之谓欤！晋始则有荀顗、郑冲裁成国典，江左则有荀崧、刁协损益朝仪。
+《周官》五礼，吉凶军宾嘉，而吉礼之大，莫过祭祀，故《洪范》八政，三日祀。
+祀者，所以昭孝事祖，通于神明者也。
+汉兴，承秦灭学之后，制度多未能复古。
+历东、西京四百余年，故往往改变。
+魏氏承汉末大乱，旧章殄灭，命侍中王粲、尚书卫顗草创朝仪。
+及晋国建，文帝又命荀顗因魏代前事，撰为新礼，参考今古，更其节文，羊祜、任恺、庾峻、应贞并共刊定，成百六十五篇，奏之。
+太康初，尚书仆射硃整奏付尚书郎挚虞讨论之。
+虞表所宜损增曰：臣典校故太尉顗所撰《五礼》，臣以为夫革命以垂统，帝王之美事也，隆礼以率教，邦国之大务也，是以臣前表礼事稽留，求速讫施行。
+translation: 
+Therefore, Dai Miao, the constant attendant, submitted a seal to the court and said: When the earth is renewed, all things begin to prosper, sweeping away the evils of modern times, and setting an example for thousands of years.
+Therefore, advocating loyalty and integrity creates cultural and educational customs; organizing the appearance of playing the piano can lead to harmonious resonance.
+He wanted to use these to promote etiquette and civilization and encourage the emperor to lead by example.
+Later, when the royal power declined and Li Guo came to power, he issued political orders himself, but the relevant officials tarnished the civility and whitewashed the powerful ministers. The emperor's prestige was ruined, and the ministers did whatever they wanted.
+"Ji" says: Without fame and position, it is impossible to promote rituals and music. Could it be that this is the case? At the beginning of the burial period, Bao Su and Qian Yi formulated national regulations, and during the period of the burial period, Bao Pi and Wang Xie revised the court etiquette.
+There are five types of etiquette in "Zhou Guan", namely auspicious etiquette, unlucky etiquette, military etiquette, guest etiquette, and honorable etiquette. Among them, the most important auspicious etiquette is sacrifice, so the third of the eight political affairs in "Hongfan" is called sacrificial ceremony.
+Sacrifice is a way to express filial piety, serve ancestors, and communicate with gods.
+After the establishment of the Han Dynasty and the destruction of Confucianism by the Qin Dynasty, many aspects of the system have not been able to return to the way they were in ancient times.
+After more than 400 years in Tokyo and Xijing, there have been many changes.
+The Wei Dynasty followed the chaos at the end of the Han Dynasty, and the old regulations were completely destroyed. Wang Can and Wei Jian, the ministers, were ordered to draft and formulate court etiquette.
+After the establishment of the Jin Dynasty, Emperor Wen ordered Xunjie to follow what had been done in the Wei Dynasty and write a new etiquette system. Taking into account the situation at that time and the ancient dispatch system, he changed the chapters and articles in it. Yang Ku, Ren Kai, Yu Jun, and Ying Zhen jointly reviewed it and made it into 165 chapters, which were presented to the emperor.
+In the early years of Taikang, Shangshu Pushe Zhu Zheng submitted a memorial request to Shangshu Lang Zhiyu for consideration.
+Zhiyu wrote a memorial regarding the changes that should be made: I compiled the "Five Rites" compiled by the late Taiwei Xun Pin. I believe that it is a beautiful thing for an emperor to create an emperor's legacy and pass it on to future generations; it is a major event to govern a country by making the etiquette prosperous and guiding education. Therefore, my previous statement on etiquette matters was delayed, so please implement it as soon as possible.
+
+summary:
+summary line 6: Finally, the text addresses the sacrifices to various gods, including the Six Sects, the Five Mountains, and the Four Rivers. It notes that during the Eastern Jin dynasty, many rituals were abandoned or simplified due to political turmoil. The text concludes with a discussion of the proper rituals for mourning and the importance of adhering to ancient customs while adapting to contemporary circumstances.
+

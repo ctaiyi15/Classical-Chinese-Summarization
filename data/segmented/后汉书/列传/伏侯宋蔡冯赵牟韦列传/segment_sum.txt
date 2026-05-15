@@ -1,37 +1,4 @@
-Summary uses chunk [17, 0, 5, 6, 8, 9, 14, 15, 16]
-
-Chunk 17: 
-original: 
-是时，陈事者多言郡国贡举率非功次，故守职益懈而吏事浸疏，咎在州郡。
-有诏下公卿朝臣议。
-彪上议曰： 伏惟明诏，忧劳百姓，垂恩选举，务得其人。
-夫国以简贤为务，贤以孝行为首。
-孔子曰： 事亲孝故忠可移于君，是以求忠臣必于孝子之门。
-夫人才行少能相兼，是以孟公绰优于赵、魏老，不可以为滕、薛大夫。
-忠孝之人，持心近厚；锻炼之吏，持心近薄。
-三代之所以直道而行者，在其所以磨之故也。
-士宜以才行为先，不可纯以阀阅。
-然其要归，在于选二千石。二千石贤，则贡举皆得其人矣。
-帝深纳之。
-彪以世承二帝吏化之后，多以苛刻为能，又置官选职，不必以才，因盛夏多寒，上疏谏曰： 臣闻政化之本，必顺阴阳。
-伏见立夏以来，当暑而寒，殆以刑罚刻急，郡国不奉时令之所致也。
-translation: 
-At this time, many people who wrote letters said that most of the tributes from counties and counties were not in the order of merit, so that the duties were increasingly slack and the officials were neglected. The fault lies with the states and counties.
-The emperor issued an edict and ordered the ministers to discuss the matter.
-Wei Biao submitted a proposal and said: Your Majesty has issued an edict to care about the people, and you will be gracious to elect them to ensure that they are selected.
-The country's top priority is to select talented people, and talented people should first act with filial piety.
-Confucius said: If you are filial to relatives, your loyalty can be transferred to the king, so loyal ministers must be in the door of filial sons.
-People rarely have both talent and behavior. Therefore, Meng Gongchuo is better than Zhao and Wei Lao, so he cannot be the doctor of Teng and Xue. Because Teng and Xue have small and complicated political affairs, they cannot bear it.
-A person who is loyal and filial has a heart that is close to being generous; a person who has been trained and mature has a heart that is close to being mean.
-The reason why the three generations have been able to follow a straight path is that the wise men in ancient times have been tempered and selected.
-Scholars should put their talents first and their conduct first, and should not judge based solely on their merits.
-However, the key is to choose two thousand stones and two thousand stone wise people, then all the tributes will be won.
-The emperor thought deeply but accepted it.
-Wei Biao believed that at that time, after the second generation of emperors Guangwu and Ming, the officialdom was based on harshness, and officials were selected for positions without talent as a condition. Because it was cold in midsummer, he went to Shu to remonstrate: "I heard that the fundamentals of politicalization are to follow the yin and yang."
-Since the beginning of summer, it has been hot and cold. This is caused by the urgent punishment and the lack of seasonality in the counties below.
-
-summary:
-summary line 0: Based solely on the provided text, here is a summary of the biographies of several historical figures.
+Summary uses chunk [0, 5, 7, 9, 11, 17, 19, 20]
 
 Chunk 0: 
 original: 
@@ -68,45 +35,49 @@ When Guangwu came to the throne, he knew that Fu Zhan was a well-known Confucian
 At that time, Deng Yu, the Great Situ, was on an expedition to the west of Guanzhong. The emperor appointed Fu Zhancai as Prime Minister and worshiped him as Sizhi, performing the duties of the Great Situ.
 
 summary:
-summary line 1: Fu Zhan, also known as Hui Gong, was a native of Dongwu. He was a descendant of the scholar Fu Sheng. Fu Zhan was a filial and learned man who taught his father's teachings to hundreds of students. During the chaos of the Gengshi era, he served as the Prefect of Pingyuan, where he remained calm, ate coarse grains, and used his salary to relieve the starving people. He beheaded a powerful governor who planned to raise troops, which stabilized the county. When Guangwu came to the throne, Fu Zhan was appointed to high office, eventually becoming the Grand Situ and Marquis of Yangdu. He advised the emperor against personally conquering the rebel Peng Chong, arguing that the emperor should first secure the central territories. The emperor heeded his advice. A thief named Xu Yiqing, who could not be defeated by officers, surrendered specifically to Fu Zhan. Fu Zhan was later dismissed from his post for a minor fault. He was later recommended for reinstatement but died of heatstroke before he could take office.
+summary line 0: Fu Zhan, also known as Hui Gong, was a native of Dongwu. He was a descendant of the scholar Fu Sheng. Fu Zhan was a filial and learned man who taught his father's teachings to hundreds of students. During the chaos of the Gengshi era, he served as the Prefect of Pingyuan, where he remained calm, ate coarse grains, and used his salary to relieve the starving people. He beheaded a powerful governor who planned to raise troops, which stabilized the county. When Guangwu came to the throne, Fu Zhan was appointed to high office, eventually becoming the Grand Situ and Marquis of Yangdu. He advised the emperor against personally conquering the rebel Peng Chong, arguing that the emperor should first secure the central territories. The emperor heeded his advice. A thief named Xu Yiqing, who could not be defeated by officers, surrendered specifically to Fu Zhan. Fu Zhan was later dismissed from his post for a minor fault. He was later recommended for reinstatement but died of heatstroke before he could take office.
 
 Chunk 5: 
 original: 
-建武四年，光武征霸与车驾会寿春，拜尚书令。
-时无故典，朝廷又少旧臣，霸明习故事，收录遗文，条奏前世善政法度有益于时者，皆施行之。
-每春下宽大之诏，奉四时之令，皆霸所建也。
-明年，代伏湛为大司徒，封关内侯。
-在位明察守正，奉公不回。
-十三年，霸薨，帝深伤惜之，亲自临吊。
-下诏曰： 惟霸积善清洁。视事九年。汉家旧制，丞相拜曰，封为列侯。
-朕以军师暴露，功臣未封，缘忠臣之义，不欲相逾，未及爵命，奄然而终。
-呜呼哀哉！
-昱卒，子建嗣。
-建卒，子昌嗣。
-宋弘字仲子，京兆长安人也。
-父尚，成帝时至少府。哀帝立，以不附董贤，违忤抵罪。
-弘少而温顺，哀、平间作侍中，王莽时为共工。
+族父渊，以宦者有才辩，任职元帝时，佐右显等领中书，号曰大常侍。
+成帝时，任霸为太子舍人。
+霸矜严有威容，家累千金，不事产业。
+笃志好学，师事九江太守房元，治《谷梁春秋》，为元都讲。
+王莽初，王威司命陈崇举霸德行，迁随宰。
+县界旷远，滨带江湖，而亡命者多为寇盗。
+霸到，即案诛豪猾，分捕山贼，县中清静。
+再迁为执法刺奸，纠案势位者，无所疑惮。
+后为淮平大尹，政理有能名。
+及王莽之败，霸保固自守，卒全一郡。
+更始元年，遣使征霸，百姓老弱相携号哭，遮使者车，或当道而卧。
+皆曰： 愿乞侯君复留期年。
+民至乃戒乳妇勿得举子，侯君当去，必不能合。
+使者虑霸就征，临淮必乱，不敢授玺书，具以状闻。
+会更始败，道路不通。
 translation: 
-In the fourth year of Jianwu's reign, Guangwu summoned Hou Ba to meet him in Shouchun and worshiped him as Shangshu Ling.
-There were no historical classics at that time, and there were few old ministers in the court. Hou Baming studied the affairs of the previous court, collected the posthumous documents, and wrote down the good governance laws of the previous life that were beneficial to the time, and they were all implemented.
-The lenient edicts issued every spring and the political orders of the four seasons were all established by Hou Ba.
-In the second year, he was appointed Grand Situ on behalf of Fu Zhan and was granted the title of Marquis of Guan Nei.
-When in office, he is clear-minded, upright, and selfless.
-In the thirteenth year of Jianwu's reign, Hou Ba passed away. Emperor Guangwu was deeply saddened and paid his respects in person.
-The edict said: Hou Ba has accumulated good deeds and has been in charge of the court for nine years. According to the old system of the Han Dynasty, on the day when he was granted the title of Prime Minister, he was also granted the title of Lieutenant Commander.
-I have been exposed to the outside world all year round due to my military service, and my meritorious service has not yet been rewarded. I do not want to exceed the obligation of loyalty, but before I could be awarded a title, Hou Ba passed away.
-Alas!
-So he named Hou Ba the posthumous title of Aihou of Zixiang, with a settlement of 2,600 households. Zihou Yu succeeded to the throne.
-Linhuai officials and people jointly built a temple for him and offered sacrifices at all times.
-◆Song Hong's biography: Song Hong's courtesy name was Zhongzi, and he was a native of Chang'an, Jingzhao.
-His father, Shang Shang, had the lowest official rank when he became emperor. When Emperor Ai was established, he disobeyed Dong Xian and was punished because he did not attach himself to Dong Xian.
-Song Hong was young and docile. He served as an attendant during the reign of Emperor Ai and Emperor Ping, and served as Gonggong during the reign of Wang Mang.
+Hou Yuan, the father of the clan, was a talented official and served in the Yuan Dynasty. He assisted Shi Xian and others to become Zhongshu, and was called the Great Changshi.
+When he became emperor, he appointed Hou Ba to sacrifice his life for the prince.
+Hou Ba is reserved, serious and majestic. His family has a lot of money and he is not engaged in property.
+Dedicated and eager to learn, he took Fang Yuan, the prefect of Jiujiang, as his teacher. He wrote the "Guliang Spring and Autumn Annals" and taught it for Fang Yuan.
+At the beginning of Wang Mang's reign, Chen Chong, the commander of Wuwei, recommended Hou Ba Dexing and moved to the county magistrate.
+The county borders are far away, with rivers and lakes on the coast, and most of the desperadoes are bandits.
+When Hou Ba arrived, he immediately opened a case to kill the powerful and cunning people, and arrested the bandits separately. The county was quiet and peaceful.
+Then he moved to law enforcement, assassinated rapes, reported and exposed powerful people, without any suspicion or fear.
+Later he became Dayin of Huaiping, and he was known for his ability in political governance.
+When Wang Mang failed, Hou Ba defended himself and made the whole county safe.
+In the first year of Gengshi, envoys were sent to summon Hou Ba. The common people, old and weak, cried and blocked the envoys' vehicles, or lay down in the road.
+They all said: I would like to beg to stay in office for another year.
+The people even warned young women not to have children. If Hou Jun left, it would be difficult to save the children in the future.
+The envoy was afraid that Hou Ba would leave due to the conquest, which would lead to chaos in Linhuai, so he did not dare to grant the seal to Hou Ba, so he wrote a memorial to report the situation to the court.
+It happened that the reform failed and the road was blocked.
 
 summary:
-summary line 2: Hou Ba, courtesy name Junfang, was from Mi County. He was a serious and dedicated student of the "Guliang Spring and Autumn Annals." As a county magistrate, he killed powerful criminals and arrested bandits, bringing peace to the region. As the Grand Administrator of Huaipei, he was known for his capable governance. When Wang Mang failed, he defended the county. The people begged for him to stay when he was summoned by Gengshi. Under Guangwu, he became a minister and established many good governance laws. He succeeded Fu Zhan as Grand Situ. He was known for being clear-minded and selfless. After his death, the emperor posthumously named him Marquis Ai of Zixiang, and the people of Linhuai built a temple for him.
+summary line 1: Hou Ba, courtesy name Junfang, was from Mi County. He was a serious and dedicated student of the "Guliang Spring and Autumn Annals." As a county magistrate, he killed powerful criminals and arrested bandits, bringing peace to the region. As the Grand Administrator of Huaipei, he was known for his capable governance. When Wang Mang failed, he defended the county. The people begged for him to stay when he was summoned by Gengshi. Under Guangwu, he became a minister and established many good governance laws. He succeeded Fu Zhan as Grand Situ. He was known for being clear-minded and selfless. After his death, the emperor posthumously named him Marquis Ai of Zixiang, and the people of Linhuai built a temple for him.
 
-Chunk 6: 
+Chunk 7: 
 original: 
+父尚，成帝时至少府。哀帝立，以不附董贤，违忤抵罪。
+弘少而温顺，哀、平间作侍中，王莽时为共工。
 赤眉入长安，遣使征弘，逼迫不得已，行至渭桥，自投于水，家人救得出，因佯死获免。
 光武即位，征拜太中大夫。
 建武二年，代王梁为大司空，封栒邑侯。
@@ -120,12 +91,9 @@ original:
 能自改邪？
 将令相举以法乎？
 谭顿首辞谢，良久乃遣之。
-后大会群臣，帝使谭鼓琴，谭见弘，失其常度。
-帝怪而问之。
-弘乃离席免冠谢曰： 臣所以荐醒谭者，望能以忠正导主，而令朝廷耽悦郑声，臣之罪也。
-帝改容谢，使反服，其后遂不复令谭给事中。
-弘推进贤士冯翊桓梁三十余人，或相及为公卿者。
 translation: 
+His father, Shang Shang, had the lowest official rank when he became emperor. When Emperor Ai was established, he disobeyed Dong Xian and was punished because he did not attach himself to Dong Xian.
+Song Hong was young and docile. He served as an attendant during the reign of Emperor Ai and Emperor Ping, and served as Gonggong during the reign of Wang Mang.
 Chimei entered Chang'an and sent envoys to recruit Song Hong. He had no choice but to commit suicide. When he reached Weiqiao, he threw himself into the water. His family rescued him and he was spared by pretending to be dead.
 Guangwu ascended the throne and was worshiped as Taizhong doctor.
 In the second year of Jianwu, Wang Liang was granted the title of Grand Sikong and was granted the title of Marquis of Yi.
@@ -139,59 +107,41 @@ When Huan Tan arrived, he criticized him before he could sit down and said: "The
 Can you correct it yourself?
 Or should we use Dharma to uplift others?
 Huan Tan thanked him and waited for a long time before letting him go.
-After the meeting with the ministers, the emperor asked Huan Tan to play the harp. When Huan Tan saw Song Hong, he lost his normal state.
-The emperor asked strangely.
-Song Hong then left the table, took off his hat and thanked him, saying: "The reason why I recommend Huan Tan is that I hope he can lead your majesty with loyalty and integrity. But now the court is obsessed with Zheng Sheng. This is my fault."
-The emperor changed his appearance and thanked him, so that he refused to accept it. After that, he no longer ordered Huan Tan to do anything for him.
-There were more than 30 sages Feng Yi and Huan Liang in Hongjin of Song Dynasty, some of whom succeeded them as public ministers.
 
 summary:
-summary line 3: Song Hong, courtesy name Zhongzi, was from Chang'an. He served under several emperors and Wang Mang. When Chimei entered Chang'an, he attempted suicide by drowning to avoid serving them but was rescued. Under Guangwu, he became Grand Sikong and was known for his honesty, distributing his rent among his clan. He once recommended Huan Tan to the emperor, but later criticized Huan Tan for playing secular music at court banquets, which Song Hong felt was inappropriate. When the emperor tried to arrange a marriage between Song Hong and his widowed sister, Princess Huyang, Song Hong refused, stating that a friend from humble times should not be forgotten, and a wife from poverty should not be cast aside. He was later dismissed from his post.
+summary line 2: Song Hong, courtesy name Zhongzi, was from Chang'an. He served under several emperors and Wang Mang. When Chimei entered Chang'an, he attempted suicide by drowning to avoid serving them but was rescued. Under Guangwu, he became Grand Sikong and was known for his honesty, distributing his rent among his clan. He once recommended Huan Tan to the emperor, but later criticized Huan Tan for playing secular music at court banquets, which Song Hong felt was inappropriate. When the emperor tried to arrange a marriage between Song Hong and his widowed sister, Princess Huyang, Song Hong refused, stating that a friend from humble times should not be forgotten, and a wife from poverty should not be cast aside. He was later dismissed from his post.
 
-Chunk 8: 
+Chunk 9: 
 original: 
+论曰：中兴以后，居台相总权衡多矣，其能以任职取名者，岂非先远业后小数哉？
+故惠公造次，急于乡射之礼；君房入朝，先奏宽大之令。
+夫器博者无近用，道长者其功远，盖志士仁人所为根心者也。
+君子以之得，固贵矣；以之失，亦得矣。
+宋弘止繁声，戒淫色，其有《关雎》之风乎！
 蔡茂字子礼，河内怀人也。
 哀、平间以儒学显，征试博士，对策陈灾异，以高等擢拜议郎，迁侍中。
 遇王莽居摄，以病自免，不仕莽朝。
 会天下扰乱，茂素与窦融善，因避难归之。融欲以为张掖太守，固辞不就；每所饷给，计口取足而已。
 后与融俱征，复拜议郎，再迁广汉太守，有政绩称。
 时阴氏宾客在郡界多犯吏禁，茂辄纠案，无所回避。
-会洛阳令董宣举纠湖阳公主，帝始怒收宣，既而赦之。
-茂喜宣刚正，欲令朝廷禁制贵戚，乃上书曰： 臣闻兴化致教，必由进善；康国宁人，莫大理恶。
-陛下圣德系兴，再隆大命，即位以来，四海晏然。
-诚宜夙兴夜寐，虽休勿休。
-然顷者贵戚椒房之家，数因恩势，干犯吏禁，杀人不死，伤人不论。
-臣恐绳墨弃而不用，斧斤废而不举。
-近湖阳公主奴杀人西市，而与主共舆，出入宫省，逋罪积日，冤魂不报。
-洛阳令董宣，直道不顾，干主讨奸。
-陛下不先澄审，召欲加。
-当宣受怒之初，京师侧耳；及其蒙宥，天下试目。
-今者，外戚憍逸，宾客放滥，宜敕有司案理奸罪，使执平之吏永申其用，以厌远近不缉之情。
 translation: 
+The historian commented: After the ZTE, there were many people who held the power of the country as prime ministers and assistants. Don't those who gain fame and fame by holding office first pay attention to morality and etiquette, and then pay attention to fame and law?
+Therefore, when Hui Gong was in a hurry, he first lectured on the etiquette of shooting in the countryside; when the king entered the court, he first gave an order of leniency.
+Generally speaking, tools with great awareness and emotion have no short-term use, but those with Taoist priests have far-reaching achievements. This is probably the root of the benevolence of people with lofty ideals.
+When a gentleman practices morality and righteousness, he gains something, which is called a gain; when he practices morality and righteousness, he loses something, which can also be called a gain.
+Song Hong forbade promiscuous speech and obscenity, which was the intention of "Guan Sui" to promote talents.
 ◆Cai Mao Chuan Cai Mao, courtesy name Zili, was born in Hanoi.
 During the reign of Emperor Ai and Emperor Ping, he was well-known for his Confucianism. He was recruited and tested to be a doctor, and he explained the countermeasures to disasters. With outstanding performance, he was promoted to Yilang and moved to the imperial court.
 When Wang Mang stayed and took photos, Cai Mao voluntarily dismissed him because he was ill and refused to serve as an official under Wang Mang.
 When the world was in turmoil, Cai Mao had always been friendly with Dou Rong, so he took refuge with Dou Rong. Dou Rong wanted to make him the prefect of Zhangye, but Cai Mao refused to take office. He only took enough rations every time he was paid.
 Later, he and Dou Rong were both recruited, and then paid homage to Yilang, and then moved to Guanghan as governor, with good political achievements.
 At that time, guests of the Yin family often violated official bans in the county. Cai Mao did not avoid any dispute cases.
-It happened that Luoyang ordered Dong Xuan to correct Princess Huyang. The emperor became angry and arrested Dong Xuan, but later pardoned her.
-Cai Mao liked Dong Xuan's uprightness and wanted the court to prohibit and restrict the illegal behavior of his relatives, so he wrote a letter saying: "When I hear that people are enlightened and want to teach, they must start with doing good; for people in Kang Guoning, the most important thing is to deal with evil people."
-His Majesty's virtue has flourished, and he has once again inherited his great mission. Since he came to the throne, he has been prosperous all over the world.
-You should get up early and go to bed late, and don't rest when you should.
-However, recently, the family of nobles, concubines, and concubines have relied on their favors many times to violate official regulations, killing people without the death penalty, and injuring others without punishment.
-I am afraid that laws and regulations will be abandoned and punishments will not be used.
-Recently, the slave of the Princess of Huyang killed someone in the Western Market, and he rode in a carriage with the princess, going in and out of the palace, and escaped for many days without being punished.
-Luoyang ordered Dong Xuan to handle the case according to the right way, regardless of the powerful, and to attack the murderer of the princess.
-Your Majesty did not investigate first, but wanted to flog him more.
-When Dong Xuan was angry with His Majesty, the capital paid close attention to him; when Your Majesty pardoned him, everyone in the world watched.
-Nowadays, the foreign relatives are arrogant and have too many guests. We should order someone to handle the crime of adultery so that the just officials can always gain credibility and restrain illegal activities near and far.
 
 summary:
-summary line 4: Cai Mao, courtesy name Zili, was from Hanoi. He was a renowned Confucian who refused to serve under Wang Mang. He took refuge with Dou Rong. Under Guangwu, he became the Grand Administrator of Guanghan. He wrote a memorial criticizing the illegal behavior of imperial relatives and praising the uprightness of Luoyang's magistrate, Dong Xuan. He later became Situ and was known for his honesty and frugality. He died in office.
+summary line 3: Cai Mao, courtesy name Zili, was from Hanoi. He was a renowned Confucian who refused to serve under Wang Mang. He took refuge with Dou Rong. Under Guangwu, he became the Grand Administrator of Guanghan. He wrote a memorial criticizing the illegal behavior of imperial relatives and praising the uprightness of Luoyang's magistrate, Dong Xuan. He later became Situ and was known for his honesty and frugality. He died in office.
 
-Chunk 9: 
+Chunk 11: 
 original: 
-光武纳之。
 建武二十年，代戴涉为司徒，在职清俭匪懈。
 在官三年卒，诏书慜惜，赐车一乘，钱四十万。
 冯勤字伟伯，魏郡繁阳人也。
@@ -205,12 +155,7 @@ original:
 勤同县冯巡等举兵应光武，谋未成而为豪右焦廉等所反，勤乃率将老母、兄弟及宗亲归期，期悉以为腹心，荐于光武。
 初未被用，后乃除为郎中，给事尚书。
 以图议军粮，在事精勤，遂见亲识。
-每引进，帝辄顾谓左右曰： 佳乎吏也！
-由是使典诸侯封事。
-勤差量功次轻重，国土远近，地势丰薄，不相逾越，莫不厌服焉。
-自是封爵之制，非勤不定。
 translation: 
-Guangwu accepted it.
 In the 20th year of Jianwu's reign, he replaced Dai She as Situ. He was honest, frugal and uncompromising in his duties.
 He died in his post in the twenty-third year at the age of seventy-two. He was given a coffin in Dongyuan, and the funeral money was generous.
 ◆Feng Qin's biography: Feng Qin was named Wei Bo and was a native of Fanyang, Wei County.
@@ -224,15 +169,11 @@ Yaoqi often went on expeditions from Guangwu, and entrusted all political affair
 Feng Qin and the county people Feng Xun and others raised troops to respond to Guangwu, but the plan failed and was opposed by the powerful right Jiao Lian and others. Feng Qin then led his mother, brothers and clan relatives to join Yaoqi. Yaoqi regarded them as confidants and recommended them to Guangwu.
 He was not appointed at first, but later he was appointed as a doctor and served as a minister.
 He was able to negotiate military supplies and was shrewd and diligent in doing things, so he was valued by Guangwu's cronies.
-Every time he was introduced, the emperor always said to his left and right: "What a good official!"
-As a result, Feng Qin was asked to examine the Jin feudal issues of the princes.
-Feng Qin weighed the importance of merit, the distance of the country, the richness of the terrain, and made the reward consistent with the merit without exceeding it, which convinced everyone.
-From then on, the system of nobility had to be reviewed and approved by Feng Qin.
 
 summary:
-summary line 5: Feng Qin, courtesy name Wei Bo, was from Fanyang. He was tall and capable with arithmetic. He served as a meritorious officer under Yaoqi and was recommended to Guangwu. He was valued for his skill in negotiating military supplies and was put in charge of examining the fiefs of the princes, a system he established. He later became Situ. The emperor warned him to be a loyal minister, using the example of Zhu Fu. Feng Qin served with respect and conscientiousness. His mother was honored by the emperor. He died in office.
+summary line 4: Feng Qin, courtesy name Wei Bo, was from Fanyang. He was tall and capable with arithmetic. He served as a meritorious officer under Yaoqi and was recommended to Guangwu. He was valued for his skill in negotiating military supplies and was put in charge of examining the fiefs of the princes, a system he established. He later became Situ. The emperor warned him to be a loyal minister, using the example of Zhu Fu. Feng Qin served with respect and conscientiousness. His mother was honored by the emperor. He died in office.
 
-Chunk 14: 
+Chunk 17: 
 original: 
 二十六年，帝延集内戚宴会，欢甚，诸夫人各各前言 赵憙笃义多恩，往遭赤眉出长安，皆为憙所济活 。
 帝甚嘉之。
@@ -267,53 +208,14 @@ Clean the etiquette, strictly guard the door, and be solemn inside and outside.
 In the first year of Yongping, he was granted the title of Marquis of the Countryside.
 
 summary:
-summary line 6: Zhao Xi, courtesy name Boyang, was from Wan. As a youth, he sought revenge for his cousin but delayed the act until his enemies recovered from illness. He was recruited by Gengshi to persuade the Li family of Wucheng to surrender. He fought at Kunyang and was wounded. After Gengshi's failure, he helped friends and Gengshi's family escape, protecting them from bandits. He was falsely accused of conspiracy but was cleared by the emperor. He served as a county magistrate and governor, suppressing bandits and punishing the powerful. He was known for his mercy, moving surrendered bandits to other counties. He became Taiwei and managed frontier affairs, ordering immigrants to return to their original lands. He presided over the funeral of Emperor Guangwu and established proper court etiquette for the princes. He died at age eighty-four.
+summary line 5: Zhao Xi, courtesy name Boyang, was from Wan. As a youth, he sought revenge for his cousin but delayed the act until his enemies recovered from illness. He was recruited by Gengshi to persuade the Li family of Wucheng to surrender. He fought at Kunyang and was wounded. After Gengshi's failure, he helped friends and Gengshi's family escape, protecting them from bandits. He was falsely accused of conspiracy but was cleared by the emperor. He served as a county magistrate and governor, suppressing bandits and punishing the powerful. He was known for his mercy, moving surrendered bandits to other counties. He became Taiwei and managed frontier affairs, ordering immigrants to return to their original lands. He presided over the funeral of Emperor Guangwu and established proper court etiquette for the princes. He died at age eighty-four.
 
-Chunk 15: 
+Chunk 19: 
 original: 
-三年春，坐考中山相薛脩事不实免。
-其冬，代窦融为卫尉。
-八年，代虞延行太尉事，居府如真。
-后遭母忧，上疏乞身行丧礼，显宗不许，遣使者为释服，赏赐恩宠甚渥。
-憙内典宿卫，外干宰职，正身立朝，未尝懈惰。
-及帝崩，复典丧事，再奉大行，礼事修举。
-肃宗即位，进为太傅，录尚书事。
-擢诸子为郎吏者七人。长子代，给事黄门。
-子直嗣，官至步兵校尉。
-直卒，子淑嗣，无子，国除。
-牟融字子优，北海安丘人也。
-少博学，以《大夏侯尚书》教授，门徒数百人，名称州里。
-以司徒茂才为丰令，视事三年，县无狱讼，为州郡最。
-司徒范迁荐融忠正公方，经行纯备，宜在本朝，并上其理状。
 永平五年，入代鲍昱为司隶校尉，多所举正，百僚敬惮之。
 八年，代包咸为大鸿胪。
 十一年，代鲑阳鸿为大司农。
 是时，显宗方勤万机，公卿数朝会，每辄延谋政事，判折狱讼。
-translation: 
-In the spring of three years, he was dismissed from office because he found out the truth about Zhongshan Prime Minister Xue.
-In the winter of this year, Dai Dou Rong became a guard.
-In the eighth year, he took over the affairs of the Taiwei on behalf of Yu Yan and lived in the mansion as if it were true.
-Later, when his mother died, Shangshu requested to go home for the funeral, but Xianzong refused. He sent an envoy to take off his mourning clothes and rewarded him with great favors.
-Zhao Xun presided over the imperial guards internally and held the position of prime minister externally.
-When the emperor passed away, he presided over the funeral and performed the ceremony again, and the ceremony was complete.
-Suzong ascended the throne, became Taifu, and took charge of the affairs of the Shangshu.
-Among the seven people who promoted his sons to be officials, the eldest son Zhao Dai served in Huangmen.
-In the fifth year of Jianchu's reign, Zhao Xi fell ill, and the emperor came to visit him in person.
-After he died of illness, the emperor personally went to pay his respects. He was eighty-four years old, and his posthumous title was Zhenghou.
-◆The biography of Mou Rong Mou Rong, courtesy name Ziyou, was from Anqiu, Beihai County.
-He was very knowledgeable when he was young, and became a professor of Daxia Hou Shangshu. He had hundreds of disciples named Zhouli.
-With Situ Maocai as the magistrate of Feng County, he served for three years. There were no jail cases in the county, which was the best among the prefectures and counties.
-Situ Fanqian recommended Mou Rong to be loyal, upright, and pure in behavior, and he should be in this dynasty, and reported his governance situation.
-In the fifth year of Yongping, Bao Yu was appointed as Sili Xiaowei. He took many measures to correct the situation and was respected by all officials.
-In the eighth year, Bao Xian was appointed as Dahonglu.
-In the eleventh year, Dai Shayanghong was appointed as the chief agricultural officer.
-At this time, Xianzong was working hard, and the ministers had several court meetings a day, and every time they planned political affairs with Yan, they were sentenced to prison and lawsuits.
-
-summary:
-summary line 7: Mou Rong, courtesy name Ziyou, was from Beihai. He was a professor of the "Great Xia Hou Shangshu." As a county magistrate, he had no jail cases. He served in various high offices, including Sili Xiaowei, Dahonglu, and Chief Agricultural Officer. He was well-versed in classics and had great talent for discussion. He became Taiwei under Emperor Suzong and died in office.
-
-Chunk 16: 
-original: 
 融经明才高，善论议，朝廷皆服其能；帝数嗟叹，以为才堪宰相。
 明年，代伏恭为司空，举动方重，甚得大臣节。
 肃宗即位，以融先朝名臣，代赵憙为太尉，与憙参录尚书事。
@@ -323,6 +225,26 @@ original:
 韦彪字孟达，扶风平陵人也。
 高祖贤，宣帝时为丞相。
 祖赏，哀帝时为大司马。
+translation: 
+In the fifth year of Yongping, Bao Yu was appointed as Sili Xiaowei. He took many measures to correct the situation and was respected by all officials.
+In the eighth year, Bao Xian was appointed as Dahonglu.
+In the eleventh year, Dai Shayanghong was appointed as the chief agricultural officer.
+At this time, Xianzong was working hard, and the ministers had several court meetings a day, and every time they planned political affairs with Yan, they were sentenced to prison and lawsuits.
+Mou Rong was well versed in classics and had great talent, and he was good at discussion. The court admired his talent. The emperor sighed many times, thinking that Mou Rong had the talent of a prime minister.
+In the second year, Dai Fugong became Sikong. His actions were upright and prudent, and he was highly respected as a minister.
+When Suzong came to the throne, Mou Rong was a famous official in the previous dynasty. He replaced Zhao Xi as the Taiwei, and participated in the affairs of the general minister with Zhao Xi.
+He died in the fourth year of his reign, and the emperor personally attended his funeral.
+At that time, Mou Rong's eldest son Mou Lin returned to the countryside. The emperor thought that the other sons were young and weak, so he ordered the Taiwei to teach the emperor to teach him how to proceed with dignity and etiquette, and bestowed lavish favors on him.
+He also gave a cemetery under the Xianjie Mausoleum and appointed Mou Lin as his minister.
+◆Biography of Wei Biao Wei Biao, courtesy name Mengda, was from Pingling, Fufeng.
+The great ancestor Wei Xian was the prime minister during the reign of Emperor Xuan.
+Zu Wei rewarded him, and he was the Grand Sima during the reign of Emperor Ai.
+
+summary:
+summary line 6: Mou Rong, courtesy name Ziyou, was from Beihai. He was a professor of the "Great Xia Hou Shangshu." As a county magistrate, he had no jail cases. He served in various high offices, including Sili Xiaowei, Dahonglu, and Chief Agricultural Officer. He was well-versed in classics and had great talent for discussion. He became Taiwei under Emperor Suzong and died in office.
+
+Chunk 20: 
+original: 
 彪孝行纯至，父母卒，哀毁三年，不出庐寝。
 服竟，赢瘠骨立异形，医疗数年乃起。
 好学洽闻，雅称儒宗。
@@ -341,15 +263,6 @@ original:
 乃厚赐彪钱珍羞食物，使归平陵上冢。
 还，拜大鸿胪。
 translation: 
-Mou Rong was well versed in classics and had great talent, and he was good at discussion. The court admired his talent. The emperor sighed many times, thinking that Mou Rong had the talent of a prime minister.
-In the second year, Dai Fugong became Sikong. His actions were upright and prudent, and he was highly respected as a minister.
-When Suzong came to the throne, Mou Rong was a famous official in the previous dynasty. He replaced Zhao Xi as the Taiwei, and participated in the affairs of the general minister with Zhao Xi.
-He died in the fourth year of his reign, and the emperor personally attended his funeral.
-At that time, Mou Rong's eldest son Mou Lin returned to the countryside. The emperor thought that the other sons were young and weak, so he ordered the Taiwei to teach the emperor to teach him how to proceed with dignity and etiquette, and bestowed lavish favors on him.
-He also gave a cemetery under the Xianjie Mausoleum and appointed Mou Lin as his minister.
-◆Biography of Wei Biao Wei Biao, courtesy name Mengda, was from Pingling, Fufeng.
-The great ancestor Wei Xian was the prime minister during the reign of Emperor Xuan.
-Zu Wei rewarded him, and he was the Grand Sima during the reign of Emperor Ai.
 Wei Biao was a filial and upright person. When his parents died, he mourned for three years and guarded the tomb without leaving the house.
 After taking the medicine, I became skinny and skinny, and my appearance also changed. It took several years for medical treatment to begin.
 He was fond of learning and knowledgeable, and was elegantly called Confucian.
@@ -369,5 +282,5 @@ So he gave Wei Biao money and delicacies and asked him to go back to Pingling to
 After returning, he worshiped him as Da Honglu.
 
 summary:
-summary line 8: Wei Biao, courtesy name Mengda, was from Pingling. He was a descendant of the prime minister Wei Xian. He was known for his filial piety, mourning his parents for three years. He was a learned Confucian who lived in poverty. He was summoned by Emperor Xianzong and became the Prefect of Wei County. He later served as Da Honglu. He submitted a memorial arguing that the selection of officials should prioritize filial piety and conduct over talent. He also advised the emperor to reduce harsh punishments and select officials with experience as state governors. He was known for his frugality and charity, leaving his family with no money. He wrote a twelve-chapter work titled "Wei Qingzi."
+summary line 7: Wei Biao, courtesy name Mengda, was from Pingling. He was a descendant of the prime minister Wei Xian. He was known for his filial piety, mourning his parents for three years. He was a learned Confucian who lived in poverty. He was summoned by Emperor Xianzong and became the Prefect of Wei County. He later served as Da Honglu. He submitted a memorial arguing that the selection of officials should prioritize filial piety and conduct over talent. He also advised the emperor to reduce harsh punishments and select officials with experience as state governors. He was known for his frugality and charity, leaving his family with no money. He wrote a twelve-chapter work titled "Wei Qingzi."
 

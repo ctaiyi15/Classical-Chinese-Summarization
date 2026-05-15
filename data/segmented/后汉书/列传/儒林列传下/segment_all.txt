@@ -52,8 +52,6 @@ original:
 子福，拜郎中，亦以《论语》入授和帝。
 魏应字君伯，任城人也。
 少好学。
-建武初，诣博士受业，习《鲁诗》。
-闭门诵习，不交僚党，京师称之。
 translation: 
 For more than ten days, Bao Xian could chant sutras in the morning and evening freely. The red-browed thieves were surprised and sent him away.
 So he lived in the East China Sea and built a monastery to teach.
@@ -72,12 +70,12 @@ Eight years later, at the age of seventy-two, he died in office.
 His son Bao Fu was awarded the title of doctor, and he also used "The Analects of Confucius" to teach and teach in the imperial court.
 ◆In the biography of Wei Ying, Wei Ying was named Jun Bo and was a native of Rencheng.
 It is easy to learn when you are young.
-In the early years of Jianwu, he went to study for a doctoral degree and studied "Lu Shi".
-He studied behind closed doors and made no friends, and everyone in the capital praised him.
 
 
 Chunk 2: 
 original: 
+建武初，诣博士受业，习《鲁诗》。
+闭门诵习，不交僚党，京师称之。
 后归为郡吏，举明经，除济阴王文学。
 以疾免官，教授山泽中，徒众常数百人。
 永平初，为博士，再迁侍中。
@@ -89,6 +87,24 @@ original:
 时会京师诸儒于白虎观，讲论《五经》同异，使应专掌难问，侍中淳于恭奏之，帝亲临称制，如石渠故事。
 明年，出为上党太守，征拜骑都尉，卒于官。
 伏恭字叔齐，琅邪东武人，司徒湛之兄子也。
+translation: 
+In the early years of Jianwu, he went to study for a doctoral degree and studied "Lu Shi".
+He studied behind closed doors and made no friends, and everyone in the capital praised him.
+Later he returned home and became a county official. He taught Ming scriptures and taught literature to King Yin.
+He was dismissed from his official post due to illness and became a professor in Shan Zezhong, often with hundreds of students and disciples.
+In the early years of Yongping, he became a doctor and was promoted to minister.
+In the thirteenth year, he was promoted to Dahonglu.
+In the eighteenth year, he was awarded Doctor Guanglu.
+In the fourth year of the founding of the People's Republic of China, he was awarded the title of "Five-Guan Zhonglang General".
+Wei Ying was proficient in Confucian classics and had a pure moral character. He had thousands of disciples who came from far away to learn from him.
+Suzong valued him very much, visited him many times, discussed problems in front of the emperor, and received special rewards.
+At this time, the Confucian scholars of the capital were gathered at Baihu Temple to discuss the similarities and differences of the Five Classics, and Wei Ying was asked to explain the difficulties. Chun Yugong, the servant, reported to the emperor. The emperor personally attended the meeting to preside over it, just like the old thing in Shiqu.
+In the second year, Wei Ying was appointed as the governor of Shangdang and was awarded the title of cavalry captain. He died in office.
+◆The biography of Fu Gong, Fu Gong's courtesy name Shuqi, was a native of Dongwu, Langfu, and the son of Situ Fuzhan's younger brother.
+
+
+Chunk 3: 
+original: 
 湛弟黯，字稚文，以明《齐诗》，改定章句，作《解说》九篇，位至光禄勋，无子，以恭为后。
 恭性孝，事所继母甚谨，少传黯学，以任为郎。
 建武四年，除剧令。
@@ -103,23 +119,7 @@ original:
 建初二年冬，肃宗行飨礼，以恭为三老。
 年九十，元和元年卒，赐葬显节陵下。
 子寿，官至东郡太守。
-任末字叔本，蜀郡繁人也。
-少习《齐诗》，游京师，教授十余年。
-友人董奉德于洛阳病亡，末乃躬推鹿车，载奉德丧致其墓所，由是知名。
-为郡功曹，辞以病免。
-后奔师丧，于道物故。
 translation: 
-Later he returned home and became a county official. He taught Ming scriptures and taught literature to King Yin.
-He was dismissed from his official post due to illness and became a professor in Shan Zezhong, often with hundreds of students and disciples.
-In the early years of Yongping, he became a doctor and was promoted to minister.
-In the thirteenth year, he was promoted to Dahonglu.
-In the eighteenth year, he was awarded Doctor Guanglu.
-In the fourth year of the founding of the People's Republic of China, he was awarded the title of "Five-Guan Zhonglang General".
-Wei Ying was proficient in Confucian classics and had a pure moral character. He had thousands of disciples who came from far away to learn from him.
-Suzong valued him very much, visited him many times, discussed problems in front of the emperor, and received special rewards.
-At this time, the Confucian scholars of the capital were gathered at Baihu Temple to discuss the similarities and differences of the Five Classics, and Wei Ying was asked to explain the difficulties. Chun Yugong, the servant, reported to the emperor. The emperor personally attended the meeting to preside over it, just like the old thing in Shiqu.
-In the second year, Wei Ying was appointed as the governor of Shangdang and was awarded the title of cavalry captain. He died in office.
-◆The biography of Fu Gong, Fu Gong's courtesy name Shuqi, was a native of Dongwu, Langfu, and the son of Situ Fuzhan's younger brother.
 Fu Zhan's younger brother Fu An, whose courtesy name was Zhiwen, changed the chapters and sentences in order to clarify "Qi Shi" and wrote nine chapters of "Explanation". He rose to the rank of Guang Luxun. Fu Zhan had no sons, so he took Fu Gong as his queen.
 Fu Gong has a filial nature and treats his stepmother with great respect. When he was young, he passed on the Fu An School and was appointed as a man.
 In the fourth year of Jianwu's reign, he was awarded the title of county magistrate.
@@ -134,15 +134,15 @@ In the fifteenth year, the emperor came to Langfu and introduced Fugong, which w
 In the winter of the second year of Jianchu, Suzong held a feast and called Fugong the third elder.
 In the 90th year of his reign, he passed away in the first year of Yuanhe and was buried under the Xianjie Mausoleum.
 His son Fushou was promoted to the prefect of Dongjun.
-◆In the biography of Ren Mo, his courtesy name is Shuben. He was a native of Fan County, Shu County.
-When he was young, he studied "Qi Shi", traveled to the capital, and taught his disciples for more than ten years.
-When his friend Dong Fengde died of illness in Luoyang, Ren Mo personally pushed the deer cart to carry Dong Fengde's funeral to the cemetery, which made him famous.
-He was a meritorious officer of the county and resigned due to illness.
-Later, Ben died on the road at the funeral of his teacher.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
+任末字叔本，蜀郡繁人也。
+少习《齐诗》，游京师，教授十余年。
+友人董奉德于洛阳病亡，末乃躬推鹿车，载奉德丧致其墓所，由是知名。
+为郡功曹，辞以病免。
+后奔师丧，于道物故。
 临命，敕兄子造曰： 必致我尸于师门，使死而有知，魂灵不惭；如其无知，得土而已。
 造从之。
 景鸾字汉伯，广汉梓潼人也。
@@ -154,18 +154,12 @@ original:
 数上书陈救灾变之术。
 州郡辟命不就，以寿终。
 薛汉字公子，淮阳人也。
-世习《韩诗》，父子以章句著名。
-汉少传父业，尤善说灾异谶纬，教授常数百人。
-建武初，为博士，受诏校定图谶。
-当世言《诗》者，推汉为长。
-永平中，为千乘太守，政有异迹。
-后坐楚事辞相连，下狱死。
-弟子犍为杜抚、会稽澹台敬伯、钜鹿韩伯高最知名。
-杜抚字叔和，犍为武阳人也。
-少有高才。
-受业于薛汉，定《韩诗章句》。
-后归乡里教授。
 translation: 
+◆In the biography of Ren Mo, his courtesy name is Shuben. He was a native of Fan County, Shu County.
+When he was young, he studied "Qi Shi", traveled to the capital, and taught his disciples for more than ten years.
+When his friend Dong Fengde died of illness in Luoyang, Ren Mo personally pushed the deer cart to carry Dong Fengde's funeral to the cemetery, which made him famous.
+He was a meritorious officer of the county and resigned due to illness.
+Later, Ben died on the road at the funeral of his teacher.
 When he was about to die, he told his brother's son Ren Zao: "My body must be sent to the teacher. If I am still conscious after death, my soul will not feel ashamed; if I am not conscious, I have to leave it alone."
 Ren Zao listened to him.
 ◆Jing Luan's biography, Jing Luan's courtesy name is Han Bo, and he was born in Zitong, Guanghan.
@@ -177,6 +171,28 @@ His writings total more than 500,000 words.
 He wrote many letters describing extraordinary disaster relief techniques.
 The prefectures and counties were not established. End with life.
 ◆Xue Hanzhuan, Xue Hanzi Gongzi, a native of Huaiyang.
+
+
+Chunk 5: 
+original: 
+世习《韩诗》，父子以章句著名。
+汉少传父业，尤善说灾异谶纬，教授常数百人。
+建武初，为博士，受诏校定图谶。
+当世言《诗》者，推汉为长。
+永平中，为千乘太守，政有异迹。
+后坐楚事辞相连，下狱死。
+弟子犍为杜抚、会稽澹台敬伯、钜鹿韩伯高最知名。
+杜抚字叔和，犍为武阳人也。
+少有高才。
+受业于薛汉，定《韩诗章句》。
+后归乡里教授。
+沈静乐道，举动必以礼。
+弟子千余人。后为骠骑将军东平王苍所辟，及苍就国，掾史悉补王官属，未满岁，皆自劾归。
+时，抚为大夫，不忍去，苍闻，赐车马财物遣之。
+辟太尉府。
+建初中，为公车令，数月卒官。
+其所作《诗题约义通》，学者传之，曰《杜君法》云。
+translation: 
 They have been studying "Han Shi" for generations, and both father and son are famous for their interpretation of the chapters and sentences of the scriptures.
 When Xue Han was young, he passed on his father's studies and was particularly good at predicting disasters and prophecies. He often taught hundreds of students.
 In the early years of Jianwu, he became a doctor and was ordered to compile the prophecies.
@@ -188,16 +204,16 @@ The most famous disciples were Jianwei Du Fu, Tantai Jingbo in Kuaiji, and Han B
 Very talented when he was young.
 Learned from Xue Han and settled on "Korean Poetry Chapters".
 Later he returned to his hometown to teach students.
+Shen Yi is quiet, takes Tao as his pleasure, and every move is based on etiquette.
+There were more than a thousand disciples, and they were later conquered by the hussar general Wang Cang of Dongping. When Cang came to the country, all the officials of the imperial family were recruited to supplement the royal family. Within a year, they all went back.
+Du Fu was a doctor at that time and couldn't bear to leave. Cang heard about it and sent him off with carriages, horses and property.
+Established Taiwei Mansion.
+He built a junior high school and served as a bus commander. He only lasted a few months and died in office.
+His "Poem Titles and Meanings" is passed down and recited by scholars, and is called "Du Junfa".
 
 
-Chunk 4: 
+Chunk 6: 
 original: 
-沈静乐道，举动必以礼。
-弟子千余人。后为骠骑将军东平王苍所辟，及苍就国，掾史悉补王官属，未满岁，皆自劾归。
-时，抚为大夫，不忍去，苍闻，赐车马财物遣之。
-辟太尉府。
-建初中，为公车令，数月卒官。
-其所作《诗题约义通》，学者传之，曰《杜君法》云。
 召驯字伯春，九江寿春人也。
 曾祖信臣，元帝时为少府。
 父建武中为卷令，俶傥不拘小节。
@@ -211,13 +227,18 @@ original:
 孙休，位至青州刺史。
 杨仁字文义，巴郡阆中人也。
 建武中，诣师学习《韩诗》，数年归，静居教授。
+仕郡为功曹，举孝廉，除郎。
+太常上仁经中博士，仁自以年未五十，不应旧科，上府让选。
+显宗特诏补北宫卫士令，引见，问当世政迹。
+仁对以宽和任贤，抑黜骄戚为先。
+又上便宜十二事，皆当世急务。
+帝嘉之，赐以缣钱。
+及帝崩，时诸马贵盛，各争欲入宫，仁被甲持戟，严勒门卫，莫敢轻进者。
+肃宗既立，诸马共谮仁刻峻，帝知其忠，愈善之，拜什邡令。
+宽惠为政，劝课掾史弟子，悉令就学。
+其有通明经术者，显之右署，或贡之朝，由是义学大兴。
+垦田千余顷。
 translation: 
-Shen Yi is quiet, takes Tao as his pleasure, and every move is based on etiquette.
-There were more than a thousand disciples, and they were later conquered by the hussar general Wang Cang of Dongping. When Cang came to the country, all the officials of the imperial family were recruited to supplement the royal family. Within a year, they all went back.
-Du Fu was a doctor at that time and couldn't bear to leave. Cang heard about it and sent him off with carriages, horses and property.
-Established Taiwei Mansion.
-He built a junior high school and served as a bus commander. He only lasted a few months and died in office.
-His "Poem Titles and Meanings" is passed down and recited by scholars, and is called "Du Junfa".
 ◆Zhao Xunzhuan, whose courtesy name is Bochun, was born in Shouchun, Jiujiang.
 Great-grandfather summoned his ministers to serve as Shaofu during the reign of Emperor Yuan.
 His father, Jianwu Zhong, was a county magistrate, and he was dissolute and unruly.
@@ -231,33 +252,6 @@ In the second year of Zhanghe, he was appointed as Kuaizuo Guangluxun. He died i
 His grandson was called Zhaoxiu, and he became the governor of Qingzhou.
 ◆The biography of Yang Ren, whose courtesy name is Wenyi, was from Langzhong, Bajun.
 In Jianwu Middle School, he studied "Han Shi" as a teacher. After a few years, he returned home and taught his students quietly.
-
-
-Chunk 5: 
-original: 
-仕郡为功曹，举孝廉，除郎。
-太常上仁经中博士，仁自以年未五十，不应旧科，上府让选。
-显宗特诏补北宫卫士令，引见，问当世政迹。
-仁对以宽和任贤，抑黜骄戚为先。
-又上便宜十二事，皆当世急务。
-帝嘉之，赐以缣钱。
-及帝崩，时诸马贵盛，各争欲入宫，仁被甲持戟，严勒门卫，莫敢轻进者。
-肃宗既立，诸马共谮仁刻峻，帝知其忠，愈善之，拜什邡令。
-宽惠为政，劝课掾史弟子，悉令就学。
-其有通明经术者，显之右署，或贡之朝，由是义学大兴。
-垦田千余顷。
-行兄丧去官。
-后辟司徒桓虞府。
-掾有宋章者，贪奢不法，仁终不与交言同席，时人畏其节。
-后为阆中令，卒于官。
-赵晔字长君，会稽山阴人也。
-少尝为县吏，奉檄迎督邮，晔耻于斯役，遂弃车马去。
-到犍为资中，诣杜抚受《韩诗》，究竟其术。
-积二十年，绝问不还，家为发丧制服。
-抚卒乃归。
-州召补从事，不就。
-卒于家。
-translation: 
 Serve as a county meritorious official, promote filial piety and integrity, and grant titles to men.
 Taichang was appointed to Yang Ren as a doctor. Yang Ren himself believed that he was under fifty and should not continue his studies, so he went to the government to be elected.
 Xianzong issued a special edict to supplement the Beigong Guards Order. The emperor introduced him and asked about the current political situation.
@@ -269,6 +263,29 @@ When Suzong came to the throne, all the Ma clans jointly accused Yang Ren of bei
 Tolerance is the rule of government, and students are encouraged to teach and study history, so that they can all enter the school.
 Among them, those who were proficient in classics were commended to their superiors, and some contributed to the court, which led to a great development of righteous learning.
 More than a thousand hectares of farmland were cultivated.
+
+
+Chunk 7: 
+original: 
+行兄丧去官。
+后辟司徒桓虞府。
+掾有宋章者，贪奢不法，仁终不与交言同席，时人畏其节。
+后为阆中令，卒于官。
+赵晔字长君，会稽山阴人也。
+少尝为县吏，奉檄迎督邮，晔耻于斯役，遂弃车马去。
+到犍为资中，诣杜抚受《韩诗》，究竟其术。
+积二十年，绝问不还，家为发丧制服。
+抚卒乃归。
+州召补从事，不就。
+卒于家。
+卫宏字敬仲，东海人也。
+少与河南郑兴俱好古学。
+初，九江谢曼卿善《毛诗》，乃为其训。
+宏从曼卿受学，因作《毛诗序》，善得《风雅》之旨，于今传于世。
+后从大司空杜林更受《古文尚书》，为作《训旨》。
+时济南徐巡师事宏，后从林受学，亦以儒显，由是古学大兴。
+光武以为议郎。
+translation: 
 He resigned from office because of his brother's funeral.
 Later, Situ Huanyu Mansion was established.
 There was Song Zhang, who was corrupt and illegal, but Yang Ren never spoke to him and sat at the same table. People at that time respected his integrity.
@@ -280,17 +297,17 @@ After twenty years, he cut off contact with his family and refused to go back. H
 He returned after Du Fu's death.
 The state called him to replenish his job, but he didn't do it.
 There is a way to do it.
+Die at home. ◆Biography of Wei Hong, courtesy name Jingzhong, a native of Donghai.
+When he was young, he and Zheng Xing of Henan were both fond of ancient studies.
+At first, Xie Manqing from Jiujiang was good at speaking "Mao's Poems" and provided exegesis for "Mao's Poems".
+Wei Hong learned from Xie Manqing and wrote "Preface to Mao's Poems", which is very elegant and is still popular in society today.
+Later, he received the "Guwen Shangshu" from the great Sikong Dulin and wrote the "Xunzhi" for the "Guwen Shangshu".
+At this time, Xu Xun of Jinan worshiped Wei Hong as his teacher, and later studied with Du Lin. He was also famous for Confucianism, and ancient learning flourished.
+Guangwu was appointed as Yilang.
 
 
-Chunk 6: 
+Chunk 8: 
 original: 
-卫宏字敬仲，东海人也。
-少与河南郑兴俱好古学。
-初，九江谢曼卿善《毛诗》，乃为其训。
-宏从曼卿受学，因作《毛诗序》，善得《风雅》之旨，于今传于世。
-后从大司空杜林更受《古文尚书》，为作《训旨》。
-时济南徐巡师事宏，后从林受学，亦以儒显，由是古学大兴。
-光武以为议郎。
 宏作《汉旧仪》四篇，以载西京杂事；又著赋、颂、诔七首，皆传于世。
 中兴后，郑众、贾逵传《毛诗》，后马融作《毛诗传》，郑玄作《毛诗笺》。
 《前书》鲁高堂生，汉兴传《礼》十七篇。
@@ -306,13 +323,6 @@ original:
 建武中，举孝廉，辟司徒府。
 钧博通古今，数言政事。
 translation: 
-Die at home. ◆Biography of Wei Hong, courtesy name Jingzhong, a native of Donghai.
-When he was young, he and Zheng Xing of Henan were both fond of ancient studies.
-At first, Xie Manqing from Jiujiang was good at speaking "Mao's Poems" and provided exegesis for "Mao's Poems".
-Wei Hong learned from Xie Manqing and wrote "Preface to Mao's Poems", which is very elegant and is still popular in society today.
-Later, he received the "Guwen Shangshu" from the great Sikong Dulin and wrote the "Xunzhi" for the "Guwen Shangshu".
-At this time, Xu Xun of Jinan worshiped Wei Hong as his teacher, and later studied with Du Lin. He was also famous for Confucianism, and ancient learning flourished.
-Guangwu was appointed as Yilang.
 Wei Hong wrote four chapters of "Old Rites of the Han Dynasty", recording miscellaneous events in Xijing; he also wrote seven poems, odes and poems, all of which have been handed down to the world.
 After the ZTE, Zheng Zhong and Jia Kui wrote "Mao's Poems", and later Ma Rong wrote "Mao's Poems" and Zheng Xuan wrote "Mao's Poems".
 "Qianshu" contains seventeen chapters of "Li", a biography of Lu Gaotang's life in Han Dynasty.
@@ -329,7 +339,7 @@ In Jianwu, he promoted filial piety and integrity and established Situ's mansion
 Dong Jun was well versed in ancient and modern knowledge and wrote many times about the pros and cons of political affairs.
 
 
-Chunk 7: 
+Chunk 9: 
 original: 
 永平初，为博士。
 时草创五郊祭祀，及宗庙礼乐，威仪章服，辄令钧参议，多见从用，当世称为通儒。
@@ -362,7 +372,7 @@ Ding Gong was a shrewd scholar. He often taught hundreds of students and was oft
 In the early days of Jianwu, he served as an admonition to the officials and doctors, and was granted the title of Marquis within the Pass.
 
 
-Chunk 8: 
+Chunk 10: 
 original: 
 十一年，迁少府。
 诸生自远方至者，著录数千人，当世称为大儒。
@@ -381,7 +391,6 @@ original:
 后北地太守廖信坐贪秽下狱，没入财产，显宗以信臧物班诸廉吏，唯泽及光禄勋孙堪、大司农常冲特蒙赐焉。
 是时京师翕然，在位者咸自勉励。
 堪字子稺，河南缑氏人也。
-明经学，有志操，清白贞正，爱士大夫，然一毫未尝取于人，以节介气勇自行。
 translation: 
 In the eleventh year, he was promoted to Shaofu.
 His disciples came from far away, and there were thousands of them on the list, and they were called great Confucians in the world.
@@ -400,11 +409,11 @@ Zhou Ze spoke out boldly and argued with the court many times based on his reaso
 Later, Liao Xin, the governor of the North, was imprisoned for corruption and his property was confiscated. Emperor Xianzong gave Liao Xin's stolen goods to honest officials. Only Zhou Ze, Guang Luxun Sun Kan, and Da Sinong Changchong received special rewards.
 At this time, the capital was peaceful and those in power encouraged each other.
 Sun Kan, courtesy name Zigui, was from the Feng family in Henan.
-He is well versed in classics, has ambitions, is honest and upright, and loves scholar-bureaucrats, but he has never taken away a single hair from others, and he prides himself on being honest and upright.
 
 
-Chunk 9: 
+Chunk 11: 
 original: 
+明经学，有志操，清白贞正，爱士大夫，然一毫未尝取于人，以节介气勇自行。
 王莽末，兵革并起，宗族老弱在营保间，堪常力战陷敌，无所回避，数被创刃，宗族赖之，郡中咸服其义勇。
 建武中，仕郡县。
 公正廉洁，奉禄不及妻子，皆以供宾客。
@@ -416,13 +425,8 @@ original:
 永平十一年，拜光禄勋。
 堪清廉，果于从政，数有直言，多见纳用。
 十八年，以病乞身，为侍中骑都尉，卒于官。堪行类于泽，故京师号曰 二稺 。
-十二年，以泽行司徒事，如真。
-泽性简，忽威仪，颇失宰相之望。
-数月，复为太常。
-清洁循行，尽敬宗庙。
-常卧疾斋宫，其妻哀泽老病，窥问所苦。泽大怒，以妻干犯斋禁，遂收送诏狱谢罪。
-当世疑其脆激。
 translation: 
+He is well versed in classics, has ambitions, is honest and upright, and loves scholar-bureaucrats, but he has never taken away a single hair from others, and he prides himself on being honest and upright.
 In the last years of Wang Mang, the world was in chaos, and the clan was old and weak on the battlefield. Sun Kan once fought hard and fell into the enemy's position. He didn't care and was injured in many places. It was only through him that the clan was saved from disaster. Everyone in the county admired his bravery for justice.
 In Jianwu, he became an official in counties and counties.
 He is fair and honest, and his salary and salary are not given to his family, but are provided to his guests.
@@ -434,16 +438,16 @@ A few months later, he was promoted to the imperial censor, and then promoted to
 In the eleventh year of Yongping, he was awarded Guang Luxun.
 Sun Kan was honest and courageous in politics. He spoke out often and adopted many opinions.
 In the 18th year, he asked to retire due to illness and was appointed as a lieutenant in charge of cavalry. During his tenure, Sun Kan's actions were similar to Zhou Ze's, so the capital's title was Ergui.
-In the twelfth year of Yongping, Zhou Ze was appointed as Situ's deputy, which was equivalent to actual teaching.
-Zhou Ze has a simple temperament, does not value dignity and formality, and is not expected to be a prime minister.
-Only a few months is too common.
-Be honest in government, follow the rules, and respect the ancestral temple.
-Often lying in the sick palace, his wife took pity on his old illness and went in to ask him what was wrong with him. Zhou Ze was furious and thought his wife had violated the fasting ban, so he arrested her and sent her to prison to plead guilty.
-The world suspected that he pretended to be active.
 
 
-Chunk 10: 
+Chunk 12: 
 original: 
+十二年，以泽行司徒事，如真。
+泽性简，忽威仪，颇失宰相之望。
+数月，复为太常。
+清洁循行，尽敬宗庙。
+常卧疾斋宫，其妻哀泽老病，窥问所苦。泽大怒，以妻干犯斋禁，遂收送诏狱谢罪。
+当世疑其脆激。
 时人为之语曰： 生世不谐，作太常妻，一岁三百六十日，三百五十九日斋。
 十八年，拜侍中骑都尉。
 后数为三老五更。
@@ -455,15 +459,13 @@ original:
 诏令定《春秋》章句，去其复重，以授皇太子。
 又使宗室诸侯从兴受章句。
 封关内侯。
-兴自以无功，不敢受爵。
-帝曰： 生教训太子及诸王侯，非大功邪？
-兴曰： 臣师于恭。
-于是复封恭，而兴遂固辞不受爵，卒于官。
-甄宇字长文，北海安丘人也。
-清净少欲。
-习《严氏春秋》，教授常数百人。
-建武中，为州从事，征拜博士，稍迁太子少傅，卒于官。
 translation: 
+In the twelfth year of Yongping, Zhou Ze was appointed as Situ's deputy, which was equivalent to actual teaching.
+Zhou Ze has a simple temperament, does not value dignity and formality, and is not expected to be a prime minister.
+Only a few months is too common.
+Be honest in government, follow the rules, and respect the ancestral temple.
+Often lying in the sick palace, his wife took pity on his old illness and went in to ask him what was wrong with him. Zhou Ze was furious and thought his wife had violated the fasting ban, so he arrested her and sent her to prison to plead guilty.
+The world suspected that he pretended to be active.
 At that time, I made up a sentence that said: If you are born in a disharmonious life, as a Taichang wife, you must fast for three hundred and sixty days a year and fast for three hundred and fifty-nine days.
 In the 18th year of Yongping's reign, he was awarded the title of Captain of Cavalry in Shizhong.
 Later, he changed the name of "three old and five" many times.
@@ -475,18 +477,18 @@ Guangwu commended him and awarded him the title of Langzhong, and he was promote
 The imperial edict was issued to determine the chapters and sentences of the Spring and Autumn Annals, delete duplications, and use them to teach the crown prince.
 He also asked the princes of the clan to learn chapters and verses from Zhong Xing.
 Seal the customs within the territory.
-Zhong Xing himself believed that he had no merit and did not dare to be knighted.
-The emperor said: "Master taught the prince and the princes a lesson. Isn't this a great achievement?"
-Zhong Xing said: My teacher is Ding Gong.
-So Ding Gong was granted the title again, but Zhong Xing still resolutely resigned and refused to be knighted. Died in office.
-◆The biography of Zhen Yu, a long essay with the character Zhen Yu, was born in Anqiu, Beihai.
-Be quiet and self-sufficient, not seeking fame or fortune.
-Studying "Yan's Spring and Autumn Annals", there are often hundreds of students and professors.
-During the Jianwu period, he worked for the prefectures and counties, was recruited and awarded doctors, and was promoted to Prince Shaofu. He died in office.
 
 
-Chunk 11: 
+Chunk 13: 
 original: 
+兴自以无功，不敢受爵。
+帝曰： 生教训太子及诸王侯，非大功邪？
+兴曰： 臣师于恭。
+于是复封恭，而兴遂固辞不受爵，卒于官。
+甄宇字长文，北海安丘人也。
+清净少欲。
+习《严氏春秋》，教授常数百人。
+建武中，为州从事，征拜博士，稍迁太子少傅，卒于官。
 传业子普，普传子承。承尤笃学，未尝视家事，讲授常数百人。
 诸儒以承三世传业，莫不归服之。
 建初中，举孝廉，卒于梁相。
@@ -497,16 +499,15 @@ original:
 建武中，赵节王栩闻其高名，遣使赍玉帛请以为师，望不受。
 后仕郡功曹。
 永平初，为侍中、越骑校尉，入讲省内。
-十六年，迁大司农。
-十八年，代周泽为太常。
-建初五年，坐事左转太中大夫，后为左中郎将。
-教授不倦，世称儒宗，诸生著录九千余人。
-年八十，永元十二年，卒于官，门生会葬者数千人，儒家以为荣。
-程曾字秀升，豫章南昌人也。
-受业长安，习《严氏春秋》，积十余年，还家讲授。会稽顾奉等数百人常居门下。
-著书百余篇，皆《五经》通难，又作《孟子章句》。
-建初三年，举孝廉，迁海西令，卒于官。
 translation: 
+Zhong Xing himself believed that he had no merit and did not dare to be knighted.
+The emperor said: "Master taught the prince and the princes a lesson. Isn't this a great achievement?"
+Zhong Xing said: My teacher is Ding Gong.
+So Ding Gong was granted the title again, but Zhong Xing still resolutely resigned and refused to be knighted. Died in office.
+◆The biography of Zhen Yu, a long essay with the character Zhen Yu, was born in Anqiu, Beihai.
+Be quiet and self-sufficient, not seeking fame or fortune.
+Studying "Yan's Spring and Autumn Annals", there are often hundreds of students and professors.
+During the Jianwu period, he worked for the prefectures and counties, was recruited and awarded doctors, and was promoted to Prince Shaofu. He died in office.
 Zhen Yu passed on his legacy to his son Zhen Pu, who passed it on to his son Zhen Cheng. Cheng was very fond of learning and did not care about housework. He often taught hundreds of apprentices.
 Because Zhen inherited the inheritance from three generations, all the Confucian scholars obeyed him.
 He built the junior high school and promoted filial piety and integrity. He died when Liang Xiang was appointed.
@@ -517,6 +518,25 @@ He has a clean conduct and is well-known in the village.
 In Jianwu, King Xu of Zhaojie heard about his high reputation and sent an envoy to offer him jade and silk to ask him to be his teacher, but Lou Wang refused.
 Later he became an official in the county.
 In the early years of Yongping, he served as Shizhong and Yueqi Xiaowei, and gave lectures in the palace.
+
+
+Chunk 14: 
+original: 
+十六年，迁大司农。
+十八年，代周泽为太常。
+建初五年，坐事左转太中大夫，后为左中郎将。
+教授不倦，世称儒宗，诸生著录九千余人。
+年八十，永元十二年，卒于官，门生会葬者数千人，儒家以为荣。
+程曾字秀升，豫章南昌人也。
+受业长安，习《严氏春秋》，积十余年，还家讲授。会稽顾奉等数百人常居门下。
+著书百余篇，皆《五经》通难，又作《孟子章句》。
+建初三年，举孝廉，迁海西令，卒于官。
+张玄字君夏，河内河阳人也。
+少习《颜氏春秋》，兼通数家法。
+建武初，举明经，补弘农文学，迁陈仓县丞。
+清净无欲，专心经书，方其讲问，乃不食终日。
+及有难者，辄为张数家之说，令择从所安，诸儒皆伏其多通，著录千余人。
+translation: 
 In the 16th year of Yongping's reign, he was promoted to chief minister of agriculture.
 In the eighteenth year, Dai Zhouze did too much.
 In the fifth year of the founding of the People's Republic of China, he was demoted to the rank of Taizhong doctor due to circumstances, and later became Zuo Zhonglang general.
@@ -526,15 +546,15 @@ In the 80th year of Yongyuan's twelfth year, he died in office. Thousands of stu
 He studied in Chang'an and studied "Yan's Spring and Autumn Annals" for more than ten years. Later he returned home to teach. Hundreds of people including Gu Feng of Kuaiji were his students.
 He wrote more than 100 books, all of which are general explanations of the Five Classics, and also "Mencius Chapters".
 In the third year of Jianchu's reign, he was promoted to Xiaolian and promoted to Haixi Ling. He died in office.
+◆The biography of Zhang Xuan, whose courtesy name is Jun Xia, was born in Heyang, Hanoi.
+When he was young, he studied "Yan's Spring and Autumn Annals" and mastered several techniques.
+In the early days of Jianwu, he cited Ming classics, supplemented Hongnong's literature, and was promoted to Chencang County Cheng.
+He was pure and inactive, concentrating on studying the scriptures. When he was teaching, he often did not eat all day long.
+When someone discusses a problem with him, he often puts forward the theories of various schools so that he can choose the one he thinks is appropriate. All Confucian scholars admired his erudition, and he had more than a thousand students.
 
 
-Chunk 12: 
+Chunk 15: 
 original: 
-张玄字君夏，河内河阳人也。
-少习《颜氏春秋》，兼通数家法。
-建武初，举明经，补弘农文学，迁陈仓县丞。
-清净无欲，专心经书，方其讲问，乃不食终日。
-及有难者，辄为张数家之说，令择从所安，诸儒皆伏其多通，著录千余人。
 玄初为县丞，尝以职事对府，不知官曹处，吏白门下责之。
 时，右扶风琅邪徐业，亦大儒也，闻玄诸生，试引见之，与语，大惊曰： 今日相遭，真解矇矣！
 遂请上堂，难问极日。
@@ -550,11 +570,6 @@ original:
 常避地教授，门徒数百。
 颇涉猎古学。
 translation: 
-◆The biography of Zhang Xuan, whose courtesy name is Jun Xia, was born in Heyang, Hanoi.
-When he was young, he studied "Yan's Spring and Autumn Annals" and mastered several techniques.
-In the early days of Jianwu, he cited Ming classics, supplemented Hongnong's literature, and was promoted to Chencang County Cheng.
-He was pure and inactive, concentrating on studying the scriptures. When he was teaching, he often did not eat all day long.
-When someone discusses a problem with him, he often puts forward the theories of various schools so that he can choose the one he thinks is appropriate. All Confucian scholars admired his erudition, and he had more than a thousand students.
 When Zhang Xuanxian was the county magistrate, he once went to the government for work. He didn't know where the officials were, so the officials told his subordinates to reprimand him.
 At that time, You Fufeng Langyan Xu Ye was also a great Confucian. Hearing that Zhang Xuan was a living being, he summoned him to try and talk to him. He was shocked and said: "When we meet today, I really understand my ignorance!"
 Because he was invited to the court, he debated all day.
@@ -571,7 +586,7 @@ He was once a professor in Shendi, and had hundreds of students and disciples.
 Also studied ancient science.
 
 
-Chunk 13: 
+Chunk 16: 
 original: 
 尝读《左氏传》，虽乐文采，然谓不得圣人深意，以为前世陈元、范升之徒更相非折，而多引图谶，不据理体，于是作《难左氏义》四十一事。
 建初元年，卫尉马廖举育方正，为议郎。
@@ -587,7 +602,6 @@ original:
 不仕州郡。进退必以礼。
 太傅陈蕃辟之，与参政事。
 蕃败，休坐废锢，乃作《春秋公羊解诂》，覃思不窥门，十有七年。
-又注训《孝经》、《论语》、风角七分，皆经纬典谟，不与守文同说。
 translation: 
 I once read "Zuo Shi Zhuan". Although I thought the literary style of "Zuo Shi Zhuan" was good, I thought it was not in line with the profound meaning of the saint. In the previous life, Chen Yuan, Fan Sheng and others had many criticisms. They quoted prophecies from illustrations and did not follow the logic, so they wrote forty-one chapters of "Nan Zuo Shi Yi".
 In the first year of Jianchu's reign, Weiwei Ma Liao promoted Li Yufangzheng to the post of Yilang.
@@ -603,11 +617,11 @@ Because he was the son of a minister, he was not liked by the doctor, so he left
 If you are not an official in a state or county, everything you say and do must be in line with etiquette.
 Grand Tutor Chen Fan recruited him to participate in political affairs.
 Chen Fan failed, so he was convicted and deposed, and he was prohibited from serving as an official. So he wrote "Spring and Autumn Gongyang Exegesis", meditated deeply, and did not leave the house for seventeen years.
-There are also annotations and textual researches on "The Classic of Filial Piety", "The Analects of Confucius", and "Feng Jiao Qi Fen", which are all full of references and do not stick to words.
 
 
-Chunk 14: 
+Chunk 17: 
 original: 
+又注训《孝经》、《论语》、风角七分，皆经纬典谟，不与守文同说。
 又以《春秋》驳汉事六百余条，妙得《公羊》本意。
 休善历算，与其师博士羊弼，追述李育意以难二传，作《公羊墨守》、《左氏膏肓》、《穀梁废疾》。
 党禁解，又辟司徒。
@@ -619,10 +633,8 @@ original:
 举孝廉，稍迁，中平末，拜九江太守。
 免，遭乱行客，病卒。
 所著赋、碑、诔、书记、《连珠》、《九愤》，凡十余篇。
-颍容字子严，陈国长平人也。
-博学多通，善《春秋左氏》，师傅太尉杨赐。
-郡举孝廉，州辟，公车征，皆不就。
 translation: 
+There are also annotations and textual researches on "The Classic of Filial Piety", "The Analects of Confucius", and "Feng Jiao Qi Fen", which are all full of references and do not stick to words.
 He also used "Spring and Autumn" to refute more than 600 articles about Han Dynasty affairs, which wonderfully captured the original meaning of "Gongyang".
 He Xiu was also good at calculus, and together with his teacher, Dr. Yang Bi, he supplemented Li Yu's thoughts and wrote "Gongyang Mo Shou", "Zuo Shi's Late Death", and "Gu Liang Failed Disease".
 The party ban was lifted and Situ was recruited.
@@ -634,13 +646,13 @@ He also used "Zuo Zhuan" to refute the sixty articles on Han affairs refuted by 
 Due to his filial piety and integrity, he was promoted slightly, and in the last years of Zhongping, he was awarded the title of Governor of Jiujiang.
 After he was dismissed from office, he was involved in chaos and died of illness on the road.
 He has written more than ten articles in total, including fu, stele, edict, secretary, "Lianzhu" and "Nine Indignations".
-◆The biography of Yingrong, whose courtesy name is Ziyan, was born in Changping County, Chen State.
-He was erudite and proficient in the biography of Zuo Shi in the Spring and Autumn Period. He worshiped Taiwei Yang Ci as his teacher.
-The county promoted him as Xiaolian, the state recruited him, and he was recruited by public transport, but he was not accepted.
 
 
-Chunk 15: 
+Chunk 18: 
 original: 
+颍容字子严，陈国长平人也。
+博学多通，善《春秋左氏》，师傅太尉杨赐。
+郡举孝廉，州辟，公车征，皆不就。
 初平中，避乱荆州，聚徒千余人。
 刘表以为武陵太守，不肯起。
 著《春秋左氏条例》五万余言，建安中卒。
@@ -651,9 +663,10 @@ original:
 欲归乡里，会荆州道断，不得去。
 少府孔融上书荐之曰：臣闻高祖创业，韩、彭之将征讨暴乱，陆贾、叔孙通进说《诗》、《书》。
 光武中兴，吴、耿佐命，范升、卫宏修述旧业，故能文武并用，成长久之计。
-陛下圣德钦明，同符二祖，劳谦厄运，三年乃讙。
-今尚父鹰扬，方叔翰飞，王师电鸷，群凶破殄，始有橐弓卧鼓之次，宜得名儒，典综礼纪。
 translation: 
+◆The biography of Yingrong, whose courtesy name is Ziyan, was born in Changping County, Chen State.
+He was erudite and proficient in the biography of Zuo Shi in the Spring and Autumn Period. He worshiped Taiwei Yang Ci as his teacher.
+The county promoted him as Xiaolian, the state recruited him, and he was recruited by public transport, but he was not accepted.
 In Chupingzhong, he avoided chaos in Jingzhou and gathered more than a thousand disciples.
 Liu Biao was appointed as the prefect of Wuling but refused to go.
 He wrote more than 50,000 words of "The Regulations of the Zuo Family in the Spring and Autumn Period" and died in Jian'an.
@@ -664,12 +677,12 @@ He was employed as a carriage commander, but because his parents were old, he re
 I wanted to return to my hometown, but the road in Jingzhou was blocked, so I couldn't go.
 Kong Rong, the Shaofu, wrote a letter recommending him: I heard that Emperor Gaozu created great achievements, Han Xin and Peng Yue conquered riots, and Lu Jia and Shusun Tongjin wrote the "Book of Poems".
 Guangwu Zhongxing, Wu and Geng assisted, Fan Sheng and Wei Hong talked about the old business of poetry and calligraphy, so they were able to use both civil and military forces, which became a long-term peace and stability plan.
-The emperor's holy virtue is pure and clear, just like the second ancestor. He has suffered from misfortune but has been happy for three years.
-Today, my father's eagle is flying, Uncle Fang's Han is flying, and Master Wang's electric bird of prey has been destroyed. The world is at peace and there is no need for conquest. Instead, we should visit famous scholars to take charge of etiquette and discipline.
 
 
-Chunk 16: 
+Chunk 19: 
 original: 
+陛下圣德钦明，同符二祖，劳谦厄运，三年乃讙。
+今尚父鹰扬，方叔翰飞，王师电鸷，群凶破殄，始有橐弓卧鼓之次，宜得名儒，典综礼纪。
 今该实卓然比迹前列，间以父母老疾，弃官欲归，道路险塞，无自由致。
 猥使良才抱朴而逃，逾越山河，沉沦荆楚，所谓往而不反者也。
 后日当更馈乐以钓由余，克像以求傅说，岂不烦哉？
@@ -684,6 +697,8 @@ original:
 性淳笃，少博学经籍，马融常推敬之，时人为之语曰： 《五经》无双许叔重。
 为郡功曹，举孝廉，再迁除洨长。
 translation: 
+The emperor's holy virtue is pure and clear, just like the second ancestor. He has suffered from misfortune but has been happy for three years.
+Today, my father's eagle is flying, Uncle Fang's Han is flying, and Master Wang's electric bird of prey has been destroyed. The world is at peace and there is no need for conquest. Instead, we should visit famous scholars to take charge of etiquette and discipline.
 I think that Xie Gai, the former chariot commander, has the good temperament of Zeng Shen and Shi Yu, as well as the literature of Bu Gao and Yan Yan. He is well-versed in books, and has read all the ancient and modern classics. He can handle problems with ease, has no doubts, has a clean character, has extraordinary ethics, and loves the ancient roads.
 There are few who can match him, near or far. Now Xie Gai wanted to resign and go home because his parents were old and sick, but the road was difficult and he couldn't return home. He made the talented people flee with Pu Pu, crossed the mountains and rivers, and fell into Jingchu, never to return.
 From now on, it would be troublesome to give away female musicians to lure Yu Yu, and to engrave statues to ask for help from Fu, wouldn't it be troublesome?
@@ -699,7 +714,7 @@ He has a simple and honest personality. When he was young, he studied scriptures
 He served as a meritorious officer in the county and was promoted to Xiaolian. He was promoted again and appointed as the county magistrate of Lujiao.
 
 
-Chunk 17: 
+Chunk 20: 
 original: 
 卒于家。
 初，慎以《五经》传说臧否不同，于是撰为《五经异义》，又作《说文解字》十四篇，皆传于世。
@@ -713,9 +728,6 @@ original:
 若乃经生所处，不远万里之路，精庐暂建，赢粮动有千百，其耆名高义开门受徒者，编牒不下万人，皆专相传祖，莫或讹杂。
 至有分争王庭，树朋私里，繁其章条，穿求崖穴，以合一家之说。
 故杨雄曰： 今之学者，非独为之华藻，又从而绣其鞶帨。
-夫书理无二，义归有宗，而硕学之徒，莫之或徙，故通人鄙其固焉，又雄所谓 譊々之学，各习其师 也。
-且观成名高第，终能远至者，盖亦寡焉，而迂滞若是矣。
-然所谈者仁义，所传者圣法也。
 translation: 
 Die at home.
 First, Xu Shen believed that there were good and bad interpretations of the Five Classics, so he wrote "The Different Meanings of the Five Classics" and 14 chapters of "Shuowen Jiezi", both of which have been handed down to the world.
@@ -729,13 +741,13 @@ Those who wear Confucian clothes, talk about the morals of the previous kings, t
 As for the place where the doctor is located, there are people who have traveled thousands of miles to carry food and live in exquisite houses, often in the thousands. Those famous scholars who have opened their doors to teach disciples have no less than ten thousand students on the list. They are all professional professors and there are no errors or impure heresies.
 Some even argue in the court, form cliques in private, formulate complicated regulations, and visit hermits in caves to formulate a family's doctrine.
 That’s why Yang Xiong said: Today’s scholars are not only eloquent, but also a little frustrated.
-Originally, there was only one principle of books, which meant unity. People who are well-educated cannot change, so ordinary people despised them for being stubborn, and Yang Xiong said that all the noisy knowledge was learned from teachers.
-And to become famous, not many people really come from far away. It's so ignorant and unintelligible.
-But what they talk about is benevolence and righteousness, and what they teach is the method of saints.
 
 
-Chunk 18: 
+Chunk 21: 
 original: 
+夫书理无二，义归有宗，而硕学之徒，莫之或徙，故通人鄙其固焉，又雄所谓 譊々之学，各习其师 也。
+且观成名高第，终能远至者，盖亦寡焉，而迂滞若是矣。
+然所谈者仁义，所传者圣法也。
 故人识君臣父子之纲，家知违邪归正之路。
 自桓、灵之间，君道秕僻，朝纲日陵，国隙屡启，自中智以下，靡不审其崩离；而权强之臣，息其窥盗之谋，豪俊之夫，屈于鄙生之议者，人诵先王言也，下畏逆顺势也。
 至如张温、皇甫嵩之徒，功定天下之半，声驰四海之表，俯仰顾眄，则天业可移，犹鞠躬昏主之下，狼狈折札之命，散成兵，就绳约，而无悔心，暨乎剥桡自极，人神数尽，然后群英乘其运，世德终其祚。
@@ -743,6 +755,9 @@ original:
 故先师垂典文，褒励学者之功，笃矣切矣。
 不循《春秋》，至乃比于杀逆，其将有意乎！
 translation: 
+Originally, there was only one principle of books, which meant unity. People who are well-educated cannot change, so ordinary people despised them for being stubborn, and Yang Xiong said that all the noisy knowledge was learned from teachers.
+And to become famous, not many people really come from far away. It's so ignorant and unintelligible.
+But what they talk about is benevolence and righteousness, and what they teach is the method of saints.
 Therefore, everyone knows the outline of king, minister, father and son, and every family knows the way to return from evil to righteousness.
 During the reigns of Emperors Huan and Ling, the monarch's education was corrupted, the discipline of the court was weakening day by day, the country was in constant chaos, and no one with average intelligence or above knew that the country was falling apart and it was difficult to maintain it. But the powerful ministers who hold the power have no conspiracy to usurp the throne, and the heroes and nobles succumb to the opinions of the despicable people. This is because everyone recites the words of the late king, and the subordinates are afraid of rebellion and obey the situation.
 As for disciples like Zhang Wen and Huangfu Song, they have made great contributions to half of the world, and their prestige spreads far and wide. They look up and look forward to their great achievements, but they still devote themselves to the faint master. When Han Zuo died, the gods and men were all gone, and then the heroes of the world rose up together, and Cao Pi succeeded to the throne.

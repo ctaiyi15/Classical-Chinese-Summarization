@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 2, 2, 10, 5, 8, 9, 10, 10, 11, 12, 12, 15, 15]
+Summary uses chunk [0, 0, 2, 3, 13, 7, 10, 11, 12, 13, 14, 15, 17, 18, 18]
 
 Chunk 0: 
 original: 
@@ -17,10 +17,6 @@ original:
 讹言 苍天已死，黄天当立，岁在甲子，天下大吉 。
 以白土书京城寺门及州郡官府，皆作 甲子 字。
 中平元年，大方马元义等先收荆、杨数万人，期会发于鄴。
-元义素往来京师，以中常侍封谞、徐奉等为内应，约以三月五日内外俱起。
-未及作乱，而张角弟子济南唐周上书告之，于是车裂元义于洛阳。
-灵帝以周章下三公、司隶，使钩盾令周斌将三府掾属，案验宫省直卫及百姓有事角道者，诛杀千余人，推考冀州，逐捕角等。
-角等知事已露，晨夜驰敕诸方，一时俱起。
 translation: 
 ◆Huangfu Song's biography, Huangfu Song's character is Yizhen, he was the son of the brother of Huangfu Gui, the general who conquered Liao Dynasty.
 Father Huangfu Festival, Yanmen Prefecture.
@@ -37,10 +33,6 @@ There are more than 10,000 people in Dafang and six or seven thousand in Xiaofan
 Rumors were spread that: Cang Tian is dead, Huang Tian should be established, and the age of Jiazi will bring good luck to the world.
 Written in white clay on temple gates in the capital and on state and county government offices, they are all marked with the character Jiazi.
 In the first year of Zhongping, Dafang Ma Yuanyi and others first collected tens of thousands of people from Jing and Yang, and gathered at Ye regularly to set off.
-Ma Yuanyi visited the capital many times, using Zhongchang Shifeng and Xu Feng as internal agents, and agreed to start an uprising both inside and outside the capital on March 5.
-Before the rebellion broke out, Zhang Jiao's disciple Jinan Tang Zhou wrote a letter to report, so he drove Ma Yuanyi to Luoyang.
-Emperor Ling used Zhou Zhang to issue orders to the three princes and officials, and ordered Zhou Bin to take the three government officials with him. He asked the palace guards and the people if they believed in Zhang Jiao, killed more than a thousand people, tracked down Jizhou, and arrested Zhang Jiao and others.
-Zhang Jiao and others knew that the matter had been exposed, so they notified all parties day and night and started revolts at the same time.
 
 summary:
 summary line 0: Huangfu Song, styled Yizhen, was a nephew of the general Huangfu Gui. His father served as the Prefect of Yanmen. From a young age, Huangfu Song was learned in the *Classic of Poetry* and *Book of Documents*, and skilled in archery, swordsmanship, and horsemanship. He was recommended as a Xiaolian and Maocai, but declined summons from Grand Commandant Chen Fan and General Dou Wu. During Emperor Ling's reign, he was appointed Yilang and later Governor of Beidi.
@@ -62,10 +54,6 @@ original:
 讹言 苍天已死，黄天当立，岁在甲子，天下大吉 。
 以白土书京城寺门及州郡官府，皆作 甲子 字。
 中平元年，大方马元义等先收荆、杨数万人，期会发于鄴。
-元义素往来京师，以中常侍封谞、徐奉等为内应，约以三月五日内外俱起。
-未及作乱，而张角弟子济南唐周上书告之，于是车裂元义于洛阳。
-灵帝以周章下三公、司隶，使钩盾令周斌将三府掾属，案验宫省直卫及百姓有事角道者，诛杀千余人，推考冀州，逐捕角等。
-角等知事已露，晨夜驰敕诸方，一时俱起。
 translation: 
 ◆Huangfu Song's biography, Huangfu Song's character is Yizhen, he was the son of the brother of Huangfu Gui, the general who conquered Liao Dynasty.
 Father Huangfu Festival, Yanmen Prefecture.
@@ -82,57 +70,37 @@ There are more than 10,000 people in Dafang and six or seven thousand in Xiaofan
 Rumors were spread that: Cang Tian is dead, Huang Tian should be established, and the age of Jiazi will bring good luck to the world.
 Written in white clay on temple gates in the capital and on state and county government offices, they are all marked with the character Jiazi.
 In the first year of Zhongping, Dafang Ma Yuanyi and others first collected tens of thousands of people from Jing and Yang, and gathered at Ye regularly to set off.
-Ma Yuanyi visited the capital many times, using Zhongchang Shifeng and Xu Feng as internal agents, and agreed to start an uprising both inside and outside the capital on March 5.
-Before the rebellion broke out, Zhang Jiao's disciple Jinan Tang Zhou wrote a letter to report, so he drove Ma Yuanyi to Luoyang.
-Emperor Ling used Zhou Zhang to issue orders to the three princes and officials, and ordered Zhou Bin to take the three government officials with him. He asked the palace guards and the people if they believed in Zhang Jiao, killed more than a thousand people, tracked down Jizhou, and arrested Zhang Jiao and others.
-Zhang Jiao and others knew that the matter had been exposed, so they notified all parties day and night and started revolts at the same time.
 
 summary:
 summary line 1: When Zhang Jiao founded the Way of Great Peace, claiming to cure illness through faith and talismanic water, he amassed hundreds of thousands of followers across eight provinces over a decade. He organized them into thirty-six "squares," each led by a general, and spread the prophecy: "The Azure Heaven is dead; the Yellow Heaven shall rise. In the year of Jiazi, the world will be blessed." In the first year of Zhongping (184 AD), his disciple Tang Zhou betrayed the planned uprising, leading to the execution of Ma Yuanyi and a crackdown in Luoyang. Zhang Jiao then launched a nationwide rebellion, with followers wearing yellow scarves—hence called the "Yellow Turbans"—burning government offices and terrorizing provinces.
 
 Chunk 2: 
 original: 
+于是发天下精兵，博选将帅，以嵩为左中郎将，持节，与右中郎将朱俊，共发五校、三河骑士及募精勇，合四万余人，嵩、俊各统一军，共讨颍川黄巾。
+俊前与贼波才战，战败，嵩因进保长社。
+波才引大众围城，嵩兵少，军中皆恐，乃召军吏谓曰： 兵有奇变，不在众寡。
+今贼依草结营，易为风火。
+若因夜纵烧，必大惊乱。吾出兵击之，四面俱合，田单之功可成也。
 其夕遂大风，嵩乃约敕军士皆束苣乘城，使锐士间出围外，纵火大呼，城上举燎应之，嵩因鼓而奔其阵，贼惊乱奔走。
 会帝遣骑都尉曹操将兵适至，嵩、操与朱俊合兵更战，大破之，斩首数万级。封嵩都乡侯。
 嵩、俊乘胜进讨汝南、陈国黄巾，追波才于阳翟，击彭脱于西华，并破之。
 余贼降散，三郡悉平。
-又进击东郡黄巾卜己于仓亭，生擒卜己，斩首七千余级。
-时，北中郎将卢植及东中郎将董卓讨张角，并无功而还，乃诏嵩进兵讨之。
-嵩与角弟梁战于广宗。梁众精勇，嵩不能克。
-明日，乃闭营休士，以观其变。
-知贼意稍懈，乃潜夜勒兵，鸡鸣驰赴其阵，战至晡时，大破之，斩梁，获首三万级，赴河死者五万许人，焚烧车重三万余两，悉虏其妇子，系获甚众。
-角先已病死，乃剖棺戮尸，传首京师。
-嵩复与钜鹿太守冯翊郭典攻角弟宝于下曲阳，又斩之。
-首获十余万人，筑京观于城南。
-即拜嵩为左车骑将军，领冀州牧，封槐里侯，食槐里、美阳两县，合八千户。
-以黄巾既平，故改年为中平。
-嵩奏请冀州一年田租，以赡饥民，帝从之。
 translation: 
+So he recruited the best soldiers from all over the world. Generals were widely selected, and Huangfu Song was appointed as the left Zhonglang general. He held the talisman, and together with the right Zhonglang general Zhu Ai, they sent out five schools, Sanhe knights and recruited brave warriors, totaling more than 40,000 people. Huangfu Song and Zhu Ai unified their armies and joined forces to attack the Yingchuan Yellow Turbans.
+Zhu Ji had previously fought against the thief Bo Cai and was defeated, so Huangfu Song marched to defend Changshe.
+Bocai led a large army to besiege the city, but Huangfu Song had few soldiers. The army became frightened, so he summoned the military officers and said: "There is a strange change in the army, not because there are more soldiers than there are fewer soldiers."
+Nowadays, thieves have camped on grass and are prone to catching fire due to the wind.
+If you set fire to it at night, you must be frightened and dispersed. I will send troops to attack and surround it on all sides. Tian Dan and Jimo will use the fire ox to attack Yan and win.
 That night, there was a strong wind, so Huangfu Song ordered his sergeants to tie up ropes and climb up the city. He sent elite and brave men to go out on the small road, lit fires and shouted, and the city raised torches in response. Huangfu Song beat drums and rushed to the enemy's position. The thieves fled in panic.
 At this time, Emperor Ling sent Cao Cao, the cavalry captain, to arrive with his troops. Huangfu Song, Cao Cao and Zhu Ji joined forces to fight again. They defeated the rebel army, beheaded tens of thousands of people, and made Huangfu Song the Marquis of Duxiang.
 Huangfu Song and Zhu Ji took advantage of their victory to attack Runan and Chen Guohuangjin, pursued Bo Cai in Yangdi, attacked Peng Tuo in Xihua, and defeated them all.
 The remaining thieves either surrendered or fled, and the three counties were pacified.
-They also attacked Dongjun Huangjin Buji in Cangting, captured Buji alive, and beheaded more than 7,000 people.
-At that time, Lu Zhi, the general of Bei Zhonglang, and Dong Zhuo, the general of Dong Zhonglang, attacked Zhang Jiao, but they all failed, so they ordered Huangfu Song to lead troops to attack Zhang Jiao.
-Huangfu Song fought against Zhang Jiao's younger brother Zhang Liang in Guangzong. Zhang Liang's troops were elite and brave, but Huangfu Song could not defeat him.
-The next day, Huangfu Song closed the camp and allowed the soldiers to rest and observe the changes in the enemy's army.
-Knowing that the thieves and sergeants had become lax, they quietly gathered their troops at night, waited until the rooster crow, launched a charge, and fought until dark. They defeated the enemy army, beheaded Zhang Liang, and won the 30,000-level leader. About 50,000 people went to the Yellow River and drowned. They burned more than 30,000 vehicles and equipment, captured all the enemy's wives, children, and arrested many.
-Zhang Jiao died of illness first, so he opened his coffin, killed his body, and reported it to the capital.
-Huangfu Song, together with Feng Yi and Guo Dian, the governors of Julu, attacked Zhang Jiao's younger brother Zhang Bao in Xiaquyang and killed him.
-More than 100,000 people were captured, and their corpses were piled up and sealed with earth to build a palace in the south of the city.
-Huangfu Song was appointed General of Zuo Chaoqi and Jizhou Mu, and was granted the title of Marquis of Huaili. He served in Huaili and Meiyang counties, totaling 8,000 households.
-Because the Yellow Turbans had been pacified, the year was changed to Zhongping.
-Huangfu Song petitioned to reduce one year's land rent in Jizhou to help the hungry people. Emperor Ling agreed.
 
 summary:
 summary line 2: The court appointed Huangfu Song as Left General of the Central Army, alongside Zhu Jun, to suppress the rebellion. After an initial defeat, Huangfu Song used a fire attack at Changshe, exploiting a strong wind to burn the enemy camp and rout Bo Cai's forces. Reinforced by Cao Cao, they defeated the rebels, beheading tens of thousands. Huangfu Song was made Marquis of Duxiang. They then pacified Runan and Chen, capturing Bo Cai and Peng Tuo. At Cangting, they captured Bu Ji, killing over 7,000.
 
-Chunk 2: 
+Chunk 3: 
 original: 
-其夕遂大风，嵩乃约敕军士皆束苣乘城，使锐士间出围外，纵火大呼，城上举燎应之，嵩因鼓而奔其阵，贼惊乱奔走。
-会帝遣骑都尉曹操将兵适至，嵩、操与朱俊合兵更战，大破之，斩首数万级。封嵩都乡侯。
-嵩、俊乘胜进讨汝南、陈国黄巾，追波才于阳翟，击彭脱于西华，并破之。
-余贼降散，三郡悉平。
 又进击东郡黄巾卜己于仓亭，生擒卜己，斩首七千余级。
 时，北中郎将卢植及东中郎将董卓讨张角，并无功而还，乃诏嵩进兵讨之。
 嵩与角弟梁战于广宗。梁众精勇，嵩不能克。
@@ -145,10 +113,6 @@ original:
 以黄巾既平，故改年为中平。
 嵩奏请冀州一年田租，以赡饥民，帝从之。
 translation: 
-That night, there was a strong wind, so Huangfu Song ordered his sergeants to tie up ropes and climb up the city. He sent elite and brave men to go out on the small road, lit fires and shouted, and the city raised torches in response. Huangfu Song beat drums and rushed to the enemy's position. The thieves fled in panic.
-At this time, Emperor Ling sent Cao Cao, the cavalry captain, to arrive with his troops. Huangfu Song, Cao Cao and Zhu Ji joined forces to fight again. They defeated the rebel army, beheaded tens of thousands of people, and made Huangfu Song the Marquis of Duxiang.
-Huangfu Song and Zhu Ji took advantage of their victory to attack Runan and Chen Guohuangjin, pursued Bo Cai in Yangdi, attacked Peng Tuo in Xihua, and defeated them all.
-The remaining thieves either surrendered or fled, and the three counties were pacified.
 They also attacked Dongjun Huangjin Buji in Cangting, captured Buji alive, and beheaded more than 7,000 people.
 At that time, Lu Zhi, the general of Bei Zhonglang, and Dong Zhuo, the general of Dong Zhonglang, attacked Zhang Jiao, but they all failed, so they ordered Huangfu Song to lead troops to attack Zhang Jiao.
 Huangfu Song fought against Zhang Jiao's younger brother Zhang Liang in Guangzong. Zhang Liang's troops were elite and brave, but Huangfu Song could not defeat him.
@@ -164,11 +128,8 @@ Huangfu Song petitioned to reduce one year's land rent in Jizhou to help the hun
 summary:
 summary line 3: Huangfu Song was then ordered to attack Zhang Jiao. After initial setbacks against Zhang Liang at Guangzong, he feigned rest, then launched a surprise dawn assault, killing Zhang Liang and 30,000 rebels, with 50,000 drowning in the Yellow River. Zhang Jiao had died of illness, so Huangfu Song beheaded his corpse. He then killed Zhang Bao at Xiaquyang, capturing over 100,000. He was appointed General of the Left Chariot and Cavalry and Governor of Jizhou, with 8,000 households. He petitioned to reduce Jizhou's land rent, earning popular praise.
 
-Chunk 10: 
+Chunk 13: 
 original: 
-又交阯贼梁龙等万余人，与南海太守孔芝反叛，攻破郡县。
-光和元年，即拜俊交阯刺史，令过本郡简募家兵及所调，合五千人，分从两道而入。既到州界，按甲不前，先遣使诣郡，观贼虚实，宣扬威德，以震动其心；既而与七郡兵俱进逼之，遂斩梁龙，降者数万人，旬月尽定。
-以功封都亭侯，千五百户，赐黄金五十斤，征为谏议大夫。
 及黄巾起，公卿多荐俊有才略，拜为右中郎将，持节，与左中郎将皇甫嵩讨颍川、汝南、陈国诸贼，悉破平之。
 嵩乃上言其状，而以功归俊，于是进封西乡侯，迁镇贼中郎将。
 时，南阳黄巾张曼成起兵，称 神上使 ，众数万，杀郡守褚贡，屯宛下百余日。
@@ -182,10 +143,11 @@ original:
 贼余帅韩忠复据宛拒俊。
 俊兵少不敌，乃张围结垒，起土山以临城内，因鸣鼓攻其西南，贼悉众赴之。
 俊自将精卒五千，掩其东北，乘城而入。
+忠乃退保小城，惶惧乞降。
+司马张超及徐、秦颉皆欲听之。
+俊曰： 兵有形同而势异者。
+昔秦、项之际，民无定主，故赏附以劝来耳。
 translation: 
-He also handed over the rebels Liang Long and more than 10,000 people, who rebelled with Kong Zhi, the prefect of Nanhai, and conquered the counties.
-In the first year of Guanghe, he appointed Zhu Jun as the governor of Jiaochengzhi. He ordered Zhu Jun to recruit 5,000 soldiers in the county plus the ones he had dispatched. They marched in two directions and arrived at the state border. He stopped advancing. He first sent envoys to the county to observe the strength of the thieves and publicize the power of the court to shake their hearts. Then he joined forces with the soldiers of the seven counties to force the thieves. He killed Liang Long and tens of thousands of people surrendered. They were all pacified within a month.
-Zhu Jun was granted the title of Marquis of Tingting in the capital for his meritorious service, with 1,500 households, 50 jins of gold, and conscription as an admonishment official.
 When the Yellow Turban bandits arose, many ministers recommended Zhu Jun as a talented man. He was appointed as the Right Zhonglang General, holding the emperor's festival, and he and the Zuo Zhonglang General Huangfu Song attacked the Yingchuan, Runan, and Chen Kingdom thieves, and they were all put down.
 Huangfu Song went up to report on the situation of pacifying the thieves, and attributed the credit to Zhu Jun. Therefore, the Jin Dynasty granted Zhu Jun the title of Marquis of Xixiang, and promoted him to the rank of Lang General in the town of thieves.
 At this time, Zhang Mancheng, a yellow turban in Nanyang, raised an army. He claimed to be the envoy of the gods and had tens of thousands of people. He killed Chu Gong, the governor of the county, and stayed in Wanxia for more than a hundred days.
@@ -199,11 +161,15 @@ Zhu Jun therefore attacked Zhao Hong severely and finally killed him.
 The remaining thief commander Han Zhong took Wan again to resist Zhu Jun.
 The Jie soldiers were few and invincible, so they set up a siege and fortified the city. They raised earthen hills to serve as the inner city and beat drums to attack the southwestern side of the city. The thieves attacked with all their strength.
 Zhu Jun himself led five thousand elite troops, assaulted the northeast of the city, and climbed into the city.
+Han Zhong had no choice but to withdraw from the small town and asked to surrender in fear.
+Sima Zhang Chao, Xu Chu and Qin Jie all wanted to accept Han Zhong's surrender.
+Zhu Jun said: The military has the same physical appearance but different potential.
+In the past, during the reign of Qin Xiang, the people had no fixed masters, so they rewarded those who came to join him to encourage those who had not yet returned.
 
 summary:
 summary line 4: Huangfu Song was a benevolent commander who shared hardships with his troops. After pacifying the Yellow Turbans, his fame grew, but court politics worsened. Advisor Yan Zhong urged him to seize power, but Huangfu Song refused, remaining loyal. Later, due to conflicts with eunuchs Zhao Zhong and Zhang Rang, he was demoted to Marquis of Duxiang with 2,000 households.
 
-Chunk 5: 
+Chunk 7: 
 original: 
 忠知计不用，因亡去。
 会边章、韩遂作乱陇右，明年春，诏嵩回镇长安，以卫园陵。
@@ -218,8 +184,6 @@ original:
 嵩曰： 不然，百战百胜，不如不战而屈人之兵。
 是以先为不可胜，以待敌之可胜。
 不可胜在我，可胜在彼。
-彼守不足，我攻有余。
-有余者动于九天之上，不足者陷于九地之下。
 translation: 
 Yan Zhong knew that the plan could not be adopted and ran away.
 At the time when Bian Zhang and Han Sui were causing trouble in Longyou, in the spring of the next year Huangfu Song was ordered to return to Chang'an to defend the garden and mausoleum.
@@ -234,14 +198,15 @@ If you save it quickly, the city will be saved; if you don't save it, the city w
 It is better to surrender the enemy's army without fighting than to win a hundred battles.
 Therefore, you must first act like you are invincible and wait for the enemy to be able to defeat you.
 The invincible lies with me, but the victorious lies with the enemy.
-The enemy is hard to defend against, but I am very proactive in attacking, hitting wherever I want.
-The ones that are more than enough seem to be moving above the Nine Heavens, and those that are not enough seem to be trapped under the Nine Earths.
 
 summary:
 summary line 5: In 189 AD, when the Liangzhou rebel Kingdom besieged Chencang, Huangfu Song and Dong Zhuo led 20,000 men each. Dong Zhuo wanted to attack immediately, but Huangfu Song argued for a defensive strategy, waiting for the enemy to weaken. After 80 days, the rebels retreated, and Huangfu Song pursued, defeating them and beheading over 10,000. Dong Zhuo, humiliated, grew to hate him.
 
-Chunk 8: 
+Chunk 10: 
 original: 
+嵩将行，长史梁衍说曰： 汉室微弱，阉竖乱朝，董卓虽诛之，而不能尽忠于国，遂复寇掠京邑，废立从意。
+今征将军，大则危祸，小则困辱。
+今卓在洛阳，天子来西，以将军之众，精兵三万，迎接至尊，奉令讨逆，发命海内，征兵群帅，袁氏逼其东，将军迫其西，此成禽也。
 嵩不从，遂就征。
 有司承旨，奏嵩下吏，将遂诛之。
 嵩子坚寿与卓素善，自长安亡走洛阳，归投于卓。
@@ -256,10 +221,10 @@ original:
 复拜光禄大夫，迁太常。
 寻李作乱，嵩亦病卒，赠骠骑将军印绶，拜家一人为郎。
 嵩为人爱慎尽勤，前后上表陈谏有补益者五百余事，皆手书毁草，不宣于外。
-又折节下士，门无留客。
-时人皆称而附之。
-坚寿亦显名，后为侍中，辞不拜，病卒。
 translation: 
+Huangfu Song was about to go, but Liang Yan, the chief historian, persuaded him: The Han Dynasty was weak and the eunuchs were in chaos. Although Dong Zhuo killed the eunuchs, he could not be loyal to the country. He robbed the counties of the capital, deposed the emperor and established the emperor as he wished.
+If you recruit a general today, you will not only suffer great disasters, but you will also suffer humiliation.
+Now Dong Zhuo is in Luoyang, and the emperor comes to the west. He uses the general's troops, 30,000 elite soldiers, to welcome the emperor. He is ordered to attack the rebels. He issues orders to the sea, recruits troops, and gathers all the commanders. The Yuan family comes to attack him from the east, and the general goes to attack him from the west. It is not a problem to capture Dong Zhuo.
 Huangfu Song refused, so he was called up.
 The officials followed Dong Zhuo's order and told Huangfu Song to hand him over to the jailer, preparing to kill him.
 Huangfu Song's son Jianshou had a good relationship with Dong Zhuo, so he rushed from Chang'an to Luoyang and defected to Dong Zhuo.
@@ -274,15 +239,15 @@ In the autumn of this year, he was appointed as Taiwei. In winter, he was dismis
 He was appointed as Guanglu doctor again and promoted to Taichang.
 Not long after, Li Chu rebelled, and Huangfu Song also died of illness. He presented the seal and ribbon to General Hussar and appointed one of his family members as Lang.
 Huangfu Song was a benevolent, prudent and diligent person. He wrote more than 500 things that would be beneficial to the country, and then destroyed the drafts and did not publicize them to the outside world.
-He was also an open-minded corporal and tried his best to promote him. There was no guest in the house who stayed because he was not recommended.
-At that time, people praised him and supported him.
-Jianshou was also famous at that time. Later, he became a servant, but he could not resign and died of illness.
 
 summary:
 summary line 6: When Dong Zhuo later seized power, he tried to kill Huangfu Song, but his son Jian Shou pleaded successfully. Huangfu Song was eventually released and served as Yilang and Yushi Zhongcheng. After Dong Zhuo's death, he became Grand Commandant, but was dismissed due to a meteor omen. He later died of illness, posthumously honored as General of Hussars.
 
-Chunk 9: 
+Chunk 11: 
 original: 
+又折节下士，门无留客。
+时人皆称而附之。
+坚寿亦显名，后为侍中，辞不拜，病卒。
 朱俊字公伟，会稽上虞人也。
 少孤，母尝贩缯为业。
 俊以孝养致名，为县门下书佐，好义轻财，乡闾敬之。
@@ -291,11 +256,10 @@ original:
 俊曰： 小损当大益，初贫后富，必然理也。
 本县长山阳度尚见而奇之，荐于太守韦毅，稍历郡职。后太守尹端以俊为主簿。
 熹平二年，端坐讨贼许昭失利，为州所奏，罪应弃市。
-俊乃赢服间行，轻赍数百金到京师，赂主章吏，遂得刊定州奏，故端得输作左校。
-端喜于降免而不知其由，俊亦终无所言。
-后太守徐珪举俊孝廉，再迁除兰陵令，政有异能，为东海相所表。
-会交阯部群贼并起，牧守软弱不能禁。
 translation: 
+He was also an open-minded corporal and tried his best to promote him. There was no guest in the house who stayed because he was not recommended.
+At that time, people praised him and supported him.
+Jianshou was also famous at that time. Later, he became a servant, but he could not resign and died of illness.
 ◆The biography of Zhu Jun, whose courtesy name is Gongwei, was from Shangyu County, Kuaiji County.
 My father died when I was young, and my mother used to sell silk fabrics.
 Zhu Jun was famous for being a filial piety to his mother, and he served as a secretary in the county. He loved justice more than wealth, and the villagers admired him very much.
@@ -304,58 +268,33 @@ As a result, his mother lost her inheritance and became furious and scolded him.
 Zhu Jun said: A small loss will lead to a big benefit. It is inevitable to be poor first and then rich.
 Yangdu Shang, the magistrate of Shangyu County, met Zhu Jun and thought he was not an ordinary person. He introduced him to Wei Yi, the prefect, and he took up some positions in the county. The succeeding prefect Yin Duan took Zhu Jun as his chief official.
 In the second year of Xiping's reign, Yin Duan was impeached by the state because he failed to attack the traitor Xu Zhao. He was guilty of abandoning the city.
-Zhu Jun wore rags, walked along the narrow road, brought hundreds of gold to the capital, and bribed the officials in charge of the memorial. Because he was able to change the memorial to Dingzhou, Yin Duan was sent to Zuo School for labor reform.
-Yin Duan was very happy that he was exempted from the exemption, but he didn't know the reason, and Zhu Jun never said it.
-Later, the prefect Xu Wanggui promoted Zhu Jun to be filial and honest, and was promoted to the Lanling Order. His political achievements were very good, and he was commended by the Prime Minister of the East China Sea.
-At this time, a group of thieves broke out in Jiaozhi tribe, but Mu Shou was too weak to stop them.
 
 summary:
 summary line 7: Zhu Jun, styled Gongwei, was from Shangyu, Kuaiji. Orphaned young, he was known for filial piety and generosity. He once stole his mother's silk to help a friend repay a debt. He served as a county official and later bribed officials to save Prefect Yin Duan from punishment. Recommended as Xiaolian, he became Magistrate of Lanling, earning commendation.
 
-Chunk 10: 
+Chunk 12: 
 original: 
+俊乃赢服间行，轻赍数百金到京师，赂主章吏，遂得刊定州奏，故端得输作左校。
+端喜于降免而不知其由，俊亦终无所言。
+后太守徐珪举俊孝廉，再迁除兰陵令，政有异能，为东海相所表。
+会交阯部群贼并起，牧守软弱不能禁。
 又交阯贼梁龙等万余人，与南海太守孔芝反叛，攻破郡县。
 光和元年，即拜俊交阯刺史，令过本郡简募家兵及所调，合五千人，分从两道而入。既到州界，按甲不前，先遣使诣郡，观贼虚实，宣扬威德，以震动其心；既而与七郡兵俱进逼之，遂斩梁龙，降者数万人，旬月尽定。
 以功封都亭侯，千五百户，赐黄金五十斤，征为谏议大夫。
-及黄巾起，公卿多荐俊有才略，拜为右中郎将，持节，与左中郎将皇甫嵩讨颍川、汝南、陈国诸贼，悉破平之。
-嵩乃上言其状，而以功归俊，于是进封西乡侯，迁镇贼中郎将。
-时，南阳黄巾张曼成起兵，称 神上使 ，众数万，杀郡守褚贡，屯宛下百余日。
-后太守秦颉击杀曼成，贼更以赵弘为帅，众浸盛，遂十余万，据宛城。
-俊与荆州刺史徐及秦颉合兵万八千人围弘，自六月至八月不拔。
-有司奏欲征俊。
-司空张温上疏曰： 昔秦用白起，燕任乐毅，皆旷年历载，乃能克敌。
-俊讨颍川，以有攻效，引师南指，方略已设，临军易将，兵家有忌，宜假日月，责其成功。
-灵帝乃止。
-俊因急击弘，斩之。
-贼余帅韩忠复据宛拒俊。
-俊兵少不敌，乃张围结垒，起土山以临城内，因鸣鼓攻其西南，贼悉众赴之。
-俊自将精卒五千，掩其东北，乘城而入。
 translation: 
+Zhu Jun wore rags, walked along the narrow road, brought hundreds of gold to the capital, and bribed the officials in charge of the memorial. Because he was able to change the memorial to Dingzhou, Yin Duan was sent to Zuo School for labor reform.
+Yin Duan was very happy that he was exempted from the exemption, but he didn't know the reason, and Zhu Jun never said it.
+Later, the prefect Xu Wanggui promoted Zhu Jun to be filial and honest, and was promoted to the Lanling Order. His political achievements were very good, and he was commended by the Prime Minister of the East China Sea.
+At this time, a group of thieves broke out in Jiaozhi tribe, but Mu Shou was too weak to stop them.
 He also handed over the rebels Liang Long and more than 10,000 people, who rebelled with Kong Zhi, the prefect of Nanhai, and conquered the counties.
 In the first year of Guanghe, he appointed Zhu Jun as the governor of Jiaochengzhi. He ordered Zhu Jun to recruit 5,000 soldiers in the county plus the ones he had dispatched. They marched in two directions and arrived at the state border. He stopped advancing. He first sent envoys to the county to observe the strength of the thieves and publicize the power of the court to shake their hearts. Then he joined forces with the soldiers of the seven counties to force the thieves. He killed Liang Long and tens of thousands of people surrendered. They were all pacified within a month.
 Zhu Jun was granted the title of Marquis of Tingting in the capital for his meritorious service, with 1,500 households, 50 jins of gold, and conscription as an admonishment official.
-When the Yellow Turban bandits arose, many ministers recommended Zhu Jun as a talented man. He was appointed as the Right Zhonglang General, holding the emperor's festival, and he and the Zuo Zhonglang General Huangfu Song attacked the Yingchuan, Runan, and Chen Kingdom thieves, and they were all put down.
-Huangfu Song went up to report on the situation of pacifying the thieves, and attributed the credit to Zhu Jun. Therefore, the Jin Dynasty granted Zhu Jun the title of Marquis of Xixiang, and promoted him to the rank of Lang General in the town of thieves.
-At this time, Zhang Mancheng, a yellow turban in Nanyang, raised an army. He claimed to be the envoy of the gods and had tens of thousands of people. He killed Chu Gong, the governor of the county, and stayed in Wanxia for more than a hundred days.
-Later, the prefect Qin Jie killed Zhang Mancheng, and the thieves appointed Zhao Hong as their commander. The army gradually grew to more than 100,000 people and occupied Wancheng.
-Zhu Jun, Jingzhou governor Xu Chu and Qin Jie gathered 18,000 troops to surround Zhao Hong. From June to August, they could not capture Zhao Hong.
-The manager wanted to recruit Zhu Jun.
-Sikong Zhang Wen Shangshu said: In the past, the Qin State appointed Bai Qi, and the Yan State appointed Le Yi. It took many years before they could defeat the enemy.
-Zhu Jun's crusade against the Yingchuan bandits has been successful. He has led his troops to the south. The plan has been made. Changing generals before the battle is taboo for military strategists. Zhu Jun should be given some time to win.
-Therefore, Emperor Ling did not recruit Zhu Jun.
-Zhu Jun therefore attacked Zhao Hong severely and finally killed him.
-The remaining thief commander Han Zhong took Wan again to resist Zhu Jun.
-The Jie soldiers were few and invincible, so they set up a siege and fortified the city. They raised earthen hills to serve as the inner city and beat drums to attack the southwestern side of the city. The thieves attacked with all their strength.
-Zhu Jun himself led five thousand elite troops, assaulted the northeast of the city, and climbed into the city.
 
 summary:
 summary line 8: When the Jiaozhi rebellion erupted, Zhu Jun was appointed Governor of Jiaozhi. He recruited 5,000 troops, pacified the rebels, killed Liang Long, and secured surrender. He was made a Marquis and later served as an admonishment official.
 
-Chunk 10: 
+Chunk 13: 
 original: 
-又交阯贼梁龙等万余人，与南海太守孔芝反叛，攻破郡县。
-光和元年，即拜俊交阯刺史，令过本郡简募家兵及所调，合五千人，分从两道而入。既到州界，按甲不前，先遣使诣郡，观贼虚实，宣扬威德，以震动其心；既而与七郡兵俱进逼之，遂斩梁龙，降者数万人，旬月尽定。
-以功封都亭侯，千五百户，赐黄金五十斤，征为谏议大夫。
 及黄巾起，公卿多荐俊有才略，拜为右中郎将，持节，与左中郎将皇甫嵩讨颍川、汝南、陈国诸贼，悉破平之。
 嵩乃上言其状，而以功归俊，于是进封西乡侯，迁镇贼中郎将。
 时，南阳黄巾张曼成起兵，称 神上使 ，众数万，杀郡守褚贡，屯宛下百余日。
@@ -369,10 +308,11 @@ original:
 贼余帅韩忠复据宛拒俊。
 俊兵少不敌，乃张围结垒，起土山以临城内，因鸣鼓攻其西南，贼悉众赴之。
 俊自将精卒五千，掩其东北，乘城而入。
+忠乃退保小城，惶惧乞降。
+司马张超及徐、秦颉皆欲听之。
+俊曰： 兵有形同而势异者。
+昔秦、项之际，民无定主，故赏附以劝来耳。
 translation: 
-He also handed over the rebels Liang Long and more than 10,000 people, who rebelled with Kong Zhi, the prefect of Nanhai, and conquered the counties.
-In the first year of Guanghe, he appointed Zhu Jun as the governor of Jiaochengzhi. He ordered Zhu Jun to recruit 5,000 soldiers in the county plus the ones he had dispatched. They marched in two directions and arrived at the state border. He stopped advancing. He first sent envoys to the county to observe the strength of the thieves and publicize the power of the court to shake their hearts. Then he joined forces with the soldiers of the seven counties to force the thieves. He killed Liang Long and tens of thousands of people surrendered. They were all pacified within a month.
-Zhu Jun was granted the title of Marquis of Tingting in the capital for his meritorious service, with 1,500 households, 50 jins of gold, and conscription as an admonishment official.
 When the Yellow Turban bandits arose, many ministers recommended Zhu Jun as a talented man. He was appointed as the Right Zhonglang General, holding the emperor's festival, and he and the Zuo Zhonglang General Huangfu Song attacked the Yingchuan, Runan, and Chen Kingdom thieves, and they were all put down.
 Huangfu Song went up to report on the situation of pacifying the thieves, and attributed the credit to Zhu Jun. Therefore, the Jin Dynasty granted Zhu Jun the title of Marquis of Xixiang, and promoted him to the rank of Lang General in the town of thieves.
 At this time, Zhang Mancheng, a yellow turban in Nanyang, raised an army. He claimed to be the envoy of the gods and had tens of thousands of people. He killed Chu Gong, the governor of the county, and stayed in Wanxia for more than a hundred days.
@@ -386,16 +326,16 @@ Zhu Jun therefore attacked Zhao Hong severely and finally killed him.
 The remaining thief commander Han Zhong took Wan again to resist Zhu Jun.
 The Jie soldiers were few and invincible, so they set up a siege and fortified the city. They raised earthen hills to serve as the inner city and beat drums to attack the southwestern side of the city. The thieves attacked with all their strength.
 Zhu Jun himself led five thousand elite troops, assaulted the northeast of the city, and climbed into the city.
+Han Zhong had no choice but to withdraw from the small town and asked to surrender in fear.
+Sima Zhang Chao, Xu Chu and Qin Jie all wanted to accept Han Zhong's surrender.
+Zhu Jun said: The military has the same physical appearance but different potential.
+In the past, during the reign of Qin Xiang, the people had no fixed masters, so they rewarded those who came to join him to encourage those who had not yet returned.
 
 summary:
 summary line 9: During the Yellow Turban rebellion, Zhu Jun was appointed Right General of the Central Army, alongside Huangfu Song. They suppressed rebels in Yingchuan, Runan, and Chen. Huangfu Song credited Zhu Jun, who was made Marquis of Xixiang.
 
-Chunk 11: 
+Chunk 14: 
 original: 
-忠乃退保小城，惶惧乞降。
-司马张超及徐、秦颉皆欲听之。
-俊曰： 兵有形同而势异者。
-昔秦、项之际，民无定主，故赏附以劝来耳。
 今海内一统，唯黄巾造寇，纳降无以劝善，讨之足以惩恶。
 今若受之，更开逆意，贼利则进战，钝则乞降，纵敌长寇，非良计也。
 因急攻，连战不克。
@@ -410,10 +350,6 @@ original:
 而秦颉积忿忠，遂杀之。余众惧不自安，复以孙夏为帅，还屯宛中。
 俊急攻之。夏走，追至西鄂精山，又破之。复斩万余级，贼遂解散。
 translation: 
-Han Zhong had no choice but to withdraw from the small town and asked to surrender in fear.
-Sima Zhang Chao, Xu Chu and Qin Jie all wanted to accept Han Zhong's surrender.
-Zhu Jun said: The military has the same physical appearance but different potential.
-In the past, during the reign of Qin Xiang, the people had no fixed masters, so they rewarded those who came to join him to encourage those who had not yet returned.
 Now that the country is unified, only the Yellow Turbans can cause chaos. Accepting surrender cannot encourage good people, and only crusade can punish evildoers.
 Accepting surrender now will further encourage the idea of ​​​​causing chaos. If it is advantageous to the thieves, they will go to war. If it is not advantageous, they will beg for surrender. It is not a good idea to indulge the enemy and encourage the rebellion.
 Due to the hasty attack, they were unable to win consecutive battles.
@@ -431,7 +367,7 @@ Zhu Jun rushed to attack, but Sun Xia escaped and chased him to Jingshan Mountai
 summary:
 summary line 10: Zhu Jun then besieged Nanyang Yellow Turban leader Zhao Hong at Wancheng for months. Despite advice to replace him, the court persisted. Zhu Jun killed Zhao Hong, then faced Han Zhong. Feigning weakness, he attacked the city's northeast, forcing Han Zhong to retreat. When Han Zhong sought surrender, Zhu Jun refused, arguing it would encourage rebellion. He lifted the siege, allowing Han Zhong to scatter, then defeated him, beheading over 10,000. After Han Zhong was killed by Prefect Qin Jie, Zhu Jun defeated Sun Xia, ending the rebellion.
 
-Chunk 12: 
+Chunk 15: 
 original: 
 明年春，遣使者持节拜俊右车骑将军，振旅还京师，以为光禄大夫，增邑五千，更封钱塘侯，加位特进。
 以母丧去官，起家，复为将作大匠，转少府、太仆。
@@ -441,9 +377,6 @@ original:
 贼帅常山人张燕，轻勇捷，故军中号曰飞燕。
 善得士卒心，乃与中山、常山、赵郡、上党、河内诸山谷寇贼更相交通，众至百万，号曰黑山贼。
 河北诸郡县并被其害，朝廷不能讨。
-燕乃遣使至京师，奏书乞降，遂拜燕平难中郎将，使领河北诸山谷事，岁得举孝廉、计吏。
-燕后渐寇河内，逼近京师，于是出俊为河内太守，将家兵击却之。
-其后诸贼多为袁绍所定，事在《绍传》。复拜俊为光禄大夫，转顿骑，寻拜城门校尉、河南尹。
 translation: 
 In the spring of the next year, the imperial court sent an envoy to appoint Zhu Jun as the Right Cavalry General on the Emperor's Day. He returned to the capital in triumph and was appointed Guanglu Doctor.
 He resigned from the official position due to the death of his mother, and later came out from home to serve as an official. He was appointed as a master craftsman, and transferred to the Shaofu and Tai servants.
@@ -453,44 +386,51 @@ The big one has 20,000 to 30,000 people, and the small one has 6,000 to 7,000 pe
 Zhang Yan, a bandit commander from Changshan, was light, brave and good at walking, so he was called Feiyan in the army.
 He was very loved by the soldiers, and interacted with bandits in Zhongshan, Changshan, Zhaojun, Shangdang, and Hanoi valleys. Their number reached one million, and they were called Black Mountain Bandits.
 All counties and counties in Hebei suffered from them, and the imperial court could not attack them.
-Zhang Yan sent an envoy to the capital to beg for surrender. The imperial court awarded Zhang Yan the rank of Lieutenant General in times of difficulty, allowing him to manage affairs in the valleys of Hebei. He could be promoted to filial piety, honesty, and planning officials every year.
-Zhang Yan gradually invaded Hanoi and approached the capital, so he appointed Zhu Jun as the governor of Hanoi and led his troops to repel him.
-After that, many of the thieves were put down by Yuan Shao, which was recorded in the "Biography of Yuan Shao". Zhu Jun was again appointed as the Guanglu doctor, and he was assigned to the garrison and cavalry. Soon, he was awarded the title of Chengmen Xiaowei and Henan Yin.
 
 summary:
 summary line 11: Zhu Jun was appointed General of the Right Chariot and Cavalry, then served as Guanglu Doctor. After his mother's death, he returned to office as Master of Works, then Shaofu and Grand Servant.
 
-Chunk 12: 
+Chunk 17: 
 original: 
-明年春，遣使者持节拜俊右车骑将军，振旅还京师，以为光禄大夫，增邑五千，更封钱塘侯，加位特进。
-以母丧去官，起家，复为将作大匠，转少府、太仆。
-自黄巾贼后，复有黑山、黄龙、白波、左校、郭大贤、于氐根、青牛角、张白骑、刘石、左髭丈八、平汉、大计、司隶、掾哉、雷公、浮云、飞燕、白雀、杨凤、于毒、五鹿、李大目、白绕、畦固、苦之徒，并起山谷间，不可胜数。
-其大声者称雷公，骑白马者为张白骑，轻便者言飞燕，多髭者号于氐根，大眼者为大目，如此称号，各有所因。
-大者二三万，小者六七千。
-贼帅常山人张燕，轻勇捷，故军中号曰飞燕。
-善得士卒心，乃与中山、常山、赵郡、上党、河内诸山谷寇贼更相交通，众至百万，号曰黑山贼。
-河北诸郡县并被其害，朝廷不能讨。
-燕乃遣使至京师，奏书乞降，遂拜燕平难中郎将，使领河北诸山谷事，岁得举孝廉、计吏。
-燕后渐寇河内，逼近京师，于是出俊为河内太守，将家兵击却之。
-其后诸贼多为袁绍所定，事在《绍传》。复拜俊为光禄大夫，转顿骑，寻拜城门校尉、河南尹。
+俊曰： 相国董卓具为臣说，所以知耳。
+使人不能屈，由是止，不为副。
+卓后入关，留守洛阳，而俊与山东诸将通谋为内应。
+既而惧为卓所袭，乃弃官奔荆州。
+卓以弘农场懿为河南尹，守洛阳。
+俊闻，复进兵还洛，懿走。
+俊以河南残破无所资，乃东屯中牟，移书州郡，请师讨卓。
+徐州刺史陶谦遣精兵三千，余州郡稍有所给，谦乃上俊行车骑将军。
+董卓闻之，使其将李、郭汜等数万人屯河南拒俊。
+俊逆击，为、汜所破。
+俊自知不敌，留关下不敢复前。
+及董卓被诛，汜作战，俊时犹在中牟。
+陶谦以俊名臣，数有战功，可委以大事，乃与诸豪杰共推俊为太师，因移檄牧伯，同讨李等，奉迎天子。
+乃奏记于俊曰：徐州刺史陶谦、前杨州刺史周乾、琅邪相阴德、东海相刘馗、彭城相汲廉、北海相孔融、沛相袁忠、太山太守应劭、汝南太守徐、前九江太守服虔、博士郑玄等，敢言之行车骑将军河南尹莫府：国家既曹董卓，重以李、郭汜之祸，幼主劫执忠良残敝，长安隔绝，不知吉凶。
 translation: 
-In the spring of the next year, the imperial court sent an envoy to appoint Zhu Jun as the Right Cavalry General on the Emperor's Day. He returned to the capital in triumph and was appointed Guanglu Doctor.
-He resigned from the official position due to the death of his mother, and later came out from home to serve as an official. He was appointed as a master craftsman, and transferred to the Shaofu and Tai servants.
-Since the Yellow Turban rebellion, there have been countless followers from Heishan, Huanglong, Baibo, Zuoxiao, Guo Daxian, Yu Digen, Qingniujiao, Zhang Baiqi, Liu Shi, Zuo Zhuzhangba, Pinghan, Daji, Sili, Juzai, Lei Gong, Fuyun, Feiyan, Baique, Yangfeng, Yudu, Wulu, Li Damu, Bairao, Qigu, and Kuca, and they have appeared in the valley.
-Among them, the loud one is called Lei Gong, the one riding a white horse is called Zhang Baiqi, the brisk one is called Feiyan, the one with many beards is called Yu Digen, and the one with big eyes is called Damu. Each of these titles has its own reasons.
-The big one has 20,000 to 30,000 people, and the small one has 6,000 to 7,000 people.
-Zhang Yan, a bandit commander from Changshan, was light, brave and good at walking, so he was called Feiyan in the army.
-He was very loved by the soldiers, and interacted with bandits in Zhongshan, Changshan, Zhaojun, Shangdang, and Hanoi valleys. Their number reached one million, and they were called Black Mountain Bandits.
-All counties and counties in Hebei suffered from them, and the imperial court could not attack them.
-Zhang Yan sent an envoy to the capital to beg for surrender. The imperial court awarded Zhang Yan the rank of Lieutenant General in times of difficulty, allowing him to manage affairs in the valleys of Hebei. He could be promoted to filial piety, honesty, and planning officials every year.
-Zhang Yan gradually invaded Hanoi and approached the capital, so he appointed Zhu Jun as the governor of Hanoi and led his troops to repel him.
-After that, many of the thieves were put down by Yuan Shao, which was recorded in the "Biography of Yuan Shao". Zhu Jun was again appointed as the Guanglu doctor, and he was assigned to the garrison and cavalry. Soon, he was awarded the title of Chengmen Xiaowei and Henan Yin.
+Zhu Jun said: Prime Minister Dong Zhuo told me everything, so I know!
+People could not submit to him, so he was not appointed as the deputy prime minister.
+Dong Zhuo later entered the Pass and left Zhu Jun to guard Luoyang. Zhu Jun conspired with the Shandong generals to act as an internal agent.
+Later, he was afraid of being attacked by Dong Zhuo, so he abandoned his official position and ran to Jingzhou.
+Dong Zhuo appointed Hongnong Yang Yi as Henan Yin and guarded Luoyang.
+Zhu Jun heard about it and marched into Luoyang again, but Yang Yi ran away.
+Zhu Jun believed that Henan was in ruins and had nothing to rely on, so he went east to garrison Zhongmou and notified the prefectures and counties, asking them to send troops to attack Dong Zhuo.
+Tao Qian, the governor of Xuzhou, sent out 3,000 elite soldiers, and other states and counties also gave some. Tao Qian wrote a letter to recommend Zhu Jun as a riding general.
+Dong Zhuo found out and sent tens of thousands of his generals, including Li Chun and Guo Si, to Henan to resist Zhu Jun.
+Zhu Jun attacked and was defeated by Li Chu and Guo Si.
+Zhu Jun himself knew that he was invincible, so he stayed in Guanxia and did not dare to move forward.
+After Dong Zhuo was executed, Li Ju and Guo Si rebelled, while Zhu Jun was still in Zhongmu.
+Tao Qian believed that Zhu Jun was a famous official with many military exploits and could be appointed to great tasks, so he and other heroes recommended Zhu Jun as the grand master, notified the shepherds, and challenged Li Ju and others to welcome the emperor.
+Because the memorial to Zhu Jun said: Tao Qian, the governor of Xuzhou, Zhou Qian, the former governor of Yangzhou, Yinde, the prime minister of Langfu, Liu Kui, the prime minister of the East China Sea, Ji Lian, the prime minister of Pengcheng, Kong Rong, the prime minister of Beihai, Yuan Zhong, the prime minister of Pei, Ying Shao, the prefect of Taishan, Xu Chu, the prefect of Runan, Fu Qian, the former prefect of Jiujiang, Dr. Zheng Xuan, etc., dared to speak out the driving general of Henan Yin Mufu : After the country suffered the disaster of Dong Zhuo, there was also the rebellion of Li Chu and Guo Si. The young master was kidnapped, Zhongliang was brutally killed, Chang'an was isolated, and it was unclear what the good or bad outcome would be.
 
 summary:
 summary line 12: Later, the Black Mountain bandits, led by Zhang Yan, emerged with over a million followers. Zhu Jun was appointed Governor of Henei to repel them. Under Dong Zhuo's rule, Zhu Jun opposed moving the capital to Chang'an. He later conspired with Shandong generals, fled to Jingzhou, then returned to Luoyang, garrisoning Zhongmou. He called for troops against Dong Zhuo, but was defeated by Li Jue and Guo Si.
 
-Chunk 15: 
+Chunk 18: 
 original: 
+是以临官尹人，搢绅有识，莫不忧惧，以为自非明哲雄霸之士，曷能克济祸乱！
+自起兵已来，于兹三年，州郡转相顾望，未有奋击之功，而互争私变，更相疑惑。
+谦等并共谘诹，议消国难。佥曰： 将军君侯，既文且武，应运而出，凡百君子，靡不颙颙。
+故相率厉，简选精悍，堪能深入，直旨咸阳，多持资粮，足支半岁，谨同心腹，委之元帅。
 会李用太尉周忠、尚书贾诩策，征入朝。
 军吏皆惮入关，欲应陶谦等。
 曰： 以君召臣，义不俟驾，况天子诏乎！
@@ -505,10 +445,11 @@ original:
 俊素刚，即日发病卒。
 子晧，亦有才行，官至豫章太守。
 论曰：皇甫嵩、朱俊并以上将之略，受脤仓卒之时。
-及其功成师克，威声满天下。
-值弱主蒙尘，犷贼放命，斯诚叶公投袂之几，翟义鞠旅之日，故梁衍献规，山东连盟，而舍格天之大业，蹈匹夫之小谅，卒狼狈虎口。为智士笑。
-岂天之长斯乱也？
 translation: 
+Therefore, there is no scholar-bureaucrat who is not afraid of being an official and governing people. I think if there are not wise and wise people, how can we stop the chaos!
+It has been three years since the army was launched. The states and counties watched each other and did not take credit for attacking. They only fought against each other for selfish reasons and did not trust each other.
+The humility and others discussed together to eliminate the difficulties, and they all said: Generals and princes are civilized and military, and they are in line with the times. All upright people will not fail to look up.
+Therefore, we encourage each other to select capable troops who can penetrate deep into the enemy's army and point directly at Xianyang. There is a lot of supplies and food, which can last for half a year. With one heart and one mind, we trust the marshal.
 At that time, Li Chu used the strategy of Taiwei Zhou Zhong and Shangshu Jia Xu to recruit Zhu Jun to the court.
 The military officials were afraid of entering the pass and wanted to respond to Tao Qian and others.
 Zhu Jun said: "When summoning ministers with the emperor's order, you should go there without waiting for the carriage, let alone the emperor's edict?"
@@ -523,15 +464,16 @@ Guo Si refused and detained Zhu Jun and others as hostages.
 Zhu Jun, who always had a strong personality, fell ill and died that day.
 Zhu Jun's son Zhu Hao was also talented and virtuous, and was promoted to the governor of Yuzhang.
 The historian commented: Huangfu Song and Zhu Jun both received orders when the country was in chaos because of their talents as generals.
-Successfully conquer the enemy, and become famous all over the world.
-At a time when weak leaders were humiliated and evil thieves were disobedient, this was the time when Lord Ye rose up in high spirits and Zhai Yi raised his troops to kill Wang Mang. Therefore, Liang Yan presented the rules and the Shandong Alliance did not go to Zhengtian's great cause, but practiced the small faith of ordinary people. As a result, they were embarrassed and ridiculed by knowledgeable people.
-Is it God who wants to encourage this kind of rebellion?
 
 summary:
 summary line 13: After Dong Zhuo's death, Tao Qian and others recommended Zhu Jun as Grand Marshal, but Li Jue and Guo Si summoned him to court. Zhu Jun accepted, becoming Grand Commandant and Minister of Works. He was dismissed due to a solar eclipse, then served as General of Hussars. During Li Jue and Guo Si's conflict, he was taken hostage by Guo Si and died of illness.
 
-Chunk 15: 
+Chunk 18: 
 original: 
+是以临官尹人，搢绅有识，莫不忧惧，以为自非明哲雄霸之士，曷能克济祸乱！
+自起兵已来，于兹三年，州郡转相顾望，未有奋击之功，而互争私变，更相疑惑。
+谦等并共谘诹，议消国难。佥曰： 将军君侯，既文且武，应运而出，凡百君子，靡不颙颙。
+故相率厉，简选精悍，堪能深入，直旨咸阳，多持资粮，足支半岁，谨同心腹，委之元帅。
 会李用太尉周忠、尚书贾诩策，征入朝。
 军吏皆惮入关，欲应陶谦等。
 曰： 以君召臣，义不俟驾，况天子诏乎！
@@ -546,10 +488,11 @@ original:
 俊素刚，即日发病卒。
 子晧，亦有才行，官至豫章太守。
 论曰：皇甫嵩、朱俊并以上将之略，受脤仓卒之时。
-及其功成师克，威声满天下。
-值弱主蒙尘，犷贼放命，斯诚叶公投袂之几，翟义鞠旅之日，故梁衍献规，山东连盟，而舍格天之大业，蹈匹夫之小谅，卒狼狈虎口。为智士笑。
-岂天之长斯乱也？
 translation: 
+Therefore, there is no scholar-bureaucrat who is not afraid of being an official and governing people. I think if there are not wise and wise people, how can we stop the chaos!
+It has been three years since the army was launched. The states and counties watched each other and did not take credit for attacking. They only fought against each other for selfish reasons and did not trust each other.
+The humility and others discussed together to eliminate the difficulties, and they all said: Generals and princes are civilized and military, and they are in line with the times. All upright people will not fail to look up.
+Therefore, we encourage each other to select capable troops who can penetrate deep into the enemy's army and point directly at Xianyang. There is a lot of supplies and food, which can last for half a year. With one heart and one mind, we trust the marshal.
 At that time, Li Chu used the strategy of Taiwei Zhou Zhong and Shangshu Jia Xu to recruit Zhu Jun to the court.
 The military officials were afraid of entering the pass and wanted to respond to Tao Qian and others.
 Zhu Jun said: "When summoning ministers with the emperor's order, you should go there without waiting for the carriage, let alone the emperor's edict?"
@@ -564,9 +507,6 @@ Guo Si refused and detained Zhu Jun and others as hostages.
 Zhu Jun, who always had a strong personality, fell ill and died that day.
 Zhu Jun's son Zhu Hao was also talented and virtuous, and was promoted to the governor of Yuzhang.
 The historian commented: Huangfu Song and Zhu Jun both received orders when the country was in chaos because of their talents as generals.
-Successfully conquer the enemy, and become famous all over the world.
-At a time when weak leaders were humiliated and evil thieves were disobedient, this was the time when Lord Ye rose up in high spirits and Zhai Yi raised his troops to kill Wang Mang. Therefore, Liang Yan presented the rules and the Shandong Alliance did not go to Zhengtian's great cause, but practiced the small faith of ordinary people. As a result, they were embarrassed and ridiculed by knowledgeable people.
-Is it God who wants to encourage this kind of rebellion?
 
 summary:
 summary line 14: The historian comments that both Huangfu Song and Zhu Jun were talented generals who achieved fame but failed to seize the moment for greater change, adhering to minor loyalties. Huangfu Song's humility and refusal to claim credit preserved his family and wealth, earning praise.

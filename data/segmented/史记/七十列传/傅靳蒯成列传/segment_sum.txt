@@ -1,0 +1,163 @@
+Summary uses chunk [1, 0, 1, 3, 4]
+
+Chunk 1: 
+original: 
+孝惠五年卒，谥为景侯。
+子顷侯精立，二十四年卒。
+子共侯则立，十二年卒。
+子侯偃立，三十一年，坐与淮南王谋反，死，国除。
+信武侯靳歙，以中涓从，起宛朐。
+攻济阳。
+破李由军。
+击秦军亳南、开封东北，斩骑千人将一人，首五十七级，捕虏七十三人，赐爵封号临平君。
+又战蓝田北，斩车司马二人，骑长一人，首二十八级，捕虏五十七人。
+至霸上。
+沛公立为汉王，赐歙爵建武侯，迁为骑都尉。
+从定三秦。
+别西击章平军於陇西，破之，定陇西六县，所将卒斩车司马、候各四人，骑长十二人。
+从东击楚，至彭城。
+translation: 
+Fu Kuan died in the fifth year of Emperor Hui of the Han Dynasty, and his posthumous title was Jinghou.
+His son Qinghou Fu Jing inherited the title, and his son Qinghou died after reigning for twenty-four years.
+Fu Jing's son, Gonghou Fu Ze, inherited the title and died after reigning for twelve years.
+Fu Ze's son Fu Yan inherited the title. In the thirty-first year, he was executed for treason with Liu An, King of Huainan, and his fiefdom was abolished.
+Jin She, the Marquis of Xinwu, followed Pei Gong Liu Bang as an attendant official and raised troops in Wanqu.
+He once attacked Jiyang.
+Defeated the army of Qin general Li You.
+He also attacked the Qin army in the south of Bo County and northeast of Kaifeng. He killed one general with a thousand cavalry, captured fifty-seven heads, and captured seventy-three people. He received the title given by Pei Gong and was named Lord Linping.
+Later, they fought in the north of Lantian, killing two Qin army chariot commanders and one cavalry officer, beheading 28 heads and capturing 57 people.
+Then he led his army to Bashang.
+At that time, Peigong was the king of Han Dynasty and granted Jin She the title of Marquis of Jianwu and promoted him to the rank of Cavalry Commander.
+Jin She followed the King of Han and pacified the Three Qin Dynasties.
+In addition, he led his troops to march westward to attack Qin General Zhang Ping's army in Longxi, defeated the Qin army, and pacified six counties in Longxi. The soldiers he led killed four Qin army chariot commanders, four military commanders, and twelve cavalry officers.
+Later, he followed the King of Han to attack the Chu army eastward and reached Pengcheng.
+
+summary:
+summary line 0: The military careers and titles of three Han Dynasty figures: Fu Kuan, Jin She, and Zhou Xie (Kuai Chenghou), as recorded in historical records.
+
+Chunk 0: 
+original: 
+阳陵侯傅宽，以魏五大夫骑将从，为舍人，起横阳。
+从攻安阳、杠里，击赵贲军於开封，及击杨熊曲遇、阳武，斩首十二级，赐爵卿。
+从至霸上。
+沛公立为汉王，汉王赐宽封号共德君。
+从入汉中，迁为右骑将。
+从定三秦，赐食邑雕阴。
+从击项籍，待怀，赐爵通德侯。
+从击项冠、周兰、龙且，所将卒斩骑将一人敖下，益食邑。
+属淮阴，击破齐历下军，击田解。
+属相国参，残博，益食邑。
+因定齐地，剖符世世勿绝，封为阳陵侯，二千六百户，除前所食。
+为齐右丞相，备齐。
+五岁为齐相国。
+四月，击陈豨，属太尉勃，以相国代丞相哙击豨。
+一月，徙为代相国，将屯。
+二岁，为代丞相，将屯。
+translation: 
+Fu Kuan, the Marquis of Yangling, followed Pei Gong Liu Bang as a cavalry officer with the title of the fifth official of Wei State. He once served as a retainer and started an uprising in Hengyang.
+He followed Pei Gong to attack Anyang and Gangli, attacked Qin general Zhao Bi's army in Kaifeng, and defeated Qin general Yang Xiong's army in Quyu and Yangwu, capturing twelve enemy heads. Pei Gong granted him the title of Qing.
+Later he followed Pei Gong to Bashang.
+Peigong became the queen of Han Dynasty and gave Fu Kuan the title of Gongdejun.
+He followed the King of Han into the Hanzhong area and was promoted to the right cavalry general.
+Soon after, he followed the King of Han to pacify the Three Qin Dynasties, and the King of Han gave Diaoyin County as his seat.
+During the conflict between Chu and Han, he followed the King of Han to attack Xiang Yu, the overlord of Western Chu, and was ordered to meet the King of Han in Huai County. The King of Han gave him the title of Marquis of Tongde.
+When he followed the King of Han to attack Xiang Yu's generals Xiang Guan, Zhou Lan, and Long Qie, the soldiers he led captured an enemy cavalry general at the foot of Aocang Mountain, thus increasing his food supply.
+Fu Kuan was once under the command of Huaiyin Marquis Han Xin, and defeated Qi's garrison at Lixia and defeated Qi's general Tian Jie.
+Later, it came under the command of Cao Shen, the prime minister, and conquered Bo County of Qi State, adding more food towns.
+Because of his meritorious service in pacifying Qi, the king of Han divided the token in half and gave him half to show his credibility, so that his title could be passed down from generation to generation. He was granted the title of Marquis of Yangling, with a settlement of 2,600 households, and he was granted the title of a settlement before.
+Later, he served as the right prime minister of Qi State and stationed troops to guard against Tian Heng's rebellion.
+He served as prime minister of Qi for five years.
+In April of the eleventh year of Emperor Gaozu of the Han Dynasty, he attacked Chen Xi, who rebelled against the Han and proclaimed himself king. He was under the command of Taiwei Zhou Bo, who replaced Fan Kuai, the prime minister of the Han Dynasty, and defeated Chen Xi.
+In January of the next year, he was transferred to Dai Guo Xiangguo and led troops to garrison the border counties.
+Two years later, he served as the prime minister of the country and continued to lead troops to garrison the border counties.
+
+summary:
+summary line 1: Fu Kuan, Marquis of Yangling, began as a cavalry officer under Pei Gong (Liu Bang). He participated in numerous battles against Qin and Chu forces, including attacks on Anyang, Gangli, and Kaifeng, and defeating generals like Zhao Bi and Yang Xiong. After Liu Bang became King of Han, Fu Kuan was promoted to right cavalry general and granted Diaoyin County. He fought against Xiang Yu, capturing an enemy cavalry general at Aocang Mountain. Serving under Han Xin and later Cao Shen, he helped pacify Qi, earning a hereditary title as Marquis of Yangling with 2,600 households. He served as right prime minister of Qi for five years, guarded against Tian Heng’s rebellion, and attacked Chen Xi under Zhou Bo. Fu Kuan died in the fifth year of Emperor Hui’s reign, posthumously named Jinghou. His lineage continued until his descendant Fu Yan was executed for treason with Liu An, King of Huainan.
+
+Chunk 1: 
+original: 
+孝惠五年卒，谥为景侯。
+子顷侯精立，二十四年卒。
+子共侯则立，十二年卒。
+子侯偃立，三十一年，坐与淮南王谋反，死，国除。
+信武侯靳歙，以中涓从，起宛朐。
+攻济阳。
+破李由军。
+击秦军亳南、开封东北，斩骑千人将一人，首五十七级，捕虏七十三人，赐爵封号临平君。
+又战蓝田北，斩车司马二人，骑长一人，首二十八级，捕虏五十七人。
+至霸上。
+沛公立为汉王，赐歙爵建武侯，迁为骑都尉。
+从定三秦。
+别西击章平军於陇西，破之，定陇西六县，所将卒斩车司马、候各四人，骑长十二人。
+从东击楚，至彭城。
+translation: 
+Fu Kuan died in the fifth year of Emperor Hui of the Han Dynasty, and his posthumous title was Jinghou.
+His son Qinghou Fu Jing inherited the title, and his son Qinghou died after reigning for twenty-four years.
+Fu Jing's son, Gonghou Fu Ze, inherited the title and died after reigning for twelve years.
+Fu Ze's son Fu Yan inherited the title. In the thirty-first year, he was executed for treason with Liu An, King of Huainan, and his fiefdom was abolished.
+Jin She, the Marquis of Xinwu, followed Pei Gong Liu Bang as an attendant official and raised troops in Wanqu.
+He once attacked Jiyang.
+Defeated the army of Qin general Li You.
+He also attacked the Qin army in the south of Bo County and northeast of Kaifeng. He killed one general with a thousand cavalry, captured fifty-seven heads, and captured seventy-three people. He received the title given by Pei Gong and was named Lord Linping.
+Later, they fought in the north of Lantian, killing two Qin army chariot commanders and one cavalry officer, beheading 28 heads and capturing 57 people.
+Then he led his army to Bashang.
+At that time, Peigong was the king of Han Dynasty and granted Jin She the title of Marquis of Jianwu and promoted him to the rank of Cavalry Commander.
+Jin She followed the King of Han and pacified the Three Qin Dynasties.
+In addition, he led his troops to march westward to attack Qin General Zhang Ping's army in Longxi, defeated the Qin army, and pacified six counties in Longxi. The soldiers he led killed four Qin army chariot commanders, four military commanders, and twelve cavalry officers.
+Later, he followed the King of Han to attack the Chu army eastward and reached Pengcheng.
+
+summary:
+summary line 2: Jin She, Marquis of Xinwu, served as an attendant under Pei Gong, raising troops in Wanqu. He defeated Qin forces under Li You and others, capturing numerous enemies and receiving the title Linping Lord. After Liu Bang became King of Han, Jin She was made Marquis of Jianwu and Cavalry Commander. He pacified the Three Qin Dynasties, defeated Zhang Ping in Longxi, and fought in the Chu-Han conflict, capturing Xing Shuo’s officers and surrendering 4,180 troops. He conquered Zhao forces, captured Pingyang, and forced Ye to surrender. He defeated Xiang Yu’s army at Chenggao and Lucheng, pacified Nanjun, and arrested Han Xin. He was titled Xinwuhou with 4,600 households, later increased to 5,300. Jin She died in the fifth year of his reign, posthumously named Suhou. His son Jin Ting inherited but lost the title in the third year of Emperor Wen’s reign.
+
+Chunk 3: 
+original: 
+从击黥布有功，益封定食五千三百户。
+凡斩首九十级，虏百三十二人；别破军十四，降城五十九，定郡、国各一，县二十三；得王、柱国各一人，二千石以下至五百石三十九人。
+高后五年，歙卒，谥为肃侯。
+子亭代侯。
+二十一年，坐事国人过律，孝文後三年，夺侯，国除。
+蒯成侯緤者，沛人也，姓周氏。
+常为高祖参乘，以舍人从起沛。
+至霸上，西入蜀、汉，还定三秦，食邑池阳。
+东绝甬道，从出度平阴，遇淮阴侯兵襄国，军乍利乍不利，终无离上心。
+以緤为信武侯，食邑三千三百户。
+translation: 
+Later, he followed Emperor Gaozu and made great achievements in attacking Tingbu. He was granted an additional 5,300 households with stipulated food settlements.
+In several important battles, Jin She beheaded 90 enemies and captured 132 people. He also defeated the enemy 14 times, surrendered 59 cities, pacified one county and one country, and 23 counties. He captured alive one person each from the princes, kings and Zhuguo, and 39 officials of different ranks ranging from less than 2,000 shi to 500 shi.
+In the fifth year of his reign, Jin She passed away and was given the posthumous title Suhou.
+His son Jin Ting inherited the title of Marquis.
+Twenty-one years later, in the third year of the reign of Emperor Wen of Han Dynasty, he was deprived of his title and exempted from the fiefdom because he drove the people beyond the regulations.
+Kuai Chenghou, named Gui, was from Peixian County and his surname was Zhou.
+He once served as Gaozu's bodyguard and followed Gaozu in rebellion as a retainer.
+He once accompanied Emperor Gaozu to Bashang, and then went west to enter the Shu and Han regions. Later, he returned with Emperor Gaozu and pacified the Three Qin Dynasties, and was granted the title of Chiyang as a food town.
+He was ordered to lead his troops eastward to cut off the enemy's transportation channels. Then he followed Gaozu on his expedition and crossed Pingyin Ferry to the east, meeting up with the troops of Huaiyin Marquis Han Xin in Xiangguo. At that time, the battles were sometimes won and sometimes defeated, and the situation was grim, but Zhou Ji never meant to deviate from Gaozu.
+Emperor Gaozu granted him the title of Marquis of Xinwu, with a settlement of 3,300 households.
+
+summary:
+summary line 3: Zhou Xie, Marquis of Kuai Cheng, from Peixian, served as Gaozu’s bodyguard and retainer. He accompanied Gaozu to Bashang, entered Shu and Han, and pacified the Three Qin Dynasties, receiving Chiyang as a fief. He led troops eastward to cut enemy supply lines and joined Han Xin at Xiangguo. Gaozu granted him the title of Marquis of Xinwu with 3,300 households, later changed to Kuai Chenghou. He once tearfully dissuaded Gaozu from personally attacking Chen Xi, earning special privileges. Zhou Xie died in the fifth year of Emperor Wen’s reign, posthumously named Zhenhou. His son Zhou Chang inherited but lost the title due to crime. Zhou Ju, his grandson, was later granted the title but lost it in the third year of Emperor Wu’s reign.
+
+Chunk 4: 
+original: 
+高祖十二年，以緤为蒯成侯，除前所食邑。
+上欲自击陈豨，蒯成侯泣曰： 始秦攻破天下，未尝自行。今上常自行，是为无人可使者乎？
+上以为 爱我 ，赐入殿门不趋，杀人不死。
+至孝文五年，緤以寿终，谥为贞侯。
+子昌代侯，有罪，国除。
+至孝景中二年，封緤子居代侯。
+至元鼎三年，居为太常，有罪，国除。
+太史公曰：阳陵侯傅宽、信武侯靳歙皆高爵，从高祖起山东，攻项籍，诛杀名将，破军降城以十数，未尝困辱，此亦天授也。
+蒯成侯周緤操心坚正，身不见疑，上欲有所之，未尝不垂涕，此有伤心者然，可谓笃厚君子矣。
+translation: 
+In the twelfth year of Emperor Gaozu's reign, Zhou Gui was granted the title of Marquis of Kuai Cheng, and at the same time, he was exempted from the original food fief.
+Emperor Gaozu once wanted to attack Chen Xi personally, but Marquis Kuai Cheng tried to dissuade him with tears: In the past, the King of Qin conquered the world without going out in person. Now you often go out in person. Doesn't this mean that you have no more people to dispatch?
+Emperor Gao believed that Zhou Xie sincerely cared for him, and made an exception to allow him to enter the palace without having to walk quickly. He would not be punished with death if he killed someone.
+In the fifth year of Emperor Wen of the Han Dynasty, Zhou Hui died of old age and was given the posthumous title Zhenhou.
+His son Zhou Chang inherited the title of marquis, but was exempted from the fiefdom due to a crime.
+In the second year of the Zhongyuan period of Emperor Jing of the Han Dynasty, Zhou Ju, the son of Zhou Jie, was granted the title of Marquis on his behalf.
+In the third year of Yuanding, Emperor Wu of the Han Dynasty, Zhou Ju was appointed as Taichang official. He committed a crime and was exempted from his fiefdom.
+Tai Shigong said: Fu Kuan, the Marquis of Yangling, and Jin She, the Marquis of Xinwu, both received high titles. They followed Emperor Gaozu and raised troops from Shandong, attacked Xiang Yu, killed famous generals, defeated dozens of enemy armies, and surrendered dozens of cities. They did not suffer setbacks or hardships. This is also a gift from God.
+The Marquis of Kuai Cheng and Zhou Jie were staunch and loyal, and were never doubted by anyone. Every time Gaozu went on an expedition, he never failed to shed tears. This can only be done by a person with a very painful heart. He can be said to be a loyal and kind gentleman.
+
+summary:
+summary line 4: Sima Qian comments that Fu Kuan and Jin She received high titles, raised troops from Shandong, defeated dozens of enemy armies, and surrendered many cities without setbacks, attributing this to divine favor. Zhou Xie, loyal and unwavering, never doubted by Gaozu, wept during expeditions, showing a deeply loyal and kind heart.
+

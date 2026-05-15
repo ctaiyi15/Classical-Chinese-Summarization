@@ -11,10 +11,6 @@ original:
 产业每增，辄以赡宗族知友，年六十七，建和三年卒，李膺时为尚书，自表师丧。
 二县皆为立祠。
 有子八人：俭、绲、靖、焘、汪、爽、肃、专，并有名称，时人谓之 八龙 。
-初，荀氏旧里名西豪，颍阴令勃海苑康以为昔高阳氏有才子八人，今荀氏亦有八子，故改其里曰高阳里。
-靖有至行，不仕，年五十而终，号曰玄行先生。
-淑兄子昱字伯条，昙字无智。
-昱为沛相，昙为广陵太守。
 translation: 
 ◆The biography of Xun Shu, named Jihe, was a native of Yingyin, Yingchuan County, and the eleventh generation grandson of Xun Qing.
 When he was young, he had noble virtues and profound knowledge. He did not like to carve out chapters and sentences. He only worked on words and did not pay attention to practical knowledge.
@@ -27,14 +23,14 @@ Not long after, he resigned and returned home to live leisurely and cultivate hi
 When the family property increases, it is distributed among clan members and close friends. He was sixty-seven years old and died in the third year of Jianhe. Li Ying was appointed minister at this time, and he submitted himself to the imperial court and mourned for three years.
 Both counties have temples.
 There were eight sons: Jian, Nian, Jing, Tao, Wang, Shuang, Su, and Zhuan. They were all famous. People at that time called them "Eight Dragons".
-At first, the Xun family's old neighborhood was called Xihao. Yingyin ordered Bohai Yuankang to think that the Gaoyang family had eight talented people in the past, and now the Xun family also has eight, so he changed the old neighborhood to Gaoyangli.
-Xun Jing was a virtuous man who refused to be an official. He died at the age of fifty and was named Mr. Xuan Xing.
-Xun Shu's son Xun Yu was named Bo Tiao, and Xun Tan was named Yuan Zhi.
-Xun Yu was the prime minister of Pei, and Xun Tan was the prefect of Guangling.
 
 
 Chunk 1: 
 original: 
+初，荀氏旧里名西豪，颍阴令勃海苑康以为昔高阳氏有才子八人，今荀氏亦有八子，故改其里曰高阳里。
+靖有至行，不仕，年五十而终，号曰玄行先生。
+淑兄子昱字伯条，昙字无智。
+昱为沛相，昙为广陵太守。
 兄弟皆正身疾恶，志除阉宦。
 其支党宾客有在二郡者，纤罪必诛。
 昱后共大将军窦武谋诛中官，与李膺俱死。
@@ -45,11 +41,11 @@ original:
 颍川为之语曰 荀氏八龙，慈明无双
 延熹九年，太常赵典举爽至孝，拜郎中。
 对策陈便宜曰：臣闻之于师曰 汉为火德，火生于木，木盛于火，故其德为孝，其象在《周易》之《离》 夫在地为火，在天为日。
-在天者用其精，在地者用其形。
-夏则火王，其精在天，温暖之气，养生百木，是其孝也。
-冬时则废，其形在地，酷烈之气，焚烧山林，是其不孝也。
-故汉制使天下诵《孝经》，选吏举孝廉。
 translation: 
+At first, the Xun family's old neighborhood was called Xihao. Yingyin ordered Bohai Yuankang to think that the Gaoyang family had eight talented people in the past, and now the Xun family also has eight, so he changed the old neighborhood to Gaoyangli.
+Xun Jing was a virtuous man who refused to be an official. He died at the age of fifty and was named Mr. Xuan Xing.
+Xun Shu's son Xun Yu was named Bo Tiao, and Xun Tan was named Yuan Zhi.
+Xun Yu was the prime minister of Pei, and Xun Tan was the prefect of Guangling.
 The brothers all hated evil and were determined to eradicate eunuchs.
 The guests of the eunuch's branch were in the second county. Even if they committed minor crimes, they would be killed without mercy.
 Xun Yu later murdered the eunuch with General Dou Wu and died together with Li Ying.
@@ -60,14 +56,14 @@ Taiwei Du Qiao saw him and praised him: "He can be a teacher." Xun Shuang then b
 There is a popular saying in Yingchuan: Xun's eight dragons are unparalleled in their kindness and wisdom.
 In the ninth year of Yanxi's reign, Taichang Zhao Dian recommended Xun Shuang as the most filial piety and paid homage to the doctor.
 In response to Ce's question, he stated what he thought the country should do and said: I heard the teacher say: The Han Dynasty is a virtue of fire, fire is born from wood, and its essence is from fire. Fire, the son of wood; Xia, the position of fire. The wood grows in summer, so it is called filial piety. Its image is found in "Li" in "The Book of Changes". It is fire on the earth and sun in the sky.
-Those in the sky use its essence, and those on the earth use its form.
-Summer is the time of the Fire King, and his essence is in the sky. The warm air makes hundreds of trees grow, this is filial piety.
-Winter decays, its shape is on the ground, its fierce air burns the mountains and forests, this is unfilial.
-Therefore, the system of the Han Dynasty made everyone in the world recite the "Book of Filial Piety", and elected officials to recommend filial piety and integrity.
 
 
 Chunk 2: 
 original: 
+在天者用其精，在地者用其形。
+夏则火王，其精在天，温暖之气，养生百木，是其孝也。
+冬时则废，其形在地，酷烈之气，焚烧山林，是其不孝也。
+故汉制使天下诵《孝经》，选吏举孝廉。
 夫丧亲自尽，孝之终也。
 今之公卿及二千石，三年之丧，不得即去，殆非所以增崇孝道而克称火德者也。
 往者孝文劳谦，行过乎俭，故有遗诏以日易月。
@@ -77,13 +73,11 @@ original:
 夫仁义之行，自上而始。敦厚之俗，以应乎下。
 传曰 丧祭之礼阙，则人臣之恩薄，背死忘生者众矣 曾子曰 人未有自致者，必也亲丧乎 《春秋传》曰 上之所为，民之归也 夫上所不为而民或为之，故加刑罚。
 若上之所为，民亦为之，又何诛焉。
-昔丞相翟方进，以自备宰相，而不敢逾制。
-至遭母忧，三十六日而除。
-夫失礼之源，自上而始。
-古者大丧三年不呼其门，所以崇国厚俗笃化之道也。
-事失宜正，过勿惮改。
-天下通丧，可如旧礼。臣闻有夫妇然后有父子，有父子然后有君臣，有君臣然后有上下，有上下然后有礼仪。礼义备，则人知所厝矣。
 translation: 
+Those in the sky use its essence, and those on the earth use its form.
+Summer is the time of the Fire King, and his essence is in the sky. The warm air makes hundreds of trees grow, this is filial piety.
+Winter decays, its shape is on the ground, its fierce air burns the mountains and forests, this is unfilial.
+Therefore, the system of the Han Dynasty made everyone in the world recite the "Book of Filial Piety", and elected officials to recommend filial piety and integrity.
 He committed suicide and exhausted his grief.
 Nowadays, when a minister has two thousand shi and is not satisfied with the three years of mourning, he becomes an official. This cannot be called advocating filial piety and overcoming the virtue of fire, right?
 In the past, Xiaowen was industrious and modest, and his behavior was too frugal, so his edicts changed with the passing of the day and the moon.
@@ -93,19 +87,33 @@ Nowadays, the public ministers and officials are role models for the common peop
 Originally, the journey of benevolence and righteousness had to start from the top, so that honest and simple customs could be spread to the bottom.
 Legend: If the rituals of the funeral ceremony are lacking, the kindness of the ministers will be weak, and there will be more people who will die without support.
 Zengzi said: No one commits suicide. If there is, it is only after the death of his parents. "Spring and Autumn Annals" says: The common people must follow whatever the superiors do.
+
+
+Chunk 3: 
+original: 
+昔丞相翟方进，以自备宰相，而不敢逾制。
+至遭母忧，三十六日而除。
+夫失礼之源，自上而始。
+古者大丧三年不呼其门，所以崇国厚俗笃化之道也。
+事失宜正，过勿惮改。
+天下通丧，可如旧礼。臣闻有夫妇然后有父子，有父子然后有君臣，有君臣然后有上下，有上下然后有礼仪。礼义备，则人知所厝矣。
+夫妇人伦之始，王化之端，故文王作《易》，上经首《乾》、《坤》，下经首《咸》、《恒》孔子曰 天尊地卑，乾坤定矣 夫妇之道，所谓顺也。
+《尧典》曰 釐降二女于妫汭，嫔于虞 降者下也，嫔者妇也。
+言虽帝尧之女，下嫁于虞，犹屈体降下，勤修妇道。
+translation: 
 As for the higher-ups not doing it, but the common people do, then they will be punished; if the higher-ups do it, and the common people follow suit, how can they be punished?
 In the past, Prime Minister Zhai Fangjin thought that he was the prime minister and did not dare to undermine the system. When my mother died, I was in mourning for thirty-six days before returning to work.
 The root of the faux pas lies above.
 In ancient times, people stayed away from their homes for three years in great mourning, in order to respect the country's etiquette, uphold customs, and emphasize education.
 If something is done wrong, it should be corrected. If you make a mistake, you should not be afraid of correcting it.
 All funerals in the world can be carried out according to the previous etiquette. I heard that there is a couple and then there is a father and son, there is a father and a son and then there are monarchs and ministers, there are monarchs and ministers and then there are superiors and subordinates, there are superiors and subordinates and then there are etiquette and righteousness. When etiquette and righteousness are complete, everyone will know how to behave.
+Husband and wife are the beginning of the relationship between people and the basis for the moralization of the king. Therefore, King Wen wrote "Yi", with "Qian" and "Kun" at the beginning of the upper sutra, and "Xian" and "Heng" at the beginning of the lower sutra. Confucius said: The sky is high and the high is low, but the universe is fixed. The relationship between husband and wife depends on smoothness.
+"Yao Dian" says: Gui surrendered two daughters to Gui and a concubine to Yu. The concubine is the wife.
+This means that when Emperor Yao's daughter marries Yu, she must be respectful and diligent in practicing women's ways.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
-夫妇人伦之始，王化之端，故文王作《易》，上经首《乾》、《坤》，下经首《咸》、《恒》孔子曰 天尊地卑，乾坤定矣 夫妇之道，所谓顺也。
-《尧典》曰 釐降二女于妫汭，嫔于虞 降者下也，嫔者妇也。
-言虽帝尧之女，下嫁于虞，犹屈体降下，勤修妇道。
 《易》曰 帝乙归妹，以祉元吉 妇人谓嫁曰归，言汤以娶礼归其妹于诸侯也。
 《春秋》之义，王姬嫁齐，使鲁主之，不以天子之尊加于诸侯也。
 今汉承秦法，设尚主之仪，以妻制夫，以卑临尊，违乾坤之道，失阳唱之义。
@@ -114,10 +122,11 @@ original:
 睹鸟兽之文，鸟则雄者鸣鸲，雌则顺服。
 兽则牡为唱导，牝乃相从。
 近取诸身，则乾为人首，坤为人腹。
+远取诸物，则木实属天，根荄属地。
+阳尊阴卑，盖乃天性。
+且《诗》初篇实首《关雎》。《礼》始《寇》、《婚》，先正夫妇。
+天地《六经》，其旨一揆。
 translation: 
-Husband and wife are the beginning of the relationship between people and the basis for the moralization of the king. Therefore, King Wen wrote "Yi", with "Qian" and "Kun" at the beginning of the upper sutra, and "Xian" and "Heng" at the beginning of the lower sutra. Confucius said: The sky is high and the high is low, but the universe is fixed. The relationship between husband and wife depends on smoothness.
-"Yao Dian" says: Gui surrendered two daughters to Gui and a concubine to Yu. The concubine is the wife.
-This means that when Emperor Yao's daughter marries Yu, she must be respectful and diligent in practicing women's ways.
 "Book of Changes" says: Emperor Yi returned to his younger sister to bring good luck to Yuan Yuan. When a woman goes to marry and is called back, it means that Tang returns his sister to the princes according to the marriage ceremony.
 The great righteousness of "Spring and Autumn" is that Wang Ji marries Qi and makes Lu take charge. This is not conferring the dignity of the emperor on the princes.
 Now the Han Dynasty has inherited the etiquette and law of the Qin Dynasty, established the etiquette system of worshiping the Lord, using the wife to control the husband, and using the humble to deal with the superior, which violates the law of the universe and the heaven and the high, and loses the meaning of yang singing yin.
@@ -126,14 +135,14 @@ The near ones are taken from oneself, the far ones are taken from things, and ar
 Looking at the literary talents of birds and beasts, the male bird is the robin, and the female bird is submissive.
 The beast is the advocate of the male, and the obedience of the mother.
 If the nearest ones are taken from the body, Qian becomes the person's head and Kun becomes the person's belly.
+If things are distant, the fruits of trees belong to heaven and the roots of grass belong to earth.
+Yang is noble and Yin is humble. This is probably the nature of things.
+Moreover, the first chapter of "Poetry" is "Guan Sui", and "Li" begins with "Guan" and "Marriage", the first couple.
+The principles of Heaven, Earth and Six Classics are the same.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
-远取诸物，则木实属天，根荄属地。
-阳尊阴卑，盖乃天性。
-且《诗》初篇实首《关雎》。《礼》始《寇》、《婚》，先正夫妇。
-天地《六经》，其旨一揆。
 宜改尚主之制，以称乾坤之性。
 昔者圣人建天地之中而谓之礼，礼者，所以兴福祥之本，而止祸乱之源也。
 人能枉欲从礼者，则福归之。顺情废礼者，则祸归之。
@@ -145,10 +154,6 @@ original:
 故周公之戒曰 不知稼穑之艰难，不闻小人之劳，惟耽乐之从，时亦罔或克寿 是其明戒。
 后世之人，好福不务其本，恶祸不易其轨。
 translation: 
-If things are distant, the fruits of trees belong to heaven and the roots of grass belong to earth.
-Yang is noble and Yin is humble. This is probably the nature of things.
-Moreover, the first chapter of "Poetry" is "Guan Sui", and "Li" begins with "Guan" and "Marriage", the first couple.
-The principles of Heaven, Earth and Six Classics are the same.
 The system of Shangzhu should be changed to conform to the nature of Qiankun.
 Follow the laws of Yao and Tang, follow the laws of Zhou Gong and Confucius, comply with the laws of heaven and earth without making mistakes, and ask ghosts and gods without doubts. If we can act like this, then auspicious signs will come from the sky and talismans will come from the earth. The fifth is to prepare everything in order. In the past, saints established impartiality in heaven and earth, which was called etiquette. Ritual is the foundation for prosperity and good fortune, and it blocks the source of disaster.
 If a person can abandon selfish desires and act according to etiquette, blessing will come; if a person abandons etiquette according to the mood, disaster will come.
@@ -161,7 +166,7 @@ Therefore Zhou Gong warned: If you don’t know how hard agricultural labor is, 
 Later people, if they want good fortune, they don't work hard at the fundamentals, and if they hate misfortune, they don't know how to correct their mistakes.
 
 
-Chunk 5: 
+Chunk 6: 
 original: 
 传曰 截趾适屦，孰云其愚。
 何与斯人，追欲丧躯 诚可痛也。
@@ -188,7 +193,7 @@ Therefore, the etiquette of obscuring the cold and heat, respecting the humble, 
 "Spring and Autumn Annals" says: Only the vehicle uniforms and titles cannot be borrowed from others. "The Classic of Filial Piety" says: There is nothing better than etiquette to govern the people. Ritual is what distinguishes the differences between superior and inferior, and establishes the system of superiority and inferiority.
 
 
-Chunk 6: 
+Chunk 7: 
 original: 
 昔季氏八佾舞于庭，非有伤害困于人物，而孔子犹曰 是可忍也，孰不可忍 《洪范》曰 惟辟作威，惟辟作福，惟辟玉食 凡此三者，君所独行而臣不得同也。
 今臣僭君服，下食上珍，所谓害于而家，凶于而国者也。
@@ -200,8 +205,6 @@ original:
 时人多不行妻服，虽在亲忧犹有吊问丧疾者，又私谥其君父及诸名士，爽皆引据大义，正之经典，虽不悉变，亦颇有改。
 后公车征为大将军何进从事中郎。
 进恐其不至，迎荐为侍中，及进败而诏命中绝。
-献帝即位，董卓辅政，复征之。
-爽欲遁命，吏持之急，不得去，因复就拜平原相。
 translation: 
 In the past, eight hundred people of the Ji family danced in the court without harming anyone or anything. Confucius also said: This can be tolerated, what else cannot be tolerated. "Hong Fan" says: Only you can exercise authority, only you can bring blessings, and only you can eat well.
 These three items are what the monarch alone does and his ministers are not allowed to be the same as the monarch. Now the ministers wear the monarch's clothes, and the people below eat precious things that only those above can eat. This is called harm to your family and your country!
@@ -213,12 +216,12 @@ When Yuan Feng died, Xun Shuang mourned him for three years. At that time, peopl
 At that time, many people couldn't bear the death of their wives. Even if their parents died, there were still people who expressed their condolences. He also privately named his father and some celebrities after their death. Xun Shuang quoted the classics to discuss whether he was right or wrong. Although not all of his changes could be followed, there were some changes.
 Later, he was recruited by General He Jin to serve as a lieutenant.
 He Jin was afraid that he would not go, so he recommended him as a servant. However, He Jin was defeated and the edict was interrupted.
-Emperor Xian ascended the throne, Dong Zhuo assisted in the administration, and he was recruited.
-Xun Shuang wanted to escape the conquest, but the officials pressed him hard and had to go, so he worshiped Prime Minister Ping Ping.
 
 
-Chunk 7: 
+Chunk 8: 
 original: 
+献帝即位，董卓辅政，复征之。
+爽欲遁命，吏持之急，不得去，因复就拜平原相。
 行至宛陵，复追为光禄勋。
 视事三日，进拜司空。
 爽自被征命及登台司，九十五日。
@@ -238,6 +241,8 @@ original:
 俭早卒。
 悦年十二，能说《春秋》。
 translation: 
+Emperor Xian ascended the throne, Dong Zhuo assisted in the administration, and he was recruited.
+Xun Shuang wanted to escape the conquest, but the officials pressed him hard and had to go, so he worshiped Prime Minister Ping Ping.
 When he got to Wanling, he pursued him as Guang Luxun.
 After three days of service, he was promoted to Sikong.
 It had only been ninety-five days since Xun Shuang was summoned to the stage.
@@ -258,7 +263,7 @@ Xun Jian died early.
 When Xun Yue was twelve years old, he was able to explain "Spring and Autumn".
 
 
-Chunk 8: 
+Chunk 9: 
 original: 
 家贫无书，每之人间，所见篇牍，一览多能诵记。
 性沉静，美姿容，尤好著述。
@@ -273,8 +278,6 @@ original:
 五典以经之，群籍以纬之，咏之歌之，弦之舞之，前监既明，后复申之。
 故古之圣王，其于仁义也，申重而已。
 致政之术，先屏四患，乃崇五政。
-一曰伪，二曰私，三曰放，四曰奢。
-伪乱俗，私坏法，放越轨，奢败制。
 translation: 
 My family was poor and I had no books, so I often went to other people's homes and saw chapters and writings, and I could recite most of them.
 He has a calm and quiet personality, beautiful appearance, and is especially fond of writing books.
@@ -289,12 +292,12 @@ The content is summarized as follows: The foundation of the great road can be su
 The five classics use it as the sutra, and the group of books use it as the weft. They chant and recite it, compose the music, and dance the form. The previous lessons are clear, and they will be elaborated later.
 Therefore, in ancient times, the sages and kings always taught one or even three things about benevolence and righteousness.
 In the art of government, we must first eliminate the four dangers, and then focus on the five political affairs.
-The so-called four troubles: one is hypocrisy, the other is selfishness, the third is freedom, and the fourth is extravagance.
-Hypocrisy disrupts customs, selfishness corrupts laws, debauchery creates no rules, and luxury cannot be restrained.
 
 
-Chunk 9: 
+Chunk 10: 
 original: 
+一曰伪，二曰私，三曰放，四曰奢。
+伪乱俗，私坏法，放越轨，奢败制。
 四者不除，则政末由行矣。
 夫俗乱则道荒，虽天地不得保其性矣。法坏则世倾，虽人主不得守其度矣。轨越则礼亡，虽圣人不得全其道矣。制败则欲肆，虽四表不得充其求矣。
 是谓四患。
@@ -304,13 +307,9 @@ original:
 虽使契布五教，皋陶作士，政不行焉。
 故在上者先丰人财以定其志，帝耕籍田，后桑蚕宫，国无游人，野无荒业，财不贾用，力不妄加，以周人事。
 是谓养生。
-君子之所以动天地，应神明，正万物而成王化者，必乎真定而已。
-故在上者审定好丑焉。
-善恶要乎功罪，毁誉效于准验。
-听言责事，举名察实，无惑诈伤，以荡众心。
-故事无不核，物无不切，善无不显，恶无不章，俗无奸怪，民无淫风。
-百姓上下睹利害之存乎己也，故肃恭其心，慎修其行，内不回惑，外无异望，则民志平矣。是谓正俗。
 translation: 
+The so-called four troubles: one is hypocrisy, the other is selfishness, the third is freedom, and the fourth is extravagance.
+Hypocrisy disrupts customs, selfishness corrupts laws, debauchery creates no rules, and luxury cannot be restrained.
 If these four are not eliminated, the country's politics will be unable to be implemented.
 When the customs are disordered, the great road cannot be carried out, and even heaven and earth cannot maintain its nature; when the country's laws and disciplines are corrupt, the society cannot be peaceful, and even the king cannot adhere to his principles; when people act recklessly, and people's behavior is out of control, even the saints cannot maintain their integrity; when people's desires are rampant and there is no control, even if they are big, they cannot satisfy their requirements.
 This is called the four troubles.
@@ -320,22 +319,39 @@ Some people are not afraid of death, so you cannot intimidate them by committing
 For these people, even if the deeds are made to practice the five kinds of education of monarch and minister, father and son, brother, husband and wife, and friends, and Gao Tao is made an official, politics cannot be carried out.
 Therefore, monarchs must first make their finances abundant and calm their emotions. In ancient times, the emperor personally cultivated the fields, and the concubines engaged in sericulture. There were no idlers in the country, and there were no abandoned properties in the countryside. They were self-sufficient in finances and did not use labor casually to benefit personnel.
 This is called health maintenance.
-The reason why a gentleman can move heaven and earth, fulfill the gods, rectify all things and achieve the enlightenment of the king is that his actions must be true and consistent with reality.
-Therefore, the ruler can use it to judge whether it is good or bad.
-Good and evil must be seen through merits and demerits, and reputation and reputation must be tested and correct.
-When listening to other people's conversations, you should check the facts and verify the truth according to the name. Don't be fooled by fraud and hypocrisy, which may shake people's hearts.
-Therefore, there is no fact that is not true, no thing that is not relevant, no good deed that is not obvious, and no sin that is not exposed. In this way, the customs are simple and the people have no tendency to cause trouble.
-The people see the interests at stake for themselves, so they are cautious in their thoughts, cautious in their actions, not confused in their hearts, and have no unreasonable thoughts about the outside world. In this way, the people's hearts are at peace, which is called orthodox customs.
 
 
-Chunk 10: 
+Chunk 11: 
 original: 
+君子之所以动天地，应神明，正万物而成王化者，必乎真定而已。
+故在上者审定好丑焉。
+善恶要乎功罪，毁誉效于准验。
+听言责事，举名察实，无惑诈伤，以荡众心。
+故事无不核，物无不切，善无不显，恶无不章，俗无奸怪，民无淫风。
+百姓上下睹利害之存乎己也，故肃恭其心，慎修其行，内不回惑，外无异望，则民志平矣。是谓正俗。
 君子以情用，小人以刑用。荣辱者，赏罚之精华也。
 故礼教荣辱，以加君子，化其情也。桎梏鞭扑，以加小人，化其刑也。
 君子不犯辱，况于刑乎。
 小人不忌刑，况于辱乎。
 若教化之废，推中人而坠于小人之域。教化之行，引中人而纳于君子之涂。是谓章化。
 小人之情，缓则骄，骄则恣，恣则怨，怨则叛，危则谋乱，安则思欲，非威强无以惩之。
+translation: 
+The reason why a gentleman can move heaven and earth, fulfill the gods, rectify all things and achieve the enlightenment of the king is that his actions must be true and consistent with reality.
+Therefore, the ruler can use it to judge whether it is good or bad.
+Good and evil must be seen through merits and demerits, and reputation and reputation must be tested and correct.
+When listening to other people's conversations, you should check the facts and verify the truth according to the name. Don't be fooled by fraud and hypocrisy, which may shake people's hearts.
+Therefore, there is no fact that is not true, no thing that is not relevant, no good deed that is not obvious, and no sin that is not exposed. In this way, the customs are simple and the people have no tendency to cause trouble.
+The people see the interests at stake for themselves, so they are cautious in their thoughts, cautious in their actions, not confused in their hearts, and have no unreasonable thoughts about the outside world. In this way, the people's hearts are at peace, which is called orthodox customs.
+Treat a gentleman with affection, and treat a villain with punishment. Glory and shame are the standards of reward and punishment.
+Therefore, etiquette treats gentlemen with honor and disgrace in order to influence their emotions; treats villains with shackles and whips in order to use punishment to make them correct their evil ways.
+A gentleman is ashamed of being humiliated, let alone being punished!
+A villain is not afraid of punishment, let alone being humiliated!
+If moral education is abandoned, the middle-class people will be pushed into the group of villains; if moral education is promoted, the middle-class people will be introduced into the ranks of gentlemen. This is called Minghua.
+It is the nature of a villain to be more relaxed about him, and he will become proud. If he is proud, he will act rashly, and if he acts rashly, he will become resentful and rebellious. When he encounters danger, he will plot chaos, and when he is comfortable, he will have random thoughts. Without coercive means, they cannot be punished.
+
+
+Chunk 12: 
+original: 
 故在上者，必有武备，以戒不虞，以遏寇虐。
 安居则寄之内政，有事则用之军旅。
 是谓秉威。
@@ -348,13 +364,12 @@ original:
 四患既蠲，五政又立，行之以诚，守之以固，简而不怠，疏而不失，无为为之，使自施之，无事事之，使自交之。
 不肃而成，不严而化，垂拱揖让，而海内平矣。
 是谓为政之方。
+又言：尚主之制非古。
+厘降二女，陶唐之典。
+归妹元吉，帝乙之训。王姬归齐，宗周之礼。
+以阴乘阳违天，以妇陵夫违人。
+违天不祥，违人不义。
 translation: 
-Treat a gentleman with affection, and treat a villain with punishment. Glory and shame are the standards of reward and punishment.
-Therefore, etiquette treats gentlemen with honor and disgrace in order to influence their emotions; treats villains with shackles and whips in order to use punishment to make them correct their evil ways.
-A gentleman is ashamed of being humiliated, let alone being punished!
-A villain is not afraid of punishment, let alone being humiliated!
-If moral education is abandoned, the middle-class people will be pushed into the group of villains; if moral education is promoted, the middle-class people will be introduced into the ranks of gentlemen. This is called Minghua.
-It is the nature of a villain to be more relaxed about him, and he will become proud. If he is proud, he will act rashly, and if he acts rashly, he will become resentful and rebellious. When he encounters danger, he will plot chaos, and when he is comfortable, he will have random thoughts. Without coercive means, they cannot be punished.
 Therefore, a monarch must master the military to prevent accidents and stop tyranny.
 When you are in Anju, you should rely on military force in domestic affairs. If something happens, use force.
 This is called Bingwei.
@@ -367,15 +382,15 @@ When a monarch is able to neither prevent those below him from doing good nor in
 The four troubles have been eliminated, and the five policies have been established. We must work hard, persevere, be brief but not negligent, be sparse but lose nothing, govern by doing nothing, let it be, do nothing, and virtue will return to itself.
 If it is not solemn, it will happen naturally. If it is not strict, it will become natural. If the monarch hangs his clothes and hands his hands, the world will be peaceful.
 This is called a political strategy.
+He also said: The system of marrying a princess is not ancient.
+Marrying two daughters was Tang Yao's system.
+Marrying a sister is a blessing, this is the teaching of Emperor Yi, the monarch of the Shang Dynasty, and it is the etiquette of the Zhou Dynasty that the king and his concubine return together.
+Putting yin over yang violates the laws of nature, and putting women above their husbands violates human relations.
+Violating the laws of nature is unlucky and violating human relations is unjust.
 
 
-Chunk 11: 
+Chunk 13: 
 original: 
-又言：尚主之制非古。
-厘降二女，陶唐之典。
-归妹元吉，帝乙之训。王姬归齐，宗周之礼。
-以阴乘阳违天，以妇陵夫违人。
-违天不祥，违人不义。
 又古者天子诸侯有事，必告于庙。
 庙有二史，左史记言，右史书事。
 事为《春秋》，言为《尚书》。
@@ -390,12 +405,13 @@ original:
 帝好典籍，常以班固《汉书》文繁难省，乃令悦依《左氏传》体以为《汉纪》三十篇，诏尚书给笔札。
 辞约事详，论辨多美。
 其序之曰：昔在上圣，惟建皇极，经纬天地，观象立法，乃作书契，以通宇宙，扬于王庭，厥用大焉。
+先王光演大业，肆于时夏。
+亦惟厥后，永世作典。
+夫立典有五志焉：一曰达道义，二曰章法式，三曰通古今，四日著功勋，五曰表贤能。
+于是天人之际，事物之宜，粲然显著，罔不备矣。
+世济其轨，不陨其业。
+损益盈虚，与时消息。臧否不同，其揆一也。
 translation: 
-He also said: The system of marrying a princess is not ancient.
-Marrying two daughters was Tang Yao's system.
-Marrying a sister is a blessing, this is the teaching of Emperor Yi, the monarch of the Shang Dynasty, and it is the etiquette of the Zhou Dynasty that the king and his concubine return together.
-Putting yin over yang violates the laws of nature, and putting women above their husbands violates human relations.
-Violating the laws of nature is unlucky and violating human relations is unjust.
 In ancient times, when the emperor and princes had something to do, they must first report it to the temple.
 There are two historians in the court, the left historian records words and the right historian records events.
 The events are recorded in the Spring and Autumn Annals and the words are recorded in the Book of Documents.
@@ -410,16 +426,16 @@ The emperor saw it and thought it was very good.
 The emperor was fond of reading books. He once thought that Bangu's "Hanshu" was too long and unreadable, so he ordered Xun Yue to write thirty chapters of "Han Ji" in the style of "Zuo Shi Zhuan", and ordered Shangshu to give Yue a written note.
 "Han Ji" written by Xun Yue is concise in terms of words, detailed in facts, and exquisite in discussion.
 The preface of "Han Chronicles" says: In the past, sages created the rules for emperors to govern the country, and observed the latitude and longitude of heaven and earth. They observed nature to make laws. Then they created words to communicate with the universe and spread among the royal courts. It was of great use.
+In order to carry forward the great cause, the former king looked for virtuous people and appointed them, so Chen Yuxia.
+I also want to set a standard for future generations.
+There are five ambitions in establishing a system of laws and regulations: one is to achieve moral principles, the other is to express rules and regulations, the third is to connect the past and the present, the fourth is to express meritorious deeds, and the fifth is to express talents.
+In this way, the relationship between heaven and man and the balance of things are clearly included.
+If we keep this example from generation to generation, our great cause will not fall.
+Increase or decrease, and maintain a balance between surplus and deficiency, must wax and wane with the times, good and bad are different, and there can only be one measure of good or bad.
 
 
-Chunk 12: 
+Chunk 14: 
 original: 
-先王光演大业，肆于时夏。
-亦惟厥后，永世作典。
-夫立典有五志焉：一曰达道义，二曰章法式，三曰通古今，四日著功勋，五曰表贤能。
-于是天人之际，事物之宜，粲然显著，罔不备矣。
-世济其轨，不陨其业。
-损益盈虚，与时消息。臧否不同，其揆一也。
 汉四百有六载，拨乱反正，统武兴文，永惟祖宗之洪业，思光启乎万嗣。
 圣上穆然，惟文之恤，瞻前顾后，是绍是继，阐崇大猷，命立国典。
 于是缀叙旧书，以述《汉纪》。
@@ -430,13 +446,12 @@ original:
 少仕郡，辟司徒府。
 时，太山贼公孙举伪号历年，守、令不能破散，多为坐法。
 尚书选三府掾能理剧者，乃以韶为赢长。
+贼闻其贤，相戒不入赢境。
+余县多被寇盗，废耕桑，其流入县界求索衣粮者甚众。
+韶愍其饑困，乃开仓赈之，所禀赡万馀户。
+主者争谓不可。
+韶曰 长活沟壑之人，而以此伏罪，含笑入地矣 太守素知韶名德，竟无所坐。
 translation: 
-In order to carry forward the great cause, the former king looked for virtuous people and appointed them, so Chen Yuxia.
-I also want to set a standard for future generations.
-There are five ambitions in establishing a system of laws and regulations: one is to achieve moral principles, the other is to express rules and regulations, the third is to connect the past and the present, the fourth is to express meritorious deeds, and the fifth is to express talents.
-In this way, the relationship between heaven and man and the balance of things are clearly included.
-If we keep this example from generation to generation, our great cause will not fall.
-Increase or decrease, and maintain a balance between surplus and deficiency, must wax and wane with the times, good and bad are different, and there can only be one measure of good or bad.
 During the four hundred and six years of the Han Dynasty, the chaos was brought to an end, and Wuxing was promoted to civil society. He always thought of the great deeds of his ancestors and how they would be carried forward to all generations.
 The emperor pondered in silence, loved literary affairs, looked forward and backward, carried forward the past and opened up the future, explained the lofty and grand plans, and ordered the establishment of national ceremonies.
 So he collected and sorted out old books and wrote "Han Ji".
@@ -447,15 +462,15 @@ He died in the 62nd year of Jian'an in the 14th year of Jian'an.
 When he was young, he served as an official in the county and was recruited into the Situ Mansion.
 At this time, the Taishan bandit Gongsun Ju had been falsely claiming to have a false name for several years. He was unable to defeat or disperse him and often broke the law.
 The Shangshu Province selected people from the three mansions who could manage troubles to solve this problem. So Han Shao was appointed as the county magistrate.
+When the Taishan bandits heard that Han Shao was a good official, they restrained each other from entering Ying County.
+But other counties were more invaded by them, making it impossible for men to plow the fields and women to raise sericulture. Therefore, many people fled to Ying County to beg.
+Han Shao felt sorry for them because they were hungry, so he opened a warehouse to help them. More than 10,000 families received food.
+The county supervisors all argued that it couldn’t be done.
+Han Shao said: If you save these people who will die in the ravine and are punished for it, you will be happy even if you die. The prefect knew Han Shao's character on weekdays and finally did not deal with him.
 
 
-Chunk 13: 
+Chunk 15: 
 original: 
-贼闻其贤，相戒不入赢境。
-余县多被寇盗，废耕桑，其流入县界求索衣粮者甚众。
-韶愍其饑困，乃开仓赈之，所禀赡万馀户。
-主者争谓不可。
-韶曰 长活沟壑之人，而以此伏罪，含笑入地矣 太守素知韶名德，竟无所坐。
 以病卒官。
 同郡李膺、陈寔、杜密、荀淑等为立碑颂焉。
 子融，字无长。
@@ -463,12 +478,10 @@ original:
 献帝初，至太仆。
 年七十卒。
 同郡陈寔，年不及皓，皓引与为友。
+皓为郡功曹，会辟司徒府，临辞，太守问 谁可代卿者 皓曰 明府欲必得其人，西门亭长陈寔可 寔闻之，曰 钟君似不察人，不知何独识我 皓顷之自劾去。
+前后九辟公府，征为廷尉正、博士、林虑长，皆不就。
+时，皓及荀淑并为士大夫所归慕。
 translation: 
-When the Taishan bandits heard that Han Shao was a good official, they restrained each other from entering Ying County.
-But other counties were more invaded by them, making it impossible for men to plow the fields and women to raise sericulture. Therefore, many people fled to Ying County to beg.
-Han Shao felt sorry for them because they were hungry, so he opened a warehouse to help them. More than 10,000 families received food.
-The county supervisors all argued that it couldn’t be done.
-Han Shao said: If you save these people who will die in the ravine and are punished for it, you will be happy even if you die. The prefect knew Han Shao's character on weekdays and finally did not deal with him.
 Died in office due to illness.
 Li Ying, Chen Chen, Du Mi and Xun Shu from the same county erected monuments to praise him.
 His son Han Rong has a long character.
@@ -476,13 +489,13 @@ When he was young, he was able to debate famous theories without writing poems. 
 In the early years of Emperor Xian's reign, he became a servant.
 Died at the age of seventy.
 ◆Zhong Hao's biography, Zhong Hao's courtesy name was Ji Ming, and he was a native of Changshe County, Yingchuan County.
+It is a common surname in the county and has been proficient in law for generations. When he was young, Zhong Hao was praised for his honesty and honesty, and was continuously recruited by the government. Because his second brother did not serve as an official, he lived in seclusion in the mountains and taught poetry and rhythm to more than a thousand students. Chen Chen from the same county was younger than Zhong Hao, so Zhong Hao became friends with him. Zhong Hao was appointed as the county's meritorious officer. When he was summoned to the Situ Mansion, before he left, the prefect asked him: Who can take your place? Zhong Hao said: If the prefect must find the right person, Chen Chen, the chief of the Ximen Pavilion, can do it. Chen Chen heard about it and said: "Zhong Jun doesn't seem to be carefully inspecting people. I don't know why he only looks at me?" Not long after, Zhong Hao resigned.
+He was recruited by the government nine times, and he was promoted to Tingweizheng, doctor, and Lin Luchang, but he failed.
+At that time, both Zhong Hao and Xun Shu were admired by the scholar-bureaucrats.
 
 
-Chunk 14: 
+Chunk 16: 
 original: 
-皓为郡功曹，会辟司徒府，临辞，太守问 谁可代卿者 皓曰 明府欲必得其人，西门亭长陈寔可 寔闻之，曰 钟君似不察人，不知何独识我 皓顷之自劾去。
-前后九辟公府，征为廷尉正、博士、林虑长，皆不就。
-时，皓及荀淑并为士大夫所归慕。
 李膺常叹曰 荀君清识难尚，钟君至德可师
 皓兄子瑾母，膺之姑也。
 瑾好学慕古，有退让风，与膺同年，俱有声名。
@@ -495,10 +508,9 @@ original:
 年六十九，终于家。
 诸儒颂之曰 林虑懿德，非礼不处。
 悦此诗书，弦琴乐古。
+五就州招，九应台辅。
+逡巡王命，卒岁容与 皓孙繇，建安中为司隶校尉。
 translation: 
-It is a common surname in the county and has been proficient in law for generations. When he was young, Zhong Hao was praised for his honesty and honesty, and was continuously recruited by the government. Because his second brother did not serve as an official, he lived in seclusion in the mountains and taught poetry and rhythm to more than a thousand students. Chen Chen from the same county was younger than Zhong Hao, so Zhong Hao became friends with him. Zhong Hao was appointed as the county's meritorious officer. When he was summoned to the Situ Mansion, before he left, the prefect asked him: Who can take your place? Zhong Hao said: If the prefect must find the right person, Chen Chen, the chief of the Ximen Pavilion, can do it. Chen Chen heard about it and said: "Zhong Jun doesn't seem to be carefully inspecting people. I don't know why he only looks at me?" Not long after, Zhong Hao resigned.
-He was recruited by the government nine times, and he was promoted to Tingweizheng, doctor, and Lin Luchang, but he failed.
-At that time, both Zhong Hao and Xun Shu were admired by the scholar-bureaucrats.
 Li Ying once sighed and said: "It is difficult to compare Xunjun's clear knowledge with him, but Zhongjun's virtue can be his teacher's example."
 The mother of Zhong Hao's nephew Zhong Jin is Li Ying's aunt.
 Zhong Jin was eager to learn and admire ancient Taoism, and he was modest and conciliatory. He was the same age as Li Ying and both were famous.
@@ -511,12 +523,12 @@ In the end, it is your humility that is more valuable than your own to protect y
 This is often the case. He died at home at the age of sixty-nine.
 Confucian scholars praised him: "Lin considers virtue and does not do anything inappropriate."
 He loves poetry and books, and plays ancient music.
+On the fifth day, he went to the state platform, and on the ninth day he responded to the auxiliary position. He hesitated about the king's order, but he accepted it all the year round.
+Zhong Hao's grandson Zhong Yao was appointed as Sili Xiaowei in Jian'an Middle School.
 
 
-Chunk 15: 
+Chunk 17: 
 original: 
-五就州招，九应台辅。
-逡巡王命，卒岁容与 皓孙繇，建安中为司隶校尉。
 陈寔字仲弓，颍川许人也。
 出于单微。
 自为儿童，虽在戏弄，为等类所归。
@@ -532,9 +544,9 @@ original:
 寔知非其人，怀檄请见。言曰 此人不宜用，而侯常侍不可违。
 寔乞从外署，不足以尘明德 伦从之。
 于是乡论怪其非举，寔终无所言。
+伦后被征为尚书，郡中士大夫送至轮氏传舍。
+伦谓众人言曰 吾前为侯常侍用吏，陈君密持教还，而于外白署。
 translation: 
-On the fifth day, he went to the state platform, and on the ninth day he responded to the auxiliary position. He hesitated about the king's order, but he accepted it all the year round.
-Zhong Hao's grandson Zhong Yao was appointed as Sili Xiaowei in Jian'an Middle School.
 ◆Chen Shizhuan, also named Zhonggong, was a native of Xu County, Yingchuan County.
 Of humble origin.
 As a child, even though he was playing, he was still supported by the children.
@@ -550,12 +562,12 @@ At this time, Zhongchang Shihou Lan asked Gao Lun, the prefect, to appoint offic
 Chen Chen knew that this person was not suitable, so he gave Gao Lun's teachings to Xi. When Huai Xi met Gao Lun, he said: "This person is not suitable for use, but the orders of Changshi Hou cannot be disobeyed."
 I would like to ask an external official, as this will not harm Mingde. Gao Lun listened to him.
 So public opinion blamed Chen Chen for being unpopular, but Chen Chen never said anything.
+Gao Lun was later recruited as Shangshu, and was sent to Lun's Hotel by the county sergeant-officials.
+Gao Lun said to everyone: "I used to be a servant of Hou Chang, and Chen Jun secretly returned with my teachings. I was working in vain in other places."
 
 
-Chunk 16: 
+Chunk 18: 
 original: 
-伦后被征为尚书，郡中士大夫送至轮氏传舍。
-伦谓众人言曰 吾前为侯常侍用吏，陈君密持教还，而于外白署。
 比闻议者以此少之，此咎由故人畏惮强御，陈君可谓善则称君，过则称己者也 寔固自引愆，闻者方叹息，由是天下服其德。
 司空黄琼辟选理剧，补闻喜长，旬月，以期丧去官。
 复再迁除太丘长。
@@ -569,8 +581,6 @@ original:
 遇赦得出。
 灵帝初，大将军窦武辟以为掾属。
 translation: 
-Gao Lun was later recruited as Shangshu, and was sent to Lun's Hotel by the county sergeant-officials.
-Gao Lun said to everyone: "I used to be a servant of Hou Chang, and Chen Jun secretly returned with my teachings. I was working in vain in other places."
 Recently I heard that someone blamed Chen Chen for this. This was because I was afraid of rape. Chen Jun could be said to blame the good things on you, and take the blame for any mistakes. However, Chen Chen still insisted on taking the blame. People who heard about it sighed at Chen Chen's conduct. From then on, the whole world admired his virtue.
 Sikong Huang Qiong recruited talents who could cure Fanju and used Chen Chen to supplement Wen Xichang. Within a month, Chen Chen resigned from office because he had been in mourning for a year.
 Then he was promoted to Chief of Taiqiu.
@@ -585,7 +595,7 @@ He was pardoned by the imperial court and released from prison.
 At the beginning of Emperor Ling's reign, General Dou Wu was recruited as a vassal.
 
 
-Chunk 17: 
+Chunk 19: 
 original: 
 时中常侍张让权倾天下。让父死，归葬颍川，虽一郡毕至，而名士无往者，让甚耻之，寔乃独吊焉。
 及后复诛党人，让感寔，故多所全宥。
@@ -596,6 +606,20 @@ original:
 梁上君子者是矣 盗大惊，自投于地，稽颡归罪。寔徐譬之曰 视君状貌，不似恶人，宜深克己反善。
 然此当由贫困 令遗绢二匹。
 自是一县无复盗窃。
+translation: 
+At that time, the official Zhang Rang was very powerful. When Zhang Rang's father died, he was sent back to Yingchuan for burial. Although everyone in the county went, none of the famous scholar-bureaucrats went. Zhang Rang felt that he had no face and was very ashamed, but Chen Chen went to mourn alone.
+Later, the party members were killed again. Zhang Rang was grateful to Chen Chen for his condolences. Many people were forgiven and their wealth and lives were saved.
+In the countryside, Chen Chen set an example by being fair.
+If there is a dispute, he will seek correct judgment and the right and wrong will be explained clearly. After returning home, there will be no complaints.
+Some even sighed and said: I would rather be punished than be told wrong by Chen Chen. At this time, there was a famine and the people were in poverty. A thief entered his room and stopped on the beam.
+Chen Shi secretly saw it, so he got up, arranged the bedding, and cleaned the house. Then he called his descendants together and warned him sternly: "People must encourage themselves. Bad people are not necessarily inherently bad. Habits are caused by nature, leading to this point." Liang Shangjun is this kind of person!
+The thief was shocked. He knelt on the ground and knelt down to apologize. Chen Chen slowly told him: "You don't look like a bad person. You should reflect deeply and become a good person."
+However, this time it was probably because of poverty that he did this. He ordered his family to send him two pieces of silk.
+Since then, there have been no burglaries in the county.
+
+
+Chunk 20: 
+original: 
 太尉杨赐、司徒陈耽，每拜公卿，群僚毕贺，赐等常叹寔大位未登，愧于先之。及党禁始解，大将军何进、司徒袁隗遣人敦寔，欲特表以不次之位。
 寔乃谢使者曰 寔久绝人事，饰巾待终而已 时，三公每缺，议者归之，累见征命，遂不起，闭门悬车，栖迟养老。
 中平四年，年八十四，卒于家。
@@ -609,15 +633,6 @@ original:
 遭父忧，每哀至，辄欧血绝气，虽衰服已除，而积毁消瘠，殆将灭性。
 豫州刺史嘉其至行，表上尚书，图象百城，以厉风俗。
 translation: 
-At that time, the official Zhang Rang was very powerful. When Zhang Rang's father died, he was sent back to Yingchuan for burial. Although everyone in the county went, none of the famous scholar-bureaucrats went. Zhang Rang felt that he had no face and was very ashamed, but Chen Chen went to mourn alone.
-Later, the party members were killed again. Zhang Rang was grateful to Chen Chen for his condolences. Many people were forgiven and their wealth and lives were saved.
-In the countryside, Chen Chen set an example by being fair.
-If there is a dispute, he will seek correct judgment and the right and wrong will be explained clearly. After returning home, there will be no complaints.
-Some even sighed and said: I would rather be punished than be told wrong by Chen Chen. At this time, there was a famine and the people were in poverty. A thief entered his room and stopped on the beam.
-Chen Shi secretly saw it, so he got up, arranged the bedding, and cleaned the house. Then he called his descendants together and warned him sternly: "People must encourage themselves. Bad people are not necessarily inherently bad. Habits are caused by nature, leading to this point." Liang Shangjun is this kind of person!
-The thief was shocked. He knelt on the ground and knelt down to apologize. Chen Chen slowly told him: "You don't look like a bad person. You should reflect deeply and become a good person."
-However, this time it was probably because of poverty that he did this. He ordered his family to send him two pieces of silk.
-Since then, there have been no burglaries in the county.
 Every time Taiwei Yang Ci and Situ Chen Dan were appointed ministers, hundreds of officials came to congratulate them. Yang Ci and others often lamented that Chen Chen had not ascended to the big position, and they felt ashamed. When the party ban was lifted, Generals He Jin and Situ Yuan Wei sent people to persuade Chen Chen, hoping to make an exception and give Chen Chen a big position.
 Chen Chen declined the envoy and said: I have not thought about the things in the world for a long time. I am just dressing up my clothes and waiting for death. At this time, every time the three princes were vacant, everyone thought of Chen Chen. He was called up many times and refused to go. He closed the door and hung up the car to rest and retire.
 He died at home in the fourth year of Zhongping at the age of eighty-four.
@@ -632,7 +647,7 @@ When his father passed away, he was extremely grieved. He often vomited blood an
 The governor of Yuzhou believed that Chen Ji's excellence was extremely valuable, so he commissioned it as a minister, and all cities in Yuzhou painted images of Chen Ji and other figures to encourage customs.
 
 
-Chunk 18: 
+Chunk 21: 
 original: 
 董卓入洛阳，乃使就家拜五官中郎将，不得已，到京师，迁侍中。
 出为平原相，往谒卓，时欲徙都长安，乃谓纪曰 三辅平敞，四面险固，土地肥美，号为陆海。
@@ -648,8 +663,6 @@ original:
 时议欲以为司徒，纪见祸乱方作，不复辨严，即时之郡。
 玺书追拜太仆，又征为尚书令。
 建安初，袁绍为太尉，让于纪。纪不受，拜大鸿胪。
-年七十一，卒于官。
-子群，为魏司空。
 translation: 
 Dong Zhuo entered Luoyang, sent an envoy to his home, and awarded him the title of Lieutenant General with five senses. As a last resort, he went to the capital and was promoted to the rank of Attendant.
 He was transferred to Pingyuan Prime Minister to visit Dong Zhuo. At this time, Dong Zhuo wanted to move the capital to Chang'an and told Chen Ji: "The third auxiliary is flat and open, the situation on all sides is dangerous and strong, and the land is fertile. It is called land and sea."
@@ -665,12 +678,12 @@ If you want to move to the emperor for self-satisfaction, it is like laying eggs
 At that time, someone in the court wanted to appoint Chen Ji as Situ. Chen Ji saw that trouble was about to occur, so he immediately returned to the county without packing.
 The imperial edict posthumously awarded him the title of Imperial Servant, and he was also conscripted into the position of Shangshu Ling.
 At the beginning of Jian'an, Yuan Shao was the Taiwei, and he gave it to Chen Ji. Chen Ji refused and was appointed as Dahonglu.
-He died in his post at the age of seventy-one.
-His son Chen Qun was Wei Sikong.
 
 
-Chunk 19: 
+Chunk 22: 
 original: 
+年七十一，卒于官。
+子群，为魏司空。
 天下以为公惭卿，卿惭长。
 弟谌，字季方。与纪齐德同行，父子并著高名，时号三君。
 每宰府辟召，常同时旌命，羔雁成群，当世者靡不荣之。
@@ -679,6 +692,8 @@ original:
 唯陈先生进退之节，必可度也。
 据于德故物不犯，安于仁故不离群，行成乎身而道训天下，故凶邪不能以权夺，王公不能以贵骄，所以声教废于上，而风俗清乎下也。
 translation: 
+He died in his post at the age of seventy-one.
+His son Chen Qun was Wei Sikong.
 The world thinks that the public should be ashamed of his ministers, and the minister should be ashamed of his elders.
 The younger brother Chen Chen, also known as Jifang, was as famous as Chen Ji for his moral conduct and was called Sanjun at that time.
 Every time they were called up by the Zaifu, they were often ordered at the same time, carrying lambs and geese to meet the emperor in droves. At that time, everyone was proud of them.

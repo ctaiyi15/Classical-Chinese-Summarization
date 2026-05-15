@@ -1,0 +1,159 @@
+Summary uses chunk [0, 0, 4, 9, 17]
+
+Chunk 0: 
+original: 
+淮南厉王长，高帝少子也，其母故赵王张敖美人。
+高帝八年，从东垣过赵，赵王献美人，厉王母也，幸，有身。
+赵王不敢内宫，为筑外宫舍之。
+及贯高等谋反事觉，并逮治王，尽捕王母兄弟美人，系之河内。
+厉王母亦系，告吏曰： 日得幸上，有子。
+吏以闻，上方怒赵，未及理厉王母。
+厉王母弟赵兼因辟阳侯言吕后，吕后妒，不肯白，辟阳侯不强争。
+厉王母已生厉生，恚，即自杀。
+吏奉厉王诣上，上悔，令吕后母之，而葬其母真定。
+真定，厉王母家县也。十一年，淮南王布反，上自将击灭布，即立子长为淮南子。
+王早失母，常附吕后，孝惠、吕后时以故得幸无患，然常心怨辟阳侯，不敢发。
+translation: 
+King Li of Huainan, with a long name, was the youngest son of Emperor Gao of the Han Dynasty. His mother used to be the beauty of King Zhao Zhang Ao.
+In the eighth year of Emperor Gao's reign, Emperor Gao passed by the State of Zhao from Dongyuan. King Tong presented a beautiful woman to Emperor Gao. This was King Li's mother. She became pregnant after being favored.
+King Zhao did not dare to let her return to the palace, so he built an outer palace for her to live in.
+When the rebellion by Guangao and others was discovered and King Zhao was implicated, King Tong's mother, brothers and beauties were all arrested and imprisoned in Hanoi.
+King Li's mother was also imprisoned. She told the officials: I was once favored by the emperor and had a son.
+After hearing this, the officials told the emperor that the emperor was very angry with King Zhao and ignored King Li's mother.
+King Li's uncle Chang Jian told Empress Lu through Piyanghou. Empress Lu was jealous and refused to defend them, and Piyanghou did not fight for him.
+Queen Li's mother committed suicide out of resentment and anger after giving birth to Queen Li.
+The officials sent King Li to the emperor. The emperor regretted it very much and asked Queen Lu to raise King Li, and she was buried in the county where King Li's mother lived.
+In the eleventh year of the Han Dynasty, the king of Huainan, Yingbu, rebelled. The emperor personally led his troops to destroy Yingbu, so he made his son Liu Chang the king of Huainan.
+King Huainan lost his mother when he was young and often relied on Empress Lu. During the reigns of Emperor Xiaohui and Empress Lu, he was favored for this reason and had no trouble. However, he often resented Marquis Piyang in his heart, but he did not dare to show it.
+
+summary:
+summary line 0: King Li of Huainan, the youngest son of Emperor Gao of Han, was born to a former beauty of King Zhao Zhang Ao. His mother became pregnant after being favored by Emperor Gao during a visit to Zhao. When King Zhao was implicated in a rebellion, she was imprisoned and revealed her pregnancy, but Emperor Gao ignored her pleas. After giving birth to King Li, she committed suicide out of resentment. Emperor Gao regretted this and had Empress Lu raise the child. In the eleventh year of his reign, Emperor Gao made Liu Chang the King of Huainan after suppressing a rebellion.
+
+Chunk 0: 
+original: 
+淮南厉王长，高帝少子也，其母故赵王张敖美人。
+高帝八年，从东垣过赵，赵王献美人，厉王母也，幸，有身。
+赵王不敢内宫，为筑外宫舍之。
+及贯高等谋反事觉，并逮治王，尽捕王母兄弟美人，系之河内。
+厉王母亦系，告吏曰： 日得幸上，有子。
+吏以闻，上方怒赵，未及理厉王母。
+厉王母弟赵兼因辟阳侯言吕后，吕后妒，不肯白，辟阳侯不强争。
+厉王母已生厉生，恚，即自杀。
+吏奉厉王诣上，上悔，令吕后母之，而葬其母真定。
+真定，厉王母家县也。十一年，淮南王布反，上自将击灭布，即立子长为淮南子。
+王早失母，常附吕后，孝惠、吕后时以故得幸无患，然常心怨辟阳侯，不敢发。
+translation: 
+King Li of Huainan, with a long name, was the youngest son of Emperor Gao of the Han Dynasty. His mother used to be the beauty of King Zhao Zhang Ao.
+In the eighth year of Emperor Gao's reign, Emperor Gao passed by the State of Zhao from Dongyuan. King Tong presented a beautiful woman to Emperor Gao. This was King Li's mother. She became pregnant after being favored.
+King Zhao did not dare to let her return to the palace, so he built an outer palace for her to live in.
+When the rebellion by Guangao and others was discovered and King Zhao was implicated, King Tong's mother, brothers and beauties were all arrested and imprisoned in Hanoi.
+King Li's mother was also imprisoned. She told the officials: I was once favored by the emperor and had a son.
+After hearing this, the officials told the emperor that the emperor was very angry with King Zhao and ignored King Li's mother.
+King Li's uncle Chang Jian told Empress Lu through Piyanghou. Empress Lu was jealous and refused to defend them, and Piyanghou did not fight for him.
+Queen Li's mother committed suicide out of resentment and anger after giving birth to Queen Li.
+The officials sent King Li to the emperor. The emperor regretted it very much and asked Queen Lu to raise King Li, and she was buried in the county where King Li's mother lived.
+In the eleventh year of the Han Dynasty, the king of Huainan, Yingbu, rebelled. The emperor personally led his troops to destroy Yingbu, so he made his son Liu Chang the king of Huainan.
+King Huainan lost his mother when he was young and often relied on Empress Lu. During the reigns of Emperor Xiaohui and Empress Lu, he was favored for this reason and had no trouble. However, he often resented Marquis Piyang in his heart, but he did not dare to show it.
+
+summary:
+summary line 1: King Li grew up relying on Empress Lu and was favored during the reigns of Emperor Xiaohui and Empress Lu, but he resented Marquis Piyang for not saving his mother. After Emperor Xiaowen ascended, King Li became arrogant and broke laws repeatedly. In the third year of Emperor Wen's reign, he killed Marquis Piyang in revenge, claiming three crimes: failing to save his mother, not preventing Empress Lu's murder of King Zhao Ruyi, and not stopping Empress Lu from ennobling the Lu family. Emperor Wen pardoned him out of pity, but King Li grew more defiant, making his own laws and acting like an emperor.
+
+Chunk 4: 
+original: 
+幸臣有罪，大者立断，小者肉刑，不仁。
+贵布衣一剑之任，贱王侯之位，不知。
+不好学问大道，触情忘行，不祥。
+此八者，危亡之路也，而大王行之，弃南面之位，奋诸、贲之勇，常出入危亡之路，臣之所见，高皇帝之神必不庙食于大王之手，明白。
+昔者，周公诛管叔，放蔡叔，以安周；齐桓杀其弟，以反国；秦始皇杀两弟，迁其母，以安秦；顷王亡代，高帝夺之国，以便事；济北举兵，皇帝诛之，以安汉。
+故周、齐行之于古，秦、汉用之于今，大王不察古今之所以安国便事，而欲以亲戚之意望于太上，不可得也。
+亡之诸侯，游宦事人，及舍匿者，论皆有法。
+其在王所，吏主者坐。
+今诸侯子为吏者，御史主；为军吏者，中尉主；客出入殿门者，卫尉大行主；诸从蛮夷来归谊及以亡名数自占者，内史县令主。
+相欲委下吏，无与其祸，不可得也。
+王若不改，汉系大王邸，论相以下，为之奈何？
+夫堕父大业，退为布衣所哀，幸臣皆伏法而诛，为天下笑，以羞先帝之德，甚为大王不取也。
+宜急改操易行，上书谢罪，曰： 臣不幸早失先帝，少孤，吕氏之世，未尝忘死。
+陛下即位，臣怙恩德骄盈，行多不轨。
+追念罪过，恐惧，伏地待诛不敢起。
+translation: 
+If a favored minister is guilty, he may be punished by asking for execution, or he may be punished with physical punishment at the most serious level. This is unkind.
+It is unwise to regard being a commoner as a high priority and regard the status of a prince as low.
+It is unlucky not to work hard to study and delve into the great road, but to act arbitrarily based on emotional impulse.
+The above eight points are all dangerous paths, and you, my king, have implemented them all. Abandoning the position of king, showing the bravery of Zhuan Zhu and Meng Ben, often walking in and out of dangerous roads. In my opinion, the incense of Emperor Gaozu can no longer be inherited with you. Please think clearly, your Majesty.
+In the past, the king of Zhou killed Uncle Guan and exiled Uncle Cai to stabilize the Zhou Dynasty; Duke Huan of Qi killed his brothers and returned to Qi. Qin Shihuang killed his two younger brothers and moved his mother to Xianyang Palace to stabilize the Qin state; King Liu Zhong of Qing fled when the Xiongnu attacked Daidi, and Emperor Gao deprived him of his feudal state in order to enforce national laws; King Xingju of Jibei rebelled with his troops, and the emperor killed him to stabilize the Han Dynasty.
+Therefore, in ancient times, the kings of Zhou and the Marquis of Qi did this. Today, the kings of Qin and Han emperors still use this method. The kings do not understand the methods of governing the country and bringing peace to the world in the past. Instead, they expect the emperor to be lenient and boundless because of their kinship. This is impossible.
+Anyone who flees to the vassal states or harbors criminals will be punished by law.
+Even in the king's place, all the officials in charge must bear the responsibility.
+Nowadays, those who are officials in the vassal states are under the supervision of the censor; those who are military officials are under the supervision of lieutenants; guests who come in and out of the palace are under the supervision of Weiwei and Daxing; those who come from minority areas and have no names in the household registration book and report their household registration are under the supervision of internal history and county magistrates.
+The Prime Minister of the Kingdom wants to pass the responsibility to the lower palace. It is impossible for him to have no responsibility.
+If the king does not correct his mistakes, what will you do when Moting imprisons the king in the palace and interrogates people below the prime minister?
+Ruining my father's great cause, becoming a pitiful person for the common people, having all my favorite ministers punished, and being laughed at by everyone in the world is a disgrace to the late emperor's merits. I think your Majesty should not be like this.
+You should immediately change your ways, write a letter of apology to the emperor, and tell him: Unfortunately, I lost my father at an early age and was lonely since I was a child. When the Lu family was in power, I was often threatened with death.
+After you came to the throne, Your Majesty, I relied on your kindness to be extravagant and licentious, and did many unscrupulous things.
+Thinking about the mistakes I had made, I was filled with fear. Now I am lying on the ground waiting for the Fa-rectification and dare not get up.
+
+summary:
+summary line 2: Emperor Wen's uncle Bo Zhao admonished King Li in a letter, listing eight dangerous behaviors: abandoning his state, disobeying orders, prioritizing his mother's grave over his father's, and more. He warned that disaster would follow if King Li did not reform. King Li was displeased and ignored the advice. In the sixth year, he conspired with seventy men, including Chai Qi, to rebel, contacting Minyue and Xiongnu. The plot was discovered, and King Li was summoned to Chang'an. After interrogation, officials reported his crimes: abandoning Han laws, appointing officials without authorization, harboring fugitives, and planning rebellion. They demanded his execution, but Emperor Wen commuted the sentence to exile in Shu County.
+
+Chunk 9: 
+original: 
+乃徙城阳王王淮南故地，而追尊谥淮南王为厉王，置园如诸侯仪。
+十六年，上怜淮南王废法不轨，自使失国早夭，乃徙淮南王喜复王故城阳，而立厉王三子王淮南故地，三分之：阜陵侯安为淮南王，安阳侯勃为衡山王，阳周侯赐为庐江王，东城侯良前薨，无后。
+孝景三年，吴、楚七国反，吴使者至淮南，王欲发兵应之。
+其相曰： 王必欲应吴，臣愿为将。
+王乃属之。
+相已将兵，因城守，不听王而为汉。
+汉亦使曲城侯将兵救淮南，淮南以故得完。
+吴使者至庐江，庐江王不应，而往来使越；至衡山，衡山王坚守无二心。
+孝景四年，吴、楚已破，衡山王朝，上以为卢信，乃劳苦之曰： 南方卑湿。
+徙王王于济北以褒之。
+及薨，遂赐谥为贞王。
+庐江王以边越，数使使相交，徙为衡山王，王江北。
+translation: 
+So King Chengyang was moved to the old land of Huainan to become king, and King Mi of Huainan was named King Li, and his cemetery was set up according to the etiquette of the princes.
+In the 16th year, the emperor took pity on King Huainan because he abolished Han law without authorization and behaved indulgently, which caused him to lose his feudal status and died at an early age. Therefore, he moved King Liu Xi of Huainan back to Chengyang as king, and established King Li's three sons as kings in his hometown of Huainan. They are: Fuling Hou Liu An as the King of Huainan, Anyang Hou Liu Bo as the King of Hengshan, and Yangzhou Hou Liu Ci as the King of Lujiang. Liu Liang, the Marquis of Shucheng, died young and had no descendants.
+In the third year of Xiaojing's reign, the seven kingdoms of Wu and Chu rebelled. Wu's envoys went to the King of Huainan, who wanted to send troops to meet the King of Wu.
+His prime minister said: If your Majesty must raise an army with King Wu, I would like to be a general.
+The king of Huainan then handed over the army to the prime minister.
+After the prime minister had led the army, he held fast to the city and refused to obey the king's orders and went to the Han Dynasty.
+The Han Dynasty also sent the Marquis of Qucheng to lead troops to rescue the Huainan Kingdom, so the Huainan Kingdom was preserved.
+The envoy of the King of Wu went to Lujiang, but the King of Lujiang did not respond, so the envoy came to Yue again; when they arrived at Hengshan, the King of Hengshan stood firm and had no intention of rebelling against the Han.
+In the fourth year of Xiaojing's reign, the seven kingdoms of Wu and Chu were wiped out. King Hengshan came to see the emperor. The emperor thought he was loyal and trustworthy, and comforted him by saying: The south is low and humid.
+So the king of Hengshan moved to Jibei and became king to praise him.
+When he died, he was given the title Zhen Wang.
+The King of Lujiang was located on the border with Yue. He sent envoys to interact with Vietnam many times. Later, he was changed to the King of Hengshan and became king in the Jiangbei area.
+
+summary:
+summary line 3: King Li refused food and died on the way. Emperor Wen mourned and executed the officials who failed to provide food. He later enfeoffed King Li's four sons as marquises. In the sixteenth year, he made three of them kings in Huainan. During the Rebellion of the Seven States, King Huainan Liu An initially considered joining Wu but was restrained by his prime minister. Liu An, known for his literary pursuits, compiled the "Inner Books" and other works. He plotted rebellion after a comet appeared, believing the emperor had no heir. His daughter Liu Ling spied in Chang'an. The plot was exposed when his grandson Liu Jian informed on him. King Huainan committed suicide, and his kingdom was abolished as Jiujiang County.
+
+Chunk 17: 
+original: 
+胶西王端议曰： 安废法度，行邪辟，有诈伪心，以乱天下，营惑百姓，背畔宗庙，妄作妖言。《春秋》曰 臣毋将，将而诛 。
+安罪重于将，谋反形已定。
+臣端所见其书印图及它逆亡道事验明白，当伏法。
+论国吏二百石以上及比者，宗室近幸臣不在法中者，不能相教，皆当免，削爵为士伍，毋得官为吏。
+其非吏，它赎死金二斤八两，以章安之罪，使天下明知臣子之道，毋敢复有邪僻背畔之意。
+丞相弘、廷尉汤等以闻，上使宗正以符节治王。
+未至，安自刑杀。
+后、太子诸所与谋皆收夷。
+国除为九江郡。
+衡山王赐后乘舒生子三人，长男爽为太子，次女无采，少男孝。
+姬徐来生子男女四人，美人厥姬生子二人。
+淮南、衡山相责望礼节，间不相能。
+translation: 
+Liu Duan, King of Jiaoxi, said: Liu An is lawless, does not follow the right path, has ulterior motives, and is ready to disrupt the world, confuse the people, betray his ancestors, and confuse the public with his evil words. "Spring and Autumn" says: If the minister does not use the general, he will be executed.
+Liu An's crime did not just sprout, his rebellion was already a fact.
+In my opinion, after identifying the tools of his rebellion, he can be punished.
+Officials of the Huainan Kingdom with a salary of more than 200 shi and those with a salary equivalent to this, as well as favorites of the royal family, who have not rebelled but failed to assist the King of Huainan should be dismissed from their posts, and their titles can be reduced to civilians, and they will not be allowed to serve as officials again.
+The other people who were not officials each paid two catties and eighty taels of gold to atone for their death penalty, so that Liu An's crimes could be publicized, so that everyone in the world would understand the way of being a minister and would not dare to have bad intentions and rebel against the court.
+Prime Minister Gongsun Hong, Tingweitang and others reported their opinions to the kings, and the emperor sent Zongzheng to punish Liu An.
+Before Zong Zheng arrived, Liu An committed suicide.
+The queen, prince and other people involved in the rebellion were all executed.
+Huainan Kingdom was abolished and changed to Jiujiang County.
+Queen Chengshu of Hengshan King Liu Ci gave birth to three children: the eldest son Liu Shuang was the prince, the second daughter Liu Wucai, and the youngest son Liu Xiao.
+The beloved concubine Xu Lai gave birth to four children, and the beautiful concubine Jue Ji gave birth to two children.
+The king of Huainan and the king of Hengshan blamed each other and complained, and there were constant conflicts.
+
+summary:
+summary line 4: King Hengshan Liu Ci, brother of King Huainan, also plotted rebellion. He feuded with his son, Prince Liu Shuang, and favored his younger son Liu Xiao. After Queen Chengshu died, Queen Xu Lai and concubine Jue Ji slandered the prince. The prince was whipped and later accused his father of rebellion. King Hengshan committed suicide when investigated. His kingdom was also abolished. The historian comments that both kings, despite being imperial relatives, perished due to their rebellious nature and the corrupting influence of their ministers, noting that people of Jingchu have historically been prone to insurrection.
+

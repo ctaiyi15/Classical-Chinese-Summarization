@@ -1,29 +1,4 @@
-Summary uses chunk [9, 0, 4, 6, 6, 6, 14, 15, 22]
-
-Chunk 9: 
-original: 
-一旦败坏，大王几所厝。
-今南有子阳，北有文伯，江湖海岱，王公十数，而欲牵儒生之说，弃千乘之基，羁旅危国，以求万全，此循覆车之轨，计之不可者也。
-今天水完富，士马最强，北收西河、上郡，东收三辅之地，案秦旧迹，表里河山。
-元请以一丸泥为大王东封函谷关，此万世一时也。
-若计不及此，且畜养士马，据隘自守，旷日持久，以待四方之变，图王不成，其弊犹足以霸。
-要之，鱼不可脱于渊，神龙失势，即还与蚯蚓同。 嚣心然元计，虽遣子入质，犹负其险厄，欲专方面，于是游士长者，稍稍去之。
-六年，关东悉平。
-帝积苦兵间，以嚣子内侍，公孙述远据边陲，乃谓诸将曰： 且当置此两子于度外耳。 因数腾书陇、蜀，告示祸福。
-嚣宾客、掾史多文学生，每所上事，当世士大夫皆讽诵之，故帝有所辞答，尤加意焉，嚣复遣使周游诣阙，先到冯异营，游为仇家所杀。
-translation: 
-Once the reform fails, the king will have almost no place to stay.
-Now there are Gongsun Shu in the south, Lu Fang in the north, Jianghu Haitai, Zhang Bu, Dong Xian and more than a dozen princes, each occupying one side. They want to accommodate Ma Yuan's opinions, give up the Qiancheng foundation, and live as guests in dangerous countries in order to be safe. This is following the track of overturning the car, and it is not a good plan.
-Now Tianshui is complete and prosperous, and the army and horses are the most powerful. Xihe and Shangjun are attacked in the north, and the three auxiliary lands are taken in the east. According to the old traces of Qin, the outer mountains and inner rivers are the inside and outside of each other.
-Wang Yuan requested that he use a small number of troops to guard the dangerous Hangu Pass for the king. This was a once-in-a-lifetime opportunity.
-If this strategy cannot be adopted now, then temporarily raise troops and horses, defend yourself according to danger, and hold on to wait for changes in all directions. Even if the king fails, taking a step back is enough to dominate one party.
-In short, fish cannot escape from deep water. Without the support of dragons, they are no different from earthworms. Wei Xiao heartily agreed with Wang Yuan's plan. Although he sent his son to the court as a hostage, he still wanted to dominate the country by relying on its dangerous geographical conditions. So some elders gradually left him.
-In six years, Guandong was pacified.
-Because of the long military hardships, the emperor thought that Wei Xiao had a son as a servant and Gongsun Shu was stationed far away in the border area, so he said to the generals: Put these two boys aside for the time being. Therefore, several letters were sent to Wei Xiao and Gongsun Shu, telling them of misfortunes and blessings.
-Most of Kui Xiao's guests and ministers were bachelors of literature. Every time they wrote a letter to express their opinions, the scholar-bureaucrats of the time would read and recite it aloud, so they paid special attention to the emperor's remarks. Wei Xiao once again sent envoys to travel around the capital. They first went to Feng Yiying, but Zhou You was killed by his enemies.
-
-summary:
-summary line 0: ### Summary of the Historical Text on Kui Xiao and Gongsun Shu
+Summary uses chunk [0, 1, 6, 7, 7, 16, 17, 28]
 
 Chunk 0: 
 original: 
@@ -38,8 +13,6 @@ original:
 嚣辞让不得已，曰： 诸父众贤不量小子。必能用嚣言者，乃敢从命。 众皆曰 诺 。
 嚣既立，遣使聘请平陵人方望，以为军师。
 望至，说嚣曰： 足下欲承天顺民，辅汉而起，今立者乃在南阳，王莽尚据长安，虽欲以汉为名，其实无所受命，将何以见信于众乎？
-宜急立高庙，称臣奉祠，所谓 神道设教 ，求助人神者也。
-且礼有损益，质文无常。
 translation: 
 Kaixiao, courtesy name Jimeng, was from Chengji County, Tianshui County.
 When he was young, he served as a state and county official.
@@ -52,53 +25,74 @@ What sin does our clan have? Wei Cui refused to listen, so he gathered thousands
 Wei Xiao resigned and had no choice but to say: "Fathers and wise men think highly of me, young man, and must use my opinion before I dare to obey." Everyone said: OK.
 After Kuai Xiao was established, he sent an envoy to hire Fang Wang from Pingling as a military advisor.
 Fang Wangzhi suggested to Kaixiao: "I want to obey the destiny of the people and support the Han Dynasty and start an uprising. Today, I am standing in Nanyang. Wang Mang is still guarding Chang'an. Although he wants to act in the name of the Han Dynasty, he has not actually received the order from the Han Dynasty. What will he do to convince everyone?"
+
+summary:
+summary line 0: Kui Xiao, courtesy name Jimeng, was from Chengji County, Tianshui. He began his career as a local official and later served under Wang Mang's advisor Liu Xin. After Liu Xin's death, Kui Xiao returned home. His uncle, Kui Cui, a bold and chivalrous figure, planned to raise troops to support the Han dynasty after hearing of Gengshi's proclamation and Wang Mang's defeat. Kui Xiao initially advised against it, warning of the dangers of war, but Kui Cui proceeded, gathering thousands to attack Pingxiang. The group then appointed Kui Xiao as general due to his reputation and knowledge of scriptures. Kui Xiao accepted on condition that his advice be heeded.
+
+Chunk 1: 
+original: 
+宜急立高庙，称臣奉祠，所谓 神道设教 ，求助人神者也。
+且礼有损益，质文无常。
+削地开兆，茅茨土阶，以致其肃敬。
+虽未备物，神明其舍诸。 嚣从其言，遂立庙邑东，祀高祖、太宗、世宗。
+嚣等皆称臣执事，史奉璧而告。
+祝毕，有司穿坎于庭，牵马操刀，奉盘错鍉，遂割牲而盟。
+曰： 凡我同盟三十一将，十有六姓，允承天道，兴辅刘宗。
+如怀奸虑，明神殛之。
+高祖、文皇、武皇，俾坠厥命，厥宗受兵，族类灭亡。 有司奉血鍉进，护军举手揖诸将军曰： 鍉不濡血，歃不入口，是欺神明也，厥罚如盟。 既而薶血加书，一如古礼。
+事毕，移檄告郡国曰：
+汉复元年七月己酉朔。
+己巳，上将军隗嚣、白虎将军隗崔、左将军隗义、右将军杨广、明威将军王遵、云旗将军周宗等，告州牧、部监、郡卒正、连率、大尹、尹、尉队大夫、属正、属令：故新都侯王莽，慢侮天地，悖道逆理。鸩杀孝平皇帝，篡夺其位。
+translation: 
 We should quickly build a temple for Emperor Gaozu, worship him as a minister, and use the so-called "Shinto teachings" to seek help from humans and gods.
 Moreover, etiquette may be added or deleted from time to time, and there is no standard between simplicity and splendor.
+Cutting the ground to open a sign area, even if it is a hut with earthen steps, can still show respect.
+Although it is simple and has no material equipment, the gods will not leave here. Kuai Xiao listened to his advice and built a temple in the east of the city to worship Gaozu, Taizong and Shizong.
+Wei Xiao and others all called themselves ministers and deacons, and Zhu Shi held a jade in his hand to appeal to the gods.
+After the blessing, various functional officials came and went in the court, some leading horses and wielding swords, some carrying plates and spoons, so they killed animals and formed an alliance.
+Alliance Dao: There are a total of thirty-one generals with 16 surnames in the alliance, who follow the way of heaven and raise troops to assist Liu Zong.
+If there is someone with evil intentions, the gods will destroy him.
+Emperor Gaozu, Emperor Wen, and Emperor Wu caused his death, the clan was bloodbathed, and the race was destroyed. The officials marched forward with spoons containing the blood of the sacrifices. The guards held up their hands and bowed to the generals, saying: "The spoons are not stained with blood. If you don't drink the blood, you will deceive the gods and punish him according to the oath of the alliance." In this way, the blood of the sacrifice was applied on the mouth and the covenant was carried out exactly according to the ancient rituals.
+At the end of the ceremony, a document was issued to all counties saying:
+The first day of the seventh month of the first year of the Han Dynasty is Jiyou Day.
+On the past day, General Wei Xiao, White Tiger General Wei Cui, Left General Wei Yi, Right General Yang Guang, Mingwei General Wang Zun, Yunqi General Zhou Zong, etc., sent a proclamation to the state shepherds, department supervisors, county pawns, company leaders, Dayin, Yin, Wei team officials, subordinate Zheng, and subordinate orders: Wang Mang, the former lord of Xindu, insulted and neglected the world, violated the Tao, and violated the principles. He poisoned Emperor Xiaoping and usurped the throne.
 
 summary:
-summary line 1: Kui Xiao, courtesy name Jimeng, was from Chengji County, Tianshui. He began his career as a local official and later served under Wang Mang's advisor Liu Xin. After Liu Xin's death, Kui Xiao returned home. His uncle, Kui Cui, a bold and chivalrous figure, planned to raise troops to support the Han dynasty after hearing of Gengshi's proclamation and Wang Mang's defeat. Kui Xiao initially advised against it, warning of the dangers of war, but Kui Cui proceeded, gathering thousands to attack Pingxiang. The group then appointed Kui Xiao as general due to his reputation and knowledge of scriptures. Kui Xiao accepted on condition that his advice be heeded.
-
-Chunk 4: 
-original: 
-兴灭继绝，封定万国，遵高祖之旧制，修孝文之遗德。有不从命，武军平之。
-驰命四夷，复其爵号。
-然后还师振旅，橐弓卧鼓。
-申命百姓，各安其所，庶无负子之责。
-嚣乃勒兵十万，击杀雍州牧陈庆。
-将攻安定。
-安定大尹王向，莽从弟平阿侯谭之子也，威风独能行其邦内，属县皆无叛者。
-嚣乃移书于向，喻以天命，反复诲示，终不从。
-于是进兵虏之，以徇百姓，然后行戮，安定悉降。
-而长安中亦起兵诛王莽。
-嚣遂分遣诸将徇陇西、武都、金城、武威、张掖、酒泉、敦煌，皆下之。
-更始二年，遣使征嚣及崔、义等。
-嚣将行，方望以为更始未可知，固止之，嚣不听。
-望以书辞谢而去，曰：
-足下将建伊、吕之业，弘不世之功，而大事草创，英雄未集。
-translation: 
-Reviving the Han Dynasty to succeed Liu Si, enfeoffing all the kingdoms, following the old system of Emperor Gaozu, restoring the traditional virtues of Xiaowen, and quelling those who dare to disobey the order by force.
-Send envoys to neighboring countries to restore their original titles.
-Then he returned to reorganize his troops and put away the bows, arrows, and golden drums.
-I specifically order the people to stay in their own place, live and work in peace and contentment, and they will live up to their responsibilities.
-Wei Xiao then led an army of 100,000 to kill Chen Qing, the shepherd of Yongzhou.
-Prepare to attack Anxi.
-Wang Xiang, the Great Yin of Anding, was the son of Wang Mang's cousin Ping'ahou Wang Tan. He was quite popular in the Anding state, and no one in his county rebelled against him.
-Wei Xiao then wrote to Wang Xiang, telling him the destiny of heaven, and repeatedly gave him instructions, but Wang Xiang never obeyed.
-So they marched in, captured him, declared to the people, and then killed him, and all Anding surrendered.
-At this time, someone in Chang'an City raised troops and killed Wang Mang.
-Wei Xiao then sent his generals to seize Longxi, Wudu, Jincheng, Wuwei, Zhangye, Jiuquan, and Dunhuang, and captured them all.
-In the second year of Gengshi, envoys were sent to recruit Wei Xiao, Wei Cui, Wei Yi and others.
-Wei Xiao was about to meet with Gengshi. Fang Wang believed that Gengshi's future was still uncertain and resolutely stopped him, but Wei Xiao refused to listen.
-Fang Wang wrote a letter of thanks and left, saying:
-Generals like Yi Yin and Lu Shang will establish the achievements of the founding of the country and carry forward achievements that are not common in one generation. But now when major events are still being hastily established, heroes and heroes have not yet gathered together.
-
-summary:
-summary line 2: Following Fang Wang's counsel, Kui Xiao built a temple to honor Han emperors Gaozu, Taizong, and Shizong, where he and his allies performed rituals and swore an oath to assist Liu Zong, invoking divine punishment for betrayal. They issued a proclamation condemning Wang Mang for crimes against heaven, earth, and humanity, including usurpation, tyranny, and exploitation. Kui Xiao then led 100,000 troops, killing Yongzhou shepherd Chen Qing and capturing Anding after executing Wang Xiang. He later seized Longxi, Wudu, Jincheng, and other commanderies.
+summary line 1: Following Fang Wang's counsel, Kui Xiao built a temple to honor Han emperors Gaozu, Taizong, and Shizong, where he and his allies performed rituals and swore an oath to assist Liu Zong, invoking divine punishment for betrayal. They issued a proclamation condemning Wang Mang for crimes against heaven, earth, and humanity, including usurpation, tyranny, and exploitation. Kui Xiao then led 100,000 troops, killing Yongzhou shepherd Chen Qing and capturing Anding after executing Wang Xiang. He later seized Longxi, Wudu, Jincheng, and other commanderies.
 
 Chunk 6: 
 original: 
+今俊乂并会，羽翮并肩，望无耆考之德，而猥托宾客之上，诚自愧也。
+虽怀介然之节，欲絜去就之分，诚终不背其本，贰其志也。
+何则？
+范蠡收责句践，乘偏舟于五湖；舅犯谢罪文公，亦逡巡于河上。
+夫以二子之贤，勒铭两国，犹削迹归愆，请命乞身，望之无劳，盖其宜也。
+望闻乌氏有龙池之山，微径南通，与汉相属，其傍时有奇人，聊及闲暇，广求其真。
+愿将军勉之。
+嚣等遂至长安，更始以为右将军，崔、义皆即旧号。
+其冬，崔、义谋欲叛归，嚣惧并祸，即以事告之，崔、义诛死。
+更始感嚣忠，以为御史大夫。
 明年夏，赤眉入关，三辅扰乱。
 流闻光武即位河北，嚣即说更始归政于光武叔父国三老良，更始不听。
+translation: 
+Nowadays, there are many talented people, and their wings are already full. I hope that I don’t have any virtue or talent above ordinary people. I am really ashamed to be ranked first among the guests.
+Although I have a moral integrity and want to weigh the expediency of resigning and staying in my job, I will never abandon my original intention and have other ambitions.
+Why?
+After Fan Li helped Gou Jian destroy Wu, he accepted his guilt and took a boat to the five lakes. Jin Wengong's uncle's uncle also stopped on the river on the way back to the country with Wen Gong, apologized to Wen Gong and asked to resign.
+With the virtues of Fan Li and Zifu, they have left their names in the history books of Yue and Jin. If they still blame themselves for requesting to return to their hometown, I hope that they have no merit, so it is very appropriate to resign.
+I heard that there is Longchi Mountain in Wushi County, with a small road leading to the south, connecting it with the Han Dynasty. There are often strange people and strangers there. In your spare time, you can seek out the truth.
+May the general encourage him.
+Wei Xiao came to Chang'an, and he was appointed as the right general. Wei Cui and Wei Yi still maintained their original titles.
+In the winter of that year, Wei Cui and Wei Yi planned to rebel against Gengshi and return to the north. Wei Xiao was afraid of harming himself, so he reported the matter to Gengshi, and Wei Cui and Wei Yi were killed.
+Gengshi felt that Kui Xiao was loyal to him, so he made him the imperial censor.
+In the summer of the next year, Chimei entered the pass and was disturbed by Sanfu.
+It was rumored that Guangwu was already located in Hebei, so Wei Xiao suggested to Gengshi that he should hand over the power to Liu Liang, Guangwu's uncle, but Gengshi refused to listen.
+
+summary:
+summary line 2: In the second year of Gengshi, Kui Xiao was summoned to Chang'an and appointed Right General. After his uncle and brother plotted rebellion, Kui Xiao reported them, leading to their deaths, and was made Imperial Censor. When Chimei rebels threatened, Kui Xiao suggested Gengshi delegate power to Liu Liang, but was ignored. He later participated in a plot to kidnap Gengshi, which failed, forcing him to flee to Tianshui, where he declared himself General of Xizhou. He attracted many scholars and officials, gaining fame in the west.
+
+Chunk 7: 
+original: 
 诸将欲劫更始东归，嚣亦与通谋。
 事发觉，更始使使者召嚣，嚣称疾不入，因会客王遵、周宗等勒兵自守。
 更始使执金吾邓晔将兵围嚣，嚣闭门拒守；至昏时，遂溃围，与数十骑夜斩平城门关，亡归天水。
@@ -112,9 +106,11 @@ original:
 及赤眉去长安。欲西上陇，嚣遣将军杨广迎击，破之，又追败之于乌氏、泾阳间。
 嚣既有功于汉，又受邓禹爵，署其腹心，议者多劝通使京师。
 三年，嚣乃上书诣阙。
+光武素闻其风声，报以殊礼，言称字，用敌国之仪，所以慰藉之良厚。
+时，陈仓人吕鲔拥众数万，与公孙述通，寇三辅。
+嚣复遣兵佐征西大将军冯异击之，走鲔，遣歙上状。
+帝报以手书曰：
 translation: 
-In the summer of the next year, Chimei entered the pass and was disturbed by Sanfu.
-It was rumored that Guangwu was already located in Hebei, so Wei Xiao suggested to Gengshi that he should hand over the power to Liu Liang, Guangwu's uncle, but Gengshi refused to listen.
 The generals wanted to kidnap Gengshi when he returned to the east, and Wei Xiao also participated in this plan.
 After the incident was exposed, Gengshi sent someone to summon Wei Xiao. Wei Xiao claimed that he was ill and would not go away, so he and his subordinates Wang Zun and Zhou Zong led their troops to defend themselves.
 Gengshi sent Jinwu Deng Ye to lead an army to surround Kaixiao, but Kaixiao closed the gate and refused to defend. At dusk, he could not hold on and broke the siege. Kaixiao and dozens of riders cut down the city gate at night and fled back to Tianshui.
@@ -128,14 +124,16 @@ Therefore, Deng Yu followed the emperor's will and sent a special envoy, Ji Jie 
 When Chimei went to Chang'an and wanted to go west to Long, Kaixiao sent general Yang Guang to attack and defeated Chimei. He also pursued and defeated Chimei between Wushi and Jingyang.
 Wei Xiao not only made contributions to the Han Dynasty, but also accepted the title of nobility from Deng Yu, and was able to appoint his confidants. Many people advised him to be the envoy to the capital.
 Three years later, Wei Xiao wrote to the capital.
+Guangwu had always heard of his virtues and reputation, so he rewarded him with special etiquette, addressed him by name, and used the etiquette of a state guest to comfort and recommend him deeply.
+At this time, Lü Kun, a native of Chencang, supported tens of thousands of people, and was connected with Gongsun Shu, and invaded the three assistants.
+Wei Xiao once again sent troops to help General Feng Yi attack the west, drove Lu Qian away, and sent an envoy to report.
+The emperor politely replied in handwriting:
 
 summary:
-summary line 3: In the second year of Gengshi, Kui Xiao was summoned to Chang'an and appointed Right General. After his uncle and brother plotted rebellion, Kui Xiao reported them, leading to their deaths, and was made Imperial Censor. When Chimei rebels threatened, Kui Xiao suggested Gengshi delegate power to Liu Liang, but was ignored. He later participated in a plot to kidnap Gengshi, which failed, forcing him to flee to Tianshui, where he declared himself General of Xizhou. He attracted many scholars and officials, gaining fame in the west.
+summary line 3: Under Guangwu, Kui Xiao initially cooperated, defeating Chimei and aiding General Feng Yi. Guangwu praised him in letters, offering rewards and urging unity against Gongsun Shu. However, Kui Xiao's generals, Wang Yuan and Wang Jie, advised him to maintain independence, citing the dangers of submitting to Guangwu. Kui Xiao agreed, sending his son as a hostage but secretly planning to dominate the region. Over time, his support waned as Guangwu's forces grew.
 
-Chunk 6: 
+Chunk 7: 
 original: 
-明年夏，赤眉入关，三辅扰乱。
-流闻光武即位河北，嚣即说更始归政于光武叔父国三老良，更始不听。
 诸将欲劫更始东归，嚣亦与通谋。
 事发觉，更始使使者召嚣，嚣称疾不入，因会客王遵、周宗等勒兵自守。
 更始使执金吾邓晔将兵围嚣，嚣闭门拒守；至昏时，遂溃围，与数十骑夜斩平城门关，亡归天水。
@@ -149,9 +147,11 @@ original:
 及赤眉去长安。欲西上陇，嚣遣将军杨广迎击，破之，又追败之于乌氏、泾阳间。
 嚣既有功于汉，又受邓禹爵，署其腹心，议者多劝通使京师。
 三年，嚣乃上书诣阙。
+光武素闻其风声，报以殊礼，言称字，用敌国之仪，所以慰藉之良厚。
+时，陈仓人吕鲔拥众数万，与公孙述通，寇三辅。
+嚣复遣兵佐征西大将军冯异击之，走鲔，遣歙上状。
+帝报以手书曰：
 translation: 
-In the summer of the next year, Chimei entered the pass and was disturbed by Sanfu.
-It was rumored that Guangwu was already located in Hebei, so Wei Xiao suggested to Gengshi that he should hand over the power to Liu Liang, Guangwu's uncle, but Gengshi refused to listen.
 The generals wanted to kidnap Gengshi when he returned to the east, and Wei Xiao also participated in this plan.
 After the incident was exposed, Gengshi sent someone to summon Wei Xiao. Wei Xiao claimed that he was ill and would not go away, so he and his subordinates Wang Zun and Zhou Zong led their troops to defend themselves.
 Gengshi sent Jinwu Deng Ye to lead an army to surround Kaixiao, but Kaixiao closed the gate and refused to defend. At dusk, he could not hold on and broke the siege. Kaixiao and dozens of riders cut down the city gate at night and fled back to Tianshui.
@@ -165,50 +165,16 @@ Therefore, Deng Yu followed the emperor's will and sent a special envoy, Ji Jie 
 When Chimei went to Chang'an and wanted to go west to Long, Kaixiao sent general Yang Guang to attack and defeated Chimei. He also pursued and defeated Chimei between Wushi and Jingyang.
 Wei Xiao not only made contributions to the Han Dynasty, but also accepted the title of nobility from Deng Yu, and was able to appoint his confidants. Many people advised him to be the envoy to the capital.
 Three years later, Wei Xiao wrote to the capital.
+Guangwu had always heard of his virtues and reputation, so he rewarded him with special etiquette, addressed him by name, and used the etiquette of a state guest to comfort and recommend him deeply.
+At this time, Lü Kun, a native of Chencang, supported tens of thousands of people, and was connected with Gongsun Shu, and invaded the three assistants.
+Wei Xiao once again sent troops to help General Feng Yi attack the west, drove Lu Qian away, and sent an envoy to report.
+The emperor politely replied in handwriting:
 
 summary:
-summary line 4: Under Guangwu, Kui Xiao initially cooperated, defeating Chimei and aiding General Feng Yi. Guangwu praised him in letters, offering rewards and urging unity against Gongsun Shu. However, Kui Xiao's generals, Wang Yuan and Wang Jie, advised him to maintain independence, citing the dangers of submitting to Guangwu. Kui Xiao agreed, sending his son as a hostage but secretly planning to dominate the region. Over time, his support waned as Guangwu's forces grew.
+summary line 4: In the sixth year of Jianwu, Guangwu ordered Kui Xiao to attack Shu, but he refused, citing difficult terrain. Guangwu then led a campaign against him, but Kui Xiao resisted, leading to defeats. He apologized but remained defiant. Guangwu's attempts to recruit him failed, and Kui Xiao allied with Gongsun Shu, who named him King of Shuoning. Kui Xiao invaded Anding but was repelled. Many of his generals, including Wang Zun, defected to Guangwu.
 
-Chunk 6: 
+Chunk 16: 
 original: 
-明年夏，赤眉入关，三辅扰乱。
-流闻光武即位河北，嚣即说更始归政于光武叔父国三老良，更始不听。
-诸将欲劫更始东归，嚣亦与通谋。
-事发觉，更始使使者召嚣，嚣称疾不入，因会客王遵、周宗等勒兵自守。
-更始使执金吾邓晔将兵围嚣，嚣闭门拒守；至昏时，遂溃围，与数十骑夜斩平城门关，亡归天水。
-复招聚其众，据故地，自称西州上将军。
-及更始败，三辅耆老士大夫皆奔归嚣。
-嚣素谦恭爱士，倾身引接为布衣交。
-以前王莽平河大尹长安谷恭为掌野大夫，平陵范逡为师友，赵秉、苏衡、郑兴为祭酒，申屠刚、杜林为持书，杨广、王遵、周宗及平襄人行巡、阿阳人王捷、长陵人王元为大将军，杜陵、金丹之属为宾客。
-由此名震西州，闻于山东。
-建武二年，大司徒邓禹西击赤眉，屯云阳，禹裨将冯愔引兵叛禹，西向天水，嚣逆击，破之于高平，尽获辎重。
-于是禹承制遣使持节命嚣为西州大将军，得专制凉州、朔方事。
-及赤眉去长安。欲西上陇，嚣遣将军杨广迎击，破之，又追败之于乌氏、泾阳间。
-嚣既有功于汉，又受邓禹爵，署其腹心，议者多劝通使京师。
-三年，嚣乃上书诣阙。
-translation: 
-In the summer of the next year, Chimei entered the pass and was disturbed by Sanfu.
-It was rumored that Guangwu was already located in Hebei, so Wei Xiao suggested to Gengshi that he should hand over the power to Liu Liang, Guangwu's uncle, but Gengshi refused to listen.
-The generals wanted to kidnap Gengshi when he returned to the east, and Wei Xiao also participated in this plan.
-After the incident was exposed, Gengshi sent someone to summon Wei Xiao. Wei Xiao claimed that he was ill and would not go away, so he and his subordinates Wang Zun and Zhou Zong led their troops to defend themselves.
-Gengshi sent Jinwu Deng Ye to lead an army to surround Kaixiao, but Kaixiao closed the gate and refused to defend. At dusk, he could not hold on and broke the siege. Kaixiao and dozens of riders cut down the city gate at night and fled back to Tianshui.
-Then he gathered his old troops, occupied the original territory, and called himself General Xizhou.
-When the reform failed, all the senior scholar-bureaucrats in Sanfu fled to Tianshui to join Kaixiao.
-Kui Xiao has always been honest and respectful, and he tries his best to introduce famous people as common people's acquaintances.
-In the past, Wang Mang's Pinghe great Yin Chang'an Gu Gong was appointed as the official in charge, Pingling Fan Ku was appointed as his mentor, Zhao Bing, Su Heng, and Zheng Xing were the wine drinkers, Shen Tugang and Du Lin were the book holders, Yang Guang, Wang Zun, Zhou Zong and Pingxiang people were on patrol, Wang Jie from Heyang and Wang Yuan from Changling were the generals, and the relatives of Du Ling and Jin Dan were the guests.
-From this, he became famous in Xizhou and became famous in Shandong.
-In the second year of Jianwu's reign, the great Situ Deng Yuxi attacked Chimei and settled in Yunyang. Deng Yu Pi led his troops to rebel against Deng Yu and headed west toward Tianshui. Wei Xiao met the attack, defeated Feng Huanyin at Gaoping, and captured all the baggage.
-Therefore, Deng Yu followed the emperor's will and sent a special envoy, Ji Jie Ming, to serve as the general of Xizhou, and he was able to dominate the political affairs of Liangzhou and Shuofang.
-When Chimei went to Chang'an and wanted to go west to Long, Kaixiao sent general Yang Guang to attack and defeated Chimei. He also pursued and defeated Chimei between Wushi and Jingyang.
-Wei Xiao not only made contributions to the Han Dynasty, but also accepted the title of nobility from Deng Yu, and was able to appoint his confidants. Many people advised him to be the envoy to the capital.
-Three years later, Wei Xiao wrote to the capital.
-
-summary:
-summary line 5: In the sixth year of Jianwu, Guangwu ordered Kui Xiao to attack Shu, but he refused, citing difficult terrain. Guangwu then led a campaign against him, but Kui Xiao resisted, leading to defeats. He apologized but remained defiant. Guangwu's attempts to recruit him failed, and Kui Xiao allied with Gongsun Shu, who named him King of Shuoning. Kui Xiao invaded Anding but was repelled. Many of his generals, including Wang Zun, defected to Guangwu.
-
-Chunk 14: 
-original: 
-其大将王捷别在戎丘，登城呼汉军曰： 为隗王城守者，皆必死无二心！愿诸军亟罢，请自杀以明之。 遂自刎颈死。
 数月，王元、行巡、周宗将蜀救兵五千余人，乘高卒至，鼓噪大呼曰： 百万之众方至！ 汉军大惊，未及成陈，元等决围，殊死战，遂得入城，迎嚣归冀。
 会吴汉等食尽退去，于是安定、北地、天水、陇西复反为嚣。
 九年春，嚣病且饿，出城餐糗糒，恚愤而死。
@@ -227,7 +193,6 @@ original:
 夫功全则誉显，业谢则衅生，回成丧而为其议者，或未闻焉。
 若嚣命会符运，敌非天力，虽坐论西伯，岂多嗤乎？
 translation: 
-His general, Wang Jie, was stationed at Rongqiu. He climbed up the city tower and shouted to the Han army: "The soldiers guarding the city for King Wei all know that they will die without any hesitation. I hope you will stop attacking the city as soon as possible. Please let me commit suicide to prove what I said." So he committed suicide.
 A few months later, Wang Yuan, Xingxun, Zhou Zong and others led more than 5,000 reinforcements from Shu. They suddenly arrived from a high place, beat drums and shouted: "A million-strong army has just arrived!" The Han army was frightened and had no time to prepare their positions. Wang Yuan and others broke through the siege and fought desperately to enter the city and welcome Wei Xiao back to Hebei.
 It happened that Wu Han and others retreated because they ran out of food, so Anding, Beidi, Tianshui, and Longxi returned to Weixiao.
 In the spring of the ninth year, Kuai Xiao was sick and hungry. He went out of the city to boil soybeans and rice for food, and finally died of anger.
@@ -247,9 +212,9 @@ Fame and reputation will become prominent, careers will wither, and various sins
 If Wei Xiao's fate is consistent with his luck, and the opponent he encounters is not a powerful opponent like Guangwu, then can we laugh more at comparing Wei Xiao with Xibo in history?
 
 summary:
-summary line 6: In the eighth year, Guangwu's forces besieged Kui Xiao, who fell ill and died of anger. His son Kui Chun was made king but later surrendered. Kui Xiao's legacy was marked by his initial righteousness but eventual failure due to isolation and overreliance on natural defenses.
+summary line 5: In the eighth year, Guangwu's forces besieged Kui Xiao, who fell ill and died of anger. His son Kui Chun was made king but later surrendered. Kui Xiao's legacy was marked by his initial righteousness but eventual failure due to isolation and overreliance on natural defenses.
 
-Chunk 15: 
+Chunk 17: 
 original: 
 公孙述字子阳，扶风茂陵人也。
 哀帝时，以父任为郎，后父仁为河南都尉，而述补清水长。
@@ -259,20 +224,6 @@ original:
 述闻之，遣使迎成等。
 成等至成都，虏掠暴横。
 述意恶之，召县中豪桀谓曰： 天下同苦新室，思刘氏久矣，故闻汉将军到，驰迎道路。
-今百姓无辜而妇子系获，室屋烧燔，此寇贼，非义兵也。
-吾欲保郡自守，以待真主。诸卿欲并力者即留，不欲者便去。 豪桀皆叩头曰： 愿效死。 述于是使人诈称汉使者自东方来，假述辅汉将军、蜀郡太守兼益州牧印绶。
-乃选精兵千余人，西击成等。
-比至成都，众数千人，遂攻成，大破之。
-成将垣副杀成，以其众降。
-二年秋，更始遣柱功侯李宝、益州刺史张忠，将兵万余人徇蜀、汉。
-述恃其地险众附，有自立志，乃使其弟恢于绵竹击宝、忠，大破走之。
-由是威震益部。
-功曹李熊说述曰： 方今四海波荡，匹夫横议。
-将军割据千里，地什汤、武，若奋威德以投天隙，霸王之业成矣。
-宜改名号，以镇百姓。 述曰： 吾亦虑之，公言起我意。 于是自立为蜀王，都成都。
-蜀地肥饶，兵力精强，远方士庶多往归之，邛、笮君长皆来贡献。
-李熊复说述曰： 今山东饥馑，人庶相食；兵所屠灭，城邑丘墟。
-蜀地沃野千里，土壤膏腴，果实所生，无谷而饱。
 translation: 
 Gongsun Shu, courtesy name Ziyang, was born in Maoling, Fufeng. During the reign of Emperor Ai, he took his father Baoren as his minister.
 Later, his father, Gongsun Ren, became the captain of Henan, and Gongsun Shu replaced him as the magistrate of Qingshui County. Gongsun Ren said that Gongsun Shu was young and sent his disciples to follow him to his post.
@@ -282,58 +233,42 @@ When Gengshi came to the throne, heroes raised troops in their respective counti
 When Gongsun Shu heard about it, he sent envoys to meet Zong Cheng and others.
 Zongcheng waited until Chengdu, where he looted and tyrannized.
 Gongsun Shu was disgusted, so he summoned the heroes of the county and said to them: "The whole world is suffering from Wang Mang's new wife. I have been thinking about the Liu family for a long time, so as soon as I heard that the Han general had arrived, I sent someone to greet him."
-Now the people are innocent, but the women and children have become prisoners, and the people's homes and houses have been burned. This is bandits, not volunteers.
-Gongsun Shu then sent someone to falsely claim that a Han envoy was coming from the east, and ordered Gongsun Shu to temporarily act as the assistant general of the Han Dynasty, the prefect of Shu County, and the Mu Yinshou of Yizhou.
-He selected more than a thousand elite soldiers to attack Zong Cheng and others westward.
-When they reached the capital and grew to thousands of people, they launched an attack on Zongcheng and defeated Zongcheng.
-Zongcheng's general Yuan Fu killed Zongcheng and led his troops to surrender to Gongsun Shu.
-In the autumn of the second year, Gengshi sent Li Bao, the Marquis of Zhugong, and Zhang Zhong, the governor of Yizhou, to lead more than 10,000 troops to invade Shu and Han.
-Gongsun Shu relied on the dangerous terrain of Shu and the people's surrender, and he had the will to establish himself as king, so he sent his younger brother Gongsun Hui to attack Li Bao and Zhang Zhong in Mianzhu, defeated Bao and Zhong and drove them away.
-From then on, Gongsun Shu's power shocked and benefited the tribe.
-The meritorious officer Li Xiong told Gongsun: Now the world is turbulent and uneasy, and the common people are talking wantonly.
-The generals separated themselves thousands of miles away, and the area was ten times that of Tang and Wu in the past. If they can use their might and virtue to suit the heaven and earth, they can achieve the cause of overlordship.
-The name should be changed to calm the people. Gongsun Shu said: I have also thought about it. Your words inspired me. So he proclaimed himself King of Shu and established his capital in Chengdu.
-The land of Shu was fertile and fertile, and its military force was strong. Many scholars and people from far away came to join him, and the kings of Qiong and Zeo, small countries in the southwest, all came to contribute.
-Li Xiong said to Gongsun again: "Now there is a famine in Shandong, and the people are eating each other. They have been massacred by the army, and the cities have become ruins."
-The land of Shu is fertile and wild for thousands of miles, and the soil is fertile, and the fruits grown there can fill your stomach even if you don't cultivate it.
 
 summary:
-summary line 7: Gongsun Shu, courtesy name Ziyang, from Maoling, rose to power during Wang Mang's decline. He defeated local rebels and declared himself King of Shu, later emperor, citing prophecies and omens. He expanded his territory, gathering troops and resources. Despite Guangwu's letters urging surrender, Gongsun Shu refused, believing in his destiny. His rule was marred by cruelty and poor governance, leading to internal dissent.
+summary line 6: Gongsun Shu, courtesy name Ziyang, from Maoling, rose to power during Wang Mang's decline. He defeated local rebels and declared himself King of Shu, later emperor, citing prophecies and omens. He expanded his territory, gathering troops and resources. Despite Guangwu's letters urging surrender, Gongsun Shu refused, believing in his destiny. His rule was marred by cruelty and poor governance, leading to internal dissent.
 
-Chunk 22: 
+Chunk 28: 
 original: 
-明年，使元与领军环安拒河池，又遣田戎及大司徒任满、南郡太守程汎将兵下江关，破威虏将军冯骏等，拔巫及夷陵、夷道，因据荆门。
-十一年，征南大将军岑彭攻之，满等大败，述将王政斩满首降于彭。
-田戎走保江州。
-城邑皆开门降。彭遂长驱至武阳。
-帝及与述书，陈言祸福，以明丹青之信。
-述省书叹息，以示所亲太常常少、光禄勋张隆。
-降、少皆劝降。
-述曰： 废兴命也。
-岂有降天子哉！ 左右莫敢复言。
-中郎将来歙急攻王元、环安，安使刺客杀歙；述复令刺杀岑彭。
-十二年，述弟恢及子婿史兴并为大司马吴汉、辅威将军臧宫所破，战死。
-自是将帅恐惧，日夜离叛，述虽诛灭其家，犹不能禁。
-帝必欲降之，乃下诏喻述曰： 往年诏书比下，开示恩信，勿以来歙、岑彭受害自疑。
-今以时自诣，则家族完全；若迷惑不喻，委肉虎口，痛哉奈何！
-将帅疲倦，吏士思归，不乐久相屯守，诏书手记，不可数得，朕不食言。 述终无降意。
+财物易聚耳，不宜有爱。 述乃悉散金帛，募敢死士五千余人，以配岑于市桥，伪建旗帜，鸣鼓挑战，而潜遣奇兵出吴汉军后，袭击破汉。
+汉堕水，缘马尾得出。
+十一月，臧宫军至咸门。
+述视占书，云 虏死城下 ，大喜，谓汉等当之。
+乃自将数万人攻汉，使延岑拒宫。
+大战，岑三合三胜。
+自旦及日中，军士不得食，并疲，汉因令壮士突之，述兵大乱，被刺洞胸，堕马。
+左右舆入城。
+述以兵属延岑，其夜死。
+明旦，岑降吴汉。
+乃夷述妻子，尽灭公孙氏，并族延岑。
+遂放兵大掠，焚述宫室。
+帝闻之怒，以谴汉。
+又让汉副将刘尚曰： 城降三日，吏人从服，孩儿老母，口以万数，一旦放兵纵火，闻之可为酸鼻！
 translation: 
-Next year, Wang Yuan and the leading army Huan'an refused to defend Hechi. They also sent Tian Rong, Da Situ Renman, and Nanjun prefect Cheng Xun to lead their troops down to Jiangguan. They defeated the Hanwei general Feng Jun and others, captured Wu, Yiling, and Yidao, and therefore defended Jingmen.
-In the eleventh year, Cen Peng, the general who conquered the south, launched an attack. Ren Man and others were defeated. General Wang Zheng beheaded Ren Man and surrendered to Cen Peng.
-Tian Rong left to protect Jiangzhou.
-All the cities opened their doors and surrendered to Cen Peng, and Cen Peng drove to Wuyang.
-Emperor Guangwu wrote a letter to Gongsun Shu, stating the blessings and misfortunes to show that he had no joke.
-Gongsun Shu sighed after reading the letter and showed it to his confidants Tai Chang Shao, Guang Luxun and Zhang Long.
-Long and Shao both urged Gongsun Shu to surrender.
-Gongsun said: The rise and fall are fate.
-Where is the emperor who surrenders? People on the left and right did not dare to speak anymore.
-Han Zhonglang rushed to Lai She to attack Wang Yuan and Huan'an. Huan'an sent assassins to kill Lai She; Gongsun Shu also ordered Cen Peng to be assassinated.
-In the twelfth year, Gongsun Shu's younger brother Gongsun Hui and son-in-law Shi Xing were both attacked by the great Sima Wu Han and the general Zang Gong of Fuwei, and died in battle.
-From then on, the general was afraid and rebelled day and night. Although Gongsun Shu killed his entire family, he could not stop him.
-Emperor Guangwu wanted Gongsun Shu to surrender, so he issued an edict to inform Gongsun Shu: In previous years, edicts were issued frequently to enlighten and show kindness. Don't doubt yourself because of the harm done to She and Cen Peng.
-Now as long as you return as scheduled, you can ensure the integrity of the family; if you are confused and don't realize it, it will be like sending meat into the tiger's mouth, but there is no way to do it!
-Your generals are tired, and all the officials want to go home and are unwilling to continue to garrison. There are countless notes in the edict, but I will not break my promise. Gongsun Shu finally had no intention of surrendering.
+Wealth is easy to accumulate and should not be grudged. Gongsun Shu took out all the gold and silk and recruited more than 5,000 death squads. They cooperated with Yancen at the city bridge, pretending to raise flags and beating drums to challenge, but secretly sent strange troops to go behind Wu Han's army to attack and defeat Wu Han's army.
+Wu Han fell into the water and managed to get out of the water by grabbing the horse's tail.
+In November, Zang Gong's army arrived at Xianmen.
+Gongsun Shu saw that the divination said: "Capture and die below the city." He was overjoyed and thought that Wu Han and others should die under the city.
+So he personally led tens of thousands of people to attack Wu and Han, causing Yancen to reject Zang Palace.
+In the big battle, Yancen won three times in three games.
+From early morning to noon, the soldiers had no food and were very tired. Wu Han ordered the strong men to attack. Gongsun Shu's soldiers were in chaos. Gongsun Shu was shot in the chest and fell off his horse.
+The people on the left and right used cars to rescue Gongsun Shu into the city.
+Gongsun Shu handed over his troops to Yancen and died in the evening.
+The next morning, Yancen surrendered to Wu Han.
+Wu Han then killed Gongsun Shu's wife, killed all the Gongsun clan, and also killed the entire Yancen clan.
+He also sent troops to loot and burn Gongsun Shu's palace.
+Guangwu got angry when he heard this and condemned Wu Han.
+He also ordered Liu Shang, the deputy general of Wu Han, to say: "The city has been surrendered for three days, and all the officials have obeyed. There are tens of thousands of children, mothers, and mothers. Once the troops are set on fire, it will make people's noses sore when they hear it!"
 
 summary:
-summary line 8: In the eleventh year, Guangwu's generals attacked, defeating Gongsun Shu's forces. He was wounded in battle and died, leading to the fall of his regime. Guangwu condemned the subsequent massacre of Gongsun Shu's family and officials. Historians noted that Gongsun Shu's downfall stemmed from his reliance on geography rather than virtue, echoing past failures.
+summary line 7: In the eleventh year, Guangwu's generals attacked, defeating Gongsun Shu's forces. He was wounded in battle and died, leading to the fall of his regime. Guangwu condemned the subsequent massacre of Gongsun Shu's family and officials. Historians noted that Gongsun Shu's downfall stemmed from his reliance on geography rather than virtue, echoing past failures.
 

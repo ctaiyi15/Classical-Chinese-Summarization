@@ -1,0 +1,299 @@
+Summary uses chunk [0, 0, 3, 5, 11, 12, 24]
+
+Chunk 0: 
+original: 
+周后稷，名弃。
+其母有邰氏女，曰姜原。
+姜原为帝喾元妃。
+姜原出野，见巨人迹，心忻然说，欲践之，践之而身动如孕者。
+居期而生子，以为不祥，弃之隘巷，马牛过者皆辟不践；徙置之林中，適会山林多人，迁之；而弃渠中冰上，飞鸟以其翼覆荐之。
+姜原以为神，遂收养长之。
+初欲弃之，因名曰弃。
+弃为兒时，屹如巨人之志。
+其游戏，好种树麻、菽，麻、菽美。
+及为成人，遂好耕农，相地之宜，宜穀者稼穑焉，民皆法则之。
+帝尧闻之，举弃为农师，天下得其利，有功。
+帝舜曰： 弃，黎民始饥，尔后稷播时百穀。
+封弃於邰，号曰后稷，别姓姬氏。
+后稷之兴，在陶唐、虞、夏之际，皆有令德。
+后稷卒，子不窋立。
+不窋末年，夏后氏政衰，去稷不务，不窋以失其官而饹戎狄之间。
+translation: 
+Hou Ji, the ancestor of the Zhou Dynasty, was named Qi.
+His mother was a woman of Tai family named Jiang Yuan.
+Jiang Yuan was the emperor's concubine.
+Jiang Yuan went out to the countryside and saw a giant footprint. He was so happy that he wanted to step on it. When he stepped on it, he felt his body vibrating as if he was pregnant.
+When they were ten months old, they gave birth to a son. Jiang Yuan thought that the child was unlucky, so he threw him into a narrow alley, but horses and cows passed by him and avoided stepping on him, so he threw him in the woods. There were many people in the woods, so he moved to another place.
+Jiang Yuan thought this was so magical, so he took him back and raised him as a human being.
+Since I wanted to throw him away at first, I named him Abandoned.
+When Qi was a child, he had the lofty ambitions of a great man.
+When he was playing games, he liked to plant hemp and beans, and the hemp and beans he planted grew very luxuriantly.
+When he grew up, he liked farming. He could observe the characteristics of the land and choose suitable grains to plant. The people followed his example.
+When Emperor Yao heard about these things, he appointed Qi as a farmer to teach people how to grow crops. People all over the world benefited from this, and he made great contributions.
+Emperor Shun said: "Sir, the people were suffering from hunger, thanks to you being the Houji to sow all kinds of grains."
+Therefore, the enfeoffment was abandoned in Tai, known as Houji, and Ji was the surname.
+Hou Ji is famous because during the Tao, Tang, Yu, and Xia generations, this family was very virtuous.
+After Hou Ji died, his son Buchu succeeded to the throne.
+In Buchu's later years, the Xia Hou family's state affairs declined, and they gave up the official post of Houji and no longer paid attention to agriculture. Buchu fled to the Rongdi area because he lost his official position.
+
+summary:
+summary line 0: Hou Ji, ancestor of the Zhou Dynasty, was named Qi. His mother Jiang Yuan, a concubine of the emperor, became pregnant after stepping on a giant footprint. She bore a son but tried to abandon him multiple times. Miraculously, animals protected him, so she raised him and named him "Abandoned." As a child, Qi showed great ambition, excelling at planting crops. When he grew up, he became skilled at farming, observing land characteristics to choose suitable grains. Emperor Yao appointed him as a farmer to teach agriculture, and Emperor Shun enfeoffed him in Tai, calling him Hou Ji, with Ji as his surname.
+
+Chunk 0: 
+original: 
+周后稷，名弃。
+其母有邰氏女，曰姜原。
+姜原为帝喾元妃。
+姜原出野，见巨人迹，心忻然说，欲践之，践之而身动如孕者。
+居期而生子，以为不祥，弃之隘巷，马牛过者皆辟不践；徙置之林中，適会山林多人，迁之；而弃渠中冰上，飞鸟以其翼覆荐之。
+姜原以为神，遂收养长之。
+初欲弃之，因名曰弃。
+弃为兒时，屹如巨人之志。
+其游戏，好种树麻、菽，麻、菽美。
+及为成人，遂好耕农，相地之宜，宜穀者稼穑焉，民皆法则之。
+帝尧闻之，举弃为农师，天下得其利，有功。
+帝舜曰： 弃，黎民始饥，尔后稷播时百穀。
+封弃於邰，号曰后稷，别姓姬氏。
+后稷之兴，在陶唐、虞、夏之际，皆有令德。
+后稷卒，子不窋立。
+不窋末年，夏后氏政衰，去稷不务，不窋以失其官而饹戎狄之间。
+translation: 
+Hou Ji, the ancestor of the Zhou Dynasty, was named Qi.
+His mother was a woman of Tai family named Jiang Yuan.
+Jiang Yuan was the emperor's concubine.
+Jiang Yuan went out to the countryside and saw a giant footprint. He was so happy that he wanted to step on it. When he stepped on it, he felt his body vibrating as if he was pregnant.
+When they were ten months old, they gave birth to a son. Jiang Yuan thought that the child was unlucky, so he threw him into a narrow alley, but horses and cows passed by him and avoided stepping on him, so he threw him in the woods. There were many people in the woods, so he moved to another place.
+Jiang Yuan thought this was so magical, so he took him back and raised him as a human being.
+Since I wanted to throw him away at first, I named him Abandoned.
+When Qi was a child, he had the lofty ambitions of a great man.
+When he was playing games, he liked to plant hemp and beans, and the hemp and beans he planted grew very luxuriantly.
+When he grew up, he liked farming. He could observe the characteristics of the land and choose suitable grains to plant. The people followed his example.
+When Emperor Yao heard about these things, he appointed Qi as a farmer to teach people how to grow crops. People all over the world benefited from this, and he made great contributions.
+Emperor Shun said: "Sir, the people were suffering from hunger, thanks to you being the Houji to sow all kinds of grains."
+Therefore, the enfeoffment was abandoned in Tai, known as Houji, and Ji was the surname.
+Hou Ji is famous because during the Tao, Tang, Yu, and Xia generations, this family was very virtuous.
+After Hou Ji died, his son Buchu succeeded to the throne.
+In Buchu's later years, the Xia Hou family's state affairs declined, and they gave up the official post of Houji and no longer paid attention to agriculture. Buchu fled to the Rongdi area because he lost his official position.
+
+summary:
+summary line 1: After Hou Ji died, his son Buchu succeeded. During Buchu's later years, the Xia dynasty declined and abandoned agriculture. Buchu fled to the Rongdi region. His descendant Gong Liu revived Hou Ji's agricultural practices, crossing rivers to obtain timber, improving people's lives. Many people moved to join him, marking the beginning of Zhou's prosperity. Gong Liu's descendant Gu Gongdanfu further accumulated virtues and benevolence. When Rongdi tribes attacked, seeking land and people, Gu Gong refused to fight, saying he could not bear sacrificing people for his own sake. He moved with his relatives to the foot of Qishan Mountain, where many people followed him. He built cities, established towns, and created five official positions.
+
+Chunk 3: 
+original: 
+公季卒，子昌立，是为西伯。
+西伯曰文王，遵后稷、公刘之业，则古公、公季之法，笃仁，敬老，慈少。
+礼下贤者，日中不暇食以待士，士以此多归之。
+伯夷、叔齐在孤竹，闻西伯善养老，盍往归之。
+太颠、闳夭、散宜生、鬻子、辛甲大夫之徒皆往归之。
+崇侯虎谮西伯於殷纣曰： 西伯积善累德，诸侯皆向之，将不利於帝。
+帝纣乃囚西伯於羑里。
+闳夭之徒患之。乃求有莘氏美女，骊戎之文马，有熊九驷，他奇怪物，因殷嬖臣费仲而献之纣。
+纣大说，曰： 此一物足以释西伯，况其多乎！
+乃赦西伯，赐之弓矢斧钺，使西伯得征伐。
+曰： 谮西伯者，崇侯虎也。
+西伯乃献洛西之地，以请纣去砲格之刑。
+纣许之。
+西伯阴行善，诸侯皆来决平。
+於是虞、芮之人有狱不能决，乃如周。
+入界，耕者皆让畔，民俗皆让长。
+虞、芮之人未见西伯，皆惭，相谓曰： 吾所争，周人所耻，何往为，祇取辱耳。
+遂还，俱让而去。
+诸侯闻之，曰 西伯盖受命之君 。
+明年，伐犬戎。
+明年，伐密须。
+translation: 
+After Gong Ji died, his son Chang succeeded to the throne and became Xibo.
+Xibo was called King Wen. He inherited the cause of Hou Ji and Gong Liu, followed the laws of Gu Gong and Gong Ji, practiced benevolence and righteousness, respected the elderly, and was kind to the young.
+He treated the wise men with courtesy. In order to receive the wise men, he sometimes did not bother to eat at noon, so the scholars all attached themselves to him.
+Boyi and Shuqi were in Guzhu country. They heard that Xibo was very respectful and took care of the elderly, so they went together to join Xibo.
+Tai Dian, Hong Yao, San Yisheng, Huan Zi, Xin Jia and other officials also went to submit to him.
+Chonghou Hu spoke ill of Xibo in front of King Zhou of Yin: Xibo has accumulated virtues and done good deeds, and all the princes have submitted to him, which will be detrimental to you.
+So Yin Zhou imprisoned Xibo in Youli.
+Hong Yao and others were very worried about Xi Bo, and tried their best to find beauties from the Xin family, colorful horses from the Lirong region, nine carriages from the Xiong Kingdom, and various other rare treasures, and presented them to King Zhou through Fei Zhongjin, a favored minister of the Yin Shang Dynasty.
+King Zhou was very happy and said: "Anything in this is enough for me to free Xibo, not to mention there are so many other good things!"
+So he pardoned Count Xi and gave him bows, arrows, axes and axes, giving him the right to conquer the neighboring princes.
+King Zhou told Xibo: The person who framed Xibo was Chonghou Hu.
+After Xibo returned home, he offered the land west of Luoshui and asked Zhou to abolish the criminal law of Paoluo.
+Zhou agreed to him.
+Xibo secretly did good deeds, and the princes came to ask him to judge right and wrong.
+At that time, people from Yu and Rui had lawsuits that could not be adjudicated, so they went to Zhou.
+They entered the realm of Zhou and saw that those who farmed fields gave way to each other, and the people regarded humility as a virtue.
+Before the people of Yu and Rui saw Xibo, they felt ashamed and said to each other: "What we are fighting for is what the people of Zhou are ashamed of. Why are we going to do it? We are just bringing shame on ourselves."
+So they returned and left with humility to each other.
+When the princes heard about it, they all said: Xibo must be a monarch who has received orders from heaven.
+In the second year, Xibo conquered Quanrong.
+The next year, Mi Xu was conquered.
+
+summary:
+summary line 2: Gu Gong's eldest son Taibo and second son Yu Zhong fled to Jingman, giving way to their younger brother Ji Li, whose son Chang (King Wen) would achieve greatness. King Wen inherited the legacy of Hou Ji and Gong Liu, practicing benevolence, respecting elders, and treating wise men with courtesy. Many scholars and officials submitted to him. Chonghou Hu slandered him to King Zhou of Yin, who imprisoned him in Youli. Officials presented rare treasures to King Zhou, who freed King Wen and gave him the right to conquer neighboring princes. King Wen secretly did good deeds, and when people from Yu and Rui came to him with disputes, they saw the humility of Zhou's people and felt ashamed, resolving their conflicts peacefully.
+
+Chunk 5: 
+original: 
+乃告司马、司徒、司空、诸节： 齐栗，信哉！
+予无知，以先祖有德臣，小子受先功，毕立赏罚，以定其功。
+遂兴师。
+师尚父号曰： 总尔众庶，与尔舟楫，後至者斩。
+武王渡河，中流，白鱼跃入王舟中，武王俯取以祭。
+既渡，有火自上复于下，至于王屋，流为乌，其色赤，其声魄云。
+是时，诸侯不期而会盟津者八百诸侯。
+诸侯皆曰： 纣可伐矣。
+武王曰： 女未知天命，未可也。
+乃还师归。
+居二年，闻纣昏乱暴虐滋甚，杀王子比干，囚箕子。
+太师疵、少师彊抱其乐器而饹周。
+於是武王遍告诸侯曰： 殷有重罪，不可以不毕伐。
+乃遵文王，遂率戎车三百乘，虎贲三千人，甲士四万五千人，以东伐纣。
+十一年十二月戊午，师毕渡盟津，诸侯咸会。
+曰： 孳孳无怠！
+武王乃作太誓，告于众庶： 今殷王纣乃用其妇人之言，自绝于天，毁坏其三正，离逷其王父母弟，乃断弃其先祖之乐，乃为淫声，用变乱正声，怡说妇人。
+translation: 
+He declared to Sima, Situ, Sikong and other officials who were ordered by the king to hold the talisman festival: Be careful and do what you say!
+I am an ignorant person, but because my ancestors were virtuous, I inherited their achievements. Various reward and punishment systems have now been established to ensure that the achievements of ancestors are completed.
+So he sent troops.
+Master Shi Shangfu ordered: Gather your men and take advantage of the oars. Anyone who is late will be killed.
+King Wu crossed the Yellow River, and when the boat reached the middle of the river, a white fish jumped into King Wu's boat. King Wu leaned over and picked it up for sacrifice.
+After crossing the river, a ball of fire fell from the sky and landed on King Wu's roof. It solidified into the shape of a crow, was red in color, and made a soulful cry.
+At that time, eight hundred princes came to Mengjin to form an alliance.
+The princes all said: Zhou can be defeated.
+King Wu said: You don't understand the destiny of heaven, not yet.
+So he led the army back.
+Two years later, I heard that Zhou was more chaotic and violent than before, so he killed Prince Bigan and imprisoned Jizi.
+Tai Shizhen and Shao Shiqiang took their musical instruments and fled to the state of Zhou.
+At this time, King Wu announced to all the princes: King Yin has committed serious crimes and must work together to defeat him!
+So he followed King Wen's decree and led 300 chariots, 3,000 warriors, and 45,000 armored warriors to march eastward to defeat Zhou.
+On the Wuwu day of the twelfth month of the eleventh year, all the troops crossed Mengjin, and all the princes came to join them.
+King Wu said: "You must be diligent and don't slack off!"
+King Wu therefore wrote the "Tai Oath" and announced to everyone: Now King Zhou of Yin actually listened to the words of his wives and concubines, cut himself off from heaven, violated the movements of the sun, moon, and Beidou, alienated his brothers from the same ancestor, abandoned the music of his ancestors, and dared to use promiscuous music to modify elegant music to please his wives and concubines.
+
+summary:
+summary line 3: King Wen conquered several states and moved the capital to Feng. After his death, his son King Wu ascended. In the ninth year of his reign, King Wu marched eastward to Mengjin, where eight hundred princes formed an alliance. Two years later, hearing of Yin Zhou's increasing tyranny, King Wu led 300 chariots, 3,000 warriors, and 45,000 armored soldiers eastward. At Muye, he swore an oath condemning King Zhou for listening to women, abandoning ancestors, and oppressing the people. Although King Zhou's army numbered 700,000, they had no will to fight and turned their weapons against him. King Zhou fled to the Deer Platform and burned himself to death. King Wu shot arrows at his corpse and beheaded him.
+
+Chunk 11: 
+original: 
+武王已克殷，後二年，问箕子殷所以亡。
+箕子不忍言殷恶，以存亡国宜告。
+武王亦丑，故问以天道。
+武王病。
+天下未集，群公惧，穆卜，周公乃祓斋，自为质，欲代武王，武王有瘳。
+後而崩，太子诵代立，是为成王。
+成王少，周初定天下，周公恐诸侯畔周，公乃摄行政当国。
+管叔、蔡叔群弟疑周公，与武庚作乱，畔周。
+周公奉成王命，伐诛武庚、管叔，放蔡叔。
+以微子开代殷後，国於宋。
+颇收殷馀民，以封武王少弟封为卫康叔。
+晋唐叔得嘉穀，献之成王，成王以归周公于兵所。
+周公受禾东土，鲁天子之命。
+初，管、蔡畔周，周公讨之，三年而毕定，故初作大诰，次作微子之命，次归禾，次嘉禾，次康诰、酒诰、梓材，其事在周公之篇。
+周公行政七年，成王长，周公反政成王，北面就群臣之位。
+translation: 
+Two years after King Wu defeated the Yin Dynasty, he asked Jizi about the reasons for the demise of the Yin Dynasty.
+Jizi couldn't bear to talk about the crimes of the Yin Dynasty, so he told King Wu about the survival of the country.
+King Wu also felt embarrassed, so he turned to Tiandao.
+King Wu was seriously ill.
+At this time, the world was not yet unified, and all the ministers were afraid and performed divination. Therefore, Duke Zhou broke the fast and volunteered to be a substitute, hoping to bear the disaster for King Wu. King Wu's illness gradually improved.
+Later, King Wu died, and Prince Song inherited the throne and became the king.
+When King Cheng was young, Zhou had just brought peace to the world. Duke Zhou was worried that the princes would betray Zhou, so he managed government affairs on behalf of King Cheng and presided over state affairs.
+Uncle Guan, Uncle Cai and other brothers suspected that Duke Zhou had usurped the throne and joined forces with Wu Geng to launch a rebellion and betray Zhou.
+On the orders of King Cheng, Duke Zhou had Wu Geng and Uncle Guan killed, and Uncle Cai was exiled.
+Let Wei Zikai succeed the Yin Dynasty and establish the country in Song Dynasty.
+He also gathered a few remnants of the Yin Dynasty and gave the title to King Wu's younger brother, making him Uncle Wei Kang.
+Uncle Tang of the Jin Dynasty received an auspicious ear of grain and presented it to King Cheng, who then sent it to the garrison of Duke Zhou.
+Duke Zhou received this auspicious ear of grain in the east and praised the emperor's holy mandate to bestow grain.
+At first, Uncle Guan and Uncle Cai rebelled against the Zhou Dynasty, and Duke Zhou went to attack them. It took three years to completely pacify them, so he first wrote the "Great Edict" to explain to the world the principles of the Eastern Conquest to conquer the rebellion; then he wrote "The Order of Wei Zi", sealing the throne. Ming Weizi continued in the Yin Dynasty; he wrote "Guihe" and "Jiahe" to describe and praise the emperor's gift of Jiahe; he wrote "Kanggao", "Jiugao" and "Zicai", ordering Uncle Kang to be conferred in Yin, admonishing him to quit drinking, and teaching him the way of government.
+The history of those events is recorded in "The Family of Dukes of Lu and Zhou". Duke Zhou administered state affairs for seven years, and King Cheng grew up. Duke Zhou returned the political power to King Cheng and returned to the ranks of his ministers.
+
+summary:
+summary line 4: After conquering Yin, King Wu released prisoners, distributed wealth to the poor, repaired Bigan's tomb, and divided feudal territories. He honored descendants of ancient sage kings and granted lands to his brothers and officials. King Wu could not sleep at night, worrying about stabilizing the kingdom. He planned to build Zhou city in Luoyi. Two years after defeating Yin, King Wu fell ill and died. His young son King Cheng ascended, with Duke Zhou acting as regent. Guan Shu and Cai Shu rebelled with Wu Geng, but Duke Zhou suppressed the rebellion, killed Wu Geng and Guan Shu, and exiled Cai Shu.
+
+Chunk 12: 
+original: 
+成王在丰，使召公复营洛邑，如武王之意。
+周公复卜申视，卒营筑，居九鼎焉。
+曰： 此天下之中，四方入贡道里均。
+作召诰、洛诰。
+成王既迁殷遗民，周公以王命告，作多士、无佚。
+召公为保，周公为师，东伐淮夷，残奄，迁其君薄姑。
+成王自奄归，在宗周，作多方。
+既绌殷命，袭淮夷，归在丰，作周官。兴正礼乐，度制於是改，而民和睦，颂声兴。
+成王既伐东夷，息慎来贺，王赐荣伯作贿息慎之命。
+成王将崩，惧太子钊之不任，乃命召公、毕公率诸侯以相太子而立之。
+成王既崩，二公率诸侯，以太子钊见於先王庙，申告以文王、武王之所以为王业之不易，务在节俭，毋多欲，以笃信临之，作顾命。
+太子钊遂立，是为康王。
+康王即位，遍告诸侯，宣告以文武之业以申之，作康诰。
+故成康之际，天下安宁，刑错四十馀年不用。
+康王命作策毕公分居里，成周郊，作毕命。
+康王卒，子昭王瑕立。
+昭王之时，王道微缺。
+昭王南巡狩不返，卒於江上。
+其卒不赴告，讳之也。
+立昭王子满，是为穆王。
+穆王即位，春秋已五十矣。
+王道衰微，穆王闵文武之道缺，乃命伯申诫太仆国之政，作命。
+translation: 
+King Cheng lived in Fengyi and sent Duke Zhao to plan and survey Luoyi again to fulfill King Wu's last wish.
+Zhou Gong once again conducted divination and survey, and finally started construction and placed the Jiuding there.
+He said: This is the center of the world. Tributes come from all directions, and the distance is the same.
+Therefore, he wrote "Zhao Gao" and "Luo Gao".
+King Cheng moved the remnants of the Yin Dynasty there, and Duke Zhou announced to them the order of becoming king, and wrote "Too Shi" and "Wu Yi" to admonish the Yin people.
+Duke Zhao served as the Taibao, and Duke Zhou served as the Grand Master. They attacked Huaiyi in the east, destroyed the country of Yan, and moved their king to Bogu.
+King Cheng came back from the state of Yan and wrote "Duofang" in Zongzhou to warn the princes of the world.
+King Cheng eliminated the remnants of the Yin Dynasty, attacked Huaiyi, returned to Fengyi, and wrote "Zhou Officials", which explained the Zhou Dynasty's method of setting up officials and assigning duties, redefined etiquette, and composed music. At this time, laws and regulations were also revised. The people were harmonious and peaceful, and hymns were rising everywhere.
+After King Cheng conquered Dongyi, Xi Shen came to congratulate him. King Cheng ordered Rong Bo to write "Bring Xi Shen's Order".
+When King Cheng was dying, he was afraid that Prince Zhao would not be able to handle state affairs well, so he ordered Zhao Gong and Bi Gong to lead the princes to assist the prince in making him ascend the throne.
+After the death of King Cheng, Duke Zhao and Duke Bi led the princes to visit the ancestral temple of the late king with Prince Zhao. They used the difficulties of King Wen and King Wu to establish the royal family of the Zhou Dynasty and repeatedly warned the prince, asking him to practice frugality, abstain from greed, and concentrate on managing state affairs. They wrote "Gu Ming" and asked the ministers to assist and care for Prince Zhao.
+Prince Zhao therefore ascended the throne and became King Kang.
+When King Kang came to the throne, he went to all the princes and repeatedly publicized the achievements of King Wen and King Wu, so he wrote the "Kang Gao".
+Therefore, during the reign of King Cheng and Kang, the world was peaceful and punishments were not used for more than forty years.
+King Kang ordered Bi Gong to plan and divide the people's residences and delineate the suburbs of the Zhou capital, so he wrote "Bi Ming".
+After King Kang died, his son King Zhao came to the throne.
+When King Zhao was on the throne, the royal way declined.
+King Zhao failed to return from his hunting tour in the south and died on the river.
+He didn't announce his condolences even after he died, just to hide it.
+So he established King Zhao's son Man, who was King Mu.
+King Mu was already fifty years old when he ascended the throne.
+At that time, kingship was in decline, and King Mu lamented that the virtues of King Wen and King Wu had been damaged, so he ordered Bo Jiu to be a servant and repeatedly warned him to manage the country's political affairs well, and wrote "Zhen Ming".
+
+summary:
+summary line 5: King Cheng and King Kang's reigns saw peace for over forty years without using punishments. The Zhou royal family declined during King Zhao's reign. King Mu, who ascended at age fifty, restored order but foolishly attacked the Quanrong, causing distant states to stop paying tribute. King Li was greedy and tyrannical, suppressing criticism by killing those who spoke out. Duke Zhao warned him that blocking people's mouths was more dangerous than blocking water, but King Li refused to listen. After three years, the people rebelled and King Li fled. The country was governed by two dukes during the Republic period.
+
+Chunk 24: 
+original: 
+石父为人佞巧善谀好利，王用之。
+又废申后，去太子也。
+申侯怒，与缯、西夷犬戎攻幽王。
+幽王举烽火徵兵，兵莫至。
+遂杀幽王骊山下，虏襃姒，尽取周赂而去。
+於是诸侯乃即申侯而共立故幽王太子宜臼，是为平王，以奉周祀。
+平王立，东迁于雒邑，辟戎寇。
+平王之时，周室衰微，诸侯彊并弱，齐、楚、秦、晋始大，政由方伯。
+四十九年，鲁隐公即位。
+五十一年，平王崩，太子洩父蚤死，立其子林，是为桓王。
+桓王，平王孙也。
+桓王三年，郑庄公朝，桓王不礼。
+五年，郑怨，与鲁易许田。
+许田，天子之用事太山田也。
+八年，鲁杀隐公，立桓公。
+十三年，伐郑，郑射伤桓王，桓王去归。
+二十三年，桓王崩，子庄王佗立。
+translation: 
+Guo Shi's father was a eloquent man who liked flattery and was greedy for wealth, but King You put him in high regard.
+In addition, he deposed Empress Shen and removed the prince.
+Marquis Shen was very angry and joined forces with Zhen and Quan Rong, who belonged to Xiyi, to attack King You.
+King You raised beacon fire to recruit the armies of the princes, but none of them came.
+Marquis Shen killed King You at the foot of Mount Li, captured Bao Si, and took away all Zhou's treasures before leaving.
+At that time, all the princes came to Shenhou to jointly establish Yijiu, the prince of the former Youwang, as Pingwang, in order to maintain the Zhou Dynasty's sacrificial tradition.
+King Ping ascended the throne and moved the capital east to Luoyi to avoid the invaders.
+During the reign of King Ping, the Zhou royal family declined, and powerful states annexed weak ones. Qi, Chu, Qin, and Jin began to become powerful, and political orders often came from the hegemonic monarch.
+In the forty-ninth year, Duke Yin of Lu came to the throne.
+In the fifty-first year, King Ping passed away, and the prince's father died early, so he made his son Lin the king, who was King Huan.
+King Huan is the grandson of King Ping.
+In the third year of King Huan's reign, Duke Zhuang of Zheng came to court, but King Huan did not give him any courtesy.
+In the fifth year, Zheng sent Wan to exchange Xu Tian with Lu.
+Xutian is the land used by the emperor to worship Mount Tai.
+In the eighth year, the state of Lu killed Duke Yin and established Duke Huan.
+In the thirteenth year, when Zheng was attacked, Zheng shot and wounded King Huan, and King Huan fled back.
+In the twenty-third year, King Huan died and his son, King Zhuang Tuo, ascended the throne.
+
+summary:
+summary line 6: King Xuan restored Zhou's prestige, but King You foolishly lit beacon fires to amuse his concubine Bao Si, causing the princes to lose trust. He deposed his queen and prince, provoking Marquis Shen to join with Quanrong to attack and kill King You. King Ping moved the capital east to Luoyi. The Zhou royal family declined as powerful states like Qi, Chu, Qin, and Jin grew strong. Over subsequent generations, Zhou kings lost authority, with political orders coming from hegemonic monarchs. Eventually, Qin conquered the Western Zhou, obtaining the sacred nine tripods. Seven years later, Qin destroyed the Eastern Zhou, ending the Zhou Dynasty's sacrificial traditions.
+

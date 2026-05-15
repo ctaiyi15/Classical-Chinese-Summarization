@@ -1,0 +1,271 @@
+Summary uses chunk [0, 0, 5, 26, 26, 26, 27]
+
+Chunk 0: 
+original: 
+董仲舒，广川人也。
+少治《春秋》，孝景时为博士。
+下帷讲诵，弟子传以久次相授业，或莫见其面。
+盖三年不窥园，其精如此。
+进退容止，非礼不行，学士皆师尊之。
+武帝即位，举贤良文学之士前后百数，而仲舒以贤良对策焉。
+制曰： 朕获承至尊休德，传之亡穷，而施之罔极，任大而守重，是以夙夜不皇康宁，永惟万事之统，犹惧有阙。
+故广延四方之豪俊，郡国诸侯公选贤良修洁博习之士，欲闻大道之要，至论之极。
+今子大夫褎然为举首，朕甚嘉之。
+子大夫其精心致思，朕垂听而问焉。
+盖闻五帝三王之道，改制作乐而天下洽和，百王同之。
+当虞氏之乐莫盛于《韶》，于周莫盛于《勺》。
+圣王已没，钟鼓管弦之声未衰，而大道微缺，陵夷至乎桀、纣之行，王道大坏矣。
+夫五百年之间，守文之君，当涂之士，欲则先王之法以戴翼其世者甚众，然犹不能反，日以仆灭，至后王而后止，岂其所持操或誖缪而失其统与？
+translation: 
+Dong Zhongshu is from Guangchuan.
+He studied "Spring and Autumn" when he was young, and became a doctor during the reign of Emperor Jing of Han Dynasty.
+He hung a curtain indoors and sat behind the curtain to give lectures. The disciples who entered the school first taught their studies to those who entered later. Some students had not even seen him.
+Dong Zhongshu didn't look at the garden for three years and studied his knowledge carefully to this extent.
+The bachelors all respected him as their teacher because of his manners and manners when advancing and retreating, and did not do anything that was not in line with etiquette.
+After Emperor Wu of the Han Dynasty succeeded to the throne, he ordered the recommendation of more than 100 virtuous writers. Dong Zhongshu responded to the emperor's policy questions as a virtuous person.
+Emperor Wu of the Han Dynasty asked: I have inherited the highest status and the most beautiful virtues of the late emperor, and they must be passed on forever and extended to the endless future. This task is huge and the duties are important, so I have no time to enjoy and rest from morning to night. I have to think about the whole story for a long time, lest I am not thoughtful.
+Therefore, I widely invite heroes and talents from all over the country, virtuous, virtuous, and knowledgeable talents who are justly selected by governors, kings, and princes. I want to know the outline of the road to governing the country and the highest principles of the theory of peace and security for the people.
+Nowadays, doctors are regarded as the first choice for virtuous people, which I think is very good.
+Doctors should think carefully. What I really want to know and ask is as follows.
+It is said that the way the Five Emperors and Three Kings governed the country was to reform the system and create music, so that the world was stable. Hundreds of subsequent kings also did the same thing.
+The most beautiful music of Yu and Shun was "Shao", and the most beautiful music of Zhou Dynasty was "Shao".
+After the death of the sage king, the sound of bells, drums, and orchestras still existed, but the Great Way declined and gradually deteriorated to the point where Jie and Zhou behaved like that, and the royal way was greatly corrupted.
+In the past five hundred years, the kings and scholars in power who abided by the old system wanted to learn from the legal system of the previous kings to assist the politics of the time, but they were not reversed, and the royal way continued to perish day by day. It was not until the rise of the later kings that this declining trend was stopped. Could it be that what they believe in is wrong and they have lost the tradition of Tao?
+
+summary:
+summary line 0: Dong Zhongshu, a scholar from Guangchuan, studied the "Spring and Autumn" Annals in his youth and became a court academician during Emperor Jing's reign. He lectured from behind a curtain, with senior disciples teaching junior ones, and some students never saw him. He was so devoted to his studies that he did not look at his garden for three years. His dignified conduct earned him the respect of all scholars.
+
+Chunk 0: 
+original: 
+董仲舒，广川人也。
+少治《春秋》，孝景时为博士。
+下帷讲诵，弟子传以久次相授业，或莫见其面。
+盖三年不窥园，其精如此。
+进退容止，非礼不行，学士皆师尊之。
+武帝即位，举贤良文学之士前后百数，而仲舒以贤良对策焉。
+制曰： 朕获承至尊休德，传之亡穷，而施之罔极，任大而守重，是以夙夜不皇康宁，永惟万事之统，犹惧有阙。
+故广延四方之豪俊，郡国诸侯公选贤良修洁博习之士，欲闻大道之要，至论之极。
+今子大夫褎然为举首，朕甚嘉之。
+子大夫其精心致思，朕垂听而问焉。
+盖闻五帝三王之道，改制作乐而天下洽和，百王同之。
+当虞氏之乐莫盛于《韶》，于周莫盛于《勺》。
+圣王已没，钟鼓管弦之声未衰，而大道微缺，陵夷至乎桀、纣之行，王道大坏矣。
+夫五百年之间，守文之君，当涂之士，欲则先王之法以戴翼其世者甚众，然犹不能反，日以仆灭，至后王而后止，岂其所持操或誖缪而失其统与？
+translation: 
+Dong Zhongshu is from Guangchuan.
+He studied "Spring and Autumn" when he was young, and became a doctor during the reign of Emperor Jing of Han Dynasty.
+He hung a curtain indoors and sat behind the curtain to give lectures. The disciples who entered the school first taught their studies to those who entered later. Some students had not even seen him.
+Dong Zhongshu didn't look at the garden for three years and studied his knowledge carefully to this extent.
+The bachelors all respected him as their teacher because of his manners and manners when advancing and retreating, and did not do anything that was not in line with etiquette.
+After Emperor Wu of the Han Dynasty succeeded to the throne, he ordered the recommendation of more than 100 virtuous writers. Dong Zhongshu responded to the emperor's policy questions as a virtuous person.
+Emperor Wu of the Han Dynasty asked: I have inherited the highest status and the most beautiful virtues of the late emperor, and they must be passed on forever and extended to the endless future. This task is huge and the duties are important, so I have no time to enjoy and rest from morning to night. I have to think about the whole story for a long time, lest I am not thoughtful.
+Therefore, I widely invite heroes and talents from all over the country, virtuous, virtuous, and knowledgeable talents who are justly selected by governors, kings, and princes. I want to know the outline of the road to governing the country and the highest principles of the theory of peace and security for the people.
+Nowadays, doctors are regarded as the first choice for virtuous people, which I think is very good.
+Doctors should think carefully. What I really want to know and ask is as follows.
+It is said that the way the Five Emperors and Three Kings governed the country was to reform the system and create music, so that the world was stable. Hundreds of subsequent kings also did the same thing.
+The most beautiful music of Yu and Shun was "Shao", and the most beautiful music of Zhou Dynasty was "Shao".
+After the death of the sage king, the sound of bells, drums, and orchestras still existed, but the Great Way declined and gradually deteriorated to the point where Jie and Zhou behaved like that, and the royal way was greatly corrupted.
+In the past five hundred years, the kings and scholars in power who abided by the old system wanted to learn from the legal system of the previous kings to assist the politics of the time, but they were not reversed, and the royal way continued to perish day by day. It was not until the rise of the later kings that this declining trend was stopped. Could it be that what they believe in is wrong and they have lost the tradition of Tao?
+
+summary:
+summary line 1: When Emperor Wu ascended the throne, he sought virtuous scholars, and Dong Zhongshu responded to the emperor's policy questions. The emperor asked about the principles of governance, the rise and fall of dynasties, and how to achieve harmony between heaven and humanity. He inquired why the virtuous ways of ancient sage kings declined, why disasters occurred, and how to reform governance to bring peace and prosperity.
+
+Chunk 5: 
+original: 
+孔子曰： 君子之德风，小人之德草，草上之风必偃。
+故尧、舜行德则民仁寿，桀、纣行暴则民鄙夭。
+未上之化下，下之从上，犹泥之在钧，唯甄者之所为，犹金之在熔，唯冶者之所铸。 绥之斯俫，动之斯和 ，此之谓也。
+臣谨案《春秋》之文，求王道之端，得之于正。正次王，王次春。
+春者，天之所为也；正者，王之所为也。
+其意曰，上承天之所为，而下以正其所为，正王道之端云尔。
+然则王者欲有所为，宜求其端于天。
+天道之大者在阴阳。阳为德，阴为刑；刑主杀而德主生。
+是故阳常居大夏，而以生育养长为事；阴常居大冬，而积于空虚不用之处。
+以此见天之任德不任刑也。
+天使阳出布施于上而主岁功，使阴入伏于下而时出佐阳；阳不得阴之助，亦不能独成岁。
+终阳以成岁为名，此天意也。
+王者承天意以从事，故任德教而不任刑。
+刑者不可任以治世，犹阴之不可任以成岁也。
+为政而任刑，不顺于天，故先王莫之肯为也。
+今废先王德教之官，而独任执法之吏治民，毋乃任刑之意与！
+孔子曰： 不教而诛谓之虐。
+虐政用于下，而欲德教之被四海，故难成也。
+臣谨案《春秋》谓一元之意，一者万物之所从始也，元者辞之所谓大也。
+谓一为元者，视大始而欲正本也。
+《春秋》深探其本，而反自贵者始。
+故为人君者，正心以正朝廷，正朝廷以正百官，正百官以正万民，正万民以正四方。
+translation: 
+Confucius said: The virtue of a gentleman is like the wind, and the virtue of a villain is like grass. Whichever way the wind blows, the grass will fall.
+Therefore, when Yao and Shun practiced virtuous governance, the people were merciful and long-lived; when Jie and Zhou were tyrannical, the people were greedy and perish.
+The ruler above educates the people below, and the people below obey the ruler above, just like clay placed in a mold and left to be worked by a potter; or like metal placed in a container, left to be cast by a blacksmith. "The Analects of Confucius" says: Make the people stable, and the people will come to obey; make the people inspired, and the people will work together.
+That's what it means. I carefully studied the meaning of "Spring King's first month" in "Spring and Autumn", looking for the beginning of the king's way, and got the correct answer. Zheng is inferior to Wang Wang, and Wang Wang is inferior to Chun.
+Spring is the work of heaven. That’s what the king does.
+It means that when a monarch flatters Heaven above and corrects his own behavior below, this is the beginning of the kingly way.
+However, if a king wants to make a difference, he should ask heaven for this beginning.
+The greatest thing in the way of heaven is yin and yang, yang is the virtue, yin is the punishment, punishment is the main force of killing, and virtue is the main force of life.
+Therefore, Yang is always in the midsummer, taking birth and growth as its own business; Yin is often in the harsh winter, accumulating in empty and ineffective places.
+It can be seen from this that Heaven uses moral education and does not use punishment.
+The angel Yang appears, gives alms above, and is in charge of the harvest of the year; he makes the yin enter, hide below, and often comes out to help the yang; without the help of the yin, the yang cannot complete the years alone.
+From the beginning to the end, Yang is in the name of completing the years. This is God's will.
+The king does things according to the will of God, so he uses moral education instead of punishment.
+Punishment cannot be used to govern society, just as Yin cannot be used to complete the years.
+To use punishment while in power is not to obey the will of heaven, so the former king was not willing to do so.
+Now that the former king's officials in charge of moral education have been abolished, and only law enforcement officials are used to govern the people, is this the original intention of the former king's use of punishment?
+Confucius said: Killing people without education is called tyranny.
+It is difficult to achieve the goal of spreading moral education to the whole world when brutal politics is applied to the lower levels.
+I carefully examine the meaning of "Yi Yuan" in the Spring and Autumn Annals. "Yi Yuan" is the beginning of all things, and "Yi Yuan" is what is said in the vocabulary.
+Saying that one is Yuan shows a big beginning and wants to correct its fundamentals.
+"Spring and Autumn" deeply explores its origin, but it turns out that it starts with noble people.
+Therefore, as a monarch, you must first rectify your heart before you can rectify the court. Only by rectifying the court can you rectify the hundreds of officials. Only by rectifying the hundreds of officials can you rectify the people. Only by rectifying the people can you rectify the four directions.
+
+summary:
+summary line 2: Dong Zhongshu's countermeasure explained that heaven sends disasters to warn rulers of moral failings. He emphasized that diligent study and virtuous conduct are essential for good governance. He argued that ritual and music are tools for education, and that a ruler must first rectify his own heart to rectify the court and the people. He criticized the Qin dynasty for abandoning moral education and relying solely on punishment, leading to its rapid downfall. He urged the Han dynasty to reform its institutions, establish a national university, and promote Confucian education to cultivate virtuous officials.
+
+Chunk 26: 
+original: 
+先是辽东高庙、长陵高园殿灾，仲舒居家推说其意，草稿未上，主父偃候仲舒，私见，嫉之，窃其书而奏焉。
+上召视诸儒，仲舒弟子吕步舒不知其师书，以为大愚。
+于是下仲舒吏，当死，诏赦之，仲舒遂不敢复言灾异。
+仲舒为人廉直。
+是时方外攘四夷，公孙弘治《春秋》不如仲舒，而弘希世用事，位至公卿。
+仲舒以弘为从谀，弘嫉之。
+胶西王亦上兄也，尤纵恣，数害吏二千石。
+弘乃言于上曰： 独董仲舒可使相胶西王。
+胶西王闻仲舒大儒，善待之。
+仲舒恐久获罪，病免。
+凡相两国，辄事骄王，正身以率下，数上疏谏争，教令国中，所居而治。
+及去位归居，终不问家产业，以修学著书为事。
+仲舒在家，朝廷如有大议，使使者及廷尉张汤就其家而问之，其对皆有明法。
+自武帝初立，魏其、武安侯为相而隆儒矣。及仲舒对册，推明孔氏，抑黜百家。
+立学校之官，州郡举茂材孝廉，皆自仲舒发之。
+年老，以寿终于家，家徙茂陵，子及孙皆以学至大官。
+仲舒所著，皆明经术之意，及上疏条教，凡百二十三篇。
+translation: 
+Prior to this, fires broke out successively in the Gaomiao Temple in Liaodong County where emperors of the Han Dynasty worshiped their ancestors, and in the Gaoyuan Hall in Changling, where the emperors of the Han Dynasty worshiped their ancestors. Dong Zhongshu deduced the relationship between fires from heaven and the human world. He wrote the draft of the memorial but did not submit it. The master's father Yan came to visit Dong Zhongshu and read the draft of the memorial in private. He was always jealous of Dong Zhongshu, so he stole the draft of the memorial and handed it to Emperor Wu of the Han Dynasty.
+Emperor Wu of the Han Dynasty summoned many Confucian scholars and asked them to read the draft of Dong Zhongshu's memorial. Dong Zhongshu's student Lu Bushu didn't know that this draft of the memorial was written by his teacher, and thought it was very ignorant.
+So Emperor Wu of the Han Dynasty handed Dong Zhongshu over to the officials for questioning and sentenced him to death. Emperor Wu of the Han Dynasty issued an edict to pardon him. From then on, Dong Zhongshu did not dare to talk about disasters and changes.
+Dong Zhongshu is honest and upright.
+At that time, the Han Dynasty was using troops from surrounding ethnic minorities. Gongsunhong's research on "Gongyang Chunqiu" was not as good as Dong Zhongshu's. However, Gongsunhong catered to the secular world, gained great power, and became a high official.
+Dong Zhongshu thought Gongsun Hong was flattering, but Gongsun Hong hated Dong Zhongshu.
+Liu Duan, the king of Jiaoxi, was also the brother of Emperor Wu of the Han Dynasty. He was particularly indulgent, cruel and arrogant, and repeatedly murdered two thousand stone officials sent by the imperial court.
+Gongsun Hong told Emperor Wu of the Han Dynasty: Only Dong Zhongshu can serve as the king of Jiaoxi.
+King Liu Duan of Jiaoxi heard that Dong Zhongshu was a famous Confucian master and treated him with respect.
+Dong Zhongshu was afraid that he would be punished by accident over time, so he resigned and went home on the grounds of old age and illness.
+Dong Zhongshu served as prime minister of Jiangdu and Jiaoxi, assisting the arrogant princes and kings. He set an example for his subordinates by setting an example for his subordinates. He went to the eunuch many times to give outright advice, and formulated edicts to be implemented in the country. Both Jiangdu and Jiaoxi where he was located were well governed.
+After he resigned from office and returned home, he didn't care about the family property at all. He just immersed himself in reading and writing books.
+Dong Zhongshu was recuperating at home. If the court discussed important issues, it would send envoys and the court official Zhang Tang to his home to ask for his opinions. Dong Zhongshu's answers were all well-founded.
+From the time when Emperor Wu of the Han Dynasty first came to the throne, Wei Qihou Dou Ying and Wu'an Hou Tian successively became prime ministers and began to promote Confucianism. Dong Zhongshu responded by promoting Confucius and suppressing hundreds of schools of thought.
+It was Dong Zhongshu who set up officials to manage schools and recommended talents, filial piety and honesty in the prefectures and counties.
+Dong Zhongshu died at home in old age. Later, his family moved to Maoling County, and his son and grandson became high officials based on their knowledge.
+Dong Zhongshu's works all clarify the purpose of Confucian classics. Together with memorials and teachings, there are a total of 123 works.
+
+summary:
+summary line 3: The emperor, impressed, asked further about the differences between ancient rulers like Yao and Shun, who governed with ease, and King Wen of Zhou, who was constantly busy. Dong Zhongshu explained that the times differed: Yao and Shun inherited a peaceful world, while King Wen faced chaos. He stressed that the essence of governance—benevolence, righteousness, and ritual—remains constant, but methods must adapt to circumstances. He advocated for selecting officials based on merit, not seniority, and for establishing schools to train talent.
+
+Chunk 26: 
+original: 
+先是辽东高庙、长陵高园殿灾，仲舒居家推说其意，草稿未上，主父偃候仲舒，私见，嫉之，窃其书而奏焉。
+上召视诸儒，仲舒弟子吕步舒不知其师书，以为大愚。
+于是下仲舒吏，当死，诏赦之，仲舒遂不敢复言灾异。
+仲舒为人廉直。
+是时方外攘四夷，公孙弘治《春秋》不如仲舒，而弘希世用事，位至公卿。
+仲舒以弘为从谀，弘嫉之。
+胶西王亦上兄也，尤纵恣，数害吏二千石。
+弘乃言于上曰： 独董仲舒可使相胶西王。
+胶西王闻仲舒大儒，善待之。
+仲舒恐久获罪，病免。
+凡相两国，辄事骄王，正身以率下，数上疏谏争，教令国中，所居而治。
+及去位归居，终不问家产业，以修学著书为事。
+仲舒在家，朝廷如有大议，使使者及廷尉张汤就其家而问之，其对皆有明法。
+自武帝初立，魏其、武安侯为相而隆儒矣。及仲舒对册，推明孔氏，抑黜百家。
+立学校之官，州郡举茂材孝廉，皆自仲舒发之。
+年老，以寿终于家，家徙茂陵，子及孙皆以学至大官。
+仲舒所著，皆明经术之意，及上疏条教，凡百二十三篇。
+translation: 
+Prior to this, fires broke out successively in the Gaomiao Temple in Liaodong County where emperors of the Han Dynasty worshiped their ancestors, and in the Gaoyuan Hall in Changling, where the emperors of the Han Dynasty worshiped their ancestors. Dong Zhongshu deduced the relationship between fires from heaven and the human world. He wrote the draft of the memorial but did not submit it. The master's father Yan came to visit Dong Zhongshu and read the draft of the memorial in private. He was always jealous of Dong Zhongshu, so he stole the draft of the memorial and handed it to Emperor Wu of the Han Dynasty.
+Emperor Wu of the Han Dynasty summoned many Confucian scholars and asked them to read the draft of Dong Zhongshu's memorial. Dong Zhongshu's student Lu Bushu didn't know that this draft of the memorial was written by his teacher, and thought it was very ignorant.
+So Emperor Wu of the Han Dynasty handed Dong Zhongshu over to the officials for questioning and sentenced him to death. Emperor Wu of the Han Dynasty issued an edict to pardon him. From then on, Dong Zhongshu did not dare to talk about disasters and changes.
+Dong Zhongshu is honest and upright.
+At that time, the Han Dynasty was using troops from surrounding ethnic minorities. Gongsunhong's research on "Gongyang Chunqiu" was not as good as Dong Zhongshu's. However, Gongsunhong catered to the secular world, gained great power, and became a high official.
+Dong Zhongshu thought Gongsun Hong was flattering, but Gongsun Hong hated Dong Zhongshu.
+Liu Duan, the king of Jiaoxi, was also the brother of Emperor Wu of the Han Dynasty. He was particularly indulgent, cruel and arrogant, and repeatedly murdered two thousand stone officials sent by the imperial court.
+Gongsun Hong told Emperor Wu of the Han Dynasty: Only Dong Zhongshu can serve as the king of Jiaoxi.
+King Liu Duan of Jiaoxi heard that Dong Zhongshu was a famous Confucian master and treated him with respect.
+Dong Zhongshu was afraid that he would be punished by accident over time, so he resigned and went home on the grounds of old age and illness.
+Dong Zhongshu served as prime minister of Jiangdu and Jiaoxi, assisting the arrogant princes and kings. He set an example for his subordinates by setting an example for his subordinates. He went to the eunuch many times to give outright advice, and formulated edicts to be implemented in the country. Both Jiangdu and Jiaoxi where he was located were well governed.
+After he resigned from office and returned home, he didn't care about the family property at all. He just immersed himself in reading and writing books.
+Dong Zhongshu was recuperating at home. If the court discussed important issues, it would send envoys and the court official Zhang Tang to his home to ask for his opinions. Dong Zhongshu's answers were all well-founded.
+From the time when Emperor Wu of the Han Dynasty first came to the throne, Wei Qihou Dou Ying and Wu'an Hou Tian successively became prime ministers and began to promote Confucianism. Dong Zhongshu responded by promoting Confucius and suppressing hundreds of schools of thought.
+It was Dong Zhongshu who set up officials to manage schools and recommended talents, filial piety and honesty in the prefectures and counties.
+Dong Zhongshu died at home in old age. Later, his family moved to Maoling County, and his son and grandson became high officials based on their knowledge.
+Dong Zhongshu's works all clarify the purpose of Confucian classics. Together with memorials and teachings, there are a total of 123 works.
+
+summary:
+summary line 4: In a third response, Dong Zhongshu elaborated on the harmony between heaven and humanity. He argued that heaven's will is reflected in natural phenomena, and rulers must align their actions with it. He criticized the Qin for its harsh laws and urged the Han to adopt the Xia dynasty's emphasis on loyalty to remedy the Zhou's excessive refinement. He proposed banning non-Confucian teachings to unify thought and law.
+
+Chunk 26: 
+original: 
+先是辽东高庙、长陵高园殿灾，仲舒居家推说其意，草稿未上，主父偃候仲舒，私见，嫉之，窃其书而奏焉。
+上召视诸儒，仲舒弟子吕步舒不知其师书，以为大愚。
+于是下仲舒吏，当死，诏赦之，仲舒遂不敢复言灾异。
+仲舒为人廉直。
+是时方外攘四夷，公孙弘治《春秋》不如仲舒，而弘希世用事，位至公卿。
+仲舒以弘为从谀，弘嫉之。
+胶西王亦上兄也，尤纵恣，数害吏二千石。
+弘乃言于上曰： 独董仲舒可使相胶西王。
+胶西王闻仲舒大儒，善待之。
+仲舒恐久获罪，病免。
+凡相两国，辄事骄王，正身以率下，数上疏谏争，教令国中，所居而治。
+及去位归居，终不问家产业，以修学著书为事。
+仲舒在家，朝廷如有大议，使使者及廷尉张汤就其家而问之，其对皆有明法。
+自武帝初立，魏其、武安侯为相而隆儒矣。及仲舒对册，推明孔氏，抑黜百家。
+立学校之官，州郡举茂材孝廉，皆自仲舒发之。
+年老，以寿终于家，家徙茂陵，子及孙皆以学至大官。
+仲舒所著，皆明经术之意，及上疏条教，凡百二十三篇。
+translation: 
+Prior to this, fires broke out successively in the Gaomiao Temple in Liaodong County where emperors of the Han Dynasty worshiped their ancestors, and in the Gaoyuan Hall in Changling, where the emperors of the Han Dynasty worshiped their ancestors. Dong Zhongshu deduced the relationship between fires from heaven and the human world. He wrote the draft of the memorial but did not submit it. The master's father Yan came to visit Dong Zhongshu and read the draft of the memorial in private. He was always jealous of Dong Zhongshu, so he stole the draft of the memorial and handed it to Emperor Wu of the Han Dynasty.
+Emperor Wu of the Han Dynasty summoned many Confucian scholars and asked them to read the draft of Dong Zhongshu's memorial. Dong Zhongshu's student Lu Bushu didn't know that this draft of the memorial was written by his teacher, and thought it was very ignorant.
+So Emperor Wu of the Han Dynasty handed Dong Zhongshu over to the officials for questioning and sentenced him to death. Emperor Wu of the Han Dynasty issued an edict to pardon him. From then on, Dong Zhongshu did not dare to talk about disasters and changes.
+Dong Zhongshu is honest and upright.
+At that time, the Han Dynasty was using troops from surrounding ethnic minorities. Gongsunhong's research on "Gongyang Chunqiu" was not as good as Dong Zhongshu's. However, Gongsunhong catered to the secular world, gained great power, and became a high official.
+Dong Zhongshu thought Gongsun Hong was flattering, but Gongsun Hong hated Dong Zhongshu.
+Liu Duan, the king of Jiaoxi, was also the brother of Emperor Wu of the Han Dynasty. He was particularly indulgent, cruel and arrogant, and repeatedly murdered two thousand stone officials sent by the imperial court.
+Gongsun Hong told Emperor Wu of the Han Dynasty: Only Dong Zhongshu can serve as the king of Jiaoxi.
+King Liu Duan of Jiaoxi heard that Dong Zhongshu was a famous Confucian master and treated him with respect.
+Dong Zhongshu was afraid that he would be punished by accident over time, so he resigned and went home on the grounds of old age and illness.
+Dong Zhongshu served as prime minister of Jiangdu and Jiaoxi, assisting the arrogant princes and kings. He set an example for his subordinates by setting an example for his subordinates. He went to the eunuch many times to give outright advice, and formulated edicts to be implemented in the country. Both Jiangdu and Jiaoxi where he was located were well governed.
+After he resigned from office and returned home, he didn't care about the family property at all. He just immersed himself in reading and writing books.
+Dong Zhongshu was recuperating at home. If the court discussed important issues, it would send envoys and the court official Zhang Tang to his home to ask for his opinions. Dong Zhongshu's answers were all well-founded.
+From the time when Emperor Wu of the Han Dynasty first came to the throne, Wei Qihou Dou Ying and Wu'an Hou Tian successively became prime ministers and began to promote Confucianism. Dong Zhongshu responded by promoting Confucius and suppressing hundreds of schools of thought.
+It was Dong Zhongshu who set up officials to manage schools and recommended talents, filial piety and honesty in the prefectures and counties.
+Dong Zhongshu died at home in old age. Later, his family moved to Maoling County, and his son and grandson became high officials based on their knowledge.
+Dong Zhongshu's works all clarify the purpose of Confucian classics. Together with memorials and teachings, there are a total of 123 works.
+
+summary:
+summary line 5: After his countermeasures, Dong Zhongshu served as prime minister to the King of Jiangdu, advising him with propriety. He later became a palace attendant but was nearly executed after a rival stole a draft of his memorial on disasters. Pardoned, he remained honest and upright. He later served the King of Jiaoxi, but fearing danger, he retired to write. His works, including over 100,000 words on the "Spring and Autumn," clarified Confucian principles. He died at home, and his descendants became high officials.
+
+Chunk 27: 
+original: 
+而说《春秋》事得失，《闻举》、《玉杯》、《蕃露》、《清明》、《竹林》之属，复数十篇，十余万言，皆传于后世。
+掇其切当世施朝廷者著于篇。
+赞曰：刘向称： 董仲舒有王佐之材，虽伊、吕亡以加，管、晏之属，伯者之佐，殆不及也。
+至向子歆以为： 伊、吕乃圣人之耦，王者不得则不兴。
+故颜渊死，孔子曰 噫！
+天丧余。 唯此一人为能当之，自宰我、子赣、子游、子夏不与焉。
+仲舒遭汉承秦灭学之后，《六经》离析，下帷发愤，潜心大业，令后学者有所统壹，为群儒首。
+然考其师友渊源所渐，犹未及乎游、夏，而曰管、晏弗及，伊、吕不加，过矣。
+至向曾孙龚，笃论君子也，以歆之言为然。
+translation: 
+There are dozens of articles explaining the gains and losses of the "Spring and Autumn" records, as well as "Wen Ju", "Jade Cup", "Fan Dew", "Qingming" and "Bamboo Forest", with more than 100,000 words, all of which have been passed down to later generations.
+I selected the content that is relevant to today's society and the imperial court and wrote it in the article.
+Praising day: Liu Xiang praised: Dong Zhongshu has the ability to be an assistant to the king. Even Yi Yin and Lu Wang cannot surpass him. Guan Zhong and Yan Ying are the assistants of the overlord, so I am afraid they are not as good as him.
+Liu Xiang's son Liu Xin believed that Yi Yin and Lu Wang were the companions of a saint, and a king could not rise without them.
+So when Yan Yuan died, Confucius said, "Oh!"
+Heaven destroys me. Only Yan Yuan can compare with Yi Yin and Lu Wang. As for Zai Wo, Zigong, Ziyou, Zixia and others, they cannot be included in the ranks of saints.
+After the Western Han Dynasty succeeded the Qin Dynasty and the burning of scholarship, Dong Zhongshu's "Six Classics" fell apart. So he put down his work and devoted himself to studying Confucian classics, which enabled later scholars to have a systematic and consistent understanding of Confucianism and became the leader of the group of Confucian scholars.
+However, when examining the origins of his mentors and friends and looking at their influence on each other, Dong Zhongshu could not catch up with Zi You and Zi Xia, but it is wrong to say that Guan Zhong and Yan Ying were not as good as him, and Yi Yin and Lu Wang were not as good as him.
+Liu Xiang's great-grandson Liu Gong is a gentleman who is good at commenting on figures. He believes that Liu Xin's evaluation of Dong Zhongshu is appropriate.
+
+summary:
+summary line 6: Liu Xiang praised Dong Zhongshu as a king's assistant, comparable to Yi Yin and Lu Wang, surpassing Guan Zhong and Yan Ying. However, Liu Xiang's son Liu Xin argued that Dong, while a leader among Confucians after the Qin's destruction of texts, could not match Yi Yin or Lu Wang, though he was greater than Guan Zhong and Yan Ying. Liu Xin's view was later deemed accurate.
+

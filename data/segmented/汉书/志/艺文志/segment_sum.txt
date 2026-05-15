@@ -1,0 +1,1620 @@
+Summary uses chunk [0, 1, 2, 4, 6, 7, 10, 11, 12, 13, 16, 26, 22, 24, 25, 26, 26, 27, 29, 29, 40, 31, 36, 40, 41, 42, 43, 44, 45, 46, 47, 46, 48, 46, 16, 50]
+
+Chunk 0: 
+original: 
+昔仲尼没而微言绝，七十子丧而大义乖。
+故《春秋》分为五，《诗》分为四，《易》有数家之传。
+战国从衡，真伪分争，诸子之言纷然殽乱。
+至秦患之，乃燔灭文章，以愚黔首。
+汉兴，改秦之败，大收篇籍，广开献书之路。
+迄孝武世，书缺简脱，礼坏乐崩，圣上喟然而称曰： 朕甚闵焉！
+于是建藏书之策，置写书之官，下及诸子传说，皆充秘府。
+至成帝时，以书颇散亡，使谒者陈农求遗书于天下。
+诏光禄大夫刘向校经传诸子诗赋，步兵校尉任宏校兵书，太史令尹咸校数术，侍医李柱国校方技。
+每一书已，向辄条其篇目，撮其指意，录而奏之。
+会向卒，哀帝复使向子侍中奉车都尉歆卒父业。
+translation: 
+Since the death of Confucius, the subtle words have been discontinued. After the death of the Seventy Disciples, differences emerged in the interpretation of the essentials of the classics.
+Therefore, the interpretation of "Spring and Autumn" is divided into five schools: "Zuo Shi Zhuan", "Gong Yang Zhuan", "Gu Liang Zhuan", "Zou Shi Zhuan" and "Jia Shi Zhuan".
+During the Warring States Period, when the vertical and horizontal alliances were formed, there were endless debates about authenticity, and various schools of thought? Kun is confused.
+When Qin Shihuang became afraid of this situation, they burned articles to fool the people.
+After the establishment of the Han Dynasty, the shortcomings of the Qin Dynasty were eliminated, books and articles were collected on a large scale, and channels for donating books were opened up.
+By the time of Emperor Xiaowu, the writing was incomplete, the bamboo slips fell off, the etiquette was destroyed, and the music and rituals were destroyed. The emperor sighed and said: I feel very sad about these things!
+So a collection of books was established, officials were appointed to copy the books, and all the legends of the scholars were enriched in the secret palace.
+When he became emperor, the loss of books was so severe that he sent an emissary to collect scattered books from all over the world.
+Liu Xiang, the official of Guanglu, was ordered to pass down the classics and poems of various scholars, the infantry captain Ren Hong was ordered to study military books, Taishi was ordered to compile books on astronomy and calendars, and Li Zhu, the medical attendant, was ordered to study medicine.
+Every time he finished proofreading a book, Liu Xiang cataloged it, summarized its main idea, recorded it and presented it to the emperor.
+When Liu Xiang died, Emperor Ai sent Liu Xiang's son Liu Xin, the captain of the chariot service, to complete his father's work. Liu Xin then summarized all the books and presented "Seven Strategies" to the emperor.
+
+summary:
+summary line 0: Since the death of Confucius, the subtle words of the classics have been discontinued, and after the passing of his Seventy Disciples, divergent interpretations emerged. The "Spring and Autumn Annals" was divided into five schools: Zuo Shi, Gong Yang, Gu Liang, Zou Shi, and Jia Shi. During the Warring States period, debates over authenticity proliferated, and various schools of thought became confused. Qin Shihuang, fearing this chaos, burned books to deceive the people. After the Han Dynasty was established, the shortcomings of the Qin were eliminated, and a large-scale collection of books was initiated, opening channels for donations. By the time of Emperor Xiaowu, texts were incomplete, bamboo slips had fallen apart, and rituals were destroyed. The emperor lamented this and established a repository for books, appointing officials to copy them, enriching the secret palace with the teachings of scholars. Under Emperor Cheng, the loss of books was severe, so emissaries were sent to collect scattered texts. Liu Xiang was ordered to collate classics and poems, while others studied military books, astronomy, and medicine. After each proofreading, Liu Xiang cataloged the books, summarized their main ideas, and presented them to the emperor. Upon Liu Xiang's death, Emperor Ai sent his son Liu Xin to complete the work, who then compiled the "Seven Strategies," including summaries of the Six Arts, various schools, poetry, military strategy, numerology, and prescriptions.
+
+Chunk 1: 
+original: 
+歆于是总群书而奏其《七略》，故有《辑略》，有《六艺略》，有《诸子略》，有《诗赋略》，有《兵书略》，有《术数略》，有《方技略》。
+今删其要，以备篇辑。《易经》十二篇，施、孟、梁丘三家。
+字王孙也。
+《服氏》二篇。
+《杨氏》二篇。
+名何，字叔元，菑川人。
+《蔡公》二篇。
+卫人，事周王孙。
+《韩氏》二篇。
+名婴。
+《王氏》二篇。
+名同。
+《丁氏》八篇。
+名宽，字子襄，梁人也。
+《古五字》十八篇。
+自甲子至壬子，说《易》阴阳。
+《淮南道训》二篇。
+淮南王安聘明《易》者九人，号九师说。
+《古杂》八十篇，《杂灾异》三十五篇，《神输》五篇，图一。
+《孟氏京房》十一篇，《灾异孟氏京房》六十六篇，五鹿充宗《略说》三篇，《京氏段嘉》十二篇。
+《章句》施、孟、梁丘氏各二篇。
+凡《易》十三家，二百九十四篇。
+《易》曰： 宓戏氏仰观象于天，俯观法于地，观鸟兽之文，与地之宜，近取诸身，远取诸物，于是始作八卦，以通神明之德，以类万物之情。
+至于殷、周之际，纣在上位，逆天暴物，文王以诸侯顺命而行道，天人之占可得而效，于是重《易》六爻，作上下篇。
+孔氏为之《彖》、《象》、《系辞》、《文言》、《序卦》之属十篇。
+故曰《易》道深矣，人更三圣，世历三古。
+及秦燔书，而《易》为筮卜之事，传者不绝。
+汉兴，田何传之。
+讫于宣、元，有施、孟、梁丘、京氏列于学官，而民间有费、高二家之说，刘向以中《古文易经》校施、孟、梁丘经，或脱去 无咎 、 悔亡 ，唯费氏经与古文同。
+translation: 
+Therefore, there is "Ji Lue", "Six Arts Lue", "Zhuzi Lue", "Poems and Fu Lue", "Military Strategy", "Shu Shu Lue", and "Fang Ji Lue". Now delete the redundant parts and keep only the essential ones.
+In order to make the collected books more complete. There are twelve chapters in the "Book of Changes", including Shi, Meng and Luanqiu.
+"Zhou Yi Zhuan" is a series of chapters. Zhou's surname is Wangsun.
+Two chapters of "Fu Shi Yi Zhuan".
+Two chapters of "Yang's Yi Zhuan".
+Yang's name is Shuyuan, and he is from Miaochuan.
+Two chapters of "The Biography of Cai Gongyi".
+Duke Cai was a native of Wei and served King Jue of Zhou.
+Two chapters of "Han's Yi Zhuan".
+Han's famous baby.
+Two chapters of "Wang's Yi Zhuan".
+Wang's name is the same.
+Eight chapters of "Yi Zhuan of Ding Family".
+Chang's family name is Kuan, whose courtesy name is Zixiang. He is a native of Liang.
+Eighteen chapters of "Yizhuan of the Ancient Five Sons".
+From Jiazi to Renzi, discuss the yin and yang of "Yi".
+Two chapters of "Huainan Taoism".
+King Liu An of Huainan hired nine people who understood "Yi", known as the Nine Masters Theory.
+Eighty chapters of "Ancient Miscellaneous", thirty-five chapters of "Miscellaneous Miscellaneous Disasters", five chapters of "Shenshu", and one picture.
+Eleven chapters of "Meng's Jingfang", sixty-six chapters of "Disastrous Meng's Jingfang", three chapters of "Brief Introduction" of Wulu Chongzong, and twelve chapters of "Jingshi Duanjia".
+"Book of Changes" contains two chapters each by Shi, Meng and Liangqiu.
+There are a total of thirteen schools of interpretation of "The Book of Changes", with 294 chapters.
+"Yi" says: Fuxi looked up at the sky, looked down at the geography, observed the patterns and colors of birds and animals, and the adaptability of the land. He took the near ones from his own body, and the far ones from all things, and then created them; in order to understand the virtues of the gods and imitate the temperament of all things.
+During the Yin and Zhou Dynasties, King Zhou was on the throne and violated the will of heaven and destroyed all things. King Wen, as a prince, obeyed the destiny of heaven and followed the way of heaven. The predictions of heaven and man could be obtained and manifested, so he overlapped the six lines of "Yi" and wrote the first and second chapters of Ding.
+Confucius wrote a total of ten chapters such as "彖", "Xiang", "Xici", "Wenyan", and "Xugua".
+Therefore, the principles of "Yi" are very profound. It has experienced three generations of saints: Fuxi, King Wen, and Confucius, and has experienced three ancient eras: upper, middle, and lower.
+When Qin Shihuang burned books. Because the Book of Changes talks about divination, there are many people who teach it.
+After the establishment of Qin Shihuang, Tian He taught "Yi".
+By the time of Emperor Xuan and Emperor Yuan, those who taught "Yi" by Shi, Meng, Liangqiu and Jing were included in the government-taught studies, while among the people there were two schools of thought, Jiezhi and Gaoxiang. Liu Xiang used the ancient "Book of Changes" in his palace to compile the Shi, Mencius and Liangqiu scriptures. Some places were omitted, such as "no blame" and "regret for death". Only Fei's scripture was the same as the ancient scriptures.
+
+summary:
+summary line 1: The "Book of Changes" has twelve chapters, with interpretations by Shi, Meng, and Liangqiu, among others. Thirteen schools of interpretation exist, totaling 294 chapters. The "Yi" states that Fuxi created the trigrams by observing heaven, earth, and all things. During the Yin and Zhou dynasties, King Wen, as a prince, followed heaven's will and wrote the judgments. Confucius added ten chapters, such as "Tuan" and "Xiang." The principles of "Yi" are profound, spanning three sages and three ancient eras. When Qin Shihuang burned books, the "Yi" survived due to its divinatory nature. After the Han, Tian He taught it, and by Emperor Xuan and Yuan, schools like Shi, Meng, and Liangqiu were officially taught, while Fei's version matched the ancient text.
+
+Chunk 2: 
+original: 
+《尚书古文经》四十六卷。
+为五十七篇。
+《经》二十九卷。
+大、小夏侯二家。
+《欧阳经》三十二卷。
+《传》四十一篇。
+《欧阳章句》三十一卷。
+大、小《夏侯章句》各二十九卷。
+大、小《夏侯解故》二十九篇。《欧阳说义》二篇。
+刘向《五行传记》十一卷。
+许商《五行传记》一篇。
+《周书》七十一篇。
+周史记。
+《议奏》四十二篇。
+宣帝时石渠论。
+凡《书》九家，四百一十二篇。
+入刘向《稽疑》一篇。
+《易》曰： 河出图，洛出书，圣人则之。
+故《书》之所起远矣，至孔子纂焉，上断于尧，下讫于秦，凡百篇，而为之序，言其作意。
+秦燔书禁学，济南伏生独壁藏之。
+汉兴亡失，求得二十九篇，以教齐鲁之间。
+讫孝宣世，有《欧阳》、《大小夏侯氏》，立于学官。
+translation: 
+Forty-six volumes of "Shangshu Ancient Classics".
+Fifty-seven articles.
+Twenty-nine volumes of the Sutra.
+There are two families, Da Xiahou and Xiao Xiahou.
+"Ouyang Jing" has thirty-two volumes.
+"Biography" forty-one.
+Volume 31 of "Ouyang Zhangju".
+There are twenty-nine volumes of "Zhangju" of the big and small Xiahou each.
+There are twenty-nine chapters in "Jiegu" written by the great and small Xiahou. Two chapters of "Ouyang's Theory of Meaning".
+Liu Xiang's "Five Elements Biography" in eleven volumes.
+An article from Xu Shang's "Five Elements Biography".
+"Book of Zhou" Chapter 71.
+Recorded by Zhou Dynasty historians.
+"Discussion" forty-two chapters.
+It was a discussion in Shiqu during the reign of Emperor Xuan.
+There are nine kinds of works on "Shangshu", totaling 412 articles.
+Added the "Ji Sui" article about blood types.
+"Yi" says: The dragon and horse from the Yellow River came out carrying the river diagram, the divine turtle from the Luo River came out carrying the red text Yuan characters on its back, Fuxi and Dayu drew the Bagua diagrams according to the pictures and texts.
+Therefore, the origin of "Shangshu" is very old. It was compiled and revised by Confucius, starting from Yao and ending with Qin. There are a hundred chapters in total. He also wrote a preface to it to explain his intention in writing.
+Qin Shihuang burned books and banned learning, and Fu Sheng of Jinan hid them in the wall alone.
+By the time the Han Dynasty was established, most of them were lost, and only twenty-nine chapters were found, which were used to preach among the Cha and the fortresses.
+By the time of Emperor Xuan of the Han Dynasty, there were "Ouyang" and "Xiahou Clan", which were established in the official academy.
+
+summary:
+summary line 2: The "Shangshu" has forty-six volumes of ancient classics and fifty-seven articles. It was compiled by Confucius, starting from Yao and ending with Qin, totaling a hundred chapters. During the Qin burning, Fu Sheng hid it in a wall, and only twenty-nine chapters survived. By Emperor Xuan, Ouyang and Xiahou schools were established. The "Guwen Shangshu" was found in the wall of Confucius's residence, with sixteen more chapters than the original. Kong Anguo dedicated it to the emperor, but it was not included in the official curriculum due to witchcraft incidents. Liu Xiang used the ancient text to correct the Ouyang and Xiahou versions, finding missing slips and over 700 variant characters.
+
+Chunk 4: 
+original: 
+《齐孙氏故》二十七卷。
+《齐后氏传》三十九卷。
+《齐孙氏传》二十八卷。
+《齐杂记》十八卷。
+《韩故》三十六卷。
+《韩内传》四卷。
+《韩外传》六卷。
+《韩说》四十一卷。
+《毛诗》二十九卷。
+《毛诗故训传》三十卷。
+凡《诗》六家，四百一十六卷。
+《书》曰： 诗言志，歌咏言。
+故哀乐之心感，而歌咏之声发。
+诵其言谓之诗，咏其声谓之歌。
+故古有采诗之官，王者所以观风俗，知得失，自考正也。
+孔子纯取周诗，上采殷，下取鲁，凡三百五篇，遭秦而全者，以其讽诵，不独在竹帛故也。
+汉兴，鲁申公为《诗》训故，而齐辕固、燕韩生皆为之传。
+或取《春秋》，采杂说，咸非其本义。
+与不得已，鲁最为近之。
+三家皆列于学官。
+translation: 
+Twenty-seven volumes of "The Story of the Qi Sun Family".
+Thirty-nine volumes of "The Biography of Empress Qi".
+Twenty-eight volumes of "The Biography of the Qi Sun Family".
+"Qi Za Ji" eighteen volumes.
+"Han Gu" thirty-six volumes.
+"Inner Biography of Korean Poetry" in four volumes.
+"Han Shi Wai Zhuan" six volumes.
+Volume 41 of "Han Shuo".
+Twenty-nine volumes of "Mao Shi".
+Thirty volumes of "The Biography of Mao's Poems".
+There are six works on the Book of Songs, with 416 volumes.
+"Book" says: Poetry expresses aspirations, and songs express words.
+Therefore, if there is a feeling of sorrow and joy in the heart, there will be a voice of singing.
+If it is expressed in language, it is called a horse poem, and if it is expressed in singing, it is called a song.
+Therefore, in ancient times, there were officials who collected poems, and kings used them to observe customs and understand political gains and losses, and then reviewed and corrected them themselves.
+Confucius selected Zhou poems, from the Yin Dynasty to the Lu Kingdom, a total of 305 poems. Although it has experienced the burning of books by Qin Shihuang, it can still be preserved because it is a satirical poem and can be recited, and it is not spread by words alone.
+After the establishment of the Han Dynasty, Duke Shen of Lu provided explanations for the "Poetry". Yuan Gu of Qi State and Han Sheng of Yan State both provided explanations for "Poetry".
+Some of them are taken from "Spring and Autumn" and adopted from the miscellany of others, but they are not the original meaning of "Poetry".
+If you have to use "Shi" as a last resort, only Lu's "Shi" is closest to the original meaning of "Shi".
+All three are listed as schools.
+
+summary:
+summary line 3: The "Book of Songs" has twenty-eight volumes from Lu, Qi, and Han schools, with Mao's version adding thirty volumes. Confucius selected 305 poems from the Zhou dynasty, which survived the Qin burning due to their oral transmission. After the Han, Duke Shen of Lu, Yuan Gu of Qi, and Han Sheng of Yan provided explanations, but only Lu's version was closest to the original meaning. Mao Gong's teachings, claimed to be from Zixia, were favored by King Xian of Hejian but not officially taught.
+
+Chunk 6: 
+original: 
+而帝王质文世有损益，至周曲为之防，事为之制，故曰： 礼经三百，威仪三千。
+及周之衰，诸侯将逾法度，恶其害己，皆灭去其籍，自孔子时而不具，至秦大坏。
+汉兴，鲁高堂生传《士礼》十七篇。
+讫孝宣世，后仓最明。
+戴德、戴圣、庆普皆其弟子，三家立于学官。
+《礼古经》者，出于鲁淹中及孔氏，与十七篇文相似，多三十九篇。
+及《明堂阴阳》、《王史氏记》所见，多天子、诸侯、卿、大夫之制，虽不能备，犹瘉仓等推《士礼》而致于天子之说。
+《乐记》二十三篇。
+《王禹记》二十四篇。
+《雅歌诗》四篇。
+《雅琴赵氏》七篇。
+名定，勃海人，宣帝时丞相魏相所奏。
+《雅琴师氏》八篇。
+名中，东海人，传言师旷后。
+《雅琴龙氏》九十九篇。
+名德，梁人。
+凡《乐》六家，百六十五篇。
+出淮南刘向等《琴颂》七篇。
+translation: 
+However, the simplicity and literary talent of the emperors increased and decreased from generation to generation. By the Zhou Dynasty, the regulations were extremely detailed and everything had to be systematic. Therefore, it is said that there are three hundred items in the Book of Rites and three thousand details in etiquette.
+After the decline of the Zhou Dynasty, the princes went beyond the restrictions of etiquette and laws, disliked etiquette and laws as being detrimental to themselves, and abandoned them and destroyed them. By the time of Confucius, it was not complete, and by the time of Qin, it was even more damaged.
+In the Han Dynasty, Gaotangsheng of Lu State taught seventeen chapters of "Shili".
+By the time of Emperor Xiaoxuan, Houcang was the clearest.
+Dade, Dai Sheng, and Qingpu were all his students, and all three were listed in the school.
+"The Ancient Book of Rites" appeared in the Yanzhong and Kong family of Lu State. It is similar to the seventeen articles, but has thirty-nine more articles.
+As for what we can see in "Mingtang Yin Yang" and "Wang Shishi Ji", most of them are the system of the emperor's princes, ministers and officials. Although it cannot be detailed, it still has more theories than Houcang and others deduced from "Shili" and presented to the emperor.
+Twenty-three chapters of "Le Ji".
+Twenty-four chapters of "The Records of Wang Yu".
+Four Psalms of Song of Songs.
+Seven chapters of "Yaqin Zhaoshi".
+The name Zhao was from Bohai, and was given by Wei Xiang, the prime minister during the reign of Emperor Xuan.
+Eight chapters of "Yaqin Shishi".
+Shi's name is from Shuhai, and it is said that he is a descendant of Shi Kuang.
+Ninety-nine chapters of "Yaqin Longshi".
+Long's name is De, and he is a native of Liang.
+"Le" has six families and one hundred and sixty-five articles.
+Seven "Ode to the Qin" by Huainan Sudi and others were extracted.
+
+summary:
+summary line 4: The "Ancient Book of Rites" has fifty-six volumes, with seventeen chapters in the classic. Schools include Hou and Taiwu. Confucius's disciples recorded 131 chapters of records. The Zhou dynasty's rituals were detailed, but after its decline, princes abandoned them. In the Han, Gaotangsheng taught seventeen chapters of "Shili," and Houcang became prominent. The "Ancient Book of Rites" from the Kong family had thirty-nine more articles than the seventeen, covering systems of emperors and officials.
+
+Chunk 7: 
+original: 
+《易》曰： 先王作乐崇德，殷荐之上帝，以享祖考。
+故自黄帝下至三代，乐各有名。
+孔子曰： 安上治民，莫善于礼；移风易俗，莫善于乐。
+二者相与并行。
+周衰俱坏，乐尤微眇，以音律为节，又为郑、卫所乱，故无遗法。
+汉兴，制氏以雅乐声津，世在乐宫，颇能纪其铿锵鼓舞，而不能言其义。
+六国之君，魏文侯最为好古，孝文时得其乐人窦公，献其书，乃《周官·大宗伯》之《大司乐》章也。
+武帝时，河间献王好儒，与毛生等共采《周官》及诸子言乐事者，以作《乐记》，献八佾之舞，与制氏不相远。
+其内史丞王定传之，以授常山王禹。
+禹，成帝时为谒者，数言其义，献二十四卷记。
+translation: 
+"Yi" says: The previous emperors made music to uphold morality and solemnly offered sacrifices to heaven to worship their ancestors.
+Therefore, from the time of the Yellow Emperor to the third generation, music had its own name.
+Confucius said: To stabilize a country and govern the people, there is nothing better than propriety; to change customs, there is nothing better than music.
+Ritual and music complement each other.
+After the decline of the Zhou Dynasty, both etiquette and music were destroyed. The principles of music are particularly exquisite, because its rhythm is based on the temperament, and it was disturbed by the sounds of Zheng and Wei, so there are no inherited rules.
+After the establishment of the Han Dynasty, the Zhi family believed that elegant music rhythms had been played by music officials for generations, and they could quite remember some of the sonorous and inspiring syllables of music, but they could not tell its meaning.
+Among the monarchs of the Six Kingdoms, Wei Wenhou admired ancient music the most. When Emperor Xiaowen was emperor, he got his musician Dou Gong and presented his book, which is "Zhou Guan." Chapter "Da Si Yue" in "Da Zong Bo".
+During the reign of Emperor Wu, King Xian of Hejian was fond of Confucianism. Together with Mao Sheng and others, he collected the music-discussing parts of "Zhou Guan" and the theories of various scholars, and wrote "Yue Ji", which presented the Eight-Yen Dance, which was not far from the same as Zhi's.
+Wang Ding, the Prime Minister of Internal History, taught "Yue Ji" and gave it to Wang Yu of Changshan.
+When Wang Yu became emperor, he served as a visitor officer. He discussed its significance several times and presented twenty-four volumes of records.
+
+summary:
+summary line 5: Music, with six schools and 165 articles, was used by ancient emperors to uphold morality. After the Zhou decline, both ritual and music were destroyed. In the Han, the Zhi family preserved some rhythms but not their meaning. King Xian of Hejian collected music discussions and wrote "Yue Ji," presenting the Eight-Yen Dance. Wang Yu taught it and presented twenty-four volumes, but Liu Xiang's version differed, and this knowledge declined.
+
+Chunk 10: 
+original: 
+以鲁周公之国，礼文备物，史官有法，故与左丘明观其史记，据行事，仍人道，因兴以立功，就败以成罚，假日月以定历数，借朝聘以正礼乐。
+有所褒讳贬损，不可书见，口授弟子，弟子退而异言。
+丘明恐弟子各安其意，以失其真，故论本事而作传，明夫子不以空言说经也。
+《春秋》所贬损大人当世君臣，有威权势力，其事实皆形于传，是以隐其书而不宣，所以免时难也。
+及未世口说流行，故有《公羊》、《穀梁》、《邹》、《夹》之《传》。
+四家之中，《公羊》、《穀梁》立于学官，邹氏无师，夹氏未有书。
+《论语》古二十一篇。
+出孔子壁中，两《子张》。
+《齐》二十二篇。
+多《问王》、《知道》。
+《鲁》二十篇，《传》十九篇。
+《齐说》二十九篇。
+translation: 
+Because the state of Lu was a feudal state of Zhou Gong, with complete etiquette and literature, and the historians had laws, Zuo Qiu Ming was allowed to read their historical records. According to what they did and in accordance with humanity, achievements were used to establish rewards, failures were punished, the sun and the moon were used to determine the time of solar terms, and the princes met with the emperor to correct rituals and music.
+There are hidden and derogatory things that cannot be seen in books, so they are taught to the disciples orally. When the disciples go back, what they say will be different from each other.
+Zuo Qiuming was afraid that his disciples would each follow their own opinions and lose the true meaning, so he studied the original facts and explained them. Changming Confucius did not use empty words to explain the scriptures.
+The contemporary monarchs and ministers derogated by "Spring and Autumn" had authority and power, and their affairs were written into the explanation. Therefore, the book was hidden and not publicized to avoid the disaster at that time.
+When people's oral traditions became popular in the last days, there were legends of "Gongyang", "Guliang", "Zou" and "Jia".
+Among these four, "Gongyang Zhuan" and "Gu Liang Zhuan" were listed in the royal school for explanation. The Zou family had no teachers, and the Jia family had no books.
+Twenty-one ancient articles in "The Analects of Confucius".
+From the wall of Confucius' family, there are two chapters of "Zi Zhang".
+Twenty-two chapters of "The Analects of Qi".
+There are many chapters on "Ask the King" and "Know".
+Twenty chapters of "The Analects of Lu" and nineteen chapters of "Biography".
+Twenty-nine chapters of "The Analects of Confucius Qi Shuo".
+
+summary:
+summary line 6: The "Spring and Autumn Annals" has twelve chapters, with two families: Gongyang and Haosui. Zuo Qiuming, the Taishi of Lu, wrote thirty volumes of commentary. Other commentaries include Gongyang, Guliang, Zou, and Jia, though the latter two had no books. The "Spring and Autumn" was used to record kings' actions, with left historians recording words and right historians recording deeds. After the Zhou decline, Confucius used Lu's records to compile the annals, and Zuo Qiuming explained the facts to preserve the true meaning.
+
+Chunk 11: 
+original: 
+《鲁夏侯说》二十一篇。
+《鲁安昌侯说》二十一篇。
+《鲁王骏说》二十篇。
+《燕传说》三卷。
+《议奏》十八篇。
+石渠论。
+《孔子家语》二十七卷。
+《孔子三朝》七篇。
+《孔子徒人图法》二卷。
+凡《论语》十二家，二百二十九篇。
+《论语》者，孔子应答弟子时人及弟子相与言而接闻于夫子之语也。
+当时弟子各有所记。
+夫子既卒，门人相与辑而论纂，故谓之《论语》。
+汉兴，有齐、鲁之说。
+传《齐论》者，昌邑中尉王吉、少府宋畸、御史大夫贡禹、尚书令五鹿充宗、胶东庸生，唯王阳名家。
+传《鲁论语》者，常山都尉龚奋、长信少府夏侯胜、丞相韦贤、鲁扶卿、前将军萧望之、安昌侯张禹，皆名家。
+张氏最后而行于世。
+《孝经古孔氏》一篇。
+二十二章。
+《孝经》一篇。
+十八章。
+translation: 
+Twenty-one chapters of "The Theory of Marquis of Lu Xia".
+Twenty-one chapters of "The Story of Marquis Chang of Lu'an".
+Twenty chapters of "Shuo of Lu Wangjun".
+Three volumes of "The Legend of Yan".
+Eighteen chapters of "Discussions".
+It was Shiqu Pavilion's discussion.
+Twenty-seven volumes of "Confucius' Family Sayings".
+Seven chapters of "Three Dynasties of Confucius".
+Volume 2 of "Confucius' Disciple Shortlisting Method".
+There are twelve authors in the Analects of Confucius category, with 229 articles.
+The Analects of Confucius is a book that records Confucius' answers to his disciples' questions from time to time, as well as his disciples' questions and answers to each other.
+At that time, the disciples each recorded Confucius's words and deeds.
+After Zizi died, his disciples collected and wrote down each other, so it was called "The Analects of Confucius".
+After the establishment of the Han Dynasty, there were two books: The Analects of Qi and The Analects of Lu.
+Among those who taught "The Analects of Qi" were Changyi Lieutenant Wang Ji, Shaofu Song Ji, Yushi Dafu Genyu, Shangshu Ling Wulu Chongzong, Miaojie Yongsheng, etc., only Wang Bao was a famous scholar.
+Those who taught "The Analects of Lu" include Baoshan Captain Gong Fen, Danzhi Shaofu Xia Baocheng, Prime Minister Tong Xian, Long Dieqing, former general Xiao Wangzhi, and Anchang Hou Zhang Yu, all of whom were famous.
+Zhang Dan is at the end, so he is popular in the world.
+An article from "The Classic of Filial Piety".
+There are twenty-two chapters.
+An article from "The Classic of Filial Piety".
+There are eighteen chapters.
+
+summary:
+summary line 7: The "Analects of Confucius" has twenty-one ancient articles from Confucius's wall, twenty-two from Qi, and twenty from Lu. It records Confucius's answers to disciples and their discussions. After his death, disciples compiled it. In the Han, Qi and Lu versions were taught, with notable scholars like Wang Ji and Zhang Yu.
+
+Chunk 12: 
+original: 
+长孙氏、江氏、后氏、翼氏四家。
+《长孔氏说》二篇。
+《江氏说》一篇。
+《翼氏说》一篇。
+《后氏说》一篇。
+《杂传》四篇。
+《安昌侯说》一篇。
+《五经杂议》十八篇。
+石渠论。
+《尔雅》三卷二十篇。
+《小尔雅》一篇，《古今字》一卷。
+《弟子职》一篇。
+《说》三篇。
+凡《孝经》十一家，五十九篇。
+《孝经》者，孔子为曾子陈孝道也。
+夫孝，天之经，地之义，民之行也。
+举大者言，故曰《孝经》。
+汉兴，长孙氏、博士江翁、少府后仓、谏大夫翼奉、安昌侯张禹传之，各自名家。
+经文皆同，唯孔氏壁中古文为异。 父母生之，续莫大焉 ， 故亲生之膝下 ，诸家说不安处，古文字读皆异。
+《史籀》十五篇。
+周宣王太史作大篆十五篇，建武时亡六篇矣。
+《八体六技》。
+《苍颉》一篇。
+translation: 
+It is divided into four families: Changsun family, Jiang family, Houdi family and Chenghui family.
+Two chapters of "The Book of Filial Piety, Changsun's Theory".
+An article from "Jiang's Theory of Xiaojing".
+An article from "The Theory of Filial Piety by Yishi".
+An article from "The Theory of Filial Piety by Hou Shi".
+"Miscellaneous Biography" four articles.
+An article from "Anchang Hou Shuo".
+Eighteen chapters of "Miscellaneous Comments on the Five Classics".
+It was Shi Quwen's discussion.
+"Erya" has three volumes and twenty chapters.
+One chapter of "Xiao Er Ya" and one volume of "Ancient and Modern Characters".
+An article titled "Discipleship".
+"Shuo" three chapters.
+There are eleven books and fifty-nine articles in the "Book of Filial Piety" category.
+"The Classic of Filial Piety" is a work by Confucius explaining filial piety to Zengzi.
+Filial piety is a matter of course and something that everyone should do.
+From a large perspective, it is called "The Classic of Filial Piety".
+In the Han Dynasty, there were Changsun family, Dr. Jiang Weng, Shaofu Houcang, Jian Dafu Yifeng, and Anchang Hou Zhang Yu who taught the "Book of Filial Piety", each of which formed its own family.
+The scriptures of each school are the same, only the ancient texts in Kong's wall are different. Born to parents, there is no way to continue, so the two sentences are not suitable for each family, and the words and sentences in ancient Chinese are different.
+Fifteen chapters of "Shi Zhou".
+The child laborer Taishi wrote fifteen large seal scripts. Six articles were lost during the Jianwu period.
+"Eight Body and Six Skills".
+An article from "Cangjie".
+
+summary:
+summary line 8: The "Classic of Filial Piety" has one article, with twenty-two chapters in the ancient version and eighteen in the modern. It was taught by families like Changsun and Jiang. Confucius explained filial piety to Zengzi, and it was considered a universal duty.
+
+Chunk 13: 
+original: 
+上七章，秦丞相李斯作；《爰历》六章，车府令赵高作；《博学》七章，太史令胡母敬作。
+《凡将》一篇。
+司马相如作。
+《急就》一篇。
+元帝时黄门令史游作。
+《元尚》一篇。
+成帝时将作大匠李长作。
+《训纂》一篇。
+扬雄作。
+《别字》十三篇。
+《苍颉传》一篇。
+扬雄《苍颉训纂》一篇。
+杜林《苍颉训纂》一篇。
+杜林《苍颉故》一篇。
+凡小学十家，四十五篇。
+入扬雄、杜林二家二篇。
+《易》曰： 上古结绳以治，后世圣人易之以书契，百官以治，万民以察，盖取诸《夬》。
+夬，扬于王庭 ，言其宣扬于王者朝廷，其用最大也。
+古者八岁入小学，故《周官》保氏掌养国子，教之六书，谓象形、象事、象意、象声、转注、假借，造字之本也。
+汉兴，萧何草律，亦著其法，曰： 太史试学童，能讽书九千字以上，乃得为史。
+translation: 
+The first seven chapters were written by Li Si, the prime minister of Qin; the sixth chapter of "Yuanli" was written by Zhao Gao, the order of Qin Chefu; the seventh chapter of "Bo Xue" was written by Hu Mujing, the order of Taishi.
+An article titled "Every General".
+Made by Sima Xiangru.
+"Emergency" article.
+It was written by Shi You of the Huangmen Order during the reign of Emperor Yuan.
+An article from "Yuan Shang".
+When he became emperor, it was made by Li Chang, a great craftsman.
+An article in "Training and Compilation".
+Written by Yang Xiong.
+Thirteen chapters of "Biuzi".
+An article from "The Biography of Cangjie".
+An article from Yang Xiong's "Cang Jie Xun Compilation".
+An article from Du Lin's "Compilation of Cangjie Training".
+Du Lin's "The Story of Cangjie".
+There are ten schools of philology with forty-five articles.
+Added two chapters by Yang Xiong and Du Lin.
+"Book of Changes" says: In ancient times, knotted ropes were used to record events. Later generations of saints used words to record events. Officials used them to manage affairs, and all the people used them to distinguish things. This is all based on the "Yang" hexagram among the sixty-four hexagrams in the "Book of Changes".
+Central is used to decide things in the royal court, which means that it can be promoted in the king's court and is of greatest use.
+In ancient times, people entered primary school at the age of eight, so Bao Shi in "Zhou Guan" was in charge of educating the sons of the monarch and taught them six books, namely, pictogram, pictogram, pictogram, onomatopoeia, Zhuanzhu, and pretense, which are the basis of character creation.
+After the establishment of the Han Dynasty, Xiao He created the laws and regulations, and also wrote this article, saying: Only those who can recite a book of more than 9,000 words among the students in the Taishi Examination can become historians.
+
+summary:
+summary line 9: Philology includes fifteen chapters of "Shi Zhou" and works like "Cangjie" by Li Si. The six scripts—ancient, odd, seal, clerical, Miao, and insect—were used to understand characters. After the Han, Xiao He required officials to recite 9,000 words. Yang Xiong and Du Lin expanded these works, totaling 102 chapters.
+
+Chunk 16: 
+original: 
+六艺之文：《乐》以和神，仁之表也；《诗》以正言，义之用也；《礼》以明体，明者著见，故无训也；《书》以广听，知之术也；《春秋》以断事，信之符也。
+五者，盖五常之道，相须而备，而《易》为之原。
+故曰 《易》不可见，则乾坤或几乎息矣 ，言与天地为终始也。
+至于五学，世有变改，犹五行之更用事焉。
+古之学者耕且养，三年而通一艺，存其大体，玩经文而已，是故用日少而畜德多，三十而五经立也。
+后世经传既已乖离，博学者又不思多闻阙疑之义，而务碎义逃难，便辞巧说，破坏形体；说五字之文，至于二三万言。
+后进弥以驰逐，故幼童而守一艺，白首而后能言；安其所习，毁所不见，终以自蔽。
+此学者之大患也。
+序六艺为九种。
+《晏子》八篇。
+名婴，谥平仲，相齐景公，孔子称善与人交，有《列传》。
+《子思》二十三篇。
+名伋，孔子孙，为鲁缪公师。
+translation: 
+"Spring and Autumn" is used to judge and deal with problems, and is a sign of credibility.
+This book embodies benevolence, righteousness, propriety, wisdom, and faith, which complement each other and are indispensable, and the "Yi" is its origin.
+Therefore, if the meaning of "Yi" is not known, then the universe will almost come to an end. This means that the same heaven and earth share the same end.
+As for the five learnings, they change from generation to generation, just like the five elements act alternately.
+Ancient scholars cultivated while cultivating, and mastered a skill in three years, retaining its general content and studying the scriptures. Therefore, they spent less time and accumulated more virtues. Menstruation will be cleared at the age of thirty-five.
+The scriptures and biographies of later generations have been contradictory to each other, and the learned people do not think about the meaning of listening and being suspicious, but pursue to use fragmented and eccentric meanings to avoid the questioning of others, far-fetched and clever explanations, destroying the shape of the text; explanatory articles of five characters can reach 20,000 to 30,000 words.
+Later people competed with each other, so young children clung to one art and could not talk about it until their hair turned gray. By settling for what he has learned and denigrating what he has not seen, he ultimately deceives himself.
+This is a serious problem for scholars.
+In summary, the six arts are divided into nine types.
+"Yan Zi" eight chapters.
+Yanzi's name was Ying, Mi Pingzhong, and he was the prime minister of Qi Jinggong. King Kong praised him for being good at interacting with people. His "Biographies" are included in "Historical Records".
+"Yu Si" twenty-three chapters.
+Zisi, whose name was Ji, was the grandson of Confucius and the teacher of Duke Mu of Lu.
+
+summary:
+summary line 10: The Six Arts have 103 schools and 3,123 articles. They embody benevolence, righteousness, propriety, wisdom, and faith, with "Yi" as their origin. Ancient scholars mastered one skill in three years, but later generations fragmented the classics, with five-character explanations reaching 20,000 to 30,000 words, leading to confusion.
+
+Chunk 26: 
+original: 
+孔子曰： 必也正名乎！
+名不正则言不顺，言不顺则事不成。
+此其所长也。
+及譥者为之，则苟钩鈲鋠析乱而已。《尹佚》二篇。
+周臣，在成、康时也。
+《田俅子》三篇。
+先韩子。《我子》一篇。
+《随巢子》六篇。
+墨翟弟子。《胡非子》三篇。
+墨翟弟子。《墨子》七十一篇。
+名翟，为宋大夫，在孔子后。
+右墨六家，八十六篇。
+墨家者流，盖出于清庙之守。
+茅屋采椽，是以贵俭；养三老五更，是以兼爱；选士大射，是以上贤；宗祀严父，是以右鬼；顺四时而行，是以非命；以孝视天下，是以上同；此其所长也。
+及蔽者为之，见俭之利，因以非礼，推兼爱之意，而不知别亲疏。
+《苏子》三十一篇。
+名秦，有《列传》。
+《张子》十篇。
+名仪，有《列传》。
+translation: 
+Confucius said: We must correct our status!
+If the name is not correct, then the words will not make sense, and if the words do not make sense, the things will not work.
+This is their strength.
+When those who specialize in revealing other people's secrets come to engage in celebrity activities, it will only add to the chaos. Two chapters of "Yin Yi".
+The author was a minister of the Zhou Dynasty, a native of King Cheng and Kang Gongshi.
+Three chapters of "Tian Qiu Zi".
+Earlier than Han Fei. The article "My Son".
+Six chapters of "Sui Chao Zi".
+Sui Chaozi is Mo Zhai's student. Three chapters of "Hu Feizi".
+Hu Feizi was a student of Mo Zhai. "Mozi" seventy-one chapters.
+Mozi's name was Zhai, and he was a great official in the Song Dynasty, after the time of Confucius.
+The above six kinds of Mohist works, totaling eighty-six articles.
+Mohist theory originated from the officials who guarded the ancestral temple.
+This kind of people live in thatched houses with oak wood rafters, so they advocate frugality; they support three elders and five watchers, so they are philanthropic; they select scholars to perform archery ceremonies, so they respect the virtuous; they offer sacrifices to their ancestors and respect their fathers, so they are superstitious about ghosts and gods; they follow the four seasons, so they do not believe in fate; they use filial piety to show the world, so they seek the same from others. This is their strength.
+But in this regard, a fool will oppose etiquette for the sake of frugality, and promote fraternity, but do not know how to distinguish between closeness and distance.
+"Su Zi" thirty-one.
+Su Zi's name is Qin, and there is "Biography" in "Historical Records".
+Ten chapters of "Zhang Zi".
+Zhang Zi's name is Yi, and there is "Biography" in "Historical Records".
+
+summary:
+summary line 11: Confucian schools, with 53 works and 836 chapters, originated from officials of enlightenment. They study the Six Classics and follow Yao, Shun, and Confucius. However, later scholars lost the subtlety, fragmenting the Five Classics.
+
+Chunk 22: 
+original: 
+《黄帝四经》四篇。
+《黄帝铭》六篇。
+《黄帝君臣》十篇。
+起六国也，与《老子》相似也。
+《杂黄帝》五十八篇。
+六国时贤者所作。
+《力牧》二十二篇。
+六国时所作，托之力牧。
+力牧，黄帝相。《孙子》十六篇。
+六国时。
+《捷子》二篇。
+齐人，武帝时说。
+《曹羽》二篇。
+楚人，武帝时说于齐王。
+《郎中婴齐》十二篇。
+武帝时。
+《臣君子》二篇。
+蜀人。
+《郑长者》一篇。
+六国时。
+先韩子，韩子称之。
+《楚子》三篇。
+《道家言》二篇。
+近世，不知作者。
+右道三十七家，九百九十三篇。
+道家者流，盖出于史官，历记成败存亡祸福古今之道，然后知秉要执本，清虚以自守，卑弱以自持，此君人南面之术也。
+translation: 
+Four chapters of the "Four Classics of the Yellow Emperor".
+Six chapters of "Huang Di Ming".
+Ten chapters of "The Yellow Emperor's Rulers and Ministers".
+It originated from the Six Kingdoms period and is similar to "Laozi".
+Fifty-eight chapters of "Zahuangdi".
+Made by the wise men of the Six Kingdoms period.
+Twenty-two chapters of "Li Mu".
+It was made by people from the Six Kingdoms and was named Lisi.
+Lisi is the appearance of a child. "Sun Tzu" sixteen chapters.
+Written during the Six Kingdoms period.
+"Jiezi" two chapters.
+Jiezi was a native of Qi State, and his remarks were made during the reign of Emperor Wu.
+"Cao Yu" two chapters.
+Feng Yu was a native of the Chu State, and was the king of Qi who came to the throne during the reign of Emperor Wu.
+Twelve chapters of "Lang Zhong Ying Qi".
+Written during the reign of Emperor Wu.
+Two chapters of "Chen Junzi".
+I am a native of Shu County.
+An article from "Elder Zheng".
+It was written during the Six Kingdoms Period.
+Earlier than Han Zi, King Han Ji had praised him.
+Three chapters of Chuzi.
+Two chapters of "Taoist Statements".
+From modern times, author unknown.
+There are thirty-seven Taoist works mentioned above, totaling nine hundred and ninety-three articles.
+The Taoist school should have evolved from historians. Taoist writings record the success, failure, survival, misfortune and blessings of the past dynasties. However, being able to adhere to the essentials, purify nothingness to maintain self-morality, and be humble and weak to protect oneself is the art of kingly rule.
+
+summary:
+summary line 12: Taoist schools, with 37 works and 993 articles, originated from historians. They record successes and failures, emphasizing purity and humility. Abusers abandon etiquette and benevolence.
+
+Chunk 24: 
+original: 
+汉制，似贾谊所条。
+《周伯》十一篇。
+齐人，六国时。《卫侯官》十二篇。
+近世，不知作者。
+于长《天下忠臣》九篇。
+平阴人，近世。《公孙浑邪》十五篇。
+平曲侯。
+《杂阴阳》三十八篇。
+不知作者。
+右阴阳二十一家，三百六十九篇。
+阴阳家者流，盖出于羲和之官，敬顺昊天，历象日月星辰，敬授民时，此其所长也。
+及拘者为之，则牵于禁忌，泥于小数，舍人事而任鬼神。
+《李子》三十二篇。
+名悝，相魏文侯，富国强兵。
+《商君》二十九篇。
+名鞅，姬姓，卫后也，相秦孝公，有《列传》。
+《申子》六篇。
+名不害，京人，相韩昭侯，终其身诸侯不敢侵韩。
+《处子》九篇。
+《慎子》四十二篇。
+名到，先申、韩，申、韩称之。
+《韩子》五十五篇。
+名非，韩诸公子，使秦，李斯害而杀之。
+translation: 
+The description is of Han system and seems to have been made by Mai Yi.
+"Zhou Bo" eleven chapters.
+Author: Itachi is a fish man from the wall fish era. Twelve chapters of "Marquis of Wei".
+Modern work, author unknown.
+Wang Zhou's "Loyal Ministers of the World" contains nine chapters.
+Wang Zhou was a native of Wangkang, and wrote fifteen chapters of "Gongsun Hunxie" in modern times.
+Gongsun Hunxie is on patrol.
+Thirty-eight chapters of "Miscellaneous Yin and Yang".
+Author unknown.
+There are twenty-one types of Yin-Yang family mentioned above, and three hundred and sixty-nine articles.
+The Yin-Yang school is an official of astronomy and calendar. They respect heaven, observe and calculate the movement of the sun, moon and stars, and carefully tell the people the time for farming. This is their strength.
+When strict people practice it, they will be constrained by taboos, stick to small skills, give up human affairs, and engage in superstitious ghosts and gods.
+"Plum" thirty-two chapters.
+Li Zi, named Kui, was the prime minister of Marquis Wen of Wei, and advocated the theory of making the country rich and its military strong.
+Twenty-nine chapters of "Shang Jun".
+Shang Jun's name was Yang Yang and his surname was Ji. He was a descendant of Wei State and the prime minister of Duke Xiao of Qin. There is a "Biography" in "Historical Records".
+"Shenzi" six chapters.
+Shen Zi's name is not harmful. He was from Jingdi and was the prime minister of Han Zhaohou. During his lifetime, the princes did not dare to invade Zhou Lei.
+"Virgin" nine chapters.
+"Shenzi" forty-two chapters.
+Shenzi became famous before Shen Buhai and Han Fei, and was praised by Shen Buhai and Han Fei.
+Fifty-five chapters of "Han Zi".
+Han Ziming Fei, a young master from South Korea, went on a mission to Qin. Li Si was jealous of him and killed him.
+
+summary:
+summary line 13: Yin-Yang schools, with 21 works and 369 articles, originated from astronomers. They respect heaven and calculate movements, but strict practitioners become constrained by taboos.
+
+Chunk 25: 
+original: 
+《游棣子》一篇。
+《晁错》三十一篇。
+《燕十事》十篇。
+不知作者。《法家言》二篇。
+不知作者。
+右法十家，二百一十七篇。
+法家者流，盖出于理官。信赏必罚，以辅礼制。
+《易》曰 先王以明罚饬法 ，此其所长也。
+及刻者为之，则无教化，去仁爱，专任刑法而欲以致治，至于残害至亲，伤恩薄厚。
+《邓析》二篇。
+郑人，与子产并时。
+《尹文子》一篇。
+说齐宣王。
+先公孙龙。
+《公孙龙子》十四篇。
+赵人。
+《成公生》五篇。
+与黄公等同时。
+《惠子》一篇。
+名施，与庄子并时。
+《黄公》四篇。
+名疵，为秦博士，作歌诗，在秦时歌诗中。
+《毛公》九篇。
+赵人，与公孙龙等并游平原君赵胜家。
+右名七家，三十六篇。
+名家者流，盖出于礼官。
+古者名位不同，礼亦异数。
+translation: 
+An article from "You Dizi".
+"Chao Cuo" thirty-one.
+Ten chapters of "Ten Things about Yan".
+Author unknown. Two chapters of "Legal Statements".
+Author unknown.
+The above ten types of legalist works, totaling 217 articles.
+The Legalist school, which originated from judges, advocates that those who have meritorious services must be rewarded and those who are guilty must be punished, and it uses criminal law to assist the etiquette system.
+"Book of Changes" says that the previous kings used strict punishments to rectify the legal system. This was their strength.
+When a mean person comes to enforce it, don't teach, give up benevolence, and only enforce punishment in the hope of achieving peace, even to the point of harming your loved ones and repaying kindness with hatred.
+Two chapters of "Deng Analysis".
+A native of Zheng, at the same time as Zichan.
+An article from "Yi Wenzi".
+Lobbyed King Xuan of Qi.
+Compared with Gongsun Long's era
+Fourteen chapters of "Gongsun Longzi".
+Gongsun Longzi was a native of Shaguo.
+Five chapters of "Cheng Gongsheng".
+The same era as Dong Gong and others.
+"Huizi" an article.
+The name of the cutting is Shi, which is the same as the king of stems.
+Four chapters of "Huang Gong".
+Huang Gongmingzhi was a doctor in the Qin Dynasty. He composed songs and poems, and his works are among the songs and poems at the time of painting.
+Nine chapters of "Mao Gong".
+Mao Gong was a native of Tongguo, and he went to Luojiudiejiji's home with Gongsun Long and others at the same time.
+There are seven kinds of works by the above famous writers, thirty-six articles.
+The famous school originated from the Li Palace.
+In ancient times, different statuses led to different etiquette.
+
+summary:
+summary line 14: Legalist schools, with 10 works and 217 articles, originated from judges. They reward merit and punish guilt, but mean people abandon benevolence.
+
+Chunk 26: 
+original: 
+孔子曰： 必也正名乎！
+名不正则言不顺，言不顺则事不成。
+此其所长也。
+及譥者为之，则苟钩鈲鋠析乱而已。《尹佚》二篇。
+周臣，在成、康时也。
+《田俅子》三篇。
+先韩子。《我子》一篇。
+《随巢子》六篇。
+墨翟弟子。《胡非子》三篇。
+墨翟弟子。《墨子》七十一篇。
+名翟，为宋大夫，在孔子后。
+右墨六家，八十六篇。
+墨家者流，盖出于清庙之守。
+茅屋采椽，是以贵俭；养三老五更，是以兼爱；选士大射，是以上贤；宗祀严父，是以右鬼；顺四时而行，是以非命；以孝视天下，是以上同；此其所长也。
+及蔽者为之，见俭之利，因以非礼，推兼爱之意，而不知别亲疏。
+《苏子》三十一篇。
+名秦，有《列传》。
+《张子》十篇。
+名仪，有《列传》。
+translation: 
+Confucius said: We must correct our status!
+If the name is not correct, then the words will not make sense, and if the words do not make sense, the things will not work.
+This is their strength.
+When those who specialize in revealing other people's secrets come to engage in celebrity activities, it will only add to the chaos. Two chapters of "Yin Yi".
+The author was a minister of the Zhou Dynasty, a native of King Cheng and Kang Gongshi.
+Three chapters of "Tian Qiu Zi".
+Earlier than Han Fei. The article "My Son".
+Six chapters of "Sui Chao Zi".
+Sui Chaozi is Mo Zhai's student. Three chapters of "Hu Feizi".
+Hu Feizi was a student of Mo Zhai. "Mozi" seventy-one chapters.
+Mozi's name was Zhai, and he was a great official in the Song Dynasty, after the time of Confucius.
+The above six kinds of Mohist works, totaling eighty-six articles.
+Mohist theory originated from the officials who guarded the ancestral temple.
+This kind of people live in thatched houses with oak wood rafters, so they advocate frugality; they support three elders and five watchers, so they are philanthropic; they select scholars to perform archery ceremonies, so they respect the virtuous; they offer sacrifices to their ancestors and respect their fathers, so they are superstitious about ghosts and gods; they follow the four seasons, so they do not believe in fate; they use filial piety to show the world, so they seek the same from others. This is their strength.
+But in this regard, a fool will oppose etiquette for the sake of frugality, and promote fraternity, but do not know how to distinguish between closeness and distance.
+"Su Zi" thirty-one.
+Su Zi's name is Qin, and there is "Biography" in "Historical Records".
+Ten chapters of "Zhang Zi".
+Zhang Zi's name is Yi, and there is "Biography" in "Historical Records".
+
+summary:
+summary line 15: Famous schools, with 7 works and 36 articles, originated from ritual officials. They correct names, but those who reveal secrets cause chaos.
+
+Chunk 26: 
+original: 
+孔子曰： 必也正名乎！
+名不正则言不顺，言不顺则事不成。
+此其所长也。
+及譥者为之，则苟钩鈲鋠析乱而已。《尹佚》二篇。
+周臣，在成、康时也。
+《田俅子》三篇。
+先韩子。《我子》一篇。
+《随巢子》六篇。
+墨翟弟子。《胡非子》三篇。
+墨翟弟子。《墨子》七十一篇。
+名翟，为宋大夫，在孔子后。
+右墨六家，八十六篇。
+墨家者流，盖出于清庙之守。
+茅屋采椽，是以贵俭；养三老五更，是以兼爱；选士大射，是以上贤；宗祀严父，是以右鬼；顺四时而行，是以非命；以孝视天下，是以上同；此其所长也。
+及蔽者为之，见俭之利，因以非礼，推兼爱之意，而不知别亲疏。
+《苏子》三十一篇。
+名秦，有《列传》。
+《张子》十篇。
+名仪，有《列传》。
+translation: 
+Confucius said: We must correct our status!
+If the name is not correct, then the words will not make sense, and if the words do not make sense, the things will not work.
+This is their strength.
+When those who specialize in revealing other people's secrets come to engage in celebrity activities, it will only add to the chaos. Two chapters of "Yin Yi".
+The author was a minister of the Zhou Dynasty, a native of King Cheng and Kang Gongshi.
+Three chapters of "Tian Qiu Zi".
+Earlier than Han Fei. The article "My Son".
+Six chapters of "Sui Chao Zi".
+Sui Chaozi is Mo Zhai's student. Three chapters of "Hu Feizi".
+Hu Feizi was a student of Mo Zhai. "Mozi" seventy-one chapters.
+Mozi's name was Zhai, and he was a great official in the Song Dynasty, after the time of Confucius.
+The above six kinds of Mohist works, totaling eighty-six articles.
+Mohist theory originated from the officials who guarded the ancestral temple.
+This kind of people live in thatched houses with oak wood rafters, so they advocate frugality; they support three elders and five watchers, so they are philanthropic; they select scholars to perform archery ceremonies, so they respect the virtuous; they offer sacrifices to their ancestors and respect their fathers, so they are superstitious about ghosts and gods; they follow the four seasons, so they do not believe in fate; they use filial piety to show the world, so they seek the same from others. This is their strength.
+But in this regard, a fool will oppose etiquette for the sake of frugality, and promote fraternity, but do not know how to distinguish between closeness and distance.
+"Su Zi" thirty-one.
+Su Zi's name is Qin, and there is "Biography" in "Historical Records".
+Ten chapters of "Zhang Zi".
+Zhang Zi's name is Yi, and there is "Biography" in "Historical Records".
+
+summary:
+summary line 16: Mohist schools, with 6 works and 86 articles, originated from temple officials. They advocate frugality and fraternity, but fools oppose etiquette.
+
+Chunk 27: 
+original: 
+《庞爰》二篇。
+为燕将。
+《阙子》一篇。
+《国筮子》十七篇。
+《秦零陵令信》一篇。
+难秦相李斯。《蒯子》五篇。
+名通。
+《邹阳》七篇。
+《主父偃》二十八篇。
+《徐氏》一篇。
+《庄安》一篇。
+《待诏金马聊苍》三篇。
+赵人，武帝时。
+右从横十二家，百七篇。
+从横家者流，盖出于行人之官。
+孔子曰： 诵《诗》三百，使于四方，不能颛对，虽多亦奚以为？
+又曰： 使乎，使乎！
+言其当权事制宜，受命而不受辞。此其所长也。
+及邪人为之，则上诈谖而弃其信。
+孔甲《盘盂》二十六篇。
+黄帝之史，或曰夏帝孔甲，似皆非。
+《大禹》三十七篇。
+传言禹所作，其文似后世语。
+《五子胥》八篇。
+名员，春秋时为吴将，忠直遇谗死。
+《子晚子》三十五篇。
+translation: 
+Two chapters of "Pang Nuan".
+Pang Nuan is a general of Yan State.
+An article from "Que Zi".
+Seventeen chapters of "Guozhenzi".
+An article from "Lingling Lingxin" of Taizhou Zhou Dynasty.
+Prime Minister Kuiqian questioned Tongyu. Five chapters of Kuai Zi.
+Kuaizi Mingtong.
+"Zou Yang" seven chapters.
+Twenty-eight chapters of "Zhufuyan".
+An article from "Xu Le".
+An article from "Zhuang An".
+Three chapters of "Wai Shao Jin Ma Liao Cang Cang".
+Liao Cang is a native of Tong country, who lived during the reign of Emperor Wu.
+The above 12 strategists have written 107 articles.
+The school of political strategists should come from officials who receive distinguished guests.
+Confucius said: If you have recited three hundred poems and sent envoys to various places, you cannot respond randomly. No matter how many poems you recite, what is the use?
+And he said: Messenger, messenger!
+It means that messengers should weigh things, act according to circumstances, and accept missions but not words. This is their strength.
+When evil people come to do it, they will focus on deception and abandon integrity.
+Kong Jia's "Pan Yu" contains twenty-six chapters.
+Kong Jia was the historian of the Yellow Emperor. Some say it was Kong Jia, the emperor of Xia, but neither seems sure.
+Thirty-seven chapters of "Yu".
+According to legend, it was written by Dayu, and his writing seems to be the language of later generations.
+Eight chapters of "Wu Zixu".
+Wu Zixu, a famous member, was a general of Wu State in the Spring and Autumn Period. He was loyal and upright, but he died of slander and persecution.
+Thirty-five chapters of "Ziwanzi".
+
+summary:
+summary line 17: Strategist schools, with 12 works and 107 articles, originated from officials receiving guests. They weigh circumstances, but evil people focus on deception.
+
+Chunk 29: 
+original: 
+兼儒、墨，合名、法，知国体之有此，见王治之无不贯，此其所长也。
+及荡者为之，则漫羡而无所归心。《神农》二十篇。
+六国时，诸子疾时怠于农业，道耕农事，托之神农。《野老》十七篇。
+六国时，在齐、楚间。
+《宰氏》十七篇。
+不知何世。
+《董安国》十六篇。
+汉代内史，不知何帝时。
+《尹都尉》十四篇。
+不知何世。
+《赵氏》五篇。
+不知何世。
+《汜胜之》十八篇。
+成帝时为议郎。
+《王氏》六篇。
+不知何世。《蔡癸》一篇。
+宣帝时，以言便宜，至弘农太守。
+右农九家，百一十四篇。
+农家者流，盖出于农稷之官。
+播百谷，劝耕桑，以足衣食，故八政一曰食，二曰货。
+孔子曰 所重民食 ，此其所长也。
+及鄙者为之，以为无所事圣王，欲使君臣并耕，誖上下之序。
+translation: 
+They have both Confucianism and Mohism, integrate names and laws, understand these schools and schools in the national system, and foresee that there is no incomprehension in governing the country. This is their strength.
+When indulgent people come to participate, they will be boundless and have nothing to rely on. Twenty chapters of "Shen Nong".
+In the era of ruined countries, scholars hated the slackness of agriculture in the world, so they relied on locusts to guide farming and agriculture. Seventeen chapters of "Ye Lao".
+Works from the era of national destruction, between Cha and Chu.
+"Zaishi" seventeen chapters.
+I don’t know what era Zai Shi was from.
+"Dong Anguo" sixteen chapters.
+The internal historian of the Han Dynasty was from the reign of an unknown emperor.
+Fourteen chapters of "Captain Yin".
+I don’t know which generation they are from.
+Five chapters of "Tangshi".
+I don’t know what era he is from.
+Eighteen chapters of "Si Sheng Zhi".
+When he became emperor, he was Yilang.
+"Wang's" six chapters.
+I don’t know what era he is from. An article from "Cai Gui".
+During the reign of Emperor Xuan, it was because of stating interests. Official to Honglu Prefecture.
+There are nine kinds of agricultural works mentioned above, totaling 114 articles.
+The peasant school should have originated from officials in charge of agriculture.
+Sowing hundreds of grains, devoted to farming and sericulture, in order to enrich clothing and food, so the first of the eight policies is food, and the second is goods.
+Confucius said that what matters most is the food of the people, and this is their strength.
+When despicable people came to take charge of this matter, they thought that there was no need to serve the holy king and wanted the king and his ministers to work together, thus disrupting the order of the upper and lower levels.
+
+summary:
+summary line 18: Miscellaneous schools, with 20 works and 403 articles, originated from officials discussing affairs. They integrate Confucianism, Mohism, names, and laws, but indulgent people become boundless.
+
+Chunk 29: 
+original: 
+兼儒、墨，合名、法，知国体之有此，见王治之无不贯，此其所长也。
+及荡者为之，则漫羡而无所归心。《神农》二十篇。
+六国时，诸子疾时怠于农业，道耕农事，托之神农。《野老》十七篇。
+六国时，在齐、楚间。
+《宰氏》十七篇。
+不知何世。
+《董安国》十六篇。
+汉代内史，不知何帝时。
+《尹都尉》十四篇。
+不知何世。
+《赵氏》五篇。
+不知何世。
+《汜胜之》十八篇。
+成帝时为议郎。
+《王氏》六篇。
+不知何世。《蔡癸》一篇。
+宣帝时，以言便宜，至弘农太守。
+右农九家，百一十四篇。
+农家者流，盖出于农稷之官。
+播百谷，劝耕桑，以足衣食，故八政一曰食，二曰货。
+孔子曰 所重民食 ，此其所长也。
+及鄙者为之，以为无所事圣王，欲使君臣并耕，誖上下之序。
+translation: 
+They have both Confucianism and Mohism, integrate names and laws, understand these schools and schools in the national system, and foresee that there is no incomprehension in governing the country. This is their strength.
+When indulgent people come to participate, they will be boundless and have nothing to rely on. Twenty chapters of "Shen Nong".
+In the era of ruined countries, scholars hated the slackness of agriculture in the world, so they relied on locusts to guide farming and agriculture. Seventeen chapters of "Ye Lao".
+Works from the era of national destruction, between Cha and Chu.
+"Zaishi" seventeen chapters.
+I don’t know what era Zai Shi was from.
+"Dong Anguo" sixteen chapters.
+The internal historian of the Han Dynasty was from the reign of an unknown emperor.
+Fourteen chapters of "Captain Yin".
+I don’t know which generation they are from.
+Five chapters of "Tangshi".
+I don’t know what era he is from.
+Eighteen chapters of "Si Sheng Zhi".
+When he became emperor, he was Yilang.
+"Wang's" six chapters.
+I don’t know what era he is from. An article from "Cai Gui".
+During the reign of Emperor Xuan, it was because of stating interests. Official to Honglu Prefecture.
+There are nine kinds of agricultural works mentioned above, totaling 114 articles.
+The peasant school should have originated from officials in charge of agriculture.
+Sowing hundreds of grains, devoted to farming and sericulture, in order to enrich clothing and food, so the first of the eight policies is food, and the second is goods.
+Confucius said that what matters most is the food of the people, and this is their strength.
+When despicable people came to take charge of this matter, they thought that there was no need to serve the holy king and wanted the king and his ministers to work together, thus disrupting the order of the upper and lower levels.
+
+summary:
+summary line 19: Agricultural schools, with 9 works and 114 articles, originated from agriculture officials. They emphasize food and clothing, but despicable people disrupt order.
+
+Chunk 40: 
+original: 
+兵家者，盖出古司马之职，王官之武备也。
+《洪范》八政，八曰师。
+孔子曰为国者 足食足兵 ， 以不教民战，是谓弃之 ，明兵之重也。
+《易》曰 古者弦木为弧，剡木为矢，弧矢之利，以威天下 ，其用上矣。
+后世燿金为刃，割革为甲，器械甚备。
+下及汤、武受命，以师克乱而济百姓，动之以仁义，行之以礼让，《司马法》是其遗事也。
+自春秋至于战国，出奇设伏，变诈之兵并作。
+汉兴，张良、韩信序次兵法，凡百八十二家，删取要用，定著三十五家。
+诸吕用事而盗取之。
+武帝时，军政杨朴捃摭遗逸，纪奏兵录，犹未能备。
+至于孝成，命任宏论次兵书为四种。
+《泰壹杂子星》二十八卷。
+《五残杂变星》二十一卷。
+《黄帝杂子气》三十三篇。
+《常从日月星气》二十一卷。
+translation: 
+The military strategist school originated from the ancient Sima officials and was the armament of the royal officials.
+Among the eight political affairs in "Hong Fan", the eighth is military affairs.
+Confucius said that those who govern the country must have abundant food and sufficient troops, because if they do not educate the people to know how to fight, it is equivalent to abandoning them. This shows the importance of the army.
+"Book of Changes" says that ancient people made bows out of string wood and cut the wood into arrows. The sharpness of the bows and arrows could dominate the world and they were of great use.
+Later generations sold gold to make knives and cut leather to make bells and armors. The equipment was very complete.
+When Tang and Wu accepted the mandate of heaven, used the army to defeat the turmoil and helped the people, moved them with benevolence and righteousness, and acted with courtesy, the "Sima Law" was what they left behind.
+From the Spring and Autumn Period to the Warring States Period, surprise ambushes were recruited, and wars with cunning changes often occurred.
+After the establishment of the Han Dynasty, Zhang Liang compiled a total of 182 art of war. He deleted the useless ones and selected the important and usable ones, and identified 35.
+Lu stole it after taking power.
+When Wu Tong was a child, the military and political affairs harassed the fort to pick up dispatches and scattered books, recorded them and submitted them to the emperor, but they were still not comprehensive.
+At the time of Langtong and Shengtong, he was ordered to make four types of military books.
+"Tai Yi Zaizixing" twenty-eight volumes.
+Twenty-one volumes of "Five Residual Variable Stars".
+Chapter 33 of "Huangdi Zaziqi".
+Twenty-one volumes of "Always Follow the Qi of the Sun, Moon and Stars".
+
+summary:
+summary line 20: Novelist schools, with 15 works and 1,380 articles, originated from petty officials collecting folklore. They contain small sayings, but gentlemen do not pursue them.
+
+Chunk 31: 
+original: 
+街谈巷语，道听涂说者之所造也。
+孔子曰： 虽小道，必有可观者焉，致远恐泥，是以君子弗为也。
+然亦弗灭也。
+闾里小知者之所及，亦使缀而不忘。
+如或一言可采，此亦刍荛狂夫之议也。
+凡诸子百八十九家，四千三百二十四篇。
+出蹴蹵一家，二十五篇。
+诸子十家，其可观者九家而已。
+皆起于王道既微，诸侯力政，时君世主，好恶殊方，是以九家之术蜂出并作，各引一端，崇其所善，以此驰说，取合诸侯。
+其言虽殊，辟犹水火，相灭亦相生也。
+仁之与义，敬之与和，相反而皆相成也。
+《易》曰： 天下同归而殊涂，一致而百虑。
+今异家者各推所长，穷知究虑，以明其指，虽有蔽短，合其要归，亦《六经》之支与流裔。
+translation: 
+It is made by people who talk in the streets and hearsay.
+Confucius said: Even if it is a small path, it must have considerable potential. If it develops into a far-reaching area, it may become rigid, so a gentleman will not do it.
+But it's not eliminated either.
+People with a little wisdom among the people spread it, so that it will not be forgotten.
+If there is a saying that can be used sometimes, it is also the discussion of the crazy man in the grass.
+There are a total of one hundred and eighty-nine kinds of works by various scholars, consisting of four thousand three hundred and twenty-four articles.
+Minus the Cuju family, there are twenty-five articles in total.
+There are ten schools of thought, of which only nine are significant.
+They all arose when kings were in decline and princes were presiding over politics. The monarchs of the time had very different likes and dislikes. Therefore, these nine schools of thought stood side by side, each adhering to their own doctrines and advocating their good sides, so as to lobby the monarchs of various countries, hoping to gain the support of princes and kings.
+Although there are differences between these theories, just like water and fire, they can destroy each other but can also create each other.
+Benevolence, justice, respect and harmony, on the contrary, can also complement and promote each other.
+"Yi" says: The destination of the world is the same but the paths are different; the thoughts are the same but the thinking is different.
+Nowadays, different schools of thought each promote their own strengths and delve into the beginning and end of things in order to understand its gist. Even if there are shortcomings, integrating their gist is the relationship between branches and streams of the Six Classics.
+
+summary:
+summary line 21: In total, there are 189 works by various scholars, with 4,324 articles. These nine schools arose during the decline of kings, each advocating their doctrines. Though different, they complement each other like water and fire. Studying the Six Arts and these schools can reveal strategies.
+
+Chunk 36: 
+original: 
+传曰： 不歌而诵谓之赋，登高能赋可以为大夫。
+言感物造耑而，材知深美，可与图事，故可以为列大夫也。
+古者诸侯卿大夫交接邻国，以微言相感，当揖让之时，必称《诗》以谕其志，盖以别贤不肖而观盛衰焉。
+故孔子曰 不学《诗》，无以言 也。
+春秋之后，周道浸坏，聘问歌咏不行于列国，学《诗》之士逸在布衣，而贤人失志之赋作矣。
+大儒孙卿及楚臣屈原离谗忧国，皆作赋以风，咸有恻隐古诗之义。
+其后宋玉、唐勒；汉兴，枚乘，司马相如，下及杨子云，竞为侈俪闳衍之词，没其风谕之义。
+是以杨子悔之，曰： 诗人之赋丽以则，辞人之赋丽以淫。
+如孔氏之门人用赋也，则贾谊登堂，相如入室矣，如其不用何！
+自孝武立乐府而采歌谣，于是有代赵之讴，秦楚之风，皆感于哀乐，缘事而发，亦可以观风俗，知薄厚云。
+序诗赋为五种。
+translation: 
+Ancient books say: If you can't sing but just recite, it's called Fu. If you can climb high and be able to compose Fu, you can become a doctor.
+It is said that those who can touch the scene and be moved by words will be called a doctor, and those who have outstanding intelligence and can discuss important matters with them will be called a doctor.
+In ancient times, princes, ministers and officials negotiated with neighboring countries and used subtle language to talk to each other. In diplomatic situations where guests and hosts met, they must quote "Poetry" to express their aspirations. This was nothing more than using it to distinguish the virtuous and unworthy and to observe the rise and fall of the other party.
+Therefore, Confucius said that if you don't study "Poetry", you will have nothing to say.
+After the Spring and Autumn Period, the kingship of the Zhou Dynasty was gradually destroyed. When the feudal princes communicated with each other, singing no longer appeared in various countries. Those who studied "Poetry" lived in seclusion among the people, and those who were talented and lost their ambitions began to compose poems.
+The great scholar Sun Qing and the Chu minister Qu Yuan were slandered and worried about their country, so they wrote poems to satirize and remonstrate, both of which have the sad meaning of ancient poems.
+After that, there were Song Yu and Tang Le, Mei Cheng and Sima Xiangru emerged in the Han Dynasty, and all the way to Yangzi Yun, they competed to write gorgeous and complicated words, drowning the meaning of satire.
+Therefore, Yang Ziyun regretted this and said: The poet's poetry is gorgeous and principled, while the poet's poetry is gorgeous and unrestrained.
+Just like Kong's disciples used Fu, Jia Yi came to the palace and Xiangru entered the house. So what if they didn't use Fu!
+After Emperor Xiaowu established the Yuefu and collected ballads, there were songs of Daiguo and Tangguo. The styles of Qin and Chu were all composed with a sense of sadness and joy for things, and they were composed according to the events. They could be used to observe customs and know the gains and losses of politics.
+The order of arranging poems is divided into five types.
+
+summary:
+summary line 22: Poetry and Fu include 106 works with 1,318 articles. Ancient officials used poetry to express aspirations. After the Spring and Autumn period, scholars like Qu Yuan and Sun Qing wrote poems to satirize. Later, writers like Sima Xiangru emphasized ornate words, drowning satire.
+
+Chunk 40: 
+original: 
+兵家者，盖出古司马之职，王官之武备也。
+《洪范》八政，八曰师。
+孔子曰为国者 足食足兵 ， 以不教民战，是谓弃之 ，明兵之重也。
+《易》曰 古者弦木为弧，剡木为矢，弧矢之利，以威天下 ，其用上矣。
+后世燿金为刃，割革为甲，器械甚备。
+下及汤、武受命，以师克乱而济百姓，动之以仁义，行之以礼让，《司马法》是其遗事也。
+自春秋至于战国，出奇设伏，变诈之兵并作。
+汉兴，张良、韩信序次兵法，凡百八十二家，删取要用，定著三十五家。
+诸吕用事而盗取之。
+武帝时，军政杨朴捃摭遗逸，纪奏兵录，犹未能备。
+至于孝成，命任宏论次兵书为四种。
+《泰壹杂子星》二十八卷。
+《五残杂变星》二十一卷。
+《黄帝杂子气》三十三篇。
+《常从日月星气》二十一卷。
+translation: 
+The military strategist school originated from the ancient Sima officials and was the armament of the royal officials.
+Among the eight political affairs in "Hong Fan", the eighth is military affairs.
+Confucius said that those who govern the country must have abundant food and sufficient troops, because if they do not educate the people to know how to fight, it is equivalent to abandoning them. This shows the importance of the army.
+"Book of Changes" says that ancient people made bows out of string wood and cut the wood into arrows. The sharpness of the bows and arrows could dominate the world and they were of great use.
+Later generations sold gold to make knives and cut leather to make bells and armors. The equipment was very complete.
+When Tang and Wu accepted the mandate of heaven, used the army to defeat the turmoil and helped the people, moved them with benevolence and righteousness, and acted with courtesy, the "Sima Law" was what they left behind.
+From the Spring and Autumn Period to the Warring States Period, surprise ambushes were recruited, and wars with cunning changes often occurred.
+After the establishment of the Han Dynasty, Zhang Liang compiled a total of 182 art of war. He deleted the useless ones and selected the important and usable ones, and identified 35.
+Lu stole it after taking power.
+When Wu Tong was a child, the military and political affairs harassed the fort to pick up dispatches and scattered books, recorded them and submitted them to the emperor, but they were still not comprehensive.
+At the time of Langtong and Shengtong, he was ordered to make four types of military books.
+"Tai Yi Zaizixing" twenty-eight volumes.
+Twenty-one volumes of "Five Residual Variable Stars".
+Chapter 33 of "Huangdi Zaziqi".
+Twenty-one volumes of "Always Follow the Qi of the Sun, Moon and Stars".
+
+summary:
+summary line 23: Military works include 53 books with 790 articles and 43 volumes of pictures. They originated from Sima officials. After the Han, Zhang Liang compiled 182 art of war, selecting 35. Later, four types were made.
+
+Chunk 41: 
+original: 
+《皇公杂子星》二十二卷。
+《淮南杂子星》十九卷。
+《泰壹杂子云雨》三十四卷。
+《国章观霓云雨》三十四卷。
+《泰阶六符》一卷。
+《金度玉衡汉五星客流出入》八篇。
+《汉五星彗客行事占验》八卷。
+《汉日旁气行事占验》三卷。
+《汉流星行事占验》八卷。
+《汉日旁气行占验》十三卷。
+《汉日食月晕杂变行事占验》十三卷。
+《海中星占验》十二卷。
+《海中五星经杂事》二十二卷。
+《海中五星顺逆》二十八卷。
+《海中二十八宿国分》二十八卷。
+《海中二十八宿臣分》二十八卷。
+《海中日月彗虹杂占》十八卷。
+《图书秘记》十七篇。
+右天文二十一家，四百四十五卷。
+天文者，序二十八宿，步五星日月，以纪吉凶之象，圣王所以参政也。
+《易》曰： 观乎天文，以察时变。
+然星事歹凶悍，非湛密者弗能由也。
+translation: 
+Twenty-two volumes of "Emperor's Miscellaneous Stars".
+Nineteen volumes of "Huainan Miscellaneous Stars".
+Thirty-four volumes of "Taiyi Zazi Yunyu".
+Thirty-four volumes of "Guozhang Guanni Yunyu".
+One volume of "Six Talismans of Taijie".
+Eight chapters of "Jin Du Yu Heng Mo Five Star Passengers Flow in and Out".
+Eight volumes of "Han Five Stars Comet's Behavior Divination".
+Three volumes of "Han and Japan's side-effects and fortune-telling".
+Eight volumes of "Han Dynasty Meteoric Astrology Divination".
+Thirteen volumes of "Han Ripan Qi Xing Zhen Yu".
+Thirteen volumes of "Han Dynasty Chinese Solar Eclipse and Moon Halo Miscellaneous Changes and Behavior Divination".
+"Star Divination in the Sea" twelve volumes.
+Twenty-two volumes of "Miscellaneous Matters of the Five Stars in the Sea".
+Twenty-eight volumes of "Five Stars in the Sea, Order and Reverse".
+Twenty-eight volumes of "Twenty-Eight Hosts in the Sea".
+Twenty-eight volumes of "Twenty-eight Suchen Fen in the Sea".
+Eighteen volumes of "Miscellaneous Accounts of the Sun, Moon, Comet, and Rainbow in the Sea".
+Seventeen chapters of "Book Secrets".
+There are twenty-one astronomical works mentioned above, totaling 445 volumes.
+Astronomers arranged the order of the twenty-eight constellations and calculated the five stars of metal, wood, water, fire, earth, and the sun and moon. They were used to record signs of good and bad luck, and the sage kings used them as political references.
+"Yi" says: Observe the distribution and movement of the sun, moon and stars in the universe to examine the changes in the world.
+However, the stars are dangerous and dangerous, and those who are not careful cannot use them.
+
+summary:
+summary line 24: Astronomy includes 21 works with 445 volumes. It arranges constellations and calculates stars for good and bad omens.
+
+Chunk 42: 
+original: 
+夫观景以谴形，非明王亦不能服听也。
+以不能由之臣，谏不能听之王，此所以两有患也。
+《黄帝五家历》三十三卷。
+《颛顼历》二十一卷。
+《颛顼五星历》十四卷。
+《日月宿历》十三卷。
+《夏殷周鲁历》十四卷。
+《天历大历》十八卷。
+《汉元殷周谍历》十七卷。
+《耿昌月行帛图》二百三十二卷。
+《耿昌月行度》二卷。
+《传周五星行度》三十九卷。
+《律历数法》三卷。
+《自古五星宿纪》三十卷。
+《太岁谋日晷》二十九卷。
+《帝王诸侯世谱》二十卷。
+《古来帝王年谱》五卷。
+《日晷书》三十四卷。
+《许商算术》二十六卷。
+《杜忠算术》十六卷。
+右历谱十八家，六百六卷。
+历谱者，序四时之位，正分至之节，会日月五星之辰，以考寒暑杀生之实。
+故圣王必正历数，以定三统服色之制，又以探知五星日月之会。
+translation: 
+Observing the scene to question the body, a king who is not a wise king cannot obey orders.
+Using ministers who cannot use the stars to persuade the king who cannot accept it is the reason why both sides are harmed.
+Twenty-three volumes of "The Calendar of the Five Families of the Yellow Emperor".
+"Zhuanxu Calendar" twenty-one volumes.
+Fourteen volumes of "Zhuanxu's Five Star Calendar".
+Thirteen volumes of "Sun, Moon and Calendar".
+Fourteen volumes of "Xia, Yin, Zhou and Lu Li".
+Eighteen volumes of "Dali".
+Seventeen volumes of "Espionage Calendar of Han, Yuan, Yin and Zhou Dynasties".
+Two hundred and thirty-two volumes of "Geng Chang's Silk Movement on the Moon".
+Two volumes of "Geng Chang Yue Xing Du".
+Thirty-nine volumes of "Zhuan Wu Xing Xing Du".
+Three volumes of "Lü Li Shu Fa".
+Thirty volumes of "Five Stars from Ancient Times".
+Twenty-nine volumes of "Tai Sui seeks the sundial".
+"Genealogy of Emperors and Princes" in twenty volumes.
+"Annals of Ancient Emperors" in five volumes.
+"Sundial Book" thirty-four volumes.
+"Xu Shang Arithmetic" twenty-six volumes.
+"Duzhong Arithmetic" sixteen volumes.
+There are eighteen kinds of chronicle-type works mentioned above, totaling 606 volumes.
+Calendar is a method of arranging the daily movements of the four seasons, determining the solar terms of spring and autumn, autumnal equinox, summer solstice and winter solstice, and combining the time of the moon and the five stars of metal, wood, water, fire and earth to examine the actual situation of killing animals in cold and heat.
+Therefore, the sage king must correctly calculate the degrees of the solar terms to determine the system of the three unifications, and also to explore the time when the five stars, sun and moon meet.
+
+summary:
+summary line 25: Calendar includes 18 works with 606 volumes. It determines seasons and solar terms, aiding sage kings in knowing destiny.
+
+Chunk 43: 
+original: 
+凶厄之患，吉隆之喜，其术皆出焉。
+此圣人知命之术也，非天下之至材，其孰与焉！
+道之乱也，患出于小人而强欲知天道者，坏大以为小，削远以为近，是以道术破碎而难知也。
+《泰一阴阳》二十三卷。
+《黄帝阴阳》二十五卷。
+《黄帝诸子论阴阳》二十五卷。
+《诸王子论阴阳》二十五卷。
+《太元阴阳》二十六卷。
+《三典阴阳谈论》二十七卷。
+《神农大幽五行》二十七卷。
+《四时五行经》二十六卷。
+《猛子闾昭》二十五卷。
+《阴阳五行时令》十九卷。
+《堪舆金匮》十四卷。
+《务成子灾异应》十四卷。
+《十二典灾异应》十二卷。
+《钟律灾异》二十六卷。
+《钟律丛辰日苑》二十三卷。
+《钟律消息》二十九卷。
+《黄钟》七卷。
+《天一》六卷。
+《泰一》二十九卷。
+《刑德》七卷。
+《风鼓六甲》二十四卷。
+《风后孤虚》二十卷。
+《六合随典》二十五卷。
+《转位十二神》二十五卷。
+《羡门式法》二十卷。
+《羡门式》二十卷。
+《文解六甲》十八卷。
+《文解二十八宿》二十八卷。
+《五音奇胲用兵》二十三卷。
+《五音奇胲刑德》二十一卷。
+《五音定名》十五卷。
+右五行三十一家，六百五十二卷。
+五行者，五常之形气也。
+《书》云 初一曰五行，次二曰羞用五事 ，言进用五事以顺五行也。
+貌、言、视、听、思心失，而五行之序乱，五星之变作，皆出于律历之数而分为一者也。
+其法亦起五德终始，推其极则无不至。
+而小数家因此以为吉凶，而行于世，浸以相乱。
+translation: 
+Dangerous sorrows, auspicious joys, their magic are all produced from this bundle.
+This is the way for a saint to know his destiny. Who else but the most talented person in the world can participate in this matter!
+After moral corruption, there is a worry that the chronicles are produced by villains and those who want to know the way of heaven. They destroy the big ones and use them as small ones, and cut off the far ones and use them as near ones. Therefore, the laws and methods are destroyed and it is difficult to know.
+"Tai Yi Yin Yang" twenty-three volumes.
+"Yellow Emperor Yin and Yang" twenty-five volumes.
+Twenty-five volumes of "The Yellow Emperor's Discussing Yin and Yang".
+Twenty-five volumes of "Princes on Yin and Yang".
+"Taiyuan Yin and Yang" twenty-six volumes.
+Twenty-seven volumes of "Three Classics on Yin and Yang".
+Twenty-seven volumes of "The Five Elements of Shennong Dayou".
+Twenty-six volumes of "Four Seasons and Five Elements Sutra".
+Twenty-five volumes of "Mengzi Lu Zhao".
+Nineteen volumes of "Yin Yang and Five Elements Season".
+"Kanyu Golden Chamber" has fourteen volumes.
+Fourteen volumes of "Wuchengzi Disaster Response".
+Twelve volumes of "Twelve Classic Disasters and Responses".
+Twenty-six volumes of "Zhonglu Disaster".
+Twenty-three volumes of "Zhonglu Congchen Riyuan".
+Twenty-nine volumes of "Zhonglu News".
+"Huang Zhong" seven volumes.
+"Tianyi" six volumes.
+"Tai Yi" twenty-nine volumes.
+"Xingde" seven volumes.
+"Fenggu Liujia" twenty-four volumes.
+Twenty volumes of "Fenghou Guxu".
+Twenty-five volumes of "Liuhe Suidian".
+"Transposition of Twelve Gods" twenty-five volumes.
+Twenty volumes of "Xianmen Shifa".
+"Xianmen Style" twenty volumes.
+"Wen Jie Liu Jia" has eighteen volumes.
+Twenty-eight volumes of "Wen Jie Erba Su".
+Twenty-three volumes of "Wu Yin Qi Xin Usage".
+Twenty-one volumes of "Wu Yin Qi Xing De".
+Fifteen volumes of "Five Tones for Naming".
+There are thirty-one works on the above Five Elements category, totaling six hundred and fifty-two volumes.
+The five elements of metal, wood, water, fire, and earth are the external shapes of the five constant elements of benevolence, righteousness, propriety, wisdom, and faith.
+"Shangshu" says that the first day of the lunar month is called the Five Elements, and the second day of the lunar month is called Shame and Use the Five Things, which means that the five things should be used to conform to the five elements.
+If the center of appearance, speech, sight, hearing, and thinking is lost, the order of metal, wood, water, fire, and earth will be confused, and the changes of the five stars will begin. These are all divided into parts due to the numbers of the law and calendar.
+Its method also originates from the beginning and end of the Five Virtues. If you push it to the extreme, there will be no place that cannot be reached.
+Therefore, the Xiaoshu family used it as a symbol of good and bad luck, became popular in the world, and gradually became chaotic.
+
+summary:
+summary line 26: Five Elements include 31 works with 652 volumes. They correspond to benevolence, righteousness, propriety, wisdom, and faith, but small scholars use them for superstition.
+
+Chunk 44: 
+original: 
+《龟书》五十二卷。
+《夏龟》二十六卷。
+《南龟书》二十八卷。
+《巨龟》三十六卷。
+《杂龟》十六卷。
+《蓍书》二十八卷。
+《周易》三十八卷。
+《周易明堂》二十六卷。
+《周易随曲射匿》五十卷。
+《大筮衍易》二十八卷。
+《大次杂易》三十卷。
+《鼠序卜黄》二十五卷。
+《於陵钦易吉凶》二十三卷。
+《任良易旗》七十一卷。
+《易卦八具》。
+右蓍龟十五家，四百一卷。
+蓍龟者，圣人之所用也。
+《书》曰： 女则有大疑，谋及卜筮。
+《易》曰： 定天下之吉凶，成天下之亹亹者，莫善于蓍龟。
+是故君子将有为也，将有行也，问焉而以言，其受命也如向，无有远近幽深，遂知来物。
+非天下之至精，其孰能与于此！
+及至衰世，解于齐戒，而娄烦卜筮，神明不应。
+故筮渎不告，《易》以为忌；龟厌不告，《诗》以为刺。
+translation: 
+"Turtle Book" fifty-two volumes.
+"Xia Gui" twenty-six volumes.
+"Nangui Shu" has twenty-eight volumes.
+Thirty-six volumes of "Giant Turtle".
+"Miscellaneous Turtle" sixteen volumes.
+"Yu Shu" has twenty-eight volumes.
+Thirty-eight volumes of "Book of Changes".
+Twenty-six volumes of "Zhou Yi Ming Tang".
+Fifty volumes of "Zhouyi Suiqu Sheni".
+Twenty-eight volumes of "Da Zhen Yan Yi".
+Thirty volumes of "Daci Zayi".
+Twenty-five volumes of "Rat Preface and Bullying Huang".
+Twenty-three volumes of "Yulingqin's Changes of Good and Bad".
+"Ren Liang Yi Qi" seventy-one volumes.
+"Eight Instruments of Yi Gua".
+There are fifteen kinds of works on the above-mentioned yarrow and turtle species, totaling 401 volumes.
+The turtle was used by saints to predict good and bad luck.
+"Shangshu" says: If you have any big doubts, use divination to decide.
+"The Book of Changes" says: There is nothing better than the turtle to determine the good or bad fortune of the world and promote the prosperity of the world.
+Because a gentleman is going to do something and take action, he will use his words to ask "Yi", and "Yi" will soon tell him good or bad, no matter how far or deep, he will know what is going to happen.
+Besides the most sincere person in the world, who else can be like this!
+In the era of decline, fasting became slack, and divination was used frequently, and the gods no longer appeared.
+Therefore, if you are disrespectful during divination, the gods will not warn you. "Yi" lists creation as a taboo; the turtle god will not appear when it gets bored, and "Poetry" takes this as a warning.
+
+summary:
+summary line 27: Divination includes 15 works with 401 volumes. Turtles and yarrow were used by saints to predict good and bad, but in decline, divination became frequent.
+
+Chunk 45: 
+original: 
+《黄帝长柳占梦》十一卷。
+《甘德长柳占梦》二十卷。
+《武禁相衣器》十四卷。
+《嚏耳鸣杂占》十六卷。
+《祯祥变怪》二十一卷。
+《人鬼精物六畜变怪》二十一卷。
+《变怪诰咎》十三卷。
+《执不祥劾鬼物》八卷。
+《请官除訞祥》十九卷。
+《禳祀天文》十八卷。
+《请祷致福》十九卷。
+《请雨止雨》二十六卷。
+《泰壹杂子候岁》二十二卷。
+《子赣杂子候岁》二十六卷。
+《五法积贮宝臧》二十三卷。
+《神农教田相土耕种》十四卷。
+《昭明子钓种生鱼鳖》八卷。
+《种树臧果相蚕》十三卷。
+右杂占十八家，三百一十三卷。
+杂占者，纪百事之象，候善恶之征。
+《易》曰： 占事知来。
+众占非一，而梦为大，故周有其官。
+而《诗》载熊罴虺蛇众鱼旐旟之梦，著明大人之占，以考吉凶，盖参卜筮。
+translation: 
+Eleven volumes of "Huang Di Chang Liu Zhan Meng".
+Twenty volumes of "Gande Changliu Zhanmeng".
+Fourteen volumes of "Wu Jinxiang Clothing and Equipment".
+Sixteen volumes of Miscellaneous Accounts of Sneezing and Tinnitus.
+Volume 21 of "Zhen Xiang Becomes a Monster".
+Volume 21 of "Humans, Ghosts, Spirits, and Animals Transformed into Monsters".
+Thirteen volumes of "Bianguai Gaojiu".
+Eight volumes of "Catching Ominous Things and Impeaching Ghostly Things".
+Nineteen volumes of "Inviting Officials to Remove Jue Xiang".
+Eighteen volumes of "Luo Si Tian Wen".
+Nineteen volumes of "Pray for Blessings".
+Twenty-six volumes of "Please Rain and Stop the Rain".
+The twenty-two volumes of "Taiyi Zazi Waiting for Sui Sui".
+Twenty-six volumes of "Zi Gan Za Zi Waiting for Sui Sui".
+Twenty-three volumes of "Five Dharmas Accumulating Treasures".
+Fourteen volumes of "Shen Nong's Teaching of Field and Soil Cultivation".
+Eight volumes of "Zhao Mingzi fishing for raw fish and turtles".
+Thirteen volumes of "Planting Trees and Fruits and Silkworms".
+The above-mentioned miscellaneous works include eighteen kinds and three hundred and thirteen volumes.
+Zazhan is used to record the appearance of various things and observe good and bad signs.
+"Book of Changes" says: Divination can tell the future.
+Everyone's predictions were inconsistent, so dreams were used as the standard. Therefore, the Zhou Dynasty had this divination official.
+The dream recorded in the Book of Songs in which a bear shines on an adder, a snake, and a crowd of fishes gives a flag indicates that it is a divination for adults, used to check good or bad luck, and is roughly based on the divination divination.
+
+summary:
+summary line 28: Miscellaneous divination includes 18 works with 313 volumes. It records appearances and observes signs, based on dreams and demons.
+
+Chunk 46: 
+original: 
+《春秋》之说訞也，曰： 人之所忌，其气炎以取之，訞由人兴也。
+人失常则訞兴，人无衅焉，訞不自作。
+故曰： 德胜不祥，义厌不惠。
+桑谷共生，大戊以兴；雊雉登鼎，武丁为宗。
+然惑者不稽诸躬，而忌訞之见，是以《诗》刺 召彼故老，讯之占梦 ，伤其舍本而忧未，不能胜凶咎也。
+《山海经》十三篇。
+《国朝》七卷。
+《宫宅地形》二十卷。
+《相人》二十四卷。
+《相宝剑刀》二十卷。
+《相六畜》三十八卷。
+右形法六家，百二十二卷。
+形法者，大举九州之势以立城郭室舍形，人及六畜骨法之度数、器物之形容以求其声气贵贱吉凶。
+犹律有长短，而各征其声，非有鬼神，数自然也。
+translation: 
+"Spring and Autumn" explains the theory of demons: Things that people are taboo about will bring disasters due to their arrogance. Demons arise from people.
+When people lose their normal state, monsters will arise. There is no gap for people to exploit, and monsters will not arise on their own.
+Therefore, it is said that if morality is too strong, it will be unlucky, and if benevolence and righteousness are too complicated, it will be unlucky.
+Mulberries and grains grew together, and Dawu prospered; robins and pheasants jumped onto the tripod, and Wu Ding became the leader of the clan.
+But confused people do not examine themselves and avoid the appearance of monsters. Therefore, the "Poetry" sarcastically says that the old people who summoned them asked about the good or bad luck of their dreams and felt sad that they could not overcome the disaster despite their own worries.
+Thirteen chapters of "The Classic of Mountains and Seas".
+"Guo Chao" seven volumes.
+Twenty volumes of "Topography of Palaces and Houses".
+"Xianren" twenty-four volumes.
+Twenty volumes of "Xiang Bao Sword".
+Thirty-eight volumes of "Xiang Liu Animals".
+There are six types of works on the above-mentioned forms and methods, totaling 122 volumes.
+Physiologists study the art of identifying land, houses, and people. The most powerful ones can identify the terrain of nine states to build cities and houses. They can also identify the bones of people and animals, and the shape of objects to determine their good or bad fortune.
+Just like the length of the musical instrument, each of which makes its own sound. This is not a ghost, but a natural manifestation of numbers.
+
+summary:
+summary line 29: Physiognomy includes 6 works with 122 volumes. It identifies land, houses, and people, but form and qi are subtle.
+
+Chunk 47: 
+original: 
+然形与气相首尾，亦有有其形而无其气，有其气而无其形，此精微之独异也。
+凡数术百九十家，二千五百二十八卷。
+数术者，皆明堂羲和史卜之职也。
+史官之废久矣，其书既不能具，虽有其书而无其人。
+《易》曰： 苟非其人，道不虚行。
+春秋时鲁有梓慎，郑有裨灶，晋有卜偃，宋有子韦。
+六国时楚有甘公，魏有石申夫。
+汉有唐都，庶得粗觕。
+盖有因而成易，无因而成难，故因旧书以序数术为六种。
+《黄帝内经》十八卷。
+《外经》三十七卷。
+《扁鹊内径》九卷。
+《外经》十二卷。
+《白氏内经》三十八卷。
+《外经》三十六卷。
+《旁篇》二十五卷。
+右医经七家，二百一十六卷。
+translation: 
+However, form and qi are connected from beginning to end, and there are also things that have form but no qi, and some that have qi but no form. This is the subtle and unique feature.
+There are a total of 190 kinds of mathematical works in 2528 volumes.
+Mathematicians include astronomy, calendar, five elements, divination and other spells. They are officials responsible for worshiping heaven and earth, recording historical events in ancestral temples and divination.
+The historian has been deposed for a long time, and the books on numerology are very incomplete. Even if there are books, there is no one who can understand them.
+"Book of Changes" says: Without its people, Tao will not run in vain.
+In the Spring and Autumn Period, the state of Lu had Zishen, the state of Zheng had Bizao, the state of Jin had Yan, and the state of Song had Ziwei.
+During the Six Kingdoms period, there was Duke Gan in the Chu State and Shi Shenfu in the Wei State.
+The Han Dynasty had the capital of Tang Dynasty, about which we can roughly understand.
+Probably because it is easier if there is a reason, but it is more difficult if there is no reason, so the number skills are organized into six types according to the old books.
+"Huangdi Neijing" eighteen volumes.
+Thirty-seven volumes of "Huangdi Waijing".
+"Bian Que Nei Jing" nine volumes.
+Twelve volumes of "Bian Que Wai Jing",
+Thirty-eight volumes of "Bai's Internal Classic".
+Thirty-six volumes of "Bai's Foreign Canon".
+"Bai's Side Chapter" is in twenty-five volumes.
+The above medical works are in two hundred and sixteen volumes.
+
+summary:
+summary line 30: Numerology includes 190 works with 2,528 volumes. It covers astronomy, calendar, and divination, but books are incomplete.
+
+Chunk 46: 
+original: 
+《春秋》之说訞也，曰： 人之所忌，其气炎以取之，訞由人兴也。
+人失常则訞兴，人无衅焉，訞不自作。
+故曰： 德胜不祥，义厌不惠。
+桑谷共生，大戊以兴；雊雉登鼎，武丁为宗。
+然惑者不稽诸躬，而忌訞之见，是以《诗》刺 召彼故老，讯之占梦 ，伤其舍本而忧未，不能胜凶咎也。
+《山海经》十三篇。
+《国朝》七卷。
+《宫宅地形》二十卷。
+《相人》二十四卷。
+《相宝剑刀》二十卷。
+《相六畜》三十八卷。
+右形法六家，百二十二卷。
+形法者，大举九州之势以立城郭室舍形，人及六畜骨法之度数、器物之形容以求其声气贵贱吉凶。
+犹律有长短，而各征其声，非有鬼神，数自然也。
+translation: 
+"Spring and Autumn" explains the theory of demons: Things that people are taboo about will bring disasters due to their arrogance. Demons arise from people.
+When people lose their normal state, monsters will arise. There is no gap for people to exploit, and monsters will not arise on their own.
+Therefore, it is said that if morality is too strong, it will be unlucky, and if benevolence and righteousness are too complicated, it will be unlucky.
+Mulberries and grains grew together, and Dawu prospered; robins and pheasants jumped onto the tripod, and Wu Ding became the leader of the clan.
+But confused people do not examine themselves and avoid the appearance of monsters. Therefore, the "Poetry" sarcastically says that the old people who summoned them asked about the good or bad luck of their dreams and felt sad that they could not overcome the disaster despite their own worries.
+Thirteen chapters of "The Classic of Mountains and Seas".
+"Guo Chao" seven volumes.
+Twenty volumes of "Topography of Palaces and Houses".
+"Xianren" twenty-four volumes.
+Twenty volumes of "Xiang Bao Sword".
+Thirty-eight volumes of "Xiang Liu Animals".
+There are six types of works on the above-mentioned forms and methods, totaling 122 volumes.
+Physiologists study the art of identifying land, houses, and people. The most powerful ones can identify the terrain of nine states to build cities and houses. They can also identify the bones of people and animals, and the shape of objects to determine their good or bad fortune.
+Just like the length of the musical instrument, each of which makes its own sound. This is not a ghost, but a natural manifestation of numbers.
+
+summary:
+summary line 31: Medicine includes 216 volumes. It explores blood and meridians to cure diseases, but clumsy people lose proportion.
+
+Chunk 48: 
+original: 
+医经者，原人血脉经络骨髓阴阳表里，以起百病之本，死生之分，而用度箴石汤火所施，调百药齐和之所宜。
+至齐之得，犹磁石取铁，以物相使。
+拙者失理，以愈为剧，以生为死。
+《五藏六府痹十二病方》三十卷。
+《五藏六府疝十六病方》四十卷。
+《五藏六府瘅十二病方》四十卷。
+《风寒热十六病方》二十六卷。
+《泰始黄帝扁鹊俞拊方》二十三卷。
+《五藏伤中十一病方》三十一卷。
+《客疾五藏狂颠病方》十七卷＃
+《金创疭瘛方》三十卷。
+《妇人婴儿方》十九卷。
+《汤液经法》三十二卷。
+《神农黄帝食禁》七卷。
+右经方十一家，二百七十四卷。
+经方者，本草石之寒温，量疾病之浅深，假药味之滋，因气感之宜，辩五苦六辛，致水火之齐，以通闭解结，反之于平。
+及失其宜者，以热益热，以寒增寒，精气内伤，不见于外，是所独失也。
+故谚曰： 有病不治，常得中医。
+translation: 
+Medical works explore the blood, meridians, bone marrow, yin and yang, and surface of human beings to find out the root causes of all diseases and the boundaries between life and death. When using them, they measure the effects of stone needles, cooked soups, and fire, and then adjust the appropriate combination of hundreds of medicines.
+When it reaches a state of harmony, it is like a magnet taking iron, using one thing to serve another.
+Clumsy people have lost their sense of proportion and treat those who have recovered as seriously ill, and those who want to live as if they are dying.
+Thirty volumes of Prescriptions for Twelve Diseases of Wu Zang and Liu Fu Bi.
+"Five Stores and Six Prefectures' Hernia and Sixteen Prescriptions" forty volumes.
+Forty volumes of "Prescriptions for Twelve Diseases of Wu Zang and Liu Fu Bi".
+Twenty-six volumes of Prescriptions for Sixteen Diseases of Wind, Cold and Heat.
+"Tai Shi Huang Di Bian Que Yu Kao Fang" twenty-three volumes.
+Volume 31 of "Eleven Prescriptions for Wuzang Injuries".
+Seventeen volumes of Prescriptions for Keji Wuzang Kuangdian Disease.
+Thirty volumes of "Jin Chuang Zhen Fang".
+Nineteen volumes of "Prescriptions for Women and Infants".
+Thirty-two volumes of "Soup Classic".
+Seven volumes of "Shen Nong and Huang Di's Food Forbidden Works".
+The above are eleven types of classic works, totaling 274 volumes.
+The prescriptions of ancient medicine are based on the cold-warming properties of grass and stones, measuring the depth of the disease, using the function of the medicinal taste, adapting to the appropriate qi sensation, distinguishing the five bitter and six pungent, achieving the blending of water and fire, so as to communicate with the obstruction, relieve the crux, and restore it to balance.
+When some prescriptions are not suitable for the condition, using hot drugs to make people hotter, and using cold drugs to make people colder, causing damage to people's essence, energy and spirit, so that it does not appear outside the body, this is entirely a mistake caused by improper medication.
+Therefore, the proverb says: If you are sick, if you don’t seek medical treatment, you will always be in line with medical principles.
+
+summary:
+summary line 32: Prescriptions include 11 types with 274 volumes. They use herbs to treat conditions, but improper medication causes harm.
+
+Chunk 46: 
+original: 
+《春秋》之说訞也，曰： 人之所忌，其气炎以取之，訞由人兴也。
+人失常则訞兴，人无衅焉，訞不自作。
+故曰： 德胜不祥，义厌不惠。
+桑谷共生，大戊以兴；雊雉登鼎，武丁为宗。
+然惑者不稽诸躬，而忌訞之见，是以《诗》刺 召彼故老，讯之占梦 ，伤其舍本而忧未，不能胜凶咎也。
+《山海经》十三篇。
+《国朝》七卷。
+《宫宅地形》二十卷。
+《相人》二十四卷。
+《相宝剑刀》二十卷。
+《相六畜》三十八卷。
+右形法六家，百二十二卷。
+形法者，大举九州之势以立城郭室舍形，人及六畜骨法之度数、器物之形容以求其声气贵贱吉凶。
+犹律有长短，而各征其声，非有鬼神，数自然也。
+translation: 
+"Spring and Autumn" explains the theory of demons: Things that people are taboo about will bring disasters due to their arrogance. Demons arise from people.
+When people lose their normal state, monsters will arise. There is no gap for people to exploit, and monsters will not arise on their own.
+Therefore, it is said that if morality is too strong, it will be unlucky, and if benevolence and righteousness are too complicated, it will be unlucky.
+Mulberries and grains grew together, and Dawu prospered; robins and pheasants jumped onto the tripod, and Wu Ding became the leader of the clan.
+But confused people do not examine themselves and avoid the appearance of monsters. Therefore, the "Poetry" sarcastically says that the old people who summoned them asked about the good or bad luck of their dreams and felt sad that they could not overcome the disaster despite their own worries.
+Thirteen chapters of "The Classic of Mountains and Seas".
+"Guo Chao" seven volumes.
+Twenty volumes of "Topography of Palaces and Houses".
+"Xianren" twenty-four volumes.
+Twenty volumes of "Xiang Bao Sword".
+Thirty-eight volumes of "Xiang Liu Animals".
+There are six types of works on the above-mentioned forms and methods, totaling 122 volumes.
+Physiologists study the art of identifying land, houses, and people. The most powerful ones can identify the terrain of nine states to build cities and houses. They can also identify the bones of people and animals, and the shape of objects to determine their good or bad fortune.
+Just like the length of the musical instrument, each of which makes its own sound. This is not a ghost, but a natural manifestation of numbers.
+
+summary:
+summary line 33: Sexual arts include 8 works with 186 volumes. They regulate desire for health, but confused people lose restraint.
+
+Chunk 16: 
+original: 
+六艺之文：《乐》以和神，仁之表也；《诗》以正言，义之用也；《礼》以明体，明者著见，故无训也；《书》以广听，知之术也；《春秋》以断事，信之符也。
+五者，盖五常之道，相须而备，而《易》为之原。
+故曰 《易》不可见，则乾坤或几乎息矣 ，言与天地为终始也。
+至于五学，世有变改，犹五行之更用事焉。
+古之学者耕且养，三年而通一艺，存其大体，玩经文而已，是故用日少而畜德多，三十而五经立也。
+后世经传既已乖离，博学者又不思多闻阙疑之义，而务碎义逃难，便辞巧说，破坏形体；说五字之文，至于二三万言。
+后进弥以驰逐，故幼童而守一艺，白首而后能言；安其所习，毁所不见，终以自蔽。
+此学者之大患也。
+序六艺为九种。
+《晏子》八篇。
+名婴，谥平仲，相齐景公，孔子称善与人交，有《列传》。
+《子思》二十三篇。
+名伋，孔子孙，为鲁缪公师。
+translation: 
+"Spring and Autumn" is used to judge and deal with problems, and is a sign of credibility.
+This book embodies benevolence, righteousness, propriety, wisdom, and faith, which complement each other and are indispensable, and the "Yi" is its origin.
+Therefore, if the meaning of "Yi" is not known, then the universe will almost come to an end. This means that the same heaven and earth share the same end.
+As for the five learnings, they change from generation to generation, just like the five elements act alternately.
+Ancient scholars cultivated while cultivating, and mastered a skill in three years, retaining its general content and studying the scriptures. Therefore, they spent less time and accumulated more virtues. Menstruation will be cleared at the age of thirty-five.
+The scriptures and biographies of later generations have been contradictory to each other, and the learned people do not think about the meaning of listening and being suspicious, but pursue to use fragmented and eccentric meanings to avoid the questioning of others, far-fetched and clever explanations, destroying the shape of the text; explanatory articles of five characters can reach 20,000 to 30,000 words.
+Later people competed with each other, so young children clung to one art and could not talk about it until their hair turned gray. By settling for what he has learned and denigrating what he has not seen, he ultimately deceives himself.
+This is a serious problem for scholars.
+In summary, the six arts are divided into nine types.
+"Yan Zi" eight chapters.
+Yanzi's name was Ying, Mi Pingzhong, and he was the prime minister of Qi Jinggong. King Kong praised him for being good at interacting with people. His "Biographies" are included in "Historical Records".
+"Yu Si" twenty-three chapters.
+Zisi, whose name was Ji, was the grandson of Confucius and the teacher of Duke Mu of Lu.
+
+summary:
+summary line 34: Immortal arts include 10 works with 205 volumes. They pursue immortality, but absurd articles increase.
+
+Chunk 50: 
+original: 
+方技者，皆生生之具，王官之一守也。
+太古有岐伯、俞拊，中世有扁鹊、秦和，盖论病以及国，原诊以知政。
+汉兴有仓公。
+今其技术晻昧，故论其书，以序方技为四种。
+大凡书，六略三十八种，五百九十六家，万三千二百六十九卷。
+入三家，五十篇，省兵十家。
+translation: 
+Fang skills are tools for being content with life and nature, and are a presiding officer of the emperor.
+In ancient times, there were Qi Bo and Yu Huo, and in the Middle Ages, there were Bian Que and Qin He. They all discussed pathologies and related to the governance of the country, and explored the symptoms to understand political affairs.
+After the establishment of the Han Dynasty, there was Cang Gong.
+Nowadays, his techniques and methods are unclear, so his books are divided into four types.
+In total, there are thirty-eight kinds of six strategies, five hundred and ninety-six kinds, and thirteen thousand two hundred and sixty-nine volumes.
+Compared with "Dagger Strategy", there are three more types and a chapter on divination, but ten types of military strategists have been reduced.
+
+summary:
+summary line 35: In total, there are 38 types of six strategies, 596 kinds, and 13,269 volumes. Compared to "Dagger Strategy," there are three more types and a divination chapter, but ten military strategist types are reduced.
+

@@ -1,0 +1,243 @@
+Summary uses chunk [0, 6, 9, 11, 12, 15, 15]
+
+Chunk 0: 
+original: 
+廉颇者，赵之良将也。
+赵惠文王十六年，廉颇为赵将伐齐，大破之，取阳晋，拜为上卿，以勇气闻於诸侯。
+蔺相如者，赵人也，为赵宦者令缪贤舍人。
+赵惠文王时，得楚和氏璧。
+秦昭王闻之，使人遗赵王书，原以十五城请易璧。
+赵王与大将军廉颇诸大臣谋：欲予秦，秦城恐不可得，徒见欺；欲勿予，即患秦兵之来。
+计未定，求人可使报秦者，未得。
+宦者令缪贤曰： 臣舍人蔺相如可使。
+王问： 何以知之？
+对曰： 臣尝有罪，窃计欲亡走燕，臣舍人相如止臣，曰： 君何以知燕王？
+臣语曰： 臣尝从大王与燕王会境上，燕王私握臣手，曰 原结友 。
+以此知之，故欲往。
+相如谓臣曰： 夫赵强而燕弱，而君幸於赵王，故燕王欲结於君。
+今君乃亡赵走燕，燕畏赵，其势必不敢留君，而束君归赵矣。
+translation: 
+Lian Po was an outstanding general of Zhao State.
+In the sixteenth year of King Zhao Huiwen, Lian Po led the Zhao army to conquer Qi, defeated the Qi army, captured Yangjin, and was named Shangqing by King Zhao. He was famous among the princes and countries for his bravery in battle.
+Lin Xiangru was a native of the State of Zhao and a retainer of the family of the eunuch Ling Muxian of the State of Zhao.
+During the reign of King Zhao Huiwen, he obtained the Heshi Bi from Chu State.
+When King Zhao of Qin heard about this, he sent a letter to King Zhao, expressing his willingness to exchange fifteen cities for He's Bi.
+King Zhao discussed with General Lian Po and his ministers: If he gave the jade to Qin, it would be impossible for Qin's cities to be obtained and they would be deceived in vain; if he didn't give it, he would be afraid that the Qin army would attack Zhao immediately.
+The countermeasures were not discussed, and I tried to find an envoy who could be sent to Qin to reply, but I couldn't find one.
+The eunuch ordered Miao Xian to say: "My retainer Lin Xiangru can go to Qin as an envoy."
+King Zhao asked: How do you know he can do it?
+Miao Xian replied: "I have committed a crime, and I secretly planned to flee to Yan State. My retainer Xiangru stopped me and said: How do you know that the King of Yan will definitely take you in?"
+I said to him: I followed the king to meet with King Yan on the border. King Yan held my hand in private and said that he was willing to make friends with you.
+Therefore, I knew that He could take me in, so I wanted to go to Him.
+Xiangru said to me: Zhao is strong and Yan is weak, but you are favored by King Zhao, so King Yan wants to make friends with you.
+Now you are fleeing from the State of Zhao to the State of Yan. The State of Yan is afraid of the State of Zhao. In this situation, the King of Yan will not dare to take you in, and will tie you up and send you back to the State of Zhao.
+
+summary:
+summary line 0: Lian Po, a renowned general of Zhao, conquered Qi and captured Yangjin, earning the title of Shangqing. Lin Xiangru, a retainer of eunuch Miao Xian, was sent as an envoy to Qin after King Zhao of Qin offered fifteen cities for the He's Bi jade. Lin Xiangru successfully returned the jade intact to Zhao after King Qin failed to honor the exchange. Later, at the Mianchi meeting, Lin Xiangru forced King Qin to play a fou, maintaining Zhao's dignity. For his efforts, he was named Shangqing, ranking above Lian Po.
+
+Chunk 6: 
+original: 
+今君与廉颇同列，廉君宣恶言而君畏匿之，恐惧殊甚，且庸人尚羞之，况於将相乎！
+臣等不肖，请辞去。
+蔺相如固止之，曰： 公之视廉将军孰与秦王？
+曰： 不若也。
+相如曰： 夫以秦王之威，而相如廷叱之，辱其群臣，相如虽驽，独畏廉将军哉？
+顾吾念之，强秦之所以不敢加兵於赵者，徒以吾两人在也。今两虎共斗，其势不俱生。
+吾所以为此者，以先国家之急而後私雠也。
+廉颇闻之，肉袒负荆，因宾客至蔺相如门谢罪。
+曰： 鄙贱之人，不知将军宽之至此也。
+卒相与驩，为刎颈之交。
+是岁，廉颇东攻齐，破其一军。
+居二年，廉颇复伐齐几，拔之。
+後三年，廉颇攻魏之防陵、安阳，拔之。
+後四年，蔺相如将而攻齐，至平邑而罢。
+其明年，赵奢破秦军阏与下。
+赵奢者，赵之田部吏也。
+translation: 
+Now you and Lian Po have the same official position. Mr. Lian speaks evil words, but you are afraid to hide from him. Your fear is too much. A mediocre person is ashamed, let alone a general!
+We people have no talent, please let us say goodbye!
+Lin Xiangru resolutely persuaded them to stay and said: Who do you think is more powerful than General Lian or the King of Qin?
+He replied: General Lian cannot compare with King Qin.
+Xiangru said: With the power of the King of Qin, I dare to scold him in the court and humiliate his ministers. Although I, Lin Xiangru, are incompetent, can I be afraid of General Lian?
+But I thought that the reason Qiang Qin did not dare to use troops against Zhao was because of the two of us. Now that the two tigers are fighting, they will inevitably not be able to coexist.
+The reason why I was so tolerant was to put the country's emergencies first and my personal grievances behind.
+When Lian Po heard these words, he took off his shirt, exposed his upper body, carried a thorn stick on his back, and was led by the guests to Lin Xiangru's door to apologize.
+He said: I am a rough and humble person, but I never thought that you, General, are so generous!
+The two finally reconciled and became friends through life and death.
+This year, Lian Po attacked Qi eastward and defeated one of its troops.
+Two years later, Lian Po attacked several cities in Qi State and captured them.
+In the next three years, Lian Po attacked Wei's Fangling and Anyang and captured them all.
+Four years later, Lin Xiangru led his troops to attack Qi and withdrew his troops when they reached Pingyi.
+The next year, Zhao She defeated the Qin army at the foot of Yanyu City.
+Zhao She was originally an official in the State of Zhao who collected land rent.
+
+summary:
+summary line 1: Lian Po, resentful of Lin Xiangru's higher rank, threatened to humiliate him. Lin Xiangru avoided conflict, prioritizing national unity over personal grievances. When Lian Po learned of this, he apologized, and the two became close friends. Lian Po later led successful campaigns against Qi and Wei.
+
+Chunk 9: 
+original: 
+秦兵後至，争山不得上，赵奢纵兵击之，大破秦军。
+秦军解而走，遂解阏与之围而归。
+赵惠文王赐奢号为马服君，以许历为国尉。
+赵奢於是与廉颇、蔺相如同位。
+後四年，赵惠文王卒，子孝成王立。
+七年，秦与赵兵相距长平，时赵奢已死，而蔺相如病笃，赵使廉颇将攻秦，秦数败赵军，赵军固壁不战。
+秦数挑战，廉颇不肯。
+赵王信秦之间。
+秦之间言曰： 秦之所恶，独畏马服君赵奢之子赵括为将耳。
+赵王因以括为将，代廉颇。
+蔺相如曰： 王以名使括，若胶柱而鼓瑟耳。
+括徒能读其父书传，不知合变也。
+赵王不听，遂将之。
+赵括自少时学兵法，言兵事，以天下莫能当。
+translation: 
+The Qin soldiers arrived later and competed with the Zhao army on Beishan but could not attack it. Zhao She commanded the soldiers to attack fiercely and defeated the Qin army.
+The Qin army scattered and fled, so the siege of Yan Yu was lifted and the Zhao army returned home.
+King Zhao Huiwen gave Zhao She the title of Ma Fujun and appointed Xu Li as the country's captain.
+Zhao She then had the same position as Lian Po and Lin Xiangru.
+Four years later, King Zhao Huiwen died and his son King Xiaocheng came to the throne.
+In the seventh year of King Zhao Xiaocheng's reign, the Qin army and the Zhao army faced each other in Changping. Zhao She was dead at that time and Lin Xiangru was critically ill. King Zhao sent Lian Po to lead his troops to attack the Qin army. The Qin army defeated the Zhao army several times, but the Zhao army held on to the camp and did not fight.
+The Qin army repeatedly challenged. Lian Po ignored it.
+King Zhao believed the rumors spread by spies of the Qin army.
+A spy of the Qin army said: What the Qin army hates and taboos is that they are afraid that Zhao Kuo, the son of Ma Fujun Zhao She, will become a general.
+Therefore, King Zhao appointed Zhao Kuo as his general, replacing Lian Po.
+Lin Xiangru said: Your Majesty appointing Zhao Kuo based solely on his reputation is like using glue to seal the tuning posts and then trying to play the harp.
+Zhao Kuo can only read the books left by his father and does not know how to be flexible.
+King Zhao refused to listen and ordered Zhao Kuo to be his general.
+Zhao Kuo has been studying the art of war since he was a child. When it comes to the use of war, he thinks that no one in the world can match him.
+
+summary:
+summary line 2: Zhao She, a tax official, gained King Zhao's favor after punishing Lord Pingyuan's family for tax evasion. He was appointed to oversee national taxation, which prospered the people and treasury. During the Qin siege of Yanyu, Zhao She led a daring rescue, defeating the Qin army and earning the title of Ma Fujun.
+
+Chunk 11: 
+original: 
+秦将白起闻之，纵奇兵，详败走，而绝其粮道，分断其军为二，士卒离心。
+四十馀日，军饿，赵括出锐卒自博战，秦军射杀赵括。
+括军败，数十万之众遂降秦，秦悉阬之。
+赵前後所亡凡四十五万。
+明年，秦兵遂围邯郸，岁馀，几不得脱。赖楚、魏诸侯来救，乃得解邯郸之围。
+赵王亦以括母先言，竟不诛也。
+自邯郸围解五年，而燕用栗腹之谋，曰 赵壮者尽於长平，其孤未壮 ，举兵击赵。
+赵使廉颇将，击，大破燕军於鄗，杀栗腹，遂围燕。
+燕割五城请和，乃听之。
+赵以尉文封廉颇为信平君，为假相国。
+廉颇之免长平归也，失势之时，故客尽去。
+及复用为将，客又复至。
+translation: 
+When Qin general Bai Qi heard about this, he dispatched a surprise force, pretended to be defeated and fled, then cut off the Zhao army's food transport road, split the Zhao army in half, and separated the Zhao soldiers.
+After more than forty days, the Zhao army was hungry. Zhao Kuo sent out elite soldiers to fight the Qin army personally. The Qin army shot Zhao Kuo to death.
+Zhao Kuo's army was defeated, and hundreds of thousands of troops surrendered to the Qin army. The Qin army buried them all alive.
+From the beginning to the end of the Battle of Changping, Zhao State suffered a total of 450,000 losses.
+The next year, the Qin army surrounded Handan. The siege lasted for more than a year. Zhao could hardly survive. It was only through the rescue of the Chu and Wei armies that the siege of Handan was lifted.
+King Zhao finally did not implicate Zhao Kuo's mother because of her words.
+Five years after the siege of Handan was relieved, the Yan State adopted Li Fu's strategy. It was said that all the mature men of the Zhao State died in the Battle of Changping, and their orphans were not yet adults, so the King of Yan sent troops to attack Zhao.
+King Zhao sent Lian Po to lead the troops to counterattack, defeated the Yan army in Hacheng, killed Li Fu, and surrounded the capital of Yan.
+Yan State ceded five cities and asked for peace, and King Zhao agreed to a truce.
+King Zhao gave Wei Wen the title of Lord Xinping to Lian Po, and appointed him as acting prime minister.
+Lian Po was dismissed from his post in Changping and returned home. When he lost power, all his original followers left him.
+When he was appointed as a general again, the retainers came back again.
+
+summary:
+summary line 3: After King Zhao Huiwen's death, King Xiaocheng ascended. In the Changping campaign, Lian Po initially held defensive positions against Qin. King Xiaocheng replaced him with Zhao Kuo, despite warnings from Lin Xiangru and Zhao Kuo's mother. Zhao Kuo's arrogance led to a disastrous defeat, with 450,000 Zhao soldiers killed. The Qin army later besieged Handan, which was relieved by Chu and Wei forces.
+
+Chunk 12: 
+original: 
+廉颇曰： 客退矣！
+客曰： 吁！
+君何见之晚也？夫天下以市道交，君有势，我则从君，君无势则去，此固其理也，有何怨乎？
+居六年，赵使廉颇伐魏之繁阳，拔之。
+赵孝成王卒，子悼襄王立，使乐乘代廉颇。
+廉颇怒，攻乐乘，乐乘走。
+廉颇遂奔魏之大梁。
+其明年，赵乃以李牧为将而攻燕，拔武遂、方城。
+廉颇居梁久之，魏不能信用。
+赵以数困於秦兵，赵王思复得廉颇，廉颇亦思复用於赵。
+赵王使使者视廉颇尚可用否。
+廉颇之仇郭开多与使者金，令毁之。
+赵使者既见廉颇，廉颇为之一饭斗米，肉十斤，被甲上马，以示尚可用。
+赵使还报王曰： 廉将军虽老，尚善饭，然与臣坐，顷之三遗矢矣。
+赵王以为老，遂不召。
+楚闻廉颇在魏，阴使人迎之。
+廉颇一为楚将，无功，曰： 我思用赵人。
+廉颇卒死于寿春。
+translation: 
+Lian Po said: Gentlemen, please come back! The diners said: Alas!
+Why are your opinions so backward?
+Everyone in the world makes friends based on market transactions. If you have power, we will follow you. If you no longer have power, we will leave. This is a very common truth. What is there to complain about?
+After another six years, the State of Zhao sent Lian Po to attack Fanyang of the State of Wei and captured it.
+When King Zhao Xiaocheng passed away, Prince Miaoxiang came to the throne and sent Lecheng to replace Lian Po.
+Lian Po was furious and attacked Lecheng, but Lecheng escaped.
+Lian Po then fled to Daliang in Wei.
+The next year, Zhao State attacked Yan State with Li Mu as general and captured Wu Sui and Fangcheng.
+Lian Po had lived in Daliang for a long time, and Wei could not trust him.
+Since the State of Zhao was besieged by Qin soldiers many times, the King of Zhao wanted to use Lian Po as a general again, and Lian Po also wanted to be appointed by the State of Zhao again.
+King Zhao sent envoys to visit Lian Po to see if he could still be employed.
+Lian Po's enemy Guo Kai bribed the envoy with a large amount of money, asking him to speak ill of Lian Po when he came back.
+After the Zhao envoy met Lian Po, Lian Po ate a bushel of rice and ten kilograms of meat in front of him. He also put on his armor and mounted his horse, indicating that he could still be employed.
+The envoy from the State of Zhao went back and reported to King Zhao: Although General Lian is old and still has a good appetite, he pooped three times in a short period of time while sitting with me.
+King Zhao thought Lian Po was old and stopped recalling him.
+Chu State heard that Lian Po was in Wei State and secretly sent people to meet him.
+Although Lian Po became a general of the Chu State, he had no military exploits. He said: I want to command the soldiers of the Zhao State.
+Lian Po finally died in Shouchun.
+
+summary:
+summary line 4: Lian Po later defeated Yan, earning the title of Lord Xinping. After King Xiaocheng's death, Lian Po fled to Wei following a conflict with Lecheng. Zhao attempted to recall him, but a bribed envoy falsely reported his frailty, and he was not reinstated. Lian Po died in Chu.
+
+Chunk 15: 
+original: 
+赵乃以李牧为大将军，击秦军於宜安，大破秦军，走秦将桓齮。
+封李牧为武安君。
+居三年，秦攻番吾，李牧击破秦军，南距韩、魏。
+赵王迁七年，秦使王翦攻赵，赵使李牧、司马尚御之。
+秦多与赵王宠臣郭开金，为反间，言李牧、司马尚欲反。
+赵王乃使赵葱及齐将颜聚代李牧。
+李牧不受命，赵使人微捕得李牧，斩之。废司马尚。
+後三月，王翦因急击赵，大破杀赵葱，虏赵王迁及其将颜聚，遂灭赵。
+太史公曰：知死必勇，非死者难也，处死者难。
+方蔺相如引璧睨柱，及叱秦王左右，势不过诛，然士或怯懦而不敢发。
+相如一奋其气，威信敌国，退而让颇，名重太山，其处智勇，可谓兼之矣！
+translation: 
+The State of Zhao then appointed Li Mu as its general, attacked the Qin army in Yi'an, defeated the Qin army, and drove away the Qin general Huan Jue.
+Li Mu was named Lord Wu'an.
+Three years later, the Qin army attacked Fanwu. Li Mu defeated the Qin army and moved south to resist South Korea and Wei.
+In the seventh year since King Zhao moved, the State of Qin sent Wang Jian to attack the State of Zhao, and the State of Zhao sent Li Mu and Sima Shang to resist the Qin army.
+The State of Qin bribed King Zhao's favored minister Guo Kai with a lot of money to let him carry out counterintuitive schemes and spread rumors that Li Mu and Sima Shang were going to rebel.
+The king of Zhao sent Zhao Cong and Qi general Yan Ju to replace Li Mu, but Li Mu refused to accept the order.
+King Zhao sent people to secretly arrest Li Mu, killed him, and removed Sima Shang from his official position.
+Three months later, Wang Jian took the opportunity to attack the State of Zhao, defeated the Zhao army, killed Zhao Cong, captured Zhao Wangqian and his general Yan Ju, and finally destroyed the State of Zhao.
+Tai Shigong said: If you know you are about to die and are not afraid, you must be very courageous; death is not difficult, but how to deal with this death is difficult.
+When Lin Xiangru held up a treasure and squinted at the court pillars, and scolded the King of Qin's attendants, considering the situation in front of him, the most he could do was to be killed. However, ordinary scholars often did not dare to behave like this because they were timid and cowardly.
+Once Xiangru inspired his courage, his power was unleashed to overwhelm the enemy. Later, he humbly gave in to Lian Po. His reputation was more important than Mount Tai. The wisdom and courage he showed in doing things can be said to be both!
+
+summary:
+summary line 5: Li Mu, a capable general, defended Zhao's northern border against the Xiongnu. Initially perceived as timid, he later ambushed and defeated the Xiongnu, securing peace for over a decade. He also achieved victories against Qin, earning the title of Lord Wu'an. However, King Zhao, influenced by rumors, executed Li Mu and removed Sima Shang. Three months later, Qin destroyed Zhao.
+
+Chunk 15: 
+original: 
+赵乃以李牧为大将军，击秦军於宜安，大破秦军，走秦将桓齮。
+封李牧为武安君。
+居三年，秦攻番吾，李牧击破秦军，南距韩、魏。
+赵王迁七年，秦使王翦攻赵，赵使李牧、司马尚御之。
+秦多与赵王宠臣郭开金，为反间，言李牧、司马尚欲反。
+赵王乃使赵葱及齐将颜聚代李牧。
+李牧不受命，赵使人微捕得李牧，斩之。废司马尚。
+後三月，王翦因急击赵，大破杀赵葱，虏赵王迁及其将颜聚，遂灭赵。
+太史公曰：知死必勇，非死者难也，处死者难。
+方蔺相如引璧睨柱，及叱秦王左右，势不过诛，然士或怯懦而不敢发。
+相如一奋其气，威信敌国，退而让颇，名重太山，其处智勇，可谓兼之矣！
+translation: 
+The State of Zhao then appointed Li Mu as its general, attacked the Qin army in Yi'an, defeated the Qin army, and drove away the Qin general Huan Jue.
+Li Mu was named Lord Wu'an.
+Three years later, the Qin army attacked Fanwu. Li Mu defeated the Qin army and moved south to resist South Korea and Wei.
+In the seventh year since King Zhao moved, the State of Qin sent Wang Jian to attack the State of Zhao, and the State of Zhao sent Li Mu and Sima Shang to resist the Qin army.
+The State of Qin bribed King Zhao's favored minister Guo Kai with a lot of money to let him carry out counterintuitive schemes and spread rumors that Li Mu and Sima Shang were going to rebel.
+The king of Zhao sent Zhao Cong and Qi general Yan Ju to replace Li Mu, but Li Mu refused to accept the order.
+King Zhao sent people to secretly arrest Li Mu, killed him, and removed Sima Shang from his official position.
+Three months later, Wang Jian took the opportunity to attack the State of Zhao, defeated the Zhao army, killed Zhao Cong, captured Zhao Wangqian and his general Yan Ju, and finally destroyed the State of Zhao.
+Tai Shigong said: If you know you are about to die and are not afraid, you must be very courageous; death is not difficult, but how to deal with this death is difficult.
+When Lin Xiangru held up a treasure and squinted at the court pillars, and scolded the King of Qin's attendants, considering the situation in front of him, the most he could do was to be killed. However, ordinary scholars often did not dare to behave like this because they were timid and cowardly.
+Once Xiangru inspired his courage, his power was unleashed to overwhelm the enemy. Later, he humbly gave in to Lian Po. His reputation was more important than Mount Tai. The wisdom and courage he showed in doing things can be said to be both!
+
+summary:
+summary line 6: Tai Shigong praised Lin Xiangru's courage and wisdom, noting his ability to intimidate enemies and later yield to Lian Po, prioritizing the state's interests.
+

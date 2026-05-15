@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 0, 4, 5, 5, 7, 9, 12, 14, 0, 18]
+Summary uses chunk [0, 3, 5, 7, 10, 15, 20]
 
 Chunk 0: 
 original: 
@@ -13,9 +13,6 @@ original:
 今皇太子春秋方始十岁，未见保傅九德之义，宜简贤辅，就成圣质。
 书奏不省。
 及顺帝即位，拜晧司空，在事多所荐达，天下称其推士。
-时清河赵腾上言灾变，讥刺朝政，章下有司，收腾系考，所引党辈八十余人，皆以诽谤当伏重法。
-晧上疏谏曰： 臣闻尧舜立敢谏之鼓，三王树诽谤之木，《春秋》采善书恶，圣主不罪刍荛。
-腾等虽干上犯法，所言本欲尽忠正谏。
 translation: 
 ◆Zhang Hao's biography, Zhang Hao's courtesy name was Shuming, and he was a native of Wuyang, Qianwei County. Zhang Liang, the sixth generation ancestor, was the prince's young master during the reign of Emperor Gao and was granted the title of Liuhou.
 When Zhang Hao was young, he traveled to the capital to study. In Yongyuanzhong, he returned to the prefecture and served as an official. He established the mansion of General Deng Zhi. He was promoted to Shangshu Pushe five times and served for eight years before becoming the prime minister of Pengcheng.
@@ -28,119 +25,44 @@ Later, Linghu Mao, the third elder of Huguan, wrote a letter saying that the pri
 Now that the crown prince is only ten years old, he still does not know the meaning of the nine virtues of the nanny master. He should choose virtuous people to assist him so that he can become the emperor.
 The book was submitted but was not accepted.
 Emperor Shun ascended the throne and appointed Zhang Hao as Sikong. He promoted many talents in office and the world called him a pusher.
-At this time, Zhao Teng of Qinghe wrote a letter about the disaster, ridiculed the government, reported to those in charge, and arrested Zhao Teng and others for questioning. More than 80 party members were involved, all of whom should be severely punished for slandering the imperial court.
-Zhang Hao's admonishment was: I heard that Yao and Shun set up drums for remonstrance, and three kings set up slander trees. The Spring and Autumn Annals collect good things and write about bad things, and the wise emperor does not inflict crimes on the common people in the grass.
-Although Zhao Teng and others violated the law and violated the law, he spoke out of loyalty and integrity.
 
 summary:
-summary line 0: # Summary of Historical Biographies
+summary line 0: Zhang Hao, courtesy name Shuming, was from Wuyang, Qianwei County. His sixth-generation ancestor Zhang Liang served as prince's young master under Emperor Gao and was granted the title of Liuhou. Zhang Hao studied in the capital as a youth, later served as an official, and was promoted five times to Shangshu Pushe before becoming prime minister of Pengcheng. In Yongning's first year, he became Tingwei. Though not a Legalist, he emphasized proper punishment and often debated with ministers to correct doubts. When Emperor An deposed the crown prince, Zhang Hao argued unsuccessfully with officials. He later submitted a memorial citing historical examples of wrongful accusations and urging the selection of virtuous advisors for the young prince, but his advice was rejected. Under Emperor Shun, Zhang Hao became Sikong and promoted many talents. When Zhao Teng and others were arrested for criticizing the government, Zhang Hao admonished the emperor, citing ancient practices of accepting remonstrance, and persuaded him to reduce their sentences. He was removed from office due to natural disasters, reinstated as Tingwei in Yangjia's first year, and died in office at age eighty-three.
 
-Chunk 0: 
+Chunk 3: 
 original: 
-张晧子纲王龚子畅种暠子岱子拂挮子劭陈球
-张晧字叔明，犍为武阳人也。六世祖良，高帝时为太子少傅，封留侯。告少游学京师，永元中，归仕州郡，辟大将军邓骘府，五迁尚书仆射，职事八年，出为彭城相。
-永宁元年，征拜廷尉。
-晧虽非法家，而留心刑断，数与尚书辩正疑狱，多以详当见从。
-时安帝废皇太子为济阴王，晧与太常桓焉、太仆来历廷争之，不能得。
-事已具《来历传》。
-退而上疏曰： 昔贼臣江充，造构谗逆，至令戾园兴兵，终及祸难。
-后壶关三老一言，上乃觉悟，虽追前失，悔之何逮！
-今皇太子春秋方始十岁，未见保傅九德之义，宜简贤辅，就成圣质。
-书奏不省。
-及顺帝即位，拜晧司空，在事多所荐达，天下称其推士。
-时清河赵腾上言灾变，讥刺朝政，章下有司，收腾系考，所引党辈八十余人，皆以诽谤当伏重法。
-晧上疏谏曰： 臣闻尧舜立敢谏之鼓，三王树诽谤之木，《春秋》采善书恶，圣主不罪刍荛。
-腾等虽干上犯法，所言本欲尽忠正谏。
+书御，京师震竦。
+时，冀妹为皇后，内宠方盛，诸梁姻族满朝，帝虽知纲言直，终不忍用。
+时，广陵贼张婴等众数万人，杀刺史、二千石，寇乱扬、徐间，积十余年，朝廷不能讨。
+冀乃讽尚书，以纲为广陵太守，因欲以事中之。
+前遣郡守，率多求兵马，纲独请单车之职。
+既到，乃将吏卒十余人，径造婴垒，以慰安之，求得与长老相见，申示国恩。
+婴初大惊，既见纲诚信，乃出拜谒。
+纲延置上坐，问所疾苦。
+乃譬之曰：前后二千石多肆贪暴，故致公等怀愤相聚。
+二千石信有罪矣，然为之者又非义也。
+今主上仁圣，欲以文德服叛，故遣太守，思以爵禄相荣，不愿以刑罚相加，今诚转祸为福之时也。
+若闻义不服，天子赫然震怒，荆、扬、兗、豫大兵云合，岂不危乎？
+若不料强弱，非明也；充善取恶，非智也；去顺效逆，非忠也；身绝血嗣，非孝也；背正从邪，非直也；见义不为，非勇也；六者成败之几，利害所从，公其深计之。
+婴闻，泣下，曰： 荒裔愚人，不能自通朝廷，不堪侵枉，遂复相聚偷生，若鱼游釜中，喘息须臾间耳。
 translation: 
-◆Zhang Hao's biography, Zhang Hao's courtesy name was Shuming, and he was a native of Wuyang, Qianwei County. Zhang Liang, the sixth generation ancestor, was the prince's young master during the reign of Emperor Gao and was granted the title of Liuhou.
-When Zhang Hao was young, he traveled to the capital to study. In Yongyuanzhong, he returned to the prefecture and served as an official. He established the mansion of General Deng Zhi. He was promoted to Shangshu Pushe five times and served for eight years before becoming the prime minister of Pengcheng.
-In the first year of Yongning, he was promoted to Tingwei.
-Although Zhang Hao was not a Legalist, he paid attention to punishment and imprisonment, and often argued with ministers to correct doubts and doubts. Most of his opinions were adopted after careful consideration.
-At this time, Emperor An deposed the crown prince as King of Jiyin, and Zhang Hao argued with Taichang Huanyan and Taipu about the origins of the throne in the court, but to no avail.
-The matter has been recorded in the Biography of Origin.
-Zhang Hao withdrew from the imperial court and wrote: "In the past, Jiang Chong, a traitor, made slanderous rumors and rebels, causing the military garden to raise troops, and finally disaster occurred."
-Later, Linghu Mao, the third elder of Huguan, wrote a letter saying that the prince had been wronged, and Emperor Wu realized that although he could catch up on his previous mistakes, regretting it would be of no use!
-Now that the crown prince is only ten years old, he still does not know the meaning of the nine virtues of the nanny master. He should choose virtuous people to assist him so that he can become the emperor.
-The book was submitted but was not accepted.
-Emperor Shun ascended the throne and appointed Zhang Hao as Sikong. He promoted many talents in office and the world called him a pusher.
-At this time, Zhao Teng of Qinghe wrote a letter about the disaster, ridiculed the government, reported to those in charge, and arrested Zhao Teng and others for questioning. More than 80 party members were involved, all of whom should be severely punished for slandering the imperial court.
-Zhang Hao's admonishment was: I heard that Yao and Shun set up drums for remonstrance, and three kings set up slander trees. The Spring and Autumn Annals collect good things and write about bad things, and the wise emperor does not inflict crimes on the common people in the grass.
-Although Zhao Teng and others violated the law and violated the law, he spoke out of loyalty and integrity.
+The book came in and the capital was shocked.
+At this time, Liang Ji's sister was the queen and was favored by the emperor. Zhu Liang's relatives were all over the court. Although the emperor knew that Zhang Gang was telling the truth, he finally couldn't bear to accept it.
+At this time, Guangling thief Zhang Ying and tens of thousands of people killed the governor and two thousand stones, invaded and disturbed Yang and Xu Jian, and for more than ten years, the imperial court was unable to attack them.
+Liang Ji then hinted to the minister to appoint Zhang Gang as the prefect of Guangling, hoping to attack and frame him.
+In the past, the county guards sent there usually asked the court for more troops and horses, so Zhang Gang sent a bicycle alone to take office.
+After arriving, he took only a dozen officials and soldiers to Zhang Ying's position, comforted them, and asked to meet their leader to explain the country's kindness to them.
+Zhang Ying was surprised at first and saw Zhang Gang's sincerity, so he came out to pay Zhang Gang a visit.
+Zhang Gang was invited to take a seat. Zhang Gang asked Zhang Ying what difficulties he had.
+Xiao Yu Zhang Ying said: In the past, most of the two thousand stones were corrupt and cruel, so that the public officials gathered together with anger.
+Erqianshi is truly guilty! However, it is also unjust for you to do so.
+Now the emperor is kind and wise, and wants to use virtue to quell the rebellion, so he sent me. I think if you can take it as an honor to receive the country's title and salary, I will not be willing to impose punishment on you. Now is really your time to turn misfortune into blessing!
+If you know what you should do, but still disobey the court, the emperor will be furious, and soldiers from Jing, Yang, Yan, and Yu will gather. Isn't it dangerous?
+If you do not measure the strong and the weak, this is ignorance; if you abandon the good and adopt the evil, this is unwise; if you disobey and follow the example of rebellion, this is disloyal; if you die without heirs, this is unfilial; if you follow evil anyway, this is not straight; if you do not do what is right, this is not courageous. These six points are the key to success or failure. The interests and benefits are interdependent. You can think about it deeply.
+After hearing this, Zhang Ying burst into tears and said: "Ignorant people in the remote areas cannot communicate with the court and cannot bear the oppression and bullying of the officials. As a last resort, everyone gathers together and ekes out an ignoble existence, just like a fish swimming in a cauldron, just taking a breather for a while."
 
 summary:
-summary line 1: **Zhang Hao and Zhang Gang**
-
-Chunk 0: 
-original: 
-张晧子纲王龚子畅种暠子岱子拂挮子劭陈球
-张晧字叔明，犍为武阳人也。六世祖良，高帝时为太子少傅，封留侯。告少游学京师，永元中，归仕州郡，辟大将军邓骘府，五迁尚书仆射，职事八年，出为彭城相。
-永宁元年，征拜廷尉。
-晧虽非法家，而留心刑断，数与尚书辩正疑狱，多以详当见从。
-时安帝废皇太子为济阴王，晧与太常桓焉、太仆来历廷争之，不能得。
-事已具《来历传》。
-退而上疏曰： 昔贼臣江充，造构谗逆，至令戾园兴兵，终及祸难。
-后壶关三老一言，上乃觉悟，虽追前失，悔之何逮！
-今皇太子春秋方始十岁，未见保傅九德之义，宜简贤辅，就成圣质。
-书奏不省。
-及顺帝即位，拜晧司空，在事多所荐达，天下称其推士。
-时清河赵腾上言灾变，讥刺朝政，章下有司，收腾系考，所引党辈八十余人，皆以诽谤当伏重法。
-晧上疏谏曰： 臣闻尧舜立敢谏之鼓，三王树诽谤之木，《春秋》采善书恶，圣主不罪刍荛。
-腾等虽干上犯法，所言本欲尽忠正谏。
-translation: 
-◆Zhang Hao's biography, Zhang Hao's courtesy name was Shuming, and he was a native of Wuyang, Qianwei County. Zhang Liang, the sixth generation ancestor, was the prince's young master during the reign of Emperor Gao and was granted the title of Liuhou.
-When Zhang Hao was young, he traveled to the capital to study. In Yongyuanzhong, he returned to the prefecture and served as an official. He established the mansion of General Deng Zhi. He was promoted to Shangshu Pushe five times and served for eight years before becoming the prime minister of Pengcheng.
-In the first year of Yongning, he was promoted to Tingwei.
-Although Zhang Hao was not a Legalist, he paid attention to punishment and imprisonment, and often argued with ministers to correct doubts and doubts. Most of his opinions were adopted after careful consideration.
-At this time, Emperor An deposed the crown prince as King of Jiyin, and Zhang Hao argued with Taichang Huanyan and Taipu about the origins of the throne in the court, but to no avail.
-The matter has been recorded in the Biography of Origin.
-Zhang Hao withdrew from the imperial court and wrote: "In the past, Jiang Chong, a traitor, made slanderous rumors and rebels, causing the military garden to raise troops, and finally disaster occurred."
-Later, Linghu Mao, the third elder of Huguan, wrote a letter saying that the prince had been wronged, and Emperor Wu realized that although he could catch up on his previous mistakes, regretting it would be of no use!
-Now that the crown prince is only ten years old, he still does not know the meaning of the nine virtues of the nanny master. He should choose virtuous people to assist him so that he can become the emperor.
-The book was submitted but was not accepted.
-Emperor Shun ascended the throne and appointed Zhang Hao as Sikong. He promoted many talents in office and the world called him a pusher.
-At this time, Zhao Teng of Qinghe wrote a letter about the disaster, ridiculed the government, reported to those in charge, and arrested Zhao Teng and others for questioning. More than 80 party members were involved, all of whom should be severely punished for slandering the imperial court.
-Zhang Hao's admonishment was: I heard that Yao and Shun set up drums for remonstrance, and three kings set up slander trees. The Spring and Autumn Annals collect good things and write about bad things, and the wise emperor does not inflict crimes on the common people in the grass.
-Although Zhao Teng and others violated the law and violated the law, he spoke out of loyalty and integrity.
-
-summary:
-summary line 2: Zhang Hao, courtesy name Shuming, was from Wuyang, Qianwei County. His sixth-generation ancestor Zhang Liang served as prince's young master under Emperor Gao and was granted the title of Liuhou. Zhang Hao studied in the capital as a youth, later served as an official, and was promoted five times to Shangshu Pushe before becoming prime minister of Pengcheng. In Yongning's first year, he became Tingwei. Though not a Legalist, he emphasized proper punishment and often debated with ministers to correct doubts. When Emperor An deposed the crown prince, Zhang Hao argued unsuccessfully with officials. He later submitted a memorial citing historical examples of wrongful accusations and urging the selection of virtuous advisors for the young prince, but his advice was rejected. Under Emperor Shun, Zhang Hao became Sikong and promoted many talents. When Zhao Teng and others were arrested for criticizing the government, Zhang Hao admonished the emperor, citing ancient practices of accepting remonstrance, and persuaded him to reduce their sentences. He was removed from office due to natural disasters, reinstated as Tingwei in Yangjia's first year, and died in office at age eighty-three.
-
-Chunk 4: 
-original: 
-今闻明府之言，乃婴等更生之辰也。
-既陷不义，实恐投兵之日，不免孥戮。
-纲约之以天地，誓之以日月，婴深感悟，乃辞还营。
-明日，将所部万余人与妻子面缚归降。
-纲乃单车入婴垒，大会，置酒为乐，散遣部众，任从所之；亲为卜居宅，相田畴；子弟欲为吏者，皆引召之。
-人情悦服，南州晏然。
-朝廷论功当封，梁冀遏绝，乃止。
-天子嘉美，征欲擢用纲，而婴等上书乞留，乃许之。
-纲在郡一年，年四十六卒。
-百姓老幼相携，诣府赴哀者不可胜数。
-纲自被疾，吏人咸为祠祀祈福，皆言 千秋万岁，何时复见此君 。
-张婴等五百余人制服行丧，送到犍为，负土成坟。
-诏曰： 故广陵太守张纲，大臣之苗，剖符统务，正身导下，班宣德信，降集剧贼张婴万人，息干戈之役，济蒸庶之困，未升显爵，不幸早卒。
-婴等缞杖，若丧考妣，朕甚愍焉！
-拜纲子续为郎中，赐钱百万。
-translation: 
-Now, after listening to the prefect’s words, it’s time for me, Zhang Ying, to be reborn.
-However, since he has fallen into injustice, he is afraid that he will be arrested and killed on the day of surrender.
-Zhang Gang made a promise that he would not change forever, and he swore by the light of the sun and moon. Zhang Ying was deeply moved, so he resigned from Zhang Gang and returned to camp.
-The next day, more than 10,000 people surrendered face to face with their wives.
-Zhang Gangyu rode a bicycle into Zhang Ying's camp, held a meeting, drank and had fun, dismissed the troops, and let everyone go wherever he wanted. He personally found houses for the dismissed personnel and inspected the fields. His sons who wanted to be officials were summoned and summoned.
-The favor is pleasing to the eye, and Nanzhou is safe and sound.
-The imperial court decided to confer Zhang Gang on merit, but Liang Ji stopped him and refused to do so.
-Emperor Jiamei wanted to recruit and promote Zhang Gang. Zhang Ying and others wrote a letter requesting that Zhang Gang be allowed to stay in Guangling, and the court approved their request.
-Zhang Gang stayed in the county for one year and died at the age of forty-six.
-The common people supported the old and young, and countless people came to the county government to mourn.
-Since Zhang Gang fell ill, the officials have prayed for him and said, "Long live Qianqiu, when will I see you again?"
-Zhang Ying and more than 500 people dressed in mourning clothes went all the way to Jianwei, where they carried earth and built the tomb.
-The imperial court issued an edict saying: Zhang Gang, the late prefect of Guangling, a descendant of the minister, was ordered by the emperor to manage affairs, set an example, induced subordinates, promulgated and publicized the country's moral credit, and made the great thief Zhang Ying lead more than 10,000 people to surrender, eliminating the disaster of war and relieving the hardship of the people. Unfortunately, he died early without being promoted to a high position.
-Zhang Ying and others were dressed in mourning clothes and holding mourning sticks, as if their parents had died.
-I was very sad about his death. Zhang Gang's son Zhang Xu was made a doctor and given millions of dollars.
-
-summary:
-summary line 3: Zhang Hao's son Zhang Gang, courtesy name Wen Ji, was proficient in Confucian classics and strictly maintained integrity. He became imperial censor under Emperor Shun. Distressed by the emperor's indulgence of eunuchs, Zhang Gang submitted a memorial contrasting the frugal governance of earlier Han emperors with current corruption, urging reform. The emperor did not accept it. In Han'an's first year, when eight envoys were selected to inspect customs, Zhang Gang alone buried his carriage wheel in Luoyang, declaring he would investigate the powerful rather than minor officials. He submitted a report condemning General Liang Ji and his relatives for corruption and tyranny. Though the emperor knew Zhang Gang was truthful, he did not act due to Liang Ji's influence. Liang Ji then appointed Zhang Gang as prefect of Guangling, hoping the bandit troubles there would destroy him. Zhang Gang went alone with few officials to meet the bandit leader Zhang Ying, persuading him to surrender through sincere discussion of loyalty and consequences. Over ten thousand people surrendered. Zhang Gang died at forty-six, with the people mourning deeply and Zhang Ying leading over five hundred in mourning attire to build his tomb.
+summary line 1: Zhang Hao's son Zhang Gang, courtesy name Wen Ji, was proficient in Confucian classics and strictly maintained integrity. He became imperial censor under Emperor Shun. Distressed by the emperor's indulgence of eunuchs, Zhang Gang submitted a memorial contrasting the frugal governance of earlier Han emperors with current corruption, urging reform. The emperor did not accept it. In Han'an's first year, when eight envoys were selected to inspect customs, Zhang Gang alone buried his carriage wheel in Luoyang, declaring he would investigate the powerful rather than minor officials. He submitted a report condemning General Liang Ji and his relatives for corruption and tyranny. Though the emperor knew Zhang Gang was truthful, he did not act due to Liang Ji's influence. Liang Ji then appointed Zhang Gang as prefect of Guangling, hoping the bandit troubles there would destroy him. Zhang Gang went alone with few officials to meet the bandit leader Zhang Ying, persuading him to surrender through sincere discussion of loyalty and consequences. Over ten thousand people surrendered. Zhang Gang died at forty-six, with the people mourning deeply and Zhang Ying leading over five hundred in mourning attire to build his tomb.
 
 Chunk 5: 
 original: 
@@ -161,8 +83,6 @@ original:
 永建元年，征袭为太仆，转太常。
 四年，迁司空，以地震策免。
 永和元年，拜太尉。
-在位恭慎，自非公事，不通州郡书记。
-其所辟命，皆海内长者。
 translation: 
 ◆The biography of Wang Gong, whose courtesy name is Bo Zong, was from Gaoping County, Shanyang County.
 It has been a wealthy family for generations.
@@ -181,59 +101,16 @@ Yuan Lang, whose courtesy name was Fenggao, resigned from the government service
 In the first year of Yongjian's reign, Wang Gong was recruited as his servant and transferred to Taichang.
 In the fourth year, he was promoted to Sikong, but was dismissed due to the earthquake.
 In the first year of Yonghe, he was appointed Taiwei.
-He is serious and prudent when in office. It is not official business, and he does not communicate with the state or county by letters.
-Those he appointed were all respected elders in the country.
 
 summary:
-summary line 4: **Wang Gong and Wang Chang**
-
-Chunk 5: 
-original: 
-王龚字伯宗，山阳高平人也。
-世为豪族。
-初举孝廉，稍迁青州刺史，劾奏贪浊二千石数人，安旁嘉之，征拜尚书。
-建光元年，擢为司隶校尉，明年迁汝南太守。
-政崇温和，好才爱士，引进郡人黄宪、陈蕃等。
-宪虽不屈，蕃遂就吏。
-蕃性气高明，初到，龚不即召见之。
-乃留记谢病去。
-龚怒，使除其录。
-功曹袁阆请见，言曰： 闻之传曰 人臣不见察于君，不敢立于朝 ，蕃既以贤见引，不宜退以非礼。
-龚改容谢曰： 是吾过也。
-乃复厚遇待之。
-由是后进知名之士莫不归心焉。
-阆字奉高。数辞公府之命，不修异操，而致名当时。
-永建元年，征袭为太仆，转太常。
-四年，迁司空，以地震策免。
-永和元年，拜太尉。
-在位恭慎，自非公事，不通州郡书记。
-其所辟命，皆海内长者。
-translation: 
-◆The biography of Wang Gong, whose courtesy name is Bo Zong, was from Gaoping County, Shanyang County.
-It has been a wealthy family for generations.
-He was initially elected as Xiaolian and moved to the governor of Qingzhou. He impeached several people for embezzlement of two thousand dan. Emperor An commended him and conscripted him into Shangshu.
-In the first year of Jianguang, he was promoted to Sili Xiaowei, and in the second year he was promoted to Runan prefect.
-In order to advocate moderate politics and love talents, he introduced county people Huang Xian, Chen Fan and others.
-Although Huang Xian refused to give in, Chen Fan became an official.
-Chen Fan was a man of good temperament. When he first arrived at the house, Wang Gong did not summon him immediately.
-So I left a note and went back saying I was sick.
-Wang Gong was angry and wanted to remove Chen Fan's name.
-The meritorious Cao Yuan Lang asked to see Wang Gong and said: I heard that there is a saying in "Zhuan": If a minister is not understood by the king, he will not dare to stand in the court. Since Chen Fan was introduced as a wise person, he should not be dismissed as inappropriate.
-Wang Gong changed his color and said: It's my fault!
-So he treated him politely.
-Therefore, the late and famous people all admired Wang Gong.
-Yuan Lang, whose courtesy name was Fenggao, resigned from the government service several times and did not seek any special conduct, but he enjoyed great fame at the time.
-In the first year of Yongjian's reign, Wang Gong was recruited as his servant and transferred to Taichang.
-In the fourth year, he was promoted to Sikong, but was dismissed due to the earthquake.
-In the first year of Yonghe, he was appointed Taiwei.
-He is serious and prudent when in office. It is not official business, and he does not communicate with the state or county by letters.
-Those he appointed were all respected elders in the country.
-
-summary:
-summary line 5: Wang Gong, courtesy name Bo Zong, was from Gaoping County, Shanyang. He served as Qingzhou governor, impeaching corrupt officials, and was promoted to Shangshu. He became Runan prefect, where he promoted moderate governance and introduced talented individuals like Huang Xian and Chen Fan. When Chen Fan left a note claiming illness after not being immediately received, Wang Gong initially wanted to dismiss him but was persuaded otherwise by meritorious official Yuan Lang. Wang Gong later became Taiwei, maintaining strict propriety and appointing respected elders. Concerned about eunuch power, he submitted a memorial requesting their banishment. Eunuchs retaliated by falsely accusing him, and Emperor Shun ordered him to confess. Li Gu wrote to General Liang Shang urging intervention, citing historical precedents, and the matter was resolved. Wang Gong served five years before retiring due to age and illness, dying at home.
+summary line 2: Wang Gong, courtesy name Bo Zong, was from Gaoping County, Shanyang. He served as Qingzhou governor, impeaching corrupt officials, and was promoted to Shangshu. He became Runan prefect, where he promoted moderate governance and introduced talented individuals like Huang Xian and Chen Fan. When Chen Fan left a note claiming illness after not being immediately received, Wang Gong initially wanted to dismiss him but was persuaded otherwise by meritorious official Yuan Lang. Wang Gong later became Taiwei, maintaining strict propriety and appointing respected elders. Concerned about eunuch power, he submitted a memorial requesting their banishment. Eunuchs retaliated by falsely accusing him, and Emperor Shun ordered him to confess. Li Gu wrote to General Liang Shang urging intervention, citing historical precedents, and the matter was resolved. Wang Gong served five years before retiring due to age and illness, dying at home.
 
 Chunk 7: 
 original: 
+昔绛侯得罪，袁盎解其过，魏尚获戾，冯唐诉其冤，时君善之，列在书传。
+今将军内倚至尊，外典国柄，言重信著，指捴无违，宜加表救，济王公之艰难。
+语曰： 善人在患，饥不及餐。
+然则立德者以幽陋好遗，显登者以贵涂易引。
 故晨门有抱关之夫，柱下无朱文之轸也。
 暢字叔茂。
 少以清实为称，无所交党。
@@ -248,11 +125,11 @@ original:
 暢深疾之，下车奋厉威猛，其豪党有衅秽者，莫不纠发。会赦，事得散。
 暢追恨之，更为设法，诸受臧二千万以上不自首实者，尽入财物；若其隐伏，使吏发屋伐树，堙井夷灶，豪右大震。
 功曹张敞奏记谏曰：五教在宽，著之经典。
-汤去三面，八方归仁。
-武王入殷，先去砲格之刑。
-高祖鉴秦，唯定三章之法。
-孝文皇帝感一缇萦，蠲除肉刑。
 translation: 
+In the past, Jianghou Zhou Bo was offended, and Yuan An appealed for him and was acquitted; Wei Shang was found guilty, and Feng Tang appealed for him. Emperor Wen at that time thought that they had done a good job, and this matter was recorded in the biography.
+Now the general relies on the emperor in the court and controls the power of the country outside. His prestige is clear, his words are respected, and no one dares to disobey his command. He should come to the rescue and save the prince from difficulties.
+As the saying goes: A good man is in trouble and waits for food when he is hungry.
+This is the time. Liang Shang immediately told the emperor and the matter was resolved.
 Wang Gong reigned for five years. Due to old age and illness, he asked to go home and died at home.
 The son's name is Wang Chang. ◆Wang Changzhuan, Wang Chang's courtesy name is Shumao.
 When he was young, he was praised for his honesty and integrity. Rarely socializes with people.
@@ -267,25 +144,12 @@ The two thousand stones before him were all afraid of the noble relatives of the
 Wang Chang hated them deeply, and as soon as he took office, he showed his power. Those who were guilty among them were investigated and exposed one by one. When the imperial court granted amnesty, the matter was resolved.
 Wang Chang's old grudges were still lingering, and he established another regulation. If each person who received more than 20 million stolen goods refused to surrender and admit it, all his property would be confiscated. If there was any concealment, officials would be sent to demolish houses, cut down trees, fill in wells and flatten stoves. Some evil forces were greatly shocked.
 Zhang Chang, a meritorious scholar, wrote a letter to remonstrate: "The Five Religions are broad and have been written in the classics."
-Shang Tang said that when the net is removed from three sides, all directions will submit to his benevolence.
-When King Wu entered the Yin Dynasty, he first got rid of Zhou's punishment of cannon burning.
-Emperor Gaozu of the Han Dynasty saw the harsh governance of the Qin Dynasty and only made three chapters of the agreement.
-Emperor Xiaowen was moved by Tiying's letter to redeem his father and removed the corporal punishment.
 
 summary:
-summary line 6: Wang Gong's son Wang Chang, courtesy name Shumao, was known for honesty. He served in various positions including Yuyang prefect, where he was praised for seriousness and shrewdness. After being dismissed, he was recommended by Taiwei Chen Fan and became minister, then Nanyang governor. He harshly punished corrupt officials, demolishing houses and cutting down trees of those who concealed stolen goods. Meritorious official Zhang Chang advised leniency, citing historical examples of benevolent governance. Wang Chang accepted this advice and implemented lenient governance. He personally practiced frugality to correct extravagant habits. When advising young Liu Biao, Wang Chang emphasized moderation and cited historical examples of integrity. He later became Sikong but was dismissed due to floods, dying at home the following year.
+summary line 3: Wang Gong's son Wang Chang, courtesy name Shumao, was known for honesty. He served in various positions including Yuyang prefect, where he was praised for seriousness and shrewdness. After being dismissed, he was recommended by Taiwei Chen Fan and became minister, then Nanyang governor. He harshly punished corrupt officials, demolishing houses and cutting down trees of those who concealed stolen goods. Meritorious official Zhang Chang advised leniency, citing historical examples of benevolent governance. Wang Chang accepted this advice and implemented lenient governance. He personally practiced frugality to correct extravagant habits. When advising young Liu Biao, Wang Chang emphasized moderation and cited historical examples of integrity. He later became Sikong but was dismissed due to floods, dying at home the following year.
 
-Chunk 9: 
+Chunk 10: 
 original: 
-郡中豪族多以奢靡相尚，暢常布衣皮褥，车马羸败，以矫其敞。
-同郡刘表时年十七，从暢受学。
-进谏曰： 夫奢不僭上，俭不逼下，循道行礼，贵处可否之间。
-蘧伯玉耻独为君子。
-府君不希孔圣之明训，而慕夷，齐之末操，无乃皎然自贵于世乎？
-暢曰： 昔公仪休在鲁，拔园葵，去织妇；孙叔敖相楚，其子被裘刈薪。
-夫以约失之鲜矣。
-闻伯夷之风者，贪夫廉，懦夫有立志。
-虽以不德，敢慕遣烈。
 后征为长乐卫尉。
 建宁元年，迁司空，数月，以水灾策免。
 明年，卒于家。
@@ -296,16 +160,13 @@ original:
 父卒，暠悉以赈恤宗族及邑里之贫者。
 其有进趣名利，皆不与交通。
 始为县门下史。
+时河南尹田歆外甥王谌，名知人。
+歆谓之曰： 今当举六孝廉，多得贵戚书命，不宜相违，欲自用一名士以报国家，尔助我求之。
+明日，谌送客于大阳郭，遥见暠，异之。还白歆曰： 为尹得孝廉矣，近洛阳门下史也。
+歆笑曰： 当得山泽隐滞，乃洛阳吏邪？
+谌曰： 山泽不必有异士，异士不必在山泽。
+歆即召暠于庭，辩诘职事。
 translation: 
-Most of the large bureaucratic families in Nanyang County boasted of extravagance and waste. Wang Chang usually wore cloth and leather mattresses, and lost horses and chariots to correct this bad habit.
-Liu Biao from the same county was seventeen years old and studied with Wang Chang.
-Wang Chang advised: "Don't be too extravagant when it comes to extravagance, do what you do when you're thrifty, don't be forced to do it, and behave according to the Tao. The most important thing is to be within the realm of what's possible and what's appropriate."
-It is shameful for Zang Boyu to think that he is a gentleman alone.
-You do not pay attention to the clear teachings of the sage Confucius, but you envy Shuyi Boqi's trivial ethics. Don’t you want to value yourself in the world with your purity?
-Wang Chang said: In the past, when Gong Yixiu was the prime minister of Lu, he uprooted the sunflowers in the garden and divorced his weaver wife; Sun Shu Ao was prime minister of Chu, and his son was killed by Qiu.
-Few people fail by saving.
-After listening to Boyi's noble character, corrupt people will become honest, and cowardly people will be determined to improve themselves.
-Although I have no virtue, I admire the achievements of the ancients.
 Later he was appointed as Changle Guardsman.
 In the first year of Jianning, he was promoted to Sikong. Only a few months later, he was dismissed due to floods.
 The next year, he died at home.
@@ -316,61 +177,21 @@ His father was the magistrate of Dingtao County and had a fortune of thirty mill
 After his father died, Zhong Hao used all the money to help the poor in his clan and county.
 Those who strive for fame and wealth, Zhong Hao will not associate with them.
 Started to work as a county clerk.
+At that time, Wang Chen, the nephew of Yin Tianxin in Henan Province, had a good understanding of people.
+Tian Xin said to Wang Chen: Now I have to recommend six filial and honest people. I have received many letters from relatives of high-ranking officials and nobles. I cannot go against their orders. I want to use one of my own to serve the country. Please help me find them.
+The next day, Wang Chen sent guests to Dayangguo. He saw Zhong Hao from a distance and thought he was not a mortal. He went back and told Tian Xin, "I have found a Xiaolian for you, who is a member of the Luoyang family."
+Tian Xin laughed and said: "The person who should be prayed for to live in seclusion in Shanze and not be an official turns out to be a Luoyang official!"
+Wang Chen said: There may not necessarily be strangers in the mountains and rivers, and strangers may not necessarily be in the mountains and rivers.
+Tian Xin immediately summoned Zhong Hao in the court and asked him about his duties.
 
 summary:
-summary line 7: **Zhong Hao, Zhong Dai, Zhong Fu, and Zhong Shao**
+summary line 4: Zhong Hao, courtesy name Jing Bo, was from Luoyang County. After his father died, he used his inheritance to help the poor. He was recommended as filial and incorrupt by Wang Chen, who recognized his potential. Zhong Hao served as censor under Emperor Shun, impeaching corrupt officials recommended by Liang Ji. When eunuch Gao Fan came to meet the crown prince, Zhong Hao prevented him from entering without proper authorization, earning imperial praise. As Yizhou governor, he extended Han influence to foreign tribes. He exposed a prefect who presented gold snakes to Liang Ji, earning Liang Ji's enmity. After being framed by Liang Ji, he was pardoned due to Li Gu's intervention. He later served as Liangzhou governor, winning great popularity, and as Hanyang prefect, where he taught Qiang and Hu people. As general against the Xiongnu, he secured border peace through sincere persuasion. He became Situ in Yanxi's fourth year, recommending capable ministers, and died at sixty-one, mourned by border residents and even the Xiongnu.
 
-Chunk 12: 
+Chunk 15: 
 original: 
-太尉李固上疏救曰： 臣伏闻讨捕所伤，本非暠、承之意，实由县吏惧法畏罪，迫逐深苦，致此不详。
-比盗贼群起，处处未绝。
-暠、承以首举大奸，而相随受罪，臣恐沮伤州县纠发之意，更共饰匿，莫复尽心。
-梁太后省奏，乃赦暠、承罪，免官而已。
-后凉州羌动，以暠为凉州刺史，甚得百姓欢心。
-被征当迁，吏人诣阙请留之，太后叹曰： 未闻刺史得人心若是。
-乃许之。
-暠复留一年，迁汉阳太守，戎夷男女送至汉阳界，暠与相揖谢，千里不得乘车。
-及到郡，化行羌胡，禁止侵掠。
-迁使匈奴中郎将。
-时，辽东乌桓反叛，复转辽东太守，乌桓望风率服，迎拜于界上。
-坐事免归。
-后司隶校尉举暠贤良方正，不应。
-征拜议郎，迁南郡太守，入为尚书。会匈奴寇并、凉二州，桓帝擢暠为度辽将军。
-暠到营所，先宣恩信，诱降诸胡，其有不服，然后加讨。
-羌虏先时有生见获质于郡县者，悉遣还之。
-诚心怀抚，信赏分明，由是羌胡、龟兹、莎车、乌孙等皆来顺服。
-乃去烽燧，除候望，边方晏然无警。
-入为大司农。
-延熹四年，迁司徒。
-推达名臣桥玄、皇甫规等，为称职相。
-translation: 
-Taiwei Li Gushang Shujiu said: I heard that the reason why this capture was so harmful was not the fault of Zhong Hao or the promised responsibility. It was actually because the county officials were afraid of breaking the law and being punished, so they forced them to drive away, and the people suffered deeply, leading to this bad result.
-There has been an increase in thieves recently, everywhere.
-Zhong Hao and Ying Cheng were the first to report the treachery and were immediately punished. I am afraid that this will dampen the enthusiasm of the states and counties to report and impeach. In the future, they will cover up each other and no longer serve the country wholeheartedly.
-The Empress Dowager Liang read the memorial, pardoned Zhong Hao and Ying Cheng, and only relieved them of their official duties.
-Later, there was turmoil among the Qiang people in Liangzhou, and Zhong Hao was appointed governor of Liangzhou, which was very popular among the people.
-Zhong Hao was recruited and promoted, and officials went to the court to retain Zhong Hao as the governor of Liangzhou. The Queen Mother sighed and said: "I have never heard that the governor can win people's hearts like this."
-So the request of the Liangzhou officials was approved.
-Zhong Hao stayed for another year and was promoted to the prefect of Hanyang. The Rong and Yi men and women were sent to the territory of Hanyang. Zhong Hao bowed to them and thanked them, walking thousands of miles without a car.
-Zhong Hao went to Hanyang County and taught Qiang and Hu people, but they themselves prohibited intrusion and plundering property.
-He was promoted to the rank of Zhonglang General who was envoy to the Xiongnu.
-At this time, Wuhuan of Liaodong rebelled and was transferred to the post of governor of Liaodong. Wuhuan observed the limelight and led his subordinates to surrender, and greeted Zhong Hao on the border.
-He was convicted and discharged from office and returned home.
-From now on, the commander of the Sili School will recommend Zhong Hao as a virtuous and upright person, but he should not do so.
-He was recruited and awarded Yilang, promoted to the prefect of Nanjun, and transferred to Shangshu. When the Huns invaded Bingzhou and Liangzhou, Emperor Huan selected Zhong Hao as the general to conquer Liao.
-When Zhong Hao arrived at the camp, he first announced that he would talk about kindness and loyalty, and then he would launch a conquest as a last resort to lure the barbarians to surrender.
-Qiang captives who had been imprisoned alive in counties in the past were all sent back.
-Sincerely comfort, trust and reward are clear. Therefore, Qianghu, Qiuci, Yarkand, Wusun and other countries came to submit.
-Zhong Hao then removed the beacon tower and the waiting facilities, and the border was safe.
-He was transferred to the imperial court as the chief minister of agriculture.
-In the fourth year of Yanxi's reign, he was promoted to Situ.
-The famous ministers Qiao Xuan and Huangfu Gui were recommended as competent prime ministers.
-
-summary:
-summary line 8: Zhong Hao, courtesy name Jing Bo, was from Luoyang County. After his father died, he used his inheritance to help the poor. He was recommended as filial and incorrupt by Wang Chen, who recognized his potential. Zhong Hao served as censor under Emperor Shun, impeaching corrupt officials recommended by Liang Ji. When eunuch Gao Fan came to meet the crown prince, Zhong Hao prevented him from entering without proper authorization, earning imperial praise. As Yizhou governor, he extended Han influence to foreign tribes. He exposed a prefect who presented gold snakes to Liang Ji, earning Liang Ji's enmity. After being framed by Liang Ji, he was pardoned due to Li Gu's intervention. He later served as Liangzhou governor, winning great popularity, and as Hanyang prefect, where he taught Qiang and Hu people. As general against the Xiongnu, he secured border peace through sincere persuasion. He became Situ in Yanxi's fourth year, recommending capable ministers, and died at sixty-one, mourned by border residents and even the Xiongnu.
-
-Chunk 14: 
-original: 
+朝廷竟不能从。
+拂字颖伯。
+初为司隶从事，拜宛令。
 时，南阳郡吏好因休沐，游戏市里，为百姓所患。
 拂出逢之，必下车公谒，以愧其心，自是莫敢出者。
 政有能名，累迁光禄大夫。
@@ -390,10 +211,10 @@ original:
 卓既擅权，而恶劭强力，遂左转议郎，出为益、凉二州刺史。
 会父拂战死，竟不之职。服终，征为少府、大鸿胪，皆辞不受。
 曰： 昔我先父以身徇国，吾为臣子，不能除残复怨，何面目朝觐明主哉！
-遂与马腾、韩遂及左中郎刘范、谏议大夫马宇共攻李、郭，以报其仇。
-与战于长平观下，军败，劭等皆死。
-腾遂还凉州。
 translation: 
+The court actually did not do this.
+◆Zhongfu Chuan, whose name is Yingbo.
+He began to work for Sili and was appointed magistrate of Wan County.
 At that time, Nanyang County officials liked to play in the market during menstruation, causing harm to the people.
 When Zhong Fu went out and met them, he would definitely get out of the car to meet them and make them feel ashamed. From then on, I didn’t dare to come out.
 He had a good reputation for being capable in politics and was promoted to Guanglu doctor.
@@ -413,57 +234,12 @@ When He Jin failed, Emperor Xian ascended the throne and made Shao a doctor.
 Dong Zhuo had monopolized power and was a powerful villain. He was demoted to Yilang and made governor of Yizhou and Liangzhou.
 When his father died in battle and he was unable to take up his post, the period of mourning expired and he was recruited as a Shaofu or Dahonglu, but neither of them accepted it.
 He said: My late father died for the country, and as a minister, I cannot drive away the cruelty and avenge the resentment in my heart. How can I show my face to the Lord!
-So together with Ma Teng, Han Sui, Zuo Zhonglang Liu Fan, and admonishment official Ma Yu, they attacked Li Chu and Guo Si to avenge their hatred.
-He fought with Guo Si at Changping Temple, but failed. Zhong Shao and others died in the battle.
-Ma Teng went back to Liangzhou.
 
 summary:
-summary line 9: Zhong Hao's son Zhong Dai, courtesy name Gongzu, loved learning but refused official appointments, dying of illness. His brother Zhong Fu, courtesy name Yingbo, served as Wan County magistrate, where he shamed corrupt officials into reform. He became Sikong but was dismissed due to earthquakes. When Li Chu and Guo Si rebelled, Zhong Fu fought to the death in the palace, dying alongside his son Zhong Shao. Zhong Shao, courtesy name Shenfu, served as an admonishing official. He confronted Dong Zhuo, forcing him to retreat. After Dong Zhuo seized power, Zhong Shao refused high office, declaring he could not face the emperor while his father's murderers remained unpunished. He joined Ma Teng and others to attack Li Chu and Guo Si but died in battle.
+summary line 5: Zhong Hao's son Zhong Dai, courtesy name Gongzu, loved learning but refused official appointments, dying of illness. His brother Zhong Fu, courtesy name Yingbo, served as Wan County magistrate, where he shamed corrupt officials into reform. He became Sikong but was dismissed due to earthquakes. When Li Chu and Guo Si rebelled, Zhong Fu fought to the death in the palace, dying alongside his son Zhong Shao. Zhong Shao, courtesy name Shenfu, served as an admonishing official. He confronted Dong Zhuo, forcing him to retreat. After Dong Zhuo seized power, Zhong Shao refused high office, declaring he could not face the emperor while his father's murderers remained unpunished. He joined Ma Teng and others to attack Li Chu and Guo Si but died in battle.
 
-Chunk 0: 
+Chunk 20: 
 original: 
-张晧子纲王龚子畅种暠子岱子拂挮子劭陈球
-张晧字叔明，犍为武阳人也。六世祖良，高帝时为太子少傅，封留侯。告少游学京师，永元中，归仕州郡，辟大将军邓骘府，五迁尚书仆射，职事八年，出为彭城相。
-永宁元年，征拜廷尉。
-晧虽非法家，而留心刑断，数与尚书辩正疑狱，多以详当见从。
-时安帝废皇太子为济阴王，晧与太常桓焉、太仆来历廷争之，不能得。
-事已具《来历传》。
-退而上疏曰： 昔贼臣江充，造构谗逆，至令戾园兴兵，终及祸难。
-后壶关三老一言，上乃觉悟，虽追前失，悔之何逮！
-今皇太子春秋方始十岁，未见保傅九德之义，宜简贤辅，就成圣质。
-书奏不省。
-及顺帝即位，拜晧司空，在事多所荐达，天下称其推士。
-时清河赵腾上言灾变，讥刺朝政，章下有司，收腾系考，所引党辈八十余人，皆以诽谤当伏重法。
-晧上疏谏曰： 臣闻尧舜立敢谏之鼓，三王树诽谤之木，《春秋》采善书恶，圣主不罪刍荛。
-腾等虽干上犯法，所言本欲尽忠正谏。
-translation: 
-◆Zhang Hao's biography, Zhang Hao's courtesy name was Shuming, and he was a native of Wuyang, Qianwei County. Zhang Liang, the sixth generation ancestor, was the prince's young master during the reign of Emperor Gao and was granted the title of Liuhou.
-When Zhang Hao was young, he traveled to the capital to study. In Yongyuanzhong, he returned to the prefecture and served as an official. He established the mansion of General Deng Zhi. He was promoted to Shangshu Pushe five times and served for eight years before becoming the prime minister of Pengcheng.
-In the first year of Yongning, he was promoted to Tingwei.
-Although Zhang Hao was not a Legalist, he paid attention to punishment and imprisonment, and often argued with ministers to correct doubts and doubts. Most of his opinions were adopted after careful consideration.
-At this time, Emperor An deposed the crown prince as King of Jiyin, and Zhang Hao argued with Taichang Huanyan and Taipu about the origins of the throne in the court, but to no avail.
-The matter has been recorded in the Biography of Origin.
-Zhang Hao withdrew from the imperial court and wrote: "In the past, Jiang Chong, a traitor, made slanderous rumors and rebels, causing the military garden to raise troops, and finally disaster occurred."
-Later, Linghu Mao, the third elder of Huguan, wrote a letter saying that the prince had been wronged, and Emperor Wu realized that although he could catch up on his previous mistakes, regretting it would be of no use!
-Now that the crown prince is only ten years old, he still does not know the meaning of the nine virtues of the nanny master. He should choose virtuous people to assist him so that he can become the emperor.
-The book was submitted but was not accepted.
-Emperor Shun ascended the throne and appointed Zhang Hao as Sikong. He promoted many talents in office and the world called him a pusher.
-At this time, Zhao Teng of Qinghe wrote a letter about the disaster, ridiculed the government, reported to those in charge, and arrested Zhao Teng and others for questioning. More than 80 party members were involved, all of whom should be severely punished for slandering the imperial court.
-Zhang Hao's admonishment was: I heard that Yao and Shun set up drums for remonstrance, and three kings set up slander trees. The Spring and Autumn Annals collect good things and write about bad things, and the wise emperor does not inflict crimes on the common people in the grass.
-Although Zhao Teng and others violated the law and violated the law, he spoke out of loyalty and integrity.
-
-summary:
-summary line 10: **Chen Qiu**
-
-Chunk 18: 
-original: 
-李咸乃诣阙上疏曰： 臣伏惟章德窦后虐害恭怀，安思阎后家犯恶逆，而和帝无异葬之议，顺朝无贬降之文。
-至于卫后，孝武皇帝身所废弃，不可以为比。
-今长乐太后尊号在身，亲尝称制，坤育天下，且授立圣明，光隆皇祚。
-太后以陛下为子，陛下岂得不以太后为母？
-子无黜母，臣无贬君，宜合葬宣陵，一如旧制。
-帝省奏，谓曹节等曰： 窦氏虽为不道，而太后有德于朕，不宜降黜。
-节等无复言，于是议者乃定。
 咸字元贞，汝南人。
 累经洲郡，以廉干知名，在朝清忠，权幸惮之。
 六年，迁球司空，以地震免。
@@ -471,14 +247,14 @@ original:
 光和元年，迁太尉，数月，以日食免。复拜光禄大夫。
 明年，为永乐少府，乃潜与司徒河间刘郃谋诛宦官。
 初，郃兄侍中，与大将军窦武同谋俱死，故郃与球相结。
+事未及发，球复以书劝郃曰： 公出自宗室，位登台鼎，天下瞻望，社稷镇卫，岂得雷同容容无违而已？
+今曹节等放纵为害，而久在左右，又公兄侍中受害节等，永乐太后所亲知也。
+今可表徙卫尉阳球为司隶校尉，以次收节等诛之。
+政出圣主，天下太平，可翘足而待也。
+又，尚书刘纳以正直忤宦官，出为步兵校尉，亦深劝于郃。
+郃曰： 凶竖多耳目，恐事未会，先受其祸。
+纳曰： 公为国栋梁，倾危不持，焉用彼相邪？
 translation: 
-Li Xian then went to the court and said, "I believe that Empress Zhang De Dou abused and tortured Gong Huai, and An Si and Yan Hou's family committed crimes, but he and the emperor had no intention of being buried together, and there was no word about demotion in Shun Temple."
-As for the Queen of Wei, it cannot be compared with the one abandoned by Emperor Xiaowu.
-Now she holds the title of Empress Dowager Changle, and she once came to the court to exercise authority, exercise the power of the emperor, educate the world, and install the current emperor to the throne.
-The Queen Mother regards the Emperor as her son, can the Emperor not recognize the Queen Mother as his mother?
-A son cannot depose his mother, and ministers cannot demote the emperor. They should be buried together in Xuanling, fully abiding by the old system.
-The emperor read the memorial and said to Cao Jie and others: Although the surnamed Dou is immoral, the Queen Mother has virtues for me and should not be demoted.
-Cao Jie said nothing more, so the discussion was settled.
 Li Xian, courtesy name Yuan Zhen, was from Runan.
 From state to county, it rises step by step. He is famous for his integrity and ability; he is loyal to the court, and generally the powerful and flattering people are afraid of him.
 In the sixth year, Chen Qiu was promoted to Sikong, but was dismissed due to an earthquake.
@@ -486,7 +262,14 @@ He was awarded Doctor Guanglu and then Tingwei and Taichang.
 In the first year of Guanghe, he was promoted to Taiwei. After a few months, he was dismissed due to a solar eclipse and was awarded the title of Guanglu doctor.
 In the second year, he was appointed as the Shaofu of Yongle, so he secretly planned with Situ Hejian and Liu to kill the eunuchs.
 At first, Liu's elder brother, the minister Liu Zhen, conspired with the general Dou Wu to kill the eunuchs, but they were both killed by the eunuchs, so Liu and Chen Qiu formed a conspiracy.
+Before the matter got started, Chen Qiu wrote another letter to persuade Liu: "The Duke is a descendant of the clan, and he is the third Duke. He is respected by people all over the world. Can the vassal guard of the country just go along with it and tolerate it without any objection?"
+Now Cao Jie and others are doing wanton harm and have always been by your side, and your brother Shizhong was harmed by Cao Jie and others. This is known to the Empress Dowager Yongle.
+Now we can transfer Wei Yangqiu from Wei to Sili Xiaowei, and capture and kill Cao Jie and others in turn.
+In this way, the emperor will take charge personally and the world will be at peace soon.
+In addition, Shangshu Liu Na offended the eunuchs because of his integrity and was transferred to the rank of infantry captain. He also urged Liu.
+Liu said: The vicious eunuchs have many eyes and ears, and they are afraid that things will be harmed before things are ready.
+Liu Na said: You are the pillar of the country. The country is tilting and is about to collapse. If you don't support it, what's the point of using you?
 
 summary:
-summary line 11: Chen Qiu, courtesy name Bo Zhen, was from Huaipu County, Xiapi. He was learned in Confucianism and law. As Fanyang magistrate, he refused to send bribes to the Wei prefect, who could not dismiss him due to his good reputation. As Lingling prefect, he defeated bandits and suppressed a rebellion, using innovative defensive tactics. He later became Nanyang governor but was slandered by powerful families and returned home. As Tingwei, he argued successfully for Empress Dowager Dou to be buried with Emperor Huan, despite opposition from eunuchs Cao Jie and Wang Fu. He later became Sikong but was dismissed due to earthquakes. He secretly plotted with Liu to kill eunuchs, but his wife's relative Cheng Huang betrayed them to Cao Jie. The emperor imprisoned Chen Qiu, who died in prison at sixty-two.
+summary line 6: Chen Qiu, courtesy name Bo Zhen, was from Huaipu County, Xiapi. He was learned in Confucianism and law. As Fanyang magistrate, he refused to send bribes to the Wei prefect, who could not dismiss him due to his good reputation. As Lingling prefect, he defeated bandits and suppressed a rebellion, using innovative defensive tactics. He later became Nanyang governor but was slandered by powerful families and returned home. As Tingwei, he argued successfully for Empress Dowager Dou to be buried with Emperor Huan, despite opposition from eunuchs Cao Jie and Wang Fu. He later became Sikong but was dismissed due to earthquakes. He secretly plotted with Liu to kill eunuchs, but his wife's relative Cheng Huang betrayed them to Cao Jie. The emperor imprisoned Chen Qiu, who died in prison at sixty-two.
 

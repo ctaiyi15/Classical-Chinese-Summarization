@@ -12,15 +12,6 @@ original:
 朕奉皇帝，夙夜瞻仰日月，冀望成就。
 岂意卒然颠沛，天年不遂，悲痛断心。
 朕惟平原王素被痼疾，念宗庙之重，思继嗣之统，唯长安侯祜质性忠孝，小心翼翼，能通《诗》、《论》，笃学乐古，仁惠爱下。
-年已十三，有成人之志。
-亲德系后，莫宜于祜。
-《礼》 昆弟之子犹己子 ；《春秋》之义，为人后者为之子，不以父命辞王父命。
-其以祜为孝和皇帝嗣，奉承祖宗，案礼仪奏。 又作策命曰： 惟延平元年秋八月癸丑，皇太后曰：咨长安侯祜：孝和皇帝懿德巍巍，光于四海；大行皇帝不永天年。
-朕惟侯孝章帝世嫡皇孙，谦恭慈顺，在孺而勤，宜奉郊庙，承统大业。
-今以侯嗣孝和皇帝后。
-其审君汉国，允执其中。一人有庆，万民赖之。
-皇帝其勉之哉！ 读策毕，太尉奉上玺绶，即皇帝位，年十三。
-太后犹临朝。
 translation: 
 Emperor Gongzong Xiaoan was named Hu, and he was the grandson of Suzong.
 His father is Liu Qing, the Xiaowang of Qinghe, and his mother is Zuo Ji.
@@ -34,6 +25,26 @@ The empress dowager issued an edict saying: The late emperor's holy virtue and v
 I serve the emperor and look forward to the years day and night, hoping to grow up quickly.
 Unexpectedly, a sudden change occurred, and the life was not forever, and the heart was broken with grief.
 I consider that the King of Pingyuan is suffering from a chronic illness. He has the important responsibilities of the ancestral temple and the successor to the throne. Only Liu Hu, the Marquis of Chang'an, is loyal and filial by nature, careful and prudent. He can understand "Poetry" and "Lun", study hard in ancient times, and be benevolent and loving. It is very suitable.
+
+
+Chunk 1: 
+original: 
+年已十三，有成人之志。
+亲德系后，莫宜于祜。
+《礼》 昆弟之子犹己子 ；《春秋》之义，为人后者为之子，不以父命辞王父命。
+其以祜为孝和皇帝嗣，奉承祖宗，案礼仪奏。 又作策命曰： 惟延平元年秋八月癸丑，皇太后曰：咨长安侯祜：孝和皇帝懿德巍巍，光于四海；大行皇帝不永天年。
+朕惟侯孝章帝世嫡皇孙，谦恭慈顺，在孺而勤，宜奉郊庙，承统大业。
+今以侯嗣孝和皇帝后。
+其审君汉国，允执其中。一人有庆，万民赖之。
+皇帝其勉之哉！ 读策毕，太尉奉上玺绶，即皇帝位，年十三。
+太后犹临朝。
+九月庚子，谒高庙。
+辛丑，谒光武庙。
+六州大水。
+己未，遣谒者分行虚实，举灾害，赈乏绝。
+丙寅，葬孝殇皇帝于庚陵。
+乙亥，陨石于陈留。
+translation: 
 He is now thirteen years old and has the ambition of an adult.
 There is no one better than Liu Hu to be close to the people and carry on the family line with virtue and virtue.
 "Book of Rites" says: A brother's son is like his own son; the meaning of "Spring and Autumn" means that the son is his son, and he is not ordered by his father but by his grandfather.
@@ -43,16 +54,16 @@ Now the Marquis of Chang'an is the heir of Emperor Xiaohe.
 The Han world should be governed with caution and the golden mean should be practiced with integrity. If one person is happy, all the people will rely on it.
 The emperor should encourage him! After reading the policy, the Taiwei presented the imperial seal, and Liu Hu succeeded to the throne at the age of thirteen.
 The Queen Mother is still in charge of the government.
+On September 26th, I paid a visit to Gaomiao.
+On the 27th, I visited Guangwu Temple.
+Floods occurred in six states.
+At the end of the day, he sent envoys to investigate the actual situation, report disasters, and provide relief to the poor who were short of food.
+Bingyin buried Emperor Xiaoshang in Kangling.
+Yihai, Chenliu meteorite.
 
 
-Chunk 1: 
+Chunk 2: 
 original: 
-九月庚子，谒高庙。
-辛丑，谒光武庙。
-六州大水。
-己未，遣谒者分行虚实，举灾害，赈乏绝。
-丙寅，葬孝殇皇帝于庚陵。
-乙亥，陨石于陈留。
 西域诸国叛，攻都护任尚，遣副校尉梁慬救尚，击破之。
 冬十月，四州大水，雨雹。
 诏以宿麦不下，赈赐贫人。
@@ -68,12 +79,6 @@ original:
 三月癸酉，日有食之，诏公卿内外众官、郡国守、相，举贤良方正、有道术之士，明政术、达古今、能直言极谏者，各一人。
 己卯，永昌徼外僬侥种夷贡献内属。
 translation: 
-On September 26th, I paid a visit to Gaomiao.
-On the 27th, I visited Guangwu Temple.
-Floods occurred in six states.
-At the end of the day, he sent envoys to investigate the actual situation, report disasters, and provide relief to the poor who were short of food.
-Bingyin buried Emperor Xiaoshang in Kangling.
-Yihai, Chenliu meteorite.
 The foreign tribes in the Western Regions rebelled and attacked Ren Shang, the governor. He sent the deputy captain Liang Jinjin to rescue Ren Shang and defeated the foreign tribes.
 In October of winter, there were floods and hail in the four states.
 The edict issued an order to provide relief and rewards to the poor because wheat could not be planted.
@@ -90,7 +95,7 @@ On the second day of March, there is a solar eclipse. The imperial edict is dire
 On the seventh day of the lunar month, the Yi people outside Yongchang paid tribute to the internal genus.
 
 
-Chunk 2: 
+Chunk 3: 
 original: 
 甲申，葬清河孝王，赠龙旗、虎贲。
 夏五月甲戌，长乐卫尉鲁恭为司徒。
@@ -133,7 +138,7 @@ On November 19, Sikong Zhouzhang conspired to abolish Li, was dismissed by the p
 On the 20th, he ordered the Sili Xiaowei and the governor of Ji and the two states to say: The residents were disturbed by rumors and left their old residences to support the old and the young, and became impoverished.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
 其各敕所部长吏，躬亲晓喻。
 若欲归本郡，在所为封长檄；不欲，勿强。
@@ -148,9 +153,6 @@ original:
 六月，京师及郡国四十大水，大风，雨雹。
 秋七月戊辰，诏曰： 昔在帝王，承天理民，莫不据璇机玉衡，以齐七政。朕以不德，遵奉大业，而阴阳差越，变异并见，万民饥流，羌貊叛戾。
 夙夜克己，忧心京京。
-间令公卿郡国举贤良方正，远求博选，开不讳之路，冀得至谋，以鉴不逮，而所对皆循尚浮言，无卓尔异闻。
-其百僚及郡国吏人，有道术明习灾异阴阳之度璇机之数者，各使指变以闻。
-二千石长吏明以诏书，博衍幽隐，朕将亲览，待以不次，冀获嘉谋，以承天诫。
 translation: 
 Each official should be warned to explain to the residents in person and not to be deceived.
 If anyone wants to go back to the county, the local government will issue a certification document; if you don’t want to go back, don’t force it.
@@ -165,13 +167,13 @@ On the first day of the Lunar New Year, the Empress Dowager went to Luoyang Temp
 In June, there were floods, strong winds, and hail in forty places in the capital and prefectures.
 On the fourth day of the seventh lunar month in the autumn, the edict said: The former emperors governed the people in accordance with the mandate of heaven, and they all mastered astronomical instruments and understood the changes of the sun, moon and five stars. I, with my humble virtue, am the prime minister for the great cause of a country. The yin and yang are not in harmony, and mutations are common. The people are hungry and cold, and the Qiang are rebellious.
 Reflecting and worrying day and night.
-Recently, I have ordered the ministers and counties to recommend virtuous and upright people, and to seek the best candidates from far away, so as to open up a situation where people will not be taboo and dare to remonstrate directly, hoping to get good strategies to prevent arrests. But what I got was just some floating words, without any foresight.
-Now I am ordering all officials and county officials who have Taoist skills to study the yin and yang of disasters and are familiar with astronomical laws to point out the problem.
-The two thousand stone chief officials clearly explained the edict, and quoted it extensively and obscurely. I will personally listen to the opinions and give preferential treatment. In general, I want to get good strategies and accept the warning from heaven.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
+间令公卿郡国举贤良方正，远求博选，开不讳之路，冀得至谋，以鉴不逮，而所对皆循尚浮言，无卓尔异闻。
+其百僚及郡国吏人，有道术明习灾异阴阳之度璇机之数者，各使指变以闻。
+二千石长吏明以诏书，博衍幽隐，朕将亲览，待以不次，冀获嘉谋，以承天诫。
 闰月辛丑，广川王常保薨，无子，国除。
 癸未，蜀郡徼外羌举土内属。
 九月庚子，诏王国官属墨绶下至郎、谒者，其经明任博士，居乡里有廉清孝顺之称、才任理人者，国相岁移名，与计偕上尚书，公府通调，令得外补。
@@ -182,11 +184,10 @@ original:
 十二月辛卯，禀东郡、巨鹿、广阳、安定、定襄、沛国贫民。
 广汉塞外参狼羌降，分广汉北部为属国都尉。
 是岁，郡国十二地震。
-三年春正月庚子，皇帝加元服。
-大赦天下。
-赐王、主、贵人、公、卿以下金帛各有差；男子为父后，及三老、考悌、力田爵，人二级，流民欲占者人一级。
-遣骑都尉任仁讨先零羌，不利，羌遂破没临洮。
 translation: 
+Recently, I have ordered the ministers and counties to recommend virtuous and upright people, and to seek the best candidates from far away, so as to open up a situation where people will not be taboo and dare to remonstrate directly, hoping to get good strategies to prevent arrests. But what I got was just some floating words, without any foresight.
+Now I am ordering all officials and county officials who have Taoist skills to study the yin and yang of disasters and are familiar with astronomical laws to point out the problem.
+The two thousand stone chief officials clearly explained the edict, and quoted it extensively and obscurely. I will personally listen to the opinions and give preferential treatment. In general, I want to get good strategies and accept the warning from heaven.
 On the seventh day of the seventh lunar month, King Liu Changbao of Guangchuan died without any children, and the feudal state was abolished.
 In Guiwei, all the Qiang people outside Shu County belonged to the people inside.
 On the seventh day of the ninth lunar month, the imperial edict was issued to the officials of the kingdom who were under the minister's ink ribbon and who came to Lang and Ye. Those who knew the secrets of the scriptures should be appointed as doctors. Only those who lived in the countryside and had a good reputation of being honest and filial could be qualified to govern the people. The prime minister of the country would prepare a register every year and submit it to the minister together with the planners. The government would elect officials in order to replace them.
@@ -197,14 +198,14 @@ Xianling Qiang Dianling was called the emperor in the north. The bandits plunder
 On December 30, grain stored in warehouses was used to provide relief to the poor in Dongjun, Julu, Guangyang, Anding, Dingxiang, and Peiguo.
 The Langqiang surrendered outside the Great Wall of Guanghan, and the northern part of Guanghan was divided into the vassal capital.
 This year, there were twelve earthquakes in the county.
-On the ninth day of the first lunar month in the spring of the third year, the emperor crowned him.
-Amnesty to the world.
-The king, lord, nobles, dukes and ministers will be rewarded with different amounts of gold and silk respectively; after the man becomes a father, and the three elders, filial brothers, and Li Tianjue, each person will be given the second level, and the refugee will return to the first level.
-The cavalry captain Ren Ren was sent to attack the Xianling Qiang, but it was not successful, and the Qiang captured Linhu Zhao.
 
 
-Chunk 5: 
+Chunk 6: 
 original: 
+三年春正月庚子，皇帝加元服。
+大赦天下。
+赐王、主、贵人、公、卿以下金帛各有差；男子为父后，及三老、考悌、力田爵，人二级，流民欲占者人一级。
+遣骑都尉任仁讨先零羌，不利，羌遂破没临洮。
 高句骊遣使贡献。
 三月，京师大饥，民相食。
 壬辰，公卿诣阙谢。
@@ -214,14 +215,11 @@ original:
 其务思变复，以助不逮。 癸巳，诏以鸿池假与贫民。
 壬寅，司徒鲁恭免。
 夏四月丙寅，大鸿胪九江夏勤为司徒。
-三公以国用不足，奏令吏人入钱谷，得为关内侯、虎贲羽林郎、五大夫、官府吏、缇骑、营士各有差。
-己巳，诏上林、广成苑可垦辟者，赋与贫民。
-甲申，清河王虎威薨。
-五月丙申，封乐安王宠子延平为清河王。
-丁酉，沛王正薨。
-癸丑，京师大风。
-六月，乌桓寇代郡、上谷、涿郡。
 translation: 
+On the ninth day of the first lunar month in the spring of the third year, the emperor crowned him.
+Amnesty to the world.
+The king, lord, nobles, dukes and ministers will be rewarded with different amounts of gold and silk respectively; after the man becomes a father, and the three elders, filial brothers, and Li Tianjue, each person will be given the second level, and the refugee will return to the first level.
+The cavalry captain Ren Ren was sent to attack the Xianling Qiang, but it was not successful, and the Qiang captured Linhu Zhao.
 Gaoguli sent envoys to pay tribute.
 In March, there was a great famine in the capital, and the hungry people ate each other.
 On the second day of the lunar month, the minister went to the emperor's residence to apologize and admit his mistakes.
@@ -231,17 +229,17 @@ The blame lies with me alone, not with the officials of various ministries. Howe
 Be sure to consider changing your approach to recovery so that it doesn't help me enough. On the third day of the lunar month, the imperial edict lent Hongchi to the poor so that they could fish in it.
 On the 12th, Situ Lugong was dismissed.
 On the seventh day of the fourth lunar month in the summer, Dahonglu and Xia Qin of Jiujiang were appointed as Situ.
-The three princes felt that the state supplies were insufficient, so they asked the officials and the people to take in the grain. They were selected as Guanneihou, Hubenyu Linlang, five officials, government officials, Tiqi, and camp soldiers.
-On the tenth day of the lunar month, it was ordered that the areas in Shanglin and Guangchengyuan that could be cultivated and developed should be rented to the poor.
-On the 25th, Liu Huwei, King of Qinghe, passed away.
-On the seventh day of May, Liu Yanping, the beloved son of King Le'an, was granted the title of King of Qinghe.
-On the eighth day of the lunar month, King Pei Liu Zheng passed away.
-On the 24th, there was a strong wind in the capital.
-In June, Wuhuan invaders raided Daijun, Shanggu and Zhuojun.
 
 
-Chunk 6: 
+Chunk 7: 
 original: 
+三公以国用不足，奏令吏人入钱谷，得为关内侯、虎贲羽林郎、五大夫、官府吏、缇骑、营士各有差。
+己巳，诏上林、广成苑可垦辟者，赋与贫民。
+甲申，清河王虎威薨。
+五月丙申，封乐安王宠子延平为清河王。
+丁酉，沛王正薨。
+癸丑，京师大风。
+六月，乌桓寇代郡、上谷、涿郡。
 秋七月，海贼张伯路等寇略缘海九郡，遣侍御史庞雄督州、郡兵讨破之。
 庚子，诏长吏案行在所，皆令种宿麦蔬食，务尽地力，其贫者给种饷。
 九月，雁门乌桓及鲜卑叛，败五原郡兵于高渠谷。
@@ -250,14 +248,14 @@ original:
 十二月辛酉，郡国九地震。
 乙亥，有星孛于天苑。
 是岁，京师及郡国四十一雨水雹。并、凉二州大饥，人相食。
-四年春正月元日，会，彻乐，不陈充庭车。
-辛卯，诏以三辅比遭寇乱，人庶流冗，除三年逋租、过更、口算、刍稿；禀上郡贫民各有差。
-海贼张伯路复与勃海、平原剧贼刘文河、周文光等攻厌次，杀县令，遣御史中丞王宗督青州刺史法雄讨破之。
-度辽将军梁慬、辽东太守耿夔讨破南单于於属国故城。
-丙午，诏减百官及州、郡、县奉各有差。
-二月丁巳，禀九江贫民。
-南匈奴寇常山。
 translation: 
+The three princes felt that the state supplies were insufficient, so they asked the officials and the people to take in the grain. They were selected as Guanneihou, Hubenyu Linlang, five officials, government officials, Tiqi, and camp soldiers.
+On the tenth day of the lunar month, it was ordered that the areas in Shanglin and Guangchengyuan that could be cultivated and developed should be rented to the poor.
+On the 25th, Liu Huwei, King of Qinghe, passed away.
+On the seventh day of May, Liu Yanping, the beloved son of King Le'an, was granted the title of King of Qinghe.
+On the eighth day of the lunar month, King Pei Liu Zheng passed away.
+On the 24th, there was a strong wind in the capital.
+In June, Wuhuan invaders raided Daijun, Shanggu and Zhuojun.
 In the seventh month of autumn, the pirate Zhang Bolu and other bandits raided the nine counties of Haihai. He sent the imperial censor Pang Xiong to urge the state and county soldiers to attack and defeat them.
 On the twelfth day, officials were ordered to inspect the capital area, and they were all called to plant wheat and eat vegetables. They must do their best to provide seeds and food to poor farmers.
 In September, Yanmen Wuhuan and Xianbei rebelled and defeated the Wuyuan County soldiers in Gaoqu Valley.
@@ -266,6 +264,21 @@ In November, the acting chariot and cavalry general He Zhao was sent to attack.
 On the fifth day of December, nine earthquakes occurred in the county.
 On the 19th, a comet appeared at Tianyuan Star.
 This year, there were hailstorms in the capital and prefectures forty-one times, and there was a severe famine in the two states of Binzhou and Liang, with people cannibalizing themselves.
+
+
+Chunk 8: 
+original: 
+四年春正月元日，会，彻乐，不陈充庭车。
+辛卯，诏以三辅比遭寇乱，人庶流冗，除三年逋租、过更、口算、刍稿；禀上郡贫民各有差。
+海贼张伯路复与勃海、平原剧贼刘文河、周文光等攻厌次，杀县令，遣御史中丞王宗督青州刺史法雄讨破之。
+度辽将军梁慬、辽东太守耿夔讨破南单于於属国故城。
+丙午，诏减百官及州、郡、县奉各有差。
+二月丁巳，禀九江贫民。
+南匈奴寇常山。
+乙丑，初置长安、雍二营都尉官。
+乙亥，诏自建初以来，诸祅言它过坐徙边者，各归本郡；其没入官为奴婢者，免为庶人。
+诏谒者刘珍及《五经》博士，校定东观《五经》、诸子、传记、百家艺术，整齐脱误，是正文字。
+translation: 
 On the first day of the first lunar month in the spring of the fourth year, the imperial court held a gathering and withdrew the singing and music, and did not display the chariots and carriages in the court because of the shortage of years.
 On the sixth day of the lunar month, the imperial edict issued an order to exempt three years of rent arrears from the three auxiliaries due to the bandits' rebellion and the dispersal of the people. They would also be required to make updates, oral calculations, and manuscripts. The grain stored in the warehouses would be used to provide relief to the poor people in the upper county.
 The pirate Zhang Bolu and Liu Wenhe, Zhou Wenguang and other powerful bandits from the Bohai and plains attacked Yanci and killed the county magistrate. He sent the censor Zhongcheng Wang Zongdu Qingzhou governor Faxiong to defeat them.
@@ -273,13 +286,13 @@ Liang Jin, the general who conquered the Liao Dynasty, and Geng Kui, the governo
 On the 21st, the edict was issued to reduce the salaries of hundreds of officials and officials in prefectures, counties and counties.
 On the second day of February, food was provided to the poor in Jiujiang.
 The southern Huns raided Changshan.
+On the tenth day of the lunar month, the captains of the second battalion of Chang'an and Yong were set up.
+On the 20th, the edict issued an order that those who had been sent to remote areas due to various rumors and other faults since the early years of the founding of the People's Republic of China should be returned to their own counties;
+The imperial edict ordered Liu Zhen and the Doctor of the Five Classics to review Dongguan's Five Classics, various scholars, biographies, and hundreds of schools of art, sort out errors, and correct the text.
 
 
-Chunk 7: 
+Chunk 9: 
 original: 
-乙丑，初置长安、雍二营都尉官。
-乙亥，诏自建初以来，诸祅言它过坐徙边者，各归本郡；其没入官为奴婢者，免为庶人。
-诏谒者刘珍及《五经》博士，校定东观《五经》、诸子、传记、百家艺术，整齐脱误，是正文字。
 三月，南单于降。
 先零羌寇褒中，汉中太守郑勤战殁。
 徙金城郡都襄武。
@@ -301,9 +314,6 @@ original:
 闰月丁酉，赦凉州河西四郡。
 戊戌，诏曰：
 translation: 
-On the tenth day of the lunar month, the captains of the second battalion of Chang'an and Yong were set up.
-On the 20th, the edict issued an order that those who had been sent to remote areas due to various rumors and other faults since the early years of the founding of the People's Republic of China should be returned to their own counties;
-The imperial edict ordered Liu Zhen and the Doctor of the Five Classics to review Dongguan's Five Classics, various scholars, biographies, and hundreds of schools of art, sort out errors, and correct the text.
 In March, Nandanyu surrendered.
 Xianling Qiang bandits plundered Baozhong, and Zheng Qin, the prefect of Hanzhong, died in the battle.
 Moved the capital of Jincheng County to Xiangwu.
@@ -326,7 +336,7 @@ On the 19th day of the intercalary month, the four counties of Liangzhou and Hex
 On the 20th, the edict said:
 
 
-Chunk 8: 
+Chunk 10: 
 original: 
 朕以不德，奉郊庙，承大业，不能兴和降善，为人祈福。
 灾异蜂起，寇贼纵横，夷狄猾夏，戎事不息，百姓匮乏，疲于征发。
@@ -338,9 +348,6 @@ original:
 其令三公、特进、侯、中二千石、二千石、郡守、诸侯相举贤良方正、不道术、达于政化、能直言极谏之士各一人，及至孝与众卓异者，并遣诣公车，朕将亲览焉。
 六月甲辰，乐成王巡薨。
 秋七月己巳，诏三公、特进、九卿、校尉，举列将子孙明晓战陈任将帅者。
-九月，汉阳人杜琦、王信叛，与先零诸种羌攻陷上邽城。
-十二月，汉阳太守赵博遣额刺杀杜琦。
-是岁，九州蝗，郡国八雨水。
 translation: 
 As a person of poor virtue, I serve in a suburban temple and inherit the great power, but I cannot be prosperous and kind and benefit people.
 On the contrary, disasters occurred one after another, bandits were rampant, barbarians and Di bandits plundered, and wars continued, resulting in poverty for the people and heavy taxes and servitude.
@@ -352,13 +359,13 @@ I really want to have loyal and upright ministers to help me.
 I now order one of the Three Dukes, Tejin, Marquis, Zhong Erqianshi, Erqianshi, County Guard, and the princes to select one person each who is virtuous, upright, knowledgeable, knowledgeable in political education, and able to speak out and give advice, as well as those who are the most distinguished in their filial piety, and send them to the bus. I will receive them personally and listen to their opinions.
 On June 27th, King Liu Xun of Success passed away.
 On the 23rd day of the seventh month in autumn, the imperial edict was issued to Sangong, Tejin, Jiuqing, and Xiaowei to recommend their descendants who could serve as generals in the Mingxiao Battle Formation and submit their lists.
-In September, Du Qi and Wang Xin from Hanyang rebelled, and together with other Qiang tribes from Xianling, they captured Shangguihuang City.
-In December, Hanyang Governor Zhao Bo sent assassins to kill Du Qi.
-This year, there was a locust plague in Kyushu, causing rain in all counties and counties.
 
 
-Chunk 9: 
+Chunk 11: 
 original: 
+九月，汉阳人杜琦、王信叛，与先零诸种羌攻陷上邽城。
+十二月，汉阳太守赵博遣额刺杀杜琦。
+是岁，九州蝗，郡国八雨水。
 六年春正月庚申，诏越巂置长利、高望、始昌三苑，又令益州郡置万岁苑，犍为置汉平苑。
 三月，十州蝗。
 夏四月乙丑，司空张敏罢。
@@ -375,11 +382,10 @@ original:
 二月丙午，郡国十八地震。
 夏四月乙未，平原王胜薨。
 丙申晦，日有食之。
-五月庚子，京师大雩。
-秋，护羌校尉侯霸、骑都尉马贤破先零羌。
-八月丙寅，京师大风，蝗虫飞过洛阳。
-诏赐民爵。
 translation: 
+In September, Du Qi and Wang Xin from Hanyang rebelled, and together with other Qiang tribes from Xianling, they captured Shangguihuang City.
+In December, Hanyang Governor Zhao Bo sent assassins to kill Du Qi.
+This year, there was a locust plague in Kyushu, causing rain in all counties and counties.
 On the seventeenth day of the first month of the sixth year of spring, the imperial edict was issued to Yue to set up Changli, Gaowang and Shichang gardens, Yizhou county to set up Wansui garden, and Qianwei to set up Hanping garden.
 In March, there was a locust plague in ten states.
 In the summer of April, Yi Chou, Sikong and Zhang Min left.
@@ -396,14 +402,14 @@ On the twelfth day of the first lunar month in the seventh year of spring, the e
 On Bingwu in February, there was an earthquake in the county.
 On April 29th in the summer, Liu Sheng, king of Pingyuan, passed away.
 On the 30th, there was a solar eclipse.
-On the fourth day of May, the capital offers sacrifices to pray for rain.
-In the autumn, Hou Ba, the guarding Qiang school captain, and Ma Xian, the cavalry captain, defeated the Xianling Qiang.
-On the second day of August, there was a strong wind in the capital and locusts flew over Luoyang.
-The imperial edict was given to the people.
 
 
-Chunk 10: 
+Chunk 12: 
 original: 
+五月庚子，京师大雩。
+秋，护羌校尉侯霸、骑都尉马贤破先零羌。
+八月丙寅，京师大风，蝗虫飞过洛阳。
+诏赐民爵。
 郡国被蝗伤稼十五以上，勿收今年田租；不满者，以实除之。
 九月，调零陵、桂阳、豫章、会稽租米，赈给南阳、广陵、下邳、彭城、山阳、庐江、九江饥民；又调滨水县谷输敖仓。
 元初元年春正月甲子，改元元初。
@@ -412,6 +418,23 @@ original:
 三月癸酉，日有食之。
 夏四月丁酉，大赦天下。
 京师及郡国五旱、蝗。
+translation: 
+On the fourth day of May, the capital offers sacrifices to pray for rain.
+In the autumn, Hou Ba, the guarding Qiang school captain, and Ma Xian, the cavalry captain, defeated the Xianling Qiang.
+On the second day of August, there was a strong wind in the capital and locusts flew over Luoyang.
+The imperial edict was given to the people.
+If more than five-tenths of a county's crops are damaged by locusts, this year's field rent will not be collected; if less than five-tenths of the crop is damaged by locusts, it will be exempted based on the actual situation.
+In September, Lingling, Guiyang, Danyang, Yuzhang, and Kuaiji were allocated to rent rice and provide relief to the hungry people in Nanyang, Guangling, Xiapi, Pengcheng, Shanyang, Lujiang, and Jiujiang. They also allocated grain from Binshui County to Aocang.
+On the second day of the first month of spring in the first year of the Yuan Dynasty, it was changed to the beginning of the Yuan Dynasty.
+Each person is given a second level of civilian title; each person of filial piety and Litian is given a third level; if the title is higher than that of a public vehicle, he can be transferred to his son or his brother or the son of his half-brother; each person who has no household registration and is a refugee is given a first level; those who are widowers, widows, orphans, alone, terminally ill, and too poor to live will be given three dendrobiums of grain; each chaste woman will be given one piece of silk.
+In the second month of the second lunar month, Ji Mao was in the southern part of the country.
+On March 12, a solar eclipse occurred.
+On the seventh day of the fourth lunar month in the summer, there is a general amnesty for the whole world.
+There were five droughts and locust plagues in the capital and prefectures.
+
+
+Chunk 13: 
+original: 
 诏三公、特进、列侯、中二千石、二千石、郡守举敦厚质直者，各一人。
 五月，先零羌寇雍城。
 六月丁巳，河东地陷。
@@ -423,15 +446,16 @@ original:
 先零羌败凉州刺史皮阳于狄道。
 乙卯，诏除三辅三岁田租、更赋、口算。
 十一月。
+是岁，郡国十五地震。
+二年春正月，诏禀三辅及并、凉六郡流冗贫人。
+蜀郡青衣道夷奉献内属。
+修理西门豹所分漳水为支渠，以溉民田。
+二月戊戌，遣中谒者收葬京师客死无家属及棺椁朽败者，皆为设祭；其有家属，尤贫无以葬者，赐钱人五千。
+辛酉，诏三辅、河内、河东、上党、赵国、太原各修理旧渠，通利水道，以溉公私田畴。
+三月癸亥，京师大风。
+先零羌寇益州，遣中郎将尹就讨之。
+夏四月丙午，立贵人阎氏为皇后。
 translation: 
-If more than five-tenths of a county's crops are damaged by locusts, this year's field rent will not be collected; if less than five-tenths of the crop is damaged by locusts, it will be exempted based on the actual situation.
-In September, Lingling, Guiyang, Danyang, Yuzhang, and Kuaiji were allocated to rent rice and provide relief to the hungry people in Nanyang, Guangling, Xiapi, Pengcheng, Shanyang, Lujiang, and Jiujiang. They also allocated grain from Binshui County to Aocang.
-On the second day of the first month of spring in the first year of the Yuan Dynasty, it was changed to the beginning of the Yuan Dynasty.
-Each person is given a second level of civilian title; each person of filial piety and Litian is given a third level; if the title is higher than that of a public vehicle, he can be transferred to his son or his brother or the son of his half-brother; each person who has no household registration and is a refugee is given a first level; those who are widowers, widows, orphans, alone, terminally ill, and too poor to live will be given three dendrobiums of grain; each chaste woman will be given one piece of silk.
-In the second month of the second lunar month, Ji Mao was in the southern part of the country.
-On March 12, a solar eclipse occurred.
-On the seventh day of the fourth lunar month in the summer, there is a general amnesty for the whole world.
-There were five droughts and locust plagues in the capital and prefectures.
 The imperial edict was issued to the three Dukes, Tejin, Liehou, Zhong Erqianshi, Erqianshi, and the county governor to recommend one honest, honest and upright person each.
 In the fifth month, Qiang bandits raided Yongcheng.
 On June 28, Hedong subsided.
@@ -443,19 +467,19 @@ On the first day of October in winter, a solar eclipse occurs.
 Xianling Qiang defeated Pi Yang, the governor of Liangzhou, in Didao.
 On the 28th, the imperial edict exempted the third assistant from land rent, more taxes, and oral calculations for three years.
 November.
+There was an earthquake in the county on the 15th.
+In the spring and first month of the second year, an edict was issued to provide grain relief to the poor people living in Sanfu and Bing and Liang counties.
+Qingyi Daoyi in Shu County pays tribute.
+The Zhang River divided by Ximen Bao was repaired and turned into a branch canal to irrigate people's fields.
+On the twelfth day of the second lunar month, a visitor from the capital was sent to bury those who died without family members or whose coffins were decayed. Those who had family members but were extremely poor and unable to bury them were given five thousand dollars each.
+Xin You ordered Sanfu, Hanoi, Hedong, Shangdang, Zhao Guo and Taiyuan to repair old canals and make them accessible to irrigate public and private fields.
+On the eighth day of March, there was a strong wind in the capital.
+First, the Qiang bandits raided Yizhou and sent General Yin Jiu of Zhonglang to attack them.
+On the 21st of April in the summer, the noble Yan family was made queen.
 
 
-Chunk 11: 
+Chunk 14: 
 original: 
-是岁，郡国十五地震。
-二年春正月，诏禀三辅及并、凉六郡流冗贫人。
-蜀郡青衣道夷奉献内属。
-修理西门豹所分漳水为支渠，以溉民田。
-二月戊戌，遣中谒者收葬京师客死无家属及棺椁朽败者，皆为设祭；其有家属，尤贫无以葬者，赐钱人五千。
-辛酉，诏三辅、河内、河东、上党、赵国、太原各修理旧渠，通利水道，以溉公私田畴。
-三月癸亥，京师大风。
-先零羌寇益州，遣中郎将尹就讨之。
-夏四月丙午，立贵人阎氏为皇后。
 五月，京师旱，河南及郡国十九蝗。
 甲戌，诏曰： 朝廷不明，庶事失中，灾异不息，忧心悼惧。
 被蝗以来，七年于兹，而州、郡隐匿，裁言顷亩。
@@ -466,16 +490,15 @@ original:
 其务消救灾眚，安辑黎元。
 六月丙戌，太尉司马苞薨。
 洛阳新城地裂。
+秋七月辛巳，太仆太山马英为太尉。
+八月，辽东鲜卑围无虑县。
+九月，又攻夫犁营，杀县令。
+壬午晦，日有食之。
+冬十月，遣中郎将任尚屯三辅。
+诏郡国中都官系囚减死一等，勿笞，诣冯翊、扶风屯，妻子自随，占著所在；女子勿输。
+亡命死罪以下赎，各有差。
+其吏人聚为盗贼，有悔过者，除其罪。
 translation: 
-There was an earthquake in the county on the 15th.
-In the spring and first month of the second year, an edict was issued to provide grain relief to the poor people living in Sanfu and Bing and Liang counties.
-Qingyi Daoyi in Shu County pays tribute.
-The Zhang River divided by Ximen Bao was repaired and turned into a branch canal to irrigate people's fields.
-On the twelfth day of the second lunar month, a visitor from the capital was sent to bury those who died without family members or whose coffins were decayed. Those who had family members but were extremely poor and unable to bury them were given five thousand dollars each.
-Xin You ordered Sanfu, Hanoi, Hedong, Shangdang, Zhao Guo and Taiyuan to repair old canals and make them accessible to irrigate public and private fields.
-On the eighth day of March, there was a strong wind in the capital.
-First, the Qiang bandits raided Yizhou and sent General Yin Jiu of Zhonglang to attack them.
-On the 21st of April in the summer, the noble Yan family was made queen.
 In May, there was a drought in the capital and nineteen locust plagues occurred in Henan and other prefectures.
 On the 20th, the edict said: The court is unclear, the government is improper, and the disasters keep changing. I am worried.
 It has been seven years since the locust plague, but the prefectures and counties have concealed the situation, only saying how many hectares and acres were affected.
@@ -486,18 +509,18 @@ It's midsummer now, so I'm temporarily exempting myself from prosecution and sho
 The suffering caused by disasters should be eliminated and the people should be appeased.
 On the second day of June, Taiwei Sima Bao passed away.
 The ground in Luoyang New Town collapsed.
+On the twenty-eighth day of the seventh month in autumn, he appointed his servant Taishan Ma Ying as Taiwei.
+In August, Xianbei, Liaodong, surrounded Wulu County.
+In September, he attacked Fuli camp again and killed the county magistrate.
+On the 30th, there was a solar eclipse.
+In the tenth month of winter, Zhonglang was sent to Shangtun to be stationed at Sanfu.
+The imperial edict ordered all officials in the prefecture and state to reduce the death penalty by one level, and not to be whipped, but to send Feng Yi and Fufeng to cultivate the land. The wives would follow and register in the local household; the women should not be sent.
+There is no difference between the sin of death and the sin of atonement.
+When officials and people gather together to commit robberies, those who repent and behave well will be exempted from crime.
 
 
-Chunk 12: 
+Chunk 15: 
 original: 
-秋七月辛巳，太仆太山马英为太尉。
-八月，辽东鲜卑围无虑县。
-九月，又攻夫犁营，杀县令。
-壬午晦，日有食之。
-冬十月，遣中郎将任尚屯三辅。
-诏郡国中都官系囚减死一等，勿笞，诣冯翊、扶风屯，妻子自随，占著所在；女子勿输。
-亡命死罪以下赎，各有差。
-其吏人聚为盗贼，有悔过者，除其罪。
 乙未，右扶风仲光、安定太守杜恢、京兆虎牙都尉耿溥与先零羌战于丁奚城，光等大败，并没。
 左冯翊司马钧下狱，自杀。
 十一月庚申，郡国十地震。
@@ -509,15 +532,16 @@ original:
 郡国十地震。
 三月辛亥，日有食之。
 丙辰，赦苍梧、郁林、合浦、南海吏人为贼所迫者。
+夏四月，京师旱。
+五月，武陵蛮复叛，州、郡讨破之。
+癸酉，度辽将军邓遵率南匈奴击先零羌于灵州，破之。
+越巂徼外夷举种内属。
+六月，中郎将任尚遣兵击破先零羌于丁奚城。
+秋七月，武陵蛮复叛，州、郡讨平之。
+缑氏地坼。
+九月辛己，赵王宏薨。
+冬十一月，苍梧、郁林、合浦蛮夷降。
 translation: 
-On the twenty-eighth day of the seventh month in autumn, he appointed his servant Taishan Ma Ying as Taiwei.
-In August, Xianbei, Liaodong, surrounded Wulu County.
-In September, he attacked Fuli camp again and killed the county magistrate.
-On the 30th, there was a solar eclipse.
-In the tenth month of winter, Zhonglang was sent to Shangtun to be stationed at Sanfu.
-The imperial edict ordered all officials in the prefecture and state to reduce the death penalty by one level, and not to be whipped, but to send Feng Yi and Fufeng to cultivate the land. The wives would follow and register in the local household; the women should not be sent.
-There is no difference between the sin of death and the sin of atonement.
-When officials and people gather together to commit robberies, those who repent and behave well will be exempted from crime.
 On the 13th, Youfufeng Zhongguang, Anding Prefect Du Hui, Jingzhao Huya Captain Geng Pu fought with Xianling Qiang in Dingxi City. Zhongguang and others were defeated and died in the battle.
 Zuo Fengyi and Sima Jun were imprisoned and committed suicide.
 On the ninth day of November, there was an earthquake in the county.
@@ -529,19 +553,19 @@ The barbarians of Cangwu, Yulin and Hepu rebelled. In February, he sent his cens
 There are ten earthquakes in the county.
 On the second day of March, there is a solar eclipse.
 On the seventh day of the lunar month, the officials and people in Cangwu, Yulin, Hepu, and Nanhai were pardoned for their crimes committed by thieves.
+In April of summer, there was a drought in the capital.
+In May, the Wuling barbarians rebelled again, and the prefectures and counties defeated them.
+On the 25th, General Deng Zun of Liao Dynasty led the Southern Huns to attack the Xianling Qiang in Lingzhou and defeated them.
+The foreigners on the Yuexi border led all the clan members.
+In June, Zhonglang general Ren Shang sent troops to attack the Xianling Qiang in Dingxi City.
+In the seventh month of autumn, the Wuling barbarians rebelled again, and the prefectures and counties defeated them.
+Gou's land.
+On the fifth day of September, King Zhao Liu Hong passed away.
+In November of winter, Cangwu and Yulin, Hepu barbarians surrendered.
 
 
-Chunk 13: 
+Chunk 16: 
 original: 
-夏四月，京师旱。
-五月，武陵蛮复叛，州、郡讨破之。
-癸酉，度辽将军邓遵率南匈奴击先零羌于灵州，破之。
-越巂徼外夷举种内属。
-六月，中郎将任尚遣兵击破先零羌于丁奚城。
-秋七月，武陵蛮复叛，州、郡讨平之。
-缑氏地坼。
-九月辛己，赵王宏薨。
-冬十一月，苍梧、郁林、合浦蛮夷降。
 丙戌，初听大臣、二千石、刺史行三年丧。
 癸卯，郡国九地震。
 十二月丁巳，任尚遣兵击破先零羌于北地。
@@ -556,16 +580,10 @@ original:
 诏曰： 今年秋稼茂好，垂可收获，而连雨未霁，惧必淹伤。
 夕惕惟忧，思念厥咎。
 夫霖雨者，人怨之所致。
+其武吏以威暴下，文吏妄行苛刻，乡吏因公生奸，为百姓所患苦者，有司显明其罚。
+又《月令》 仲秋养衰老，授几杖，行糜粥 。
+方今案比之时，郡、县多不奉行。
 translation: 
-In April of summer, there was a drought in the capital.
-In May, the Wuling barbarians rebelled again, and the prefectures and counties defeated them.
-On the 25th, General Deng Zun of Liao Dynasty led the Southern Huns to attack the Xianling Qiang in Lingzhou and defeated them.
-The foreigners on the Yuexi border led all the clan members.
-In June, Zhonglang general Ren Shang sent troops to attack the Xianling Qiang in Dingxi City.
-In the seventh month of autumn, the Wuling barbarians rebelled again, and the prefectures and counties defeated them.
-Gou's land.
-On the fifth day of September, King Zhao Liu Hong passed away.
-In November of winter, Cangwu and Yulin, Hepu barbarians surrendered.
 On the tenth day of the lunar month, ministers, two thousand stones, and governors were allowed to observe mourning for three years.
 On the 27th, there was an earthquake in the county.
 On December 12, Ren Shang sent troops to defeat the Xianling Qiang in the north.
@@ -580,13 +598,13 @@ There are ten rains in the capital and prefectures.
 The edict said: This year's autumn crops are luxuriant and the harvest is about to be harvested. However, if it rains continuously and does not clear up, I am afraid of being flooded.
 Be wary of fear, longing for guilt and cruelty.
 The rain is falling and the rain is falling because of the resentment of the people.
+Military attaches abuse their subordinates with lustful power, civil servants act harshly, and rural officials pretend to be public servants and commit adultery. This is a source of suffering and suffering for the people, and the relevant departments should publicly punish them.
+It is also said in the "Moon Order": In mid-autumn, to care for the elderly, give the old man a few canes and give him rice porridge.
+Now is the time for household registration verification and verification in August, but many counties do not implement it.
 
 
-Chunk 14: 
+Chunk 17: 
 original: 
-其武吏以威暴下，文吏妄行苛刻，乡吏因公生奸，为百姓所患苦者，有司显明其罚。
-又《月令》 仲秋养衰老，授几杖，行糜粥 。
-方今案比之时，郡、县多不奉行。
 虽有糜粥，糠秕相半，长吏怠事，莫有躬亲，甚违诏书养老之意。
 其务崇仁恕，赈护寡独，称朕意焉。
 九月，护羌校尉任尚使客刺杀叛羌零昌。
@@ -604,9 +622,6 @@ original:
 遭永初之际，人离荒厄，朝廷躬自菲薄，去绝奢饰，食不兼味，衣无二采。
 比年虽获丰穰，尚乏储积，而小人无虑，不图久长，嫁聚送终，纷华靡丽，至有走卒奴婢被绮谷，著珠玑。
 translation: 
-Military attaches abuse their subordinates with lustful power, civil servants act harshly, and rural officials pretend to be public servants and commit adultery. This is a source of suffering and suffering for the people, and the relevant departments should publicly punish them.
-It is also said in the "Moon Order": In mid-autumn, to care for the elderly, give the old man a few canes and give him rice porridge.
-Now is the time for household registration verification and verification in August, but many counties do not implement it.
 Although there is rice porridge, the chaff is half mixed, and the senior officials are lazy and do not handle it personally. It greatly violates the original intention of the imperial edict to support the elderly.
 We should uphold benevolence and forgiveness, provide relief and protect the lonely, and do what I want.
 In September, the Qiang Protector Colonel Ren Shang sent an assassin to kill the rebel Qiang Lingchang.
@@ -625,7 +640,7 @@ In the early years of the Yong Dynasty, people were separated and their lives we
 Although there have been bumper harvests in recent years, there is still little savings, and the villain has no plans and does not want to live long in the future. He gets married and ends up in the end, competing for luxury, and even traders, footmen, slaves, and servants also wear silk silk and precious jewelry.
 
 
-Chunk 15: 
+Chunk 18: 
 original: 
 京师尚若斯，何以示四远？
 设张法禁，恳恻分明，而有司惰任，讫不奉行。
@@ -652,7 +667,7 @@ On the 22nd, the edict stated: In politics, the capital should come first, follo
 On March 18th, the six sects of the Four Directions of Heaven and Earth were established and worshiped in the northwest of Luocheng.
 
 
-Chunk 16: 
+Chunk 19: 
 original: 
 夏四月，会稽大疫，遣光禄大夫将太医循行疾病，赐棺木，除田租、田赋。
 沛国，勃海大风，雨雹。
@@ -693,7 +708,7 @@ On the 27th, Langyi King Liu Shou passed away.
 In June, the Shen Di Qiang rebelled and invaded Zhangye. The Qiang Protector Ma Xian attacked the Shen Di Qiang and defeated him.
 
 
-Chunk 17: 
+Chunk 20: 
 original: 
 秋七月乙酉朔，日有食之。冬十月己巳，司空李郃免。
 癸酉，卫尉庐江陈褒为司空。
@@ -715,8 +730,6 @@ original:
 戊申，追尊皇考清河孝王曰孝德皇。皇妣左氏曰孝德皇后，祖妣宋贵人曰敬隐皇后。
 夏四月，秽貊复与鲜卑寇辽东，辽东太守蔡讽追击，战殁。
 丙辰，以广川并清河国。
-丁巳，尊孝德皇元妃耿氏为甘陵大贵人。
-甲子，乐成王苌有罪，废为临湖侯。
 translation: 
 On the first day of the seventh lunar month in autumn, there is a solar eclipse. On October 16th in winter, Sikong Li He was dismissed from his post.
 On the 20th, Wei Wei Lujiang Chen Bao was appointed Sikong.
@@ -738,12 +751,12 @@ On the 27th, Liu Kuan, King of Le'an, passed away.
 On the 28th, Emperor Zhuizun named King Xiao of Qinghe as King of Xiaode, his concubine Zuo as Queen of Xiaode, and his ancestral concubine Song Gui as Queen of Jingyin.
 In the fourth month of the summer, Sui Sui and the Xianbei bandits again raided Liaodong. Cai Xi, the prefect of Liaodong, pursued them and died in battle.
 On the sixth day of the lunar month, Guangchuan was merged into Qinghe Kingdom.
-On the seventh day of the lunar month, Geng, the imperial concubine of Xiaode Emperor and Yuan Dynasty, was honored as a noble person in Ganling.
-On the 14th, Liu Chang, the successful king, was found guilty and was deposed as Linhu Marquis.
 
 
-Chunk 18: 
+Chunk 21: 
 original: 
+丁巳，尊孝德皇元妃耿氏为甘陵大贵人。
+甲子，乐成王苌有罪，废为临湖侯。
 己巳，令公、卿、特进、侯、中二千石、二千石、郡国守相，举有道之士各一人。赐鳏、寡、孤、独、贫不能自存者谷，人三斛。
 甲戌，辽东属国都尉庞奋，承伪玺书杀玄菟太守姚光。
 五月庚辰，特进邓骘及度辽将军邓遵，并以谮自杀。
@@ -758,16 +771,9 @@ original:
 是秋，京师及郡国二十九雨水。
 冬十一月己丑，郡国三十五地震，或坼裂。
 诏三公以下，各上封事陈得失。遣光禄大夫案行，赐死者钱，人二千。
-除今年田租。
-其被灾甚者，勿收口赋。
-鲜卑寇玄菟。
-庚子，复断大臣二千石以上服三年丧。
-癸卯，诏三公、特进、侯、卿、校尉，举武猛堪将帅者各五人。
-丙午，诏京师及郡国被水雨份稼者，随顷亩减田租。
-甲子，初置渔阳营兵。
-冬十二月，高句骊、马韩、秽貊围玄菟城，夫馀王遣子与州、郡并力讨破之。
-延光元年春二月，夫馀王遣子将兵救玄菟，击高句骊、马韩、秽貊，破之，遂遣使贡献。
 translation: 
+On the seventh day of the lunar month, Geng, the imperial concubine of Xiaode Emperor and Yuan Dynasty, was honored as a noble person in Ganling.
+On the 14th, Liu Chang, the successful king, was found guilty and was deposed as Linhu Marquis.
 On the 19th, the Duke, Qing, Te Jin, Hou, Zhong 2,000 shi, 2,000 shi, and the prime minister of the prefecture and state were ordered to recommend one virtuous person each, and each of the widowed, widowed, lonely, lonely, and poor people were given three dendrobium grains.
 On the 24th, Pang Fen, the captain of the Liaodong vassal state, accepted the forged seal to kill Yao Guang, the prefect of Xuantu.
 On the first day of the fifth lunar month, Deng Zun, the special advancer, and Deng Zun, the general who conquered the Liao Dynasty, both committed suicide due to false accusations.
@@ -782,6 +788,27 @@ Wuzi, the emperor arrived at Weiwei Feng Shi's mansion.
 In the autumn of this year, there was heavy rain in the capital and prefectures.
 On the twelfth day of the eleventh month in winter, there was an earthquake on the 35th day of the month.
 The imperial edict was issued to everyone below the three Dukes to secretly write criticisms and suggestions, discuss the pros and cons, and send Dr. Guanglu to inspect the situation, and reward each person who died with two thousand coins.
+
+
+Chunk 22: 
+original: 
+除今年田租。
+其被灾甚者，勿收口赋。
+鲜卑寇玄菟。
+庚子，复断大臣二千石以上服三年丧。
+癸卯，诏三公、特进、侯、卿、校尉，举武猛堪将帅者各五人。
+丙午，诏京师及郡国被水雨份稼者，随顷亩减田租。
+甲子，初置渔阳营兵。
+冬十二月，高句骊、马韩、秽貊围玄菟城，夫馀王遣子与州、郡并力讨破之。
+延光元年春二月，夫馀王遣子将兵救玄菟，击高句骊、马韩、秽貊，破之，遂遣使贡献。
+三月丙午，改元延光。
+大赦天下。
+还徙者，复户邑属籍。
+赐民爵及三老、孝悌、力田，人二级；加赐鳏、寡、孤、独、笃癃、贫不能自存者粟，人三斛；贞妇帛，人二匹。
+夏四月癸未，京师郡国二十一雨雹。
+癸巳，司空陈褒免。
+五月庚戌，宗正彭城刘授为司空。
+translation: 
 This year’s field rent will be waived.
 Those hit hardest by the disaster will be exempted from the population tax.
 The Xianbei bandits plundered Xuantu.
@@ -791,17 +818,17 @@ On the 29th, the imperial capital and prefectures were ordered to reduce their l
 Jiazi, the Yuyang camp was first set up.
 In the twelfth month of winter, Gaoguli, Ma Han, and Shuosuibao besieged Xuantu City. King Fuyu sent his son to join forces with the prefectures and counties to defeat them.
 In the spring and February of the first year of Yanguang, King Fuyu sent his son to lead the army to rescue Xuantu, attacked Gaoguli, Mahan, and Shuosuibao, and defeated them, so he sent an envoy to pay tribute.
+On the second day of March, it was changed to Yanguang.
+Amnesty to the world.
+Those who have returned and migrated will have their household registration and place of residence restored.
+Each of the nobles, elders, filial piety, and Litian will be given a second level of reward; each of the widowers, widows, orphans, singles, terminally ill, and too poor to survive will be given three dendrobiums of millet; and each chaste woman will be given two bolts of silk.
+On the ninth day of the fourth lunar month in the summer, hail fell in twenty-one places in the capital.
+On the 19th, Sikong Chen Bao was dismissed from office.
+On the seventh day of the fifth lunar month, Liu Shou, Zongzheng of Pengcheng, was appointed Sikong.
 
 
-Chunk 19: 
+Chunk 23: 
 original: 
-三月丙午，改元延光。
-大赦天下。
-还徙者，复户邑属籍。
-赐民爵及三老、孝悌、力田，人二级；加赐鳏、寡、孤、独、笃癃、贫不能自存者粟，人三斛；贞妇帛，人二匹。
-夏四月癸未，京师郡国二十一雨雹。
-癸巳，司空陈褒免。
-五月庚戌，宗正彭城刘授为司空。
 己巳，改乐成国为安平，封河间王开子得为安平王。
 六月，郡国蝗。
 秋七月癸卯，京师及郡国十三地震。
@@ -811,27 +838,6 @@ original:
 辛卯，九真言黄龙见无功。
 己亥，诏三公、中二千石，举刺史、二千石、令、长、相，视事一岁以上至十岁，清白爱利、能赖身率下、防奸理烦、有益于人者，无拘官簿。刺史举所部，郡国太守、相举墨绶，隐亲悉心，勿取浮华。
 九月甲戌，郡国二十七地震。
-translation: 
-On the second day of March, it was changed to Yanguang.
-Amnesty to the world.
-Those who have returned and migrated will have their household registration and place of residence restored.
-Each of the nobles, elders, filial piety, and Litian will be given a second level of reward; each of the widowers, widows, orphans, singles, terminally ill, and too poor to survive will be given three dendrobiums of millet; and each chaste woman will be given two bolts of silk.
-On the ninth day of the fourth lunar month in the summer, hail fell in twenty-one places in the capital.
-On the 19th, Sikong Chen Bao was dismissed from office.
-On the seventh day of the fifth lunar month, Liu Shou, Zongzheng of Pengcheng, was appointed Sikong.
-On the 26th, he changed the name of Lecheng State to Anping, and named Liu De, King of Hejian, Liu Kaizi as King of Anping.
-In June, there was a locust plague in the county.
-On the first day of the seventh lunar month in autumn, there was an earthquake on the 13th in the capital and prefectures.
-Gaogouli surrendered.
-The Qiang rebelled and attacked Guluo City. Geng Kui, the general from Liao Dynasty, defeated them.
-On August 16, a fire broke out in the Yanglingyuan dormitory.
-On the 19th, Jiuzhen said that Huanglong was in vain.
-On the 27th, the imperial edict was issued to three men, two thousand stones, and to recommend the governor, two thousand stones, the order, the chief, and the prime minister. They should be from one to ten years old, be honest and love the people and benefit the people, be diligent and efficient, prevent treachery and complicated arrangements, and be beneficial to others. People who are beneficial to others are not necessarily promoted according to the rules, but can be promoted by leaps and bounds. The governor recommends his subordinates, and the prefect of the county recommends Mo Shou. He does not express himself, is devoted to official duties, and is not a flashy person.
-In the ninth month of Jiaxu, there was an earthquake on the twenty-seventh day of the month.
-
-
-Chunk 20: 
-original: 
 冬十月，鲜卑寇雁门、定襄。
 十一月，鲜卑寇太原。
 烧光羌豪降。
@@ -843,17 +849,16 @@ original:
 益州刺史蜀郡西部都尉讨之。
 诏选三署郎及吏人能通《古文尚书》、《毛诗》、《谷梁春秋》各一人。
 丙辰，河东、颍川大风。
-夏六月壬午，郡国十一大风。
-九真言嘉禾生。
-丙申，北海王普薨。
-秋七月，丹阳山崩。
-八月庚午，初令三署郎通达经术任牧民者，视事三岁以上，皆得察举。
-九月，郡国五雨水。
-冬十月辛未，太尉刘恺罢。
-甲戌，司徒杨震为太尉，光禄勋东莱刘憙为司徒。
-十一月甲辰，校猎上林苑。
-鲜卑败南匈奴于曼柏。
 translation: 
+On the 26th, he changed the name of Lecheng State to Anping, and named Liu De, King of Hejian, Liu Kaizi as King of Anping.
+In June, there was a locust plague in the county.
+On the first day of the seventh lunar month in autumn, there was an earthquake on the 13th in the capital and prefectures.
+Gaogouli surrendered.
+The Qiang rebelled and attacked Guluo City. Geng Kui, the general from Liao Dynasty, defeated them.
+On August 16, a fire broke out in the Yanglingyuan dormitory.
+On the 19th, Jiuzhen said that Huanglong was in vain.
+On the 27th, the imperial edict was issued to three men, two thousand stones, and to recommend the governor, two thousand stones, the order, the chief, and the prime minister. They should be from one to ten years old, be honest and love the people and benefit the people, be diligent and efficient, prevent treachery and complicated arrangements, and be beneficial to others. People who are beneficial to others are not necessarily promoted according to the rules, but can be promoted by leaps and bounds. The governor recommends his subordinates, and the prefect of the county recommends Mo Shou. He does not express himself, is devoted to official duties, and is not a flashy person.
+In the ninth month of Jiaxu, there was an earthquake on the twenty-seventh day of the month.
 In the tenth month of winter, the Xianbei bandits raided Yanmen and Dingxiang.
 In November, Xianbei invaded Taiyuan.
 Shaodang Qiang leader surrendered.
@@ -865,6 +870,30 @@ In the first month of the spring of the second year, the Yanniu barbarians rebel
 The governor of Yizhou, the western commander of Shu County, attacked them.
 The imperial edict was ordered to select one person each from the Third Office and the other officials who were proficient in "Old Classics", "Mao Shi", and "Gu Liang Chun Qiu".
 On the 16th, strong winds occurred in Hedong and Yingchuan.
+
+
+Chunk 24: 
+original: 
+夏六月壬午，郡国十一大风。
+九真言嘉禾生。
+丙申，北海王普薨。
+秋七月，丹阳山崩。
+八月庚午，初令三署郎通达经术任牧民者，视事三岁以上，皆得察举。
+九月，郡国五雨水。
+冬十月辛未，太尉刘恺罢。
+甲戌，司徒杨震为太尉，光禄勋东莱刘憙为司徒。
+十一月甲辰，校猎上林苑。
+鲜卑败南匈奴于曼柏。
+是岁，分蜀郡西部为属国都尉。
+京师及郡国三地震。
+三年春二月丙子，东巡狩。
+丁丑，告陈留太守，祠南顿君、光武皇帝于济阳，复济阳今年田租、刍稿。
+庚寅，遣使者祠唐尧于成阳。
+戊子，济南上言，凤皇集台县丞霍收舍树上。
+赐台长帛五十匹、丞二十匹、尉半之、吏卒人三匹。
+凤皇所过亭部，无出今年田租。
+赐男子爵，人二级。
+translation: 
 On the 15th day of the sixth lunar month in summer, there was a strong wind in the county.
 Jiuzhen reports on the growth of Jiahe.
 On the 29th, Liu Pu, King of Beihai, passed away.
@@ -875,19 +904,19 @@ On the sixth day of the tenth lunar month in winter, Taiwei Liu Kai left.
 On the ninth day of the lunar month, Situ Yang Zhen was appointed as Taiwei, and Guang Luxun, Donglai Liu Xi, was appointed as Situ.
 On the ninth day of November, the Imperial School goes to Linyuan for hunting.
 Xianbei defeated the Southern Xiongnu at Manbai.
+In this year, the western part of Shu was divided into the vassal capital.
+Three earthquakes occurred in the capital and prefectures.
+On February 13th in the spring of the third year, the emperor inspected the east.
+On the 14th, he informed the prefect Chenliu to offer sacrifices to Lord Nandun and Emperor Guangwu in Jiyang, and to exempt Jiyang from the land rent and draft manuscripts this year.
+On the 27th, an envoy was sent to worship Tang Yao in Chengyang.
+On the 25th, Jinan reported that phoenixes gathered on the tree where Cheng Huo lived in Tai County.
+As a reward, fifty pieces of silk were given to the magistrate of Tai County, twenty pieces to the chief minister, half to the lieutenants, and three pieces to each of the officials and soldiers.
+The pavilions and government offices where passersby stop by Phoenix are exempt from paying this year's land rent.
+Grant the men a second level of peerage.
 
 
-Chunk 21: 
+Chunk 25: 
 original: 
-是岁，分蜀郡西部为属国都尉。
-京师及郡国三地震。
-三年春二月丙子，东巡狩。
-丁丑，告陈留太守，祠南顿君、光武皇帝于济阳，复济阳今年田租、刍稿。
-庚寅，遣使者祠唐尧于成阳。
-戊子，济南上言，凤皇集台县丞霍收舍树上。
-赐台长帛五十匹、丞二十匹、尉半之、吏卒人三匹。
-凤皇所过亭部，无出今年田租。
-赐男子爵，人二级。
 辛卯，幸太山，柴告岱宗。
 齐王无忌、北海王翼、乐安王延来朝。
 壬辰，宗祀五帝于汶上明堂。
@@ -898,30 +927,6 @@ original:
 壬戌，车驾还京师，幸太学。
 是日，太尉杨震免。
 夏四月乙丑，车驾入宫，假于祖祢。
-translation: 
-In this year, the western part of Shu was divided into the vassal capital.
-Three earthquakes occurred in the capital and prefectures.
-On February 13th in the spring of the third year, the emperor inspected the east.
-On the 14th, he informed the prefect Chenliu to offer sacrifices to Lord Nandun and Emperor Guangwu in Jiyang, and to exempt Jiyang from the land rent and draft manuscripts this year.
-On the 27th, an envoy was sent to worship Tang Yao in Chengyang.
-On the 25th, Jinan reported that phoenixes gathered on the tree where Cheng Huo lived in Tai County.
-As a reward, fifty pieces of silk were given to the magistrate of Tai County, twenty pieces to the chief minister, half to the lieutenants, and three pieces to each of the officials and soldiers.
-The pavilions and government offices where passersby stop by Phoenix are exempt from paying this year's land rent.
-Grant the men a second level of peerage.
-On the 28th, the emperor went to Mount Tai and watched Daizong burn firewood to the sky.
-King Liu Wuji of Qi, King Liu Yi of Beihai, and King Liu Yan of Le'an came to pay homage.
-On the 29th, the Five Emperors were worshiped at Wenshang Mingtang.
-On the 30th day, the two ancestors Gaozu and Guangwu were worshiped, and the six sects Xiaowen, Xiaowu, Xiaoxuan, Xiaoyuan, Xiaoming and Xiaozhang were worshiped, and the counties and counties were comforted and rewarded.
-On the first day of March, King Chen Liu Chong passed away.
-On the fifth day of the lunar month, Confucius and his seventy-two disciples were sacrificed in the palace. Prime Ministers of Lu, Lings, Prime Ministers, Lieutenants, relatives of the Confucius family, women, and all living beings all participated in the gathering. They were rewarded with silks ranging from the following to the Marquis of Praise.
-After returning, the emperor went to Dongping and Dongjun, passing through Weijun and Hanoi.
-On the 29th, the emperor returned to the capital and went to Taixue.
-On this day, Taiwei Yang Zhen was dismissed from his post.
-On the second day of the fourth lunar month in summer, the emperor entered the palace and went to the main temple of Father God.
-
-
-Chunk 22: 
-original: 
 壬戌，沛国言甘露降丰县。
 戊辰，光禄勋冯石为太尉。
 五月，南匈奴左曰逐王叛，使匈奴中郎将马翼讨破之。
@@ -933,16 +938,17 @@ original:
 秋七月丁酉，初复右校、左校令丞官。
 日南徼外蛮豪帅诣阙贡献。
 冯翊言甘露降频阳、衙。
-颍川上言木连理。
-白鹿、麒麟见阳翟。鲜卑寇高柳。
-梁王坚薨。
-八月辛已，大鸿胪耿宝为大将军。
-戊子，颍川上言麒麟一、白虎二见阳翟。
-九月丁酉，废皇太子保为济阴王。
-乙巳，诏郡国中都官死罪系囚减罪一等，诣敦煌、陇西及度辽营；其右趾以下及亡命者赎，各有差。
-壬午，新丰上言凤皇集西界亭。
-丁亥，会三辅守、令、掾史于长安，作乐。
 translation: 
+On the 28th, the emperor went to Mount Tai and watched Daizong burn firewood to the sky.
+King Liu Wuji of Qi, King Liu Yi of Beihai, and King Liu Yan of Le'an came to pay homage.
+On the 29th, the Five Emperors were worshiped at Wenshang Mingtang.
+On the 30th day, the two ancestors Gaozu and Guangwu were worshiped, and the six sects Xiaowen, Xiaowu, Xiaoxuan, Xiaoyuan, Xiaoming and Xiaozhang were worshiped, and the counties and counties were comforted and rewarded.
+On the first day of March, King Chen Liu Chong passed away.
+On the fifth day of the lunar month, Confucius and his seventy-two disciples were sacrificed in the palace. Prime Ministers of Lu, Lings, Prime Ministers, Lieutenants, relatives of the Confucius family, women, and all living beings all participated in the gathering. They were rewarded with silks ranging from the following to the Marquis of Praise.
+After returning, the emperor went to Dongping and Dongjun, passing through Weijun and Hanoi.
+On the 29th, the emperor returned to the capital and went to Taixue.
+On this day, Taiwei Yang Zhen was dismissed from his post.
+On the second day of the fourth lunar month in summer, the emperor entered the palace and went to the main temple of Father God.
 In Renxu, Peiguo reported that Feng County had received timely rain.
 He appointed Guang Luxun and Feng Shi as Taiwei.
 In May, King Zuo Rizhu of the Southern Xiongnu rebelled and sent Ma Yi, the general of the Xiongnu Zhonglang, to defeat him.
@@ -954,6 +960,27 @@ On the 19th, the imperial censor was sent to inspect the disasters in Qingzhou a
 On the sixth day of the seventh lunar month in autumn, the right and left schools began to be restored to the prime minister.
 Many powerful and handsome men from outside Japan came to the palace to pay tribute.
 Feng Yi reported to Pinyang and Yamen that there was timely rain.
+
+
+Chunk 26: 
+original: 
+颍川上言木连理。
+白鹿、麒麟见阳翟。鲜卑寇高柳。
+梁王坚薨。
+八月辛已，大鸿胪耿宝为大将军。
+戊子，颍川上言麒麟一、白虎二见阳翟。
+九月丁酉，废皇太子保为济阴王。
+乙巳，诏郡国中都官死罪系囚减罪一等，诣敦煌、陇西及度辽营；其右趾以下及亡命者赎，各有差。
+壬午，新丰上言凤皇集西界亭。
+丁亥，会三辅守、令、掾史于长安，作乐。
+闰月乙未，祠高庙，遂有事十一陵，历观上林、昆明池。
+遣使者祠太上皇于万年，以中牢祠萧何、曹参、霍光。
+十一月乙丑，至自长安。
+十二月乙未，琅邪言黄龙见诸县。
+是岁，京师及郡国二十三地震；三十六雨水，疾风，雨雹。
+四年春正月壬午，东郡言黄龙二、麒麟一见濮阳。
+二月乙亥，下邳王衍薨。
+translation: 
 Yingchuan reports that the trees are growing together.
 White deer and unicorn appeared in Yangzhai. The Xianbei bandits plundered Gaoliu.
 Liu Jian, King of Liang, passed away.
@@ -963,17 +990,17 @@ On the seventh day of September, Liu Bao, the deposed crown prince, was made Kin
 On the 15th, the imperial edict was issued to all the officials in the prefecture and state to reduce the penalty of one degree for those convicted of capital crimes, and to send them to Dunhuang, Longxi and Duliao camps.
 On the 21st, Jinan reported that a yellow dragon appeared in Licheng. On the 30th, there is a solar eclipse. In the tenth month of winter, the emperor arrived in Chang'an. On the 22nd, Xinfeng reported that there were phoenixes flying in the West boundary pavilion.
 On the 27th, the three assistants, Shou, Ling and Shi, were gathered in Chang'an to have fun.
+On the sixth day of the intercalated lunar month, worship at the Gaomiao Temple, the Eleven Tombs, and visit Shanglin and Kunming Pool.
+Envoys were sent to worship the Supreme Emperor in ten thousand years, and pigs and sheep were sacrificed to Xiao He, Cao Shen, and Huo Guang.
+On the sixth day of November, the emperor returned to the palace from Chang'an.
+On the seventh day of the twelfth lunar month, Langfu reported the appearance of yellow dragons in various counties.
+This year, there were twenty-three earthquakes in the capital and prefectures; thirty-six rains, strong winds, and hail.
+On the twenty-fourth day of the first lunar month in the fourth year of spring, Dongjun reported that Huang Long Er and Qilin Yi appeared in Puyang.
+In the second month of Yihai, Liu Yan, the king of Xiapi, passed away.
 
 
-Chunk 23: 
+Chunk 27: 
 original: 
-闰月乙未，祠高庙，遂有事十一陵，历观上林、昆明池。
-遣使者祠太上皇于万年，以中牢祠萧何、曹参、霍光。
-十一月乙丑，至自长安。
-十二月乙未，琅邪言黄龙见诸县。
-是岁，京师及郡国二十三地震；三十六雨水，疾风，雨雹。
-四年春正月壬午，东郡言黄龙二、麒麟一见濮阳。
-二月乙亥，下邳王衍薨。
 甲辰，南巡狩。
 三月戊午朔，日有食之。
 庚申，幸宛，帝不豫。辛酉，令大将军耿宝行太尉事。
@@ -997,13 +1024,6 @@ original:
 辛亥，少帝薨。
 是冬，京师大疫。
 translation: 
-On the sixth day of the intercalated lunar month, worship at the Gaomiao Temple, the Eleven Tombs, and visit Shanglin and Kunming Pool.
-Envoys were sent to worship the Supreme Emperor in ten thousand years, and pigs and sheep were sacrificed to Xiao He, Cao Shen, and Huo Guang.
-On the sixth day of November, the emperor returned to the palace from Chang'an.
-On the seventh day of the twelfth lunar month, Langfu reported the appearance of yellow dragons in various counties.
-This year, there were twenty-three earthquakes in the capital and prefectures; thirty-six rains, strong winds, and hail.
-On the twenty-fourth day of the first lunar month in the fourth year of spring, Dongjun reported that Huang Long Er and Qilin Yi appeared in Puyang.
-In the second month of Yihai, Liu Yan, the king of Xiapi, passed away.
 On the 17th, the emperor inspected the south. On the first day of March, there is a solar eclipse.
 On the third day of the lunar month, the emperor arrived in Wan and felt unwell.
 On the fourth day of the Lunar New Year, General Geng Bao was ordered to act as the Taiwei.
@@ -1028,7 +1048,7 @@ On the 27th, the young emperor passed away.
 In the winter of this year, there was an epidemic in the capital.
 
 
-Chunk 24: 
+Chunk 28: 
 original: 
 论曰：孝安虽称尊享御，而权归邓氏，至乃损彻膳服，克念政道。
 然令自房帷，威不逮远，始失根统，归成陵敝。遂复计金授官，移民逃寇，推咎台衡，以答天眚。

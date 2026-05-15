@@ -1,0 +1,358 @@
+Summary uses chunk [0, 0, 2, 2, 4, 5, 7, 10, 10, 14]
+
+Chunk 0: 
+original: 
+越王勾践，其先禹之苗裔，而夏后帝少康之庶子也。
+封于会稽，以奉守禹之祀。
+文身断发，披草莱而邑焉。
+后二十余世，至于允常。
+允常之时，与吴王阖庐战而相怨伐。
+允常卒，子勾践立，是为越王。
+元年，吴王阖庐闻允常死，乃兴师伐越。
+越王勾践使死士挑战，三行，至吴陈，呼而自刭。
+吴师观之，越因袭击吴师，吴师败于槜李，射伤吴王阖庐。
+阖庐且死，告其子夫差曰： 必毋忘越。
+三年，勾践闻吴王夫差日夜勒兵，且以报越，越欲先吴未发往伐之。
+范蠡谏曰： 不可。臣闻兵者凶器也，战者逆德也，争者事之末也。
+阴谋逆德，好用凶器，试身于所末，上帝禁之，行者不利。
+translation: 
+The ancestor of King Gou Jian of Yue was a descendant of Xia Yu and the son of a concubine of Emperor Shaokang of the Xia Dynasty.
+Emperor Shaokang's son was sealed in Kuaiji, where he respectfully worshiped and inherited Xia Yu's sacrifices.
+They tattooed their bodies with patterns, cut their hair short, opened up barren land, and built cities.
+After more than twenty generations of reproduction, it was passed down to Yunchang.
+When Yunchang was in power, he and King Wu Helu had resentment and attacked each other.
+After Yunchang's death, his son Gou Jian came to the throne and became the king of Yue.
+In the first year of King Goujian of Yue, King Helu of Wu heard that Yunchang had passed away, so he raised troops to attack Yue.
+King Gou Jian of Yue sent warriors who dared to die to challenge the Wu army. The warriors lined up in three lines and rushed into the Wu army's position, shouting that they would kill themselves.
+The Wu soldiers were stunned. The Vietnamese army took the opportunity to attack the Wu army. They defeated the Wu army at Jianli and shot and wounded the king of Wu in his house.
+When Helu was dying, he warned his son Fucha: Never forget the country of Yue.
+Three years ago, Gou Jian heard that King Wu Fu Chai was training his soldiers day and night to avenge Yue, so he planned to strike first and attack Wu before Wu sent troops.
+Fan Li remonstrated and said: "No, I heard that weapons are dangerous weapons, attacking is immoral, and taking things by force is the lowest behavior in dealing with things."
+Those who conspire to do immoral things, like to use weapons, and personally participate in low-level things will definitely be opposed by the Emperor of Heaven, and this will not bring good results.
+
+summary:
+summary line 0: King Gou Jian of Yue was a descendant of Xia Yu, son of a concubine of Emperor Shaokang of Xia. Emperor Shaokang's son was enfeoffed at Kuaiji, where he maintained Xia Yu's sacrifices. His descendants tattooed their bodies, cut their hair short, developed wasteland, and built cities. After more than twenty generations, rule passed to Yunchang, who had conflicts with King Helu of Wu. After Yunchang's death, his son Gou Jian became king.
+
+Chunk 0: 
+original: 
+越王勾践，其先禹之苗裔，而夏后帝少康之庶子也。
+封于会稽，以奉守禹之祀。
+文身断发，披草莱而邑焉。
+后二十余世，至于允常。
+允常之时，与吴王阖庐战而相怨伐。
+允常卒，子勾践立，是为越王。
+元年，吴王阖庐闻允常死，乃兴师伐越。
+越王勾践使死士挑战，三行，至吴陈，呼而自刭。
+吴师观之，越因袭击吴师，吴师败于槜李，射伤吴王阖庐。
+阖庐且死，告其子夫差曰： 必毋忘越。
+三年，勾践闻吴王夫差日夜勒兵，且以报越，越欲先吴未发往伐之。
+范蠡谏曰： 不可。臣闻兵者凶器也，战者逆德也，争者事之末也。
+阴谋逆德，好用凶器，试身于所末，上帝禁之，行者不利。
+translation: 
+The ancestor of King Gou Jian of Yue was a descendant of Xia Yu and the son of a concubine of Emperor Shaokang of the Xia Dynasty.
+Emperor Shaokang's son was sealed in Kuaiji, where he respectfully worshiped and inherited Xia Yu's sacrifices.
+They tattooed their bodies with patterns, cut their hair short, opened up barren land, and built cities.
+After more than twenty generations of reproduction, it was passed down to Yunchang.
+When Yunchang was in power, he and King Wu Helu had resentment and attacked each other.
+After Yunchang's death, his son Gou Jian came to the throne and became the king of Yue.
+In the first year of King Goujian of Yue, King Helu of Wu heard that Yunchang had passed away, so he raised troops to attack Yue.
+King Gou Jian of Yue sent warriors who dared to die to challenge the Wu army. The warriors lined up in three lines and rushed into the Wu army's position, shouting that they would kill themselves.
+The Wu soldiers were stunned. The Vietnamese army took the opportunity to attack the Wu army. They defeated the Wu army at Jianli and shot and wounded the king of Wu in his house.
+When Helu was dying, he warned his son Fucha: Never forget the country of Yue.
+Three years ago, Gou Jian heard that King Wu Fu Chai was training his soldiers day and night to avenge Yue, so he planned to strike first and attack Wu before Wu sent troops.
+Fan Li remonstrated and said: "No, I heard that weapons are dangerous weapons, attacking is immoral, and taking things by force is the lowest behavior in dealing with things."
+Those who conspire to do immoral things, like to use weapons, and personally participate in low-level things will definitely be opposed by the Emperor of Heaven, and this will not bring good results.
+
+summary:
+summary line 1: In Gou Jian's first year, King Helu of Wu attacked Yue. Gou Jian sent death-defying warriors who lined up in three rows and rushed into Wu's position, shouting they would kill themselves. The stunned Wu soldiers were attacked by Yue forces, defeated at Jianli, and Helu was wounded. Dying, Helu warned his son Fucha never to forget Yue.
+
+Chunk 2: 
+original: 
+种止勾践曰： 夫吴太宰嚭贪，可诱以利，请间行言之。
+于是勾践乃以美女宝器令种间献吴太宰嚭。嚭受，乃见大夫种于吴王。
+种顿首言曰： 愿大王赦勾践之罪，尽入其宝器。
+不幸不赦，勾践将尽杀其妻子，燔其宝器，悉五千人触战，必有当也。
+嚭因说吴王曰： 越以服为臣，若将赦之，此国之利也。
+吴王将许之。
+子胥进谏曰： 今不灭越，后必悔之。
+勾践贤君，种、蠡良臣，若反国，将为乱。
+吴王弗听，卒赦越，罢兵而归。
+勾践之困会稽也，喟然叹曰： 吾终于此乎？
+种曰： 汤系夏台，文王囚羑里，晋重耳奔翟，齐小白奔莒，其卒王霸。
+由是观之，何遽不为福乎？
+吴既赦越，越王勾践反国，乃苦身焦思，置胆于坐，坐卧即仰胆，饮食亦尝胆也，曰： 女忘会稽之耻邪？
+身自耕作，夫人自织，食不加肉，衣不重采，折节下贤人，厚遇宾客，振贫吊死，与百姓同其劳。
+欲使范蠡治国政，蠡对曰： 兵甲之事，种不如蠡；填抚国家，亲附百姓，蠡不如种。
+于是举国政属大夫种，而使范蠡与大夫柘稽行成，为质于吴。
+二岁而吴归蠡。
+勾践自会稽归七年，拊循其士民，欲用以报吴。
+大夫逢同谏曰： 国新流亡，今乃复殷给，缮饰备利，吴必惧，惧则难必至。
+translation: 
+Zhong stopped Gou Jian and said, "Pu, the chief minister of Wu State, is very greedy. We can seduce him with a lot of money. Please allow me to contact him secretly to negotiate peace."
+So Gou Jian asked Zhong to present beautiful women, jewelry and jades to Dazai Pei. Pi readily accepted the offer and introduced Dr. Zhong to King Wu.
+Zhong kowtowed and said: I hope the king can forgive Gou Jian's sins, and our country, Yue, will give you all the treasures passed down from generation to generation.
+If you are not pardoned by luck, Gou Jian will kill all his wife and children, burn his treasures, and lead his five thousand soldiers to fight to the death with you. You will also pay a considerable price.
+Dazai Pi took the opportunity to persuade the King of Wu: The King of Yue has become an obedient minister. If he is pardoned, it will be beneficial to our country.
+King Wu agreed to plant it again.
+Zixu remonstrated again and said: If we don't destroy Yue now, we will definitely regret it in the future.
+Gou Jian is a wise monarch, and the officials Zhong and Fan Li are both wise ministers. If Gou Jian can return to Yue, he will definitely cause chaos.
+The King of Wu did not listen to Zixu's advice and finally pardoned the King of Yue and withdrew his troops back to the country.
+When Gou Jian was trapped in Kuaiji, he once sighed and said: Am I going to end my life here?
+Zhong said: Tang of Shang was imprisoned in Xiatai, King Wen of Zhou was besieged in Youli, Chong'er of Jin fled to Zhai, and Xiaobai of Qi fled to Ju. They all finally became kings and dominated the world.
+From this point of view, is it possible that our situation today cannot be a blessing?
+The King of Wu pardoned the King of Yue. After Gou Jian returned home, he thought deeply and worked hard to hang gall on the seat. He could look up and taste the gall while sitting or lying down, and he could also taste the gall while eating. Said: Have you forgotten the humiliation Kuaiji suffered?
+He farmed by himself, his wife weaved by herself, and he never had meat dishes in his meals. Never wear two layers of gorgeous clothes, be courteous to wise men, be able to accept humiliation, entertain guests with enthusiasm and sincerity, be able to help the poor, mourn the dead, and work together with the people.
+The King of Yue wanted Fan Li to manage the government affairs of the country. Fan Li replied: "I am not as good as a soldier in fighting a war. I am not as good as a farmer in calming down and appeasing the country and getting the people to come close to me."
+So he entrusted the government affairs to the official Zhong, and asked Fan Li and the official Zheji to seek peace and serve as hostages in the state of Wu.
+Two years later, the state of Wu allowed Fan Li to return to the country.
+Seven years after Gou Jian returned from Kuaiji, he always comforted his soldiers and people, hoping to take revenge on Wu.
+The doctor came together and admonished us: "The country has just endured the exile, and today it is rich and prosperous again. If we rectify our armaments, Wu will be afraid. If it is afraid, disaster will follow."
+
+summary:
+summary line 2: Three years later, Gou Jian learned Fucha was training soldiers to avenge Wu. Despite Fan Li's warning that weapons were dangerous and attacking immoral, Gou Jian attacked Wu. Fucha mobilized elite troops, defeated Yue at Fujiao, and surrounded Kuaiji with only 5,000 Yue soldiers remaining. Gou Jian regretted ignoring Fan Li's advice. Fan Li advised humility and generous gifts to Wu. Gou Jian sent official Zhong to beg for peace, offering himself as a slave and his wife as a concubine. Wu's Zixu advised against accepting, but Dazai Pi, bribed with treasures, persuaded King Wu to pardon Yue. Zixu warned that Gou Jian was a wise monarch with capable ministers who would cause chaos if allowed to return, but King Wu ignored him.
+
+Chunk 2: 
+original: 
+种止勾践曰： 夫吴太宰嚭贪，可诱以利，请间行言之。
+于是勾践乃以美女宝器令种间献吴太宰嚭。嚭受，乃见大夫种于吴王。
+种顿首言曰： 愿大王赦勾践之罪，尽入其宝器。
+不幸不赦，勾践将尽杀其妻子，燔其宝器，悉五千人触战，必有当也。
+嚭因说吴王曰： 越以服为臣，若将赦之，此国之利也。
+吴王将许之。
+子胥进谏曰： 今不灭越，后必悔之。
+勾践贤君，种、蠡良臣，若反国，将为乱。
+吴王弗听，卒赦越，罢兵而归。
+勾践之困会稽也，喟然叹曰： 吾终于此乎？
+种曰： 汤系夏台，文王囚羑里，晋重耳奔翟，齐小白奔莒，其卒王霸。
+由是观之，何遽不为福乎？
+吴既赦越，越王勾践反国，乃苦身焦思，置胆于坐，坐卧即仰胆，饮食亦尝胆也，曰： 女忘会稽之耻邪？
+身自耕作，夫人自织，食不加肉，衣不重采，折节下贤人，厚遇宾客，振贫吊死，与百姓同其劳。
+欲使范蠡治国政，蠡对曰： 兵甲之事，种不如蠡；填抚国家，亲附百姓，蠡不如种。
+于是举国政属大夫种，而使范蠡与大夫柘稽行成，为质于吴。
+二岁而吴归蠡。
+勾践自会稽归七年，拊循其士民，欲用以报吴。
+大夫逢同谏曰： 国新流亡，今乃复殷给，缮饰备利，吴必惧，惧则难必至。
+translation: 
+Zhong stopped Gou Jian and said, "Pu, the chief minister of Wu State, is very greedy. We can seduce him with a lot of money. Please allow me to contact him secretly to negotiate peace."
+So Gou Jian asked Zhong to present beautiful women, jewelry and jades to Dazai Pei. Pi readily accepted the offer and introduced Dr. Zhong to King Wu.
+Zhong kowtowed and said: I hope the king can forgive Gou Jian's sins, and our country, Yue, will give you all the treasures passed down from generation to generation.
+If you are not pardoned by luck, Gou Jian will kill all his wife and children, burn his treasures, and lead his five thousand soldiers to fight to the death with you. You will also pay a considerable price.
+Dazai Pi took the opportunity to persuade the King of Wu: The King of Yue has become an obedient minister. If he is pardoned, it will be beneficial to our country.
+King Wu agreed to plant it again.
+Zixu remonstrated again and said: If we don't destroy Yue now, we will definitely regret it in the future.
+Gou Jian is a wise monarch, and the officials Zhong and Fan Li are both wise ministers. If Gou Jian can return to Yue, he will definitely cause chaos.
+The King of Wu did not listen to Zixu's advice and finally pardoned the King of Yue and withdrew his troops back to the country.
+When Gou Jian was trapped in Kuaiji, he once sighed and said: Am I going to end my life here?
+Zhong said: Tang of Shang was imprisoned in Xiatai, King Wen of Zhou was besieged in Youli, Chong'er of Jin fled to Zhai, and Xiaobai of Qi fled to Ju. They all finally became kings and dominated the world.
+From this point of view, is it possible that our situation today cannot be a blessing?
+The King of Wu pardoned the King of Yue. After Gou Jian returned home, he thought deeply and worked hard to hang gall on the seat. He could look up and taste the gall while sitting or lying down, and he could also taste the gall while eating. Said: Have you forgotten the humiliation Kuaiji suffered?
+He farmed by himself, his wife weaved by herself, and he never had meat dishes in his meals. Never wear two layers of gorgeous clothes, be courteous to wise men, be able to accept humiliation, entertain guests with enthusiasm and sincerity, be able to help the poor, mourn the dead, and work together with the people.
+The King of Yue wanted Fan Li to manage the government affairs of the country. Fan Li replied: "I am not as good as a soldier in fighting a war. I am not as good as a farmer in calming down and appeasing the country and getting the people to come close to me."
+So he entrusted the government affairs to the official Zhong, and asked Fan Li and the official Zheji to seek peace and serve as hostages in the state of Wu.
+Two years later, the state of Wu allowed Fan Li to return to the country.
+Seven years after Gou Jian returned from Kuaiji, he always comforted his soldiers and people, hoping to take revenge on Wu.
+The doctor came together and admonished us: "The country has just endured the exile, and today it is rich and prosperous again. If we rectify our armaments, Wu will be afraid. If it is afraid, disaster will follow."
+
+summary:
+summary line 3: After returning home, Gou Jian worked tirelessly, hanging gall where he could taste it, asking himself if he had forgotten Kuaiji's humiliation. He farmed personally, his wife wove cloth, ate no meat, wore no fine clothes, treated worthy men with courtesy, helped the poor, and shared hardships with the people. He entrusted government to Zhong while Fan Li served as hostage in Wu for two years.
+
+Chunk 4: 
+original: 
+越大夫种曰： 臣观吴王政骄矣，请试尝之贷粟，以卜其事。
+请贷，吴王欲与，子胥谏勿与，王遂与之，越乃私喜。
+子胥言曰： 王不听谏，后三年吴其墟乎！
+太宰嚭闻之，乃数与子胥争越议，因谗子胥曰： 伍员貌忠而实忍人，其父兄不顾，安能顾王？
+王前欲伐齐，员强谏，已而有功，用是反怨王。
+王不备伍员，员必为乱。
+与逢同共谋，谗之王。
+王始不从，乃使子胥于齐，闻其托子于鲍氏，王乃大怒，曰： 伍员果欺寡人！
+役反，使人赐子胥属镂剑以自杀。
+子胥大笑曰： 我令而父霸，我又立若，若初欲分吴国半予我，我不受，已，今若反以谗诛我。
+嗟乎，嗟乎，一人固不能独立！
+报使者曰： 必取吾眼置吴东门，以观越兵入也！ 于是吴任嚭政。
+translation: 
+Zhong, the official of the Yue State, said: I have observed that King Wu is too arrogant in power. Please allow me to test it out and borrow food from him to gauge King Wu's attitude towards the State of Yue.
+Zhong asked King Wu to borrow grain. The King of Wu wanted to lend it to him, but Zixu suggested not to lend it. The King of Wu lent it to Yue anyway, and the King of Yue was secretly very happy.
+Zixu said: If the king does not listen to my advice, the country of Wu will be in ruins in three years!
+After Dazai Pi heard this, he argued with Zixu many times about the strategy to deal with the Yue Kingdom. He took the opportunity to slander Zixu and said: "Wu Yuan is loyal on the surface, but in fact he is cruel. He doesn't even care about his father and brother. How can he care about the king?"
+The king wanted to attack Qi State last time, and his soldiers strongly remonstrated with him. Later, you fought successfully, but he resented you for it.
+If you don't guard against him, he will definitely cause trouble.
+Pi also conspired with Feng to slander Zixu again and again in front of the king.
+The king did not listen to the slander at first, so he sent Zixu as an envoy to Qi. When he heard that Zixu had entrusted his son to the Bao family, the king was furious and said: "Wu Yuan really deceived me!"
+After Zixu returned from his mission to Qi, the King of Wu sent someone to give Zixu a carved sword and asked him to commit suicide.
+Zixu laughed and said: I assisted your father to dominate and made you king. At first you wanted to divide the country of Wu equally with me, but I didn't accept it. Not long after that, today you killed me for slander.
+Alas, alas, you can never build a country by yourself!
+Zixu told the envoy: I must take out my eyes and hang them on the east gate of the capital of Wu, so that I can see the Vietnamese army entering the capital with my own eyes. So the king of Wu reused Pei to take charge of the state affairs.
+
+summary:
+summary line 4: Seven years after returning, Gou Jian wanted revenge. A counselor advised patience, noting Wu was attacking Qi and Jin while lacking morality. Yue should befriend Qi, Chu, and Jin while treating Wu favorably. Two years later, when Wu prepared to attack Qi, Zixu warned that Gou Jian shared hardships with his people and would become Wu's worry, urging attack on Yue first. King Wu refused, defeated Qi, and scolded Zixu. Yue's Zhong tested Wu by requesting grain; King Wu lent it despite Zixu's objections. Dazai Pi slandered Zixu, and when Zixu entrusted his son to the Bao family while on a mission to Qi, King Wu sent him a sword to commit suicide. Zixu laughed, saying he should have his eyes hung on Wu's east gate to see Yue's army enter.
+
+Chunk 5: 
+original: 
+居三年，勾践召范蠡曰： 吴已杀子胥，导谀者众，可乎？
+对曰： 未可。
+至明年春，吴王北会诸侯于黄池，吴国精兵从王，惟独老弱与太子留守。
+勾践复问范蠡，蠡曰 可矣 。
+乃发习流二千人，教士四万人，君子六千人，诸御千人，伐吴。
+吴师败，遂杀吴太子。
+吴告急于王，王方会诸侯于黄池，惧天下闻之，乃秘之。
+吴王已盟黄池，乃使人厚礼以请成越。
+越自度亦未能灭吴，乃与吴平。
+其后四年，越复伐吴。
+吴士民罢弊，轻锐尽死于齐、晋。
+而越大破吴，因而留围之三年，吴师败，越遂复栖吴王于姑苏之山。
+吴王使公孙雄肉袒膝行而前，请成越王曰： 孤臣夫差敢布腹心，异日尝得罪于会稽，夫差不敢逆命，得与君王成以归。
+translation: 
+Three years later, Gou Jian summoned Fan Li and said, "The king of Wu has killed Xu, and there are many flatterers. Can we attack Wu?"
+Fan Li replied: No.
+In the spring of the next year, King Wu went to Huangchi in the north to join the princes. All the elite troops of Wu State followed King Wu to the meeting. Only the old, weak and remnant soldiers and the prince stayed in Wudu.
+Gou Jian asked Fan Li if he could attack Wu.
+Fan Li said: That's all. So he sent 2,000 soldiers who were familiar with water warfare, 40,000 well-trained soldiers, 6,000 well-educated and high-status guards, and 1,000 management and technical officers of various types to attack Wu.
+The Wu army was defeated, and the Vietnamese army also killed the prince of Wu.
+The envoy from the State of Wu quickly reported the situation to the King of Wu. The King of Wu was meeting the princes in Huangchi. He was afraid that the people of the world would hear the news of this tragic defeat, so he insisted on keeping it a secret.
+King Wu had already made an alliance with the princes in Huangchi, so he sent people with generous gifts to ask for peace with Yue.
+The King of Yue estimated that he could not destroy the State of Wu, so he made peace with the State of Wu.
+Four years later, Yue attacked Wu again.
+The army and people of Wu were exhausted, and all their elite soldiers died in the battles with Qi and Jin.
+Therefore, the State of Yue defeated the Wu army and besieged Wu's capital for three years. When the Wu army was defeated, the State of Yue besieged the King of Wu on Mount Gusu.
+The King of Wu sent Gong Sunxiong to take off his shirt, expose his arms, kneel forward, and ask for peace with the King of Yue. He said: The helpless minister Fu Cha took the liberty to express his wish. I have offended you in Kuaiji in the past. I dare not disobey your order. If I can make peace with you, I will withdraw my troops and return home.
+
+summary:
+summary line 5: Three years later, Gou Jian asked Fan Li about attacking Wu. Fan Li said no. The next spring, while Wu's elite troops were at Huangchi with King Wu, Yue attacked, killed Wu's prince, and defeated Wu's forces. King Wu hid the news and sought peace. Yue agreed, unable to destroy Wu. Four years later, Yue attacked again, besieged Wu's capital for three years, and trapped King Wu on Gusu Mountain. King Wu sought peace, reminding Gou Jian of Kuaiji. Gou Jian wavered, but Fan Li insisted Wu must be destroyed, recalling God had given Yue to Wu before. Fan Li drove away Wu's envoy. King Wu committed suicide, covering his face, ashamed to see Zixu. Yue's king buried Wu's king and killed Dazai Pi.
+
+Chunk 7: 
+original: 
+勾践已平吴，乃以兵北渡淮，与齐、晋诸侯会于徐州，致贡于周。
+周元王使人赐勾践胙，命为伯。
+勾践已去，渡淮南，以淮上地与楚，归吴所侵宋地于宋，与鲁泗东方百里。
+当是时，越兵横行于江、淮东，诸侯毕贺，号称霸王。
+范蠡遂去，自齐遗大夫种书曰： 蜚鸟尽，良弓藏；狡兔死，走狗烹。
+越王为人长颈鸟喙，可与共患难，不可与共乐。子何不去？
+种见书，称病不朝。
+人或谗种且作乱，越王乃赐种剑曰： 子教寡人伐吴七术，寡人用其三而败吴，其四在子，子为我从先王试之。
+种遂自杀。
+勾践卒，子王鼫与立。
+王鼫与卒，子王不寿立。
+王不寿卒，子王翁立。
+王翁卒，子王翳立。
+王翳卒，子王之侯立。王之侯卒，子王无强立。
+translation: 
+After Gou Jian pacified the state of Wu, he sent troops north to cross the Huaihe River, met with the princes of Qi and Jin in Xuzhou, and paid tribute to the Zhou royal family.
+King Zhou Yuan sent people to reward Gou Jian with sacrificial meat and called him Uncle.
+Gou Jian left Xuzhou, crossed the Huaihe River and went south. He donated the land in the Huaihe River Basin to the Chu State and returned the land that Wu had invaded from the Song State to the Song State. He donated a hundred miles of land east of Surabaya to the State of Lu.
+At that time, the Yue army marched unimpeded east of the Yangtze River and Huaihe River. The princes came to celebrate, and the Yue King was called the Overlord.
+Fan Li then left the King of Yue and sent a letter to Dr. Zhong from Qi. The letter said: When the birds are gone, the good bow is hidden; when the cunning rabbit dies, the running dogs are cooked.
+The King of Yue is a long-necked bird with a beak. You can only share adversity with him, but you cannot share happiness with him. Why don't you leave?
+After reading the letter, Zhong claimed that he was ill and would no longer go to court.
+Someone slandered Zhong and was about to cause rebellion. The King of Yue rewarded Zhong with a sword and said: You taught me seven strategies to attack Wu. I only used three of them to defeat Wu. The four are still with you. Go to the late king for me and try those four!
+Zhong then committed suicide.
+Gou Jian died, and his son Wang Yaoyu ascended the throne.
+Wang Junyu died, and his son Wang Bushou came to the throne.
+Wang Bushou died and his son Wang Weng came to the throne.
+Wang Weng died and his son Wang Yi came to the throne.
+When Wang Yi died, his son Wang Zhihou came to the throne. When Wang Zhihou died, his son Wang Wuqiang came to the throne.
+
+summary:
+summary line 6: After pacifying Wu, Gou Jian marched north, met with Qi and Jin princes at Xuzhou, and paid tribute to Zhou. King Yuan of Zhou rewarded him. Gou Jian donated land to Chu, Song, and Lu. The Yue army marched unimpeded, and Gou Jian became overlord. Fan Li then left, sending a letter to Zhong from Qi, saying: "When birds are gone, the good bow is hidden; when cunning rabbit dies, running dogs are cooked. You can only share adversity with the king, not happiness." Zhong claimed illness but was slandered as rebellious. The king sent him a sword, saying he had used three of Zhong's seven strategies against Wu and should try the remaining four with the late king. Zhong committed suicide.
+
+Chunk 10: 
+original: 
+于是越遂释齐而伐楚。
+楚威王兴兵而伐之，大败越，杀王无强，尽取故吴地至浙江，北破齐于徐州。
+而越以此散，诸族子争立，或为王，或为君，滨于江南海上，服朝于楚。
+后七世，至闽君摇，佐诸侯平秦。
+汉高帝复以摇为越王，以奉越后。
+东越，闽君，皆其后也。
+范蠡事越王勾践，既苦身戮力，与勾践深谋二十余年，竟灭吴，报会稽之耻，北渡兵于淮以临齐、晋，号令中国，以尊周室，勾践以霸，而范蠡称上将军。
+还反国，范蠡以为大名之下，难以久居，且勾践为人可与同患，难与处安，为书辞勾践曰： 臣闻主忧臣劳，主辱臣死。
+昔者君王辱于会稽，所以不死，为此事也。
+今既以雪耻，臣请从会稽之诛。
+勾践曰： 孤将与子分国而有之。
+不然，将加诛于子。 范蠡曰： 君行令，臣行意。
+乃装其轻宝珠玉，自与其私徒属乘舟浮海以行，终不反。于是勾践表会稽山以为范蠡奉邑。
+范蠡浮海出齐，变姓名，自谓鸱夷子皮，耕于海畔，苦身戮力，父子治产。
+translation: 
+So Yue gave up Qi and attacked Chu.
+King Chu Wei sent troops to attack the Yue army, defeated the Yue army, killed the Yue King Wuqiang, captured all the land from Wu to Zhejiang, and defeated the Qi army in Xuzhou in the north.
+From then on, the Yue Kingdom fell apart, and the children of various ethnic groups competed for power. Some claimed the title of king, and some claimed the title of emperor. They lived on the coast south of the Yangtze River and paid tribute to the Chu Kingdom obediently.
+Seven generations later, the throne passed to Fujian Junyao, who assisted the princes to overthrow the Qin Dynasty.
+Emperor Gao of the Han Dynasty resumed his role as the king of Yue and continued the worship of the country of Yue.
+Dongyue and Minjun are both descendants of Yue.
+Fan Li served King Gou Jian of Yue, worked hard physically and mentally, and tried his best to plan with Gou Jian for more than 20 years. Finally, he destroyed the state of Wu and wiped out the shame of Kuaiji. The Vietnamese army marched north to the Huaihe River and approached the borders of Qi and Shanxi. They ordered all the countries in the Central Plains to respect the Zhou Dynasty and make Gou Jian the hegemon. Fan Li became the general.
+After returning home, Fan Li thought that it would be difficult to live long under such a great reputation. Moreover, Gou Jian was a man who could share hardships with him but not happiness with him. He wrote a farewell letter to Gou Jian and said: I heard that when the king is worried, his ministers will work hard, and when the king is insulted, his ministers will die.
+You were humiliated in Kuaiji in the past, and the reason why I didn't die was to avenge you.
+Now that I have avenged my humiliation, I beg you to grant me the death penalty for the humiliation my lord suffered in Kuaiji.
+Gou Jian said: I will divide the country of Yue equally with you. Otherwise, you will be blamed.
+Fan Li said: The monarch can carry out your orders, but the ministers still follow their own wishes.
+So he packed up the fine jewelry and left by boat with his entourage, never returning to Yue. In recognition of Fan Li, Gou Jian made Kuaiji Mountain his fief.
+Fan Li took a boat and drifted across the sea to the state of Qi. He changed his name and surname and called himself "Gui Yi Zipi". He farmed on the seaside, endured hardships and worked hard to produce, and his father and son worked together to manage the industry.
+
+summary:
+summary line 7: Gou Jian died, and his descendants ruled for generations until King Wuqiang. During King Wei of Chu's reign, Yue attacked Qi. Qi's envoy persuaded Yue to attack Chu instead, arguing that Chu's forces were dispersed. Yue abandoned Qi and attacked Chu. King Wei of Chu defeated Yue, killed King Wuqiang, and seized all land from Wu to Zhejiang. Yue disintegrated, with various descendants competing for power, some claiming kingship, living south of the Yangtze and paying tribute to Chu. Seven generations later, Fujian Junyao helped princes overthrow Qin. Emperor Gao of Han restored Yue's kingship. Dongyue and Minjun were both Yue descendants.
+
+Chunk 10: 
+original: 
+于是越遂释齐而伐楚。
+楚威王兴兵而伐之，大败越，杀王无强，尽取故吴地至浙江，北破齐于徐州。
+而越以此散，诸族子争立，或为王，或为君，滨于江南海上，服朝于楚。
+后七世，至闽君摇，佐诸侯平秦。
+汉高帝复以摇为越王，以奉越后。
+东越，闽君，皆其后也。
+范蠡事越王勾践，既苦身戮力，与勾践深谋二十余年，竟灭吴，报会稽之耻，北渡兵于淮以临齐、晋，号令中国，以尊周室，勾践以霸，而范蠡称上将军。
+还反国，范蠡以为大名之下，难以久居，且勾践为人可与同患，难与处安，为书辞勾践曰： 臣闻主忧臣劳，主辱臣死。
+昔者君王辱于会稽，所以不死，为此事也。
+今既以雪耻，臣请从会稽之诛。
+勾践曰： 孤将与子分国而有之。
+不然，将加诛于子。 范蠡曰： 君行令，臣行意。
+乃装其轻宝珠玉，自与其私徒属乘舟浮海以行，终不反。于是勾践表会稽山以为范蠡奉邑。
+范蠡浮海出齐，变姓名，自谓鸱夷子皮，耕于海畔，苦身戮力，父子治产。
+translation: 
+So Yue gave up Qi and attacked Chu.
+King Chu Wei sent troops to attack the Yue army, defeated the Yue army, killed the Yue King Wuqiang, captured all the land from Wu to Zhejiang, and defeated the Qi army in Xuzhou in the north.
+From then on, the Yue Kingdom fell apart, and the children of various ethnic groups competed for power. Some claimed the title of king, and some claimed the title of emperor. They lived on the coast south of the Yangtze River and paid tribute to the Chu Kingdom obediently.
+Seven generations later, the throne passed to Fujian Junyao, who assisted the princes to overthrow the Qin Dynasty.
+Emperor Gao of the Han Dynasty resumed his role as the king of Yue and continued the worship of the country of Yue.
+Dongyue and Minjun are both descendants of Yue.
+Fan Li served King Gou Jian of Yue, worked hard physically and mentally, and tried his best to plan with Gou Jian for more than 20 years. Finally, he destroyed the state of Wu and wiped out the shame of Kuaiji. The Vietnamese army marched north to the Huaihe River and approached the borders of Qi and Shanxi. They ordered all the countries in the Central Plains to respect the Zhou Dynasty and make Gou Jian the hegemon. Fan Li became the general.
+After returning home, Fan Li thought that it would be difficult to live long under such a great reputation. Moreover, Gou Jian was a man who could share hardships with him but not happiness with him. He wrote a farewell letter to Gou Jian and said: I heard that when the king is worried, his ministers will work hard, and when the king is insulted, his ministers will die.
+You were humiliated in Kuaiji in the past, and the reason why I didn't die was to avenge you.
+Now that I have avenged my humiliation, I beg you to grant me the death penalty for the humiliation my lord suffered in Kuaiji.
+Gou Jian said: I will divide the country of Yue equally with you. Otherwise, you will be blamed.
+Fan Li said: The monarch can carry out your orders, but the ministers still follow their own wishes.
+So he packed up the fine jewelry and left by boat with his entourage, never returning to Yue. In recognition of Fan Li, Gou Jian made Kuaiji Mountain his fief.
+Fan Li took a boat and drifted across the sea to the state of Qi. He changed his name and surname and called himself "Gui Yi Zipi". He farmed on the seaside, endured hardships and worked hard to produce, and his father and son worked together to manage the industry.
+
+summary:
+summary line 8: Fan Li served Gou Jian for over twenty years, destroying Wu and making Gou Jian hegemon. Recognizing that great fame was difficult to sustain and Gou Jian could not share happiness, Fan Li left by boat with valuables, never returning. He changed his name, farmed in Qi, accumulated wealth, became prime minister, then resigned, distributed his property, and moved to Taodi, calling himself Tao Zhugong. He farmed and traded, accumulating millions. His second son killed someone in Chu. He sent his youngest son with gold to bribe his old friend Zhuang Sheng, but his eldest son insisted on going. The eldest son delivered the gold but later retrieved it when he thought amnesty would free his brother. Zhuang Sheng, ashamed, told the Chu king that the amnesty was due to bribery. The king killed Zhu Gong's son first, then issued amnesty. Zhu Gong had expected this, knowing his eldest son valued money while his youngest would spend freely. Fan Li died of old age in Taodi.
+
+Chunk 14: 
+original: 
+是少与我俱，见苦，为生难，故重弃财。
+至如少弟者，生而见我富，乘坚驱良逐狡兔，岂知财所从来，故轻弃之，非所惜吝。
+前日吾所为欲遣少子，固为其能弃财故也。而长者不能，故卒以杀其弟，事之理也，无足悲者。
+吾日夜固以望其丧之来也。
+故范蠡三徙，成名于天下，非苟去而已，所止必成名。
+卒老死于陶，故世传曰陶朱公。
+太史公曰：禹之功大矣，渐九川，定九州，至于今诸夏艾安。
+及苗裔勾践，苦身焦思，终灭强吴，北观兵中国，以尊周室，号称霸王。
+勾践可不谓贤哉！
+盖有禹之遗烈焉。
+范蠡三迁皆有荣名，名垂后世。
+臣主若此，欲毋显得乎！
+translation: 
+He has lived with me since he was young, has experienced all kinds of hardships, and knows how difficult it is to make a living, so he values ​​money very seriously and does not dare to spend money easily.
+As for my little brother, he has only seen me being extremely wealthy since he was born. He rides in fine cars, drives thousands of miles of horses, and goes hunting in the countryside. He doesn’t know where the money comes from, so he takes money very lightly and throws it away without mercy.
+It turned out that I planned to let the younger son go because he was willing to give up money, but the eldest son couldn't give up money, and ended up killing his younger brother. This is reasonable and not worthy of grief.
+What I was looking forward to day and night was for my second son’s body to be returned.
+Fan Li moved three times and became famous all over the world. He didn't just leave somewhere randomly. He became famous wherever he lived.
+In the end, he died of old age in Taodi, so people in the world called him Tao Zhugong.
+Tai Shigong said: Xia Yu's contribution was great. He channeled the nine great rivers and stabilized the land of Kyushu. To this day, the whole of Kyushu is safe and sound.
+When his descendant Gou Jian arrived, he worked hard and thought far, and finally destroyed the powerful Wu State, marched north to the Central Plains, worshiped the Zhou Dynasty, and became the overlord.
+Can you say that you are not virtuous?
+This is probably the legacy of Xia Yu.
+Fan Li moved three times and left a glorious reputation that will last forever.
+Is it possible for a minister and a monarch to do this without becoming famous?
+
+summary:
+summary line 9: Tai Shigong commented: Xia Yu's contributions were great, channeling rivers and stabilizing Kyushu. His descendant Gou Jian worked hard, destroyed Wu, and became overlord—truly virtuous, likely Xia Yu's legacy. Fan Li moved three times, leaving a glorious reputation.
+

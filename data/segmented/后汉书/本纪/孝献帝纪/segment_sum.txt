@@ -1,59 +1,6 @@
-Summary uses chunk [4, 8]
+Summary uses chunk [9]
 
-Chunk 4: 
-original: 
-夏五月癸酉，无云而雷。
-六月，扶风大风，雨雹。
-华山崩裂。
-太尉周忠免，太仆朱俊为太尉，录尚书事。
-下邳贼阙宣自称天子。
-雨水。
-遣侍御史裴茂讯诏狱，原轻系。
-六月辛丑，天狗西北行。
-九月甲午，试儒生四十余人，上第赐位郎中，次太子舍人，下第者罢之。
-诏曰： 孔子叹 学之不讲 ，不讲则所识日忘。
-今耆儒年逾六十，去离本土，营求粮资，不得专业。
-结童入学，白首空归，长委农野，永绝荣望，朕甚愍焉。
-其依科罢者，听为太子舍人。
-冬十月，太学行礼，车驾幸永福城门，临观其仪，赐博士以下各有差。
-辛丑，京师地震。
-有星孛于天市。
-司空杨彪免，太常赵温为司空。
-公孙瓒杀大司马刘虞。
-十二月辛丑，地震。
-司空赵温免，乙巳，卫尉张喜为司空。
-是岁，琅邪王容薨。
-兴平元年春正月辛酉，大赦天下，改元兴平。
-甲子，帝加元服。
-translation: 
-On May 22nd in the summer, there was no cloud but thunder.
-In June, strong winds and hail fell in the Fufeng area.
-Huashan collapsed.
-Taiwei Zhou Zhong was dismissed from his post, and his servant Zhu Jun was appointed as Taiwei to act as minister.
-Quexuan, a bandit from Xiapi, claimed to be the emperor.
-Lots of rain.
-Pei Mao, the imperial censor, was sent to interrogate the prisoners imprisoned under the imperial edict, and to pardon those detained for misdemeanors.
-On June 20th, the star Tengu moves northwest.
-In the ninth month of the ninth lunar month, there were more than 40 Confucian scholars in the program of selecting scholars by subject. The higher rankings were awarded the title of doctor, the lower rankings were awarded the title of prince, and the lower rankings were given away without any arrangement.
-The imperial edict said: Confucius lamented that if he did not study academics, he would forget the knowledge he knew day by day.
-Nowadays, the old Confucian scholars are over sixty years old. They have left their hometowns to make a living and cannot engage in specialized careers.
-I have pity and sympathy for them when they were married in childhood and went to school empty-handed in old age.
-Those who fail in the examination will be accepted as princes.
-In the winter of October, a ceremony was held at Taixue. Emperor Xian went to the gate of Yongfu City to watch the ceremony in person. He rewarded the doctor with the following money and materials.
-On October 22, there was an earthquake in the capital.
-Comet appears in Tianshi star.
-Sikong Yang Biao was dismissed and Taichang Zhao Wen was appointed as Sikong.
-Gongsun Zan killed the Grand Sima Liu Yu.
-December 23, earthquake.
-Sikong Zhao Wen was dismissed, and on December 27, Weiwei Zhang happy was appointed as Sikong.
-In this year, Langyi King Liu Rong passed away.
-On the thirteenth day of the first spring month of the first year of Xingping, a general amnesty was granted to the whole country, and the Yuan Dynasty was changed to Xingping.
-On the 16th, the emperor crowned him.
-
-summary:
-summary line 0: **Summary of the Reign of Emperor Xian of Han**
-
-Chunk 8: 
+Chunk 9: 
 original: 
 州郡各拥强兵，而委输不至，群僚饥乏，尚书郎以下自出采稆，或饥死墙壁间，或为兵士所杀。
 辛亥，镇东将军曹操自领司隶校尉，录尚书事。
@@ -112,5 +59,5 @@ In the seventh month of autumn, Prince Liu Feng was made King of Nanyang.
 On the 12th, Nanyang King Liu Feng passed away.
 
 summary:
-summary line 1: Xiaoxian Emperor Liu Xie, the son of Emperor Ling, ascended the throne at age nine in September 189, moving the Empress Dowager to Yong'an Palace and granting amnesty. Dong Zhuo soon killed the Empress Dowager and appointed himself Prime Minister. In 190, prefectures raised troops against Dong Zhuo, who killed the former emperor Liu Bian and moved the capital to Chang'an, burning Luoyang's palaces. Dong Zhuo destroyed five-baht coins for small coins. In 191, Dong Zhuo became Grand Master, and Sun Jian defeated his general. Dong Zhuo excavated imperial tombs. In 192, Dong Zhuo was executed, and his clan was wiped out. His generals Li Jue and Guo Si rebelled, capturing Chang'an and killing over 10,000 officials and civilians. Li Jue killed Wang Yun and others. In 193, Yuan Shu killed the Yangzhou governor and occupied Huainan. In 194, a severe drought and locust plague caused famine, with grain prices soaring and cannibalism. The emperor personally inspected relief efforts. In 195, Li Jue killed Fan Chou and fought Guo Si, forcing the emperor to flee. The emperor began his journey back to Luoyang, facing attacks from Li Jue and Guo Si, with many officials killed. In 196, the emperor arrived in Luoyang, but the palace was burned, and officials suffered from hunger. Cao Cao took control, moving the capital to Xuchang and appointing himself Sikong. In 197, Yuan Shu claimed emperorship. In 198, Cao Cao killed Lü Bu. In 199, Yuan Shao captured Gongsun Zan. In 200, Dong Cheng's plot to kill Cao Cao failed, and Cao Cao killed him. Cao Cao defeated Yuan Shao at Guandu. In 207, Cao Cao defeated the Wuhuan. In 208, Cao Cao became Prime Minister, defeated Liu Biao's son, but was defeated by Sun Quan at Red Cliffs. In 213, Cao Cao became Duke of Wei. In 214, Cao Cao killed Empress Fu. In 215, Cao Cao captured Hanzhong. In 216, Cao Cao became King of Wei. In 220, Cao Cao died, and his son Cao Pi succeeded. Emperor Xian abdicated, becoming Duke of Shanyang. Liu Bei proclaimed himself emperor of Shu, and Sun Quan became king of Wu, dividing the realm into three. Emperor Xian died in 234 at age 54, buried with Han rites. Historians note that Han's decline began long before his reign, and he was a victim of his era.
+summary line 0: Xiaoxian Emperor Liu Xie, the son of Emperor Ling, ascended the throne at age nine in September 189, moving the Empress Dowager to Yong'an Palace and granting amnesty. Dong Zhuo soon killed the Empress Dowager and appointed himself Prime Minister. In 190, prefectures raised troops against Dong Zhuo, who killed the former emperor Liu Bian and moved the capital to Chang'an, burning Luoyang's palaces. Dong Zhuo destroyed five-baht coins for small coins. In 191, Dong Zhuo became Grand Master, and Sun Jian defeated his general. Dong Zhuo excavated imperial tombs. In 192, Dong Zhuo was executed, and his clan was wiped out. His generals Li Jue and Guo Si rebelled, capturing Chang'an and killing over 10,000 officials and civilians. Li Jue killed Wang Yun and others. In 193, Yuan Shu killed the Yangzhou governor and occupied Huainan. In 194, a severe drought and locust plague caused famine, with grain prices soaring and cannibalism. The emperor personally inspected relief efforts. In 195, Li Jue killed Fan Chou and fought Guo Si, forcing the emperor to flee. The emperor began his journey back to Luoyang, facing attacks from Li Jue and Guo Si, with many officials killed. In 196, the emperor arrived in Luoyang, but the palace was burned, and officials suffered from hunger. Cao Cao took control, moving the capital to Xuchang and appointing himself Sikong. In 197, Yuan Shu claimed emperorship. In 198, Cao Cao killed Lü Bu. In 199, Yuan Shao captured Gongsun Zan. In 200, Dong Cheng's plot to kill Cao Cao failed, and Cao Cao killed him. Cao Cao defeated Yuan Shao at Guandu. In 207, Cao Cao defeated the Wuhuan. In 208, Cao Cao became Prime Minister, defeated Liu Biao's son, but was defeated by Sun Quan at Red Cliffs. In 213, Cao Cao became Duke of Wei. In 214, Cao Cao killed Empress Fu. In 215, Cao Cao captured Hanzhong. In 216, Cao Cao became King of Wei. In 220, Cao Cao died, and his son Cao Pi succeeded. Emperor Xian abdicated, becoming Duke of Shanyang. Liu Bei proclaimed himself emperor of Shu, and Sun Quan became king of Wu, dividing the realm into three. Emperor Xian died in 234 at age 54, buried with Han rites. Historians note that Han's decline began long before his reign, and he was a victim of his era.
 

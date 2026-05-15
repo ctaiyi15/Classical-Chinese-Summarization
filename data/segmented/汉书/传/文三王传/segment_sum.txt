@@ -1,0 +1,195 @@
+Summary uses chunk [0, 2, 3, 5, 6]
+
+Chunk 0: 
+original: 
+孝文皇帝四男：窦皇后生孝景帝、梁孝王武，诸姬生代孝王参、梁怀王揖。
+梁孝王武以孝文二年与太原王参、梁王揖同日立。
+武为代王，四年徙为淮阳王，十二年徙梁，自初王通历已十一年矣。
+孝王十四年，入朝。
+十七年、十八年，比年入朝，留。其明年，乃之国。
+二十一年，入朝。
+二十二年，文帝崩。
+二十四年，入朝。
+二十五年，复入朝。
+是时，上未置太子，与孝王宴饮，从容言曰： 千秋万岁后传于王。
+王辞谢。
+虽知非至言，然心内喜。
+太后亦然。
+其春，吴、楚、齐、赵七国反，先击梁棘壁，杀数万人。
+梁王城守睢阳，而使韩安国、张羽等为将军以距吴、楚。
+吴、楚以梁为限，不敢过而西，与太尉亚夫等相距三月。
+translation: 
+Emperor Xiaowen had four sons: Empress Dou gave birth to Emperor Xiaojing and King Xiao of Liang Wang Wu, and Zhu Ji gave birth to Prince Xiao Shen and King Huai of Liang Yi.
+In the second year of Emperor Xiaowen's reign, Liang Xiaowang Liu Wu was crowned king on the same day as Taiyuan Wang Liu Shen and Liang Wang Liu Yi.
+Liu Wu was first granted the title of King of Dai. In the fourth year of Emperor Xiaowen, he was transferred to the title of King of Huaiyang. In the twelfth year of Emperor Xiaowen, Liu Wu was transferred to the Kingdom of Liang. From the initial appointment, he was the king for a total of eleven years.
+In the fourteenth year of King Xiao's reign, Liu Wu entered the court.
+In the 17th and 18th years, he entered the DPRK one after another and stayed in the capital. He returned to China in the second year.
+He entered the DPRK again in the twenty-first year.
+In the twenty-second year, Emperor Wen died.
+Entered the DPRK in the twenty-fourth year.
+Twenty-five years later, he entered the DPRK again.
+At that time, the emperor had not decided on the crown prince, so he casually said while having a banquet with Xiao Wang Liu Wu: I will pass the throne to you after my death.
+King Xiao resigned.
+Although King Xiao knew that what the emperor said was not true, he was very happy.
+The same is true for the Queen Mother.
+In the spring of this year, the seven kingdoms of Wu, Chu, Qi, and Tang rebelled. They first attacked Liang Guo Jibi and killed tens of thousands of people.
+Liang Wang Liu Wu stayed in Suiyang and sent Han Anguo, Zhang Yu and others as generals to fight against Wu and Chu.
+Wu and Chu were stopped by Liang Guo and did not dare to go westward. They faced off with Taiwei Zhou Yafu and others for three months.
+
+summary:
+summary line 0: Emperor Xiaowen had four sons. Empress Dou bore Emperor Xiaojing and Liu Wu, King Xiao of Liang, while Zhu Ji bore Liu Shen, Prince Xiao, and Liu Yi, King Huai of Liang. Liu Wu was initially made King of Dai, later transferred to Huaiyang, and finally to Liang in the twelfth year of Emperor Xiaowen’s reign, serving as king for eleven years. He frequently entered the court, and during one banquet, Emperor Xiaojing casually offered to pass the throne to him, which Liu Wu declined but was pleased by. In the spring of the twenty-fourth year, the seven kingdoms of Wu, Chu, Qi, and others rebelled, attacking Liang. Liu Wu defended Suiyang with generals Han Anguo and Zhang Yu, holding off Wu and Chu for three months until they were defeated. Liang’s military exploits and proximity to the emperor made it a large, fertile kingdom with over forty cities.
+
+Chunk 2: 
+original: 
+梁之侍中、郎、谒者著引籍出入天子殿门，与汉宦官亡异。
+十一月，上废栗太子，太后心欲以梁王为嗣。
+大臣及爰盎等有所关说于帝，太后议格，孝王不敢复言太后以嗣事。
+事秘，世莫知，乃辞归国。
+其夏，上立胶东王为太子。
+梁王怨爰盎及议臣，乃与羊胜、公孙诡之属谋，阴使人刺杀爰盎及他议臣十余人。
+贼未得也。
+于是天子意梁，逐贼，果梁使之。
+遣使冠盖相望于道，复案梁事。
+捕公孙诡、羊胜，皆匿王后宫。
+使者责二千石急，梁相轩丘豹及内史安国皆泣谏王，王乃令胜、诡皆自杀，出之。
+上由此怨望于梁王。
+梁王恐，乃使韩安国因长公主谢罪太后，然后得释。
+上怒稍解，因上书请朝。
+translation: 
+The servants, ministers and eunuchs of the Liang Kingdom could enter and leave the Emperor's Palace with their name certificates, just like the eunuchs in the desert.
+In November, the emperor deposed Prince Li, and the Queen Mother wanted to let Prince Liang succeed him.
+The ministers and Yuan An and others remonstrated with Emperor Jing, and the Queen Mother's suggestion was shelved. King Xiao did not dare to discuss the succession with the Queen Mother anymore.
+The matter was a secret and unknown to the world, so King Xiao immediately left and returned to his country.
+In the summer, the emperor made King Micellar the crown prince.
+The King of Liang hated Yuan An and the ministers who made suggestions, so he conspired with Yang Sheng, Gongsun Gui and others, and secretly sent people to assassinate Yuan An and a dozen other ministers.
+As a result, the assassin failed.
+The emperor suspected that this matter was done by Liang Guo, and after further investigation, he found out that it was indeed sent by Liang Guo.
+So he sent a large team of people to Liang Guo to investigate the matter.
+Gongsun Gui and Yang Sheng were hunted down and hid in the palace of Queen Liang.
+The envoy sent two thousand stone officials to urge the king of Liang to surrender. Liang's Prime Minister Xuan Qiubao and Internal Secretary Han Anguo cried to persuade the King of Liang, and the King of Liang ordered Yang Sheng and Gongsun Gui to commit suicide and then hand them over.
+The emperor was angry with King Liang because of this.
+The King of Liang was in panic, so he sent Han Anguo to apologize to the Queen Mother through the eldest princess, and then he calmed down.
+After the emperor's anger subsided, King Xiao of Liang immediately submitted a letter to the court.
+
+summary:
+summary line 1: Liu Wu, favored by the Queen Mother, built a grand garden and palace, amassed vast wealth, and recruited heroes like Yang Sheng, Gongsun Gui, and Zou Yang. He manufactured weapons and stored treasures exceeding the capital’s. In the twenty-ninth year, he entered the court and was honored by Emperor Jing, riding together and hunting. After the emperor deposed Prince Li, the Queen Mother wanted Liu Wu to succeed, but ministers like Yuan An dissuaded the emperor, and Liu Wu left. Later, Liu Wu conspired to assassinate Yuan An and others, but the plot failed. The emperor investigated, and Liu Wu’s men hid. After pressure, Liu Wu ordered them to commit suicide. The emperor grew distant, and Liu Wu, in panic, apologized through the eldest princess. He later hid in the princess’s garden, causing the Queen Mother to weep, but reconciled with the emperor. However, Emperor Jing stopped riding with him.
+
+Chunk 3: 
+original: 
+既至关，茅兰说王，使乘布车，从两骑入，匿于长公主园。
+汉使迎王，王已入关，车骑尽居外，外不知王处。
+太后泣曰： 帝杀吾子！
+帝忧恐。
+于是梁王伏斧质，之阙下谢罪。然后太后、帝皆大喜，相与泣，复如故。
+悉召王从官入关。
+然帝益疏王，不与同车辇矣。
+三十五年冬，复入朝。上疏欲留，上弗许。
+归国，意忽忽不乐。
+北猎梁山，有献牛，足上出背上，孝王恶之。
+六月中，病热，六日薨。
+孝王慈孝，每闻太后病，口不能食，常欲留长安侍太后。
+太后亦爱之。
+及闻孝王死，窦太后泣极哀，不食，曰： 帝果杀吾子！
+帝哀惧，不知所为。
+与长公主计之，乃分梁为五国，尽立孝王男五人为王，女五人皆令食汤沐邑。
+奏之太后，太后乃说，为帝壹餐。
+孝王未死时，财以巨万计，不可胜数。
+及死，藏府余黄金尚四十余万斤，他财物称是。
+translation: 
+When they arrived outside the city, the doctor Mao Lan advised King Xiao to enter the city in a carriage with a cloth curtain, taking only two knights with him, and first hid in the eldest princess's garden.
+When the Han Emperor's envoy came to pick up King Xiao, King Xiao had already entered the city, but his carriage and horses were outside the city, and others did not know where he had gone.
+The Queen Mother cried and said: The emperor has killed my son!
+The emperor was also very nervous.
+Soon King Xiao of Liang came to the palace to plead guilty. The Queen Mother and the Emperor were overjoyed to see him. After crying with each other, they reconciled as before.
+King Xiao's followers were also summoned into the city.
+However, Emperor Jing became more distant from Prince Xiao and stopped riding in the chariot with him.
+In the winter of the thirty-fifth year, King Xiao entered the court again and wrote a letter to stay, but the emperor refused.
+King Xiao felt unhappy after returning home.
+One day, King Xiao went hunting on Liangshan Mountain in the north. Someone offered a cow with legs growing out of its back. King Xiao didn't like it very much.
+On June 6, King Xiao fell ill with fever and died.
+King Xiao was very filial. Every time he heard that the Queen Mother was ill, he couldn't eat and often wanted to stay in Chang'an to accompany the Queen Mother.
+The Queen Mother also liked him very much.
+After hearing that King Xiao died, Queen Mother Dou cried very sadly, refused to eat or drink, and said: The emperor really killed my son!
+The emperor was sad and scared, and didn't know what to do.
+After discussing with the eldest princess, the emperor decided to divide the Liang Kingdom into five kingdoms, grant the title of king to each of King Xiao's five sons, and grant land and salary to King Xiao's five daughters.
+This matter was reported to the Queen Mother, who became happy and had a meal for the sake of the Emperor.
+Before the death of King Xiao, his property was in the tens of millions, which was countless.
+By the time of his death, there were more than 400,000 kilograms of gold hidden in the house, and other properties were also equivalent to that.
+
+summary:
+summary line 2: In the thirty-fifth year, Liu Wu entered the court but was denied stay, becoming unhappy. He died of fever on June 6 after hunting and seeing a strange cow. He was filial, often wanting to stay with the Queen Mother when she was ill. Her grief led the emperor to divide Liang into five kingdoms for Liu Wu’s sons and grant land to his daughters. Liu Wu’s wealth was immense, with over 400,000 kilograms of gold at death.
+
+Chunk 5: 
+original: 
+立三年，国除。
+元始二年，新都侯王莽兴灭继绝，白太皇太后，立年弟子如意为广宗王，奉代孝王后。
+莽篡位，国绝。
+梁怀王揖，文帝少子也。
+好《诗》、《书》，帝爱之，异于他子。
+五年一朝，凡再入朝。
+因堕马死，立十年薨。
+无子，国除。
+明年，梁孝王武徙王梁。
+梁孝王子五人为王。太子买为梁共王，次子明为济川王，彭离为济东王，定为山阳王，不识为济阴王，皆以孝景中六年同日立。
+梁共王买立七年薨，子平王襄嗣。
+济川王明以垣邑侯立。
+七年，坐射杀其中尉，有司请诛，武帝弗忍，废为庶人，徙房陵，国除。
+济东王彭离立二十九年。
+translation: 
+Three years later, the state was abolished.
+In the second year of the first year of the Yuan Dynasty, the prince of Xindu sent a mission to support the extinct kingdom. He sent a report to the Empress Dowager and established his younger brother's son, Zhuxuan, as King Chensai to succeed King Xiao.
+After Wang Ling usurped the throne, the feudal state was abolished.
+Although Liang Huai Wang Yi was the youngest son of Emperor Wen.
+He likes "Shi Zhen" and "Shang Shu", and the chief inspector likes him differently from other sons.
+He entered the DPRK once every five years and entered the DPRK twice in total.
+Died due to falling from a horse and reigned for ten years.
+Since there were no successors, the country was abolished.
+In the second year, King Luan Xiao died and moved to Feng Kuang.
+The five sons of King Xiao of Liang were all named kings: the eldest son Liu Mai was the King of Liang Gong, the second son Liu Ming was the King of Ji, the third son Peng Li was the King of Ji Shu, the fourth son Liu Xuan was the King of Shanyang, and the fifth son Pi Yao was the King of Nadan Mu. They were all crowned kings on the same day in the sixth year of Emperor Xiaojing's reign.
+Liang Communist King Liu Mai died after reigning for seven years, and his son Ping Wang Liu Xiang succeeded to the throne.
+Liu Ming, the king of Jichuan, was granted the title of king from the title of Marquis of Yuanyi.
+When he was in power for seven years, he shot and killed one of his lieutenants. His superiors reported that he should be executed. Jihu could not bear to kill him, so he was deposed as a civilian and moved to Fangling County, thus deposing his kingdom.
+King Pengli of Jidong reigned for twenty-nine years.
+
+summary:
+summary line 3: Liu Shen, King of Taiyuan, visited court three times before dying. His descendants ruled until Liu Nian was deposed for incest with his sister. Liu Yi, King Huai of Liang, died from a fall, leaving no heirs. Liu Wu’s five sons were all made kings on the same day. Liu Mai, King Gong of Liang, died after seven years. Liu Ming was deposed for murder. Peng Li, King of Jidong, was deposed for robbery and murder. Liu Ding, King Ai of Shanyang, died without heirs. Another son died without issue.
+
+Chunk 6: 
+original: 
+彭离骄悍，昏暮私与其奴亡命少年数十人行剽，杀人取财物以为好。
+所杀发觉者百余人，国皆知之，莫敢夜行。
+所杀者子上书告言，有司请诛，武帝弗忍，废为庶人，徙上庸，国除，为大河郡。
+山阳哀王定立九年薨。亡子，国除。
+济阴哀王不识立一年薨。亡子，国除。
+孝王支子四王，皆绝于身。
+梁平王襄，母曰陈太后。
+共王母曰李太后。
+李太后，亲平王之大母也。
+而平王之后曰任后，任后甚有宠于襄。
+初，孝王有雷尊，直千金，戒后世善宝之，毋得以与人。
+任后闻而欲得之。
+李太后曰： 先王有命，毋得以尊与人。
+他物虽百巨万，犹自恣。
+任后绝欲得之。
+王襄直使人开府取尊赐任后，又王及母陈太后事李太后多不顺。
+translation: 
+Peng Li has an arrogant temperament. He often goes out secretly at night to rob with dozens of his desperate youths, taking pleasure in killing people and grabbing money.
+As far as anyone knew, they killed more than a hundred people. The whole country knew about this, and the people did not dare to go out at night.
+The victim's children complained, and a minister petitioned the emperor to behead him. Emperor Wu couldn't bear it, so he deposed him as a commoner and moved him to Shangyong County. He abolished his feudal state and changed it to Dahe County.
+Liu Ding, the Ai King of Shanyang, died after reigning for nine years. Because he had no children, the feudal state was abolished.
+King Ji Yin'ai died without a son within a year of his reign, and the feudal kingdom was abolished.
+Prince Xiao and his concubine were all crowned kings, but they all died without heirs.
+The mother of Liang Ping Wang Liu Xiang was the Queen Mother Chen.
+The mother of King Gong of Liang was Queen Mother Li.
+Queen Mother Li is the biological grandmother of King Liang Ping.
+The queen of King Ping of Liang was Queen Ren, and she was very favored by Liu Xiang.
+At that time, King Xiao had a wine bottle decorated with cloud and thunder patterns, which was worth thousands of gold. King Xiao once told his descendants to take good care of it and never give it to others.
+After Ren Hou heard about this wine bottle, he wanted to get it.
+Queen Mother Li said: The late king has a destiny, and this wine bottle cannot be given to others.
+You can take other things no matter how much they are worth.
+But Ren Hou insisted on getting it.
+So Liu Xiang directly sent someone to open the door of the mansion, take out the wine bottles, and give them to the queen. Liu Xiang and his mother, Queen Mother Chen, were not filial enough to Queen Mother Li.
+
+summary:
+summary line 4: Liu Xiang, King Ping of Liang, favored Queen Ren, who coveted a wine bottle left by Liu Wu. Queen Mother Li refused, but Liu Xiang took it. Conflicts arose, and Queen Mother Li’s adultery was exposed. After her death, Queen Ren failed to mourn. During the Yuanshuo period, a fugitive revealed palace scandals. The emperor investigated, found Queen Ren guilty, and reduced Liang’s territory. Liu Xiang died after forty years. His descendants ruled until Liu Li, King Huang, committed adultery with his aunt and murdered officials. Despite multiple crimes, the emperor showed mercy, only reducing territory. Liu Li later committed suicide after being deposed. The kingdom was eventually abolished.
+

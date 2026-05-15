@@ -1,4 +1,4 @@
-Summary uses chunk [0, 2]
+Summary uses chunk [0, 8]
 
 Chunk 0: 
 original: 
@@ -19,8 +19,6 @@ original:
 兵事呼吸，不容先关督帅。
 且汉制戟即为斧钺，于法不合罪。
 帝从躬议。
-又有兄弟共杀人者，而罪未有所归。
-帝以兄不训弟，故报兄重而减弟死。
 translation: 
 ◆The biography of Guo Gong, named Zhongsun, was born in Yangzhai, Yingchuan. The family has been officials for generations.
 His father, Guo Hong, studied "Xiao Du Lv" and the prefect Kou Xun used Guo Hong to make judgments on Cao Cao. He stayed in prison for thirty years and his methods were fair.
@@ -39,41 +37,47 @@ Guo Gong replied: "Unifying under the governor is a matter of trilogy." Today's 
 Military affairs are as urgent as human breathing, and the commander is not allowed to be notified in advance.
 Moreover, under the system of the Han Dynasty, Zhuoge was the same as Wu, and he was not considered guilty legally.
 The emperor listened to Guo Gong's opinion.
-There are also brothers who commit murder together, and it is hard to pin the blame on whom.
-The emperor believed that the elder brother should not discipline his younger brother, so he reported that the elder brother should be sentenced severely and the younger brother should be commuted to death.
 
 summary:
 summary line 0: The biography of Guo Gong, styled Zhongsun, was from Yangzhai, Yingchuan, in a family of officials for generations. His father, Guo Hong, studied "Xiao Du Lv" and served as a judge for Prefect Kou Xun, handling cases for Cao Cao. Guo Hong worked in prison for thirty years with fair methods, and those he judged felt no resentment, earning comparisons to Donghai Yugong. He died at ninety-five. Guo Gong inherited his father's work, teaching hundreds of disciples, then became a county official. During the Yongping period, he was summoned to court to review a case involving Dou Gu and Qin Peng. While others agreed with Dou Gu, Guo Gong argued that Qin Peng should be beheaded according to law, citing military urgency and Han system precedents. The emperor accepted his view. In another case of brothers committing murder, the emperor initially ruled the elder brother be severely sentenced, but Guo Gong advised leniency for a clerk, Sun Zhang, who mistakenly conveyed an imperial edict, distinguishing between intentional homicide and manslaughter. The emperor agreed. Guo Gong became Tingweizheng but was later dismissed for breaking the law. Promoted three times, he became Tingwei in the third year of Yuanhe. He advocated mercy in sentencing, reporting forty-one cases for mitigation, all implemented. In the first year of Zhanghe, he successfully petitioned to extend a pardon to escaped criminals, saving many lives. He died in the sixth year of Yongyuan. His son, Guo Rizhi, also understood law and served as Nanyang prefect.
 
-Chunk 2: 
+Chunk 8: 
 original: 
-若乃推己以议物，舍状以贪情，法家之能庆延于世，盖由此也！
-陈宠字昭公，沛国人也。
-曾祖父咸，成、哀间以律令为尚书。
-平帝时，王莽辅政，多改汉制，咸心非之。
-及莽因吕宽事诛不附己者何武、鲍宣等，咸乃叹曰： 《易》称 君子见几而作，不俟终日 ，吾可以逝矣！
-即乞骸骨去职。
-及莽篡位，召咸以为掌寇大夫，谢病不肯应。
-时，三子参、丰、钦皆在位，乃悉令解宫，父子相与归乡里，闭门不出入，犹用汉家祖腊。
-人问其故，咸曰： 我先人岂知王氏腊乎？
-其后莽复征咸，遂称病笃。于是乃收敛其家律令书文，皆壁藏之。
-咸性仁恕，常戒子孙曰： 为人议法，当依于轻，虽有百金之利，慎无与人重比。
-建武初，钦子躬为廷尉左监，早卒。
-躬生宠，明习家业，少为州郡吏，辟司徒鲍昱府。
+林卒被用，而以臧污抵罪。
+及帝崩，宪等秉权，常衔宠，乃白太后，令典丧事，欲因过中之。
+黄门侍郎鲍德素敬宠，说宪弟夏阳侯瑰曰： 陈宠奉事先帝，深见纳任，故久留台阁，赏赐有殊。
+今不蒙忠能之赏，而计几微之故，诚伤辅政容贷之德。
+瑰亦好士，深然之，故得出为太山太守。
+后转广汉太守。
+西州豪右并兼，吏多奸贪，诛讼日百数。
+宠到，显用良吏王涣、镡显等，以为腹心，讼者日减，郡中清肃。
+先是，洛县城南，每阴雨，常有哭声闻于府中，积数十年。
+宠闻而疑其故，使吏案行。
+还言： 世衰乱时，此下多死亡者，而骸骨不得葬，傥在于是？
+宠怆然矜叹，即敕县尽收敛葬之。
+自是哭声遂绝。
+及窦宪为大将军征匈奴，公卿以下及郡国无不遣吏子弟奉献遗者，而宠与中山相汝南张郴、东平相应顺守正不阿。
+后和帝闻之，擢宠为大司农，郴太仆，顺左冯翊。
+永元六年，宠代郭躬为廷尉。
+性仁矜。
 translation: 
-In the sixth year of Yongyuan, he died in the official government. The middle son, Guo Rizhi, also understood the law. His official position was the prefect of Nanyang, and he was famous in politics.
-◆Chen Chong's biography, Chen Chong's courtesy name is Zhaogong, and he was a member of the Pei Kingdom.
-My great-grandfather, Chen Xian, served as Minister of Law and Order during the reigns of Emperor Cheng and Emperor Ai.
-During the reign of Emperor Ping, Wang Mang assisted the government and made many changes to the Han Dynasty system, which made Chen Xian dissatisfied.
-When Wang Mang killed He Wu, Bao Xuan and others who were not attached to him because of Lu Kuan's affairs, Chen Xian sighed: "The Book of Changes" says: "A gentleman acts when the opportunity arises. If I don't wait until the end of the day, I can pass away!"
-Immediately asked to resign and left.
-When Wang Mang usurped the throne, he summoned Chen Xian to serve as the chief bandit officer, but Chen refused to take up the post on the grounds of illness.
-At this time, the three sons Shen, Feng, and Qin were all in official positions, so they were all dismissed from their positions. The father and son returned to their hometown together, staying behind closed doors. They still held sacrifices in the twelfth lunar month according to the custom of the Han family.
-When people asked him why, Chen Xian said: Do my ancestors know about Wang's wax sacrifice?
-Later, Wang Mang summoned Chen Xian and said that he was seriously ill, so he collected all the laws and regulations at home and hid them in the walls.
-Chen Xian had a kind and tolerant character, and often warned his descendants: When negotiating for others, you should rely on lightness. Even if you have the benefit of a hundred gold, never compare yourself with others.
-In the early years of Jianwu's reign, Chen Qinzi and Chen Gong served as the left prisoner of the Tingwei and died early.
-Chen Gong gave birth to Chen Chong, who learned about the family business. When he was young, Chong served as a state and county official and was called to Situ Baoyu's mansion.
+Zhang Lin was finally used, and Zang Xun was used to atone for his crime.
+After the emperor's death, Dou Xian and others came to power and often hated Chen Chongxian. So he reported to the Queen Mother and asked Chong to be in charge of the funeral, trying to find fault and slander him.
+Bao De, the minister of Huangmen, always respected Chen Chong and persuaded Dou Xian's younger brother Xia Yanghou Dou Dao: "When Chen Chong served the late emperor, he was very trusted, so he stayed in Taige for a long time, and the reward was somewhat special."
+Now that he is not rewarded for his loyalty and ability, and cares about his minor mistakes, it will indeed harm the virtue of assisting the government and allowing loans.
+Dou was also a good scholar and believed that Chen Chong was right, so Chen Chong got the opportunity to become the prefect of Taishan.
+Later he became the prefect of Guanghan.
+The wealthy gentry in Xizhou engaged in mergers and acquisitions, many officials were treacherous and corrupt, and hundreds of lawsuits were filed every day.
+When Chen Chong took office, he appointed good officials Wang Huan and Tan Xian as his confidants. The number of lawsuits was gradually reduced, and the county was quiet and serious.
+In the south of Xunluo County, every time it rains, cries are often heard in the house for decades.
+Chen Chong heard about it and suspected that there must be a reason for it, so he sent officials to investigate the case.
+The official came back and reported: When the world was in decline, many people died down here, but their bones were not allowed to be buried. Is this the possible reason?
+Chen Chong sighed sadly and ordered the county government to collect all the coffins and bury them.
+From then on the crying stopped.
+Later, when Dou Xian became the general to conquer the Huns, there was no one below the rank of public minister or in the county who did not send officials' children as gifts. However, Chen Chong and Zhongshan Prime Minister Runan Zhang Chen and Dongping accordingly followed the right path and did not flatter.
+Later, Emperor He heard about it and promoted Chen Chong to the position of Chief Agriculture Officer, Zhang Chen to the position of Imperial Servant, and Ying Shun to the position of Zuo Fengyi.
+In the sixth year of Yongyuan, Chen Chong replaced Guo Gong as a court captain.
+Kind and reserved personality.
 
 summary:
 summary line 1: Chen Chong, styled Zhaogong, was from Pei Kingdom. His great-grandfather, Chen Xian, served as Minister of Law under Emperors Cheng and Ai but resigned during Wang Mang's usurpation, hiding legal texts in walls. Chen Chong learned family law, served as a county official, and later worked for Situ Bao Yu, writing seven volumes of "Resignation and Litigation Bi" to handle lawsuits fairly. Promoted three times, he became minister under Emperor Suzong. He advocated leniency, arguing against harsh punishments in a memorial, and the emperor adopted his views, abolishing cruel punishments and fixing over fifty legal items. Chen Chong also debated the timing of executions, supporting winter executions based on classical texts, and the emperor accepted his reasoning. He served as prefect of Taishan and Guanghan, where he appointed good officials, reduced lawsuits, and investigated mysterious cries, burying unburied bones to stop them. He refused to flatter Dou Xian, later becoming Tingwei in the sixth year of Yongyuan. He cleaned up laws, proposing to reduce death sentences to 200 and total punishments to 3,000, but this was not implemented. He served as Sikong and died after three years.

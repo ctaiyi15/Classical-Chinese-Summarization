@@ -1,0 +1,257 @@
+Summary uses chunk [0, 1, 2, 5, 13, 16, 17]
+
+Chunk 0: 
+original: 
+黄帝者，少典之子，姓公孙，名曰轩辕。
+生而神灵，弱而能言，幼而徇齐，长而敦敏，成而聪明。
+轩辕之时，神农氏世衰。诸侯相侵伐，暴虐百姓，而神农氏弗能征。
+于是轩辕乃习用干戈，以征不享，诸侯咸来宾从。
+而蚩尤最为暴，莫能伐。
+炎帝欲侵陵诸侯，诸侯咸归轩辕。
+轩辕乃修德振兵，治五气，蓺五种，抚万民，度四方，教熊罴貔貅貙虎，以与炎帝战于阪泉之野。三战，然后得其志。
+蚩尤作乱，不用帝命。
+于是黄帝乃征师诸侯，与蚩尤战于涿鹿之野，遂禽杀蚩尤。
+而诸侯咸尊轩辕为天子，代神农氏，是为黄帝。
+天下有不顺者，黄帝从而征之，平者去之，披山通道，未尝宁居。
+东至于海，登丸山，及岱宗。
+西至于空桐，登鸡头。
+南至于江，登熊、湘。
+北逐荤粥，合符釜山，而邑于涿鹿之阿。
+translation: 
+Huangdi is a descendant of the Shaodian tribe, and his surname is Gongsun and Xuanyuan.
+He was born with great spirituality. He was good at speaking at a very young age. He was clever and alert as a child. He was honest and agile when he grew up. He was wise and judicious as an adult.
+When Xuanyuan was in power, the descendants of the Shennong clan had declined. The princes fought against each other and abused the people with violence, but the Shennong clan had no power to conquer them.
+So Xuanyuan practiced military training and went to conquer those princes who did not come to pay tribute. Only then did all the princes come to submit.
+Chiyou was the most violent among the princes, and no one could conquer him.
+Emperor Yan wanted to attack and oppress the princes, and all the princes came to Xuanyuan.
+So Xuanyuan practiced virtue, rectified his army, studied the changes in the four seasons, planted grains, appeased the people, measured the land in all directions, trained bears, 罴, 貔, 貅, 貲, tigers and other beasts, and fought with Emperor Yan in the countryside of Banquan. After several battles, he conquered Emperor Yan and won as he wished.
+Chiyou launched a rebellion and refused to obey Huangdi's orders.
+So Huang Di mobilized the troops of the princes and fought with Chi You in the suburbs of Zhuolu, and finally captured and killed him.
+In this way, the princes all respected Xuanyuan as the emperor, replacing Shennong. This was the Yellow Emperor.
+When there were disobedient people in the world, the Yellow Emperor went to conquer them. After pacifying a place, he left, splitting mountains and clearing roads along the way, and never lived in peace anywhere.
+Huang Di went east to the East China Sea and climbed Mount Maru and Mount Tai.
+Went west to Kongtong and climbed to Jitou Mountain.
+Went south to the Yangtze River and climbed Xiong Mountain and Xiang Mountain.
+He expelled the Hunzhou tribe to the north, came to Busan, signed the talisman contract with the princes, and built a city at the foot of Zhulu Mountain.
+
+summary:
+summary line 0: Huangdi (Yellow Emperor), a descendant of the Shaodian tribe with the surname Gongsun and name Xuanyuan, displayed remarkable intelligence from birth. During his rise to power, the Shennong clan had declined, and princes were fighting violently. Xuanyuan trained his army, conquered rebellious princes, and eventually all submitted except the violent Chiyou. After Emperor Yan attacked the princes, they turned to Xuanyuan, who cultivated virtue, organized his forces, and defeated Emperor Yan at Banquan. He later captured and killed Chiyou at Zhuolu, after which the princes recognized him as emperor, replacing Shennong.
+
+Chunk 1: 
+original: 
+迁徙往来无常处，以师兵为营卫。
+官名皆以云命，为云师。
+置左右大监，监于万国。
+万国和，而鬼神山川封禅与为多焉。
+获宝鼎，迎日推策。举风后、力牧、常先、大鸿以治民。
+顺天地之纪，幽明之占，死生之说，存亡之难。时播百谷草木，淳化鸟兽虫蛾，旁罗日月星辰水波土石金玉，劳勤心力耳目，节用水火材物。
+有土德之瑞，故号黄帝。
+黄帝二十五子，其得姓者十四人。
+黄帝居轩辕之丘，而娶于西陵之女，是为嫘祖。
+嫘祖为黄帝正妃，生二子，其后皆有天下：其一曰玄嚣，是为青阳，青阳降居江水；其二曰昌意，降居若水。
+translation: 
+The Yellow Emperor moved around and had no fixed residence. Wherever he led his troops, he set up military camps for self-defense.
+All the official positions granted by the Yellow Emperor were named after Yun, and the army was called Yunshi.
+He set up left and right supervisors to supervise the various vassal states.
+At this time, all countries were in peace, so since ancient times, the number of people offering sacrifices to ghosts and gods in mountains and rivers was the highest during the Yellow Emperor's time.
+The Yellow Emperor received the tripod given by God, so he observed the movement of the sun, used yarrow for divination to calculate the calendar, and predicted the solar terms and dates. He appointed Fenghou, Limu, Changxian, Dahong and others to govern the people.
+The Yellow Emperor complied with the laws of the four seasons of heaven and earth, speculated on the changes of yin and yang, explained the principles of life and death, and discussed the causes of existence and death. He sown grains and grasses according to the seasons, domesticated birds, beasts, and silkworms, measured the sun, moon and stars to determine the calendar, collected earth, stone, gold, and jade for civilian use.
+When he was the emperor, he had the auspicious sign of the attribute of earth. The earth was yellow in color, so he was called the Yellow Emperor.
+Huangdi had twenty-five sons, fourteen of whom established their own surnames.
+The Yellow Emperor lived in Xuanyuan Mountain and married a daughter of the Xiling Kingdom, who was Leizu.
+Leizu was the Yellow Emperor's concubine and had two sons. Their descendants all ruled the world: one was named Xuanxiao, also known as Qingyang. Qingyang was named a prince and settled in Jiangshui; the other was named Changyi, who was also named a prince and settled in Ruoshui.
+
+summary:
+summary line 1: The Yellow Emperor traveled extensively—east to Mount Tai, west to Kongtong, south to the Yangtze River, and north驱逐 the Hunzhou tribe. He had no fixed residence, establishing military camps wherever he went. He appointed officials named after clouds, created supervisory positions, and received a divine tripod for calendar-making. He observed celestial movements, calculated seasons, and appointed ministers to govern. Following the laws of heaven and earth, he studied yin and yang, explained life and death, cultivated grains, domesticated animals, and collected resources for public use. Because of the earth attribute's auspicious sign, he was called the Yellow Emperor. He had twenty-five sons, fourteen of whom established surnames. After his death, his grandson Gaoyang ascended as Emperor Zhuanxu.
+
+Chunk 2: 
+original: 
+昌意娶蜀山氏女，曰昌仆，生高阳，高阳有圣德焉。
+黄帝崩，葬桥山。其孙昌意之子高阳立，是为帝颛顼也。
+帝颛顼高阳者，黄帝之孙而昌意之子也。
+静渊以有谋，疏通而知事；养材以任地，载时以象天，依鬼神以制义，治气以教化，絜诚以祭祀。
+北至于幽陵，南至于交趾，西至于流沙，东至于蟠木。
+动静之物，大小之神，日月所照，莫不砥属。
+帝颛顼生子曰穷蝉。
+颛顼崩，而玄嚣之孙高辛立，是为帝喾。
+帝喾高辛者，黄帝之曾孙也。
+高辛父曰蟜极，蟜极父曰玄嚣，玄嚣父曰黄帝。
+自玄嚣与蟜极皆不得在位，至高辛即帝位。
+高辛于颛顼为族子。
+高辛生而神灵，自言其名。
+普施利物，不于其身。
+聪以知远，明以察微。
+顺天之义，知民之急。
+translation: 
+Changyi married a daughter of the Shushan clan, named Changpu, and gave birth to Gao Yang, who had the character of a saint.
+After the death of Huangdi, he was buried in Qiaoshan. His grandson, Changyi's son Gaoyang, ascended the throne and became Emperor Zhuanxu.
+Emperor Zhuanxu Gaoyang was the grandson of Huangdi and the son of Changyi.
+He is calm, steady, resourceful, and knowledgeable. He raised various crops and livestock to make full use of the soil, calculated the four seasons to conform to nature, followed the ghosts and gods to formulate etiquette and justice, straightened out the energy of the four seasons and the five elements to educate the people, and purified the body and mind to sacrifice to the ghosts and gods.
+He went north to Youling, south to Jiaozhi, west to Liusha, and east to Panmu.
+All kinds of animals and plants, big gods and small gods, wherever the sun and moon shine, are all pacified, and there is no one who does not submit.
+The son born to Emperor Zhuanxu was called Qiongchan.
+After Zhuan Xu's death, Xuan Xiao's grandson Gao Xin came to the throne and became Emperor Ku.
+Emperor Ku Gaoxin was the great-grandson of the Yellow Emperor.
+Gao Xin's father was called Xiuji, Xiuji's father was named Xuanxiao, and Xuanxiao's father was Huangdi.
+Neither Xuan Xiao nor Xiu Ji ascended to the throne of God, and they did not ascend to the throne of God until Gaoxin.
+Gao Xin was Zhuanxu's nephew.
+Gao Xin was born with great aura and called out his name as soon as he was born.
+He generally bestows favor on everyone but not himself.
+He is smart and intelligent, can understand long-term situations, and can discern subtle things.
+He complies with the will of God and understands the concerns of the people.
+
+summary:
+summary line 2: Emperor Zhuanxu Gaoyang was calm, resourceful, and knowledgeable. He cultivated crops, calculated seasons, followed ghosts and gods to establish rituals, and educated the people. His domain extended north to Youling, south to Jiaozhi, west to Liusha, and east to Panmu, pacifying all creatures. After his death, his nephew Gao Xin became Emperor Ku. Gao Xin was born with great aura, benevolent and dignified, understanding both divine will and people's concerns. He governed impartially, and all under heaven submitted. After his death, his son Zhi ruled without achievement, so his brother Fangxun became Emperor Yao.
+
+Chunk 5: 
+original: 
+信饬百官，众功皆兴。
+尧曰： 谁可顺此事？
+放齐曰： 嗣子丹朱开明。
+尧曰： 吁！
+顽凶，不用。
+尧又曰： 谁可者？
+驩兜曰： 共工旁聚布功，可用。
+尧曰： 共工善言，其用僻，似恭漫天，不可。
+尧又曰： 嗟，四岳，汤汤洪水滔天，浩浩怀山襄陵，下民其忧，有能使治者？
+皆曰鲧可。
+尧曰： 鲧负命毁族，不可。
+岳曰： 异哉，试不可用而已。
+尧于是听岳用鲧。
+九岁，功用不成。尧曰： 嗟！
+四岳：朕在位七十载，汝能庸命，践朕位？
+岳应曰： 鄙德忝帝位。
+尧曰： 悉举贵戚及疏远隐匿者。
+众皆言于尧曰： 有矜在民间，曰虞舜。
+尧曰： 然，朕闻之。
+其何如？ 岳曰： 盲者子。
+translation: 
+Emperor Yao sincerely warned all officials to keep their duties, and all kinds of things were done.
+Yao said: Who can inherit my career?
+Fang Qi said: Your son Danzhu is a master of affairs.
+Yao said: Hum!
+Danzhu, he is stupid, vicious and cannot be used.
+Yao asked again: Then who else can?
+Huandou said: Gonggong has gathered people extensively and made achievements, which can be used.
+Yao said: Gonggong likes to talk nice words, but his intentions are not right. When he speaks, he seems to be very respectful, but his heart is absent and cannot be used.
+Yao asked again: Alas, the Four Mountains, now the floods are surging and mighty, surrounding the mountains and covering the hills. The people are extremely miserable. Who can be sent to control them?
+Everyone said Gun could do it.
+Yao said: Gun violated the destiny of heaven and destroyed his own people, so he cannot be used.
+The four mountains all said: Just use him. If it doesn't work, then remove him.
+Yao therefore followed Siyue's advice and appointed Gun.
+Gun controlled the flood for nine years without achieving any results. Yao said: Alas!
+Dear leaders, I have been on the throne for seventy years. Which of you can follow the destiny and succeed me as emperor?
+Siyue replied: Our virtues are very despicable and we are not worthy of being on the throne of God.
+Yao said: "Then let's recommend him from among all the ministers near and far with the same surname and different surnames, as well as those who live in seclusion.
+Everyone said to Yao: There was a single man living among the people, named Yu Shun.
+Yao said: Yes, I have heard of him. What is he like?
+Siyue replied; He is the son of a blind man.
+
+summary:
+summary line 3: Emperor Yao was kind as heaven and wise as God, rich but not proud. He united his clan, inspected officials, and ordered the Xi and He families to create a calendar based on celestial observations. He appointed officials to oversee spring, summer, autumn, and winter farming, establishing a 366-day year with leap months. When Yao sought a successor, his son Danzhu was deemed unworthy, and Gonggong was rejected for insincerity. Despite warnings, Gun was appointed to control floods but failed after nine years. The Four Mountains recommended Yu Shun, a filial man living among commoners. Yao tested Shun by marrying his daughters to him, observing his virtue, and assigning him various duties, which Shun performed excellently.
+
+Chunk 13: 
+original: 
+舜入于大麓，烈风雷雨不迷，尧乃知舜之足授天下。
+尧老，使舜摄行天子政，巡狩。
+舜得举用事二十年，而尧使摄政。
+摄政八年而尧崩。
+三年丧毕，让丹朱，天下归舜。
+而禹、皋陶、契、后稷、伯夷、夔、龙、倕、益、彭祖自尧时而皆举用，未有分职。
+于是舜乃至于文祖，谋于四岳，辟四门，明通四方耳目，命十二牧论帝德，行厚德，远佞人，则蛮夷率服。
+舜谓四岳曰： 有能奋庸美尧之事者，使居官相事？
+皆曰： 伯禹为司空，可美帝功。 舜曰： 嗟，然！
+禹，汝平水土，维是勉哉。
+禹拜稽首，让于稷、契与皋陶。
+舜曰： 然，往矣。
+舜曰： 弃，黎民始饥，汝后稷播时百谷。
+舜曰： 契，百姓不亲，五品不驯，汝为司徒，而敬敷五教，在宽。
+舜曰： 皋陶，蛮夷猾夏，寇贼奸轨，汝作士，五刑有服，五服三就；五流有度，五度三居：维明能信。 舜曰： 谁能驯予工？
+translation: 
+When Shun entered the mountains and forests, he encountered a storm and thunderstorm without getting lost. Yao then realized that Shun's talent could teach him the world.
+When Yao got old, he asked Shun to take charge of the emperor's affairs and to inspect the surrounding areas.
+Shun was appointed to be in charge of government affairs for twenty years, and Yao made him act as the emperor's government official.
+After eight years of acting on behalf of the government, Yao passed away.
+After three years of mourning, Shun gave way to Danzhu, but everyone in the world came to submit to Shun.
+Yu, Gaotao, Qi, Houji, Boyi, Kui, Long, Chui, Yi, and Pengzu had all been promoted since the time of Yao, but they had never held any positions.
+So Shun went to the Wenzu Temple and negotiated with the Four Mountains to open the four gates so that the four dialects could be unobstructed. He asked the twelve state pastors to comment on the emperor's virtues, extend kindness and stay away from villains, and the tribes in remote areas would submit.
+Shun said to Si Yue: Who can work hard to establish meritorious service and prosper the cause of Emperor Yao, and grant him an official position to assist me in my affairs?
+The four mountains all said: Let Boyu serve as Sikong, which can promote the career of Emperor Yao. Shun said: Well, good!
+Yu, you are responsible for regulating water and soil, and you must work hard to do it well!
+Yu knelt down and kowtowed in thanks, and humbly gave way to Ji, Qi and Gaotao.
+Shun said: Okay, let's go!
+Shun said: "Hey, the people are starving. You are in charge of agriculture. Go and teach them to sow a hundred grains."
+Shun also said: Gaotao, barbarians are invading the Central Plains, robbing and killing, and causing chaos within and outside our borders. As a judicial officer, you must use the five punishments appropriately and execute them in three places according to the severity of the crime.
+If the five punishments are reduced to exile, the exile is divided into five types according to the severity of the crime, and the place of exile is divided into three levels: only justice and strictness can convince people. Shun asked: Then who can manage my various craftsmen?
+
+summary:
+summary line 4: Shun accepted Yao's abdication and began governing. He established rituals, standardized measurements, and conducted inspections every five years. He divided the world into twelve states, dredged rivers, and implemented a penal system with reduced punishments. He exiled the four evil ministers—Gonggong, Huandou, Sanmiao, and Gun—satisfying the world. After Yao's death, Shun initially yielded to Danzhu, but the people universally supported Shun, who then ascended the throne.
+
+Chunk 16: 
+original: 
+于是禹乃兴九招之乐，致异物，凤皇来翔。
+天下明德皆自虞帝始。
+舜年二十以孝闻，年三十尧举之，年五十摄行天子事，年五十八尧崩，年六十一代尧践帝位。
+践帝位三十九年，南巡狩，崩于苍梧之野。
+葬于江南九疑，是为零陵。
+舜之践帝位，载天子旗，往朝父瞽叟，夔夔唯谨，如子道。
+封弟象为诸侯。
+舜子商均亦不肖，舜乃豫荐禹于天。
+十七年而崩。
+三年丧毕，禹亦乃让舜子，如舜让尧子。
+诸侯归之，然后禹践天子位。
+尧子丹朱，舜子商均，皆有疆土，以奉先祀。
+服其服，礼乐如之。
+以客见天子，天子弗臣，示不敢专也。
+自黄帝至舜、禹，皆同姓而异其国号，以章明德。
+translation: 
+So Yu composed the music "Nine Moves" to praise Shun's merits, which attracted auspicious things, and the phoenix also flew in, circling and dancing with the music.
+The Qingming Dynasty and its virtues all started from the time of Yu and Shun.
+Shun was famous for his filial piety when he was twenty years old. He was appointed by Yao when he was thirty years old.
+Thirty-nine years after he ascended the throne, he toured the south and died in the Cangwu countryside in the south.
+Buried in Jiuyi Mountain on the south bank of the Yangtze River, this is Lingling.
+After Shun ascended the throne, he rode in a car with the emperor's flag to pay homage to his father Gusou. He behaved humbly and cautiously and followed the principles of being a son.
+He also made his younger brother Xiang a prince.
+Shun's son Shangjun was also unqualified, so Shun recommended Yu to heaven in advance.
+Shun died seventeen years later.
+After three years of mourning, Yu also abdicated the throne to Shun's son, just as Shun abdicated to Yao's son.
+The princes surrendered to Yu, and Yu ascended to the throne of emperor.
+Yao's son Danzhu and Shun's son Shangjun were granted fiefs in Tang and Yu respectively to worship their ancestors.
+Yu also asked them to wear their own family's clothes and use their own family's rituals and music.
+They met the emperor with the courtesy of guests, and the emperor did not treat them as his ministers to show that he did not dare to monopolize the world.
+From the Yellow Emperor to Shun and Yu, they all had the same surname, but they had different national titles in order to highlight their respective bright virtues.
+
+summary:
+summary line 5: Shun's lineage traced back to Emperor Zhuanxu, though his immediate ancestors were commoners. Despite his father Gusou, stepmother, and brother Xiang repeatedly attempting to kill him, Shun remained filial and respectful. His virtue attracted people, and wherever he lived, communities grew. Yao tested him thoroughly before entrusting him with governance. Shun appointed worthy descendants of ancient families—the Eight Kai and Eight Yuan—to manage agriculture and education, while exiling four evil families. He appointed Yu to control floods, Gaotao as judge, and other capable ministers. Yu's contributions were greatest: opening mountains, dredging rivers, and delineating nine provinces. The territory expanded five thousand miles, and all regions submitted. Shun died while touring south and was buried at Jiuyi Mountain. His son Shangjun being unworthy, Shun recommended Yu to heaven. After Shun's death, Yu ascended the throne, continuing the pattern of abdication.
+
+Chunk 17: 
+original: 
+故黄帝为有熊，帝颛顼为高阳，帝喾为高辛，帝尧为陶唐，帝舜为有虞。
+帝禹为夏后而别氏，姓姒氏。
+契为商，姓子氏。
+弃为周，姓姬氏。
+太史公曰：学者多称五帝，尚矣。
+然尚书独载尧以来；而百家言黄帝，其文不雅驯，荐绅先生难言之。
+孔子所传宰予问五帝德及帝系姓，儒者或不传。
+余尝西至空桐，北过涿鹿，东渐于海，南浮江淮矣，至长老皆各往往称黄帝、尧、舜之处，风教固殊焉，总之不离古文者近是。
+予观春秋、国语，其发明五帝德、帝系姓章矣，顾弟弗深考，其所表见皆不虚。
+书缺有间矣，其轶乃时时见于他说。
+非好学深思，心知其意，固难为浅见寡闻道也。
+余并论次，择其言尤雅者，故著为本纪书首。
+translation: 
+Therefore, Huangdi was named Youxiong, Emperor Zhuanxu was named Gaoyang, Emperor Ku was named Gaoxin, Emperor Yao was named Taotang, and Emperor Shun was named Youyu.
+Emperor Yu's title was Queen of Xia, and he was given another surname, Si.
+The descendants of Qi founded Shang, with the surname Zi.
+The descendants of Qi founded the Zhou Dynasty, and their surname was Ji.
+Tai Shigong said: Many scholars refer to the Five Emperors, and the Five Emperors have been around for a long time.
+"Shangshu" only records historical facts since Yao; while each school's description of the Yellow Emperor is rough and not typical, and it is difficult for the scholar-officials to explain clearly.
+Some scholars do not pass on the "Zaiyu Asks the Virtues of the Five Emperors" and "Emperor Lineage Surnames" handed down by Confucius.
+I once went to Kongtong in the west, Zhuolu in the north, the sea in the east, and crossed the Yangtze River and Huai River in the south. Wherever I went, I went to places where old people praised the deeds of the Yellow Emperor, Yao, and Shun. Although the customs and teachings were different, the statements that were consistent with ancient records were relatively credible.
+I have studied "Spring and Autumn" and "Guoyu", and their explanations of "Five Emperors' Virtues" and "Emperor's Lineage" are very clear, but people have not studied them in depth. In fact, their descriptions are not false theories.
+"Shangshu" is incomplete and intermittent, but scattered anecdotal records can often be found in other books.
+If you are not eager to learn and think deeply, and truly understand their meaning in your heart, it will definitely be difficult to explain it to those who have shallow knowledge and limited knowledge.
+I reviewed and sorted these materials, selected those with particularly elegant and correct writing, and wrote this chapter as the first chapter of the book.
+
+summary:
+summary line 6: The historian notes that while records of the Five Emperors are ancient and sometimes unclear, careful study of various texts and oral traditions confirms their authenticity. This account selects the most elegant and correct materials as the first chapter of the historical record.
+

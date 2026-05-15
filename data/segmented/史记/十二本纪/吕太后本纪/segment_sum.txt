@@ -1,0 +1,266 @@
+Summary uses chunk [0, 1, 11, 11, 11, 11]
+
+Chunk 0: 
+original: 
+吕太后者，高祖微时妃也，生孝惠帝、女鲁元太后。
+及高祖为汉王，得定陶戚姬，爱幸，生赵隐王如意。
+孝惠为人仁弱，高祖以为不类我，常欲废太子，立戚姬子如意，如意类我。
+戚姬幸，常从上之关东，日夜啼泣，欲立其子代太子。
+吕后年长，常留守，希见上，益疏。
+如意立为赵王後，几代太子者数矣，赖大臣争之，及留侯策，太子得毋废。
+吕后为人刚毅，佐高祖定天下，所诛大臣多吕后力。
+吕后兄二人，皆为将。
+长兄周吕侯死事，封其子吕台为郦侯，子产为交侯；次兄吕释之为建成侯。
+高祖十二年四月甲辰，崩长乐宫，太子袭号为帝。
+是时高祖八子：长男肥，孝惠兄也，异母，肥为齐王；馀皆孝惠弟，戚姬子如意为赵王，薄夫人子恆为代王，诸姬子子恢为梁王，子友为淮阳王，子长为淮南王，子建为燕王。
+高祖弟交为楚王，兄子濞为吴王。
+非刘氏功臣番君吴芮子臣为长沙王。
+translation: 
+Empress Dowager Lu was Gaozu's humble wife and gave birth to Emperor Xiaohui and his daughter, Empress Dowager Lu Yuan.
+When Emperor Gaozu became the king of Han, he found Qi Ji in Dingtao. He loved her very much and gave birth to King Ruyi of Zhao Yin.
+Emperor Xiaohui was kind and weak, but Gaozu thought he was not like him, so he often wanted to depose the prince and make Qi Ji's son Ruyi, thinking that Ruyi was similar to himself.
+Qi Ji was favored and often followed Emperor Gaozu to Guandong. She cried day and night and wanted to make her son the crown prince to replace the original crown prince.
+Empress Lu was getting older and often stayed behind. She rarely saw Gaozu, and their relationship became increasingly estranged.
+Ruyi was granted the title of Queen Zhao, and almost replaced the prince many times. Fortunately, the ministers' remonstrances and Liu Hou's strategy prevented the prince from being abolished.
+Empress Lu was a strong and resolute person. She assisted Emperor Gaozu in pacifying the world and killing ministers, mostly thanks to Empress Lu.
+Empress Lu had two older brothers, both of whom were generals.
+The eldest brother Zhou Luhou died in the line of duty, and his sons Lu Tai were granted the title of Lihou, Lu Chan was granted the title of Jiaohou; the second brother Lu Shizhi was granted the title of Jiancheng Marquis.
+On April 25, the twelfth year of Emperor Gaozu's reign, he died in Changle Palace. The prince inherited the title of Emperor Gaozu and succeeded him as emperor.
+At this time, Emperor Gaozu had eight sons: the eldest son Liu Fei, who was the brother of Emperor Xiaohui and had a different mother than Emperor Xiaohui, was named King of Qi; the rest were younger brothers of Emperor Xiaohui. Liu Ruyi, the son of Qi Ji, was named King of Zhao, Mrs. Bo's son Liu Heng was named King of Dai, the other sons of Ji's concubines were Liu Huifeng, King of Liang, Liu Youfeng, King of Huaiyang, Liu Changfeng, King of Huainan, and Liu Jianfeng, King of Yan.
+Gaozu's younger brother Liu Jiao was granted the title of King of Chu, and his elder brother's son Liu Bi was granted the title of King of Wu.
+Wu Chen, the son of Fan Jun Wu Rui, a hero who was not a descendant of the Liu family, was granted the title of King of Changsha.
+
+summary:
+summary line 0: Empress Dowager Lu was the humble wife of Emperor Gaozu and mother of Emperor Xiaohui and Princess Lu Yuan. Gaozu favored Concubine Qi, who bore King Ruyi of Zhao, and often considered deposing the kind and weak Crown Prince Xiaohui in favor of Ruyi. Empress Lu, growing estranged from Gaozu, was resolute and assisted in pacifying the realm and killing ministers. After Gaozu's death in 195 BCE, Xiaohui succeeded him.
+
+Chunk 1: 
+original: 
+吕后最怨戚夫人及其子赵王，乃令永巷囚戚夫人，而召赵王。
+使者三反，赵相建平侯周昌谓使者曰： 高帝属臣赵王，赵王年少。
+窃闻太后怨戚夫人，欲召赵王并诛之，臣不敢遣王。
+王且亦病，不能奉诏。
+吕后大怒，乃使人召赵相。
+赵相徵至长安，乃使人复召赵王。
+王来，未到。
+孝惠帝慈仁，知太后怒，自迎赵王霸上，与入宫，自挟与赵王起居饮食。
+太后欲杀之，不得间。
+孝惠元年十二月，帝晨出射。
+赵王少，不能蚤起。
+太后闻其独居，使人持酖饮之。
+犁明，孝惠还，赵王已死。
+於是乃徙淮阳王友为赵王。
+夏，诏赐郦侯父追谥为令武侯。
+太后遂断戚夫人手足，去眼，煇耳，饮瘖药，使居厕中，命曰 人彘 。
+居数日，乃召孝惠帝观人彘。
+孝惠见，问，乃知其戚夫人，乃大哭，因病，岁馀不能起。
+translation: 
+Empress Lu resented Madam Qi and her son King Zhao the most, so she ordered Madam Qi to be imprisoned in Yongxiang, and summoned King Zhao to the capital.
+The envoy went back and forth several times. Zhao Xiang Jianpinghou Zhou Chang said to the envoy: Emperor Gao entrusted King Zhao to me. King Zhao is still young.
+I heard that the Queen Mother resented Mrs. Qi and wanted to summon King Zhao to kill him together. I dare not send King Zhao away.
+Moreover, King Zhao was also ill and could not go there according to the imperial edict.
+Empress Lu was furious and sent someone to summon Prime Minister Zhao to the capital.
+When Prime Minister Zhao was summoned to Chang'an, he sent someone to summon King Zhao again.
+King Zhao came and had not yet reached the capital.
+Emperor Xiaohui was kind and knew that the Queen Mother was angry, so he went to Ba Shang to greet King Zhao in person, and returned to the palace with King Zhao, where he ate and lived with King Zhao.
+The Queen Mother wanted to kill King Zhao, but could not find a chance.
+In December of the first year of Emperor Xiaohui's reign, Emperor Xiaohui went out to hunt in the morning.
+King Zhao is young and cannot get up early.
+The queen mother heard that King Zhao was alone at home, so she sent someone to give him poisoned wine to drink.
+When Emperor Xiaohui returned at dawn, King Zhao was already dead.
+So Liu You, the king of Huaiyang, was moved to the throne of Zhao.
+In the summer, an edict was issued to pursue Yi Lihou's father as Lingwuhou.
+The Queen Mother cut off Mrs. Qi's hands and feet, gouged out her eyes, burned her ears with fire, gave her dumb potion, made her live in the toilet, and named her "Ren Pig".
+After a few days, Emperor Xiaohui was asked to watch the pigs.
+When Emperor Xiaohui saw it, he inquired and found out it was Mrs. Qi, so he burst into tears and became ill and couldn't get up for more than a year.
+
+summary:
+summary line 1: Empress Lu resented Concubine Qi and King Ruyi. She imprisoned Concubine Qi and summoned Ruyi to the capital. Emperor Xiaohui protected Ruyi, but during a hunt, the Queen Mother poisoned Ruyi. She then mutilated Concubine Qi, calling her a "human pig." Xiaohui, horrified, fell ill and abandoned court affairs, dying in 188 BCE. During his funeral, the Queen Mother cried without tears until ministers, following advice, appointed Lu family members as generals, securing her power.
+
+Chunk 11: 
+original: 
+语在齐王语中。
+齐王乃遗诸侯王书曰： 高帝平定天下，王诸子弟，悼惠王王齐。
+悼惠王薨，孝惠帝使留侯良立臣为齐王。
+孝惠崩，高后用事，春秋高，听诸吕，擅废帝更立，又比杀三赵王，灭梁、赵、燕以王诸吕，分齐为四。
+忠臣进谏，上惑乱弗听。
+今高后崩，而帝春秋富，未能治天下，固恃大臣诸侯。而诸吕又擅自尊官，聚兵严威，劫列侯忠臣，矫制以令天下，宗庙所以危。
+寡人率兵入诛不当为王者。
+汉闻之，相国吕产等乃遣颍阴侯灌婴将兵击之。
+灌婴至荥阳，乃谋曰： 诸吕权兵关中，欲危刘氏而自立。
+今我破齐还报，此益吕氏之资也。
+乃留屯荥阳，使使谕齐王及诸侯，与连和，以待吕氏变，共诛之。
+齐王闻之，乃还兵西界待约。
+吕禄、吕产欲发乱关中，内惮绛侯、硃虚等，外畏齐、楚兵，又恐灌婴畔之，欲待灌婴兵与齐合而发，犹豫未决。
+当是时，济川王太、淮阳王武、常山王朝名为少帝弟，及鲁元王吕后外孙，皆年少未之国，居长安。
+赵王禄、梁王产各将兵居南北军，皆吕氏之人。
+列侯群臣莫自坚其命。
+太尉绛侯勃不得入军中主兵。
+曲周侯郦商老病，其子寄与吕禄善。
+绛侯乃与丞相陈平谋，使人劫郦商。令其子寄往绐说吕禄曰： 高帝与吕后共定天下，刘氏所立九王，吕氏所立三王，皆大臣之议，事已布告诸侯，诸侯皆以为宜。
+今太后崩，帝少，而足下佩赵王印，不急之国守籓，乃为上将，将兵留此，为大臣诸侯所疑。
+translation: 
+This incident is recorded in "Qi Mourning the Family of King Hui".
+The King of Qi wrote to the princes and kings: Emperor Gao pacified the world and made his children kings. King Hui Hui made him the king of Qi.
+When King Hui Hui passed away, Emperor Xiaohui sent Zhang Liang, the Marquis of Liu, to make me the King of Qi.
+Emperor Xiaohui passed away and Empress Gao came to power. She was old and listened to the opinions of Lu's group and deposed the emperor without authorization. She also killed three Zhao kings one after another, abolished Liang, Zhao and Yan, and used the title of Lu's children as kings. Qi was also divided into four parts.
+The loyal ministers gave advice, but the empress was confused and refused to accept it.
+Now that Empress Gao has passed away, the emperor is still young and cannot govern the world, so he can only rely on ministers and princes. However, the Lu family prides itself on its position, gathers troops, uses its majesty to intimidate the loyal ministers of the princes, and orders the world under the pretext of imperial edicts. Therefore, the Liu family's ancestral temple is in danger.
+I led the army to the court to eliminate those who should not be king.
+When the Han court heard the news, Prime Minister Lu Chan and others sent Yingyin Marquis Guanying to lead an army to attack the King of Qi.
+When Guan Ying arrived in Xingyang, he discussed with others that the Lu family had taken control of the army in Guanzhong and wanted to eliminate the Liu family and establish themselves as emperor.
+If I defeat Qi's army now and go back to resume my life, this will further strengthen the Lu family's power.
+So Guan Ying stationed troops in Xingyang and sent envoys to inform the king of Qi and the princes of other countries. We must unite with them, wait for Lu's rebellion, and get rid of Lu together.
+After the King of Qi heard the news, he withdrew his army to the western border of Qi State, waited for the news, and acted as agreed.
+Lu Lu and Lu Chan wanted to launch a rebellion in Guanzhong, but they were afraid of Suihou, Zhu Xuhou and others internally, and externally they were afraid of the armies of Qi and Chu. They were also worried about Guan Ying's rebellion, so they planned to wait until Guan Ying's army fought with Qi's army before launching a rebellion.
+At this time, King Liu Tai of Jichuan, King Liu Wu of Huaiyang, King Liu Chao of Changshan, and King Lu Yuan, grandson of Empress Lu, who were nominally younger brothers of the Young Emperor, all did not return to the country due to their young age and lived in Chang'an.
+Zhao Wang Changlu and Liang Wang Lu Chan each commanded troops and lived in the Northern and Southern Army. They were both from the Lu family.
+No one among the princes and ministers felt that they would be able to save their lives.
+Taiwei Jianghou Zhou Bo could not enter the military camp to take control of the army.
+The Marquis of Qu Zhou, Li Shang, was old and sick, and his son Li Ji was friendly with Lu Lu.
+Jianghou discussed the strategy with Chen Ping, the prime minister, and sent people to kidnap Li Shang, and asked Li Ji to deceive Lu Lu and say: Emperor Gao and Queen Lu jointly pacified the world. The Liu family was granted nine kings, and the Lu family was granted three kings. They were all agreed upon by the ministers. This matter has been notified to the princes, and they all think it is appropriate.
+Now that the Queen Mother is dead and the Emperor is young, and you wear the seal of King Zhao, you do not return home quickly to defend the country, but as a general, you lead the army to stay here, and you are suspected by the ministers and princes.
+
+summary:
+summary line 2: The Queen Mother then ruled as regent, intending to make Lu family members kings. She consulted ministers; Wang Ling opposed, citing Gaozu's oath, while Chen Ping and Zhou Bo supported her. She deposed Wang Ling and promoted Chen Ping. She made Lu Tai King of Lu, and after his death, Lu Jia succeeded. She also made several of Xiaohui's sons kings, though they were not his biological children. The Queen Mother deposed and killed a young emperor who threatened rebellion, replacing him with Liu Yi, renamed Hong.
+
+Chunk 11: 
+original: 
+语在齐王语中。
+齐王乃遗诸侯王书曰： 高帝平定天下，王诸子弟，悼惠王王齐。
+悼惠王薨，孝惠帝使留侯良立臣为齐王。
+孝惠崩，高后用事，春秋高，听诸吕，擅废帝更立，又比杀三赵王，灭梁、赵、燕以王诸吕，分齐为四。
+忠臣进谏，上惑乱弗听。
+今高后崩，而帝春秋富，未能治天下，固恃大臣诸侯。而诸吕又擅自尊官，聚兵严威，劫列侯忠臣，矫制以令天下，宗庙所以危。
+寡人率兵入诛不当为王者。
+汉闻之，相国吕产等乃遣颍阴侯灌婴将兵击之。
+灌婴至荥阳，乃谋曰： 诸吕权兵关中，欲危刘氏而自立。
+今我破齐还报，此益吕氏之资也。
+乃留屯荥阳，使使谕齐王及诸侯，与连和，以待吕氏变，共诛之。
+齐王闻之，乃还兵西界待约。
+吕禄、吕产欲发乱关中，内惮绛侯、硃虚等，外畏齐、楚兵，又恐灌婴畔之，欲待灌婴兵与齐合而发，犹豫未决。
+当是时，济川王太、淮阳王武、常山王朝名为少帝弟，及鲁元王吕后外孙，皆年少未之国，居长安。
+赵王禄、梁王产各将兵居南北军，皆吕氏之人。
+列侯群臣莫自坚其命。
+太尉绛侯勃不得入军中主兵。
+曲周侯郦商老病，其子寄与吕禄善。
+绛侯乃与丞相陈平谋，使人劫郦商。令其子寄往绐说吕禄曰： 高帝与吕后共定天下，刘氏所立九王，吕氏所立三王，皆大臣之议，事已布告诸侯，诸侯皆以为宜。
+今太后崩，帝少，而足下佩赵王印，不急之国守籓，乃为上将，将兵留此，为大臣诸侯所疑。
+translation: 
+This incident is recorded in "Qi Mourning the Family of King Hui".
+The King of Qi wrote to the princes and kings: Emperor Gao pacified the world and made his children kings. King Hui Hui made him the king of Qi.
+When King Hui Hui passed away, Emperor Xiaohui sent Zhang Liang, the Marquis of Liu, to make me the King of Qi.
+Emperor Xiaohui passed away and Empress Gao came to power. She was old and listened to the opinions of Lu's group and deposed the emperor without authorization. She also killed three Zhao kings one after another, abolished Liang, Zhao and Yan, and used the title of Lu's children as kings. Qi was also divided into four parts.
+The loyal ministers gave advice, but the empress was confused and refused to accept it.
+Now that Empress Gao has passed away, the emperor is still young and cannot govern the world, so he can only rely on ministers and princes. However, the Lu family prides itself on its position, gathers troops, uses its majesty to intimidate the loyal ministers of the princes, and orders the world under the pretext of imperial edicts. Therefore, the Liu family's ancestral temple is in danger.
+I led the army to the court to eliminate those who should not be king.
+When the Han court heard the news, Prime Minister Lu Chan and others sent Yingyin Marquis Guanying to lead an army to attack the King of Qi.
+When Guan Ying arrived in Xingyang, he discussed with others that the Lu family had taken control of the army in Guanzhong and wanted to eliminate the Liu family and establish themselves as emperor.
+If I defeat Qi's army now and go back to resume my life, this will further strengthen the Lu family's power.
+So Guan Ying stationed troops in Xingyang and sent envoys to inform the king of Qi and the princes of other countries. We must unite with them, wait for Lu's rebellion, and get rid of Lu together.
+After the King of Qi heard the news, he withdrew his army to the western border of Qi State, waited for the news, and acted as agreed.
+Lu Lu and Lu Chan wanted to launch a rebellion in Guanzhong, but they were afraid of Suihou, Zhu Xuhou and others internally, and externally they were afraid of the armies of Qi and Chu. They were also worried about Guan Ying's rebellion, so they planned to wait until Guan Ying's army fought with Qi's army before launching a rebellion.
+At this time, King Liu Tai of Jichuan, King Liu Wu of Huaiyang, King Liu Chao of Changshan, and King Lu Yuan, grandson of Empress Lu, who were nominally younger brothers of the Young Emperor, all did not return to the country due to their young age and lived in Chang'an.
+Zhao Wang Changlu and Liang Wang Lu Chan each commanded troops and lived in the Northern and Southern Army. They were both from the Lu family.
+No one among the princes and ministers felt that they would be able to save their lives.
+Taiwei Jianghou Zhou Bo could not enter the military camp to take control of the army.
+The Marquis of Qu Zhou, Li Shang, was old and sick, and his son Li Ji was friendly with Lu Lu.
+Jianghou discussed the strategy with Chen Ping, the prime minister, and sent people to kidnap Li Shang, and asked Li Ji to deceive Lu Lu and say: Emperor Gao and Queen Lu jointly pacified the world. The Liu family was granted nine kings, and the Lu family was granted three kings. They were all agreed upon by the ministers. This matter has been notified to the princes, and they all think it is appropriate.
+Now that the Queen Mother is dead and the Emperor is young, and you wear the seal of King Zhao, you do not return home quickly to defend the country, but as a general, you lead the army to stay here, and you are suspected by the ministers and princes.
+
+summary:
+summary line 3: The Queen Mother continued to consolidate Lu power, killing or deposing several Zhao kings, including Liu You, who starved to death after opposing the Lu family. She made Lu Lu King of Zhao and Lu Chan King of Liang. In 180 BCE, she fell ill and warned Lu Chan and Lu Lu to control the army, fearing rebellion. She died, leaving edicts for rewards and amnesty.
+
+Chunk 11: 
+original: 
+语在齐王语中。
+齐王乃遗诸侯王书曰： 高帝平定天下，王诸子弟，悼惠王王齐。
+悼惠王薨，孝惠帝使留侯良立臣为齐王。
+孝惠崩，高后用事，春秋高，听诸吕，擅废帝更立，又比杀三赵王，灭梁、赵、燕以王诸吕，分齐为四。
+忠臣进谏，上惑乱弗听。
+今高后崩，而帝春秋富，未能治天下，固恃大臣诸侯。而诸吕又擅自尊官，聚兵严威，劫列侯忠臣，矫制以令天下，宗庙所以危。
+寡人率兵入诛不当为王者。
+汉闻之，相国吕产等乃遣颍阴侯灌婴将兵击之。
+灌婴至荥阳，乃谋曰： 诸吕权兵关中，欲危刘氏而自立。
+今我破齐还报，此益吕氏之资也。
+乃留屯荥阳，使使谕齐王及诸侯，与连和，以待吕氏变，共诛之。
+齐王闻之，乃还兵西界待约。
+吕禄、吕产欲发乱关中，内惮绛侯、硃虚等，外畏齐、楚兵，又恐灌婴畔之，欲待灌婴兵与齐合而发，犹豫未决。
+当是时，济川王太、淮阳王武、常山王朝名为少帝弟，及鲁元王吕后外孙，皆年少未之国，居长安。
+赵王禄、梁王产各将兵居南北军，皆吕氏之人。
+列侯群臣莫自坚其命。
+太尉绛侯勃不得入军中主兵。
+曲周侯郦商老病，其子寄与吕禄善。
+绛侯乃与丞相陈平谋，使人劫郦商。令其子寄往绐说吕禄曰： 高帝与吕后共定天下，刘氏所立九王，吕氏所立三王，皆大臣之议，事已布告诸侯，诸侯皆以为宜。
+今太后崩，帝少，而足下佩赵王印，不急之国守籓，乃为上将，将兵留此，为大臣诸侯所疑。
+translation: 
+This incident is recorded in "Qi Mourning the Family of King Hui".
+The King of Qi wrote to the princes and kings: Emperor Gao pacified the world and made his children kings. King Hui Hui made him the king of Qi.
+When King Hui Hui passed away, Emperor Xiaohui sent Zhang Liang, the Marquis of Liu, to make me the King of Qi.
+Emperor Xiaohui passed away and Empress Gao came to power. She was old and listened to the opinions of Lu's group and deposed the emperor without authorization. She also killed three Zhao kings one after another, abolished Liang, Zhao and Yan, and used the title of Lu's children as kings. Qi was also divided into four parts.
+The loyal ministers gave advice, but the empress was confused and refused to accept it.
+Now that Empress Gao has passed away, the emperor is still young and cannot govern the world, so he can only rely on ministers and princes. However, the Lu family prides itself on its position, gathers troops, uses its majesty to intimidate the loyal ministers of the princes, and orders the world under the pretext of imperial edicts. Therefore, the Liu family's ancestral temple is in danger.
+I led the army to the court to eliminate those who should not be king.
+When the Han court heard the news, Prime Minister Lu Chan and others sent Yingyin Marquis Guanying to lead an army to attack the King of Qi.
+When Guan Ying arrived in Xingyang, he discussed with others that the Lu family had taken control of the army in Guanzhong and wanted to eliminate the Liu family and establish themselves as emperor.
+If I defeat Qi's army now and go back to resume my life, this will further strengthen the Lu family's power.
+So Guan Ying stationed troops in Xingyang and sent envoys to inform the king of Qi and the princes of other countries. We must unite with them, wait for Lu's rebellion, and get rid of Lu together.
+After the King of Qi heard the news, he withdrew his army to the western border of Qi State, waited for the news, and acted as agreed.
+Lu Lu and Lu Chan wanted to launch a rebellion in Guanzhong, but they were afraid of Suihou, Zhu Xuhou and others internally, and externally they were afraid of the armies of Qi and Chu. They were also worried about Guan Ying's rebellion, so they planned to wait until Guan Ying's army fought with Qi's army before launching a rebellion.
+At this time, King Liu Tai of Jichuan, King Liu Wu of Huaiyang, King Liu Chao of Changshan, and King Lu Yuan, grandson of Empress Lu, who were nominally younger brothers of the Young Emperor, all did not return to the country due to their young age and lived in Chang'an.
+Zhao Wang Changlu and Liang Wang Lu Chan each commanded troops and lived in the Northern and Southern Army. They were both from the Lu family.
+No one among the princes and ministers felt that they would be able to save their lives.
+Taiwei Jianghou Zhou Bo could not enter the military camp to take control of the army.
+The Marquis of Qu Zhou, Li Shang, was old and sick, and his son Li Ji was friendly with Lu Lu.
+Jianghou discussed the strategy with Chen Ping, the prime minister, and sent people to kidnap Li Shang, and asked Li Ji to deceive Lu Lu and say: Emperor Gao and Queen Lu jointly pacified the world. The Liu family was granted nine kings, and the Lu family was granted three kings. They were all agreed upon by the ministers. This matter has been notified to the princes, and they all think it is appropriate.
+Now that the Queen Mother is dead and the Emperor is young, and you wear the seal of King Zhao, you do not return home quickly to defend the country, but as a general, you lead the army to stay here, and you are suspected by the ministers and princes.
+
+summary:
+summary line 4: After her death, the Lu family plotted rebellion. King Qi of Liu led forces against them, and ministers like Zhou Bo and Chen Ping conspired to remove the Lu. Zhou Bo, using deception, gained command of the Northern Army, and the soldiers supported the Liu family. Lu Lu surrendered his command, and Lu Chan was killed. The Lu family was exterminated, including Lu Lu and Lu Yu.
+
+Chunk 11: 
+original: 
+语在齐王语中。
+齐王乃遗诸侯王书曰： 高帝平定天下，王诸子弟，悼惠王王齐。
+悼惠王薨，孝惠帝使留侯良立臣为齐王。
+孝惠崩，高后用事，春秋高，听诸吕，擅废帝更立，又比杀三赵王，灭梁、赵、燕以王诸吕，分齐为四。
+忠臣进谏，上惑乱弗听。
+今高后崩，而帝春秋富，未能治天下，固恃大臣诸侯。而诸吕又擅自尊官，聚兵严威，劫列侯忠臣，矫制以令天下，宗庙所以危。
+寡人率兵入诛不当为王者。
+汉闻之，相国吕产等乃遣颍阴侯灌婴将兵击之。
+灌婴至荥阳，乃谋曰： 诸吕权兵关中，欲危刘氏而自立。
+今我破齐还报，此益吕氏之资也。
+乃留屯荥阳，使使谕齐王及诸侯，与连和，以待吕氏变，共诛之。
+齐王闻之，乃还兵西界待约。
+吕禄、吕产欲发乱关中，内惮绛侯、硃虚等，外畏齐、楚兵，又恐灌婴畔之，欲待灌婴兵与齐合而发，犹豫未决。
+当是时，济川王太、淮阳王武、常山王朝名为少帝弟，及鲁元王吕后外孙，皆年少未之国，居长安。
+赵王禄、梁王产各将兵居南北军，皆吕氏之人。
+列侯群臣莫自坚其命。
+太尉绛侯勃不得入军中主兵。
+曲周侯郦商老病，其子寄与吕禄善。
+绛侯乃与丞相陈平谋，使人劫郦商。令其子寄往绐说吕禄曰： 高帝与吕后共定天下，刘氏所立九王，吕氏所立三王，皆大臣之议，事已布告诸侯，诸侯皆以为宜。
+今太后崩，帝少，而足下佩赵王印，不急之国守籓，乃为上将，将兵留此，为大臣诸侯所疑。
+translation: 
+This incident is recorded in "Qi Mourning the Family of King Hui".
+The King of Qi wrote to the princes and kings: Emperor Gao pacified the world and made his children kings. King Hui Hui made him the king of Qi.
+When King Hui Hui passed away, Emperor Xiaohui sent Zhang Liang, the Marquis of Liu, to make me the King of Qi.
+Emperor Xiaohui passed away and Empress Gao came to power. She was old and listened to the opinions of Lu's group and deposed the emperor without authorization. She also killed three Zhao kings one after another, abolished Liang, Zhao and Yan, and used the title of Lu's children as kings. Qi was also divided into four parts.
+The loyal ministers gave advice, but the empress was confused and refused to accept it.
+Now that Empress Gao has passed away, the emperor is still young and cannot govern the world, so he can only rely on ministers and princes. However, the Lu family prides itself on its position, gathers troops, uses its majesty to intimidate the loyal ministers of the princes, and orders the world under the pretext of imperial edicts. Therefore, the Liu family's ancestral temple is in danger.
+I led the army to the court to eliminate those who should not be king.
+When the Han court heard the news, Prime Minister Lu Chan and others sent Yingyin Marquis Guanying to lead an army to attack the King of Qi.
+When Guan Ying arrived in Xingyang, he discussed with others that the Lu family had taken control of the army in Guanzhong and wanted to eliminate the Liu family and establish themselves as emperor.
+If I defeat Qi's army now and go back to resume my life, this will further strengthen the Lu family's power.
+So Guan Ying stationed troops in Xingyang and sent envoys to inform the king of Qi and the princes of other countries. We must unite with them, wait for Lu's rebellion, and get rid of Lu together.
+After the King of Qi heard the news, he withdrew his army to the western border of Qi State, waited for the news, and acted as agreed.
+Lu Lu and Lu Chan wanted to launch a rebellion in Guanzhong, but they were afraid of Suihou, Zhu Xuhou and others internally, and externally they were afraid of the armies of Qi and Chu. They were also worried about Guan Ying's rebellion, so they planned to wait until Guan Ying's army fought with Qi's army before launching a rebellion.
+At this time, King Liu Tai of Jichuan, King Liu Wu of Huaiyang, King Liu Chao of Changshan, and King Lu Yuan, grandson of Empress Lu, who were nominally younger brothers of the Young Emperor, all did not return to the country due to their young age and lived in Chang'an.
+Zhao Wang Changlu and Liang Wang Lu Chan each commanded troops and lived in the Northern and Southern Army. They were both from the Lu family.
+No one among the princes and ministers felt that they would be able to save their lives.
+Taiwei Jianghou Zhou Bo could not enter the military camp to take control of the army.
+The Marquis of Qu Zhou, Li Shang, was old and sick, and his son Li Ji was friendly with Lu Lu.
+Jianghou discussed the strategy with Chen Ping, the prime minister, and sent people to kidnap Li Shang, and asked Li Ji to deceive Lu Lu and say: Emperor Gao and Queen Lu jointly pacified the world. The Liu family was granted nine kings, and the Lu family was granted three kings. They were all agreed upon by the ministers. This matter has been notified to the princes, and they all think it is appropriate.
+Now that the Queen Mother is dead and the Emperor is young, and you wear the seal of King Zhao, you do not return home quickly to defend the country, but as a general, you lead the army to stay here, and you are suspected by the ministers and princes.
+
+summary:
+summary line 5: The ministers, fearing the young emperor was not truly Xiaohui's son, chose Liu Heng, King of Dai, as emperor due to his maturity and virtue. He became Emperor Xiaowen, reigning for 23 years. The historian notes that during Empress Lu's rule, the people recovered from war, punishments were rare, and agriculture flourished, despite her cruelty and nepotism.
+

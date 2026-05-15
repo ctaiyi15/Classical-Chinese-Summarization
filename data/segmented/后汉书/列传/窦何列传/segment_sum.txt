@@ -1,68 +1,6 @@
-Summary uses chunk [0, 0, 2, 9, 12]
+Summary uses chunk [3, 7, 10, 15]
 
-Chunk 0: 
-original: 
-窦武何进窦武字游平，扶风平陵人，安丰戴侯融之玄孙也。
-父奉，定襄太守。
-武少以经行著称，常教授于大泽中，不交时事，名显关西。
-延熹八年，长女选入掖庭，桓帝以为贵人，拜武郎中。
-其冬，贵人立为皇后，武迁越骑校尉，封槐里侯，五千户。
-明年冬，拜城门校尉。
-在位多辟名士，清身疾恶，礼赂不通，妻子衣食裁充足而已。
-是时，羌蛮寇难，岁俭民饥，武得两宫赏赐，悉散与太学诸生，及载肴粮于路，丐施贫民。
-兄子绍，为虎贲中郎将，性疏简奢侈。
-武每数切厉相戒，犹不觉悟，乃上书求退绍位，又自责不能训导，当先受罪。
-由是绍更遵节，大小莫敢违犯。
-时，国政多失，内官专宠，李膺、杜密等为党事考逮。
-translation: 
-◆Dou Wu's biography, Dou Wu's courtesy name is You Ping, a native of Pingling County, Fufeng County, and the great-great-grandson of Dai Hourong of Anfeng County.
-His father, Dou Feng, was the prefect of Dingxiang.
-When Dou Wu was young, he was famous for his virtues in Confucian classics. He once taught Osawa Zhong. He was not involved in current affairs, and his reputation was prominent in the Kansai area.
-In the eighth year of Yanxi's reign, the eldest daughter was elected to the palace. Emperor Huan appointed her as a nobleman and appointed Dou Wu as the doctor.
-In the winter of this year, the noble lady was made queen, Dou Wu was promoted to Yueqi Xiaowei, and was granted the title of Marquis of Huaili, with 5,000 households.
-In the winter of the second year, he was awarded the title of captain of the city gate.
-During his tenure, he recruited famous people, was honest and dedicated to the public affairs, deeply hated bad people and bad deeds, did not accept gifts or bribes, and his wife had only enough food and clothing for food and clothing.
-At this time, the Qiang barbarians were in rebellion, the harvest was poor, and the people were hungry. General Dou gave all the rewards from the two palaces to the students of the Imperial Academy, and he also used carts to carry food and meals to the poor on the roads.
-Dou Shao, the son of Dou Wu's brother, was appointed as Huben's lieutenant general and had a lazy and extravagant temperament.
-Dou Wu often reprimanded him severely, but he still didn't realize it, so he wrote a letter requesting that Dou Shao be removed from his post. He also blamed himself for not being able to discipline Dou Shao well and that he should suffer first.
-From then on, Dou Shao abided by restraint and did not dare to violate anything illegal, no matter how big or small.
-At that time, there were many political mistakes in the country. The eunuchs had exclusive power. Li Ying, Du Mi and others were arrested and interrogated for party affairs.
-
-summary:
-summary line 0: Based solely on the provided text, here is a summary:
-
-Chunk 0: 
-original: 
-窦武何进窦武字游平，扶风平陵人，安丰戴侯融之玄孙也。
-父奉，定襄太守。
-武少以经行著称，常教授于大泽中，不交时事，名显关西。
-延熹八年，长女选入掖庭，桓帝以为贵人，拜武郎中。
-其冬，贵人立为皇后，武迁越骑校尉，封槐里侯，五千户。
-明年冬，拜城门校尉。
-在位多辟名士，清身疾恶，礼赂不通，妻子衣食裁充足而已。
-是时，羌蛮寇难，岁俭民饥，武得两宫赏赐，悉散与太学诸生，及载肴粮于路，丐施贫民。
-兄子绍，为虎贲中郎将，性疏简奢侈。
-武每数切厉相戒，犹不觉悟，乃上书求退绍位，又自责不能训导，当先受罪。
-由是绍更遵节，大小莫敢违犯。
-时，国政多失，内官专宠，李膺、杜密等为党事考逮。
-translation: 
-◆Dou Wu's biography, Dou Wu's courtesy name is You Ping, a native of Pingling County, Fufeng County, and the great-great-grandson of Dai Hourong of Anfeng County.
-His father, Dou Feng, was the prefect of Dingxiang.
-When Dou Wu was young, he was famous for his virtues in Confucian classics. He once taught Osawa Zhong. He was not involved in current affairs, and his reputation was prominent in the Kansai area.
-In the eighth year of Yanxi's reign, the eldest daughter was elected to the palace. Emperor Huan appointed her as a nobleman and appointed Dou Wu as the doctor.
-In the winter of this year, the noble lady was made queen, Dou Wu was promoted to Yueqi Xiaowei, and was granted the title of Marquis of Huaili, with 5,000 households.
-In the winter of the second year, he was awarded the title of captain of the city gate.
-During his tenure, he recruited famous people, was honest and dedicated to the public affairs, deeply hated bad people and bad deeds, did not accept gifts or bribes, and his wife had only enough food and clothing for food and clothing.
-At this time, the Qiang barbarians were in rebellion, the harvest was poor, and the people were hungry. General Dou gave all the rewards from the two palaces to the students of the Imperial Academy, and he also used carts to carry food and meals to the poor on the roads.
-Dou Shao, the son of Dou Wu's brother, was appointed as Huben's lieutenant general and had a lazy and extravagant temperament.
-Dou Wu often reprimanded him severely, but he still didn't realize it, so he wrote a letter requesting that Dou Shao be removed from his post. He also blamed himself for not being able to discipline Dou Shao well and that he should suffer first.
-From then on, Dou Shao abided by restraint and did not dare to violate anything illegal, no matter how big or small.
-At that time, there were many political mistakes in the country. The eunuchs had exclusive power. Li Ying, Du Mi and others were arrested and interrogated for party affairs.
-
-summary:
-summary line 1: Dou Wu, a native of Fufeng, was known for his virtue and Confucian scholarship. He entered officialdom after his daughter became Empress to Emperor Huan, rising to Colonel of the City Gates. He was known for his integrity, recruiting worthy men, and refusing bribes. During a famine, he distributed his own rewards to students and the poor. He strictly disciplined his extravagant nephew, Dou Shao, even requesting his dismissal. When eunuchs seized power and arrested scholars like Li Ying and Du Mi in a party affair, Dou Wu memorialized the emperor, criticizing the eunuchs' corruption and warning of historical disasters like the fall of the Qin dynasty. He defended the arrested scholars and recommended virtuous ministers. After Emperor Huan died without an heir, Dou Wu consulted with an official and installed Liu Hong as Emperor Ling. He was made a general and marquis.
-
-Chunk 2: 
+Chunk 3: 
 original: 
 间者有嘉禾、芝草、黄龙之见。
 夫瑞生必于嘉士，福至实由善人，在德为瑞，无德为灾。
@@ -101,10 +39,55 @@ Therefore, all the talented people in the world, knowing the trend of the situat
 At the time of the solar eclipse in May, Chen Fan said to Dou Wu again: In the past, Xiao Wangzhi was harmed by Shi Xian. Recently, Li Ying and Du Mi have caused harm to their wives, families and children. Not to mention that there are dozens of people in Shi Xian today!
 
 summary:
-summary line 2: Dou Wu, along with Grand Tutor Chen Fan, planned to eliminate the eunuchs. Chen Fan urged immediate action, citing a solar eclipse as an omen. Dou Wu proposed the plan to the Empress Dowager, but she hesitated, citing tradition. After executing some eunuchs, Dou Wu's plan to kill others like Cao Jie stalled. When an astrological omen appeared, Dou Wu and Chen Fan prepared to act. They appointed allies to key posts and arrested a eunuch, whose confession implicated Cao Jie and Wang Fu. However, a eunuch stole the memorial and alerted his colleagues. They falsely accused Dou Wu of treason to the young emperor, seized the Empress Dowager, and issued an edict for Dou Wu's arrest. Dou Wu refused to submit, rallied troops, but his soldiers were persuaded to defect by the imperial edict. Pursued, Dou Wu and his nephew committed suicide. Their clans were exterminated, and the Queen Mother was moved. Dou Wu's grandson, Dou Fu, was saved by a former student, Hu Teng, who hid him and later helped him establish a family.
+summary line 0: Dou Wu, a native of Fufeng, was known for his virtue and Confucian scholarship. He entered officialdom after his daughter became Empress to Emperor Huan, rising to Colonel of the City Gates. He was known for his integrity, recruiting worthy men, and refusing bribes. During a famine, he distributed his own rewards to students and the poor. He strictly disciplined his extravagant nephew, Dou Shao, even requesting his dismissal. When eunuchs seized power and arrested scholars like Li Ying and Du Mi in a party affair, Dou Wu memorialized the emperor, criticizing the eunuchs' corruption and warning of historical disasters like the fall of the Qin dynasty. He defended the arrested scholars and recommended virtuous ministers. After Emperor Huan died without an heir, Dou Wu consulted with an official and installed Liu Hong as Emperor Ling. He was made a general and marquis.
 
-Chunk 9: 
+Chunk 7: 
 original: 
+营府素畏服中官，于是武军稍稍归甫。
+自旦至食时，兵降略尽。
+武、绍走，诸军追围之，皆自杀，枭首洛阳都亭。
+收捕宗亲、宾客、姻属，悉诛之，及刘瑜、冯述，皆夷其族。
+徒徙家属日南，迁太后于云台。
+当是时，凶竖得志，士大夫皆丧其气矣。
+武府掾桂阳胡腾，少师事武，独殡敛行丧，坐以禁锢。
+武孙辅，时年二岁，逃窜得全。
+事觉，节等捕之急。
+胡腾及令史南阳张敞共逃辅于零陵界，诈云已死，腾以为己子，而使聘娶焉。
+后举桂阳孝廉。
+至建安中，荆州牧刘表闻而辟焉，以为从事，使还窦姓，以事列上。会表卒，曹操定荆州，辅与宗人徙居于鄴，辟丞相府。从征马超，为流矢所中死。
+初，武母产武而并产一蛇，送之林中。
+后母卒，及葬未窆，有大蛇自榛草而出，径至丧所，以头击柩，涕血皆流，俯仰蛣屈，若哀泣之容，有顷而去。
+时人知为窦氏之祥。
+translation: 
+The camp was usually afraid of subduing the eunuchs, so Dou Wu's army returned to Wang Fu.
+From morning to lunch, Dou Wu's troops had almost surrendered.
+Dou Wu and Dou Shao fled and were pursued and surrounded by Wang Fu's army. They both committed suicide and showed their heads to Luoyang Duting.
+Their clansmen, guests, and in-laws were all captured and killed. Liu Yu and Feng Shu all annihilated their clans.
+Moved Dou Wu's family to Rinan and moved the Queen Mother to Yuntai.
+At this time, the vicious eunuch succeeded, and the upright people were discouraged and dared not say anything.
+Dou Wu's official Hu Teng from Guiyang, who learned from Dou Wu when he was young, collected and buried Dou Wu's body alone, so he was imprisoned and was not allowed to be an official.
+Dou Wu's grandson Dou Fu, who was only two years old at the time, was not harmed because he escaped.
+Later he was discovered, and Cao Jie and others arrested him urgently.
+Hu Teng and Ling Shi Nanyang and Zhang Chang helped Dou Fu escape to Lingling, pretending to be dead. Hu Teng considered him his son and got a wife for him.
+Later he was promoted to Guiyang Xiaolian.
+During Jian'an, Liu Biao, the herdsman of Jingzhou, heard about it and recruited him as an official. He returned to the surname Dou and reported his facts to the court. When Liu Biao died, Cao Cao pacified Jingzhou. Dou Fu and his people moved to Ye. He was recruited into the Prime Minister's Mansion and joined the army to conquer Ma Chao. He was hit by a stray arrow and died.
+At first, Dou Wu's mother gave birth to a snake while giving birth to Dou Wu, and sent the snake into the forest.
+Later, Dou Wu's mother died and was buried before the coffin was placed. A big snake came out of the forest and came to the funeral site. It hit the coffin with its head, tears and blood flowed, and it lay bent and bent, as if weeping, and then left after a while.
+At that time, people knew that it was the auspiciousness of the Dou family.
+
+summary:
+summary line 1: Dou Wu, along with Grand Tutor Chen Fan, planned to eliminate the eunuchs. Chen Fan urged immediate action, citing a solar eclipse as an omen. Dou Wu proposed the plan to the Empress Dowager, but she hesitated, citing tradition. After executing some eunuchs, Dou Wu's plan to kill others like Cao Jie stalled. When an astrological omen appeared, Dou Wu and Chen Fan prepared to act. They appointed allies to key posts and arrested a eunuch, whose confession implicated Cao Jie and Wang Fu. However, a eunuch stole the memorial and alerted his colleagues. They falsely accused Dou Wu of treason to the young emperor, seized the Empress Dowager, and issued an edict for Dou Wu's arrest. Dou Wu refused to submit, rallied troops, but his soldiers were persuaded to defect by the imperial edict. Pursued, Dou Wu and his nephew committed suicide. Their clans were exterminated, and the Queen Mother was moved. Dou Wu's grandson, Dou Fu, was saved by a former student, Hu Teng, who hid him and later helped him establish a family.
+
+Chunk 10: 
+original: 
+帝以蹇硕壮健而有武略，特亲任之，以为元帅，督司隶校尉以下，虽大将军亦领属焉。
+硕虽擅兵于中，而犹畏忌于进，乃与诸常侍共说帝遣进西击边章、韩遂。
+帝从之，赐兵车百乘，虎贲斧钺。
+进阴知其谋，乃上遣袁绍东击徐、兗二州兵，须绍还，即戎事，以稽行期。
+初，何皇后生皇子辩，王贵人生皇子协。
+群臣请立太子，帝以辩轻佻无威仪，不可为人主，然皇后有宠，且进又居重权，故久不决。
+六年，帝疾笃，属协于蹇硕。
+硕既受遣诏，且素轻忌于进兄弟，及帝崩，硕时在内，欲先诛进而立协。
 及进从外入，硕司马潘隐与进早旧。迎而目之。进惊，驰从道归营，引兵入屯百郡邸，因称疾不入。
 硕谋不行，皇子辩乃即位，何太后临朝，进与太傅袁隗辅政，录尚书事。
 进素知中官天下所疾，兼忿蹇硕图己，及秉朝政，阴规诛之。
@@ -113,13 +96,15 @@ original:
 又以袁氏累世宠贵，海内所归，而绍素善养士，能得豪杰用，其从弟虑贲中郎将术亦尚气侠，故并厚待之。
 因复博征智谋之士逄纪、何颙、荀攸等，与同腹心。
 蹇硕疑不自安，与中常侍赵忠等书曰： 大将军兄弟秉国专朝，今与天下党人谋诛先帝左右，埽灭我曹。但以硕典禁兵，故且沈吟。
-今宜共闭上阁，急捕诛之。
-中常侍郭胜，进同郡人也。
-太后及进之贵幸，胜有力焉。
-故胜亲信何氏，遂共赵忠等议，不从硕计，而以其书示进。
-进乃使黄门令收硕，诛之，因领其屯兵。
-袁绍复说进曰： 前窦武欲诛内宠而反为所害者，以其言语漏泄，而五营百官服畏中人故也。
 translation: 
+Emperor Ling believed that Jian Shuo was strong and capable of military strategy. He trusted him especially and appointed him as a marshal, supervising and supervising the commanders and subordinates below the school captain. Even the generals were also under his leadership.
+Although Jian Shuo was in charge of military power in the imperial court, he was still a little afraid of being jealous of He Jin, so he talked to Emperor Ling with his ministers and asked him to send He Jin to the west to attack Bian Zhang and Han Sui.
+Emperor Ling listened to them and rewarded He Jin with hundreds of military chariots, tigers, sharp axes and axes.
+He Jin secretly knew this was a conspiracy. So he submitted a petition to send Yuan Zhaodong to attack Xu and Yanzhou soldiers. He wanted to wait for Yuan Shao to return before sending troops to delay time.
+At first, Queen He gave birth to Prince Bian, and Wang Gui gave birth to Prince Xie.
+The ministers asked for a crown prince, but Emperor Ling thought that he was too frivolous and unworthy to be a king. However, the queen was favored by Emperor Ling, and He Jin held great power, so he hesitated to decide.
+In the sixth year, Emperor Ling was seriously ill and asked Jian Shuo to assist Liu Xie.
+Jian Shuo had received the imperial edict and had always looked down upon and envied brothers He Jin and He Miao. When Emperor Ling passed away, Jian Shuo was in the palace and wanted to kill He Jin first and establish Xie as emperor.
 When He Jin came in from outside, Jian Shuo Sima Pan Yin and He Jin had known each other for a long time, and they welcomed He Jin with his eyes. He Jin was frightened and rode back to the camp from a shortcut, leading his troops to the Baijun Mansion, so he refused to go in because of illness.
 Jian Shuo's plot did not come true, and Prince Bian became emperor. The Empress Dowager He came to the court to attend to the affairs of state, while He Jin and the Grand Tutor Yuan Kai assisted in the administration and also took charge of the affairs of the Secretariat.
 He Jin had known for a long time that eunuchs were hated by everyone in the world, and he hated Jian Shuo for plotting to harm him and for taking over the power of the court, so he secretly arranged to kill the eunuchs.
@@ -128,60 +113,40 @@ He Jin thought it was right.
 In addition, the Yuan family has been favored for many generations and is supported by people at home. Yuan Zhao was good at raising scholars, and the heroes were willing to be used by him. His younger brother Huben Zhonglang, General Yuan Shu, was also fond of chivalry, so they all accepted him favorably.
 Therefore, more resourceful people such as Feng Ji, He, Xun You, etc. were recruited and became close friends with them.
 Jian Shuo was suspicious and uneasy, so he wrote a letter to Zhao Zhong and others, saying: The generals and brothers are in power and are now plotting with the people of the world to kill those close to the late emperor and to eliminate us. It is only because I am in charge of the forbidden troops, so I am temporarily hesitant.
-Now we should work together to close the Shangge and kill them urgently.
-Guo Sheng, the regular servant of Zhongchang, was from the same county as He Jin.
-Fortunately for the Queen Mother and He Jin, Guo Sheng stepped in and helped.
-Therefore, Guo Sheng trusted the He family, so he discussed with Zhao Zhong and others, not to follow Jian Shuo's plan, and handed over Jian Shuo's letter to He Jin.
-He Jin sent the Huangmen Order to arrest and kill Jian Shuo, and then commanded the garrison himself.
-Yuan Shao also persuaded He Jin: In the past, Dou Wu wanted to kill his favorite but was killed because what he said was leaked. The officials in the five camps obeyed the eunuchs and were afraid of the eunuchs.
 
 summary:
-summary line 3: He Jin, from Nanyang, rose to power after his half-sister became Empress to Emperor Ling. He was made a general to suppress the Yellow Turban rebellion and later a marquis. He and his brother He Miao defeated a rebellion of thieves. Emperor Ling established a new army with eight colonels, entrusting the eunuch Jian Shuo with overall command. Jian Shuo, fearing He Jin, plotted to send him away. When Emperor Ling died, Jian Shuo planned to kill He Jin and install Prince Xie as emperor, but He Jin was warned and avoided the trap. He Jin then made Prince Bian emperor, with the Empress Dowager as regent. He Jin, hating the eunuchs and Jian Shuo's plot, planned to eliminate them with Yuan Shao's support. However, the Empress Dowager refused, and He Jin's relatives, bribed by eunuchs, also opposed him.
+summary line 2: He Jin, from Nanyang, rose to power after his half-sister became Empress to Emperor Ling. He was made a general to suppress the Yellow Turban rebellion and later a marquis. He and his brother He Miao defeated a rebellion of thieves. Emperor Ling established a new army with eight colonels, entrusting the eunuch Jian Shuo with overall command. Jian Shuo, fearing He Jin, plotted to send him away. When Emperor Ling died, Jian Shuo planned to kill He Jin and install Prince Xie as emperor, but He Jin was warned and avoided the trap. He Jin then made Prince Bian emperor, with the Empress Dowager as regent. He Jin, hating the eunuchs and Jian Shuo's plot, planned to eliminate them with Yuan Shao's support. However, the Empress Dowager refused, and He Jin's relatives, bribed by eunuchs, also opposed him.
 
-Chunk 12: 
+Chunk 15: 
 original: 
-进于是以绍为司隶校尉，假节，专命击断；从事中郎王允为河南尹。
-绍使洛阳方略武吏司察宦者，而促董卓等使驰驿上，欲进兵平乐观。
-太后乃恐，悉罢中常侍小黄门，使还里舍，唯留进素所私人，以守省中。
-诸常侍小黄门皆诣进谢罪，唯所措置。
-进谓曰： 天下匈匈，正患诸君耳。
-今董卓垂至，诸君何不早各就国？
-袁绍劝进便于此决之，至于再三。进不许。
-绍又为书告诸州郡，诈宣进意，使捕案中官亲属。
-进谋积日，颇泄，中官惧而思变。
-张让子妇，太后之妹也。让向子妇叩头曰： 老臣得罪，当与新妇俱归私门。
-惟受恩累世，今当远离宫殿，情怀恋恋，愿复一入直，得暂奉望太后、陛下颜色，然后退就沟壑，死不恨矣。
-子妇言于舞阳君，入白太后，乃诏诸常侍皆复入直。
-八月，进入长乐白太后，请尽诛诸常侍以下，选三署郎入守宦官庐。
-诸宦官相谓曰： 大将军称疾不临丧，不送葬，今郯入省，此意何为？
-窦氏事竟复起邪？
-又张让等使人潜听，具闻其语，乃率常侍段珪、毕岚等数十人，持兵窃自侧闼入，伏省中，及进出，因诈以太后诏召进。
-入坐省闼，让等诘进曰： 天下愦愦，亦非独我曹罪也。
-先帝尝与太后不快，几至成败，我曹涕泣救解，各出家财千万为礼，和悦上意，但欲托卿门户耳。
-今乃欲灭我曹种族，不亦太甚乎？
-卿言省内秽浊，公卿以下忠清者为谁？
+吴匡等素怨苗不与进同心，而又疑其与宦官同谋，乃令军中曰： 杀大将军者即车骑也，土吏能为报仇乎？
+进素有仁恩，士卒皆流涕曰： 愿致死！
+匡遂引兵与董卓弟奉车都尉旻攻杀苗，弃其尸于苑中。
+绍遂闭北宫门，勒兵捕宦者，无少长皆杀之。
+或有无须而误死者，至自发露然后得免。
+死者二千余人。
+绍因进兵排宫，或上端门屋，以攻省内。
+张让、段珪等困迫，遂将帝与陈留王数十人步出穀门，奔小平津。
+公卿并出平乐观，无得从者，唯尚书卢植夜驰河上，王允遣河南中部掾闵贡随植后。
+贡至，手剑斩数人，余皆投河而死。
+明日，公卿百官乃奉迎天子还宫，以贡为郎中，封都亭侯。
+董卓遂废帝，又迫杀太后，杀舞阳君，何氏遂亡，而汉室亦自此败乱。
+论曰：窦武、何进借元舅之资，据辅政之权，内倚太后临朝之威，外迎群英乘风之势，卒而事败阉竖，身死功颓，为世所悲，岂智不足而权有余乎？
 translation: 
-He Jin then appointed Yuan Shao as the commander of the Sili school, holding the talisman and commanding special orders to attack. Wang Yun, who was engaged in Zhonglang, was appointed as Henan Yin.
-Yuan Shao sent Luoyang military officials to monitor the eunuchs, and sent Dong Zhuo and others to the post to prepare for the invasion.
-The Queen Mother became frightened and dismissed all Xiaohuangmen and returned their envoys to their homes. Only those who were close to He Jin were left to guard the province.
-All the ministers from Xiaohuangmen went to He Jin to plead guilty and listen to what He Jin would do.
-He Jin said to them: "The world is in trouble, and it is the kings who are causing harm!"
-Now that Dong Zhuo will arrive soon, why don't you all return to your kingdoms as soon as possible?
-Yuan Shao advised He Jin to execute them at this moment, but He Jin refused again and again.
-Yuan Shao also wrote to various states and counties, pretending to convey He Jin's intention to arrest the eunuch's relatives.
-He Jin planned for too long, and things were leaked, and the eunuch was afraid and wanted to change.
-Zhang Rang's wife, the Queen Mother's sister, Zhang Rang kowtowed to his wife and said: "I have offended the old minister, so I should stay in a private house with my bride."
-I have been favored for many lifetimes, and now I have to stay away from the palace, reluctant to leave. Please enter the palace again, so that I can temporarily see the Queen Mother and the Emperor, and then go back. I will die without regrets.
-The wife told Lord Wuyang that Lord Wuyang had told the Queen Mother, so he ordered all the regular attendants to return to the palace.
-In August, He entered Changle and told the Queen Mother that she would kill all the regular servants and below, and select three ministers to enter the palace to guard the eunuch's palace.
-The eunuchs said to each other: "The general excused himself from mourning because he was ill and did not attend the funeral. Now he suddenly came to the palace. What do you want to do?"
-Did the Dou family incident happen again?
-Zhang Rang and others also sent people to eavesdrop, and they listened completely to what he said, so they led the regular attendants Duan Wanggui, Bi Lan and dozens of others to quietly enter from the side door with weapons and ambush the palace. When He Jin came out, he pretended to be the Queen Mother and summoned him.
-When He entered the palace, Zhang Rang and others questioned He Jin and said: "The chaos in the world is not only our fault."
-The late emperor once had a feud with the Queen Mother and almost deposed her. We cried to save her, and each of us gave tens of millions of our wealth as gifts to please the Emperor. We just wanted to rely on your He family's family.
-Now we actually want to kill our race. Isn't it a bit excessive?
-You say that the palace is filthy and filthy, but who is loyal and honest below the rank of minister?
+Wu Kuang waited for a long time and complained that He Miao was not of the same mind as He Jin. He also suspected that he was conspiring with the eunuchs, so he ordered the army to say: The one who killed the general was the chariot. Can you avenge the general?
+He Jin was kind and kind to his subordinates, and all the soldiers cried and said: I am willing to die in repayment!
+Wu Kuang led his troops and Dong Zhuo's younger brother, Fengche Duwei Dong, attacked and killed He Miao and dumped his body in the garden.
+Yuan Shao closed the North Palace Gate and ordered his soldiers to capture the eunuchs. No matter how big or small, kill them all.
+Some were mistakenly thought to be killed by eunuchs, while others exposed themselves and were spared from being killed.
+More than two thousand people died.
+Yuan Shaoyin marched into the palace, and some people from the upper gates attacked the palace.
+Zhang Rang, Duan Wanggui and others could not escape the siege, so they kidnapped the emperor and dozens of King Chen Liu and fled to Xiaopingjin.
+The ministers all came out from Pingtang, and no one ran with them. Only Lu Zhi, the minister, rode on horseback on the river at night. Wang Yun sent Minggong from central Henan to follow Lu Zhi.
+Mingong arrived and killed several people with his sword, while the rest jumped into the river and died.
+The next day, the ministers and officials welcomed the emperor back to the palace, appointed Min Gong as the doctor, and granted the title of Marquis of Ting.
+Dong Zhuo then deposed Emperor Ling, forced the Queen Mother to be killed, and killed Lord Wuyang. The He family died, and the Han Dynasty also fell into chaos.
+The historian commented: Dou Wu and He Jin, as uncles, held the power of assisting the government. Inside the palace, they relied on the power of the Queen Mother to listen to the government, and outside they had favorable conditions for heroes to ride on the wind. Finally, they were defeated by the eunuchs, died in power, and were lamented by the world. Is it possible that they lacked intelligence but had more power?
 
 summary:
-summary line 4: He Jin hesitated, and Yuan Shao suggested summoning provincial generals like Dong Zhuo to threaten the court. Despite advice against this, He Jin agreed. The eunuchs, fearing for their lives, tricked their way back into the palace. When He Jin went to the palace to urge the Empress Dowager to act, the eunuchs ambushed and killed him. His subordinates then attacked the palace. Yuan Shao and others massacred the eunuchs, killing over two thousand. During the chaos, the eunuchs kidnapped the emperor and his brother, but were eventually killed. Dong Zhuo then deposed the emperor, killed the Empress Dowager, and the He family was destroyed, plunging the Han dynasty into chaos. The historian comments that both Dou Wu and He Jin, despite their power and favorable positions, were defeated by eunuchs due to a lack of wisdom and excessive reliance on power.
+summary line 3: He Jin hesitated, and Yuan Shao suggested summoning provincial generals like Dong Zhuo to threaten the court. Despite advice against this, He Jin agreed. The eunuchs, fearing for their lives, tricked their way back into the palace. When He Jin went to the palace to urge the Empress Dowager to act, the eunuchs ambushed and killed him. His subordinates then attacked the palace. Yuan Shao and others massacred the eunuchs, killing over two thousand. During the chaos, the eunuchs kidnapped the emperor and his brother, but were eventually killed. Dong Zhuo then deposed the emperor, killed the Empress Dowager, and the He family was destroyed, plunging the Han dynasty into chaos. The historian comments that both Dou Wu and He Jin, despite their power and favorable positions, were defeated by eunuchs due to a lack of wisdom and excessive reliance on power.
 

@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 2, 7, 13]
+Summary uses chunk [0, 1, 2, 6, 11]
 
 Chunk 0: 
 original: 
@@ -13,9 +13,6 @@ original:
 地皇二年，荆州牧某发奔命二万人攻之，匡等相率迎击于云杜，大破牧军，杀数千人，尽获辎重，遂攻拔竟陵。
 转击云杜、安陆，多略妇女，还入绿林中，至有五万余口，州郡不能制。
 三年，大疾疫，死者且半，乃各分散引去。
-王常、成丹西入南郡，号下江兵；王匡、王凤、马武及其支常朱鲔、张卬等北入南阳，号新市兵：皆自称将军。
-七月，匡等进攻随，未能下。
-平林人陈牧、廖湛复聚众千余人，号平林兵，以应之。
 translation: 
 Liu Xuan, also known as Shenggong, was the elder brother of Emperor Guangwu.
 Because his younger brother was killed, he made friends with guests and prepared to avenge his brother.
@@ -28,50 +25,48 @@ So some people who were on the run, such as Ma Wu, Wang Chang, Cheng Dan and oth
 In the second year of Emperor Wang Mang's reign, someone from Jingzhou Mu sent 20,000 "Ben Ming soldiers" to attack them. Wang Kuang and others led their troops to attack them in Yundu. They defeated Jingzhou Mu's army, killed thousands of people, seized all the enemy's military equipment, and then captured Jingling.
 They turned to attack Yundu and Anlu, plundered many women, and returned to the Green Forest Mountains. By now there were more than 50,000 people, and the prefectures and counties could no longer control them.
 In the third year of the Emperor's reign, a great plague occurred. Nearly half of the people in Green Forest Mountain died, and the teams dispersed.
-Wang Chang and Cheng Dan went west to Nanjun and were known as "Xiajiang soldiers"; Wang Kuang, Wang Feng, Ma Wu and their followers Zhu Tun, Zhang Xian and others marched north to Nanyang and were known as "Xinshi soldiers"; the generals all called themselves generals.
-In July, Wang Kuang and others attacked Suixian but failed to capture it.
-Chen Mu and Liao Zhan from Pinglin gathered more than a thousand people, known as "Pinglin soldiers", to respond to Wang Kuang's troops.
 
 summary:
 summary line 0: Liu Xuan, also known as Shenggong, was the elder brother of Emperor Guangwu. After his younger brother was killed, he sought revenge but fled to Pinglin when his guests broke the law. He later pretended to be dead to secure his father's release and escaped. During the famine in Wang Mang's last years, Wang Kuang and Wang Feng from Xinshi became leaders of groups foraging for food, and their following grew. Fugitives like Ma Wu joined them, and they attacked Li Xiangju, hiding in the Green Forest Mountains. Their force swelled to seven or eight thousand within months. In the second year of Wang Mang's reign, they defeated Jingzhou Mu's 20,000 troops, seized equipment, captured Jingling, and plundered Yundu and Anlu before returning to the mountains with over 50,000 men, beyond local control.
 
-Chunk 0: 
+Chunk 1: 
 original: 
-刘玄字圣公，光武族兄也。
-弟为人所杀，圣公结客欲报之。
-客犯法，圣公避吏于平林。
-吏系圣公父子张。
-圣公诈死，使人持丧归舂陵，吏乃出子张，圣公因自逃匿。
-王莽末，南方饥馑，人庶群入野泽，掘凫茈而食之，更相侵夺。
-新市人王匡、王凤为平理诤讼，遂推为渠帅，众数百人。
-于是诸亡命马武、王常、成丹等往从之；共攻离乡聚，臧于绿林中，数月间至七八千人。
-地皇二年，荆州牧某发奔命二万人攻之，匡等相率迎击于云杜，大破牧军，杀数千人，尽获辎重，遂攻拔竟陵。
-转击云杜、安陆，多略妇女，还入绿林中，至有五万余口，州郡不能制。
-三年，大疾疫，死者且半，乃各分散引去。
 王常、成丹西入南郡，号下江兵；王匡、王凤、马武及其支常朱鲔、张卬等北入南阳，号新市兵：皆自称将军。
 七月，匡等进攻随，未能下。
 平林人陈牧、廖湛复聚众千余人，号平林兵，以应之。
+圣公因往从牧等，为其军安集掾。
+是时，光武及兄伯升亦起舂陵，与诸部合兵而进。
+四年正月，破王莽前队大夫甄阜、属正梁丘赐，斩之，号圣公为更始将军。
+众虽多而无所统一，诸将遂共议立更始为天子。
+二月辛巳，设坛场于淯水上沙中，陈兵大会。
+更始即帝位，南面立，朝群臣。
+素懦弱，羞愧流汗，举手不能言。
+于是大赦天下，建元曰更始元年。
 translation: 
-Liu Xuan, also known as Shenggong, was the elder brother of Emperor Guangwu.
-Because his younger brother was killed, he made friends with guests and prepared to avenge his brother.
-The guests broke the law, and Liu Xuan fled to Pinglin to avoid being pursued by the officials.
-Officials arrested his father Liu Zizhang.
-Liu Xuan pretended to be dead and had his coffin carried back to Chongling. The officials released Liu Zizhang, and Liu Xuan fled.
-In the last years of Wang Mang, there was a famine in the south. People went to the wild swamps in groups to dig some water chestnuts to satisfy their hunger, and even robbed each other.
-Wang Kuang and Wang Feng from Xinshi often mediate for them and were promoted as leaders, followed by hundreds of people.
-So some people who were on the run, such as Ma Wu, Wang Chang, Cheng Dan and others, went to join them to attack Li Xiangju and hid in the green forest mountains. In a few months, the team grew to seven or eight thousand people.
-In the second year of Emperor Wang Mang's reign, someone from Jingzhou Mu sent 20,000 "Ben Ming soldiers" to attack them. Wang Kuang and others led their troops to attack them in Yundu. They defeated Jingzhou Mu's army, killed thousands of people, seized all the enemy's military equipment, and then captured Jingling.
-They turned to attack Yundu and Anlu, plundered many women, and returned to the Green Forest Mountains. By now there were more than 50,000 people, and the prefectures and counties could no longer control them.
-In the third year of the Emperor's reign, a great plague occurred. Nearly half of the people in Green Forest Mountain died, and the teams dispersed.
 Wang Chang and Cheng Dan went west to Nanjun and were known as "Xiajiang soldiers"; Wang Kuang, Wang Feng, Ma Wu and their followers Zhu Tun, Zhang Xian and others marched north to Nanyang and were known as "Xinshi soldiers"; the generals all called themselves generals.
 In July, Wang Kuang and others attacked Suixian but failed to capture it.
 Chen Mu and Liao Zhan from Pinglin gathered more than a thousand people, known as "Pinglin soldiers", to respond to Wang Kuang's troops.
+Liu Xuan defected to Chen Mu and others, and served as an Jipu in the army.
+At the same time, Emperor Guangwu and his brother Liu Boxheng also raised troops in Chongling and joined forces with various insurrectionary forces to attack.
+In the first month of the fourth year of Emperor Di Huang's reign, he defeated the troops commanded by Wang Mang's former officer Zhen Fu and Zhengliang Qiuci, and killed them. Liu Xuan was promoted to General Gengshi.
+Although there were many troops in the uprising, there was no unified leadership, so the generals discussed together to make Liu Xuan the emperor.
+On the Xinsi day of February, a mandala was set up on the beach of Feishui to gather troops and horses.
+Liu Xuan ascended the throne of God and stood facing south to meet the officials.
+Liu Xuan has always been a coward, and he was so ashamed that he was sweating profusely. He raised his hands but couldn't even say a word.
+After that, a general amnesty was given to the whole country, and Jianyuan was the first year of Gengshi.
 
 summary:
 summary line 1: In the third year, a plague killed nearly half of the Green Forest force, causing dispersal. Wang Chang and Cheng Dan went west as "Xiajiang soldiers"; Wang Kuang, Wang Feng, and Ma Wu went north as "Xinshi soldiers." In July, they failed to take Suixian. Chen Mu and Liao Zhan from Pinglin gathered over a thousand "Pinglin soldiers" to support them. Liu Xuan joined Chen Mu as a supply officer. Emperor Guangwu and his brother Liu Boxheng also raised troops in Chongling and allied with the insurgents. In the first month of the fourth year, they defeated Wang Mang's officers, killing them, and Liu Xuan was promoted to General Gengshi. The generals, lacking unified leadership, made Liu Xuan emperor on the Xinsi day of February at Feishui. Liu Xuan, a coward, sweated profusely and could not speak. He granted amnesty, established the first year of Gengshi, and appointed officials, including his uncle Liu Liang, Wang Kuang, Wang Feng, Zhu Kun, Liu Bo, and Chen Mu.
 
 Chunk 2: 
 original: 
+悉拜置诸将，以族父良为国三老、王匡为定国上公、王凤成国上公、朱鲔大司马、伯升大司徒、陈牧大司空，余皆九卿、将军。
+五朋，伯升拔宛。
+六月，更始入都宛城，尽封宗室及诸将，为列侯者百余人。
+更始忌伯升威名，遂诛之，以光禄勋刘赐为大司徒。
+前钟武侯刘望起兵，略有汝南。
+时王莽纳言将军严尤、秩宗将军陈藏既败于昆阳，往归之。
+八月，望遂自立为天子，以尤为大司马、茂为丞相。
 王莽使太师王匡、国将哀章守洛阳。
 更始遣定国上公王匡攻洛阳，西屏大将军申屠建、丞相司值李松攻武关，三辅震动。
 是时海内豪桀翕然响应，皆杀其牧守，自称将军，用汉年号，以待诏命，旬月之间，遍于天下。
@@ -83,9 +78,14 @@ original:
 更始遂北都洛阳，以刘赐为丞相。
 申屠建、李松自长安传送乘舆服御，又遣中黄门从官奉迎迁都。
 二年二月，更始自洛阳而西。
-初发，李松奉引，马惊奔，触北宫铁柱门，三马皆死。
-初，王莽败，唯未央宫被焚而已，其余宫馆一无所毁。
 translation: 
+All the generals were granted official titles, including his uncle Liu Liang as the third elder of the country, Wang Kuang as the Grand Duke of Dingguo, Wang Feng as the Grand Duke of Chengguo, Zhu Kun as Grand Sima, Liu Bo was promoted to Grand Situ, Chen Mu was promoted to Grand Sikong, and the rest were granted the title of Jiuqing or General.
+In May, Liu Boxheng captured Wancheng.
+In June, Emperor Gengshi entered Wancheng to establish his capital. His fellow clan members and generals all conferred titles to him one by one, and more than 100 people were granted the title of marquis.
+Emperor Gengshi was jealous of Liu Boxheng's prestige and reputation, so he killed him and appointed Guanglu Xun and Liu Ci as the chief disciple.
+Liu Wang, Marquis of Zhongwu in the former Han Dynasty, also led an uprising and captured Runan.
+At this time, Wang Mang's Nayan general Yan You and Zhizong general Chen Mao were defeated miserably in the battle of Kunyang and surrendered to Liu Wang.
+In August, Liu Wang established himself as emperor, with Yan You as Grand Sima and Chen Mao as Prime Minister.
 Wang Mang sent Grand Master Wang Kuang and General Aizhang to defend Luoyang.
 Emperor Gengshi sent Prince Kuang of Dingguo to attack Luoyang, General Shen Tujian of Xiping, and Prime Minister Sizhi Li Song attacked Wuguan. The entire Sanfu area was shaken.
 At this time, heroes from all over the country rose up in response, killed the governors of the prefectures and counties, proclaimed themselves generals, adopted the reign name of Gengshi, and waited for the emperor's edict. In less than a month, supporters of Emperor Gengshi spread all over the country.
@@ -97,116 +97,88 @@ In October, he sent Fenwei General Liu Xin to Runan to attack Liu Wang and kille
 So Emperor Gengshi went north to make his capital Luoyang and appointed Liu Ci as prime minister.
 Shen Tujian and Li Song sent the emperor's vehicles, clothing and utensils from Chang'an, and sent officials from Zhonghuangmen to welcome Gengshi's move to the capital.
 In February of the second year of Gengshi, Emperor Gengshi moved west from Luoyang.
-Before setting off, Li Song guided the carriages and horses for Emperor Gengshi. The horses were frightened and ran wildly, hitting the iron pillars of the North Palace Gate. All three horses were killed.
-When Wang Mang was defeated, only Weiyang Palace was burned down, while the rest of the palace buildings were intact.
 
 summary:
 summary line 2: In May, Liu Boxheng captured Wancheng. In June, Emperor Gengshi made it his capital and granted titles to over a hundred clan members and generals. Jealous of Liu Boxheng's prestige, he killed him. Liu Wang, Marquis of Zhongwu, led an uprising and captured Runan. After Wang Mang's generals Yan You and Chen Mao were defeated at Kunyang, they surrendered to Liu Wang, who declared himself emperor in August. Wang Mang sent Wang Kuang and Aizhang to defend Luoyang. Emperor Gengshi sent forces to attack Luoyang and Wuguan, shaking the Sanfu region. Heroes nationwide rose, killed local officials, and adopted Gengshi's reign name, spreading support within a month. Rebels in Chang'an attacked Weiyang Palace. In September, the Duke of Donghai killed Wang Mang and sent his head to Wancheng. Emperor Gengshi, pleased, hung it in the market. That month, Luoyang was captured, and Wang Kuang and Aizhang were beheaded. In October, Liu Xin killed Liu Wang, Yan You, and Chen Mao. Emperor Gengshi moved his capital to Luoyang, appointing Liu Ci as prime minister. In February of the second year, he moved west to Chang'an, but his horses were spooked before departure. After Wang Mang's defeat, only Weiyang Palace was burned; other buildings remained intact. Emperor Gengshi lived in Changle Palace but was shy and incompetent, entrusting government to Zhao Meng and indulging in drink. Zhao Meng became dictatorial, killing a critic. Li Yi and Zhu Kun acted dictatorially in Shandong, while Wang Kuang and Zhang Yan were tyrannical in Sanfu. Appointed officials were lowly, causing public ridicule. Li Shu advised reform but was imprisoned, leading to widespread resentment and betrayal.
 
-Chunk 7: 
+Chunk 6: 
 original: 
-时松弟汎为城门校尉，赤眉使使谓之曰： 开城门，活汝兄。 汎即开门。
-九月，赤眉入城。
-更始单骑走，从厨城门出，诸妇女从后连呼曰： 陛下，当下谢城！ 更始即下拜，复上马去。
-初，侍中刘恭以赤眉立其弟盆子，自系诏狱：闻更始败，乃出，步从至高陵，止传舍。
-右辅都尉严本恐失更始为赤眉所诛，将兵在外，号为屯卫而实囚之。
-赤眉下书曰： 圣公降者，封长沙王。
-过二十日，勿受。 更始遣刘恭请降，赤眉使其将谢禄往受之。
-十月，更始遂随禄肉袒诣长乐宫，上玺绶于盆子。
-赤眉坐更始，置庭中，将杀之。
-刘恭、谢禄为请，不能得，遂引更始出。
-刘恭追呼曰： 臣诚力极，请得先死。 拔剑欲自刎，赤眉帅樊崇等遽共救止之，乃赦更始，封为畏威侯。
-刘恭复为固请，竟得封长沙王。
-一旦失之，合兵攻公，自灭之道也。 于是禄使从兵与更始共牧马于郊下，因令缢杀之。
-刘恭夜往收臧其尸。
-光武闻而伤焉。诏大司徒邓禹葬之于霸陵。
-有三子；求，歆，鲤。
-明年夏，求兄弟与母东诣洛阳，帝封求为襄邑侯，奉更始祀；歆为穀孰侯，鲤为寿光侯。
-求后徙封成阳侯。
-求卒，子巡嗣，复徙封濩泽侯。
-巡卒，子姚嗣。
-论曰：周武王观兵孟津，退而还师，以为纣未可伐，斯时有未至者也。
-汉起，驱轻黠乌合之众，不当天下万分之一，而旌旃之所捴及，书文之所通被，莫不折戈顿颡，争受职命。
-非唯汉人余思，固亦几运之会也。
-夫为权首，鲜或不及。
-陈、项且犹未兴，况庸庸者乎！
-刘盆子者，太山式人，城阳景王章之后也。
-祖父宪，元帝时封为式侯，父萌嗣。
+卬与诸将议曰： 赤眉近在郑、华阴间，旦暮且至。
+今独有长安，见灭不久，不如勒兵掠城中以自富，转攻所在，东归南阳，收宛王等兵。
+事若不集，复入湖池中为盗耳。 申屠建、廖湛等皆以为然，共人说更始。
+更始怒不应，莫敢复言。
+及赤眉立刘盆子，更始使王匡、陈牧、成丹、赵萌屯新丰，李松军掫，以拒之。
+张卬、廖湛、胡殷、申屠建等与御史大夫隗嚣合谋，欲以立秋日貙膢时共劫更始，俱成前计。
+侍中刘能卿知其谋，以告之。
+更始托病不出，召张卬等。
+卬等皆入，将悉诛之，唯隗嚣不至。
+更始狐疑，使卬等四人且待于外庐。
+卬与湛、殷疑有变，遂突出，独申屠建在，更始斩之。
+卬与湛、殷遂勒兵掠东西市。
+昏时，烧门入，战于宫中，更始大败。
+明旦，将妻子车骑百余，东奔越萌于新丰。
+更始复疑王匡、陈牧、成丹与张卬等同谋，乃并召入。
+牧、丹先至，即斩之。
+王匡惧，将兵入长安，与张卬等合。
+李松还从更始，与赵萌共攻匡、卬于城内。
+连战月余，匡等败走，更始徙居长信宫。
+赤眉至高陵，匡等迎降之，遂共连兵而进。
 translation: 
-At this time, Li Song's younger brother Li Fan was the captain of the city gate. Red Eyebrow sent an envoy to Li Fan and said: "Open the city gate and spare your brother's life." Li Fan opened the door.
-In September, Red Eyebrow entered the city.
-Gengshi fled alone and came out of the kitchen city gate. Many women shouted from behind: Your Majesty should dismount his horse and seize the city! Gengshi dismounted and thanked him, then mounted his horse and ran away.
-At first, the servant Liu Gong tied himself up and went to prison to plead guilty because he had made his younger brother Liu Penzi emperor with his red eyebrows. Hearing that Gengshi had failed, he was released from prison. Follow Gengshi on foot to Gaoling and stay at the post station.
-Yan Ben, the right auxiliary captain, was afraid that Chimei would not let Gengshi go if he let him go, so he led his troops to station outside, claiming to be stationing troops to protect Gengshi but actually imprisoning him.
-Chimei passed down a letter saying: If the Holy Duke is willing to surrender, he will be named King of Changsha.
-But after twenty days, I refused to accept it. Gengshi sent Liu Gong to ask for surrender from Chimei, who sent his general Xie Lu to accept the surrender.
-In October, Gengshi followed Xie Lu naked to Changle Palace and dedicated the emperor's seal and ribbon to Liu Penzi.
-Chimei's guilt was changed and he was placed in the court and prepared to be killed.
-Liu Gong and Xie Lu interceded for Gengshi, but Chimei didn't agree, so they took Gengshi away.
-Liu Gong chased after him and said: I am trying my best to protect the Holy Duke. Please let me die in front of the Holy Duke. He drew his sword and wanted to commit suicide. Fan Chong, the commander of the red eyebrows, and others quickly rescued him, so they pardoned Gengshi and made him a Marquis of Weiwei.
-Liu Gong once again interceded for Gengshi, and actually made Gengshi the King of Changsha.
-Gengshi often lived with Xie Lu, and Liu Gong also protected him. The three assistants suffered from the tyranny of Chimei and all sympathized with Gengshi, but Zhang Xun and others were deeply concerned and said to Xie Lu: Now the commanders of the battalions want to capture Shenggong. Once you lose Shenggong and everyone joins forces to attack you, you will be destroying yourself. So Xie Lu sent his soldiers to go to the countryside to herd horses with Gengshi, and secretly ordered his soldiers to strangle Gengshi.
-Liu Gong went to collect Gengxi's body at night.
-Guangwu was very sad when he heard the news, and ordered Deng Yu, the chief minister, to bury Gengshi in Ba Ling.
-Gengshi had three sons: Liu Qiu, Liu Xin, and Liu Li.
-In the summer of the next year, Liu Qiu's brothers and their mother went east to Luoyang. The emperor named Qiu the Marquis of Xiangyi and offered sacrifices to Gengshi; Liu Xin was the Marquis of Shu, and Liu Li was the Marquis of Shouguang.
-Liu Qiu later moved to the title of Marquis of Xianyang.
-After Qiu's death, his son Liu Xun succeeded him and then moved to Zehou.
-After Liu Xun's death, his son Liu Yao Sifeng.
-The historian commented: King Wu of Zhou inspected Mengjin and later retreated because he believed that Yin and Zhou could not be defeated and the time to defeat Zhou had not yet come.
-With the rise of the Han Dynasty, Gengshi drove a ragtag group of people who were light, sharp, cunning, and their number was less than one ten thousandth in the world. Wherever the banners went, and wherever the letters were conveyed, everyone put down their weapons, bowed their heads, surrendered, and scrambled to accept their orders.
-This is not only due to people's nostalgia for the Han Dynasty, but also due to timing and fate.
-The first person to attack is rarely unscathed.
-Chen Sheng and Xiang Yu have not achieved imperial status, let alone mediocre people!
-Liu Penzi was a native of Taishan County and a descendant of Liu Zhang, King of Chengyangjing.
-His grandfather Liu Xian was granted the title of Shihou during the Yuan Dynasty, and his father Liu Meng succeeded him.
+Zhang discussed with the generals and said: "Red Eyebrow is close to the underworld of Zheng and Hua, and will be here day and night."
+Now there is only Chang'an, which is about to be wiped out. It is better to command the army to plunder the property in the city to make a fortune, then attack the places along the way from here, return east to Nanyang, and collect the soldiers of King Wan and others.
+If things don't work out, just go into the lake and become a robber again. Shen Tujian, Liao Zhan and others all agreed, so they went together to persuade Gengshi.
+Gengshi was furious after hearing this and refused to agree. Zhang Xun and others did not dare to say anything more.
+When Chi Mei made Liu Penzi emperor, Gengshi sent Wang Kuang, Chen Mu, Cheng Yue and Zhao Meng to garrison Xinfeng and Li Song to garrison the city to resist them.
+Zhang Xian, Liao Zhan, Hu Yin, Shen Tujian and others conspired with the imperial censor Kui Xiao to use force to hijack Gengshi during the Liqiu Festival in order to complete the plan proposed above.
+Attendant Liu Nengqing learned of their plot and reported it to Gengshi.
+Gengshi pretended to be ill and did not leave the palace, so he summoned Zhang Xuan and others.
+Zhang Xuan and others came in, and Gengshi prepared to kill them all, but only Wei Xiao could not reach them.
+Gengshi was suspicious and ordered Zhang Xian and four others to wait in the house outside temporarily.
+Zhang Xun, Liao Zhan, and Hu Yin suspected that something had happened and rushed out. Only Shentu Jian was there, and Gengshi killed him.
+Zhang Xuan, Liao Zhan, and Hu Yin then led their troops to plunder the east and west cities.
+When it was dark, they broke into the palace and fought in the palace. Gengshi was defeated.
+Early the next morning, he led his wife and more than a hundred chariots and rode eastward to Zhao Meng's place in Xinfeng.
+Gengshi also suspected that Wang Kuang, Chen Mu, Cheng Dan and Zhang Xuan were conspiring, so he summoned them at the same time.
+Chen Mu and Cheng Dan arrived first and were beheaded immediately.
+Wang Kuang could not be frightened and led his army to Chang'an to meet Zhang and others.
+Li Song returned to Gengshi and joined forces with Zhao Meng to attack Wang Kuang and Zhang Xuan in the city.
+After fighting for more than a month, Wang Kuang and others were defeated and Gengshi moved to Changxin Palace.
+When Chimei arrived at Gaoling, Wang Kuang and others surrendered to Chimei, so he and Chimei marched together.
 
 summary:
 summary line 3: In December, the Red Eyebrow Army entered the pass. In the first month of the third year, Fang Wang made Liu Ying emperor. Gengshi sent forces to defeat them but was later defeated by Red Eyebrow. Wang Kuang and Zhang Xuan proposed plundering and retreating east, but Gengshi refused. When Red Eyebrow made Liu Penzi emperor, Gengshi sent generals to resist. Zhang Xuan and others plotted to hijack Gengshi but were discovered. Gengshi killed some conspirators, but Zhang Xuan and others plundered the city and attacked the palace, defeating Gengshi. Gengshi fled to Zhao Meng, suspected Wang Kuang and others, and killed Chen Mu and Cheng Dan. Wang Kuang joined Zhang Xuan. After a month of fighting, Gengshi moved to Changxin Palace. Red Eyebrow arrived, and Wang Kuang surrendered. Gengshi defended the city but was defeated; Li Song was captured. Li Fan opened the city gate, and Red Eyebrow entered in September. Gengshi fled but was captured by Yan Ben. He surrendered to Red Eyebrow in October, was made Marquis of Weiwei, then King of Changsha. He lived with Xie Lu but was strangled on Xie Lu's orders. Guangwu buried him at Ba Ling. Gengshi had three sons, later enfeoffed by Guangwu.
 
-Chunk 13: 
+Chunk 11: 
 original: 
-至腊日，崇等乃设乐大会，盆子坐正殿，中黄门持兵在后，公卿皆列坐殿上。酒未行，其中一人也刀笔书谒欲贺，其余不知书者请起之，各各屯聚，更相背向。大司农杨音按剑骂曰： 诸卿皆老佣也！
-今日设君臣之礼，反更殽乱，儿戏尚不如此，皆可格杀！ 更相辩斗，而兵众遂各逾宫斩关，入掠酒肉，互相杀伤。
-卫尉诸葛稚闻之，勒兵人，格杀百余人，乃定。
-盆子惶恐，日夜啼泣，独与中黄门共卧起，唯得上观阁而不闻外事。
-时掖庭中宫女犹有数百千人，自更始败后，幽闭殿内，掘庭中芦菔根，捕池鱼而食之，死者因相埋于宫中。
-有故祠甘泉乐人，尚共击鼓歌舞，衣服鲜明，见盆子叩头言饥。
-盆子使中黄门禀之米，人数斗。
-后盆子去，皆饿死不出。
-刘恭见赤眉众乱，知其必败，自恐兄弟俱祸，密教盆子归玺绶，习为辞让之言。
-建武二年正朔，崇等大会，刘恭先曰： 诸君共立恭弟为帝，德诚深厚。
-立且一年，肴乱日甚，诚不足以相成。
-恐死而无所益，愿得退为庶人，更求贤知，唯诸君省察。 崇等谢曰： 此皆崇等罪也。 恭复固请。
-或曰： 此宁式侯事邪！ 恭惶恐起去。
-盆子乃下床解玺绶，叩头曰： 今设置县官而为贼如故。
-吏人贡献，辄见剽劫，流闻四方，莫不怨恨，不复信向。
-诚冀诸君肯哀怜之耳！ 因涕泣嘘唏。
-崇等及会者数百人，莫不哀怜之，乃皆避席顿首曰； 臣无状，负陛下。
-请自今已后，不敢复放纵。 因共抱持盆子，带以玺绶。
-盆子号呼不得已。
-既罢出，各闭营自守，三辅翕然，称天子聪明。
+赤眉遂大破丹、匡军，杀万余人，追至无盐，廉丹战死，王匡走。
+崇又引其兵十余万，复还围莒，数月。
+或说崇曰： 莒，父母之国，奈何攻之？ 乃解去。
+时吕母病死，其众分入赤眉、青犊、铜马中。
+赤眉遂寇东海，与王莽沂平大尹战，败，死者数千人，乃引去，掠楚、沛、汝南、颍川，还人陈留，攻拔鲁城，转至濮阳。
+会更始都洛阳，遣使降崇。
+崇等闻汉室复兴，即留其兵，自将渠帅二十余人，随使者至洛阳降更始，皆封为列侯。
+崇等既未有国邑，而留众稍有离叛，乃遂亡归其营，将兵入颍川，分其众为二部，崇与逄安为一部，徐宣、谢禄、杨音为一部。
+崇、安攻拔长社，南击宛，斩县令；而宣、禄等亦拔阳翟，引之梁，击杀河南太守。
+赤眉众虽数战胜，而疲敝厌兵，皆日夜愁泣，思欲东归。
+崇等计议，虑众东向必散，不如西攻长安。
+更始二年冬，崇、安自武关，宣等从陆浑关，两道俱入。
+三年正月，俱至弘农，与更始诸将连战克胜，众遂大集。
+乃分万人为一营，凡三十营，营置三老、从事各一人。进至华阴。
 translation: 
-On the day of the twelfth lunar month festival, Fan Chong and others held a meeting with music. Liu Penzi sat in the main hall, and the soldiers at the Zhonghuang Gate stood behind. The ministers were all sitting in the hall. The wine had not yet been drunk. One of them took a knife and pen to write a name card in preparation for the celebration. The others who could not write stood up and asked someone to write for them. They gathered in groups, back to back. The chief minister, Yang Yin, pressed his sword and cursed: "All the ministers are old servants!"
-Today, the etiquette of the emperor and his ministers is even more chaotic. It will not be such a mess as a child's play, and everyone can be killed. They quarreled and fought with each other, and the soldiers also crossed the palace, cut off the barriers, broke into the palace, robbed wine and meat, and killed each other.
-When Wei Wei Zhuge Zhi heard the news, he immediately led his troops in and killed more than a hundred people before settling down.
-Liu Penzi was frightened and cried day and night. He got up and lay down alone with Zhonghuangmen. He could only go to the viewing pavilion and not hear what was going on outside.
-At this time, there were hundreds or even thousands of maids living in the palace. Since the reform failed, they had been confined in the palace. They dug radish and carrots in the courtyard to catch fish in the pond to satisfy their hunger. When they died, they were buried in the palace.
-Some musicians who used to worship gods in Ganquan still played drums, sang and danced together, wore bright clothes, and kowtowed when they saw Liu Penzi saying that they were hungry.
-Liu Penzi sent Zhonghuangmen to give them rice, and each of them had to count a few dou.
-After Liu Penzi left, he starved to death and couldn't get out.
-Liu Gong saw that the Red Eyebrow troops were in disarray and knew that they would be defeated. He was afraid that all his brothers would suffer misfortune, so he secretly taught Liu Penzi to hand over the emperor's seal and ribbon and teach him how to resign from the throne.
-On the first day of the first lunar month of the second year of Jianwu, Fan Chong and others held a grand gathering. Liu Gongxian said: "All the kings have jointly established my brother Penzi as emperor. The virtue of supporting him is extremely profound."
-During his one year in office, the chaos became more and more serious day by day, and it was really not enough to accomplish anything.
-I am afraid that there will be no benefit to me even if I die, so I am willing to abdicate and become a common man, so that I can seek more wise and wise people as my emperor. Please review me. Fan Chong and others apologized and said, "This is all our fault." Liu Gong insisted again.
-Some people said: Is this your business? Liu Gong was frightened and stood up and left.
-Liu Penzi then got out of bed and took off his seal ribbon, kowtowed and said: Now that the emperor has been appointed, he is still a thief as before.
-The officials and the people were often robbed when they contributed goods. This kind of scandal spread everywhere, and everyone was resentful, so they no longer trusted or yearned for us.
-These are all the consequences of being disrespectful. I beg to save my life and make way for a sage.
-If you must kill me to satisfy your guilt, I cannot escape. I sincerely hope that you all can sympathize with me and take pity on me.
-So he burst into tears and lamented. Fan Chong and other hundreds of people present felt pity for him, so they all left their seats and kowtowed, saying: "I have failed your majesty. From now on, I will not dare to indulge again." So they picked up the basin together and tied a seal ribbon on him.
-Liu Penzi called for help.
-After the banquet, everyone closed their camps and defended themselves. The three assistants unanimously praised the emperor as wise.
+Chimei defeated Lian Dan and Wang Kuang's army, killing more than ten thousand people, and chased them to Wuyan. Lian Dan died in the battle and Wang Kuang fled for his life.
+Fan Chong led more than 100,000 troops and returned to surround Ju County for several months.
+Someone said to Chong: Ju is the hometown of our parents, why should we attack it? Fan Chongnai came to the rescue and left.
+At this time, Lu's mother died of illness, and her subordinates joined the Red Eyebrow, Qingdu, and Bronze Horse tribes.
+The Red Eyebrow Army invaded Donghai County and fought against Wang Mang Dayin of Yiping County. They failed and thousands of people died. Then they left Donghai and plundered Chu, Pei, Runan, and Yingchuan. They returned to Chenliu, captured Lu City, and moved to Puyang.
+It happened that Gengshi decided to make his capital Luoyang and sent envoys to persuade Fan Chong to surrender.
+When Fan Chong and others heard that the Han Dynasty was revived, they left their troops behind and personally led more than 20 generals to accompany the envoys to Luoyang to surrender and reform. They were all granted the title of marquis.
+Fan Chong and others did not have their own fiefdom, and the tribesmen who stayed behind slowly began to rebel. Fan Chong left Luoyang and returned to his barracks. He led his army into Yingchuan County and divided his tribe into two divisions, one with Fan Chong and Pang An, and one with Xu Xuan, Xie Lu, and Yang Yin.
+Fan Chong and Pang An captured Changshe County, attacked Wancheng in the south, and beheaded the county magistrate; while Xu Xuan, Xie Lu, and others also captured Yangzhai County and led their troops to Liang County to kill the Henan prefect.
+Although the Red Eyebrow tribe had won many battles, they were exhausted and tired of fighting. They cried day and night and wanted to return eastward.
+Fan Chong and others discussed and considered that once they returned eastward, the tribe would inevitably disperse, so it was better to attack Chang'an westward.
+In the winter of the second year of Gengshi, Fan Chong and Pang An arrived at Wuguan, while Xu Xuan and others advanced from Luhun Pass in two directions.
+In the first month of the third year, they all arrived in Hongnong County and won consecutive battles with Gengshi generals, and the army developed greatly.
+So ten thousand people were divided into one battalion, and a total of thirty battalions were built. Each battalion had three elders and one person in charge; they entered Huayin.
 
 summary:
 summary line 4: Liu Penzi, a descendant of Liu Zhang, King of Chengyangjing, was captured by Red Eyebrow. Lu's mother, seeking revenge for her son, gathered followers and killed a county magistrate before returning to the sea. Fan Chong raised troops in Ju, and with others, formed the Red Eyebrow Army, painting their eyebrows red. They defeated Wang Mang's forces and grew to over 100,000. After Lu's mother died, her followers joined Red Eyebrow. They fought across regions, and when Gengshi made Luoyang his capital, Fan Chong and others surrendered but later rebelled. In the winter of the second year, they advanced west to Chang'an. In the first month of the third year, they arrived in Hongnong, winning battles. They divided into thirty battalions. Following a witch's prophecy, they made Liu Penzi emperor in June. Penzi, fifteen, was terrified. Xu Xuan became prime minister, Fan Chong imperial censor, and others held high ranks. They entered Chang'an, and Gengshi surrendered. Penzi lived in Changle Palace, but the generals were disorderly, robbing and killing. Penzi cried daily. Liu Gong taught him to resign, but Fan Chong refused. After more plundering, they left Chang'an westward, suffering heavy losses from snow. They returned, looted tombs, and insulted Empress Lu's body. Deng Yu attacked but was defeated. In September, they returned to Chang'an. After battles with Yancen and others, a great famine struck Sanfu. In December, they returned east, losing many. Guangwu intercepted them, and in the first month of the second year, they surrendered. Guangwu spared them, gave them land in Luoyang, but Fan Chong and Pang An later rebelled and were executed. Liu Penzi became blind and was given land in Xingyang for life.

@@ -1,4 +1,4 @@
-Summary uses chunk [0, 2, 4, 11]
+Summary uses chunk [0, 2, 5, 13]
 
 Chunk 0: 
 original: 
@@ -14,8 +14,6 @@ original:
 时，篆兄发以佞巧幸于莽，位至大司空。
 母师氏能通经学、百家之言，莽宠以殊礼，赐号义成夫人，金印紫绶，文轩丹毂，显于新世。
 后以篆为建新大尹，篆不得已，及叹曰： 吾生无妄之世，值浇、羿之君，上有老母，下有兄弟，安得独洁己而危所生哉！
-乃遂单车到官，称疾不视事，三年不行县。
-门下掾倪敞谏，篆乃强起班春。
 translation: 
 ◆Cui Xiang's biography, Cui Xiang's courtesy name was Tingbo, and he was a native of Anping, Zhuo County.
 My great-great-grandfather, Cui Chao, worked for Youzhou during the reign of Emperor Zhao, and he advised the governor not to associate with King Yan Ci.
@@ -29,14 +27,15 @@ Wang Mang hated those who did not agree with him and often used methods to sland
 At that time, Cui Fa, Cui Peng's brother, was favored by Wang Mang because of his cleverness, and his official position reached the rank of Da Sikong.
 The mother was a master of Confucian classics and the language of hundreds of schools of thought. Wang Mang favored her with special gifts and gave her the title of Mrs. Yicheng, with a gold seal and purple ribbon, and a Wenxuan Danbo, which became apparent in the new Mang generation.
 Later, Cui Xiang was appointed as the Grand Yin of Jianxin. Cui Xiang had no choice but to sigh and said: I was born in the age of Wuwang, and met such kings as Chu and Yi. I have an old mother above me and brothers below me. How can I put my body in danger by myself?
-He went to the government office on his bicycle, claiming that he was ill and had nothing to do. He did not go to the county for three years to encourage farmers to grow mulberry trees.
-Ni Chang, an official under his command, persuaded him, and Cui Cheng reluctantly stood up and issued the Spring Order.
 
 summary:
 summary line 0: Cui Xiang, courtesy name Tingbo, was from Anping, Zhuo County. His great-great-grandfather Cui Chao served Youzhou under Emperor Zhao, advising the governor against associating with King Yan Ci. After failing to assassinate the king, he was promoted to Shi Yushi. His son Cui Shu governed four counties capably. Cui Xiang, Cui Shu's youngest son, was summoned by Ming Jing during Wang Mang's era. When Taibao Zhen Feng appointed him infantry captain, Cui Xiang refused, stating that conquering a country does not require benevolent people or Confucian scholars, and resigned. Wang Mang, who hated dissent, favored Cui Xiang's brother Cui Fa, making him Da Sikong. Cui Xiang's mother was a Confucian scholar honored as Mrs. Yicheng. Later, Cui Xiang was forced to become Grand Yin of Jianxin. He reluctantly served, claiming illness and neglecting duties for three years. After releasing over 2,000 prisoners through fair trials, he resigned, saying he would rather die than harm innocents. In the early Jianwu years, he refused a recommendation due to shame over his clan's ties to Wang Mang, living in Xingyang and writing sixty-four chapters of the "Book of Changes" before his death.
 
 Chunk 2: 
 original: 
+毅生骃，年十三能通《诗》、《易》、《春秋》，博学有伟才，尽通古今训诂百家之言，善属文。
+少游太学，与班固、傅毅同时齐名。
+常以典籍为业，未遑仕进之事。
 仆诚不能编德于数者，窃慕古人之所序。 元和中，肃宗始修古礼，巡狩方岳。
 骃上《四巡颂》以称汉德，辞甚典美，文多，故不载。
 帝雅好文章，自见骃颂后，常嗟叹之，谓侍中窦宪曰： 卿宁知崔骃乎？
@@ -54,6 +53,9 @@ original:
 骃献书诫之曰：骃闻交浅而言深者，愚也；在贱而望贵者，惑也；未信而纳忠者，谤也。
 三者皆所不宜，而或蹈之者，思效其区区，愤盈而不能已也。
 translation: 
+Cui Yi gave birth to Cui Xiang. At the age of thirteen, he was proficient in the Book of Songs, the Book of Changes, and the Spring and Autumn Annals. He was erudite and talented. He understood the exegesis of hundreds of schools of thought, both ancient and modern, and could write articles.
+When he was young, he traveled to Taixue and became as famous as Ban Gu and Fu Yi.
+He often makes his career by studying classics, not to mention being an official.
 At that time, some people ridiculed him for being too mysterious and quiet, and he would lose his reputation in the future. Cui Xiang imitated Yang Xiong's "Jie Mo" and wrote "Da Zhi" to reply to them. During the Yuanhe period, Emperor Suzong practiced ancient rituals and visited Fang Yue.
 Cui Xiang wrote "Ode to the Four Patrols" to praise the Han Dynasty. The diction is very elegant, but there are too many words so I won't record it here.
 The emperor is always good at writing, and after reading Cui Xiang's ode, he often sighed. Said to the attendant Dou Xian: Do you know Cui Xiang?
@@ -74,56 +76,51 @@ None of the three items are suitable, but if you want to give it a try, you just
 summary:
 summary line 1: Cui Xiang's son Cui Yi was reclusive due to illness. Cui Yi's son Cui Xiang (the younger) was proficient in classics at thirteen, studied at Taixue, and was famed alongside Ban Gu and Fu Yi. He wrote "Da Zhi" to defend his reclusive nature. During the Yuanhe period, he praised Emperor Suzong with "Ode to the Four Patrols." The emperor admired his work and urged Dou Xian to meet him. Cui Xiang became Dou Xian's guest, but after the emperor's death, he warned Dou Xian against arrogance, citing historical examples. When Dou Xian became general, he appointed Cui Xiang as a courier. Cui Xiang repeatedly admonished Dou Xian for his excesses, leading to alienation. He was made magistrate of Changling but refused and died at home in 92 AD, leaving numerous writings.
 
-Chunk 4: 
+Chunk 5: 
 original: 
-及宪为车骑将军，辟骃为掾。
-宪府贵重，掾属三十人，皆故刺史、二千石，唯骃以处士年少，擢在其间。
-宪擅权骄恣，骃数谏之，及出击匈奴，道路愈多不法，骃为主簿，前后奏记数十，指切长短。
-宪不能容，稍疏之，因察骃高第，出为长岑长。
-骃自以远去，不得意，遂不之官而归。
-永元四年，卒于家。
-所著诗、赋、铭、颂、书、记、表、《七依》、《婚礼结言》、《达旨》、《酒警》合二十一篇。
-中子瑗。
-瑗字子玉，早孤，锐志好学，尽能传其父业。
-年十八，至京师，从侍中贾逵质正大义，逵善待之，瑗因留游学，遂明天官、历数、《京房易传》、六日七分。
-诸儒宗之。
-与扶风马融、南阳张衡特相友好。
-初，瑗兄章为州人所杀，瑗手刃报仇，因亡命。
 会赦，归家。
 家贫，兄弟同居数十年，乡邑化之。
 年四十余，始为郡吏。
 以事系东郡发干狱。
 狱掾善为《礼》，瑗间考讯时，辄问以《礼》说。
 其专心好学，虽颠沛必于是。
+后事释归家，为度辽将军邓遵所辟。
+居无何，遵被诛，瑗免归。
+瑚复辟车骑将军阎显府。
+时阎太后称制，显入参政事。
+先是，安帝废太子为济阴王，而以北乡侯为嗣。
+瑗以侯立不以正，知显将败，欲说蓬废立，而显日沉醉，不能得见。
+乃谓长史陈禅曰： 中常侍江京、陈达等，得以嬖宠惑蛊先帝，遂使废黜正统，扶立疏孽。
+少帝即位，发病庙中，周勃之征，于斯复见。
+今欲与长史君共求见，说将军白太后，收京等，废少帝，引立济阴王，必上当天心，下合人望。
+伊、霍之功，不下席而立炁则将军兄弟传祚于无穷。
+若拒违天意，久旷神器，则将以无罪并辜元恶。
+此所谓祸福之会，分功之时。
 translation: 
-When Dou Xian became a general of chariots and cavalry, he summoned Cui Xiang to be a courier.
-The Xian Mansion was noble and had thirty people, all of whom were former governors and had two thousand stones. Only Cui Heng, who was a young scholar, was promoted among them.
-Dou Xian was arrogant and unbridled in his power, but Cui Cheng tried to dissuade him many times. When the Xiongnu attacked, there were more illegal things on the road. Cui Xiang took charge of the book and recorded it dozens of times, pointing out the pros and cons.
-Dou Xian couldn't tolerate it and alienated him slightly. Because Cui Xiang was born in Gaodi, he asked him to be the magistrate of Changling County.
-Cui Xiang thought that he was not satisfied with his departure, so he returned home without receiving his official position.
-In the fourth year of Yongyuan's reign, he died at home.
-He has written a total of twenty-one poems, poems, poems, inscriptions, odes, books, notes, tables, "Seven Yis", "Wedding Conclusion", "Declaration of Purpose" and "Drinking Police".
-Cui Yuan, the middle son.
-◆Cui Yuan's biography, Cui Yuan's courtesy name is Ziyu. He lost his father in his early years. He was eager to learn and try his best to inherit his father's business.
-At the age of eighteen, he went to the capital, where he served Jia Kui, a servant, who treated him well. Cui Yuan then had the opportunity to study abroad, and then Mingguan, Lishu, "Jingfang Yi Zhuan", six days and seven minutes.
-All Confucian scholars regard him as their sect.
-He was particularly friendly with Fufeng Ma Rong and Nanyang Zhang Heng.
-At first, Cui Yuan's brother Cui Zhang was killed by the people of the state. Cui Yuan took revenge with a bare blade and ran away for his life.
 I met Amnesty and returned home.
 The family is poor, the brothers have lived together for decades, and the town has been influenced by them.
 Cui Yuan was in his forties before he became a county official.
 He was imprisoned in Faqian County, Dong County due to the incident.
 During the prison meeting, Cui Yuan often read "Book of Rites" after conducting examinations.
 He was attentive and eager to learn, even in bad times.
+Later, when the matter was clarified, he was released home and was summoned by Deng Zun, the general of Liao Dynasty.
+Soon, Deng Zun was killed and Cui Yuan was dismissed from his post and returned.
+Later he was summoned to the palace of Yan Xian, the general of chariots and cavalry.
+At that time, the Queen Mother Yan took the title of regent and acted on behalf of the emperor. Yan Xian entered the court to participate in political affairs.
+First, Emperor An deposed the prince as King of Jiyin and made Beixiang Marquis his heir.
+Cui Yuan believed that setting up a marquis was not correct. Knowing that Yan Xian would fail, he wanted to abolish the order, but Yan Xian was too drunk to see him.
+So he told Chen Chan, the chief minister: "Zhongchang served Jiang Jing, Chen Da, etc., and bewitched the late emperor because of his favor, so he deposed the orthodox ones and supported the evil ones."
+When the young emperor ascended the throne, he became ill in the temple, and Zhou Bo's autocratic power reappeared here.
+Now I would like to seek an audience with Chang Shijun, and persuade the general to ask the Queen Mother to arrest Jiang Jing and others, depose the young emperor, and install King Jiyin. This will surely harmonize the hearts of heaven and the hopes of people.
+Yi and Huo's meritorious deeds did not leave the table, and the generals and brothers would pass on their achievements to infinity.
+If you refuse to disobey God's will and remain empty of the throne for a long time, your innocence will turn into a great evil.
+This is the opportunity for misfortune and fortune, the time for division of merit.
 
 summary:
 summary line 2: Cui Yuan, courtesy name Ziyu, lost his father early and studied under Jia Kui, mastering classics and astrology. He avenged his brother's murder by fleeing, later returning after an amnesty. Poor, he lived with brothers for decades. At forty, he became a county official but was imprisoned. During imprisonment, he studied the "Book of Rites." After release, he served under generals Deng Zun and Yan Xian. When Empress Dowager Yan regented, Cui Yuan advised Yan Xian to depose the young emperor and install King Jiyin, but Yan refused. After Emperor Shun's rise, Yan Xian was killed, and Cui Yuan was ostracized. He later served as county magistrate, cultivating rice fields for seven years. Recommended as a virtuous scholar, he became prime minister of Jibei. Accused of embezzlement, he defended himself and was released. He died at sixty-six, requesting a simple burial in Luoyang. He wrote fifty-seven works, including "Nanyang Literary Official Chronicle," and was known for his hospitality despite poverty.
 
-Chunk 11: 
+Chunk 13: 
 original: 
-必欲行若言，当大定其本，使人主师五帝而式三王，荡亡秦之俗，遵先圣之风，弃苟全之政，蹈稽古之踪，复五等之爵，立井田之制。
-然后选稷、契为佐，伊吕为辅，乐作而凤皇仪，击石而百兽舞。
-若不然，则多为累而已。
 其后辟太尉袁汤、大将军梁冀府，并不应。
 大司农羊傅、少府何豹上书荐寔才美能高，宜在朝廷。
 召拜议郎，迁大将军冀司马，与边韶、延笃等著作东观。
@@ -142,9 +139,6 @@ original:
 寔以世方阻乱，称疾不视事，数月免归。
 初，寔父卒，剽卖田宅，起冢茔，立碑颂。
 translation: 
-We must make sure that our actions and words are consistent, and we should start from the fundamentals, so that people can learn from the Five Emperors and Three Kings. Break the corrupt customs of the Qin Dynasty, abide by the legacy of the previous kings, abandon measures that only seek temporary peace, repeat the old traces of ancient times, restore the five titles of duke, marquis, uncle, son, and male, and establish the well-field system of one part public land and eight parts private land.
-Then he selected wise ministers like Ji and Qi as assistants, and selected Yi Yin and Lu Shang as prime ministers. When playing music, the phoenix led hundreds of birds to the court, struck stone chimes, and hundreds of beasts came to dance.
-If not, then any more is just a burden.
 Later, the imperial court asked Cui Chen to serve as an official in the mansion of Taiwei Yuan Tang and General Liang Ji, but Cui Chen refused to go.
 Taisi Nongyang Fu and Shaofu He Bao wrote to recommend Cui Chen, saying that Cui Chen was very talented and capable and should be an official in the court.
 So the emperor made Cui Yilang, promoted General Liang Ji to Sima, and wrote books and theories in Dongguan with Bian Shao, Yandu and others.

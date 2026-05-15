@@ -1,0 +1,357 @@
+Summary uses chunk [0, 1, 5, 14, 19, 19, 33, 35, 36]
+
+Chunk 0: 
+original: 
+韩信，淮阴人也。
+家贫无行，不得推择为吏，又不能治生为商贾，常从人寄食。
+其母死无以葬，乃行营高燥地，令傍可置万家者。
+信从下乡南昌亭长食，亭长妻苦之，乃晨炊蓐食。
+食时信往，不为具食。
+信亦知其意，自绝去。
+至城下钓，有一漂母哀之，饭信，意漂数十日。
+信谓漂母曰： 吾必重报母。
+母怒曰： 大丈夫不能自食，吾哀王孙而进食，岂望报乎！
+淮阴少年又侮信曰： 虽长大，好带刀剑，怯耳。
+众辱信曰： 能死，刺我；不能，出胯下。
+于是信孰视，俯出跨下。
+一市皆笑信，以为怯。
+translation: 
+Han Xin was born in Huaiyin County.
+The family is poor and has no good character. He cannot be elected to be an official, and he cannot do business to make a living. He often lives in other people's homes and eats nothing.
+His mother passed away and was too poor to bury her, so he found a high, dry place with spacious surroundings as a cemetery so that tens of thousands of families could be placed next to the grave in the future.
+Han Xin once went to the countryside to eat at the pavilion chief's house in Nanchang. The pavilion chief's wife hated him so much that she got up very early to prepare the meal and put it on the bed to eat.
+When it was breakfast time, Han Xin went and no meal was prepared for him.
+Han Xin understood her intention and left her, never to interact with her again.
+Han Xin once went fishing in the city. An old woman was rinsing silk cotton wool. She took pity on him and gave him food. This continued for dozens of days until the rinsing was completed.
+Han Xin said gratefully to his old mother: I will definitely repay you heavily in the future.
+The old man was very angry after hearing this and said, "You are a man and can't support yourself. I gave you food out of pity for you, a young man. Do I want you to repay me?"
+A young man in Huaiyin City bullied Han Xin and said: Although you are tall and like to wear swords, you are actually very timid.
+He insulted Han Xin in public and said: If you are not afraid of death, stab me with a sword; if you are afraid of death, get under my crotch.
+So Han Xin stared at the young man carefully, then bent down and crawled under his crotch.
+People watching the excitement on the street laughed at Han Xin and thought he was cowardly.
+
+summary:
+summary line 0: Han Xin, born in Huaiyin, was poor and unable to become an official or engage in trade. He often relied on others for food. After his mother died, he buried her on a high, spacious site, hoping for future grandeur. He once ate at a pavilion chief's home, but the chief's wife resented him and prepared meals early, leaving none for him at breakfast. Han Xin understood and left. While fishing, an old woman rinsing silk fed him for dozens of days. Grateful, he promised to repay her, but she scolded him, saying she pitied him, not expecting repayment. A young man in Huaiyin insulted Han Xin, daring him to fight or crawl under his crotch. Han Xin stared, then crawled through, enduring public ridicule.
+
+Chunk 1: 
+original: 
+及项梁度淮，信乃杖剑从之，居戏下，无所知名。
+梁败，又属项羽，为郎中。
+信数以策干项羽，羽弗用。
+汉王之入蜀，信亡楚归汉，未得知名，为连敖。
+坐法当斩，其畴十三人皆已斩，至信，信乃仰视，适见滕公，曰： 上不欲就天下乎？
+而斩壮士！
+滕公奇其言，壮其貌，释弗斩。
+与语，大说之，言于汉王。
+汉王以为治粟都尉，上未奇之也。
+数与萧何语，何奇之。
+至南郑，诸将道亡者数十人。
+信度何等已数言上，不我用，即亡。
+何闻信亡，不及以闻，自追之。
+人有言上曰： 丞相何亡。
+上怒，如失左右手。
+居一二日，何来谒。
+上且怒且喜，骂何曰： 若亡，何也？
+何曰： 臣非敢亡，追亡者耳。
+translation: 
+When Xiang Liang led his army across the Huai River to the north, Han Xin took his sword and went to him, and became an unknown soldier under Xiang Liang.
+After Xiang Liang failed, he returned to Xiang Yu, who made him a doctor.
+Han Xin repeatedly offered advice to Xiang Yu, but Xiang Yu did not adopt it.
+Liu Bang, the king of Han, entered Hanzhong, and Han Xin escaped from the Chu army and joined the king of Han. At the beginning, he was still unknown and worked as a granary management clerk.
+Later, he was sentenced to death for breaking the law. Thirteen of his accomplices were beheaded. When it was Han Xin's turn, Han Xin looked up and happened to see Teng Gong Xia Houying, so he asked: Doesn't the King of Han want to unify the world?
+Why kill the strong man?
+Teng Gong felt that Han Xin's words were unusual and he looked very powerful, so he did not kill him.
+After talking to Han Xin, he was very happy and reported his situation to the King of Han.
+The King of Han appointed Han Xin as the Commander-in-Chief of Su Su, but did not reuse him.
+Han Xin talked with Xiao He many times, and Xiao He appreciated his talent very much.
+When the Han army arrived at Nanzheng, dozens of generals escaped halfway.
+Han Xin considered that Xiao He and others had recommended him to the King of Han several times, but he still could not be reused, so he ran away.
+Xiao He heard that Han Xin had escaped. He had no time to report to the king of Han, so he went to chase him himself.
+Someone reported to the King of Han: Prime Minister Xiao He has escaped.
+The king of Han was furious, as if he had lost his left and right hands.
+Two days later, Xiao He came to see the King of Han.
+The King of Han was both angry and happy, and scolded Xiao He: "Why did you run away?"
+Xiao He replied: How dare I run away? I am chasing those who run away.
+
+summary:
+summary line 1: Han Xin joined Xiang Liang's army as a soldier, then served Xiang Yu as a郎中, offering advice that was ignored. He later defected to Liu Bang, King of Han, as a仓管员. Sentenced to death for a crime, he appealed to Teng Gong Xia Houying, who spared him after a conversation. Liu Bang made him a治粟都尉 but didn't value him. Han Xin fled when not promoted, but Xiao He chased him back. Xiao He convinced Liu Bang to formally appoint Han Xin as a大将, with a ceremony. Liu Bang asked Han Xin for strategies. Han Xin analyzed Xiang Yu's weaknesses—his inability to delegate, stinginess with rewards, and cruelty—contrasting Liu Bang's potential to win hearts by appointing capable men, rewarding merit, and respecting the people's wishes. He predicted easy conquest of the Three Qin states. Liu Bang followed his plan, marching east through Chencang to pacify the region.
+
+Chunk 5: 
+original: 
+遂进兵击魏。
+魏盛兵蒲坂，塞临晋。
+信乃益为疑兵，陈船欲度临晋，而伏兵从夏阳以木罂缶度军，袭安邑。
+魏王豹惊，引兵迎信。
+信遂虏豹，定河东，使人请权王： 愿益兵三万人，臣请以北举燕、赵，东击齐，南绝楚之粮道，西与大王会于荥阳。
+汉王与兵三万人，遣张耳与俱，进击赵、代。
+破代，禽夏说阏与。
+信之下魏、代，汉辄使人收其精兵，诣荥阳以距楚。
+信、耳以兵数万，欲东下井陉击赵。
+赵王、成安君陈馀闻汉且袭之，聚兵井陉口，号称二十万。
+广武君李左车说成安君曰： 闻汉将韩信涉西河，虏魏王，禽夏说，新喋血阏与。
+今乃辅以张耳，议欲以下赵，此乘胜而去国远斗，其锋不可当。
+translation: 
+Then he marched to attack the grasshopper.
+The king of Wei deployed heavy troops in Zhayuan and blocked Linjin Pass.
+Hanzhi then set up additional suspects, deployed his boats, and pretended to cross the river from Zhuozhi. He also sent a concealed ambush force to cross the river from Xia Yang with wooden urns and basins of floating water to sneak attack Anyi.
+King Wei Bao of Wei was greatly frightened and hurriedly led his troops to attack Zhengzhi. He captured Wei Bao and put Mi down.
+After that, Han Xin sent someone to see the King of Han and said: I hope to increase the number of 30,000 troops. I request to take advantage of the victory and march north to conquer the two countries Yan and Zhao, attack Qi to the east, cut off Chu's grain routes to the south, and finally go west to join forces with the king in Rongyang.
+The King of Han agreed to give Han Xin 30,000 more troops, and sent Tan Dan and Han Zhi to attack Zhao Er and Ji Er to the north.
+He defeated the attacking army and captured Xia Yue alive in the hammer.
+After Kongcao captured Chongxiao and Zhuyou, the King of Han sent people to call back his elite troops and marched to Rongyang to resist the Chu army.
+Han Xin and Zhang Er led tens of thousands of troops and wanted to march eastward to capture Jingxing and attack Zhao.
+King Chu and Chen Yu, Lord of Cheng'an, heard that the Han army was about to attack Zhao, so they gathered a heavy army to guard Jingxingkou, claiming to have an army of 200,000.
+Lord Guangwu Li Zuoche gave advice to Lord Chengan and said: I heard that the Han general Han Xin crossed the Xihe River, captured the king of Wei, and captured Xia Shuo alive. They had just fought a bloody battle to break up the alliance.
+Now with Zhang Er as an assistant, he plans to attack Zhao. This is a battle far away from the country while taking advantage of the victory. The attack is unstoppable.
+
+summary:
+summary line 2: In the second year of Han, Liu Bang conquered Wei and Henan, then attacked Pengcheng but was defeated. Han Xin later joined forces to defeat Chu troops. After Wei Bao rebelled, Han Xin, as左丞相, attacked Wei. He feigned a river crossing at Linjin while secretly crossing at Xiayang, capturing Wei Bao. Han Xin then requested 30,000 troops to conquer Yan, Zhao, and Qi. Liu Bang agreed, sending Zhang Er and others. Han Xin defeated Zhao at Jingxing, using a背水阵 (back-to-water formation) to inspire his troops to fight desperately. He captured King Zhao Xie and killed Chen Yu. Han Xin spared Li Zuoche, who advised against attacking Yan and Qi directly, suggesting instead to intimidate Yan into surrender and then approach Qi. Han Xin followed this, and Yan surrendered.
+
+Chunk 14: 
+original: 
+武涉已去，蒯通知天下权在于信，深说以三分天下，鼎足而王。
+语在《通传》。
+信不忍背汉，又自以功大，汉王不夺我齐，遂不听。
+汉王之败固陵，用张良计，征信将兵会陔下。
+项羽死，高祖袭夺信军，徙信为楚王，都不邳。
+信至国，召所从食漂母，赐千金。
+及下乡亭长，钱百，曰： 公，小人，为德不竟。
+召辱己少年令出跨下者，以为中尉，告诸将相曰： 此壮士也。
+方辱我时，宁不能死？
+死之无名，故忍而就此。
+项王亡将钟离目末家在伊庐，素与信善。
+项王败，目末亡归信。
+汉怨目末，闻在楚，诏楚捕之。
+translation: 
+After Wu She left, Kuai Tong knew that the key to the final outcome of the world lay in Han Xin, and further persuaded Han Xin with the view that three parts of the world would make him the king.
+His words are recorded in "The Biography of Kuai Tong".
+Han Xin couldn't bear to betray the King of Han, and he believed that he had made great contributions and the King of Han would not seize his Qi State, so he refused to listen to Kuai Tong.
+The King of Han was defeated in Guling and adopted Zhang Liang's strategy, recruiting Han Xin to lead his troops to join forces at the foot of the country.
+After Xiang Yu's death, Emperor Gaozu of the Han Dynasty used a surprise attack to seize Han Xin's military power, changed the title of King Han Xin of Qi to King of Chu, and made Xiapi his capital.
+When Han Xin arrived in Chudu, he summoned the floating mother who had given him food in the past and gave her a thousand gold coins.
+He went to the head of the Xiangxiang Pavilion and presented him with a hundred coins and said: You are a villain, and the good deeds you do have a beginning and an end.
+He also summoned the young man who had insulted him by asking him to crawl under his crotch, and appointed him as the lieutenant of Chu State. Han Xin said to the generals: This is a strong man.
+Can't I kill him when he insults me?
+But there was no reason to kill him, so I endured it, and that's how we achieved today's achievements.
+King Xiang's fugitive general Zhong Limei lived in Yilu and had always been friendly with Han Xin.
+After King Xiang died, he fled back to Han Xin.
+The king of Han resented Zhong Limei. When he heard that he was in Chu, he ordered Chu to arrest him.
+
+summary:
+summary line 3: Han Xin was later made King of Qi. After Xiang Yu's death, Liu Bang demoted him to King of Chu. Han Xin rewarded the old woman who fed him and the young man who humiliated him, making him a lieutenant. When Liu Bang suspected him of rebellion, Han Xin was captured and made Marquis of Huaiyin. He feigned illness, avoiding court. Later, he plotted with Chen Xi to rebel but was betrayed. Empress Lü and Xiao He tricked him into the palace, where he was executed, his clan exterminated. Before death, he regretted not following Kuai Tong's advice.
+
+Chunk 19: 
+original: 
+沛公之从砀北击昌邑，越助之。
+昌邑未下，沛公引兵西。
+越亦将其众居巨野泽中，收魏败散卒。
+项籍入关，王诸侯，还归，越众万余人无所属。
+齐王田荣叛项王，汉乃使人赐越将军印，使下济阴以击楚。
+楚令萧公角将兵击越，越大破楚军。
+汉二年春，与魏豹及诸侯东击楚，越将其兵三万余人，归汉外黄。
+汉王曰： 彭将军收魏地，得十余城，欲急立魏后。
+今西魏王豹，魏咎从弟，真魏也。
+乃拜越为魏相国，擅将兵，略定梁地。
+汉王之败彭城解而西也，越皆亡其所下城，独将其兵北居河上。
+汉三年，越常往来为汉游兵击楚，绝其粮于梁地。
+项王与汉王相距荥阳，越攻下睢阳、外黄十七城。
+项王闻之，乃使曹咎守成皋，自东收越所下城邑，皆复为楚。
+越将其兵北走穀城。
+项王南走阳夏，越复下昌邑旁二十余城，得粟十余万斛，以给汉食。
+汉王败，使使召越并力击楚，越曰： 魏地初定，尚畏楚，未可去。
+汉王追楚，为项籍所败固陵。
+乃谓留侯曰： 诸侯兵不从，为之奈何？
+留侯曰： 彭越本定梁地，功多，始君王以魏豹故，拜越为相国。
+今豹死亡后，且越亦欲王，而君王不蚤定。
+今取睢阳以北至穀城，皆许以王彭越。
+又言所以许韩信。
+语在《高纪》。
+于是汉王发使使越，如留侯策。
+使者至，越乃引兵会垓下。
+项籍死，立越为梁王，都定陶。
+六年，朝陈。
+九年、十年，皆来朝长安。
+translation: 
+Peigong attacked Changyi from Ci County to the north, and Peng Yue came to assist him.
+Changyi was not captured, so Pei Gong led his troops to the west.
+Peng Yue also led his troops to stay in Juyeze to collect the scattered soldiers of Wei Che's retreat.
+Xiang Yu entered Guanzhong, enfeoffed various princes as queens, and returned home. More than 10,000 Peng Yue's troops were left without any one to belong to.
+King Tian Rong of Qi betrayed King Xiang, so the King of Han sent someone to give General Peng Yue a seal, asking him to go south from Jiyin to attack Chu.
+The Chu State ordered Xiao Gongjiao to lead his troops to attack Peng Yue, and Peng Yue defeated the Chu army.
+In the spring of the second year of the Han Dynasty, the King of Han, King Wei Bao and the princes went east to attack Chu. Peng Yue led more than 30,000 soldiers to join the King of Han in Waihuang.
+The King of Han said: General Peng captured the land of Wei and obtained more than ten cities. He wanted to immediately support the descendants of Wei.
+The current Western Wei King Wei Bao is the cousin of Wei King Wei Jiu and a true descendant of the Wei Kingdom.
+He appointed Peng Yue as the prime minister of Wei State, responsible for military power and pacifying the Liang Dynasty.
+The King of Han was defeated in Pengcheng, and his army retreated westward. Peng Yue also lost the cities he occupied, and led his troops alone to the north and stayed along the Yellow River.
+In the third year of the Han Dynasty, Peng Yue often traveled as a guerrilla force of the Mo army, attacked the Chu army, and cut off the Chu army's food and grass in Liang.
+King Xiang and King Han were in a stalemate in Rongyang, and Peng Yue captured seventeen cities including Suiyang and Waihuang.
+When King Xiang heard the news, he sent Cao Jiu to garrison Chenggao, and he went eastward to recover the cities occupied by Pengyue. These cities were all returned to the Chu State.
+Peng Yue led his troops to retreat north to Gucheng.
+King Xiang retreated south to Yangxia, and Peng Yue captured more than 20 cities near Changyi and obtained more than 100,000 hu of grain to supply the King of Han with military provisions.
+The king of Han lost the battle and summoned Peng Yue, asking him to join forces to attack the Chu army. Peng Yue said: Wei Di had just been pacified not long ago, but he was still afraid of the Chu army's attack and could not go.
+The king of Han pursued the Chu army and was defeated by Xiang Yu at Guling.
+Then he said to Zhang Liang, the remaining lord, "What should I do if the armies of the princes do not obey the deployment?"
+Liu Hou said: Peng Yue originally pacified the Liang region and made great contributions. The king originally appointed Peng Yue as the prime minister of Wei because of Wei Bao.
+Now Wei Bao is dead and has no descendants, and Peng Yue also wants to be king, but the king decided not long ago to make him king.
+Now if he captures the area north of Suiyang up to Gucheng, he will use it to make him king.
+He also talked about the reasons why Han Xin was banned in the past.
+This incident is recorded in "Gao Ji".
+At that time, the king of Han sent envoys to Pengyue to follow Liu Hou's plan.
+As soon as the envoy arrived, Peng Yue led his troops to join Gaixia.
+After Xiang Yu died, he granted Pengyue the title of King of Liang and established his capital in Dingtao.
+In the sixth year of the Han Dynasty, Peng Yue went to Chen County to meet Emperor Gao of the Han Dynasty.
+In the ninth and tenth years, they all came to Chang'an to see him.
+
+summary:
+summary line 4: Peng Yue, from Changyi, was a fisherman and bandit. He led a group of youths, enforcing strict discipline. He joined Liu Bang but later served Xiang Yu. After Xiang Yu's defeat, Liu Bang made him King of Liang. Accused of rebellion, he was captured, exiled, and killed by Empress Lü, his clan destroyed.
+
+Chunk 19: 
+original: 
+沛公之从砀北击昌邑，越助之。
+昌邑未下，沛公引兵西。
+越亦将其众居巨野泽中，收魏败散卒。
+项籍入关，王诸侯，还归，越众万余人无所属。
+齐王田荣叛项王，汉乃使人赐越将军印，使下济阴以击楚。
+楚令萧公角将兵击越，越大破楚军。
+汉二年春，与魏豹及诸侯东击楚，越将其兵三万余人，归汉外黄。
+汉王曰： 彭将军收魏地，得十余城，欲急立魏后。
+今西魏王豹，魏咎从弟，真魏也。
+乃拜越为魏相国，擅将兵，略定梁地。
+汉王之败彭城解而西也，越皆亡其所下城，独将其兵北居河上。
+汉三年，越常往来为汉游兵击楚，绝其粮于梁地。
+项王与汉王相距荥阳，越攻下睢阳、外黄十七城。
+项王闻之，乃使曹咎守成皋，自东收越所下城邑，皆复为楚。
+越将其兵北走穀城。
+项王南走阳夏，越复下昌邑旁二十余城，得粟十余万斛，以给汉食。
+汉王败，使使召越并力击楚，越曰： 魏地初定，尚畏楚，未可去。
+汉王追楚，为项籍所败固陵。
+乃谓留侯曰： 诸侯兵不从，为之奈何？
+留侯曰： 彭越本定梁地，功多，始君王以魏豹故，拜越为相国。
+今豹死亡后，且越亦欲王，而君王不蚤定。
+今取睢阳以北至穀城，皆许以王彭越。
+又言所以许韩信。
+语在《高纪》。
+于是汉王发使使越，如留侯策。
+使者至，越乃引兵会垓下。
+项籍死，立越为梁王，都定陶。
+六年，朝陈。
+九年、十年，皆来朝长安。
+translation: 
+Peigong attacked Changyi from Ci County to the north, and Peng Yue came to assist him.
+Changyi was not captured, so Pei Gong led his troops to the west.
+Peng Yue also led his troops to stay in Juyeze to collect the scattered soldiers of Wei Che's retreat.
+Xiang Yu entered Guanzhong, enfeoffed various princes as queens, and returned home. More than 10,000 Peng Yue's troops were left without any one to belong to.
+King Tian Rong of Qi betrayed King Xiang, so the King of Han sent someone to give General Peng Yue a seal, asking him to go south from Jiyin to attack Chu.
+The Chu State ordered Xiao Gongjiao to lead his troops to attack Peng Yue, and Peng Yue defeated the Chu army.
+In the spring of the second year of the Han Dynasty, the King of Han, King Wei Bao and the princes went east to attack Chu. Peng Yue led more than 30,000 soldiers to join the King of Han in Waihuang.
+The King of Han said: General Peng captured the land of Wei and obtained more than ten cities. He wanted to immediately support the descendants of Wei.
+The current Western Wei King Wei Bao is the cousin of Wei King Wei Jiu and a true descendant of the Wei Kingdom.
+He appointed Peng Yue as the prime minister of Wei State, responsible for military power and pacifying the Liang Dynasty.
+The King of Han was defeated in Pengcheng, and his army retreated westward. Peng Yue also lost the cities he occupied, and led his troops alone to the north and stayed along the Yellow River.
+In the third year of the Han Dynasty, Peng Yue often traveled as a guerrilla force of the Mo army, attacked the Chu army, and cut off the Chu army's food and grass in Liang.
+King Xiang and King Han were in a stalemate in Rongyang, and Peng Yue captured seventeen cities including Suiyang and Waihuang.
+When King Xiang heard the news, he sent Cao Jiu to garrison Chenggao, and he went eastward to recover the cities occupied by Pengyue. These cities were all returned to the Chu State.
+Peng Yue led his troops to retreat north to Gucheng.
+King Xiang retreated south to Yangxia, and Peng Yue captured more than 20 cities near Changyi and obtained more than 100,000 hu of grain to supply the King of Han with military provisions.
+The king of Han lost the battle and summoned Peng Yue, asking him to join forces to attack the Chu army. Peng Yue said: Wei Di had just been pacified not long ago, but he was still afraid of the Chu army's attack and could not go.
+The king of Han pursued the Chu army and was defeated by Xiang Yu at Guling.
+Then he said to Zhang Liang, the remaining lord, "What should I do if the armies of the princes do not obey the deployment?"
+Liu Hou said: Peng Yue originally pacified the Liang region and made great contributions. The king originally appointed Peng Yue as the prime minister of Wei because of Wei Bao.
+Now Wei Bao is dead and has no descendants, and Peng Yue also wants to be king, but the king decided not long ago to make him king.
+Now if he captures the area north of Suiyang up to Gucheng, he will use it to make him king.
+He also talked about the reasons why Han Xin was banned in the past.
+This incident is recorded in "Gao Ji".
+At that time, the king of Han sent envoys to Pengyue to follow Liu Hou's plan.
+As soon as the envoy arrived, Peng Yue led his troops to join Gaixia.
+After Xiang Yu died, he granted Pengyue the title of King of Liang and established his capital in Dingtao.
+In the sixth year of the Han Dynasty, Peng Yue went to Chen County to meet Emperor Gao of the Han Dynasty.
+In the ninth and tenth years, they all came to Chang'an to see him.
+
+summary:
+summary line 5: Ying Bu, from Liu County, was a convict who escaped to become a bandit. He joined Xiang Liang, then Xiang Yu, who made him King of Jiujiang. He killed the Righteous Emperor for Xiang Yu. Later, Sui He persuaded him to defect to Liu Bang. Ying Bu was made King of Huainan. After Han Xin and Peng Yue's deaths, he feared for his life and rebelled. He was defeated and killed by the emperor's forces.
+
+Chunk 33: 
+original: 
+燕所以久存者，以诸侯数反，兵连不决也。
+今公为燕欲急灭豨等，豨等已尽，次亦至燕，公等亦且为虏矣。
+公何不令燕且缓豨，而与胡连和？
+事宽，得长王燕，即有汉急，可以安国。
+胜以为然，乃私令匈奴兵击燕。
+绾疑胜与胡反，上书请族胜。
+胜还报，具道所以为者。
+绾寤，乃诈论他人，以脱胜家属，使得为匈奴间。
+而阴使范齐之豨所，欲令久连兵毋决。
+汉既斩豨，其裨将降，言燕王绾使范齐通计谋豨所。
+上使使召绾，绾称病。
+又使辟阳侯审食其、御史大夫赵尧往迎绾，因验问其左右。
+绾愈恐，閟匿，谓其幸臣曰： 非刘氏而王者，独我与长沙耳。
+往年汉族淮阴，诛彭越，皆吕后计。
+translation: 
+The reason why the Yan State was able to survive for a long time was that the princes frequently rebelled and could not be stabilized by the use of troops for many years.
+Now you want to quickly eliminate Chen Xi and others for the sake of the Yan State. After Chen Xi and others are destroyed, it will be the turn of the Yan State, and you will also be prisoners.
+Why don't you let King Yan let Chen Xi go for the time being and unite with the Xiongnu?
+There is room for things to happen and he can rule the Yan Kingdom for a long time. If there is an emergency of the Han Dynasty's conquest, he can rely on this background to protect the country.
+Zhang Sheng thought that what he said was right, so he ordered the Huns to attack Yan without permission.
+The king of Yan, Lu Wan, suspected that Zhang Sheng was friends with the Xiongnu and plotted rebellion, so he wrote a petition asking his clan to destroy Zhang Sheng.
+Zhang Sheng came back and reported in detail the reasons for doing so.
+When Lu Wan came to his senses, he deceitfully sentenced other people, exonerating Zhang Sheng and his family members, allowing them to become spies for the Huns.
+He also secretly sent Fan Qi to Chen Xi's residence, hoping to make the war against the imperial court continue for a long time.
+The Han Dynasty beheaded Chen Xi, and his lieutenant surrendered, saying that King Lu Wan of Yan sent Fan Qi to Chen Xi's station to inform him of his strategy.
+The emperor sent an envoy to summon Lu Wan, but Lu Wan excused himself from illness.
+The emperor also sent the Marquis of Piyang to examine Shiqi and the imperial censor Yao to meet Lu Wan, taking the opportunity to check with the people around King Yan.
+Lu Wan became even more frightened, closed the door and hid, and said to his most trusted ministers: The only ones who are kings are not Liu, but the King of Changsha and I.
+Last year, the imperial clan destroyed the Marquis of Huaiyin and killed Peng Yue. It was Empress Lu's plan.
+
+summary:
+summary line 6: Lu Wan, from Fengyi, was a childhood friend of Liu Bang. He became King of Yan. Suspected of colluding with Chen Xi and the Xiongnu, he fled to the Xiongnu after Liu Bang's death, dying there.
+
+Chunk 35: 
+original: 
+吴芮，秦时番阳令也，甚得江湖间民心，号曰番君。
+天下之初叛秦也，黥布归芮，芮妻之，因率越人举兵以应诸侯。
+沛公攻南阳，乃遇芮之将梅鋗，与偕攻析、郦，降之。
+及项羽相王，以芮率百越佐诸侯，从入关，故立芮为衡山王，都邾。
+其将梅鋗功多，封十万户，为列侯。
+项籍死，上以鋗有功，从入武关，故德芮，徙为长沙王，都临湘，一年薨，谥曰文王，子成王臣嗣。
+薨，子哀王回嗣。
+薨，子共王右嗣。
+薨，子靖王差嗣。
+孝文后七年薨，无子，国除。
+初，文王芮，高祖贤之，制诏御史： 长沙王忠，其定著令。
+至孝惠、高后时，封芮庶子二人为列侯，传国数世绝。
+赞曰：昔高祖定天下，功臣异姓而王者八国。
+张耳、吴芮、彭越、黥布、臧荼、卢绾与两韩信，皆徼一时之权变，以诈力成功，咸得裂土，南面称孤。
+translation: 
+Wu Rui was the magistrate of Fanyang County during the Qin Dynasty. He was very popular among the people in the Jianghu area and was known as Fanjun.
+The world began to rebel against the Qin Dynasty, Yingbu surrendered to Wu Rui, and Wu Rui married his daughter to him. So he led the Yue people to raise troops to respond to the anti-Qin struggles in various places.
+Peigong attacked Nanyang County and encountered Wu Rui's general Mei Guo, so he and he attacked Xi County and Li County of Nanyang County. Both counties surrendered.
+When Xiang Yu divided the princes among the princes, Wu Rui led the Baiyue soldiers to cooperate with the princes and followed them into Guanzhong, so he made Wu Rui the king of Hengshan and established Zhu as his capital.
+His general Mei Guo had many merits and was granted the title of lord of 100,000 households.
+After Xiang Yu's death, the emperor followed him into Wuguan because of his merits in the plum pot. So he was grateful to Wu Rui and changed his title to King of Changsha. He established his capital in Linxiang. He died a year later and was named King Wen. Zicheng Wang Wuchen succeeded to the throne.
+When Wu Chen died, his son Ai Wang Hui succeeded to the throne.
+Wu Hui died, and Wu You, the king of Zi Gong, succeeded to the throne.
+Wu You died, and Wu Cha, the king of Zijing, succeeded to the throne.
+Wu Chai died in the seventh year of Emperor Wen's reign without a son, and the feudal state was abolished.
+At the beginning, King Wen Wu Rui, considered by Emperor Gaozu to be virtuous and loyal to the court, ordered the censor to say: The loyalty of the King of Changsha must be written in the decree.
+At the time of Emperor Hui and Empress Gao, Wu Rui's two sons other than his legitimate son were granted the title of marquis. The title was passed down for several generations before being abolished.
+Zan said: In the past, when Emperor Gaozu pacified the world, among the heroes who were not named Liu, there were eight countries who were crowned kings.
+Zhang Er, Wu Rui, Peng Yue, Ting Bu, Zang Tu, Lu Wan and the two Han Xins were all able to adapt to the current situation, adapt to changes, and achieve success by virtue of cunning and strength. They all received fiefs, sat facing south, and called Gu the king.
+
+summary:
+summary line 7: Wu Rui, a Qin magistrate, led Yue troops to support Liu Bang. Xiang Yu made him King of Hengshan, later Liu Bang made him King of Changsha. He died a year later, his kingdom passed down five generations before ending without an heir.
+
+Chunk 36: 
+original: 
+见疑强大，怀不自安，事穷势迫，卒谋叛逆，终于灭亡。
+张耳以智全，至子亦失国。
+唯吴芮之起，不失正道，故能传号五世，以无嗣绝，庆流支庶。
+有以矣夫，著于甲令而称忠也！
+translation: 
+Because they were powerful and were suspected by the court, they could not feel at ease. When things developed in the end, the situation was urgent and they were forced to plan a rebellion, and finally perished.
+Zhang Er relied on his wisdom to save himself, and it was passed down to his son that he also lost his title.
+Only Wu Rui did not violate the right path from the beginning, so he was able to pass the king's title to the fifth generation. However, the kingdom was abolished because there was no heir. There is a reason why his blessings were passed on to the descendants other than his legitimate son!
+Written on important decrees issued by the imperial court to commend his loyalty!
+
+summary:
+summary line 8: The historian comments that among the eight non-Liu kings, only Wu Rui remained loyal, his kingdom lasting longest due to his virtue.
+

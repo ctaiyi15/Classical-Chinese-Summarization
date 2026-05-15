@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 1, 4, 3, 4, 4, 6, 9, 10, 11, 12, 12, 14, 14, 15, 16, 17, 17, 18, 19, 20, 24]
+Summary uses chunk [0, 0, 1, 5, 4, 5, 5, 8, 11, 12, 13, 14, 15, 16, 17, 18, 18, 19, 19, 21, 22, 23, 27]
 
 Chunk 0: 
 original: 
@@ -12,8 +12,6 @@ original:
 是夜，中黄门孙程等十九人共斩江京、刘安、陈达等，迎济阴王于德阳殿西钟下，即皇帝位，年十一。
 近臣尚书以下，从辇到南宫，登云台，召百官。
 尚书令刘光等奏言： 孝安皇帝圣德明茂，早弃天下。
-陛下正统，当奉宗庙，而奸臣交构，遂令陛下龙潜蕃国，群僚远近莫不失望。
-天命有常，北乡不永。汉德盛明，福祚孔章。
 translation: 
 Filial piety to the emperor Mingbao, son of Emperor An.
 His mother, Mrs. Li, was killed by Queen Yan.
@@ -25,8 +23,6 @@ On the fourth day of November, an earthquake occurred in sixteen places in the c
 That night, nineteen people including Sun Cheng from the Zhonghuang Gate worked together to kill Jiang Jing, Liu An, Chen Da and others, and welcomed Liu Bao, the King of Jiyin, under the west bell of Deyang Hall, and he ascended the throne at the age of eleven.
 The ministers and ministers followed Chengyu to Nangong, climbed onto the cloud platform, and summoned all the officials.
 The minister ordered Liu Guang and others to report: Emperor Xiaoan, a man of sage and virtue, abandoned the world prematurely.
-The emperor is the orthodox successor and should inherit the ancestral temple and the state. However, due to the interference of treacherous ministers, the emperor became a vassal king from a prince. All civil and military officials in the world were disappointed.
-Fortunately, destiny follows a normal pattern. Although the Marquis of Beixiang was established as emperor, he would not live forever, and the Han family's virtues and fortunes were outstanding.
 
 summary:
 summary line 0: In the first year of Yongning, Liu Bao, son of Emperor An, was made crown prince. His mother, Mrs. Li, had been killed by Queen Yan. In the third year of Yanguang, the prince's wet nurse Wang Nan and kitchen supervisor Bing Ji were killed after being framed by Wang Sheng, Jiang Jing, and Fan Feng. Liu Bao sighed repeatedly, leading Wang Sheng and others to fear consequences and frame him, resulting in his deposition as King of Jiyin.
@@ -43,8 +39,6 @@ original:
 是夜，中黄门孙程等十九人共斩江京、刘安、陈达等，迎济阴王于德阳殿西钟下，即皇帝位，年十一。
 近臣尚书以下，从辇到南宫，登云台，召百官。
 尚书令刘光等奏言： 孝安皇帝圣德明茂，早弃天下。
-陛下正统，当奉宗庙，而奸臣交构，遂令陛下龙潜蕃国，群僚远近莫不失望。
-天命有常，北乡不永。汉德盛明，福祚孔章。
 translation: 
 Filial piety to the emperor Mingbao, son of Emperor An.
 His mother, Mrs. Li, was killed by Queen Yan.
@@ -56,14 +50,14 @@ On the fourth day of November, an earthquake occurred in sixteen places in the c
 That night, nineteen people including Sun Cheng from the Zhonghuang Gate worked together to kill Jiang Jing, Liu An, Chen Da and others, and welcomed Liu Bao, the King of Jiyin, under the west bell of Deyang Hall, and he ascended the throne at the age of eleven.
 The ministers and ministers followed Chengyu to Nangong, climbed onto the cloud platform, and summoned all the officials.
 The minister ordered Liu Guang and others to report: Emperor Xiaoan, a man of sage and virtue, abandoned the world prematurely.
-The emperor is the orthodox successor and should inherit the ancestral temple and the state. However, due to the interference of treacherous ministers, the emperor became a vassal king from a prince. All civil and military officials in the world were disappointed.
-Fortunately, destiny follows a normal pattern. Although the Marquis of Beixiang was established as emperor, he would not live forever, and the Han family's virtues and fortunes were outstanding.
 
 summary:
 summary line 1: When Emperor An died in March of the fourth year of Yanguang, Liu Yi became emperor. Liu Bao was barred from attending the funeral, causing him to wail and refuse food, moving officials inside and outside. After Liu Yi's death, Empress Dowager Yan's brother Yan Xian and Jiang Jing plotted to secretly not announce the mourning and conscript another prince. Liu Bao closed the palace gates and defended himself. On the fourth day of November, an earthquake struck sixteen places. That night, Sun Cheng and others killed Jiang Jing, Liu An, and Chen Da, welcoming Liu Bao to ascend the throne at age eleven.
 
 Chunk 1: 
 original: 
+陛下正统，当奉宗庙，而奸臣交构，遂令陛下龙潜蕃国，群僚远近莫不失望。
+天命有常，北乡不永。汉德盛明，福祚孔章。
 近臣建策，左右扶翼，内外同心，稽合神明。
 陛下践祚，奉遵鸿绪，为郊庙主，承续祖宗无穷之烈，上当天心，下厌民望。
 而即位仓卒，典章多缺，请条案礼仪，分别具奏。 制曰： 可。 乃召公卿百僚，使虎贲、羽林士屯南、北宫诸门。
@@ -75,12 +69,9 @@ original:
 乙亥，诏益州刺史罢子午道，通褒斜路。
 己卯，葬少帝以诸王礼。
 司空刘授免。
-赐公卿以下钱、谷各有差。
-十二月甲申，以少府河南陶敦为司空。
-令郡国守、相视事未满岁者，一切得举孝廉吏。
-登卯，尚书奏请下有司，收还延光三年九月丁酉以皇太子为济阴王诏书。
-奏可。
 translation: 
+The emperor is the orthodox successor and should inherit the ancestral temple and the state. However, due to the interference of treacherous ministers, the emperor became a vassal king from a prince. All civil and military officials in the world were disappointed.
+Fortunately, destiny follows a normal pattern. Although the Marquis of Beixiang was established as emperor, he would not live forever, and the Han family's virtues and fortunes were outstanding.
 Close ministers offer advice and suggestions, support the left and right wings, and work together internally and externally, in line with the will of the gods of heaven and earth.
 The emperor succeeded to the throne, followed tradition, became the master of the suburban temple, inherited the heroes and martyrs of his ancestors, acted out of heaven's will, and fulfilled the people's wishes below.
 However, he came to the throne in a hurry and there are many missing regulations. Please allow us to organize the rituals according to the rules and perform them separately.
@@ -92,19 +83,12 @@ On the 19th, I visited Gaomiao. On the 20th, I visited Guangwu Temple.
 On the 22nd, he ordered the governor of Yizhou to use the Baoxie Road instead of the Ziwu Road from Guanzhong to Hanzhong.
 On the 26th, the young emperor Liu Yi, Marquis of Beixiang, was buried with royal rites.
 Sikong Liu was dismissed from his post.
-Reward the ministers and ministers with different amounts of money and cereals respectively.
-On the first day of December, Tao Dun, Henan Province, was appointed Sikong.
-If the governor of a county or state is ordered to look after a person for less than a year, he or she may recommend a filial and honest official.
-On the 20th, the minister asked the administrator to return the edict issued on September 7, the third year of Yanguang's reign, deposing the crown prince Liu Bao as King Jiyin.
-Get approval.
 
 summary:
 summary line 2: The ministers reported that due to treacherous ministers, the emperor had become a vassal king, but destiny favored the Han family. The emperor succeeded to the throne according to heaven's will and the people's wishes. He ordered the organization of rituals. Yan Xian's brothers led troops into the North Palace but were fought by Guo Zhen, who killed Yan Jing. On the fifth day, envoys seized the seal, and the emperor arrested and executed Yan Xian and his brothers. On the sixth day, the palace gates were opened. On the ninth day, an order was issued that only close relatives of Yan Xian and Jiang Jing would be punished.
 
-Chunk 4: 
+Chunk 5: 
 original: 
-甲辰，诏以疫疠水潦，令人半输今年田租；伤害什四以上，勿收责；不满者，以实除之。
-十二月辛巳，赐王、主、贵人、公卿以下布各有差。
 二年春正月戊申，乐安王鸿来朝。
 丁卯，常山王章薨。
 二月，鲜卑寇辽东、玄菟。
@@ -129,8 +113,6 @@ original:
 冬十二月己亥，太傅桓焉免。
 是岁，车骑将军来历罢。
 translation: 
-On the 26th, the edict issued an edict that due to the severe epidemic, the common people would lose half of their field rent this year; those who suffered more than four-tenths of the damage would not be charged rent; those who were not satisfied with this amount would be exempted based on the actual amount.
-On the fourth day of the twelfth lunar month, various pieces of cloth will be given to the king, lord, nobles, and ministers.
 On the first day of the first lunar month of the second year of spring, King Liu Hong of Le'an went to the palace to pay homage.
 On the 20th of the first lunar month, Liu Zhang, the king of Changshan, passed away.
 In February, the Xianbei bandits raided Liaodong and Xuantu.
@@ -158,12 +140,8 @@ This year, the general of chariots and cavalry was also dismissed.
 summary:
 summary line 3: The emperor visited Gaomiao and Guangwu Temple. He ordered the use of Baoxie Road instead of Ziwu Road. Liu Yi was buried with royal rites. Sikong Liu was dismissed, and ministers were rewarded. Tao Dun was appointed Sikong. A major epidemic occurred in the capital. The edict deposing Liu Bao as King Jiyin was returned. In the first year of Yongjian, a general amnesty was granted, with various rewards and exemptions. Empress Dowager Yan passed away. Taifu Feng Shi, Taiwei Liu Xi, and Situ Li were dismissed. Queen Ansi was buried. Taichang Huanyan was appointed Taifu; Zhu Chong was appointed Taiwei; Zhu Qian was appointed Situ.
 
-Chunk 3: 
+Chunk 4: 
 original: 
-丙戌，太常桓焉为太傅；大鸿胪朱宠为太尉，参录尚书事；长乐少府九江朱伥为司徒。
-赐百官随辇宿卫及拜除者布各有差。
-陇西钟羌叛，护羌校尉马贤讨破之。
-夏五月丁丑，诏幽、并、凉州刺史，使各实二千石以下至黄绶，年老劣弱不任军事者，上名。
 严敕障塞，缮设屯备，立秋之后，简习戎马。
 六月己亥，封济南王错子显为济南王。
 秋七月庚午，卫尉来历为车骑将军。
@@ -175,11 +153,9 @@ original:
 庚寅，遣黎阳营兵出屯中山北界。告幽州刺史，其令缘边郡增置步兵，死屯塞下。
 调五营弩师，郡举五人，令教习战射。
 壬寅，廷尉张皓为司空。
+甲辰，诏以疫疠水潦，令人半输今年田租；伤害什四以上，勿收责；不满者，以实除之。
+十二月辛巳，赐王、主、贵人、公卿以下布各有差。
 translation: 
-On the fourth day of the lunar month, Taichang Huanyan was appointed as Taifu; Dahonglu and Zhu Chong were appointed as Taiwei, and participated in the affairs of the general secretary; and Zhu Qian of Jiujiang, the Shaofu of Changle, was appointed as Situ.
-The pieces of cloth used to reward hundreds of officials, accompany them on duty, stay as guards, and appoint officials vary greatly.
-The Zhongqiang in Longxi rebelled, and Ma Xian, the captain of the Qiang Protector, attacked and defeated them.
-On the twenty-seventh day of the fifth lunar month, the governors of You, Bing, and Liangzhou were ordered to verify that those who were less than 2,000 shi were sent to the county magistrate and county lieutenant, and those who were old, weak, and incompetent for military service were listed on the list.
 Strictly organize the border fortifications and repair all equipment for garrison operations. After the beginning of autumn, troops and horses will be trained.
 On June 19, Liu Xian, the son of King Liu Cuo of Jinan, was granted the title of King of Jinan.
 On the 21st day of the seventh month in autumn, Ren Weiwei was appointed as a general of chariots and cavalry.
@@ -191,14 +167,14 @@ Xianbei invaded the border areas.
 On the 12th, the Liyang Battalion was sent to garrison the northern border of Zhongshan. He informed the governor of Youzhou and ordered the counties near the border to add more infantry and distribute them to garrison under the fortress.
 Select five captains of crossbow divisions from Changshui, Infantry, Shesheng, Tunqi, and Chaqi. Each county recommends five people to teach them combat shooting techniques.
 On the 24th, Tingwei Zhang Hao was appointed Sikong.
+On the 26th, the edict issued an edict that due to the severe epidemic, the common people would lose half of their field rent this year; those who suffered more than four-tenths of the damage would not be charged rent; those who were not satisfied with this amount would be exempted based on the actual amount.
+On the fourth day of the twelfth lunar month, various pieces of cloth will be given to the king, lord, nobles, and ministers.
 
 summary:
 summary line 4: The Zhongqiang in Longxi rebelled but were defeated by Ma Xian. Governors were ordered to verify officials and organize border fortifications. Liu Xian was made King of Jinan. Ren Weiwei was appointed general of chariots and cavalry. Xianbei bandits raided Daijun, killing Li Chao. The emperor began to order Sangong and Shangshu to report state affairs. Prisoners with capital crimes were moved to border areas. Sikong Taodun was dismissed. Xianbei invaded border areas. The Liyang Battalion was sent to garrison the northern border of Zhongshan. Five captains of crossbow divisions were selected. Tingwei Zhang Hao was appointed Sikong. Due to severe epidemic, common people lost half of their field rent.
 
-Chunk 4: 
+Chunk 5: 
 original: 
-甲辰，诏以疫疠水潦，令人半输今年田租；伤害什四以上，勿收责；不满者，以实除之。
-十二月辛巳，赐王、主、贵人、公卿以下布各有差。
 二年春正月戊申，乐安王鸿来朝。
 丁卯，常山王章薨。
 二月，鲜卑寇辽东、玄菟。
@@ -223,8 +199,6 @@ original:
 冬十二月己亥，太傅桓焉免。
 是岁，车骑将军来历罢。
 translation: 
-On the 26th, the edict issued an edict that due to the severe epidemic, the common people would lose half of their field rent this year; those who suffered more than four-tenths of the damage would not be charged rent; those who were not satisfied with this amount would be exempted based on the actual amount.
-On the fourth day of the twelfth lunar month, various pieces of cloth will be given to the king, lord, nobles, and ministers.
 On the first day of the first lunar month of the second year of spring, King Liu Hong of Le'an went to the palace to pay homage.
 On the 20th of the first lunar month, Liu Zhang, the king of Changshan, passed away.
 In February, the Xianbei bandits raided Liaodong and Xuantu.
@@ -252,10 +226,8 @@ This year, the general of chariots and cavalry was also dismissed.
 summary:
 summary line 5: In the second year, King Liu Hong of Le'an paid homage. King Liu Zhang of Changshan passed away. Xianbei raided Liaodong and Xuantu. Grain relief was provided to poor people in four prefectures. Geng Ye led Nan Shanyu to attack Xianbei and defeated them. There was a drought. Shule State sent envoys. Imperial concubine Li was given the posthumous title of Queen Gongmin. Ban Yong and Zhang Lang attacked Yanqi, Yuli, and Weixu, defeating them. A solar eclipse occurred. Taiwei Zhu Chong and Situ Zhu Chong were dismissed. Liu Guang was appointed Taiwei; Xu Jing was appointed Situ. King Liu Cheng of Xiapi passed away.
 
-Chunk 4: 
+Chunk 5: 
 original: 
-甲辰，诏以疫疠水潦，令人半输今年田租；伤害什四以上，勿收责；不满者，以实除之。
-十二月辛巳，赐王、主、贵人、公卿以下布各有差。
 二年春正月戊申，乐安王鸿来朝。
 丁卯，常山王章薨。
 二月，鲜卑寇辽东、玄菟。
@@ -280,8 +252,6 @@ original:
 冬十二月己亥，太傅桓焉免。
 是岁，车骑将军来历罢。
 translation: 
-On the 26th, the edict issued an edict that due to the severe epidemic, the common people would lose half of their field rent this year; those who suffered more than four-tenths of the damage would not be charged rent; those who were not satisfied with this amount would be exempted based on the actual amount.
-On the fourth day of the twelfth lunar month, various pieces of cloth will be given to the king, lord, nobles, and ministers.
 On the first day of the first lunar month of the second year of spring, King Liu Hong of Le'an went to the palace to pay homage.
 On the 20th of the first lunar month, Liu Zhang, the king of Changshan, passed away.
 In February, the Xianbei bandits raided Liaodong and Xuantu.
@@ -309,19 +279,8 @@ This year, the general of chariots and cavalry was also dismissed.
 summary:
 summary line 6: In the third year, an earthquake struck the capital and Hanyang. The edict provided compensation for the injured. Land rent and population tax were not collected in Hanyang. Dr. Guanglu was sent to inspect and provide grain loans. There was a drought. King Liu Xian of Jinan passed away. A fire broke out in the Mausoleum Mausoleum. Xianbei raided Yuyang. Grand Tutor Huan Yan was dismissed. In the fourth year, an edict granted amnesty and restored official ranks. The emperor was crowned. Rewards were given. Officials were ordered to inspect civilians cutting rocks. The prefect of Guiyang presented a pearl, which was returned. Rain fell in five states. Envoys were sent to verify the deceased. Taiwei Liu Guang and Sikong Zhang Hao were dismissed. Stability was restored in Beidi and Shangjun. Pang Can was appointed Taiwei; Wang Gong was appointed Sikong. Situ Xu Jing was dismissed. Xianbei plundered Shuofang. Liu Qi was appointed Situ. Kuaiji was divided into Wu County. Kumi Kingdom sent envoys.
 
-Chunk 6: 
+Chunk 8: 
 original: 
-秋八月庚子，遣使实核死亡，收敛禀赐。
-丁巳，太尉刘光、司空张皓免。
-九月，复安定、北地、上郡归旧土。
-癸酉，大鸿胪庞参为太尉，录尚书事。
-太常王龚为司空。
-冬十一月庚辰，司徒许敬免。
-鲜卑寇朔方。
-十二月乙卯，宗正刘崎为司徒。
-是岁，分会稽为吴郡。
-拘弥国遣使贡献。
-五年春正月，疏勒王遣侍子，及大宛、莎车王皆奉使贡献。
 夏四月，京师旱。
 辛巳，诏郡国贫人被灾者，勿收责今年过更。
 京师及郡国十二蝗。
@@ -331,18 +290,13 @@ original:
 三月辛亥，复伊吾屯田，复置伊吾司马一人。
 秋九月辛巳，缮起太学。
 护乌桓校尉耿晔遣兵击鲜卑，破之。
+丁酉，于阗王遣侍子贡献。
+冬十一月辛亥，诏曰： 连年灾潦，冀部尤甚。
+比蠲除实伤，赡恤穷匮，而百姓犹有弃业，流亡不绝。
+疑郡县用心怠惰，恩泽不宣。
+《易》美 损上益下 ，《书》称 安民则惠 。
+其令冀部勿收今年田租、刍稿。
 translation: 
-On the eighth day of the eighth lunar month in autumn, envoys were sent to verify the deceased, bury them, and provide grain to their families.
-On the 25th, Taiwei Liu Guang and Sikong Zhang Hao were dismissed from their posts.
-In September, stability was restored, and Beidi and Shangjun returned to their old lands.
-On the twelfth day, Dahonglu Pang Can was appointed Taiwei and took charge of the affairs of the minister.
-King Gong of Taichang was Sikong.
-On November 20th in winter, Situ Xu Jing was dismissed from office.
-The Xianbei bandits plundered Shuofang.
-On December 25, Zongzheng and Liu Qi were appointed as Situ.
-In this year, Kuaiji was divided into Wu County.
-The Kumi Kingdom sent envoys to the court to offer gifts.
-In the spring of the fifth year and the first month of the first month, King Shule sent his son to serve in the court, and the kings of Dayuan and Shache both sent envoys to offer gifts to the court.
 In April of summer, there was a drought in the capital.
 On the 24th, the poor people in the counties and counties who suffered disasters were ordered not to receive money or goods from the three days of guarding the border this year.
 Twelve locust plagues hit the capital and prefectures.
@@ -352,13 +306,18 @@ On the 17th day of the second month in the sixth year of spring, Liu Kai, the ki
 On March 29, Yiwu's farming was restored, and Yiwu's Sima was restored.
 On the second day of the ninth lunar month in autumn, the Imperial Academy was repaired.
 Geng Ye, the captain of Huhuan Huan, sent troops to attack Xianbei and defeated them.
+On the 18th, the King of Khotan sent his son to the court to serve him and give him gifts.
+On the eleventh day of the twelfth lunar month in winter, the edict said: "There have been years of disasters, especially in the Hebei region."
+The land rent of the affected areas was immediately exempted, and relief was given to the poor owners. But the people still abandoned their production and wandered endlessly to escape famine.
+I suspect that the prefectures and counties have lazy intentions and do not care about the masses, and the benevolence of the imperial court has not been publicized.
+"The Book of Changes" says: If the excess wealth above is given to those below who have insufficient wealth, then people will be happy beyond measure. "The Book of Books" says: If you stabilize people's lives and benefit them, the people of Li will always miss you.
+Now we order the land in Hebei not to charge this year’s field rent or draft.
 
 summary:
 summary line 7: In the fifth year, Shule, Dayuan, and Shache sent envoys. There was a drought in the capital. Poor people were exempted from border guard duties. Locust plagues struck. Prisoners were sent to guard borders. Hou Banshi was executed for killing his wife. In the sixth year, King Liu Kai of Hejian passed away. Yiwu's farming was restored. The Imperial Academy was repaired. Geng Ye attacked Xianbei and defeated them. The King of Khotan sent his son. An edict exempted land rent in Hebei due to disasters. Rinan Waiye Tiaoguo and Shan State sent envoys. A guest star appeared near Altair. The King of Khotan sent his son again.
 
-Chunk 9: 
+Chunk 11: 
 original: 
-丙辰，以太学新成，试明经下第者补弟子，增甲、乙科员各十人。
 除郡国耆儒九十人补郎、舍人。
 九月，诏郡国中都官系囚皆减死一等，亡命者赎，各有差。
 鲜卑寇辽东。
@@ -374,8 +333,8 @@ original:
 二年春二月甲申，诏以吴郡、会稽饥荒，贷人种粮。
 三月，使匈奴中郎将王稠率左骨都侯等击鲜卑，破之。
 辛酉，除京师耆儒年六十以上四十八人补郎、舍人及诸王国郎。
+夏四月，复置陇西南部都尉官。
 translation: 
-In Bingchen, due to the new success of Taixue, the number of disciples in the Ming Jing examination was increased by ten, and the number of students in subjects A and B was increased by ten.
 Ninety senior scholars in the county were appointed as Lang and Sheren.
 In September, the imperial edict was issued to all the officials in the prefecture and state to reduce the penalty of death to one level for prisoners, and to make atonement for escapes.
 The Xianbei bandits raided Liaodong.
@@ -391,13 +350,13 @@ This year, Xiyuan was built and the palace was renovated.
 On February 13, in the spring of the second year, the imperial edict was issued to lend seed rations to the people due to famine in Wu County and Kuaiji.
 In March, the Xiongnu Zhonglang general Wang Chou led Zuo Guduhou and others to attack Xianbei and defeated them.
 On the 21st, forty-eight old and learned Confucian scholars over sixty years old in the capital were appointed as Bu Lang, Shi Ren and other Wang Guo Lang.
+In April of summer, the captaincy of southwestern Longnan was restored.
 
 summary:
 summary line 8: In the first year of Yangjia, Queen Liang was established. Rewards were given. Pirate Zeng Jing plundered Kuaiji. The queen paid homage to temples. There was a drought. Prayers were held for rain. Grain was loaned to Hebei. An edict prayed to mountains and rivers. Demon thief Zhang He plundered forty-nine counties. The emperor held a great shooting ceremony and granted amnesty. Liu Hui of Fuling passed away. Taishi Ling Zhang Heng made bronze instruments. Taixue disciples were increased. Ninety senior scholars were appointed. Xianbei raided Liaodong. Wolves devoured women in Wangdu and Puyin. The county was ordered to recommend filial and honest officials over forty. King Liu Chang of Dongping passed away. Xuantu County's tuntian divisions were restored. Lang officials over forty could participate in elections. A guest star appeared in Tianyuan. The governor and Erqianshi were selected by Taiwei, Sikong, and Situ. A fire broke out at Gongling Mausoleum. Xiyuan was built.
 
-Chunk 10: 
+Chunk 12: 
 original: 
-夏四月，复置陇西南部都尉官。
 己亥，京师地震。
 五月庚子，诏曰： 朕以不德，统奉鸿业，无以奉顺乾坤，协序阴阳，灾眚屡见，咎征仍臻。
 地动之异，发自京师，矜矜祗畏，不知所裁。
@@ -412,9 +371,7 @@ original:
 鲜卑寇代郡。
 冬十月庚午，行礼辟雍，奏应钟，始复黄钟，作乐器随月律。
 三年春二月己丑，诏以久旱，京师诸狱无轻重皆且勿考竟，须得澍雨。
-三月庚戌，益州盗贼劫质令长，杀列侯。
 translation: 
-In April of summer, the captaincy of southwestern Longnan was restored.
 On the 29th, there was an earthquake in the capital.
 On the first day of the fifth lunar month, the edict said: I inherit the emperor's legacy with a weak virtue, but I am not enough to conform to the universe and coordinate yin and yang. As a result, natural disasters occur frequently, and blame and punishment follow one after another.
 Unusual events like the earthquake, starting from the capital, made me tremble and fear, and I didn’t know what to do.
@@ -429,13 +386,13 @@ On the first day of August, Shi Yan, Taihong of Peiguo, was appointed as Taiwei.
 Xianbei invaded Daijun.
 On the third day of the tenth lunar month in winter, a sacrificial ceremony was held in Piyong, the bell was played, and the yellow bell began to be restored. From then on, it was used as a musical instrument and the old canon was restored according to the provisions of the "Moon Order".
 On February 24, in the spring of the third year, the imperial court believed that due to the long drought, the prisoners in various prisons in the capital, regardless of the severity of their crimes, would not be questioned and investigated for the time being. They would be dealt with after heavy rains.
-On March 15, Yizhou thieves took the commander hostage and killed the princes.
 
 summary:
 summary line 9: In the second year, seed rations were lent to Wu County and Kuaiji. Wang Chou attacked Xianbei and defeated them. Forty-eight old Confucian scholars were appointed. The southwestern Longnan captaincy was restored. An earthquake struck the capital. An edict acknowledged natural disasters and sought advice. Sikong Wang Gong was dismissed. Kong Fu was appointed Sikong. Shule presented lions and oxen. Luoyang collapsed. There was a drought. Taiwei Pang Shen was dismissed. Shi Yan was appointed Taiwei. Xianbei invaded Daijun. A sacrificial ceremony was held in Piyong.
 
-Chunk 11: 
+Chunk 13: 
 original: 
+三月庚戌，益州盗贼劫质令长，杀列侯。
 夏四月丙寅，车师后部司马率后部王加特奴等掩击匈奴，大破之，获其季母。
 五月戊戌，制诏曰： 昔我太宗，丕显之德，假于上下，俭以恤民，政致康乂。
 朕秉事不明，政失厥道，天地谴怒，大变仍见。
@@ -449,9 +406,8 @@ original:
 乙巳，大司农南郡黄尚为司徒，光禄勋河东王卓为司空。
 丙午，武都塞上屯羌及外羌攻破屯官，驱略人畜。
 四年春二月丙子，初听中官得以养子为后，世袭封爵。
-自去冬旱，至于是月。
-谒者马贤击钟羌，大破之。
 translation: 
+On March 15, Yizhou thieves took the commander hostage and killed the princes.
 On the second day of April in the summer, Sima from the rear of the chariot division led the rear Wang Jiatnu and others to attack the Xiongnu. The Xiongnu were defeated and captured the aunt of the Xiongnu Chanyu.
 On the fourth day of the fifth lunar month, the emperor issued an edict: In the past, I, Emperor Taizong, had great merits and virtues, was beautiful to everyone above and below, was thrifty and compassionate to the people, and thus the political situation was stable.
 As for me, I am not smart in handling things, and I am biased in national affairs. Heaven and earth are angry and condemn me, and huge changes occur again and again.
@@ -465,14 +421,14 @@ On November 11, Situ Liuqi and Sikong Kongfu were dismissed from office.
 On the 14th, Huang Shang of Dasinongnan County was appointed as Situ, and Guangluxun Hedong Wang Zhuo was appointed as Sikong.
 On the 15th, Wudu blocked the Tun Qiang and Wai Qiang, attacked the Tun officials, drove away and robbed our people and livestock.
 On February 16, the fourth year in the spring, eunuchs were allowed to adopt sons as descendants and be granted hereditary titles.
-From the drought last winter until February this year.
-The visitor Ma Xian attacked Zhong Qiang and defeated them severely.
 
 summary:
 summary line 10: In the third year, due to drought, prisoners were not questioned. Yizhou thieves killed princes. Sima attacked the Xiongnu and captured the Chanyu's aunt. An edict granted amnesty and rewards. Zhongqiang bandits raided Longxi and Hanyang. Feng Xu defeated them. Situ Liuqi and Sikong Kongfu were dismissed. Huang Shang was appointed Situ; Wang Zhuo was appointed Sikong. Wudu blocked the Tun Qiang and attacked.
 
-Chunk 12: 
+Chunk 14: 
 original: 
+自去冬旱，至于是月。
+谒者马贤击钟羌，大破之。
 夏四月甲子，太尉施延免。
 戊寅，执金吾梁商为大将军，前太尉庞参为太尉。
 六月己未，梁王匡薨。
@@ -487,15 +443,9 @@ original:
 秋七月，偃师蝗。
 冬十月丁亥，承福殿火，帝避御云台。
 十一月丙子，太尉庞参罢。
-十二月，象林蛮夷叛。
-乙巳，以前司空王龚为太尉。
-二年春正月，武陵蛮叛，围充县，又寇夷道。
-二月，广汉属国都尉击破白马羌。
-武陵太守李进击叛蛮，破之。
-三月辛亥，北海王翼薨。
-乙卯，司空王卓薨。
-丁丑，光禄勋冯翊郭虔为司空。
 translation: 
+From the drought last winter until February this year.
+The visitor Ma Xian attacked Zhong Qiang and defeated them severely.
 On the fifth day of the fourth lunar month in the summer, Taiwei Shi Yan was dismissed from his post.
 On the 14th, Liang Shang was appointed general, and Pang Shen, the former Taiwei, was appointed Taiwei.
 On the first day of June, Liang Wang Liu Kuang passed away.
@@ -510,34 +460,12 @@ I hope that all officials and officials can put forward their opinions in secret
 In the seventh month of autumn, there was a locust plague in Yanshi.
 On the seventh day of the tenth lunar month in winter, there was a fire in the Chengfu Palace, and the emperor took refuge in Yuntai.
 On November 27, Taiwei Pang Shen was dismissed from his post.
-In December, the Xianglin barbarians rebelled.
-On the 26th, the former Sikong King Gong was appointed Taiwei.
-In the spring and first month of the second year, the Wuling barbarians rebelled, surrounded the county, and harassed the barbarians.
-In February, the captain of the vassal state of Guanghan defeated the Baima Qiang.
-Li Jin, the governor of Wuling, attacked the rebels and defeated them.
-On the fourth day of March, Liu Yi, King of Beihai, passed away.
-On the eighth day of the lunar month, Sikong Wangzhuo passed away.
-On the 30th, Guang Luxun, Feng Yi and Guo Qian were appointed Sikong.
 
 summary:
 summary line 11: In the fourth year, eunuchs were allowed to adopt sons. There was a drought. Ma Xian attacked Zhong Qiang. Taiwei Shi Yan was dismissed. Liang Shang was appointed general; Pang Shen was appointed Taiwei. King Liu Kuang of Liang passed away. King Liu Deng of Jibei passed away. A solar eclipse occurred. Wuhuan raided the clouds. Geng Ye was surrounded in Lanchi but rescued. An earthquake struck the capital.
 
-Chunk 12: 
+Chunk 15: 
 original: 
-夏四月甲子，太尉施延免。
-戊寅，执金吾梁商为大将军，前太尉庞参为太尉。
-六月己未，梁王匡薨。
-秋七月己亥，济北王登薨。
-闰月丁亥朔，日有食之。冬十月，乌桓寇云中。
-十一月，围度辽将军耿晔于兰池，发诸郡兵救之，乌桓退走。
-十二月甲寅，京师地震。
-永和元年春正月，夫馀王来朝。
-乙卯，诏曰： 朕秉政不明，灾眚屡臻。典籍所忌，震食为重。
-今日变方远，地摇京师，咎征不虚，必有所应。
-群公百僚其各上封事，指陈得失，靡有所讳。 己巳，宗祀明堂，登灵台，改元永和，大赦天下。
-秋七月，偃师蝗。
-冬十月丁亥，承福殿火，帝避御云台。
-十一月丙子，太尉庞参罢。
 十二月，象林蛮夷叛。
 乙巳，以前司空王龚为太尉。
 二年春正月，武陵蛮叛，围充县，又寇夷道。
@@ -546,21 +474,17 @@ original:
 三月辛亥，北海王翼薨。
 乙卯，司空王卓薨。
 丁丑，光禄勋冯翊郭虔为司空。
+夏四月丙申，京师地震。
+五月，日南叛蛮攻郡府。
+秋七月，九真、交阯二郡兵反。
+八月庚子，荧惑犯南斗。
+江夏盗贼杀邾长。
+冬十月甲申，行幸长安，所过鳏、寡、孤、独、贫不能自存者赐粟，人五斛。
+庚子，幸未央宫，会三辅郡守、都尉及官属，劳赐作乐。
+十一月丙午，祠高庙。
+丁未，遂有事十一陵。丁卯，京师地震。
+十二月乙亥，至自长安。
 translation: 
-On the fifth day of the fourth lunar month in the summer, Taiwei Shi Yan was dismissed from his post.
-On the 14th, Liang Shang was appointed general, and Pang Shen, the former Taiwei, was appointed Taiwei.
-On the first day of June, Liang Wang Liu Kuang passed away.
-On the twelfth day of the seventh month in autumn, Liu Deng, the king of Jibei, passed away.
-On the first day of the eighth leap month, there is a solar eclipse. In the tenth month of winter, the Wuhuan bandits raided the clouds.
-In November, he surrounded General Geng Ye of Liao in Lanchi and mobilized troops from various counties to rescue him, but Wuhuan retreated.
-On December 30, there was an earthquake in the capital.
-In the first month of spring in the first year of Yonghe, King Fuyu came to pay homage.
-On the first day of the Lunar New Year, the edict said: My politics are unclear and disasters occur frequently. The most taboo in the classics are earthquakes and solar eclipses.
-Although the solar eclipse is far away, there is an earthquake in the capital. This kind of evil omen is not illusory, it must be a reflection of real things.
-I hope that all officials and officials can put forward their opinions in secret and point out the pros and cons without any scruples about concealing anything. On the 15th, sacrifices were held in Mingtang, ascended to the spiritual platform, changed to Yuan Yonghe, and granted amnesty to the world.
-In the seventh month of autumn, there was a locust plague in Yanshi.
-On the seventh day of the tenth lunar month in winter, there was a fire in the Chengfu Palace, and the emperor took refuge in Yuntai.
-On November 27, Taiwei Pang Shen was dismissed from his post.
 In December, the Xianglin barbarians rebelled.
 On the 26th, the former Sikong King Gong was appointed Taiwei.
 In the spring and first month of the second year, the Wuling barbarians rebelled, surrounded the county, and harassed the barbarians.
@@ -569,12 +493,30 @@ Li Jin, the governor of Wuling, attacked the rebels and defeated them.
 On the fourth day of March, Liu Yi, King of Beihai, passed away.
 On the eighth day of the lunar month, Sikong Wangzhuo passed away.
 On the 30th, Guang Luxun, Feng Yi and Guo Qian were appointed Sikong.
+On April 19th in the summer, there was an earthquake in the capital.
+In May, Rinan rebelled against the barbarians and attacked the county government.
+In the seventh month of autumn, soldiers from Jiuzhen and Jiaozhi counties rebelled.
+On August 25th, Mars will oppose the Southern Dipper.
+Jiangxia thieves killed the magistrate of Zhu County.
+On the tenth day of the tenth month in winter, the emperor arrived in Chang'an. Wherever he passed, everyone who was widowed, widowed, lonely, alone, or poor and unable to survive was given five husks of millet.
+On the 26th, the emperor went to Weiyang Palace to meet with the three auxiliary prefects, captains and officials to express their condolences, rewards and have fun.
+On the second day of November, sacrifices are held in Gaomiao.
+On the third day of the lunar month, worship at the Eleven Tombs. On the 23rd, there was an earthquake in the capital.
+On the second day of December, the emperor returned to Luoyang from Chang'an.
 
 summary:
 summary line 12: In the first year of Yonghe, King Fuyu paid homage. An edict acknowledged disasters and sought advice. Sacrifices were held in Mingtang. A locust plague struck Yanshi. A fire broke out in Chengfu Palace. Taiwei Pang Shen was dismissed. Xianglin barbarians rebelled. Wang Gong was appointed Taiwei. Wuling barbarians rebelled. The captain of Guanghan defeated the Baima Qiang. Li Jin defeated the rebels. King Liu Yi of Beihai passed away. Sikong Wangzhuo passed away. Guo Qian was appointed Sikong. An earthquake struck the capital. Rinan barbarians rebelled. Soldiers from Jiuzhen and Jiaozhi rebelled. Mars opposed the Southern Dipper. Jiangxia thieves killed the magistrate. The emperor visited Chang'an and provided relief. He visited Weiyang Palace. Sacrifices were held at Gaomiao and the Eleven Tombs. An earthquake struck the capital. The emperor returned to Luoyang.
 
-Chunk 14: 
+Chunk 16: 
 original: 
+三年春二月乙亥，京师及金城、陇西地震，二郡山岸崩，地陷。
+戊子，太白犯荧惑。
+夏四月，九江贼蔡伯流寇郡界，及广陵，杀江都长。
+戊戌，遣光禄大夫案行金城、陇西，赐压死者年七岁以上钱，人二千；一家皆被害，为收敛之。
+除今年田租，尤甚者勿收口赋。
+闰月，蔡伯流等率众诣徐州刺史应志降。
+己酉，京师地震。
+五月，吴郡丞羊珍反，攻郡府，太守王衡破斩之。
 六月辛丑，琅邪王遵薨。
 九真太守祝良、交阯刺史张乔慰诱日南叛蛮，降之，岭外平。
 秋七月丙戌，济北王多薨。
@@ -582,15 +524,15 @@ original:
 九月己酉，光禄勋长沙刘寿为司徒。
 丙戌，令大将军、三公各举故刺史、二千石及见令、长、郎、谒者、四府掾属刚毅武猛有谋谟任将帅者各二人，特进、卿、校尉各一人。
 冬十月，烧当羌寇金城，护羌校尉马贤击破之，羌遂相招而叛。
-十二月戊戌朔，日有食之。
-四年春正月庚辰，中常侍张逵、蘧政、杨定等有罪诛，连及弘农太守张凤、安平相杨晧，下狱死。
-三月乙亥，京师地震。
-夏四月癸卯，护羌校尉马贤讨烧当羌，大破之。
-戊午，大赦天下。
-赐民爵及粟、帛各有差。
-五月戊辰，封故济北惠王寿子子安为济北王。
-秋八月，太原郡旱，民庶流冗。
 translation: 
+On the third day of the second month in the spring of the third year, there was an earthquake in the capital, Jincheng, and Longxi. The mountain banks of the two counties collapsed and the ground collapsed.
+On the 16th, Taibai will oppose Mars.
+In April of summer, the Jiujiang bandit Cai Bo and his bandits harassed the county boundaries and went to Guangling to kill the Jiangdu County Magistrate.
+On the 27th, Dr. Guanglu was sent to inspect Jincheng and Longxi, and each person over seven years old who was crushed to death by the earthquake was given 2,000 yuan. After the whole family was killed, the burial was carried out.
+This year’s field rent will be waived. If the disaster is more severe, no population tax will be collected.
+In leap April, Cai Boliu and others led his troops to surrender in front of Xuzhou Governor Yingzhi.
+On the eighth day of the lunar month, there was an earthquake in the capital.
+In May, Yangzhen, the chief minister of Wujun, rebelled and attacked the county government. Wang Heng, the prefect, defeated and killed him.
 On the first day of June, Liu Zun, the king of Langfu, passed away.
 Zhu Liang, the governor of Jiuzhen, and Zhang Qiao, the governor of Jiaozhi, expressed their condolences and induced Rinan to rebel against the barbarians, causing them to surrender and calm outside the mountains.
 On the seventeenth day of the seventh month in autumn, Liu Duo, king of Jibei, passed away.
@@ -598,27 +540,12 @@ On August 20, Situ Huangshang was dismissed.
 In September Jiyou, Guang Luxun and Changsha Liu Shou were appointed as Situ.
 On the 17th, the general and the three princes were ordered to recommend two former governors, two thousand stones, and county magistrates, chiefs, ministers, yezhe, and subordinates of the four prefectures who were resolute, strong, capable, strategic, and able to serve as generals, and one person each for special Jin, Qing, and Xiaowei.
 In the tenth month of winter, the Qiang invaders burned Jincheng, and Ma Xian, the Qiang school captain who protected them, defeated them. The Qiang people then attracted rebellion among themselves.
-On the first day of December, there is a solar eclipse.
-On the 13th day of the first lunar month in the spring of the fourth year, Zhang Kui, Zang Zheng, and Yang Ding, the ministers in charge of the imperial court, were found guilty and executed. Together with Zhang Feng, the prefect of Hongnong, and Yang Hao, the prime minister of Anping, they were imprisoned.
-On the ninth day of March, there was an earthquake in the capital.
-On the eighth day of the fourth lunar month in the summer, Ma Xian, the captain of the Qiang Protector Corps, attacked the Shaodang Qiang and defeated them.
-On the 23rd, a general amnesty was granted to the whole world.
-The people were rewarded with titles, grain, and silk in varying degrees.
-On the third day of May, Liu An, the late King Hui of Jibei and Liu Shouzi, was granted the title of King of Jibei.
-In autumn and August, there was a drought in Taiyuan County, and the common people fled into exile.
 
 summary:
 summary line 13: In the third year, earthquakes struck the capital, Jincheng, and Longxi. Taibai opposed Mars. Cai Bo harassed county boundaries. Dr. Guanglu was sent to inspect Jincheng and Longxi. Cai Bo surrendered. An earthquake struck the capital. Yangzhen rebelled but was killed. King Liu Zun of Langfu passed away. Zhu Liang and Zhang Qiao calmed Rinan barbarians. King Liu Duo of Jibei passed away. Situ Huangshang was dismissed. Liu Shou was appointed Situ. The general and three princes were ordered to recommend capable individuals. Qiang invaders burned Jincheng but were defeated by Ma Xian. A solar eclipse occurred.
 
-Chunk 14: 
+Chunk 17: 
 original: 
-六月辛丑，琅邪王遵薨。
-九真太守祝良、交阯刺史张乔慰诱日南叛蛮，降之，岭外平。
-秋七月丙戌，济北王多薨。
-八月己未，司徒黄尚免。
-九月己酉，光禄勋长沙刘寿为司徒。
-丙戌，令大将军、三公各举故刺史、二千石及见令、长、郎、谒者、四府掾属刚毅武猛有谋谟任将帅者各二人，特进、卿、校尉各一人。
-冬十月，烧当羌寇金城，护羌校尉马贤击破之，羌遂相招而叛。
 十二月戊戌朔，日有食之。
 四年春正月庚辰，中常侍张逵、蘧政、杨定等有罪诛，连及弘农太守张凤、安平相杨晧，下狱死。
 三月乙亥，京师地震。
@@ -627,28 +554,6 @@ original:
 赐民爵及粟、帛各有差。
 五月戊辰，封故济北惠王寿子子安为济北王。
 秋八月，太原郡旱，民庶流冗。
-translation: 
-On the first day of June, Liu Zun, the king of Langfu, passed away.
-Zhu Liang, the governor of Jiuzhen, and Zhang Qiao, the governor of Jiaozhi, expressed their condolences and induced Rinan to rebel against the barbarians, causing them to surrender and calm outside the mountains.
-On the seventeenth day of the seventh month in autumn, Liu Duo, king of Jibei, passed away.
-On August 20, Situ Huangshang was dismissed.
-In September Jiyou, Guang Luxun and Changsha Liu Shou were appointed as Situ.
-On the 17th, the general and the three princes were ordered to recommend two former governors, two thousand stones, and county magistrates, chiefs, ministers, yezhe, and subordinates of the four prefectures who were resolute, strong, capable, strategic, and able to serve as generals, and one person each for special Jin, Qing, and Xiaowei.
-In the tenth month of winter, the Qiang invaders burned Jincheng, and Ma Xian, the Qiang school captain who protected them, defeated them. The Qiang people then attracted rebellion among themselves.
-On the first day of December, there is a solar eclipse.
-On the 13th day of the first lunar month in the spring of the fourth year, Zhang Kui, Zang Zheng, and Yang Ding, the ministers in charge of the imperial court, were found guilty and executed. Together with Zhang Feng, the prefect of Hongnong, and Yang Hao, the prime minister of Anping, they were imprisoned.
-On the ninth day of March, there was an earthquake in the capital.
-On the eighth day of the fourth lunar month in the summer, Ma Xian, the captain of the Qiang Protector Corps, attacked the Shaodang Qiang and defeated them.
-On the 23rd, a general amnesty was granted to the whole world.
-The people were rewarded with titles, grain, and silk in varying degrees.
-On the third day of May, Liu An, the late King Hui of Jibei and Liu Shouzi, was granted the title of King of Jibei.
-In autumn and August, there was a drought in Taiyuan County, and the common people fled into exile.
-
-summary:
-summary line 14: In the fourth year, Zhang Kui, Zang Zheng, and Yang Ding were executed. An earthquake struck the capital. Ma Xian attacked the Shaodang Qiang and defeated them. A general amnesty was granted. Liu An was made King of Jibei. There was a drought in Taiyuan. Dr. Guanglu was sent to inspect. The emperor hunted in Shanglin Garden and visited Guangcheng Garden.
-
-Chunk 15: 
-original: 
 癸丑，遣光禄大夫案行禀贷，除更赋。
 冬十月戊午，校猎上林苑，历函谷关而还。
 十一月丙寅，幸广成苑。
@@ -656,6 +561,28 @@ original:
 夏四月庚子，中山王弘薨。
 南匈奴左部句龙大人吾斯、车纽等叛，围美稷。
 五月，度辽将军马续讨吾斯、车纽，破之，使匈奴中郎将陈龟迫杀南单于。
+translation: 
+On the first day of December, there is a solar eclipse.
+On the 13th day of the first lunar month in the spring of the fourth year, Zhang Kui, Zang Zheng, and Yang Ding, the ministers in charge of the imperial court, were found guilty and executed. Together with Zhang Feng, the prefect of Hongnong, and Yang Hao, the prime minister of Anping, they were imprisoned.
+On the ninth day of March, there was an earthquake in the capital.
+On the eighth day of the fourth lunar month in the summer, Ma Xian, the captain of the Qiang Protector Corps, attacked the Shaodang Qiang and defeated them.
+On the 23rd, a general amnesty was granted to the whole world.
+The people were rewarded with titles, grain, and silk in varying degrees.
+On the third day of May, Liu An, the late King Hui of Jibei and Liu Shouzi, was granted the title of King of Jibei.
+In autumn and August, there was a drought in Taiyuan County, and the common people fled into exile.
+On the 20th, Dr. Guanglu was sent to inspect and inspect, and he used the grain from Lingu to lend relief and exempted the taxes for border guards.
+On October 26th in winter, we hunted in Shanglin Garden and returned to the palace via Hangu Pass.
+On the fourth day of November, the emperor arrived at Guangcheng Garden.
+On February 17, in the spring of the fifth year, there was an earthquake in the capital.
+On the tenth day of the fourth lunar month in the summer, Liu Hong, the king of Zhongshan, passed away.
+Wusi, Cheniu and others from the left wing of the Southern Huns rebelled and besieged Meiji County.
+In the fifth month, General Du Liao, Ma Xu, attacked Wusi and Cheniu, defeated them, and sent an envoy, the Xiongnu Zhonglang, to force Chen Guijin to kill Nan Shanyu.
+
+summary:
+summary line 14: In the fourth year, Zhang Kui, Zang Zheng, and Yang Ding were executed. An earthquake struck the capital. Ma Xian attacked the Shaodang Qiang and defeated them. A general amnesty was granted. Liu An was made King of Jibei. There was a drought in Taiyuan. Dr. Guanglu was sent to inspect. The emperor hunted in Shanglin Garden and visited Guangcheng Garden.
+
+Chunk 18: 
+original: 
 己丑晦，日有食之。目冻羌寇三辅，杀令长。
 丁丑，令死罪以下及亡命赎，各有差。
 九月，令扶风、汉阳筑陇道坞三百所，置屯兵。
@@ -665,29 +592,6 @@ original:
 丁亥，徙西河郡居离石，上郡居夏阳，朔方居五原。
 句龙吾斯等东引乌桓，西收羌胡，寇上郡，立车纽为单于。
 冬十一月辛巳，遣使匈奴中郎将张耽击破之，车纽降。
-translation: 
-On the 20th, Dr. Guanglu was sent to inspect and inspect, and he used the grain from Lingu to lend relief and exempted the taxes for border guards.
-On October 26th in winter, we hunted in Shanglin Garden and returned to the palace via Hangu Pass.
-On the fourth day of November, the emperor arrived at Guangcheng Garden.
-On February 17, in the spring of the fifth year, there was an earthquake in the capital.
-On the tenth day of the fourth lunar month in the summer, Liu Hong, the king of Zhongshan, passed away.
-Wusi, Cheniu and others from the left wing of the Southern Huns rebelled and besieged Meiji County.
-In the fifth month, General Du Liao, Ma Xu, attacked Wusi and Cheniu, defeated them, and sent an envoy, the Xiongnu Zhonglang, to force Chen Guijin to kill Nan Shanyu.
-On the 30th, there is a solar eclipse. And the frozen Qiang bandits robbed Sanfu and killed the county magistrate and the county magistrate.
-Ding Chou ordered prisoners under the death penalty and those who escaped to atone for their sins, respectively.
-In September, he ordered Fufeng and Hanyang to build 300 earthen barriers for Long Road defense and station troops to guard them.
-On the 14th, Taiwei Wang Gong was dismissed.
-Moreover, the frozen Qiang bandits looted Wudu and burned Longguan.
-On the 25th, Taichang Huanyan was appointed Taiwei.
-On the 30th, the capital of Xihe County was moved to Lishi, the capital of Shang County was moved to Xia Yang, and the capital of Shuofang County was moved to Wuyuan.
-The southern Xiongnu Julongwusi and others led Wuhuan to the east and Qianghu to the west. They raided Shangjun and established Cheniu as the chanyu.
-On the 25th day of the eleventh month in winter, Zhang Dan was sent to defeat them, and Cheniu surrendered.
-
-summary:
-summary line 15: In the fifth year, an earthquake struck the capital. King Liu Hong of Zhongshan passed away. Wusi and Cheniu rebelled but were defeated by Ma Xu. A solar eclipse occurred. Frozen Qiang bandits robbed Sanfu. Prisoners were allowed to atone. Fufeng and Hanyang built barriers. Taiwei Wang Gong was dismissed. Huanyan was appointed Taiwei. Xihe, Shang, and Shuofang counties moved their capitals. Julongwusi established Cheniu as chanyu. Zhang Dan defeated Cheniu.
-
-Chunk 16: 
-original: 
 六年春正月丙子，征西将军马贤与且冻羌战于射姑山，贤军败没，安定太守郭璜下狱死。
 诏贷王、侯国租一岁。
 闰月，恐唐羌寇陇西，遂及三辅。
@@ -699,13 +603,16 @@ original:
 夏五月庚子，齐王无忌薨。
 使匈奴中郎将张耽大破乌桓、羌胡于天山。
 恐唐羌寇北地。
-秋七月甲午，诏假民有赀者户钱一千。
-八月丙辰，大将军梁商薨；壬戌，河南尹梁冀为大将军。
-九月，诸种羌寇武威。
-辛亥晦，日有食之。冬十月癸丑，徙安定居扶风，北地居冯翔。
-十一月庚子，以执金吾张乔行车骑将军事，将兵屯三辅。
-汉安元年春正月癸巳，宗祀明堂，大赦天下，改元汉安。
 translation: 
+On the 30th, there is a solar eclipse. And the frozen Qiang bandits robbed Sanfu and killed the county magistrate and the county magistrate.
+Ding Chou ordered prisoners under the death penalty and those who escaped to atone for their sins, respectively.
+In September, he ordered Fufeng and Hanyang to build 300 earthen barriers for Long Road defense and station troops to guard them.
+On the 14th, Taiwei Wang Gong was dismissed.
+Moreover, the frozen Qiang bandits looted Wudu and burned Longguan.
+On the 25th, Taichang Huanyan was appointed Taiwei.
+On the 30th, the capital of Xihe County was moved to Lishi, the capital of Shang County was moved to Xia Yang, and the capital of Shuofang County was moved to Wuyuan.
+The southern Xiongnu Julongwusi and others led Wuhuan to the east and Qianghu to the west. They raided Shangjun and established Cheniu as the chanyu.
+On the 25th day of the eleventh month in winter, Zhang Dan was sent to defeat them, and Cheniu surrendered.
 On the twenty-first day of the first month of the sixth year of spring, Ma Xian, the general who conquered the west, fought with the Qie Dong Qiang in Shegu Mountain. Ma Xian's army was defeated, and Guo Huang, the prefect of Anding, was imprisoned and died.
 The imperial edict exempted the king and marquis from renting their land for one year.
 In the first month of the leap year, the Gongtang Qiang bandits raided Longxi and affected the Sanfu area.
@@ -717,36 +624,86 @@ On the 22nd, he appointed the imperial servant Zhao Jie as Sikong.
 On the 17th day of the fifth lunar month, King Liu Wuji of Qi passed away.
 He sent the Xiongnu Zhonglang General Zhang Dan to defeat Wuhuan and Qianghu in the Tianshan Mountains.
 Gongtang Qiang bandits raided the north.
+
+summary:
+summary line 15: In the fifth year, an earthquake struck the capital. King Liu Hong of Zhongshan passed away. Wusi and Cheniu rebelled but were defeated by Ma Xu. A solar eclipse occurred. Frozen Qiang bandits robbed Sanfu. Prisoners were allowed to atone. Fufeng and Hanyang built barriers. Taiwei Wang Gong was dismissed. Huanyan was appointed Taiwei. Xihe, Shang, and Shuofang counties moved their capitals. Julongwusi established Cheniu as chanyu. Zhang Dan defeated Cheniu.
+
+Chunk 18: 
+original: 
+己丑晦，日有食之。目冻羌寇三辅，杀令长。
+丁丑，令死罪以下及亡命赎，各有差。
+九月，令扶风、汉阳筑陇道坞三百所，置屯兵。
+辛未，太尉王龚罢。
+且冻羌寇武都，烧陇关。
+壬午，太常桓焉为太尉。
+丁亥，徙西河郡居离石，上郡居夏阳，朔方居五原。
+句龙吾斯等东引乌桓，西收羌胡，寇上郡，立车纽为单于。
+冬十一月辛巳，遣使匈奴中郎将张耽击破之，车纽降。
+六年春正月丙子，征西将军马贤与且冻羌战于射姑山，贤军败没，安定太守郭璜下狱死。
+诏贷王、侯国租一岁。
+闰月，恐唐羌寇陇西，遂及三辅。
+二月丁巳，有星孛于营室。
+三月，武威太守赵冲讨巩唐羌，破之。
+庚子，司空郭虔免。
+乙巳，河间王政薨。
+丙午，太仆赵戒为司空。
+夏五月庚子，齐王无忌薨。
+使匈奴中郎将张耽大破乌桓、羌胡于天山。
+恐唐羌寇北地。
+translation: 
+On the 30th, there is a solar eclipse. And the frozen Qiang bandits robbed Sanfu and killed the county magistrate and the county magistrate.
+Ding Chou ordered prisoners under the death penalty and those who escaped to atone for their sins, respectively.
+In September, he ordered Fufeng and Hanyang to build 300 earthen barriers for Long Road defense and station troops to guard them.
+On the 14th, Taiwei Wang Gong was dismissed.
+Moreover, the frozen Qiang bandits looted Wudu and burned Longguan.
+On the 25th, Taichang Huanyan was appointed Taiwei.
+On the 30th, the capital of Xihe County was moved to Lishi, the capital of Shang County was moved to Xia Yang, and the capital of Shuofang County was moved to Wuyuan.
+The southern Xiongnu Julongwusi and others led Wuhuan to the east and Qianghu to the west. They raided Shangjun and established Cheniu as the chanyu.
+On the 25th day of the eleventh month in winter, Zhang Dan was sent to defeat them, and Cheniu surrendered.
+On the twenty-first day of the first month of the sixth year of spring, Ma Xian, the general who conquered the west, fought with the Qie Dong Qiang in Shegu Mountain. Ma Xian's army was defeated, and Guo Huang, the prefect of Anding, was imprisoned and died.
+The imperial edict exempted the king and marquis from renting their land for one year.
+In the first month of the leap year, the Gongtang Qiang bandits raided Longxi and affected the Sanfu area.
+On the third day of February, the comet was seen in the camp star, one of the twenty-eight constellations.
+In March, Zhao Chong, the governor of Wuwei, attacked Gongtang Qiang and defeated them.
+On the 16th, Sikong Guo Qian was dismissed.
+On the 21st, Liu Zheng, the king of Hejian, passed away.
+On the 22nd, he appointed the imperial servant Zhao Jie as Sikong.
+On the 17th day of the fifth lunar month, King Liu Wuji of Qi passed away.
+He sent the Xiongnu Zhonglang General Zhang Dan to defeat Wuhuan and Qianghu in the Tianshan Mountains.
+Gongtang Qiang bandits raided the north.
+
+summary:
+summary line 16: In the sixth year, Ma Xian was defeated by Qie Dong Qiang. The king and marquis were exempted from rent. Gongtang Qiang raided Longxi. A comet was seen. Zhao Chong defeated Gongtang Qiang. Sikong Guo Qian was dismissed. King Liu Zheng of Hejian passed away. Zhao Jie was appointed Sikong. King Liu Wuji of Qi passed away. Zhang Dan defeated Wuhuan and Qianghu. Gongtang Qiang raided the north. Common people borrowed money from wealthy households. Liang Shang passed away; Liang Ji became general. Various Qiang raided Wuwei. A solar eclipse occurred. Anding and Beidi moved their capitals. Zhang Qiao acted as general of chariots and cavalry.
+
+Chunk 19: 
+original: 
+秋七月甲午，诏假民有赀者户钱一千。
+八月丙辰，大将军梁商薨；壬戌，河南尹梁冀为大将军。
+九月，诸种羌寇武威。
+辛亥晦，日有食之。冬十月癸丑，徙安定居扶风，北地居冯翔。
+十一月庚子，以执金吾张乔行车骑将军事，将兵屯三辅。
+汉安元年春正月癸巳，宗祀明堂，大赦天下，改元汉安。
+二月丙辰，诏大将军、公、卿举贤良方正、能探赜索隐者各一人。
+秋七月，始置承华厩。
+八月，南匈奴左部大人句龙吾斯与薁鞬台耆等反叛。
+丁卯，遣侍中杜乔，光禄大夫周举，守光禄大夫郭遵、冯羡、栾巴、张纲、周栩、刘班等八人分行州、郡，班宣风化，举实臧否。
+九月庚寅，广陵盗贼张婴等寇郡县。
+冬十月辛未，太尉桓焉、司徒刘寿免。
+甲戌，行车骑将军张乔罢。
+十一月壬午，司隶校尉赵峻为太尉，大司农胡广为司徒。
+癸卯，诏大将军、三公选武猛试用有效验任为将校者各一人。
+是岁，广陵贼张婴等诣太守张纲降。
+二年春二月丙辰，鄯善国遣使贡献。
+夏四月庚戌，护羌校尉赵冲与汉阳太守张贡击烧何羌于参，破之。
+六月乙丑，荧惑犯镇星。
+丙寅，立南匈奴守义王兜楼储为南单于。
+translation: 
 On the 12th day of the seventh lunar month in autumn, the common people were ordered to borrow a thousand dollars from each wealthy household.
 On the fourth day of August, General Liang Shang passed away; on the tenth day of August, Yin Liangji of Henan Province became the general.
 In September, various Qiang bandits raided Wuwei.
 On the 30th, there is a solar eclipse. On the second day of October in winter, the capital of Anding was moved to Fufeng, and the capital of Beidi was moved to Feng Yi.
 On November 20th, Jinwu Zhang Qiao acted as the general of chariots and cavalry, and commanded the troops to garrison the third auxiliary.
 On the fourteenth day of the first spring of the first year of Han'an, a memorial ceremony was held in Mingtang, and a general amnesty was granted to the whole country, and the name was changed to Han'an.
-
-summary:
-summary line 16: In the sixth year, Ma Xian was defeated by Qie Dong Qiang. The king and marquis were exempted from rent. Gongtang Qiang raided Longxi. A comet was seen. Zhao Chong defeated Gongtang Qiang. Sikong Guo Qian was dismissed. King Liu Zheng of Hejian passed away. Zhao Jie was appointed Sikong. King Liu Wuji of Qi passed away. Zhang Dan defeated Wuhuan and Qianghu. Gongtang Qiang raided the north. Common people borrowed money from wealthy households. Liang Shang passed away; Liang Ji became general. Various Qiang raided Wuwei. A solar eclipse occurred. Anding and Beidi moved their capitals. Zhang Qiao acted as general of chariots and cavalry.
-
-Chunk 17: 
-original: 
-二月丙辰，诏大将军、公、卿举贤良方正、能探赜索隐者各一人。
-秋七月，始置承华厩。
-八月，南匈奴左部大人句龙吾斯与薁鞬台耆等反叛。
-丁卯，遣侍中杜乔，光禄大夫周举，守光禄大夫郭遵、冯羡、栾巴、张纲、周栩、刘班等八人分行州、郡，班宣风化，举实臧否。
-九月庚寅，广陵盗贼张婴等寇郡县。
-冬十月辛未，太尉桓焉、司徒刘寿免。
-甲戌，行车骑将军张乔罢。
-十一月壬午，司隶校尉赵峻为太尉，大司农胡广为司徒。
-癸卯，诏大将军、三公选武猛试用有效验任为将校者各一人。
-是岁，广陵贼张婴等诣太守张纲降。
-二年春二月丙辰，鄯善国遣使贡献。
-夏四月庚戌，护羌校尉赵冲与汉阳太守张贡击烧何羌于参，破之。
-六月乙丑，荧惑犯镇星。
-丙寅，立南匈奴守义王兜楼储为南单于。
-冬十月辛丑，令郡国中都官系囚殊死以下出缣赎，各有差；其不能入赎者，遣诣临羌县居作二岁。
-甲辰，减百官奉。
-丙午，禁沽酒，又贷王、侯国租一岁。
-translation: 
 On the seventh day of the second lunar month, the general, the duke, and the minister were ordered to recommend a person who is virtuous and upright, who can study the subtle mysteries in depth, and seek the hidden principles of things.
 In autumn and July, Chenghua stables were set up to store horses.
 In August, Julong Wusi, the leader of the left tribe of the Southern Xiongnu, and Zao Tatai Qi and others rebelled.
@@ -761,15 +718,18 @@ On the 13th day of the second month in the spring of the second year, Shan Zang 
 On the eighth day of the fourth lunar month in the summer, Zhao Chong, the captain of the Qiang Protector, and Zhang Gong, the prefect of Hanyang, attacked and burned He Qiang Yu Shen and defeated them.
 On June 24th, the planet Yinghuo will oppose Saturn.
 On the 25th, Douluo Chu, the Shouyi King of the Southern Xiongnu, was appointed as the Southern Danyu.
-On the second day of the tenth lunar month in winter, the officers of the county and state were ordered to make amends for those who had been imprisoned and beheaded. The number of tuns varied, and those who could not be put into the tuns were sent to Linqiang County to work as servants for two years.
-On the fifth day of the Lunar New Year, the salary of all officials will be reduced.
-On the seventh day of the lunar month, the sale and purchase of alcohol is prohibited, and the rent of land by kings and marquises is waived for one year.
 
 summary:
 summary line 17: In the first year of Han'an, a general amnesty was granted. The general and ministers were ordered to recommend virtuous individuals. Chenghua stables were set up. Julong Wusi rebelled. Du Qiao and others were sent to inspect prefectures. Zhang Ying invaded Guangling. Taiwei Huan Yan and Situ Liu Shou were dismissed. Zhang Qiao left. Zhao Jun was appointed Taiwei; Hu Guang was appointed Situ. Wu Meng was selected. Zhang Ying surrendered.
 
-Chunk 17: 
+Chunk 19: 
 original: 
+秋七月甲午，诏假民有赀者户钱一千。
+八月丙辰，大将军梁商薨；壬戌，河南尹梁冀为大将军。
+九月，诸种羌寇武威。
+辛亥晦，日有食之。冬十月癸丑，徙安定居扶风，北地居冯翔。
+十一月庚子，以执金吾张乔行车骑将军事，将兵屯三辅。
+汉安元年春正月癸巳，宗祀明堂，大赦天下，改元汉安。
 二月丙辰，诏大将军、公、卿举贤良方正、能探赜索隐者各一人。
 秋七月，始置承华厩。
 八月，南匈奴左部大人句龙吾斯与薁鞬台耆等反叛。
@@ -784,10 +744,13 @@ original:
 夏四月庚戌，护羌校尉赵冲与汉阳太守张贡击烧何羌于参，破之。
 六月乙丑，荧惑犯镇星。
 丙寅，立南匈奴守义王兜楼储为南单于。
-冬十月辛丑，令郡国中都官系囚殊死以下出缣赎，各有差；其不能入赎者，遣诣临羌县居作二岁。
-甲辰，减百官奉。
-丙午，禁沽酒，又贷王、侯国租一岁。
 translation: 
+On the 12th day of the seventh lunar month in autumn, the common people were ordered to borrow a thousand dollars from each wealthy household.
+On the fourth day of August, General Liang Shang passed away; on the tenth day of August, Yin Liangji of Henan Province became the general.
+In September, various Qiang bandits raided Wuwei.
+On the 30th, there is a solar eclipse. On the second day of October in winter, the capital of Anding was moved to Fufeng, and the capital of Beidi was moved to Feng Yi.
+On November 20th, Jinwu Zhang Qiao acted as the general of chariots and cavalry, and commanded the troops to garrison the third auxiliary.
+On the fourteenth day of the first spring of the first year of Han'an, a memorial ceremony was held in Mingtang, and a general amnesty was granted to the whole country, and the name was changed to Han'an.
 On the seventh day of the second lunar month, the general, the duke, and the minister were ordered to recommend a person who is virtuous and upright, who can study the subtle mysteries in depth, and seek the hidden principles of things.
 In autumn and July, Chenghua stables were set up to store horses.
 In August, Julong Wusi, the leader of the left tribe of the Southern Xiongnu, and Zao Tatai Qi and others rebelled.
@@ -802,54 +765,17 @@ On the 13th day of the second month in the spring of the second year, Shan Zang 
 On the eighth day of the fourth lunar month in the summer, Zhao Chong, the captain of the Qiang Protector, and Zhang Gong, the prefect of Hanyang, attacked and burned He Qiang Yu Shen and defeated them.
 On June 24th, the planet Yinghuo will oppose Saturn.
 On the 25th, Douluo Chu, the Shouyi King of the Southern Xiongnu, was appointed as the Southern Danyu.
-On the second day of the tenth lunar month in winter, the officers of the county and state were ordered to make amends for those who had been imprisoned and beheaded. The number of tuns varied, and those who could not be put into the tuns were sent to Linqiang County to work as servants for two years.
-On the fifth day of the Lunar New Year, the salary of all officials will be reduced.
-On the seventh day of the lunar month, the sale and purchase of alcohol is prohibited, and the rent of land by kings and marquises is waived for one year.
 
 summary:
 summary line 18: In the second year, Shan Zang and Shan Guo sent envoys. Zhao Chong and Zhang Gong defeated He Qiang. Yinghuo opposed Saturn. Douluo Chu was appointed Southern Danyu. Prisoners were allowed to atone. Officials' salaries were reduced. Alcohol sales were prohibited. Zhao Chong defeated Shaodang Qiang. Ma Chen assassinated Julong Wusi. Yang and Xu bandits attacked. 180 earthquakes occurred in Liangzhou.
 
-Chunk 18: 
+Chunk 21: 
 original: 
-闰王，赵冲击烧当羌于阿阳，破之。
-十一月，使匈奴中郎将马寔遣人刺杀句龙吾斯。
-十二月，杨、徐盗贼攻烧城寺，杀略吏民。
-是岁，凉州地百八十震。
-建康元年正月辛丑，诏曰： 陇西、汉阳、张掖、北地、武威、武都，自去年九月已来，地百八十震，山谷坼裂，坏败城寺，杀害民庶。
-夷狄叛逆，赋役重数，内外怨旷，惟咎叹息。
-其遣光禄大夫案行，宣畅恩泽，惠此下民，勿为烦扰。
-三月庚子，沛王广薨。
-领护羌校尉卫琚追讨叛羌，破之。
-南郡、江夏盗贼寇掠城邑，州郡讨平之。
-夏四月，使匈奴中郎将马寔击南匈奴左部，破之，于是胡羌、乌桓悉诣寔降。
 辛巳，立皇子炳为皇太子，改年建康，大赦天下。
 赐人爵各有差。
 秋七月丙午，清河王延平薨。
 八月，杨、徐盗贼范容、周生等寇掠城邑，遣御史中丞冯赦督州郡兵讨之。
 庚午，帝崩于玉堂前殿，时年三十。
-translation: 
-In the leap tenth month, Zhao Chong attacked the Shaodang Qiang in Ayang and defeated them.
-In November, the Xiongnu Zhonglang General Ma Chen sent people to assassinate Julong Wusi.
-In December, Yang and Xu bandits attacked and burned the official residences in the city. Kill and plunder officials and people.
-This year, 180 earthquakes occurred in the Liangzhou area.
-On the third day of the first spring of the first year of Jiankang, the edict stated: Since September last year, there have been 180 earthquakes in Longxi, Hanyang, Zhangye, Beidi, Wuwei, and Wudu, causing valleys to crack, ruining cities and temples, and injuring people.
-The border bandits are rebellious, the land tax and corvee labor are heavy, the husband is disobedient and his daughter is resentful, and there is resentment both internally and externally. Thinking of these evil things, I couldn't help but sigh.
-Now I have sent Dr. Guanglu to inspect and declare the favor of the imperial court and the benefits to the people. Do not disturb me.
-On the third day of March, King Pei Liu Guang passed away.
-Wei Ju, the captain of the Qiang school, pursued and attacked the rebellious Qiang and defeated them.
-Bandits from Nanjun and Jiangxia plundered the city, and the prefectures and counties suppressed them.
-In the fourth month of summer, the Xiongnu Zhonglang general Ma Chen attacked the left side of the southern Xiongnu and defeated them. Then Hu Qiang and Wu Huan all surrendered in front of Ma Chen.
-On the 15th, the prince Liu Bing was made the crown prince, the Yuan Dynasty was changed to Jiankang, and the world was granted amnesty.
-They don't wait to give people a title.
-On the eleventh day of the seventh month of autumn, Liu Yanping, king of Qinghe, passed away.
-In August, Yang and Xu bandits Fan Rong, Zhou Sheng and other bandits plundered the city, and sent the censor Zhongcheng Feng She to supervise the state and county soldiers to carry out the crusade.
-On the sixth day of the lunar month, the emperor passed away in the front hall of Yutang at the age of thirty.
-
-summary:
-summary line 19: In the first year of Jiankang, an edict acknowledged earthquakes and provided relief. King Liu Guang of Pei passed away. Wei Ju defeated rebellious Qiang. Nanjun and Jiangxia bandits plundered. Ma Chen defeated the southern Xiongnu. Prince Liu Bing was made crown prince. King Liu Yanping of Qinghe passed away. Fan Rong and Zhou Sheng plundered. The emperor passed away at age thirty. Historians commented on Emperor Shun's reign.
-
-Chunk 19: 
-original: 
 遗诏无起寝庙，敛以故服，珠玉玩好皆不得下。
 论曰：古之人君，离幽放而反国祚者有矣，莫不矫鉴前违，审识情伪，无忘在外之忧，故能中兴其业。
 观夫顺朝之政，殆不然乎？何其效僻之多与？
@@ -858,13 +784,12 @@ original:
 建康元年立为皇太子，其年八月庚午，即皇帝位，年二岁。
 尊皇后曰皇太后。
 太后临朝。
-丁丑，以太尉赵峻为太傅；大司农李固为太尉，参录尚书事。
-九月丙午，葬孝顺皇帝于宪陵，庙曰敬宗。
-是日，京师及太原、雁门地震，三郡水涌土裂。
-庚戌，诏三公、特进、侯、卿、校尉，举贤良方正、幽逸修道之士各一人，百僚皆上封事。
-己未，九江太守丘腾有罪，下狱死。
-杨州刺史尹耀、九江太守邓显讨贼范容等于历阳，军败，耀、显为贼所殁。
 translation: 
+On the 15th, the prince Liu Bing was made the crown prince, the Yuan Dynasty was changed to Jiankang, and the world was granted amnesty.
+They don't wait to give people a title.
+On the eleventh day of the seventh month of autumn, Liu Yanping, king of Qinghe, passed away.
+In August, Yang and Xu bandits Fan Rong, Zhou Sheng and other bandits plundered the city, and sent the censor Zhongcheng Feng She to supervise the state and county soldiers to carry out the crusade.
+On the sixth day of the lunar month, the emperor passed away in the front hall of Yutang at the age of thirty.
 If you leave an edict, don't leave the temple, use existing clothes for burial, and don't even bury jewels and jade with you.
 Historians commented: In ancient times, there were kings who were imprisoned and exiled and finally returned to ascend the throne. They all corrected and learned from past experiences and lessons, examined and identified the authenticity of favors, and did not forget the difficulties and dangers when they were outside, so they could revive the great cause.
 Emperor Xiaoshun was deposed from the crown prince to the king of Jiyin. After many twists and turns, he succeeded to the emperor's estate. Isn't it similar to those who were imprisoned in the past?
@@ -873,18 +798,18 @@ Emperor Xiaochong Liu Bing, son of Emperor Shun. Mother Yu is a noble person.
 In the first year of Jiankang, he was established as the crown prince. On the sixth day of August of that year, he ascended the throne at the age of two.
 Respect the queen as the empress dowager.
 The Queen Mother comes to court to handle state affairs.
-On the 13th, Taiwei Zhao Jun was appointed as Taifu; Li Gu, the chief agricultural officer, was appointed as Taiwei and participated in the work of recording ministers.
-On September 12, the filial emperor was buried in Xianling, with the temple name Jingzong.
-On this day, there was an earthquake in the capital, Taiyuan, and Yanmen, and water surged and soil cracked in the three counties.
-On the 16th, the imperial edict was issued to each of the Three Dukes, Tejin, Hou, Qing, and Xiaowei to recommend a virtuous and upright person who lived in seclusion and practiced Taoism. Hundreds of officials wrote secretly to report and suggest various issues.
-On the 25th, Qiu Teng, the governor of Jiujiang, was found guilty and sentenced to death in prison.
-Yin Yao, the governor of Yangzhou, and Deng Xian, the prefect of Jiujiang, attacked the bandit Fan Rong in Liyang. The army was defeated, and Yin Yao and Deng Xian were killed by the bandits.
 
 summary:
-summary line 20: Emperor Chong Liu Bing ascended the throne at age two. The Queen Mother handled state affairs. Zhao Jun was appointed Taifu; Li Gu was appointed Taiwei. Emperor Shun was buried. Earthquakes struck the capital, Taiyuan, and Yanmen. Virtuous individuals were recommended. Qiu Teng was executed. Yin Yao and Deng Xian were killed by bandits. Rinan barbarians attacked. King Liu Yi of Changshan passed away. Liu Kang was imprisoned. Xu Feng and Ma Mian attacked. Prisoners were moved. Huang Hu attacked Hefei. Xianling Tomb was excavated. Zhao Chong died in battle.
+summary line 19: In the first year of Jiankang, an edict acknowledged earthquakes and provided relief. King Liu Guang of Pei passed away. Wei Ju defeated rebellious Qiang. Nanjun and Jiangxia bandits plundered. Ma Chen defeated the southern Xiongnu. Prince Liu Bing was made crown prince. King Liu Yanping of Qinghe passed away. Fan Rong and Zhou Sheng plundered. The emperor passed away at age thirty. Historians commented on Emperor Shun's reign.
 
-Chunk 20: 
+Chunk 22: 
 original: 
+丁丑，以太尉赵峻为太傅；大司农李固为太尉，参录尚书事。
+九月丙午，葬孝顺皇帝于宪陵，庙曰敬宗。
+是日，京师及太原、雁门地震，三郡水涌土裂。
+庚戌，诏三公、特进、侯、卿、校尉，举贤良方正、幽逸修道之士各一人，百僚皆上封事。
+己未，九江太守丘腾有罪，下狱死。
+杨州刺史尹耀、九江太守邓显讨贼范容等于历阳，军败，耀、显为贼所殁。
 冬十月，日南蛮夷攻烧城邑，交阯刺史夏方招诱降之。
 壬申，常山王仪薨。
 己卯，零陵太守刘康坐杀无辜，下狱死。
@@ -892,6 +817,26 @@ original:
 己酉，令郡国中都官系囚减死一等，徙边；谋反大逆，不用此令。
 十二月，九江贼黄虎等攻合肥。
 是岁，群盗发宪陵。
+translation: 
+On the 13th, Taiwei Zhao Jun was appointed as Taifu; Li Gu, the chief agricultural officer, was appointed as Taiwei and participated in the work of recording ministers.
+On September 12, the filial emperor was buried in Xianling, with the temple name Jingzong.
+On this day, there was an earthquake in the capital, Taiyuan, and Yanmen, and water surged and soil cracked in the three counties.
+On the 16th, the imperial edict was issued to each of the Three Dukes, Tejin, Hou, Qing, and Xiaowei to recommend a virtuous and upright person who lived in seclusion and practiced Taoism. Hundreds of officials wrote secretly to report and suggest various issues.
+On the 25th, Qiu Teng, the governor of Jiujiang, was found guilty and sentenced to death in prison.
+Yin Yao, the governor of Yangzhou, and Deng Xian, the prefect of Jiujiang, attacked the bandit Fan Rong in Liyang. The army was defeated, and Yin Yao and Deng Xian were killed by the bandits.
+In the tenth month of winter, the barbarians from Rinan attacked, burned and plundered the city, and Xia Fang, the governor of Jiaozhi, recruited him and lured him to surrender.
+On the ninth day of the lunar month, Liu Yi, the king of Changshan, passed away.
+On the 16th, Liu Kang, the prefect of Lingling, was imprisoned for killing an innocent person.
+In November, the Jiujiang thieves Xu Feng, Ma Mian and others were called "Supreme Generals" and attacked, burned and plundered the city.
+On the 16th, he ordered all the officials in the county and state to be imprisoned with a reduced penalty of one degree of death and move to remote areas; for treason and treason, this order was not required.
+In December, Huang Hu, a bandit from Jiujiang, attacked Hefei.
+This year, a group of thieves excavated Xianling Tomb.
+
+summary:
+summary line 20: Emperor Chong Liu Bing ascended the throne at age two. The Queen Mother handled state affairs. Zhao Jun was appointed Taifu; Li Gu was appointed Taiwei. Emperor Shun was buried. Earthquakes struck the capital, Taiyuan, and Yanmen. Virtuous individuals were recommended. Qiu Teng was executed. Yin Yao and Deng Xian were killed by bandits. Rinan barbarians attacked. King Liu Yi of Changshan passed away. Liu Kang was imprisoned. Xu Feng and Ma Mian attacked. Prisoners were moved. Huang Hu attacked Hefei. Xianling Tomb was excavated. Zhao Chong died in battle.
+
+Chunk 23: 
+original: 
 护羌校尉赵冲追击叛羌于鹯阴河，战役。
 永憙元年春正月戊戌，帝崩于玉堂前殿，年三岁。
 清河王蒜征至京师。
@@ -907,14 +852,13 @@ original:
 乙酉，谒光武庙。
 二月，豫章太守虞续坐赃，下狱死。
 乙酉，大赦天下。
+赐人爵及粟、帛各有差。
+还王侯所削户、邑。
+彭城王道薨。
+叛羌诣左冯翊梁并降。
+三月，九江贼马勉称 黄帝 。
+九江都尉滕抚讨马勉、范容、周生，大破斩之。
 translation: 
-In the tenth month of winter, the barbarians from Rinan attacked, burned and plundered the city, and Xia Fang, the governor of Jiaozhi, recruited him and lured him to surrender.
-On the ninth day of the lunar month, Liu Yi, the king of Changshan, passed away.
-On the 16th, Liu Kang, the prefect of Lingling, was imprisoned for killing an innocent person.
-In November, the Jiujiang thieves Xu Feng, Ma Mian and others were called "Supreme Generals" and attacked, burned and plundered the city.
-On the 16th, he ordered all the officials in the county and state to be imprisoned with a reduced penalty of one degree of death and move to remote areas; for treason and treason, this order was not required.
-In December, Huang Hu, a bandit from Jiujiang, attacked Hefei.
-This year, a group of thieves excavated Xianling Tomb.
 Zhao Chong, the captain who protected the Qiang, pursued the rebel Qiang in the Niaoyin River, and Zhao Chong died in the battle.
 On the sixth day of the first spring of the first year of Yongxi, Emperor Chong died in the front hall of Yutang at the age of three.
 Liu Suan, the king of Qinghe, was summoned to the capital.
@@ -930,12 +874,20 @@ Jiashen, visit Gaomiao.
 Yiyou, visit Guangwu Temple.
 In February, Yu Xu, the prefect of Yuzhang, was imprisoned for taking bribes.
 On the 18th, there was a general amnesty.
+The rewards of civilian titles and grain and silk were varied.
+Restore the household registrations and towns reduced by the princes.
+Liu Dao, King of Pengcheng, passed away.
+They rebelled against the Qiang and surrendered to Zuofeng Yiliang.
+In March, Ma Mian, a bandit from Jiujiang, called himself the Yellow Emperor.
+Teng Fu, the captain of Jiujiang, attacked Ma Mian, Fan and Zhou Sheng, defeated them and killed them.
 
 summary:
 summary line 21: Emperor Chong died at age three. Liu Zuan was summoned. He became emperor at age eight. Emperor Chong was buried. Zhang Ying rebelled again. Xu Feng attacked. A general amnesty was granted. Liu Dao of Pengcheng passed away. Qiang surrendered. Ma Mian was killed. Prayers were held for rain. King Liu An of Jibei passed away. Lu Gong besieged the city but was defeated. An edict acknowledged drought and provided relief. Xie An killed Xu Feng. Xianbei harassed Dai County. King Liu Dai of Fuling passed away. Lujiang bandits attacked. Taifu Zhao Jun passed away. Han Zhao was imprisoned. Teng Fu defeated Zhang Ying. Zhao Xu was executed. Hua Meng was killed.
 
-Chunk 24: 
+Chunk 27: 
 original: 
+夏四月庚辰，令郡国举明经，年五十以上、七十以上诣太学。
+自大将军至六百石，皆遣子受业，岁满课试，以高第五人补郎中，次五人太子舍人。
 又千石、六百石、四府掾属、三署郎、四姓小侯先能通经者，各令随家法，其高第者上名牒，当以次赏进。
 五月庚寅，徙乐安王为勃海王。
 海水溢。
@@ -945,12 +897,9 @@ original:
 闰月甲申，大将军梁冀潜行鸩弑，帝崩于玉堂前殿，年九岁。
 丁亥，太尉李固免。
 戊子，司徒胡广为太尉，司空赵戒为司徒，与梁冀参录尚书事。
-太仆袁汤为司空。
-赞曰：孝顺初立，时髦允集。匪砥匪革，终沧嬖习。
-保阿传土，后家世及。
-冲夭未识，质弑以聪。
-陵折在运，天绪三终。
 translation: 
+On the twenty-fifth day of the fourth lunar month in the summer, the prefectures and states were ordered to recommend Confucian scholars who were proficient in Confucian classics and were over fifty but under seventy to be sent to Taixue.
+From the rank of general to the rank of six hundred stones, all the children are sent to school and get a job. When they are old enough, they will take an examination. The top five with the best test scores will be appointed as doctors, and the sixth to tenth will be appointed as princes.
 Thousands of stones, six hundred stones, subordinates of the four mansions of General, Taiwei, Situ and Sikong, three ministers from Wuguansu, Zuosu and Youshu, and Xiaohou with four surnames: Fan, Guo, Yin and Ma. Those who can understand the classics first are called poets for poetry, and they are called Lijia for etiquette. They all follow the family rules. Those with the highest rankings will report their names, and they will be rewarded and used in turn.
 On the sixth day of May, King Le'an was transferred to King Bohai.
 The sea water overflowed and caused disaster.
@@ -960,11 +909,6 @@ On the third day of the sixth lunar month, a general amnesty was granted to the 
 On the first day of the sixth lunar month, the general Liang Ji secretly poisoned Emperor Zhi to kill him. The emperor died in the front hall of Yutang at the age of nine.
 On the fourth day of the Lunar New Year, Taiwei Li Gu was dismissed from his post.
 On the fifth day of the lunar month, Situ Hu Guang was appointed Taiwei, Sikong Zhao Jie was appointed Situ, and Liang Ji participated in the post of general secretary.
-He appointed his servant Yuan Tang as Sikong.
-The historian praised: When Emperor Shun first became emperor, he had many outstanding people around him, but he was unable to forge ahead and carry out reforms. In the end, he indulged in personal favors and practices, relied on peace, and was greedy for goods and bribes to increase the number of people.
-He trusted two generations of relatives, so the government was in a state of decline.
-Chong Di Yaoshang is not sensible at all.
-Emperor Zhi was smart and precocious, but he was killed by Liang Ji.
 
 summary:
 summary line 22: In the first year of Benchu, an edict emphasized virtue and punishment. Wang Xi was imprisoned. Relief was provided to Jiujiang and Guangling. Confucian scholars were recommended. Children of officials were sent to school. King Le'an was transferred to King Bohai. Seawater overflowed. Relief was provided. Taibai clashed with Yinghuo. A general amnesty was granted. Liang Ji poisoned Emperor Zhi, who died at age nine. Li Gu was dismissed. Hu Guang was appointed Taiwei; Zhao Jie was appointed Situ; Liang Ji participated in the general secretary. Yuan Tang was appointed Sikong. Historians praised Emperor Shun but noted his decline. Emperor Zhi was killed by Liang Ji.

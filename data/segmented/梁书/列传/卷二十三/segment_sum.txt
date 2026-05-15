@@ -1,0 +1,354 @@
+Summary uses chunk [3, 0, 3, 6, 6, 7, 8, 8]
+
+Chunk 3: 
+original: 
+谥曰元。
+有文集行于世。
+子孝俨嗣。
+孝俨字希庄，聪慧有文才。
+射策甲科，除秘书郎、太子舍人。
+从幸华林园，于座献《相风乌》、《华光殿》、《景阳山》等颂，其文甚美，高祖深赏异之。
+普通元年，薨，时年二十三。
+谥曰章。
+子慎嗣。
+藻字靖艺，元王弟也。
+少立名行，志操清洁。
+齐永元初，释褐著作佐郎。
+天监元年，封西昌县侯，食邑五百户。
+出为持节、都督益、宁二州诸军事、冠军将军、益州刺史。
+时天下草创，边徼未安，州民焦僧护聚众数万，据郫、繁作乱。
+藻年未弱冠，集僚佐议，欲自击之。
+或陈不可，藻大怒，斩于阶侧。
+乃乘平肩舆，巡行贼垒。
+贼弓乱射，矢下如雨，从者举楯御箭，又命除之，由是人心大安。
+贼乃夜遁，藻命骑追之，斩首数千级，遂平之。
+translation: 
+Mi number five.
+His collected works are popular all over the world.
+His son, Jiaochengbao, succeeded him.
+Xiaoyan, whose courtesy name is Xizhuang, is intelligent and talented.
+In the shooting test to select officials, he passed Section A and was appointed Secretary Lang and Prince Sheren.
+He followed the emperor to Hualin Garden and presented eulogies such as "Xiangfengwu", "Huaguang Hall" and "Jingyang Mountain" at the seat. The article was very beautiful. Emperor Gaozu deeply appreciated it and thought it was a wonderful article.
+In the first year of Xuantong, Dong Baobao passed away at the age of twenty-three.
+Mi Hao Zhang.
+His son Xiao Shen succeeded him.
+Dong Jiang, courtesy name Jingyi, was the younger brother of King Yuan.
+He established a good reputation and image when he was young, and his ambition and conduct were elegant and noble.
+In the early years of Qi Yongyuan, he became an official and served as Zuo Lang.
+In the first year of Tianjian, Xiao Zao was granted the title of Marquis of Xichang County and was granted the title of 500 households.
+He served as Chijie, Commander-in-Chief of the military affairs of Yizhou and Ningzhou, Champion General, and Governor of Yizhou.
+At that time, the country had just been established and the borders were not yet stable. Jiao Senghu, a native of Yizhou, gathered tens of thousands of people and occupied Li and Fan counties and then rebelled.
+Lu Lian was not yet ten years old at this time, so he summoned his staff to discuss it, and wanted to personally attack Jiao Senghu.
+Someone thought that this was not allowed. Lu Lian was furious and killed the person beside the steps.
+So Xiao Zao took a flat-shouldered cart and patrolled outside the camp occupied by the rebels.
+The thieves fired their bows and arrows at random, and the arrows rained down on Xiao Zao. The soldiers who followed raised their shields to block the incoming arrows, and Xiao Zao ordered them to be removed. Therefore, people's hearts were at peace.
+The rebels slipped away quietly at night. Xiao Zao ordered the cavalry to pursue the rebels and killed thousands of them, thus leveling the rebel army.
+
+summary:
+summary line 0: The lives and careers of several members of the Xiao family, descendants of Gaozu, focusing on their official positions, military campaigns, and personal virtues.
+
+Chunk 0: 
+original: 
+长沙嗣王业字静旷，高祖长兄懿之子也。
+懿字元达，少有令誉。
+解褐齐安南邵陵王行参军，袭爵临湘县侯。
+迁太子舍人、洗马、建安王友。
+出为晋陵太守，曾未期月，讼理人和，称为善政。
+入为中书侍郎。
+永明季，授持节、都督梁、南、北秦、沙四州诸军事、西戎校尉、梁、南秦二州刺史，加冠军将军。
+是岁，魏人入汉中，遂围南郑。
+懿随机拒击，伤杀甚多，乃解围遁去。
+懿又遣氐帅杨元秀攻魏历城、皋兰、骆谷、坑池等六戍，克之。魏人震惧，边境遂宁。
+进号征虏将军，增封三百户，迁督益、宁二州军事、益州刺史。
+入为太子右卫率、尚书吏部郎、卫尉卿。
+translation: 
+Changsha's successor Xiao Ye, whose courtesy name was Jingkuang, was the son of Gaozu's eldest brother Xiao Yi.
+Xiao Yi was named Yuanda and had a good reputation when he was young.
+He became an official and joined the army under the command of Prince Shaoling of Annan. He inherited the title of Duoxiang County Fort.
+He was also moved to Prince Sheren, Xima, and King You of Jian'an.
+After taking office as the Medical Administrator of Jin, within a month, the lawsuits were sorted out, everyone was calm, and he was called good governance.
+Later, he was called to serve as the Minister of Zhongshu.
+During the next year of Cheng's reign, Xiao Yi was awarded the title of Chijie, the governor of Liangzhou, Southern Qinzhou, Northern Qinzhou, and the military affairs of the four prefectures, the captain of Xirong, the governor of Zhuzhou and Nanqinzhou, and the champion general.
+This year, the Wei army invaded Hanzhong and then surrounded Nanzheng.
+Xiao Yi responded accordingly, blocked the Wei army, and killed many enemies. The Wei army then dispersed the encirclement and quietly withdrew.
+Xiao Yi then sent the Di commander Yang Yuanxiu to attack Wei Chao's six garrison posts, including Licheng, Gaolan, Luogu, and Kengchi, and captured these garrison posts. The Wei people were shocked and frightened, and the border was peaceful.
+Xiao Yi was promoted to the title of General of the Conqueror, granted 300 additional households in the city, and moved to the military governorship of Yizhou and Ningzhou, and the governor of Yizhou.
+He was also summoned to serve as the crown prince's right guard leader, minister of official affairs, and Weiweiqing.
+
+summary:
+summary line 1: Xiao Yi, son of Gaozu's eldest brother, held various military and civil posts, including governor of Liangzhou. He successfully repelled a Wei invasion, capturing enemy garrisons and securing the border. Promoted multiple times, he was later killed on the orders of Marquis Shuhun due to court intrigue. He was posthumously honored with titles and a grand funeral.
+
+Chunk 3: 
+original: 
+谥曰元。
+有文集行于世。
+子孝俨嗣。
+孝俨字希庄，聪慧有文才。
+射策甲科，除秘书郎、太子舍人。
+从幸华林园，于座献《相风乌》、《华光殿》、《景阳山》等颂，其文甚美，高祖深赏异之。
+普通元年，薨，时年二十三。
+谥曰章。
+子慎嗣。
+藻字靖艺，元王弟也。
+少立名行，志操清洁。
+齐永元初，释褐著作佐郎。
+天监元年，封西昌县侯，食邑五百户。
+出为持节、都督益、宁二州诸军事、冠军将军、益州刺史。
+时天下草创，边徼未安，州民焦僧护聚众数万，据郫、繁作乱。
+藻年未弱冠，集僚佐议，欲自击之。
+或陈不可，藻大怒，斩于阶侧。
+乃乘平肩舆，巡行贼垒。
+贼弓乱射，矢下如雨，从者举楯御箭，又命除之，由是人心大安。
+贼乃夜遁，藻命骑追之，斩首数千级，遂平之。
+translation: 
+Mi number five.
+His collected works are popular all over the world.
+His son, Jiaochengbao, succeeded him.
+Xiaoyan, whose courtesy name is Xizhuang, is intelligent and talented.
+In the shooting test to select officials, he passed Section A and was appointed Secretary Lang and Prince Sheren.
+He followed the emperor to Hualin Garden and presented eulogies such as "Xiangfengwu", "Huaguang Hall" and "Jingyang Mountain" at the seat. The article was very beautiful. Emperor Gaozu deeply appreciated it and thought it was a wonderful article.
+In the first year of Xuantong, Dong Baobao passed away at the age of twenty-three.
+Mi Hao Zhang.
+His son Xiao Shen succeeded him.
+Dong Jiang, courtesy name Jingyi, was the younger brother of King Yuan.
+He established a good reputation and image when he was young, and his ambition and conduct were elegant and noble.
+In the early years of Qi Yongyuan, he became an official and served as Zuo Lang.
+In the first year of Tianjian, Xiao Zao was granted the title of Marquis of Xichang County and was granted the title of 500 households.
+He served as Chijie, Commander-in-Chief of the military affairs of Yizhou and Ningzhou, Champion General, and Governor of Yizhou.
+At that time, the country had just been established and the borders were not yet stable. Jiao Senghu, a native of Yizhou, gathered tens of thousands of people and occupied Li and Fan counties and then rebelled.
+Lu Lian was not yet ten years old at this time, so he summoned his staff to discuss it, and wanted to personally attack Jiao Senghu.
+Someone thought that this was not allowed. Lu Lian was furious and killed the person beside the steps.
+So Xiao Zao took a flat-shouldered cart and patrolled outside the camp occupied by the rebels.
+The thieves fired their bows and arrows at random, and the arrows rained down on Xiao Zao. The soldiers who followed raised their shields to block the incoming arrows, and Xiao Zao ordered them to be removed. Therefore, people's hearts were at peace.
+The rebels slipped away quietly at night. Xiao Zao ordered the cavalry to pursue the rebels and killed thousands of them, thus leveling the rebel army.
+
+summary:
+summary line 2: His son, Xiao Ye, was intelligent and served in the Qi and Liang dynasties, holding positions such as governor and general. Known for his honesty and devotion to Buddhism, he died at forty-eight. His works were widely circulated.
+
+Chunk 6: 
+original: 
+自遭家祸，恒布衣蒲席，不食鲜禽，非在公庭，不听音乐。高祖每以此称之。
+出为使持节、督南徐州刺史。
+侯景乱，藻遣长子彧率兵入援，及城开，加散骑常侍、大将军。
+景遣其仪同萧邕代之，据京口，藻因感气疾，不自疗。
+或劝奔江北，藻曰： 吾国之台铉，位任特隆，既不能诛剪逆贼，正当同死朝廷，安能投身异类，欲保余生。
+因不食累日。
+太清三年，薨，时年六十七。
+永阳嗣王伯游，字士仁，高祖次兄敷之子。
+敷字仲达，解褐齐后将军、征虏行参军，辅太子舍人，洗马，迁丹阳尹丞。
+入为太子中舍人，除建威将军、随郡内史。
+招怀远近，黎庶安之，以为前后之政莫之及也。
+进号宁朔将军，征为庐陵王谘议参军。
+建武四年，薨。
+translation: 
+After suffering a family disaster, Xiao Zao wore cloth clothes and mats all year round. He did not eat fresh fish or live poultry. He did not listen to music unless he was in public places. Gao Dan often praised him for this.
+Lu Lian was appointed as envoy Chijie and governor of Xuzhou in the south.
+After the Chu Rebellion broke out, Lu Yu sent his eldest son Lu Sheng to lead soldiers into the capital for reinforcements. After the city gate was liberated, Xiao Zao was appointed as a regular attendant and general of the scattered cavalry.
+Hou Jing sent his Yi Tong Xiao Yong to replace him. When he was occupying Saidan, Lu Lian contracted an epidemic, but he did not treat it himself.
+Someone advised him to defect to Jiangbei. Xiao Zao said: I am an important minister of the country and my position is very important. Since I cannot kill and cut off the traitors, I should participate in the imperial court and share life and death. How can I sell myself to a foreigner and save my own life?
+So he didn't eat for several days.
+In the third year of Taiqing, Xiao Zao passed away at the age of sixty-seven.
+Xiao Boyou, the successor of Yongyang, also named Shiren, was the son of Xiao Fu, the second brother of Emperor Gaozu.
+The character of Luqian was Chuda. He became an official and became a military officer. He served as a conscript in the rear army and joined the army. He was transferred to the prince's house, washed his horse, and moved to Danyang Yincheng.
+Later, he was called to serve as Prince Zhongsheren, and was awarded the title of General Jianwei and Sui County Internal History.
+Xiao Fu was able to recruit and care for people near and far, and the people lived and worked in peace and contentment. He thought that the political achievements of previous officials could not compare with him.
+Xiao Fujin was given the title of General Ningshuo and was recruited to join the army as a consultant to the King of Luling.
+In the fourth year of Jianwu's reign, Kochi died.
+
+summary:
+summary line 3: Xiao Zao, younger brother of King Yuan, was a capable governor who personally suppressed a rebellion in Yizhou, earning him respect. He held numerous high-ranking posts, including governor of Yongzhou and Yanzhou, and was praised for his humility and literary talent. He refused to flee during the Hou Jing rebellion, choosing to starve himself to death at sixty-seven.
+
+Chunk 6: 
+original: 
+自遭家祸，恒布衣蒲席，不食鲜禽，非在公庭，不听音乐。高祖每以此称之。
+出为使持节、督南徐州刺史。
+侯景乱，藻遣长子彧率兵入援，及城开，加散骑常侍、大将军。
+景遣其仪同萧邕代之，据京口，藻因感气疾，不自疗。
+或劝奔江北，藻曰： 吾国之台铉，位任特隆，既不能诛剪逆贼，正当同死朝廷，安能投身异类，欲保余生。
+因不食累日。
+太清三年，薨，时年六十七。
+永阳嗣王伯游，字士仁，高祖次兄敷之子。
+敷字仲达，解褐齐后将军、征虏行参军，辅太子舍人，洗马，迁丹阳尹丞。
+入为太子中舍人，除建威将军、随郡内史。
+招怀远近，黎庶安之，以为前后之政莫之及也。
+进号宁朔将军，征为庐陵王谘议参军。
+建武四年，薨。
+translation: 
+After suffering a family disaster, Xiao Zao wore cloth clothes and mats all year round. He did not eat fresh fish or live poultry. He did not listen to music unless he was in public places. Gao Dan often praised him for this.
+Lu Lian was appointed as envoy Chijie and governor of Xuzhou in the south.
+After the Chu Rebellion broke out, Lu Yu sent his eldest son Lu Sheng to lead soldiers into the capital for reinforcements. After the city gate was liberated, Xiao Zao was appointed as a regular attendant and general of the scattered cavalry.
+Hou Jing sent his Yi Tong Xiao Yong to replace him. When he was occupying Saidan, Lu Lian contracted an epidemic, but he did not treat it himself.
+Someone advised him to defect to Jiangbei. Xiao Zao said: I am an important minister of the country and my position is very important. Since I cannot kill and cut off the traitors, I should participate in the imperial court and share life and death. How can I sell myself to a foreigner and save my own life?
+So he didn't eat for several days.
+In the third year of Taiqing, Xiao Zao passed away at the age of sixty-seven.
+Xiao Boyou, the successor of Yongyang, also named Shiren, was the son of Xiao Fu, the second brother of Emperor Gaozu.
+The character of Luqian was Chuda. He became an official and became a military officer. He served as a conscript in the rear army and joined the army. He was transferred to the prince's house, washed his horse, and moved to Danyang Yincheng.
+Later, he was called to serve as Prince Zhongsheren, and was awarded the title of General Jianwei and Sui County Internal History.
+Xiao Fu was able to recruit and care for people near and far, and the people lived and worked in peace and contentment. He thought that the political achievements of previous officials could not compare with him.
+Xiao Fujin was given the title of General Ningshuo and was recruited to join the army as a consultant to the King of Luling.
+In the fourth year of Jianwu's reign, Kochi died.
+
+summary:
+summary line 4: Xiao Boyou, son of Xiao Fu, was known for his demeanor and was appointed to oversee remote border regions, dying young at twenty-three.
+
+Chunk 7: 
+original: 
+高祖即位，追赠侍中、司空，封永阳郡王，谥曰昭。
+伯游美风神，善言玄理。
+天监元年四月，诏曰： 兄子伯游，虽年识未弘，意尚粗可。
+浙东奥区，宜须抚莅，可督会稽、东阳、新安、永嘉、临海五郡诸军事、辅国将军、会稽太守。
+二年，袭封永阳郡王。
+五年，薨，时年二十三。
+谥曰恭。
+衡阳嗣王元简，字熙远，高祖第四弟畅之子。
+畅仕齐至太常，封江陵县侯，卒。
+天监元年，追赠侍中、骠骑大将军、开府仪同三司。
+封衡阳郡王。
+谥曰宣。
+元简三年袭封，除中书郎，迁会稽太守。
+十三年，入为给事黄门侍郎，出为持节、都督广、交、越三州诸军事、平越中郎将、广州刺史。
+translation: 
+After Zhidan ascended the throne, he posthumously gave Gaifu to Shizhong and Sikong, and was granted the title of Prince of Yongyang County, with the title of Mi Zhao.
+Xiao Boyou has a graceful demeanor and handsome expression, and is good at explaining mysteries.
+In April of the first year of the year, the emperor went down to Shao and said: My brother's son is on a tour. Although he is not old and has not much experience, I think it is okay to come.
+The remote mountainous areas in the fortress also need someone to manage them. Boyou can supervise the military affairs of the five counties of Heshan, Saimo, Saitong, Chengtai, and Zuoduo, as well as the generals who assist the country and the prefect of Heshan.
+In the second year, Kou Zhi went on a raid and granted the title of Prince of Chengyang County.
+Five years later, Lu Zhiyou died at the age of twenty-three.
+Mi Hao Gong.
+Hengyang heir Wang Yuanjian, courtesy name Xiyuan, was the son of Xiao Chang, the fourth brother of Emperor Gaozu.
+Xiao Chang served as an official in Zhiman until Taichang, and was granted the title of Marquis of Jiangling County. He later died.
+In the first year of his imprisonment, he was forced to be given the title of Shizhong, Hussar General, and Kaifu Yitong.
+He was granted the title of Prince of Hengyang County.
+Mi Hao announced.
+In the third year of the Yuan Dynasty, he was awarded the title of Zhongshu Lang and was appointed as the prefect of Huishan Li.
+In the thirteenth year, he was called to serve as the Minister of Huangmen, and served as Chijie, Commander-in-Chief of the military affairs of Guangzhou, Jiaozhou and Yuezhou, Pingyue Zhonglang General, and Guangzhou Governor.
+
+summary:
+summary line 5: Xiao Yuanjian, son of Xiao Chang, served as governor of Guangzhou and Yingzhou, dying in office.
+
+Chunk 8: 
+original: 
+还为太子中庶子，迁使持节、都督郢、司、霍三州诸军事、信武将军、郢州刺史。
+十八年正月，卒于州。
+谥曰孝。
+子俊嗣。
+桂阳嗣王象，字世翼，长沙宣武王第九子也。
+初，叔父融仕齐至太子洗马。
+永元中，宣武之难，融遇害。
+高祖平京邑，赠给事黄门侍郎。
+天监元年，加散骑常侍、抚军大将军，封桂阳郡王。
+谥曰简。
+无子，乃诏象为嗣，袭封爵。
+象容止闲雅，善于交游，事所生母以孝闻。
+起家宁远将军、丹阳尹。
+到官未几，简王妃薨，去职。
+服阕，复授明威将军、丹阳尹。
+象生长深宫，始亲庶政，举无失德，朝廷称之。
+出为持节、督司、霍、郢三州诸军事、征远将军、郢州刺史。
+寻迁湘、衡二州诸军事、轻车将军、湘州刺史。
+湘州旧多虎暴，及象在任，为之静息，故老咸称德政所感。
+除中书侍郎，俄以本官行石头戍军事，转给事黄门侍郎、兼领军，又以本官兼宗正卿。
+寻迁侍中、太子詹事，未拜，改授持节、督江州诸军事、信武将军、江州刺史。
+以疾免。
+寻除太常卿，加侍中，迁秘书监、领步兵校尉。
+大同二年，薨，谥曰敦。
+子慥嗣。
+史臣曰：长沙诸嗣王，并承袭土宇，光有籓服。
+桂阳王象以孝闻，在于牧湘，猛虎息暴，盖德惠所致也。
+昔之善政，何以加焉。
+translation: 
+He was moved to the position of concubine among the crown princes. He was then moved to the post of envoy Chijie, governor of Yingzhou, Sizhou, and Huozhou military affairs, general Xinwu, and governor of Yingzhou.
+In the first month of the eighteenth year, Xiao Yuanjian died in office.
+Mi Hao Xiao.
+His son Xiao Jun succeeded him.
+Xiao Xiang, the successor king of Guiyang, named Shiyi, was the ninth son of King Xuanwu of Changsha.
+At first, his uncle Lu Rong served as an official in Human and became the prince's horse washer.
+In the fifth year of Cheng's reign, Lu Rong was killed in the Xuanwu Incident.
+After Chandan pacified the capital, he was forced to give Lu Rong to serve as the minister of Huangmen.
+In the first year of Yujian's reign, he was given the title of Changshi of Sanqi and the general of Fujun, and was granted the title of Prince of Guiyang.
+Mi Hao Jian.
+Xiao Rong had no sons, so the emperor went to Shao to let Xiao Xiang succeed him and grant him a title.
+Xiao Xiang is elegant in appearance and manners, and is good at making friends. He is very filial in serving his biological mother, so he is famous far and wide.
+He left home to become an official, serving as General Ningyuan and Danyang Yin.
+Shortly after taking office, Xiao Xiang resigned due to the death of Princess Jian.
+After the mourning period expired, he was awarded the titles of General Mingwei and Danyang Yin.
+Xiao Xiang grew up in a deep palace. From the beginning, he personally carried out political affairs, and his actions were not immoral. Everyone in the court praised him.
+Later he served as Chijie, governor of Sizhou, Huozhou and Yingzhou, military general of Zhengzhou, and governor of Yingzhou.
+Soon he moved to Xiangzhou and Hengzhou to serve as military officers, generals of light vehicles, and governor of Xiangzhou.
+There used to be a lot of tigers in Qianzhou, which often hurt people and animals. When Xiao Xiang was appointed governor, the tiger harm stopped. The old people said that this was Xiao Xiang's virtues that moved the tigers.
+Xiao Xiang was appointed as the Minister of Zhongshu. Soon, he used his original official position to carry out the military affairs of Shitou garrison, and was transferred to serve as the Minister of Huangmen and the leader of the army. He also served as Zong Zhengqing in his own capacity.
+Soon he was moved to the post of Shizhong and Prince Zhanshi. Before he could become an official, he was appointed as Chijie, Supervisor of all military affairs in Liao Dynasty, General Xinwu, and Governor.
+Dismissed due to illness.
+Soon after, he was appointed as Taichang Qing, and was promoted to secretary-supervisor and infantry school captain.
+In the second year of Datong, Xiao Xiang died and Mi was named Dun.
+His son Xiao Cao succeeded him.
+Shi Chen said: All the successor kings of the Changsha King inherited the land and houses and owned vast fiefs.
+King Xiao Xiang of Guiyang was famous for his filial piety. When he was herding in Adam Prefecture in Laos, the tigers stopped their brutal behavior. This was probably due to his kindness and kindness.
+Nothing can surpass him in terms of good governance in the past.
+
+summary:
+summary line 6: Xiao Xiang, son of King Xuanwu, was noted for his filial piety and effective governance. As governor of Xiangzhou, his virtue reportedly stopped tiger attacks. He held various high offices before dying in the second year of Datong.
+
+Chunk 8: 
+original: 
+还为太子中庶子，迁使持节、都督郢、司、霍三州诸军事、信武将军、郢州刺史。
+十八年正月，卒于州。
+谥曰孝。
+子俊嗣。
+桂阳嗣王象，字世翼，长沙宣武王第九子也。
+初，叔父融仕齐至太子洗马。
+永元中，宣武之难，融遇害。
+高祖平京邑，赠给事黄门侍郎。
+天监元年，加散骑常侍、抚军大将军，封桂阳郡王。
+谥曰简。
+无子，乃诏象为嗣，袭封爵。
+象容止闲雅，善于交游，事所生母以孝闻。
+起家宁远将军、丹阳尹。
+到官未几，简王妃薨，去职。
+服阕，复授明威将军、丹阳尹。
+象生长深宫，始亲庶政，举无失德，朝廷称之。
+出为持节、督司、霍、郢三州诸军事、征远将军、郢州刺史。
+寻迁湘、衡二州诸军事、轻车将军、湘州刺史。
+湘州旧多虎暴，及象在任，为之静息，故老咸称德政所感。
+除中书侍郎，俄以本官行石头戍军事，转给事黄门侍郎、兼领军，又以本官兼宗正卿。
+寻迁侍中、太子詹事，未拜，改授持节、督江州诸军事、信武将军、江州刺史。
+以疾免。
+寻除太常卿，加侍中，迁秘书监、领步兵校尉。
+大同二年，薨，谥曰敦。
+子慥嗣。
+史臣曰：长沙诸嗣王，并承袭土宇，光有籓服。
+桂阳王象以孝闻，在于牧湘，猛虎息暴，盖德惠所致也。
+昔之善政，何以加焉。
+translation: 
+He was moved to the position of concubine among the crown princes. He was then moved to the post of envoy Chijie, governor of Yingzhou, Sizhou, and Huozhou military affairs, general Xinwu, and governor of Yingzhou.
+In the first month of the eighteenth year, Xiao Yuanjian died in office.
+Mi Hao Xiao.
+His son Xiao Jun succeeded him.
+Xiao Xiang, the successor king of Guiyang, named Shiyi, was the ninth son of King Xuanwu of Changsha.
+At first, his uncle Lu Rong served as an official in Human and became the prince's horse washer.
+In the fifth year of Cheng's reign, Lu Rong was killed in the Xuanwu Incident.
+After Chandan pacified the capital, he was forced to give Lu Rong to serve as the minister of Huangmen.
+In the first year of Yujian's reign, he was given the title of Changshi of Sanqi and the general of Fujun, and was granted the title of Prince of Guiyang.
+Mi Hao Jian.
+Xiao Rong had no sons, so the emperor went to Shao to let Xiao Xiang succeed him and grant him a title.
+Xiao Xiang is elegant in appearance and manners, and is good at making friends. He is very filial in serving his biological mother, so he is famous far and wide.
+He left home to become an official, serving as General Ningyuan and Danyang Yin.
+Shortly after taking office, Xiao Xiang resigned due to the death of Princess Jian.
+After the mourning period expired, he was awarded the titles of General Mingwei and Danyang Yin.
+Xiao Xiang grew up in a deep palace. From the beginning, he personally carried out political affairs, and his actions were not immoral. Everyone in the court praised him.
+Later he served as Chijie, governor of Sizhou, Huozhou and Yingzhou, military general of Zhengzhou, and governor of Yingzhou.
+Soon he moved to Xiangzhou and Hengzhou to serve as military officers, generals of light vehicles, and governor of Xiangzhou.
+There used to be a lot of tigers in Qianzhou, which often hurt people and animals. When Xiao Xiang was appointed governor, the tiger harm stopped. The old people said that this was Xiao Xiang's virtues that moved the tigers.
+Xiao Xiang was appointed as the Minister of Zhongshu. Soon, he used his original official position to carry out the military affairs of Shitou garrison, and was transferred to serve as the Minister of Huangmen and the leader of the army. He also served as Zong Zhengqing in his own capacity.
+Soon he was moved to the post of Shizhong and Prince Zhanshi. Before he could become an official, he was appointed as Chijie, Supervisor of all military affairs in Liao Dynasty, General Xinwu, and Governor.
+Dismissed due to illness.
+Soon after, he was appointed as Taichang Qing, and was promoted to secretary-supervisor and infantry school captain.
+In the second year of Datong, Xiao Xiang died and Mi was named Dun.
+His son Xiao Cao succeeded him.
+Shi Chen said: All the successor kings of the Changsha King inherited the land and houses and owned vast fiefs.
+King Xiao Xiang of Guiyang was famous for his filial piety. When he was herding in Adam Prefecture in Laos, the tigers stopped their brutal behavior. This was probably due to his kindness and kindness.
+Nothing can surpass him in terms of good governance in the past.
+
+summary:
+summary line 7: The text concludes that the successor kings of Changsha were prosperous, with Xiao Xiang of Guiyang particularly praised for his filial piety and benevolent rule, which surpassed previous governance.
+

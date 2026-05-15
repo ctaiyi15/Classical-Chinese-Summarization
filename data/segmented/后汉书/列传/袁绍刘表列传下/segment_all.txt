@@ -46,17 +46,6 @@ original:
 傕以表为镇南将军、荆州牧，封成武侯，假节，以为己援。
 建安元年，骠骑将军张济自关中走南阳，因攻穰城，中飞矢而死。
 荆州官属皆贺。
-表曰： 济以穷来，主人无礼，至于交锋，此非牧意，牧受吊不受贺也。
-使人纳其众，众闻之喜，遂皆服从。
-三年，长沙太守张羡率零陵、桂阳三郡畔表，表遣兵攻围，破羡，平之。
-于是开土遂广，南接五领，北据汉川，地方数千里，带甲十余万。
-初，荆州人情好扰，加四方骇震，寇贼相扇，处处麋沸。
-表招诱有方，威怀兼洽，其奸猾宿贼更为效用，万里肃清，大小咸悦而服之。
-关西、兗、豫学士归者盖有千数，表安尉赈赡，皆得资全。
-遂起立学校，博求儒术，綦母闿、宋忠等撰立《五经》章句，谓之《后定》。
-爱民养士，从容自保。
-及曹操与袁绍相持于官度，绍遣人求助，表许之，不至，亦不援曹操，且欲观天下之变。
-从事中郎南阳韩嵩、别驾刘先说表曰： 今豪桀并争，两雄相持，天下之重在于将军。
 translation: 
 The soldiers gathered and the people surrendered. Jiangling was captured in the south and Xiangyang was defended in the north. The eight counties under Jingzhou's jurisdiction could be pacified with a single proclamation.
 Even if Yuan Gongli arrives, there is nothing he can do.
@@ -73,6 +62,22 @@ When Li Cui and others entered Chang'an, in winter, Liu Biao sent envoys to pay 
 Li Ji appointed Liu Biao as the General of Zhennan and the Shepherd of Jingzhou, and made him a Marquis of Wu, holding the Emperor's Talisman as his aid.
 In the first year of Jian'an, the hussar general Zhang Ji fled from Guanzhong to Nanyang, attacked Lucheng along the way, and was shot to death by a flying arrow.
 Officials and subordinates from Jingzhou came to celebrate.
+
+
+Chunk 2: 
+original: 
+表曰： 济以穷来，主人无礼，至于交锋，此非牧意，牧受吊不受贺也。
+使人纳其众，众闻之喜，遂皆服从。
+三年，长沙太守张羡率零陵、桂阳三郡畔表，表遣兵攻围，破羡，平之。
+于是开土遂广，南接五领，北据汉川，地方数千里，带甲十余万。
+初，荆州人情好扰，加四方骇震，寇贼相扇，处处麋沸。
+表招诱有方，威怀兼洽，其奸猾宿贼更为效用，万里肃清，大小咸悦而服之。
+关西、兗、豫学士归者盖有千数，表安尉赈赡，皆得资全。
+遂起立学校，博求儒术，綦母闿、宋忠等撰立《五经》章句，谓之《后定》。
+爱民养士，从容自保。
+及曹操与袁绍相持于官度，绍遣人求助，表许之，不至，亦不援曹操，且欲观天下之变。
+从事中郎南阳韩嵩、别驾刘先说表曰： 今豪桀并争，两雄相持，天下之重在于将军。
+translation: 
 Liu Biao said: Zhang Ji came because he was in embarrassment, and the master did not treat him politely, which resulted in a fight. It was not my idea to send him away. I accept condolences but not congratulations.
 He sent people to receive Zhang Ji's troops. The soldiers were very happy and surrendered to Liu Biao.
 In the third year, Zhang Xian, the governor of Changsha, led Lingling and Guiyang counties to betray Liu Biao. Liu Biao sent troops to besiege him, defeated Zhang Xian and pacified these areas.
@@ -86,7 +91,7 @@ When Cao Cao and Yuan Shao were confronting each other in Guandu, Yuan Shao sent
 Han Song, a Nanyang native, and Liu Xian, a lieutenant in charge, persuaded Liu Biao: Now heroes are competing with each other, two powerful people are confronting each other, and the key to the world lies with you.
 
 
-Chunk 2: 
+Chunk 3: 
 original: 
 若欲有为，起乘其敝可也；如其不然，固将择所宜从。岂可拥甲十万，坐观成败，求援而不能助，见贤而不肯归！
 此两怨必集于将军，恐不得中立矣。
@@ -99,8 +104,6 @@ original:
 将军若欲归之，使嵩可也；如其犹豫，嵩至京师，天子假嵩一职，不获辞命，则成天子之臣，将军之故吏耳。
 在君为君，不复为将军死也。
 惟加重思。
-表以为惮使，强之。
-至许，果拜嵩侍中、零陵太守。
 translation: 
 If you want to make a difference, raising troops when they are tired is a feasible way; if you don't want to do this, you must choose appropriate measures. How can you have an army of 100,000, sit back and watch the success or failure of others, refuse to rescue others when they ask for help, and refuse to submit to wise people when you see them!
 In this way, the resentment of both parties will be concentrated on you, and I'm afraid it will be impossible for you to obtain neutrality.
@@ -113,12 +116,12 @@ Han Song replied: In my opinion, with Cao Gong's wisdom, he will definitely be a
 If the general wants to submit to Cao Cao, he can send me. If he is undecided, I go to the capital and the emperor offers me an official position. If my refusal is not accepted, then I will become the emperor's minister and the general's former subordinate.
 When you are with the Emperor, you will be loyal to the Emperor, and I will no longer devote myself to you.
 I hope you reconsider.
-Liu Biao thought that he was afraid of sending an envoy and forced him to go.
-After arriving in Xu County, the emperor appointed Han Song as his minister and prefect of Lingling.
 
 
-Chunk 3: 
+Chunk 4: 
 original: 
+表以为惮使，强之。
+至许，果拜嵩侍中、零陵太守。
 及还，盛称朝廷曹操之德，劝遣子入侍。
 表大怒，以为怀贰，陈兵诟嵩，将斩之。
 嵩不为动容，徐陈临行之言。
@@ -133,13 +136,9 @@ original:
 表初以琦貌类于己，甚爱之，后为琮娶其后妻蔡氏之侄，蔡氏遂爱琮而恶琦，毁誉之言日闻于表。
 表宠耽后妻，每信受焉。
 又妻弟蔡瑁及外甥张允并得幸于表，又睦于琮。
-而琦不自宁，尝与琅邪人诸葛亮谋自安之术。
-亮初不对。
-后乃共升高楼，因令去悌，谓亮曰： 今日上不至天，下不至地，言出子口而入吾耳，可以言未？
-亮曰： 君不见申生在内而危，重耳居外而安乎？
-琦意感悟，阴规出计。会表将江夏太守黄祖为孙权所杀，琦遂求代其任。
-及表病甚，琦归省疾，素慈孝，允等恐其见表而父子相感，更有托后之意，乃谓琦曰： 将军命君抚临江夏，其任至重。
 translation: 
+Liu Biao thought that he was afraid of sending an envoy and forced him to go.
+After arriving in Xu County, the emperor appointed Han Song as his minister and prefect of Lingling.
 After returning, Han Song strongly praised the kindness of the emperor and Cao Cao, and persuaded Liu Biao to send his son to serve.
 Liu Biao was furious, thinking that Han Song had double-minded intentions, so he displayed his troops, insulted Han Song, and prepared to kill him.
 Han Song's expression remained unchanged as he slowly recounted what he had said before leaving.
@@ -154,16 +153,16 @@ Liu Biao had two sons: Liu Qi and Liu Cong.
 At first, Liu Biao thought Liu Qi looked like him and liked him very much. Later, he married Liu Cong's niece, Cai's niece. Cai then liked Liu Cong and hated Liu Qi. Liu Biao heard words slandering Liu Qi and praising Liu Cong every day.
 Liu Biao loved his second wife deeply, so he believed and accepted these words every time.
 In addition, Liu Biao's brother-in-law Cai Mao and nephew Zhang Yun were both placed in important positions by Liu Biao, and they were also close friends with Liu Cong.
-Liu Qi felt that he was not safe and once discussed with Zhuge Liang, a man from Langxie, how to protect himself.
-Zhuge Liang didn't answer at first.
-Later, the two climbed up the tall building together, and then Liu Qi asked someone to take away the ladder. He said to Zhuge Liang: Today, the sky can't be seen from the top, and the ground can't be seen from the bottom. The words that came out of your mouth reached my ears. Can you speak?
-Zhuge Liang said: "Don't you see that Shen Sheng is in danger at home and Chong'er is safe when he lives abroad?"
-Liu Qi realized in his heart and secretly planned a way out. It happened that Huang Zu, the governor of Jiangxia under Liu Biao, was killed by Sun Quan, so Liu Qi asked to take over the position.
-When Liu Biao was seriously ill, Liu Qi came back to visit him. Because Liu Qi was kind and filial by nature, Zhang Yun and others were afraid that they would have a father-son relationship after seeing Liu Biao. Liu Biao once again wanted to let him succeed, so he said to Liu Qi: The general has ordered you to govern Jiangxia. This responsibility is of great importance.
 
 
-Chunk 4: 
+Chunk 5: 
 original: 
+而琦不自宁，尝与琅邪人诸葛亮谋自安之术。
+亮初不对。
+后乃共升高楼，因令去悌，谓亮曰： 今日上不至天，下不至地，言出子口而入吾耳，可以言未？
+亮曰： 君不见申生在内而危，重耳居外而安乎？
+琦意感悟，阴规出计。会表将江夏太守黄祖为孙权所杀，琦遂求代其任。
+及表病甚，琦归省疾，素慈孝，允等恐其见表而父子相感，更有托后之意，乃谓琦曰： 将军命君抚临江夏，其任至重。
 今释众擅来，必见谴怒。
 伤亲之欢，重增其疾，非孝敬之道也。
 遂遏于户外，使不得见。
@@ -171,6 +170,24 @@ original:
 遂以琮为嗣。
 琮以侯印授琦。琦怒，投之地，将因奔丧作难。
 会曹操军至新野，琦走江南。
+translation: 
+Liu Qi felt that he was not safe and once discussed with Zhuge Liang, a man from Langxie, how to protect himself.
+Zhuge Liang didn't answer at first.
+Later, the two climbed up the tall building together, and then Liu Qi asked someone to take away the ladder. He said to Zhuge Liang: Today, the sky can't be seen from the top, and the ground can't be seen from the bottom. The words that came out of your mouth reached my ears. Can you speak?
+Zhuge Liang said: "Don't you see that Shen Sheng is in danger at home and Chong'er is safe when he lives abroad?"
+Liu Qi realized in his heart and secretly planned a way out. It happened that Huang Zu, the governor of Jiangxia under Liu Biao, was killed by Sun Quan, so Liu Qi asked to take over the position.
+When Liu Biao was seriously ill, Liu Qi came back to visit him. Because Liu Qi was kind and filial by nature, Zhang Yun and others were afraid that they would have a father-son relationship after seeing Liu Biao. Liu Biao once again wanted to let him succeed, so he said to Liu Qi: The general has ordered you to govern Jiangxia. This responsibility is of great importance.
+If you leave your subordinates and come here without permission, you will definitely be scolded.
+It is not filial piety to ruin your father's interest and aggravate his illness.
+So he blocked the door and prevented him from seeing Liu Biao.
+Liu Qi left in tears, and many people sighed after hearing this.
+In this way, Liu Cong succeeded to the throne.
+Liu Cong awarded Liu Qi the seal of the feudal lords. Liu Qi became angry and threw the seal to the ground, preparing to take advantage of the funeral to make trouble.
+Just as Cao Cao's army arrived in Xinye, Liu Qi fled to the south of the Yangtze River.
+
+
+Chunk 6: 
+original: 
 蒯越、韩嵩及东曹掾傅巽等说琮归降。
 琮曰： 今与诸君据全楚之地，守先君之业，以观天下，何为不可？
 巽曰： 逆顺有大体，强弱有定势。
@@ -192,13 +209,6 @@ original:
 明年卒。
 论曰： 袁绍初以豪侠得众，遂怀雄霸之图，天下胜兵举旗者，莫不假以为名。
 translation: 
-If you leave your subordinates and come here without permission, you will definitely be scolded.
-It is not filial piety to ruin your father's interest and aggravate his illness.
-So he blocked the door and prevented him from seeing Liu Biao.
-Liu Qi left in tears, and many people sighed after hearing this.
-In this way, Liu Cong succeeded to the throne.
-Liu Cong awarded Liu Qi the seal of the feudal lords. Liu Qi became angry and threw the seal to the ground, preparing to take advantage of the funeral to make trouble.
-Just as Cao Cao's army arrived in Xinye, Liu Qi fled to the south of the Yangtze River.
 Kuai Yue, Han Song and Dong Cao's Fu Xun persuaded Liu Cong to surrender to Cao Cao.
 Liu Cong said: Now that I have the entire territory of Chu State with you, I can preserve the career of the late emperor and use it to observe the situation in the world. Why not?
 Fu Xun said: There are important principles for rebellion and surrender, and there are certain situations between strong and weak.
@@ -221,7 +231,7 @@ He died the following year.
 The argument goes: Yuan Shao initially won many people because of his heroic and chivalrous behavior, so he had the intention of becoming the hegemon. All the people in the world who could serve as soldiers and hold high the banner were all in the name of the Yuan family.
 
 
-Chunk 5: 
+Chunk 7: 
 original: 
 及临场决敌，则悍夫争命；深筹高议，则智士倾心。
 盛哉乎，其所资也！

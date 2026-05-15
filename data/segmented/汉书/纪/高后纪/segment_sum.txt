@@ -1,0 +1,107 @@
+Summary uses chunk [0, 2, 4]
+
+Chunk 0: 
+original: 
+高皇后吕氏，生惠帝。佐高祖定天下，父兄及高祖而侯者三人。
+惠帝即位，尊吕后为太后。
+太后立帝姊鲁元公主女为皇后，无子，取后宫美人子名之以为太子。
+惠帝崩，太子立为皇帝，年幼，太后临朝称制，大赦天下。
+乃立兄子吕台、产、禄、台子通四人为王，封诸吕六人为列侯。
+语在《外戚传》。
+元年春正月，诏曰： 前日孝惠皇帝言欲除三族罪、妖言令，议未决而崩。
+今除之。
+二月，赐民爵，户一级。
+初置孝弟力田二千石者一人。
+夏五月丙申，赵王宫丛台灾。
+立孝惠后宫子强为淮阳王，不疑为恒山王，弘为襄城侯，朝为轵侯，武为壶关侯。
+秋，桃李华。
+二年春，诏曰： 高皇帝匡饬天下，诸有功者皆受分弟为列侯，万民大安，莫不受休德。
+translation: 
+Empress Gao, the Lu family, gave birth to Emperor Hui, who assisted Emperor Gaozu of the Han Dynasty to pacify the world. Her father and brother had three marquises under Emperor Gaozu.
+After Emperor Hui succeeded to the throne, he honored Empress Lu as the Queen Mother.
+The Queen Mother made the daughter of Princess Lu Yuan, the sister of Emperor Hui, the Queen. She had no children, so she made the son of a beauty in the harem the Prince.
+Emperor Hui died, and the prince was established as emperor. The emperor was young, and Empress Dowager Lu came to the court to perform the emperor's affairs and grant amnesty to the world.
+Later, four of his brother's sons, Lu Tai, Lu Chan, Lu Lu, and Lu Tai's son Lu Tong were made kings, and six Zhu Lu were made princes.
+The specific details can be found in "Book of Han·Biography of Wai Qi".
+In the first month of the spring of the first year of Empress Lu's reign, she issued an edict saying: It turned out that Emperor Xiaohui intended to abolish the harsh laws that punished serious crimes and three clans, and regarded wrong words as evil words. He died before the resolution was resolved.
+It has now been announced that it will be abolished.
+In February, the people were rewarded with titles of nobility, one level for each household.
+For the first time, an official with an annual salary of two thousand shi was set up to encourage the world's filial piety.
+On the fourth day of May in the summer, a fire broke out in the Congtai of Zhao Palace.
+Liu Qiang, the son of Emperor Xiaohui's harem, was made the King of Huaiyang, Liu Buyi was the King of Hengshan, Liu Hong was the Marquis of Xiangcheng, Liu Chao was the Marquis of Zhi, and Liu Wu was the Marquis of Huguan.
+In autumn, peaches and plums bloom.
+In the spring of the second year of Empress Lu's reign, she issued an edict saying: Emperor Gao unified the world and granted fiefs and feudal lordships to all the meritorious officials. All the people were safe and sound, and no one was immune from his kindness.
+
+summary:
+summary line 0: Empress Gao, of the Lu family, was the mother of Emperor Hui and assisted Emperor Gaozu in pacifying the realm. After Emperor Hui ascended, she became the Queen Mother. She arranged for her granddaughter, the daughter of Princess Lu Yuan, to be the Queen, who had no children, so a son from a harem beauty was made prince. Upon Emperor Hui's death, this prince became emperor, but due to his youth, Empress Dowager Lu ruled in his stead, granting amnesty and promoting her relatives: four of her brother's sons were made kings, and six others were made princes.
+
+Chunk 2: 
+original: 
+诏曰： 凡有天下治万民者，盖之如天，容之如地；上有欢心以使百姓，百姓欣然以事其上，欢欣交通而天下治。
+今皇帝疾久不已，乃失惑昏乱，不能继嗣奉宗庙，守祭祀，不可属天下。
+其议代之。
+群臣皆曰： 皇太后为天下计，所以安宗庙、社稷甚深。
+顿首奉诏。
+五月丙辰，立恒山王弘为皇帝。
+五年春，南越王尉佗自称南武帝。
+秋八月，淮阳王强薨。
+九月，发河东、上党骑屯北地。
+六年春，星昼见。
+夏四月，赦天下。
+秩长陵令二千石。
+六月，城长陵。
+匈奴寇狄道，攻阿阳。
+行五分钱。
+七年冬十二月，匈奴寇狄道，略二千余人。
+春正月丁丑，赵王友幽死于邸。
+己丑晦，日有蚀之，既。
+translation: 
+The edict said: Anyone who governs the world and governs the people should have a mind that is as inclusive as heaven and as accommodating as the earth. The emperor governs the people from the perspective of caring for the people. Only when the people are sincere and sincere can they respect the emperor. Only when everyone is united can the country be peaceful and the people are safe.
+Today's young emperor has been ill for a long time and has even gone insane. He is unable to inherit the throne, worship in the ancestral temple, guard the country, and assume the important responsibilities of the world.
+Please suggest someone who can replace him.
+All the ministers said: The Empress Dowager considers the fundamental interests of the country, which is crucial to the stability of the ancestral temple and the country.
+The ministers and others bowed their heads and obeyed the edict.
+On May 17, Wang Hong of Hengshan was made emperor.
+In the spring of Empress Lu's fifth year, Wei Tuo, king of Nanyue, claimed to be Emperor Nanwu.
+In the eighth month of autumn, Liu Qiang, king of Huainan, passed away.
+In September, Hedong and Shangdang cavalry were mobilized to station in the north.
+In the spring of Empress Lu's sixth year, stars appeared in the daytime.
+In the fourth month of summer, there is a general amnesty for the whole world.
+The Changling Mausoleum of Gaozu was upgraded to two thousand stones.
+In June, a city was built around Changling.
+The Xiongnu invaded Didao and attacked Heyang.
+Exercise the nickel.
+In the winter and twelfth month of the seventh year of Empress Lu, the Xiongnu invaded Didao and plundered more than 2,000 households.
+On the 18th day of the first lunar month of spring, King Zhao Liu You was imprisoned in the palace and died.
+On the 30th, there will be a partial solar eclipse first, and then a total solar eclipse.
+
+summary:
+summary line 1: In the first year of her reign, she abolished harsh laws and rewarded the people. She established officials to encourage filial piety. In the second year, she ordered merit rankings for princes to be preserved in the ancestral temple. Natural events occurred: earthquakes, solar eclipses, and floods. In the fourth year, the young emperor, aware he was not the Queen's biological son, complained and was imprisoned. The Empress Dowager replaced him with Liu Hong, King of Hengshan. In the fifth year, Wei Tuo, King of Nanyue, declared himself emperor. In the sixth year, there was a general amnesty and construction at Changling. The Xiongnu invaded in the seventh year, and several kings died or were imprisoned. In the eighth year, Empress Lu died in Weiyang Palace.
+
+Chunk 4: 
+original: 
+时齐悼惠王子朱虚侯章在京师，以禄女为妇，知其谋，乃使人告兄齐王，令发兵西。
+章欲与太尉勃、丞相平为内应，以诛诸吕。
+齐王遂发兵，又诈琅邪王泽发其国兵，并将而西。
+产、禄等遣大将军灌婴将兵击之。
+婴至荥阳，使人谕齐王与连和，待吕氏变而共诛之。
+太尉勃与丞相平谋，以曲周侯郦商子寄与禄善，使人劫商令寄绐说禄曰： 高帝与吕后共定天下，刘氏所立九王，吕氏所立三王，皆大臣之议。
+事已布告诸侯王，诸侯王以为宜。
+今太后崩，帝少，足下不急之国守籓，乃为上将将兵留此，为大臣诸侯所疑。
+何不速归将军印，以兵属太尉，请梁王亦归相国印，与大臣盟而之国？
+齐兵必罢，大臣得安，足下高枕而王千里，此万世之利也。
+translation: 
+At this time, Zhu Xuhou Liu Zhang, son of King Qi Hui, was in Kyoto. He was Lu Lu's son-in-law. When he learned of the plot, he immediately sent someone to inform his brother King Qi, asking him to send troops to the west.
+Liu Zhang prepared to work with Taiwei Zhou Bo and Prime Minister Chen Ping as internal correspondents to kill Zhu Lu.
+The King of Qi then raised an army, and instigated King Langya and King Liu Ze to mobilize the troops of his country to join forces and march westward.
+Lu Chan, Lu Lu and others sent General Guan Ying to lead the troops to stop the attack.
+Guan Ying went to Xingyang, sent people to inform the King of Qi and united with him, waiting for the Lu family to launch a coup before carrying out the execution.
+Taiwei Zhou Bo conspired with Prime Minister Chen Ping. He believed that Ji, the son of Li Shang, the Marquis of Qu Zhou, was closely related to Lu Lu, so he sent people to force Li Shang to order his son Li Ji to deceive Lu Lu and said: Emperor Gao and Queen Lu jointly established the world. The nine kings established by the Liu family and the three kings established by the Lu family were discussed by the ministers.
+The discussions and decisions have been informed to all the princes and kings, and all the princes and princes have expressed their approval.
+Today, the Queen Mother has passed away and the Emperor is young. You are not in a hurry to defend your own kingdoms, but you have gathered troops to stay in Kyoto as generals, which has aroused the suspicion of the ministers and princes.
+Why not immediately return the general's seal, pass the military power to the Taiwei, ask Liang Wang Lu Chan to return the prime minister's seal, explain it clearly to the ministers, and then return to the feudal country?
+In this way, the troops can retreat, the ministers can rest assured, and they can sit back and be king of a country thousands of miles away. This is the benefit of all times!
+
+summary:
+summary line 2: After her death, Lu Lu and Lu Chan, holding military and political power, plotted rebellion. Zhu Xuhou Liu Zhang, son of King Qi, learned of this and coordinated with his brother, King Qi, and officials Zhou Bo and Chen Ping to counter them. King Qi raised an army, and General Guan Ying, sent to stop him, instead allied with him. Zhou Bo, using deception, gained control of the Northern Army by tricking Lu Lu into surrendering his command. Lu Chan, attempting a coup, was killed by Liu Zhang. The Lu family was then exterminated. The ministers, believing the young emperor and his brothers were not Emperor Hui's sons, killed them and enthroned Emperor Wen. Ban Gu noted that under Empress Gao, the world was peaceful, with reduced warfare and punishments, allowing the people to prosper in farming.
+

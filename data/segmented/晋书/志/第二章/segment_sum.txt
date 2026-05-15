@@ -1,0 +1,162 @@
+Summary uses chunk [0, 1, 8, 8]
+
+Chunk 0: 
+original: 
+日为太阳之精，主生恩德，人君之象也。
+人君有瑕，必露其慝以告示焉。
+故日月行有道之国则光明，人君吉昌，百姓安宁。
+人君乘土而王，其政太平，则日五色无主。
+日变色，有军，军破；无军，丧侯王。
+其君无德，其臣乱国，则日赤无光。
+日失色，所临之国不昌。日昼昏，行人无影，到暮不止者，上刑急，下不聊生，不去一年有大水。
+日昼昏，乌鸟群鸣，国失政。
+日中乌见，主不明，为政乱，国有白衣会，将军出，旌旗举。
+日中有黑子、黑气、黑云，乍三乍五，臣废其主。
+日蚀，阴侵阳，臣掩君之象，有亡国。
+月为太阴之精，以之配日，女主之象；以之比德，刑罚之义；列之朝廷，诸侯大臣之类。
+故君明，则月行依度；臣执权，则月行失道；大臣用事，兵刑失理，则月行乍南乍北；女主外戚擅权，则或进或退。
+月变色，将有殃。
+月昼明，奸邪并作，君臣争明，女主失行，阴国兵强，中国饥，天下谋僭。
+数月重见，国以乱亡。
+translation: 
+The sun is the strong yang energy and essence, responsible for fertility and kindness, and is the symbol of the human king.
+If a person has a flaw, his darkness and evil will definitely appear and be revealed.
+Therefore, when the sun and moon move in a righteous country, they will shine brightly, the ruler will be auspicious and prosperous, and the people will be healthy and peaceful.
+If the ruler Feng becomes the king through the land, and if the country is peaceful, then the prince will be killed.
+If the ruler is unvirtuous and the ministers disrupt the country, then the sun will be red but without light.
+If the sun loses its normal color, the country it shines on will not be prosperous.
+The sun is dim during the day, and pedestrians have no shadows. If this phenomenon does not end at dusk, the punishments from above will be urgent and severe, and the people below will be in dire straits, and there will be major floods within a year.
+When the sun is dim during the day and crows crow in droves, the country will be in political and criminal chaos.
+If a crow appears in the middle of the sun, the ruler will be unclear, and government affairs will be handled in confusion. There will be royal funerals in the country, generals will appear, and flags will be raised in disorder.
+There are sunspots, black energy, and black clouds in the middle of the sun, which are uncertain, and the subject will abandon his monarch.
+A solar eclipse means that Yin Qi invades Yang Qi, which is a sign that the ministers are covering up the monarch, and the country will be destroyed.
+The moon is the essence of the lunar moon. It is used to match the sun and is a symbol of the heroine. It is used to compare virtues and express the meaning of punishment. It is arranged in the imperial court and belongs to the princes and ministers.
+Therefore, if the monarch is wise, the moon will move in accordance with the laws; if the ministers are in charge of the government, the moon will deviate from its orbit; if the ministers are in power and use military force and punishment without principles and rules, the moon will move south and then north; if the queen and the female protagonist are in power, the moon will advance and retreat.
+The moon has changed its normal color and will cause disaster.
+If the moon is very bright during the day, treachery and evil will occur at the same time. The monarch and his ministers will fight for power, the queen and the heroine will lose their virtue, making the country dim and wars will continue, there will be famine in the Central Plains, and the world will conspire to overthrow.
+If several moons appear at the same time, the country will perish due to turmoil.
+
+summary:
+summary line 0: Celestial bodies and their movements as omens reflecting the state of human affairs, particularly the ruler's virtue and the kingdom's stability. The sun, as strong yang energy, symbolizes the king. Its brightness or dimness, color changes, and phenomena like sunspots, eclipses, or multiple suns indicate the ruler's virtue, ministerial loyalty, or impending disaster. A bright sun signifies a prosperous country; a dim or red sun without light warns of unvirtuous rulers and chaotic ministers. Solar eclipses represent yin (ministers) invading yang (the ruler), foretelling national ruin. The moon, as lunar essence and symbol of the heroine (queen or empress), reflects the conduct of ministers and women in power. Its abnormal color, brightness during the day, or multiple moons signify treachery, power struggles, war, and famine.
+
+Chunk 1: 
+original: 
+岁星曰东方春木，于人，五常，仁也；五事，貌也。
+仁亏貌失，逆春令，伤木气，则罚见岁星。
+岁星盈缩，以其舍命国。
+其所居久，其国有德厚，五谷丰昌，不可伐。
+其对为冲，岁乃有殃。
+岁星安静中度，吉。
+盈缩失次，其国有忧，不可举事用兵。
+又曰，人主之象也，色欲明，光色润泽，德合同。
+又曰，进退如度，奸邪息；变色乱行，主无福。
+又主福，主大司农，主齐吴，主司天下诸侯人君之过，主岁五谷。
+赤而角，其国昌；赤黄而沈，其野大穰。
+荧惑曰南方夏火，礼也，视也。礼亏视失，逆夏令，伤火气，罚见荧惑。
+荧惑法使行无常，出则有兵，入则兵散。
+以舍命国，为乱为贼，为疾为丧，为饥为兵，所居国受殃。
+环绕钩已，芒角动摇，变色，乍前乍后，乍左乍右，其为殃愈甚。
+其南丈夫、北女子丧。
+周旋止息，乃为死丧；寇乱其野，亡地。
+其失行而速，兵聚其下，顺之战胜。
+translation: 
+The year star is called Dongfang Chunmu. To people, it is the benevolence in the five constant things and the appearance in the five things.
+If benevolence is stained, appearance is lost, the spring season is violated, and the energy of wood is damaged, the punishment will appear on the year star.
+The age star rises early and rises late, and its position determines the rise and fall of a country.
+As long as it stays for a long time, the country will be virtuous and benevolent, its crops will be abundant, and it cannot be conquered.
+If it is in opposition, there will be disaster that year.
+The year star is quiet and unchanged, which is consistent with normality and is auspicious.
+If its fullness and shrinkage lose its normal state, the country will be in trouble and cannot raise its troops.
+Another theory is that it is a symbol of the ruler, and it should be bright in color, bright in color, and harmonious in politics and morality.
+There is also a saying that if its advance and retreat are normal, evil will cease; if its movement is abnormal, the master will have no blessings or fortune.
+It is also in charge of fortune and wealth, in charge of agricultural affairs, in charge of the land of Qi and Wu, in charge of the faults of princes and monarchs in the world, and in charge of the annual grain harvest.
+If the color is red and shining, the country will be prosperous; if the color is yellow-red and dark, the fields will be prosperous and the harvest will be abundant.
+Yinghuo is the essence of summer fire in the south. Etiquette and carelessness are ignored, which violates the summer order and damages the fire energy. The punishment appears on the disaster star.
+The Dharma image of Yinghuo causes the operation to be abnormal. When it appears, there will be military chaos. When it disappears, the military chaos will dissipate.
+Its position determines the rise and fall of a country. There will be turmoil and bandits, there will be disease and death, there will be famine and war. The country where it stays will suffer disaster.
+If it is arranged in a circle, its shape is like a hook, its bright angle is wavering, and its color changes, sometimes forward, sometimes backward, sometimes left, sometimes right, the disaster it causes will be more serious.
+If it is in the south, men will die, if it is in the north, women will die.
+When its circulation stops, it is a sign of death, bandits and bandits disrupt the wilderness, and the land is destroyed.
+It is off course and moving rapidly. If the army gathers under it, it will win if it follows its course.
+
+summary:
+summary line 1: The text then details the five planets—Year Star (Jupiter), Sparkling Deluder (Mars), Quelling Star (Saturn), Grand White (Venus), and Chronogram (Mercury)—each associated with a season, element, virtue, and aspect of governance. Their positions, movements, colors, and conjunctions predict the rise and fall of states, agricultural yields, war, and the fate of rulers and ministers. For example, Jupiter governs benevolence and agriculture; its proper movement brings harvests, while deviation causes trouble. Mars governs propriety and war; its abnormal appearance signals military chaos, banditry, and death. Saturn represents integrity and the emperor; its movement indicates the ruler's virtue or lack thereof. Venus governs morality and speech; its advance and retreat predict war outcomes. Mercury governs wisdom and punishment; its untimely appearance brings famine and military revolt. Conjunctions of planets, such as Jupiter and Saturn meeting, foretell civil strife and famine, while Venus and Mars meeting indicate war and mourning.
+
+Chunk 8: 
+original: 
+五星若合，是谓易行，有德承庆，改立王者，奄有四方，子孙蕃昌；亡德受殃，离其国家，灭其宗庙，百姓离去，被满四方。
+皆角，赤，犯我城；黄，地之争；白，哭泣声；青，有兵忧；黑，有水。五星同色，天下偃兵，百姓安宁，歌舞以行，不见灾疾，五谷蕃昌。
+凡五星，岁，政缓则不行，急则过分，逆则占。
+荧惑，缓则不出，急则不入，违道则占。
+填，缓则不还，急则过舍，逆则占。
+太白，缓则不出，急则不入，逆则占。
+五星不失行，则年谷丰昌。
+凡五星分天之中，积于东方，中国利；积于西方，外国用兵者利。
+辰星不出，太白为客；其出，太白为主。
+出而与太白不相从，及各出一方，为格，野虽有军，不战。
+凡五星见伏、留行、逆顺、迟速应历度者，为得其行，政合于常；违历错度，而失路盈缩者，为乱行。
+乱行则为天矢彗孛，而有亡国革政，兵饥丧乱之祸云。
+○杂星气
+图纬旧说，及汉末刘表为荆州牧，命武陵太守刘睿集天文众占，名《荆州占》。
+其杂星之体，有瑞星，有妖星，有客星，有流星，有瑞气，有妖气，有日月傍气，皆略其名状，举其占验，次之于此云。
+○瑞星
+translation: 
+If the five stars meet, it is called easy travel. A virtuous person will receive auspiciousness, and a person who is established as a king will be able to occupy all parts of the world, and his descendants will be prosperous; an unvirtuous person will suffer disaster and leave his country, the ancestral temple will be destroyed, the people will leave, and disasters will spread all over the world.
+If the five stars are all big, the matter will be big; if they are all small, the matter will be small. The colors of all five stars are in the shape of a circle. White represents mourning, which is a sign of drought; red represents unevenness, which is a sign of war; cyan represents sorrow, which is a sign of floods; black represents disease and plague, which is a sign of mass death; and yellow represents auspiciousness. There are awns in all of them. If red, there will be enemy troops invading the country's city; yellow, there will be land disputes; white, there will be crying sounds; cyan, there will be war disaster; black, there will be fire. If the five stars appear in the same color, the world will be in disgrace. The people are at peace. Singing and dancing. There will be no disasters or diseases, and the crops will be plentiful.
+Among these five stars, the Sui star is not suitable for the relaxation of politics and religion, the illness and experience are excessive, and the disobedience is good.
+The star of Yinghuo will not come out if it is gentle, if it is ill and exceeds its residence, if it is disobedient, it will occupy it.
+Taibai Star, if it is gentle, it will not come out, if it is ill, it will not come in, if it is disobedient, it will occupy it.
+When a mirage arises, it will not come out if it is relaxed, it will not come in if it is ill, and it will occupy it if it is not the right time.
+If the five stars do not lose their foundation and move continuously, then there will be a good harvest that year.
+The sky is divided into two parts. If the five stars gather in the east, it will be beneficial to the Central Plains; if they gather in the west, it will be beneficial to foreign troops.
+If Chen Xing does not appear, Tai Zhe will be the guest; if Chen Xing appears, Tai Bai will dominate.
+When the stars appear without being followed by Tai Zhe, and when each appears from one side, it is the grid. Even though there are troops in the country, there will be no war.
+Any appearance or disappearance of the five stars, staying or moving, disobedience or obedience, slowness or rapidity in accordance with the calendar time is in compliance with its laws, and politics and religion are all based on the routine; violating the calendar time and losing the normal path or shortening the time is an act of disorder.
+Chaos will become a star in the sky, a comet star, and disasters such as the decline of the country, changes in government orders, war, famine, and chaos will occur.
+○Jin Shu Zaxing Qi Translation
+According to the old story in Hetu Weishu, when Liu Biao was appointed pastor of Jingzhou at the end of the Han Dynasty, he ordered Liu Ruihao, the prefect of Wuling, to compile many divination works on astronomy into a book, named "Jingzhou Divination".
+The miscellaneous stars themselves include rising stars, demonic stars, guest stars, shooting stars, auspicious energy, demonic energy, and clouds next to the sun and moon. Their names and shapes are briefly listed, and the situations in which their divination has been fulfilled are listed here in order.
+○Rising
+
+summary:
+summary line 2: The text also covers comets, guest stars, meteors, and various atmospheric phenomena (clouds, rainbows, halos) as omens. Comets, or "broom stars," signify sweeping away the old and ushering in the new, often bringing war and floods. Specific comets like the "Red You Flag" or "Heavenly Spear" portend rebellion, military defeat, or the death of a ruler. Guest stars like the "Old Man Star" or "Zhou Bo Star" indicate famine or prosperity. Meteors, as "angels," foretell events based on their size, speed, and direction; their fall marks war or the death of a general. Atmospheric qi, such as the "Emperor's Qi" (red inside, yellow outside) or the "Qi of a Fierce General" (like a dragon or beast), signal the rise of a king or a military leader. Cloud formations, like "formation clouds" or "hook clouds," predict war, and their colors (white for mourning, red for war, etc.) determine the nature of the event.
+
+Chunk 8: 
+original: 
+五星若合，是谓易行，有德承庆，改立王者，奄有四方，子孙蕃昌；亡德受殃，离其国家，灭其宗庙，百姓离去，被满四方。
+皆角，赤，犯我城；黄，地之争；白，哭泣声；青，有兵忧；黑，有水。五星同色，天下偃兵，百姓安宁，歌舞以行，不见灾疾，五谷蕃昌。
+凡五星，岁，政缓则不行，急则过分，逆则占。
+荧惑，缓则不出，急则不入，违道则占。
+填，缓则不还，急则过舍，逆则占。
+太白，缓则不出，急则不入，逆则占。
+五星不失行，则年谷丰昌。
+凡五星分天之中，积于东方，中国利；积于西方，外国用兵者利。
+辰星不出，太白为客；其出，太白为主。
+出而与太白不相从，及各出一方，为格，野虽有军，不战。
+凡五星见伏、留行、逆顺、迟速应历度者，为得其行，政合于常；违历错度，而失路盈缩者，为乱行。
+乱行则为天矢彗孛，而有亡国革政，兵饥丧乱之祸云。
+○杂星气
+图纬旧说，及汉末刘表为荆州牧，命武陵太守刘睿集天文众占，名《荆州占》。
+其杂星之体，有瑞星，有妖星，有客星，有流星，有瑞气，有妖气，有日月傍气，皆略其名状，举其占验，次之于此云。
+○瑞星
+translation: 
+If the five stars meet, it is called easy travel. A virtuous person will receive auspiciousness, and a person who is established as a king will be able to occupy all parts of the world, and his descendants will be prosperous; an unvirtuous person will suffer disaster and leave his country, the ancestral temple will be destroyed, the people will leave, and disasters will spread all over the world.
+If the five stars are all big, the matter will be big; if they are all small, the matter will be small. The colors of all five stars are in the shape of a circle. White represents mourning, which is a sign of drought; red represents unevenness, which is a sign of war; cyan represents sorrow, which is a sign of floods; black represents disease and plague, which is a sign of mass death; and yellow represents auspiciousness. There are awns in all of them. If red, there will be enemy troops invading the country's city; yellow, there will be land disputes; white, there will be crying sounds; cyan, there will be war disaster; black, there will be fire. If the five stars appear in the same color, the world will be in disgrace. The people are at peace. Singing and dancing. There will be no disasters or diseases, and the crops will be plentiful.
+Among these five stars, the Sui star is not suitable for the relaxation of politics and religion, the illness and experience are excessive, and the disobedience is good.
+The star of Yinghuo will not come out if it is gentle, if it is ill and exceeds its residence, if it is disobedient, it will occupy it.
+Taibai Star, if it is gentle, it will not come out, if it is ill, it will not come in, if it is disobedient, it will occupy it.
+When a mirage arises, it will not come out if it is relaxed, it will not come in if it is ill, and it will occupy it if it is not the right time.
+If the five stars do not lose their foundation and move continuously, then there will be a good harvest that year.
+The sky is divided into two parts. If the five stars gather in the east, it will be beneficial to the Central Plains; if they gather in the west, it will be beneficial to foreign troops.
+If Chen Xing does not appear, Tai Zhe will be the guest; if Chen Xing appears, Tai Bai will dominate.
+When the stars appear without being followed by Tai Zhe, and when each appears from one side, it is the grid. Even though there are troops in the country, there will be no war.
+Any appearance or disappearance of the five stars, staying or moving, disobedience or obedience, slowness or rapidity in accordance with the calendar time is in compliance with its laws, and politics and religion are all based on the routine; violating the calendar time and losing the normal path or shortening the time is an act of disorder.
+Chaos will become a star in the sky, a comet star, and disasters such as the decline of the country, changes in government orders, war, famine, and chaos will occur.
+○Jin Shu Zaxing Qi Translation
+According to the old story in Hetu Weishu, when Liu Biao was appointed pastor of Jingzhou at the end of the Han Dynasty, he ordered Liu Ruihao, the prefect of Wuling, to compile many divination works on astronomy into a book, named "Jingzhou Divination".
+The miscellaneous stars themselves include rising stars, demonic stars, guest stars, shooting stars, auspicious energy, demonic energy, and clouds next to the sun and moon. Their names and shapes are briefly listed, and the situations in which their divination has been fulfilled are listed here in order.
+○Rising
+
+summary:
+summary line 3: The text concludes with historical records of celestial events and their supposed fulfillments, such as solar eclipses, sunspots, and planetary conjunctions, linked to specific dynastic events like usurpations, deaths of emperors, and military campaigns. For instance, a solar eclipse in the second year of Emperor Hui's Yuankang reign was interpreted as a sign of the empress's exclusive power. A white rainbow piercing the sun in the first year of Yongchang was seen as a precursor to Wang Dun's rebellion. The gathering of five stars in a constellation was considered a sign of a change in dynasty, as when the stars gathered in Dongjing before Liu Yu's conquest of Guanzhong and the subsequent transition from Jin to Song. The text emphasizes that these celestial signs are warnings from Heaven, urging rulers to cultivate virtue and correct their governance to avert disaster.
+

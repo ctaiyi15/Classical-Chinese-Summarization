@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 1, 2]
+Summary uses chunk [0, 0, 1, 3]
 
 Chunk 0: 
 original: 
@@ -77,8 +77,6 @@ original:
 夫伐冰之家，不利鸡豚之息；委积之臣，不操市井之利。
 况历位食禄二十余年，而财产益狭，居处益贫。
 惟夫君子之仕，行其道也。
-虑时务者不能兴其德，为身求者不能成其功，去而归家，复羁旅于州郡，身愈据职，家弥穷困，卒离饥寒之灾，有丧元子之祸。
-先将军葬渭陵，哀帝之崩也，营之以为园。
 translation: 
 After the book was submitted, it was still not used due to previous mistakes.
 Feng Yan was dissatisfied and retired to write poems. He commented to himself: Feng Zi believed that a person's virtue is neither like the mediocre appearance of jade nor the falling shape of stone.
@@ -93,31 +91,29 @@ Suppress one's mood and submit to others, one's mood is desolate and the mood is
 The families of high-ranking officials and well-paid people do not seek small profits; the ministers of accumulation do not care about the interests of merchants.
 What's more, he has been in office for more than 20 years, but his property has become less and less, and his life has become increasingly poor.
 This is when a gentleman is in power and follows his own path.
-Those who plan current affairs cannot flourish their virtues, and those who seek personal gain cannot achieve their merits. After leaving and returning home, he wandered and sojourned in prefectures and counties. He became more dependent on his work and his family became even poorer. As a result, he suffered from hunger and cold, and even lost his eldest son.
-The former general Feng Fengshi was buried in Weiling. After the death of Emperor Ai, he was included in the tomb of Emperor Ai.
 
 summary:
 summary line 2: After his memorial was ignored due to past mistakes, Feng Yan retired to write poems. He reflected on virtue, comparing it to jade or stone, and emphasized adapting to changing times. He criticized rigid adherence to laws and customs, advocating for moral truth over worldly fame. He lamented that his strategies were unused and that he remained a minor official for years, unable to display his abilities. His property diminished over twenty years, and he suffered hunger and cold, even losing his eldest son.
 
-Chunk 2: 
+Chunk 3: 
 original: 
-于是以新丰之东，鸿门之上，寿安之中，地势高敞，四通广大，南望郦山，北属泾渭，东瞰河华，龙门之阳，三晋之路，西顾酆鄗，周秦之丘，客观之墟，通视千里，览见旧都，遂定茔焉。
-退而幽居。
-盖忠臣过故墟而歔欷，孝子入旧室而哀叹。
-每念祖考，著盛德于前，垂鸿烈于后，遭时之祸，坟墓芜秽，春秋蒸尝，昭穆无列，年衰岁暮，悼无成功，将西田牧肥饶之野，殖生产，修孝道，营宗庙，广祭祀。
 然后阖门讲习道德，观览乎孔老之论，庶几乎松、乔之福，上陇阪，陟高冈，游精宇宙，流目八纮。
 历观九州山川之体，追览上古得失之风，愍道陵迟，伤德分崩。
 夫睹其终必原其始，故存其人而咏其道。
 惟吾志之所庶兮，固与俗其不同；既俶傥而高引兮，愿观其从容。显宗即位，又多短衍以文过其实，遂废于家。
+衍娶北地住氏女为妻，悍忌，不得畜媵妾，儿女常自操井臼，老竟逐之，遂埳壈于时。
+然有大志，不戚戚于贱贫。
+居常慷慨叹曰： 衍少事名贤，经历显位，怀金垂紫，揭节奉使，不求苟得，常有陵云之志。
+三公之贵，千金之富，不得其愿，不概于怀。
 translation: 
-So to the east of Xinfeng, above Hongmen, in the middle of Shouan, the terrain is high and spacious, connected to the vastness on all sides, looking to the south of Mount Li, to the north of Jingwei, to the east of Hehua, to the south of Longmen, the road to the Three Jin Dynasties, to the west of Fenggao'an, the earth mountains of the Zhou and Qin Dynasties, the ruins of palaces and temples, with a broad field of vision, and the old capital can be seen, so it was designated as a cemetery.
-Retreat and live in seclusion.
-Loyal ministers will lament when passing by the old ruins, and filial sons will sigh with sadness when entering the old chamber.
-Every time I remember my ancestors, I established great virtues in front of me and passed down my great achievements to future generations. However, I suffer from the disasters of the current situation, the tombs are dirty, the spring and Autumn sacrifices are arranged in disorder, and the arrangement of father south and son north is disordered. At the end of the year, mourning the failure of their achievements, they will go to the fertile and fertile fields to the west to graze, breed and produce, repair filial piety, run the ancestral temple, and conduct sacrifices.
 Then close the door to lecture on morality, watch the remarks of Confucius and Laozi, and maybe enjoy the blessings of red pine nuts and Wang Ziqiao. Climb to Longban, climb to Gaogang, wander around the universe, and see beyond the world.
 Take a closer look at the landscape of Jiuzhou's mountains and rivers, and trace the ethos of gain and loss in ancient times.
 Anyone who sees its end must examine its origin, so we should preserve its people and chant their ways.
 Situated in the wilderness of Kyushu, and connected to the Five Mountains, there is a vague artistic conception that transcends the clouds. So I wrote a poem to express my self-reliance, and named its chapter "Xian Zhi". Xian Zhi means to express the bright and weathered feelings and reveal the mysterious thoughts. After Xianzong ascended the throne, many people said that Feng Yanwen was exaggerating, so he was abandoned at home.
+Feng Yan married a daughter of Ren's family in the North. He was jealous and did not allow Feng Yan to raise a young wife. His children often fetched water and pounded rice to take care of the housework. When they got old, they expelled her, so she was miserable and impoverished for a while.
+However, if you have great ambitions, you will not worry about poverty.
+At home, he once generously sighed: Feng Yan has been taught by wise men since he was a child. He has experienced prominent positions, holds seals and ribbons, holds high talismans and serves envoys, does not ask for anything, and always has the ambition to fly across the sky.
+I don't care to get the high status of the three princes or the huge wealth of thousands of gold, which is not in line with my wishes.
 
 summary:
 summary line 3: Feng Yan chose a cemetery east of Xinfeng, on high ground with broad views, and retreated into seclusion. He mourned his ancestors’ virtues and the disorder of their tombs, planning to repair them and conduct sacrifices. He closed his door to lecture on morality, studying Confucius and Laozi, and sought spiritual blessings. He wrote a poem titled "Xian Zhi" to express his feelings, but after Xianzong ascended the throne, he was accused of exaggeration and abandoned. Feng Yan married a jealous woman who prevented him from raising a young wife, leaving him impoverished in old age. Despite this, he maintained his ambitions, refusing to seek high status or wealth. He died poor and old, leaving behind fifty works valued by Suzong. His son was Feng Bao.

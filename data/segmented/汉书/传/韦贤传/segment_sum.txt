@@ -1,0 +1,208 @@
+Summary uses chunk [0, 3, 4, 4, 8, 12]
+
+Chunk 0: 
+original: 
+韦贤字长孺。鲁国邹人也。
+其先韦孟，家本彭城，为楚元王傅，傅子夷王及孙王戊。
+戊荒淫不遵道，孟作诗风谏。
+后遂去位，徒家于邹，又作一篇。
+其谏诗曰：
+肃肃我祖，国自豕韦，黼衣朱绂，四牡龙旂。
+彤弓斯征，抚宁遐荒，总齐群邦，以翼大商，迭披大彭，勋绩惟光。
+至于有周，历世会同。
+王赧听谮，实绝我邦。
+我邦既绝，厥政斯逸，赏罚之行，非由王室。
+庶尹群后，靡扶靡卫，五服崩离，宗周以队。
+我祖斯微，迁于彭城，在予小子，勤诶厥生，厄此嫚秦，耒耜以耕。
+悠悠嫚秦，上天不宁，乃眷南顾，授汉于京。
+于赫有汉，四方是征，靡适不怀，万国逌平。
+乃命厥弟，建侯于楚，俾我小臣，惟傅是辅。
+兢兢元王，恭俭净一，惠此黎民，纳彼辅弼。
+飨国渐世，垂烈于后，乃及夷王，克奉厥绪。
+咨命不永，唯王统祀，左右陪臣，此惟皇士。
+translation: 
+Wei Xian, whose courtesy name is Changru, was born in Zou, State of Lu.
+His ancestor was Wei Meng, who originally lived in Pengcheng and was the Fu of King Yuan of Chu. He was also the Fu of King Yuan's son, King Yi, and his grandson, Liu Wu.
+Liu Wu was dissolute and disobedient, so Wei Meng wrote poems to ridicule and admonish him.
+Later, Wei Meng resigned from his official position, moved his family to Zoudi, and wrote another remonstrative poem.
+His admonition poem said:
+Our solemn and great ancestors founded the country from the time of Weishi, wearing fur clothes decorated with ax-shaped patterns and Zhu Fu decorated with "Ya" patterns, driving a chariot drawn by four male horses, with dragon pins on them.
+He was given the Tong Gong and was responsible for conquests; he pacified the people in remote areas, took charge of many states, and assisted the Shang Dynasty. Later, there was Dapeng, who also made outstanding achievements.
+By the time of the Zhou Dynasty, our Chu state had been among the princes for several generations and participated in alliances.
+Later, King Nan of Zhou believed the slander and deprived us of the title of Chu State.
+Our Chu State has severed relations with the Zhou Dynasty, and the laws of the Zhou Dynasty are no longer implemented in the Chu State. The matter of rewards and punishments was no longer decided by the Zhou Dynasty.
+The ministers of the imperial court and the princes and princes no longer assisted and protected the Zhou Dynasty; the five areas around the capital fell apart, and Zong Zhou collapsed like this.
+Our ancestors also declined and migrated to Pengcheng. In our generation, life is really hard-working.
+Facing the disaster of being bullied by the powerful Qin, the late king had to go to the fields to cultivate the land himself.
+The arrogant and arrogant Qin State, God will not bless them. God favored and blessed the south, and granted the capital of the Qin Dynasty to the Han Dynasty. The establishment of the Han Dynasty was truly great, with conquests in all directions. Everywhere they went surrendered, and thousands of states were at peace.
+He appointed his younger brother to establish a marquis and a state in the Chu land; let us, the little ministers, assist the King of Chu carefully.
+He is the king of the Yuan Dynasty who is diligent and conscientious. He is respectful, diligent and frugal and lasts for a long time. He blesses all the people with happiness and health, and appoints assistants and ministers to recruit virtuous people.
+After reigning for nearly thirty years, his legacy was passed down to his descendants; later he was succeeded as King Yi, who was able to carry on the legacy.
+It is a pity that King Yi did not live long. King Wu ascended the throne and was succeeded by King Wu. All the ministers around him, gentlemen and gentlemen, are all pillars.
+
+summary:
+summary line 0: Wei Xian, courtesy name Changru, was from Zou in the State of Lu. His ancestor, Wei Meng, served as a tutor to King Yuan of Chu and his descendants. Because Liu Wu was dissolute, Wei Meng wrote poems to admonish him, then resigned and moved his family to Zoudi, where he wrote another remonstrative poem. This poem recounts the history of their lineage from the Shang Dynasty through the Zhou, the decline of Chu, and the rise of the Han Dynasty. It criticizes the current king for neglecting state affairs, indulging in pleasure, and surrounding himself with flatterers, warning him to learn from past examples. Wei Meng later died in Zoudi. It was passed down for five generations to Wei Xian.
+
+Chunk 3: 
+original: 
+济济邹鲁，礼义唯恭，诵习弦歌，于异他邦。
+我虽鄙耇，心其好而，我徒侃尔，乐亦在而。
+孟卒于邹。
+或曰其子孙好事，述先人之志而作是诗也。
+自孟至贤五世。
+贤为人质朴少欲，笃志于学，兼能《礼》、《尚书》，以《诗》教授，号称邹鲁大儒。
+征为博士，给事中，进授昭帝《诗》，稍迁光禄大夫、詹事，至大鸿胪。
+昭帝崩，无嗣，大将军霍光与公卿共尊立孝宣帝。
+帝初即位，贤以与谋议，安宗庙，赐爵关内侯，食邑。
+徙为长信少府，以先帝师，甚见尊重。
+本始三年，代蔡义为丞相，封扶阳侯，食邑七百户。
+时，贤七十余，为相五岁，地节三年以老病乞骸骨，赐黄金百斤，罢归，加赐第一区。
+丞相致仕自贤始。
+年八十二薨，谥曰节侯。
+贤四子：长子方山为高寝令，早终；次子弘，至东海太守；次子舜，留鲁守坟墓；少子玄成，复以明经历位至丞相。
+translation: 
+In the prosperous land of Zoulu, people respected etiquette and righteousness; recited scriptures and learned etiquette and music, which was very different from other places.
+Although I am old, I still like this very much in my heart; my disciples are very happy and also like the rituals and music.
+Wei Meng later died in Zoudi.
+Some people say that his descendants wrote this poem because they did good deeds and recalled the ambitions of their ancestors.
+It has been passed down for five generations from Wei Meng to Wei Xian.
+Wei Xian was a simple man with a pure heart and few desires. He devoted himself to learning. He was proficient in "Li" and "Shangshu" and taught "Poetry" to others. He was called the great Confucian of Zou Lu.
+Later, the imperial court recruited him as a doctor and appointed him as an official. He entered the palace to teach Emperor Zhao to study "Poetry", and was slowly promoted to Guanglu doctor Zhan Shi, and later to Dahonglu.
+Emperor Zhao died without an heir, so the general Huo Guang and the ministers honored him as Emperor Xiaoxuan.
+Emperor Xuan had just ascended the throne. Wei Xian was given the title of Marquis of Guannei and had a household to worship him because he participated in the plan to support Emperor Xuan, stabilize the country and stabilize the country.
+Moved to the Shaofu of Changxin Palace. Because Wei Xian was once the teacher of Emperor Zhao, he was very respected.
+In the third year of Benshi, Wei Xian replaced Cai Yi as prime minister and was granted the title of Marquis of Fuyang, with a settlement of 700 households.
+At that time, Wei Xian was over 70 years old. He had been prime minister for five years and had been in Jiji for three years. He asked the court to resign because of his old age and illness. The court rewarded him with one hundred catties of gold, dismissed him and returned to his hometown, and also gave him a mansion.
+The resignation of the prime minister began with Wei Xian.
+Wei Xian died at the age of eighty-two, and the imperial court gave him the title of Jiehou.
+Wei Xian had four sons: the eldest son, Wei Fangshan, served as the magistrate of Gaodi County and died very early; the second son, Wei Hong, was promoted to the prefect of Shuhai; the third son, Wei Shun, stayed in Lu to guard the cemetery of Wei's ancestral hall; the youngest son, Wei Xuancheng, was promoted to the position of prime minister many times because of his proficiency in Confucian classics.
+
+summary:
+summary line 1: Wei Xian was a simple, pure-hearted man devoted to learning. He was proficient in the "Li" and "Shangshu," taught the "Poetry," and was called the great Confucian of Zou Lu. He was recruited as a doctor, taught Emperor Zhao the "Poetry," and was promoted to Guanglu doctor Zhan Shi and later Dahonglu. After Emperor Zhao died without an heir, Wei Xian was made Marquis of Guannei for his role in supporting Emperor Xuan. He became Shaofu of Changxin Palace and was highly respected. In the third year of Benshi, he became prime minister and was granted the title of Marquis of Fuyang. Over seventy, he served for five years before resigning due to illness, receiving gold and a mansion. His resignation began the practice of prime ministers retiring. He died at eighty-two and was given the title of Jiehou.
+
+Chunk 4: 
+original: 
+故邹鲁谚曰： 遗子黄金满籝，不如一经。
+玄成字少翁，以父任为郎，常侍骑。
+少好学，修父业，尤谦逊下士。
+出遇知识步行，辄下从者，与载送之，以为常。
+其接人，贫贱者益加敬，繇是名誉日广。
+以明经擢为谏大夫，迁大河都尉。
+初，玄成兄弘为太常丞，职奉宗庙，典诸陵邑，烦剧多罪过。
+父贤以弘当为嗣，故敕令自免。弘怀谦，不去官。
+及贤病笃，弘竟坐宗庙事系狱，罪未决。
+室家问贤当为后者，贤恚恨不肯言。
+于是贤门下生博士义倩等与宗家计议，共矫贤令，使家丞上书言大行，以大河都尉玄成为后。
+贤薨，玄成在官闻丧，又言当为嗣，玄成深知其非贤雅意，即阳为病狂，卧便利，妄笑语昏乱。
+征至长安，既葬，当袭爵，以病狂不应召。
+translation: 
+Therefore, there is a proverb in Zoulu: It is better to leave a box full of gold to your son than to leave him a scripture.
+Wei Xuancheng, a young man, was appointed as a Langguan and a regular attendant on Sanqi due to his father's favor.
+He was eager to learn when he was young and inherited his father's Confucianism. He was extremely humble and courteous to virtuous people.
+Sometimes when he went out and met people he knew on foot, he would always ask his attendants to get off the car and take them back as a normal thing.
+He treated people, including the poor and humble, with even greater respect, and his reputation spread far and wide.
+Because he was proficient in Confucian classics, he was promoted to the position of admonishing doctor and then moved to the rank of captain of Dahe County.
+At the beginning, Xuancheng's elder brother Wei Hong was serving as Taichang Cheng, and his duties were to guard the ancestral temple and be in charge of the imperial tombs and gardens. Because of the complicated affairs, he committed many crimes.
+His father Wei Xian, because Wei Hong should be the heir of the Wei family in the future, was afraid that he would be deposed for committing crimes, so he ordered Wei Hong to resign from the official position of Taichang Cheng due to illness. However, Wei Hong was humble and refused to resign.
+When Wei Xian became seriously ill, Wei Hong was finally imprisoned for not being considerate in guarding the ancestral temple, and had not yet been convicted.
+The family members asked Wei Xian who should be the heir to the Wei family, but Wei Xian showed an expression of anger and hatred and refused to speak.
+So Wei Xian's disciple, Dr. Yi Qian, and others discussed with Wei Xian's clan members, pretending that it was Wei Xian's order, and asked the general manager of the Wei family to write a general order to establish Wei Xuan, the captain of Dahe County, as the successor of the Wei family.
+After Wei Xian's death, Xuancheng heard the bad news in his official position and heard that he should be the heir. Xuancheng knew that dismissal was not what his father Wei Xian had always meant, so he pretended to be insane, urinated and defecated in bed, talked nonsense, and laughed wildly.
+The imperial court summoned him to Chang'an. After the funeral, Wei Xuancheng was supposed to inherit his father's title, but Xuancheng pretended to be insane and ignored the imperial edict.
+
+summary:
+summary line 2: Wei Xian had four sons. The eldest, Wei Fangshan, died early. The second, Wei Hong, became a prefect. The third, Wei Shun, guarded the ancestral cemetery. The youngest, Wei Xuancheng, became prime minister due to his knowledge of the classics. A proverb in Zoulu stated it was better to leave a son a classic than a box of gold. Wei Xuancheng was appointed as a Langguan due to his father's favor. He was eager to learn, humble, and respectful to all, earning a wide reputation. He was promoted to admonishing doctor and then captain of Dahe County.
+
+Chunk 4: 
+original: 
+故邹鲁谚曰： 遗子黄金满籝，不如一经。
+玄成字少翁，以父任为郎，常侍骑。
+少好学，修父业，尤谦逊下士。
+出遇知识步行，辄下从者，与载送之，以为常。
+其接人，贫贱者益加敬，繇是名誉日广。
+以明经擢为谏大夫，迁大河都尉。
+初，玄成兄弘为太常丞，职奉宗庙，典诸陵邑，烦剧多罪过。
+父贤以弘当为嗣，故敕令自免。弘怀谦，不去官。
+及贤病笃，弘竟坐宗庙事系狱，罪未决。
+室家问贤当为后者，贤恚恨不肯言。
+于是贤门下生博士义倩等与宗家计议，共矫贤令，使家丞上书言大行，以大河都尉玄成为后。
+贤薨，玄成在官闻丧，又言当为嗣，玄成深知其非贤雅意，即阳为病狂，卧便利，妄笑语昏乱。
+征至长安，既葬，当袭爵，以病狂不应召。
+translation: 
+Therefore, there is a proverb in Zoulu: It is better to leave a box full of gold to your son than to leave him a scripture.
+Wei Xuancheng, a young man, was appointed as a Langguan and a regular attendant on Sanqi due to his father's favor.
+He was eager to learn when he was young and inherited his father's Confucianism. He was extremely humble and courteous to virtuous people.
+Sometimes when he went out and met people he knew on foot, he would always ask his attendants to get off the car and take them back as a normal thing.
+He treated people, including the poor and humble, with even greater respect, and his reputation spread far and wide.
+Because he was proficient in Confucian classics, he was promoted to the position of admonishing doctor and then moved to the rank of captain of Dahe County.
+At the beginning, Xuancheng's elder brother Wei Hong was serving as Taichang Cheng, and his duties were to guard the ancestral temple and be in charge of the imperial tombs and gardens. Because of the complicated affairs, he committed many crimes.
+His father Wei Xian, because Wei Hong should be the heir of the Wei family in the future, was afraid that he would be deposed for committing crimes, so he ordered Wei Hong to resign from the official position of Taichang Cheng due to illness. However, Wei Hong was humble and refused to resign.
+When Wei Xian became seriously ill, Wei Hong was finally imprisoned for not being considerate in guarding the ancestral temple, and had not yet been convicted.
+The family members asked Wei Xian who should be the heir to the Wei family, but Wei Xian showed an expression of anger and hatred and refused to speak.
+So Wei Xian's disciple, Dr. Yi Qian, and others discussed with Wei Xian's clan members, pretending that it was Wei Xian's order, and asked the general manager of the Wei family to write a general order to establish Wei Xuan, the captain of Dahe County, as the successor of the Wei family.
+After Wei Xian's death, Xuancheng heard the bad news in his official position and heard that he should be the heir. Xuancheng knew that dismissal was not what his father Wei Xian had always meant, so he pretended to be insane, urinated and defecated in bed, talked nonsense, and laughed wildly.
+The imperial court summoned him to Chang'an. After the funeral, Wei Xuancheng was supposed to inherit his father's title, but Xuancheng pretended to be insane and ignored the imperial edict.
+
+summary:
+summary line 3: When Wei Xian was ill, he was angry that Wei Hong, who was supposed to be the heir, was imprisoned for a crime. Wei Xian's disciple and clan members, pretending it was his order, established Wei Xuancheng as the successor. Xuancheng knew this was not his father's wish, so he feigned insanity to avoid inheriting the title. The court investigated, and many believed he was trying to give the title to his brother. The prime minister and censor impeached him for feigning illness, but the emperor did not punish him and instead called him to serve. Xuancheng accepted the title. Emperor Xuan made him governor of Henan and his brother Wei Hong a captain. Xuancheng later became a guard in Weiyang Palace and was promoted to Taichang. Due to a mistake during a rainstorm when he rode instead of using a four-horse cart to the ancestral temple, he was demoted to the rank of Guannei Marquis. He was deeply saddened and wrote a poem blaming himself, lamenting his loss of title and vowing to be more careful.
+
+Chunk 8: 
+original: 
+久之，上欲感风宪王，辅以礼让之臣，乃召拜玄成为淮阳中尉。
+是时，王未就国，玄成受诏，与太子太傅萧望之及《五经》诸儒杂论同异于石渠阁，条奏其对。
+及元帝即位，以玄成为少府，迁太子太傅，至御史大夫。
+永光中，代于定国为丞相。
+贬黜十年之间，遂继父相位，封侯故国，荣当世焉。
+玄成复作诗，自著复玷缺之艰难，因以戒示子孙，曰：
+于肃君子，既令厥德，仪服此恭，棣棣其则。
+咨余小子，既德靡逮，曾是车服，荒嫚以队。
+明明天子，俊德烈烈，不遂我遗，恤我九列。
+我既兹恤，惟夙惟夜，畏忌是申，供事靡惰。
+天子我监，登我三事，顾我伤队，爵复我旧。
+translation: 
+After a long time, Emperor Xuan wanted to influence King Xian from the side and make him understand, so he wanted people who knew etiquette and resignation to assist him, so he summoned Wei Xuancheng and worshiped him as the lieutenant of Huaiyang.
+At this time, King Xian had not yet taken office in his own kingdom. Xuancheng accepted Shao's order and discussed the similarities and differences of the scriptures with the prince Taifu Xiao Wangzhi and the Confucian scholars who were responsible for the "Five Classics" in Shiquhe, and wrote an entry to inquire the emperor.
+After Emperor Yuan came to the throne, he appointed Xuancheng as Shaofu, promoted to Prince Taifu, and later became Yushi Dafu.
+During the Yongguang period, Wei Xuancheng replaced Yu Dingguo as prime minister.
+Wei Xuancheng was demoted for about ten years, and then took the official position of the prime minister where his father had been. He was also made a marquis in the original feudal country, and he was honored in the world.
+Xuancheng wrote another poem in which he expressed the difficulty of getting up from mistakes and used it to admonish his descendants. The poem said:
+A solemn gentleman cultivates his own virtue by behaving dignifiedly. He treats etiquette and dress respectfully and is neat and tidy to serve as a model.
+Alas, I am a humble person, but my virtue is not as good as theirs. I was deprived of my title because I was careless in dress, carriage and carriage.
+The sage emperor has outstanding virtues; he did not abandon me in the end and let me rank among the nine ministers.
+Since I received such a favor from the emperor, I have been careful day and night, warning myself to exercise self-discipline and not to neglect my duties as an official.
+The emperor was aware of my situation and promoted me to the position of Prime Minister among the three nobles. Considering that I was sad about my past mistakes and losing my title, I restored my original title.
+
+summary:
+summary line 4: Later, Emperor Xuan wanted someone to influence King Xian of Huaiyang, so he appointed Wei Xuancheng as the lieutenant of Huaiyang. After Emperor Yuan came to the throne, Xuancheng became Shaofu, Prince Taifu, and Yushi Dafu. During the Yongguang period, he replaced Yu Dingguo as prime minister, returning to the same position his father held. He wrote another poem admonishing his descendants to be careful in their duties and dress. He served as prime minister for seven years, surpassing his father in literary talent but not in ethical stability. He died in the third year of Jianzhao and was named Gonghou. He requested to be buried with his father, which was granted. His descendants inherited his title.
+
+Chunk 12: 
+original: 
+至元帝时，贡禹奏言： 古者天子七庙，今孝惠、孝景庙皆亲尽，宜毁。
+及郡国庙不应古礼，宜正定。
+天子是其议，未及施行而禹卒。
+光永四年，乃下诏先议罢郡国庙，曰： 朕闻明王之御世也，遭时为法，因事制宜。
+往者天下初定，远方未宾，因尝所亲以立宗庙，盖建威销萌，一民之至权也。
+今赖天地之灵，宗庙之福，四方同轨，蛮貊贡职，久遵而不定，令疏远卑贱共承尊祀，殆非皇天祖宗之意，朕甚惧焉。
+传不云乎？ 吾不与祭，如不祭。 其与将军、列侯、中二千石、二千石、诸大夫、博士、议郎议。
+丞相玄成、御史大夫郑弘、太子太傅严彭祖、少府欧阳地馀、谏大夫尹更始等七十人皆曰： 臣闻祭，非自外至者也，繇中出，生于心也。
+故唯圣人为能飨帝，孝子为能飨亲。
+立庙京师之居，躬亲承事，四海之内各以其职来助祭，尊亲之大义，五帝、三王所共，不易之道也。
+《诗》云： 有来雍雍，至止肃肃，相维辟公，天子穆穆。 《春秋》之义，父不祭于支庶之宅，君不祭于臣仆之家，王不祭于下土诸侯。
+臣等愚以为宗庙在郡国，宜无修，臣请勿复修。
+translation: 
+When Emperor Yuan arrived, Gong Yu wrote a letter saying: In the ancient ritual system, the emperor only had seven temples. Now that all the direct relatives of Emperor Xiaohui and Emperor Xiaojing's ancestral temples are dead, the temples should be destroyed.
+And the ancestral temples of various vassal states that do not conform to the ancient rituals should also be corrected.
+Emperor Yuan agreed with his suggestion, but died before Gong Yu could implement it.
+In the fourth year of Yongguang's reign, the emperor issued an edict to the ministers to discuss the cancellation of the ancestral temples of various princes. Shao Shu said: I heard that when the wise kings governed the world, they formulated laws and regulations according to the changes of the times, and adopted different methods according to different events.
+In the past, when the world had just been peaceful and people in remote areas had not yet surrendered, the former emperor built ancestral temples in places he personally visited. This was to establish prestige, eliminate hidden dangers, and unify people under one supreme authority.
+Now, thanks to the power of heaven and earth and the great blessings of our ancestors, the world is unified and the remote peoples surrender. Later generations of monarchs have long followed the emperor's etiquette without changing it, so that alienated and humble people can join the royal family in worshiping the sacred ancestral temple. This is probably not what God and our ancestors want, so I am very afraid.
+Doesn't the Analects of Confucius say that if I don't personally participate in the sacrifice, it's the same as if I don't hold the sacrifice. Now I invite the generals, the princes and kings, the officials of the two thousand shi, the officials of the 2,000 shi, the officials, doctors, and counselors to discuss this matter together.
+Seventy people, including Prime Minister Wei Xuancheng, Imperial Censor Zheng Hong, Crown Prince Tufu Yan Pengzu, Shaofu Ouyang Diyu, and Admonishing Doctor Yin Gengshi, responded together and said: We have heard that worshiping ancestors is not due to external influence, but to do so from the heart.
+Therefore, only saints can truly worship the late emperor, and only filial sons can truly worship their father.
+If you build an ancestral temple in the place where you, the emperor, live in the capital, and personally preside over the sacrifices, officials from all over the world will bring sacrifices to assist in the sacrifices according to their duties. This is the essence of worshiping the ancestors, and it is the eternal path that the five emperors and three kings abide by.
+The "Poetry" says: The people who came to offer sacrifices were very peaceful and very respectful when they arrived; the people who came to offer sacrifices were all ministers, princes and the emperor, and they presided over the sacrifices in a very solemn and solemn way. The great principle of "Spring and Autumn" is that you should not offer sacrifices to your ancestors in the homes of common people nearby, not to offer sacrifices to your ancestors in the homes of ministers and servants, and not to offer sacrifices to your ancestors in the homes of princes below.
+We believe that the ancestral temples of the late emperors in various vassal states should not be built, and we request that no more be built.
+
+summary:
+summary line 5: The text then discusses the system of ancestral temples. During Emperor Gaozu's reign, temples were built in various vassal states. Over time, many temples were established. During Emperor Yuan's reign, Gong Yu proposed destroying temples that did not conform to ancient rituals. After discussion, many temples were abolished. Later, due to the emperor's illness and dreams, some temples were restored, but the ancestral temples in vassal states were ultimately abandoned. After Emperor Yuan's death, Kuang Heng proposed further abolitions. During Emperor Ai's reign, a debate occurred about whether to destroy Emperor Xiaowu's temple. Some argued for its preservation due to his great achievements, while others argued for its destruction based on ritual. The emperor adopted the suggestion to preserve it. During Emperor Ping's reign, Wang Mang proposed destroying the Huangkao Temple and other gardens, which was approved. The historian Ban Biao noted that the Han dynasty's ancestral system was determined according to the times, and the plans of the Confucian scholars, particularly Liu Xin, were profound.
+

@@ -1,4 +1,4 @@
-Summary uses chunk [0, 0, 1, 5]
+Summary uses chunk [0, 0, 1, 6]
 
 Chunk 0: 
 original: 
@@ -111,9 +111,6 @@ original:
 自此以后，乃令史官记地动所从方起。
 时，政事渐损，权移于下，衡因上疏陈事曰：
 伏惟陛下宣哲克明，继体承天，中遭倾覆，龙德泥蟠。
-今乘云高跻，磐桓天位，诚所谓将隆大位，必先倥偬之也。
-亲履艰难者知下情，备经险易者达物伪。
-故能一贯万机，靡所疑惑，百揆允当，庶绩咸熙。宜获福祉神祗，受誉黎庶。
 translation: 
 It is made of fine copper, with a diameter of eight feet, a protruding top cover, shaped like a wine bottle, and decorated with images of turtles, birds and beasts in seal script.
 There is a big pillar in the middle, with eight paths running beside it, which is used to shut down the engine.
@@ -126,15 +123,15 @@ Once upon a time, a dragon's plan came out and the earth did not move, and the s
 From then on, historians were ordered to record the place where the earthquake occurred.
 At that time, political affairs were gradually declining and power was controlled by subordinates. Zhang Heng then went to the court to explain the matter.
 Said: The emperor is smart and wise, and he upholds the destiny. Unfortunately, when he became the prince, he was deposed as the king of Jiyin and his virtue was not promoted.
-Now riding on the clouds, if you don't enter the heavenly throne, it is really said that before you ascend to the great throne, you must first be poor.
-Those who have gone through hardships personally understand the situation; those who have experienced dangers and hardships understand the authenticity of things.
-Therefore, it can handle all situations without any doubts. The measures are appropriate and all walks of life are coordinated. They should be blessed by the gods and loved by the common people.
 
 summary:
 summary line 2: As political affairs declined, Zhang Heng advised the emperor against sharing power with subordinates, warning that disasters stemmed from moral failings. He criticized prophecies as false, noting they emerged only after the Cheng and Ai periods and contradicted classical texts. He urged their suppression to prevent confusion.
 
-Chunk 5: 
+Chunk 6: 
 original: 
+尝问衡天下所疾恶者。
+回志朅来从玄諆，获我所求夫何思！永和初，出为河间相。
+时国王骄奢，不遵典宪；又多豪右，共为不轨。
 衡下车，治威严，整法度，阴知奸党名姓，一时收禽，上下肃然，称为政理。
 视事三年，上书乞骸骨，征拜尚书。
 年六十二，永和四年卒。
@@ -148,8 +145,10 @@ original:
 又更始居位，人无异望。
 光武初为其将，然后即真，宜以更始之号建于光武之初。
 书数上，竟不听。
-及后之著述，多不详典，时人追恨之。
 translation: 
+I once asked Zhang Heng what the world hates.
+At the beginning of Emperor Shun's Yonghe reign, he came out as the Prime Minister of Hejian.
+At that time, the king of Hejian was arrogant and extravagant and did not abide by the law. There were also many powerful people who gathered together to cause trouble.
 When Zhang Heng took office, he established his authority, rectified the laws, secretly found out the names of traitors, and arrested them at once. He was awe-inspiring from top to bottom, and he was known for his political integrity.
 After serving for three years, he submitted a letter requesting to retire and return home. Ask for help from the minister.
 He died in the fourth year of Yonghe's reign at the age of sixty-two.
@@ -163,7 +162,6 @@ He also believed that the original biography of Wang Mang should only record the
 He was appointed again, and the people had no objections.
 Guangwu was his general at the beginning, and he came to the throne later. The title of Gengshi should be built before Guangwu.
 I submitted the letter several times, but it was not accepted.
-Later writings were mostly unknown in classics, which was a pity for the people at the time.
 
 summary:
 summary line 3: Later, as Prime Minister of Hejian, Zhang Heng curbed the king's arrogance and lawlessness, earning a reputation for integrity. After three years, he requested retirement and died at sixty-two. He authored thirty-two works, including poems and essays. He also sought to correct historical records, arguing that Wang Mang's biography should focus on usurpation and that Gengshi's title should precede Guangwu's, but his proposals were not accepted. The historian praised his profound wisdom and mechanical ingenuity, noting that his virtue was not diminished by his skills.
