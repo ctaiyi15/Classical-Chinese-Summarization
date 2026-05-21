@@ -1,0 +1,513 @@
+Summary uses chunk [0, 0, 1, 3, 8, 11, 11]
+
+Chunk 0: 
+original: 
+赵氏之先，与秦共祖。
+至中衍，为帝大戊御。
+其后世蜚廉有子二人，而命其一子曰恶来，事纣，为周所杀，其后为秦。
+恶来弟曰季胜，其后为赵。
+季胜生孟增。
+孟增幸于周成王，是为宅皋狼。
+皋狼生衡父，衡父生造父。
+造父幸于周缪王。
+造父取骥之乘匹，与桃林盗骊、骅骝、绿耳，献之缪王。
+缪王使造父御，西巡狩，见西王母，乐之忘归。
+而徐偃王反，缪王日驰千里马，攻徐偃王，大破之。
+乃赐造父以赵城，由此为赵氏。
+自造父以下六世至奄父，曰公仲，周宣王时伐戎，为御。
+及千亩战，奄父脱宣王。
+奄父生叔带。
+叔带之时，周幽王无道，去周如晋，事晋文侯，始建赵氏于晋国。
+自叔带以下，赵宗益兴，五世而至赵夙。
+赵夙，晋献公之十六年伐霍、魏、耿，而赵夙为将伐霍。
+霍公求奔齐。
+晋大旱，卜之，曰 霍太山为祟 。
+使赵夙召霍君于齐，复之，以奉霍太山之祀，晋复穰。
+晋献公赐赵夙耿。
+夙生共孟，当鲁闵公之元年也。
+共孟生赵衰，字子余。
+赵衰卜事晋献公及诸公子，莫吉；卜事公子重耳，吉，即事重耳。
+重耳以骊姬之乱亡奔翟，赵衰从。
+翟伐廧咎如，得二女，翟以其少女妻重耳，长女妻赵衰而生盾。
+初，重耳在晋时，赵衰妻亦生赵同、赵括、赵婴齐。
+赵衰从重耳出亡，凡十九年，得反国。
+重耳为晋文公，赵衰为原大夫，居原，任国政。
+translation: 
+The ancestors of the Zhao family and the Qin people have the same ancestor.
+When it was passed to Zhongyan, he became the person who drove horses and chariots for Emperor Taiwu of the Shang Dynasty.
+His descendant Feilian had two sons. One son was named Eilai and served King Zhou. He was later killed by the Zhou people. His descendants were the Ying Qin family.
+Erlai's younger brother was named Ji Sheng, and his descendants were the Zhao people.
+Ji Sheng gave birth to Meng Zeng.
+Meng Zeng was favored by King Zhou Cheng, and this was Zhai Gaolang.
+Gaolang begat Hengfu, and Hengfu begat Zaofu.
+Zaofu was favored by King Mu of Zhou.
+Cepheus selected eight horses and presented them to King Mu along with the famous horses such as Robber, Hualiu, and Luer obtained in Taolin.
+King Mu asked Zaofu to drive his chariot to the west for inspection. He met the Queen Mother of the West and was so happy that he forgot to go back.
+Soon, King Xu Yan launched a rebellion. King Mu rode a carriage and traveled thousands of miles a day to attack King Xu Yan and completely defeat him.
+So he gave the city of Zhao to Zaofu, and he became the Zhao family from then on.
+From Zaofu down through six generations, it was passed down to Yanfu, whose courtesy name was Gongzhong. When King Xuan of Zhou attacked the Rong people, he drove his chariot for King Xuan.
+In the Battle of Thousand Acres, Yanfu saved King Xuan from danger.
+Am's father gave birth to his uncle.
+During the reign of his uncle, King You of Zhou was debauched and immoral, so he left the Zhou Dynasty and went to Jin, where he served Marquis Wen of Jin and began to establish the Zhao family in Jin.
+From the uncle down, the Zhao family became more and more prosperous, and after five generations it was passed down to Zhao Su.
+Zhao Su, in the 16th year of Duke Xian of Jin, conquered the three kingdoms of Huo, Wei, and Geng. He led the army to conquer the Huo Kingdom.
+Huo Gongqiu fled to Qi State.
+This year there was a severe drought in the Jin State, and the divination result said: The gods of Mount Huo Tai are causing trouble.
+So Zhao Su was sent to Qi State to welcome back the king of Huo State, restored his status, and asked him to preside over the sacrifices at Mount Huo Tai. Only then did Jin State have a good harvest again.
+Duke Xian of Jin gave the land of Geng to Zhao Su.
+The year when Zhao Su came down to share the throne with Meng was the first year of Lu Min.
+Mencius was born in the same family as Zhao Shui, whose courtesy name was Ziyu.
+Zhao Shui used divination to decide whether to serve Duke Xian of Jin or other princes, but the result was unlucky. When the divination revealed that he was serving Prince Chong'er, the result was auspicious, so he went to serve Chong'er.
+Chong'er fled to Zhai State due to the Liji Rebellion, and Zhao Shui followed him.
+The Zhai people attacked Yao Jiuru and got two women. Zhai Jun gave the young girl to Chong'er as his wife, and the older girl to Zhao Shui as his wife, and they gave birth to Zhao Dun.
+When Chong'er was in Jin, Zhao Shuai's first wife had already given birth to Zhao Tong, Zhao Kuo and Zhao Yingqi.
+Zhao Shui fled with Chong'er for a total of nineteen years before he was able to return to Jin.
+Chong'er became Duke Wen of Jin, and Zhao Shui became the official of Yuan. He lived in Yuan City and presided over state affairs.
+
+summary:
+summary line 0: The Zhao family shares a common ancestor with the Qin people. Their lineage traces back to Zhongyan, who served as a charioteer for Emperor Taiwu of the Shang Dynasty. His descendant Feilian had two sons: Eilai, who served King Zhou and was killed by the Zhou people, becoming the ancestor of the Ying Qin family; and Ji Sheng, whose descendants became the Zhao family. Ji Sheng's line included Meng Zeng, favored by King Cheng of Zhou, and eventually Zaofu, who served King Mu of Zhou. Zaofu presented eight fine horses to King Mu and drove his chariot westward, where the king met the Queen Mother of the West. When King Xu Yan rebelled, Zaofu drove King Mu thousands of miles in a day to crush the rebellion, and was rewarded with the city of Zhao, establishing the Zhao family name.
+
+Chunk 0: 
+original: 
+赵氏之先，与秦共祖。
+至中衍，为帝大戊御。
+其后世蜚廉有子二人，而命其一子曰恶来，事纣，为周所杀，其后为秦。
+恶来弟曰季胜，其后为赵。
+季胜生孟增。
+孟增幸于周成王，是为宅皋狼。
+皋狼生衡父，衡父生造父。
+造父幸于周缪王。
+造父取骥之乘匹，与桃林盗骊、骅骝、绿耳，献之缪王。
+缪王使造父御，西巡狩，见西王母，乐之忘归。
+而徐偃王反，缪王日驰千里马，攻徐偃王，大破之。
+乃赐造父以赵城，由此为赵氏。
+自造父以下六世至奄父，曰公仲，周宣王时伐戎，为御。
+及千亩战，奄父脱宣王。
+奄父生叔带。
+叔带之时，周幽王无道，去周如晋，事晋文侯，始建赵氏于晋国。
+自叔带以下，赵宗益兴，五世而至赵夙。
+赵夙，晋献公之十六年伐霍、魏、耿，而赵夙为将伐霍。
+霍公求奔齐。
+晋大旱，卜之，曰 霍太山为祟 。
+使赵夙召霍君于齐，复之，以奉霍太山之祀，晋复穰。
+晋献公赐赵夙耿。
+夙生共孟，当鲁闵公之元年也。
+共孟生赵衰，字子余。
+赵衰卜事晋献公及诸公子，莫吉；卜事公子重耳，吉，即事重耳。
+重耳以骊姬之乱亡奔翟，赵衰从。
+翟伐廧咎如，得二女，翟以其少女妻重耳，长女妻赵衰而生盾。
+初，重耳在晋时，赵衰妻亦生赵同、赵括、赵婴齐。
+赵衰从重耳出亡，凡十九年，得反国。
+重耳为晋文公，赵衰为原大夫，居原，任国政。
+translation: 
+The ancestors of the Zhao family and the Qin people have the same ancestor.
+When it was passed to Zhongyan, he became the person who drove horses and chariots for Emperor Taiwu of the Shang Dynasty.
+His descendant Feilian had two sons. One son was named Eilai and served King Zhou. He was later killed by the Zhou people. His descendants were the Ying Qin family.
+Erlai's younger brother was named Ji Sheng, and his descendants were the Zhao people.
+Ji Sheng gave birth to Meng Zeng.
+Meng Zeng was favored by King Zhou Cheng, and this was Zhai Gaolang.
+Gaolang begat Hengfu, and Hengfu begat Zaofu.
+Zaofu was favored by King Mu of Zhou.
+Cepheus selected eight horses and presented them to King Mu along with the famous horses such as Robber, Hualiu, and Luer obtained in Taolin.
+King Mu asked Zaofu to drive his chariot to the west for inspection. He met the Queen Mother of the West and was so happy that he forgot to go back.
+Soon, King Xu Yan launched a rebellion. King Mu rode a carriage and traveled thousands of miles a day to attack King Xu Yan and completely defeat him.
+So he gave the city of Zhao to Zaofu, and he became the Zhao family from then on.
+From Zaofu down through six generations, it was passed down to Yanfu, whose courtesy name was Gongzhong. When King Xuan of Zhou attacked the Rong people, he drove his chariot for King Xuan.
+In the Battle of Thousand Acres, Yanfu saved King Xuan from danger.
+Am's father gave birth to his uncle.
+During the reign of his uncle, King You of Zhou was debauched and immoral, so he left the Zhou Dynasty and went to Jin, where he served Marquis Wen of Jin and began to establish the Zhao family in Jin.
+From the uncle down, the Zhao family became more and more prosperous, and after five generations it was passed down to Zhao Su.
+Zhao Su, in the 16th year of Duke Xian of Jin, conquered the three kingdoms of Huo, Wei, and Geng. He led the army to conquer the Huo Kingdom.
+Huo Gongqiu fled to Qi State.
+This year there was a severe drought in the Jin State, and the divination result said: The gods of Mount Huo Tai are causing trouble.
+So Zhao Su was sent to Qi State to welcome back the king of Huo State, restored his status, and asked him to preside over the sacrifices at Mount Huo Tai. Only then did Jin State have a good harvest again.
+Duke Xian of Jin gave the land of Geng to Zhao Su.
+The year when Zhao Su came down to share the throne with Meng was the first year of Lu Min.
+Mencius was born in the same family as Zhao Shui, whose courtesy name was Ziyu.
+Zhao Shui used divination to decide whether to serve Duke Xian of Jin or other princes, but the result was unlucky. When the divination revealed that he was serving Prince Chong'er, the result was auspicious, so he went to serve Chong'er.
+Chong'er fled to Zhai State due to the Liji Rebellion, and Zhao Shui followed him.
+The Zhai people attacked Yao Jiuru and got two women. Zhai Jun gave the young girl to Chong'er as his wife, and the older girl to Zhao Shui as his wife, and they gave birth to Zhao Dun.
+When Chong'er was in Jin, Zhao Shuai's first wife had already given birth to Zhao Tong, Zhao Kuo and Zhao Yingqi.
+Zhao Shui fled with Chong'er for a total of nineteen years before he was able to return to Jin.
+Chong'er became Duke Wen of Jin, and Zhao Shui became the official of Yuan. He lived in Yuan City and presided over state affairs.
+
+summary:
+summary line 1: Six generations later, Yanfu served King Xuan of Zhou as a charioteer and saved him at the Battle of Thousand Acres. His son Shudai left the debauched court of King You of Zhou to serve Marquis Wen of Jin, beginning the Zhao family's rise in Jin. Five generations later, Zhao Su conquered the states of Huo, Wei, and Geng for Duke Xian of Jin. When a drought struck Jin, divination revealed the god of Mount Huo Tai was angry, so Zhao Su restored the king of Huo to appease the god, and the drought ended. Zhao Shui, a descendant, used divination to decide to serve Prince Chong'er, following him into exile for nineteen years. After Chong'er became Duke Wen of Jin, Zhao Shui became a high official and helped him become hegemon.
+
+Chunk 1: 
+original: 
+文公所以反国及霸，多赵衰计策，语在晋事中。
+赵衰既反晋，晋之妻固要迎翟妻，而以其子盾为适嗣，晋妻三子皆下事之。
+晋襄公之六年，而赵衰卒，谥为成季。
+赵盾代成季任国政二年而晋襄公卒，太子夷皋年少。
+盾为国多难，欲立襄公弟雍。
+雍时在秦，使使迎之。
+太子母日夜啼泣，顿首谓赵盾曰： 先君何罪，释其适子而更求君？
+赵盾患之，恐其宗与大夫袭诛之，乃遂立太子，是为灵公，发兵距所迎襄公弟于秦者。
+灵公既立，赵盾益专国政。
+灵公立十四年，益骄。
+赵盾骤谏，灵公弗听。
+及食熊蹯，胹不熟，杀宰人，持其尸出，赵盾见之。
+灵公由此惧，欲杀盾。
+盾素仁爱人，尝所食桑下饿人反扞救盾，盾以得亡。
+未出境，而赵穿弑灵公而立襄公弟黑臀，是为成公。
+赵盾复返，任国政。
+君子讥盾 为正卿，亡不出境，反不讨贼 ，故太史书曰 赵盾弑其君 。
+晋景公时而赵盾卒，谥为宣孟。子朔嗣。
+赵朔，晋景公之三年，朔为晋将下军救郑，与楚庄王战河上。
+朔娶晋成公姊为夫人。
+晋景公之三年，大夫屠岸贾欲诛赵氏。
+初，赵盾在时，梦见叔带持要而哭，甚悲；已而笑，拊手且歌。
+盾卜之，兆绝而后好。
+赵史援占之，曰： 此梦甚恶，非君之身，乃君之子，然亦君之咎。
+至孙，赵将世益衰。
+屠岸贾者，始有宠于灵公，及至于景公而贾为司寇，将作难，乃治灵公之贼以致赵盾。遍告诸将曰： 盾虽不知，犹为贼首。
+translation: 
+The reason why Duke Wen of Jin was able to return and become the overlord was mostly due to Zhao Shuai's strategy. These things are all recorded in "Jin Family".
+After Zhao Shui returned to Jin, his first wife in Jin insisted on welcoming back the wife he married in Zhai, and made Zhai's wife's son Zhao Dun the official heir, while his three sons served him in lower positions.
+In the sixth year of Duke Xianggong of Jin Dynasty, Zhao Shui passed away, and his posthumous title was Cheng Ji.
+Two years after Zhao Dun succeeded Cheng Ji in presiding over the state affairs, Duke Xianggang of Jin passed away and Prince Yigao was young.
+Because the country was in trouble, Zhao Dun wanted to make Yong, the younger brother of Duke Xiang, the king of the country.
+Yong was in Qin at that time, so he sent envoys to meet him.
+The prince's mother cried day and night, kowtowed to Zhao Dun and said: "What sin did the late king have? Why did he abandon his legitimate son and establish another king?"
+Zhao Dun was worried about this and was afraid that her clan members and officials would attack and kill her, so he appointed the crown prince, Duke Linggong of Jin, and sent troops to intercept the group of people who came to Qin to meet Duke Xianggong's younger brother.
+After Duke Linggong ascended the throne, Zhao Dun took more control of the political affairs of Jin.
+Fourteen years after Ling Gong succeeded to the throne, Zhao Lai became more and more arrogant.
+Zhao Dun remonstrated many times, but Duke Linggong did not listen.
+Once he ate bear paws, but because they were not cooked properly, he killed the catering officer and had his body carried out, where Zhao Dun happened to see him.
+Duke Ling was frightened and wanted to kill Zhao Dun.
+Zhao Dun was always kind and kind to others. He once gave food to a man who was hungry and fell under a mulberry tree. The man stepped forward to rescue Zhao Dun, and Zhao Dun was able to escape.
+Before he could escape from the country, Zhao Chuan killed Duke Ling and made Heihui, the younger brother of Duke Xiang, the king. This was Duke Cheng of Jin.
+Zhao Dun returned to preside over state affairs.
+The gentleman ridiculed Zhao Dun: As a minister, he fled without leaving the country, and did not punish the rebels when he returned. Therefore, the historian recorded that Zhao Dun killed his king.
+Zhao Dun died during the reign of Duke Jinggong of Jin Dynasty. His posthumous title was Xuan Meng, and his son Zhao Shuo inherited the title.
+In the third year of Duke Jinggong of Jin Dynasty, Zhao Shuo led the Jin army to rescue Zheng State and fought with King Zhuang of Chu on the Yellow River.
+Zhao Shuo married Jin Chenggong's sister as his wife.
+In the third year of Duke Jinggong's reign in Jin Dynasty, the official Tu Anjia wanted to kill the entire Zhao family.
+When Zhao Dun was still alive, he once dreamed that his uncle was hugging his waist and crying bitterly. He was very sad; then he laughed and clapped his hands and sang.
+Zhao Dun performed a divination for this purpose, and the cracks burned on the tortoise shell were interrupted and then intact.
+A historian named Yuan of Zhao State judged: This dream is unlucky. It did not come true on you, but on your son, but it was also because of your fault.
+By your grandson's generation, the Zhao family will be even more in decline.
+Tu Anjia was favored by Duke Lin at first. When he arrived at Jinggong, he became a scourge. When he was about to cause trouble, he first punished the rebels who killed Duke Lin in order to implicate Zhao Dun. At the same time, he informed all the generals that although Zhao Dun did not know about it, he was still the chief culprit.
+
+summary:
+summary line 2: After Zhao Shui's death, his son Zhao Dun succeeded him. When Duke Xiang of Jin died, Zhao Dun initially planned to install a younger brother as ruler due to the young age of the crown prince, but the prince's mother's pleas led him to install the crown prince as Duke Ling of Jin. Duke Ling grew tyrannical, and when he tried to kill Zhao Dun, Zhao Dun fled. Before he could escape the country, Zhao Chuan killed Duke Ling. Zhao Dun returned to preside over state affairs, but historians recorded that he killed the king because he did not punish the rebels. Zhao Dun's son Zhao Shuo married Duke Cheng of Jin's sister. During Duke Jing's reign, the official Tu Anjia, seeking to destroy the Zhao family, falsely accused Zhao Dun of regicide and attacked the Zhao residence, killing Zhao Shuo and his brothers, though Zhao Shuo's pregnant wife escaped to the palace.
+
+Chunk 3: 
+original: 
+然赵氏真孤乃反在，程婴卒与俱匿山中。
+居十五年，晋景公疾，卜之，大业之后不遂者为祟。
+景公问韩厥，厥知赵孤在，乃曰： 大业之后在晋绝祀者，其赵氏乎？
+夫自中衍者皆嬴姓也。
+中衍人面鸟噣，降佐殷帝大戊，及周天子，皆有明德。
+下及幽厉无道，而叔带去周适晋，事先君文侯，至于成公，世有立功，未尝绝祀。
+今吾君独灭赵宗，国人哀之，故见龟策。
+唯君图之。
+景公问： 赵尚有后子孙乎？
+韩厥具以实告。
+于是景公乃与韩厥谋立赵孤儿，召而匿之宫中。
+诸将入问疾，景公因韩厥之众以胁诸将而见赵孤。
+赵孤名曰武。
+诸将不得已，乃曰： 昔下宫之难，屠岸贾为之，矫以君命，并命群臣。非然，孰敢作难！
+微君之疾，群臣固且请立赵后。
+今君有命，群臣之愿也。
+于是召赵武、程婴遍拜诸将，遂反与程婴、赵武攻屠岸贾，灭其族。
+复与赵武田邑如故。
+及赵武冠，为成人，程婴乃辞诸大夫，谓赵武曰： 昔下宫之难，皆能死。
+我非不能死，我思立赵氏之后。
+今赵武既立，为成人，复故位，我将下报赵宣孟与公孙杵臼。
+赵武啼泣顿首固请，曰： 武愿苦筋骨以报子至死，而子忍去我死乎！
+程婴曰： 不可。
+彼以我为能成事，故先我死；今我不报，是以我事为不成。
+遂自杀。
+赵武服齐衰三年，为之祭邑，春秋祠之，世世勿绝。
+赵氏复位十一年，而晋厉公杀其大夫三郄。
+栾书畏及，乃遂弑其君厉公，更立襄公曾孙周，是为悼公。
+translation: 
+However, the real Zhao orphan was still alive, and Cheng Ying ended up hiding in the mountains with him.
+Fifteen years later, Jin Jinggong fell ill and performed a divination. The divination revealed that Daye's descendants were causing trouble due to the cessation of sacrifices.
+Jinggong asked Han Jue. Han Jue knew that the orphan of the Zhao family was still alive, so he said: Among the descendants of Daye who have now cut off their incest in Jin, isn't it the Zhao family?
+The descendants descended from it all bear the surname Ying.
+Zhongyan, a man with a human face and a bird's beak, came to the world to assist Emperor Taiwu of Yin, and the several emperors of Zhou assisted by his descendants all had good virtues.
+Further down to King Li and King You, who were ignorant and ignorant, Shudai left the Zhou Dynasty and came to the Jin Dynasty to serve the ancestor Wenhou. Until they became dukes, they established achievements for generations and never stopped their incense.
+Now only you, the monarch, have destroyed the Zhao clan, and the people of Jin are mourning for them, so it was revealed in the divination.
+I hope you will consider this!
+Jinggong asked: "Does the Zhao family have any descendants?"
+Han Jue told Jinggong completely the truth.
+So Jinggong discussed with Han Jue to create an orphan of the Zhao family, and first found him and hid him in the palace.
+The generals entered the palace to inquire about Jinggong's condition. Jinggong relied on Han Jue's many followers to force the generals to meet the Zhao orphans.
+The orphan of the Zhao family is named Zhao Wu.
+The generals had no choice but to say: The incident in the palace was instigated by Tu'anjia. He falsely conveyed the emperor's orders and issued orders to the ministers. If not, who would dare to initiate a rebellion!
+Even if the monarch is not sick, we ministers must support the descendants of the Zhao family.
+Now that you have given the order, this is also our wish!
+So Zhao Wu and Cheng Ying were asked to thank the generals one by one. The generals in turn joined Cheng Ying and Zhao Wu to attack Tu'anjia and annihilate his family.
+Jinggong gave Zhao Wu the fiefdom that originally belonged to the Zhao family.
+When Zhao Wu had the crowning ceremony and he was already an adult, Cheng Ying said goodbye to all the officials, and then said to Zhao Wu: "Everyone can die for the Lord because of what happened in the palace."
+It's not that I can't die, I just want to support the descendants of the Zhao family.
+Now that Zhao Wu has inherited his ancestral legacy, grown up, and restored his original title, I will go underground to report to Zhao Xuan and Gongsun Chujiu.
+Zhao Wu cried and kowtowed, and insisted on requesting: "I would rather suffer my own bones and muscles to repay you until my death. Do you have the heart to leave me and die?"
+Cheng Ying said: No.
+Gongsun Chujiu thought that I could accomplish great things, so he died before me; if I don't come back to life now, he will think that I haven't accomplished this yet.
+So he committed suicide.
+Zhao Wu kept mourning for Cheng Ying for three years and arranged land for him to use for sacrifices. Spring and Autumn sacrifices have been passed down from generation to generation.
+Eleven years after Zhao's title was restored, Duke Li of Jin killed three senior officials of the Que family.
+Luan Shu was afraid that he would be implicated, so he killed Duke Li, the king of Jin, and replaced him with Duke Xiang's great-grandson Zhou, who was Duke Ao of Jin.
+
+summary:
+summary line 3: Zhao Shuo's wife gave birth to a son, Zhao Wu. Tu Anjia searched for the baby, but it was hidden. Zhao Shuo's retainers, Cheng Ying and Gongsun Chujiu, devised a plan: Chujiu hid with a substitute baby, and Cheng Ying "betrayed" him to the generals. The generals killed Chujiu and the substitute, believing the Zhao line extinct. Cheng Ying then hid the real Zhao Wu in the mountains for fifteen years. When Duke Jing fell ill, divination revealed the Zhao family's sacrifices were causing trouble. Han Jue, knowing the truth, told the duke, who then restored Zhao Wu and destroyed Tu Anjia's family. After Zhao Wu came of age, Cheng Ying committed suicide to report to his fallen comrades.
+
+Chunk 8: 
+original: 
+原过从，后至于王泽，见三人，自带以上可见，自带以下不可见。
+与原过竹二节，莫通。
+曰： 为我以是遗赵毋恤。
+原过既至，以告襄子。
+襄子齐三日，亲自剖竹，有朱书曰： 赵毋恤，余霍泰山山阳侯天使也。
+三月丙戌，余将使女反灭知氏。
+女亦立我百邑，余将赐女林胡之地。
+至于后世，且有伉王，赤黑，龙面而鸟噣，鬓麋髭，大膺大胸，修下而冯，左衽界乘，奄有河宗，至于休溷ù诸貉，南伐晋别，北灭黑姑。
+襄子再拜，受三神之令。
+三国攻晋阳，岁余，引汾水灌其城，城不浸者三版。
+城中悬釜而炊，易子而食。
+群臣皆有外心，礼益慢，唯高共不敢失礼。
+襄子惧，乃夜使相张孟同私于韩、魏。
+韩、魏与合谋，以三月丙戌，三国反灭知氏，共分其地。
+于是襄子行赏，高共为上。
+张孟同曰： 晋阳之难，唯共无功。
+襄子曰： 方晋阳急，群臣皆懈，惟共不敢失人臣礼，是以先之。
+于是赵北有代，南并知氏，强于韩、魏。
+遂祠三神于百邑，使原过主霍泰山祠祀。
+其后娶空同氏，生五子。
+襄子为伯鲁之不立也，不肯立子，且必欲传位与伯鲁子代成君。
+成君先死，乃取代成君子浣立为太子。
+襄子立三十三年卒，浣立，是为献侯。
+献侯少即位，治中牟。
+襄子弟桓子逐献侯，自立于代，一年卒。
+国人曰桓子立非襄子意，乃共杀其子而复迎立献侯。
+十年，中山武公初立。
+十三年，城平邑。
+十五年，献侯卒，子烈侯籍立。
+translation: 
+Yuan Guo followed Xiangzi and fell behind. When he arrived at Wangze, he saw three people. They could be seen from above the belt, but not from below.
+The three of them gave Yuan a bamboo stick with two sections, but there was no passage in the middle.
+He said to him: Give this bamboo stick to Zhao Wuxie for us.
+After Yuan Guo arrived, he told Xiangzi the situation.
+Xiangzi fasted for three days and cut open the bamboo stick himself. Inside, there were vermilion characters written: Zhao Wuxie, we are the angels of the Yanghou of Mount Huotai.
+On Bingxu day of March, we will ask you to destroy Zhishi in turn.
+You will also build temples for our hundreds of cities, and we will give you the land of Linhu.
+Your descendants will have a brave and strong king with red and black skin, a dragon face and a bird's beak, sideburns and eyebrows, a mustache and cheeks, a broad chest and a big belly, a slender lower body, a strong upper body, a left skirt, wearing armor and riding a horse. All the raccoon tribesmen who occupied the middle reaches of the Yellow River and the Xiumun area went south to attack other cities in Jin and went north to destroy Heigu.
+Xiangzi worshiped again and accepted the orders of the three gods.
+The Three Kingdoms' attack on Jinyang lasted for more than a year, causing Fenshui to flood the city. Only three walls of the city wall were not flooded.
+People in the city hang up pots to cook and exchange their children for them to eat.
+All the ministers were disloyal and their etiquette became more and more neglectful. Only the Communist Party of China did not dare to be rude to Xiangzi.
+Xiangzi was afraid, so he sent Prime Minister Zhang Mengtong to secretly make friends with Han and Wei in the middle of the night.
+Han, Wei and Zhao conspired. On Bingxu in March, the three countries in turn destroyed the Zhi family and jointly divided his land.
+So Xiangzi made a reward, and the Gao Communist Party ranked first in merit.
+Zhang Mengtong said: During the time of trouble in Jinyang, only the Communist Party of China did not make meritorious deeds.
+Xiangzi said: When Jinyang was in crisis, all the ministers were indifferent. Only the Communist Party of Gao did not dare to violate the etiquette of ministers, so he will receive a reward.
+At this time, Zhao occupied Dai territory in the north and annexed the Zhi clan in the south, becoming stronger than Han and Wei.
+So he built a temple to offer sacrifices to the three gods in Baiyi, and sent Yuan Guo to preside over the sacrifices at the Hotai Mountain Temple.
+Later, Xiangzi married Kongtong and gave birth to five sons.
+Because Bolu failed to succeed to the throne, Xiangzi refused to make his own son the crown prince, and insisted on passing the throne to Bolu's son Dai Chengjun.
+Chengjun died first, so he chose Zhao Huan, Chengjun's son, as the crown prince.
+Xiangzi died in the 33rd year of his reign, and Zhao Huan came to the throne. He became the Marquis of Xian.
+Xianhou came to the throne at a young age, and his capital was Zhongmu.
+Xiangzi's younger brother Huanzi expelled Xianhou and established himself as a marquis in Dai. He died a year later.
+The people of Zhao thought that Huanzi's accession to the throne was not Xiangzi's wish, so they jointly killed his son and welcomed Xianhou to the throne.
+In the tenth year of Xianhou's reign, Duke Wu of Zhongshan State began to ascend the throne.
+In the thirteenth year, a city was built in Pingyi.
+In the fifteenth year, Xianhou died, and his son Liehou Zhao Ji came to the throne.
+
+summary:
+summary line 4: Zhao Wu's descendants grew powerful. His son Zhao Yang, Zhao Jianzi, became a dominant minister. He defeated the Fan and Zhonghang clans, expanded Zhao territory, and was named Shangqing, effectively monopolizing Jin's government. His son Zhao Wuxie, Zhao Xiangzi, succeeded him. Xiangzi killed the king of Dai and annexed his land. When Zhibo demanded territory, Xiangzi refused, leading to a siege of Jinyang. With divine guidance from the gods of Mount Huotai, Xiangzi allied with Han and Wei to destroy Zhibo and divide his lands. Zhao became stronger than Han and Wei.
+
+Chunk 11: 
+original: 
+十六年，肃侯游大陵，出于鹿门，大戊午扣马曰： 耕事方急，一日不作，百日不食。
+肃侯下车谢。
+十七年，围魏黄，不克。
+筑长城。
+十八年，齐、魏伐我，我决河水灌之，兵去。
+二十二年，张仪相秦。
+赵疵与秦战，败，秦杀疵河西，取我蔺、离石。
+二十三年，韩举与齐、魏战，死于桑丘。
+二十四年，肃侯卒。
+秦、楚、燕、齐、魏出锐师各万人来会葬。
+子武灵王立。
+武灵王元年，阳文君赵豹相。
+梁襄王与太子嗣、韩宣王与太子仓来朝信宫。
+武灵王少，未能听政，博闻师三人，左右司过三人。
+及听政，先问先王贵臣肥义，加其秩。国三老年八十，月致其礼。
+三年，城鄗。
+四年，与韩会于区鼠。
+五年，娶韩女为夫人。
+八年，韩击秦，不胜而去。
+五国相王，赵独否，曰： 无其实，敢处其名乎！
+令国人谓己曰 君 。
+九年，与韩、魏共击秦。秦败我，斩首八万级。
+齐败我观泽。
+十年，秦取我中都及西阳。
+齐破燕。燕相子之为君，君反为臣。
+十一年，王召公子职于韩，立以为燕王，使乐池送之。
+十三年，秦拔我蔺，虏将军赵庄。
+楚、魏王来，过邯郸。
+十四年，赵何攻魏。
+十六年，秦惠王卒。
+王游大陵。
+他日，王梦见处女鼓琴而歌诗曰： 美人荧荧兮，颜若苕之荣。
+命乎命乎，曾无我嬴！
+异日，王饮酒乐，数言所梦，想见其状。
+吴广闻之，因夫人而内其女娃嬴，孟姚也。
+孟姚甚有宠于王，是为惠后。
+十七年，王出九门，为野台，以望齐、中山之境。
+十八年，秦武王与孟说举龙文赤鼎，绝膑而死。
+赵王使代相赵固迎公子稷于燕，送归，立为秦王，是为昭王。
+十九年春正月，大朝信宫。
+召肥义与议天下，五日而毕。
+王北略中山之地，至于房子，遂之代，北至无穷，西至河，登黄华之上。
+召楼缓谋曰： 我先王因世之变，以长南藩之地，属阻漳、滏之险，立长城，又取蔺、郭狼，败林人于荏，而功未遂。
+今中山在我腹心，北有燕，东有胡，西有林胡、楼烦、秦、韩之边，而无强兵之救，是亡社稷，奈何？
+translation: 
+In the 16th year, Suhou visited Daling and passed by Lumen. Prime Minister Tai Wuwu held the horse's head and said: When farming is busy, if you don't cultivate for one day, you will have no food for a hundred days.
+After hearing this, Suhou immediately got out of the car and admitted his mistake.
+For seventeen years, Huangcheng, which besieged Wei State, was not conquered.
+Build the Great Wall.
+In the eighteenth year, Qi and Wei conquered the State of Zhao. The State of Zhao used water from the Yellow River to flood the enemy troops, and the enemy troops withdrew.
+In the 22nd year, Zhang Yi was appointed prime minister of Qin.
+Zhao Zun fought with the Qin army and failed. The Qin army killed Zhao Zun in Hexi and captured Lin and Lishi of Zhao State.
+In the twenty-third year, Han Ju fought with the Qi and Wei armies and died in Sangqiu.
+In the twenty-fourth year, Suhou died.
+Qin, Chu, Yan, Qi, and Wei each sent 10,000 elite soldiers to attend the funeral.
+Suhou's son, King Wuling, ascended the throne.
+In the first year of King Wuling, Yang Wenjun Zhao Bao was appointed prime minister.
+King Xiang of Liang, Prince Si, King Xuan of Han and Prince Cang came to Xin Palace to congratulate.
+King Wu Ling is young and cannot handle political affairs yet. He has three learned masters and three left and right officials.
+When it comes to handling government affairs, the first thing to do is to greet the noble ministers of the late king, and to increase their rank and salary. The virtuous elderly people in the country who are over 80 years old give them gifts every month.
+In the third year of King Wuling's reign, Ha City was built.
+In the fourth year, he made an alliance with the King of Han in the District Rat Meeting.
+Five years later, he married a Korean clan daughter.
+In eight years, South Korea attacked Qin and withdrew without victory.
+The five kingdoms called each other king, but only Zhao did not call himself king. Zhao Jun said: How can we have this title without reality?
+He ordered everyone in Zhao to call him "Jun".
+In the ninth year, he joined Han and Wei in attacking Qin. Qin defeated the armies of the three countries and killed 80,000 people.
+Qi defeated Zhao Jun in Guanze.
+In ten years, the Qin army captured Zhao's Zhongdu and Xiyang.
+The state of Qi defeated the state of Yan, and the prime minister of the state of Yan, Zizhi, became the king, but the king instead became a minister.
+In the eleventh year, King Wuling summoned the son of Yan State from South Korea, made him King of Yan, and sent Yuechi to escort him back to Yan State.
+In the thirteenth year, the Qin army captured Zhao Ta's Lincheng and captured the general Zhao Zhuang.
+The kings of Chu and Wei came to Zhao and reached Handan.
+In the fourteenth year, Zhao He attacked Wei.
+In the sixteenth year, King Qin Hui passed away.
+King Wuling visited Daling.
+One day, King Wu Ling dreamed of a girl playing the piano and singing a song: She is so beautiful, her appearance is like a wildflower.
+O fate, O fate, no one knows my daughter-in-law’s name!
+Another day, King Wuling was very happy while drinking. He talked about his dream many times and imagined the beauty of the girl in the dream.
+After Wu Guang heard about it, he sent his daughter Waying to the palace through his wife.
+This is Meng Yao. Meng Yao was especially favored by King Wu Ling, and she was Queen Hui.
+In the seventeenth year, King Wu Ling went to Jiumen and built a wild platform to overlook the border between Qi and Zhongshan.
+In the eighteenth year, King Wu of Qin and Meng Shuo lifted a red tripod with dragon patterns, broke his leg and died.
+The King of Zhao sent his acting prime minister Zhao Gu to the Kingdom of Yan to meet Qin Gongzi Ji, send him back to the country, and established him as King of Qin. This was King Zhao of Qin.
+In the first month of the spring of the nineteenth year of King Wuling, a grand court meeting was held in Xin Palace.
+He summoned Fei Yi to discuss world affairs with him, and the conversation lasted five days before it ended.
+King Wu Ling went to the north to inspect the territory of the Zhongshan Kingdom. He went to Fangfang County, then to Daidi, reaching Wuwu in the north, the Yellow River in the west, and climbed to the top of Huanghua Mountain.
+Then he summoned Lou Huan for discussion and said: Our late king took advantage of the changes in world affairs and became the ruler of the southern territory. He connected the dangers of Zhangshui and Fushui, built the Great Wall, captured Lincheng and Guolang, and defeated the Linhu people in Edi. However, the work has not yet been completed.
+Now the Zhongshan Kingdom is in our heart, with the Yan Kingdom to the north, Donghu to the east, and the borders of Linhu, Loufan, Qin, and South Korea to the west. However, without the rescue of powerful troops, the country will perish if this continues. What should we do?
+
+summary:
+summary line 5: Xiangzi refused to make his own son heir, instead passing rule to his grandson Zhao Huan, who became Marquis Xian. After a brief usurpation by Xiangzi's brother, Xianhou's line continued. Subsequent rulers included Liehou, Jinghou, Chenghou, and Suhou. During Suhou's reign, Shang Yang of Qin attacked Wei. Suhou's son, King Wuling, ascended the throne. King Wuling, seeking to strengthen Zhao against enemies like Zhongshan and the Hu tribes, famously adopted Hu clothing and cavalry archery, overcoming opposition from nobles. He conquered Zhongshan and expanded Zhao's territory significantly. He later abdicated in favor of his son, King Huiwen, but a succession struggle led to his death by starvation after his son Zhao Zhang rebelled.
+
+Chunk 11: 
+original: 
+十六年，肃侯游大陵，出于鹿门，大戊午扣马曰： 耕事方急，一日不作，百日不食。
+肃侯下车谢。
+十七年，围魏黄，不克。
+筑长城。
+十八年，齐、魏伐我，我决河水灌之，兵去。
+二十二年，张仪相秦。
+赵疵与秦战，败，秦杀疵河西，取我蔺、离石。
+二十三年，韩举与齐、魏战，死于桑丘。
+二十四年，肃侯卒。
+秦、楚、燕、齐、魏出锐师各万人来会葬。
+子武灵王立。
+武灵王元年，阳文君赵豹相。
+梁襄王与太子嗣、韩宣王与太子仓来朝信宫。
+武灵王少，未能听政，博闻师三人，左右司过三人。
+及听政，先问先王贵臣肥义，加其秩。国三老年八十，月致其礼。
+三年，城鄗。
+四年，与韩会于区鼠。
+五年，娶韩女为夫人。
+八年，韩击秦，不胜而去。
+五国相王，赵独否，曰： 无其实，敢处其名乎！
+令国人谓己曰 君 。
+九年，与韩、魏共击秦。秦败我，斩首八万级。
+齐败我观泽。
+十年，秦取我中都及西阳。
+齐破燕。燕相子之为君，君反为臣。
+十一年，王召公子职于韩，立以为燕王，使乐池送之。
+十三年，秦拔我蔺，虏将军赵庄。
+楚、魏王来，过邯郸。
+十四年，赵何攻魏。
+十六年，秦惠王卒。
+王游大陵。
+他日，王梦见处女鼓琴而歌诗曰： 美人荧荧兮，颜若苕之荣。
+命乎命乎，曾无我嬴！
+异日，王饮酒乐，数言所梦，想见其状。
+吴广闻之，因夫人而内其女娃嬴，孟姚也。
+孟姚甚有宠于王，是为惠后。
+十七年，王出九门，为野台，以望齐、中山之境。
+十八年，秦武王与孟说举龙文赤鼎，绝膑而死。
+赵王使代相赵固迎公子稷于燕，送归，立为秦王，是为昭王。
+十九年春正月，大朝信宫。
+召肥义与议天下，五日而毕。
+王北略中山之地，至于房子，遂之代，北至无穷，西至河，登黄华之上。
+召楼缓谋曰： 我先王因世之变，以长南藩之地，属阻漳、滏之险，立长城，又取蔺、郭狼，败林人于荏，而功未遂。
+今中山在我腹心，北有燕，东有胡，西有林胡、楼烦、秦、韩之边，而无强兵之救，是亡社稷，奈何？
+translation: 
+In the 16th year, Suhou visited Daling and passed by Lumen. Prime Minister Tai Wuwu held the horse's head and said: When farming is busy, if you don't cultivate for one day, you will have no food for a hundred days.
+After hearing this, Suhou immediately got out of the car and admitted his mistake.
+For seventeen years, Huangcheng, which besieged Wei State, was not conquered.
+Build the Great Wall.
+In the eighteenth year, Qi and Wei conquered the State of Zhao. The State of Zhao used water from the Yellow River to flood the enemy troops, and the enemy troops withdrew.
+In the 22nd year, Zhang Yi was appointed prime minister of Qin.
+Zhao Zun fought with the Qin army and failed. The Qin army killed Zhao Zun in Hexi and captured Lin and Lishi of Zhao State.
+In the twenty-third year, Han Ju fought with the Qi and Wei armies and died in Sangqiu.
+In the twenty-fourth year, Suhou died.
+Qin, Chu, Yan, Qi, and Wei each sent 10,000 elite soldiers to attend the funeral.
+Suhou's son, King Wuling, ascended the throne.
+In the first year of King Wuling, Yang Wenjun Zhao Bao was appointed prime minister.
+King Xiang of Liang, Prince Si, King Xuan of Han and Prince Cang came to Xin Palace to congratulate.
+King Wu Ling is young and cannot handle political affairs yet. He has three learned masters and three left and right officials.
+When it comes to handling government affairs, the first thing to do is to greet the noble ministers of the late king, and to increase their rank and salary. The virtuous elderly people in the country who are over 80 years old give them gifts every month.
+In the third year of King Wuling's reign, Ha City was built.
+In the fourth year, he made an alliance with the King of Han in the District Rat Meeting.
+Five years later, he married a Korean clan daughter.
+In eight years, South Korea attacked Qin and withdrew without victory.
+The five kingdoms called each other king, but only Zhao did not call himself king. Zhao Jun said: How can we have this title without reality?
+He ordered everyone in Zhao to call him "Jun".
+In the ninth year, he joined Han and Wei in attacking Qin. Qin defeated the armies of the three countries and killed 80,000 people.
+Qi defeated Zhao Jun in Guanze.
+In ten years, the Qin army captured Zhao's Zhongdu and Xiyang.
+The state of Qi defeated the state of Yan, and the prime minister of the state of Yan, Zizhi, became the king, but the king instead became a minister.
+In the eleventh year, King Wuling summoned the son of Yan State from South Korea, made him King of Yan, and sent Yuechi to escort him back to Yan State.
+In the thirteenth year, the Qin army captured Zhao Ta's Lincheng and captured the general Zhao Zhuang.
+The kings of Chu and Wei came to Zhao and reached Handan.
+In the fourteenth year, Zhao He attacked Wei.
+In the sixteenth year, King Qin Hui passed away.
+King Wuling visited Daling.
+One day, King Wu Ling dreamed of a girl playing the piano and singing a song: She is so beautiful, her appearance is like a wildflower.
+O fate, O fate, no one knows my daughter-in-law’s name!
+Another day, King Wuling was very happy while drinking. He talked about his dream many times and imagined the beauty of the girl in the dream.
+After Wu Guang heard about it, he sent his daughter Waying to the palace through his wife.
+This is Meng Yao. Meng Yao was especially favored by King Wu Ling, and she was Queen Hui.
+In the seventeenth year, King Wu Ling went to Jiumen and built a wild platform to overlook the border between Qi and Zhongshan.
+In the eighteenth year, King Wu of Qin and Meng Shuo lifted a red tripod with dragon patterns, broke his leg and died.
+The King of Zhao sent his acting prime minister Zhao Gu to the Kingdom of Yan to meet Qin Gongzi Ji, send him back to the country, and established him as King of Qin. This was King Zhao of Qin.
+In the first month of the spring of the nineteenth year of King Wuling, a grand court meeting was held in Xin Palace.
+He summoned Fei Yi to discuss world affairs with him, and the conversation lasted five days before it ended.
+King Wu Ling went to the north to inspect the territory of the Zhongshan Kingdom. He went to Fangfang County, then to Daidi, reaching Wuwu in the north, the Yellow River in the west, and climbed to the top of Huanghua Mountain.
+Then he summoned Lou Huan for discussion and said: Our late king took advantage of the changes in world affairs and became the ruler of the southern territory. He connected the dangers of Zhangshui and Fushui, built the Great Wall, captured Lincheng and Guolang, and defeated the Linhu people in Edi. However, the work has not yet been completed.
+Now the Zhongshan Kingdom is in our heart, with the Yan Kingdom to the north, Donghu to the east, and the borders of Linhu, Loufan, Qin, and South Korea to the west. However, without the rescue of powerful troops, the country will perish if this continues. What should we do?
+
+summary:
+summary line 6: Under King Huiwen and his successor King Xiaocheng, Zhao faced the rising power of Qin. King Xiaocheng accepted the surrender of Shangdang from Korea, provoking Qin. This led to the disastrous Battle of Changping, where Zhao Kuo replaced Lian Po and was defeated by Bai Qi, with over 400,000 Zhao soldiers killed. Qin besieged Handan, but Zhao was saved by reinforcements from Chu and Wei. Later, King Xiaocheng's son, King Daoxiang, and his grandson, King Youmiao, ruled as Qin's power grew. Li Mu, a capable general, won victories against Qin, but was killed due to slander. Finally, in 228 BCE, Qin captured Handan, ending the Zhao state. Zhao Jia, a brother of the last king, briefly ruled in Dai before being defeated, and Zhao was made into a Qin commandery.
+

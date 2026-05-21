@@ -1,0 +1,1400 @@
+Summary uses chunk [0, 0, 0, 1, 2, 2, 4, 6, 7, 8, 11, 12, 14, 15, 16, 17, 18, 15]
+
+Chunk 0: 
+original: 
+张良字子房，其先韩人也。
+大父开地，相韩昭侯、宣惠王、襄哀王。
+父平，相釐王、悼惠王。
+悼惠王二十三年，平卒，卒二十岁，秦灭韩。
+良少，未宦事韩。
+韩破，良家僮三百人，弟死不葬，翻以家财求客刺秦王，为韩报仇，以五世相韩故。
+良尝学礼淮阳，东见仓海君，得力士，为铁椎重百二十斤。
+秦皇帝东游，至博狼沙中，良与客狙击秦皇帝，误中副车。
+秦皇帝大怒，大索天下，求贼急甚。
+良乃更名姓，亡匿下邳。
+良尝间从容步游下邳圯上，有一老父，衣褐，至良所，直堕其履圯下，顾谓良曰： 孺子下取履！
+良愕然，欲欧之。
+为其老，乃强忍，下取履，因跪进。
+父以足受之，笑去。
+良殊大惊。
+父去里所，复还，曰： 孺子可教矣。
+后五日平明，与我期此。
+良因怪，跪曰： 诺。
+五日平明，良往。
+父已先在，怒曰： 与老人期，后，何也？
+去，后五日蚤会。
+五日，鸡鸣往。
+父又先在，复怒曰： 后，何也？
+去，后五日复蚤来。
+五日，良夜半往。
+有顷，父亦来，喜曰： 当如是。
+出一编书，曰： 读是则为王者师。
+后十年兴。
+十三年，孺子见我，济北穀城山下黄石即我已。
+遂去不见。
+旦日视其书，乃《太公兵法》。
+良因异之，常习读诵。
+居下邳，为任侠。
+项伯尝杀人，从良匿。
+后十年，陈涉等起，良亦聚少年百余人。
+景驹自立为楚假王，在留。
+良欲往从之，行道遇沛公。
+沛公将数千人略地下邳，遂属焉。
+沛公拜良为厩将。
+良数以《太公兵法》说沛公，沛公喜，常用其策。
+良为它人言，皆不省。
+良曰： 沛公殆天授。
+故遂从不去。
+translation: 
+Zhang Liang's courtesy name is Zifang, and his ancestors are Korean.
+My grandfather opened land and became the prime minister of Han Zhaohou, King Xuanhui and King Xiangai.
+His father, Zhang Ping, was the prime minister of King Li and King Hui.
+In the twenty-third year of King Hui's reign, Zhang Ping died. Twenty years after his death, Qin subjugated Han.
+Zhang Liang was young and had not been an official in Han.
+When Han died, Zhang Liang had 300 slaves in his family. His younger brother died without being buried. He used all his family wealth to seek assassins to kill the King of Qin and avenge Han because his father had been the Prime Minister of Han for five generations.
+Zhang Liang once studied etiquette in Huaiyang. He traveled eastward to meet Lord Canghai and found a strong man who made an iron vertebra weighing 120 kilograms.
+The Emperor of Qin went on a tour to Bolang Sand. Zhang Liang and his assassins ambushed the Emperor of Qin and accidentally hit the passenger car.
+Emperor Qin was furious and searched the world on a large scale, eager to find the thief.
+Zhang Liang then changed his name and fled to Xiapi.
+Zhang Liang once had time to take a leisurely stroll on the Xiapi Bridge. An old man, wearing coarse cloth, walked up to Zhang Liang and deliberately dropped his shoes under the bridge. He turned back and said to Zhang Liang: "Children, go down and pick up your shoes!"
+Zhang Liang was surprised and wanted to beat him.
+Because he was old, he endured it and went down to pick up shoes, so he knelt down and offered them to him.
+The old man put on his feet and walked away with a smile.
+Zhang Liang was very surprised.
+The old man left for about a mile, then came back and said: Young people deserve instruction.
+Five days later, at dawn, I'll be waiting for you in Xianbao.
+Zhang Liang felt strange, knelt down and said: OK.
+Five days later, Zhang Liang left at Pingming.
+The old man had arrived first and angrily said: "I made an appointment with the old man and arrived late. Why?"
+Come on, come see you early in five days.
+Five days later, when the rooster crows, go.
+The old man arrived first again and yelled angrily: "You're late, what's the matter?"
+Go, come back early in five days.
+Five days later, Zhang Liang went there in the middle of the night.
+After a while, the old man also came and said with a smile: "It should be the same."
+He took out a book and said: If you read it, you can become the teacher of the king.
+Rise ten years later.
+Thirteen years later, the young man came to see me. The yellow stone at the foot of Jibei Gucheng Mountain was me.
+Then he left and disappeared.
+After dawn, I read the book. It was "Tai Gong's Art of War".
+Zhang Liang was surprised and often recited it.
+Living in Xiapi, he loves to fight against injustice.
+Xiang Bo once killed someone and took refuge with Zhang Liang.
+Ten years later, Chen She and others started an uprising, and Zhang Liang also gathered more than a hundred young men.
+Jing Ju established himself as the false king of Chu and stayed in Liu.
+Zhang Liang wanted to follow him and met Pei Gong on the road.
+Peigong led thousands of people to capture Xiapi, and Tuidan followed him.
+Centipede worshiped the retired emperor and became the general of the stable.
+Egg King lectured Pei Gong on "Tai Gong's Art of War" many times. Pei Gong was very happy and often adopted his strategies.
+Zhang Liang told others, but they didn't understand.
+Zhang Liang said: Pei Gong is probably a talent given by heaven.
+Then he followed him and never left.
+
+summary:
+summary line 0: Zhang Liang, courtesy name Zifang, was of Korean ancestry. His grandfather and father served as prime ministers to five generations of Han kings. After Qin conquered Han, Zhang Liang, though young and never an official, used his family wealth to hire an assassin to avenge Han. He ambushed the First Emperor at Bolangsha but struck the wrong carriage. Forced to flee, he changed his name and hid in Xiapi.
+
+Chunk 0: 
+original: 
+张良字子房，其先韩人也。
+大父开地，相韩昭侯、宣惠王、襄哀王。
+父平，相釐王、悼惠王。
+悼惠王二十三年，平卒，卒二十岁，秦灭韩。
+良少，未宦事韩。
+韩破，良家僮三百人，弟死不葬，翻以家财求客刺秦王，为韩报仇，以五世相韩故。
+良尝学礼淮阳，东见仓海君，得力士，为铁椎重百二十斤。
+秦皇帝东游，至博狼沙中，良与客狙击秦皇帝，误中副车。
+秦皇帝大怒，大索天下，求贼急甚。
+良乃更名姓，亡匿下邳。
+良尝间从容步游下邳圯上，有一老父，衣褐，至良所，直堕其履圯下，顾谓良曰： 孺子下取履！
+良愕然，欲欧之。
+为其老，乃强忍，下取履，因跪进。
+父以足受之，笑去。
+良殊大惊。
+父去里所，复还，曰： 孺子可教矣。
+后五日平明，与我期此。
+良因怪，跪曰： 诺。
+五日平明，良往。
+父已先在，怒曰： 与老人期，后，何也？
+去，后五日蚤会。
+五日，鸡鸣往。
+父又先在，复怒曰： 后，何也？
+去，后五日复蚤来。
+五日，良夜半往。
+有顷，父亦来，喜曰： 当如是。
+出一编书，曰： 读是则为王者师。
+后十年兴。
+十三年，孺子见我，济北穀城山下黄石即我已。
+遂去不见。
+旦日视其书，乃《太公兵法》。
+良因异之，常习读诵。
+居下邳，为任侠。
+项伯尝杀人，从良匿。
+后十年，陈涉等起，良亦聚少年百余人。
+景驹自立为楚假王，在留。
+良欲往从之，行道遇沛公。
+沛公将数千人略地下邳，遂属焉。
+沛公拜良为厩将。
+良数以《太公兵法》说沛公，沛公喜，常用其策。
+良为它人言，皆不省。
+良曰： 沛公殆天授。
+故遂从不去。
+translation: 
+Zhang Liang's courtesy name is Zifang, and his ancestors are Korean.
+My grandfather opened land and became the prime minister of Han Zhaohou, King Xuanhui and King Xiangai.
+His father, Zhang Ping, was the prime minister of King Li and King Hui.
+In the twenty-third year of King Hui's reign, Zhang Ping died. Twenty years after his death, Qin subjugated Han.
+Zhang Liang was young and had not been an official in Han.
+When Han died, Zhang Liang had 300 slaves in his family. His younger brother died without being buried. He used all his family wealth to seek assassins to kill the King of Qin and avenge Han because his father had been the Prime Minister of Han for five generations.
+Zhang Liang once studied etiquette in Huaiyang. He traveled eastward to meet Lord Canghai and found a strong man who made an iron vertebra weighing 120 kilograms.
+The Emperor of Qin went on a tour to Bolang Sand. Zhang Liang and his assassins ambushed the Emperor of Qin and accidentally hit the passenger car.
+Emperor Qin was furious and searched the world on a large scale, eager to find the thief.
+Zhang Liang then changed his name and fled to Xiapi.
+Zhang Liang once had time to take a leisurely stroll on the Xiapi Bridge. An old man, wearing coarse cloth, walked up to Zhang Liang and deliberately dropped his shoes under the bridge. He turned back and said to Zhang Liang: "Children, go down and pick up your shoes!"
+Zhang Liang was surprised and wanted to beat him.
+Because he was old, he endured it and went down to pick up shoes, so he knelt down and offered them to him.
+The old man put on his feet and walked away with a smile.
+Zhang Liang was very surprised.
+The old man left for about a mile, then came back and said: Young people deserve instruction.
+Five days later, at dawn, I'll be waiting for you in Xianbao.
+Zhang Liang felt strange, knelt down and said: OK.
+Five days later, Zhang Liang left at Pingming.
+The old man had arrived first and angrily said: "I made an appointment with the old man and arrived late. Why?"
+Come on, come see you early in five days.
+Five days later, when the rooster crows, go.
+The old man arrived first again and yelled angrily: "You're late, what's the matter?"
+Go, come back early in five days.
+Five days later, Zhang Liang went there in the middle of the night.
+After a while, the old man also came and said with a smile: "It should be the same."
+He took out a book and said: If you read it, you can become the teacher of the king.
+Rise ten years later.
+Thirteen years later, the young man came to see me. The yellow stone at the foot of Jibei Gucheng Mountain was me.
+Then he left and disappeared.
+After dawn, I read the book. It was "Tai Gong's Art of War".
+Zhang Liang was surprised and often recited it.
+Living in Xiapi, he loves to fight against injustice.
+Xiang Bo once killed someone and took refuge with Zhang Liang.
+Ten years later, Chen She and others started an uprising, and Zhang Liang also gathered more than a hundred young men.
+Jing Ju established himself as the false king of Chu and stayed in Liu.
+Zhang Liang wanted to follow him and met Pei Gong on the road.
+Peigong led thousands of people to capture Xiapi, and Tuidan followed him.
+Centipede worshiped the retired emperor and became the general of the stable.
+Egg King lectured Pei Gong on "Tai Gong's Art of War" many times. Pei Gong was very happy and often adopted his strategies.
+Zhang Liang told others, but they didn't understand.
+Zhang Liang said: Pei Gong is probably a talent given by heaven.
+Then he followed him and never left.
+
+summary:
+summary line 1: On a bridge in Xiapi, an old man deliberately dropped his shoe and ordered Zhang Liang to retrieve it. Zhang Liang complied despite his initial anger. The old man later gave him a book, the "Tai Gong's Art of War," and predicted he would become a teacher to a king. Zhang Liang studied it diligently.
+
+Chunk 0: 
+original: 
+张良字子房，其先韩人也。
+大父开地，相韩昭侯、宣惠王、襄哀王。
+父平，相釐王、悼惠王。
+悼惠王二十三年，平卒，卒二十岁，秦灭韩。
+良少，未宦事韩。
+韩破，良家僮三百人，弟死不葬，翻以家财求客刺秦王，为韩报仇，以五世相韩故。
+良尝学礼淮阳，东见仓海君，得力士，为铁椎重百二十斤。
+秦皇帝东游，至博狼沙中，良与客狙击秦皇帝，误中副车。
+秦皇帝大怒，大索天下，求贼急甚。
+良乃更名姓，亡匿下邳。
+良尝间从容步游下邳圯上，有一老父，衣褐，至良所，直堕其履圯下，顾谓良曰： 孺子下取履！
+良愕然，欲欧之。
+为其老，乃强忍，下取履，因跪进。
+父以足受之，笑去。
+良殊大惊。
+父去里所，复还，曰： 孺子可教矣。
+后五日平明，与我期此。
+良因怪，跪曰： 诺。
+五日平明，良往。
+父已先在，怒曰： 与老人期，后，何也？
+去，后五日蚤会。
+五日，鸡鸣往。
+父又先在，复怒曰： 后，何也？
+去，后五日复蚤来。
+五日，良夜半往。
+有顷，父亦来，喜曰： 当如是。
+出一编书，曰： 读是则为王者师。
+后十年兴。
+十三年，孺子见我，济北穀城山下黄石即我已。
+遂去不见。
+旦日视其书，乃《太公兵法》。
+良因异之，常习读诵。
+居下邳，为任侠。
+项伯尝杀人，从良匿。
+后十年，陈涉等起，良亦聚少年百余人。
+景驹自立为楚假王，在留。
+良欲往从之，行道遇沛公。
+沛公将数千人略地下邳，遂属焉。
+沛公拜良为厩将。
+良数以《太公兵法》说沛公，沛公喜，常用其策。
+良为它人言，皆不省。
+良曰： 沛公殆天授。
+故遂从不去。
+translation: 
+Zhang Liang's courtesy name is Zifang, and his ancestors are Korean.
+My grandfather opened land and became the prime minister of Han Zhaohou, King Xuanhui and King Xiangai.
+His father, Zhang Ping, was the prime minister of King Li and King Hui.
+In the twenty-third year of King Hui's reign, Zhang Ping died. Twenty years after his death, Qin subjugated Han.
+Zhang Liang was young and had not been an official in Han.
+When Han died, Zhang Liang had 300 slaves in his family. His younger brother died without being buried. He used all his family wealth to seek assassins to kill the King of Qin and avenge Han because his father had been the Prime Minister of Han for five generations.
+Zhang Liang once studied etiquette in Huaiyang. He traveled eastward to meet Lord Canghai and found a strong man who made an iron vertebra weighing 120 kilograms.
+The Emperor of Qin went on a tour to Bolang Sand. Zhang Liang and his assassins ambushed the Emperor of Qin and accidentally hit the passenger car.
+Emperor Qin was furious and searched the world on a large scale, eager to find the thief.
+Zhang Liang then changed his name and fled to Xiapi.
+Zhang Liang once had time to take a leisurely stroll on the Xiapi Bridge. An old man, wearing coarse cloth, walked up to Zhang Liang and deliberately dropped his shoes under the bridge. He turned back and said to Zhang Liang: "Children, go down and pick up your shoes!"
+Zhang Liang was surprised and wanted to beat him.
+Because he was old, he endured it and went down to pick up shoes, so he knelt down and offered them to him.
+The old man put on his feet and walked away with a smile.
+Zhang Liang was very surprised.
+The old man left for about a mile, then came back and said: Young people deserve instruction.
+Five days later, at dawn, I'll be waiting for you in Xianbao.
+Zhang Liang felt strange, knelt down and said: OK.
+Five days later, Zhang Liang left at Pingming.
+The old man had arrived first and angrily said: "I made an appointment with the old man and arrived late. Why?"
+Come on, come see you early in five days.
+Five days later, when the rooster crows, go.
+The old man arrived first again and yelled angrily: "You're late, what's the matter?"
+Go, come back early in five days.
+Five days later, Zhang Liang went there in the middle of the night.
+After a while, the old man also came and said with a smile: "It should be the same."
+He took out a book and said: If you read it, you can become the teacher of the king.
+Rise ten years later.
+Thirteen years later, the young man came to see me. The yellow stone at the foot of Jibei Gucheng Mountain was me.
+Then he left and disappeared.
+After dawn, I read the book. It was "Tai Gong's Art of War".
+Zhang Liang was surprised and often recited it.
+Living in Xiapi, he loves to fight against injustice.
+Xiang Bo once killed someone and took refuge with Zhang Liang.
+Ten years later, Chen She and others started an uprising, and Zhang Liang also gathered more than a hundred young men.
+Jing Ju established himself as the false king of Chu and stayed in Liu.
+Zhang Liang wanted to follow him and met Pei Gong on the road.
+Peigong led thousands of people to capture Xiapi, and Tuidan followed him.
+Centipede worshiped the retired emperor and became the general of the stable.
+Egg King lectured Pei Gong on "Tai Gong's Art of War" many times. Pei Gong was very happy and often adopted his strategies.
+Zhang Liang told others, but they didn't understand.
+Zhang Liang said: Pei Gong is probably a talent given by heaven.
+Then he followed him and never left.
+
+summary:
+summary line 2: During the uprisings, Zhang Liang gathered followers and joined Pei Gong (Liu Bang). He frequently advised Pei Gong using the Art of War, and Pei Gong often adopted his strategies. Zhang Liang believed Pei Gong was a heaven-sent talent and remained with him. He later persuaded Xiang Liang to establish Han Cheng as King of Han, and Zhang Liang became Han's Minister of Education.
+
+Chunk 1: 
+original: 
+沛公之薛，见项梁，共立楚怀王。
+良乃说项梁曰： 君已立楚后，韩诸公子横阳君成贤，可立为王，益树党。
+项梁使良求韩成，立为韩王。
+以良为韩司徒，与韩王将千余人西略韩地，得数城，秦辄复取之，往来为游兵颖川。
+沛公之从雒阳南出轘辕，良引兵从沛公，下韩十余城，击杨熊军。
+沛公乃令韩王成留守阳翟，与良俱南，攻下宛，西入武关。
+沛公欲以二万人击秦峣关下军，良曰： 秦兵尚强，未可轻。
+臣闻其将屠者子，贾竖易动以利。
+愿沛公且留壁，使人先行，为五万人具食，益张旗帜诸山上，为疑兵，令郦食其持重宝啖秦将。
+秦将果欲连和俱西袭咸阳，沛公欲听之。
+良曰： 此独其将欲叛，士卒恐不从。
+不从必危，不如因其解击之。
+沛公乃引兵击秦军，大破之。
+逐北至蓝田，再战，秦兵竟败。
+遂至咸阳，秦王子婴降沛公。
+沛公入秦，宫室帷帐狗马重宝妇女以千数，意欲留居之。
+樊哙谏，沛公不听。
+良曰： 夫秦为无道，故沛公得至此。
+为天下除残去贼，宜缟素为资。
+今始入秦，即安其乐，此所谓 助桀为虐 。
+且 忠言逆耳利于行，毒药苦口利于病 ，愿沛公听樊哙言。
+沛公乃还军霸上。
+项羽至鸿门，欲击沛公，项伯夜驰至沛公军，私见良，欲与俱去。
+良曰： 臣为韩王送沛公，今事有急，亡去不义。
+乃具语沛公。
+沛公大惊，曰： 为之奈何？
+良曰： 沛公诚欲背项王邪？
+沛公曰： 鲰生说我距关毋内诸侯，秦地可王也，故听之。
+良田： 沛公自度能却项王乎？
+沛公默然，曰： 今为奈何？
+良因要项伯见沛公。
+沛公与伯饮，为寿，结婚，令伯具言沛公不敢背项王，所以距关者，备它盗也。
+translation: 
+Duke Pei went to Xue, met with Xiang Liang, and together they supported King Huai of Chu.
+Zhang Liang persuaded Xiang Liang: "You have established a descendant of Chu. Mr. Han, Hengyang Jun, has become a virtuous man. He can be established as king and have many party members."
+Xiang Liang sent Zhang Liang to find Han Cheng and establish him as King of Han.
+Zhang Liang was appointed as Han Situ, and he and the King of Han led more than a thousand people to the west to conquer Han. They captured several cities, and Qin recovered them all. They went back and forth in Yingchuan to fight guerrillas.
+When Pei Gong went south from Luoyang, Zhang Liang led his troops to follow Pei Gong and captured more than ten cities in Han to attack Yang Xiong's army.
+Peigong then ordered Han Wangcheng to stay in Yangzhai, and he and Zhang Liang went south to capture Wan and west to enter Wuguan.
+Pei Gong wanted to attack Qin's army at Ziguan with 20,000 men. Qiang Liang said: Qin's army is still strong and should not be underestimated.
+I heard that the guard general is the son of a butcher, and is easily swayed by merchants and villains.
+He hoped that Pei Gong would stay in the fort for the time being and send people ahead to prepare meals for 50,000 people. He also placed more flags on the mountains, set up suspicious soldiers, and sent Li Shiqi to seduce the Qin generals with heavy evidence.
+The generals of Qin really wanted to unite and attack Shengyang in the west, and Pei Gong wanted to obey them.
+Zhang Liang said: "This is just a rebellion by the generals. I'm afraid the soldiers will not obey."
+It would be dangerous to disobey, so it would be better to attack them while they are lax.
+Pei Gong then led his troops to attack the Qin army and won a great victory.
+Chasing them to Lantian and fighting again, the Qin soldiers were completely defeated.
+So when they arrived in Xianyang, Prince Qin Ying surrendered to Duke Pei.
+When Pei Gong entered Qin, his palace was filled with curtains, dogs, horses, treasures, thousands of women, and he wanted to stay there.
+Fan Sha advised him, but Pei Gong refused to listen.
+Zhang Huang said: "Taiwan cannot reach the main road, so! Earthworms can get here."
+To rid the world of cruel and cruel people, we should show our true colors through simplicity.
+Now that they have just entered the Qin Dynasty, they are content to enjoy themselves, creating what people call "helping Jie to do harm."
+Moreover, loyal advice is unpleasant to the ear but beneficial to action, and good medicine is bitter to the mouth and beneficial to the patient. I hope Pei Gong will listen to Fan Sha's words.
+Pei Gong then went back to garrison Bashang.
+Xiang Yu went to Hongmen to attack Pei Gong. Xiang Bo ran to Pei Gong's army at night and met with Zhang Liang in private, wanting to leave with him.
+Zhang Liang said: I am sending Duke Pei to the King of Han. Now the matter is urgent, so it would be unjust to run away.
+Then he told Pei Gong everything.
+Pei Gong was horrified and said, "What should I do?"
+Zhang Liang said: Does Pei Gong really want to betray King Xiang?
+Pei Gong said: There is a villain who advised me to hold the pass and not let the princes in, but I can become the king of Qin, so I listened to him.
+Zhang Liang said: Does Pei Gong think he can defeat King Xiang?
+Pei Gong was silent and said, "What should we do now?"
+Zhang Liang then invited Xiang Bo to see Pei Gong.
+Pei Gong and Xiang Bo drank wine, congratulated him on his birthday and arranged marriage, and asked Xiang Bo to explain to Xiang Yu in detail that the reason why Pei Gong did not dare to betray King Xiang and controlled the pass was to guard against other thieves.
+
+summary:
+summary line 3: Zhang Liang advised Pei Gong against attacking Qin's strong forces directly, suggesting instead to bribe the Qin general and attack when the troops were lax. This led to a great victory and Qin's surrender. When Pei Gong was tempted by the luxuries of Qin's palace, Zhang Liang urged him to leave, warning that indulgence would harm his cause. Pei Gong heeded this and returned to Bashang.
+
+Chunk 2: 
+original: 
+项羽后解，语在《羽传》。
+汉元年，沛公为汉王，王巴、蜀，赐良金百溢，珠二斗，良具以献项伯。
+汉王亦因令良厚遗项伯，使请汉中地。
+项王许之。
+汉王之国，良送至褒中，遣良归韩。
+良因说汉王烧绝栈道，示天下无还心，以固项王意。
+乃使良还。
+行，烧绝栈道。
+良归至韩，闻项羽以良从汉王故，不遣韩王成之国，与俱东，至彭城杀之。
+时汉王还定三秦，良乃遗项羽书曰： 汉王失职，欲得关中，如约即止，不敢复东。
+又以齐反书遗羽，曰： 齐与赵欲并灭楚。
+项羽以故北击齐。
+良乃间行归汉。
+汉王以良为成信侯，从东击楚。
+至彭城，汉王兵败而还。
+至下邑，汉王下马踞鞍而问曰： 吾欲捐关已东等弃之，谁可与共功者？
+良曰： 九江王布，楚枭将，与项王有隙，彭越与齐王田荣反梁地，此两人可急使。
+而汉王之将独韩信可属大事，当一面。
+即欲捐之，捐之此三人，楚可破也。
+汉王乃遣随何说九江王布，而使人连彭越。
+及魏王豹反，使韩信特将北击之，因举燕、代、齐、赵。
+然卒破楚者，此三人力也。
+良多病，未尝特将兵，常为画策臣，时时从。
+汉三年，项羽急围汉王于荥阳，汉王忧恐，与郦食其谋桡楚权。
+郦生曰： 昔汤伐桀，封其后杞；武王诛纣，封其后宋。
+今秦无德，伐灭六国，无立锥之地。
+陛下诚复立六国后，此皆争戴陛下德义，愿为臣妾。
+德义已行，南面称伯，楚必敛衽而朝。
+汉王曰： 善。
+趣刻印，先生因行佩之。
+郦生未行，良从外来谒汉王。
+汉王方食，曰： 客有为我计桡楚权者。
+具以郦生计告良曰： 于子房何如？
+良曰： 谁为陛下画此计者？
+translation: 
+Xiang Yu later gave up, and the incident was recorded in "Yu Zhuan".
+In the first year of the Han Dynasty, Pei Gong became the king of Han and took over the land of Bashu. He rewarded Zhang Liang with a hundred yi of gold and two measures of pearls. Zhang Liang dedicated all of them to Xiang Bo.
+The king of Han then asked Zhang Liang to send generous gifts to Xiang Bo and asked him to request the land in Hanzhong.
+King Xiang agreed.
+When the King of Han went to the feudal state, Zhang Liang was sent to Baozhong and sent Zhang Liang back to Han.
+Zhang Liang then persuaded the king of Han to burn down the plank road to show to the world that he had no intention of returning, so as to stabilize King Xiang's heart.
+Then he asked Zhang Liang to go back.
+While walking, burn the plank road.
+When Zhang Liang returned to Han, he heard that Xiang Yu would not let Han Wangcheng return to his country because Zhang Liang followed the Han king, so he went east with him and went to Pengcheng to kill him.
+At that time, the King of Han returned to pacify the Three Qin Dynasties. Zhang Liang wrote to Xiang Yu, saying: The King of Han neglected his duty and wanted to occupy Guanzhong. He stopped as agreed and did not dare to go east again.
+He also sent Qi's counter-written letter to Xiang Yu, saying: Qi and Fang will destroy Chu together.
+Xiang Yu therefore went north to attack Qi.
+Zhang Liang returned to Han Dynasty from the small road.
+The king of Han appointed Zhang Liang as the Marquis of Xin, and he attacked Chu from Shu.
+When they arrived at Pengcheng, the king of Han failed and returned.
+When he arrived at Xiayi, the King of Han dismounted his horse and leaned on the saddle and asked: "I want to give up Guan Yishu to others. Who can make meritorious deeds with me?"
+Zhang Liang said: Jiujiang King Bu, a fierce general of Chu, had a conflict with King Xiang. Peng Yue and Qi King Tian Rong rebelled in Liang. These two people can be used in emergencies.
+Among the generals of the Han Dynasty, only Han Xin could deliver important tasks and stand alone.
+If the land of Guandong is to be given up to these three people, Chu can break it.
+The King of Han then sent Sui He to persuade King Bu of Jiujiang, and also sent people to unite with Peng Yue.
+When King Bao of Wei rebelled, he sent Han Xin to lead troops to attack north, and then captured Yan, Dai, Qi, and Zhao.
+However, it was the power of these three people that finally defeated Chu.
+Zhang Liang was often ill and did not lead troops specifically. He often served as a planning minister and was always by his side.
+In the third year of the Han Dynasty, Xiang Yu urgently besieged the King of Han in Rongyang. The King of Han was worried and panicked, and planned with Li Shiqi to weaken the power of Chu.
+Li Sheng said: In the past Tang defeated Jie and granted his descendants the title of Qi; King Wu killed Zhou and granted his descendants the title of Song.
+Now Qin cannot follow the great road and has destroyed the six kingdoms, leaving no place to stand.
+Your Majesty is really able to re-establish the descendants of the Six Kingdoms. They are all grateful to your Majesty for your virtue and righteousness and are willing to be your slaves.
+If virtue and justice have been fulfilled, facing south and seeking hegemony, Chu will definitely come to court respectfully.
+The king of Han said: OK.
+Immediately engrave it, sir, and give it to them.
+Before Li Sheng left, Zhang Liang came from outside to see the King of Han.
+The king of Han was eating and said: "I have a retainer who is planning to weaken the power of Chu."
+He told Zhang Liang all about Li Sheng's plan and said, "What do you think of Zifang?"
+Zhang Liang said: Who planned this for Your Majesty?
+
+summary:
+summary line 4: During the Hongmen Banquet crisis, Zhang Liang refused to abandon Pei Gong and helped reconcile with Xiang Yu through Xiang Bo. Later, when Pei Gong became King of Han, Zhang Liang advised burning the plank road to show no intention of returning east, stabilizing Xiang Yu. He also recommended using Han Xin, Peng Yue, and King Bu of Jiujiang to defeat Chu.
+
+Chunk 2: 
+original: 
+项羽后解，语在《羽传》。
+汉元年，沛公为汉王，王巴、蜀，赐良金百溢，珠二斗，良具以献项伯。
+汉王亦因令良厚遗项伯，使请汉中地。
+项王许之。
+汉王之国，良送至褒中，遣良归韩。
+良因说汉王烧绝栈道，示天下无还心，以固项王意。
+乃使良还。
+行，烧绝栈道。
+良归至韩，闻项羽以良从汉王故，不遣韩王成之国，与俱东，至彭城杀之。
+时汉王还定三秦，良乃遗项羽书曰： 汉王失职，欲得关中，如约即止，不敢复东。
+又以齐反书遗羽，曰： 齐与赵欲并灭楚。
+项羽以故北击齐。
+良乃间行归汉。
+汉王以良为成信侯，从东击楚。
+至彭城，汉王兵败而还。
+至下邑，汉王下马踞鞍而问曰： 吾欲捐关已东等弃之，谁可与共功者？
+良曰： 九江王布，楚枭将，与项王有隙，彭越与齐王田荣反梁地，此两人可急使。
+而汉王之将独韩信可属大事，当一面。
+即欲捐之，捐之此三人，楚可破也。
+汉王乃遣随何说九江王布，而使人连彭越。
+及魏王豹反，使韩信特将北击之，因举燕、代、齐、赵。
+然卒破楚者，此三人力也。
+良多病，未尝特将兵，常为画策臣，时时从。
+汉三年，项羽急围汉王于荥阳，汉王忧恐，与郦食其谋桡楚权。
+郦生曰： 昔汤伐桀，封其后杞；武王诛纣，封其后宋。
+今秦无德，伐灭六国，无立锥之地。
+陛下诚复立六国后，此皆争戴陛下德义，愿为臣妾。
+德义已行，南面称伯，楚必敛衽而朝。
+汉王曰： 善。
+趣刻印，先生因行佩之。
+郦生未行，良从外来谒汉王。
+汉王方食，曰： 客有为我计桡楚权者。
+具以郦生计告良曰： 于子房何如？
+良曰： 谁为陛下画此计者？
+translation: 
+Xiang Yu later gave up, and the incident was recorded in "Yu Zhuan".
+In the first year of the Han Dynasty, Pei Gong became the king of Han and took over the land of Bashu. He rewarded Zhang Liang with a hundred yi of gold and two measures of pearls. Zhang Liang dedicated all of them to Xiang Bo.
+The king of Han then asked Zhang Liang to send generous gifts to Xiang Bo and asked him to request the land in Hanzhong.
+King Xiang agreed.
+When the King of Han went to the feudal state, Zhang Liang was sent to Baozhong and sent Zhang Liang back to Han.
+Zhang Liang then persuaded the king of Han to burn down the plank road to show to the world that he had no intention of returning, so as to stabilize King Xiang's heart.
+Then he asked Zhang Liang to go back.
+While walking, burn the plank road.
+When Zhang Liang returned to Han, he heard that Xiang Yu would not let Han Wangcheng return to his country because Zhang Liang followed the Han king, so he went east with him and went to Pengcheng to kill him.
+At that time, the King of Han returned to pacify the Three Qin Dynasties. Zhang Liang wrote to Xiang Yu, saying: The King of Han neglected his duty and wanted to occupy Guanzhong. He stopped as agreed and did not dare to go east again.
+He also sent Qi's counter-written letter to Xiang Yu, saying: Qi and Fang will destroy Chu together.
+Xiang Yu therefore went north to attack Qi.
+Zhang Liang returned to Han Dynasty from the small road.
+The king of Han appointed Zhang Liang as the Marquis of Xin, and he attacked Chu from Shu.
+When they arrived at Pengcheng, the king of Han failed and returned.
+When he arrived at Xiayi, the King of Han dismounted his horse and leaned on the saddle and asked: "I want to give up Guan Yishu to others. Who can make meritorious deeds with me?"
+Zhang Liang said: Jiujiang King Bu, a fierce general of Chu, had a conflict with King Xiang. Peng Yue and Qi King Tian Rong rebelled in Liang. These two people can be used in emergencies.
+Among the generals of the Han Dynasty, only Han Xin could deliver important tasks and stand alone.
+If the land of Guandong is to be given up to these three people, Chu can break it.
+The King of Han then sent Sui He to persuade King Bu of Jiujiang, and also sent people to unite with Peng Yue.
+When King Bao of Wei rebelled, he sent Han Xin to lead troops to attack north, and then captured Yan, Dai, Qi, and Zhao.
+However, it was the power of these three people that finally defeated Chu.
+Zhang Liang was often ill and did not lead troops specifically. He often served as a planning minister and was always by his side.
+In the third year of the Han Dynasty, Xiang Yu urgently besieged the King of Han in Rongyang. The King of Han was worried and panicked, and planned with Li Shiqi to weaken the power of Chu.
+Li Sheng said: In the past Tang defeated Jie and granted his descendants the title of Qi; King Wu killed Zhou and granted his descendants the title of Song.
+Now Qin cannot follow the great road and has destroyed the six kingdoms, leaving no place to stand.
+Your Majesty is really able to re-establish the descendants of the Six Kingdoms. They are all grateful to your Majesty for your virtue and righteousness and are willing to be your slaves.
+If virtue and justice have been fulfilled, facing south and seeking hegemony, Chu will definitely come to court respectfully.
+The king of Han said: OK.
+Immediately engrave it, sir, and give it to them.
+Before Li Sheng left, Zhang Liang came from outside to see the King of Han.
+The king of Han was eating and said: "I have a retainer who is planning to weaken the power of Chu."
+He told Zhang Liang all about Li Sheng's plan and said, "What do you think of Zifang?"
+Zhang Liang said: Who planned this for Your Majesty?
+
+summary:
+summary line 5: Zhang Liang opposed enfeoffing descendants of the six kingdoms, arguing it would undermine support for the Han king. He convinced the king to destroy the seals prepared for this purpose. He also advised granting titles to Han Xin and others to secure their loyalty.
+
+Chunk 4: 
+original: 
+上已封大功臣二十余人，其余日夜争功而不决，未得行封。
+上居雒阳南宫，从复道望见诸将往往数人偶语。
+上曰： 此何语？
+良曰： 陛下不知乎？
+此谋反耳。
+上曰： 天下属安定，何故而反？
+良曰： 陛下起布衣，与此属取天下，今陛下已为天子，而所封皆萧、曹故人所亲爱，而所诛者皆平生仇怨。
+今军吏计功，天下不足以遍封，此属畏陛下不能尽封，又恐见疑过失及诛，故相聚而谋反耳。
+上乃忧曰： 为将奈何？
+良曰： 上平生所憎，群臣所共知，谁最甚者？
+上曰： 雍齿与我有故怨，数窘辱我，我欲杀之，为功多，不忍。
+良曰： 今急先封雍齿，以示群臣，群臣见雍齿先封，则人人自坚矣。
+于是上置酒，封雍齿为什方侯，而急趣丞相、御史定功行封。
+群臣罢酒，皆喜曰： 雍齿且侯，我属无患矣。
+刘敬说上者关中，上疑之。
+左右大臣皆山东人，多劝上都雒阳： 雒阳东有成皋，西有殽、黾，背河乡雒，其固亦足恃。
+良曰： 雒阳虽有此固，其中小，不过数百里，田地薄，四面受敌，此非用武之国。
+夫关中左殽、函，右陇、蜀，沃野千里，南有巴、蜀之饶，北有胡苑之利，阻三面而固守，独以一面东制诸侯。
+诸侯安定，河、渭漕挽天下，西给京师；诸侯有变，顺流而下，足以委输。
+此所谓金城千里，天府之国。
+刘敬说是也。
+于是上即日驾，西都关中。
+良从入关。性多疾，即道引不食谷，闭门不出岁余。
+上欲废太子，立戚夫人子赵王如意。
+大臣多争，未能得坚决也。
+吕后恐，不知所为。
+或谓吕后曰： 留侯善画计，上信用之。
+translation: 
+The emperor granted more than 20 titles to the great meritorious officials, but the rest could not be decided day and night and could not be divided among them.
+The emperor lived in Luoyang South Palace. From the overpass, he saw the generals often whispering to each other.
+The emperor said: What are you talking about?
+Zhang Liang said: "Don't your Majesty know?"
+This is treason.
+The emperor said: The world has just stabilized, why rebel?
+Zhang Liang said: Your Majesty rose from the common people and conquered the world with these people. Now that you have become the emperor, you have granted titles to people who were friendly to you, such as Xiao and Cao, and killed people you had always hated.
+Nowadays, military officers calculate their merits and enfeoffment is not widespread enough in the world. These people were afraid that His Majesty would not be able to seal them all, and they were also afraid that they would be killed on suspicion of negligence, so they gathered to rebel.
+The emperor then said worriedly: What should we do?
+Zhang Liang said: Among the people the emperor always resents, all the ministers know, who is the most powerful?
+The emperor said: Yong Chi and I have an old enmity. He has embarrassed me with many insults. I want to kill him because he has done so much and I can't bear it.
+Zhang Liang said: "Now, hurry up and confer Yong Chi first to show it to the officials. When the officials saw that Yong Chi was conferred first, everyone became firm."
+So the emperor served wine, made Yongchi the Marquis of Shifang, and quickly urged the Prime Minister and the Censor to calculate the reward for his merits.
+After drinking, the officials all said happily: "Yong Chi has been granted the title of Marquis, so we don't have to worry anymore."
+Liu Jing persuaded the emperor to build the capital in Guanzhong, but the emperor was hesitant.
+The ministers on the left and right were all from Shandong, and they often advised the emperor to build Luoyang as the capital, saying: "Luoyang has Chenggao in front of it, Dixing in the west, and its back faces the river and faces Luoyang. It is strong enough to rely on."
+Zhang Liang said: Although Luoyang has such a dangerous terrain, it is small in area, only a few hundred miles away, the land is not fertile, and it is surrounded by enemies on all sides. This is not a place to use force.
+Guanzhong has Dihan on the left, Longshu on the right, thousands of miles of fertile fields, the abundance of Bashu in the south, and the benefits of livestock husbandry in the Hu land in the north. It is difficult to defend on three sides, and open one side to the east to control the princes.
+When the princes are in peace, the rivers and Wei canals transport the world's supplies to the west to supply the capital; when the princes are in trouble, they can go down the river, which is enough to transport them.
+This is the so-called golden city thousands of miles away, the land of abundance.
+Liu Jing is right.
+So the emperor set off that day and headed west to build his capital in Guanzhong.
+Zhang Liang followed him into the pass. He was very sick, and he did not eat grains to cultivate his health. He stayed in seclusion for more than a year.
+The emperor wanted to depose the prince and instead establish Mrs. Qi's son, King Zhao Ruyi.
+Many ministers argued but failed to change the emperor's determination.
+Queen Lu was afraid and didn't know what to do.
+Someone said to Queen Lu: Marquis Liu is good at planning, and the emperor trusts him.
+
+summary:
+summary line 6: After the Han dynasty was established, Zhang Liang was granted the title of Marquis of Liu. He declined a larger fief, citing his lack of military exploits. He advised the emperor to first enfeoff Yong Chi, a man the emperor resented, to reassure other generals and prevent rebellion. He also supported Liu Jing's proposal to make Guanzhong the capital, arguing its strategic advantages.
+
+Chunk 6: 
+original: 
+是时，叔孙通已为太傅，良行少傅事。
+汉十二年，上从破布归，疾益甚，愈欲易太子。
+良谏不听，因疾不视事。
+叔孙太傅称说引古，以死争太子。
+上阳许之，犹欲易之。
+及晏，置酒，太子侍。
+四人者从太子，年皆八十有余，须眉皓白，衣冠甚伟。
+上怪，问曰： 何为者？
+四人前对，各言其姓名。
+上乃惊曰： 吾求公，避逃我，今公何自从吾儿游乎？
+四人曰： 陛下轻士善骂，臣等义不辱，故恐而亡匿。
+今闻太子仁孝，恭敬爱士，天下莫不延颈愿为太子死者，故臣等来。
+上曰： 烦公幸卒调护太子。
+四人为寿已毕，趋去。
+上目送之，召戚夫人指视曰： 我欲易之，彼四人为之辅，羽翼已成，难动矣。
+吕氏真乃主矣。
+戚夫人泣涕，上曰： 为我楚舞，吾为若楚歌。
+歌曰： 鸿鹄高飞，一举千里。
+羽翼以就，横绝四海。
+横绝四海，又可奈何！
+虽有矰缴，尚安所施！
+歌数阕，戚夫人歔欷流涕。
+上起去，罢酒。
+竟不易太子者，良本招此四人之力也。
+良从上击代，出奇计下马邑，及立萧相国，所与从容言天下事甚众，非天下所以存亡，故不著。
+良乃称曰： 家世相韩，及韩灭，不爱万金之资，为韩报仇强秦，天下震动。
+今以三寸舌为帝者师，封万户，位列侯，此布衣之极，于良足矣。
+愿弃人间事，欲从赤松子游耳。
+乃学道，欲轻举。
+高帝崩，吕后德良，乃强食之，曰： 人生一世间，如白驹之过隙，何自苦如此！
+良不得已，强听食。
+后六岁薨。
+谥曰文成侯。
+translation: 
+At this time, Shusun Tong had become the Taifu, and Zhang Liang was responsible for the work of the Young Tutor.
+In the twelfth year of the Han Dynasty, the emperor returned from defeating Yingbu. He became even more ill and wanted to change the prince more and more.
+Zhang Liang refused to listen to his advice and did not go to court because of illness.
+Taifu Shusun quoted ancient stories and sacrificed his life to fight for the crown prince's throne.
+The emperor pretended to agree to him, but still wanted to change the prince.
+When there is a banquet, wine is served and the prince serves.
+The four people followed the prince, all in their eighties, with snow-white hair and eyebrows, and distinguished clothes.
+The emperor was surprised and asked: "What is this for?"
+Four people came forward to answer, each saying his or her name.
+The emperor was surprised and said: I invited you, you ran away from me, why are you hanging out with my son now?
+The four said: Your Majesty despises the scholars and loves to scold them. We are righteous and will not be insulted, so we are afraid and run away.
+Now I heard that the prince is benevolent and filial, respects and cherishes the scholars, and there is no one in the world who would not stretch their necks and be willing to die for the prince, so we came here.
+The emperor said: I am honored to trouble you all and finally come to train and protect the prince.
+The four of them finished their birthday wishes and left.
+The emperor watched them off and called Mrs. Qi to point it out to her and said: I want to change to the prince. These four people will assist him. Their wings are already established and it is difficult to shake them.
+Lu is really your master.
+Mrs. Qi cried, and the emperor said: Dance Chu dance for me, and I will sing Chu songs for you.
+Sings: The swan flies high and rushes thousands of miles.
+The wings are ready and they can travel across the world.
+Crossing the four seas, so what!
+There are bows and arrows, but what’s the use?
+After singing a few songs, Mrs. Qi sobbed and cried.
+The emperor stood up and walked away, taking away the wine.
+In the end, the prince was not replaced. This was due to Zhang Liang's recruitment of these four people.
+Zhang Liang followed the emperor to attack Dai, and captured Mayi with a clever plan. When he established Xiao Xiangguo, he calmly discussed many things about the world with the emperor. He did not talk about the rise and fall of the world, so he did not record it.
+Zhang Liang then declared: "My family has been the prime minister of Han for generations. When Han died, he spared no expense in his fortune to avenge Han's power against Qin. The world was shocked."
+Now, with his three-inch tongue, he is the emperor's teacher, and he is granted the title of ten thousand households, and he is ranked among the nobles. This is the ultimate for common people, and it is enough for Zhang Liang.
+I hope to give up the worldly affairs and travel with Chisongzi.
+So he studied Taoism and wanted to practice and become an immortal.
+When Emperor Gao died, Empress Lu thought Zhang Liang was virtuous, so she forced him to give him a salary, saying: "Life is like a fleeting moment, why do you suffer like this?"
+Zhang Liang had no choice but to accept it reluctantly.
+Died six years later.
+Mi was given the title Marquis Wencheng.
+
+summary:
+summary line 7: When the emperor wanted to depose the crown prince, Zhang Liang initially refused to intervene. Pressed by Empress Lü, he suggested recruiting four reclusive sages to support the prince. The emperor, seeing the prince had their support, abandoned the plan. Zhang Liang later withdrew from worldly affairs, studying Taoism and seeking immortality. He died six years after Emperor Gao, receiving the posthumous title Marquis Wencheng.
+
+Chunk 7: 
+original: 
+良始所见下邳圯上老父与书者，后十三岁从高帝过济北，果得穀城山下黄石，取而宝祠之。
+及良死，并葬黄石。
+每上冢伏腊祠黄石。
+子不疑嗣侯。
+孝文三年坐不敬，国除。
+陈平，阳武户牖乡人也。
+少时家贫，好读书，治黄帝、老子之术。
+有田三十亩，与兄伯居。
+伯常耕田，纵平使游学。
+平为人长大美色，人或谓平： 贫何食而肥若是？
+其嫂疾平之不亲家生产，曰： 亦食糠覈耳。
+有叔如此，不如无有！
+伯闻之，逐其妇弃之。
+及平长，可取妇，富人莫与者，贫者平亦愧之。
+久之，户牖富人张负有女孙，五嫁夫辄死，人莫敢取，平欲得之。
+邑中有大丧，平家贫侍丧，以先往后罢为助。
+张负既见之丧所，独视伟平，平亦以故后去。
+负随平至其家，家乃负郭穷巷，以席为门，然门外多长者车辙。
+张负归，谓其子仲曰： 吾欲以女孙予陈平。
+仲曰： 平贫不事事，一县中尽笑其所为，独奈何予之女？
+负曰： 固有美如陈平长贫者乎？
+卒与女。
+为平贫，乃假贷币以聘，予酒肉之资以内妇。
+负戒其孙曰： 毋以贫故，事人不谨。
+事兄伯如事乃父，事嫂如事乃母。
+平既取张氏女，资用益饶，游道日广。
+里中社，平为宰，分肉甚均。
+里父老曰： 善，陈孺子之为宰！
+平曰： 嗟乎，使平得宰天下，亦如此肉矣！
+陈涉起王，使周市略地，立魏咎为魏王，与秦军相攻于临济。
+平已前谢兄伯，从少年往事魏王咎，为太仆。
+说魏王，王不听。
+人或谗之，平亡去。
+项羽略地至河上，平往归之，从入破秦，赐爵卿。
+项羽之东王彭城也，汉王还定三秦而东。
+translation: 
+At first, Zhang Liang met the old man who gave him a book on the Xiapi Bridge. Thirteen years later, he passed through Jibei with Emperor Gao and found the yellow stone at the foot of Gucheng Mountain, which he took back and cherished as a sacrifice.
+After Zhang Liang died, they were buried together in Huangshi.
+Every time when visiting the tomb and Fula, sacrifices are made to Huangshi.
+The son will undoubtedly inherit the throne.
+In the third year of Xiaowen's reign, he was charged with disrespect. The country being eliminated.
+Chen Ping was born in Wuxiang, Yangwuhu.
+When I was a child, my family was poor, so I loved reading and studying the knowledge of Huangdi and Laozi.
+There are thirty acres of land. Lives with his brother Chen Bo.
+Chen Bo often farmed and asked Chen Ping to study abroad.
+Chen Ping is tall and beautiful. There is Chen Ping in the world: Why are you so fat when you live in a poor family?
+His sister-in-law hated Chen Ping for not farming at home and said, "It's just like eating chaff."
+It’s better not to have such a brother-in-law!
+When Uncle Chen heard this, he drove his wife away.
+When Chen Ping grew up, he could marry a wife, but no one from the rich would marry him, and he would dislike the poor.
+A long time later, a rich man in Hulu had a granddaughter. After marrying five times, her husbands died. No one dared to marry her. Su Na wanted to marry her.
+There was a big funeral in the city, and the Suping family went to help with the funeral arrangements. They left early and came back late to get more rewards.
+Zhang Fu saw him at the funeral and thought he was extraordinary. Chen Ping also left late for some reason.
+Zhang Fu followed King Su to his home. He lived in a back alley behind the city wall and used a mat as the door, but there were many dignitaries' cars outside the door.
+Zhang Fu went back and said to his son Dan Shi: I want to marry my granddaughter to Chen Ping.
+Zhang Zhong said: Chen Ping was poor and did nothing, and everyone in the county laughed at his behavior. Why did you marry your daughter to him alone?
+Zhang Fu said: Will a talented person like Chen Ping be poor for a long time?
+Finally, he married his granddaughter.
+Because Chen Qian's family was poor, they lent him money to hire him and gave him food and wine to finance his marriage.
+Zhang Fu warned his granddaughter: Don't serve him carelessly just because he is poor.
+Serve your brother Uncle Chen as you serve your father, and serve your sister-in-law as you serve your mother.
+Chen Ping married Zhang's daughter, and his resources became richer and his contacts became more extensive.
+A community ceremony was held in the village, with Chen Ping presiding over it, and the meat was divided evenly.
+The elders in the village said: Chen Ruzi is really good at hosting this!
+Chen Ping said: Alas, if Chen Ping were allowed to rule the world, he would be like this meat!
+Chen She rose up and proclaimed himself king, sent Zhou Shi to capture the territory, appointed Wei Jiu as king of Wei, and went to war with the Qin army in Linji.
+Previously, Chen Ping had bid farewell to his brother Chen Bo and followed some young people to serve Wei Wang Jiu as a servant.
+I tried to persuade the King of Wei, but the King did not listen.
+Someone framed him and Chen Ping fled.
+When Xiang Yu reached the river, Chen Ping followed him. He followed him into the pass and destroyed Qin, and was given the rank of minister.
+Xiang Yu went east to Pengcheng and proclaimed himself king, and the king of Han went back east to pacify the Three Qin Dynasties.
+
+summary:
+summary line 8: Chen Ping, from a poor family, was known for his height and good looks. He married a wealthy woman after a local elder recognized his potential. During village festivals, he divided meat evenly, saying he would govern the world similarly.
+
+Chunk 8: 
+original: 
+殷王反楚，项羽乃以平为信武君，将魏王客在楚者往击，殷降而还。
+项王使项悍拜平为都尉，赐金二十溢。
+居无何，汉攻下殷。
+项王怒，将诛定殷者。
+平惧诛，乃封其金与印，使使归项王，而平身间行杖剑亡。
+度河，船人见其美丈夫，独行，疑其亡将，要下当有宝器金玉，目之，欲杀平。
+平心恐，乃解衣裸而佐刺船。
+船人知其无有，乃止。
+平遂至修武降汉，因魏无知求见汉王，汉王召入。
+是时，万石君石奋为中涓，受平谒。
+平等十人俱进，赐食。
+王曰： 罢，就舍矣。
+平曰： 臣为事来，所言不可以过今日。
+于是汉王与语而说之，问曰： 子居楚何官？
+平曰： 为都尉。
+是日拜平为都尉，使参乘，典护军。
+诸将尽讙，曰： 大王一日得楚之亡卒，未知高下，而即与共载，使监护长者！
+汉王闻之，愈益幸平，遂与东伐项王。
+至彭城，为楚所败，引师而还。
+收散兵至荥阳，以平为亚将，属韩王信，军广武。
+绛、灌等或谗平曰： 平虽美丈夫，如冠玉耳，其中未必有也。
+闻平居家时盗其嫂；事魏王不容，亡而归楚；归楚不中，又亡归汉。
+今大王尊官之，令护军。
+臣闻平使诸将，金多者得善处，金少者得恶处。
+平，反复乱臣也，愿王察之。
+汉王疑之，以让无知，问曰： 有之乎？
+无知曰： 有。
+汉王曰： 公言其贤人何也？
+对曰： 臣之所言者，能也；陛下所问者，行也。
+今有尾生、孝已之行，而无益于胜败之数，陛下何暇用之乎？
+令楚、汉相距，臣进奇谋之士，顾其计诚足以利国家耳。
+盗嫂、受金又安足疑乎？
+汉王召平而问曰： 吾闻先生事魏不遂，事楚而去，今又从吾游，信者固多心乎？
+平曰： 臣事魏王，魏王不能用臣说，故去事项王。
+translation: 
+King Yin rebelled against Chu, so Xiang Yu appointed Chen Ping as Lord Xinwu and led King Wei's retainers in Chu to attack. Yin surrendered and returned.
+King Xiang asked Xiang Han to worship Chen Ping as the captain and gave him twenty yi gold.
+Not long after, Han conquered Yin.
+King Xiang was furious and wanted to kill those who suppressed Yin.
+Chen Ping was afraid of being killed, so he sealed the gold and seal and sent someone to return it to King Xiang. Su Ping escaped from the road with his sword.
+When crossing the river, the boatman saw that he was a handsome man traveling alone, and suspected that he was a fugitive general with gold and jade under his waist. He looked at him and wanted to kill Chen Ping.
+Chen Ping was frightened, so he took off his clothes and helped row the boat naked.
+The boatman knew he had no money, so he gave up.
+Chen Ping then went to Kaiwu to surrender and seek an audience with the King of Han through Wei Chichi, and Mu summoned him.
+At this time, Wan Shijun, Gentong Zuozhongjuan, accepted Su Na's visit.
+Su Ping and ten others came forward together and gave them food.
+The king said: The meeting is over and we can go back to the guest house.
+Su Na said: I have something to say, and I can't say anything more than today.
+So the king of Han talked with him and appreciated him very much, and asked: What official position do you have in Chu?
+Chen Ping said: Become a captain.
+On that day, Chen Ping was appointed as the captain, and he was asked to accompany him and take charge of guarding the army.
+The generals were all in an uproar and said: One day, the king got a deserter from Chu. He didn't know his rank, so he immediately rode with him and asked him to guard the senior people!
+After the King of Han heard about this, he favored Chen Hu even more and took him east to attack King Xiang.
+When he arrived at Pengcheng, he was defeated by the Chu army and returned with his troops.
+He gathered the scattered soldiers and went to Rongyang, appointed Chen Ping as the sub-general, subordinated to Han Wangxin, and garrisoned in Guangwu.
+Zhou Bo, Guan Ying and others framed Chen Ping and said: Although Chen Ping is a handsome man, he is like the jade on his crown, but he may not be talented inside.
+I heard that Chen Ping had an affair with his sister-in-law when he was at home. He was not tolerated when he served the king of Wei, so he fled to follow Chu. He failed to follow Chu, so he fled to follow Han.
+Now the king respects him, gives him an official position, and lets him oversee the army.
+I heard that Chen Ping used generals and sent those with more money to good places and those with less money to bad places.
+Chen Ping is a capricious and rebellious minister, and I hope Wang will take notice.
+The king of Han doubted him, blamed his ignorance, and asked: Is this possible?
+Ignorance said: Yes.
+The king of Han said: Why do you say he is a wise man?
+He replied: What I am talking about is talent; what your Majesty is asking about is virtue.
+Even if he has such virtues as Weisheng and filial piety, it will not be beneficial to the success of victory or defeat. How can your Majesty care about using him?
+Now that Chu and Han are at war, I recommend a wise scholar just because his strategy can really benefit the country.
+Is there anything suspicious about having an affair with a sister-in-law and accepting bribes?
+The King of Han summoned Chen Ping and asked: I heard that your husband served Wei disobediently, served Chu and then left, and now he is friends with me. Can an honest man be so half-hearted?
+Chen Ping said: I served the King of Wei, but the King of Wei could not listen to me, so I left him to serve King Xiang.
+
+summary:
+summary line 9: Chen Ping served Wei and then Chu, but fled both when his advice was ignored or he feared execution. He joined Liu Bang, who appointed him a captain despite objections from other generals. Chen Ping explained his past changes of allegiance by saying his former masters could not use him properly. He proposed using gold to sow discord among Xiang Yu's advisors, leading to Xiang Yu's suspicion of his strategist Fan Zeng.
+
+Chunk 11: 
+original: 
+对曰： 始秦时三万余户，间者兵数起，多亡匿，今见五千余户。
+于是诏御史，更封平为曲逆侯，尽食之，除前所食户牖。
+平自初从，至天下定后，常以护军中尉从击臧荼、陈豨、黥布。
+凡六出奇计，辄益邑封。
+奇计或颇秘，世莫得闻也。
+高帝从击布军还，病创，徐行至长安。
+燕王卢绾反，上使樊哙以相国将兵击之。
+既行，人有短恶哙者。
+高帝怒曰： 哙见吾病，乃几我死也！
+用平计，召绛侯周勃受诏床下，曰： 陈平乘驰传载勃代哙将，平至军中即斩哙头！
+二人既受诏，驰传未至军，行计曰： 樊哙，帝之故人，功多，又吕后女弟吕须夫，有亲且贵，帝以忿怒故欲斩之，即恐后悔。
+宁囚而致上，令上自诛之。
+未至军，为坛，以节召樊哙。
+哙受诏，即反接，载槛车诣长安，而令周勃代将兵定燕。
+平行闻高帝崩，平恐吕后及吕须怒，乃驰传先去。
+逢使者诏平与灌婴屯于荥阳。
+平受诏，立复驰至官，哭殊悲，因奏事丧前，吕后哀之，曰： 君出休矣！
+平畏谗之就，因固请之得宿卫中。
+太后乃以为郎中令，日傅教帝。
+是后，吕须谗乃不得行。
+樊哙至，即赦复爵邑。
+惠帝五年，相国曹参薨，安国侯王陵为右丞相，平为左丞相。
+王陵，沛人也。
+始为县豪，高祖微时兄事陵。
+及高祖起沛，入咸阳，陵亦聚党数千人，居南阳，不肯从沛公。
+及汉王之还击项籍，陵乃以兵属汉。
+项羽取陵母置军中，陵使至，则东乡坐陵母，欲以招陵。
+translation: 
+Answer: There were more than 30,000 households in Taiwan at the beginning. After many wars, many people fled and hid. Now there are more than 5,000 households.
+So he issued an edict to the censor and changed the title of Shunuo Zuqu Nihou to enjoy the tax revenue of the whole county and exempted him from the previous feudal household.
+Chen Ping followed them from the beginning, and after the world was peaceful, he often followed them as a guard lieutenant to attack Zang Tu, Chen Xi, and Yingbu.
+A total of six clever tricks were made, and each time they were successful and increased the number of fiefs.
+Some of the tricks are so secret that no one in the world has heard of them.
+When Gao Di returned from pacifying Tingbu, he was injured and slowly returned to Chang'an.
+King Lu Wan of Yan rebelled, and the emperor sent Fan Sha as prime minister to lead the attack.
+After he left, someone said bad things about Fan Sha.
+Emperor Gao was furious and said: "Fan Ha saw that I was seriously ill, so he wanted me to die!"
+Using Chen Ping's strategy, he summoned Zhou Bo, the Marquis of Jiang, to receive the edict under his bed, saying: "Chen Ping sent Zhou Bo to replace Fan Sha to lead the army. When Chen Ping arrived in the army, he chopped off Fan Sha's head!"
+The two of them accepted the imperial edict, and before they reached the army, they discussed on the road: Fan Sha is an old friend of the emperor and has made many contributions. He is also the husband of Empress Lu's sister Lu Xu. He is affectionate and noble. The emperor is angry and wants to kill him. I'm afraid he will regret it.
+It would be better to imprison him and hand him over to the emperor, and let the emperor kill him himself.
+When he was not in the army, he set up an altar and used talismans to summon Fan Sha.
+When Fan Sha accepted the imperial edict, he tied him up, loaded him into a chariot and drove him to Chang'an, where he asked Zhou Bo to lead his troops to pacify Yan instead.
+On the way to Chenping, I heard that Emperor Gao had passed away. I was afraid that Empress Lu and Lu Xu would be angry, so I took a ride to leave first.
+An envoy ordered Chen Ping and Guan Ying to garrison Rongyang.
+Chen Ping accepted the edict and immediately ran to the palace, crying sadly, and then reported his work in front of the body. Empress Lu took pity on him and said, "Go out and rest!"
+Chen Ping was afraid that the slander would gain momentum, so he firmly requested to be allowed to stay on guard duty in the palace.
+The Queen Mother appointed him as a doctor and taught the emperor every day.
+After that, Lu Xu's slander did not take effect.
+After Fan Sha arrived, he was freed from all charges and restored to his title.
+In the fifth year of Emperor Hui's reign, Prime Minister Cao Shen passed away, An Guohou Wang Ling became the right prime minister, and Chen Hu became the left prime minister.
+Wang Ling, a native of Pei.
+At first, he was a magnate in the county. When Gaozu was humble, he served Wang Ling like his elder brother.
+When Emperor Gaozu started an uprising in Pei and invaded Xianyang, Wang Ling also gathered thousands of party members and refused to obey Pei Gong in Nanyang.
+When the king of Han returned to attack Xiang Ji, Wang Ling led his troops back to the desert.
+Xiang Yu placed Wang Ling's mother in the army. When Wang Ling's envoy came, he asked her to sit facing the east, hoping to recruit Wang Ling to surrender.
+
+summary:
+summary line 10: Chen Ping advised the emperor to capture Han Xin by feigning a visit to Yunmeng, rather than attacking him directly. He also helped the emperor escape a siege at Pingcheng using a secret plan. He served as a strategist for six major campaigns, each time increasing his fief.
+
+Chunk 12: 
+original: 
+陵母既私送使者，泣曰： 愿为老妾语陵，善事汉王。汉王长者，母以老妾故持二心。
+妾以死送使者。
+遂伏剑而死。
+项王怒，亨陵母。
+陵卒从汉王定天下。
+以善雍齿，雍齿，高祖之仇。陵又本无从汉之意，以故后封陵，为安国侯。
+陵为人少文任气，好直言，为右丞相二岁，惠帝崩。
+高后欲立诸吕为王，问陵。
+陵曰： 高皇帝刑白马而盟曰： 非刘氏而王者，天下共击之 。
+今王吕氏，非约也。
+太后不说。
+问左丞相平及绛侯周勃等，皆曰： 高帝定天下，王子弟；今太后称制，欲王昆弟诸吕，无所不可。
+太后喜。
+罢朝，陵让平、勃曰： 始与高帝唼血而盟，诸君不在邪？
+今高帝崩，太后女主，欲王吕氏，诸君纵欲阿意背约，何面目见高帝于地下乎！
+平曰： 于面折廷争，臣不如君；全社稷，定刘氏后，君亦不如臣。
+陵无以应之。
+于是吕太后欲废陵，乃阳迁陵为帝太傅，实夺之相权。
+陵怒，谢病免，杜门竟不朝请，十年而薨。
+陵之免，吕太后徙平为右丞相，以辟阳侯审食其为左丞相。
+食其亦沛人也。
+汉王之败彭城西，楚取太上皇、吕后为质，食其以舍人侍吕后。
+其后从破项籍为侯，幸于吕太后。
+及为相，不治，监宫中，如郎中令，公卿百官皆因决事。
+吕须常以平前为高帝谋执樊哙，数谗平曰： 为丞相不治事，日饮醇酒，戏妇人。
+平闻，日益甚。
+吕太后闻之，私喜。
+面质吕须于平前，曰： 鄙语曰 儿妇人口不可用 ，顾君与我何如耳，无畏吕须之谮。
+吕太后多立诸吕为王，平伪听之。
+及吕太后崩，平与太尉勃合谋，卒诛诸吕，立文帝，平本谋也。
+translation: 
+Wang Ling's mother secretly sent the envoy, crying: I hope to tell Wang Ling for the old woman to serve the King of Han well. The King of Han is a kind and kind elder, and don't have second thoughts because of the old woman.
+I died to see the messenger off.
+He fell on his sword and died.
+King Xiang was angry and killed Wang Ling's mother.
+Wang Ling finally followed the King of Han to pacify the world.
+Because he was friendly with Yong Chi, who was Gaozu's enemy, and Wang Ling had no intention of obeying Mo, he later granted Wang Ling the title of Marquis of Anguo.
+Wang Ling was arbitrary and had no literary talent, and he liked to be outspoken. After serving as Prime Minister You for two years, Emperor Hui died.
+Empress Gao wanted to make a man named Lu king and asked about the king's mausoleum.
+Wang Ling said: Emperor Gao killed Baima Mengzhe and said: If he is not the Liu family but becomes king, the whole world will attack him together.
+It is against the rules to make Lu the king now.
+The Queen Mother was not happy.
+When I asked the left prime minister Chen Ping and Jianghou Zhou Bo, they all said: Emperor Gao pacified the world and established his children as kings; now the Queen Mother is exercising the power of the emperor and wants to grant brothers surnamed Lu, and there is nothing wrong with it.
+The Queen Mother is happy.
+After retreating from the court, Wang Ling scolded Chen Ping and Zhou Bo, saying: We made a blood oath with Emperor Gao in the beginning, aren't you here?
+Now that Emperor Gao has passed away, the Queen Mother is the heroine and wants to make Lu the king. You all are flattering and breaking the covenant. How can you have the shame to meet Emperor Gao underground!
+Chen Ping said: "I am not as good as you in arguing in front of the court; you are not as good as me in preserving the country and stabilizing the descendants of the Liu family."
+Wang Ling was speechless.
+So Empress Dowager Lu wanted to depose Wang Ling, and promoted Wang Ling to the position of emperor's tutor on the surface, but in fact she took away his power of prime minister.
+Wang Ling was angry, resigned due to illness, and stayed behind closed doors to attend court. He died ten years later.
+After Wang Ling was dismissed, Empress Dowager Lu promoted Chen Ping to the position of prime minister of the right, and appointed him as the prime minister of the left by the Marquis of Piyang.
+Eating it is also a good thing.
+When the King of Han was defeated in the west of Pengcheng, the Chu army took the Emperor Taishang and Empress Lu as hostages, and used them as sacrifices to serve Empress Lu.
+Later, after defeating Xiang Ji, he was granted the title of Marquis and was favored by Empress Dowager Lu.
+When he becomes the prime minister, he does not assume any official duties and supervises the affairs of the palace. He is like a doctor, and all officials make decisions through him.
+Lu Xuchang framed Chen Ping many times because he planned to arrest Fan Sha for Emperor Gao. He said: "As prime minister, I don't care about anything. I drink fine wine every day and molest women."
+After hearing this, Chen Ping became more and more indulgent day by day.
+When Empress Dowager Lu heard about it, she was secretly happy.
+In front of Lu Xu, Chen Ping said: As the saying goes, women and children cannot be heard. I want to know what kind of relationship you have with me. Don't be afraid of being framed by Lu Xu.
+Empress Dowager Lu appointed many people named Lu as kings, and Chen Ping pretended to obey.
+When Empress Dowager Lu died, Chen Ping and Taiwei Zhou Bo conspired to finally kill the people named Lu and establish Emperor Wen. This was Chen Ping's plan.
+
+summary:
+summary line 11: After Emperor Gao's death, Chen Ping pretended to indulge in wine and women to avoid suspicion from Empress Lü. He outwardly complied with her appointing Lü family members as kings, but later conspired with Zhou Bo to eliminate the Lü clan and establish Emperor Wen. As prime minister, he famously told the emperor that a prime minister's role is to oversee officials, not handle specific tasks.
+
+Chunk 14: 
+original: 
+勃以织薄曲为生，常以吹箫给丧事，材官引强。
+高祖为沛公初起，勃以中涓从攻胡陵，下方与。
+方与反，与战，却敌。
+攻丰。
+击秦军砀东。还军留及萧。
+复攻砀，破之。
+下下邑，先登，赐爵五大夫。
+攻蒙、虞，取之。
+击章邯车骑殿。
+略定魏地。
+攻辕戚、东纟昬，以往至栗，取之。
+攻齧桑，先登。
+击秦军阿下，破之。
+追至濮阳，下蕲城。
+攻都关、定陶，袭取宛朐，得单父令。
+夜袭取临济，攻寿张，以前至卷，破李由雍丘下。
+攻开封，先至城下为多。
+后章邯破项梁，沛公与项羽引兵东如砀。
+自初起沛还至砀，一岁二月。
+楚怀王封沛公号武安侯，为砀郡长。
+沛公拜勃为襄贲令。
+从沛公定魏地，攻东郡尉于成武，破之。攻长社，先登。
+攻颍阳、缑氏，绝河津。击赵贲军尸北。
+南攻南阳守齮，破武关、峣关。
+攻秦军于蓝田。
+至咸阳，灭秦。
+项羽至，以沛公为汉王。
+汉王赐勃爵为威武侯。
+从入汉中，拜为将军。
+还定三秦，赐食邑怀德。
+攻槐里、好畤，最。
+北击赵贲、内史保于咸阳，最。
+北救漆。
+击章平、姚卬军。
+西定汧。
+还下眉阝、频阳。
+围章邯废丘，破之。西击益已军，破之。
+攻上邽。
+东守峣关。
+击项籍。
+攻曲遇，最。
+还守敖仓，追籍。
+籍已死，因东定楚地泗水、东海郡，凡得二十二县。
+还守雒阳、栎阳，赐与颍阴侯共食钟离。
+以将军从高祖击燕王臧荼，破之易下。
+所将卒当驰道为多。
+赐爵列侯，剖符世世不绝。
+食绛八千二百八十户。
+以将军从高帝击韩王信于代，降下霍人。
+以前至武泉，击胡骑，破之武泉北。
+转攻韩信军铜鞮，破之。
+还，降太原六城。
+击韩信胡骑晋阳下，破之，下晋阳。
+后击韩信军于硰石，破之，追北八十里。
+还攻楼烦三城，因击胡骑平城下，所将卒当驰道为多。
+勃迁为太尉。
+击陈豨，屠马邑。
+所将卒斩豨将军乘马降。
+转出韩信、陈豨、赵利军于楼烦，破之。
+得豨将宋最、雁门守圂。
+因转攻得云中守遬、丞相箕肄、将军博。
+translation: 
+Qedong made a living by weaving silkworm-rearing utensils. He often played the flute for people attending funerals, and used his talents as a leader.
+When Emperor Gaozu had just become Duke of Pei, Bo followed him as Zhongjuan to attack Huling and attacked Fangyou.
+Fang rebelled, fought with the enemy again, and defeated the enemy.
+Attack Feng.
+Attack the Qin army in Cishu. He came back and was stationed in Liuhexiao.
+Attack Ci again and occupy it.
+To capture Xiayi, first scale the city wall. He was given the title of Fifth Doctor.
+Attacked Meng and Yu and occupied them.
+Attack the rear army of Zhang Han's chariots and cavalry.
+Capture the land of Wei.
+He captured Yuanqi and Shujin, went to Li, and captured it.
+To attack Zhisang, first climb the city wall.
+Attack the Qin army in Axia and defeat them.
+He pursued him to Puyang and captured Qicheng.
+He attacked Duguan and Dingtao, captured Wanqu by surprise, and captured the county magistrate Shanfu.
+He captured Linji with a night attack, attacked Shouzhang, went to Juan as a vanguard, and defeated Li You at the foot of Yongqiu City.
+When attacking Kaifeng, he got to the city first and gained most of the credit.
+After Zhang Han defeated Xiang Liang, Pei Gong and Xiang Yu led their troops eastward to Jie.
+From the beginning of the uprising in Pei to the time he returned to Ci, it lasted one year and two months.
+King Huai of Chu granted Duke Pei the title of Marquis of Wu'an and made him the governor of Jie County.
+Peigong worshiped Zhou Bo as his assistant and ordered him to do so.
+Following Peiping, he conquered the territory of Wei, and attacked Dongjun Wei in Chengwu, and was defeated. To attack Changshe, first climb the city wall.
+Attack Yingyang and Fengshi, cross the river crossing, and attack Zauben's army in the north of Shibei.
+Go south to attack Nanyang Shouling and occupy Wuguan and Xiguan.
+Attack the Qin army in Lantian. To Xianyang.
+Destroy Qin.
+Xiang Yu came and made Peigong King of Han.
+The king of Han granted Zhou Bojue the title of Marquis of Power.
+He followed him into Hanzhong and became a general.
+He returned to the army to pacify the Three Qin Dynasties and granted him food and virtue.
+Attacking Huaili and being good at confrontation will have the highest merit.
+Going north to attack Zhao Bi and Nei Shibao in Xianyang, he achieved the highest credit.
+Rescue paint on the north side.
+Attack Zhang Ping and Yao Yin's army.
+Go west to pacify Dingyi.
+Returned to capture Yun and Pinyang.
+Besieged Zhang Han in Feiqiu and won. Attacked Yi Jijun to the west and won.
+Attack Shangbang.
+Head east to guard the Pass.
+Attack Xiang Ji.
+Attacking Quyu has the highest merit.
+Go back to guard Aocang and chase Xiang Ji.
+After Xiang Ji's death, he pacified Chudi's swimming and Shuhai counties in Shumian, occupying a total of twenty-two counties.
+He returned to guard Luoyang and Luyang, and was rewarded with Zhongli as a food town together with Marquis Yingyin.
+As a general, he followed Emperor Gaozu to attack King Zangcha of Yan and defeated him at the foot of Yi City.
+Most of the soldiers he led served as Gaozu's pioneers.
+Confer nobility as a lord, and analyze the talismans from generation to generation.
+There are 8,280 households in Shiyijiang.
+As a general, he followed Emperor Gao to attack King Xin of Han in Dai and captured the Huo people.
+As a vanguard, he went to Wuquan, attacked the Hu cavalry, and defeated them north of Wuquan.
+Turn to Tongqian to attack Han Xin's army and win.
+Return to the army and surrender the six cities of Taiyuan.
+Hu Qi attacked Han Xin at the foot of Jinyang City, won the victory, and occupied Jinyang.
+Later, he attacked Han Xin's army at Bishi and won, chasing the defeated army for eighty miles.
+He returned to attack the three cities of Loufan, and then attacked the Hu cavalry at the foot of Pingcheng. Most of the soldiers he led served as Gaozu's pioneers.
+Zhou Bo was promoted to Taiwei.
+Beaten the cattle and massacred the people of Mayi city.
+The general who led his soldiers to kill Chen Xi surrendered on horseback.
+He moved to Loufan to attack the troops of Han Xin, Chen Xi and Zhao Li and won.
+Captured by Chen Xi, Song Zui and Yanmen were trapped.
+Then they turned to attack and captured Yunzhong Shouyao, Prime Minister Ji Jie, and General Bo.
+
+summary:
+summary line 12: Zhou Bo, a simple man from Pei, began as a funeral flutist. He followed Liu Bang from the start, distinguishing himself in battle by often being the first to scale city walls. He served as a general under Emperor Gao, pacifying many regions and capturing numerous enemy officials.
+
+Chunk 15: 
+original: 
+定雁门郡十七县、云中郡十二县。
+因复击豨灵丘，破之，斩豨丞相程纵、将军陈武、都尉高肄。
+定代郡九县。
+燕王卢绾反，勃以相国代樊哙将，击下蓟，得绾大将抵，丞相偃、夺陉，太尉弱、御史大夫施屠浑都。
+破绾军上兰，后击绾军沮阳。
+追至长城，定上谷十二县、右北平十六县、辽东二十九县、渔阳二十二县。
+最从高帝得相国一人，丞相二人，将军，二千石各三人；别破军二，下城三，定郡五、县七十九，得丞相、大将各一人。
+勃为人木强敦厚，高帝以为可属大事。
+勃不好文学，每召诸生说士，东乡坐责之： 趣为我语。
+其椎少文如此。
+勃既定燕而归，高帝已崩矣，以列侯事惠帝，惠帝六年，置太尉官，以勃为太尉。
+十年，高后崩。
+吕禄以赵王为汉上将军，吕产以吕王为相国，秉权，欲危刘氏。
+勃与丞相平、朱虚侯章共诛诸吕。
+语在《高后纪》。
+于是阴谋以为 少帝及济川、淮阳、恒山王皆非惠帝子，吕太后以计诈名它人子，杀其母，养之后宫，令孝惠子之，立以为后，用强吕氏。
+今已灭诸吕，少帝即长用事，吾属无类矣，不如视诸侯贤者立之。
+遂迎立代王，是为孝文皇帝。
+东牟侯兴居，朱虚侯章弟也，曰： 诛诸吕，臣无功，请得除宫。
+乃与太仆汝阴侯滕公入宫。
+滕公前谓少帝曰： 足下非刘氏，不当立。
+乃顾麾左右执戟，皆仆兵罢。
+有数人不肯去，宦者令张释谕告，亦去。
+滕公召乘舆车载少帝出。
+少帝曰： 欲持我安之乎？
+滕公曰： 就舍少府。
+乃奉天子法驾，迎皇帝代邸，报曰： 宫谨除。
+皇帝入未央宫，有谒者十人持越卫端门，曰： 天子在地，足下何为者？
+不得入。
+太尉往喻，乃引兵去，皇帝遂入。
+是夜，有司分部诛济川、淮阳、常山王及少帝于邸。
+translation: 
+The seventeen counties of Yanmen County and the twelve counties of Yunzhong County were pacified.
+Then he attacked Chen Xi in Lingqiu and won. They beheaded Chen Xi, Prime Minister Cheng Zong, General Chen Wu, and Captain Gao Xie.
+Pingding Daijun nine counties.
+King Lu Wan of Yan rebelled, and Zhou Bo, as prime minister, led Fan Sha's army and captured Ji. He captured Lu Wan's general Da, the prime ministers Yan, Shouxing, Taiwei Ruo, and the imperial censor Shi Tuhundu.
+Defeated Lu Wan's army in Shanglan, and then attacked Lu Wan's army in Juyang.
+After chasing the Great Wall, they pacified twelve counties in Shanggu, sixteen counties in Youbeiping, twenty-nine counties in Liaodong, and twenty-two counties in Yuyang.
+Following Emperor Gao, they captured one prime minister, two prime ministers, three generals and two thousand stones. In addition, they defeated two armies, captured three cities, pacified five counties and seventy-nine counties, and captured one prime minister and one general.
+Zhou Bo was a simple and honest man, and Emperor Gao believed that he could be entrusted with important tasks.
+Zhou Bo didn't like reading. Every time he summoned scholars and debaters, he would sit facing east and urge: "Tell me quickly."
+He simply lacks literary talent to this extent.
+Zhou Bo pacified Yan and returned. Emperor Gao had passed away. He served Emperor Hui as a prince. In the sixth year of Emperor Hui's reign, the official position of Taiwei was established and Zhou Bo was appointed as Taiwei.
+Ten years later, Queen Gao passed away.
+Lu Lu appointed King Tong as the general of Mo Shang, and Lu Chan appointed King Lu as the prime minister. He controlled the power of the country and wanted to endanger the Liu family.
+Zhou Bo, together with the prime ministers Chen Ping and Zhu Xuhou Zhang, killed everyone surnamed Lu.
+The matter is in "Gaohou Ji".
+They then plotted secretly, believing that the young emperor and the kings of Ji, Huaiyang and Hengshan were not the sons of Emperor Hui. Empress Dowager Lu used a trick to pretend that someone else's child was a prince, killed his mother, raised him in the harem, and asked Xiaohui to treat him like a son and establish him as a descendant to strengthen the power of the Lu family.
+Now that the Lu surname has been eliminated, if the young emperor grows up and takes charge, we will all be exterminated. It is better to select virtuous princes as emperors.
+Then he welcomed the acting king, Emperor Xiaowen.
+Dongmou Hou Xingju, the younger brother of Zhu Xuhou Zhang, said: "I have no merit in killing Lu. Please let me clear the palace."
+Then he and his servant Ruyin, Duke Teng, entered the palace.
+Duke Teng stepped forward and said to the young emperor: "You are not the Liu family, so you do not deserve to be the emperor."
+Then he turned around and waved away the halberds on his left and right, and they all put down their weapons and dispersed.
+Several people refused to leave, and the eunuch ordered Zhang Shi to inform everyone, and then they left.
+Duke Teng called for a chariot to carry the young emperor out of the palace.
+The young emperor said: Where do you want to take me?
+Teng Gong said: "Go to the Shaofu's residence."
+Then he drove the emperor's chariot and horse to the residence to greet the emperor and reported: The palace has been cleared.
+When the emperor entered Weiyang Palace, there were ten visitors holding halberds guarding the main entrance of the palace, saying: The emperor is here, what are you doing?
+Can't go in.
+The Taiwei went to report the matter, then led his troops to leave, and the Emperor went in.
+That night, the officials divided into several groups and killed them at the residences of King Jichuan, Huaiyang, and Changshan and the young emperor.
+
+summary:
+summary line 13: After Emperor Gao's death, Zhou Bo served as Grand Commandant. When Empress Lü died, he and Chen Ping plotted to eliminate the Lü clan. Zhou Bo, as commander of the Northern Army, rallied the soldiers by showing them his seal and declaring loyalty to the Liu family. They killed the Lü kings and established Emperor Wen.
+
+Chunk 16: 
+original: 
+文帝即位，以勃为右丞相，赐金五千斤，邑万户。
+居十余月，人或说勃曰： 君既诛诸吕，立代王，威震天下，而君受厚赏、处尊位以厌之，则祸及身矣！
+勃惧，亦自危，乃谢请归相印。
+上许之。
+岁余，陈丞相平卒，上复用勃为相。
+十余月，上曰： 前日吾召列侯就国，或颇未能行，丞相朕所重，其为朕率列侯之国。
+乃免相就国。
+岁余，每河东守尉行县至绛，绛侯勃自畏恐诛，常被甲，令家人持兵以见。
+其后人有上书告勃欲反，下廷尉，逮捕勃治之。
+勃恐，不知置辞。
+吏稍侵辱之。
+勃以千金与狱吏，狱吏乃书牍背示之，曰 以公主为证 。
+公主者，孝文帝女也，勃太子胜之尚之，故狱吏教引为证。
+初，勃之益封，尽以予薄昭。
+及系急，薄昭为言薄太后，太后亦以为无反事。
+文帝朝，太后以冒絮提文帝，曰： 绛侯绾皇帝玺，将兵于北军，不以此时反，今居一小县，顾欲反邪！
+文帝既见勃狱辞，乃谢曰： 吏方脸而出之。
+于是使使持节赦勃，复爵邑。
+勃既出，曰： 吾尝将百万军，安知狱吏之贵也！
+勃复就国，孝文十一年薨，谥曰武侯。
+子胜之嗣，尚公主不相中，坐杀人，死，国绝。
+一年，文帝乃择勃子贤者河内太守亚夫复为侯。
+亚夫为河内守时，许负相之： 君后三岁而侯。
+侯八岁，为将相，持国秉，贵重矣，于人臣无二。
+后九年而饿死。
+亚夫笑曰： 臣之兄以代父侯矣，有如卒，子当代，我何说侯乎？
+然既已贵如负言，又何说饿死？
+指视我。
+负指其口曰： 从理入口，此饿死法也。
+居三岁，兄绛侯胜之有罪，文帝择勃子贤者，皆推亚夫，乃封为条侯。
+文帝后六年，匈奴大入边。
+以宗正刘礼为将军军霸上，祝兹侯徐厉为将军军棘门，以河内守亚夫为将军军细柳，以备胡。
+translation: 
+Emperor Wen ascended the throne and appointed Zhou Bo as the right prime minister. He was rewarded with five thousand catties of gold and food for ten thousand households.
+More than ten months later, someone advised Zhou Bo: You have killed all the people surnamed Lu and established a king, which is powerful in the world. If you accept a large reward and are in a high position and are satisfied with it, great disaster will come.
+Zhou Bo was afraid and felt he was in danger, so he apologized and asked for the seal to be returned.
+The emperor agreed.
+More than a year later, Prime Minister Chen Ping died, and the emperor appointed Zhou Bo as prime minister.
+More than ten months later, the emperor said: Some time ago, I issued an edict to allow the princes to return to the feudal country, but many people did not go. The Prime Minister is my most important person and he wants to lead the princes back to the country for me.
+Then he was relieved of his position and returned to the feudal country.
+More than a year later, whenever the Hedong governor visited Jiang County, Jiang Hou Zhou Bo himself was afraid of being killed, so he often wore armor and asked his family members to meet him with weapons.
+Later, someone wrote a letter accusing Zhou Bo of rebelling, and he was sent to Tingwei to arrest Zhou Bo and convict him.
+Zhou Bo was scared and didn't know how to answer correctly.
+The clerk slightly insulted him.
+Zhou Bo gave the jailer a thousand catties of gold, and the jailer wrote on the back of the wooden slips for him to read. Ask the princess to testify.
+The princess was the daughter of Emperor Xiaowen and the wife of Prince Zhou Bo Shengzhi, so the jailer taught him to let the princess testify.
+At first, Zhou Bo gave all the land he had sealed to Bo Zhao.
+When it became urgent to be arrested, Bo Zhao spoke for him in front of Queen Mother Bo, who also believed that there was no treason.
+When Emperor Wen went to court, the Queen Mother threw her turban to Emperor Wen and said: Marquis Jiang held the emperor's seal and led troops in the Northern Army. He did not rebel at this time. Now he lives in a small county, but he wants to rebel!
+Emperor Wen had read Zhou Bo's judgment and apologized, saying: "The officials are verifying and releasing him."
+So he sent an envoy with a talisman to pardon Zhou Bo and restore his title and title.
+Zhou Bo was released from prison and said: I once commanded an army of millions, how did I know that the jailer was so noble?
+Zhou Bo returned to the feudal state again. Xiaowen died in the eleventh year, and Mi was given the title of Marquis Wu.
+His son Shengzhi succeeded to the throne, but his marriage to the princess was unsatisfactory. He was executed for murder and the feudal state was abolished.
+A year later, Emperor Wen selected Zhou Bo's son Yafu, the virtuous governor of Hanoi, and made him a marquis.
+Yafu was a punctual person in Hanoi, and Xu Fu gave him a face: "You will be a marquis in three years."
+After eight years as a marquis, he became a general and prime minister, in charge of the country, and had a noble status, unique among ministers.
+Starved to death nine years later.
+Yafu smiled and said: My brother has succeeded his father as a marquis. If he dies, his son will inherit. How can I talk about becoming a marquis?
+But if you are as noble as Xu Negiyan said, how can you say that you will starve to death?
+Point it out to me.
+Xu Negiyan pointed to his mouth and said: "The vertical lines at the entrance are the lines of starvation."
+Three years later, his elder brother Jianghou Sheng was found guilty. Emperor Wen selected the virtuous among Zhou Bo's sons. They all recommended Yafu and made him Tiaohou.
+Six years after Emperor Wen's reign, the Xiongnu invaded the border in large numbers.
+He appointed Zongzheng and Liu Li as the generals and garrisoned at Ba Shang, Zhu Zihou Xu Li as the generals and garrisoned at Jimen, and appointed Hanoi Shou Yafu as the generals and garrisoned at Xiliu to guard against the barbarians.
+
+summary:
+summary line 14: Zhou Bo became Right Chancellor but feared his power and resigned. Later accused of rebellion, he was imprisoned and bribed a jailer for advice. He was released after his wife, the emperor's daughter, testified for him. He remarked on the harshness of jailers. His son Zhou Yafu succeeded him.
+
+Chunk 17: 
+original: 
+上自劳军，至霸上及棘门军，直驰入，将以下骑出入送迎。
+已而之细柳军，军士吏披甲，锐兵刃，彀弓弩持满。天子先驱至，不得入。
+先驱曰： 天子且至！
+军门都尉曰： 军中闻将军之令，不闻天子之诏。
+有顷，上至，又不得入。
+于是上使使持节诏将军曰： 吾欲劳军。
+亚夫乃传言开壁门。
+壁门士请车骑曰： 将军约，军中不得驱驰。
+于是天子乃按辔徐行。
+至中营，将军亚夫揖，曰： 介胄之士不拜，请以军礼见。
+天子为动，改容式车，使人称谢： 皇帝敬劳将军。
+成礼而去。
+既出军门，群臣皆惊。
+文帝曰： 嗟乎，此真将军矣！
+乡者霸上、棘门如儿戏耳，其将固可袭而虏也。
+至于亚夫，可得而犯邪！
+称善者久之。月余，三军皆罢。
+乃拜亚夫为中尉。
+文帝且崩时，戒太子曰： 即有缓急，周亚夫真可任将兵。
+文帝崩，亚夫为车骑将军。
+孝景帝三年，吴、楚反。
+亚夫以中尉为太尉，东击吴、楚。
+因自请上曰： 楚兵剽轻，难与争锋。
+愿以梁委之，绝其食道，乃可制也。
+上许之。
+亚夫既发，至霸上，赵涉遮说亚夫曰： 将军东诛吴、楚，胜则宗庙安，不胜则天下危，能用臣之言乎？
+亚夫下车，礼而问之。
+涉曰： 吴王素富，怀辑死士久矣。此知将军且行，必置间人于殽、黾厄陿之间。且兵事上神密，将军何不从此右去，走蓝田，出武关，抵雒阳，间不过差一二日，直入武库，击鸣鼓。
+诸侯闻之，以为将军从天而下也。
+太尉如其计。
+至雒阳，使吏搜殽、黾间，果得吴代兵。
+乃请涉为护军。
+亚夫至，会兵荥阳。
+translation: 
+The emperor personally expressed his condolences to the army. He went to Bashang and the Thorny Gate Army and drove straight in. The following officials rode in and out to greet them.
+Then we went to the Binaliu Army. The officers and soldiers in the army were wearing armor, sharpening their swords, drawing their bows and crossbows, and drawing the strings fully. The emperor's pioneers arrived, but they could not get in.
+The pioneer said: The emperor is coming!
+The captain of the military gate said: The army obeys the general's orders but not the emperor's edicts.
+After a while, the emperor arrived, but he couldn't get in.
+So the emperor sent an envoy to take the talisman and tell the general: "I want to comfort the army."
+Yafu sent word to open the camp gate.
+The gatekeeper of the camp asked for the cavalry and said: "The general has stipulated that horses are not allowed to gallop in the army."
+So the emperor fastened his horse's reins and walked slowly.
+When he arrived at the middle camp, he bowed to the general and his husband and said: "Men in armor do not kneel down to worship. Please allow me to show you military salutes."
+The emperor was moved by this, looked solemn, and supported Che Shi. Send someone to announce: The emperor respectfully expresses his condolences to the general.
+Leave after the ceremony.
+After leaving the camp gate, the ministers were all frightened.
+Emperor Wen said: Ah, this is the real general!
+Previously, Bashang and Thorny Gate were like child's play, and the general would definitely be attacked and captured.
+As for Yafu, can he invade?
+Praise him for a long time. More than a month later, all three armies withdrew.
+He appointed Yafu as lieutenant.
+Before Emperor Wen died, he warned the prince: If there is an emergency, Zhou Yafu can really be appointed to lead the army.
+Emperor Wen died, and Yafu became a chariot and cavalry general.
+In the third year of Emperor Xiaojing's reign, Wu Chu rebelled.
+As a lieutenant, Yafu performed the duties of a Taiwei and went east to attack Wu Chu.
+So he asked the emperor: "The Chu soldiers are strong and agile, and it is difficult to compete with them."
+I hope that by abandoning Liang to it and cutting off their food routes, they can conquer it.
+The emperor agreed.
+Yafu set out and arrived at Bashang. Chang She stopped Yafu and said, "General, go eastward to destroy Wu and Chu. If you win, the ancestral temple will be stable. If you fail, the world will be in danger. Can you adopt my opinion?"
+Yafu got out of the car and asked him after saluting.
+Zhao She said: The King of Wu has always been rich and has long recruited scholars who are willing to die for service. Now that he knows that the general is going, he will definitely set up an ambush at a narrow and dangerous place, and the secret of war is important. Why doesn't the general go to the right from now on, pass through Lantian, leave Wuguan, and arrive at Luoyang, which is only a day or two away. He can directly enter the weapons warehouse and beat the war drums.
+When the princes heard this, they thought the general had fallen from the sky.
+The Taiwei acted according to his plan.
+When they arrived in Luoyang, they sent a small official to search Sanxingjian, and sure enough they found Wu's ambush.
+So he asked Zhao She to be the guard.
+After Yafu arrived, he gathered his troops in Rongyang.
+
+summary:
+summary line 15: Zhou Yafu, known for his strict military discipline, refused to let Emperor Wen enter his camp without proper protocol, earning the emperor's praise as a "true general." During the Rebellion of the Seven States, he advised letting Liang bear the enemy's attack while cutting off their supply routes. He ignored the emperor's order to save Liang, focusing on his strategy, which ultimately defeated Wu and Chu.
+
+Chunk 18: 
+original: 
+吴方攻梁，梁急，请救。
+亚夫引兵东北走昌邑，深壁而守。
+梁王使使请亚夫，亚夫守便宜，不往。
+梁上书言景帝，景帝诏使救梁。
+亚夫不奉诏，坚壁不出，而使轻骑兵弓高侯等绝吴、楚兵后食道。
+吴、楚兵乏粮，饥，欲退，数挑战，终不出。
+夜，军中惊，内相攻击扰乱，至于帐下。
+亚夫坚卧不起。
+顷之，复定。
+吴奔壁东南陬，亚夫使备西北。
+已而其精兵果奔西北，不得入。
+吴、楚既饿，乃引而去。亚夫出精兵追击，大破吴王濞。
+吴王濞弃其军，与壮士数千人亡走，保于江南丹徒。
+汉兵因乘胜，遂尽虏之，降其县，购吴王千金。
+月余，越人斩吴王头以告。
+凡相守攻三月，而吴、楚破平。于是诸将乃以太尉计谋为是。
+由此梁孝王与亚夫有隙。
+归，复置太尉官。
+五岁，迁为丞相，景帝甚重之。
+上废栗太子，亚夫固争之，不得。
+上由此疏之。
+而梁孝王每朝，常与太后言亚夫之短。
+窦太后曰： 皇后兄王信可侯也。
+上让曰： 始南皮及章武先帝不侯，及臣即位，乃侯之，信未得封也。
+窦太后曰： 人生各以时行耳。
+窦长君在时，竟不得侯，死后，乃其子彭祖顾得侯。
+吾甚恨之。
+帝趣侯信也！
+上曰： 请得与丞相计之。
+亚夫曰： 高帝约 非刘氏不得王，非有功不得侯。
+不如约，天下共击之 。今信虽皇后兄，无功，侯之，非约也。
+上默然而沮。
+其后匈奴王徐卢等五人降汉，上欲侯之以劝后。
+translation: 
+Wu Zheng attacked Liang, and Liang was in danger and asked for help.
+Yafu led his troops to the northeast toward Changyi and built a stronghold to defend it.
+The king of Liang sent an envoy to request Yafu, but Yafu considered the situation and refused to go.
+King Liang wrote to Emperor Jing and Emperor Jing issued an edict asking him to save Liang.
+Yafu disobeyed Shao's order and defended the camp without sending troops. He sent light cavalry, Gong Gaohou and others to cut off the Wu Chu army's rear food route.
+Wu Chu's soldiers were short of food and hungry, and wanted to retreat. They challenged him many times but refused to go out.
+At night, there was a commotion in the army, internal attacks and commotion, and they arrived at the tent.
+Yafu lay still and couldn't get up.
+After a while, it settled down again.
+Wu Jun rushed to the southeast corner of the camp, while Yafu Rang guarded the northwest corner.
+Soon the enemy's elite troops rushed to the northwest and could not attack.
+Wu Chu's army was short of food, so they withdrew their troops. Yafu sent out elite troops to pursue and defeated Wu Wangbi.
+Wu Wangbi abandoned his army and fled with thousands of warriors to protect himself in Dantu in the south of the Yangtze River.
+Taking advantage of the victory, the Han soldiers finally captured them all, surrendered all counties, and offered a reward of thousands of gold to the King of Wu.
+More than a month later, the Yue people chopped off King Wu's head to report.
+After a total of three months of attack and defense, Wu Chu was pacified. Then the generals believed that the Taiwei's plan was correct.
+From then on, there was a conflict between King Xiao of Liang and Yafu.
+After returning, he appointed Taiwei officers.
+Five years later, he was promoted to prime minister, and Emperor Jing valued him very much.
+The emperor abolished Prince Li. Yafu argued resolutely but failed.
+The emperor therefore distanced himself from him.
+And every time Liang Xiaowang went to court, he often talked to the Queen Mother about Yafu's shortcomings.
+Empress Dowager Dou said: The empress's brother Wang Xin can be made a marquis.
+The emperor reproached him and said: In the past, Nanpi and Zhangwu, the first emperors, did not ennoble themselves as marquises, but when their ministers came to the throne, they would do so. Wang Xin could not do so.
+Empress Dowager Dou said: In life, everyone acts according to the current situation.
+When Dou Changjun was still alive, he could not be granted the title of marquis in the end. After his death, his son Peng Zu was granted the title of marquis.
+I regret it very much.
+The emperor quickly makes Wang Xin a marquis!
+The emperor said: Please allow me to discuss this with the prime minister.
+Yafu said: Emperor Gao stipulated that it was not that the Liu family could not be granted the title of king, nor that the Liu family could not be granted the title of marquis without merit.
+If he did not abide by the regulations, everyone in the world attacked him. Now, although Wang Xin is the elder brother of the queen, he has no merit and is granted a title, which is against the regulations.
+The emperor remained silent and stopped the matter.
+Later, King Xu Lu of the Xiongnu and five others surrendered to the Han Dynasty. The emperor wanted to make him a marquis to encourage his descendants.
+
+summary:
+summary line 16: As prime minister, Yafu opposed enfeoffing the queen's brother and Xiongnu defectors, arguing it violated Emperor Gao's rules. The emperor overruled him. Later, Yafu's son bought imperial burial items, and Yafu was accused of rebellion. He starved himself in prison, fulfilling a prophecy that he would die of hunger.
+
+Chunk 15: 
+original: 
+定雁门郡十七县、云中郡十二县。
+因复击豨灵丘，破之，斩豨丞相程纵、将军陈武、都尉高肄。
+定代郡九县。
+燕王卢绾反，勃以相国代樊哙将，击下蓟，得绾大将抵，丞相偃、夺陉，太尉弱、御史大夫施屠浑都。
+破绾军上兰，后击绾军沮阳。
+追至长城，定上谷十二县、右北平十六县、辽东二十九县、渔阳二十二县。
+最从高帝得相国一人，丞相二人，将军，二千石各三人；别破军二，下城三，定郡五、县七十九，得丞相、大将各一人。
+勃为人木强敦厚，高帝以为可属大事。
+勃不好文学，每召诸生说士，东乡坐责之： 趣为我语。
+其椎少文如此。
+勃既定燕而归，高帝已崩矣，以列侯事惠帝，惠帝六年，置太尉官，以勃为太尉。
+十年，高后崩。
+吕禄以赵王为汉上将军，吕产以吕王为相国，秉权，欲危刘氏。
+勃与丞相平、朱虚侯章共诛诸吕。
+语在《高后纪》。
+于是阴谋以为 少帝及济川、淮阳、恒山王皆非惠帝子，吕太后以计诈名它人子，杀其母，养之后宫，令孝惠子之，立以为后，用强吕氏。
+今已灭诸吕，少帝即长用事，吾属无类矣，不如视诸侯贤者立之。
+遂迎立代王，是为孝文皇帝。
+东牟侯兴居，朱虚侯章弟也，曰： 诛诸吕，臣无功，请得除宫。
+乃与太仆汝阴侯滕公入宫。
+滕公前谓少帝曰： 足下非刘氏，不当立。
+乃顾麾左右执戟，皆仆兵罢。
+有数人不肯去，宦者令张释谕告，亦去。
+滕公召乘舆车载少帝出。
+少帝曰： 欲持我安之乎？
+滕公曰： 就舍少府。
+乃奉天子法驾，迎皇帝代邸，报曰： 宫谨除。
+皇帝入未央宫，有谒者十人持越卫端门，曰： 天子在地，足下何为者？
+不得入。
+太尉往喻，乃引兵去，皇帝遂入。
+是夜，有司分部诛济川、淮阳、常山王及少帝于邸。
+translation: 
+The seventeen counties of Yanmen County and the twelve counties of Yunzhong County were pacified.
+Then he attacked Chen Xi in Lingqiu and won. They beheaded Chen Xi, Prime Minister Cheng Zong, General Chen Wu, and Captain Gao Xie.
+Pingding Daijun nine counties.
+King Lu Wan of Yan rebelled, and Zhou Bo, as prime minister, led Fan Sha's army and captured Ji. He captured Lu Wan's general Da, the prime ministers Yan, Shouxing, Taiwei Ruo, and the imperial censor Shi Tuhundu.
+Defeated Lu Wan's army in Shanglan, and then attacked Lu Wan's army in Juyang.
+After chasing the Great Wall, they pacified twelve counties in Shanggu, sixteen counties in Youbeiping, twenty-nine counties in Liaodong, and twenty-two counties in Yuyang.
+Following Emperor Gao, they captured one prime minister, two prime ministers, three generals and two thousand stones. In addition, they defeated two armies, captured three cities, pacified five counties and seventy-nine counties, and captured one prime minister and one general.
+Zhou Bo was a simple and honest man, and Emperor Gao believed that he could be entrusted with important tasks.
+Zhou Bo didn't like reading. Every time he summoned scholars and debaters, he would sit facing east and urge: "Tell me quickly."
+He simply lacks literary talent to this extent.
+Zhou Bo pacified Yan and returned. Emperor Gao had passed away. He served Emperor Hui as a prince. In the sixth year of Emperor Hui's reign, the official position of Taiwei was established and Zhou Bo was appointed as Taiwei.
+Ten years later, Queen Gao passed away.
+Lu Lu appointed King Tong as the general of Mo Shang, and Lu Chan appointed King Lu as the prime minister. He controlled the power of the country and wanted to endanger the Liu family.
+Zhou Bo, together with the prime ministers Chen Ping and Zhu Xuhou Zhang, killed everyone surnamed Lu.
+The matter is in "Gaohou Ji".
+They then plotted secretly, believing that the young emperor and the kings of Ji, Huaiyang and Hengshan were not the sons of Emperor Hui. Empress Dowager Lu used a trick to pretend that someone else's child was a prince, killed his mother, raised him in the harem, and asked Xiaohui to treat him like a son and establish him as a descendant to strengthen the power of the Lu family.
+Now that the Lu surname has been eliminated, if the young emperor grows up and takes charge, we will all be exterminated. It is better to select virtuous princes as emperors.
+Then he welcomed the acting king, Emperor Xiaowen.
+Dongmou Hou Xingju, the younger brother of Zhu Xuhou Zhang, said: "I have no merit in killing Lu. Please let me clear the palace."
+Then he and his servant Ruyin, Duke Teng, entered the palace.
+Duke Teng stepped forward and said to the young emperor: "You are not the Liu family, so you do not deserve to be the emperor."
+Then he turned around and waved away the halberds on his left and right, and they all put down their weapons and dispersed.
+Several people refused to leave, and the eunuch ordered Zhang Shi to inform everyone, and then they left.
+Duke Teng called for a chariot to carry the young emperor out of the palace.
+The young emperor said: Where do you want to take me?
+Teng Gong said: "Go to the Shaofu's residence."
+Then he drove the emperor's chariot and horse to the residence to greet the emperor and reported: The palace has been cleared.
+When the emperor entered Weiyang Palace, there were ten visitors holding halberds guarding the main entrance of the palace, saying: The emperor is here, what are you doing?
+Can't go in.
+The Taiwei went to report the matter, then led his troops to leave, and the Emperor went in.
+That night, the officials divided into several groups and killed them at the residences of King Jichuan, Huaiyang, and Changshan and the young emperor.
+
+summary:
+summary line 17: The historian comments that Zhang Liang, despite his wisdom, looked like a woman. Chen Ping used clever schemes to survive the Lü clan's rule. Zhou Bo, though crude, stabilized the Han dynasty, fulfilling Emperor Gao's prediction that he would secure the Liu family.
+

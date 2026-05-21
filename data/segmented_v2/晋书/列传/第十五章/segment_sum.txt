@@ -1,0 +1,394 @@
+Summary uses chunk [0, 0, 0, 5, 8, 11]
+
+Chunk 0: 
+original: 
+刘毅，字仲雄，东莱掖人。
+汉城阳景王章之后。
+父喈，丞相属。
+毅幼有孝行，少厉清节，然好臧否人物，王公贵人望风惮之。
+侨居平阳，太守杜恕请为功曹，沙汰郡吏百余人，三魏称焉。
+为之语曰： 但闻刘功曹，不闻杜府君。
+魏末，本郡察孝廉，辟司隶都官从事，京邑肃然。
+毅将弹河南尹，司隶不许，曰： 攫兽之犬，鼷鼠蹈其背。
+毅曰： 既能攫兽，又能杀鼠，何损于犬！
+投传而去。
+同郡王基荐毅于公府，曰： 毅方正亮直，介然不群，言不苟合，行不苟容。
+往日侨仕平阳，为郡股肱，正色立朝，举纲引墨，硃紫有分，《郑》、《卫》不杂，孝弟著于邦族，忠贞效于三魏。
+昔孙阳取骐骥于吴坂，秦穆拔百里于商旅。毅未遇知己，无所自呈。
+前已口白，谨复申请。
+太常郑袤举博士，文帝辟为相国掾，辞疾，积年不就。
+时人谓毅忠于魏氏，而帝怒其顾望，将加重辟。
+毅惧，应命，转主薄。
+武帝受禅，为尚书郎、驸马都尉，迁散骑常侍、国子祭酒。
+帝以毅忠蹇正直，使掌谏官。
+转城门校尉，迁太仆，拜尚书，坐事免官。
+咸宁初，复为散骑常侍、博士祭酒。
+转司隶校尉，纠正豪右，京师肃然。
+司部守令望风投印绶者甚众，时人以毅方之诸葛丰、盖宽饶。
+皇太子朝，鼓吹将入东掖门，毅以为不敬，止之于门外，奏劾保傅以下。
+诏赦之，然后得入。
+帝尝南郊，礼毕，喟然问毅曰： 卿以朕方汉何帝也？ 对曰： 可方桓、灵。
+帝曰： 吾虽德不及古人，犹克己为政。
+又平吴会，混一天下。
+方之桓、灵，其已甚乎！
+对曰： 桓、灵卖官，钱入官库；陛下卖官，钱入私门。
+translation: 
+Liu Yi, whose courtesy name is Zhongxiong, is from Ye, Donglai.
+Descendants of Liu Zhang, King of Yangjing, Seoul.
+His father, Liu Zhe, was the Prime Minister.
+Liu Yi was filial when he was young, and he honed his noble integrity in his youth, but he liked to comment on people, and he was afraid of princes and nobles.
+Qi lived in Yang, and the prefect Du Shu asked him to serve as a meritorious official. He eliminated more than a hundred county officials and was praised by the people of the Three Wei Dynasties.
+Commenting on him, he said: I only heard about Liu Gongcao, but not about Du Fujun.
+At the end of the Wei Dynasty, Xiaolian was recommended by the county and requisitioned as Si Li Duguan, and the capital was in order.
+Liu Yi was about to impeach Yin of Henan, but Sili disagreed, saying: When a dog attacks an animal, a mole will kick its back.
+Liu Yi said: It can not only catch animals, but also kill rats, so what harm does it do to dogs?
+Throw down the documents and leave.
+Wang Ji of Tongjun recommended Liu Yi to the government, saying: Liu Yi is upright, honest, extraordinary, and does not cater to others with his words and deeds.
+He used to be an official in Pingyang and an important official in the county. In the government office, he was dignified and serious, well-organized, and distinguished among nobles. He was not chaotic in "Zheng" and "Wei". He was famous in the state and county for his filial piety and was imitated in the Three Wei Dynasties because of his loyalty.
+In the past, Sun Yang got a horse from Wu Ban, and Duke Mu of Qin used Baili Xi among the merchants. Liu Yi had never met a confidant and did not recommend himself.
+Having said it verbally before, apply again with caution.
+Taichang Zheng Miao recommended him to be a doctor, and Emperor Wen appointed him as a prime minister. He declined due to illness and did not serve as an official for many years.
+People said that Liu Yi was loyal to the Wei family, but the emperor hated him for being nostalgic for the old dynasty and would punish him with death.
+Liu Yi was frightened, so he responded to the call and was appointed as the chief registrar.
+Emperor Wu accepted the abdication and became the emperor, and made Liu Yi the minister and the prince-in-law.
+Emperor Wu believed that Liu Yi was loyal and upright, and asked him to serve as an admonishment officer.
+He was changed to the city gate school captain, promoted to servant, and appointed minister. He was dismissed from office because of his crimes.
+In the early years of Xianning, he offered wine to the regular attendants and doctors of Sanqi again.
+He was re-appointed as a lieutenant of Sili school, and he promoted the powerful families and brought order to the capital.
+Seeing the situation, many officials put down their official seals. People compared him to Zhuge Feng and Gai Kuanrao.
+When the crown prince entered the court, the band was about to enter Dongye Gate. Liu Yi thought it was not serious, so he blocked them out and impeached officials below the crown prince Baofu.
+The edict pardoned them and allowed them to enter.
+The emperor once went to the southern suburbs to worship heaven. After the ceremony, he sighed to Liu Yi and said: Which emperor of the Han Dynasty do you compare me to? Liu Yi replied: Comparable to Emperor Huan and Emperor Ling.
+The emperor said: Although my virtue is not as good as that of the ancients, I still control myself and govern myself.
+He also pacified Wu Hui and unified the world.
+Isn’t it too much to compare me to Emperors Huan and Ling?
+Liu Yi replied: The second emperor sold his official position, and the money went into the official treasury; Your Majesty sold his official position, and the money went into his private family.
+
+summary:
+summary line 0: Liu Yi, courtesy name Zhongxiong, was from Ye in Donglai, a descendant of Liu Zhang, King of Yangjing. His father, Liu Zhe, served as Prime Minister. Liu Yi was filial in his youth and cultivated noble integrity, but he enjoyed commenting on people and was wary of princes and nobles. When Du Shu, the prefect of Qi, appointed him as a meritorious official, he eliminated over a hundred county officials, earning praise from the people of the Three Wei Dynasties. They remarked, "We only heard of Liu Gongcao, not Du Fujun." At the end of the Wei Dynasty, he was recommended as Xiaolian and appointed as Si Li Duguan, bringing order to the capital. When Liu Yi sought to impeach Yin of Henan, Sili objected, but Liu Yi insisted, saying, "A dog can catch animals and kill rats—what harm is there?" He then resigned.
+
+Chunk 0: 
+original: 
+刘毅，字仲雄，东莱掖人。
+汉城阳景王章之后。
+父喈，丞相属。
+毅幼有孝行，少厉清节，然好臧否人物，王公贵人望风惮之。
+侨居平阳，太守杜恕请为功曹，沙汰郡吏百余人，三魏称焉。
+为之语曰： 但闻刘功曹，不闻杜府君。
+魏末，本郡察孝廉，辟司隶都官从事，京邑肃然。
+毅将弹河南尹，司隶不许，曰： 攫兽之犬，鼷鼠蹈其背。
+毅曰： 既能攫兽，又能杀鼠，何损于犬！
+投传而去。
+同郡王基荐毅于公府，曰： 毅方正亮直，介然不群，言不苟合，行不苟容。
+往日侨仕平阳，为郡股肱，正色立朝，举纲引墨，硃紫有分，《郑》、《卫》不杂，孝弟著于邦族，忠贞效于三魏。
+昔孙阳取骐骥于吴坂，秦穆拔百里于商旅。毅未遇知己，无所自呈。
+前已口白，谨复申请。
+太常郑袤举博士，文帝辟为相国掾，辞疾，积年不就。
+时人谓毅忠于魏氏，而帝怒其顾望，将加重辟。
+毅惧，应命，转主薄。
+武帝受禅，为尚书郎、驸马都尉，迁散骑常侍、国子祭酒。
+帝以毅忠蹇正直，使掌谏官。
+转城门校尉，迁太仆，拜尚书，坐事免官。
+咸宁初，复为散骑常侍、博士祭酒。
+转司隶校尉，纠正豪右，京师肃然。
+司部守令望风投印绶者甚众，时人以毅方之诸葛丰、盖宽饶。
+皇太子朝，鼓吹将入东掖门，毅以为不敬，止之于门外，奏劾保傅以下。
+诏赦之，然后得入。
+帝尝南郊，礼毕，喟然问毅曰： 卿以朕方汉何帝也？ 对曰： 可方桓、灵。
+帝曰： 吾虽德不及古人，犹克己为政。
+又平吴会，混一天下。
+方之桓、灵，其已甚乎！
+对曰： 桓、灵卖官，钱入官库；陛下卖官，钱入私门。
+translation: 
+Liu Yi, whose courtesy name is Zhongxiong, is from Ye, Donglai.
+Descendants of Liu Zhang, King of Yangjing, Seoul.
+His father, Liu Zhe, was the Prime Minister.
+Liu Yi was filial when he was young, and he honed his noble integrity in his youth, but he liked to comment on people, and he was afraid of princes and nobles.
+Qi lived in Yang, and the prefect Du Shu asked him to serve as a meritorious official. He eliminated more than a hundred county officials and was praised by the people of the Three Wei Dynasties.
+Commenting on him, he said: I only heard about Liu Gongcao, but not about Du Fujun.
+At the end of the Wei Dynasty, Xiaolian was recommended by the county and requisitioned as Si Li Duguan, and the capital was in order.
+Liu Yi was about to impeach Yin of Henan, but Sili disagreed, saying: When a dog attacks an animal, a mole will kick its back.
+Liu Yi said: It can not only catch animals, but also kill rats, so what harm does it do to dogs?
+Throw down the documents and leave.
+Wang Ji of Tongjun recommended Liu Yi to the government, saying: Liu Yi is upright, honest, extraordinary, and does not cater to others with his words and deeds.
+He used to be an official in Pingyang and an important official in the county. In the government office, he was dignified and serious, well-organized, and distinguished among nobles. He was not chaotic in "Zheng" and "Wei". He was famous in the state and county for his filial piety and was imitated in the Three Wei Dynasties because of his loyalty.
+In the past, Sun Yang got a horse from Wu Ban, and Duke Mu of Qin used Baili Xi among the merchants. Liu Yi had never met a confidant and did not recommend himself.
+Having said it verbally before, apply again with caution.
+Taichang Zheng Miao recommended him to be a doctor, and Emperor Wen appointed him as a prime minister. He declined due to illness and did not serve as an official for many years.
+People said that Liu Yi was loyal to the Wei family, but the emperor hated him for being nostalgic for the old dynasty and would punish him with death.
+Liu Yi was frightened, so he responded to the call and was appointed as the chief registrar.
+Emperor Wu accepted the abdication and became the emperor, and made Liu Yi the minister and the prince-in-law.
+Emperor Wu believed that Liu Yi was loyal and upright, and asked him to serve as an admonishment officer.
+He was changed to the city gate school captain, promoted to servant, and appointed minister. He was dismissed from office because of his crimes.
+In the early years of Xianning, he offered wine to the regular attendants and doctors of Sanqi again.
+He was re-appointed as a lieutenant of Sili school, and he promoted the powerful families and brought order to the capital.
+Seeing the situation, many officials put down their official seals. People compared him to Zhuge Feng and Gai Kuanrao.
+When the crown prince entered the court, the band was about to enter Dongye Gate. Liu Yi thought it was not serious, so he blocked them out and impeached officials below the crown prince Baofu.
+The edict pardoned them and allowed them to enter.
+The emperor once went to the southern suburbs to worship heaven. After the ceremony, he sighed to Liu Yi and said: Which emperor of the Han Dynasty do you compare me to? Liu Yi replied: Comparable to Emperor Huan and Emperor Ling.
+The emperor said: Although my virtue is not as good as that of the ancients, I still control myself and govern myself.
+He also pacified Wu Hui and unified the world.
+Isn’t it too much to compare me to Emperors Huan and Ling?
+Liu Yi replied: The second emperor sold his official position, and the money went into the official treasury; Your Majesty sold his official position, and the money went into his private family.
+
+summary:
+summary line 1: Wang Ji recommended Liu Yi to the government, praising his uprightness and honesty. Liu Yi later served as an official in Pingyang and was known for his dignified conduct. Taichang Zheng Miao recommended him as a doctor, and Emperor Wen appointed him as a prime minister, but he declined due to illness. People said Liu Yi was loyal to the Wei family, and the emperor suspected him of nostalgia for the old dynasty, threatening death. Frightened, Liu Yi accepted the role of chief registrar. When Emperor Wu accepted the abdication, he made Liu Yi a minister and prince-in-law, later appointing him as an admonishment officer. Liu Yi served as city gate school captain, servant, and minister, but was dismissed for crimes. In the early years of Xianning, he was reappointed as a regular attendant and doctor, then as Sili school lieutenant, where he suppressed powerful families and brought order to the capital. Officials feared him, and he was compared to Zhuge Feng and Gai Kuanrao.
+
+Chunk 0: 
+original: 
+刘毅，字仲雄，东莱掖人。
+汉城阳景王章之后。
+父喈，丞相属。
+毅幼有孝行，少厉清节，然好臧否人物，王公贵人望风惮之。
+侨居平阳，太守杜恕请为功曹，沙汰郡吏百余人，三魏称焉。
+为之语曰： 但闻刘功曹，不闻杜府君。
+魏末，本郡察孝廉，辟司隶都官从事，京邑肃然。
+毅将弹河南尹，司隶不许，曰： 攫兽之犬，鼷鼠蹈其背。
+毅曰： 既能攫兽，又能杀鼠，何损于犬！
+投传而去。
+同郡王基荐毅于公府，曰： 毅方正亮直，介然不群，言不苟合，行不苟容。
+往日侨仕平阳，为郡股肱，正色立朝，举纲引墨，硃紫有分，《郑》、《卫》不杂，孝弟著于邦族，忠贞效于三魏。
+昔孙阳取骐骥于吴坂，秦穆拔百里于商旅。毅未遇知己，无所自呈。
+前已口白，谨复申请。
+太常郑袤举博士，文帝辟为相国掾，辞疾，积年不就。
+时人谓毅忠于魏氏，而帝怒其顾望，将加重辟。
+毅惧，应命，转主薄。
+武帝受禅，为尚书郎、驸马都尉，迁散骑常侍、国子祭酒。
+帝以毅忠蹇正直，使掌谏官。
+转城门校尉，迁太仆，拜尚书，坐事免官。
+咸宁初，复为散骑常侍、博士祭酒。
+转司隶校尉，纠正豪右，京师肃然。
+司部守令望风投印绶者甚众，时人以毅方之诸葛丰、盖宽饶。
+皇太子朝，鼓吹将入东掖门，毅以为不敬，止之于门外，奏劾保傅以下。
+诏赦之，然后得入。
+帝尝南郊，礼毕，喟然问毅曰： 卿以朕方汉何帝也？ 对曰： 可方桓、灵。
+帝曰： 吾虽德不及古人，犹克己为政。
+又平吴会，混一天下。
+方之桓、灵，其已甚乎！
+对曰： 桓、灵卖官，钱入官库；陛下卖官，钱入私门。
+translation: 
+Liu Yi, whose courtesy name is Zhongxiong, is from Ye, Donglai.
+Descendants of Liu Zhang, King of Yangjing, Seoul.
+His father, Liu Zhe, was the Prime Minister.
+Liu Yi was filial when he was young, and he honed his noble integrity in his youth, but he liked to comment on people, and he was afraid of princes and nobles.
+Qi lived in Yang, and the prefect Du Shu asked him to serve as a meritorious official. He eliminated more than a hundred county officials and was praised by the people of the Three Wei Dynasties.
+Commenting on him, he said: I only heard about Liu Gongcao, but not about Du Fujun.
+At the end of the Wei Dynasty, Xiaolian was recommended by the county and requisitioned as Si Li Duguan, and the capital was in order.
+Liu Yi was about to impeach Yin of Henan, but Sili disagreed, saying: When a dog attacks an animal, a mole will kick its back.
+Liu Yi said: It can not only catch animals, but also kill rats, so what harm does it do to dogs?
+Throw down the documents and leave.
+Wang Ji of Tongjun recommended Liu Yi to the government, saying: Liu Yi is upright, honest, extraordinary, and does not cater to others with his words and deeds.
+He used to be an official in Pingyang and an important official in the county. In the government office, he was dignified and serious, well-organized, and distinguished among nobles. He was not chaotic in "Zheng" and "Wei". He was famous in the state and county for his filial piety and was imitated in the Three Wei Dynasties because of his loyalty.
+In the past, Sun Yang got a horse from Wu Ban, and Duke Mu of Qin used Baili Xi among the merchants. Liu Yi had never met a confidant and did not recommend himself.
+Having said it verbally before, apply again with caution.
+Taichang Zheng Miao recommended him to be a doctor, and Emperor Wen appointed him as a prime minister. He declined due to illness and did not serve as an official for many years.
+People said that Liu Yi was loyal to the Wei family, but the emperor hated him for being nostalgic for the old dynasty and would punish him with death.
+Liu Yi was frightened, so he responded to the call and was appointed as the chief registrar.
+Emperor Wu accepted the abdication and became the emperor, and made Liu Yi the minister and the prince-in-law.
+Emperor Wu believed that Liu Yi was loyal and upright, and asked him to serve as an admonishment officer.
+He was changed to the city gate school captain, promoted to servant, and appointed minister. He was dismissed from office because of his crimes.
+In the early years of Xianning, he offered wine to the regular attendants and doctors of Sanqi again.
+He was re-appointed as a lieutenant of Sili school, and he promoted the powerful families and brought order to the capital.
+Seeing the situation, many officials put down their official seals. People compared him to Zhuge Feng and Gai Kuanrao.
+When the crown prince entered the court, the band was about to enter Dongye Gate. Liu Yi thought it was not serious, so he blocked them out and impeached officials below the crown prince Baofu.
+The edict pardoned them and allowed them to enter.
+The emperor once went to the southern suburbs to worship heaven. After the ceremony, he sighed to Liu Yi and said: Which emperor of the Han Dynasty do you compare me to? Liu Yi replied: Comparable to Emperor Huan and Emperor Ling.
+The emperor said: Although my virtue is not as good as that of the ancients, I still control myself and govern myself.
+He also pacified Wu Hui and unified the world.
+Isn’t it too much to compare me to Emperors Huan and Ling?
+Liu Yi replied: The second emperor sold his official position, and the money went into the official treasury; Your Majesty sold his official position, and the money went into his private family.
+
+summary:
+summary line 2: When the crown prince entered the court, Liu Yi blocked the band from entering Dongye Gate, deeming it improper, and impeached officials. The emperor pardoned them. After a ceremony at the southern suburbs, the emperor asked Liu Yi which Han emperor he compared to. Liu Yi replied, "Emperor Huan and Emperor Ling." The emperor was displeased, noting his own achievements, but Liu Yi retorted, "They sold offices for the treasury; you sell them for private gain." The emperor laughed, acknowledging Liu Yi's directness. Zou Zhan praised the emperor's tolerance, comparing it favorably to Emperor Wen of Han. Liu Yi later criticized the appearance of a dragon in the arsenal well, arguing against congratulations, citing historical precedents. The emperor accepted his view.
+
+Chunk 5: 
+original: 
+虽职名中正，实为奸府；事名九品，而有八损。
+或恨结于亲亲，猜生于骨肉，当身困于敌雠，子孙离其殃咎。
+斯乃历世之患，非徒当今之害也。
+是以时主观时立法，防奸消乱，靡有常制，故周因于殷，有所损益。
+至于中正九品，上圣古贤皆所不为，岂蔽于此事而有不周哉，将以政化之宜无取于此也。
+自魏立以来，未见其得人之功，而生雠薄之累。
+毁风败俗，无益于化，古今之失，莫大于此。
+愚臣以为宜罢中正，除九品，弃魏氏之弊法，立一代之美制。
+疏奏，优诏答之。
+后司空卫瓘等亦共表宜省九品，复古乡议里选。
+帝竟不施行。
+毅夙夜在公，坐而待旦，言议切直，无所曲挠，为朝野之所式瞻。
+尝散斋而疾，其妻省之，毅便奏加妻罪而请解斋。
+妻子有过，立加杖捶，其公正如此。
+然以峭直，故不至公辅。
+帝以毅清贫，赐钱三十万，日给米肉。
+年七十，告老。
+久之，见许，以光禄大夫归第，门施行马，复赐钱百万。
+后司徒举毅为青州大中正，尚书以毅悬车致仕，不宜劳以碎务。
+陈留相乐安孙尹表曰： 礼，凡卑者执劳，尊得居逸，是顺叙之宜也。
+司徒魏舒、司隶校尉严询与毅年齿相近，往者同为散骑常侍，后分授外内之职，资途所经，出处一致。
+今询管四十万户州，兼董司百僚，总摄机要，舒所统殷广，兼执九品，铨十六州论议，主者不以为剧。
+毅但以知一州，便谓不宜累以碎事，于毅太优，询、舒太劣。
+若以前听致仕，不宜复与迁授位者，故光禄大夫郑袤为司空是也。
+夫知人则哲，惟帝难之。
+translation: 
+Although it is called Zhongzheng, it is actually a place of evil; although it is in the ninth level, it has eight harms.
+Either it creates hatred among relatives or creates suspicion among flesh and blood. When one is among enemies, one's descendants will avoid harm.
+The disaster has been throughout the ages, not just now.
+Therefore, there is no unchanging system for the monarch to legislate during the trial to prevent adultery and eliminate chaos. Therefore, the Zhou Dynasty followed the Yin Dynasty, with some additions and subtractions.
+At the ninth level of Zhongzheng, the ancient sages did not use it. Could it be that they were blinded by this and were not thorough? They focused on political education and did not use it.
+Since the establishment of Wei Dynasty, it has never received any credit from people, but it has brought hatred and unkindness.
+Being immoral is not conducive to education. There is no greater mistake in ancient and modern times than sending someone away.
+I believe that Zhongzheng should be dismissed, Jiupin should be abolished, Cao Wei's flawed methods should be abandoned, and a better system should be established.
+After the memorial, Emperor Youshao answered him.
+Later, Sikong Weigan and others jointly suggested that the nine-level Zhongzheng system should be abolished and the ancient village discussion and recommendation system should be restored.
+The emperor did not implement it.
+Liu Yi is dedicated to serving the public good. From morning to night, he speaks sincerely and does not beat around the bush. Both the government and the public follow his example.
+Once he fell ill during the fasting period, and his wife went to see him. Liu Yi punished his wife and ordered her to break her fast.
+If a wife or child makes a mistake, they should be beaten with a rod immediately. Such is the justice.
+But because he was strict and upright, the official failed to fulfill his duties.
+Because Liu Yi was poor, the emperor rewarded him with a reward of 300,000 yuan and provided him with rice and meat for each meal.
+At the age of seventy, he asked to retire.
+It took a long time for it to be approved. When Dr. Guanglu returned home, a wooden fence was set up in front of the door to block the passage of people and horses, and he was rewarded with another one million yuan.
+Later, Situ recommended Liu Yi to be the Grand Central Magistrate of Qingzhou. The Minister believed that Liu Yi had retired and should no longer bother him with trivial matters.
+Sun Yin, the Prime Minister of Chen Liu, Le'an, wrote in a memorial: According to etiquette, those with lower status are tired while those with higher status are at leisure. This is in order.
+Situ Wei Shu, Sili Colonel Yan Xun and Liu Yi were similar in age. They were both regular servants of Sanqi in the past. Later, they served in internal and external positions with the same qualifications.
+Now Yan Xun is in charge of 400,000 households in the state, and he is also the inspector in charge of hundreds of officials. He is always in charge of secrets. Wei Shu governs a large population, and is also in charge of Zhongzheng. He weighs the opinions of sixteen states, and the person in charge does not think it is onerous.
+Liu Yi was only in charge of one state, so he said that he was not suitable to be involved in trivial matters. He was too good to Liu Yi and too bad to Yan Xun and Wei Shu.
+If he was allowed to retire before, he should not be awarded or promoted again. This is what happened when Zheng Miao, the former Guanglu doctor, became Sikong.
+Knowing people's wisdom is not easy even for the emperor.
+
+summary:
+summary line 3: Liu Yi criticized the nine-rank Zhongzheng system, listing eight drawbacks: it relied on personal connections, ignored true talent, caused disputes, and led to corruption. He argued it failed to select virtuous officials and advocated for its abolition. The emperor did not implement his proposal. Liu Yi was dedicated to public service, speaking sincerely, and was respected by all. He was strict with his family, punishing his wife for visiting him during a fast. Despite his poverty, the emperor rewarded him generously. At seventy, he retired but was later recommended as Qingzhou's Grand Central Magistrate, though some officials opposed it. Sun Yin argued for his appointment, citing his integrity and ability. Liu Yi died in the sixth year of Taikang, and the emperor mourned him deeply, posthumously honoring him.
+
+Chunk 8: 
+original: 
+其后武库火，尚书郭彰率百人自卫而不救火，暾正色诘之。
+彰怒曰： 我能截君角也。
+暾勃然谓彰曰： 君何敢恃宠作威作福，天子法冠而欲截角乎！
+求纸笔奏之，彰伏不敢言，众人解释，乃止。
+彰久贵豪侈，每出辄众百余人。
+自此之后，务从简素。
+暾迁太原内史，赵王伦篡位，假征虏将军，不受，与三王共举义。
+惠帝复阼，暾为左丞，正色立朝，三台清肃。
+寻兼御史中丞，奏免尚书仆射、东安公繇及王粹、董艾等十余人。
+朝廷嘉之，遂即真。
+迁中庶子、左卫将军、司隶校尉，奏免武陵王澹及何绥、刘坦、温畿、李晅等。
+长沙王乂讨齐王冏，暾豫谋，封硃虚县公，千八百户。
+乂死，坐免。
+顷之，复为司隶。
+及惠帝之幸长安也，留暾守洛阳。
+河间王颙遣使鸩羊皇后，暾乃与留台仆射荀籓、河南尹周馥等上表，理后无罪。
+语在《后传》。
+颙见表，大怒，遣陈颜、吕朗率骑五千收暾，暾东奔高密王略。
+会刘根作逆，略以暾为大都督，加镇军将军讨根。
+暾战失利，还洛。
+至酸枣，值东海王越奉迎大驾。
+及帝还洛，羊后反宫。
+后遣使谢暾曰： 赖刘司隶忠诚之志，得有今日。
+以旧勋复封爵，加光禄大夫。
+暾妻前卒，先陪陵葬。
+子更生初婚，家法，妇当拜墓，携宾客亲属数十乘，载酒食而行。
+先是，洛阳令王棱为越所信，而轻暾，暾每欲绳之，棱以为怨。
+时刘聪、王弥屯河北，京邑危惧。
+棱告越，云暾与弥乡亲而欲投之。
+越严骑将追暾，右长史傅宣明暾不然。
+暾闻之，未至墓而反，以正义责越，越甚惭。
+translation: 
+After this, the weapons depot caught fire, and Shangshu Guo Zhang led a hundred men to defend themselves but did not put out the fire. Liu Tun seriously questioned him.
+Guo Zhang got angry and said: I can cut your corners.
+Liu Tun was furious and said: How dare you rely on your favor to dominate? Do you want to cut off the crown of the emperor?
+When asked to write a memorial with pen and paper, Guo Zhang fell to the ground and did not dare to speak. Only after everyone persuaded him did he stop.
+Guo Zhang has been living in luxury for a long time, and every time he goes out, he is followed by more than a hundred people.
+From now on, be frugal.
+Liu Tun was promoted to the position of internal history of Taiyuan. After King Sima Lun of Zhao usurped the throne, he made him pretend to be a conscript general, but he refused to accept it and revolted with the three kings.
+Emperor Hui was restored to power, and Liu Tun was appointed as Zuocheng.
+Soon, he concurrently served as the censor Zhongcheng, and he was exempted from the position of Shangshu Pushe, Shu'an company Ma Yao, Wang Cui, Dong Ai and other more than ten officials.
+The imperial court praised him and he was officially appointed.
+He was promoted to the rank of concubine, general of Zuowei, and lieutenant of Sili. He was dismissed from the post of King Sima Dan of Wuling, He Sui, Liu Tan, Wen Ji, Li Wei and others.
+When Sima Yi, the king of Changsha, attacked Sima Tong, the king of Qi, Liu Tun participated in the plan and made Zhuxu County Duke, sealing 1,800 households.
+Sima died righteously and was dismissed from office.
+Soon, he became the captain of Sili school again.
+When Emperor Hui arrived in Chang'an, he left Liu Tun to guard Luoyang.
+King Sima Yong of Hejian sent people to kill Queen Sheep, so Liu Tun and his servants She Xunfan and Yin Zhoufu of Henan went to court to declare that the Queen was not guilty.
+The memorial is in "Post Biography".
+When Sima Ti saw this, he was furious and sent Chen Yan and Lu Lang to lead five thousand cavalry to capture Liu Tun. Liu Tun rushed eastward to Sima Lue, the king of Gaomi.
+At the time of Liu Gen's rebellion, Sima Lue appointed Liu Tun as the commander-in-chief and joined the generals of the town army to attack Liu Gen.
+Liu Gen failed and returned to Luoyang.
+Arriving at Suanzao, it was time for Sima Yue, King of the East China Sea, to welcome the emperor.
+When the emperor returned to Luoyang, Queen Sheep also returned to the palace.
+The queen sent an envoy to thank Liu Hui and said: We are here today only because of Liu Sili's loyalty.
+He was knighted again with his old honors and became a doctor named Guanglu.
+Liu Tun's wife was dead and was buried first.
+The son was reborn and had just gotten married. According to family law, the daughter-in-law should pay homage to the grave. The whole family went there with ten guests and relatives in the car, as well as food and wine.
+In the past, Wang Leng, the commander of Luoyang, was trusted by Sima Yue and despised Liu Tun. Liu Tun always wanted to punish him and he hated Liu Tun.
+At that time, Liu Cong and Wang Mi were stationed in Hebei, and the capital was in danger and fear.
+Wang Leng told Sima Yue that Liu Dunyu and Wang Mi were fellow villagers and wanted to join him.
+Sima Yue urgently ordered the cavalry to pursue Liu Tun, but Shi Fuxuan, the commander on the right, said that Liu Tun would not do this.
+After Liu Tun heard about it, he returned without going to the cemetery and blamed Sima Yue for the purpose of his trip. Sima Yue was very ashamed.
+
+summary:
+summary line 4: Liu Yi's son, Liu Tun, inherited his father's integrity. He served as a doctor and was punished for opposing the emperor's will. Later, he became Suanzao Ling and Shi Yushi, impeaching Wang Hun for misconduct. Liu Tun also criticized Guo Zhang for failing to put out a fire, causing Guo to reform. He served as Taiyuan's internal history, refused to serve under King Sima Lun, and participated in the three kings' revolt. He was appointed as Zuocheng and censor Zhongcheng, impeaching many officials. He was knighted for his role in attacking Sima Tong but dismissed after Sima Yi's death. He later served as Sili school lieutenant again, defending Queen Yang against King Sima Yong. He fled to Sima Lue and helped repel Liu Gen. After the emperor's return, he was honored but later killed by Shi Le's patrol cavalry.
+
+Chunk 11: 
+original: 
+郁字仲舆，才望不及峤，而以清干称，历尚书左右仆射、中书令、尚书令。
+洛阳倾没，奔于苟晞，疾卒。
+武陔，字元夏，沛国竹邑人也。
+父周，魏卫尉。
+陔沈敏有器量，早获时誉，与二弟韶叔夏、茂季夏并总角知名，虽诸父兄弟及乡闾宿望，莫能觉其优劣。
+同郡刘公荣有知人之鉴，常造周，周见其三子焉。
+公荣曰： 皆国士也。
+元夏最优，有辅佐之才，陈力就列，可为亚公。
+叔夏、季夏不减常伯、纳言也。
+陔少好人伦，与颍川陈泰友善。
+魏明帝世，累迁下邳太守。
+景帝为大将军，引为从事中郎，累迁司隶校尉，转太仆卿。
+初封亭侯，五等建，改封薛县侯。
+文帝甚亲重之，数与诠论时人。
+尝问陈泰孰若其父群，陔各称其所长，以为群、泰略无优劣，帝然之。
+泰始初，拜尚书，掌吏部，迁左仆射、左光禄大夫、开府仪同三司。
+陔以宿齿旧臣，名位隆重，自以无佐命之功，又在魏已为大臣，不得已而居位，深怀逊让，终始全洁，当世以为美谈。
+卒于位，谥曰定。
+子辅嗣。
+韶历吏部郎、太子右卫率、散骑常侍。
+茂以德素称，名亚于陔，为上洛太守、散骑常侍、侍中、尚书。
+颍川荀恺年少于茂，即武帝姑子，自负贵戚，欲与茂交，距而不答，由是致怨。
+及杨骏诛，恺时为仆射，以茂骏之姨弟，陷为逆党，遂见害。
+茂清正方直，闻于朝野，一旦枉酷，天下伤焉。
+侍中傅祗上申明之，后追赠光禄勋。
+任恺，字元褒，乐安博昌人也。
+父昊，魏太常。
+恺少有识量，尚魏明帝女，累迁中书侍郎、员外散骑常侍。
+晋国建，为侍中，封昌国县侯。
+translation: 
+Heyu, whose courtesy name was Zhongyu, was not as talented and famous as Hewei, but he was known for his integrity and ability. He served successively as minister, left and right pushe, Zhongshu Ling, and Shangshu Ling.
+After the fall of Diaoyang, he took refuge in Baochai and died of illness.
+Wu Yi, whose courtesy name was Yuanxia, ​​was a native of Zhuyi in the state of Pei.
+His father, Wu Zhou, served as a guard in Wei Dynasty.
+Wu Ye was deep, perceptive and measured, and had a long-standing reputation. He and his second brothers Wu Shao, also known as Shuxia, and Wu Mao, named Jixia, were known to each other when they were children. Even brothers from their father's generation and mature and famous people in the village could not tell their merits.
+Liu Gongrong of the same county was good at appreciating figures and often visited Wu Zhou's house. Wu Zhou asked his three sons to come out to meet him.
+Gongrong said: They are all national scholars.
+The best in the Yuan Xia Dynasty were those who had the talents of Wang Zuo and used their talents to become officials. They could be Situ.
+Shu Xia and Ji Xia are no less inferior to Chang Bo and Na.
+When Wu Wei was young, he liked to criticize people and was friendly with Chen Tai, the prefect of Yingchuan.
+During the reign of Emperor Wei Ming, he was promoted to the governor of Xiapi.
+Emperor Jing was a general, and he was promoted to Zhonglang. He was promoted to Sili Xiaowei many times, and then to Taipuqing.
+He was first granted the title of Marquis of Ting, and when the fifth-level title was established, he was granted the title of Marquis of Xue County.
+Emperor Wen valued him very much and discussed with him many times the figures of that time.
+I once asked Chen Tai or his father Chen Qun which one is better. Wu Ye talked about their strengths and thought that Chen Qun and Chen Tai were almost the same, and Emperor Wen agreed.
+In the early years of Taishi's reign, he was appointed as Shangshu, in charge of the Ministry of Personnel, and was promoted to Zuopushe, Zuo Guanglu, and Kaifu Yitong.
+Wu Ye was an old minister and had a high reputation and official position. He thought that he had no help. He was already a minister in Wei and had no choice but to become an official. He wanted to resign to preserve his moral integrity. He thought it was a good talk in the world.
+If he dies in office, his name will be determined.
+He was succeeded by his son Wu Fu.
+Wu Shao successively served as the official of the official department, the prince's right guard leader, and the regular attendant of Sanqi.
+Gendi was famous for his moral character and conduct, and his reputation was second to Gendai. He served as the prefect of Shangluo, the regular attendant of Sanqi, the minister in the middle, and the minister.
+Yingchuan Xunkai was younger than Wu Mao and was the son of Emperor Wu's aunt. He believed that he was a noble relative and wanted to make friends with Wu Mao, but Wu Mao refused, which led to a feud.
+When Yang Jun was killed, Xun Kai served as a servant. Because Wu Mao was Yang Jun's cousin, he was falsely accused of rebelling against the party and was killed.
+Wu Mao was known for his integrity and integrity, both in the government and at home. Once he died unjustly, the whole world would be heartbroken.
+Attendant Fu Zhi went to court to defend him, and was later posthumously named Guang Luxun.
+Ren Kai, whose courtesy name is Yuanbao, was born in Bochang, Le'an.
+His father, Ren Hao, was appointed Taichang in Wei Dynasty.
+Ren Kai was a young man with little knowledge and fortitude. He married the daughter of Emperor Wei Ming and was promoted to the rank of Minister of the Secretariat of the Central Committee and the Standing Minister of Yuanwai Sanqi many times.
+After the establishment of the Jin State, he was appointed as a minister and granted the title of County Marquis of Chang State.
+
+summary:
+summary line 5: Other figures include Cheng Wei, a strict official recruited by Liu Yi; He Xiao, a capable administrator praised for his integrity; Wu Yi, a perceptive official who criticized figures; Ren Kai, a loyal minister who opposed Jia Chong and was slandered; Cui Hong, a stern censor who punished misconduct; Guo Yi, a magnanimous official who recognized talent; Hou Shiguang, a loyal and frugal minister; and He Pan, a fair-minded official who helped clear injustices. The text concludes with a commentary praising these officials for their integrity and service, despite facing challenges and slander.
+

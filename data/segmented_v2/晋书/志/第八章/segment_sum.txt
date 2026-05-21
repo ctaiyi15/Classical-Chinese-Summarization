@@ -1,0 +1,440 @@
+Summary uses chunk [0, 0, 0, 0, 0, 2, 6, 5]
+
+Chunk 0: 
+original: 
+魏尚书郎杨伟表曰： 臣览载籍，断考历数，时以纪农，月以纪事，其所由来，遐而尚矣。
+乃自少昊，则玄鸟司分，颛顼、帝喾，则重黎司天；唐帝、虞舜，则羲和掌日，三代因之，则世有日官。
+日官司历，则颁之诸侯，诸侯受之，则颁于境内。
+夏后之世，羲和湎淫，废时乱日，则《书》载《胤徵》。
+由此观之，审农时而重人事，历代然之也。
+逮至周室既衰，战国横鹜，告朔之羊，废而不绍，登台之礼，灭而不遵，闰分乖次而不识，孟陬失纪而莫悟，大火犹西流，而怪蛰虫之不藏也。
+是时也，天子不协时，司历不书日。诸侯不受职，日御不分朔，人事不恤，废弃农时。
+仲尼之拨乱于《春秋》，托褒贬纠正，司历失闰，则讥而书之，登台颁朔，则谓之有礼。
+自此以降，暨于秦汉，乃复以孟冬为岁首，闰为后九月，中节乖错，时月纰缪。加时后天，蚀不在朔，累载相袭，久而不革也。
+至武帝元封七年，始乃悟其缪焉，于是改正朔，更历数，使大才通人，更造《太初历》，校中朔所差，以正闰分，课中星得度，以考疏密，以建寅之月为正朔，以黄钟之月为历初。
+其历斗分太多，后遂疏阔。
+至元和二年，复用《四分历》，施而行之，至于今日，考察日蚀，率常在晦，是则斗分太多，故先密后疏而不可用也。
+是以臣前以制典余日，推考天路，稽之前典，验之以蚀朔，详而精之，更建密历，则不先不后，古今中天。
+以昔在唐帝，协日正时，允厘百工，咸熙庶绩也。
+欲使当今国之典礼，凡百制度，皆韬合往古，郁然备足，乃改正朔，更历数，以大吕之月为岁首，以建子之月为历初。
+臣以为昔在帝代，则法曰《颛顼》，曩自轩辕，则历曰《黄帝》，暨至汉之孝武，革正朔，更历数，改元曰太初，因名《太初历》。
+今改元为景初，宜曰《景初历》。
+臣之所建《景初历》，法数则约要，施用则近密，治之则省功，学之则易知。
+虽复使研桑心算，隶首运筹，重黎司晷，羲和察景，以考天路，步验日月，究极精微，尽术数之极者，皆未能并臣如此之妙也。
+是以累代历数，皆疏而不密，自黄帝以来，常改革不已。
+壬辰以来，至景初元年丁已岁，积四千四十六，算上。
+此元以天正建子黄钟之月为历初，元首之岁，夜半甲子朔旦冬至。
+translation: 
+Wei Shangshulang Yang Wei said in the table: I read ancient books and investigated the role of calendar numbers in judgment. Seasons are used to organize agricultural affairs, and months are used to organize personnel affairs. They have a long history.
+During the reign of Shaohao, the days were divided based on phenological judgments such as the return of swallows; during the reigns of Zhuanxu and Emperor Xue, Chongli was in charge of heaven;
+The Japanese official is in charge of the calendar and promulgates it to the princes. After the princes obtain it, they will promulgate it within the territory.
+During the Xia Dynasty, Xihe was addicted to wine, which caused the calendar to be disordered. The "Book" wrote this incident in the "Yin Zheng" wrapper.
+From this point of view, it can be seen that people are aware of the farming season and pay attention to personnel matters, which has been the case in all ages.
+Until the decline of the Zhou Dynasty and the outbreak of the Warring States Period, the sheep used for the lunar calendar were discarded and not inherited, the rituals of offering sacrifices to heaven and earth were extinct but not followed, the setting of the leap month was wrong but not aware of it, the arrangement of the first month was not in line with the season but not aware of it, the big Mars was still in the west, but it was strange that the stinging insects were not hidden.
+At that time, the emperor did not coordinate the seasons, the officials in charge of the calendar did not write down the good and bad taboos of the next day, the princes did not perform their duties, the Japanese officials did not even calculate the new moon, and they were not considerate of personnel and abandoned the farming season.
+Zhongni tried to correct chaos in the book "Spring and Autumn" and relied on praise and criticism to correct mistakes. The official in charge of the calendar set the leap month improperly, so he recorded it in the book and ridiculed it.
+From then on, until the Qin and Han Dynasties, Mengdong was still used as the beginning of the year, and the leap month was the ninth month. The solar terms were disordered, the seasons and months were wrong, the correction values ​​lag behind the actual celestial phenomena, and the solar eclipse did not occur at the new moon. It has been followed for many years and has not changed for a long time.
+It was not until the seventh year of Emperor Wu's Yuanfeng reign that he realized the above-mentioned error, so he changed the position of the first month, changed the basic data of the calendar, and ordered talented and knowledgeable people to create the Taichu Calendar. The month of Jianyin is used as the first month, and the month of Huangzhong is used as the beginning of the calendar.
+The differences in this calendar were too great, and the errors gradually increased.
+In the second year of Chenghe, the "Four Points Calendar" was used again and has been used until now. When observing solar eclipses, they often occur on dark days. This is because there are too many points, so it was first precise and then rough. It is no longer available.
+I previously used my spare time in compiling codes to calculate and study the movement of celestial bodies, and to examine previous classics. I verified them with solar eclipses and new moons, and established a more precise calendar.
+In the past, during the reign of Emperor Tang, by coordinating time and governing the people with integrity, all kinds of undertakings were prosperous.
+In order to make the ceremonies and various systems of today's country consistent with the past and very complete and sufficient, the location of the first month was changed, and the basic data of the calendar was changed. The month of Daru was used as the beginning of the year, and the month of Jianzi was used as the initial month of the calendar.
+I think that in the Zhuanxu era, the calendar was called "Zhuanxu", and in the Xuanyuan era, the calendar was called "Huangdi". When Emperor Xiaoyuan of the Han Dynasty reformed Zhengshuo and changed the calendar, the changed Yuan was called Taichu, so the calendar was named "Taichu Calendar".
+Now that the Yuan Dynasty has been changed to Jingchu, the calendar should be called "Jingchu Calendar".
+The method and data of the "Jingchu Calendar" I formulated are concise and concise, the application is close to precision, the study of it is efficient, and the study of it is easy to understand.
+Even if I were to do mental calculations, make plans, control the sundial, observe the sun's shadow and celestial phenomena, calculate and verify the movement of the sun and the moon, and explore the subtleties and subtleties, and reach the limit of my skills, it would not be as exquisite as my calendar.
+Therefore, the calendars of the past dynasties are rough and not precise. Since the Yellow Emperor, they have been constantly changing.
+From Renchen Yuan Dynasty to Ding Si, the first year of Jingchu Dynasty, the accumulation was 4046 years, counting.
+This epoch begins with the Huangzhong month of Tianzheng Jianzi as the beginning of the calendar. In the first year of each epoch, the winter solstice occurs at midnight on Jiazishuo day.
+
+summary:
+summary line 0: Wei Shangshulang Yang Wei submitted a memorial stating that he had studied ancient texts and the role of calendar numbers in judgment. He noted that seasons organize agriculture and months organize personnel affairs, a practice with a long history. During Shaohao's reign, days were divided based on phenological judgments like swallows' return; under Zhuanxu and Emperor Xue, Chongli managed celestial matters. The Japanese official promulgated the calendar to princes, who then distributed it within their territories. In the Xia Dynasty, Xihe's drunkenness caused calendar disorder, recorded in the "Yin Zheng" section of the "Book." This shows that awareness of farming seasons and personnel matters has been consistent across ages.
+
+Chunk 0: 
+original: 
+魏尚书郎杨伟表曰： 臣览载籍，断考历数，时以纪农，月以纪事，其所由来，遐而尚矣。
+乃自少昊，则玄鸟司分，颛顼、帝喾，则重黎司天；唐帝、虞舜，则羲和掌日，三代因之，则世有日官。
+日官司历，则颁之诸侯，诸侯受之，则颁于境内。
+夏后之世，羲和湎淫，废时乱日，则《书》载《胤徵》。
+由此观之，审农时而重人事，历代然之也。
+逮至周室既衰，战国横鹜，告朔之羊，废而不绍，登台之礼，灭而不遵，闰分乖次而不识，孟陬失纪而莫悟，大火犹西流，而怪蛰虫之不藏也。
+是时也，天子不协时，司历不书日。诸侯不受职，日御不分朔，人事不恤，废弃农时。
+仲尼之拨乱于《春秋》，托褒贬纠正，司历失闰，则讥而书之，登台颁朔，则谓之有礼。
+自此以降，暨于秦汉，乃复以孟冬为岁首，闰为后九月，中节乖错，时月纰缪。加时后天，蚀不在朔，累载相袭，久而不革也。
+至武帝元封七年，始乃悟其缪焉，于是改正朔，更历数，使大才通人，更造《太初历》，校中朔所差，以正闰分，课中星得度，以考疏密，以建寅之月为正朔，以黄钟之月为历初。
+其历斗分太多，后遂疏阔。
+至元和二年，复用《四分历》，施而行之，至于今日，考察日蚀，率常在晦，是则斗分太多，故先密后疏而不可用也。
+是以臣前以制典余日，推考天路，稽之前典，验之以蚀朔，详而精之，更建密历，则不先不后，古今中天。
+以昔在唐帝，协日正时，允厘百工，咸熙庶绩也。
+欲使当今国之典礼，凡百制度，皆韬合往古，郁然备足，乃改正朔，更历数，以大吕之月为岁首，以建子之月为历初。
+臣以为昔在帝代，则法曰《颛顼》，曩自轩辕，则历曰《黄帝》，暨至汉之孝武，革正朔，更历数，改元曰太初，因名《太初历》。
+今改元为景初，宜曰《景初历》。
+臣之所建《景初历》，法数则约要，施用则近密，治之则省功，学之则易知。
+虽复使研桑心算，隶首运筹，重黎司晷，羲和察景，以考天路，步验日月，究极精微，尽术数之极者，皆未能并臣如此之妙也。
+是以累代历数，皆疏而不密，自黄帝以来，常改革不已。
+壬辰以来，至景初元年丁已岁，积四千四十六，算上。
+此元以天正建子黄钟之月为历初，元首之岁，夜半甲子朔旦冬至。
+translation: 
+Wei Shangshulang Yang Wei said in the table: I read ancient books and investigated the role of calendar numbers in judgment. Seasons are used to organize agricultural affairs, and months are used to organize personnel affairs. They have a long history.
+During the reign of Shaohao, the days were divided based on phenological judgments such as the return of swallows; during the reigns of Zhuanxu and Emperor Xue, Chongli was in charge of heaven;
+The Japanese official is in charge of the calendar and promulgates it to the princes. After the princes obtain it, they will promulgate it within the territory.
+During the Xia Dynasty, Xihe was addicted to wine, which caused the calendar to be disordered. The "Book" wrote this incident in the "Yin Zheng" wrapper.
+From this point of view, it can be seen that people are aware of the farming season and pay attention to personnel matters, which has been the case in all ages.
+Until the decline of the Zhou Dynasty and the outbreak of the Warring States Period, the sheep used for the lunar calendar were discarded and not inherited, the rituals of offering sacrifices to heaven and earth were extinct but not followed, the setting of the leap month was wrong but not aware of it, the arrangement of the first month was not in line with the season but not aware of it, the big Mars was still in the west, but it was strange that the stinging insects were not hidden.
+At that time, the emperor did not coordinate the seasons, the officials in charge of the calendar did not write down the good and bad taboos of the next day, the princes did not perform their duties, the Japanese officials did not even calculate the new moon, and they were not considerate of personnel and abandoned the farming season.
+Zhongni tried to correct chaos in the book "Spring and Autumn" and relied on praise and criticism to correct mistakes. The official in charge of the calendar set the leap month improperly, so he recorded it in the book and ridiculed it.
+From then on, until the Qin and Han Dynasties, Mengdong was still used as the beginning of the year, and the leap month was the ninth month. The solar terms were disordered, the seasons and months were wrong, the correction values ​​lag behind the actual celestial phenomena, and the solar eclipse did not occur at the new moon. It has been followed for many years and has not changed for a long time.
+It was not until the seventh year of Emperor Wu's Yuanfeng reign that he realized the above-mentioned error, so he changed the position of the first month, changed the basic data of the calendar, and ordered talented and knowledgeable people to create the Taichu Calendar. The month of Jianyin is used as the first month, and the month of Huangzhong is used as the beginning of the calendar.
+The differences in this calendar were too great, and the errors gradually increased.
+In the second year of Chenghe, the "Four Points Calendar" was used again and has been used until now. When observing solar eclipses, they often occur on dark days. This is because there are too many points, so it was first precise and then rough. It is no longer available.
+I previously used my spare time in compiling codes to calculate and study the movement of celestial bodies, and to examine previous classics. I verified them with solar eclipses and new moons, and established a more precise calendar.
+In the past, during the reign of Emperor Tang, by coordinating time and governing the people with integrity, all kinds of undertakings were prosperous.
+In order to make the ceremonies and various systems of today's country consistent with the past and very complete and sufficient, the location of the first month was changed, and the basic data of the calendar was changed. The month of Daru was used as the beginning of the year, and the month of Jianzi was used as the initial month of the calendar.
+I think that in the Zhuanxu era, the calendar was called "Zhuanxu", and in the Xuanyuan era, the calendar was called "Huangdi". When Emperor Xiaoyuan of the Han Dynasty reformed Zhengshuo and changed the calendar, the changed Yuan was called Taichu, so the calendar was named "Taichu Calendar".
+Now that the Yuan Dynasty has been changed to Jingchu, the calendar should be called "Jingchu Calendar".
+The method and data of the "Jingchu Calendar" I formulated are concise and concise, the application is close to precision, the study of it is efficient, and the study of it is easy to understand.
+Even if I were to do mental calculations, make plans, control the sundial, observe the sun's shadow and celestial phenomena, calculate and verify the movement of the sun and the moon, and explore the subtleties and subtleties, and reach the limit of my skills, it would not be as exquisite as my calendar.
+Therefore, the calendars of the past dynasties are rough and not precise. Since the Yellow Emperor, they have been constantly changing.
+From Renchen Yuan Dynasty to Ding Si, the first year of Jingchu Dynasty, the accumulation was 4046 years, counting.
+This epoch begins with the Huangzhong month of Tianzheng Jianzi as the beginning of the calendar. In the first year of each epoch, the winter solstice occurs at midnight on Jiazishuo day.
+
+summary:
+summary line 1: By the Zhou Dynasty's decline and the Warring States period, the lunar calendar's sheep were discarded, rituals for heaven and earth ceased, leap months were set incorrectly, the first month's arrangement was out of season, and Mars was still in the west while stinging insects remained active. The emperor did not coordinate seasons, officials failed to record taboos, princes neglected duties, and Japanese officials did not calculate the new moon, abandoning farming seasons. Zhongni tried to correct chaos in "Spring and Autumn" through praise and criticism, recording improper leap months for ridicule. Until the Qin and Han dynasties, Mengdong remained the year's start, with leap months in the ninth month. Solar terms were disordered, seasons and months were wrong, correction values lagged behind celestial phenomena, and solar eclipses did not occur at the new moon. This persisted for years without change.
+
+Chunk 0: 
+original: 
+魏尚书郎杨伟表曰： 臣览载籍，断考历数，时以纪农，月以纪事，其所由来，遐而尚矣。
+乃自少昊，则玄鸟司分，颛顼、帝喾，则重黎司天；唐帝、虞舜，则羲和掌日，三代因之，则世有日官。
+日官司历，则颁之诸侯，诸侯受之，则颁于境内。
+夏后之世，羲和湎淫，废时乱日，则《书》载《胤徵》。
+由此观之，审农时而重人事，历代然之也。
+逮至周室既衰，战国横鹜，告朔之羊，废而不绍，登台之礼，灭而不遵，闰分乖次而不识，孟陬失纪而莫悟，大火犹西流，而怪蛰虫之不藏也。
+是时也，天子不协时，司历不书日。诸侯不受职，日御不分朔，人事不恤，废弃农时。
+仲尼之拨乱于《春秋》，托褒贬纠正，司历失闰，则讥而书之，登台颁朔，则谓之有礼。
+自此以降，暨于秦汉，乃复以孟冬为岁首，闰为后九月，中节乖错，时月纰缪。加时后天，蚀不在朔，累载相袭，久而不革也。
+至武帝元封七年，始乃悟其缪焉，于是改正朔，更历数，使大才通人，更造《太初历》，校中朔所差，以正闰分，课中星得度，以考疏密，以建寅之月为正朔，以黄钟之月为历初。
+其历斗分太多，后遂疏阔。
+至元和二年，复用《四分历》，施而行之，至于今日，考察日蚀，率常在晦，是则斗分太多，故先密后疏而不可用也。
+是以臣前以制典余日，推考天路，稽之前典，验之以蚀朔，详而精之，更建密历，则不先不后，古今中天。
+以昔在唐帝，协日正时，允厘百工，咸熙庶绩也。
+欲使当今国之典礼，凡百制度，皆韬合往古，郁然备足，乃改正朔，更历数，以大吕之月为岁首，以建子之月为历初。
+臣以为昔在帝代，则法曰《颛顼》，曩自轩辕，则历曰《黄帝》，暨至汉之孝武，革正朔，更历数，改元曰太初，因名《太初历》。
+今改元为景初，宜曰《景初历》。
+臣之所建《景初历》，法数则约要，施用则近密，治之则省功，学之则易知。
+虽复使研桑心算，隶首运筹，重黎司晷，羲和察景，以考天路，步验日月，究极精微，尽术数之极者，皆未能并臣如此之妙也。
+是以累代历数，皆疏而不密，自黄帝以来，常改革不已。
+壬辰以来，至景初元年丁已岁，积四千四十六，算上。
+此元以天正建子黄钟之月为历初，元首之岁，夜半甲子朔旦冬至。
+translation: 
+Wei Shangshulang Yang Wei said in the table: I read ancient books and investigated the role of calendar numbers in judgment. Seasons are used to organize agricultural affairs, and months are used to organize personnel affairs. They have a long history.
+During the reign of Shaohao, the days were divided based on phenological judgments such as the return of swallows; during the reigns of Zhuanxu and Emperor Xue, Chongli was in charge of heaven;
+The Japanese official is in charge of the calendar and promulgates it to the princes. After the princes obtain it, they will promulgate it within the territory.
+During the Xia Dynasty, Xihe was addicted to wine, which caused the calendar to be disordered. The "Book" wrote this incident in the "Yin Zheng" wrapper.
+From this point of view, it can be seen that people are aware of the farming season and pay attention to personnel matters, which has been the case in all ages.
+Until the decline of the Zhou Dynasty and the outbreak of the Warring States Period, the sheep used for the lunar calendar were discarded and not inherited, the rituals of offering sacrifices to heaven and earth were extinct but not followed, the setting of the leap month was wrong but not aware of it, the arrangement of the first month was not in line with the season but not aware of it, the big Mars was still in the west, but it was strange that the stinging insects were not hidden.
+At that time, the emperor did not coordinate the seasons, the officials in charge of the calendar did not write down the good and bad taboos of the next day, the princes did not perform their duties, the Japanese officials did not even calculate the new moon, and they were not considerate of personnel and abandoned the farming season.
+Zhongni tried to correct chaos in the book "Spring and Autumn" and relied on praise and criticism to correct mistakes. The official in charge of the calendar set the leap month improperly, so he recorded it in the book and ridiculed it.
+From then on, until the Qin and Han Dynasties, Mengdong was still used as the beginning of the year, and the leap month was the ninth month. The solar terms were disordered, the seasons and months were wrong, the correction values ​​lag behind the actual celestial phenomena, and the solar eclipse did not occur at the new moon. It has been followed for many years and has not changed for a long time.
+It was not until the seventh year of Emperor Wu's Yuanfeng reign that he realized the above-mentioned error, so he changed the position of the first month, changed the basic data of the calendar, and ordered talented and knowledgeable people to create the Taichu Calendar. The month of Jianyin is used as the first month, and the month of Huangzhong is used as the beginning of the calendar.
+The differences in this calendar were too great, and the errors gradually increased.
+In the second year of Chenghe, the "Four Points Calendar" was used again and has been used until now. When observing solar eclipses, they often occur on dark days. This is because there are too many points, so it was first precise and then rough. It is no longer available.
+I previously used my spare time in compiling codes to calculate and study the movement of celestial bodies, and to examine previous classics. I verified them with solar eclipses and new moons, and established a more precise calendar.
+In the past, during the reign of Emperor Tang, by coordinating time and governing the people with integrity, all kinds of undertakings were prosperous.
+In order to make the ceremonies and various systems of today's country consistent with the past and very complete and sufficient, the location of the first month was changed, and the basic data of the calendar was changed. The month of Daru was used as the beginning of the year, and the month of Jianzi was used as the initial month of the calendar.
+I think that in the Zhuanxu era, the calendar was called "Zhuanxu", and in the Xuanyuan era, the calendar was called "Huangdi". When Emperor Xiaoyuan of the Han Dynasty reformed Zhengshuo and changed the calendar, the changed Yuan was called Taichu, so the calendar was named "Taichu Calendar".
+Now that the Yuan Dynasty has been changed to Jingchu, the calendar should be called "Jingchu Calendar".
+The method and data of the "Jingchu Calendar" I formulated are concise and concise, the application is close to precision, the study of it is efficient, and the study of it is easy to understand.
+Even if I were to do mental calculations, make plans, control the sundial, observe the sun's shadow and celestial phenomena, calculate and verify the movement of the sun and the moon, and explore the subtleties and subtleties, and reach the limit of my skills, it would not be as exquisite as my calendar.
+Therefore, the calendars of the past dynasties are rough and not precise. Since the Yellow Emperor, they have been constantly changing.
+From Renchen Yuan Dynasty to Ding Si, the first year of Jingchu Dynasty, the accumulation was 4046 years, counting.
+This epoch begins with the Huangzhong month of Tianzheng Jianzi as the beginning of the calendar. In the first year of each epoch, the winter solstice occurs at midnight on Jiazishuo day.
+
+summary:
+summary line 2: In the seventh year of Emperor Wu's Yuanfeng reign, the error was recognized, leading to a change in the first month's position and calendar data. Talented individuals created the Taichu Calendar, using Jianyin month as the first month and Huangzhong month as the calendar's start. However, differences were too great, and errors increased. In the second year of Chenghe, the "Four Points Calendar" was adopted and used until now. Solar eclipses often occurred on dark days due to too many points, making it imprecise. Yang Wei used his spare time to calculate celestial movements, examine previous classics, verify with solar eclipses and new moons, and establish a more precise calendar.
+
+Chunk 0: 
+original: 
+魏尚书郎杨伟表曰： 臣览载籍，断考历数，时以纪农，月以纪事，其所由来，遐而尚矣。
+乃自少昊，则玄鸟司分，颛顼、帝喾，则重黎司天；唐帝、虞舜，则羲和掌日，三代因之，则世有日官。
+日官司历，则颁之诸侯，诸侯受之，则颁于境内。
+夏后之世，羲和湎淫，废时乱日，则《书》载《胤徵》。
+由此观之，审农时而重人事，历代然之也。
+逮至周室既衰，战国横鹜，告朔之羊，废而不绍，登台之礼，灭而不遵，闰分乖次而不识，孟陬失纪而莫悟，大火犹西流，而怪蛰虫之不藏也。
+是时也，天子不协时，司历不书日。诸侯不受职，日御不分朔，人事不恤，废弃农时。
+仲尼之拨乱于《春秋》，托褒贬纠正，司历失闰，则讥而书之，登台颁朔，则谓之有礼。
+自此以降，暨于秦汉，乃复以孟冬为岁首，闰为后九月，中节乖错，时月纰缪。加时后天，蚀不在朔，累载相袭，久而不革也。
+至武帝元封七年，始乃悟其缪焉，于是改正朔，更历数，使大才通人，更造《太初历》，校中朔所差，以正闰分，课中星得度，以考疏密，以建寅之月为正朔，以黄钟之月为历初。
+其历斗分太多，后遂疏阔。
+至元和二年，复用《四分历》，施而行之，至于今日，考察日蚀，率常在晦，是则斗分太多，故先密后疏而不可用也。
+是以臣前以制典余日，推考天路，稽之前典，验之以蚀朔，详而精之，更建密历，则不先不后，古今中天。
+以昔在唐帝，协日正时，允厘百工，咸熙庶绩也。
+欲使当今国之典礼，凡百制度，皆韬合往古，郁然备足，乃改正朔，更历数，以大吕之月为岁首，以建子之月为历初。
+臣以为昔在帝代，则法曰《颛顼》，曩自轩辕，则历曰《黄帝》，暨至汉之孝武，革正朔，更历数，改元曰太初，因名《太初历》。
+今改元为景初，宜曰《景初历》。
+臣之所建《景初历》，法数则约要，施用则近密，治之则省功，学之则易知。
+虽复使研桑心算，隶首运筹，重黎司晷，羲和察景，以考天路，步验日月，究极精微，尽术数之极者，皆未能并臣如此之妙也。
+是以累代历数，皆疏而不密，自黄帝以来，常改革不已。
+壬辰以来，至景初元年丁已岁，积四千四十六，算上。
+此元以天正建子黄钟之月为历初，元首之岁，夜半甲子朔旦冬至。
+translation: 
+Wei Shangshulang Yang Wei said in the table: I read ancient books and investigated the role of calendar numbers in judgment. Seasons are used to organize agricultural affairs, and months are used to organize personnel affairs. They have a long history.
+During the reign of Shaohao, the days were divided based on phenological judgments such as the return of swallows; during the reigns of Zhuanxu and Emperor Xue, Chongli was in charge of heaven;
+The Japanese official is in charge of the calendar and promulgates it to the princes. After the princes obtain it, they will promulgate it within the territory.
+During the Xia Dynasty, Xihe was addicted to wine, which caused the calendar to be disordered. The "Book" wrote this incident in the "Yin Zheng" wrapper.
+From this point of view, it can be seen that people are aware of the farming season and pay attention to personnel matters, which has been the case in all ages.
+Until the decline of the Zhou Dynasty and the outbreak of the Warring States Period, the sheep used for the lunar calendar were discarded and not inherited, the rituals of offering sacrifices to heaven and earth were extinct but not followed, the setting of the leap month was wrong but not aware of it, the arrangement of the first month was not in line with the season but not aware of it, the big Mars was still in the west, but it was strange that the stinging insects were not hidden.
+At that time, the emperor did not coordinate the seasons, the officials in charge of the calendar did not write down the good and bad taboos of the next day, the princes did not perform their duties, the Japanese officials did not even calculate the new moon, and they were not considerate of personnel and abandoned the farming season.
+Zhongni tried to correct chaos in the book "Spring and Autumn" and relied on praise and criticism to correct mistakes. The official in charge of the calendar set the leap month improperly, so he recorded it in the book and ridiculed it.
+From then on, until the Qin and Han Dynasties, Mengdong was still used as the beginning of the year, and the leap month was the ninth month. The solar terms were disordered, the seasons and months were wrong, the correction values ​​lag behind the actual celestial phenomena, and the solar eclipse did not occur at the new moon. It has been followed for many years and has not changed for a long time.
+It was not until the seventh year of Emperor Wu's Yuanfeng reign that he realized the above-mentioned error, so he changed the position of the first month, changed the basic data of the calendar, and ordered talented and knowledgeable people to create the Taichu Calendar. The month of Jianyin is used as the first month, and the month of Huangzhong is used as the beginning of the calendar.
+The differences in this calendar were too great, and the errors gradually increased.
+In the second year of Chenghe, the "Four Points Calendar" was used again and has been used until now. When observing solar eclipses, they often occur on dark days. This is because there are too many points, so it was first precise and then rough. It is no longer available.
+I previously used my spare time in compiling codes to calculate and study the movement of celestial bodies, and to examine previous classics. I verified them with solar eclipses and new moons, and established a more precise calendar.
+In the past, during the reign of Emperor Tang, by coordinating time and governing the people with integrity, all kinds of undertakings were prosperous.
+In order to make the ceremonies and various systems of today's country consistent with the past and very complete and sufficient, the location of the first month was changed, and the basic data of the calendar was changed. The month of Daru was used as the beginning of the year, and the month of Jianzi was used as the initial month of the calendar.
+I think that in the Zhuanxu era, the calendar was called "Zhuanxu", and in the Xuanyuan era, the calendar was called "Huangdi". When Emperor Xiaoyuan of the Han Dynasty reformed Zhengshuo and changed the calendar, the changed Yuan was called Taichu, so the calendar was named "Taichu Calendar".
+Now that the Yuan Dynasty has been changed to Jingchu, the calendar should be called "Jingchu Calendar".
+The method and data of the "Jingchu Calendar" I formulated are concise and concise, the application is close to precision, the study of it is efficient, and the study of it is easy to understand.
+Even if I were to do mental calculations, make plans, control the sundial, observe the sun's shadow and celestial phenomena, calculate and verify the movement of the sun and the moon, and explore the subtleties and subtleties, and reach the limit of my skills, it would not be as exquisite as my calendar.
+Therefore, the calendars of the past dynasties are rough and not precise. Since the Yellow Emperor, they have been constantly changing.
+From Renchen Yuan Dynasty to Ding Si, the first year of Jingchu Dynasty, the accumulation was 4046 years, counting.
+This epoch begins with the Huangzhong month of Tianzheng Jianzi as the beginning of the calendar. In the first year of each epoch, the winter solstice occurs at midnight on Jiazishuo day.
+
+summary:
+summary line 3: He proposed changing the first month's location and calendar data, using Daru month as the year's start and Jianzi month as the calendar's initial month. He noted that in the Zhuanxu era, the calendar was called "Zhuanxu," and in the Xuanyuan era, "Huangdi." When Emperor Xiaoyuan of Han reformed Zhengshuo, the changed Yuan was called Taichu, so the calendar was named "Taichu Calendar." Now that the Yuan has been changed to Jingchu, the calendar should be called "Jingchu Calendar." Yang Wei's "Jingchu Calendar" is concise, precise, efficient, and easy to understand. He claimed that even mental calculations, plans, sundial control, and observation of celestial phenomena could not surpass his calendar's subtlety.
+
+Chunk 0: 
+original: 
+魏尚书郎杨伟表曰： 臣览载籍，断考历数，时以纪农，月以纪事，其所由来，遐而尚矣。
+乃自少昊，则玄鸟司分，颛顼、帝喾，则重黎司天；唐帝、虞舜，则羲和掌日，三代因之，则世有日官。
+日官司历，则颁之诸侯，诸侯受之，则颁于境内。
+夏后之世，羲和湎淫，废时乱日，则《书》载《胤徵》。
+由此观之，审农时而重人事，历代然之也。
+逮至周室既衰，战国横鹜，告朔之羊，废而不绍，登台之礼，灭而不遵，闰分乖次而不识，孟陬失纪而莫悟，大火犹西流，而怪蛰虫之不藏也。
+是时也，天子不协时，司历不书日。诸侯不受职，日御不分朔，人事不恤，废弃农时。
+仲尼之拨乱于《春秋》，托褒贬纠正，司历失闰，则讥而书之，登台颁朔，则谓之有礼。
+自此以降，暨于秦汉，乃复以孟冬为岁首，闰为后九月，中节乖错，时月纰缪。加时后天，蚀不在朔，累载相袭，久而不革也。
+至武帝元封七年，始乃悟其缪焉，于是改正朔，更历数，使大才通人，更造《太初历》，校中朔所差，以正闰分，课中星得度，以考疏密，以建寅之月为正朔，以黄钟之月为历初。
+其历斗分太多，后遂疏阔。
+至元和二年，复用《四分历》，施而行之，至于今日，考察日蚀，率常在晦，是则斗分太多，故先密后疏而不可用也。
+是以臣前以制典余日，推考天路，稽之前典，验之以蚀朔，详而精之，更建密历，则不先不后，古今中天。
+以昔在唐帝，协日正时，允厘百工，咸熙庶绩也。
+欲使当今国之典礼，凡百制度，皆韬合往古，郁然备足，乃改正朔，更历数，以大吕之月为岁首，以建子之月为历初。
+臣以为昔在帝代，则法曰《颛顼》，曩自轩辕，则历曰《黄帝》，暨至汉之孝武，革正朔，更历数，改元曰太初，因名《太初历》。
+今改元为景初，宜曰《景初历》。
+臣之所建《景初历》，法数则约要，施用则近密，治之则省功，学之则易知。
+虽复使研桑心算，隶首运筹，重黎司晷，羲和察景，以考天路，步验日月，究极精微，尽术数之极者，皆未能并臣如此之妙也。
+是以累代历数，皆疏而不密，自黄帝以来，常改革不已。
+壬辰以来，至景初元年丁已岁，积四千四十六，算上。
+此元以天正建子黄钟之月为历初，元首之岁，夜半甲子朔旦冬至。
+translation: 
+Wei Shangshulang Yang Wei said in the table: I read ancient books and investigated the role of calendar numbers in judgment. Seasons are used to organize agricultural affairs, and months are used to organize personnel affairs. They have a long history.
+During the reign of Shaohao, the days were divided based on phenological judgments such as the return of swallows; during the reigns of Zhuanxu and Emperor Xue, Chongli was in charge of heaven;
+The Japanese official is in charge of the calendar and promulgates it to the princes. After the princes obtain it, they will promulgate it within the territory.
+During the Xia Dynasty, Xihe was addicted to wine, which caused the calendar to be disordered. The "Book" wrote this incident in the "Yin Zheng" wrapper.
+From this point of view, it can be seen that people are aware of the farming season and pay attention to personnel matters, which has been the case in all ages.
+Until the decline of the Zhou Dynasty and the outbreak of the Warring States Period, the sheep used for the lunar calendar were discarded and not inherited, the rituals of offering sacrifices to heaven and earth were extinct but not followed, the setting of the leap month was wrong but not aware of it, the arrangement of the first month was not in line with the season but not aware of it, the big Mars was still in the west, but it was strange that the stinging insects were not hidden.
+At that time, the emperor did not coordinate the seasons, the officials in charge of the calendar did not write down the good and bad taboos of the next day, the princes did not perform their duties, the Japanese officials did not even calculate the new moon, and they were not considerate of personnel and abandoned the farming season.
+Zhongni tried to correct chaos in the book "Spring and Autumn" and relied on praise and criticism to correct mistakes. The official in charge of the calendar set the leap month improperly, so he recorded it in the book and ridiculed it.
+From then on, until the Qin and Han Dynasties, Mengdong was still used as the beginning of the year, and the leap month was the ninth month. The solar terms were disordered, the seasons and months were wrong, the correction values ​​lag behind the actual celestial phenomena, and the solar eclipse did not occur at the new moon. It has been followed for many years and has not changed for a long time.
+It was not until the seventh year of Emperor Wu's Yuanfeng reign that he realized the above-mentioned error, so he changed the position of the first month, changed the basic data of the calendar, and ordered talented and knowledgeable people to create the Taichu Calendar. The month of Jianyin is used as the first month, and the month of Huangzhong is used as the beginning of the calendar.
+The differences in this calendar were too great, and the errors gradually increased.
+In the second year of Chenghe, the "Four Points Calendar" was used again and has been used until now. When observing solar eclipses, they often occur on dark days. This is because there are too many points, so it was first precise and then rough. It is no longer available.
+I previously used my spare time in compiling codes to calculate and study the movement of celestial bodies, and to examine previous classics. I verified them with solar eclipses and new moons, and established a more precise calendar.
+In the past, during the reign of Emperor Tang, by coordinating time and governing the people with integrity, all kinds of undertakings were prosperous.
+In order to make the ceremonies and various systems of today's country consistent with the past and very complete and sufficient, the location of the first month was changed, and the basic data of the calendar was changed. The month of Daru was used as the beginning of the year, and the month of Jianzi was used as the initial month of the calendar.
+I think that in the Zhuanxu era, the calendar was called "Zhuanxu", and in the Xuanyuan era, the calendar was called "Huangdi". When Emperor Xiaoyuan of the Han Dynasty reformed Zhengshuo and changed the calendar, the changed Yuan was called Taichu, so the calendar was named "Taichu Calendar".
+Now that the Yuan Dynasty has been changed to Jingchu, the calendar should be called "Jingchu Calendar".
+The method and data of the "Jingchu Calendar" I formulated are concise and concise, the application is close to precision, the study of it is efficient, and the study of it is easy to understand.
+Even if I were to do mental calculations, make plans, control the sundial, observe the sun's shadow and celestial phenomena, calculate and verify the movement of the sun and the moon, and explore the subtleties and subtleties, and reach the limit of my skills, it would not be as exquisite as my calendar.
+Therefore, the calendars of the past dynasties are rough and not precise. Since the Yellow Emperor, they have been constantly changing.
+From Renchen Yuan Dynasty to Ding Si, the first year of Jingchu Dynasty, the accumulation was 4046 years, counting.
+This epoch begins with the Huangzhong month of Tianzheng Jianzi as the beginning of the calendar. In the first year of each epoch, the winter solstice occurs at midnight on Jiazishuo day.
+
+summary:
+summary line 4: Past calendars have been rough and imprecise, constantly changing since the Yellow Emperor. From Renchen Yuan to Ding Si, the first year of Jingchu, the accumulation was 4046 years. This epoch begins with the Huangzhong month of Tianzheng Jianzi as the calendar's start. In the first year of each epoch, the winter solstice occurs at midnight on Jiazishuo day. The text then provides detailed numerical data for the calendar, including Yuanfa (11,058), Discipline (1,843), Jiyue (22,795), Chapter age (19), Zhang Yue (235), Zhang Run (7), Total number (134,630), Japan and France (4,559), Remainder (9,670), Zhou Tian (673,150), Middle age (12), Qi method (12), No points (67,315), No way (967), Month and week (24,638), General method (47), Huitong (790,110), Synodic total (67,315), Transaction limit (722,795), Tongzhou (125,621), Sunday balance (2,528), Zhou Xu (2,031), and Score (455).
+
+Chunk 2: 
+original: 
+加表，满在里；加里，满在表。
+迟疾纪差三万一百八十。
+求其数之所生者，置一纪积月，以通数乘之，通周去之，余以减通周，所减之余，纪差之数也。
+以之转减前纪，则得后纪。
+不足减者，加通周。
+求次元纪差率，转减前元甲寅纪差率，余则次元甲子纪差率也。
+求次纪，如上法也。
+推朔积月术曰：置壬辰元以来，尽所求年，外所求，以纪法除之，所得算外，所入纪第也，余则入纪年数也。
+以章月乘之，如章岁而一，为积月，不尽为闰余。
+闰余十二以上，其年有闰。
+闰月以无中气为正。
+推朔术曰：以通数乘积月，为朔积分。
+如日法而一，为积日，不尽为小余。
+以六十去积日，余为大余。
+大余命以纪，算外，所求年天正十一月朔日也。
+求次月，加大余二十九，小余二千四百一十九，小余满日法从大余，命如前，次月朔日也。
+小余二千一百四十以上，其月大也。
+推弦望，加朔大余七，小余千七百四十四，小分一，小分满二从小余，小余满日法从大余，大余满六十去之，余命以纪，算外，上弦日也。
+又加，得望、下弦、后月朔。
+其月蚀望者，定小余如在中节者定小余如所近中节间限数、限数以下者，算上为日。
+望在中节前后各四日以还者，视限数；望在中节前后各五日以上者，视间限。
+推二十四气术曰：置所入纪年，外所求，以余数乘之，满纪法为大余，不尽为小余。
+translation: 
+If it keeps adding up until it is greater than or equal to the conjunction, the moon is in the south of the ecliptic; if it keeps adding up until it is greater than or equal to the conjunction, the moon is in the north of the ecliptic.
+The Jiji difference is three lettuce and one hundred and eighty.
+The calculation method of this data is to use the accumulated moon of one period, 22,795, multiplied by the total number of 134,630, and continuously subtract the total number of 125,621. The remaining part that is less than the total number of 95,441 is subtracted by the total number, and the result is the chronic period difference.
+Subtract the illness rate from the illness rate in the previous century to get the illness rate in the next era.
+If it is not enough to reduce it, add it and then reduce it.
+Find the epoch difference rate of the dimension: subtract the epoch difference from the Jiayin era difference rate of the BC Yuan Dynasty, and the result is the Jiazi epoch difference rate of the dimension.
+Find the sub-discipline rate in the same way as before.
+The method of deducing the accumulated month: subtract one from the accumulated years from Renchen in the Yuan Dynasty to the year you want, divide it by Jifa one thousand eight hundred and forty-three, and calculate the quotient to get the Jifu, and the remainder is the number of Jifa years.
+Multiply the two hundred and thirty-five chapter months by the number of years in the calendar, and then divide it by the nineteenth year of the chapter. The resulting calculation is the accumulated months, and the remainder is the leap remainder.
+If there are more than 12 leap months, there will be a leap month in that year.
+The determination of the leap month shall be based on the month without Zhongqi.
+The method of deducing the new moon is: multiply the Tongfu one hundred and thirty-four thousand six hundred and thirty by the accumulated month to get the new moon integral.
+Divided by the daily method of 4,559, the resulting business is called accumulation, and the remainder is a small remainder.
+The accumulated days are subtracted by sixty continuously, and the remaining part less than sixty is a large surplus.
+Dayu is calculated based on his chronological stem and branch. If not, it is the first day of the eleventh month of the desired year.
+Find the day of the next New Moon: On the basis of the previous month, add 29 Days and 2419 Days. If you add 4559 Days and 4559 Days, it will be converted into Dayu. The naming method is the same as before, and the result is the day of the next New Moon.
+If Xiaoyu is above 2140, he will be one month old.
+Calculating the string and looking at the sun: On the basis of the new day, add the remaining seven, the small remainder is 1,744, and the minor fraction is one. If the minor fraction reaches two, it will turn into the minor remainder. If the minor remainder is full of two, it will turn into the minor remainder. If the minor remainder is full of 4559, it will turn into the greater remainder. If the greater remainder reaches sixty, it will be reduced. The remaining part less than sixty will be counted from the stem and branch where it is located. If it is not counted, it is the first string day.
+Using the same method and adding them continuously, you can get the day of the first month, the last quarter, and the first day of the second lunar month in sequence.
+If there is a lunar eclipse at the time of looking at it, and if Xiao Yu is in the middle section, then it will be considered to be below the limit or number of the nearest middle Qi or solar term, and then it will be counted to determine the day.
+It is expected to be within four days before and after the middle Qi or solar term, depending on the limit. It is expected to be more than five days before or after the middle Qi or solar term, depending on the time limit.
+The method of deriving the twenty-four qi and solar terms: subtract one from the year of entry, multiply by the remainder nine thousand six hundred and seventy, divide it by the number one thousand eight hundred and forty-three, the quotient obtained is the big remainder, and the remainder is the small remainder.
+
+summary:
+summary line 5: The text describes six periods (Jiazi, Jiaxu, Jiashen, Jiawu, Jiachen, Jiayin) with their respective intersection error rates and late illness rates. It explains the calculation method for these data, using accumulated moon of one period (22,795) multiplied by the number (134,630), continuously subtracting the number of Huitong (790,110). The result less than Huitong is the intersection difference. Adding the intersection difference rate of the previous period yields the rate for the later period. If the result is still less than Huitong, the moon is in the south of the ecliptic; if greater, subtract it, and the moon is in the north. The Jiji difference is three lettuce and one hundred and eighty, calculated similarly using accumulated moon multiplied by total number, subtracting total number (125,621), with the remainder less than 95,441 subtracted by total number to get the chronic period difference.
+
+Chunk 6: 
+original: 
+求去交度术曰：其前交后会者，今去交度分如日法而一，所得则却交度分也。
+其前会后交者，以去交度分减会通，余如日法而一，所得则前去交度也。
+余皆度分也。
+去交度十五以上，虽交不蚀也，十以下是蚀，十以上，亏蚀微少，光晷相及而已。
+亏之多少，以十五为法。
+求日蚀亏起角术曰：其月在外道，先交后会者，亏蚀西南角起；先会后交者，亏蚀东南角起。
+其月在内道，先交后会者，亏蚀西北角起；先会后交者，亏蚀东北角起。
+亏蚀分多少，如上以十五为法。
+会交中者，蚀尽。
+月蚀在日之冲，亏角与上反也。
+月行迟疾度损益率盈缩积分月行分
+一日十四度十四分益二十六盈初二百八十
+二日十四度十一分益二十三盈积分二百七十七
+三日十四度八分益二十盈积分二百七十四
+四日十四度五分益十七盈积分二百七十一
+五日十四度一分益十三盈积分二百六十七
+六日十三度十四分益七盈积分二百六十一
+七日十三度七分损盈积分二百五十四
+八日十三度一分损六盈积分二百四十八
+九日十二度十六分损十盈积分二百四十四
+十日十二度十三分损十三盈积分二百四十一
+十一日十二度十一分损十五盈积分二百三十九
+十二日十二度八分损十八盈积分二百三十六
+十三日十二度五分损二十一盈积分二百三十三
+十四日十二度三分损二十三盈积分二百三十一
+十五日十二度五分益二十一缩初二百三十三
+十六日十二度七分益十九缩积分二百三十五
+十七日十二度九分益十七缩积分二百三十七
+十八日十二度十二分益十四缩积分二百四十
+十九日十二度十五分益十一缩积分二百四十三
+二十日十二度十八分益八缩积分二百四十六
+二十一日十三度三分益四缩积分二百五十
+二十二日十三度七分损缩积分二百五十四
+二十三日十三度十二分损五缩积分二百五十九
+二十四日十三度十八分损十一缩积分二百六十五
+二十五日十四度五分损十七缩积分二百七十一
+二十六日十四度十一分损二十三缩积分二百七十七
+二十七日十四度十二分损二十四缩积分二百七十八
+周日十四度十三分有小分六百二十六分损二十五有小分六百二十六
+缩积分二百七十九
+有小分六百二十六
+translation: 
+The method of finding the degree of deintersection: If the intersection is in front and behind, divide the degree of deintersection by the day method 4559, and the result is the degree of deintersection after the point of intersection.
+If the meeting is in the front and the meeting is in the back, the meeting point is 790,110 minus the de-intersection point, and the remainder is divided by the day method 4559. The result is the intersection point in front of the intersection.
+The remainders are all degrees and minutes.
+If the degree of intercourse is above fifteen, there will be intercourse but no eclipse will occur. If it is below ten, eclipse will definitely occur. If it is above ten, eclipse will be very small, just light and shadow.
+The specific amount of food loss is expressed by using fifteen as the denominator.
+Method to find the azimuth angle of solar eclipse and waning: If the moon is in the outer path, the conjunction is first and the solar eclipse is waning from the southwest corner; the conjunction is first and waning, and the solar eclipse is waning from the southeast corner.
+If the moon is in the inner path, the conjunction is first and then later, and the solar eclipse starts and wanes from the northwest corner; if the moon is first and the conjunction is behind, the solar eclipse starts and wanes from the northeast corner.
+The amount of loss caused by a solar eclipse is expressed by using fifteen as the denominator, just like a lunar eclipse.
+When the sun and moon meet in the intersection, they will eat up everything.
+During a lunar eclipse, the moon is in a position opposite to the sun, and the azimuth angle of waxing and waning is opposite to that above.
+Monthly progress profit and loss rate profit and loss points monthly progress points
+One day, fourteen degrees, fourteen points, gain twenty-six, gain two hundred and eighty.
+Two days, fourteen degrees, eleven points, gain twenty-three points, gain points two hundred and seventy-seven.
+Three days, fourteen degrees, eight points, gain twenty points, two hundred and seventy-four points
+Fourteen degrees on the fourth day, five points, seventeen points, two hundred and seventy-one points
+Five days, fourteen degrees, one point, thirteen points, two hundred and sixty-seven points
+Six days, thirteen degrees, fourteen points, gain seven points, two hundred and sixty-one points
+Seven days, thirteen degrees, seven points, loss and profit points, two hundred and fifty-four
+Eight days and thirteen degrees, one point loss, six profit points, 248 points
+Nine days, twelve degrees, sixteen points, loss, ten points, profit, two hundred and forty-four
+Ten days, twelve degrees, thirteen points, loss, thirteen points, gain, two hundred and forty-one points
+Eleven days, twelve degrees, eleven points, loss fifteen, profit points two hundred and thirty-nine
+On the twelfth day, twelve degrees and eight points, loss of eighteen points, profit of two hundred and thirty-six points
+On the 13th, 12 degrees, 5 points, loss, 21 points, gain, 233 points
+On the 14th, twelve degrees, three points, loss, twenty-three points, gain, two hundred and thirty-one points
+On the 15th, twelve degrees and five minutes, twenty-one, two hundred and thirty-three
+Sixteen days, twelve degrees, seven points, nineteen points, reduced points, two hundred and thirty-five
+Seventeenth day, twelve degrees, nine points, seventeen points, reduced integral, two hundred and thirty-seven
+On the 18th, twelve degrees, twelve points, fourteen points, reduced points two hundred and forty
+Nineteenth day, twelve degrees and fifteen points, plus eleven points, reducing the points to two hundred and forty-three.
+On the 20th, twelve degrees, eighteen points, eight points, reduced points, two hundred and forty-six
+Twenty-one days, thirteen degrees, three points, four points, two hundred and fifty points
+On the 22nd, thirteen degrees and seven points, a loss of two hundred and fifty-four points
+Twenty-three days, thirteen degrees, twelve points, five points lost, two hundred and fifty-nine points reduced
+Twenty-fourth day, thirteen degrees, eighteen points, loss of eleven points, reduced points by two hundred and sixty-five
+On the twenty-fifth day, fourteen degrees and five points, a loss of seventeen points and a reduction of two hundred and seventy-one points.
+Twenty-sixth day, fourteen degrees, eleven points, loss of twenty-three points, reduction of points, two hundred and seventy-seven
+Twenty-seven days, fourteen degrees, twelve points, loss of twenty-four points, two hundred and seventy-eight points
+Sunday fourteen degrees thirteen has a minor score of 626. Loss of 25 has a minor score of 626.
+Reduced integral two hundred and seventy-nine
+There are six hundred and twenty-six points
+
+summary:
+summary line 6: The text provides methods for deducing accumulated month, new moon, string and looking days, twenty-four qi and solar terms, leap months, and various limits for each month. It includes detailed calculations for the sun's and moon's positions, conjunction and lunar eclipse, and the moon's north-south position relative to the ecliptic. The method for finding the degree of deintersection and the specific amount of food loss (using fifteen as denominator) is also given. The azimuth angle for solar eclipse and waning depends on whether the moon is in the outer or inner path.
+
+Chunk 5: 
+original: 
+以大分从朔夜半日度分，分满纪法从度，命如前，则天正十一月合朔日月所共合度也。
+求次月，加度二十九，大分九百七十七，小分四十二，小分满通法从大分，大分满纪法从度，经斗除其分，则次月合朔日月所共合度也。
+推弦望日所在度：加合朔度七，大分七百五，小分十，微分一，微分满二从小分，小分满通法从大分，大分满纪法从度，命如前，则上弦日所在度也。
+又加，得望，下弦、后月合也。
+推弦望月所在度：加合朔度九十八，大分千二百七十九，小分三十四，数满命如前，即上弦月所在度也。
+又加，得望，下弦、后月合也。
+推日月昏明度术曰：日以纪法，月以月周，乘所近节气夜漏，二百而一，为明分。
+日以减纪法，月以减月周，余为昏分。
+各以分加夜半，如法为度。
+推合朔交会月蚀术曰：置所入纪朔积分，以所入纪下交会差率之数加之，以会通去之，余则所求年天正十一月合朔去交度分也。
+以通数加之，满会通去之，余则次月合朔去交度分也。
+以朔望合数各加其月合朔去交度分，满会通去之，余则各其月望去交度分也。
+朔望去交分，如朔望合数以下，入交限数以上者，朔则交会，望则月蚀。
+推合朔交会月蚀月在日道表里术曰：置所入纪朔积分，以所入纪下交会差率之数加之，倍会通去之，余不满会通者，纪首表，天正合朔月在表；纪首里，天正合朔月在里。
+满会通去之，表满在里，里满在表。求次月，以通数加之，满会通去之，加里满在表，加表满在里。
+先交会后月蚀者，朔在表则望在表，朔在裹则望在里。先月蚀后交会者，看蚀月朔在里则望在表，朔在表则望在里。
+交会月蚀如朔望合数以下，则前交后会；如入交限数以上，则前会后交。
+其前交后会近于限数者，则豫伺之；前会后交近于限数者，则后伺之。
+translation: 
+Taking the Great Equinox plus the mid-night solar degree minute of the new moon, the full rule method is 1,843 into the incoming degree. The starting naming method is as before, and we can get the zodiac degree minutes when the sun and the moon are combined in the eleventh month of Tianzheng.
+Find the next month; add twenty-nine degrees to the previous month, the great minute is 977, the minor minute is forty-two, the minor minute is fully divided into forty-seven, and the great minute is fully divided into 1,843 into degrees. When passing through the constellations, remove the constellation points, and the result is the constellation degree score when the sun and moon are combined in the next month.
+Calculation of the degree and minute of the sun's position at the time of bending and looking: Add seven degrees to the degree and minute of the sun at the time of the New Moon, seven hundred and five for the great minute, ten for the minor minute, and one for the differential. The full two of the differential are converted into the minor minute, the full of the minor minute is forty-seven, which is converted into the great minute, and the full of the great minute is converted into the degree of one thousand eight hundred and forty-three. The starting naming method is the same as before, and then the degree and minute of the sun's position at the time of waxing can be obtained.
+By adding continuously in the same way, you can get the degrees and minutes of the sun's position in the first quarter, last quarter, and later New Moon.
+Calculation of the moon's nakshatra degree and minute at the time of inflection and gazing: Add ninety-eight degrees to the moon's degree and minute at the synodic time, add one thousand, two hundred and seventy-nine degrees to the grand minute, thirty-four minor minutes, convert minor to great minute, major to major degrees, and calculate the nakshatra degree and minute in the same way as before, and obtain the nakshatra degree and minute of the moon's position at waxing hour.
+By adding continuously in the same way, you can get the degrees and minutes of the moon's zodiac sign in turn, including first quarter, last quarter, and last new moon.
+The method of calculating the twilight and brightness points of the sun and the moon: Calculate the sun's twilight and twilight points by calculating one thousand eight hundred and forty-three, and the moon's two days of the month by the lunar calendar number fourteen thousand six hundred and thirty-eight.
+The sun is calculated according to the discipline method, and the moon is calculated by subtracting the respective clear equinoxes from the monthly cycle, and the result is the respective twilight equinox.
+Add the respective twilight points and dusk points to the respective midnight points, and convert the points into degrees according to the full discipline method, and you can get the celestial degree points where the sun and moon are at dusk and bright time.
+The method of deducing the conjunction and lunar eclipse: take the lunar eclipse points of the period in which they are entered, add the intersection difference rate of the period in which they are located, and remove the 790,110 lunar eclipses. The remainder is the de-conjunction points when Tianzheng and the lunar eclipse are conjunct in November of the desired year.
+With the addition of the Tong 134,630, the Manhui Tong is removed, and the remainder is the denomination at the conjunction of the new moon in the next month.
+The sum of sixty-seven thousand three hundred and fifteen is added to the sum of sixty-seven thousand three hundred and fifteen when the new moon is combined with the new moon, and the de-conjunction points of the full moon are removed.
+If the total number of the synodic and lunar phases is less than 67,315, or the total number of the synodic and lunar phases is more than 72, 2,795, and the lunar eclipse meets, it will be a lunar eclipse.
+The method of deducing that the moon is in the north and south of the ecliptic when the conjunction and lunar eclipse meet is as follows: take the integral of the lunar cycle in the era, add the intersection difference rate in that era, and remove twice the conjunction. If the remainder is not equal to the conjunction, then the moon is in the north of the ecliptic at the beginning of the epoch, and the moon is also in the ecliptic when the celestial conjunction and lunar eclipse; the moon is in the south of the ecliptic at the beginning of the epoch, and the moon is also in the south of the ecliptic when the celestial conjunction and lunar eclipse occur.
+The remaining ones are eliminated if the moon is in the north of the ecliptic at the beginning of the lunar calendar, then the moon is in the south of the ecliptic when the celestial zodiac is in conjunction with the lunar new moon;
+Find the following month: Take the Tongfu 134,630 and add the Moon and New Moon to the intersection points, and remove the full moon and Tongfu. If the moon is in the south of the ecliptic, and the moon is in the south of the ecliptic after adding Tongfu, the moon will be in the north of the ecliptic. If it is not in conjunction with the moon, it will still be in the south of the ecliptic. If the conjunction occurs first and then the lunar eclipse occurs, if the moon is north of the ecliptic when you look at it during the conjunction and lunar cycle, the moon will also be on the north of the ecliptic when you look at it.
+If you see the lunar eclipse first and then the conjunction, if you see the lunar eclipse and the moon is in the south of the ecliptic when the moon is conjunct, look at the moon in the north of the ecliptic, and when it is conjunct and the moon is in the north of the ecliptic, look at the moon in the south of the ecliptic. If the synodic lunar eclipse is below the synodic sum of 67,315, the synodic eclipse will be in front and behind; if the synodic lunar eclipse is above 722,795, the synodic lunar eclipse will be in front and behind.
+In the case of a first-hand meeting and a later meeting, when the number is close to the limit, you should wait in the previous month; in the case of a former meeting and a later meeting, when the number is close to the limit, you should wait in the next month.
+
+summary:
+summary line 7: The text includes a table of monthly progress with profit and loss rates, profit and loss points, and monthly progress points for 27 days plus a Sunday. It describes the method for deducing the combination of lunar eclipse into the lunar calendar, calculating fixed points, and adding time. The five-star technique for Jupiter, Mars, Saturn, Venus, and Mercury is detailed, including their conjunctions, movements, and degrees. The text also discusses Liu Zhi's modification of the calendar, Du Yu's "Chunqiu Changli," and various historical calendars' accuracy in predicting solar eclipses in the Spring and Autumn period. It concludes with Jiang Qi's "Jiazi Yuanli of the Three Epochs" and his "Huntian Lun," which calculated the sun's movement based on the ecliptic.
+

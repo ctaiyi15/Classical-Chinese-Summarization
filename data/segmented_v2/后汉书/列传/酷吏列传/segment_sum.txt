@@ -1,0 +1,605 @@
+Summary uses chunk [0, 0, 2, 2, 3, 5, 5, 7, 8]
+
+Chunk 0: 
+original: 
+董宣樊晔李章周紜黄昌阳球王吉汉承战国余烈，多豪猾之民。
+其并兼者则陵横邦邑，桀健者则雄张闾里。且宰守旷远，户口殷大。
+故临民之职，专事威断，族灭奸轨，先行后闻。
+肆情刚烈，成其不桡之威。
+违众用己，表其难测之智。
+至于重文横入，为穷怒之所迁及者，亦何可胜言。
+故乃积骸满，漂血十里。
+致温舒有虎冠之吏，延年受屠伯之名，岂虚也哉！
+若其揣挫强伤，摧勒公卿，碎裂头脑而不顾，亦为壮也。
+自中兴以后，科网稍密，吏人之严害者，方于前世省矣。
+而阉人亲娅，侵虐天下。
+至使阳球磔王甫之尸，张俭剖曹节之墓。
+若此之类，虽厌快众愤，亦云酷矣！
+俭知名，故附《党人篇》。
+董宣字少平，陈留圉人也。
+初为司徒侯霸所辟，举高第，累迁北海相。
+到官，以大姓公孙丹为五官掾。
+丹新造居宅，而卜工以为当有死者，丹乃令其子杀道行人，置尸舍内，以塞其咎。
+宣知，即收丹父子杀之。
+丹宗族亲党三十余人，操兵诣府，称冤叫号。宣以丹前附王莽、虑交通海贼，乃悉收系剧狱，使门下书佐水丘岑尽杀之。
+青州以其多滥，奏宣考岑，宣坐征诣廷尉。
+在狱，晨夜讽诵，无忧色。
+及当出刑，官属具馔送之，宣乃厉色曰： 董宣生平未曾食人之食，况死乎！
+升车而去。
+时，同刑九人，次应及宣，光武驰使驺骑特原宣刑，且令还狱。
+translation: 
+◆Preface to the biographies of ruthless officials. The Han Dynasty inherited the turbulent and uneasy era of the Warring States Period, which affected many people, including those who were arrogant and cunning.
+Those who use the big to swallow up the small, cross the country and the city, and those who are strong and unruly become the kings and hegemons in the countryside. The prefectures and counties govern vast areas and have many household registrations.
+Therefore, officials can act arbitrarily and arbitrarily, and the traitors should be killed first and then punished.
+Show off his staunch spirit and achieve his unyielding power.
+He stood up to others and used his own opinions to reveal his unpredictable wisdom.
+As for the intricacies of the text, the indiscriminate accusations, and the infuriating of people, they are countless.
+Some pits were even filled with corpses, bleeding for miles.
+So Wang Wenshu has the reputation of a tiger-crowned official, and Yan Yannian has the reputation of being a butcher. Is this false?
+However, those among them who suppressed the strong and suppressed the ministers to the point of breaking their minds and ignoring them can be considered very heroic.
+Since the ZTE, the laws have gradually become stricter, and fewer officials and common people break the law than in previous lives.
+But eunuchs and relatives harm the world.
+They even ordered Yang Qiu to dig up Wang Fu's body and Zhang Jian to dissect Cao Jie's tomb.
+Such and such, although it vents public anger and is pleasing to everyone, it can also be said to be too cruel.
+Zhang Jian is a well-known figure, so he is included in the "Party Man Chapter".
+◆Dong Xuan, courtesy name Shaoping, was a native of Yuxian County, Chenliu County.
+At first he was recruited by Situ Houba and recommended as a person with excellent performance. He was gradually promoted to the state minister of Beihai County.
+When he arrived, he appointed Gongsun Dan as the chief minister of the five sense organs.
+When Gongsun Dan built a new house, the fortune teller believed that someone would definitely die, so Gongsun Dan asked his son to kill passers-by and put the corpses in the house to ward off his disaster.
+When Dong Xuan found out, he arrested and killed Gongsun Danzi.
+More than thirty people from Gongsun Dan's clan and close associates came to Dong Xuan's government with weapons and complained about their injustice. Dong Xuan believed that Gongsun Dan had taken refuge with Wang Mang before, and was worried that they had colluded with pirates, so he arrested them all and imprisoned them in Jixian Prison. He sent his subordinate Zuo Shuiqiu Cen to kill them all.
+The governor of Qingzhou thought that he had killed too many people, so he wrote to the emperor to report Dong Xuan and examine his charges. Dong Xuan was found guilty and recruited into the imperial court.
+Dong Xuan was in prison, reciting poems and poems morning and night, without any worries.
+When it was time for him to be released from prison and sentenced, the officials and his family prepared a meal for him. Dong Xuan said sternly: "I, Dong Xuan, have never eaten other people's food in my life, let alone when I die?"
+Get in the car and drive away.
+Among the nine people who were tortured together at that time, it was Dong Xuan's turn. Emperor Guangwu hurriedly sent his attendant knights to rush over. He only pardoned Dong Xuan's death penalty and ordered him to return to prison.
+
+summary:
+summary line 0: The Han Dynasty inherited the turbulent Warring States period, fostering arrogant and cunning individuals who used power to dominate regions. Officials acted arbitrarily, killing traitors before reporting, displaying staunch spirit and unyielding power. Countless injustices occurred, with corpses filling pits and blood flowing for miles. Figures like Wang Wenshu and Yan Yannian gained reputations as tiger-crowned officials and butchers. After the Zhongxing period, laws tightened, but eunuchs and relatives harmed the world, leading to excessive acts like Yang Qiu digging up Wang Fu's body and Zhang Jian dissecting Cao Jie's tomb, which vented public anger but were deemed too cruel.
+
+Chunk 0: 
+original: 
+董宣樊晔李章周紜黄昌阳球王吉汉承战国余烈，多豪猾之民。
+其并兼者则陵横邦邑，桀健者则雄张闾里。且宰守旷远，户口殷大。
+故临民之职，专事威断，族灭奸轨，先行后闻。
+肆情刚烈，成其不桡之威。
+违众用己，表其难测之智。
+至于重文横入，为穷怒之所迁及者，亦何可胜言。
+故乃积骸满，漂血十里。
+致温舒有虎冠之吏，延年受屠伯之名，岂虚也哉！
+若其揣挫强伤，摧勒公卿，碎裂头脑而不顾，亦为壮也。
+自中兴以后，科网稍密，吏人之严害者，方于前世省矣。
+而阉人亲娅，侵虐天下。
+至使阳球磔王甫之尸，张俭剖曹节之墓。
+若此之类，虽厌快众愤，亦云酷矣！
+俭知名，故附《党人篇》。
+董宣字少平，陈留圉人也。
+初为司徒侯霸所辟，举高第，累迁北海相。
+到官，以大姓公孙丹为五官掾。
+丹新造居宅，而卜工以为当有死者，丹乃令其子杀道行人，置尸舍内，以塞其咎。
+宣知，即收丹父子杀之。
+丹宗族亲党三十余人，操兵诣府，称冤叫号。宣以丹前附王莽、虑交通海贼，乃悉收系剧狱，使门下书佐水丘岑尽杀之。
+青州以其多滥，奏宣考岑，宣坐征诣廷尉。
+在狱，晨夜讽诵，无忧色。
+及当出刑，官属具馔送之，宣乃厉色曰： 董宣生平未曾食人之食，况死乎！
+升车而去。
+时，同刑九人，次应及宣，光武驰使驺骑特原宣刑，且令还狱。
+translation: 
+◆Preface to the biographies of ruthless officials. The Han Dynasty inherited the turbulent and uneasy era of the Warring States Period, which affected many people, including those who were arrogant and cunning.
+Those who use the big to swallow up the small, cross the country and the city, and those who are strong and unruly become the kings and hegemons in the countryside. The prefectures and counties govern vast areas and have many household registrations.
+Therefore, officials can act arbitrarily and arbitrarily, and the traitors should be killed first and then punished.
+Show off his staunch spirit and achieve his unyielding power.
+He stood up to others and used his own opinions to reveal his unpredictable wisdom.
+As for the intricacies of the text, the indiscriminate accusations, and the infuriating of people, they are countless.
+Some pits were even filled with corpses, bleeding for miles.
+So Wang Wenshu has the reputation of a tiger-crowned official, and Yan Yannian has the reputation of being a butcher. Is this false?
+However, those among them who suppressed the strong and suppressed the ministers to the point of breaking their minds and ignoring them can be considered very heroic.
+Since the ZTE, the laws have gradually become stricter, and fewer officials and common people break the law than in previous lives.
+But eunuchs and relatives harm the world.
+They even ordered Yang Qiu to dig up Wang Fu's body and Zhang Jian to dissect Cao Jie's tomb.
+Such and such, although it vents public anger and is pleasing to everyone, it can also be said to be too cruel.
+Zhang Jian is a well-known figure, so he is included in the "Party Man Chapter".
+◆Dong Xuan, courtesy name Shaoping, was a native of Yuxian County, Chenliu County.
+At first he was recruited by Situ Houba and recommended as a person with excellent performance. He was gradually promoted to the state minister of Beihai County.
+When he arrived, he appointed Gongsun Dan as the chief minister of the five sense organs.
+When Gongsun Dan built a new house, the fortune teller believed that someone would definitely die, so Gongsun Dan asked his son to kill passers-by and put the corpses in the house to ward off his disaster.
+When Dong Xuan found out, he arrested and killed Gongsun Danzi.
+More than thirty people from Gongsun Dan's clan and close associates came to Dong Xuan's government with weapons and complained about their injustice. Dong Xuan believed that Gongsun Dan had taken refuge with Wang Mang before, and was worried that they had colluded with pirates, so he arrested them all and imprisoned them in Jixian Prison. He sent his subordinate Zuo Shuiqiu Cen to kill them all.
+The governor of Qingzhou thought that he had killed too many people, so he wrote to the emperor to report Dong Xuan and examine his charges. Dong Xuan was found guilty and recruited into the imperial court.
+Dong Xuan was in prison, reciting poems and poems morning and night, without any worries.
+When it was time for him to be released from prison and sentenced, the officials and his family prepared a meal for him. Dong Xuan said sternly: "I, Dong Xuan, have never eaten other people's food in my life, let alone when I die?"
+Get in the car and drive away.
+Among the nine people who were tortured together at that time, it was Dong Xuan's turn. Emperor Guangwu hurriedly sent his attendant knights to rush over. He only pardoned Dong Xuan's death penalty and ordered him to return to prison.
+
+summary:
+summary line 1: Dong Xuan, from Chenliu, was recommended as a person of excellent performance and became state minister of Beihai. He killed Gongsun Danzi for murdering a passerby to ward off disaster, then arrested and executed over thirty of Gongsun Dan's clan. The governor of Qingzhou reported him, and Dong Xuan was imprisoned but remained calm. Emperor Guangwu pardoned him, demoting him to county magistrate of Huai. Later, as governor of Jiangxia, he intimidated the giant thief Xia happy into surrendering. As magistrate of Luoyang, he killed Princess Huyang's murderous slave, defying the emperor's order to apologize. He died in office at 74, leaving a poor household, and was honored posthumously.
+
+Chunk 2: 
+original: 
+与光武少游旧。
+建武初，征为侍御史，迁河东都尉，引见云台。
+初，光武微时，尝以事拘于新野，晔为市吏，餽饵一笥，帝德之不忘，仍赐晔御食，及乘舆服物。
+因戏之曰： 一笥饵得都尉，何如？
+晔顿首辞谢。
+及至郡，诛讨大姓马適匡等。盗贼清，吏人畏之。
+数年，迁杨州牧，教民耕田种树理家之术。
+视事十余年，坐法左转积长。
+隗嚣灭后，陇右不安，乃拜晔为天水太守。
+政严猛，好申、韩法、善恶立断。
+人有犯其禁者，率不生出狱，吏人及羌胡畏之。
+道不拾遗。
+行旅至夜，聚衣装道傍，曰 以付樊公 。
+凉州为之歌曰： 游子常苦贫，力子天所富。
+宁见乳虎穴，不入冀府寺。
+大笑期必死，忿怒或见置。
+嗟我樊府君，安可再遭值！
+视事十四年，卒官。
+永平中，显宗追思晔在天水时政能，以为后人莫之及，诏赐家钱百万。
+子融，有俊才，好黄、老，不肯为吏。
+李章字第公，河内怀人也。
+五世二千石。
+章习《严氏春秋》，经明教授，历州郡吏。
+光武为大司马，平定河北，召章置江曹属，数从征伐。
+光武即位，拜阳平令。
+时赵、魏豪右往往屯聚，清河大姓赵纲遂于县界起坞壁，缮甲兵，为在所害。
+章到，乃设飨会，而延谒纲。
+纲带文剑，被羽衣，从士百余人来到。
+章与对宴饮，有顷，手剑斩纲，伏兵亦悉杀其从者，因驰诣坞壁，掩击破之，吏人遂安。
+迁千乘太守，坐诛斩盗贼过滥，征下狱免。
+translation: 
+He had a good relationship with Guangwu when he was young.
+At the beginning of Jianwu's reign, he was recruited to serve as a censor, promoted to captain of Hedong, and introduced in Yuntai.
+At first, when Guangwu was poor and humble, he was detained in Xinye for some reason. Fan Ye was appointed as a city official and sent a box of dry food to Guangwu. Guangwu was grateful for his kindness and did not forget it. He invited Fan Ye to eat many times and provided clothes for his carriage and horse.
+Because he joked: How about becoming a captain with a box of dry food?
+Fan Ye kowtowed in thanks.
+After arriving at the county, he punished Ma Shikuang and others. The thieves were eliminated, and the officials and the people were afraid of him.
+A few years later, he was promoted to the post of state animal husbandry and taught the people how to farm, plant trees and manage their families.
+After serving for more than ten years, he was demoted to Zhi County Magistrate for breaking the law.
+After Wei Xiao was eliminated, Longyou was uneasy, so he appointed Fan Ye as the prefect of Tianshui.
+He is strict and fierce in politics, likes to apply the law not to harm Han Fei, and makes quick decisions about good and evil.
+Anyone who violates his prohibition will never get out of prison alive. Officials, people, Qiang and Hu are all afraid of him.
+If something is lost on the road, no one will pick it up.
+At night, the traveler left his clothes and luggage by the roadside and said, "I have entrusted it to Duke Fan."
+Liangzhou people made a song saying: Wanderers are often poor, but hardworking people are naturally rich.
+I would rather see Ruhu's cave than enter Tianshui Temple.
+When you laugh, you will surely die; when you are angry, you may live.
+well! My Mr. Fan Mansion, where can I meet him again?
+He served for fourteen years and died in office.
+In Yongping, Xianzong recalled Fan Ye's political achievements when he was in Tianshui and believed that no future generation could catch up with him, so he ordered his family to be given millions of dollars.
+Zifan Rong was a talented man who liked the skills of Huangdi and Laozi, but he was unwilling to serve as an official.
+◆The biography of Li Zhang, whose courtesy name was Di Gong, was from Huai County, Hanoi County.
+The five generations of my family have had two thousand stones.
+Li Zhang studied "Yan's Spring and Autumn Annals". After the Ming Dynasty, he taught various students and served as state and county officials.
+Guangwu became the Grand Sima, and he pacified Hebei. He summoned Li Zhang to establish Dong Cao's vassal, and he led many expeditions from Guangwu.
+Guangwu became emperor and granted Li Zhang the title of Yangping Order.
+At this time, Zhao and Wei powerful men gathered together, and Zhao Gang, a surname of Qinghe, built dock walls at the county boundary, built weapons, and harmed the place.
+When Li Zhang arrived, he held a banquet and invited Zhao Gang to meet with him.
+Zhao Gang came with a sword and feathers and more than a hundred guards.
+Li Zhang drank with him, and after a while, Li Zhang killed Zhao Gang with his sword. The soldiers who had been ambushing him also came out and killed all Zhao Gang's guards. Then they ran to the wall of the dock and broke through it with a surprise attack. The officials and the people were in peace.
+The prefect of Shengqiancheng, because he was too indiscriminate in killing thieves, was conscripted into prison and relieved of the post of prefect.
+
+summary:
+summary line 2: Fan Ye, from Nanyang, was a friend of Guangwu from youth. He served as censor and captain of Hedong, punishing Ma Shikuang and eliminating thieves. As state animal husbandry, he taught farming and management. After Wei Xiao's elimination, he became prefect of Tianshui, applying strict laws like Han Fei. His harsh rule made the road safe at night, and Liangzhou people sang of his severity. He died in office after 14 years, and Emperor Xianzong later granted his family millions.
+
+Chunk 2: 
+original: 
+与光武少游旧。
+建武初，征为侍御史，迁河东都尉，引见云台。
+初，光武微时，尝以事拘于新野，晔为市吏，餽饵一笥，帝德之不忘，仍赐晔御食，及乘舆服物。
+因戏之曰： 一笥饵得都尉，何如？
+晔顿首辞谢。
+及至郡，诛讨大姓马適匡等。盗贼清，吏人畏之。
+数年，迁杨州牧，教民耕田种树理家之术。
+视事十余年，坐法左转积长。
+隗嚣灭后，陇右不安，乃拜晔为天水太守。
+政严猛，好申、韩法、善恶立断。
+人有犯其禁者，率不生出狱，吏人及羌胡畏之。
+道不拾遗。
+行旅至夜，聚衣装道傍，曰 以付樊公 。
+凉州为之歌曰： 游子常苦贫，力子天所富。
+宁见乳虎穴，不入冀府寺。
+大笑期必死，忿怒或见置。
+嗟我樊府君，安可再遭值！
+视事十四年，卒官。
+永平中，显宗追思晔在天水时政能，以为后人莫之及，诏赐家钱百万。
+子融，有俊才，好黄、老，不肯为吏。
+李章字第公，河内怀人也。
+五世二千石。
+章习《严氏春秋》，经明教授，历州郡吏。
+光武为大司马，平定河北，召章置江曹属，数从征伐。
+光武即位，拜阳平令。
+时赵、魏豪右往往屯聚，清河大姓赵纲遂于县界起坞壁，缮甲兵，为在所害。
+章到，乃设飨会，而延谒纲。
+纲带文剑，被羽衣，从士百余人来到。
+章与对宴饮，有顷，手剑斩纲，伏兵亦悉杀其从者，因驰诣坞壁，掩击破之，吏人遂安。
+迁千乘太守，坐诛斩盗贼过滥，征下狱免。
+translation: 
+He had a good relationship with Guangwu when he was young.
+At the beginning of Jianwu's reign, he was recruited to serve as a censor, promoted to captain of Hedong, and introduced in Yuntai.
+At first, when Guangwu was poor and humble, he was detained in Xinye for some reason. Fan Ye was appointed as a city official and sent a box of dry food to Guangwu. Guangwu was grateful for his kindness and did not forget it. He invited Fan Ye to eat many times and provided clothes for his carriage and horse.
+Because he joked: How about becoming a captain with a box of dry food?
+Fan Ye kowtowed in thanks.
+After arriving at the county, he punished Ma Shikuang and others. The thieves were eliminated, and the officials and the people were afraid of him.
+A few years later, he was promoted to the post of state animal husbandry and taught the people how to farm, plant trees and manage their families.
+After serving for more than ten years, he was demoted to Zhi County Magistrate for breaking the law.
+After Wei Xiao was eliminated, Longyou was uneasy, so he appointed Fan Ye as the prefect of Tianshui.
+He is strict and fierce in politics, likes to apply the law not to harm Han Fei, and makes quick decisions about good and evil.
+Anyone who violates his prohibition will never get out of prison alive. Officials, people, Qiang and Hu are all afraid of him.
+If something is lost on the road, no one will pick it up.
+At night, the traveler left his clothes and luggage by the roadside and said, "I have entrusted it to Duke Fan."
+Liangzhou people made a song saying: Wanderers are often poor, but hardworking people are naturally rich.
+I would rather see Ruhu's cave than enter Tianshui Temple.
+When you laugh, you will surely die; when you are angry, you may live.
+well! My Mr. Fan Mansion, where can I meet him again?
+He served for fourteen years and died in office.
+In Yongping, Xianzong recalled Fan Ye's political achievements when he was in Tianshui and believed that no future generation could catch up with him, so he ordered his family to be given millions of dollars.
+Zifan Rong was a talented man who liked the skills of Huangdi and Laozi, but he was unwilling to serve as an official.
+◆The biography of Li Zhang, whose courtesy name was Di Gong, was from Huai County, Hanoi County.
+The five generations of my family have had two thousand stones.
+Li Zhang studied "Yan's Spring and Autumn Annals". After the Ming Dynasty, he taught various students and served as state and county officials.
+Guangwu became the Grand Sima, and he pacified Hebei. He summoned Li Zhang to establish Dong Cao's vassal, and he led many expeditions from Guangwu.
+Guangwu became emperor and granted Li Zhang the title of Yangping Order.
+At this time, Zhao and Wei powerful men gathered together, and Zhao Gang, a surname of Qinghe, built dock walls at the county boundary, built weapons, and harmed the place.
+When Li Zhang arrived, he held a banquet and invited Zhao Gang to meet with him.
+Zhao Gang came with a sword and feathers and more than a hundred guards.
+Li Zhang drank with him, and after a while, Li Zhang killed Zhao Gang with his sword. The soldiers who had been ambushing him also came out and killed all Zhao Gang's guards. Then they ran to the wall of the dock and broke through it with a surprise attack. The officials and the people were in peace.
+The prefect of Shengqiancheng, because he was too indiscriminate in killing thieves, was conscripted into prison and relieved of the post of prefect.
+
+summary:
+summary line 3: Li Zhang, from Huai, studied Yan's Spring and Autumn Annals and served under Guangwu. As Yangping Order, he killed the powerful Zhao Gang at a banquet and pacified the area. As prefect of Langxie, he attacked rebels imprisoning the prefect, killing leader Xia Changsi. He was later conscripted for land measurement issues but released due to merit, dying of illness.
+
+Chunk 3: 
+original: 
+岁中拜侍御史，出为琅邪太守。
+时北海安丘大姓夏长思等反，遂囚太守处兴，而据营陵城。
+章闻，即发兵千人，驰往击之。
+掾史止章曰： 二千石行不得出界，兵不得擅发。
+章按剑怒曰： 逆虏无状，囚劫郡守，此何可忍！
+若坐讨贼而死，吾不恨也。
+遂引兵安丘城下，募勇敢烧城门，与长思战，斩之，获三百余级，得牛马五百余头而还。
+兴归郡，以状上帝，悉以所得班劳吏士。
+后坐度人田不实征，以章有功，但司冠论。
+月余免刑，归。
+复征，会病卒。
+周纟亏字文通，下邳徐人也。
+为人刻削少恩，好韩非之术。
+少为廷尉史。
+永平中，补南行唐长。
+到官，晓吏人曰： 朝廷不以长不肖，使牧黎民，而性仇猾吏，志除豪贼，且勿相试！
+遂杀县中尤无状者数十人，吏人大震。
+过博平令。
+收考奸臧，无出狱者。
+以威名迁齐相，亦颇严酷，专任刑法，而善为辞案条教，为州内所则。
+后坐杀无辜，复左转博平令。
+建初中，为勃海太守。
+每敕令到郡，辄隐闭不出，先遣使属县尽决刑罪，乃出诏书。
+坐征诣廷尉，免归。
+纟亏廉洁无资，常筑墼以自给，肃宗闻而怜之，复以为郎，再迁召陵侯相。
+廷掾惮纟亏严明，欲损其威，乃晨取死人断手足，立寺门。
+纟亏闻，便往至死人边。若与死人共语状。
+阴察视口眼有稻芒，乃密问守门人曰： 悉谁载藁入城者？
+门者对： 唯有廷掾耳。
+又问铃下： 外颇有疑令与死人语者不？
+对曰： 廷掾疑君。
+乃收廷掾考问，具服 不杀人，取道边死人。
+translation: 
+Half a year later, he was awarded the title of Censor and served as the prefect of Langxie.
+At this time, Xia Changsi and others from Anqiu, Beihai, rebelled, imprisoned the prefect Chu Xing, and occupied Yingling City.
+When Li Zhang got the news, he immediately sent thousands of troops to attack.
+Li Shi stopped Li Zhang and said: "Two thousand stones cannot go to the county, and the troops cannot be sent without permission."
+Li Zhang pressed his sword and became angry and said: The rebels are so bold that they imprison and rob the county guard. How can this be tolerated!
+If I die because of begging a thief, I will have no regrets!
+So he led his troops to Anqiu City, recruited some brave men to burn the city gate, fought with Changsi, killed Changsi, and returned with more than 300 heads and more than 500 oxen and horses.
+Chu Xing returned to the county, reported the incident to the emperor, and gave all the proceeds to the officials to comfort them.
+Later, because the land he measured was not real, he was conscripted. Because of Li Zhang's meritorious service, he was only served as a military commander and punished by sent to the border to guard against the enemy.
+He was released from prison more than a month later.
+He was drafted again and died of illness.
+◆Zhuan was passed down by Zhou Jin, whose courtesy name was Wentong. He was a native of Pixu.
+He is a man who carves out Shao En and likes Han Fei's magic.
+When he was young, he served as Tingwei Shi.
+In Yongpingzhong, he supplemented the southward line and headed the Tang Dynasty.
+After arriving in office, he told the officials: The court does not consider me unworthy and wants me to govern the people. I hate cunning officials by nature and am determined to get rid of the tyrants. Don't test the law by yourself!
+Because he killed dozens of particularly powerful bad guys in the county, the officials and the people were shocked.
+Promoted to Bo Ping Ling.
+No one can come out of prison alive when they hunt down hidden traitors.
+Because of his prestige, he was promoted to Qi Xiang, and he was also very strict. He specialized in the rule of law and was good at writing documents and regulations, which were the laws of the state.
+Later, because he killed an innocent person, he was demoted to Bo Ping Order again.
+He built a junior high school and served as the prefect of Bohai.
+Whenever the imperial court's pardon order came to the county, it was often kept secret and not announced. People were first sent to the subordinates to execute the criminals before the edict was announced.
+After being convicted, he was conscripted to the imperial court, dismissed from office and returned home.
+Zhou Jin was honest and had no property, so he often lived a brick-and-mortar life. Suzong heard about it, took pity on him, made him a man, and promoted him to the Prime Minister of Zhaoling.
+Ting Yu was afraid that Zhou Jin would be defeated by Yan Ming and wanted to frustrate his power, so he took a dead man early in the morning, cut off his limbs, and built a temple gate.
+Zhou Jinkui found out, so he walked to the dead man and pretended to talk to him.
+He secretly observed that there were rice awns in his mouth and eyes, so he secretly asked the gatekeeper: "Do you know who is carrying the rice draft into the city?"
+The gatekeeper replied: There is only Ting Yu.
+He also asked his disciples: Is there anyone outside who suspects that I am talking to the dead?
+He replied: Tingpu doubts you.
+So he arrested Ting Yu and tortured him, and he admitted: "If you don't kill people, you will kill people along the way."
+
+summary:
+summary line 4: Zhou Jin, from Pixu, liked Han Fei's methods. As a county official, he killed dozens of powerful bad guys. As Bo Ping Ling, no one left prison alive. He hid pardon orders to execute criminals first. He was dismissed for killing innocents but later promoted to Zhaoling Prime Minister. He exposed Ting Yu's deception and, as Luoyang Order, intimidated nobles. He clashed with Huangmenlang Dou Du, was imprisoned, pardoned, and later dismissed for harshness. He returned as Yushi Zhongcheng, but was removed again. He later impeached Xia Yanghou, becoming Sili Xiaowei, and died in office.
+
+Chunk 5: 
+original: 
+黄昌字圣真，会稽余姚人也。
+本出孤微。
+居近学官，数见诸生修庠序之礼，因好之，遂就经学。又晓习文法，仕郡为决曹。
+刺史行部，见昌，甚奇之，辟从事。
+后拜宛令，政尚严猛，好发奸伏。
+人有盗其车盖者，昌初无所言，后乃密遣亲客至门下贼曹家掩取得之，悉收其家，一时杀戮。
+大姓战惧，皆称神明。
+朝廷举能，迁蜀郡太守。
+先太守李根年老多悖政，百姓侵冤。
+及昌到，吏人讼者七百余人，悉为断理，莫不得所。
+密捕盗帅一人，胁使条诸县强暴之人姓名居处，乃分遣掩讨，无有遗脱。
+宿恶大奸，皆奔走他境。
+初，昌为州书佐，其妇归宁于家，遇贼被获，遂流转入蜀为人妻。
+妻子犯事，乃诣昌自讼。
+昌疑母不为蜀人，因问所由。对曰： 妾本会稽余姚戴次公女，州书佐黄昌妻也。
+妾尝归家，为贼所略，遂至于此。
+昌惊，呼前谓曰： 何以识黄昌邪？
+对曰： 昌左足心有黑子，常自言当为二千石。
+昌乃出足示之。
+因相持悲泣，还为夫妇。
+视事四年，征，再迁陈相。
+县人彭氏旧豪纵，造起大舍，高楼临道。
+昌每出行县，彭氏妇人辄升楼而观。
+昌不喜，遂敕收付狱，案杀之。
+又迁为河内太守，又再迁颍川太守。
+永和五年，征拜将作大匠。
+汉安元年，进补大司农，左转太中大夫，卒于官。
+阳球字方正，渔阳泉州人也。
+家世大姓冠盖。
+球能击剑，习弓马。
+性严厉，好申、韩之学。
+郡吏有辱其母者，球结少年数十人，杀吏，灭其家，由是知名。
+初举孝廉，补尚书侍郎，闲达故事，其章奏处议，常为台阁所崇信。
+出为高唐令，以严苛过理，郡守收举，会赦见原。
+辟司徒刘宠府，举高第。
+九江山贼起，连月不解。
+三府上球有理奸才，拜九江太守。
+球到，设方略，凶贼殄破，收郡中奸吏尽杀之。
+translation: 
+◆Huang Changzhuan, Huang Chang, courtesy name Shengzhen, was a native of Yuyao County, Kuaiji County.
+He was born into a humble and lonely family.
+Living near the school officials, I often saw students learning the etiquette of the school, so I loved learning, so I studied Confucian classics, scribes and laws, and served as a judge in the county.
+The governor went on a tour and saw Huang Chang, praised him and recommended him to work.
+Later, he served as magistrate of Wan County. He was strict and fierce in politics and liked to expose those hidden evildoers.
+Someone stole the hood of his car. Huang Chang didn't say anything at first. Later, he secretly sent relatives to the house of the person in charge of the thief. He caught him unawares and used lightning-fast means to catch him. He also arrested and killed his family members.
+All the noble families were afraid of him and called him a god.
+The imperial court elected talented people, and Huang Chang was promoted to the governor of Shu County.
+The former governor was old and his administration was chaotic, and the people suffered injustice.
+When Huang Chang took office, more than 700 people were sued by officials and people, and all of them were clearly dealt with, and none of them were handled improperly.
+A bandit leader was secretly arrested and forced to write down the names and addresses of the rapists in each county one by one. Then he sent people to arrest or attack them respectively, but no one escaped or ran away.
+Those big bad guys who were full of evil have gone to other counties.
+Previously, when Huang Chang was the secretary of the state, his wife returned to her parents' home. She was caught by a thief on the road, so she fled to Sichuan and got married.
+Her son committed a crime and had to go to Huang Chang to sue.
+Huang Chang suspected that his mother was not from Sichuan, so when he asked her about her situation, she replied: "I am the daughter of Dai Cigong of Yuyao, Kuaiji County, and the wife of Huang Chang, the secretary of the state."
+On the way home, he was captured by thieves and that's why he got here.
+Huang Chang was surprised and called her to him and said: How do you identify Huang Chang?
+She replied: Huang Chang has a sunspot on the center of his left foot. He once said that he would be an official with two thousand stones.
+Huang Chang then stretched out his left foot for her to see.
+So they hugged each other, wept, and became husband and wife again.
+After serving for four years, he was recruited by the imperial court and promoted to Chen Xiang.
+Peng, a native of the county, was an old powerful man. He built a very large house and the high-rise building was right next to the road.
+Whenever Huang Chang went out to inspect his work, Mrs. Peng would climb up to a high building to watch him.
+Huang Chang was unhappy and ordered her to be arrested, thrown into prison, interrogated and executed.
+He was promoted to the prefect of Hanoi, and then to the prefect of Yingchuan.
+In the fifth year of Yonghe's reign, he was recruited as a general and a master craftsman.
+In the first year of Han'an, Si Nong, the chief minister of tonics, was demoted to Taizhong doctor and died in office.
+◆Yang Qiu Chuan, whose courtesy name is Fangzheng, is from Quanzhou County, Yuyang County.
+It has been a family of surnames and bureaucrats for generations.
+He can fence and learn to ride and shoot.
+He is strict by nature and likes the teachings of Shen Buhai and Han Fei.
+A county official insulted his mother. Yang Qiu gathered dozens of young people to kill the official and his whole family, and he became famous.
+Initially, he was promoted to Xiaolian and served as Minister of the Secretariat. Yang Qiu is familiar with history, and his chapters and handling of matters are often praised and trusted by ministers.
+When he served as the magistrate of Gaotang County, he was arrested and punished by the county magistrate because of his harshness and harshness, and he happened to be pardoned.
+Zhengpi was appointed to Situ Liu Chong's Mansion and was rated as outstanding upon assessment.
+The thieves in the mountains of Jiujiang County were causing chaos, which has not subsided for several months.
+The three mansions of Taiwei, Situ and Sikong reported that Yang Qiu had the ability to deal with traitors and appointed him as the prefect of Jiujiang.
+When Yang Qiu took office, he devised a plan to eliminate the thieves, and arrested and executed all the officials who committed crimes in the county.
+
+summary:
+summary line 5: Huang Chang, from Kuaiji, studied Confucian classics and served as a judge. As magistrate of Wan, he exposed hidden evildoers, catching a thief who stole his hood. As governor of Shu, he handled over 700 lawsuits and arrested bandits. He reunited with his long-lost wife, captured by thieves. He executed Mrs. Peng for watching him from a high building. He served as prefect of Yingchuan and died as Taizhong doctor.
+
+Chunk 5: 
+original: 
+黄昌字圣真，会稽余姚人也。
+本出孤微。
+居近学官，数见诸生修庠序之礼，因好之，遂就经学。又晓习文法，仕郡为决曹。
+刺史行部，见昌，甚奇之，辟从事。
+后拜宛令，政尚严猛，好发奸伏。
+人有盗其车盖者，昌初无所言，后乃密遣亲客至门下贼曹家掩取得之，悉收其家，一时杀戮。
+大姓战惧，皆称神明。
+朝廷举能，迁蜀郡太守。
+先太守李根年老多悖政，百姓侵冤。
+及昌到，吏人讼者七百余人，悉为断理，莫不得所。
+密捕盗帅一人，胁使条诸县强暴之人姓名居处，乃分遣掩讨，无有遗脱。
+宿恶大奸，皆奔走他境。
+初，昌为州书佐，其妇归宁于家，遇贼被获，遂流转入蜀为人妻。
+妻子犯事，乃诣昌自讼。
+昌疑母不为蜀人，因问所由。对曰： 妾本会稽余姚戴次公女，州书佐黄昌妻也。
+妾尝归家，为贼所略，遂至于此。
+昌惊，呼前谓曰： 何以识黄昌邪？
+对曰： 昌左足心有黑子，常自言当为二千石。
+昌乃出足示之。
+因相持悲泣，还为夫妇。
+视事四年，征，再迁陈相。
+县人彭氏旧豪纵，造起大舍，高楼临道。
+昌每出行县，彭氏妇人辄升楼而观。
+昌不喜，遂敕收付狱，案杀之。
+又迁为河内太守，又再迁颍川太守。
+永和五年，征拜将作大匠。
+汉安元年，进补大司农，左转太中大夫，卒于官。
+阳球字方正，渔阳泉州人也。
+家世大姓冠盖。
+球能击剑，习弓马。
+性严厉，好申、韩之学。
+郡吏有辱其母者，球结少年数十人，杀吏，灭其家，由是知名。
+初举孝廉，补尚书侍郎，闲达故事，其章奏处议，常为台阁所崇信。
+出为高唐令，以严苛过理，郡守收举，会赦见原。
+辟司徒刘宠府，举高第。
+九江山贼起，连月不解。
+三府上球有理奸才，拜九江太守。
+球到，设方略，凶贼殄破，收郡中奸吏尽杀之。
+translation: 
+◆Huang Changzhuan, Huang Chang, courtesy name Shengzhen, was a native of Yuyao County, Kuaiji County.
+He was born into a humble and lonely family.
+Living near the school officials, I often saw students learning the etiquette of the school, so I loved learning, so I studied Confucian classics, scribes and laws, and served as a judge in the county.
+The governor went on a tour and saw Huang Chang, praised him and recommended him to work.
+Later, he served as magistrate of Wan County. He was strict and fierce in politics and liked to expose those hidden evildoers.
+Someone stole the hood of his car. Huang Chang didn't say anything at first. Later, he secretly sent relatives to the house of the person in charge of the thief. He caught him unawares and used lightning-fast means to catch him. He also arrested and killed his family members.
+All the noble families were afraid of him and called him a god.
+The imperial court elected talented people, and Huang Chang was promoted to the governor of Shu County.
+The former governor was old and his administration was chaotic, and the people suffered injustice.
+When Huang Chang took office, more than 700 people were sued by officials and people, and all of them were clearly dealt with, and none of them were handled improperly.
+A bandit leader was secretly arrested and forced to write down the names and addresses of the rapists in each county one by one. Then he sent people to arrest or attack them respectively, but no one escaped or ran away.
+Those big bad guys who were full of evil have gone to other counties.
+Previously, when Huang Chang was the secretary of the state, his wife returned to her parents' home. She was caught by a thief on the road, so she fled to Sichuan and got married.
+Her son committed a crime and had to go to Huang Chang to sue.
+Huang Chang suspected that his mother was not from Sichuan, so when he asked her about her situation, she replied: "I am the daughter of Dai Cigong of Yuyao, Kuaiji County, and the wife of Huang Chang, the secretary of the state."
+On the way home, he was captured by thieves and that's why he got here.
+Huang Chang was surprised and called her to him and said: How do you identify Huang Chang?
+She replied: Huang Chang has a sunspot on the center of his left foot. He once said that he would be an official with two thousand stones.
+Huang Chang then stretched out his left foot for her to see.
+So they hugged each other, wept, and became husband and wife again.
+After serving for four years, he was recruited by the imperial court and promoted to Chen Xiang.
+Peng, a native of the county, was an old powerful man. He built a very large house and the high-rise building was right next to the road.
+Whenever Huang Chang went out to inspect his work, Mrs. Peng would climb up to a high building to watch him.
+Huang Chang was unhappy and ordered her to be arrested, thrown into prison, interrogated and executed.
+He was promoted to the prefect of Hanoi, and then to the prefect of Yingchuan.
+In the fifth year of Yonghe's reign, he was recruited as a general and a master craftsman.
+In the first year of Han'an, Si Nong, the chief minister of tonics, was demoted to Taizhong doctor and died in office.
+◆Yang Qiu Chuan, whose courtesy name is Fangzheng, is from Quanzhou County, Yuyang County.
+It has been a family of surnames and bureaucrats for generations.
+He can fence and learn to ride and shoot.
+He is strict by nature and likes the teachings of Shen Buhai and Han Fei.
+A county official insulted his mother. Yang Qiu gathered dozens of young people to kill the official and his whole family, and he became famous.
+Initially, he was promoted to Xiaolian and served as Minister of the Secretariat. Yang Qiu is familiar with history, and his chapters and handling of matters are often praised and trusted by ministers.
+When he served as the magistrate of Gaotang County, he was arrested and punished by the county magistrate because of his harshness and harshness, and he happened to be pardoned.
+Zhengpi was appointed to Situ Liu Chong's Mansion and was rated as outstanding upon assessment.
+The thieves in the mountains of Jiujiang County were causing chaos, which has not subsided for several months.
+The three mansions of Taiwei, Situ and Sikong reported that Yang Qiu had the ability to deal with traitors and appointed him as the prefect of Jiujiang.
+When Yang Qiu took office, he devised a plan to eliminate the thieves, and arrested and executed all the officials who committed crimes in the county.
+
+summary:
+summary line 6: Yang Qiu, from Yuyang, was strict and liked Shen Buhai and Han Fei. He killed a county official who insulted his mother. As prefect of Jiujiang, he eliminated thieves and executed corrupt officials. He was dismissed for cruelty but later promoted to Yilang. As Sili Xiaowei, he arrested and tortured Wang Fu and his son, tearing Wang Fu's body apart. He attempted to impeach Cao Jie but was demoted to Weiwei. He was later executed for plotting against eunuchs.
+
+Chunk 7: 
+original: 
+于是悉收甫、颎等送洛阳狱，及甫子永乐少府萌、沛相吉。
+球自临考甫等，五毒备极。
+萌谓球曰： 父子既当伏诛，少以楚毒假借老父。 。
+球曰： 若罪恶无状，死不灭责，乃欲求假借邪？
+萌乃骂曰： 尔前奉事吾父子如奴，如敢反汝主乎！
+今日困吾，行自及也！
+球使以土窒萌口，箠朴交至，父子悉死杖下。
+颎亦自杀。
+乃僵磔甫尸于夏城门，大署榜曰 贼臣王甫 。
+尽没入财产，妻、子皆徙比景。
+球既诛甫，复欲以次表曹节等，乃敕中都官从事曰： 且先去大猾，当次案豪右。
+权门闻之，莫不屏气。
+诸奢饰之物，皆各缄滕，不敢陈设。京师畏震。
+时，顺帝虞贵人葬，百官会丧还，曹节见磔甫尸道次，慨然抆泪曰： 我曹自可相食，何宜使犬舐其汁乎？
+语诸常侍，今且俱人，勿过里舍也。
+节直入省，白帝曰： 阳球故酷暴吏，前三府奏当免官，以九江微功，复见擢用。
+愆过之人，好为妄作，不宜使在司隶，以骋毒虐。
+帝乃徙球为卫尉。
+时，球出谒陵，节敕尚书令召拜，不得稽留尺一。
+球被召急，因求见帝，叩头曰： 臣无清高之行，横蒙鹰犬之任。前虽纠诛王甫、段颎、盖简落狐狸，未足宣示天下。
+愿假臣一月，必令豺狼鸱枭，各服其辜。
+叩头流血。殿上呵叱曰： 卫尉扞诏邪！
+至于再三，乃受拜。
+其冬，司徒刘郃与球议收案张让、曹节，节等知之，共诬白郃等。
+语已见《陈球传》。
+遂收球送洛阳狱，诛死，妻、子徙边。
+王吉者，陈留浚仪人，中常侍甫之养子也。
+甫在《宦者传》。
+吉少好诵读书传，喜名声，而性残忍。
+以父秉权宠，年二十余，为沛相。
+translation: 
+Wang Fu was on vacation at home, and Yang Qiu went to the palace to express his gratitude to Emperor Shun. He petitioned Wang Fu and the eunuchs Chun Yudeng, Yuan She, Feng Yueyu and other flattering eunuchs to be arrested and executed together. So Wang Fu, Duan Zhen, Wang Fu's son Yongle Shaofu Wang Meng, and Pei Guo Xiang Wang Ji were arrested and escorted to Luoyang Prison.
+Yang Qiu personally interrogated, using all five torture instruments including whip, beating, burning, Hui, and ink to the extreme.
+Wang Meng said to Yang Qiu: Since my father and son deserve to die, please be kind to me and use less physical punishment.
+Yang Qiu said: You have committed a heinous crime and deserved to die. Do you still want to be treated leniently?
+Then Wang Meng cursed: "You used to serve our father and son like slaves. How dare a slave oppose his master?"
+Torture me today, it will be your turn soon!
+Yang Qiu ordered people to block Wang Meng's mouth with soil and hit him with sticks. Both father and son died under the sticks.
+Duan Yu also committed suicide.
+So Yang Qiu tore Wang Fu's body apart at the gate of Xia City and wrote "The Thief Wang Fu" on the list.
+All Wang Fu's property was confiscated, and his wife and children all moved to Bijing County.
+After Yang Qiu killed Wang Fu, he still wanted to impeach Cao Jie and others one by one, so he ordered Zhongdu officials to engage in the investigation and said: "We will get rid of the big bullies first, and the next step is to interrogate the powerful ones."
+After hearing this, no one from the wealthy family dared to say a word.
+All kinds of luxurious and gorgeous things were sealed and collected, and they did not dare to be displayed again. The capital was afraid of being shocked.
+At that time, Emperor Shun's nobleman Yu was buried, and all the officials returned to the city after attending the funeral. When Cao Jie saw Wang Fu's broken body on the roadside, he sadly wiped his tears and said: We can eat each other ourselves, how can we let dogs lick his blood?
+Tell all the attendants to go back to the palace for the time being and not to go back home.
+Cao Jie went straight to the palace and reported to Emperor Ling: Yang Qiu was originally a cruel official. He should be removed from office after being impeached by the previous three divisions. Because of Jiujiang's small contribution, he was promoted and used.
+Sinful people often act recklessly and are not suitable to serve as Sili Xiaowei, which allows him to be cruel and tyrannical.
+So Emperor Ling demoted Yang Qiu to Weiwei.
+At this time, Yang Qiu was going out to visit the emperor's mausoleum. Cao Jie instructed Shangshu to recall him for official appointment and not to delay the issuance of the edict.
+Yang Qiu was urgently recalled and asked to see Emperor Ling. He kowtowed to Emperor Ling and said, "I have no high moral character and was entrusted with the important task of fighting evil. Although I had killed Wang Fu and Duan Zhen before, I had left out foxes like Cao Jie, which was not enough to show the sage of the court to the world."
+Please give me one month, and I will make sure that all the wolves, owls, and owls plead guilty.
+Yang Qiu kowtows and bleeds, and the palace yells: Weiwei Yang Qiu resists the imperial edict?
+After repeated scoldings, Yang Qiu accepted the appointment as a guard.
+In the winter of this year, Situ Liu and Yang Qiu discussed arresting Zhang Rang and Cao Jie. Cao Jie and others found out about it and jointly framed Liu and others.
+This matter has been seen in "The Biography of Chen Qiu".
+So Yang Qiu was arrested and sent to Luoyang prison and executed. His wife and children were exiled to the frontier.
+◆Biography of Wang Ji, Wang Ji was born in Junyi County, Chenliu County, and was the adopted son of Wang Fu, a regular servant.
+Wang Fu in "Eunuch Biography".
+When Wang Ji was young, he liked to read biographies and gained a good reputation, but his temperament was very cruel.
+Because his father was powerful and favored by the emperor, he was appointed Prime Minister Pei when he was in his twenties.
+
+summary:
+summary line 7: Wang Ji, adopted son of Wang Fu, was cruel as Prime Minister Pei. He killed over 10,000 people in five years, using harsh methods like killing parents who didn't raise children. He was detained and died in Luoyang prison when Yang Qiu impeached Wang Fu.
+
+Chunk 8: 
+original: 
+晓达政事，能断察疑狱，发起奸伏，多出众议。
+课使郡内各举奸吏豪人诸常有微过酒肉为臧者，虽数十年犹如贬弃，注其名籍。
+专选剽悍吏，击断非法。
+若有生子不养，即斩其父母，合土棘埋之。
+凡杀人皆磔尸车上，随其罪目。宣示属县。
+夏月腐烂，则以绳连其骨，周遍一郡乃止，见者骇惧。
+视事五年，凡杀万余人。
+其余惨毒刺刻，不可胜数。
+郡中惴恐，莫敢自保。
+及阳球奏甫，乃就收执，死于洛阳狱。
+论曰：古者郭厖，善恶易分。
+至于画衣冠，异服色，而莫之犯。
+叔世偷薄，上下相蒙，德义不足以相洽，化导不能以惩违，遂乃严刑痛杀，随而绳之，致刻深之吏，以暴理奸，倚疾邪之公直，济忍苛之虐情。
+汉世所谓酷能者，盖有闻也。
+皆以敢捍精敏，巧附文理，风行霜烈，威誉喧赫。
+与夫断断守道之吏，何工否之殊乎！
+故严君蚩黄霸之术，密人笑卓茂之政，猛既穷矣，而犹或未胜。
+然朱邑不以笞辱加物，袁安未尝鞫人臧罪，而猾恶自禁，人不敢犯。
+何者？
+以为威辟既用，而苟免这行兴；仁信道孚，故感被之情著。
+苟免者威隙则奸起，感被者人亡而思存。
+由一邦以言天下，则刑讼繁措，可得而求乎！
+translation: 
+He is well versed in political affairs, can judge and investigate difficult cases, and expose evil and hidden villains. He is smarter than ordinary people.
+The county was ordered to arrest traitors and powerful people, and there were often those who had stolen wine and meat as stolen goods. Even though they happened decades ago, they were derogated and their names were cancelled.
+A group of tough officials are specially selected to fight against illegal activities.
+If a child is born and cannot be raised, the parents are killed and buried in earth.
+Anyone who kills someone will put his body in a car, announce his crime, and declare that he belongs to the county.
+In the summer months, when the weather was hot and the corpses were rotting, they tied the bones together with ropes and traveled all over the county. Everyone who saw them was frightened.
+During his five years in office, he killed more than 10,000 people.
+There are countless other cruel and cruel things.
+The county is fearful, everyone is in danger and dare not protect themselves.
+When Yang Qiu impeached Wang Fu, he was detained and died in Luoyang prison.
+The historian commented: People in ancient times were generous and could easily distinguish between good and evil.
+If you commit a crime, if you dress in a different color, you will not dare to commit a crime.
+In the last days, customs have become weak, superiors and inferiors are bullying each other, morality and justice cannot make people live in harmony, and transformation is not enough to punish evil, so they use severe torture and killing, and deal with them at any time, which leads to profound officials to rape according to violence and justice, relying on their impartiality to hate evil and evil, and encourage cruel cruelty.
+There were quite a few capable people in the Han Dynasty.
+It's all because of his courage to defend, his dexterity, his skill in grammar, his resolute actions, and his reputation.
+Why is there such a big difference between the good and bad of officials who are dedicated to keeping the law?
+Therefore, Yan Yannian sneered at Huang Ba's treatment of forgiveness, and people in Mi County laughed at Shan Mao's extreme measures, which could not cure him.
+However, Zhu Yi did not use flogging to humiliate people, and Yuan An did not use Zang to accuse people, but cunning and evil were naturally prohibited, and people did not dare to bully them.
+Why is this?
+Because the power and punishment have been used, sloppy behavior has arisen, and the way of benevolence and faith has been felt by people.
+For those who are lucky enough, their evil intentions will arise again in the gap of power; for those who are inspired, their thoughts will remain even though they are gone.
+From one state to the whole world, we can know the gains and losses of numerous punishments and lawsuits.
+
+summary:
+summary line 8: The historian commented that ancient people were generous, but in later times, severe torture and killing led to cruel officials. Some were brave and skilled, but their methods varied. Power and punishment caused sloppy behavior, while benevolence and faith could prevent evil. The gains and losses of numerous punishments and lawsuits could be understood from one state to the whole world.
+

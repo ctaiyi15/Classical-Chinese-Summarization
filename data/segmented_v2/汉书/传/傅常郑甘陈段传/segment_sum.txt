@@ -1,0 +1,399 @@
+Summary uses chunk [0, 1, 2, 2, 9, 10, 2]
+
+Chunk 0: 
+original: 
+傅介子，北地人也，以从军为官。
+先是，龟兹、楼兰皆尝杀汉使者，语在《西域传》。
+至元凤中，介子以骏马监求使大宛，因诏令青楼兰、龟兹国。
+介子至楼兰，责其王教匈奴遮杀汉使： 大兵方至，王苟不教匈奴，匈奴使过至诸国，何为不言？
+王谢服，言： 匈奴使属过，当至乌孙，道过龟兹。
+介子至龟兹，复责其王，王亦服罪。
+介子从大宛还到龟兹，龟兹言： 匈奴使从乌孙还，在此。
+介子因率其吏士共诛斩匈奴使者。
+还奏事，诏拜介子为中郎，迁平乐监。
+介子谓大将军霍光曰： 楼兰、龟兹数反复而不诛，无所惩艾。
+介子过龟兹时，其王近就人，易得也，愿往刺之，以威示诸国。
+大将军曰： 龟兹道远，且验之于楼兰。
+于是白遣之。
+介子与士卒俱赍金币，扬言以赐外国为名。
+至楼兰，楼兰王意不亲介子，介子阳引去，至其西界，使译谓曰： 汉使者持黄金、锦绣行赐诸国，王不来受，我去之西国矣。
+即出金币以示译。
+译还报王，王贪汉物，来见使者。
+介子与坐饮，陈物示之。
+饮酒皆醉，介子谓王曰： 天子使我私报王。
+王起随介子入帐中，屏语，壮士二人从后刺之，刃交胸，立死。
+其贵人左右皆散走。
+介子告谕以： 王负汉罪，天子遣我业诛王，当更立前太子质在汉者。
+汉兵方至，毋敢动，动，灭国矣！
+遂持王首还诣阙，公卿将军议者咸嘉其功。
+translation: 
+Fu Jiezi was from the North and was promoted to an official because he joined the army.
+It turns out that both Qiuci and Loulan had killed envoys of the Han Dynasty, which was recorded in "Biography of the Western Regions".
+During the Yuanfeng period, Fu Jiezi requested to be sent to Dayuan as an envoy of Junma, and took the emperor's Shao letter to condemn Loulan and Qiuci.
+When Fu Jiezi arrived in Loulan, he blamed the King of Loulan for encouraging the Huns to intercept and kill the Han Dynasty envoys. He said: The large army is about to arrive. If you don't encourage the Huns, why don't you report the Huns' envoys to other countries after passing through?
+King Loulan expressed his guilt and said: The Huns envoy has just passed by. He should have gone to Wusun and passed through Qiuci on the way.
+When Fu Jiezi arrived at Kucha, he blamed the King of Kucha again, and the King of Kucha also admitted his guilt.
+Fu Jiezi returned to Kucha from Dayuan. The Kucha people said that the Huns envoy was here after returning from Wusun.
+Fu Jiezi took the opportunity to lead his officers and soldiers to kill the Huns envoy.
+Fu Jiezi returned to the capital to report the situation, and the emperor issued an edict appointing him as Zhonglang and promoted him to Ping Yue Supervisor.
+Fu Jiezi said to the general Huo Guang: Loulan and Qiuci have been capricious many times but have not been condemned. They cannot be used to punish other countries.
+When I passed through Qiuci, their king was very close to others and could easily be attacked. I was willing to go and assassinate him, so as to establish my prestige and announce it to other countries.
+The general said: "Qiuci country is far away, so let's go to Loulan to test this method for now."
+So he told the emperor to send him there.
+Fu Jiezi and the soldiers brought gold and silver coins together, claiming that they were gifts to foreign countries.
+When they arrived at Loulan, King Loulan seemed unwilling to get close to Fu Jiezi, so Fu Jiezi pretended to leave. After arriving at the western border of Loulan, Fu Jiezi ordered an interpreter to say to King Loulan: The envoys of the Han Dynasty traveled around with gold and brocade to give to various countries. If the king does not come to receive the gift, I will leave for the country to the west.
+He immediately took out the gold coins and showed them to the translator.
+The translator came back and reported the situation to King Loulan. King Loulan was greedy for the property of the Han Dynasty, so he came to meet the envoy.
+Fu Jiezi sat drinking with him and showed him his belongings.
+After drinking, Fu Jiezi was drunk and said to King Loulan: The emperor sent me to report some things to the king privately.
+King Loulan got up and followed Fu Jiezi into the tent. The two were talking alone. Two strong men stabbed King Loulan from behind. The blades met in the chest. King Loulan died immediately.
+His nobles and left and right officials all fled.
+Fu Jiezi told them that King Loulan was guilty of the Han Dynasty, and the emperor sent me to kill him. The prince who had been left as a hostage in the Han Dynasty should be replaced as king.
+The Han army has just arrived. Don't act rashly. If you make any move, your country will be wiped out!
+After that, he took the head of King Loulan back to Beijing to deliver the order. The ministers, generals and others all praised his achievements.
+
+summary:
+summary line 0: Fu Jiezi, from the North, became an official through military service. During the Yuanfeng period, he was sent as an envoy to Dayuan and condemned the kings of Loulan and Qiuci for killing Han envoys. After returning, he proposed to General Huo Guang to assassinate the King of Loulan to establish Han prestige. Huo Guang agreed, and Fu Jiezi used gold and silk as bait to lure the king. During a private meeting, two soldiers stabbed the king to death. Fu Jiezi declared the king's guilt and installed a new ruler. He was rewarded with the title of Marquis of Yiyang and 700 households. His title was later abolished due to his son's crime but restored under Wang Mang.
+
+Chunk 1: 
+original: 
+上乃下诏曰： 楼兰王安归尝为匈奴间，候遮汉使者，发兵杀略卫司马安乐、光禄大夫忠、期门郎遂成等三辈，及安息、大宛使，盗取节印、献物，甚逆天理。
+平乐监傅介子持节使诛斩楼兰王安归首，县之北阙，以直报怨，不烦师从。
+其封介子为义阳侯，食邑七百户。
+士刺王者皆补侍郎。
+介子薨，子敞有罪不得嗣，国除。
+元始中，继功臣世，复封介子曾孙长为义阳侯，王莽败，乃绝。
+常惠，太原人也。
+少时家贫，自奋应募，随移中监苏武使匈奴，并见拘留十余年，昭帝时乃还。
+汉嘉其勤劳，拜为光禄大夫。
+是时，乌孙公主上书言： 匈奴发骑田车师，车师与匈奴为一，共侵乌孙，唯天子救之！ 汉养士马，议欲击匈奴。
+会昭帝崩，宣帝初即位，本始二年，遣惠使乌孙。
+公主及昆弥皆遣使，因惠言： 匈奴连发大兵击乌孙，取车延、恶师地，收其人民去，使使胁求公主，欲隔绝汉。
+昆弥愿发国半精兵，自给人马五万骑，尽力击匈奴。
+唯天子出兵以救公主、昆弥！
+于是汉大发十五万骑，五将军分道出，语在《匈奴传》。
+以惠为校尉，持节护乌孙兵。
+昆弥自将翕侯以下五万余骑，从西方入至右谷蠡庭，获单于父行及嫂居次，名王骑将以下三万九千人，得马、牛、驴、骡、橐佗五万余匹，羊六十余万头，乌孙皆自取卤获。
+惠从吏卒十余人随昆弥还，未至乌孙，乌孙人盗惠印绶节。
+惠还，自以当诛。
+时，汉五将皆无功，天子以惠奉使克获，遂封惠为长罗侯。
+复遣惠持金币还赐乌孙贵人有功者，惠因奏请龟兹国尝杀校尉赖丹，未伏诛，请便道击之，宣帝不许。
+大将军霍光风惠以便宜从事。
+惠与吏士五百人俱至乌孙，还过，发西国兵二万人，令副使发龟兹东国二万人，乌孙兵七千人，从三面攻龟兹，兵未合，先遣人责其王以前杀汉使状。
+王谢曰： 乃我先王时为贵人姑翼所误耳，我无罪。
+惠曰： 即如此，缚姑翼来，吾置王。
+王执姑翼诣惠，惠斩之而还。
+后代苏武为典属国，明习外国事，勤劳数有功。
+甘露中，后将军赵充国薨，天子遂以惠为右将军，典属国如故。
+宣帝崩，惠事元帝，三岁薨，谥曰壮武侯。
+translation: 
+The emperor then issued an edict saying: King Angui of Loulan had acted as a spy for the Huns, secretly spying on the envoys of the Han Dynasty, and sent troops to kill and plunder three guards, including Ma Anle, Guanglu Dafuzhong, and Qi Menlang Suicheng, as well as envoys from Anxi and Dawan.
+Fu Jiezi, the supervisor of Pingle, went out as an envoy with the talisman and killed King Angui of Loulan. He hung his head on the north tower and repaid the resentful people with integrity without disturbing the troops and stirring up the crowd.
+Fu Jiezi was granted the title of Marquis of Yiyang and given to 700 households in the city.
+Among the soldiers who assassinated King Loulan, they all replaced their officials as ministers.
+After Fu Jiezi died, his son Fu Chang was guilty and could not inherit the title, and the feudal state was abolished.
+In the middle of the first year of the Yuan Dynasty, the descendants of the heroes were renewed, and Fu Chang, the great-grandson of Fu Jiezi, was granted the title of Marquis of Yiyang. It was only after Wang Mang's failure that the throne was cut off.
+Chang Hui is from Taiyuan.
+When he was young, his family was poor, so he volunteered to join the army. He followed Su Wu, the eunuch of Zhizhong, on an envoy to the Huns. They were detained by the Huns for more than ten years and were not able to return until Emperor Zhao.
+In order to reward his hard work, the Han Dynasty appointed him Guanglu Doctor.
+At this time, Princess Wusun wrote a letter saying: The Xiongnu mobilized their cavalry to colonize the Che Division. The Che Division and the Xiongnu army merged into one to jointly invade Wusun. I hope the emperor will come to rescue us. The Han Dynasty recruited troops and raised horses, and discussed preparations to attack the Xiongnu.
+After the death of Emperor Zhao, Emperor Xuan had just ascended the throne. In the second year of his reign, Chang Hui was sent as envoy to Wusun.
+Princess Wusun and King Wusun both sent envoys to the court, and wrote through Chang Hui that the Xiongnu sent large troops to attack Wusun one after another, captured Cheyan, Eshi and other places, and robbed all the local people. They also sent envoys to threaten to marry Wusun Gonggui, in an attempt to isolate Banjie from Xuansu.
+King Wu Zhu was willing to recruit half of the elite troops in the country, equip himself with 50,000 soldiers and horses, and do his best to attack the Xiongnu.
+I hope the emperor will send troops to save the princess and King Wusun!
+So the Han Dynasty mobilized a large scale of 150,000 cavalry, and the five generals set off in separate directions. This incident was recorded in "The Biography of the Xiongnu".
+Chang Hui was appointed as the captain of the school and commanded Wusun's army with the talisman.
+King Wusun himself led more than 50,000 cavalrymen under Linghou to march from the west to Yougu Liting, and captured Chanyu's father and his entourage, his sister-in-law and princess, famous princes, cavalry generals and 39,000 subordinates, and captured more than 50,000 horses, oxen, donkeys, mules, camels, and more than 600,000 sheep. Wusun took the captured things himself.
+Jusai led more than a dozen officers and soldiers to return to the army with King User. Before arriving at Wusun, the Wusun people stole Chang Hui's official seal and talisman.
+Chang Hui returned to the capital, thinking that he would be beheaded.
+At that time, the five generals of the Han Dynasty had no merit. The emperor felt that Chang Hui's mission was successful, so he named him Changluo Hou.
+He also sent Chang Hui back with gold silk ribbons to reward Wusun dignitaries and meritorious people. Chang Hui took the opportunity to report that the Kucha Kingdom had killed the captain Lai Dan and did not punish them. Please go and attack Kucha. Emperor Xuan did not agree.
+General Huo Guang hinted that Chang Hui would make his own decisions based on the situation.
+Chang Hui arrived at the Wusun Kingdom with 500 officers and soldiers. When he came back and passed by Kucha, he recruited 20,000 troops from the western country. He ordered his deputy to send 20,000 troops from Kucha to tie up the country. Wusun sent 7,000 troops to attack Kucha from three sides. Before the army could gather together, they sent someone to accuse King Qiuci of killing the envoys of the Han Dynasty in the past.
+King Qiuci apologized and said: This is the result of being harmed by the noble Gu Yi when I was the late king. I am not guilty.
+Chang Hui said: Even so, Gu Yi must be tied up, and I can let the king go.
+King Qiuci tied up Guyi and took him to Chang Hui. Chang Hui killed Guyi and went back.
+Later, Chang Hui replaced Su Wu as the vassal state. He was familiar with the situation in foreign countries and worked hard many times with meritorious deeds.
+In the middle of the year of Ganlu, the later general Zhao Chongguo passed away, and the emperor appointed Limulus Tomb as the right general, and the official position of the Dian vassal state remained as before.
+When Emperor Xuan died, Chang Hui served Emperor Yuan. He died three years later, and his nickname was Zhuang Genyao.
+
+summary:
+summary line 1: Chang Hui, from Taiyuan, was detained by the Xiongnu for over a decade while accompanying Su Wu. After Emperor Zhao's reign, he was sent to Wusun, where he coordinated a joint Han-Wusun attack on the Xiongnu, resulting in significant victories. He later executed a noble from Qiuci for killing a Han captain. Chang Hui succeeded Su Wu as a vassal state official and served under Emperors Xuan and Yuan, earning the posthumous title Zhuang Genyao.
+
+Chunk 2: 
+original: 
+传国至曾孙，建武中乃绝。
+郑吉，会稽人也，以卒伍从军，数出西域，由是为郎。
+吉为人强执，习外国事。
+自张骞通西域，李广利征伐之后，初置校尉，屯田渠黎。
+至宣帝时，吉以侍郎田渠黎，积谷，因发诸国兵攻破车师，迁卫司马，使护鄯善以西南道。
+神爵中，匈奴乖乱，日逐王先贤掸欲降汉，使人与吉相闻。
+吉发渠黎、龟兹诸国五万人迎日逐王，口万二千人、小王将十二人随吉至河曲，颇有亡者，吉追斩之，遂将诣京师。
+汉封日逐王为归德侯。
+吉既破车师，降日逐，威震西域，遂并护车师以西北道，故号都护。
+都护之置自吉始焉。
+上嘉其功效，乃下诏曰： 都护西域骑都尉郑吉，拊循外蛮，宣明威信，迎匈奴单于从兄日逐王众，击破车师兜訾城，功效茂著。
+其封吉为安远侯，食邑千户。
+吉于是中西或则立莫府，治乌垒城，镇抚诸国，诛伐怀集之。
+汉之号令班西域矣，始自张骞而成于郑吉。语在《西域传》。
+吉薨，谥曰缪侯。
+子光嗣，薨，无子，国除。
+元始中，录功臣不以罪绝者，封吉曾孙永为安远侯。
+甘延寿字君况，北地郁郅人也。
+少以良家子善骑射为羽林，投石拔距绝于等伦，尝超逾羽林亭楼，由是迁为郎。
+试弁，为朝门，以材力爱幸。
+稍迁至辽东太守，免官。
+车骑将军许嘉荐延寿为郎中，谏大夫，使西域都护、骑都尉，与副校尉陈汤共诛斩郅支单于，封义成侯。
+薨，谥曰壮侯。
+传国至曾孙，王莽败，乃绝。
+陈汤字子公，山阳瑕兵人也。
+少好书，博达善属文。
+家贫丐贷无节，不为州里所称。
+translation: 
+The feudal state was passed down to the great-grandson, and was discontinued in the middle of Jianwu year.
+Zheng Ji is from Kuaiji. Because he served in the army and went on several missions to Yousu, he was named Lang.
+Dian Mu is a strong and persistent person and is familiar with foreign affairs.
+Since the fortress was connected to Youqiu and Kui Luxing was conquered, school captains were set up to work in Quli.
+At the time of Emperor Xuan, Zheng Ji worked in Quli as a minister and accumulated grain. He then mobilized armies from various countries to defeat the chariot division. He was promoted to Sima of the Guard and sent to guard the southern road west of Shanshan.
+In the middle of the year of Shenjue, internal turmoil broke out among the Xiongnu. The Xianxian Shan, the king of Chu, planned to surrender to the Han Dynasty and sent someone to contact Zheng Ji.
+Zheng Ji mobilized 50,000 people from Quli, Qiuci and other countries to meet King Yue Zhu. There were 12,000 people. Xiao Wang sent 12 people to follow Zheng Ji to Hequ. Many people fled. Zheng Ji chased these people and killed them, and then brought the remaining people to the capital.
+Emperor Mo granted King Ri Zhu the title of Marquis of Guide.
+After Zheng Ji defeated the chariot division, he surrendered and surrendered to the king. His reputation shocked the Western Regions, so he also took charge of the North Road to the west of the chariot division, so he was known as the Protector.
+The establishment of Duhu began with Zheng Ji.
+In order to commend him for his achievements, the emperor issued an edict saying: Zheng Ji, the captain of the cavalry in the Western Regions, appeased the foreign barbarians, declared his hope and credibility, welcomed the cousin of the Xiongnu Chanyu, King Ri Zhu, and his men, and attacked the Cheshi Douzi City, which was a remarkable achievement.
+Zheng Ji was granted the title of Marquis of Anyuan, and was granted food to 1,000 households in the city.
+Zheng Ji then established a shogunate in the center of various countries in the Western Regions, and the official office was in Wulei City to pacify the various countries, kill, conquer, appease and recruit them.
+The orders of the Han Dynasty were issued to the Western Regions, and construction was started by Zhang Qian and completed by Zheng Ji. These are recorded in the "Biography of the Western Regions".
+After Zheng Ji passed away, he was given the title of Marquis Mu.
+His son Zheng Guang inherited the title, but he died without a son and the feudal state was abolished.
+In the middle of the first year of the Yuan Dynasty, among the meritorious officials who were not expelled due to crimes, Zheng Yong, the great-grandson of Zheng Ji, was granted the title of Marquis of Anyuan.
+Gan Yanshou, courtesy name Junkuang, was from Yuzhi in the north.
+When he was young, he was selected as Yu Lin because he was good at horseback riding and archery. His skills in throwing stones and jumping were unparalleled among his peers. He once jumped into Yu Lin's pavilion, so he was promoted to Lang.
+After testing his hand-fighting skills, he was appointed as a disciple. He relied on his strength and was favored.
+Soon he was transferred to the post of governor of Liaodong and was dismissed.
+The cavalry general Xu Jia recommended Gan Yanshou as a doctor and admonished the doctor. He went to the Western Regions as an envoy to protect the cavalry captain. Together with the deputy captain Chen Tang, he killed Zhizhi Shanyu and was named Yichenghou.
+After Gan Yanshou died, Mi was named Zhuanghou.
+The feudal state was passed down to his great-grandson. After Wang Mang failed, the feudal state was ended.
+Chen Tang, whose courtesy name is Zigong, is from Shanyang Xiaqiu.
+When he was young, he liked to read, he was knowledgeable and well-versed in affairs, and he could write good articles.
+The family was poor and relied on begging and borrowing money to make a living. He had no moral integrity and was not praised by the people in the state.
+
+summary:
+summary line 2: Zheng Ji, from Kuaiji, served as a military officer and became an expert in foreign affairs. He established agricultural colonies in Quli and defeated the Che division, earning the title of Protector of the Western Regions. He was granted the title of Marquis of Anyuan with 1,000 households. His son died without an heir, ending the title, but it was later restored to his great-grandson.
+
+Chunk 2: 
+original: 
+传国至曾孙，建武中乃绝。
+郑吉，会稽人也，以卒伍从军，数出西域，由是为郎。
+吉为人强执，习外国事。
+自张骞通西域，李广利征伐之后，初置校尉，屯田渠黎。
+至宣帝时，吉以侍郎田渠黎，积谷，因发诸国兵攻破车师，迁卫司马，使护鄯善以西南道。
+神爵中，匈奴乖乱，日逐王先贤掸欲降汉，使人与吉相闻。
+吉发渠黎、龟兹诸国五万人迎日逐王，口万二千人、小王将十二人随吉至河曲，颇有亡者，吉追斩之，遂将诣京师。
+汉封日逐王为归德侯。
+吉既破车师，降日逐，威震西域，遂并护车师以西北道，故号都护。
+都护之置自吉始焉。
+上嘉其功效，乃下诏曰： 都护西域骑都尉郑吉，拊循外蛮，宣明威信，迎匈奴单于从兄日逐王众，击破车师兜訾城，功效茂著。
+其封吉为安远侯，食邑千户。
+吉于是中西或则立莫府，治乌垒城，镇抚诸国，诛伐怀集之。
+汉之号令班西域矣，始自张骞而成于郑吉。语在《西域传》。
+吉薨，谥曰缪侯。
+子光嗣，薨，无子，国除。
+元始中，录功臣不以罪绝者，封吉曾孙永为安远侯。
+甘延寿字君况，北地郁郅人也。
+少以良家子善骑射为羽林，投石拔距绝于等伦，尝超逾羽林亭楼，由是迁为郎。
+试弁，为朝门，以材力爱幸。
+稍迁至辽东太守，免官。
+车骑将军许嘉荐延寿为郎中，谏大夫，使西域都护、骑都尉，与副校尉陈汤共诛斩郅支单于，封义成侯。
+薨，谥曰壮侯。
+传国至曾孙，王莽败，乃绝。
+陈汤字子公，山阳瑕兵人也。
+少好书，博达善属文。
+家贫丐贷无节，不为州里所称。
+translation: 
+The feudal state was passed down to the great-grandson, and was discontinued in the middle of Jianwu year.
+Zheng Ji is from Kuaiji. Because he served in the army and went on several missions to Yousu, he was named Lang.
+Dian Mu is a strong and persistent person and is familiar with foreign affairs.
+Since the fortress was connected to Youqiu and Kui Luxing was conquered, school captains were set up to work in Quli.
+At the time of Emperor Xuan, Zheng Ji worked in Quli as a minister and accumulated grain. He then mobilized armies from various countries to defeat the chariot division. He was promoted to Sima of the Guard and sent to guard the southern road west of Shanshan.
+In the middle of the year of Shenjue, internal turmoil broke out among the Xiongnu. The Xianxian Shan, the king of Chu, planned to surrender to the Han Dynasty and sent someone to contact Zheng Ji.
+Zheng Ji mobilized 50,000 people from Quli, Qiuci and other countries to meet King Yue Zhu. There were 12,000 people. Xiao Wang sent 12 people to follow Zheng Ji to Hequ. Many people fled. Zheng Ji chased these people and killed them, and then brought the remaining people to the capital.
+Emperor Mo granted King Ri Zhu the title of Marquis of Guide.
+After Zheng Ji defeated the chariot division, he surrendered and surrendered to the king. His reputation shocked the Western Regions, so he also took charge of the North Road to the west of the chariot division, so he was known as the Protector.
+The establishment of Duhu began with Zheng Ji.
+In order to commend him for his achievements, the emperor issued an edict saying: Zheng Ji, the captain of the cavalry in the Western Regions, appeased the foreign barbarians, declared his hope and credibility, welcomed the cousin of the Xiongnu Chanyu, King Ri Zhu, and his men, and attacked the Cheshi Douzi City, which was a remarkable achievement.
+Zheng Ji was granted the title of Marquis of Anyuan, and was granted food to 1,000 households in the city.
+Zheng Ji then established a shogunate in the center of various countries in the Western Regions, and the official office was in Wulei City to pacify the various countries, kill, conquer, appease and recruit them.
+The orders of the Han Dynasty were issued to the Western Regions, and construction was started by Zhang Qian and completed by Zheng Ji. These are recorded in the "Biography of the Western Regions".
+After Zheng Ji passed away, he was given the title of Marquis Mu.
+His son Zheng Guang inherited the title, but he died without a son and the feudal state was abolished.
+In the middle of the first year of the Yuan Dynasty, among the meritorious officials who were not expelled due to crimes, Zheng Yong, the great-grandson of Zheng Ji, was granted the title of Marquis of Anyuan.
+Gan Yanshou, courtesy name Junkuang, was from Yuzhi in the north.
+When he was young, he was selected as Yu Lin because he was good at horseback riding and archery. His skills in throwing stones and jumping were unparalleled among his peers. He once jumped into Yu Lin's pavilion, so he was promoted to Lang.
+After testing his hand-fighting skills, he was appointed as a disciple. He relied on his strength and was favored.
+Soon he was transferred to the post of governor of Liaodong and was dismissed.
+The cavalry general Xu Jia recommended Gan Yanshou as a doctor and admonished the doctor. He went to the Western Regions as an envoy to protect the cavalry captain. Together with the deputy captain Chen Tang, he killed Zhizhi Shanyu and was named Yichenghou.
+After Gan Yanshou died, Mi was named Zhuanghou.
+The feudal state was passed down to his great-grandson. After Wang Mang failed, the feudal state was ended.
+Chen Tang, whose courtesy name is Zigong, is from Shanyang Xiaqiu.
+When he was young, he liked to read, he was knowledgeable and well-versed in affairs, and he could write good articles.
+The family was poor and relied on begging and borrowing money to make a living. He had no moral integrity and was not praised by the people in the state.
+
+summary:
+summary line 3: Gan Yanshou, from Yuzhi, was a skilled horseman and archer. He served as an envoy to the Western Regions and, with Deputy Captain Chen Tang, killed Zhizhi Chanyu. He was named Marquis of Yicheng. His title passed to his great-grandson before ending under Wang Mang.
+
+Chunk 9: 
+original: 
+宜以时解县通籍，除过勿治，尊宠爵位，以劝有功。
+于是天子下诏曰： 匈奴郅支单于背畔礼义，留杀汉使者、吏士，甚逆道理，朕岂忘之哉！
+所以优游而不征者，重协师众，劳将帅，故隐忍而未有云也。
+今延寿、汤睹便宜，乘时利，结城郭诸国，擅兴师矫制而征之。赖天地宗庙之灵，诛讨郅支单于，斩获其首，及阏氏、贵人、名王以下千数。
+虽逾义干法，内不烦一夫之役，不开府库之臧，因敌之粮以赡军用，立功万里之外，威震百蛮，名显四海。
+为国除残，兵革之原息，边竟得以安。
+然犹不免死亡之患，罪当在于奉宪，朕甚闵之！
+其赦延寿、汤罪，勿治。
+诏公卿议封焉。
+议者皆以为宜如军法捕斩单于令。
+匡衡、石显以为 郅支本亡逃失国，窃号绝域，非真单于 。
+元帝取安远侯郑吉故事，封千户，衡、显复争。
+乃封延寿为义成侯。赐汤爵关内侯，食邑各三百户，加赐黄金百斤。
+告上帝、宗庙，大赦天下。
+拜延寿为长水校尉，汤为射声校尉。
+延寿迁城门校尉、护军都尉，薨于官。
+成帝初即位，丞相衡复奏： 汤以吏二千石奉使，颛命蛮夷中，不正身以先下，而盗所收康居财物，戒官属曰绝域事不复校。
+虽在赦前，不宜处位。
+汤坐免。
+后汤上书言康居王侍子非王子也。
+按验，实王子也。
+汤下狱当死。
+translation: 
+Uncensored cases should be promptly lifted, allowing them to come and go freely without being held accountable, and be given favors and titles to reward those who have made meritorious deeds.
+So the emperor issued an edict saying: The Xiongnu Zhizhi Chanyu betrayed propriety and justice, detained and killed the Han Dynasty envoys, officers and soldiers, which was against the law. How can I forget it?
+The reason why he hesitated to go on a conquest was because it was difficult to mobilize the troops and the generals were tired, so they refrained from mentioning this matter.
+Now Gan Yanshou and Chen Tang saw that they could take advantage of the opportunity, so they took advantage of the convenience of time, gathered all the countries with towns, and arbitrarily relied on the emperor's order to use troops to conquer the enemy. Relying on the blessing of the gods of heaven, earth and the ancestral temple, they conquered Zhizhi Chanyu and beheaded him, as well as Ban's wife, dignitaries, famous kings and more than a thousand others.
+Although they deviated from morality and violated national laws, they did not bother anyone in the country to perform military service, did not use the national treasury's reserves, borrowed the enemy's food to supply the troops, established meritorious service thousands of miles away, shocked all barbarians with their power, and quickly spread their fame all over the world.
+Eliminate brutality for the country, cut off the source of war, and stabilize the border.
+However, the sorrow of death and injury cannot be avoided. The blame should lie on obeying the law. I deeply feel sorry for this!
+Special pardon for Gan Yanshou and Chen Tang's crimes, and do not pursue them further.
+Shao ordered his ministers to discuss the reward.
+Everyone who discussed it thought that it was appropriate to kill Shan Yu in accordance with military law.
+Kuang Heng and Shi Xian believed that Zhizhi originally lost his country and fled abroad. He only stole his name in a deserted place and was not a real Chanyu.
+Emperor Yuan followed the old example of Anyuan Marquis Zheng Ji and granted them a settlement of 1,000 households. Kuang Heng and Shi Xian protested again.
+So Gan Yanshou was granted the title of Marquis of Yicheng, and Chen Tang was given the title of Marquis of Guan Nei. Each of them was given three hundred households in the city, and a hundred catties of gold.
+Offer sacrifices to heaven and the ancestral temple, and grant amnesty to the world.
+Gan Yanshou was appointed as the captain of Changshui, and Chen Tang was appointed as the captain of Shesheng.
+Gan Yanshou was promoted to the rank of captain of the city gate and captain of the guard army. He passed away in his official position.
+Emperor Cheng had just ascended the throne, and Prime Minister Kuang Heng reported again: Chen Tang was ordered to go on an envoy as an official with two thousand stones. He acted among the barbarians without waiting for orders. He did not set strict requirements to set an example for his subordinates. Instead, he took the property he had captured from Kangju and warned the officials not to re-examine the affairs in remote areas.
+Even if the matter is pardoned, he is still not suitable for office.
+Chen Tang was dismissed from office.
+Later, Chen Tang wrote a letter saying that the son sent by King Kangju to serve the emperor was not a prince.
+After review and verification, it was indeed the prince.
+Chen Tang was imprisoned and should be executed.
+
+summary:
+summary line 4: Chen Tang, from Shanyang, was a learned but poor man who sought office in Chang'an. He was recommended by Zhang Bo but imprisoned for failing to attend his father's funeral. Later, as Deputy Captain of the Western Regions, he and Gan Yanshou led a campaign against Zhizhi Chanyu, who had killed Han envoys. They mobilized over 40,000 troops, besieged Zhizhi's city, and killed the chanyu. Despite their success, they faced criticism for acting without orders. After a lengthy debate, Emperor Yuan granted them titles and rewards, though Chen Tang was later dismissed for misconduct. He was eventually exiled to Dunhuang but recalled before his death in Chang'an.
+
+Chunk 10: 
+original: 
+太中大夫谷永上疏讼汤曰： 臣闻楚有子玉得臣，文公为之仄席而坐；赵有廉颇、马服，强秦不敢窥兵井陉；近汉有郅都、魏尚，匈奴不敢南乡沙幕。
+由是言之，战克之将，国之爪牙，不可不重也。
+盖 君子闻鼓鼙之声，则思将率之臣 。窃见关内侯陈汤，前使副西域都护，忿郅支之无道，闵王诛之不加，策虑愊亿，义勇奋发，卒兴师奔逝，横厉乌孙，逾集都赖，屠三重城，斩郅支首，报十年之逋诛，雪边吏之宿耻，威震百蛮，武畅西海，汉元以来，征伐方外之将，未尝有也。
+今汤坐言事非是，幽囚久系，历时不决，执宪之吏欲致之大辟。
+昔白起为秦将，南拔郢都，北坑赵括，以纤介之过，赐死杜邮，秦民怜之，莫不陨涕。
+今汤亲秉钺，席卷喋血万里之外，荐功祖庙，告类上帝，介胄之士靡不慕义。
+以言事为罪，无赫赫之恶。
+《周书》曰： 记人之功，忘人之过，宜为君者也。
+夫犬马有劳于人，尚加帷盖之报，况国之功臣者哉！
+窃恐陛下忽于鼙鼓之声，不察《周书》之意，而忘帷盖之施，庸臣遇汤，卒从吏议，使百姓介然有秦民之恨，非所以厉死难之臣也。
+书奏，天子出汤，夺爵为士伍。
+后数岁，西域都护段会宗为乌孙兵所围，驿骑上书，愿发城郭敦煌兵以自救。
+丞相王商、大将军王凤及百僚议数日不决。
+凤言： 汤多筹策，习外国事，可问。
+上召汤见宣室。
+汤击郅支时中塞病，两臂不诎申。
+汤入见，有诏毋拜，示以会宗奏。
+汤辞谢，曰： 将相九卿皆贤材通明，小臣罢癃，不足以策大事。
+translation: 
+Taizhong doctor Gu Yong wrote a letter to defend Chen Tang and said: I heard that the state of Chu had Ziyu as a minister, and Duke Wen of Jin was uneasy because of him; there were Lian Po and Ma Fu in the state, and the powerful Qin state did not dare to plot against Jingxing; in the modern Han Dynasty, there were Zhidu and Wei Shang, so the Xiongnu did not dare to cross the desert and go south.
+Judging from these circumstances, the general who defeated the enemy is the country's most effective military minister and cannot be ignored.
+So When a gentleman hears the sound of military drums, he thinks of ministers who can lead troops in battle. I privately believe that Chen Tang, the Marquis of Guannei, who was sent to the Western Regions as a deputy governor, resented Zhizhi Chanyu for being inhumane and worried that the king could not punish him. Crossing Wusun, gathered on the Du Lai River, broke through the three-story city wall, beheaded Zhizhi Chanyu, avenged the grudge that had not been able to kill him for ten years, and wiped out the past humiliation of the border officers and soldiers. Their majesty shocked all the barbarians, and their martial arts spread far and wide. Since the establishment of the Han Dynasty, there has never been such a scene for generals who have conquered foreign countries.
+Now Chen Tang broke the law because what he said was wrong, and he has been in jail for a long time. He has not been able to be sentenced for a long time. The law enforcement officials want to use Dapi's criminal law against him.
+In the past, Bai Qi was the general of the Qin State. He captured the capital of Ying in the south and killed Tongkuo in the north. Because of a small mistake, he was killed by Du You. The people of Qin mourned for him and all of them shed tears.
+Now Chen Tang personally carries weapons and fights thousands of miles away with bloodshed. He sacrifices his military exploits to the ancestral temple and reports to heaven. All warriors admire his integrity.
+There is no great sin in committing a sin because of telling something.
+"Book of Zhou" says: If you keep in mind the merits of others and forget the faults of others, you will be fit to be a monarch.
+Besides, if dogs and horses work hard for people, they can still get shacks built for them in return, not to mention the meritorious officials of the country!
+Privately, I worry that your Majesty has ignored the sound of the military drums, failed to understand the meaning of the "Book of Zhou", and forgotten the kindness of building a shack, treated Chen Tang as a mediocre minister, and finally obeyed the officials' decision. Letting the people also have the resentment of the people of Qin is not a way to spur ministers who risk their lives.
+After the memorial was submitted, the emperor released Chen Tang, revoked his title and became an ordinary soldier.
+A few years later, Duan Huizong, the protector of the Western Regions, was surrounded by the Wusun army. People from the post station came on horseback to report, hoping to send troops from countries with towns in the Western Regions and Dunhuang troops to rescue them.
+Prime Minister Wang Shang, General Wang Feng and hundreds of officials discussed the matter for several days with no result.
+Wang Feng said: "Chen Tang is very good at planning and familiar with foreign situations. You can call him to ask."
+The emperor summoned Chen Tang in the announcement room.
+Chen Tang contracted typhoid fever when he was attacking Chanyu Zhizhi and could not bend his arms.
+Chen Tang went in to see him, and was told by an edict that he should not kneel down and show Duan Huizong's memorial to him.
+Chen Tang said: "The generals, ministers and nine ministers are all talented and well-versed in affairs. The junior ministers are weak and sick, and are not qualified to plan major events."
+
+summary:
+summary line 5: Duan Huizong, from Tianshui, served as Protector of the Western Regions and was respected for his integrity. He killed a rebellious Wusun prince, Fanqiu, with a small force, earning the title of Marquis of Guannei. He died in Wusun at age 75, mourned by all nations.
+
+Chunk 2: 
+original: 
+传国至曾孙，建武中乃绝。
+郑吉，会稽人也，以卒伍从军，数出西域，由是为郎。
+吉为人强执，习外国事。
+自张骞通西域，李广利征伐之后，初置校尉，屯田渠黎。
+至宣帝时，吉以侍郎田渠黎，积谷，因发诸国兵攻破车师，迁卫司马，使护鄯善以西南道。
+神爵中，匈奴乖乱，日逐王先贤掸欲降汉，使人与吉相闻。
+吉发渠黎、龟兹诸国五万人迎日逐王，口万二千人、小王将十二人随吉至河曲，颇有亡者，吉追斩之，遂将诣京师。
+汉封日逐王为归德侯。
+吉既破车师，降日逐，威震西域，遂并护车师以西北道，故号都护。
+都护之置自吉始焉。
+上嘉其功效，乃下诏曰： 都护西域骑都尉郑吉，拊循外蛮，宣明威信，迎匈奴单于从兄日逐王众，击破车师兜訾城，功效茂著。
+其封吉为安远侯，食邑千户。
+吉于是中西或则立莫府，治乌垒城，镇抚诸国，诛伐怀集之。
+汉之号令班西域矣，始自张骞而成于郑吉。语在《西域传》。
+吉薨，谥曰缪侯。
+子光嗣，薨，无子，国除。
+元始中，录功臣不以罪绝者，封吉曾孙永为安远侯。
+甘延寿字君况，北地郁郅人也。
+少以良家子善骑射为羽林，投石拔距绝于等伦，尝超逾羽林亭楼，由是迁为郎。
+试弁，为朝门，以材力爱幸。
+稍迁至辽东太守，免官。
+车骑将军许嘉荐延寿为郎中，谏大夫，使西域都护、骑都尉，与副校尉陈汤共诛斩郅支单于，封义成侯。
+薨，谥曰壮侯。
+传国至曾孙，王莽败，乃绝。
+陈汤字子公，山阳瑕兵人也。
+少好书，博达善属文。
+家贫丐贷无节，不为州里所称。
+translation: 
+The feudal state was passed down to the great-grandson, and was discontinued in the middle of Jianwu year.
+Zheng Ji is from Kuaiji. Because he served in the army and went on several missions to Yousu, he was named Lang.
+Dian Mu is a strong and persistent person and is familiar with foreign affairs.
+Since the fortress was connected to Youqiu and Kui Luxing was conquered, school captains were set up to work in Quli.
+At the time of Emperor Xuan, Zheng Ji worked in Quli as a minister and accumulated grain. He then mobilized armies from various countries to defeat the chariot division. He was promoted to Sima of the Guard and sent to guard the southern road west of Shanshan.
+In the middle of the year of Shenjue, internal turmoil broke out among the Xiongnu. The Xianxian Shan, the king of Chu, planned to surrender to the Han Dynasty and sent someone to contact Zheng Ji.
+Zheng Ji mobilized 50,000 people from Quli, Qiuci and other countries to meet King Yue Zhu. There were 12,000 people. Xiao Wang sent 12 people to follow Zheng Ji to Hequ. Many people fled. Zheng Ji chased these people and killed them, and then brought the remaining people to the capital.
+Emperor Mo granted King Ri Zhu the title of Marquis of Guide.
+After Zheng Ji defeated the chariot division, he surrendered and surrendered to the king. His reputation shocked the Western Regions, so he also took charge of the North Road to the west of the chariot division, so he was known as the Protector.
+The establishment of Duhu began with Zheng Ji.
+In order to commend him for his achievements, the emperor issued an edict saying: Zheng Ji, the captain of the cavalry in the Western Regions, appeased the foreign barbarians, declared his hope and credibility, welcomed the cousin of the Xiongnu Chanyu, King Ri Zhu, and his men, and attacked the Cheshi Douzi City, which was a remarkable achievement.
+Zheng Ji was granted the title of Marquis of Anyuan, and was granted food to 1,000 households in the city.
+Zheng Ji then established a shogunate in the center of various countries in the Western Regions, and the official office was in Wulei City to pacify the various countries, kill, conquer, appease and recruit them.
+The orders of the Han Dynasty were issued to the Western Regions, and construction was started by Zhang Qian and completed by Zheng Ji. These are recorded in the "Biography of the Western Regions".
+After Zheng Ji passed away, he was given the title of Marquis Mu.
+His son Zheng Guang inherited the title, but he died without a son and the feudal state was abolished.
+In the middle of the first year of the Yuan Dynasty, among the meritorious officials who were not expelled due to crimes, Zheng Yong, the great-grandson of Zheng Ji, was granted the title of Marquis of Anyuan.
+Gan Yanshou, courtesy name Junkuang, was from Yuzhi in the north.
+When he was young, he was selected as Yu Lin because he was good at horseback riding and archery. His skills in throwing stones and jumping were unparalleled among his peers. He once jumped into Yu Lin's pavilion, so he was promoted to Lang.
+After testing his hand-fighting skills, he was appointed as a disciple. He relied on his strength and was favored.
+Soon he was transferred to the post of governor of Liaodong and was dismissed.
+The cavalry general Xu Jia recommended Gan Yanshou as a doctor and admonished the doctor. He went to the Western Regions as an envoy to protect the cavalry captain. Together with the deputy captain Chen Tang, he killed Zhizhi Shanyu and was named Yichenghou.
+After Gan Yanshou died, Mi was named Zhuanghou.
+The feudal state was passed down to his great-grandson. After Wang Mang failed, the feudal state was ended.
+Chen Tang, whose courtesy name is Zigong, is from Shanyang Xiaqiu.
+When he was young, he liked to read, he was knowledgeable and well-versed in affairs, and he could write good articles.
+The family was poor and relied on begging and borrowing money to make a living. He had no moral integrity and was not praised by the people in the state.
+
+summary:
+summary line 6: The text concludes that from Zhang Qian's time to Wang Mang's era, 18 protectors served, with notable figures like Zheng Ji, Gan Yanshou, and Chen Tang. Chen Tang's unruliness led to his downfall, but his deeds are recorded for posterity.
+

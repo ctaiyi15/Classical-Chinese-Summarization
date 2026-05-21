@@ -1,0 +1,633 @@
+Summary uses chunk [0, 0, 4, 2, 4, 10, 15, 16, 17]
+
+Chunk 0: 
+original: 
+永嘉之乱，海内分崩，伶官乐器，皆没于刘、石。
+江左初立宗庙，尚书下太常祭祀所用乐名。
+太常贺循答云： 魏氏增损汉乐，以为一代之礼，未审大晋乐名所以为异。
+遭离丧乱，旧典不存。
+然此诸乐皆和之以钟律，文之以五声，咏之于歌辞，陈之于舞列。
+宫悬在庭，琴瑟在堂，八音迭奏，雅乐并作，登歌下管，各有常咏，周人之旧也。
+自汉氏以来，依仿此礼，自造新诗而已。
+旧京荒废，今既散亡，音韵曲折，又无识者，则于今难以意言。
+于时以无雅乐器及伶人，省太乐并鼓吹令。
+是后颇得登歌，食举之乐，犹有未备。
+太宁末，明帝又访阮孚等增益之。
+咸和中，成帝乃复置太乐官，鸠集遗逸，而尚未有金石也。
+庾亮为荆州，与谢尚修复雅乐，未具而亮薨。
+庾翼、桓温专事军旅，乐器在库，遂至朽坏焉。
+及慕容亻隽平冉闵，兵戈之际，而鄴下乐人亦颇有来者。
+永和十一年，谢尚镇寿阳，于是采拾乐人，以备太乐，并制石磬，雅乐始颇具。
+面王猛平鄴，慕容氏所得乐声又入关右。
+太元中，破苻坚，又获其乐工杨蜀等，闲习旧乐，于是四厢金石始备焉。
+乃使曹毗、王珣等增造宗庙歌诗，然郊祀遂不设乐。
+今列其词于后云。歌宣帝曹毗
+于赫高祖，德协灵符。
+应运拨乱，厘整天衢。
+勋格宇宙，化动八区。
+肃以典刑，陶以玄珠。
+神石吐瑞，灵芝自敷。
+肇基天命，道均唐虞。
+歌景帝曹毗
+景皇承运，纂隆洪绪。
+皇罗重抗，天晖再举。
+蠢矣二寇，扰我扬楚。
+乃整元戎，以膏齐斧。
+translation: 
+The Yongjia Rebellion caused the country to fall apart, and all the Lingguan and musical instruments were destroyed by the rebellions of Liu Yuan and Shi Le.
+When the ancestral temple was first established in Jiangdong, Shangshu ordered Taichang to submit the names of the music used for sacrifices.
+Taichang He Xun replied: Wei added, deleted, and revised Han music, thus becoming the ritual music of the generation, but I don’t know why the name of Jin music is different from before.
+After this disaster, the old scriptures no longer exist.
+However, all these music can be harmonized with the rhythm of bells, expressed in text with five tones, added with lyrics for singing, and presented in the court with accompanying dance.
+The palace is hung in front of the hall, the harp and harp are placed in the hall, the eight-tone musical instruments are played one after another, the sound of elegant music is ensembled, and the singing and singing are performed on the lower level. Each has its own music that is often chanted. These are all in line with the old system of the Zhou people.
+Since the Mo Dynasty, I have just composed new words based on this music.
+The old capital was deserted, and the music has long since been lost. The music has twists and turns, and no one can recognize it, so it is difficult to say clearly now.
+At that time, due to the lack of elegant music instruments and actors, there was no Taiyue and drumming order.
+Later, I collected a lot of songs about climbing, but the joy of eating and drinking is not complete yet.
+In the last years of Taining, Emperor Ming ordered Ruan Fu and others to supplement it.
+During the Xianhe period, Emperor Cheng reinstated the Taiyue Official to collect lost music, but it still lacked the music of gold and stone.
+When Yu Liang was in charge of Jingzhou, he arranged elegant music with Xie Shang, but Yu Liang died before it was completed.
+Yu Yi and Huan Wen were engaged in war, and their musical instruments were left idle in the storehouse, causing all of them to rot in the storehouse.
+When Murong Jun pacified Ran Min and the two sides were fighting, many of his followers came to seek refuge.
+In the eleventh year of Yonghe's reign, Xie Shang guarded Shouyang, so he searched for music masters to serve as Taiyue Mansion, and made stone chimes, so that Yayue was slightly complete.
+However, the music gained by Wang Mengzi Ye and Murong family flowed into Guanxi.
+During the Taiyuan period, Fu Jian was defeated, and his musicians Yang Shu and others were captured. They became proficient in old music, and the four-chamber gold and stone music began to be complete.
+So Cao Pi, Wang Shi and others were ordered to write more lyrics for the ancestral temple, but there was no longer any music for sacrifices in the surrounding suburbs.
+Now I will list his words later. Song of Emperor Xuan: Cao Pi
+Oh, my great ancestor, the Holy Virtue, Harmony and Spiritual Talisman.
+Follow the fortunes of the times to bring order to the troubled times, and rectify the dynasty and stabilize the capital.
+His achievements shook the world, and his education moved the eight districts.
+Regular punishment is used to clean up the discipline, and Xuanzhu is used to teach the Dao.
+The sacred stone emits auspiciousness, and the Ganoderma lucidum has its own knowledge.
+Create a foundation in response to destiny, benevolent and virtuous, Qi Tang and Yu.
+Emperor Ge Jing: Cao Pi
+Emperor Jing inherited his fortune and continued his career to build up the emperor's foundation.
+The imperial outline is revived, and the sky is lifted high again.
+The two stupid thieves disturbed me and made me proud of Chu.
+Put down the chaos, organize the troops and chariots, and kill the enemy with axes.
+
+summary:
+summary line 0: The Yongjia Rebellion caused the collapse of the Jin state, destroying all Lingguan and musical instruments. When the ancestral temple was first established in Jiangdong, the Shangshu ordered Taichang to submit the names of sacrificial music. Taichang He Xun replied that Wei had modified Han music, but the name of Jin music differed from before. After the disaster, old scriptures were lost. However, music could be harmonized with bells, expressed in text with five tones, added with lyrics for singing, and presented with dance. The palace hung instruments in the hall, with eight-tone instruments playing in sequence, elegant music ensemble, and singing performed below, all in line with the old Zhou system. Since the Mo Dynasty, new words were composed based on this music. The old capital was deserted, and music was lost, with twists and turns unrecognizable.
+
+Chunk 0: 
+original: 
+永嘉之乱，海内分崩，伶官乐器，皆没于刘、石。
+江左初立宗庙，尚书下太常祭祀所用乐名。
+太常贺循答云： 魏氏增损汉乐，以为一代之礼，未审大晋乐名所以为异。
+遭离丧乱，旧典不存。
+然此诸乐皆和之以钟律，文之以五声，咏之于歌辞，陈之于舞列。
+宫悬在庭，琴瑟在堂，八音迭奏，雅乐并作，登歌下管，各有常咏，周人之旧也。
+自汉氏以来，依仿此礼，自造新诗而已。
+旧京荒废，今既散亡，音韵曲折，又无识者，则于今难以意言。
+于时以无雅乐器及伶人，省太乐并鼓吹令。
+是后颇得登歌，食举之乐，犹有未备。
+太宁末，明帝又访阮孚等增益之。
+咸和中，成帝乃复置太乐官，鸠集遗逸，而尚未有金石也。
+庾亮为荆州，与谢尚修复雅乐，未具而亮薨。
+庾翼、桓温专事军旅，乐器在库，遂至朽坏焉。
+及慕容亻隽平冉闵，兵戈之际，而鄴下乐人亦颇有来者。
+永和十一年，谢尚镇寿阳，于是采拾乐人，以备太乐，并制石磬，雅乐始颇具。
+面王猛平鄴，慕容氏所得乐声又入关右。
+太元中，破苻坚，又获其乐工杨蜀等，闲习旧乐，于是四厢金石始备焉。
+乃使曹毗、王珣等增造宗庙歌诗，然郊祀遂不设乐。
+今列其词于后云。歌宣帝曹毗
+于赫高祖，德协灵符。
+应运拨乱，厘整天衢。
+勋格宇宙，化动八区。
+肃以典刑，陶以玄珠。
+神石吐瑞，灵芝自敷。
+肇基天命，道均唐虞。
+歌景帝曹毗
+景皇承运，纂隆洪绪。
+皇罗重抗，天晖再举。
+蠢矣二寇，扰我扬楚。
+乃整元戎，以膏齐斧。
+translation: 
+The Yongjia Rebellion caused the country to fall apart, and all the Lingguan and musical instruments were destroyed by the rebellions of Liu Yuan and Shi Le.
+When the ancestral temple was first established in Jiangdong, Shangshu ordered Taichang to submit the names of the music used for sacrifices.
+Taichang He Xun replied: Wei added, deleted, and revised Han music, thus becoming the ritual music of the generation, but I don’t know why the name of Jin music is different from before.
+After this disaster, the old scriptures no longer exist.
+However, all these music can be harmonized with the rhythm of bells, expressed in text with five tones, added with lyrics for singing, and presented in the court with accompanying dance.
+The palace is hung in front of the hall, the harp and harp are placed in the hall, the eight-tone musical instruments are played one after another, the sound of elegant music is ensembled, and the singing and singing are performed on the lower level. Each has its own music that is often chanted. These are all in line with the old system of the Zhou people.
+Since the Mo Dynasty, I have just composed new words based on this music.
+The old capital was deserted, and the music has long since been lost. The music has twists and turns, and no one can recognize it, so it is difficult to say clearly now.
+At that time, due to the lack of elegant music instruments and actors, there was no Taiyue and drumming order.
+Later, I collected a lot of songs about climbing, but the joy of eating and drinking is not complete yet.
+In the last years of Taining, Emperor Ming ordered Ruan Fu and others to supplement it.
+During the Xianhe period, Emperor Cheng reinstated the Taiyue Official to collect lost music, but it still lacked the music of gold and stone.
+When Yu Liang was in charge of Jingzhou, he arranged elegant music with Xie Shang, but Yu Liang died before it was completed.
+Yu Yi and Huan Wen were engaged in war, and their musical instruments were left idle in the storehouse, causing all of them to rot in the storehouse.
+When Murong Jun pacified Ran Min and the two sides were fighting, many of his followers came to seek refuge.
+In the eleventh year of Yonghe's reign, Xie Shang guarded Shouyang, so he searched for music masters to serve as Taiyue Mansion, and made stone chimes, so that Yayue was slightly complete.
+However, the music gained by Wang Mengzi Ye and Murong family flowed into Guanxi.
+During the Taiyuan period, Fu Jian was defeated, and his musicians Yang Shu and others were captured. They became proficient in old music, and the four-chamber gold and stone music began to be complete.
+So Cao Pi, Wang Shi and others were ordered to write more lyrics for the ancestral temple, but there was no longer any music for sacrifices in the surrounding suburbs.
+Now I will list his words later. Song of Emperor Xuan: Cao Pi
+Oh, my great ancestor, the Holy Virtue, Harmony and Spiritual Talisman.
+Follow the fortunes of the times to bring order to the troubled times, and rectify the dynasty and stabilize the capital.
+His achievements shook the world, and his education moved the eight districts.
+Regular punishment is used to clean up the discipline, and Xuanzhu is used to teach the Dao.
+The sacred stone emits auspiciousness, and the Ganoderma lucidum has its own knowledge.
+Create a foundation in response to destiny, benevolent and virtuous, Qi Tang and Yu.
+Emperor Ge Jing: Cao Pi
+Emperor Jing inherited his fortune and continued his career to build up the emperor's foundation.
+The imperial outline is revived, and the sky is lifted high again.
+The two stupid thieves disturbed me and made me proud of Chu.
+Put down the chaos, organize the troops and chariots, and kill the enemy with axes.
+
+summary:
+summary line 1: Due to a lack of elegant music instruments and actors, there was no Taiyue and drumming order. Later, songs about climbing were collected, but the joy of eating and drinking was incomplete. In the last years of Taining, Emperor Ming ordered Ruan Fu and others to supplement it. During the Xianhe period, Emperor Cheng reinstated the Taiyue Official to collect lost music, but it still lacked gold and stone music. When Yu Liang was in Jingzhou, he arranged elegant music with Xie Shang, but Yu Liang died before completion. Yu Yi and Huan Wen were engaged in war, and musical instruments rotted in the storehouse. When Murong Jun pacified Ran Min, many followers sought refuge. In the eleventh year of Yonghe, Xie Shang guarded Shouyang, searched for music masters to serve as Taiyue Mansion, and made stone chimes, so Yayue was slightly complete. However, the music gained by Wang Mengzi Ye and the Murong family flowed into Guanxi. During the Taiyuan period, Fu Jian was defeated, and musicians like Yang Shu were captured, becoming proficient in old music, and the four-chamber gold and stone music began to be complete. So Cao Pi, Wang Shi, and others were ordered to write more lyrics for the ancestral temple, but there was no longer any music for sacrifices in the surrounding suburbs.
+
+Chunk 4: 
+original: 
+及武帝受禅，乃令傅玄制为二十二篇，亦述以功德代魏。
+改《硃鹭》为《灵之祥》，言宣帝之佐魏，犹虞舜之事尧，既有石瑞之徵，又能用武以诛孟达之逆命也。
+改《思悲翁》为《宣受命》，言宣帝御诸葛亮，养威重，运神兵，亮震怖而死也。
+改《艾如张》为《征辽东》，言宣帝陵大海之表，讨灭公孙氏而枭其首也。
+改《上之回》为《宣辅政》，言宣帝圣道深远，拨乱反正，网罗文武之才，以定二仪之序也。
+改《雍离》为《时运多难》，言宣帝致讨吴方，有征无战也。
+改《战城南》为《景龙飞》，言景帝克明威教，赏顺夷逆，隆无疆，崇洪基也。
+改《巫山高》为《平玉衡》，言景帝一万国之殊风，齐四海之乖心，礼贤养士，而纂洪业也。
+改《上陵》为《文皇统百揆》，言文帝始统百揆，用人有序，以敷太平之化也。
+改《将进酒》为《因时运》，言因时运变，圣谋潜施，解长蛇之交，离群桀之党，以武济文，以迈其德也。
+改《有所思》为《惟庸蜀》，言文帝既平万乘之蜀，封建万国，复五等之爵也。
+改《芳树》为《天序》，言圣皇应历受禅，弘济大化，用人各尽其才也。
+改《上邪》为《大晋承运期》，言圣皇应箓受图，化象神明也。
+改《君马黄》为《金灵运》，言圣皇践阼，致敬宗庙，而孝道行于天下也。
+改《雉子班》为《于穆我皇》，言圣皇受禅，德合神明也。
+改《圣人出》为《仲春振旅》，言大晋申文武之教，畋猎以时也。
+改《临高台》为《夏苗田》，言大晋畋狩顺时，为苗除害也。
+改《远如期》为《仲秋狝田》，言大晋虽有文德，不废武事，顺时以杀伐也。
+改《石留》为《顺天道》，言仲冬大阅，用武修文，大晋之德配天也。
+改《务成》为《唐尧》，言圣皇陟帝位，德化光四表也。
+《玄云》依旧名，言圣皇用人，各尽其材也。
+改《黄爵行》为《伯益》，言赤乌衔书，有周以兴，今圣皇受命，神雀来也。
+《钓竿》依旧名，言圣皇德配尧舜，又有吕望之佐，济大功，致太平也。
+其辞并列之于后云。灵之祥
+translation: 
+When Emperor Wu was ordered to ascend the throne, he ordered Fu Xuan to compose twenty-two poems, describing the merits of Jin in replacing Wei.
+Changing "Ibis" to "Ling Zhixiang", it is said that Emperor Xuan assisted Wei, just like Yu and Shun served Yao. It not only had auspicious omens, but also used force to kill the disobedient Meng Da.
+"Si Bei Weng" was changed to "Xuan Shou Ming", which tells the story of Emperor Xuan resisting Zhuge Liang, accumulating prestige, and transporting magical troops. Zhuge Liang died of fear.
+"Ai Ru Zhang" was changed to "Conquering Liaodong", which tells the story of Emperor Xuan crossing the sea to destroy the Gongsun family and take its leader.
+The "Shangzhihui" was changed to "Xuan Fu Zheng", which stated that Emperor Xuan had profound virtues, brought order to chaos, and established the order of heaven and earth by attracting civil and military talents.
+"Yongli" was changed to "The Times Are Troubled", which tells the story of Emperor Xuan's expedition against the State of Wu, and whether there was an expedition or not.
+Changing "Zhan Cheng Nan" to "Jing Long Fei", it tells the story that Emperor Jing showed his majesty, rewarded the good and the bad, prospered without borders, and made the emperor's foundation even taller.
+Changing "Wushan Gao" to "Ping Yuheng", it tells the story of Emperor Jing unifying the different customs of all countries, unifying the estranged hearts of the world, respecting the virtuous and raising scholars, and inheriting the great legacy.
+"Shangling" was changed to "Wenhuang Tongbaikui", which states that Emperor Wen first unified all political affairs, employed people in an orderly manner, and imparted the teaching of peace.
+Change "Jian Jin Jiu" to "Because of Fortune", which states that according to the changes in fortune, he secretly implemented a sage plan to get rid of the long snake and disperse the group of rebels, use martial arts to support literature, and encourage people to practice their virtues.
+"Yousi" was changed to "Weiyong Shu", which states that after Emperor Wen pacified Wancheng Shu, he enfeoffed the princes of all countries and restored the fifth-level titles.
+"Fangshu" was changed to "Tianxu", which stated that the Holy Emperor should ascend to the throne according to the circumstances, greatly benefit the world's living beings, and employ people to make full use of their talents.
+The "Shangxie" was changed to "The Carrying Period of the Jin Dynasty", which stated that the Holy Emperor should be accepted and taught, and his teachings should be like gods.
+"Jun Ma Huang" was changed to "Jin Ling Yun", which tells that the Holy Emperor came to the throne and offered sacrifices to the ancestral temple, so that filial piety was practiced throughout the world.
+Change "Pheasant Class" to "Yu Mu Wohuang", which states that the Holy Emperor received Zen and his virtues were in line with the gods.
+The "Sage Comes Out" was changed to "Zhongchun Zhenlu", which tells the story of the Jin Dynasty's promotion of civil and military teachings and hunting in time.
+"Lingaotai" was changed to "Xia Miao Tian", which tells the story of the Jin Dynasty's hunting and hunting in accordance with the season to eliminate damage to the seedlings.
+Changing "Yuan Ru Schedule" to "Hedgefield in Mid-Autumn", it states that although the Jin Dynasty was civilized and virtuous, it did not abandon military affairs and carried out killings in accordance with the times.
+"Shi Liu" was changed to "Shun Tian Dao", which tells the story of a military parade in mid-winter, using martial arts to cultivate literature, and selling great virtues to match the sky.
+"Wucheng" was changed to "Tang Yao", which tells the story of the Holy Emperor ascending to the throne and his moral education enlightening the world.
+"Xuanyun" still has the same name, describing how the Holy Emperor employs people and makes full use of their talents.
+Changing "Huang Jue Xing" to "Bo Yi", it tells the story of Chiwu holding the book, the rise of the Zhou Dynasty, the Holy Emperor receiving the destiny, and the divine bird flying here.
+"Diaogan" still has the same name, describing the virtues of the sage emperors who matched Yao and Shun, and how they were assisted by talented people like Lu Wang, who achieved great achievements and achieved peace.
+Their words are listed below. "Ling Zhixiang"
+
+summary:
+summary line 2: The text lists songs for various emperors, including Emperor Xuan, Emperor Jing, Emperor Wen, Emperor Wu, Emperor Yuan, Emperor Ming of Song, Emperor Cheng, Emperor Kang, Emperor Mu, Emperor Ai, Emperor Jianwen, and Emperor Xiaowu, all composed by Cao Pi or the king who died. These songs praise the emperors' virtues, achievements, and divine favor, often referencing their roles in stabilizing the state, defeating enemies, and promoting education and harmony. The songs also describe rituals, music, and the joy of the gods.
+
+Chunk 2: 
+original: 
+高猷远暢，朝有遗芳。
+歌哀帝曹毗于穆哀皇，圣心虚远。
+雅好玄古，大庭是践。
+道尚无为，治存易简。
+化若风行，时犹草偃。
+虽曰登遐，徽音弥阐。
+愔愔《云》《韶》，尽美尽善。
+歌简文帝王珣
+皇矣简文，于昭于天。
+灵明若神，周淡如川。
+冲应其来，实与其迁。
+亹亹心化，日用不言。
+易而有亲，简而可传。
+观流弥远，求本逾玄。
+歌孝武帝王珣天监有晋，钦哉烈宗。
+同规文考，玄默允恭。
+威而不猛，约而能通。
+神钲一震，九域来同。
+道积淮海，雅颂自东。
+气陶醇露，化协时雍。
+四时祠祀曹毗
+肃肃清庙，巍巍圣功。
+万国来宾，礼仪有容。
+钟鼓振，金石熙。
+宣兆祚，武开基。
+神斯乐兮！
+理管弦，有来斯和。
+说功德，吐清歌。
+神斯乐兮！
+洋洋玄化，润被九壤。
+民无不悦，道无不往。
+礼有仪，乐有式。
+咏九功，永无极。
+神斯乐兮！
+汉时有《短箫铙歌》之乐，其曲有《硃鹭》、《思悲翁》、《艾如张》、《上之回》、《雍离》、《战城南》、《巫山高》、《上陵》、《将进酒》、《君马黄》、《芳树》、《有所思》、《雉子班》、《圣人出》、《上邪》、《临高台》、《远如期》、《石留》、《务成》、《玄云》、《黄爵行》《钓竿》等曲，列于鼓吹，多序战阵之事。
+改《艾如张》为《获吕布》，言曹公东围临淮，擒吕布也。
+改《上之回》为《克官渡》，言曹公与袁绍战，破之于官渡也。
+改《雍离》为《旧邦》，言曹公胜袁绍于官渡，还谯收藏死亡士卒也。
+translation: 
+The high aspirations reach far and wide, and the fragrance is sent from generation to generation.
+Song Ai Tong: Cao Pi is great, I mourn the emperor, the most holy heart is far away.
+If you are elegant and fond of ancient times, if you are practical, you will control agriculture.
+Morality has not yet been done, and governance is easy and simple.
+If education becomes popular, the people will follow like grass.
+Although the emperor has died, his virtue is still more prominent.
+"Yun" and "Shao" are calm and sentimental, praising virtues and goodness.
+Song Jian Emperor Wen: The king died
+Emperor Jian Wendi, his light shines in the sky.
+Lingming is like divine help, calm is like a great abyss.
+The emptiness and tranquility should come as they come, and the reality will move with them.
+Thoughts are flowing smoothly, but daily needs are never spoken.
+The heart is easy but there is a kinship, the action is simple but it can be passed down.
+The view of Liubu is far away, and the pursuit of solid foundation becomes more mysterious.
+Song Xiaowu Emperor: The king died in heaven to supervise our Jin Dynasty, Qinzai Mu Mu Lie Zong.
+The saints and virtues are all in the same literary examination, and they speak deeply and look respectfully.
+It is powerful but not violent, and it is simple and harmonious.
+The sound of the divine fire shook the sea, and everyone in the nine regions came to echo it.
+The holy way accumulates in the Huaihai Sea, and the sound of elegant songs is restrained.
+The charm is like pure dew, and the education is as harmonious as the wind.
+Temple of the Four Seasons: Cao Pi
+The temples of the ancestors are solemn and the sacred works are towering.
+When the princes from all over the world come to court, they behave in an appropriate manner.
+The sound of bells and drums, the sound of gold and stone.
+Emperor Xuan Zhaozuo, Emperor Wu established the foundation.
+The gods rejoice!
+Manage my orchestra and make peace whenever you come.
+Describe the merits and virtues, and sing clear songs.
+The gods rejoice!
+The joy of ocean metamorphosis, benevolence and virtue reaches all the earth.
+There is no dissatisfaction among the people, and there is no lack of political support.
+The etiquette is regular and the music is played in style.
+Chant the Nine Gongs and enjoy the infinite forever.
+The gods rejoice!
+In the Han Dynasty, there was the music of "Short Xiao and Chong Song", whose songs include "Ibis", "Sibei Weng", "Ai Ru Zhang", "Back to Shang", "Yongli", "War in the South", "Wushan Gao", "Shangling", "Jiang Jinjiu", "Junma Huang", "Fangshu" , "Thinking", "Pheasant Class", "The Saint Comes Out", "Zhuangxie", "Lingaotai", "Far as Expected", "Shiliu", "Wucheng", "Xuanyun", "Huang Juexing", "Diaogan" and other songs are listed in the drum music, mostly describing the battle formation.
+In the Wei Dynasty and Han Dynasty, the names of the twelve songs were changed, and Miao Xi composed the lyrics to describe the merits and virtues of Wei Dynasty Mo. Change "Ibis" to "Chu Zhiping" and describe the Wei Dynasty. Change "Si Bei Weng" to "Zhan Rongyang", describing Cao Gong. "Ai Ru Zhang" was changed to "Capture Lu Bu", which tells the story of Cao Gong's eastward siege of Linhuai and the capture of Lu Bu.
+Change "Shangzhihui" to "Conquering Guandu", describing the battle between Cao Gong and Yuan Shao, and defeating Yuan Shao in Guandu.
+"Yongli" was changed to "Jiubang", which tells that Duke Cao defeated Yuan Shao in Guandu and returned to Qiao to collect the dead soldiers.
+
+summary:
+summary line 3: In the Han Dynasty, there was the music of "Short Xiao and Chong Song," with songs like "Ibis," "Si Bei Weng," and others listed in drum music, mostly describing battle formations. In the Wei Dynasty, the names of twelve songs were changed, and Miao Xi composed lyrics to describe the merits and virtues of the Wei Dynasty. For example, "Ibis" was changed to "Chu Zhiping," describing the Wei Dynasty, and "Si Bei Weng" was changed to "Zhan Rongyang," describing Cao Gong. Similarly, other songs were changed to describe specific events, such as "Capture Lu Bu," "Conquering Guandu," and "Slaughter of Liucheng." The rest had the same old names. At this time, Cheng also ordered Wei Zhao to compose twelve song names to describe his merits and virtues, changing songs like "Ibis" to "Yan Jing Que," describing Sun Jian's ambitions.
+
+Chunk 4: 
+original: 
+及武帝受禅，乃令傅玄制为二十二篇，亦述以功德代魏。
+改《硃鹭》为《灵之祥》，言宣帝之佐魏，犹虞舜之事尧，既有石瑞之徵，又能用武以诛孟达之逆命也。
+改《思悲翁》为《宣受命》，言宣帝御诸葛亮，养威重，运神兵，亮震怖而死也。
+改《艾如张》为《征辽东》，言宣帝陵大海之表，讨灭公孙氏而枭其首也。
+改《上之回》为《宣辅政》，言宣帝圣道深远，拨乱反正，网罗文武之才，以定二仪之序也。
+改《雍离》为《时运多难》，言宣帝致讨吴方，有征无战也。
+改《战城南》为《景龙飞》，言景帝克明威教，赏顺夷逆，隆无疆，崇洪基也。
+改《巫山高》为《平玉衡》，言景帝一万国之殊风，齐四海之乖心，礼贤养士，而纂洪业也。
+改《上陵》为《文皇统百揆》，言文帝始统百揆，用人有序，以敷太平之化也。
+改《将进酒》为《因时运》，言因时运变，圣谋潜施，解长蛇之交，离群桀之党，以武济文，以迈其德也。
+改《有所思》为《惟庸蜀》，言文帝既平万乘之蜀，封建万国，复五等之爵也。
+改《芳树》为《天序》，言圣皇应历受禅，弘济大化，用人各尽其才也。
+改《上邪》为《大晋承运期》，言圣皇应箓受图，化象神明也。
+改《君马黄》为《金灵运》，言圣皇践阼，致敬宗庙，而孝道行于天下也。
+改《雉子班》为《于穆我皇》，言圣皇受禅，德合神明也。
+改《圣人出》为《仲春振旅》，言大晋申文武之教，畋猎以时也。
+改《临高台》为《夏苗田》，言大晋畋狩顺时，为苗除害也。
+改《远如期》为《仲秋狝田》，言大晋虽有文德，不废武事，顺时以杀伐也。
+改《石留》为《顺天道》，言仲冬大阅，用武修文，大晋之德配天也。
+改《务成》为《唐尧》，言圣皇陟帝位，德化光四表也。
+《玄云》依旧名，言圣皇用人，各尽其材也。
+改《黄爵行》为《伯益》，言赤乌衔书，有周以兴，今圣皇受命，神雀来也。
+《钓竿》依旧名，言圣皇德配尧舜，又有吕望之佐，济大功，致太平也。
+其辞并列之于后云。灵之祥
+translation: 
+When Emperor Wu was ordered to ascend the throne, he ordered Fu Xuan to compose twenty-two poems, describing the merits of Jin in replacing Wei.
+Changing "Ibis" to "Ling Zhixiang", it is said that Emperor Xuan assisted Wei, just like Yu and Shun served Yao. It not only had auspicious omens, but also used force to kill the disobedient Meng Da.
+"Si Bei Weng" was changed to "Xuan Shou Ming", which tells the story of Emperor Xuan resisting Zhuge Liang, accumulating prestige, and transporting magical troops. Zhuge Liang died of fear.
+"Ai Ru Zhang" was changed to "Conquering Liaodong", which tells the story of Emperor Xuan crossing the sea to destroy the Gongsun family and take its leader.
+The "Shangzhihui" was changed to "Xuan Fu Zheng", which stated that Emperor Xuan had profound virtues, brought order to chaos, and established the order of heaven and earth by attracting civil and military talents.
+"Yongli" was changed to "The Times Are Troubled", which tells the story of Emperor Xuan's expedition against the State of Wu, and whether there was an expedition or not.
+Changing "Zhan Cheng Nan" to "Jing Long Fei", it tells the story that Emperor Jing showed his majesty, rewarded the good and the bad, prospered without borders, and made the emperor's foundation even taller.
+Changing "Wushan Gao" to "Ping Yuheng", it tells the story of Emperor Jing unifying the different customs of all countries, unifying the estranged hearts of the world, respecting the virtuous and raising scholars, and inheriting the great legacy.
+"Shangling" was changed to "Wenhuang Tongbaikui", which states that Emperor Wen first unified all political affairs, employed people in an orderly manner, and imparted the teaching of peace.
+Change "Jian Jin Jiu" to "Because of Fortune", which states that according to the changes in fortune, he secretly implemented a sage plan to get rid of the long snake and disperse the group of rebels, use martial arts to support literature, and encourage people to practice their virtues.
+"Yousi" was changed to "Weiyong Shu", which states that after Emperor Wen pacified Wancheng Shu, he enfeoffed the princes of all countries and restored the fifth-level titles.
+"Fangshu" was changed to "Tianxu", which stated that the Holy Emperor should ascend to the throne according to the circumstances, greatly benefit the world's living beings, and employ people to make full use of their talents.
+The "Shangxie" was changed to "The Carrying Period of the Jin Dynasty", which stated that the Holy Emperor should be accepted and taught, and his teachings should be like gods.
+"Jun Ma Huang" was changed to "Jin Ling Yun", which tells that the Holy Emperor came to the throne and offered sacrifices to the ancestral temple, so that filial piety was practiced throughout the world.
+Change "Pheasant Class" to "Yu Mu Wohuang", which states that the Holy Emperor received Zen and his virtues were in line with the gods.
+The "Sage Comes Out" was changed to "Zhongchun Zhenlu", which tells the story of the Jin Dynasty's promotion of civil and military teachings and hunting in time.
+"Lingaotai" was changed to "Xia Miao Tian", which tells the story of the Jin Dynasty's hunting and hunting in accordance with the season to eliminate damage to the seedlings.
+Changing "Yuan Ru Schedule" to "Hedgefield in Mid-Autumn", it states that although the Jin Dynasty was civilized and virtuous, it did not abandon military affairs and carried out killings in accordance with the times.
+"Shi Liu" was changed to "Shun Tian Dao", which tells the story of a military parade in mid-winter, using martial arts to cultivate literature, and selling great virtues to match the sky.
+"Wucheng" was changed to "Tang Yao", which tells the story of the Holy Emperor ascending to the throne and his moral education enlightening the world.
+"Xuanyun" still has the same name, describing how the Holy Emperor employs people and makes full use of their talents.
+Changing "Huang Jue Xing" to "Bo Yi", it tells the story of Chiwu holding the book, the rise of the Zhou Dynasty, the Holy Emperor receiving the destiny, and the divine bird flying here.
+"Diaogan" still has the same name, describing the virtues of the sage emperors who matched Yao and Shun, and how they were assisted by talented people like Lu Wang, who achieved great achievements and achieved peace.
+Their words are listed below. "Ling Zhixiang"
+
+summary:
+summary line 4: When Emperor Wu was ordered to ascend the throne, he ordered Fu Xuan to compose twenty-two poems, describing the merits of Jin in replacing Wei. These poems changed song names like "Ibis" to "Ling Zhixiang," describing Emperor Xuan's assistance to Wei, and "Si Bei Weng" to "Xuan Shou Ming," describing Emperor Xuan's resistance to Zhuge Liang. Other songs were changed to describe events like "Conquering Liaodong," "Xuan Fu Zheng," and "The Times Are Troubled." The poems list the lyrics for each song, praising the emperors' virtues and achievements.
+
+Chunk 10: 
+original: 
+赤乌衔书至，天命瑞周文。
+神雀今来游，为我受命君。
+嘉祥致天和，膏泽隆青云。
+兰风发芳气，盖世同其芬。
+钓竿
+钓竿何冉冉，甘饵芳且鲜。
+临川运思心，微纶沈九泉。
+太公宝此术，乃在《灵秘》篇。
+机变随物移，精妙贯未然。
+游鱼惊著钓，潜龙飞戾天。
+戾天安所至？
+抚翼翔太清。
+太清一何异，两仪出浑成。
+玉衡正三辰，造化赋群形。
+退愿辅圣君，与神合其灵。
+我君弘远略，天人不足并。
+天人初并时，昧昧何芒芒。
+日月有徵兆，文象兴二皇。
+蚩尤乱生灵，黄帝用兵征万方。
+逮夏禹而德衰，三代不及虞与唐。
+我皇盛德配尧舜，受禅即阼享天祥。
+率土蒙祐，靡不肃，庶事康。
+庶事康，穆穆明明。
+荷百禄，保无极，永太平。
+鼙舞，未详所起，然汉代已施于燕享矣。
+傅毅、张衡所赋，皆其事也。
+旧曲有五篇，一、《关东有贤女》，二、《章和二年中》，三、《乐久长》，四、《四方皇》，五、《殿前生桂树》，其辞并亡。
+曹植《鼙舞诗序》云： 故汉灵帝西园鼓吹有李坚者，能鼙舞，遭世荒乱，坚播越关西，随将军段煨。
+先帝闻其旧伎，下书召坚。
+坚年逾七十，中间废而不为，又古曲甚多谬误，异代之文，未必相袭，故依前曲作新歌五篇。
+及泰始中，又制其辞焉。
+其舞故常二八，桓玄将僭位，尚书殿中郎袁明子启增满八佾。
+泰始中歌辞今列之后云。
+鼙舞歌诗五篇
+洪业篇当魏曲《明明魏皇帝》，古曲《关东有贤女》。
+宣文创洪业，盛德在泰始。
+translation: 
+Chi Wu flew with the book in his hand, indicating that Zhou Wen's destiny was auspicious.
+Today the divine bird is flying here to swim, flying to be my appointed king.
+Good omens and auspiciousness bring peace to the sky, and virtues bring blessings to all people.
+The wind of orchid and hibiscus is fragrant, and the whole world shares its fragrance.
+"fishing rod"
+The fishing rod is so soft, the bait is sweet, fragrant and fresh.
+Fishing in Linchuan transports the mind, and the thin fishing line is tied and sunk in Jiuquan.
+Weibin Taigong treasured this technique, which is in the chapter "Ling Mi".
+Move from the object to adapt to changes, and use your heart to understand the situation before it happens.
+The swimming fish scatter in fright and touch the fishing hook, while the hidden dragon finally flies into the sky.
+Where does the dragon fly in the sky?
+The wings beat and the wind soared too clearly.
+What's the difference between Taiqing and Yi? The two instruments begin to separate into Huncheng.
+Xuanji jade is at the right three-star mark, and the heaven and earth are endowed with various shapes.
+Xun Rang is willing to assist the Holy King, advance and retreat in harmony with the spirit of God.
+I, the king of the Jin Dynasty, have a great and far-reaching strategy, and heaven and man are not enough to be named together.
+When the celestial phenomena and human affairs first merged, there was so much chaos and confusion.
+There are signs in human affairs, the sun and the moon, and the laws of heaven and literature bring prosperity to the two emperors.
+Chi You massacred all living beings, and Huang Di used his troops to conquer thousands of people.
+When Xia Yu's saintliness declined, the three generations were not as good as Yu and Tang.
+Our emperor is a great virtuous companion to Yao and Shun. He ascended the throne by Zen and enjoyed the auspiciousness of heaven.
+The shore of the land is blessed by God, everyone is solemn, and everyone is in good health.
+All is well, Mu Mu is obviously our emperor.
+Inherit Bailu, protect boundless borders, and live in peace and prosperity forever.
+I don’t know when it started, but it has been used for feasting and enjoying rituals.
+Only the poems written by Qian and Tuiman have mentioned this matter.
+There are five old songs in total, 1. "There is a Wise Woman in Guandong", 2. "In the Second Year of Zhanghe", 3. "The Music Will Last for a Long Time", 4. "Emperor from Four Directions", and 5. "The Osmanthus Tree Grows in Front of the Palace", all of which have been lost.
+Cao Zhi's "Preface to the Poems on the Chao Dance" says: In the past, there was a famous Li Jian in the Western Garden of Emperor Mo Ling who was good at playing music and could dance the Chao dance. However, when the world was in chaos, Li Jian went into exile in Guanxi and followed the general Duan Xuan.
+The late emperor heard that he had old skills and sent a letter to summon Li Jian.
+Li Jian is over seventy years old, and has been neglected for a long time. In addition, there are many errors in the ancient songs, and the texts of different generations may not be the same. Therefore, he wrote five new songs based on the previous songs.
+At the beginning of Taishi, he made another speech.
+In the past, the dance was performed with two yi, but when Huan Xuan wanted to usurp the throne, Yuan Mingzi, the minister of the Shangshu Palace, played the Ming Dynasty and the emperor increased the number to eight yi.
+The poems from Taishi are now listed below.
+Five poems about the dance:
+"Hong Ye Pian" is equivalent to the Wei song "Ming Ming Emperor Wei" and the ancient song "There is a Wise Woman in Guandong".
+Xuanwen made great achievements with great difficulty, and the great virtues of the Jin Dynasty began in Tai.
+
+summary:
+summary line 5: There are five old songs: "There is a Wise Woman in Guandong," "In the Second Year of Zhanghe," "The Music Will Last for a Long Time," "Emperor from Four Directions," and "The Osmanthus Tree Grows in Front of the Palace," all lost. Cao Zhi's "Preface to the Poems on the Chao Dance" mentions that Li Jian, skilled in Chao dance, was summoned by the late emperor. Li Jian, over seventy, wrote five new songs based on old ones. At the beginning of Taishi, another speech was made. The dance was performed with two yi, but Huan Xuan increased it to eight yi. The poems from Taishi include "Hong Ye Pian," "The Destiny Pian," "Jinghuang Pian," "Da Jin Pian," and "Ming Jun Pian," each equivalent to Wei or ancient songs.
+
+Chunk 15: 
+original: 
+空床低帏，谁知无人。
+夜衣锦绣，谁别伪真。
+刀鸣鞘中，倚床无施。
+父冤不报，欲活何为。
+猛兽班班，游戏山间。
+兽欲啮人，不避豪贤。
+碣石篇
+东临碣石，以观沧海。
+水何淡淡，山岛竦峙。
+树木丛生，百草丰茂。
+秋风萧瑟，洪波涌起。
+日月之行，若出其中。
+星汉灿烂，若出其里。
+幸甚至哉，歌以咏志。
+《观沧海》
+孟冬十月，北风徘徊。
+天气肃清，繁霜霏霏。
+鹍鸡晨鸣，雁过南飞。
+鸷鸟潜藏，熊罴窟栖。
+耨鑮停置，农收积场。
+逆旅整设，以通贾商。
+幸甚至哉，歌以咏志。
+《冬十月》
+乡土不同，河朔隆塞。
+流澌浮漂，舟船行难。
+锥不之地，丰籁深奥。
+水竭不流，冰坚可蹈。
+士隐者贫，勇侠轻非。
+心常叹怨，戚戚多悲。
+幸甚至哉，歌以咏志。
+《土不同》
+神龟虽寿，犹有竟时。
+腾蛇乘雾，终为土灰。
+骥老伏枥，志在千里。
+烈士暮年，壮心不已。
+盈缩之期，不但在天。
+养怡之福，可得永年。
+幸甚至哉，歌以咏志。
+《龟虽寿》
+淮南王篇
+淮南王，自言尊，百尺高楼与天连。
+后园凿井银作床，金瓶素绠汲寒浆。
+汲寒浆，饮少年，少年窈窕何能贤。
+扬声悲歌音绝天。
+我欲渡河河无梁，愿作双黄鹄，还故乡。
+还故乡，入故里，徘徊故乡，若身不已。
+繁舞奇歌无不泰，徘徊桑梓游天外。
+鼓角横吹曲。
+translation: 
+The curtains were hung on the empty bed, but no one knew there was anyone inside.
+Wearing embroidered clothes at night will help you identify the fake ones.
+The sword is not flat and cries in the scabbard, but the body is leaning on the bed and there is nothing to do.
+What do you want to do in this world if you can't avenge your own father?
+The beasts can be seen everywhere, and the game is in the mountains.
+Wild beasts want to eat people, regardless of the virtuous or the virtuous.
+"Jieshi Chapter"
+Shuzheng came to Jieshi and was able to view the sea.
+How vast and light the sea is, how majestic the mountains and islands are.
+The island is covered with trees and lush grass.
+The autumn wind is bleak, the trees are shaking down, and the sea is raging.
+The movement of the sun and moon in the sky is reflected in it.
+The stars in the river are shining brightly, seemingly out of its surroundings.
+Fortunately, I even wrote a song to express my ambition.
+"Viewing the Sea"
+It was the tenth month of Mengdong, and the north wind was blowing slowly.
+The weather is solemn and refreshing, with heavy frost and heavy frost.
+The gulls and chickens chirped in the morning, and the wild geese soared southward.
+Frightened birds and raptors lurk, and bears have already taken shelter in their caves.
+Farm tools such as hoes and hoes are idle, and crops are accumulated in the field.
+The guest house has been renovated to provide accommodation for visiting merchants.
+Fortunately, I even wrote a song to express my ambition.
+"Winter October"
+Different regions and localities, the river is cold in the middle of winter.
+Drift ice floated on the river, making it difficult for boats to pass.
+The cold weather does not penetrate the ground, and the north wind roars.
+Water freezes but does not flow, and ice is hard enough to walk on.
+The hermits among scholars are mostly poor, while the brave and righteous men are ill and ill.
+My heart often sighs and complains, and my relatives are filled with sorrow.
+Fortunately, I even wrote a song to express my ambition.
+"Different Soils"
+Although the turtle lives a long life, it will eventually die.
+The soaring snake rides on the clouds and mist, and eventually turns into ashes.
+The old man crouched on the horse's pole, aiming to gallop thousands of miles.
+Although the martyrs are in their old age, their ambitions are endless.
+Periods of ups and downs, misfortunes and blessings, do not all depend on God.
+The blessings of cultivating one's nature and enjoying one's emotions can be obtained and enjoyed forever.
+Fortunately, I even wrote a song to express my ambition.
+"The Turtle Lives Longevity"
+"The King of Huainan"
+The King of Huainan, he respected himself and built a hundred-foot-high building connected to the sky.
+In the back garden, a well was dug with silver as a frame, and a gold vase with a plain rope was used to collect cold slurry.
+Drinking cold liquid, drinking young people, young people will be slim, talented and virtuous.
+Raise your voice and sing songs of sorrow that are astonishing to the heavens.
+I want to cross the river without a bridge, and I would like to be a pair of yellow swans to accompany you back to your hometown.
+Return to my hometown, return to my hometown, and linger in my hometown.
+The dances and strange songs in my hometown are all peaceful, so why don’t I just travel to my hometown and travel to other places?
+Drum and horn horizontal blowing music.
+
+summary:
+summary line 6: The text also describes various dances and songs, such as the "White Dove" dance, "Ji Ji Chapter," "Dulu Chapter," "Jieshi Chapter," "Viewing the Sea," "Winter October," "Different Soils," "The Turtle Lives Longevity," and "The King of Huainan." These songs and dances are associated with specific historical figures and events, often praising virtues and achievements.
+
+Chunk 16: 
+original: 
+鼓，案《周礼》 以鼓鼓军事 。
+角，说者云，蚩尤氏帅魑魅与黄帝战于涿鹿，帝乃始命吹角为龙鸣以御之。
+其后魏武北征乌丸，越沙漠而军士思归，于是减为中鸣，而尤更悲矣。
+胡角者，本以应胡笳之声，后渐用之横吹，有双角，即胡乐也。
+张博望入西域，传其法于西京，惟得《摩诃兜勒》一曲。
+李延年因胡曲更造新声二十八解，乘舆以为武乐。
+后汉以给边将，和帝时，万人将军得用之。
+魏晋以来，二十八解不复具存，用者有《黄鹄》、《陇头》、《出关》、《入关》、《出塞》、《入塞》、《折杨柳》、《黄覃子》、《赤之杨》、《望行人》十曲。
+案魏晋之世，有孙氏善弘旧曲，宋识善击节唱和，陈左善清歌，列和善吹笛，郝索善弹筝，硃生善琵琶，尤发新声。
+故傅玄著书曰： 人若钦所闻而忽所见，不亦惑乎？
+设此六人生于上世，越今古而无俪，何但夔牙同契哉！
+案此说，则自兹以后，皆孙硃等之遗则也。
+相和，汉旧歌也，丝竹更相和，执节者歌。
+本一部，魏明帝分为二，更递夜宿。
+本十七曲，硃生、宋职、列和等复合之为十三曲。
+但歌，四曲，出自汉世。
+无弦节，作伎最先唱，一人唱，三人和。
+魏武帝尤好之。
+时有宋容华者，清彻好声，善唱此曲，当时之特妙。
+自晋以来不复传，遂绝。
+凡乐章古辞，今之存者，并汉世街陌谣讴，《江南可采莲》、《乌生十五子》、《白头吟》之属也。
+吴歌杂曲并出江南，东晋以来，稍有增广。
+《子夜歌》者，女子名子夜，造此声。
+孝武太元中，琅邪王轲之家有鬼歌《子夜》，则子夜是此时以前人也。
+《凤将雏歌》者，旧曲也。
+应璩《百一诗》云 言是《凤将雏》 ，然则其来久矣。
+《前溪歌》者，车骑将军沈充所制。
+《阿子》及《欢闻歌》者，穆帝升平初，歌毕辄呼 阿子，汝闻不？
+语在《五行志》。
+后人衍其声，以为此二曲。
+translation: 
+The so-called drum refers to the "Zhou Rites" saying that "drums are used to promote military affairs."
+The so-called horn, it is said that Chi You led the devils and puppets to fight in the field of Shi Gong. The emperor ordered the horn to be blown to make the sound of dragon roaring to ward off Chi.
+After that, Fudie went to the north for three days and crossed the desert. The soldiers wanted to return, so the sound was reduced to Zhongming, and its sound became even more sad.
+The so-called Hu Jiao originally corresponded to the sound of Hu Jia. Later, it was gradually used for horizontal blowing. It has double horns, which is also Hu Le.
+Zhang Bowang went to the Western Regions and passed on his playing skills to Xijing. He only got one piece, "Maha Doule".
+Li Yannian composed a new song with twenty-eight chapters based on Hu music, and the emperor used it as martial music.
+During the period of Houmo, this music was used by the border generals. During the period of Emperor He, it was used by generals who had jurisdiction over thousands of people.
+Since the Wei and Jin Dynasties, the twenty-eight chapters are no longer complete, and only ten songs are used: "Huang Hu", "Longtou", "Out of the Pass", "Entering the Pass", "Out of the Fortress", "Entering the Fortress", "Folding Willows", "Huang Tanzi", "Red Yang" and "Wang Xingren".
+Examining the Wei and Jin Dynasties, there are Sun who is good at quoting old songs, Song Shi who is good at beating verses and singing harmonies, Chen Zuo who is good at clear singing, Lie He who is good at playing the flute, Hao Su who is good at playing the zither, Zhu Sheng who is good at playing the pipa, and is especially good at making new sounds.
+That’s why Fu Xuan wrote: If people only pay attention to what they hear and ignore what they see, wouldn’t they also feel confused?
+Assuming that these six people were born in the last world, transcending the present and the past and have no one to rival them, why would only Kui Ya be the same!
+According to Fu Xuan, from then on, it was Sun Zhu and others' orders.
+The Song of Harmony is an old song from the Mo Dynasty. Silk and bamboo are overlapping to harmonize each other, and those who are responsible sing.
+Originally it was one part, but Emperor Wei Ming divided it into two parts and took turns staying at night.
+Originally composed of seventeen tunes, Zhu Sheng, Song Shi, Lie He and others combined some of the tunes to form thirteen tunes.
+There are four Danges from the Han Dynasty.
+There is no string accompaniment, the lead singer sings first, one person sings, and the three join in harmony.
+Emperor Wu of Wei was particularly fond of this.
+At that time, there was a man named Song Ronghua who had a clear voice and loved to sing. He was good at singing this song and was the most outstanding singer at that time.
+Since the Jin Dynasty, it has not been passed down again, so it is extinct.
+All the ancient lyrics of the music that have been preserved to this day, together with the street songs of the Han Dynasty, are such as "You Can Pick Lotus in the South of the Yangtze River", "Fifteen Sons of Wu Sheng", and "Baitou Yin".
+Wu songs and miscellaneous songs all come from the south of the Yangtze River, and have been slightly expanded since the beginning of the Jin Dynasty.
+"Midnight Song", according to legend, a woman named Ziye composed this song.
+During the fifth year of Xiaowu's reign, a ghost sang "Song of Midnight" in the house of the fallen king Sudan, which shows that Ziye was a person from before this time.
+"Phoenix General's Young Song" is an old song.
+There is a sentence in "One Hundred and One Poems" that is called "Phoenix General's Young Bird". This saying has been around for a long time.
+"Qianxi Song" was composed by General Chai Qi.
+As for "A Zi" and "Song of Fear of Hearing", in Nie Tong's early years, he would often call out "A Zi" at the end of the song, did you hear it?
+This statement is in "Five Elements Chronicles".
+Later generations interpreted his voice and composed these two songs.
+
+summary:
+summary line 7: Drum and horn horizontal blowing music is discussed, with the drum used to promote military affairs and the horn to ward off enemies. The music evolved from Hu music, with Zhang Bowang transmitting playing skills to Xijing. During the Wei and Jin Dynasties, only ten songs were used, such as "Huang Hu" and "Longtou." The Song of Harmony is an old song from the Mo Dynasty, with silk and bamboo overlapping to harmonize. Originally one part, Emperor Wei Ming divided it into two parts. There are four Danges from the Han Dynasty, with no string accompaniment, and the lead singer sings first. Since the Jin Dynasty, this music has been extinct.
+
+Chunk 17: 
+original: 
+《团扇歌》者，中书令王珉与嫂婢有情，爱好甚笃，嫂捶挞婢过苦，婢素善歌，而珉好捉白团扇，故制此歌。
+《懊憹歌》者，隆安初俗闻讹谣之曲，语在《五行志》。
+《长史变》者，司徒左长史王廞临败所制。
+凡此诸曲，始皆徒歌，即而被之管弦。
+又有因丝竹金石，造歌以被之，魏世三调歌辞之类是也。
+《杯柈舞》，案太康中天下为《晋世宁舞》，务手以接杯柈反覆之。
+此则汉世惟有柈舞，而晋加之以杯，反覆之也。
+《公莫舞》，今之《巾舞》也。
+相传云项庄剑舞，项伯以袖隔之，使不得害汉高祖，且语项庄云 公莫 ！
+古人相呼曰公，言公莫害汉王也。
+今之用巾盖像项伯衣袖之遗式。
+然案《琴操》有《公莫渡河曲》，然则其声所从来已久，俗云项伯，非也。
+《白纟宁舞》，案舞辞有巾袍之言。
+纟宁本吴地所出，宜是吴舞也。
+晋《俳歌》又云： 皎皎白绪，节节为双。
+吴音呼绪为纟宁，疑白纟宁即白绪也。《铎舞歌》一篇，《幡舞歌》一篇，《鼓舞伎》六曲，并陈于元会。
+后汉正旦，天子临德阳殿受朝贺，舍利从西方来，戏于殿前，激水化成比目鱼，跳跃嗽水，作雾翳日。
+毕，又化成龙，长八九丈，出水游戏，炫耀日光。
+以两大丝绳系两柱头，相去数丈，两倡女对舞，行于绳上，相逢切肩而不倾。
+魏晋讫江左，犹有《夏育扛鼎》、《巨象行乳》、《神龟抃舞》、《背负灵岳》、《桂树白雪》、《画地成川》之乐。
+成帝咸康七年，尚书蔡谟奏： 八年正会仪注，惟作鼓吹钟鼓，其余伎乐尽不作。
+侍中张澄、给事黄门侍郎陈逵驳，以为 王者观时设教，至于吉凶殊断，不易之道也。
+translation: 
+Speaking of "Song of the Tuan Fan", it was originally written by Zhongshu Ling that Wang Bao had a relationship with his sister-in-law's maid, and they loved each other very deeply. The sister-in-law beat the maid and it was very painful. The maid was good at singing, and Wang Min was good at holding a white round fan, so he composed this song.
+"The Song of Chao Nong" is a folk ballad in the early years, and it is written in "Five Elements Chronicles".
+"Chang Shi Bian" was written by Situ Zuo, Chang Shi Wang Yi, when he was defeated.
+All the above songs were sung a cappella at the beginning, and orchestral accompaniment was added later.
+Some of them are based on the music of silk, bamboo, metal and stone, and the lyrics are filled in the music. This is how Wei Shi's three-tone lyrics came about.
+Cup Loop Dance, during Kao Saichen's reign, the whole world performed the "Jin Shining Dance", which was performed repeatedly by holding cups and plates with hands.
+This dance only had a pan dance in the lotus world, but in the Jin Dynasty a cup was added, and the hands were repeatedly used to catch the cup and plate.
+"Gong Mo Wu" is today's scarf dance.
+According to legend, Xiang Zhuang was dancing with his sword. Xiang Bo blocked Xiang Zhuang's sword with his sleeve so that he could not harm Emperor Gaozu of the Han Dynasty. He also said to him, "Gong Mo!"
+The ancients called each other "gong", which meant that "gong" should not harm the king of Han.
+Today, the scarf is used to cover Xiang Bo's sleeves to symbolize the way he wears his sleeves.
+However, according to "Qin Cao" there is "Gong Mo Crossing the River Song", which shows that his song has a long history. It is wrong to say that he is Xiang Bo.
+Bai Yu Wu, Cha Wu Ci has the words "turban and robe".
+Yu originally came from Yudi, so it should be Yuwu.
+Zhi "Hai Ge" also said: The white thread is bright and white, and each section is double.
+The pronunciation of the pronunciation is that Xu is Yu, and Bai Chu may be Bai Xu. One piece of Duo Dance Song, one piece of Flag Dance Song, and six pieces of "Drum Dance" were presented together at the New Year's Day gathering.
+On the New Year's Day of the Later Han Dynasty, the emperor came to Deyang Hall to receive congratulations from his ministers. Relics came from the west and were played in front of the hall. They stirred up the water and turned into flounder. They jumped to absorb the water and squirted the water into mist to block the sun.
+Then, it transformed into a dragon, eight or nine feet long, played in the water, and was dazzling in the sunlight.
+Two large silk ropes were tied to the tops of the two pillars, several feet apart. The two women danced opposite each other, walking on the silk ropes. They passed each other but did not fall.
+Since the Wei and Jin Dynasties ended in Jiangzuo, there are still the joys of "Xia Yu Carrying the Cauldron", "The Giant Elephant Breastfeeding", "The Divine Turtle Dancing", "Carrying the Spiritual Mountain", "The Osmanthus Tree and the White Snow", and "The Painted Land Is a Sichuan".
+In the seventh year of Emperor Cheng's reign in Xiankang, Shangshu Cai Mo wrote: In the eighth year of the New Year's Day, only the music of bells, drums and drums was played, and all other musical instruments were not played.
+Zhang Cheng, the minister in charge, and Chen Kui, the minister in charge of the Huangmen Gate, refuted it, saying that the king sets his teachings according to the times, and that the judgment of good or bad is unchanging.
+
+summary:
+summary line 8: Wu songs and miscellaneous songs come from south of the Yangtze River, with songs like "Midnight Song," "Phoenix General's Young Song," and "Qianxi Song" composed by various individuals. Cup Loop Dance and "Gong Mo Wu" are also described, with the latter associated with Xiang Zhuang and Xiang Bo. Bai Yu Wu and other dances are mentioned, with lyrics and performances presented at New Year's Day gatherings. In the seventh year of Emperor Cheng's reign, Shangshu Cai Mo wrote about the use of music, with debates on whether to play bells and drums. Eventually, some acrobatic music was abolished, but later restored.
+

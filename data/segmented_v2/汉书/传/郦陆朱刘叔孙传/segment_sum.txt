@@ -1,0 +1,331 @@
+Summary uses chunk [0, 3, 5, 6, 9]
+
+Chunk 0: 
+original: 
+郦食其，陈留高阳人也。
+好读书，家贫落魄，无衣食业。
+为里监门，然吏县中贤豪不敢役，皆谓之狂生。
+及陈胜、项梁等起，诸将徇地过高阳者数十人，食其闻其将皆握龊好荷礼自用，不能听大度之言，食其乃自匿。
+后闻沛公略地陈留郊，沛公麾下骑士适食其里中子，沛公时时问邑中贤豪。
+骑士归，食其见，谓曰： 吾闻沛公嫚易人，有大略，此真吾所愿从游，莫为我先。
+若见沛公，谓曰 臣里中有郦生，年六十余，长八尺，人皆谓之狂生，自谓我非狂。
+骑士曰： 沛公不喜儒，诸客冠儒冠来者，沛公辄解其冠，溺其中。
+与人言，常大骂。未可以儒生说也。
+食其曰： 第言之。
+骑士从容言食其所戒者。
+沛公至高阳传舍，使人召食其。食其至，入谒，沛公方踞床令两女子洗，而见食其。
+食其入，即长揖不拜，曰： 足下欲助秦攻诸侯乎？
+欲率诸侯破秦乎？
+沛公骂曰： 竖儒！
+夫天下同苦秦久矣，故诸侯相率攻秦，何谓助秦？
+食其曰： 必欲聚徒合义兵诛无道秦，不宜踞见长者。
+于是沛公辍洗，起衣，延食其上坐，谢之。
+食其因言六国从衡时，沛公喜，赐食其食，问曰： 计安出？
+食其曰： 足下起瓦合之卒，收散乱之兵，不满万人，欲以径人强秦，此所谓探虎口者也。
+夫陈留，天下之冲，四通五达之郊也，今其城中又多积粟，臣知其令，今请使，令下足下。
+即不听，足下举兵攻之，臣为内应。
+于是遣食其往，沛公引兵随之，遂下陈留。
+号食其为广野君。
+食其言弟商，使将数千人从沛公西南略地。
+食其常为说客，驰使诸侯。
+translation: 
+Li Shiqi was born in Gaoyang, Chenliu County.
+He likes to study, but his family is poor and he has no job to obtain food and clothing.
+He worked as a gatekeeper for the village, but neither the officials nor the powerful people in the county dared to use him, thinking that he was a wild young man.
+When Chen Sheng, Xiang Liang and others revolted, various generals captured many areas. Dozens of them passed through Gaoyang County. Li Shiqi heard that these generals were narrow-minded, rigid about trivial etiquette, self-righteous, and unable to listen to good advice, so Li Shiqi hid.
+Later, I heard that Pei Gong led his army to the suburbs of Chenliu. There was a cavalryman under Pei Gong who happened to be Li Shiqi's fellow villager. Pei Gong often asked him whether there were sages and heroes in the city.
+When the knight returned home, Li Shiqi said to him: I heard that Pei Gong was arrogant and contemptuous of others, but he was very far-sighted. This is really the person I want to associate with. Let me introduce him first.
+If you see Pei Gong, tell him: There is a gentleman named Li in my hometown, who is over sixty years old and eight feet tall. People think he is arrogant, but he himself said that I am not frivolous.
+The cavalry said: Pei Gong does not like to associate with scholars. If any of the invited guests wears a Confucian hat, Pei Gong will take off his hat and urinate in the hat.
+When talking to people, they often curse scholars, so don't talk like a Confucian scholar.
+Li Shiqi said: Just say so.
+The cavalryman calmly explained to Pei Gong as Li Shiqi had warned him.
+Pei Gong arrived at the official residence in Gaoyang County and sent someone to summon Li Shiqi. When Li Shiqi arrived, Pei Gong sat on the bed and asked two women to wash his feet. This was how he summoned Li Shiqi.
+When Li Shiqi entered the room, he handed over his hands without bowing and said: "Do you want to help Qin attack the princes?"
+Or do you want to lead the princes to destroy the Qin Dynasty?
+Pei Gong scolded: You despicable Confucian scholar!
+The people of the world have suffered from Qin for a long time, so the princes led their troops to attack Qin one after another. How can you say you are helping Qin?
+Li Shiqi said: If you want to gather the people and rally the rebels to overthrow the tyrannical rule of Qin, you should not sit by the bedside and summon the old man.
+So Pei Gong stopped washing his feet, got up, put on his clothes, asked Li Shi to sit on his seat, and apologized to Li Shi.
+Li Shiqi then talked about the situation when the six countries united. Pei Gong was very happy, gave Li food to eat, and asked: "Do you have any good plans?"
+Li Shiqi said: You have gathered less than 10,000 untrained men. If you want to directly attack the powerful Qin State, it can be said that you are putting your hand into the tiger's mouth!
+Chenliu County is located at the heart of the world and is connected in all directions. Now there is a lot of food stored in the city. I have always been friendly with the magistrate of Chenliu. Now please appoint me as your envoy to order him to surrender.
+If he doesn't obey, you send troops to attack him, and I will respond internally.
+So he sent Li Shiqi to Chenliu County, and Pei Gong led his troops to follow him, and finally captured Chenliu.
+Pei Gong granted Li Shi the title of Lord of Guangye.
+Li Shiqi recommended his younger brother Li Shang to lead thousands of people to follow Peigong to the southwest to seize land.
+Li Shiqi often worked as a lobbyist, traveling among the princes to lobby.
+
+summary:
+summary line 0: Li Shiqi of Gaoyang was a learned man from a poor family who worked as a village gatekeeper. When various rebel generals passed through Gaoyang during the uprisings against Qin, he hid from them, considering them narrow-minded. Upon hearing that Pei Gong (later Emperor Gaozu of Han) was far-sighted, Li Shiqi arranged an introduction through a fellow villager serving under Pei Gong. Despite Pei Gong's disdain for Confucian scholars, Li Shiqi boldly criticized him for washing his feet while receiving visitors. Pei Gong apologized, and Li Shiqi advised him to seize Chenliu County, which had abundant food stores. Li Shiqi persuaded the magistrate to surrender, and Pei Gong captured Chenliu, granting Li Shiqi the title of Lord of Guangye. Later, when the Han army was besieged, Li Shiqi urged the King of Han to seize Aocang's grain supplies and strategic positions. He then volunteered to persuade the King of Qi to submit to Han, successfully convincing Tian Guang to surrender. However, Han Xin attacked Qi anyway, and Tian Guang, believing Li Shiqi had deceived him, executed him.
+
+Chunk 3: 
+original: 
+五年之间，海内平定，此非人力，天之所建也。
+天也闻君王王南越，而不助天下诛暴逆，将相欲移兵而诛王，天子怜百姓新劳苦，且休之，遣臣授君王印，剖符通使。
+君王宜郊迎，北面称臣，乃欲以新造未集之越屈强于此。
+汉诚闻之，掘烧君王先人冢墓，夷种宗族，使一偏将将十万众临越，即越杀王降汉，如反覆手耳。
+于是佗乃蹶然起坐，谢贾曰： 居蛮夷中久，殊失礼义。
+因问贾曰： 我孰与萧何、曹参、韩信贤？
+贾曰： 王似贤也。
+复问曰： 我孰与皇帝贤？
+贾曰 皇帝起丰沛，讨暴秦，诛强楚，为天下兴利除害，继五帝三王之业，统天下，理中国。
+中国之人以亿计，地方万里，居天下之膏腴，人众车舆，万物殷富，政由一家，自天地剖判未始有也。
+今王众不过数万，皆蛮夷，崎岖山海间，譬如汉一郡，王何乃比于汉！
+佗大笑曰： 吾不起中国，故王此。
+使我居中国，何遽不若汉？
+乃大说贾，留与饮数月。
+曰： 越中无足与语，至生来，令我日闻所不闻。
+赐贾橐中装直千金，它送亦千金。
+贾卒拜佗为南越王，令称臣奉汉约。
+归报，高帝大说，拜贾为太中大夫。
+贾时时前说称《诗》、《书》。
+高帝骂之曰： 乃公居马上得之，安事《诗》、《书》！
+贾曰： 马上得之，宁可以马上治乎？
+且汤、武逆取而以顺守之，文帝并用，长久之术也。
+昔者吴王夫差、智伯极武而亡；秦任刑法不变，卒灭赵氏。
+乡使秦以并天下，行仁义，法先圣，陛下安得而有之？
+高帝不怿，有惭色，谓贾曰： 试为我著秦所以失天下，吾所以得之者，及古成败之国。
+translation: 
+In the past five years, the country has been peaceful. This is not the result of human power, but the work of God.
+The emperor heard that the emperor was proclaimed king in South Vietnam and did not help the people of the world to eliminate the tyrannical forces. The general originally wanted to send troops to kill the emperor, but the emperor took pity on the people who had just finished their hard work and needed to rest and recuperate, so he sent me to grant the emperor the seal, divide the talisman letters, and exchange envoys.
+The king should go to the outskirts to welcome him, and to the north to proclaim his vassalship, but you actually want to use this newly-established country with unpopular hearts and unconsolidated political power to claim strength here.
+If the King of Han really hears about it, he will dig up and burn the graves of your ancestors, annihilate your clan, and send a lieutenant general to lead a hundred thousand people to attack Yue. The Yue people will kill the king and surrender to the Han. It will be easy to conquer.
+So Wei Tuo stood up in shock and apologized to Lu Jia: "I have lived among barbarians for a long time. It is really rude."
+So he asked Lu Jia: Who is better among me, Xiao He, Cao Shen, and Han Xin?
+Lu Mai said: The king is wiser than them.
+He asked again: Who is more worthy than the emperor?
+Lu Jia said: The emperor raised troops in Fengpei to attack the violent Qin, destroyed the powerful Chu army, brought benefits and eliminated harm to the people of the world, inherited the great cause of the five emperors and three kings, unified the world, and governed the country.
+The Central Plains has hundreds of millions of people and thousands of miles of land. It is the most fertile land in the world. It has a large number of people, prosperous carriages and horses, rich everything, and unified political power. It has never been seen since the beginning of the world.
+Now the king's population is only tens of thousands, and they are all barbarians. They are located between rugged mountains and seas, just like a county in Han Dynasty. How can the king compare with the king of Han?
+Wei Tuo laughed and said: I did not raise troops in the Central Plains, so I became king here.
+If I were in the Central Plains, how could I be inferior to the Han people?
+So he liked Lu Jia very much and kept him feasting for several months.
+Said: There is no one in South Vietnam who can talk to me. Since my husband came, I heard things I had never heard before.
+The jewelry Lu bought as a reward was worth thousands of gold, and the other gifts he gave were also worth thousands of gold.
+Lu Jia finally worshiped Wei Tuo as the King of Nanyue and asked him to surrender to the Han Dynasty and obey the orders of the Han Dynasty.
+Lu Jia came back and reported that the emperor was very happy and worshiped Lu Mai as Taizhong doctor.
+Lu Jia often discussed "The Book of Songs" and "Book of Songs" in front of the emperor.
+The emperor scolded him and said: You and I conquered the world on horseback, why do we study the Book of Songs and the Book of Documents?
+Lu Mai said: If you can conquer the world on a horse, can you also rule the world on a horse?
+Moreover, King Tang of Shang and King Wu of Zhou used force to seize the world but defended it with benevolence and righteousness. The combination of civil and military forces is the long-term way to govern the country.
+In the past, the kings of Wu, Fu Chai and Zhi Bo, perished because of their aggressive military tactics. The Qin State, which blindly used criminal laws without changing them, finally perished.
+If Qin can practice benevolence and righteousness after unifying the world and imitate the ancient sages, how can your majesty conquer the world?
+Emperor Gao looked displeased and ashamed, so he said to Lu Jia: Please try to write for me the reasons why Qin lost the world and I was able to gain it, and the situations of successful and failed countries since ancient times.
+
+summary:
+summary line 1: Lu Jia of Chu was a skilled orator who served as an envoy for Emperor Gaozu. He was sent to South Vietnam to grant Wei Tuo the king's seal. When Wei Tuo received him disrespectfully, Lu Jia warned him that the Han emperor could easily destroy him. Wei Tuo apologized and acknowledged Han's superiority. Lu Jia successfully secured South Vietnam's submission. Later, when Emperor Gaozu dismissed the value of studying the classics, Lu Jia argued that while one could conquer the world on horseback, one could not govern it that way. He wrote twelve essays explaining why Qin fell and Han succeeded, which became known as the "New Speeches." During Empress Dowager Lu's regency, Lu Jia retired but later advised Chancellor Chen Ping to ally with General Zhou Bo to counter the Lu family's conspiracy. His strategy helped preserve the Liu imperial house.
+
+Chunk 5: 
+original: 
+孝文即位，欲使人之南越，丞相平乃言贾为太中大夫，往使尉佗，去黄屋称制，令比诸侯，皆如意指。
+语在《南越传》。
+陆生竟以寿终。
+朱建，楚人也。故尝为淮南王黥布相，有罪去，后复事布。
+布欲反时，问建，建谏止之。布不听，听梁父侯，遂反。
+汉既诛布，闻建谏之，高祖赐建号平原君，家徙长安。
+为人辩有口，刻廉刚直，行不苟合，义不取容。
+辟阳侯行不正，得幸吕太后，欲知建，建不肯见。
+及建母死，贫未有以发丧，方假貣服具。
+陆贾素与建善，乃见辟阳侯，贺曰： 平原君母死。
+辟阳侯曰： 平原君母死，何乃贺我？
+陆生曰： 前日君侯欲知平原君，平原君义不知君，以其母故。
+今其母死，君诚厚送丧，则彼为君死矣。
+辟阳侯乃奉百金税，列侯贵人以辟阳侯故，往赙凡五百金。
+久之，人或毁辟阳侯，惠帝大怒，下吏，欲诛之。
+太后惭，不可言。
+大臣多害辟阳侯行，欲遂诛之。
+辟阳侯困急，使人欲见建。
+建辞曰： 狱急，不敢见君。
+建乃求见孝惠幸臣闳籍孺，说曰： 君所以得幸帝，天下莫不闻。
+今辟阳侯幸太后而下吏，道路皆言君谗，欲杀之。
+今日辟阳侯诛，且日太后含怒，亦诛君。
+君何不肉袒为辟阳侯言帝？
+帝听君出辟阳侯，太后大驩。
+两主俱幸君，君富贵益倍矣。
+于是闳籍孺大恐，从其计，言帝，帝果出辟阳侯。
+辟阳侯之囚，欲见建，建不见，辟阳侯以为背之，大怒。
+乃其成功出之，大惊。
+吕太后崩，大臣诛诸吕，辟阳侯与诸吕至深，卒不诛。
+计画所以全者，皆陆生、平原君之力也。
+孝文时，淮南厉王杀辟阳侯，以党诸吕故。
+孝文闻其客朱建为其策，使吏捕欲治。
+闻吏至门，建欲自杀。
+诸子及吏皆曰： 事未可知，何自杀为？
+建曰： 我死祸绝，不及乃身矣。
+遂自刭。
+文帝闻而惜之，曰： 吾无杀建意也。
+乃召其子，拜为中大夫。
+使匈奴，单于无礼，骂单于，遂死匈奴中。
+translation: 
+Emperor Xiaowen came to the throne and wanted to send someone as an envoy to South Vietnam. Prime Minister Chen Ping reported to the emperor that Lu Mai should be appointed as the Taizhong doctor and sent as an envoy to South Vietnam. Wei Tuo gave up his imperial title and agreed with the princes, which was in line with the court's wishes.
+These events are recorded in "The Biography of South Vietnam".
+Lu Jia finally died.
+Zhu Jian, a native of Chu, once served as the prime minister of Huainan King Yingbu. He fled because of a crime and later followed Yingbu again.
+When Ying Bu wanted to rebel, he asked Zhu Jian. Zhu Jian advised him not to rebel, but Ying Bu refused to listen and listened to his father Liang, so he rebelled.
+The Han Dynasty suppressed Ying Bu. Hearing that Sai Jian had discouraged Yun Hu from making it, he gave Gui Jian the title of Lili Jun and his family moved to Chang'an.
+Sai Jian is a eloquent and talented person, with a clean and upright character. His behavior is different from that of others, and he does not agree with others casually when interacting with others.
+Marquis Piyang behaved improperly and was favored by Empress Dowager Lu. He wanted to make friends with Zhu Jian, but Zhu Jian refused to see him.
+When Zhu Jian's mother passed away, she had no money to pay for the funeral because of poverty, so she borrowed money to buy mourning clothes and funeral utensils.
+Lu Jia had always been friendly with Ji Jian, so he went to see Piyang Hou and congratulated him: "Pingyuan Jun's mother is dead."
+Marquis Piyang said: Lord Pingyuan's mother is dead, why do you congratulate me?
+Lu Mai said: A few days ago, Junhou wanted to make friends with Guijian. Mr. Pingyuan insisted on the principle of righteousness and refused to see you because of his mother.
+Now that his mother is dead, if you really give generous gifts at the funeral, then he will become a good friend who will die for you.
+Marquis Piyang then presented him with a hundred gold pieces of clothing and quilt. Other princes and nobles also went to send a total of five hundred gold to support the funeral because of Lord Piyang.
+As time went by, some people slandered Piyanghou. Emperor Hui was furious and arrested Piyanghou and wanted to kill him.
+The Queen Mother felt very ashamed, but could not say it herself.
+Most of the ministers were deeply dissatisfied with the behavior of Marquis Piyang, so they all wanted to kill him.
+The Marquis of Piyang was afraid and anxious, so he sent someone to see Sai Jian.
+Sejian declined and said: Your case is at a critical moment and I dare not see you.
+Zhu Jian then asked to see Ji Qiang, Emperor Xiaohui's lucky minister, and said: "You are favored by the emperor, and everyone in the world knows it."
+Now that Hou Piyang was favored by the Queen Mother and was imprisoned, people on the road said that you had said bad things to the emperor, so the emperor wanted to kill him.
+Today Marquis Piyang was killed, and tomorrow the Queen Mother will be angry and kill you too.
+Why don't you speak kindly to the emperor for Piyanghou?
+If the emperor listens to your words and releases Piyanghou, the queen mother will be very happy.
+If both monarchs favor you, you will be doubly rich.
+So Hong Jiru was frightened, followed Zhu Jian's plan, and advised the emperor, and the emperor released Piyanghou.
+When Marquis Piyang was about to be imprisoned, he wanted to see Zhu Jian, but Zhu Jian didn't see him. Marquis Piyang thought Sai Jian had betrayed him and was furious.
+It was a surprise when he managed to get out of prison.
+After the death of Queen Mother Lu, the ministers wanted to kill all the Lu family members. The Marquis of Piyang had a close relationship with the Lu family, but in the end he was not killed.
+The success of the plan was all due to the efforts of Lu Jia and Pingyuan Jun.
+During the reign of Emperor Xiaowen, King Li of Huainan killed Marquis Piyang because he had formed a party with the Lu family.
+Emperor Xiaowen learned that it was Zhu Jian who was advising him, so he sent officials to arrest him and punish him.
+When he heard that the official had arrived at the door, Zhu Jian wanted to commit suicide.
+His sons and officials all said: "We don't know what happened, so why did we commit suicide?"
+Zhu Jian said: If I die, the disaster will be gone and it will not affect you.
+So he drew his sword.
+When Emperor Wen found out, he said regretfully: I have no intention of killing Zhu Jian.
+So he summoned Zhu Jian's son and worshiped him as a senior official.
+He was sent as an envoy to the Xiongnu, but the Xiongnu Shanyu was rude. He died among the Xiongnu because he scolded the Xiongnu Shanyu.
+
+summary:
+summary line 2: Zhu Jian of Chu served as prime minister to Yingbu, King of Huainan, and advised against rebellion. After Yingbu rebelled and was suppressed, Zhu Jian was rewarded. He was known for his integrity and refused to associate with the corrupt Marquis of Piyang, who was favored by Empress Dowager Lu. When Zhu Jian's mother died, Lu Jia advised the Marquis of Piyang to offer generous funeral gifts, which led to reconciliation. Later, when the Marquis of Piyang was imprisoned, Zhu Jian secretly instructed the emperor's favorite minister to plead for his release, saving his life. After Empress Dowager Lu's death, Zhu Jian's earlier advice helped protect the Marquis of Piyang from execution. During Emperor Xiaowen's reign, Zhu Jian was implicated in a case involving the Marquis of Piyang and committed suicide to protect his family.
+
+Chunk 6: 
+original: 
+娄敬，齐人也。
+汉五年，戍陇西，过雒阳，高帝在焉。
+敬脱挽辂，见齐人虞将军曰： 臣愿见上言便宜。
+虞将军欲与鲜衣，敬曰： 臣衣帛，衣帛见，衣褐，衣褐见，不敢易衣。
+虞将军入言上，上召见，赐食。
+已而问敬，敬说曰： 陛下都雒阳，岂欲与周室比隆哉？
+上曰： 然。 敬曰： 陛下取天下与周异。周之先自后稷，尧封之邰，积德累善十余世。
+公刘避桀居豳。
+大王以狄伐故，去豳，杖马箠去居岐，国人争归之。
+及文王为西伯，断虞、芮讼，始受命，吕望、伯夷自海滨来归之。
+武王伐纣，不期而会孟津上八百诸侯，遂灭殷。
+成王即位，周公之属傅相焉，乃营成周都雒，以为此天下中，诸侯四方纳贡职，道里钧矣，有德则易以王，无德则易以亡。
+凡居此者，欲令务以德致人，不欲阴险，令后世骄奢以虐民也。
+及周之衰，分而为二，天下莫朝周，周不能制。
+非德薄，形势弱也。
+今陛下起丰沛，收卒三千人，以之径往，卷蜀汉，定三秦，与项籍战荥阳，大战七十，小战四十，使天下之民肝脑涂地，父子暴骸中野，不可胜数，哭泣之声不绝，伤夷者未起，而欲比隆成、康之时，臣窃以为不侔矣。
+且夫秦地被山带河，四塞以为固，卒然有急，百万之众可具。
+因秦之故，资甚美膏腴之地，此所谓天府。
+陛下入关而都之，山东虽乱，秦故地可全而有也。
+夫与人斗，不搤其亢，拊其背，未能全胜。
+今陛下入关而都，按秦之故，此亦搤天下之亢而拊其背也。
+高帝问群臣，群臣皆山东人，争言周王数百年，秦二世则亡，不如都周。
+上疑未能决。
+及留侯明言入关便，即日驾西都关中。
+于是上曰： 本言都秦地者娄敬，娄者刘也。
+赐姓刘氏，拜为郎中，号曰奉春君。
+translation: 
+Lou Jing, a native of Qi.
+In the fifth year of Mo, I guarded Longxi and passed through Luoyang. Gaozu was there.
+Lou Jing got rid of the crossbar in front of the cart and saw General Yu, a native of Qi, and said: I want to see the emperor to discuss something meaningful.
+General Yu wanted to change him into gorgeous clothes. Lou Jing said: "I am wearing silk clothes, so I will wear silk clothes to greet you; if I am wearing coarse cloth clothes, I will wear coarse clothes to greet you. There is no need to change my clothes."
+General Yu entered the palace to report to the emperor, who summoned him and gave him food.
+After a while, the emperor asked Lou Jing, and Lou Jing said: Your Majesty established the capital in Luoyang, do you want to compete with the Zhou royal family in prosperity? The emperor said: Yes.
+Lou Jing said: Your Majesty's attempt to conquer the world is different from that of the Zhou royal family. The ancestor of the Zhou Dynasty was Hou Ji. Yao granted him the title of Tai, and he accumulated good deeds for more than ten generations.
+Gong Liu avoided Xia Jie and lived in Bin.
+Because of Di's invasion, the king left Bin and came to live in Qi with his horse whip in hand, but everyone in the country rushed to submit to him.
+When King Wen of Zhou Dynasty was the Western Bodhisattva, due to his virtue, the fighting between the Yu people and the Rui people calmed down. After they began to accept the mission, Lu Wang and Boyi returned from the seaside.
+King Wu of Zhou attacked Shang Zhou, and eight hundred princes unexpectedly gathered in Mengjin, thus annihilating Shang and Yin.
+King Cheng of Zhou succeeded to the throne, and the Duke of Zhou and others assisted him, so he built the Zhou Dynasty and established its capital at Luoyang, thinking that Luoyang was the center of the world. The princes paid tribute from all directions and reported their duties. The distance of the road was relatively even. If you have virtue, it is easy to become king, but if you don't have virtue, it is easy to perish.
+Everyone who lives here must treat others virtuously, and do not want to rely on the dangers of the terrain to protect the world, and allow future generations to be arrogant, luxurious and abuse the people.
+When the Zhou Dynasty declined, they were divided into the kings of Eastern Zhou and the kings of Western Zhou. No one in the world came to see the king of Zhou, and the king of Zhou could not control them.
+Not because the morals are weak, but because the strength is too weak.
+Now your Majesty raised troops from Feng and Pei, and recruited 3,000 soldiers. He used these people to sweep the Shuhan area, pacify the Three Qin Dynasties, and fought with Xiang Yu in Rongyang. There were seventy major battles and forty minor battles, causing the lives of all the people in the world.
+Moreover, the land of Qin is surrounded by mountains and rivers, and the terrain is difficult. If there is a sudden war, millions of troops can gather.
+With the old conditions, abundant resources and fertile land, it can become a natural treasury.
+Your Majesty entered Guanzhong and made it the capital of the country. Although there was war in Huashan, Qin's old land could still be preserved and occupied.
+If you fight with someone, you can't win completely without grabbing his throat and blowing his spine.
+Now that your majesty has entered Guanzhong to build the capital and pacify the old land of Qin, this is also strangling the throat of the world and striking its backbone.
+Emperor Gao asked the ministers, all of whom were from Shandong, and they all said that the Zhou Dynasty ruled for hundreds of years, while the Qin Dynasty only extended to the second generation, so it would be better to build the capital of Luoyang.
+Emperor Gaoti hesitated and could not decide where to make his capital.
+It was not until Zhang Liang, the Marquis of Liu, made it clear that he should enter Guanzhong, that he set off to the west to make Guanzhong his capital.
+So the emperor said: The first person who was determined to be in Qin was Lou Jing, and Lou was Liu.
+He gave Lou Jing the surname Liu, made him a doctor, and titled him Feng Chunjun.
+
+summary:
+summary line 3: Lou Jing of Qi advised Emperor Gaozu to establish the capital in Guanzhong rather than Luoyang, arguing that Qin's former territory had natural defenses and abundant resources. Despite opposition from ministers from Shandong, Zhang Liang supported this plan, and the emperor adopted it, granting Lou Jing the surname Liu and the title of Feng Chunjun. Later, when the emperor planned to attack the Xiongnu, Lou Jing warned that the Xiongnu were deliberately showing weakness to ambush the Han army. The emperor ignored this advice, was besieged at Baideng, and later released Lou Jing, rewarding him. Lou Jing then proposed a marriage alliance with the Xiongnu, suggesting the emperor send his eldest princess to marry the Chanyu. Although Empress Lu objected, a substitute princess was sent. Lou Jing also recommended relocating powerful clans from various states to Guanzhong to strengthen the region.
+
+Chunk 9: 
+original: 
+通曰： 公不知，我几不免虎口！
+乃亡去之薛，薛已降楚矣。
+及项梁之薛，通从之。
+败定陶，从怀王。
+怀王为义帝，徙长沙，通留事项王，汉二年，汉王从五诸侯入彭城，通降汉王。
+通儒服，汉王憎之，乃变其服，服短衣，楚制。汉王喜。
+通之降汉，从弟子百余人，然无所进，剸言诸故群盗壮士进之。
+弟子皆曰： 事先生数年，幸得从降汉，今不进臣等，剸言大猾，何也？
+通乃谓曰： 汉王方蒙矢石争天下，诸生宁能斗乎？
+故先言斩将搴旗之士。诸生且待我，我不忘矣。
+汉王拜通为博士，号稷嗣君。
+汉王已并天下，诸侯共尊为皇帝于定陶，通就其仪号。
+高帝悉去秦仪法，为简易。
+群臣饮争功，醉或妄呼，拔剑击柱，上患之。
+通知上亦厌之，说上曰： 夫儒者难与进取，可与守成。
+臣愿征鲁诸生，与臣弟子共起朝仪。
+高帝曰： 得无难乎？
+通曰： 五帝异乐，三王不同礼。
+礼者，因时世人情为之节文者也。
+故夏、殷、周礼所因损益可知者，谓不相复也。
+臣愿颇采古礼与秦仪杂就之。
+上曰： 可试为之，令易知，度吾所能行为之。
+于是通使征鲁诸生三十余人。鲁有两生不肯行，曰： 公所事者且十主，皆面腴亲贵。
+今天下初定，死者未葬，伤者未起，又欲起礼乐。
+礼乐所由起，百年积德而后可兴也。
+吾不忍为公所为。
+公所为不合古，吾不行。
+公往矣，毋污我！ 通笑曰： 若真鄙儒，不知时变。
+遂与所征三十人西，及上左右为学者与其弟子百余人为绵蕞野外。习之月余，通曰： 上可试观。
+上使行礼，曰： 吾能为此。
+乃令群臣习肄，会十月。
+translation: 
+Shusun Tong said: You don't know that I can hardly escape from the tiger's mouth.
+So he fled to Xue County, which had surrendered to Chu.
+Xiang Liang came to Xue County, and Shusun Tong followed him.
+Xiang Liang was defeated in Dingtao, and he followed King Huai again.
+King Huai became the Righteous Emperor and moved to Changsha County. Shusun Tong stayed behind to assist King Xiang. In the second year of the Han Dynasty, the King of Han led the troops of the five princes into Pengcheng, and Shusun Tong surrendered to the King of Han.
+Shusun Tong wore the clothes of a Confucian scholar, and the King of Han was disgusted, so he changed his clothes and wore short clothes in the style of the Chu people. The King of Han was very happy.
+Shusun Tong surrendered to the King of Han, and there were more than a hundred scholars who followed him. However, Shusun Tong did not recommend him, only the strong men and reckless grassroots bandits.
+The disciples all said: I have served you for many years, and I was lucky enough to defect to the King of Han. Now I do not recommend ministers, but only treacherous people. Why?
+Shusun Tong then said: The king of Han is fighting for the world by force. Can you go and fight?
+Therefore, I first recommend you to those heroes who are brave enough to kill the enemy. Please wait for me for now. I will not forget you.
+The king of Han worshiped his uncle Sun Tong as a doctor and named him Sijun Ji.
+The King of Han unified the world, and the princes in Dingtao jointly respected him as emperor. Shusun Tong formulated the court etiquette and the titles of duties of the monarch and his ministers.
+Emperor Gao deleted the harsh etiquette laws that had destroyed the Qin Dynasty and implemented simple and easy-to-implement laws.
+The ministers drank and competed for merit. When they were drunk, they talked nonsense and drew their swords to hit pillars. The emperor was very worried.
+Shusun Tong knew that the emperor was getting more and more upset about this matter, so he persuaded the emperor: Those scholars cannot attack and kill with your majesty, but they can consolidate the country.
+I am willing to recruit some scholars from the State of Lu to draft court rituals together with my disciples.
+Emperor Gao said: Isn't it difficult to formulate etiquette?
+Shusun Tong said: The five emperors have different music systems, and the three kings have different etiquette.
+Etiquette is formulated based on the situation, people and customs at that time.
+Therefore, we can understand the inheritance, deletion, and addition of etiquette in the Xia, Yin, Shang, and Zhou dynasties. It can be said that they are not repeated.
+I hope to learn from the ancient etiquette and the rituals of the Qin Dynasty and formulate it accordingly.
+The emperor said: We can try to formulate it. We must make it easy to understand the Han rites and consider whether I can implement it.
+So Shusun Tong served as an envoy to recruit more than thirty Confucian scholars from the state of Lu. Among them, two Confucian scholars refused to go with him, saying: "You have already assisted ten masters, and you all flatter them in person."
+Now the world has just settled down, the dead have not yet been buried, the injured have not yet recovered, and rituals and music must be established.
+The rise of ritual and music is due to hundreds of years of accumulated virtue. We cannot accept what you are asking us to do.
+What you are doing is not in line with the ancient ways, so we will not go.
+Go ahead and don't tarnish our character.
+Shusun Tong smiled and said: You are really pedantic and ignorant of worldly affairs. You do not understand the changes in the current situation.
+So he went west with the 30 people he had recruited, and together with Gaodi's close officials and Shusun Tong's disciples, a total of more than 100 people tied thatches in the wild to determine the ceremonial positions. After practicing for more than a month, Shusun Tong said: "Your Majesty, you can give it a try."
+After exercising the etiquette, the emperor said: I can do it.
+So he ordered all the ministers to practice, and the rituals were completed just in time for the beginning of October.
+
+summary:
+summary line 4: Shusun Tong of Xue served under Qin II, cleverly avoiding punishment by calling rebels mere thieves. He later served Xiang Liang, King Huai, and finally surrendered to the King of Han. Noticing the disorderly behavior of ministers at court, he offered to create court rituals. Despite criticism from conservative Confucian scholars, he adapted ancient and Qin rituals to create a practical system. After the completion of Changle Palace, the new rituals were implemented, impressing Emperor Gaozu, who remarked, "Now I know the dignity of being emperor." Shusun Tong was appointed Fengchang and rewarded with gold, which he distributed to his disciples. He later served as Crown Prince Tutor and successfully dissuaded Emperor Gaozu from replacing the crown prince. Under Emperor Xiaohui, he continued to formulate rituals and established the practice of offering fruits at ancestral temples.
+

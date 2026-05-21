@@ -1,0 +1,721 @@
+Summary uses chunk [0, 0, 1, 2, 3, 4, 5, 7, 8, 14, 16]
+
+Chunk 0: 
+original: 
+太公望吕尚者，东海上人。
+其先祖尝为四岳，佐禹平水土甚有功。
+虞夏之际封于吕，或封于申，姓姜氏。
+夏商之时，申、吕或封枝庶子孙，或为庶人，尚其后苗裔也。
+本姓姜氏，从其封姓，故曰吕尚。
+吕尚盖尝穷困，年老矣，以渔钓奸周西伯。
+西伯将出猎，卜之，曰 所获非龙非彨，非虎非罴，所获霸王之辅 。
+于是周西伯猎，果遇太公于渭之阳，与语大说，曰： 自吾先君太公曰 当有圣人适周，周以兴 。
+子真是邪？
+吾太公望子久矣。
+故号之曰 太公望 ，载与俱归，立为师。
+或曰：太公博闻，尝事纣。
+纣无道，去之。
+游说诸侯，无所遇，而卒西归周西伯。
+或曰，吕尚处士，隐海滨。
+周西伯拘羑里，散宜生、闳夭素知而招吕尚。
+吕尚亦曰 吾闻西伯贤，又善养老，盍往焉 。
+三人者为西伯求美女奇物，献之于纣，以赎西伯。
+西伯得以出，反国。
+言吕尚所以事周虽异，然要之为文武师。
+周西伯昌之脱羑里归，与吕尚阴谋修德以倾商政，其事多兵权与奇计，故后世之言兵及周之阴权皆宗太公为本谋。
+周西伯政平，及断虞芮之讼，而诗人称西伯受命曰文王。
+伐崇、密须、犬夷，大作丰邑。
+天下三分，其二归周者，太公之谋计居多。
+文王崩，武王即位。
+九年，欲修文王业，东伐以观诸侯集否。
+师行，师尚父左杖黄钺，右把白旄以誓，曰： 苍兕ì苍兕，总尔众庶，与尔舟楫，后至者斩！
+遂至盟津。
+诸侯不期而会者八百诸侯。诸侯皆曰： 纣可伐也。 武王曰： 未可。
+translation: 
+Taigong looked at Lu Shang, who was from the East China Sea.
+His ancestors once served as officials in the Four Mountains, assisting Xia Yu in water management and made great contributions.
+Shun and Yu were granted the title of Lu, and some were granted the title of Shen, with the surname Jiang.
+During the Xia and Shang dynasties, some places in Shen and Lu were granted to descendants of other branches, and some descendants became commoners. Lu Shang is their descendant.
+Lu Shang's original surname was Jiang. Because he took the name of his fiefdom, he was called Lu Shang.
+Lu Shang was once very famous. When he was old, he took the opportunity of fishing to ask to see Zhou Xibo.
+Before going out hunting, Xibo made a divination, and the hexagram said: The prey obtained is neither a dragon nor a chi, nor a tiger nor a bear; what he obtains is the assistant minister who will become the overlord.
+So Xibohou went out hunting, and sure enough he met Taigong on the north bank of the Wei River. After talking with Taigong, Xibo was overjoyed and said: I have long heard the Taigong, the ancestor of our country, say: A saint will definitely come to Zhou, and Zhou will prosper.
+That's you, right?
+Our grandpa has been waiting for you for a long time.
+So he called Lu Shang "Tai Gong Wang", and the two of them rode back together and respected him as military advisor.
+Some people say that Taigong was very knowledgeable and once assisted King Zhou of Shang Dynasty.
+Because King Zhou was unruly, Taigong left.
+He went around lobbying the princes of various countries, but failed to find a king, so he finally went west to join Zhou Xibo.
+Some people say that Lu Shang was a scholar who lived in seclusion by the sea.
+When Zhou Xibo was imprisoned in Youli by King Zhou, Xibo's ministers San Yisheng and Hong Yao knew about Lu Shang, so they asked him to come out.
+Lu Shang also said this: I heard that Xibo was virtuous and always respected and cared for the elderly. Why not go there?
+In order to rescue Uncle Xi, these three people searched for beautiful women and rare treasures, and presented them to King Zhou to redeem Uncle Xi.
+As a result, Xibo was released and returned to Zhou.
+Although there are different legends about Lu Shang's return to the Zhou Dynasty, the general consensus is that he was the teacher and assistant minister of King Wen and King Wu.
+After Zhou Xibochang escaped from Youli and returned to the country, he and Lu Shang secretly planned how to implement virtue and overthrow the rule of the Shang Dynasty. Many of them were military tactics and cunning tactics. Therefore, future generations who talked about military tactics and the secret power of the Zhou Dynasty all respected the basic strategies of the Grand Duke.
+Zhou Xibo was upright and peaceful. Especially after the territorial dispute between the Yu and Rui kingdoms, he was praised as King Wen who was destined to receive the destiny.
+Xibo also conquered Chongguo, Mixu and Quanyi, and built Fengyi on a large scale.
+Two-thirds of the princes in the world turned their hearts to the Zhou Dynasty, which was mostly the result of the Taigong's planning.
+After King Wen died, King Wu came to the throne.
+In the ninth year, King Wu wanted to continue to complete King Wen's great cause and campaigned eastward against Shang Zhou to see if the princes gathered to respond.
+When the army was leaving, Lu Shang, who was respectfully called "Master Shangfu", held a yellow ax in his left hand and a Bingbai jade in his right hand, swearing to be the master, and said: Cang Si Cang Si, command the troops, assemble the ships, and behead those who are late.
+So the army arrived at Mengjin.
+There were as many as eight hundred princes who came without being summoned. The princes all said: It is time to conquer Shang Zhou. King Wu said: Not yet.
+
+summary:
+summary line 0: Taigong Wang, originally named Lu Shang and surnamed Jiang, was a descendant of officials who assisted Yu in flood control during ancient times. In his old age, he met Zhou Xibo (later King Wen of Zhou) while fishing on the Wei River. Xibo, having received a divination that he would find an assistant to become overlord, recognized Lu Shang as the sage his ancestors had predicted would come to Zhou. He called him "Taigong Wang" and respected him as military advisor. Some accounts say Lu Shang had previously served King Zhou of Shang but left due to his unruliness, while others claim he was a recluse recruited by Xibo's ministers to help rescue Xibo from imprisonment. Regardless of the legends, all agree he became teacher and assistant to both King Wen and King Wu.
+
+Chunk 0: 
+original: 
+太公望吕尚者，东海上人。
+其先祖尝为四岳，佐禹平水土甚有功。
+虞夏之际封于吕，或封于申，姓姜氏。
+夏商之时，申、吕或封枝庶子孙，或为庶人，尚其后苗裔也。
+本姓姜氏，从其封姓，故曰吕尚。
+吕尚盖尝穷困，年老矣，以渔钓奸周西伯。
+西伯将出猎，卜之，曰 所获非龙非彨，非虎非罴，所获霸王之辅 。
+于是周西伯猎，果遇太公于渭之阳，与语大说，曰： 自吾先君太公曰 当有圣人适周，周以兴 。
+子真是邪？
+吾太公望子久矣。
+故号之曰 太公望 ，载与俱归，立为师。
+或曰：太公博闻，尝事纣。
+纣无道，去之。
+游说诸侯，无所遇，而卒西归周西伯。
+或曰，吕尚处士，隐海滨。
+周西伯拘羑里，散宜生、闳夭素知而招吕尚。
+吕尚亦曰 吾闻西伯贤，又善养老，盍往焉 。
+三人者为西伯求美女奇物，献之于纣，以赎西伯。
+西伯得以出，反国。
+言吕尚所以事周虽异，然要之为文武师。
+周西伯昌之脱羑里归，与吕尚阴谋修德以倾商政，其事多兵权与奇计，故后世之言兵及周之阴权皆宗太公为本谋。
+周西伯政平，及断虞芮之讼，而诗人称西伯受命曰文王。
+伐崇、密须、犬夷，大作丰邑。
+天下三分，其二归周者，太公之谋计居多。
+文王崩，武王即位。
+九年，欲修文王业，东伐以观诸侯集否。
+师行，师尚父左杖黄钺，右把白旄以誓，曰： 苍兕ì苍兕，总尔众庶，与尔舟楫，后至者斩！
+遂至盟津。
+诸侯不期而会者八百诸侯。诸侯皆曰： 纣可伐也。 武王曰： 未可。
+translation: 
+Taigong looked at Lu Shang, who was from the East China Sea.
+His ancestors once served as officials in the Four Mountains, assisting Xia Yu in water management and made great contributions.
+Shun and Yu were granted the title of Lu, and some were granted the title of Shen, with the surname Jiang.
+During the Xia and Shang dynasties, some places in Shen and Lu were granted to descendants of other branches, and some descendants became commoners. Lu Shang is their descendant.
+Lu Shang's original surname was Jiang. Because he took the name of his fiefdom, he was called Lu Shang.
+Lu Shang was once very famous. When he was old, he took the opportunity of fishing to ask to see Zhou Xibo.
+Before going out hunting, Xibo made a divination, and the hexagram said: The prey obtained is neither a dragon nor a chi, nor a tiger nor a bear; what he obtains is the assistant minister who will become the overlord.
+So Xibohou went out hunting, and sure enough he met Taigong on the north bank of the Wei River. After talking with Taigong, Xibo was overjoyed and said: I have long heard the Taigong, the ancestor of our country, say: A saint will definitely come to Zhou, and Zhou will prosper.
+That's you, right?
+Our grandpa has been waiting for you for a long time.
+So he called Lu Shang "Tai Gong Wang", and the two of them rode back together and respected him as military advisor.
+Some people say that Taigong was very knowledgeable and once assisted King Zhou of Shang Dynasty.
+Because King Zhou was unruly, Taigong left.
+He went around lobbying the princes of various countries, but failed to find a king, so he finally went west to join Zhou Xibo.
+Some people say that Lu Shang was a scholar who lived in seclusion by the sea.
+When Zhou Xibo was imprisoned in Youli by King Zhou, Xibo's ministers San Yisheng and Hong Yao knew about Lu Shang, so they asked him to come out.
+Lu Shang also said this: I heard that Xibo was virtuous and always respected and cared for the elderly. Why not go there?
+In order to rescue Uncle Xi, these three people searched for beautiful women and rare treasures, and presented them to King Zhou to redeem Uncle Xi.
+As a result, Xibo was released and returned to Zhou.
+Although there are different legends about Lu Shang's return to the Zhou Dynasty, the general consensus is that he was the teacher and assistant minister of King Wen and King Wu.
+After Zhou Xibochang escaped from Youli and returned to the country, he and Lu Shang secretly planned how to implement virtue and overthrow the rule of the Shang Dynasty. Many of them were military tactics and cunning tactics. Therefore, future generations who talked about military tactics and the secret power of the Zhou Dynasty all respected the basic strategies of the Grand Duke.
+Zhou Xibo was upright and peaceful. Especially after the territorial dispute between the Yu and Rui kingdoms, he was praised as King Wen who was destined to receive the destiny.
+Xibo also conquered Chongguo, Mixu and Quanyi, and built Fengyi on a large scale.
+Two-thirds of the princes in the world turned their hearts to the Zhou Dynasty, which was mostly the result of the Taigong's planning.
+After King Wen died, King Wu came to the throne.
+In the ninth year, King Wu wanted to continue to complete King Wen's great cause and campaigned eastward against Shang Zhou to see if the princes gathered to respond.
+When the army was leaving, Lu Shang, who was respectfully called "Master Shangfu", held a yellow ax in his left hand and a Bingbai jade in his right hand, swearing to be the master, and said: Cang Si Cang Si, command the troops, assemble the ships, and behead those who are late.
+So the army arrived at Mengjin.
+There were as many as eight hundred princes who came without being summoned. The princes all said: It is time to conquer Shang Zhou. King Wu said: Not yet.
+
+summary:
+summary line 1: Taigong secretly planned with King Wen to implement virtue and overthrow Shang rule, employing military tactics that later generations would honor. After King Wen's death, King Wu succeeded him. In the ninth year of King Wu's reign, he campaigned eastward with Taigong as his commander, gathering eight hundred princes at Mengjin. Two years later, despite unfavorable divination and a storm, Taigong persuaded King Wu to march. They defeated Shang Zhou at Muye, and King Zhou was killed. King Wu then distributed Shang's wealth to the poor, honored loyal ministers, and established Zhou governance—all following Taigong's advice.
+
+Chunk 1: 
+original: 
+还师，与太公作此《太誓》。
+居二年，纣杀王子比干，囚箕子。
+武王将伐纣，卜龟兆，不吉，风雨暴至。
+群公尽惧，唯太公强之劝武王，武王于是遂行。
+十一年正月甲子，誓于牧野，伐商纣。
+纣师败绩。
+纣反走，登鹿台，遂追斩纣。
+明日，武王立于社，群公奉明水，卫康叔封布采席，师尚父牵牲，史佚策祝，以告神讨纣之罪。
+散鹿台之钱，发钜桥之粟，以振贫民。
+封比干墓，释箕子囚。
+迁九鼎，修周政，与天下更始。
+师尚父谋居多。
+于是武王已平商而王天下，封师尚父于齐营丘。
+东就国，道宿行迟。
+逆旅之人曰： 吾闻时难得而易失。
+客寝甚安，殆非就国者也。
+太公闻之，夜衣而行，犁明至国。
+莱侯来伐，与之争营丘。
+营丘边莱。
+莱人，夷也，会纣之乱而周初定，未能集远方，是以与太公争国。
+大公至国，修政，因其俗，简其礼，通商工之业，便鱼盐之利，而人民多归齐，齐为大国。
+及周成王少时，管蔡作乱，淮夷畔周，乃使召康公命太公曰： 东至海，西至河，南至穆陵，北至无棣，五侯九伯，实得征之。
+齐由此得征伐，为大国。都营丘。
+盖太公之卒百有余年，子丁公吕伋立。
+丁公卒，子乙公得立。
+乙公卒，子癸公慈母立。
+癸公卒，子哀公不辰立。
+translation: 
+He returned as a teacher and wrote "Tai Oath" with Tai Gong.
+Two years later, Shang Zhou killed Prince Bigan and imprisoned Jizi.
+King Wu was preparing to conquer the Shang Dynasty again, and a divination revealed that the tortoise sign was unlucky, with a sudden storm coming.
+The ministers were frightened, and only Taigong persuaded King Wu to march, so King Wu led his troops to fight.
+On the first day of the eleventh year, King Wu swore an oath in Muye to attack Shang Zhou.
+Shang Zhou's army collapsed completely.
+Shang Zhou turned around and fled, boarding Lutai, whereupon his pursuers killed King Zhou.
+The next day, King Wu stood on the social altar, and the ministers held water in their hands. Wei Kangshufeng laid out the colorful mats, and Master Shangfu brought the animals for sacrifice. Shi Yi prayed according to the policy book and reported to the gods about the crusade against the evil Shang Zhou.
+Distribute the coins accumulated by Shang Zhou in Lutai and distribute the grain accumulated by Shang Zhou in Juqiao to help the poor.
+Build and raise the height of Bigan's tomb, and release the imprisoned Jizi.
+He moved the Jiuding, which symbolizes the highest power in the world, to the Zhou Dynasty, fixed the government affairs of the Zhou Dynasty, and started to create a new era together with the people of the world.
+Most of the above-mentioned matters were based on the advice of Master Shangfu.
+At this time, King Wu had pacified Shang Zhou and became the king of the world, so he awarded the title of Yingqiu of Qi State to his master Shangfu.
+Master Shangfu went east to his own feudal country, living and traveling at a very slow pace.
+The people in the guest house said to him: I heard that opportunities are hard to come by but easy to lose.
+This guest slept so peacefully, I'm afraid he didn't go to the feudal country to take up his post.
+After hearing this, the Grand Duke dressed up overnight and set out on the road, arriving at his own kingdom at dawn.
+Just when Laihou led his troops to attack, he wanted to compete with Taigong for the camp.
+Yingqiu is adjacent to Laiguo.
+The Lai people were a Yi tribe. They took advantage of the chaos of Shang and Zhou and the Zhou Dynasty had just settled down. There was no time to pacify the remote areas, so they competed with Taigong for territory.
+After Taigong arrived in his feudal country, he straightened political affairs, followed its customs, simplified etiquette, opened up industry and commerce, and developed the advantages of fishery and salt industry. As a result, more people joined Qi State, and Qi State became a great power.
+When King Cheng of Zhou came to the throne at a young age, Uncle Guan and Uncle Cai rebelled, and Huaiyi also rebelled against the Zhou Dynasty. King Cheng sent Zhao Kanggong and ordered Tai Gong to say: From the sea in the east, to the Yellow River in the west, to Muling in the south, and to Wudi in the north, the five-level princes here are guarded by local officials. If there is any crime, I order you to attack.
+Therefore, Qi can conquer other countries and form a great country, with its capital at Yingqiu.
+Taigong was already more than a hundred years old when he died, and his son Dinggong Lu Ji succeeded to the throne.
+When Ding Gong died, his son Yi Gong succeeded him.
+When Duke Yi died, his son Gui Gong and his loving mother succeeded him.
+When Duke Gui passed away, his son Aigong Buchen succeeded him.
+
+summary:
+summary line 2: King Wu enfeoffed Taigong with the state of Qi at Yingqiu. When Taigong traveled slowly to his fief, a lodging house keeper warned him that opportunities are easily lost. He immediately hurried and arrived just as the Lai people attacked for the territory. Taigong governed by simplifying customs, opening commerce, and developing fishery and salt industries, making Qi a great power. King Cheng later granted Taigong authority to conquer any rebellious nobles within vast territories. Taigong died over one hundred years old.
+
+Chunk 2: 
+original: 
+哀公时，纪侯谮之周，周烹哀公而立其弟静，是为胡公。
+胡公徙都薄姑，而当周夷王之时。
+哀公之同母少弟山怨胡公，乃与其党率营丘人袭攻杀胡公而自立，是为献公。
+献公元年，尽逐胡公子，因徙薄姑都，治临菑。
+九年，献公卒，子武公寿立。
+武公九年，周厉王出奔，居彘。
+十年，王室乱，大臣行政，号曰 共和 。
+二十四年，周宣王初立。
+二十六年，武公卒，子厉公无忌立。
+厉公暴虐，故胡公子复入齐，齐人欲立之，乃与攻杀厉公。
+胡公子亦战死。
+齐人乃立厉公子赤为君，是为文公，而诛杀厉公者七十人。
+文公十二年卒，子成公脱立。
+成公九年卒，子庄公购立。
+庄公二十四年，犬戎杀幽王，周东徙雒。
+秦始列为诸侯。
+五十六年，晋弑其君昭侯。
+六十四年，庄公卒，子厘公禄甫立。
+厘公九年，鲁隐公初立。
+十九年，鲁桓公弑其兄隐公而自立为君。
+二十五年，北戎伐齐。
+郑使太子忽来救齐，齐欲妻之。
+忽曰： 郑小齐大，非我敌。
+遂辞之。
+三十二年，厘公同母弟夷仲年死。
+其子曰公孙无知，厘公爱之，令其秩服奉养比太子。
+三十三年，厘公卒，太子诸儿立，是为襄公。
+襄公元年，始为太子时，尝与无知斗，及立，绌无知秩服，无知怨。
+四年，鲁桓公与夫人如齐。
+齐襄公故尝私通鲁夫人。
+鲁夫人者，襄公女弟也，自厘公时嫁为鲁桓公妇，及桓公来而襄公复通焉。
+鲁桓公知之，怒夫人，夫人以告齐襄公。
+齐襄公与鲁君饮，醉之，使力士彭生抱上鲁君车，因拉杀鲁桓公，桓公下车则死矣。
+鲁人以为让，而齐襄公杀彭生以谢鲁。
+八年，伐纪，纪迁去其邑。
+translation: 
+When Duke Ai was in power, the Marquis of Ji framed Duke Ai to the king of Zhou. The king of Zhou boiled Duke Ai to death in a big cauldron, and appointed Duke Ai's younger brother Jing as the king of Qi, namely Duke Hu.
+Duke Hu moved the capital to Bogu during the reign of King Zhou Yi.
+Shan, the younger brother of Duke Ai, resented Duke Hu, so he and his followers led the people from Yingqiu to attack and kill Duke Hu, and established themselves as Duke Xian of Qi.
+In the first year of Xian's reign, they all expelled Hu Gong's disciples and took the opportunity to move the capital from Bogu to Linzi.
+In the ninth year, Duke Xian died and his son, Duke Wu, succeeded him.
+In the ninth year of Duke Wu, King Li of Zhou fled and lived in Sheyi.
+Ten years later, the Zhou royal family was in chaos, and the ministers presided over the state affairs, which was known as the "Republic".
+In the twenty-fourth year, King Zhou Xuan ascended the throne.
+In the twenty-sixth year, Duke Wu died and his son Li Gong Wuji succeeded him.
+Duke Li was ruthless and wreaking havoc, so Duke Hu's son returned to Qi. The people of Qi wanted to make Duke Hu's son their king, so they attacked and killed Duke Li together.
+Hu Gong's son also died in the battle.
+The people of Qi then appointed Chi, the son of Duke Li, as Duke Wen of Qi. He killed more than seventy people who attacked and killed Duke Li.
+Duke Wen died in the 12th year, and his son Cheng Gongtu succeeded to the throne.
+Chenggong died in the ninth year, and his son Zhuang Gonggu succeeded to the throne.
+In the twenty-fourth year of Duke Zhuang, Quan Rong killed King You, and the Zhou royal family moved its capital eastward to Luoyi.
+Qin began to rank among its princes.
+In the fifty-sixth year, the Jin people killed their king, Jin Zhaohou.
+In the sixty-fourth year, Duke Zhuang died and his son Li Gong Lufu succeeded him.
+In the ninth year of Duke Li, Duke Yin of Lu came to the throne.
+In the 19th year, Duke Huan of Lu killed his brother Yin Gong and established himself as Lord of Lu.
+In the twenty-fifth year, Beirong attacked Qi.
+The prince of Zheng suddenly came to rescue Qi, and the Marquis of Qi wanted to marry his daughter to him.
+The prince suddenly said: Zheng is small and Qi is big, I am not worthy of your daughter.
+I declined.
+In the thirty-second year, Li Gong's brother Yi Zhongnian passed away.
+His son's name was Gongsun Wuzhi. Li Gong doted on him and gave him the same level of care, clothing, life and treatment as the prince.
+In the thirty-third year, Li Gong died, and the prince's sons came to the throne, namely Xianggong.
+In the first year of Xiang AD, when Duke Xiang was still the prince, he had a fight with Wuzhi. After he came to the throne, he lowered Wuzhi's salary, carriages, horses and clothing, and Wuzhi was very resentful.
+In the fourth year, Duke Huan of Lu and his wife came to Qi.
+Duke Xiang of Qi had an affair with Mrs. Lu in the past.
+Mrs. Lu is the sister of Duke Xiang. She married Duke Huan of Lu as his wife during the reign of Duke Li of Qi. This time she came to Qi with Duke Huan of Lu and committed adultery with Duke Xiang.
+When Duke Huan of Lu found out about this, he scolded his wife angrily, and she told Duke Xiang of Qi.
+Duke Xianggang of Qi hosted a banquet for Duke Huan of Lu, got him drunk, and sent his strongman Peng Sheng to carry Duke Huan of Lu into the chariot. He then broke Duke Huan's ribs and killed Duke Huan. Duke Huan was already dead when he got out of the car.
+The people of Lu blamed Qi for this, and Qi Xianggong killed Peng Sheng to apologize to Lu and atone for his sins.
+In the eighth year, Qi State conquered Ji State, and Ji State was forced to move its capital.
+
+summary:
+summary line 3: The succession continued through Dinggong, Yigong, Guigong, and Aigong, whom the Marquis of Ji falsely accused, leading to his execution by boiling. His brother Jing became Duke Hu but was killed by Aigong's brother Shan, who became Duke Xian and moved the capital to Linzi. Subsequent rulers included Duke Wu, Duke Li (killed by the people for his tyranny), Duke Wen, Duke Cheng, and Duke Zhuang. During Duke Zhuang's reign, the Zhou royal family moved east to Luoyi after Quan Rong killed King You.
+
+Chunk 3: 
+original: 
+十二年，初，襄公使连称、管至父戍葵丘，瓜时而往，及瓜而代。
+往戍一岁，卒瓜时而公弗为发代。
+或为请代，公弗许。
+故此二人怒，因公孙无知谋作乱。
+连称有从妹在公宫，无宠，使之间襄公，曰 事成以女为无知夫人 。
+冬十二月，襄公游姑棼，遂猎沛丘。
+见彘，从者曰 彭生 。
+公怒，射之，彘人立而啼。
+公惧，坠车伤足，失屦ù。
+反而鞭主屦者茀三百。
+茀出宫。
+而无知、连称、管至父等闻公伤，乃遂率其众袭宫。
+逢主屦茀，茀曰： 且无入惊宫，惊宫未易入也。
+无知弗信，茀示之创，乃信之。
+待宫外，令茀先入。
+茀先入，即匿襄公户间。
+良久，无知等恐，遂入宫。
+茀反与宫中及公之幸臣攻无知等，不胜，皆死。
+无知入宫，求公不得。
+或见人足于户间，发视，乃襄公，遂弑之，而无知自立为齐君。
+桓公元年春，齐君无知游于雍林。
+雍林人尝有怨无知，及其往游，雍林人袭杀无知，告齐大夫曰： 无知弑襄公自立，臣谨行诛。
+唯大夫更立公子之当立者，唯命是听。
+初，襄公之醉杀鲁桓公，通其夫人，杀诛数不当，淫于妇人，数欺大臣，群弟恐祸及，故次弟纠奔鲁。其母鲁女也。
+管仲、召忽傅之。
+次弟小白奔莒，鲍叔傅之。
+小白母，卫女也，有宠于厘公。
+小白自少好善大夫高傒。
+及雍林人杀无知，议立君，高、国先阴召小白于莒。
+translation: 
+In the twelfth year, Duke Xiang sent Lian Cheng and Guan Zhifu to garrison in Kuiqiu. They agreed to go there when the melons ripened in July, and sent someone to replace them when the melons ripened the next year.
+They went to garrison for a year, but after the ripening period passed, Duke Xiang still did not send anyone to replace them.
+Someone asked Duke Xiang to send someone to replace them, but Duke Xiang refused.
+So the two were angry and planned a rebellion through Gongsun Wuwu.
+Lian said that he had a cousin who was not favored in the palace of Duke Xiang, so he asked her to spy on Duke Xiang secretly and said to her: "When the matter is completed, I will let you be Gongsun Wuzhi's wife."
+In the twelfth month of winter, Duke Xiang visited Gufen and went hunting in Peiqiu.
+He saw a wild boar, and the attendant said it was Peng Sheng.
+Duke Xiang was furious and shot the wild boar away with an arrow. The wild boar then stood up and barked like a human being.
+Duke Xiang was so frightened that he fell off the carriage and injured his foot. His shoes also fell off.
+After returning, he whipped the shoekeeper named Fu three hundred times.
+Fu left the palace.
+When Wuzhi, Lian Cheng, Guan Zhifu and others heard that Duke Xiang was injured, they led their troops to attack Duke Xiang's palace.
+He happened to meet Fu who was helping Duke Xiang put on his shoes. Fu said, "Don't go in yet so as not to disturb the palace. Once the palace is disturbed, it will be difficult to attack again."
+Wu Wu didn't believe this, so Fu asked him to check his wounds, and then Wu Wu believed it.
+They waited outside the palace and asked Fu Xian to go in and inquire.
+After Fu first entered, he immediately hid Mr. Xiang behind the door of the house.
+After a long time, Wuzhi and others felt a little scared and went into the palace.
+Fu Gui, the people in the palace and the trusted ministers of Duke Xianggang counterattacked Wuzhi and others, but failed to win and were all killed.
+When I entered the palace ignorantly, I could not find Duke Xiang.
+Someone saw human feet exposed under the door of the house. When he opened the door, he saw that it was Duke Xiang who was behind the door. He killed Duke Xiang and made himself king of Qi out of ignorance.
+In the spring of the first year of Emperor Huan's reign, Lord Qi Wuzhi went to Yonglin for a visit.
+Some people in Yonglin once resented Wuzhi. When Wuwu went to play, the people of Yonglin attacked and killed Wuzhi. They announced to the officials of Qi: Wuzhi killed Duke Xiang and established himself as king. I have put him to death.
+Please ask the officials to appoint the other princes who should take the throne. I will obey your orders.
+At the beginning, Duke Xiang got Duke Huan of Lu drunk and killed him, and he committed adultery with Lady Lu. He also repeatedly killed and punished inappropriately, indulged in womanizing, and bullied ministers many times. His younger brothers were afraid of being implicated in the disaster, so Duke Xiang's second brother, Gong Zijiu, fled to the state of Lu. His mother was the daughter of the state of Lu.
+Guan Zhong and Zhao Hu assisted him.
+Prince Xiaobai, the third younger brother of Duke Xiang, fled to Ju State, and Bao Shuya assisted him.
+Xiaobai's mother was the daughter of the King of Wei, and she was favored by Duke Li of Qi.
+Xiaobai has been friends with the doctor Gao Xi since he was a child.
+After the Yonglin people killed Wuzhi, the ministers discussed the matter of establishing a king. The Gao family and the Guo family secretly recalled Xiaobai from Ju.
+
+summary:
+summary line 4: Duke Li was succeeded by Duke Xiang, who had conflicts with his cousin Wuzhi and committed adultery with his sister, Lady Lu of Lu. When Duke Huan of Lu discovered this, Duke Xiang had him killed. Later, Duke Xiang was killed by Wuzhi and conspirators after failing to replace garrison troops as promised. Wuzhi was then killed by the people of Yonglin.
+
+Chunk 4: 
+original: 
+鲁闻无知死，亦发兵送公子纠，而使管仲别将兵遮莒道，射中小白带钩。
+小白详死，管仲使人驰报鲁。
+鲁送纠者行益迟，六日至齐，则小白已入，高傒立之，是为桓公。
+桓公之中钩，详死以误管仲，已而载温车中驰行，亦有高、国内应，故得先入立，发兵距鲁。
+秋，与鲁战于干时，鲁兵败走，齐兵掩绝鲁归道。
+齐遗鲁书曰： 子纠兄弟，弗忍诛，请鲁自杀之。
+召忽、管仲雠也，请得而甘心醢之。不然，将围鲁。
+鲁人患之，遂杀子纠于笙渎。召忽自杀，管仲请囚。
+桓公之立，发兵攻鲁，心欲杀管仲。
+鲍叔牙曰： 臣幸得从君，君竟以立。
+君之尊，臣无以增君。
+君将治齐，即高傒与叔牙足也。
+君且欲霸王，非管夷吾不可。
+夷吾所居国国重，不可失也。
+于是桓公从之。
+乃详为召管仲欲甘心，实欲用之。
+管仲知之，故请往。
+鲍叔牙迎受管仲，及堂阜而脱桎梏，斋祓而见桓公。
+桓公厚礼以为大夫，任政。
+桓公既得管仲，与鲍叔、隰朋、高傒修齐国政，连五家之兵，设轻重鱼盐之利，以赡贫穷，禄贤能，齐人皆说。
+二年，伐灭郯，郯子奔莒。
+初，桓公亡时，过郯，郯无礼，故伐之。
+五年，伐鲁，鲁将师败。
+鲁庄公请献遂邑以平，桓公许，与鲁会柯而盟。
+鲁将盟，曹沫以匕首劫桓公于坛上，曰： 反鲁之侵地！
+桓公许之。
+已而曹沫去匕首，北面就臣位。
+桓公后悔，欲无与鲁地而杀曹沫。
+管仲曰： 夫劫许之而倍信杀之，愈一小快耳，而弃信于诸侯，失天下之援，不可。
+于是遂与曹沫三败所亡地于鲁。
+translation: 
+When the State of Lu heard that Wuzhi was dead, it also sent troops to escort the young master Jiu back to Qi, and ordered Guan Zhong to lead another army to block the passage of Ju State. Guan Zhong shot an arrow at the belt hook of Xiaobai's waist.
+Xiaobai pretended to be dead, so Guan Zhong sent someone to report to Lu.
+The troops escorting Prince Jiu from the state of Lu slowed down, and it took them six days to reach the state of Qi. Xiaobai had already entered the state of Qi first, and Gao Xi made him the king, Duke Huan.
+After Duke Huan was shot in the hook of his belt, he pretended to be dead to confuse Guan Zhong, and then hid in Wen's chariot and drove quickly. Because he had the two major families of the Gao family and the Guo family as internal agents, he was able to enter Qi first and ascend the throne, and sent troops to resist the Lu army.
+In autumn, the Qi soldiers fought with the Lu soldiers at Qianshi. The Lu soldiers were defeated and fled, but the Qi soldiers cut off the Lu soldiers' retreat.
+The State of Qi wrote to the State of Lu, saying: Zijiu is my brother. I cannot bear to kill him with my own hands. Please ask the State of Lu to kill him.
+Zhao Hu and Guan Zhong were my enemies. I asked for them to be handed over to me alive, and I was willing to chop them into pieces. Otherwise, Qi soldiers will besiege Lu.
+The people of Lu were afraid and killed Zijiu in Shengdu. Zhao Hu committed suicide and Guan Zhong asked for his imprisonment.
+When Duke Huan came to the throne, he sent troops to attack Lu, intending to kill Guan Zhong.
+Bao Shuya said: I am honored to follow you, and you finally became the king.
+I can no longer help you improve your exalted status.
+If you only want to govern Qi, Gao Xi and I will be enough.
+If you want to become an overlord, don't worry about Yiwu.
+The country where Yiwu lives must be strong and cannot lose this talent.
+So Duke Huan listened to this.
+He pretended to recall Guan Zhong to take revenge, but in fact he wanted to let him rule.
+Guan Zhong knew it, so he asked for Qi to be returned.
+Bao Shuya welcomed Guan Zhong. As soon as he arrived at Tangfu in Qi State, he removed Guan Zhong's shackles and asked him to fast, bathe and see Duke Huan.
+Duke Huan rewarded him with generous gifts and appointed Guan Zhong as a doctor to preside over government affairs.
+After Duke Huan got Guan Zhong, he worked with Bao Shu, Xi Peng, and Gao Xi to manage the political affairs of Qi State, implemented the military service system with five families as the basic units, developed the advantages of commercial circulation, fishery and salt industry, used them to relieve the poor, reward the capable people, and everyone in Qi State was happy.
+In the second year of Duke Huan, Qi conquered and destroyed Tan, and the king of Tan fled to Ju.
+When Duke Huan fled in the early years, he visited the country of Tan. The king of Tan was rude to Duke Huan, so he attacked him.
+Five years later, the Lu army was defeated.
+Duke Zhuang of Lu asked for the city of Sui to be used for peace, and Duke Huan agreed to make an alliance with the Lu people in Ke.
+When the oath was about to be made, Cao Mo of Lu kidnapped Duke Huan of Qi with a dagger on the altar and said: "Return the occupied land of Lu!"
+Duke Huan agreed.
+Then Cao Mo threw away the dagger and returned to his seat of ministers facing north.
+Duke Huan regretted not returning the occupied territory of Lu and had Cao Mo killed.
+Guan Zhong said: If you agree to someone else's request when you are kidnapped, and then break your promise and kill someone, you are satisfied with a small pleasure, but you have lost your trust among the princes, and you have lost the support of the people in the world. You cannot do this.
+Duke Huan then returned all the territory that Cao Mo had lost after three defeats to Lu.
+
+summary:
+summary line 5: After Duke Xiang's death, his brothers competed for the throne. Prince Xiaobai, with support from the Gao and Guo families, returned first and became Duke Huan of Qi. He initially wanted to kill Guan Zhong, but Bao Shuya convinced him that Guan Zhong was essential for becoming overlord. Duke Huan appointed Guan Zhong as minister, and together with Bao Shu, Xi Peng, and Gao Xi, they reformed Qi's government, implemented military systems, developed commerce and fisheries, and relieved the poor, bringing happiness to the people.
+
+Chunk 5: 
+original: 
+诸侯闻之，皆信齐而欲附焉。
+七年，诸侯会桓公于甄ē，而桓公于是始霸焉。
+十四年，陈厉公子完，号敬仲，来奔齐。
+齐桓公欲以为卿，让；于是以为工正。
+田成子常之祖也。
+二十三年，山戎伐燕，燕告急于齐。
+齐桓公救燕，遂伐山戎，至于孤竹而还。
+燕庄公遂送桓公入齐境。
+桓公曰： 非天子，诸侯相送不出境，吾不可以无礼于燕。
+于是分沟割燕君所至与燕，命燕君复修召公之政，纳贡于周，如成康之时。
+诸侯闻之，皆从齐。
+二十七年，鲁愍公母曰哀姜，桓公女弟也。
+哀姜淫于鲁公子庆父，庆父弑愍公，哀姜欲立庆父，鲁人更立厘公。
+桓公召哀姜，杀之。
+二十八年，卫文公有狄乱，告急于齐。
+齐率诸侯城楚丘而立卫君。
+二十九年，桓公与夫人蔡姬戏船中。
+蔡姬习水，荡公，公惧，止之，不止，出船，怒，归蔡姬，弗绝。
+蔡亦怒，嫁其女。
+桓公闻而怒，兴师往伐。
+三十年春，齐桓公率诸侯伐蔡，蔡溃。
+遂伐楚。
+楚成王兴师问曰： 何故涉吾地？
+管仲对曰： 昔召康公命我先君太公曰： 五侯九伯，若实征之，以夹辅周室。
+赐我先君履，东至海，西至河，南至穆陵，北至无棣ì。
+楚贡包茅不入，王祭不具，是以来责。
+昭王南征不复，是以来问。
+楚王曰： 贡之不入，有之，寡人罪也，敢不共乎！
+昭王之出不复，君其问之水滨。
+齐师进次于陉。
+夏，楚王使屈完将兵扞齐，齐师退次召陵。
+桓公矜屈完以其众。
+屈完曰： 君以道则可；若不，则楚方城以为城，江、汉以为沟，君安能进乎？
+乃与屈完盟而去。
+过陈，陈袁涛涂诈齐，令出东方，觉。
+秋，齐伐陈。
+是岁，晋杀太子申生。
+三十五年夏，会诸侯于葵丘。
+桓公欲许之，管仲曰 不可 ，乃下拜受赐。
+秋，复会诸侯于葵丘，益有骄色。
+translation: 
+When the princes heard about it, they all believed that Qi was trustworthy and were willing to surrender.
+In the seventh year, the princes and Duke Heng of Qi met in Zhendi for an alliance. From then on, Duke Huan of Qi became the overlord of the princes in the world.
+In the fourteenth year, Chen Ligong's son Chen Wan, named Jingzhong, fled to Qi.
+Duke Huan of Qi wanted to appoint him as a minister, but he humbly declined; so he was appointed Gongzheng in charge of hundreds of works.
+This is the ancestor of Tian Chengzi and Tian Chang.
+In the twenty-third year, Shan Rong invaded Yan State, and Yan asked Qi State for help.
+Duke Huan of Qi sent troops to rescue Yan, and then attacked Shanrong. He only returned to Guzhu after arriving at Guzhu.
+King Yanzhuang sent Duke Huan into the territory of Qi again.
+Duke Huan said: Except for the emperor, the princes cannot send each other out of their own borders. I cannot be rude to Yan.
+So the territory of Qi State where Yan Jun went was divided with ditches and given to Yan State, so that Yan Jun could rebuild the government of Zhao Gong and pay tribute to the Zhou royal family, just like in the days of King Cheng and King Kang of Zhou.
+After the princes heard about it, they all obeyed Qi.
+In the twenty-seventh year, Duke Min of Lu's mother was called Ai Jiang, and she was the sister of Duke Huan of Qi.
+Aijiang had an affair with Qingfu, the son of Lu Gong, and Qingfu killed Duke Min. Aijiang wanted to make Qingfu the king, but the Lu people instead made Duke Li.
+Duke Huan called Ai Jiang back to Qi and killed him.
+In the twenty-eighth year, Duke Wen of Wei was invaded by the Di people and asked Qi for help.
+The state of Qi led the princes to build a city in Chuqiu and placed the king of Wei there.
+In the twenty-ninth year, Duke Heng and his wife Cai Ji took a boat trip.
+Cai Ji was familiar with the nature of water, so she rocked the boat and jolted Duke Huan. Duke Huan was afraid and ordered her to stop, but she still did not stop. After getting off the boat, Duke Huan was angry and sent Cai Ji back to Cai State, but he did not break off the marriage.
+The king of Cai State was also very angry, so he married Cai Ji to someone else.
+After hearing this, Duke Huan became even more angry and raised troops to attack Cai Guo.
+Thirty years ago in the spring, Duke Huan of Qi led the princes to attack Cai State, and Cai State was defeated.
+Duke Huan continued to attack Chu.
+King Chu Cheng led his troops to meet the enemy and asked: "Why did you enter my country?"
+Guan Zhong replied: In the past, Duke Kang ordered me to be the first king of Taigong: "You have the right to conquer the fifth-level princes and guard the officials in various places to assist the Zhou Dynasty."
+The territory that my late king has the authority to conquer extends to the sea in the east, the Yellow River in the west, Muling in the south, and Wudi in the north.
+Baomao, who was supposed to pay tribute from the Chu State, did not pay tribute, resulting in incomplete sacrificial supplies for the emperor, so he came to hold him accountable.
+Once upon a time, King Zhao of Zhou did not return from his southern expedition and died in the south, so he came to question him.
+The King of Chu said: "I did not pay the tribute. It is indeed my fault. I dare not not pay it in the future."
+As for King Zhao of Zhou, he never returned and was not in our territory of Chu. Please go to the bank of Han River to question him.
+The Qi army continued to march in Xingdi.
+In the summer, King Chu ordered Qu Wan to lead his army to resist the Qi army, and the Qi army retreated to Zhaoling.
+Duke Huan met Qu Wan and showed off to him that he had many soldiers and generals.
+Qu Wan said: Only if you are righteous can you win; otherwise, the Chu State will use Fangcheng Mountain as the city wall and the Yangtze River and Han River as the moat. How can you attack it?
+Duke Huan of Qi made an agreement with Qu Wan and then led his troops to retreat.
+Passing through the State of Chen, Yuan Taotu, the official of the State of Chen, deceived Duke Huan and asked the Qi army to take the difficult road to the east, but was discovered by the State of Qi.
+In autumn, Qi State attacked Chen State.
+This year, the king of Jin killed Prince Shen Sheng.
+In the summer of the thirty-fifth year, Duke Huan and the princes met at Kuiqiu.
+King Xiang of Zhou sent his strategist Kong to reward Duke Huan with the meat used to sacrifice King Wen and King Wu, bows and arrows decorated with red color, and the carriages used by the emperor. He also gave Duke Huan permission not to bow down to express his gratitude. Duke Huan wanted to agree, but Guan Zhong said, "No."
+Duke Huan then bowed down and accepted the reward. In autumn, he met with the princes again at Kuiqiu, and Duke Huan of Qi became more and more proud.
+
+summary:
+summary line 6: Duke Huan became the first overlord of the Spring and Autumn period. He kept his promise to return territory to Lu after Cao Mo's kidnapping, earning trust among princes. He rescued Yan from Shanrong, gave Yan territory, and restored Zhao Gong's governance. He defended Wei against Di invaders and built a city for them. He attacked Cai and Chu for failing to pay tribute, though he eventually made peace with Chu. He convened multiple alliances, including the famous Kuiqiu meeting, where King Xiang of Zhou rewarded him. Despite Guan Zhong's opposition, Duke Huan wanted to perform the fengshan sacrifices but eventually abandoned the idea.
+
+Chunk 7: 
+original: 
+公曰： 开方如何？
+对曰： 倍亲以适君，非人情，难近。
+公曰： 竖刀如何？
+对曰： 自宫以适君，非人情，难亲。
+管仲死，而桓公不用管仲言，卒近用三子，三子专权。
+四十二年，戎伐周，周告急于齐。齐令诸侯各发卒戍周。
+是岁，晋公子重耳来，桓公妻之。
+四十三年。
+初，齐桓公之夫人三：曰王姬、徐姬、蔡姬，皆无子。
+桓公好内，多内宠，如夫人者六人，长卫姬，生无诡；少卫姬，生惠公元；郑姬，生孝公昭；葛嬴，生昭公潘；密姬，生懿公商人；宋华子，生公子雍。
+桓公与管仲属孝公于宋襄公，以为太子。
+雍巫有宠于卫共姬，因宦者竖刀以厚献于桓公，亦有宠，桓公许之立无诡。
+管仲卒，五公子皆求立。
+冬十月乙亥，齐桓公卒。
+易牙入，与竖刀因内宠杀群吏，而立公子无诡为君。
+太子昭奔宋。
+桓公病，五公子各树党争立。
+及桓公卒，遂相攻，以故宫中空，莫敢棺。
+桓公尸在床上六十七日，尸虫出于户。
+十二月乙亥，无诡立，乃棺赴。
+辛巳夜，敛殡。
+桓公十有余子，要其后立者五人：无诡立三月死，无谥；次孝公；次昭公；次懿公；次惠公。
+孝公元年三月，宋襄公率诸侯兵送齐太子昭而伐齐。
+齐人恐，杀其君无诡。
+齐人将立太子昭，四公子之徒攻太子，太子走宋，宋遂与齐人四公子战。
+五月，宋败齐四公子师而立太子昭，是为齐孝公。
+宋以桓公与管仲属之太子，故来征之。
+以乱故，八月乃葬齐桓公。
+六年春，齐伐宋，以其不同盟于齐也。
+夏，宋襄公卒。
+translation: 
+Duke Huan asked: "How is this person doing?"
+He replied: He abandoned his parents to cater to the king, which is unkind and unapproachable.
+Duke Huan said: "How is this man Shudao?"
+He replied: Castrating yourself to please the king is unkind and cannot be trusted.
+After Guan Zhong's death, Duke Huan did not listen to Guan Zhong's words, but still closely appointed these three people, who had exclusive power.
+In the forty-second year, the Rong people attacked Zhou, and Zhou asked Qi for help. Qi ordered all the princes to send troops to defend the Zhou royal family.
+In this year, Prince Chong'er of Jin came to Qi, and Duke Huan of Qi married his daughter to Chong'er.
+Forty-three years.
+At first, Duke Huan of Qi had three wives: Wang Ji, Xu Ji, and Cai Ji. None of them gave birth to a son.
+Duke Huan was lustful and had many favored concubines, among whom there were six concubines with the same status as his wives: Changwei Ji, born to Wu Gui; Shao Wei Ji, born to Hui Gong; Zheng Ji, born to Xiao Gong Zhao; Ge Ying, born to Xiao Gong Pan; Mi Ji, born to Yi Gong Shang; Song Huazi, born to Gongzi Yong.
+Duke Huan of Qi and Guan Zhong once entrusted Duke Xiao Gong Zhao to Duke Xiang of Song Dynasty and established him as the crown prince.
+Yi Ya was favored by Duke Huan's eldest son, Wei Ji, and through the eunuch Shu Diao, he gave generous gifts to Duke Huan, so he was also favored by Duke Huan. Duke Huan agreed to make Yi Ya the crown prince.
+After Guan Zhong's death, the five princes all asked to be crown princes.
+On the day of Yihai in the tenth month of winter, Duke Huan of Qi died.
+Yi Ya entered the palace, and Shu Dao killed the officials with the help of his favored ministers, and established the young master Wu Gui as the king of Qi.
+Prince Zhao fled to the Song Dynasty.
+When Duke Huan was seriously ill, the five princes each formed a party and demanded to be crowned prince.
+After Duke Huan died, they fought against each other, so that no one in the palace dared to bury Duke Huan in the coffin.
+Duke Huan's body lay on the bed for sixty-seven days, and all the maggots on the body crawled outside the door.
+On Yihai day of the twelfth month, Wu Gui ascended the throne, and then he put the coffin in and announced the funeral to all countries.
+At night on Xinsi day, I put on my clothes and put my coffin in the hall.
+There were more than ten sons of Duke Huan, and a total of five of them had ascended the throne: Wugui died three months after he ascended the throne, without a posthumous title; then came Duke Xiao; then Duke Zhao; then Duke Yi; and finally Duke Hui.
+In March of the first year of Xiaogong, Song Xianggong led the army of princes to send Prince Zhao of Qi back to the country and attacked Qi.
+The people of Qi were afraid and killed their king Wugui.
+When the people of Qi were about to make Prince Zhao the king of Qi, the tribes of the other four princes attacked the prince again. The prince fled to the Song Dynasty, and the Song Dynasty fought against the troops of the four princes of Qi.
+In May, the Song army defeated the army of the fourth prince and made Prince Zhao the king, who was Qi Xiaogong.
+Song Jun was the fourth prince who came to conquer the rebellion because Duke Huan and Guan Zhong had entrusted the prince to him.
+Because of the war, Duke Huan of Qi was not buried until August.
+In the spring of the sixth year, Qi State attacked Song Dynasty because Song State did not participate in the alliance meeting in Qi State.
+In the summer, Song Xianggong passed away.
+
+summary:
+summary line 7: After Guan Zhong's death, Duke Huan ignored his advice and appointed Yi Ya, Shu Diao, and Kaifang, who seized power. Duke Huan had six favored concubines bearing sons, and after his death, his sons fought for succession. His body lay unburied for sixty-seven days, with maggots crawling outside the door. Five of his sons eventually became rulers: Wugui, Xiaogong, Zhaogong, Yigong, and Huigong.
+
+Chunk 8: 
+original: 
+七年，晋文公立。
+十年，孝公卒，孝公弟潘因卫公子开方杀孝公子而立潘，是为昭公。
+昭公，桓公子也，其母曰葛嬴。
+昭公元年，晋文公败楚于城濮，而会诸侯践土，朝周，天子使晋称伯。
+六年，翟侵齐。
+晋文公卒。
+秦兵败于殽。
+十二年，秦穆公卒。
+十九年五月，昭公卒，子舍立为齐君。
+舍之母无宠于昭公，国人莫畏。
+昭公之弟商人以桓公死争立而不得，阴交贤士，附爱百姓，百姓说。
+及昭公卒，子舍立，孤弱，即与众十月即墓上弑齐君舍，而商人自立，是为懿公。
+懿公，桓公子也，其母曰密姬。
+懿公四年春，初，懿公为公子时，与丙戎之父猎，争获不胜。及即位，断丙戎父足，而使丙戎仆。
+庸职之妻好，公内之宫，使庸职骖乘。
+五月，懿公游于申池，二人浴，戏。职曰： 断足子！
+戎曰： 夺妻者！
+二人俱病此言，乃怨。
+谋与公游竹中，二人弑懿公车上，弃竹中而亡去。
+懿公之立，骄，民不附。
+齐人废其子而迎公子元于卫，立之，是为惠公。
+惠公，桓公子也，其母卫女，曰少卫姬，避齐乱，故在卫。
+惠公二年，长翟来，王子城父攻杀之，埋之于北门。
+晋赵穿弑其君灵公。
+十年，惠公卒，子顷公无野立。
+初，崔杼有宠于惠公，惠公卒，高、国畏其逼也，逐之，崔杼奔卫。
+顷公元年，楚庄王强，伐陈；二年，围郑，郑伯降，已复国郑伯。
+translation: 
+In the seventh year, Duke Wen of Jin came to the throne.
+In the tenth year, Xiaogong passed away. Pan, Xiaogong's younger brother, asked his son to make a prescription to kill Xiaogong's son and made Pan the king, who was Zhaogong.
+Duke Zhao is the son of Duke Huan, and his mother's name is Ge Ying.
+In the first year of Zhaogong, Duke Wen of Jin defeated the Chu army in Chengpu. He called the princes to make an alliance in Jiantu and met with the emperor of Zhou. The emperor made Jin the overlord of the princes.
+In the sixth year, he invaded Qi.
+Duke Wen of Jin passed away.
+The Qin army was defeated in Huodi.
+In the twelfth year, Duke Mu of Qin passed away.
+In May of the 19th year, Duke Zhao died, and his son She was made King of Qi.
+She's mother was not favored by Duke Zhao, so no one in Qi was afraid of him.
+Duke Zhao's younger brother, Merchant, failed to become king after Duke Huan's death. He secretly befriended wise men and cared for the people, so he was very popular among the people.
+After the death of Duke Zhao, his son She succeeded to the throne, but he was weak. The merchants and others killed Qi Junshe in front of Zhaogong's grave in October. The merchants established themselves as kings, namely Duke Yigong.
+Duke Yi was the son of Duke Huan, and his mother's name was Miji.
+In the spring of the fourth year of Duke Yi, when he was still a son, Duke Yi and Bingrong's father hunted together and competed with each other for the prey, but Duke Yi failed to win. After he came to the throne, Duke Yi cut off Bingrong's father's foot and asked Bingrong to drive for him.
+Yongzhi's wife was very beautiful, so Duke Yi snatched her into the palace and made Yongzhi his companion.
+In the fifth month, Duke Yi was playing in Shenchi. Bingrong and Yongzhi were joking with each other while taking a bath.
+Yongzhi said that Bingrong was the son of the man who cut off his feet, while Bingrong said that Yongzhi was the husband who had his wife taken away from him.
+Both of them were ashamed of these words and hated Duke Yi together.
+So the two of them planned for Yi Gong to go to the bamboo forest to play. They killed Yi Gong in the car, threw the body in the bamboo forest and escaped.
+After Yigong came to the throne, he became arrogant and arrogant, and the people did not join him.
+The people of Qi deposed the son of Duke Yi and welcomed the prince Yuan from Wei to return to Qi. He made him the king of the country, namely Duke Hui.
+Duke Hui was the son of Duke Huan. His mother was a daughter of Wei State named Shao Wei Ji. She fled to Wei State to avoid civil strife in Qi.
+In the second year of Duke Hui, Chang Zhai came to Qi. Prince Chengfu attacked and killed Chang Zhai and buried him at the north gate.
+Zhao Chuan, the official of Jin State, killed the king of Jin Linggong.
+In ten years, Duke Hui died, and his son Qinggong Wuye succeeded him.
+At first, Cui Zhu was favored by Duke Hui. After Hui Gong's death, the Gao family and the Guo family were afraid of being coerced by him, so they expelled Cui Zhu from the country, and Cui Zhu fled to Weiguo.
+In the first year of Qing AD, King Zhuang of Chu became stronger and conquered the State of Chen. In the second year, the State of Chu besieged the State of Zheng. Zheng Bo surrendered and soon restored Zheng Bo.
+
+summary:
+summary line 8: The state experienced continued turmoil through various rulers. Duke Yi was killed by Bingrong and Yongzhi after mutilating them. Duke Hui was established after Yigong's death. Duke Qing faced invasion from Jin after his mother laughed at Jin envoy Chuke. Duke Zhuang was killed by Cui Zhu for adultery with his wife. Cui Zhu and Qingfeng then controlled the government until the Tian family rose to power.
+
+Chunk 14: 
+original: 
+大夫从之。
+六月，田乞、鲍牧乃与大夫以兵入公宫，攻高昭子。
+昭子闻之，与国惠子救公。
+公师败，田乞之徒追之，国惠子奔莒，遂反杀高昭子。
+晏圉奔鲁。
+八月，齐秉意兹。
+田乞败二相，乃使人之鲁召公子阳生。
+阳生至齐，私匿田乞家。
+十月戊子，田乞请诸大夫曰： 常之母有鱼菽之祭，幸来会饮。
+会饮，田乞盛阳生橐中，置坐中央，发橐出阳生，曰： 此乃齐君矣！
+大夫皆伏谒。
+将与大夫盟而立之，鲍牧醉，乞诬大夫曰： 吾与鲍牧谋共立阳生。
+鲍牧怒曰： 子忘景公之命乎？
+诸大夫相视欲悔，阳生前，顿首曰： 可则立之，否则已。
+鲍牧恐祸起，乃复曰： 皆景公子也，何为不可！
+乃与盟，立阳生，是为悼公。
+悼公入宫，使人迁晏孺子于骀，杀之幕下，而逐孺子母芮子。
+芮子故贱而孺子少，故无权，国人轻之。
+悼公元年，齐伐鲁，取讙、阐。
+初，阳生亡在鲁，季康子以其妹妻之。
+及归即位，使迎之。
+季姬与季鲂侯通，言其情，鲁弗敢与，故齐伐鲁，竟迎季姬。
+季姬嬖，齐复归鲁侵地。
+鲍子与悼公有郄，不善。
+四年，吴、鲁伐齐南方。
+鲍子弑悼公，赴于吴。
+吴王夫差哭于军门外三日，将从海入讨齐。
+齐人败之，吴师乃去。
+晋赵鞅伐齐，至赖而去。
+齐人共立悼公子壬，是为简公。
+简公四年春，初，简公与父阳生俱在鲁也，监止有宠焉。
+及即位，使为政。
+田成子惮之，骤顾于朝。
+translation: 
+The doctors all obeyed him.
+In June, Tian Qi, Bao Mu and other officials led troops into the palace to attack Gao Zhaozi.
+When Zhaozi heard about it, he and Guohuizi rescued the king.
+The king was defeated and Tian Qi's disciples pursued him. Guo Huizi fled to Ju State, but Tian Qi came back and killed Gao Zhaozi.
+Yan Yu fled to the state of Lu.
+In August, Qi doctor Bingyi fled to Lu.
+After Tian Qi defeated the two prime ministers of Gao and Guo, he sent people to Lu to welcome back Yang Sheng.
+After Yang Sheng arrived, he hid in Tian Qi's home.
+On the Wuzi day of the tenth month, Tian Qi invited all the doctors and said: "Chan'er's mother will hold a meager ceremony at home today. Please come and drink."
+During the banquet, Tian Qi put Yang Sheng in a big bag and placed it in the center of the seat. Then he opened the bag and released Yang Sheng, saying: "This is the king of Qi!"
+All the doctors paid their respects on the spot.
+Then he had to make an oath with all the officials to make Yangsheng the king. At this time, Bao Mu was already drunk, so Tian Qi deceived everyone and said: Bao Mu and I made a plan to make Yangsheng the king.
+Bao Mu said angrily: "Have you forgotten Jing Gong's decree that Tu be the king?"
+All the officials looked at each other and wanted to regret it. Yang Sheng came forward, kowtowed and said: If you can help me, I will do it, otherwise I will give up.
+Bao Mu was also afraid of causing trouble, so he said: "We are all the sons of Jinggong, what's the big deal?"
+So he made an alliance with everyone and established Yangsheng as the king of Qi, which was the duke's mourning.
+Duke Ai entered the palace and sent people to exile Yan Ruzi to Ni. On the way, he set up a tent and killed Yan Ruzi inside, and expelled Ruizi, his mother.
+Ruizi was originally humble and a young boy, so he had no power and the people of the country despised them.
+In the first year of mourning, the state of Qi attacked Lu and captured the two places of Xi and Chan.
+At first, Yang Sheng fled to Lu, and Ji Kangzi married his sister to him.
+After Yang Sheng returned to the country and ascended the throne, he sent someone to the state of Lu to welcome his wife.
+His wife Ji Ji had an affair with Marquis Ji Yi and told the truth to her family. The Lu people did not dare to give Ji Ji to the Qi State, so the Qi State attacked the Lu State and finally took Ji Ji to Qi.
+Ji Ji was favored by Duke Mourning, and Qi State returned the occupied land of Lu State.
+Bao Zi had conflicts with Duke Ai, and their relationship was not harmonious.
+In the fourth year, Wu and Lu attacked the southern part of Qi.
+Bao Zi killed Duke Mourning and reported his mourning to the State of Wu.
+King Wu Fu Chai cried and mourned outside the military gate for three days according to etiquette. He was about to march by sea to attack Qi.
+The Qi army defeated the Wu army and the Wu army retreated.
+Zhao Yang of Jin State attacked Qi State and withdrew his troops after reaching Lai.
+The people of Qi unanimously supported Duke Yu's son Ren as the king of Qi, which was Duke Jian.
+In the spring of the fourth year of Duke Jian, at first, when Duke Jian of Qi and his father, Duke Du, were both in the state of Lu, they favored the officials and supervised them.
+After Duke Jian ascended the throne, he was asked to preside over state affairs.
+Tian Chengzi was very worried about this and went to court several times to inquire about the situation.
+
+summary:
+summary line 9: Tian Chang eventually killed Duke Jian and established Duke Ping, becoming prime minister and dividing Qi's territory for the Tian family. The Tian family ultimately took full possession of Qi, and when Tian He became a prince, the state continued under the Tian clan until King Wei of Qi ruled as a hegemon.
+
+Chunk 16: 
+original: 
+平公即位，田常相之，专齐之政，割齐安平以东为田氏封邑。
+平公八年，越灭吴。
+二十五年卒，子宣公积立。
+宣公五十一年卒，子康公贷立。
+田会反廪丘。
+康公二年，韩、魏、赵始列为诸侯。
+十九年，田常曾孙田和始为诸侯，迁康公海滨。
+二十六年，康公卒，吕氏遂绝其祀。
+田氏卒有齐国，为齐威王，强于天下。
+太史公曰：吾适齐，自泰山属之琅邪，北被于海，膏壤二千里，其民阔达多匿知，其天性也。
+以太公之圣，建国本，桓公之盛，修善政，以为诸侯会盟，称伯，不亦宜乎？
+洋洋哉，固大国之风也！
+translation: 
+After Ping Gong came to the throne, Tian Chang became the prime minister, specializing in the power of Qi State, and divided the vast land east of Anping of Qi State into the territory of the Tian family.
+In the eighth year of Ping Gong's reign, the State of Yue destroyed the State of Wu.
+In the twenty-fifth year of the reign of Emperor Pinggong, his son Xuan Gongji succeeded him.
+In the fifty-first year of Xuangong's reign, Xuangong died and his son Kang Gongdai succeeded to the throne.
+Tian Hui rebelled in Linqiu.
+In the second year of Kanggong's reign, Han, Zhao and Wei began to become princes.
+In the 19th year, Tian Chang's great-grandson Tian He began to become a prince and exiled Kang Gong to the seaside.
+In the twenty-sixth year, Duke Kang passed away, and the Lu family stopped offering sacrifices.
+The Tian family finally took possession of the Qi State, and when King Qi Wei was king, he became the lord of the world.
+Tai Shigong said: When I arrived in Qi, I saw that the land of Qi starts from Mount Tai in the west, connects Langye in the east, and reaches the sea in the north. There are two thousand miles of fertile land in between. Its people are broad-minded and deep and wise. This is their nature.
+Because of Taigong's sage, he established the foundation of the country, and because of Huangong's virtue, he implemented good governance, so he summoned the princes to form an alliance and became the overlord. Isn't it logical?
+Guangsheng and Boda, indeed have the style of a great country!
+
+summary:
+summary line 10: Sima Qian observed that Qi's fertile land and broad-minded people, combined with Taigong's foundation and Duke Huan's virtuous governance, naturally led to its position as overlord among the princes.
+

@@ -1,0 +1,375 @@
+Summary uses chunk [0, 1, 3, 5, 14, 24, 3]
+
+Chunk 0: 
+original: 
+匈奴，其先夏后氏之苗裔，曰淳维。
+唐、虞以上有山戎、猃允、薰粥，居于北边，随草畜牧而转移。
+其畜之所多则马、牛、羊，其奇畜则橐佗、驴、骡、駃騠、騊駼驒奚。
+逐水草迁徙，无城郭常居耕田之业，然亦各有分地。
+无文书，以言语为约束。
+儿能骑羊，引弓射鸟鼠，少长则射狐菟，肉食。
+士力能弯弓，尽为甲骑。
+其俗，宽则随畜田猎禽兽为生业，急则人习战攻以侵伐，其天性也。
+其长兵则弓矢，短兵则刀铤。
+利则进，不利则退，不羞遁走。
+苟利所在，不知礼义。
+自君王以下咸食畜肉，衣其皮革，被旃裘。
+壮者食肥美，老者饮食其余。
+贵壮健，贱老弱。
+父死，妻其后母；兄弟死，皆取其妻妻之。
+其俗有名不讳而无字。
+夏道衰，而公刘失其稷官，变于西戎，邑于豳。
+其后三百有余岁，戎狄攻太王亶父，亶父亡走于岐下，豳人悉从亶父而邑焉，作周。
+其后百有余岁，周西伯昌伐畎夷。
+后十有余年，武王伐纣而营雒邑，复居于酆镐，放逐戎夷泾、洛之北，以时入贡，名曰荒服。
+其后二百有余年，周道衰，而周穆王伐畎戎，得四白狼、四白鹿以归。
+自是之后，荒服不至。
+于是作《吕刑》之辟。
+至穆王之孙懿王时，王室遂衰，戎狄交侵，暴虐中国。
+中国被其苦，诗人始作，疾而歌之，曰： 靡室靡家，猃允之故 ； 岂不日戒，猃允孔棘 。
+translation: 
+The ancestor of the Xiongnu was a descendant of the Xiahou family, named Chunwei.
+Before Yao, Yu and Shun of the Tang Dynasty, there were Shanrong, Yanyun, Xunzhou and other branches. They lived in the northern border of China and moved along with water, grass and livestock husbandry.
+Most of the livestock raised are horses, cattle, and sheep. The exotic livestock include camels, donkeys, mules, Yaosao, colts, and Yixi.
+They migrated in pursuit of water and grass. They did not have cities or agriculture for permanent residence, but they also had separate grazing lands.
+There are no written books, only words are used for restraint and management.
+When the men were young, they could ride sheep, draw bows and shoot mice, and learn archery. When they grew up, they could shoot foxes and rabbits, and mostly ate meat.
+Men in their prime are strong and can bend bows and shoot arrows, so they serve as armored cavalry.
+The living customs of the Huns were that when there was no war, they would graze and hunt birds and animals as a way of making a living; in case of emergency war, people would practice battle formations to attack and plunder others. This was the nature of the Huns.
+Their long weapons are bows and arrows, and their short weapons are swords and spears.
+When fighting, attack if things go well, retreat if things go wrong, and don't be ashamed to run away.
+If there is a profit, then etiquette and justice will be ignored.
+The Huns, from the king on down, all eat animal meat, wear animal hides, and wear felt fur.
+Strong young people eat rich food, and old people eat leftovers.
+Those who are strong are valued and those who are old and weak are looked down upon.
+When his father died, his son took his stepmother as his wife; when his brothers died, the surviving ones took their wives as wives.
+The custom in terms of names is to have names, no taboos, and no epithet.
+The Xia Dynasty declined, and Gong Liu, the ancestor of the Zhou Dynasty, lost his position as a farmer, so he reformed and changed the customs of Xirong and established a capital in Bin.
+More than three hundred years later, Rong Di attacked Yifu, King Tai of Zhou, and Yifu fled to the foot of Qishan Mountain. The Bin people followed Yifu to build houses and settle down under Qishan Mountain, and began to establish the Zhou Kingdom.
+More than a hundred years later, King Wen of Zhou Dynasty Xi Bo Jichang attacked Yi.
+More than ten years later, King Wu of Zhou attacked and destroyed him, and then built Luoyi. King Wu returned to Fengjing and Haojing to live, and exiled the Rong and Yi to the north of Jinghe and Luohe, requiring them to contribute gifts on time, and called them "Huangfu".
+After more than two hundred years, the Zhou Dynasty declined, and King Zhou Duo went to attack Zuo Xi and returned with four white wolves and four white deer.
+From then on, people from Huangfu no longer paid tribute to the Zhou Dynasty.
+The Zhou Dynasty formulated the law of "Lu Xing" at that time.
+By the time of King Zhou Yi, the grandson of King Mu of Zhou, the royal family of Zhou declined, and Rong and Di repeatedly attacked and ravaged various countries in the Central Plains.
+The people of the Central Plains were deeply affected, and poets began to sing poems that hated them: No house, no home, this is all because of Yan Yun; When will I not be on guard? Yan Yun's attack was really urgent.
+
+summary:
+summary line 0: The Xiongnu, whose ancestor Chunwei was a descendant of the Xia dynasty, were a nomadic people living in the northern border of China. They raised horses, cattle, sheep, and exotic livestock, migrating with water and grass without permanent cities or agriculture. They had no written language, relying on oral agreements. Men learned archery from youth, and in adulthood served as armored cavalry. Their customs prioritized the strong, who ate well while the elderly ate leftovers. Upon a father's death, a son married his stepmother; upon a brother's death, the surviving brother married the widow. They had no naming taboos or posthumous titles.
+
+Chunk 1: 
+original: 
+至懿王曾孙宣王，兴师命将以征伐之，诗人美大其功，曰： 薄伐猃允，至于太原 ； 出车彭彭 ， 城彼朔方 。
+是时四夷宾服，称为中兴。
+至于幽王，用宠姬褒姒之故，与申侯有隙。
+申侯怒而与畎戎共攻杀幽王于丽山之下，遂取周之地，卤获而居于泾、渭之间，侵暴中国。
+秦襄公救周，于是周平王去酆镐而东徙于雒邑。
+当时秦襄公伐戎至支阝，始列为诸侯。
+后六十有五年，而山戎越燕而伐齐，齐釐公与战于齐郊。后四十四年，而山戎伐燕。
+燕告急齐，齐桓公北伐山戎，山戎走。
+后二十余年，而戎翟至雒邑，伐周襄王，襄王出奔于郑之汜邑。
+初，襄王欲伐郑，故取翟女为后，与翟共伐郑。
+已而黜翟后，翟后怨，而襄王继母曰惠后，有子带，欲立之，于是惠后与翟后、子带为内应，开戎翟，戎翟以故得入，破逐襄王，而立子带为王。
+于是戎翟或居于陆浑，东至于卫，侵盗尤甚。
+周襄王既居外四年，乃使使告急于晋。
+晋文公初立，欲修霸业，乃兴师伐戎翟，诛子带，迎内襄王子雒邑。
+当是时，秦晋为强国。
+晋文公攘戎翟，居于西河圜、洛之间，号曰赤翟、白翟。
+而秦穆公得由余，西戎八国服于秦。
+故陇以西有绵诸、畎戎、狄獂之戎，在岐、梁、泾、漆之北有义渠、大荔、乌氏、朐衍之戎，而晋北有林胡、楼烦之戎，燕北有东胡、山戎。
+各分散溪谷，自有君长，往往而聚者百有余戎，然莫能相一。
+自是之后百有余年，晋悼公使魏绛和戎翟，戎翟朝晋。
+后百有余年，赵襄子逾句注而破之，并代以临胡貉。
+后与韩、魏共灭知伯，分晋地而有之，则赵有代、句注以北，而魏有西河、上郡，以与戎界边。
+其后，义渠之戎筑城郭以自守，而秦稍蚕食之，至于惠王，遂拔义渠二十五城。
+惠王伐魏，魏尽入西河及上郡于秦。
+秦昭王时，义渠戎王与宣太后乱，有二子。宣太后诈而杀义渠戎王于甘泉，遂起兵伐灭义渠。
+于是秦有陇西、北地、上郡，筑长城以距胡。
+而赵武灵王亦变俗胡服，习骑射，北破林胡、楼烦，自代并阴山下至高阙为塞，而置云中、雁门、代郡。
+translation: 
+When King Xuan, the great-grandson of King Yi, sent a general to lead an army to attack Yan Yun, the poet praised: The expedition against Yan Yun reached Taiyuan; the chariots were dispatched to build a city in the north.
+At that time, the surrounding ethnic minorities all surrendered to the Zhou Dynasty, which was known as Zhongxing.
+When King You of Zhou Dynasty arrived, he had a conflict with Queen Shen's father, Shen Hou, because he doted on his beautiful concubine Gui Si.
+The Marquis of Shen was very angry and joined forces with Quan Rong to attack King You, killed him under Mount Li, occupied the land of the Zhou Dynasty, plundered and lived between the Jingwei River, and invaded and ravaged the people of the Central Plains.
+Qin Xianggong sent troops to rescue the Dan Dynasty, so King Qiewen left; Yan and Guzhi moved eastward to the capital of Tao Dan.
+At that time, Tong Saigong attacked Zuosheng and went all the way to Guishan. At this time, Tong Cai began to be named a prince.
+Sixty-five years later, the Shanrong crossed Zangli again to attack Bianli. Duke Manli led his army to fight the Shanrong at the border of Bianxi. Forty-four years later, Shanrong attacked Yan again.
+Yan State asked Qi State for help. Duke Huan of Qi led his army to attack Shanrong in the north, but Shanrong fled.
+More than twenty years later, Rong Zhai went to Luoyi and attacked King Xiang of Zhou Dynasty. King Xiang fled to Panyi in Zheng State.
+At first, King Xiang of Zhou wanted to attack the State of Zheng, so he married Rong Zhai's daughter as his queen and joined forces with Rong Zhai to attack the State of Zheng.
+Soon after, Empress Zhai was deposed, and Empress Zhai was very resentful. King Xiang's stepmother was named Empress Hui, and she had a son named Zidai. Queen Hui wanted to make Zidai king. So Empress Hui, together with Empress Zhai and Ziying, responded internally and opened the city gate to welcome Rong Zhai. Rong Zhai therefore attacked the city, defeated and drove away King Xiang, and established Zidai as King of Zhou.
+At that time, some Rong Zhai were already living in Luhun, and Shu Bian arrived in Wei State, and the invasion became even more severe.
+King Xiang of Zhou had been wandering for four years, so he sent an envoy to Jin to ask for help.
+Duke Wen of Jin had just ascended the throne and wanted to establish hegemony, so he sent troops to attack Rong Zhai, killed Zidai, and welcomed King Zhou Xiang back to Luoyi.
+At this time, Qin and Jin were very powerful.
+Duke Wen of Jin attacked and expelled Rong Di. Rong Di lived between the Huan River and Luo River in the Xihe River, and they were called Chidi and Baidi.
+Duke Mu of Qin got Yu Yu, and the eight kingdoms of Xirong surrendered to Qin.
+Therefore, there are Rong tribes such as Mianzhu, Dengrong and Diyuan living in Longxi. To the north of Qishan, Liangshan, Jinghe and Qihe there are Rong tribes such as Yiqu, Dali, Wushi and Quyan. To the north of Jin there are Rong tribes such as Linhu and Loufan. To the north of Yan there are Donghu and Shanrong.
+They live scattered in the valley, each with its own leader. There are more than a hundred Rong tribes living together, but they cannot be unified.
+More than a hundred years later, the Duke of Jin sent Wei Jiang to negotiate peace with Rong Di, and Rong Di began to pay homage to the king of Jin.
+More than a hundred years later, Tsai Xiangzi led his troops across Juzhu Mountain, conquered and annexed the state of Dai, and approached Hu Xian.
+Later, Zhao Xiangzi, together with the Han and Wei families, destroyed Zhi, and the three families occupied the land of Jin. In this way, Zhao State occupied Daidi and the area north of Juzhu Mountain, while Wei State occupied Xihe and Shangjun, adjacent to the Rong people.
+Later, the Rong people in Yiqu built cities for self-defense, while the Qin State slowly encroached on the land of Yiqu. When King Hui arrived, he captured twenty-five cities in Yiqu.
+King Hui of Qin attacked the State of Wei, and the State of Wei dedicated all the areas of Xihe and Shangjun to the State of Qin.
+During the reign of King Zhao of Qin, King Yiqurong had an affair with Queen Mother Xuan and gave birth to two sons. Queen Mother Xuan deceived King Yiqurong and killed him in Ganquan, and then raised troops to attack and eliminate Yiqu.
+Therefore, the Qin State occupied Longxi, Beidi, and Shangjun, and built the Great Wall to resist the Hu people.
+King Wuling of Zhao also mutated the customs of his own country, wore the clothes of the barbarians, learned horseback riding and archery, and attacked Linhu and Loufan to the north. From Daidi along the foothills of Yinshan Mountain to Gaoque, he used it as his frontier fortress. And established Yunzhong County, Yanmen County and Dai County.
+
+summary:
+summary line 1: The text traces the history of interactions between the Xiongnu and various Chinese dynasties, beginning with the Zhou dynasty. The Zhou declined, and Rong and Di tribes frequently attacked. King Xuan of Zhou attacked the Xiongnu, but later King You was killed by Quan Rong. Qin and Jin became powerful, with Duke Mu of Qin conquering Xirong and Duke Wen of Jin expelling Rong Di. During the Warring States period, Qin, Zhao, and Yan built walls to resist the Xiongnu. Qin Shihuang sent Meng Tian to attack the Xiongnu, recovering land south of the Yellow River and building the Great Wall. After Meng Tian's death, the Xiongnu regained strength under Chanyu Touman.
+
+Chunk 3: 
+original: 
+东胡王愈骄，西侵。
+与匈奴中间有弃地莫居千余里，各居其边为瓯脱。
+东胡使使谓冒顿曰： 匈奴所与我界瓯脱外弃地，匈奴不能至也，吾欲有之。
+冒顿问群臣，或曰： 此弃地，予之。
+于是冒顿大怒，曰： 地者，国之本也，奈何予人！
+诸言与者，皆斩之。
+冒顿上马，令国中有后者斩，遂东袭击东胡。
+东胡初轻冒顿，不为备。
+及冒顿以兵至，大破灭东胡王，虏其民众、畜产。
+既归，西击走月氏，南并楼烦、白羊河南王，悉复收秦所使蒙恬所夺匈奴地者，与汉关胡河南塞，至朝那、肤施，遂侵燕、代。
+是时，汉方与项羽相距，中国罢于兵革，以故冒顿得自强，控弦之士三十余万。
+自淳维以至头曼千有余岁，时大时小，别散分离，尚矣，其世传不可得而次。
+然至冒顿，而匈奴最强大，尽服从北夷，而南与诸夏为敌国，其世姓官号可得而记云。
+单于姓挛鞮氏，其国称之曰 撑犁孤涂单于 。
+匈奴谓天为 撑犁 ，谓子为 孤涂 ，单于者，广大之貌也，言其象天单于然也。
+置左右贤王、左右谷蠡、左右大将、左右大都尉、左右大当户、左右骨都侯。
+匈奴谓贤曰 屠耆 ，故尝以太子为左屠耆王。
+自左右贤王以下至当户，大者万余骑，小者数千，凡二十四长，立号曰 万骑 。
+其大臣皆世官。
+呼衍氏、兰氏，其后有须卜氏，此三姓，其贵种也。
+诸左王将居东方，直上谷以东，接秽貉、朝鲜；右王将居西方，直上郡以西，接氐、羌；而单于庭直代、云中。
+各有分地，逐水草移徙。
+而左右贤王、左右谷蠡最大国，左右骨都侯辅政。
+诸二十四长，亦各自置千长、百长、什长、裨小王、相、都尉、当户、且渠之属。
+岁正月，诸长小会单于庭，祠。
+translation: 
+King Shuhu became more arrogant and invaded westward.
+There is an uninhabited wasteland between the Xiongnu and Donghu, which is more than a thousand miles away. The Xiongnu and Donghu each live on one side and set up observation posts.
+Shuhu sent an envoy to Modu and said: The Huns cannot reach the deserted land guarded by the observation post on the border with us, and we want to occupy it.
+Mao Dun asked the ministers, and some ministers said: "This is abandoned land, give it to them."
+After hearing this, Mo Dun was furious and said: Land is the foundation of the country, how can you give it to others!
+Those who said they could give land to Shuhu were killed.
+Maodun mounted his horse and ordered his countrymen to kill anyone who retreated, so he went east to attack Donghu.
+At first Shu Hu looked down upon Mao Dun and took no precautions.
+When Mao Dun arrived with his troops, he completely defeated and eliminated King Donghu, captured the people of Ding Donghu, and plundered their livestock and products.
+After returning, he sent troops to the west to drive away the Yuezhi, and to the south he annexed Loufan and the Aries King of Henan. He also completely recovered the Xiongnu territory that Qin sent Meng Tian to invade. Using the original Henan fortress as the boundary with the Han Dynasty, he reached Chaona and Fushi, and then invaded Yan and Dai.
+At that time, Liu Han was fighting Xiang Yu, and the Central Plains was exhausted by the war, so Maodun was able to become strong and strong, with more than 300,000 warriors who could bend bows, ride and shoot.
+It was more than a thousand years from Chunwei to Touman. Sometimes the Xiongnu were large, sometimes small, and their residences were scattered and separated. They were so long ago that their lineage inheritance cannot be arranged one by one in order.
+However, when Maodun became the Chanyu, when the Huns were at their most powerful, all the ethnic minorities in the north were subject to his rule and became enemies of the Chinese ethnic groups in the south. It was only then that its lineage, surnames and official titles could be recorded.
+The Chanyu's surname was Lyuta, and their people called the king "Pengli Gutu Chanyu".
+The Huns called the sky "Plough Holder" and the son "Gu Tu". The name "Chanyu" means vast. This name means that the Chanyu is as big as the sky.
+The Xiongnu had left and right Xian kings, left and right Guli kings, left and right generals, left and right captains, left and right Danghu, and left and right Guduhous.
+The Huns called the wise "Tu Qi", so the prince often served as the Zuo Tu Qi King.
+From King Youyouxian down to Danghu, the older ones led more than ten thousand cavalry, while the younger ones led thousands of cavalry. There were twenty-four leaders in total, and they were given the title of Ten Thousand Cavalrymen.
+Their ministers all have hereditary official positions.
+The Huyan family, the Lan family, and later the Xubu family, these three surnames were the noble families of the Xiongnu.
+Those left kings and left generals all live in the east, facing the area bounded by Shanggu and Shu, which connects Hui Raccoon and North Korea; those of right kings and right generals live in the west, facing west of Shangjun, bordering the Di and Qiang; and the royal court of the Shanyu faces Daijun and Yunzhong areas.
+They each have their own area and move with the quality of the water and grass.
+The left and right Xianwang and the left and right Guli led the largest tribe, and the left and right Guduhou assisted in government affairs.
+The twenty-four leaders also each have official positions such as Qianchang, Baichang, Shichang, Xiaowang, Xiang, Duwei, Duhu, and Qiequ.
+In the first month of each year, the leaders of various tribes held a small gathering in the court of Chanyu and held a spring festival.
+
+summary:
+summary line 2: Touman's son, Maodun, trained his cavalry with a signaling arrow, killing his father and establishing himself as Chanyu. Maodun defeated the Donghu, drove away the Yuezhi, and annexed Loufan and the Aries King of Henan, becoming powerful with over 300,000 warriors. The Xiongnu's official structure included left and right kings, generals, and governors, with the Chanyu's surname being Luanti. They held annual meetings, had strict laws, and practiced burial with concubines. Maodun later conquered northern countries, and the Han dynasty, under Emperor Gao, made peace through marriage alliances and tribute.
+
+Chunk 5: 
+original: 
+今得汉地，单于终非能居之。
+且汉主有神，单于察之。
+冒顿与韩信将王黄、赵利期，而兵久不来，疑其与汉有谋，亦取阏氏之言，乃开围一角。
+于是高皇帝令士皆持满傅矢外乡，从解角直出，得与大军合，而冒顿遂引兵去。
+汉亦引兵罢，使刘敬结和亲之约。
+是后，韩信为匈奴将，及赵利、王黄等数背约，侵盗代、雁门、云中。
+居无几何，陈豨反，与韩信合谋击代。
+汉使樊哙往击之，复收代、雁门、云中郡县，不出塞。
+是时，匈奴以汉将数率众往降，故冒顿常往来侵盗代地。
+于是高祖患之，乃使刘敬奉宗室女翁主为单于阏氏，岁奉匈奴絮缯酒食物各有数，约为兄弟以和亲，冒顿乃少止。
+后燕王卢绾复后，率其党且万人降匈奴，往来苦上谷以东，终高祖世。
+孝惠、高后时，冒顿浸骄，乃为书，使使遗高后曰： 孤偾之君，生于沮泽之中，长于平野牛马之域，数至边境，愿游中国。
+陛下独立，孤偾独居。
+两主不乐，无以自虞，愿以所有，易其所无。
+高后大怒，召丞相平及樊哙、季布等，议斩其使者，发兵而击之。
+樊哙曰： 臣愿得十万众，横行匈奴中。
+问季布，布曰： 哙可斩也！
+前陈豨反于代，汉兵三十二万，哙为上将军，时匈奴围高帝于平城，哙不能解围。
+天下歌之曰： 平城之下亦诚苦，七日不食，不能彀弩。
+今歌吟之声未绝，伤痍者甫起，而哙欲摇动天下，妄言以十万众横行，是面谩也。
+translation: 
+Now that we have obtained Han territory, Shanyu you will not be able to live here after all.
+Besides, the Lord of Han is blessed by the gods, so Shanyu, you should consider it carefully.
+Mao Dun had made an appointment with Han Xin's generals Wang Huang and Cao Li, but the troops of Wang Huang and Bao Li were still late in arriving. Mao Dun suspected that they were conspiring with the King of Han, so he listened to Ban's words and opened a corner of the encirclement.
+So Emperor Gao ordered the soldiers to draw their bows fully, nock their arrows, face outwards, and rush out from the corner of the siege. Finally they joined the army, and Mao Dun led his army to retreat.
+The King of Han also retreated with his troops and sent Liu Jing to make peace with the Xiongnu.
+After that, Han Xin became the general of the Xiongnu, and together with Zaili, Wang Huang and others, he repeatedly betrayed the Han-Hungarian peace treaty and invaded Daijun, Yanmenjun and Yunzhongjun.
+Soon after, Chen Xi rebelled against the Han Dynasty and conspired with Han Xin to attack Dai County.
+The Han Dynasty sent Fan Sha to lead his troops to attack them, and recovered Daijun, Yanmenjun, Yunzhongjun and other counties without leaving the frontier to fight.
+At that time, the Xiongnu generals of the Han Dynasty led their troops to surrender many times, so Maodun often came and went to invade Dai.
+Emperor Gaozu was deeply worried, so he sent Liu Jing to send the royal daughter to the Que family who pretended to be a princess and sent a certain amount of silk floss, silk silk, wine and food to the Xiongnu every year.
+Later, King Lu Wan of Yan rebelled against the Han Dynasty and led nearly 10,000 of his associates to surrender to the Huns. They came and went to harass the people in the Shanggu Yisu area until the death of Emperor Gaozu.
+During the reign of Emperor Xiaohui and Empress Dowager Lu, Maodun gradually became arrogant and even wrote a letter and sent an envoy to Empress Lu, saying: I am a lonely and helpless monarch. I was born in a humid swamp and grew up in a vast place where cattle and horses are grazed. I have been to the border many times, hoping to visit the Central Plains.
+Your Majesty, you are an independent king, but you are also lonely and helpless, living alone.
+We two monarchs were very unhappy and had nothing to entertain us. I hope that both of us can exchange what we have for what we don’t have.
+Empress Dowager Lu was very angry after reading the letter. She summoned the prime ministers Chen Ping, Fan Sha and Ji Bu to discuss killing the Xiongnu envoys and sending troops to attack the Xiongnu.
+Fan Sha said: I am willing to lead an army of 100,000 people to attack the Xiongnu territory.
+Empress Lu asked Ji Bu, and Ji Bu said, "You can kill Fan!"
+In the past, when Chen Xi rebelled in Dai, there were 320,000 Han soldiers, and Fan Sha was the general. At that time, the Huns besieged Emperor Gao in Pingcheng, but Fan Sha could not break through the siege.
+People all over the world sang: It’s too hard under a flat city!
+After seven days without food, the soldiers could not even draw their bows. Now the sound of people singing is still in their ears, and the wounded people have just stood up. But Fan Sha wants to shake the world, and talks nonsense about bringing a hundred thousand soldiers to the Xiongnu to go on a rampage. This is deceiving the emperor in person.
+
+summary:
+summary line 3: During the reign of Empress Dowager Lu, Maodun sent an insulting letter, but she responded diplomatically. Emperor Wen continued marriage alliances, though the Xiongnu frequently invaded. The Xiongnu Chanyu wrote to the Han, claiming to have conquered the Yuezhi and other states, and sought peace. The Han agreed, sending gifts. After Maodun's death, his son Laoshang Chanyu succeeded. A eunuch, Zhongxing, defected to the Xiongnu and taught them Chinese customs, advising against adopting Han ways. He argued that Xiongnu simplicity and mobility were strengths, while Han complexity led to internal strife.
+
+Chunk 14: 
+original: 
+是后，匈奴远遁，而幕南无王庭。
+汉度河自朔方以西至令居，往往通渠置田官，吏卒五六万人，稍蚕食，地接匈奴以北。
+初，汉两将大出围单于，所杀虏八九万，而汉士物故者亦万数，汉马死者十余万匹。
+匈奴虽病，远去，而汉马亦少，无以复往。
+单于用赵信计，遣使好辞请和亲。
+天子下其议，或言和亲，或言遂臣之。
+丞相长史任敞曰： 匈奴新困，宜使为外臣，朝请于边。
+汉使敞使于单于。单于闻敞计，大怒，留之不遣。
+先是，汉亦有所降匈奴使者，单于亦辄留汉使相当。
+汉方复收士马，会票骑将军去病死，于是汉久不北击胡。
+数岁，伊稚斜单于立十三年死，子乌维立为单于。
+是岁，元鼎三年也。
+乌维单于立，而汉武帝始出巡狩郡县。
+其后汉方南诛两越，不击匈奴，匈奴亦不入边。
+乌维立三年，汉已灭两越，遣故太仆公孙贺将万五千骑出九原二千余里，至浮苴井，从票侯赵破奴万余骑出令居数千里，至匈奴河水，皆不见匈奴一人而还。
+是时，天子巡边，亲至朔方，勒兵十八万骑以见武节，而使郭吉风告单于。
+既至匈奴，匈奴主客问所使，郭吉卑体好言曰： 吾见单于而口言。
+单于见吉，吉曰： 南越王头已悬于汉北阙下。今单于即能前与汉战，天子自将兵待边；即不能，亟南面而臣子汉。
+何但远走，亡匿于幕北寒苦无水草之地为？
+语卒，单于大怒，立斩主客见者，而留郭吉不归，迁辱之北海上。
+translation: 
+After that, the Xiongnu fled far away, and Monan no longer had the royal court of Shan Yu.
+The Han people crossed the Yellow River and went west from Shuofang to Lingju. They built canals and opened fields everywhere, and set up officials. There were fifty or sixty thousand officials and soldiers. They slowly encroached on the Xiongnu territory, and the land was connected to the north of the Xiongnu's old territory.
+At the beginning, generals Wei Qing and Huo Qubing of the Han Dynasty sent troops to besiege Shanyu, killing and capturing 89,000 Xiongnu people. Tens of thousands of Han soldiers died, and more than 100,000 Han army horses died.
+Although the Xiongnu were exhausted and fled far away, the Han army lacked horses and could not pursue them.
+Chanyu adopted the letter's suggestion and sent an envoy to say good things and ask for a marriage.
+The emperor handed the matter over to the ministers for discussion. Some of the ministers said that they should make peace with the Huns, while others said that they should be made vassals.
+Prime Minister Shi Renchang said: The Xiongnu were newly defeated and tired. They should be allowed to serve as foreign ministers and go to the frontier areas to pay homage to the Emperor of the Han Dynasty.
+The Han Dynasty sent Ren Chang as an envoy to Shan Yu Nahuo. After Shan Yu heard about Ren Chang's idea, he became furious and detained Ren Chang and refused to let him go back.
+Prior to this, the Han Dynasty also recruited and surrendered some Huns envoys, and the Chanyu always detained the Han Dynasty's envoys to compensate.
+The Han Dynasty was mobilizing troops and horses, but Huo Qu, the general of the Hussars, died of illness. Therefore, the Han Dynasty did not attack the Xiongnu in the north for a long time.
+A few years later, Yi Zhixie Chanyu died, having reigned for thirteen years. His son Uwe succeeded as Chanyu.
+This year is the third year of Yuanding.
+After Uwe Chanyu succeeded to the throne, Emperor Wu of the Han Dynasty began to inspect various counties and counties.
+Later, the Han Dynasty went to conquer the two Vietnames in the south, but did not attack the Xiongnu, and the Xiongnu did not invade the border.
+Three years after Uwe Shanyu succeeded to the throne, the Han Dynasty wiped out both Vietnams. He sent Sun He, the former Tai servant, to lead 15,000 cavalry out of Jiuyuan for more than 2,000 miles to Fujujing. He sent Piaohou Tangponu to lead more than 10,000 cavalry out to the Xiongnu River for several thousand miles to the Xiongnu River. Both armies came back without encountering a single Huns.
+At this time, Emperor Wu of the Han Dynasty inspected the border and personally arrived at Shuofang City. He commanded 180,000 cavalry to show his military might. At the same time, he sent Guo Ji as an envoy to advise Shan Yu.
+After arriving at the Xiongnu, the Xiongnu official in charge of receiving guests asked Guo Ji what his mission was. Guo Ji humbly said kindly and said: I want to tell Shan Yu in person when I see him in person.
+Shanyu then met with Guo Ji, who said: The head of the King of Nanyue has been hung under the north gate of the Han Dynasty palace. If you, Shanyu, can go to fight the Han soldiers now, then the emperor of the Han Dynasty is waiting at the border with his troops; if you cannot go, you should face south and surrender to the Han Dynasty.
+Why just run away to the north and hide in the cold and miserable place with no water and grass in the north of the desert?
+After Guo Ji finished speaking, Shanyu was furious and immediately killed the concierge responsible for the reception. He detained Guo Ji and refused to let him go back. In order to humiliate Guo Ji, he exiled him to the North Sea.
+
+summary:
+summary line 4: Under Emperor Wu, the Han attempted to ambush the Xiongnu at Mayi but failed, leading to open conflict. The Han sent multiple campaigns, with generals like Wei Qing and Huo Qubing achieving victories, killing tens of thousands of Xiongnu and capturing their kings. The Xiongnu suffered heavy losses and fled north. The Han also expanded into the Western Regions, isolating the Xiongnu from allies. Despite peace negotiations, the Xiongnu continued border raids. The Han detained Xiongnu envoys, and the Xiongnu retaliated.
+
+Chunk 24: 
+original: 
+会天大雨雪，一日深丈余，人民畜产冻死，还者不能什一。
+于是丁令乘弱攻其北，乌桓入其东，乌孙击其西。
+凡三国所杀数万级，马数万匹，牛、羊甚众。
+又重以饿死，人民死者什三，畜产什五，匈奴大虚弱，诸国羁属者皆瓦解，攻盗不能理。
+其后汉出三千余骑，为三道，并入匈奴，捕虏得数千人还。
+匈奴终不敢取当，兹欲乡和亲，而边境少事矣。
+壶衍鞮单于立十七年死，弟左贤王立，为虚闾权渠单于。
+是岁，地节二年也。
+虚闾权渠单于立，以右大将女为大阏氏，而黜前单于所幸颛渠阏氏。
+颛渠阏氏父左大且渠怨望。
+是时，匈奴不能为边寇，于是汉罢外城，以休百姓。
+单于闻之喜，召贵人谋，欲与汉和亲。
+左大且渠心害其事，曰： 前汉使来，兵随其后，今亦效汉发兵，先使使者入。
+乃自请与呼卢訾王各将万骑南旁塞猎，相逢俱入。
+行未到，会三骑亡降汉，言匈奴欲为寇。
+于是天子诏发边骑屯要害处，使大将军军监治众等四人将五千骑，分三队，出塞各数百里，捕得虏各数十人而还。
+时匈奴亡其三骑，不敢入，即引去。
+是岁也，匈奴饥，人民畜产死十六七。
+又发两屯各万骑以备汉。
+其秋，匈奴前所得西嗕居左地者，其君长以下数千人皆驱畜产行，与瓯脱战，所战杀伤甚众，遂南降汉。
+translation: 
+At this time, there happened to be heavy snowfall, which was more than ten feet deep in one day. Many of the tribesmen and livestock froze to death, and less than one tenth of them came back alive.
+So Ding Lingguo took advantage of the Xiongnu's weakness to attack it from the north, Wuhuan State attacked it from Shubian, and Wusun State attacked it from the west.
+These three countries killed tens of thousands of Huns and robbed tens of thousands of horses, as well as many cattle and sheep.
+In addition, many people died of starvation, three-tenths of the Xiongnu people died, and five-tenths of the livestock died. The Xiongnu country declined greatly. Those subordinate countries of the Xiongnu rebelled and left one after another, attacking and harassing each other, and no one was able to govern them.
+Later, the Han Dynasty sent more than 3,000 cavalry, divided into three groups, to attack the Huns together, and captured and brought back thousands of people.
+In the end, the Xiongnu did not dare to retaliate against the Han Dynasty to compensate for the losses, but wanted to make peace with the Han Dynasty even more, and the borders of the Han Dynasty became peaceful and less troublesome from then on.
+Hu Yanqian Chanyu died in the seventeenth year of his reign, and his younger brother Zuoxian Wang succeeded him as Chanyu. This is Xulu Quanqu Chanyu.
+This year is the second year of the Earth Festival.
+After Xulu Quan Qu Chanyu succeeded to the throne, he established the right general's daughter as the Pi family and deposed the Zhuan Quque family who was favored by the late Chanyu.
+Zhuan Quban's father, Zuo Daqiequ, was very resentful.
+At that time, because the Xiongnu did not dare to invade the border again, the Han Dynasty abandoned the cities on the border fortress so that the people defending there could rest and recuperate.
+When Shanyu heard about this, he was very happy and summoned the Xiongnu nobles to discuss the matter and wanted to make peace with the Han Dynasty.
+Zuo Daqiequ was jealous of this, so he said to Shanyu: In the past, the Han Dynasty sent envoys, and the army followed closely and came to attack us.
+Now we can also follow the example of the Han Dynasty in dispatching troops, and first send envoys to pay homage to the Emperor of Han. So he asked Shan Yu to allow himself and King Huluzi to lead 10,000 cavalry to the south to hunt along the Han Dynasty's border fortress. After meeting, they attacked the border fortress together.
+Before reaching the border fortress, three Xiongnu cavalrymen happened to escape and surrendered to the Han Dynasty, saying that the Huns were coming to invade.
+So the Emperor of the Han Dynasty issued an edict to station the cavalry on the frontier fortress in key places. He sent four people including the general, the general, and the supervisor to lead 5,000 cavalry. They were divided into three groups, and each went hundreds of miles away from the frontier fortress. Each captured dozens of Huns and returned.
+At that time, the Huns escaped with three cavalrymen, so they did not dare to invade the border fortress and led their troops to retreat.
+This year there was a famine in the Huns, and sixty-seven out of ten people and livestock died.
+Xiongsu also sent two villages with 10,000 cavalry each to guard against the Han army's attack.
+In the autumn of this year, thousands of people from the Ximo tribe who lived in the left area who had previously belonged to the Xiongnu, starting from their monarch, drove their livestock to escape from the Xiongnu. They fought with the Xiongnu in the Outuo area. Many people were killed and injured in the battle, so they surrendered to the south and surrendered to the Han Dynasty.
+
+summary:
+summary line 5: Later, the Xiongnu faced internal strife and external attacks from Dingling, Wuhuan, and Wusun, leading to decline. The Han sent multiple expeditions, further weakening the Xiongnu. The Xiongnu Chanyu sought peace, but the Han demanded the prince as a hostage, which the Xiongnu refused. The Xiongnu continued to raid, but the Han's military campaigns and alliances with Wusun and other states devastated them. The Xiongnu suffered from famine, disease, and livestock losses, with many tribes rebelling or surrendering to the Han.
+
+Chunk 3: 
+original: 
+东胡王愈骄，西侵。
+与匈奴中间有弃地莫居千余里，各居其边为瓯脱。
+东胡使使谓冒顿曰： 匈奴所与我界瓯脱外弃地，匈奴不能至也，吾欲有之。
+冒顿问群臣，或曰： 此弃地，予之。
+于是冒顿大怒，曰： 地者，国之本也，奈何予人！
+诸言与者，皆斩之。
+冒顿上马，令国中有后者斩，遂东袭击东胡。
+东胡初轻冒顿，不为备。
+及冒顿以兵至，大破灭东胡王，虏其民众、畜产。
+既归，西击走月氏，南并楼烦、白羊河南王，悉复收秦所使蒙恬所夺匈奴地者，与汉关胡河南塞，至朝那、肤施，遂侵燕、代。
+是时，汉方与项羽相距，中国罢于兵革，以故冒顿得自强，控弦之士三十余万。
+自淳维以至头曼千有余岁，时大时小，别散分离，尚矣，其世传不可得而次。
+然至冒顿，而匈奴最强大，尽服从北夷，而南与诸夏为敌国，其世姓官号可得而记云。
+单于姓挛鞮氏，其国称之曰 撑犁孤涂单于 。
+匈奴谓天为 撑犁 ，谓子为 孤涂 ，单于者，广大之貌也，言其象天单于然也。
+置左右贤王、左右谷蠡、左右大将、左右大都尉、左右大当户、左右骨都侯。
+匈奴谓贤曰 屠耆 ，故尝以太子为左屠耆王。
+自左右贤王以下至当户，大者万余骑，小者数千，凡二十四长，立号曰 万骑 。
+其大臣皆世官。
+呼衍氏、兰氏，其后有须卜氏，此三姓，其贵种也。
+诸左王将居东方，直上谷以东，接秽貉、朝鲜；右王将居西方，直上郡以西，接氐、羌；而单于庭直代、云中。
+各有分地，逐水草移徙。
+而左右贤王、左右谷蠡最大国，左右骨都侯辅政。
+诸二十四长，亦各自置千长、百长、什长、裨小王、相、都尉、当户、且渠之属。
+岁正月，诸长小会单于庭，祠。
+translation: 
+King Shuhu became more arrogant and invaded westward.
+There is an uninhabited wasteland between the Xiongnu and Donghu, which is more than a thousand miles away. The Xiongnu and Donghu each live on one side and set up observation posts.
+Shuhu sent an envoy to Modu and said: The Huns cannot reach the deserted land guarded by the observation post on the border with us, and we want to occupy it.
+Mao Dun asked the ministers, and some ministers said: "This is abandoned land, give it to them."
+After hearing this, Mo Dun was furious and said: Land is the foundation of the country, how can you give it to others!
+Those who said they could give land to Shuhu were killed.
+Maodun mounted his horse and ordered his countrymen to kill anyone who retreated, so he went east to attack Donghu.
+At first Shu Hu looked down upon Mao Dun and took no precautions.
+When Mao Dun arrived with his troops, he completely defeated and eliminated King Donghu, captured the people of Ding Donghu, and plundered their livestock and products.
+After returning, he sent troops to the west to drive away the Yuezhi, and to the south he annexed Loufan and the Aries King of Henan. He also completely recovered the Xiongnu territory that Qin sent Meng Tian to invade. Using the original Henan fortress as the boundary with the Han Dynasty, he reached Chaona and Fushi, and then invaded Yan and Dai.
+At that time, Liu Han was fighting Xiang Yu, and the Central Plains was exhausted by the war, so Maodun was able to become strong and strong, with more than 300,000 warriors who could bend bows, ride and shoot.
+It was more than a thousand years from Chunwei to Touman. Sometimes the Xiongnu were large, sometimes small, and their residences were scattered and separated. They were so long ago that their lineage inheritance cannot be arranged one by one in order.
+However, when Maodun became the Chanyu, when the Huns were at their most powerful, all the ethnic minorities in the north were subject to his rule and became enemies of the Chinese ethnic groups in the south. It was only then that its lineage, surnames and official titles could be recorded.
+The Chanyu's surname was Lyuta, and their people called the king "Pengli Gutu Chanyu".
+The Huns called the sky "Plough Holder" and the son "Gu Tu". The name "Chanyu" means vast. This name means that the Chanyu is as big as the sky.
+The Xiongnu had left and right Xian kings, left and right Guli kings, left and right generals, left and right captains, left and right Danghu, and left and right Guduhous.
+The Huns called the wise "Tu Qi", so the prince often served as the Zuo Tu Qi King.
+From King Youyouxian down to Danghu, the older ones led more than ten thousand cavalry, while the younger ones led thousands of cavalry. There were twenty-four leaders in total, and they were given the title of Ten Thousand Cavalrymen.
+Their ministers all have hereditary official positions.
+The Huyan family, the Lan family, and later the Xubu family, these three surnames were the noble families of the Xiongnu.
+Those left kings and left generals all live in the east, facing the area bounded by Shanggu and Shu, which connects Hui Raccoon and North Korea; those of right kings and right generals live in the west, facing west of Shangjun, bordering the Di and Qiang; and the royal court of the Shanyu faces Daijun and Yunzhong areas.
+They each have their own area and move with the quality of the water and grass.
+The left and right Xianwang and the left and right Guli led the largest tribe, and the left and right Guduhou assisted in government affairs.
+The twenty-four leaders also each have official positions such as Qianchang, Baichang, Shichang, Xiaowang, Xiang, Duwei, Duhu, and Qiequ.
+In the first month of each year, the leaders of various tribes held a small gathering in the court of Chanyu and held a spring festival.
+
+summary:
+summary line 6: The text concludes with the Xiongnu's continued decline, internal power struggles, and eventual submission to the Han. The Xiongnu Chanyu's lineage and official titles are recorded, highlighting their complex relationship with the Han dynasty, marked by periods of war, peace, and tribute.
+

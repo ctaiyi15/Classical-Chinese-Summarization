@@ -1,0 +1,394 @@
+Summary uses chunk [0, 1, 3, 8, 12, 13]
+
+Chunk 0: 
+original: 
+简文皇帝讳昱，字道万，元帝之少子也。
+幼而岐嶷，为元帝所爱。
+郭璞见而谓人曰： 兴晋祚者，必此人也。
+及长，清虚寡欲，尤善玄言。
+永昌元年，元帝诏曰： 先公武王、先考恭王君临琅邪。
+继世相承，国嗣未立，蒸尝靡主，朕常悼心。
+子昱仁明有智度，可以虔奉宗庙，以慰罔极之恩。
+其封昱为琅邪王，食会稽、宣城如旧。
+咸和元年，所生郑夫人薨。
+帝时年七岁，号慕泣血，固请服重。
+成帝哀而许之，故徙封会稽王，拜散骑常侍。
+九年，迁右将军，加侍中。
+咸康六年，进抚军将军，领秘书监。
+建元元年夏五月癸丑，康帝诏曰： 太常职奉天地，兼掌宗庙，其为任也，可谓重矣。
+是以古今选建，未尝不妙简时望，兼之儒雅。
+会稽王叔履尚清虚，志道无倦，优游上列，讽议朝肆。其领太常本官如故。
+永和元年，崇德太后临朝，进位抚军大将军、录尚书六条事。
+二年，骠骑何充卒，崇德太后诏帝专总万机。
+八年，进位司徒，固让不拜。
+穆帝始冠，帝稽首归政，不许。
+废帝即位，以琅邪王绝嗣，复徙封琅邪，而封王子昌明为会稽王。
+帝固让，故虽封琅邪而不去会稽之号。
+太和元年，进位丞相、录尚书事，入朝不趋，赞拜不名，剑履上殿，给羽葆鼓吹班剑六十人，又固让。
+及废帝废，皇太后诏曰： 丞相、录尚书、会稽王体自中宗，明德劭令，英秀玄虚，神栖事外。
+以具瞻允塞，故阿衡三世。
+translation: 
+Emperor Jianwen's name was Yu, with the courtesy name Daowan, and he was the youngest son of Emperor Yuan.
+He was very smart when he was young and was loved by Emperor Yuan.
+When Guo Pu saw him, he said to people: This person must be the one who revitalizes the Jin Dynasty.
+When Sima Yu grew up, he was pure and had few desires, and was especially good at talking about mysteries.
+In the first year of Yongchang, Emperor Yuan issued an edict saying: King Wu Xiangong and King Xiankao Gong ruled Langye.
+Father and son have been passed down from generation to generation, but the current heir has not set up a ceremony or presided over the ceremony. I am often sad about this.
+His son Sima Yu is kind, wise, resourceful and generous, and can serve his ancestors respectfully to comfort his endless kindness.
+Sima Yu was granted the title of King of Langxie, and his official residences were still Kuaiji and Xuancheng.
+In the first year of Xianhe, Sima Yu's biological mother, Mrs. Zheng, passed away.
+Emperor Jian Wen was only seven years old at the time. He cried blood when he cried to offer sacrifices to his biological mother, and insisted on wearing mourning clothes.
+Emperor Cheng took pity on him and agreed to his request, so he changed his title to King of Kuaiji and assisted Sanqi as a regular attendant.
+In the ninth year, he was promoted to general on the right and was awarded the title of Shizhong.
+In the sixth year of Xiankang's reign, he was promoted to general of the Fu army and concurrently served as secretary and supervisor.
+In the fifth month of Guichou in the summer of the first year of Jianyuan, Emperor Kang issued an edict saying: Taichang felt that the responsibility of worshiping heaven and earth and taking care of the ancestral temple can be said to be very great.
+Therefore, in selecting roles throughout the ages, people who are both prestigious and knowledgeable have been chosen.
+The King of Kuaiji advocated purity, worked tirelessly to pursue the Tao, took his time in high-ranking positions, and satirized the government and the public, so he allowed the King of Kuaiji to concurrently lead Taichang, and his original official position remained unchanged.
+In the first year of Yonghe, Empress Dowager Chongde came to the court, and Sima Yujin was promoted to the general of the Fu army and recorded six things in Shangshu.
+In the second year, the knight He Chong died, and Empress Dowager Chongde issued an edict to let Emperor Jianwen handle state affairs exclusively.
+In eight years, he was promoted to Situ, but Sima Yu firmly refused.
+When Emperor Mu began to perform the crowning ceremony, Emperor Jianwen asked for the return of state affairs, but Emperor Mu refused.
+After the deposed emperor came to the throne, because King Langxie had no heir, he changed the title of Emperor Jianwen to King Langxie and made his son Sima Ming King of Kuaiji.
+Emperor Jianwen tried his best to refuse, so although he was granted the title of King Langxie, he did not remove the title of King of Kuaiji.
+In the first year of Taihe, when he was promoted to prime minister and recorded ministerial affairs, he did not need to step forward when entering the court, and did not need to say his name when paying homage. He could wear a sword and wear shoes when going to the palace. He was provided with an honor guard of sixty Yu Bao's advocating classes and swords. Emperor Jian Wen strongly recommended it.
+After the deposed emperor was deposed, the empress dowager issued an edict saying: The prime minister, Lu Shangshu, and King Kuaiji are the descendants of Zhongzong. They have good virtues, noble empresses, and empresses advocate purity and emptiness, and their magic is manifested in their conduct.
+Because of his position as an assistant to important ministers, he guided three generations of emperors to preside over state affairs.
+
+summary:
+summary line 0: Emperor Jianwen, named Sima Yu with the courtesy name Daowan, was the youngest son of Emperor Yuan. He was exceptionally intelligent as a child and beloved by his father. The diviner Guo Pu predicted he would revitalize the Jin Dynasty. Sima Yu grew to be pure-hearted with few desires, particularly skilled in discussing metaphysical matters. He was granted the title of King of Langxie in the first year of Yongchang, and later became King of Kuaiji. Throughout his career, he held various high-ranking positions including General of the Right, General of the Fu Army, and concurrently served as Secretary and Supervisor.
+
+Chunk 1: 
+original: 
+道化宣流，人望攸归，为日已久。
+宜从天人之心，以统皇极。
+主者明依旧典，以时施行。 于是大司马桓温率百官进太极前殿，具乘舆法驾，奉迎帝于会稽邸，于朝堂变服，著平巾帻单衣，东向拜受玺绶。
+咸安元年冬十一月己酉，即皇帝位。
+桓温出次中堂，令兵屯卫。乙卯，温奏废太宰、武陵王晞及子总。
+诏魏郡太守毛安之帅所领宿卫殿内，改元为咸安。
+庚戌，使兼太尉周颐告于太庙。辛亥，桓温遣弟秘逼新蔡王晃诣西堂，自列与太宰、武陵王晞等谋反。帝对之流涕，温皆收付廷尉。
+癸丑，杀东海二子及其母。
+初，帝以冲虚简贵，历宰三世，温素所敬惮。
+及初即位，温乃撰辞欲自陈述，帝引见，对之悲泣，温惧不能言。
+至是，有司承其旨，奏诛武陵王晞，帝不许。
+温固执至于再三，帝手诏报曰： 若晋祚灵长，公便宜奉行前诏。
+如其大运去矣，请避贤路。
+温览之，流汗变色，不复敢言。
+乙卯，废晞及其三子，徙于新安。
+丙辰，放新葵王晁于衡阳。
+戊午，诏曰： 王室多故，穆哀早世，皇胤夙迁，神器无主。
+东海王以母弟近属，入纂大统，嗣位经年，昏暗乱常，人伦亏丧，大祸将及，则我祖宗之灵靡知所托。
+皇太后深惧皇基，时定大计。
+大司马因顺天人，协同神略，亲帅群后，恭承明命。
+云雾既除，皇极载清，乃顾朕躬，仰承弘绪。
+虽伊尹之宁殷朝，博陆之安汉室，无以尚也。
+朕以寡德，猥居元首，实惧眇然，不克负荷，战战兢兢，罔知攸济。
+translation: 
+It has been a long time since moral education spread and everyone expected it to return.
+We should obey the will of God and the will of the people and ascend to the throne.
+The people in charge clearly followed the regulations at that time and implemented them on time. So Grand Sima Huanwen led all the officials into the Taiji front hall, prepared the emperor's car, and went to the palace of King Kuaiji to greet Emperor Jian Wen. He changed his clothes in the court hall, wearing a plain scarf and single clothes, and bowed to the east to accept the seal ribbon.
+In the eleventh month of the winter of the first year of Xian'an, Sima Yu ascended the throne as emperor.
+Huan Wen left the palace and stayed in the middle hall, ordering the troops to garrison. On Yi Mao, Wen sent a petition to the emperor to depose Sima Xi, the Grand Prime Minister and King of Wuling, and his son, General Sima.
+The emperor ordered Marshal Mao An, the prefect of Wei County, to lead his troops to guard the palace and change the name to Xian'an.
+On the day of Xinhai, Huan Wen sent his younger brother Huan Mi to force Xincai King Sima Huang to go to the West Hall, forcing him to tell Dazai, Wuling King Sima Xi and others that he was conspiring against him. The emperor shed tears towards Sima Huang, and Huan Wen arrested Sima Huang and others and handed them over to the Tingwei.
+On Guichou day, he killed the two sons of King Donghai and their mother.
+At the beginning, the emperor was indifferent, pure, simple, arrogant and noble. He served as prime minister for three dynasties. Huan Wen always respected and feared him.
+When the emperor received Huan Wen, he cried sadly to him. Huan Wen was so scared that he could not speak.
+At this time, some officials adhered to Huan Wen's will and petitioned to kill Sima Xi, the king of Wuling, but the emperor refused.
+Huan Wen insisted again and again, and the emperor personally issued an edict in reply: If the Jin Dynasty lasts for a long time, Ming Gong should implement the previous edict.
+If the great fortune of the Jin Dynasty is over, then please let me make way for the sages.
+Huan Wen looked at it and was so frightened that he broke into a cold sweat, his face changed, and he stopped talking.
+On Yimao day, Sima Xi and his three sons were deposed and exiled to Xin'an.
+On Bingchen day, Sima Chao, the new king of Cai, was exiled to Hengyang.
+On Wuwu Day, an edict was issued saying: The royal family is in trouble. Emperors Mu and Ai passed away prematurely, the imperial line has long been changed, and the throne has no owner.
+The King of the East China Sea is a close relative of the emperor's mother and brother. He has inherited the throne after entering the dynasty. He has been in charge for many years. He has traveled far and wide, disrupting the dynasty's agenda. Human relations have been corrupted. A great disaster is about to come. I don't know where to place the gods of my ancestors.
+The Empress Dowager was deeply worried about the royal family's foundation and made a big plan in time.
+Da Sima followed the will of heaven and man, coordinated with the gods' general strategy, personally led the princes, and respectfully accepted the orders of the saints.
+Now that the clouds and mist have been cleared away and the royal family is clear, they will take care of me and inherit the great achievements.
+Even if Yi Yin stabilized the Yin Dynasty and Bo Lu stabilized the Han Dynasty, they could not surpass them.
+Because of my meager virtues, I temporarily occupy the throne. I am really worried that my vision is narrow and I will not be able to shoulder the important responsibilities. I am trembling and trembling, not knowing how to succeed.
+
+summary:
+summary line 1: After the deposed emperor was removed, the Empress Dowager issued an edict declaring Sima Yu the rightful heir to the throne. In the eleventh month of the first year of Xian'an, he ascended as emperor. Huan Wen, who had previously deposed the former emperor, maintained significant power. When Huan Wen insisted on executing Sima Xi, the King of Wuling, Emperor Jianwen personally issued an edict refusing, stating that if the Jin Dynasty was destined to continue, Huan Wen should follow his previous edict, but if the dynasty's fortune was exhausted, he would make way for worthier men. Huan Wen was so frightened by this response that he broke into a cold sweat and abandoned the matter.
+
+Chunk 3: 
+original: 
+驺虞见豫章。
+夏四月，徙海西公于吴县西柴里。
+追贬庾后曰夫人。
+六月，遣使拜百济王余句为镇东将军，领乐浪太守。
+戊子，前护军将军庚希举兵反，自海陵入京口，晋陵太守卞眈奔于曲阿。
+秋七月壬辰，桓温遣东海内史周少孙讨希，擒之，斩于建康市。
+己未，立会稽王昌明为皇太子，皇子道子为琅邪王，领会稽内史。
+是日，帝崩于东堂，时年五十三。
+葬高平陵，庙号太宗。
+遗诏以桓温辅政，依诸葛亮、王导故事。
+帝少有风仪，善容止，留心典籍，不以居处为意，凝尘满席，湛如也。
+尝与桓温及武陵王晞同载游版桥，温遽令鸣鼓吹角，车驰卒奔，欲观其所为。
+晞大恐，求下车，而帝安然无惧色，温由此惮服。
+温既仗文武之任，屡建大功，加以废立，威振内外。
+帝虽处尊位，拱默守道而已，常惧废黜。
+先是，荧惑入太微，寻而海西废。
+及帝登阼，荧惑又入太微，帝甚恶焉。
+时中书郎郗超在直，帝乃引入，谓曰： 命之修短，本所不计，故当无复近日事邪！
+超曰： 大司马臣温方内固社稷，外恢经略，非常之事，臣以百口保之。
+及超请急省其父，帝谓之曰： 致意尊公，家国之事，遂至于此！
+由吾不能以道匡卫，愧叹之深，言何能喻。
+因咏庾阐诗云 志士痛朝危，忠臣哀主辱 ，遂泣下沾襟。
+帝虽神识恬暢，而无济世大略，故谢安称为惠帝之流，清谈差胜耳。
+沙门支道林尝言 会岙有远体而无远神 。
+谢灵运迹其行事，亦以为赧献之辈云。
+孝武皇帝讳曜，字昌明，简文帝第三子也。
+兴宁三年七月甲申，初封会稽王。
+咸安二年秋七月己未，立为皇太子。
+是日，简文帝崩，太子即皇帝位。
+诏曰： 朕以不造，奄丁闵凶，号天扣地。靡知所诉。
+藐然幼冲，眇若缀旒，深惟社稷之重，大惧不克负荷。
+仰凭祖宗之灵，积德之祀。先帝淳风玄化，遗咏在民。
+translation: 
+Monsters appear in Yuzhang.
+In April of summer, Duke Haixi was transferred to Xichaili, Wu County.
+After Yu was demoted, she was said to be his wife.
+In June, an envoy was sent to consecrate King Yugou of Baekje as General of Zhendong and also as governor of Lelang.
+On the day of Wuzi, the former guard general Geng hope led his troops to rebel and entered Jingkou from Hailing. Bian Wan, the prefect of Jinling, fled to Qu'a.
+In the seventh month of Autumn, at Renchen, Huan Wen sent Zhou Shaosun, the internal historian of the East China Sea, to attack Geng hope, captured him, and killed him in the bustling city of Jiankang.
+At the end of the year, Sima Changming, the king of Kuaiji, was made the crown prince, and the prince Sima Daozi was made king Langxie, and he also took charge of the internal history of Kuaiji.
+On the same day, the emperor died in the East Hall at the age of fifty-three.
+He was buried in Gaoping Mausoleum, with the temple name Taizong.
+The posthumous edict asked Huan Wen to assist in state affairs, according to the story of Zhuge Liang and Wang Dao.
+When Emperor Jian Wen was young, he was graceful and well behaved. He paid attention to the classics and did not care about his living environment. Even though his seat was covered with dust, he was still happy.
+Once while visiting Banqiao with Huan Wen and Sima Xi, King of Wuling, Huan Wen suddenly ordered the drums to be beaten and the horns to be blown, and the carriages and horses suddenly galloped quickly, wanting to see how the two of them performed.
+Sima Xi was very frightened and asked to get out of the car, but Emperor Jian Wen looked calm and did not panic at all. Heng Wen was therefore in awe of him.
+Huan Wen relied on his civil and military positions to achieve great achievements many times. In addition, he abolished the old emperor and established a new emperor, which made him powerful both inside and outside the court.
+Although Emperor Jian Wen was on the throne, he could only do nothing and stick to the normal way. He was often afraid of being deposed.
+Previously, the disaster star entered Taiwei, and soon Haixi Gong was deposed.
+When Emperor Jian Wen ascended the throne, the disaster star entered Taiwei again, which Emperor Jian Wen hated very much.
+At that time, Zhongshu Lang Xichao was on duty, so the emperor called him in and told him that the length of life is of course not considered, so there should be no more abolishment of the establishment of the previous days!
+Xi Chao said: Grand Sima Huanwen is consolidating the country internally and planning extraordinary things externally, and I will use my whole family to guarantee it.
+When Xi Chao asked for a quick visit to his father, the emperor said to him: Please convey my greetings to your father, the country's affairs have reached this point!
+Because I cannot use the right way to rectify the country, I am so ashamed that words cannot express it.
+So he chanted Yu Chan's poems. The patriots were saddened by the crisis of the court, and the loyal ministers were saddened by the humiliation of the monarch. In the end, they wet their clothes with tears.
+Although Emperor Jian Wen was knowledgeable, he had no grand strategy to save the world, so Xie An called him someone like Emperor Hui, who was just a bit better at talking.
+The monk Zhi Daolin once said that the King of Kuaiji had a lofty appearance but no lofty spirit.
+Xie Lingyun traced his actions and believed that he was a figure like King Nan of Zhou and King Xian of Zhou.
+Emperor Xiaowu's name was Yao and his courtesy name was Changming. He was the third son of Emperor Jianwen Sima Yu.
+On June 12, the third year of Xingning, he was granted the title of King of Kuaiji.
+On July 28, the second autumn of the second year of Xian'an, he was established as the crown prince.
+On this day, Emperor Jianwen died, and the prince became emperor.
+The edict was issued saying: Due to my misfortune, I suddenly encountered a funeral and cried out to heaven and earth, not knowing what to complain about.
+He was young and weak, and the country was in danger. He deeply felt the importance of the country and worried that he would not be able to shoulder the important responsibilities.
+Relying on the ancestors to show their spirits, accumulate virtues and enjoy sacrifices, the customs of the late emperors are honest and simple, and the moral teachings of the saints are spread among the people.
+
+summary:
+summary line 2: Emperor Jianwen was known for his graceful demeanor and disregard for material circumstances. He could remain calm even when Huan Wen deliberately created chaotic situations to test him. Despite his knowledge, he lacked grand strategies for saving the world. He was often afraid of being deposed, especially when the disaster star entered Taiwei after his ascension. He died at age fifty-three in the East Hall and was buried in Gaoping Mausoleum with the temple name Taizong.
+
+Chunk 8: 
+original: 
+八月，苻坚帅众渡淮，遣征讨都督谢石、冠军将军谢玄、辅国将军谢琰、西中郎将桓伊等距之。
+九月，诏司徒、琅邪王道子录尚书六条事。
+冬十月，苻坚弟融陷寿春。
+乙亥，诸将及苻坚战于肥水，大破之，俘斩数万计，获坚舆辇及云母车。
+十一月庚申，诏卫将军谢安劳旋师于金城。
+壬子，立陈留王世子灵诞为陈留王。
+十二月庚午，以寇难初平，大赦。
+以中军将军谢石为尚书令。
+开酒禁。
+始增百姓税米，口五石。
+前句町王翟辽背苻坚，举兵于河南，慕容垂自鄴与辽合，遂攻坚子晖于洛阳。
+仇池公杨世奔还陇右，遣使称籓。
+九年春正月庚子，封武陵王孙宝为临川王。
+戊午，立新宁王晞子遵为新宁王。
+辛亥，谒建平等四陵。
+龙骧将军刘牢之克谯城。
+车骑将军桓冲部将郭宝伐新城、魏兴、上庸三郡，降之。
+二月辛巳，使持节、都督荆江梁宁益交广七州诸军事、车骑将军、荆州刺史桓冲卒。
+慕容垂自洛阳与翟辽攻苻坚子丕于鄴。
+三月，以卫将军谢安为太保。
+苻坚北地长史慕容泓、平阳太守慕容冲并起兵背坚。
+夏四月己卯，增置太学生百人。
+封张天锡为西平公。
+使竟陵太守赵统伐襄阳，克之。
+苻坚将姚苌背坚，起兵于北地，自立为王，国号秦。
+六月癸丑朔，崇德皇太后褚氏崩。
+慕容泓为其叔父冲所杀，冲自称皇太弟。
+秋七月戊戌，遣兼司空、高密王纯之修谒洛阳五陵。
+己酉，葬康献皇后于崇平陵。
+百济遣使来贡方物。
+苻坚及慕容冲战于郑西，坚师败绩。
+八月戊寅，司空郗愔薨。
+九月辛卯，前锋都督谢玄攻苻坚将兗州刺史张崇于鄄城，克之。
+甲午，加太保谢安大都督扬、江、荆、司、豫、徐、兗、青、冀、幽、并、梁、益、雍、凉十五州诸军事。
+冬十月辛亥朔，日有蚀之。丁巳，河间王昙之薨。
+translation: 
+In August, Fu Jian led his troops to cross the Huaihe River. The imperial court sent the expedition commander Xie Shi, the champion general Xie Xuan, the auxiliary general Xie Yan, and the Xizhonglang general Huan Yi to resist.
+In September, an edict was issued to ask Situ and Sima Daozi, King of Ya and King of Lang, to record six items in the Secretariat.
+In October, Fu Jian's younger brother Fu Rong captured Shouchun.
+On the 20th, the generals fought with Fu Jian at Fei River and defeated the enemy. They captured and beheaded tens of thousands of people and captured Fu Jian's chariot and mica chariot.
+On a certain day in November, General Xie An of the Imperial Guard was in Jincheng to greet the victorious troops.
+On the 27th, Cao Lingdan, the eldest son of King Chenliu, was made King Chenliu.
+On December 15th, because the enemy invaders had just been pacified, a general amnesty was granted to the whole country.
+Xie Shi, the general of the Chinese army, was appointed as Shangshu Ling.
+Lift Prohibition.
+And began to increase the tax rice from the people, five stones per person.
+In the past, Zhai Liao, the king of Juding, betrayed Fu Jian and raised troops in Henan. Murong Chui joined Zhai Liao from Ye and attacked Fu Jian's son Fu Hui in Luoyang.
+Yang Shi, Duke of Qiuchi, fled back to Longyou and sent envoys to proclaim him his ministers.
+On the 16th day of the first month of the ninth year of Taiyuan, Sima Bao, the grandson of King Wuling, was granted the title of King of Linchuan.
+On the fourth day of February, Sima Zun, the son of King Sima of Xinning, was made King of Xinning.
+On the twenty-seventh day of the first lunar month, the emperor paid homage to the four tombs of Jianping.
+Longxiang General Liu Laozhi captured Qiaocheng.
+Guo Bao, the chariot general and governor Huan Chong's subordinate, attacked Xincheng, Wei Xing and Shangyong counties and surrendered them.
+On February 27th, the envoy Chijie, the commander-in-chief of Jingzhou, Jiang, Liang, Ning, Yi, Jiao, and Guangzhou, and the generals of chariots and cavalry, and the governor of Jingzhou Huan Chong died.
+Murong Chui joined forces with Zhai Liao from Luoyang to attack Fu Jian's son Fu Pi in Yedi.
+In March, General Xie An of the Guard was appointed as the chief security officer.
+Fu Jian's northern governor Shi Muronghong and Pingyang governor Murong Chong both rebelled against Fu Jian.
+On April 26, 100 Tai students were added.
+Zhang Tianxi was granted the title of Duke of Xiping.
+He sent Zhao Tong, the governor of Jingling, to attack Xiangyang and captured it.
+Fu Jian's general Yao Chang betrayed Fu Jian, raised troops in the north, and proclaimed himself king. His country was named Qin.
+On the first day of June, Empress Dowager Chu of Chongde died of illness.
+Murong Hong was killed by his uncle Murong Chong, who called himself the emperor's younger brother.
+On July 17, he sent Sikong Sikong and Sima Chunzhi, King of Gaomi, to repair and worship Luoyang and other Five Tombs.
+On the 28th, Queen Kang Xian was buried in Chongping Mausoleum.
+Baekje sent envoys to pay tribute to local products.
+Fu Jian and Murong Chong fought in Zhengxi, and Fu Jian's army failed.
+On August 27, Sikong Xiyin died.
+On September 11, the forward commander Xie Xuan attacked Fu Jian's general Yanzhou governor Zhang Chong in Juancheng and defeated him.
+On the 14th, Taibao Xie'an was granted the title of Grand Commander-in-Chief of Military Affairs in the fifteen prefectures of Yang, Jiang, Jing, Si, Yu, Xu, Yan, Qing, Ji, You, Bing, Liang, Yi, Yong, and Liang.
+On the first day of October, there is a solar eclipse. On the seventh day of the lunar month, Sima Tan, the king of Hejian, died.
+
+summary:
+summary line 3: Emperor Xiaowu, named Sima Yao with the courtesy name Changming, was Emperor Jianwen's third son. He was initially made King of Kuaiji, then Crown Prince, and ascended the throne upon his father's death. His reign saw significant events including the death of Huan Wen, after which the Empress Dowager briefly returned to court. The famous Battle of Fei River occurred during his reign, where Jin forces defeated Fu Jian's massive army, capturing tens of thousands of enemy soldiers.
+
+Chunk 12: 
+original: 
+是岁，自秋不雨，至于冬。
+十八年春正月癸亥朔，地震。
+二月乙未，地又震。
+三月，翟钊寇河南。
+夏六月己亥，始兴、南康、庐陵大水，深五丈。
+秋七月，旱。
+闰月，妖贼司马徽聚党于马头山，刘牢之遣部将讨平之。
+九月丙戌，龙骧将军杨佺期击氐帅杨佛嵩于潼谷，败之。
+冬十月，姚苌死，子兴嗣伪位。
+十九年夏六月壬子，追尊会稽王太妃郑氏为简文宣太后。
+秋七月，荆、徐二州大水，伤秋稼，遣使振恤之。
+八月己巳，尊皇太妃李氏为皇太后，宫曰崇训。
+慕容垂击慕容永于长子，斩之。
+冬十月，慕容垂遣其子恶奴寇廪丘，东平太守韦简及垂将尹国战于平陆，简死之。
+是岁，苻登为姚兴所杀，登太子崇奔于湟中，僭称皇帝。
+二十年春二月，作宣太后庙。
+甲寅，散骑常侍、光禄大夫、开府仪同三司、尚书令陆纳卒。
+二十一年春正月，造清暑殿。
+三月，慕容垂攻平城，拔之。
+夏四月，新作永安宫。
+丁亥，雨雹。
+慕容垂死，子宝嗣伪位。
+五月甲子，以望蔡公谢琰为尚书左仆射。
+大水。
+六月，吕光僭即天王位。
+秋九月庚申，帝崩于清暑殿，时年三十五。
+葬隆平陵。
+帝幼称聪悟。
+简文之崩也，时年十岁，至晡不临，左右进谏，答曰： 哀至则哭，何常之有？
+谢安尝叹以为精理不减先帝。
+既威权己出，雅有人主之量。既而溺于酒色，殆为长夜之饮。
+末年长星见，帝心甚恶之，于华林园举酒祝之曰： 长星，劝汝一杯酒，自古何有万岁天子邪！
+太白连年昼见，地震水旱为变者相属。
+醒日既少，而傍无正人，竟不能改焉。
+translation: 
+This year, it doesn't rain from autumn until winter.
+On the first day of the first lunar month in the eighteenth year of Taiyuan, an earthquake occurred.
+On the fourth day of February, another earthquake occurred.
+In March, Zhai Zhao invaded Henan.
+On the ninth day of the sixth lunar month, floods broke out in Shixing, Nankang, and Luling, and the water was five feet deep.
+In July, there was a severe drought.
+In the seventh month, the traitor Sima Hui gathered his followers in Ma Tou Mountain, and Liu Laozhi sent his troops to put him down.
+On August 28, Longxiang general Yang Quanqi attacked Di commander Yang Fosong in Tonggu and defeated him.
+In December, Yao Chang died, and his son Yao Xing inherited the pseudo-throne.
+In June of the 19th year of Taiyuan, the Queen Mother Zheng of Kuaiji was honored as Queen Mother Jian Wenxuan.
+In July, floods occurred in Jing and Xuzhou, destroying the autumn crops. The imperial court sent envoys to provide relief and compensation.
+On August 16, the imperial concubine Li was honored as the empress dowager, and the palace where she lived was called Chongxun Palace.
+Murong Chui's eldest son attacked Murong Yong and beheaded him.
+In October, Murong Chui sent his son Ernu to invade Linqiu. Wei Jian, the prefect of Dongping, fought with Murong Chui's general Yin Guo in Pinglu, and Wei Jian died in the battle.
+In this year, Fu Deng was killed by Yao Xing. Fu Deng's prince Fu Chong fled to Huangzhong and assumed the throne as emperor.
+In February of the 20th year of Taiyuan, the Temple of Queen Mother Xuan was built.
+On the fourth day of the lunar month, Sanqi Changshi, Guanglu Dafu, Kaifu Yitong, and Shangshu ordered Lu Na to die.
+On the first day of March, there is a solar eclipse. In June, there were floods in Jingzhou and Xuzhou.
+In November, King Tuoba Wang Gui of Wei attacked Murong Chui's son Murong Bao in Shui Valley and defeated him.
+In the first month of the 21st year of Taiyuan, the Qingshu Palace was built. In March, Murong Chui captured Pingcheng. In April, the new Yong'an Palace was built.
+On the 14th, there was hail.
+Murong was dying, and his son Murong Bao succeeded him to the throne.
+On May 15th, Wang Cai Gong Xie Yan was appointed as Shangshu Zuopushe.
+Flood.
+In June, Lu Guang usurped the throne and became the emperor.
+On September 20, the emperor died in Qingshu Palace at the age of thirty-five.
+Buried in Longping Mausoleum.
+Emperor Xiaowu was known for his intelligence and enlightenment when he was young.
+When Emperor Jian Wen died, he was only ten years old. He did not attend the funeral in the evening, but came to give advice. He replied: "Weep when you are sad. What is the rule?"
+Xie An once lamented that Emperor Xiaowu was as good at affairs as the previous emperor.
+After the authority was established, some people were magnanimous and soon indulged in wine and sex, drinking almost all night long.
+When the comet appeared at the end of the year, the emperor was very disgusted in his heart. He raised a glass of wine in Hualin Garden and prayed: Comet, I advise you to drink a glass of wine. Since ancient times, where has the emperor lived for ten thousand years?
+The Taibai Star appears in the daytime year after year, and earthquakes, floods and droughts occur one after another.
+Days of sobriety are rare. And since there are no upright people around him, he cannot change in the end.
+
+summary:
+summary line 4: Emperor Xiaowu was known for his intelligence and enlightenment in youth. After establishing his authority, however, he became indulgent in wine and sensual pleasures, often drinking through entire nights. He showed little concern for celestial omens, once toasting a comet and declaring that no emperor had ever lived ten thousand years. His reign was marked by natural disasters including earthquakes, floods, and droughts. He died suddenly at age thirty-five after drunkenly teasing his favored consort Zhang Guiren about her age, which led to her killing him in anger. He was buried in Longping Mausoleum.
+
+Chunk 13: 
+original: 
+时张贵人有宠，年几三十，帝戏之曰： 汝以年当废矣。
+贵人潜怒，向夕，帝醉，遂暴崩。
+时道子昏惑，元显专权，竟不推其罪人。
+初，简文帝见谶云： 晋祚尽昌明。
+及帝之在孕也，李太后梦神人谓之曰： 汝生男，以 昌明 为字。
+及产，东方始明，因以为名焉。
+简文帝后悟，乃流涕。
+及为清暑殿，有识者以为 清暑 反为 楚 声，哀楚之征也。
+俄而帝崩，晋祚自此倾矣。
+史臣曰：前史称 不有废也，吾何以兴 ，若乃天挺惟神，光膺嗣位，迈油云而骧首，济沈川而能跃。
+少康一旅之众，所以阐帝图；成汤七十之基，所以兴王业；静河海于既泄，补穹圆于已紊；事异于斯，则弗由也。
+简皇以虚白之姿，在屯如之会，政由桓氏，祭则寡人。
+太宗晏驾，宁康纂业，天诱其衷，奸臣自陨。
+于时西逾剑岫而跨灵山，北振长河而临清洛；荆吴战旅，啸叱成云；名贤间出，旧德斯在：谢安可以镇雅俗，彪之足以正纪纲，桓冲之夙夜王家，谢玄之善断军事。
+于时上天乃眷，强氐自泯。
+五尺童子，振袂临江，思所以挂旆天山，封泥函谷；而条纲弗垂，威思罕树，道子荒乎朝政，国宝汇以小人，拜授之荣，初非天旨，鬻刑之货，自走权门，毒赋年滋，愁民岁广。
+是以闻人、许荣驰书诣阙，烈宗知其抗直，而恶闻逆耳，肆一醉于崇朝，飞千觞于长夜。
+虽复 昌明 表梦，安听神言？
+而金行颓弛，抑亦人事，语曰 大国之政未陵夷，小邦之乱已倾覆 也。
+属苻坚百六之秋，弃肥水之众，帝号为 武 ，不亦优哉！
+赞曰：君若缀旒，道非交泰。
+简皇凝寂，不贻伊害。
+孝武登朝，奸雄自消。
+燕之击路，郑叔分镳。
+倡临帝席，酒劝天妖。
+金风不竞，人事先凋。
+translation: 
+At that time, Zhang Guiren was favored and she was nearly thirty years old. The emperor teased her and said: "You should be abandoned according to your age."
+Zhang Guiren was secretly angry. At night, the emperor got drunk and died suddenly.
+At that time, Sima Daozi was fatuous and confused, and Sima Yuan showed his power and did not even pursue the criminals.
+At the beginning, Emperor Jian Wen saw the text predicting good and bad luck and said: The national destiny of the Jin Dynasty failed in the hands of Changming.
+When Emperor Xiaowu was still a fetus, Empress Dowager Li dreamed that the man of God said to her: If you give birth to a boy, the character will be "Changming".
+When he was born, it was bright in the east, so he took the word "Changming" as his character.
+Emperor Jian Wen later understood and burst into tears.
+When the Qingshu Palace was built, knowledgeable people believed that the sound of "Qingshu" was the sound of "Chu", which meant a sign of sadness and sadness.
+Soon after the emperor died, the fortune of the Jin Dynasty collapsed.
+Shi Chen said: The historical books in the past said: "How can a king rise without being deposed? If he is as outstanding as a god, he will inherit the throne with glory, cross the thick clouds with high head, and cross the river with leaps."
+Shaokang only had one brigade of troops, so he won the throne of the Xia king; Chengtang only had seventy lands, but he revitalized the emperor's great cause; he was able to manage the rivers and seas after they broke out, and he was able to remedy the chaos in the sky; things are different from this, so the reasons are also different.
+Emperor Jian Wen was in a difficult time because of his innocuous nature. Government orders were issued by the Huan family, and people of his own clan had no power.
+After Taizong's death, Ningkang inherited the great cause. God was moved by his loyalty, and the treacherous officials perished on their own.
+So in the west, we surpassed Jianxiu and crossed Lingshan Mountain, and in the north, we crossed the Yellow River and reached the clear Luoshui River. The warriors of Jing and Wu became powerful, famous virtuous ministers appeared one after another, and the virtuous elders were still there. Xie An can lead elegant and popular people, Wang Biaozhi can regulate discipline, Huan Chong works hard all day long, and Xie Xuan is good at military affairs.
+At that time, God favored him, and the powerful Di people disappeared.
+The five-foot-old boy waved his sleeves to the Yangtze River, hoping to let the flag fly to the Tianshan Mountains and guard the Xiongguan in Han Valley; but the laws and regulations were not spread, the majesty and kindness were rarely achieved, Sima Daozi was idle in the government, the national treasure gathered villains, the honor of being awarded an official title was not originally God's will, the goods obtained through corruption in prison entered the homes of the powerful, exorbitant taxes and miscellaneous taxes increased year by year, and the number of poor people increased year by year.
+So Wen Ren and Xu Rong wrote to the emperor, and Lie Zong knew that they were frank and honest, but they hated hearing unfavorable advice, so they drank as much as they wanted in the morning and toasted frequently at night.
+Although there are dreams of prosperity, where can I hear the words of the gods?
+It can be seen that the decline of the Jin Dynasty was also man-made. As the saying goes, the political affairs of big countries have not yet declined, but the chaos of small countries has brought the country to its knees.
+It happened that Fu Jian was at the moment when his misfortune was approaching. Isn't it funny to abandon his defeated troops and call Mi Mi the "Wu"?
+Praise says: A king is like a crown, his fortune is not always good.
+Emperor Jian was quiet and inactive, leaving no disaster behind.
+When Emperor Xiaowu ascended the throne, the traitor disappeared naturally.
+Yan Zhizhi fought for the road, and Uncle Zheng parted ways.
+The sponsors came to the emperor's banquet, and the beautiful women persuaded them to drink wine.
+The autumn wind is sluggish, and human affairs are the first to decline.
+
+summary:
+summary line 5: The historical commentary notes that Emperor Jianwen governed during difficult times with Huan family controlling government orders. After Emperor Xiaowu's ascension, treacherous officials perished naturally, and capable ministers like Xie An, Wang Biaozhi, Huan Chong, and Xie Xuan emerged. However, the decline of the Jin Dynasty was ultimately attributed to human failings rather than divine will.
+

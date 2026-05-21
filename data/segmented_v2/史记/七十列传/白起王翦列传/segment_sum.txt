@@ -1,0 +1,302 @@
+Summary uses chunk [0, 0, 3, 2]
+
+Chunk 0: 
+original: 
+白起者，郿人也。
+善用兵，事秦昭王。
+昭王十三年，而白起为左庶长，将而击韩之新城。
+是岁，穰侯相秦，举任鄙以为汉中守。
+其明年，白起为左更，攻韩、魏於伊阙，斩首二十四万，又虏其将公孙喜，拔五城。
+起迁为国尉。
+涉河取韩安邑以东，到乾河。
+明年，白起为大良造。
+攻魏，拔之，取城小大六十一。
+明年，起与客卿错攻垣城，拔之。
+後五年，白起攻赵，拔光狼城。
+後七年，白起攻楚，拔鄢、邓五城。
+其明年，攻楚，拔郢，烧夷陵，遂东至竟陵。
+楚王亡去郢，东走徙陈。
+秦以郢为南郡。
+白起迁为武安君。武安君因取楚，定巫、黔中郡。
+昭王三十四年，白起攻魏，拔华阳，走芒卯，而虏三晋将，斩首十三万。
+与赵将贾偃战，沈其卒二万人於河中。
+昭王四十三年，白起攻韩陉城，拔五城，斩首五万。
+四十四年，白起攻南阳太行道，绝之。
+四十五年，伐韩之野王。野王降秦，上党道绝。
+其守冯亭与民谋曰： 郑道已绝，韩必不可得为民。
+秦兵日进，韩不能应，不如以上党归赵。
+赵若受我，秦怒，必攻赵。
+赵被兵，必亲韩。
+韩赵为一，则可以当秦。
+因使人报赵。
+赵孝成王与平阳君、平原君计之。平阳君曰： 不如勿受。
+受之，祸大於所得。
+平原君曰： 无故得一郡，受之便。
+赵受之，因封冯亭为华阳君。
+四十六年，秦攻韩缑氏、蔺，拔之。
+四十七年，秦使左庶长王龁攻韩，取上党。
+上党民走赵。
+赵军长平，以按据上党民。
+四月，龁因攻赵。
+translation: 
+Bai Qi is from Yidi.
+He was good at using troops and served King Zhao of Qin.
+In the thirteenth year of King Zhao's reign, Bai Qi was granted the title of Zuo Shu Zhang and led troops to attack Xincheng in South Korea.
+In this year, Ranghou served as the prime minister of Qin. He appointed Ren Bi as the governor of Hanzhong County.
+The next year, Bai Qi was granted the title Zuogeng, attacked the allied forces of Han and Wei, fought in Yique, killed 240,000 enemies, captured their general Gongsun happy, and captured five cities.
+Bai Qi was promoted to captain of the country.
+He led his troops across the Yellow River and captured a large area of ​​land east of Anyi in South Korea up to Wadi River.
+In the third year, Bai Qi was granted the title of Daliangzao again.
+Defeated the Wei army and captured sixty-one cities, large and small.
+In the fourth year, Bai Qi and Ke Qing attacked Yuan City by mistake and captured it immediately.
+In the fifth year after that, Bai Qi attacked Zhao and captured Guanglang City.
+In the seventh year after this, Bai Qi attacked Chu and occupied five cities including Yan and Deng.
+The next year, he attacked Chu again, captured Ying, the capital of Chu, burned the tombs of the Chu kings, and headed east to Jingling.
+The king of Chu fled the capital of Ying and fled eastward, moving his capital to Chen.
+The Qin State established Yingdi as Nanjun.
+Bai Qi was named Lord Wu'an. He took advantage of the situation to attack Chu and pacified Wu and Qianzhong counties.
+In the thirty-fourth year of King Zhao, Bai Qi attacked Wei and captured Huayang, causing Mangmao to flee. He also captured the generals of Zhao and Wei and killed 130,000 enemies.
+At that time, Bai Qi fought with Zhao's general Jia Yan and sank 20,000 Zhao soldiers into the Yellow River.
+In the forty-third year of King Zhao, Bai Qi attacked Xingcheng in South Korea, captured five cities, and killed 50,000 enemies.
+In the forty-fourth year, Bai Qi attacked Nanyang Taihang Road in South Korea and blocked this passage.
+In the forty-fifth year of King Zhao, Bai Qi sent troops to attack the Yewang City in South Korea. The Yewang surrendered, cutting off the connection between Shangdang County in South Korea and South Korea.
+Feng Ting, the governor of Shangdang County, planned with the people and said: The road to the capital Zheng is cut off, and South Korea will definitely not be able to control us.
+The Qin army is advancing day by day, and South Korea cannot rescue it, so it is better to surrender Shangdang to Zhao.
+If Zhao State accepts us, Qin State will be angry and will definitely attack Zhao State.
+Zhao State was attacked by force and must be close to South Korea.
+If Han and Zhao unite, they can resist Qin.
+So he sent someone to inform Zhao State.
+King Zhao Xiaocheng studied this matter with Pingyang Jun and Pingyuan Jun. Pingyang Jun said: It is better not to accept it.
+The consequences of accepting it will be far greater than the benefits.
+Lord Pingyuan expressed his dissent and said: "I got a county for nothing, it would be beneficial to accept it."
+As a result, King Zhao accepted Shangdang and named Feng Ting Lord of Huayang.
+In the forty-sixth year of King Zhao, the Qin State captured Goushi and Linyi in South Korea.
+In the forty-seventh year of King Zhao, the State of Qin sent Wang Lu, the chief of the left concubine, to attack South Korea and capture Shangdang.
+The people of Shangdang fled to Zhao State one after another.
+The State of Zhao stationed troops in Changping to support the people of Shangdang.
+In April, Wang Lu used this opportunity to attack Zhao.
+
+summary:
+summary line 0: Bai Qi, a skilled military commander from Yidi, served King Zhao of Qin. His early campaigns included victories against Han, Wei, and Zhao, capturing cities and killing tens of thousands of enemies. He was promoted through ranks, eventually becoming Lord Wu'an after conquering Chu's capital Ying and burning its royal tombs. His most notable battle was against Zhao at Changping in the 47th year of King Zhao's reign. After initial setbacks, Zhao replaced General Lian Po with Zhao Kuo. Bai Qi used deception, cutting off Zhao's supply lines and surrounding their army. After 46 days without food, Zhao Kuo was killed, and 400,000 Zhao soldiers surrendered. Bai Qi, fearing rebellion, ordered them buried alive, shocking Zhao.
+
+Chunk 0: 
+original: 
+白起者，郿人也。
+善用兵，事秦昭王。
+昭王十三年，而白起为左庶长，将而击韩之新城。
+是岁，穰侯相秦，举任鄙以为汉中守。
+其明年，白起为左更，攻韩、魏於伊阙，斩首二十四万，又虏其将公孙喜，拔五城。
+起迁为国尉。
+涉河取韩安邑以东，到乾河。
+明年，白起为大良造。
+攻魏，拔之，取城小大六十一。
+明年，起与客卿错攻垣城，拔之。
+後五年，白起攻赵，拔光狼城。
+後七年，白起攻楚，拔鄢、邓五城。
+其明年，攻楚，拔郢，烧夷陵，遂东至竟陵。
+楚王亡去郢，东走徙陈。
+秦以郢为南郡。
+白起迁为武安君。武安君因取楚，定巫、黔中郡。
+昭王三十四年，白起攻魏，拔华阳，走芒卯，而虏三晋将，斩首十三万。
+与赵将贾偃战，沈其卒二万人於河中。
+昭王四十三年，白起攻韩陉城，拔五城，斩首五万。
+四十四年，白起攻南阳太行道，绝之。
+四十五年，伐韩之野王。野王降秦，上党道绝。
+其守冯亭与民谋曰： 郑道已绝，韩必不可得为民。
+秦兵日进，韩不能应，不如以上党归赵。
+赵若受我，秦怒，必攻赵。
+赵被兵，必亲韩。
+韩赵为一，则可以当秦。
+因使人报赵。
+赵孝成王与平阳君、平原君计之。平阳君曰： 不如勿受。
+受之，祸大於所得。
+平原君曰： 无故得一郡，受之便。
+赵受之，因封冯亭为华阳君。
+四十六年，秦攻韩缑氏、蔺，拔之。
+四十七年，秦使左庶长王龁攻韩，取上党。
+上党民走赵。
+赵军长平，以按据上党民。
+四月，龁因攻赵。
+translation: 
+Bai Qi is from Yidi.
+He was good at using troops and served King Zhao of Qin.
+In the thirteenth year of King Zhao's reign, Bai Qi was granted the title of Zuo Shu Zhang and led troops to attack Xincheng in South Korea.
+In this year, Ranghou served as the prime minister of Qin. He appointed Ren Bi as the governor of Hanzhong County.
+The next year, Bai Qi was granted the title Zuogeng, attacked the allied forces of Han and Wei, fought in Yique, killed 240,000 enemies, captured their general Gongsun happy, and captured five cities.
+Bai Qi was promoted to captain of the country.
+He led his troops across the Yellow River and captured a large area of ​​land east of Anyi in South Korea up to Wadi River.
+In the third year, Bai Qi was granted the title of Daliangzao again.
+Defeated the Wei army and captured sixty-one cities, large and small.
+In the fourth year, Bai Qi and Ke Qing attacked Yuan City by mistake and captured it immediately.
+In the fifth year after that, Bai Qi attacked Zhao and captured Guanglang City.
+In the seventh year after this, Bai Qi attacked Chu and occupied five cities including Yan and Deng.
+The next year, he attacked Chu again, captured Ying, the capital of Chu, burned the tombs of the Chu kings, and headed east to Jingling.
+The king of Chu fled the capital of Ying and fled eastward, moving his capital to Chen.
+The Qin State established Yingdi as Nanjun.
+Bai Qi was named Lord Wu'an. He took advantage of the situation to attack Chu and pacified Wu and Qianzhong counties.
+In the thirty-fourth year of King Zhao, Bai Qi attacked Wei and captured Huayang, causing Mangmao to flee. He also captured the generals of Zhao and Wei and killed 130,000 enemies.
+At that time, Bai Qi fought with Zhao's general Jia Yan and sank 20,000 Zhao soldiers into the Yellow River.
+In the forty-third year of King Zhao, Bai Qi attacked Xingcheng in South Korea, captured five cities, and killed 50,000 enemies.
+In the forty-fourth year, Bai Qi attacked Nanyang Taihang Road in South Korea and blocked this passage.
+In the forty-fifth year of King Zhao, Bai Qi sent troops to attack the Yewang City in South Korea. The Yewang surrendered, cutting off the connection between Shangdang County in South Korea and South Korea.
+Feng Ting, the governor of Shangdang County, planned with the people and said: The road to the capital Zheng is cut off, and South Korea will definitely not be able to control us.
+The Qin army is advancing day by day, and South Korea cannot rescue it, so it is better to surrender Shangdang to Zhao.
+If Zhao State accepts us, Qin State will be angry and will definitely attack Zhao State.
+Zhao State was attacked by force and must be close to South Korea.
+If Han and Zhao unite, they can resist Qin.
+So he sent someone to inform Zhao State.
+King Zhao Xiaocheng studied this matter with Pingyang Jun and Pingyuan Jun. Pingyang Jun said: It is better not to accept it.
+The consequences of accepting it will be far greater than the benefits.
+Lord Pingyuan expressed his dissent and said: "I got a county for nothing, it would be beneficial to accept it."
+As a result, King Zhao accepted Shangdang and named Feng Ting Lord of Huayang.
+In the forty-sixth year of King Zhao, the Qin State captured Goushi and Linyi in South Korea.
+In the forty-seventh year of King Zhao, the State of Qin sent Wang Lu, the chief of the left concubine, to attack South Korea and capture Shangdang.
+The people of Shangdang fled to Zhao State one after another.
+The State of Zhao stationed troops in Changping to support the people of Shangdang.
+In April, Wang Lu used this opportunity to attack Zhao.
+
+summary:
+summary line 1: Following this, Qin planned to besiege Handan, but Su Dai, sent by Han and Zhao, persuaded Prime Minister Yinghou to halt, arguing that Bai Qi's growing fame threatened Yinghou's position. King Zhao agreed to a truce, but Bai Qi's resentment toward Yinghou grew. When Qin later attacked Handan under Wang Ling, Bai Qi refused to lead, citing the army's exhaustion and the risk of allied reinforcements. Despite King Zhao's orders, Bai Qi feigned illness. After Qin's defeat, Bai Qi's remarks angered the king, who demoted him and ordered his exile. Accused of discontent, Bai Qi was forced to commit suicide in the 50th year of King Zhao's reign.
+
+Chunk 3: 
+original: 
+於是免武安君为士伍，迁之阴密。
+武安君病，未能行。
+居三月，诸侯攻秦军急，秦军数卻，使者日至。
+秦王乃使人遣白起，不得留咸阳中。
+武安君既行，出咸阳西门十里，至杜邮。
+秦昭王与应侯群臣议曰： 白起之迁，其意尚怏怏不服，有馀言。
+秦王乃使使者赐之剑，自裁。
+武安君引剑将自刭，曰： 我何罪于天而至此哉？
+良久，曰： 我固当死。
+长平之战，赵卒降者数十万人，我诈而尽阬之，是足以死。
+遂自杀。
+武安君之死也，以秦昭王五十年十一月。
+死而非其罪，秦人怜之，乡邑皆祭祀焉。
+王翦者，频阳东乡人也。
+少而好兵，事秦始皇。
+始皇十一年，翦将攻赵阏与，破之，拔九城，十八年，翦将攻赵。
+岁馀，遂拔赵，赵王降，尽定赵地为郡。
+明年，燕使荆轲为贼於秦，秦王使王翦攻燕。
+燕王喜走辽东，翦遂定燕蓟而还。
+秦使翦子王贲击荆，荆兵败。
+还击魏，魏王降，遂定魏地。
+秦始皇既灭三晋，走燕王，而数破荆师。
+秦将李信者，年少壮勇，尝以兵数千逐燕太子丹至於衍水中，卒破得丹，始皇以为贤勇。
+於是始皇问李信： 吾欲攻取荆，於将军度用几何人而足？
+李信曰： 不过用二十万人。
+始皇问王翦，王翦曰： 非六十万人不可。
+始皇曰： 王将军老矣，何怯也！
+李将军果势壮勇，其言是也。
+遂使李信及蒙恬将二十万南伐荆。
+王翦言不用，因谢病，归老於频阳。
+李信攻平与，蒙恬攻寝，大破荆军。
+信又攻鄢郢，破之，於是引兵而西，与蒙恬会城父。
+荆人因随之，三日三夜不顿舍，大破李信军，入两壁，杀七都尉，秦军走。
+始皇闻之，大怒，自驰如频阳，见谢王翦曰： 寡人以不用将军计，李信果辱秦军。
+translation: 
+So he removed Lord Wu'an from his rank and reduced him to a soldier, and asked him to leave Xianyang and move to Yinmi.
+But Lord Wu An was ill and could not make the trip.
+Three months later, it became more urgent for the allied forces of the princes to attack the Qin army. The Qin army retreated many times, and messengers reporting the defeat came every day.
+The King of Qin sent people to expel Bai Qi and could not let him stay in Xianyang City.
+Wu Anjun was already on his way, walking ten miles from the west gate of Xianyang, to Duyou.
+King Zhao of Qin discussed with Marquis Ying and other officials: Bai Qi was ordered to move out of Xianyang, but he showed that he was not satisfied, unconvinced, and complained.
+The King of Qin sent an envoy to give him a sword and ordered him to commit suicide.
+Wu Anjun took the sword and was about to kill himself. He looked up to the sky and sighed: What sin have I committed against God to end up like this?
+After a while, he said: I was meant to die.
+In the Battle of Changping, hundreds of thousands of Zhao soldiers surrendered. I used deception to bury them all alive. This was a death penalty.
+Then committed suicide.
+Lord Wu An died in the eleventh month of the fiftieth year of King Zhao of Qin.
+Lord Wu'an died innocently, and the people of Qin sympathized with him, so they worshiped him in both urban and rural areas.
+Wang Jian was from Dongxiang, Pinyang.
+He was fond of military affairs when he was young, and later served Qin Shihuang.
+In the eleventh year of the First Emperor's reign, Wang Jian led troops to attack Yanyu of Zhao State. Not only did he capture it, but he also captured nine cities in a row. In the eighteenth year of the First Emperor's reign, Wang Jian led troops to attack Zhao.
+In just over a year, the State of Zhao was captured, King Zhao surrendered, and all parts of the State of Zhao were pacified and set up as counties.
+The next year, the State of Yan sent Jing Ke to the State of Qin to murder the King of Qin, and the King of Qin sent Wang Jian to attack the State of Yan.
+King Yan fled to Liaodong, and Wang Jian finally pacified Ji, the capital of Yan State, and returned victorious.
+The King of Qin sent Wang Jian's son Wang Ben to attack Chu, but the Chu army was defeated.
+He turned around and attacked Wei again. The king of Wei surrendered, and finally all parts of Wei were pacified.
+Qin Shihuang destroyed the three kingdoms of Han, Zhao, and Wei, drove away King Xi of Yan, and defeated the Chu army many times.
+Qin general Li Xin was young, energetic, brave and mighty. He once led thousands of soldiers to pursue Prince Dan of Yan to Yanshui, and finally defeated the Yan army and captured Prince Dan. Qin Shihuang believed that Li Xinxian was brave.
+One day, Qin Shihuang asked Li Xin: I plan to attack Chu State. How many people do you think the general can mobilize?
+Li Xin replied: No more than 200,000 people.
+Qin Shihuang asked Wang Jian again, and Wang Jian replied: "We must have 600,000 people."
+Qin Shihuang said: General Wang, how cowardly you are!
+General Lee was really decisive and brave, and what he said was right.
+So he sent Li Xin and Meng Tian to march south with 200,000 troops to attack Chu.
+Wang Jian's words were not accepted, so he excused himself from illness and returned to his hometown in Pinyang for retirement.
+Li Xin attacked Pingyu, and Meng Tian attacked Xinyi, defeating the Chu army.
+Li Xin then attacked Yanying and captured it again, so he led his troops to move west to meet Meng Tian at Chengfu.
+In fact, the Chu army was tracking and pursuing them for three days and three nights. As a result, they defeated Li Xin's troops, invaded two military camps, and killed seven captains. The Qin army was defeated and fled.
+When Qin Shihuang heard the news, he was furious and rushed to Pinyang by express train. When he saw Wang Jian, he apologized and said: Because I did not adopt your strategy, Li Xin really brought shame to the Qin army.
+
+summary:
+summary line 2: Wang Jian, from Pinyang, served Qin Shihuang. He conquered Zhao, Yan, and other states, often requesting 600,000 troops for campaigns. After Li Xin's failed attack on Chu with 200,000 men, Wang Jian was recalled. He led 600,000 troops, avoided direct engagement, and waited for Chu's army to weaken before striking, defeating them and capturing King Chu. Wang Jian's son Wang Ben and Li Xin later conquered Yan and Qi, unifying China. Wang Jian's grandson Wang Li, a third-generation general, was captured by Xiang Yu during Chen Sheng's rebellion, fulfilling a saying that general families often fail by the third generation due to accumulated killings.
+
+Chunk 2: 
+original: 
+曰： 然。
+又曰： 即围邯郸乎？
+曰： 然。
+赵亡则秦王王矣，武安君为三公。
+武安君所为秦战胜攻取者七十馀城，南定鄢、郢、汉中，北禽赵括之军，虽周、召、吕望之功不益於此矣。
+今赵亡，秦王王，则武安君必为三公，君能为之下乎？
+虽无欲为之下，固不得已矣。
+秦尝攻韩，围邢丘，困上党，上党之民皆反为赵，天下不乐为秦民之日久矣。
+今亡赵，北地入燕，东地入齐，南地入韩、魏，则君之所得民亡几何人。
+故不如因而割之，无以为武安君功也。
+於是应侯言於秦王曰： 秦兵劳，请许韩、赵之割地以和，且休士卒。
+王听之，割韩垣雍、赵六城以和。
+正月，皆罢兵。
+武安君闻之，由是与应侯有隙。
+其九月，秦复发兵，使五大夫王陵攻赵邯郸。
+是时武安君病，不任行。
+四十九年正月，陵攻邯郸，少利，秦益发兵佐陵。
+陵兵亡五校。
+武安君病愈，秦王欲使武安君代陵将。
+武安君言曰： 邯郸实未易攻也。
+且诸侯救日至，彼诸侯怨秦之日久矣。
+今秦虽破长平军，而秦卒死者过半，国内空。
+远绝河山而争人国都，赵应其内，诸侯攻其外，破秦军必矣。
+不可。
+秦王自命，不行；乃使应侯请之，武安君终辞不肯行，遂称病。
+秦王使王龁代陵将，八九月围邯郸，不能拔。
+楚使春申君及魏公子将兵数十万攻秦军，秦军多失亡。
+武安君言曰： 秦不听臣计，今如何矣！
+秦王闻之，怒，彊起武安君，武安君遂称病笃。
+应侯请之，不起。
+translation: 
+Ying Hou replied: Yes.
+Su Dai asked again: Are we going to besiege Handan?
+Ying Hou replied: Yes.
+So Su Dai said: If Zhao is destroyed, King Qin will rule the world, and Lord Wu'an should be named the Three Dukes.
+Lord Wu'an captured more than 70 cities for Qin. In the south, he pacified Chu's Yan, Ying and Hanzhong areas, and in the north, he captured Zhao Kuo's 400,000 troops. Even the famous Dukes of Zhou, Duke of Zhao and Lu Wang in history could not surpass these achievements.
+If the State of Zhao is destroyed and the King of Qin takes over the world, then it is certain that Lord Wu An will be the third Duke. Can you succumb to him?
+Even if you are not willing to succumb to the lower position, you have to submit to the fact.
+The Qin army once attacked South Korea, besieged Xingqiu, and trapped Shangdang to death. The people of Shangdang all turned to Zhao. It has been a long time since the people of the world were unwilling to be Qin's subjects.
+If the Zhao State is destroyed, its northern land will fall to the Yan State, its eastern land will be merged with the Qi State, and its southern land will be merged with the Han and Wei States, then you will not get many people.
+Therefore, it is better to take advantage of the panic of South Korea and Zhao to let them cede their land and stop letting Lord Wu An establish his merits.
+After hearing Su Dai's words, Ying Hou proposed to the King of Qin and said: Qin's soldiers are too tired. Please agree to allow South Korea and Zhao to cede territory to make peace, and let the soldiers rest for the time being.
+The King of Qin listened to the advice of Marquis Ying and made peace with Yuanyong of South Korea and six cities of Zhao.
+In the first month of the year, the two sides stopped fighting.
+When Wu An heard the news of the truce, he had his own ideas, and he and Ying Hou had a bad feeling about each other.
+In September of this year, the State of Qin once again sent troops and ordered the five officials Wang Ling to attack Handan of the State of Zhao.
+At that time, Lord Wu'an was ill and could not go to war.
+In the first month of the forty-ninth year of King Zhao, Wang Ling attacked Handan, but with little success and little progress, Qin sent additional troops to help Wang Ling continue the attack.
+As a result, Wang Ling's troops lost five military camps.
+Lord Wu An recovered from his illness, and the King of Qin planned to send Lord Wu An to lead the troops instead of Wang Ling.
+Wu'an Jun further said: Handan is really not easy to capture.
+Moreover, reinforcements from the princely states arrived every day, and their resentment against Qin had been accumulated for a long time.
+Although the Qin State has now wiped out the Zhao army in Changping, more than half of the Qin army's soldiers have died, leaving the country empty of troops.
+Traveling thousands of miles across rivers and mountains to compete for other people's capitals, the Zhao army will fight in the city, and the princes' armies will attack outside the city. They will cooperate with each other inside and outside, and attack from both inside and outside. The defeat of the Qin army is certain.
+This battle cannot be fought.
+The King of Qin personally gave the order, but Wu Anjun refused to go to his post. So he sent Marquis Ying to invite him, but Wu An Jun refused to go to his post, and since then he said he was ill and could not afford it.
+The King of Qin had no choice but to send Wang Lu to lead the troops instead of Wang Ling. In August and September, he besieged Handan but failed to capture it.
+Chu State sent Chunshen Jun and Wei Gongzi Xinling Jun to lead hundreds of thousands of soldiers to attack the Qin army. The Qin army suffered many losses and casualties.
+Lord Wu An had something to say: Qin did not listen to my opinion, what will happen now?
+When King Qin heard about it, he was furious and ordered Wu Anjun to take office. Wuan Jun said that his condition was serious.
+Ying Hou invited him again, but he still refused to take up his post.
+
+summary:
+summary line 3: Sima Qian noted Bai Qi's strategic brilliance but inability to avoid Yinghou's schemes, and Wang Jian's military success but failure to promote moral governance, leading to his grandson's capture.
+

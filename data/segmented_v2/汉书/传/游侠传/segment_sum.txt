@@ -1,0 +1,278 @@
+Summary uses chunk [0, 2, 3, 6]
+
+Chunk 0: 
+original: 
+古者天子建国，诸侯立家，自卿、大夫以至于庶人，各有等差，是以民服事其上，而下无觊觎。
+孔子曰： 天下有道，政不在大夫。
+百官有司奉法承令，以修所职，失职有诛，侵官有罚。
+夫然，故上下相顺，而庶事理焉。
+周室既微，礼乐征伐自诸侯出。
+桓、文之后，大夫世权，陪臣执命。
+陵夷至于战国，合从连衡，力政争强。
+由是列国公子，魏有信陵、赵有平原、齐有孟尝、楚有春申，皆借王公之势，竞为游侠，鸡鸣狗盗，无不宾礼。
+而赵相虞卿弃国捐君，以周穷交魏齐之厄；信陵无忌窃符矫命，戮将专师，以赴平原之急：皆以取重诸侯，显名天下，扼腕而游谈者，以四豪为称首。
+于是背公死党之议成，守职奉上之义废矣。
+及至汉兴，禁网疏阔，未之匡改也。
+是故代相陈豨从车千乘，而吴濞、淮南皆招宾客以千数。
+外戚大臣魏其、武安之属竞逐于京师，布衣游侠剧孟、郭解之徒驰骛于闾阎，权行州域，力折公侯。
+众庶荣其名迹，觊而慕之。
+虽其陷于刑辟，自与杀身成名，若季路、仇牧，死而不悔也。
+故曾子曰： 上失其道，民散久矣。
+非明王在上，视之以好恶，齐之以礼法，民曷由知禁而反正乎！
+古之正法：五伯，三王之罪人也；而六国，五伯之罪人也。
+夫四豪者，又六国之罪人也。
+况于郭解之伦，以匹夫之细，窃杀生之权，其罪已不容于诛矣。
+观其温良泛爱，振穷周急，谦退不伐，亦皆有绝异之姿。
+惜乎不入于道德，苟放纵于末流，杀身亡宗，非不幸也。
+translation: 
+In ancient times, when the emperor established a country, the princes established their families, and there were certain levels of hierarchy from officials to common people, so that the people could obey their superiors and subordinates would stop having any wrong ideas.
+Confucius said: When the world is at peace, the highest political power of the country will not be in the hands of the officials.
+All officials can obey the law and perform their duties, those who neglect their duties will be investigated and those who violate the law will be punished.
+Only in this way can everything go smoothly and everything is in order.
+With the decline of the Zhou royal family, the formulation of ritual and music conquests began to be made by the princes individually.
+After Duke Huan of Qi and Duke Wen of Jin, the officials had exclusive power and issued orders to important ministers in the court.
+When the situation evolved into the Warring States Period, the princes began to join forces with each other. They abandoned propriety and justice and fought with prestige and force.
+As a result, some princes from various countries, such as Lord Xinling of Wei, Lord Pingyuan of Zhao, Lord Mengchang of Qi, and Lord Chunshen of Chu, all relied on the authority of princes and nobles to compete to become knight-errants. Those who croaked, roosters, and dogs were all disrespectful and submitted to them.
+The Prime Minister Yu Qing did not hesitate to leave the country and the monarch to save his friend Wei Qi from danger; Wei Wuji, the Lord of Xinling, stole the military talisman, falsely conveyed the monarch's orders, hunted down the generals, and sent out a dedicated army to relieve the Pingyuan Lord of Zhao State from being besieged by the Qin soldiers. They are all famous for their emphasis on relations between princes. Those chivalrous people who hold hands and talk are all led by the "four heroes": Lord Xinling, Lord Pingyuan, Lord Mengchang and Lord Chunshen.
+As a result, the agreement to betray the imperial court and form secret alliances with best friends became a reality, and the culture of strictly observing official duties and respecting the monarch began to decline.
+After the rise of the Han Dynasty, bans and regulations were very loose, so the situation of deportation remained unchanged.
+Therefore, the Prime Minister sent thousands of chariots with rare entourage, and King Liu Bi of Wu and King Liu An of Huainan both invited thousands of guests.
+The subordinates of the foreign ministers Wei Qihou Dou Ying and Wu'an Hou Tianyi were wandering around in the capital to cause trouble. Meng and Guo Xie, who were civilians, wandered in the lanes and rampaged through the prefectures and counties, and their power overran the princes.
+Many ordinary people regard their fame and deeds as a kind of honor, yearning for and admiring them.
+Even though they were punished by the criminal law, they did not hesitate to kill themselves to become famous, just like Ji Lu and Qiu Mu, who died without regrets.
+Therefore, Zengzi said: If those in high positions do not act according to the rules, the people will have long since abandoned their moral principles.
+Without a sage king above him to instruct the good and evil in the world and formulate the country's etiquette, how can the people know the prohibitions and correct themselves!
+The ancient orthodox view is that the Five Hegemons are the sinners of the Three Kings; and the Six Kingdoms are the sinners of the Five Hegemons.
+From this point of view, these four tycoons should be the sinners of the Six Nations.
+What's more, people like Guo Xie, in their low status as civilians, stole the power of life and death. Their crimes are already intolerable in heaven and earth.
+However, on the other hand, they are gentle and friendly, helpful, humble and courteous, and they all have extraordinary charm.
+It is a pity that those who do not conform to the orthodox moral standards can only be classified as the lowest class of unrefined people. It is only natural that they should be killed and exterminated!
+
+summary:
+summary line 0: In ancient times, the emperor established a country with a clear hierarchy from officials to common people, ensuring order and obedience. Confucius noted that when the world is at peace, political power does not rest with officials, who must obey the law and face punishment for neglect or violation. However, with the decline of the Zhou royal family, princes began to control rituals and military campaigns. After Duke Huan of Qi and Duke Wen of Jin, officials gained exclusive power, leading to the Warring States Period, where princes abandoned propriety for force. Figures like Lord Xinling, Lord Pingyuan, Lord Mengchang, and Lord Chunshen relied on noble authority to become knight-errants, attracting followers who valued personal bonds over official duties. This trend continued into the Han Dynasty, where bans were loose, and powerful figures like King Liu Bi of Wu and King Liu An of Huainan hosted thousands of guests. Commoners like Guo Xie gained influence, often resorting to violence and crime, yet were admired for their generosity and charm. Despite their crimes, they were seen as sinners against orthodox moral standards, and the emperor eventually ordered Guo Xie's execution for forming a secret faction and abusing power.
+
+Chunk 2: 
+original: 
+以躯借友报仇，臧命作奸剽攻，休乃铸钱掘冢，不可胜数。
+适有天幸，窘急常得脱，若遇赦。
+及解年长，更折节为俭，以德报怨，厚施而薄望。
+然其自喜为侠益甚。
+既已振人之命，不矜其功，其阴贼著于心本发于睚眦如故云。
+而少年慕其行，亦辄为报仇，不使知也。
+解姊子负解之势，与人饮，使之釂，非其任，强灌之。
+人怒，刺杀解姊子，亡去。
+解姊怒曰： 以翁伯时人杀吾子，贼不得！ 弃其尸道旁，弗葬，欲以辱解。
+解使人微知贼处。
+贼窘自归，具以实告解。
+解曰： 公杀之当，吾儿不直。
+遂去其贼，罪其姊子，收而葬之。
+诸公闻之，皆多解之义，益附焉。
+解出，人皆避，有一人独箕踞视之。
+解问其姓名，客欲杀之。
+解曰： 居邑屋不见敬，是吾德不修也，彼何罪！
+乃阴请尉史曰： 是人吾所重，至践更时脱之。
+每至直更，数过，吏弗求。
+怪之，问其故，解使脱之。
+箕踞者乃肉袒谢罪。
+少年闻之，愈益慕解之行。
+洛阳人有相仇者，邑中贤豪居间以十数，终不听。
+客乃见解。
+解夜见仇家，仇家曲听。
+解谓仇家： 吾闻洛阳诸公在间，多不听。
+今子幸而听解，解奈何从它县夺人邑贤大夫权乎！
+乃夜去，不使人知，曰： 且毋庸，待我去，令洛阳豪居间乃听。
+解为人短小，恭俭，出未尝有骑，不敢乘车入其县庭。
+之旁郡国，为人请求事，事可出，出之；不可者，各令厌其意，然后乃敢尝酒食。
+translation: 
+He was willing to sacrifice his life to avenge himself with blood. He also hid desperadoes and carried out robbery and theft. When he had nothing to do, he minted counterfeit money and dug graves. His misdeeds were countless.
+Thanks to God's blessing, he was often relieved in times of crisis, as if he had experienced amnesty.
+When Guo Xie grew up, he began to reflect on his mistakes, exercise self-discipline, respond to grudges with kindness, be willing to do good, and be pure of desire.
+However, his desire to be a knight became stronger and stronger.
+Although he has done some good deeds to save lives without seeking fame, his sinister nature is often shown between his eyebrows and remains the same as before.
+Many young men admired his character and always took risks and hurt others for revenge, but Guo Xie himself had no way of knowing these things.
+Guo Xie's sister's son relied on Guo Xie's reputation and became very domineering. Once he drank with others and made someone drink all the wine in the palace. The person couldn't bear it, so he forced the person to drink.
+The man was furious, assassinated Guo Xie's sister's son and fled.
+Guo Xie's sister said: You dared to kill my son while Guo Xie was still alive, but the murderer escaped. So she abandoned the son's body on the roadside without burial, hoping to anger Guo Xie with humiliation.
+Guo Xie sent people to find out where the murderer was.
+He was desperate, so he came over and told Guo Xie the truth.
+Guo Xie said: You are right to kill him, it is my son who is shameful.
+So he let the murderer go, and Guo Xie placed the blame on his sister's son, collected his body and buried it.
+When everyone heard about this, they all respected Guo Xie's benevolence and righteousness, and more and more people followed him.
+One time when Guo Xie went out, everyone avoided him. Only one person sat there with his legs stretched out and looked at him.
+Guo Xie asked him his name, and his followers wanted to kill the man.
+Guo Xie said: Someone disrespected me in the alley because my moral character was questionable. What crime did he have?
+So he secretly told Wei Shi: "This man is someone I respect. Please don't use him when recruiting soldiers who are on duty."
+Whenever it was time to change the duty, he went there several times, but the officials in charge did not let him change the duty.
+He was very surprised and asked the reason. The official told him that it was Guo Xie who exempted him from duty.
+Only those who showed disrespect to Guo Xie bared their chests and apologized to Guo Xie.
+When the young people heard this, they all admired Guo Xie's character even more.
+Someone in Luoyang had an enemy, and more than ten famous people and wealthy people in the city intervened, but the enemy did not listen to his advice.
+Someone came to ask Guo Xie.
+Guo Xie went to his enemy's house at night to see him, and the enemy finally succumbed to him.
+Guo Xie said to the man: I heard that everyone in Luoyang was trying to mediate, but you didn't listen.
+Now I am fortunate to have listened to my Guo Xie's advice, but how can I, Guo Xie, compete for the power of local celebrities as a foreigner!
+So he returned home at night without letting anyone else know about it. He said: "It won't count this time. It will be counted when I leave and let the wealthy people from Luoyang come to mediate again."
+Guo Xie was short in stature, humble and frugal. He never had a chariot accompanying him when he went out, and he did not dare to ride into the official court of the county.
+When you arrive in a neighboring county, if you are asked to find something to do, if you can shirk it, you can shirk it; if you can't shirk it, you must satisfy everyone before you dare to eat and drink from others.
+
+summary:
+summary line 1: Guo Xie, a native of Zhi County, was the grandson of a good minister. His father was a chivalrous man killed during Emperor Xiaowen's reign. Guo Xie was calm and brave but vicious in his youth, committing murder, robbery, and grave robbing. As he matured, he reflected on his mistakes, practiced self-discipline, and responded to grudges with kindness, though his sinister nature persisted. His sister's son was killed for forcing someone to drink, and Guo Xie, deeming the victim at fault, let the murderer go, earning respect. Another incident involved a man who disrespected Guo Xie; instead of retaliating, Guo Xie secretly exempted him from duty, leading to the man's apology and increased admiration for Guo Xie. In Luoyang, Guo Xie mediated a dispute where local celebrities failed, and he ensured the credit went to them. Despite his humble and frugal lifestyle, Guo Xie's influence grew, and he was eventually forced to move to Maoling due to imperial suspicion. After his move, conflicts arose, leading to murders and his eventual arrest. Although many crimes were pardoned, Guo Xie was executed for treason after a Confucian scholar was assassinated by his followers.
+
+Chunk 3: 
+original: 
+诸公以此严重之，争为用。
+邑中少年及旁近县豪夜半过门，常十余车，请得解客舍养之。
+及徙豪茂陵也，解贫，不中訾。吏恐，不敢不徙。
+卫将军为言： 郭解家贫，不中徙。
+上曰： 解布衣，权至使将军，此其家不贫！
+解徙，诸公送者出千余万。
+轵人杨季主子为县掾，隔之，解兄子断杨掾头。
+解入关，关中贤豪知与不知，闻声争交欢。
+邑人又杀杨季主，季主家上书人又杀阙下。
+上闻，乃下吏捕解。
+解亡，置其母家室夏阳，身至临晋。
+临晋籍少翁素不知解，因出关。
+籍少翁已出解，解传太原，所过辄告主人处。
+吏逐迹至籍少翁，少翁自杀，口绝。
+久之得解，穷治所犯为，而解所杀，皆在赦前。
+轵有儒生侍使者坐，客誉郭解，生曰： 解专以奸犯公法，何谓贤？
+解客闻之，杀此生，断舌。吏以责解，解实不知杀者，杀者亦竟莫知为谁。吏奏解无罪。
+御史大夫公孙弘议曰： 解布衣为任侠行权，以睚眦杀人，解不知，此罪甚于解知杀之。
+当大逆无道。
+遂族解。
+自是之后，侠者极众，而无足数者。
+然关中长安樊中子，槐里赵王孙，长陵高公子，西河郭翁中，太原鲁翁孺，临淮皃长卿，东阳陈君孺，虽为侠而恂恂有退让君子之风。
+至若北道姚氏，西道诸杜，南道仇景，东道赵佗羽公子，南阳赵调之徒，盗跖而居民间者耳，曷足道哉！
+此乃乡者朱家所羞也。萭章字子夏，长安人也。
+长安炽盛，街闾各有豪侠，章在城西柳市，号曰 城西萭章子夏 。
+为京兆尹门下督，从至殿中，侍中诸侯贵人争欲揖章，莫与京兆尹言者。
+章逡循甚惧。
+其后京兆不复从也。
+与中书令石显相善，亦得显权力，门车常接毂。
+至成帝初，石显坐专权擅势免官，徙归故郡。
+显资巨万，当去，留床席器物数百万直，欲以与章，章不受。
+宾客或问其故，章叹曰： 吾以布衣见哀于石君，石君家破，不能有以安也，而受其财物，此为石氏之祸，萭氏反当以为福邪！
+translation: 
+Everyone took this matter seriously and scrambled to use those people.
+Young people from towns and wealthy people from neighboring counties came to visit Guo Xie in the middle of the night. More than ten carriages often stopped in front of his door. Most of them came to ask for Guo Xie's adoption.
+When it was time to move the wealthy people to Maoling, Guo Xie was poor and his property did not meet the standards for the move. But the officials in charge were too timid to prevent him from moving.
+General Wei Qing spoke for him: Guo Xie's family is poor and is not eligible for migration.
+The emperor said: Guo Xie is just a commoner, but he can get the general to intercede for him. How can this be considered poverty?
+Guo Xie had no choice but to move away. Before his departure, people rushed to see him off, bringing tens of thousands of items to see him off.
+The son of Yang Jizhu, a native of Ga County, was appointed as an official in the county. He stopped the people who came to see him off, but the son of Guo Xie's brother actually killed the man named Yang and took his head.
+After Guo Xie entered the Pass, the celebrities and wealthy guests in Guanzhong, whether they knew him or not, came to make friends with him.
+The local people killed Yang Jizhu again, and Yang Jizhu's family complained and was killed in the palace.
+When the emperor heard about this, he sent officials to arrest Guo Xie.
+Guo Xie fled upon hearing the news and moved his mother's family to Xia Yang while he went to Linjin.
+There was a man named Ji Shaoweng in Linjin who admired his name but had never seen Guo Xie, so he released him privately.
+The young man released Guo Xie, and Guo Xie went to Taiyuan. Wherever he went, he often told the host of the incident.
+The arrester followed the traces and found the young man, who was so anxious that he committed suicide, thus cutting off all witnesses.
+After a long time, Guo Xie was finally arrested and the crimes he committed were comprehensively investigated. However, his murders all occurred before the amnesty and it was difficult to pursue them.
+There was a Confucian scholar sitting with the envoy in Zhi County. Most of the people spoke well of Guo Xie, but the Confucian scholar said: Guo Xie specialized in violating public laws with treachery and robbery. How can we say he is a wise man?
+Upon hearing this, Guo Xie's family members assassinated the Confucian scholar and cut off his tongue. For this reason, the officials brought Guo Xie up for questioning. Guo Xie really did not know who the murderer was, and the murderer was not identified at the time. The officials reported that Guo Xie was not guilty.
+Gongsun Hong, the imperial censor, pointed out: As a commoner, Guo Xie formed a secret faction, abused his power, and killed people wantonly for trivial matters. Guo Xie himself did not know that this crime exceeded the crime of beheading that Guo Xie knew about.
+It should be punished as a crime of treason.
+So the emperor ordered Guo Xie's entire family to be executed.
+From then on, there were many knights from various places, but there were none worth mentioning.
+But Fan Zhongzi from Chang'an in Guanzhong, Wangsun Fang from Huaili, Gongzi Gao from Changling, Guo Wengzhong from Xihe, Lu Wengru from Taiyuan, Er Changqing from Linhuai, Chen Junru from Shuyang, etc., although they are knights, they all have the courtesy and humility of gentlemen.
+As for the Yao family in the North Road, the Du families in the West Road, Qiu Jing in the South Road, Young Master Tuo Yu in Shu Road, Zhao Diao in Nanyang and others, they are all bandits and are mixed among the common people, so why bother!
+Even people like the Zhu family would feel humiliated. Wan Zhang, courtesy name Zixia, was from Chang'an.
+Chang'an is a very prosperous place, and there are many heroic people in the streets. Wan Zhang lived in Liushi, west of the city, and was known as Wan Zixia in the west of the city.
+Later, he became Jing Zhaoyin's secret friend and followed Jing Zhaoyin to the palace. Among the servants, princes and nobles, they were all vying to bow to Wan Zhang, but no one went to talk to Jing Zhaoyin.
+Wan Zhang was very embarrassed and frightened.
+From then on, Jing Zhaoyin never asked Wan Zhang to accompany him again.
+Wan Zhang was very close to Zhongshu Ling Shi Xian, and they also took advantage of Shi Xian's power, so there was always a continuous flow of cars and horses in front of his house.
+In the early years of Emperor Cheng's reign, Shi Xian was dismissed from office because of the crime of taking advantage of power and moved back to his hometown.
+At that time, Shi Xian's family had a fortune of tens of millions. Before leaving, he left some bed mats and utensils worth several millions and wanted to give them to Wan Zhang, but Wan Zhang did not accept them.
+Some guests asked about the reason, and Wan Zhang sighed and said: I am a commoner wearing cloth, and I owe you the pity of Mr. Shi. Now that Mr. Shi has ruined his family and career, I cannot save him, but I still accept his property. Could it be that this misfortune of the Shi family, I, the Wan family, regard it as a blessing?
+
+summary:
+summary line 2: After Guo Xie, many knights emerged but none were notable. Figures like Fan Zhongzi, Wangsun Fang, and others were courteous and humble, while others like the Yao and Du families were bandits. Wan Zhang, a knight from Chang'an, became a secret friend of Jing Zhaoyin but was embarrassed by the attention he received. He later refused gifts from the disgraced Shi Xian, earning praise for his conduct. During the Heping period, Wang Zun captured and killed many heroes, including Wan Zhang. Lou Hu, from Qi State, initially practiced medicine but later studied classics and became a minor official. He gained fame by serving the five Wang brothers simultaneously, known for his eloquence and integrity. After his mother's death, thousands mourned. Lou Hu later served as an envoy, distributing gifts to relatives, and was promoted to prefect of Tianshui. He was dismissed but later reinstated, and during Wang Mang's regency, he captured a fugitive, earning a marquisate. However, he was eventually dismissed again and lived in obscurity, though he maintained his principles by supporting an old friend, Lu Gong, for life.
+
+Chunk 6: 
+original: 
+遂于是辞谢，因曰： 事在元平元年赦令前。
+其见厚如此。
+元帝时，征遂为京兆尹，至廷尉。
+遵少孤，与张竦伯松俱为京兆史。
+竦博学通达，以廉俭自守，而遵放纵不拘，操行虽异，然相亲友，哀帝之末俱著名字，为后进冠。
+并入公府，公府掾史率皆羸车小马，不上鲜明，而遵独极舆马衣服之好，门外车骑交错。
+又日出醉归，曹事数废。
+西曹以故事適之，侍曹辄诣寺舍白遵曰： 陈卿今日以某事適。
+遵曰： 满百乃相闻。
+故事，有百適者斥，满百，西曹白请斥。
+大司徒马宫大儒优士，又重遵，谓西曹： 此人大度士，奈何以小文责之？
+乃举遵能治三辅剧县，补郁夷令。
+久之，与扶风相失，自免去。
+槐里大贼赵朋、霍鸿等起，遵为校尉，击朋、鸿有功，封嘉威侯。
+居长安中，列侯近臣贵戚皆贵重之。
+牧守当之官，及郡国豪桀至京师者，莫不相因到遵门。
+遵嗜酒，每大饮，宾客满堂，辄关门，取客车辖投井中，虽有急，终不得去。
+尝有部刺史奏事，过遵，值其方饮，刺史大穷，候遵沾醉时，突入见遵母，叩头自白当对尚书有期会状，母乃令从后阁出去。
+遵大率常醉，然事亦不废。
+长八尺余，长头大鼻，容貌甚伟。
+略涉传记，赡于文辞。
+性善书，与人尺牍，主皆藏去以为荣。
+请求不敢逆，所到，衣冠怀之，唯恐在后。
+时列侯有与遵同姓字者，每至人门，曰陈孟公，坐中莫不震动，既至而非，因号其人曰陈惊坐云。
+王莽素奇遵材，在位多称誉者，由是起为河南太守。
+既至官，当遣从史西，召善书吏十人于前，治私书谢京师故人。
+遵冯几，口占书吏，且省官事，书数百封，亲疏各有意，河南大惊。
+数月免。
+初，遵为河南太守，而弟级为荆州牧，当之官，俱过长安富人故淮阳王外家左氏饮食作乐。
+后司直陈崇闻之，劾奏： 遵兄弟幸得蒙恩超等历位，遵爵列侯，备郡守，级州牧奉使，皆以举直察枉宣扬圣化为职，不正身自慎。
+始遵初除，乘藩车入闾巷，过寡妇左阿君置酒歌讴，遵起舞跳梁，顿仆坐上，暮因留宿，为侍婢扶卧。
+遵知饮酒饫宴有节，礼不入寡妇之门，而湛酒混肴，乱男女之别，轻辱爵位，羞污印韨，恶不可忍闻。
+臣请皆免。
+遵既免，归长安，宾客愈盛，饮食自若。
+久之，复为九江及河内都尉，凡三为二千石。
+而张竦亦至丹阳太守，封淑德侯。
+后俱免官，以列侯归长安。
+竦居贫，无宾客，时时好事者从之质疑问事，论道经书而已。
+而遵昼夜呼号，车骑满门，酒肉相属。
+先是，黄门郎扬雄作《酒箴》以讽谏成帝，其文为酒客难法度士，譬之于物，曰： 子犹瓶矣。
+translation: 
+Chen Sui then resigned and thanked Emperor Xuan, saying: "These things all happened before the pardon was issued in the first year of Yuanping, and they should not be investigated any further."
+He was treated so favorably by Emperor Xuan.
+During the reign of Emperor Yuan, Chen Sui was recruited to serve as Jing Zhaoyin, and later he became Tingwei.
+Chen Zun lost his father in his early years, and later became a Jingzhao historian with a man named Zhang Changhao Bosong.
+Zhang Song was knowledgeable, knowledgeable, and self-disciplined with integrity and frugality, while Chen Zun was indulgent and unruly. Although the two had different moral conduct, they were very close and friendly to each other. In the last years of Emperor Ai's reign, they were both well-known and became the best among the underachievers.
+They both entered the palace again. All the officials in the palace only had thin horses and poor carriages, and never paid attention to their appearance. Only Chen Zun showed off his carriages and horses in gorgeous clothes. Outside his door, there were always carriages and horses meeting each other, which was very grand.
+Every day when he went out to drink, he would always come home drunk, often neglecting to deal with official matters.
+Xicao punished him according to the old rules. The clerk who served him always went to the official residence to inform Chen Zun: "Chen Qing was punished for something again today."
+Chen Zun said: "When it reaches one hundred items, come back and let me know."
+According to the old rules, those who were punished a hundred times would be dismissed. Later, when the number of punishments reached 100, west Cao asked the officials to dismiss Chen Zun.
+At that time, Grand Situ Ma Gong was a man of great magnanimity. He was tolerant of scholars and valued Chen Zun very much, so he said to Xicao: "This man is a very talented scholar. How can you scold him with small rules?"
+He recommended Chen Zun, saying that he could manage the difficult and difficult counties in Sanfu, so he made him the magistrate of Yuyi County.
+After a long time, due to disagreements with Fufeng, he resigned and left.
+The big thieves Tampeng and Huo Hong in Huaili started a rebellion. Chen Zunzheng was appointed as the school captain. He made great achievements in attacking Tampeng, Huo Hong and others, so he was named Jiaweihou.
+He lived in Chang'an City, and all the princes, ministers, and nobles valued him.
+All the county officials and heroes who came to the capital came to visit Chen Zun.
+Chen Zun liked drinking. Whenever he held a big banquet, when the hall was full of guests, he would often close the door and throw the keys from the guests' cars into the well. Even if there was an emergency, he could not go out.
+Once, a provincial governor came to visit Chen Zun on business, and he happened to be drinking heavily. The governor was very embarrassed. When Chen Zun was drunk, he suddenly went in to see Chen Zun's mother, kowtowed to her and told her that he had an appointment with the minister and had business to discuss. Chen Zun's mother asked him to go out through the back door.
+Chen Zun probably got drunk from time to time, but his official duties were not delayed.
+Chen Zun is more than eight feet tall, has a long head and a big nose, and has a dignified appearance.
+After skimming some biographies, I can write prose.
+He was fond of writing by nature, and the letters he wrote to others were all treasured by them as an honor.
+No one dared to refuse him every request. Wherever he went, the entire upper class envied him for fear of neglecting him.
+At this time, there was a man with the same surname as Chen Zun. Whenever he visited someone else's door, he would shout, "Chen Menggong is here."
+Wang Mang had always been amazed by Chen Zun's talents, and most of the officials in office praised him, so he made him the governor of Henan County.
+Now that Chen Zun had arrived, he sent an envoy to the west and recruited ten clerks who could write letters to write private letters for him to thank his old friends in the capital.
+Chen Zun leaned on the coffee table, dictating his thoughts to the clerk, and also reviewing official matters. He soon wrote hundreds of letters. The contents and meanings of the close and distant letters were also different. The people in Henan County were greatly frightened by this.
+After a few months, he was dismissed from office.
+When Chen Zun was appointed as the governor of Henan County, his younger brother Chen Ji was appointed as the pastor of Jingzhou. On his way to take office, the two brothers passed by the home of a rich man in Chang'an. This rich man was the Zuo family of the late King of Huaiyang. They drank and had fun at his home.
+Later, a Sizhi named Chen Chong heard about this and reported to the court: Brother Chen Zun was lucky enough to receive divine grace, transcended his rank, and held successive official positions. Chen Zun's title has reached the rank of lord, his official position has reached the level of county guard, and Chen's rank has also been promoted to prefecture pastor. When ordered to go on missions, they should be responsible for upholding integrity, monitoring evil songs, and promoting the teachings of the Holy King. However, they are not self-cultivation and self-discipline now, and they only do unseemly things.
+When Chen Zun first became an official, he actually rode a covered car into Yan Alley and went to the widow Zuo Ajun's house to serve wine and sing. Chen Zun got up and danced wildly, but actually lost his footing and fell down on his seat. He stayed at the widow's house at night and was supported by the maid before going to bed.
+Chen Zun knew clearly that etiquette should be followed during drinking and banquets, and according to etiquette, he was not allowed to enter the widow's house, but he still indulged in eating and enjoying, did not care about the different etiquette rules for men and women, insulted the title given by the court, and brought shame to the official seal. This kind of bad reputation cannot be tolerated.
+Therefore, it is requested that both of them be removed from office.
+After Chen Zun was dismissed from office, he returned to Chang'an. There were more and more guests, and the food and entertainment remained the same as before.
+After a long time, Chen Zun served as the captain of Jiujiang and Hanoi. In total, he served as an official three times with a salary of two thousand dan.
+Zhang Song also became the governor of Danyang and was given the title of Marquis of Shude.
+Later, they were all dismissed from their official positions, and returned to Chang'an with only the titles of princes.
+Zhang Song's residence was very simple, with no guests coming and going. There were often good people following him to criticize and ask questions, and they just talked about the Tao Te Ching.
+But Chen Zun was shouting day and night, the house was full of chariots and cavalry, and there were continuous banquets and meat feasts.
+Previously, Huangmenlang Yangxiong wrote "Wine Admonition" to satirize and admonish the emperor. In the article, he assumed that a drunkard criticized the righteous Dharma minister and used objects as a metaphor for people. The article wrote: You are like a bottle.
+
+summary:
+summary line 3: Chen Zun, from Duling County, was known for his indulgence and extravagance, contrasting with his friend Zhang Song's frugality. Despite his reckless behavior, Chen Zun was valued for his talent and became a magistrate. He was later dismissed for misconduct but continued to host lavish parties. During Wang Mang's reign, he served as governor of Henan County but was dismissed again. Chen Zun was known for his eloquence and charm, and his letters were treasured. He died in Shuofang after being captured by bandits. Yuan She, from Maoling, gained fame by returning funeral donations and mourning his father for three years. He became a magistrate but was dismissed after seeking revenge for his uncle's murder. Yuan She was known for his generosity and ability to mobilize people, often helping the poor and organizing funerals. However, he was also involved in violence, killing a man who slandered him. During Wang Mang's reign, Yuan She was appointed as an official but was eventually executed after ordering the assassination of a chief registrar. Since the reigns of Emperor Ai and Emperor Ping, many heroes emerged in various counties, but their numbers were too many to count.
+

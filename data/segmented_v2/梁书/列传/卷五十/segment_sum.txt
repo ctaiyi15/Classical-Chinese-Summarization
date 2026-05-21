@@ -1,0 +1,938 @@
+Summary uses chunk [0, 1, 5, 6, 7, 9, 12, 13, 13, 16, 17, 17, 21, 21, 23, 24]
+
+Chunk 0: 
+original: 
+刘峻，字孝标，平原平原人。
+父珽，宋始兴内史。
+峻生期月，母携还乡里。
+宋泰始初，青州陷魏，峻年八岁，为人所略至中山，中山富人刘实愍峻，以束帛赎之，教以书学。
+魏人闻其江南有戚属，更徙之桑乾。
+峻好学，家贫，寄人庑下，自课读书，常燎麻炬，从夕达旦，时或昏睡，爇其发，既觉复读，终夜不寐，其精力如此。
+齐永明中，从桑乾得还，自谓所见不博，更求异书，闻京师有者，必往祈借，清河崔慰祖谓之 书淫 。
+时竟陵王子良博招学士，峻因人求为子良国职，吏部尚书徐孝嗣抑而不许，用为南海王侍郎，不就。
+至明帝时，萧遥欣为豫州，为府刑狱，礼遇甚厚。
+遥欣寻卒，久之不调。
+天监初，召入西省，与学士贺踪典校秘书。
+峻兄孝庆，时为青州刺史，峻请假省之，坐私载禁物，为有司所奏，免官。
+安成王秀好峻学，及迁荆州，引为户曹参军，给其书籍，使抄录事类，名曰《类苑》。未及成，复以疾去，因游东阳紫岩山，筑室居焉。
+为《山栖志》，其文甚美。
+高祖招文学之士，有高才者，多被引进，擢以不次。
+峻率性而动，不能随众沉浮，高祖颇嫌之，故不任用。
+乃著《辨命论》以寄其怀曰：
+主上尝与诸名贤言及管辂，叹其有奇才而位不达。
+时有在赤墀之下，预闻斯议，归以告余。
+余谓士之穷通，无非命也。故谨述天旨，因言其略云。
+臣观管辂天才英伟，珪璋特秀，实海内之髦杰，岂日者卜祝之流。
+而官止少府丞，年终四十八，天之报施，何其寡欤？
+然则高才而无贵仕，饕餮而居大位，自古所叹，焉独公明而已哉？
+translation: 
+Liu Jun, whose courtesy name was Xiaobiao, was from Pingyuan.
+His father, Liu Ge, was the internal historian of Shixing in the Song Dynasty.
+When Liu Jun was just one year old, his mother took him back to his hometown.
+In the early years of Song Taishi, Qingzhou fell to the Wei people. When Liu Jun was eight years old, he was kidnapped and taken to Zhongshan. Liu Shi, a wealthy man in Zhongshan, sympathized with Liu Jun's plight and redeemed Liu Jun with five pieces of silk and taught him to write and read.
+The people of Wei heard that Liu Jun had relatives in Jiangnan, so they moved him to Sangqian.
+Liu Jun was eager to learn, his family was poor, and he lived in other people's homes, but he set his own study schedule. He often lit a torch made of hemp straw and read all night. Sometimes he fell asleep and the torch burned his hair. When he woke up, he resumed reading and stayed up all night.
+During the next year of Qi Yong, Liu Jun was able to return to Qi from Sangqian. He thought that his knowledge was not extensive, so he went to look for other books that he had never seen. When he heard that there was such a book in the capital, he would rush to ask for it to be borrowed. Cui Weizu of Qinghe called him a "book slut".
+At that time, Xiao Ziliang, the real fallen minister, was recruiting scholars, and Xingjun asked for a position in Xiao Ziliang's kingdom through others. Xu Xiaosi, the Minister of Civil Affairs, devalued him and refused to agree. He was only appointed as the minister of Nanhai King, but he refused to take up the post.
+By the time of Emperor Ming, Xiao Yaoxin was appointed governor of Yuzhou and appointed Liu Jun as the prisoner of the government. He was treated very generously.
+Xiao Yaoxin passed away soon, and Liu Jun was not allowed to raise his tune for a long time.
+In the early years of Tianjian, Liu Jun was called to the Western Province and served as the secretary of the school with He Zong, a bachelor.
+Liu Jun's brother Liu Longqing was serving as governor at the time. Su asked for leave to visit him. He was impeached by the official for transporting prohibited items without permission and was dismissed from office.
+He liked learning. When he was transferred to the governor's office, he was promoted to join the army as a product of Cao. He was provided with some books and asked him to copy them into a book by category and named it "Lei Yuan". Before the book was compiled, Liu Jun left because of illness. He built a house there and lived there because he visited Ziyan Mountain in Dongyang.
+Liu Jun wrote "Mountain Qi Zhi", and the writing is beautiful.
+Emperor Gaozu recruited literary people, and those with high talents were often recommended for promotion, often without qualifications.
+Liu Jun acted according to his own temperament and could not follow the ups and downs of others. Emperor Gaozu disliked him very much, so he did not use him.
+Liu Jun then wrote "Discrimination of Fate" to express his feelings. The article said:
+The emperor once talked about Guan Ren with many famous sages, and lamented that there were talented people in charge but their official positions were not high.
+A friend was in the court at that time and heard this discussion, so he told me when he came back.
+I believe that the embarrassment and enlightenment of a scholar's situation are all determined by fate, so I respectfully describe the outline of destiny and my own ambitions.
+In my opinion, the governor is a talent sent from heaven, magnificent and outstanding, with outstanding talents and excellent character. He is really a hero in the country, and he is not just an ordinary divination and blessing.
+But his official position is only that of Shaofu Cheng, and he is forty-eight years old. How few people God has given him to govern!
+However, talented people do not have prominent official positions, while gluttonous, cruel and greedy people are in prominent official positions. This phenomenon has often made people sigh since ancient times, how can it be just Gong Ming?
+
+summary:
+summary line 0: Liu Jun, courtesy name Xiaobiao, was from Pingyuan. His father was Liu Ge. At age one, his mother took him home. During Song Taishi, Qingzhou fell to the Wei, and at eight, Liu Jun was kidnapped to Zhongshan. A wealthy man, Liu Shi, redeemed him and taught him. The Wei moved him to Sangqian. He was an eager learner, often reading by torchlight all night, sometimes burning his hair. During Qi Yongming, he returned to Qi. He sought out rare books, and Cui Weizu called him a "book slut." He sought a position under Xiao Ziliang but was devalued by Xu Xiaosi. He served under Xiao Yaoxin, who treated him generously. After Xiao Yaoxin's death, Liu Jun was long without promotion. In early Tianjian, he served as a secretary. He was dismissed for transporting prohibited items. He was later given books to compile "Lei Yuan," but left due to illness. He wrote "Mountain Qi Zhi." Emperor Gaozu disliked him for not following others, so he was not used. Liu Jun then wrote "Discrimination of Fate" to express his feelings.
+
+Chunk 1: 
+original: 
+故性命之道，穷通之数，夭阏纷纶，莫知其辨。
+仲任蔽其源，子长阐其惑。
+至于鹖冠甕牖，必以悬天有期；鼎贵高门，则曰唯人所召。
+譊々讠雚咋，异端俱起。
+萧远论其本而不畅其流，子玄语其流而未详其本。
+尝试言之曰：夫道生万物，则谓之道；生而无主，谓之自然。
+自然者，物见其然，不知所以然；同焉皆得，不知所以得。
+鼓动陶铸而不为功，庶类混成而非其力；生之无亭毒之心，死之岂虔刘之志；坠之渊泉非其怒，升之霄汉非其悦。
+荡乎大乎，万宝以之化；确乎纯乎，一作而不易。
+化而不易，则谓之命。
+命也者，自天之命也。
+定于冥兆，终然不变。
+鬼神莫能预，圣哲不能谋；触山之力无以抗，倒日之诚弗能感；短则不可缓之于寸阴，长则不可急之于箭漏；至德未能逾，上智所不免。
+是以放勋之代，浩浩襄陵；天乙之时，燋金流石。
+文公疐其尾，宣尼绝其粮；颜回败其丛兰，冉耕歌其芣苡；夷、叔毙淑媛之言，子舆困臧仓之诉。
+圣贤且犹若此，而况庸庸者乎！
+至乃伍员浮尸于江流，三闾沉骸于湘渚；贾大夫沮志于长沙，冯都尉皓发于郎署；君山鸿渐，铩羽仪于高云；敬通凤起，摧迅翮于风穴：此岂才不足而行有遗哉？
+近代有沛国刘献、献弟璡，并一时之秀士也。
+献则关西孔子，通涉《六经》，循循善诱，服膺儒行。
+璡则志烈秋霜，心贞昆玉，亭亭高竦，不杂风尘。
+translation: 
+Therefore, no one can understand the difference between human nature and endowment, a lifetime of embarrassment and enlightenment, setbacks, failures, and successes.
+When talking about this issue, Wang Zhongren covered up its root cause, and Sima Zichang expressed his doubts.
+As for the poor and humble people who wear humble clothes and live in thatched huts, they must say that their destiny is controlled by God, and good and bad fortunes depend on luck. For wealthy and wealthy families, it is said that misfortunes and misfortunes do not distinguish between families, but are only caused by people's virtues.
+There was a lot of talk and arguments, and various opinions emerged one after another.
+Li Xiaoyuan talked about the foundation of fate but did not explain its changes. Guo Zixuan talked about the changes of fate but did not clarify its origin.
+Let me try to talk about this issue: The Great Way gives birth to all things, so it is called Tao; if it is born without any master, it is called nature.
+Nature means that all things grow, but they don’t know why they grow; all things get their own place, but they don’t know why they get their own places.
+He stirs up the world and creates all things, but he does not regard it as his own strength or his own achievements. There is no intention to nurture it while alive, and death is not caused by killing. Falling into the abyss and becoming a fish and dragon is not a punishment from God; rising to the sky and becoming a bird is not a favor from God.
+This Tao is boundless and broad, and all things change with it; but it is also deep and pure, and it never changes once it is created.
+Once it is created, it will not change. This is called destiny.
+Fate refers to the fate sent down from heaven.
+Destiny is determined in the dark and will never change.
+Ghosts and gods cannot predict it, and sages cannot examine it. The force that knocks down the mountains cannot be resisted, nor can the sincerity that causes the sun to return cannot be affected. If destiny comes quickly, it cannot be delayed for a moment, and if it comes slowly, it cannot be missed in advance. The most virtuous sages cannot transcend the destiny, and the wise people cannot escape the constraints of destiny.
+Therefore, in the era when Fangxun was in power, the floods were so powerful that the mountains and mausoleums were submerged; in the era when Chengtang was the emperor, droughts were raging and the gold and stone were scorched.
+Jin Wengong suffered repeated setbacks, and Kong Xuanni was in Chen Jueliang. Yan Hui's hair turned gray prematurely, and Ran Geng suffered from a serious illness. Boyi and Shuqi starved to death because of the woman's words, and Mencius was embarrassed because of Zang Cang's slander.
+Sages can't escape the arrangement of fate, let alone mediocre ordinary people!
+As for the corpses of the soldiers who were thrown into the river; Dr. Qu Yuan of Sanlu sank in the Xiang River; Dr. Jia was demoted to Kensha because of frustration in his ambition; Feng Duwei and Feng Tang spent time in the office until his hair turned white; Huan Junshan entered the official career, but his wings were broken due to the Yuntai controversy; Feng Jingtong had the virtue of a phoenix, but his wings were destroyed because of slander and slander. Are these people lacking in talent and lacking in virtue?
+In modern times, Liu Shan of Pei State and Liu Shan's younger brother Liu Fa were both outstanding talents at that time.
+Liu Shan was none other than Kansai Confucius. He was familiar with the Six Classics extensively, followed instructions and taught the younger generations, and wholeheartedly followed Confucian principles.
+Liu Long's character is noble and pure, like autumn frost, and his heart is pure, like the jade from Kunlun Mountain. He is unique and has outstanding character. He does not follow the crowd and conforms to the world.
+
+summary:
+summary line 1: The article "Discrimination of Fate" argues that a scholar's situation is determined by fate. It laments that talented people like Guan Ren have low positions. It states that the difference between human nature and endowment, and a lifetime of setbacks, cannot be understood. It discusses the concepts of Tao and nature, stating that destiny is determined in the dark and never changes. It lists sages like Jin Wengong and Confucius who could not escape fate. It mentions modern examples like Liu Shan and Liu Fa, who were talented but died in obscurity. It argues that nobility, longevity, and wealth are produced naturally, not by talent. It lists five areas of confusion regarding fate, including the belief that honor and disgrace are determined by people, that success comes from martial power, that good and evil are always rewarded, and that a country's success depends on its ruler. It concludes that a gentleman follows the right path, obeys heaven, and secures his own destiny, understanding that fate is beyond human control.
+
+Chunk 5: 
+original: 
+夫食稻梁，进刍豢，衣狐貉，袭冰纨，观窈眇之奇儛，听云和之琴瑟，此生人之所急，非有求而为也。
+修道德，习仁义，敦孝悌，立忠贞，渐礼乐之腴润，蹈先王之盛则，此君子之所急，非有求而为也。
+然而君子居正体道，乐天知命。
+明其无可奈何，识其不由智力。
+逝而不召，来而不距，生而不喜，死而不戚。
+瑶台夏屋，不能悦其神；土室编蓬，未足忧其虑。
+不充诎于富贵，不遑遑于所欲。
+岂有史公、董相《不遇》之文乎？
+论成，中山刘沼致书以难之，凡再反，峻并为申析以答之。
+会沼卒，不见峻后报者，峻乃为书以序之曰： 刘侯既有斯难，值余有天伦之戚，竟未之致也。
+寻而此君长逝，化为异物，绪言余论，蕴而莫传。
+或有自其家得而示余者，悲其音徽未沫，而其人已亡，青简尚新，而宿草将列，泫然不知涕之无从。
+虽隙驷不留，尺波电谢；而秋菊春兰，英华靡绝。
+故存其梗概，更酬其旨。
+若使墨翟之言无爽，宣室之谈有征。冀东平之树，望咸阳而西靡；盖山之泉，闻弦歌而赴节。
+但悬剑空垄，有恨如何！ 其论文多不载。
+峻又尝为《自序》，其略曰： 余自比冯敬通，而有同之者三，异之者四。
+何则？
+translation: 
+Eating rice, eating fish, wearing fox fur and fur, wearing pure white silk, watching wonderful and exquisite dances, and listening to the music of Yunhe's fine materials. These are the needs of the people's life, and they do not require anything to do so.
+Cultivate morality, learn benevolence and righteousness, establish deep feelings of filial piety and brotherhood, establish loyalty and integrity, be infiltrated and influenced by ritual and music, and follow the rules of the past kings. These are the needs of a gentleman's life, and it does not require anything to do so.
+In this way, a gentleman follows the right path, implements the right path, happily obeys the arrangements of heaven, and secures his own destiny.
+They understand that they are helpless in the face of fate, and understand that rise and fall, honor and disgrace do not depend on human wisdom and strength.
+Therefore, when blessings pass away, one does not look for them; when disasters come, one does not resist them; when one survives, one does not feel particularly happy; when one faces death, one does not feel sad.
+Living in a Yaotai mansion will not make him happy; living in an earthen house and a humble household will not make him worried.
+When you are in wealth, you will not be complacent or arrogant. You will not be restless and pursue what you want.
+If this is the case, how can there be articles like "A Tragedy Man Is Not Encountered" by Ma Qian of the Taishi Company and Dong Zhongshu, the Prime Minister of Jiangdu!
+After Liu Jun's "Distinction of Fate" was written, Liu Bo of Zhongshan wrote to refute Liu Jun. He wrote twice in total, and Liu Jun defended and analyzed each one one by one, and gave Liu Bo a reply.
+It happened that Liu Ma passed away, and he did not see Liu Jun's subsequent reply to the letter. Liu Jun then wrote a letter to reply to Liu Ma, who had passed away, describing the incident and his own feelings, saying: Liu Ma has already raised such an inquiry. It was a matter of a brother's death in my family, but he failed to reply to him in time.
+Soon, Mr. Liu Bo said goodbye to us forever and became a foreign object. His other remarks were hidden and never came out.
+Someone got these remarks from his home and showed them to me. Not all of his good words could be said, but the man had passed away. The handwriting of the article was still new, but the grass on the tomb had grown lush. I was sad for this, and I didn’t know who the tears were flowing to.
+Although life is short, like a horse passing by, time flies like an arrow, like water waves passing by, and lightning flashing. His character is like autumn chrysanthemums and spring orchids, and his good reputation will never fade away.
+So I wrote down the general story of this incident to repay Liu Zhou's kindness.
+If what Mo Zhai said about Du Bo knowing after his death is correct, and what Ye Yi discussed in the announcement room about ghosts and gods has come true, then I hope the trees in your cemetery can be like the trees on the tomb, pointing to the capital to express your longing for your motherland; I hope you can be like the springs in the mountains, which can flow in response to the sound of music.
+I can only hang the sword on the tomb like Yanling Jizi to repay my friends. What a pity I feel! Liu Jun's paper is not published because it is too long.
+Liu Jun once wrote "Automatic Preface", which roughly stated: I compare myself with Feng Jingtong. He and I have three aspects in common and four aspects that are different.
+Why?
+
+summary:
+summary line 2: After Liu Jun's "Distinction of Fate" was written, Liu Bo of Zhongshan wrote to refute him. Liu Jun replied, but Liu Bo died before seeing the reply. Liu Jun wrote a letter to the deceased Liu Bo, expressing his sorrow. Liu Jun's paper was not published due to its length. Liu Jun wrote an "Automatic Preface" comparing himself to Feng Jingtong, listing three similarities and four differences. He lived in Shuyang, where many studied under him. He died at sixty, and his disciples gave him the posthumous name Mr. Xuanjing.
+
+Chunk 6: 
+original: 
+敬通雄才冠世，志刚金石；余虽不及之，而节亮慷慨，此一同也。
+敬通值中兴明君，而终不试用；余逢命世英主，亦摈斥当年，此二同也。
+敬通有忌妻，至于身操井臼；余有悍室，亦令家道感轲，此三同也。
+敬通当更始之世，手握兵符，跃马食肉；余自少迄长，戚戚无欢，此一异也。
+敬通有一子仲文，官成名立；余祸同伯道，永无血胤，此二异也。
+敬通膂力方刚，老而益壮；余有犬马之疾，溘死无时，此三异也。
+敬通虽芝残蕙焚，终填沟壑，而为名贤所慕，其风流郁烈芬芳，久而弥盛；余声尘寂漠，世不吾知，魂魄一去，将同秋草，此四异也。
+所以自力为叙，遗之好事云。
+峻居东阳，吴、会人士多从其学。
+普通二年，卒，时年六十。
+门人谥曰玄靖先生。
+刘沼，字明信，中山魏昌人。
+六代祖舆，晋骠骑将军。
+沼幼善属文，既长博学。
+仕齐起家奉朝请，冠军行参军。
+天监初，拜后军临川王记室参军，秣陵令，卒。
+谢几卿，陈郡阳夏人。
+曾祖灵运，宋临川内史；父超宗，齐黄门郎；并有重名于前代。
+几卿幼清辩，当世号曰神童。
+后超宗坐事徙越州，路出新亭渚，几卿不忍辞诀，遂投赴江流，左右驰救，得不沉溺。
+及居父忧，哀毁过礼。
+服阕，召补国子生。
+translation: 
+Feng Jingtong was outstanding in talent, second to none at the time, and had a strong ambition, as solid as stone. Although I am not as good as him, I am honest, bold and resolute. This is the first aspect that is the same.
+Feng Jingtong happened to meet a wise monarch who rejuvenated the national destiny, but was not tried in the end; I also met a wise monarch who was famous for governing the country, but was also reprimanded in his prime. This is the second aspect of the same.
+Feng Jingtong had a jealous wife at home, for which he even had to fetch water, grind rice, and take care of the housework. I also had a fierce wife at home, which also made my family life difficult and unstable. This is the third aspect of the same thing.
+Feng Jingtong was born in the reform era, and he once served as a general and led troops to fight; from young to old, I have always been sad and frustrated, and my ambitions have not been expanded. This is the first difference.
+Feng Jingtong had a son, Feng Zhongwen, who had an official position and a good reputation; I encountered the same misfortune as Deng Bodao, and I never had any biological flesh and blood of my own. This is the second difference.
+Feng Jingtong is strong and getting stronger as he gets older; I am suffering from a disease and I don’t know when I will die suddenly. This is the third different aspect.
+Although Feng Jingtong was burned like Zhi Cao Hui Cao and died silently, he was admired by famous sages, and the aftertaste of his style exuded a rich fragrance that spread for a longer time. His reputation will be greater; my life is indifferent, my reputation is unknown, and no one in the world understands me. Once I leave this world, I will be like dead autumn grass, no one cares about me. This is the fourth different aspect.
+So I tried my best to write a narrative and leave it to those who care about me.
+Liu Jun lived in Shuyang, and many Wu and Hui people studied under him.
+Two years later, Liu Jun died at the age of sixty.
+His disciples gave him the nickname Mr. Xuanjing.
+Liu Bo, courtesy name Mingxin, was born in Weichang, Zhongshan.
+His grandfather Liu Yu, six generations ago, was posthumously awarded the title of Hussar General during the Jin Dynasty.
+Liu Bo was good at writing articles since he was a child. When he grew up, he became knowledgeable.
+At the beginning of the Qi Dynasty, he took up an official position and was invited to join the army.
+In the early years of the year, Xingtuo was worshiped as the military supervisor and joined the army in the imperial palace of Cong Wangji. He was ordered by Moling. He died during the period of dispatch.
+Xie Jiqing was from Yangxia, Chen County.
+His great-grandfather Xie Lingyun was the internal historian of Linchuan during the Song Dynasty; his father Xie Chaozong was the Huangmenlang at that time. All were famous in previous generations.
+Yao Jiqing was alert, intelligent and eloquent since he was a child. People called him a child prodigy at that time.
+Later, Xie Chaozong was demoted to Yuezhou for being convicted. When passing through Xintingzhu, Xie Jiqing couldn't bear to say goodbye to his father, so he threw himself into the river. The people around him hurriedly rescued him and saved him from drowning in the river.
+When it came time to mourn for his father, he mutilated his body with grief, exceeding the requirements of etiquette.
+After the mourning period expired, he was called to be the son of the country.
+
+summary:
+summary line 3: Liu Bo, courtesy name Mingxin, was from Zhongshan. He was good at writing articles and knowledgeable. He held various official positions and died during a dispatch.
+
+Chunk 7: 
+original: 
+齐文惠太子自临策试，谓祭酒王俭曰： 几卿本长玄理，今可以经义访之。
+俭承旨发问，几卿随事辨对，辞无滞者，文惠大称赏焉。
+俭谓人曰： 谢超宗为不死矣。
+既长，好学，博涉有文采。
+起家豫章王国常侍，累迁车骑法曹行参军、相国祭酒。出为宁国令，入补尚书殿中郎、太尉晋安王主簿。
+天监初，除征虏鄱阳王记室、尚书三公侍郎，寻为治书侍御史。
+旧郎官转为此职者，世谓为南奔。
+几卿颇失志，多陈疾，台事略不复理。
+徙为散骑侍郎，累迁中书郎、国子博士、尚书左丞。
+几卿详悉故实，仆射徐勉每有疑滞，多询访之。
+然性通脱，会意便行，不拘朝宪。
+尝预乐游苑宴，不得醉而还，因诣道边酒垆，停车褰幔，与车前三驺对饮，时观者如堵，几卿处之自若。
+后以在省署，夜著犊鼻裈，与门生登阁道饮酒酣呼，为有司纠奏，坐免官。
+寻起为国子博士，俄除河东太守，秩未满，陈疾解。
+寻除太子率更令，迁镇卫南平王长史。
+普通六年，诏遣领军将军西昌侯萧渊藻督众军北伐，几卿启求行，擢为军师长史，加威戎将军。
+军至涡阳退败，几卿坐免官。
+居宅在白杨石井，朝中交好者载酒从之，宾客满坐。
+时左丞庾仲容亦免归，二人意志相得，并肆情诞纵，或乘露车历游郊野，既醉则执鐸挽歌，不屑物议。
+湘东王在荆镇，与书慰勉之。
+几卿答曰： 下官自奉违南浦，卷迹东郊，望日临风，瞻言伫立。仰寻惠渥，陪奉游宴，漾桂棹于清池，席落英于曾岨。
+translation: 
+Prince Wenhui of Qi personally presided over the examination. He said to Wang Jian, the prince of the country, who was offering wine, "Xie Jiqing's original specialty is to be proficient in metaphysics, and now he can be tested on the classics and meanings."
+Wang Jian asked the questions according to Prince Wenhui's wishes. Xie Jiqing answered the questions correctly and spoke fluently. Prince Wenhui praised Xie Jiqing greatly.
+Wang Jian said to people: Xie Chaozong has a successor.
+When Xie Jiqing grew up, he was very studious. He read extensively and had literary talent.
+When he first became an official, he served as a regular attendant of Yuzhang Kingdom. After his meritorious service, he moved to Cao Xing, a chariot and cavalry officer, and joined the army. He served as the prime minister of the country and held wine ceremonies. He left the capital and served as the order of Ningguo. He also entered the capital to supplement the records of the lieutenant of the Shangshu Palace and the Taiwei of Jin'an King.
+In the early years of Tianjian, Xie Jiqing was appointed as the Sangonglang of the Prince of Poyang who conquered the captives, and soon he was appointed as the secretary and censor.
+In the past, when Lang Guan was transferred to the post of Shi Yushi, people jokingly called him "Nan Ben".
+Xie Jiqing felt very frustrated because of this. He often complained that he was ill and stopped interfering in the affairs of the Taifu government.
+Xie Jiqing moved to the position of Sanqi Shilang, Zhongshu Lang, Guozi Doctor, Shangshu Zuocheng.
+Xie Jiqing understood the old affairs and routines in detail. Xu Mian, the servant, often asked him every time he encountered a problem.
+However, Xie Jiqing was open-minded by nature and did not stick to trivial matters. He would do things that suited his heart and was not bound by court laws.
+He once participated in a banquet at Le Youyuan and came back without getting drunk. He stopped the car at a roadside restaurant on his way home, raised the curtains, and sat in the car to have a drink with three attendants and grooms in front of the car. The onlookers at that time were like a wall. Xie Jiqing took it calmly as if nothing had happened.
+Later, Xie Jiqing was punished by a supervisor because he was wrapped up in the imperial office, wore shorts at night, and his disciples drank and shouted in the pavilion. He was found guilty and removed from his official position.
+Soon he was appointed as Doctor of the State, and not long after he was appointed as the governor of Hedong. Before his term was completed, he reported that he was ill and was dismissed.
+Soon, Xie Jiqing was appointed as the crown prince and led the order, and was moved to the post of Zhenwei Nanping Wang Changshi.
+In the sixth year of Ordinary Years, the emperor issued an edict to send the leading general Xichang Hou Xiao Yuanzao to lead various troops in the Northern Expedition. Xie Jiqing petitioned to accompany the army in the Northern Expedition, and was promoted to Army Division Commander Shi and Jiaweirong General.
+The Northern Expeditionary Army was defeated in Guoyang, and Xie Jiqing was convicted and removed from his official position.
+Xie Jiqing's residence was in Baiyang Shijing. Officials who were on good terms with him would often bring wine to his place, and his home was often full of guests.
+At that time, Zuo Cheng, Yu Zhongrong, was also exempted from official duties. The two of them had similar interests, were both dissolute and informal. Sometimes they would ride in an uncovered gondola to play in the countryside. When they were drunk, they would hit the golden bell with their hands and sing lamentations, ignoring people's comments.
+King Shu of Hunan was in Jingzhou and wrote letters to comfort and encourage him.
+Xie Jiqing wrote back and said: Your Majesty, I have been living in seclusion in the suburbs of Cambodia since I parted from you in Nanpu. Every time I look at the sun, I stand high in the wind and stand in the distance, recalling your kindness, recalling the scenes of accompanying banquets, driving the osmanthus table in the clear pool, and sitting on the ground on the fallen flowers on the top of the mountain to enjoy the scenery.
+
+summary:
+summary line 4: Xie Jiqing was from Yangxia. His great-grandfather was Xie Lingyun. He was a child prodigy. He once threw himself into a river when his father was demoted. He was studious and had literary talent. He held various official positions, including Censor. He was open-minded and not bound by court laws. He was once dismissed for misconduct. He later petitioned to accompany the Northern Expedition but was dismissed after the army was defeated. He lived in seclusion, often drinking with friends. He died of illness. He had a collection of essays.
+
+Chunk 9: 
+original: 
+勰早孤，笃志好学。家贫不婚娶，依沙门僧祐，与之居处，积十余年，遂博通经论，因区别部类，录而序之。
+今定林寺经藏，勰所定也。
+天监初，起家奉朝请、中军临川王宏引兼记室，迁车骑仓曹参军。
+出为太末令，政有清绩。
+除仁威南康王记室，兼东宫通事舍人。
+时七庙飨荐已用蔬果，而二郊农社犹有牺牲。
+勰乃表言二郊宜与七庙同改，诏付尚书议，依勰所陈。
+迁步兵校尉，兼舍人如故。
+昭明太子好文学，深爱接之。
+初，勰撰《文心雕龙》五十篇，论古今文体，引而次之。
+其序曰：
+夫文心者，言为文之用心也。
+昔涓子《琴心》，王孙《巧心》，心哉美矣夫，故用之焉。
+古来文章，以雕纟辱成体，岂取驺奭群言雕龙也。
+夫宇宙绵邈，黎献纷杂，拔萃出类，智术而已。
+岁月飘忽，性灵不居，腾声飞实，制作而已。
+夫肖貌天地，禀性五才，拟耳目于日月，方声气乎风雷，其超出万物，亦已灵矣。
+形甚草木之脆，名逾金石之坚，是以君子处世，树德建言，岂好辩哉？不得已也。
+予齿在逾立，尝夜梦执丹漆之礼器，随仲尼而南行，旦而寤，乃怡然而喜。
+大哉圣人之难见也！乃小子之垂梦欤！
+自生人以来，未有如夫子者也。
+translation: 
+Liu Xie lost his father in his early years. He was determined, fond of learning, and from a poor family. He did not get married, but relied on the monk Sengyou and lived with the monks. After more than ten years, he became proficient in the Buddhist Tripitaka. He divided the categories and arranged the collections.
+The scriptures currently collected in Dinglin Temple were compiled by Liu Xie.
+In the early years of Tianjian, Liu Xiechu became an official and was invited by the court. Xiao Hong, the king of Linchuan in the Chinese army, chose him as a concurrent secretary. He also moved to the chariot and cavalry warehouse to join the army.
+Liu Xie came to Beijing to serve as Tai Mo Ling, and he had a clean and honest government record.
+He was also awarded the title of Renwei Nankang Wang Jishi, and also the general secretary of the Cambodian palace.
+At that time, the sacrifices offered to the Seven Temples had switched to fruits and vegetables, but cattle, sheep, and hogs were still used as sacrifices in the suburbs to worship heaven and earth and to worship the gods of agriculture and shrines.
+Liu Xie then went to the table and suggested that the rituals of offering sacrifices to heaven and earth in the suburbs should be changed in the same way as those of offering sacrifices to the seven temples, and that the sacrifices should also use fruits and vegetables. The emperor issued an edict and handed it over to the minister for deliberation, and finally decided to follow Liu Xie's report.
+Liu Xie was moved to the post of captain of the infantry school, but his concurrent post remained unchanged.
+Prince Zhaoming liked literary people. He admired Liu Xie and had close contacts with Liu Xie.
+At first, Liu Xie wrote fifty chapters in "The Literary Mind and the Carving of Dragons", discussing ancient and modern literary styles, which he compiled and arranged in order.
+The preface to "Wen Xin Diao Long" says:
+Wenxin refers to the intention of writing an article.
+In the past, Juanzi wrote "Qin Xin" and Wang Tzu wrote "Qiao Xin". Because the meaning of "heart" expressed is honest and perfect, they used it as the title of their books.
+Since ancient times, writing articles has relied on carving and decoration. I am afraid it is based on the example of Ding Xi, so everyone calls writing articles Diaolong.
+Throughout the ages, the world has been filled with mediocre and sage people, and those who stand out only rely on their intelligence and strategy.
+Time will pass quickly, and human intelligence cannot last forever. If you want to pass down your reputation and career, you can only rely on writing.
+The human form symbolizes heaven and earth, and inherits nature from the five elements. The ears and eyes are like the sun and moon, and the voice is like wind and thunder. Human beings are beyond all things and can be regarded as the most supernatural.
+However, the human body is more fragile than grass and trees, but reputation can be stronger than gold and stone and last forever. Therefore, when a gentleman lives in the world, he wants to establish meritorious deeds and write books. This is not because he likes to argue, but because he has no choice but to build reputation!
+I was already in my thirties, and one night I dreamed that I was following Confucius southward with a red lacquer sacrificial vessel in my hand. When I woke up in the morning, I felt very happy.
+Great saints are rare to see, and now he condescended to appear in the dream of a nobody like me!
+Since the beginning of mankind, there has never been a saint like Confucius.
+
+summary:
+summary line 5: Liu Xie, courtesy name Yanhe, was from Ju. He lost his father early, did not marry, and lived with a monk, becoming proficient in Buddhist scriptures. He became an official in early Tianjian. He suggested changing suburban sacrifices to fruits and vegetables, which was adopted. Prince Zhaoming admired him. He wrote "The Literary Mind and the Carving of Dragons" in fifty chapters. The preface explains his motivation, stating that a gentleman wants to establish merit and write books. He dreamed of following Confucius. He argues that articles are branches of classics. He criticizes previous literary critics like Cao Pi and Lu Ji for being incomplete or trivial. His book discusses rhymed and unrhymed passages, analyzes emotions and literary talents, and covers various aspects of writing. He sought evaluation from Shen Yue, who valued the book. Liu Xie later became a monk, changing his name to Huidi, and died less than a year later.
+
+Chunk 12: 
+original: 
+籍七岁能属文。及长，好学博涉，有才气，乐安任昉见而称之。
+尝于沈约坐赋得《咏烛》，甚为约赏。
+齐末，为冠军行参军，累迁外兵、记室。
+天监初，除安成王主簿、尚书三公郎、廷尉正。
+历余姚、钱塘令，并以放免。
+久之，除轻车湘东王谘议参军，随府会稽。
+郡境有云门、天柱山，籍尝游之，或累月不反。
+至若邪溪赋诗，其略云： 蝉噪林逾静，鸟鸣山更幽。
+当时以为文外独绝。
+还为大司马从事中郎，迁中散大夫，尤不得志，遂徒行市道，不择交游。
+湘东王为荆州，引为安西府谘议参军，带作塘令。
+不理县事，日饮酒，人有讼者，鞭而遣之。
+少时，卒。
+文集行于世。
+子碧，亦有文才，先籍卒。
+何思澄，字元静，东海郯人。
+父敬叔，齐征东录事参军、余杭令。
+思澄少勤学，工文辞。
+起家为南康王侍郎，累迁安成王左常侍，兼太学博士，平南安成王行参军，兼记室。
+随府江州，为《游庐山诗》，沈约见之，大相称赏，自以为弗逮。
+约郊居宅新构阁斋，因命工书人题此诗于壁。
+傅昭常请思澄制《释奠诗》，辞文典丽。
+除廷尉正。
+天监十五年，敕太子詹事徐勉举学士入华林撰《遍略》，勉举思澄等五人以应选。
+迁治书侍御史。
+宋、齐以来，此职稍轻，天监初始重其选。车前依尚书二丞给三驺，执盛印青囊，旧事纠弹官印绶在前故也。
+久之，迁秣陵令，入兼东宫通事舍人。
+除安西湘东王录事参军，兼舍人如故。
+时徐勉、周舍以才具当朝，并好思澄学，常递日招致之。
+昭明太子薨，出为黟县令。
+迁除宣惠武陵王中录事参军，卒官，时年五十四。
+translation: 
+Wang Ji could write articles when he was seven years old. When he grew up, he was very studious, read extensively in books, and was talented. Le'an Renla was very impressed when he saw him.
+Wang Ji was once a guest at Shen Yue's house and composed an impromptu poem called "Yong Candle", which Shen Yue appreciated very much.
+At the end of the Qi Dynasty, Wang Ji served as a champion and joined the army. After accumulating merit, he was promoted to a foreign soldier and a reporter.
+In the early years of Tianjian, the royal status was removed and he was granted the title of Chief Secretary of King Ancheng, Sangonglang of Shangshu, and Tingweizheng.
+Successive Yuyao and Qiantang magistrates were dismissed from office because of their misconduct.
+After a long time, the royal status was revoked and granted the title of Qingchao. King Xiangshu consulted to join the army and followed the palace to Kuaiji.
+There are Yunmen Mountain and Tianzhu Mountain in Kuaiji County. Wang Ji once visited these two mountains, and sometimes he stayed in the mountains for several months without returning home.
+Wang Ji wrote a poem when he went to Ruoxie Creek. One of the lines said: The forest with noisy cicadas is more quiet, and the mountain with singing birds is even more secluded.
+At that time, people believed that the implication of these two poems was unparalleled.
+Wang Ji returned to the capital and served as Grand Sima, working as a lieutenant, and moved to the central government as a doctor. Wang Ji felt particularly frustrated, so he roamed on the market road on foot and interacted with people at will.
+The king of eastern Hunan was appointed as the governor of Jingzhou, and he promoted Wang Ji to Anxi Prefecture to consult and join the army, and also served as Tangling.
+Wang Ji did not deal with the affairs of the county, but drank alcohol every day. Some people came to the county government to sue, so Wang Ji ordered them to be whipped and then let them go.
+Wang Ji died soon after.
+There are collections of Wang Ji's writings that are circulated in the world.
+Wang Ji's son, Wang Bi, was also very talented and died earlier than Wang Ji.
+He Sicheng, whose courtesy name is Yuanjing, was born in Tan, Donghai.
+His father, Liu Jingshu, served as Zhengshu Lushi, joined the army, and was ordered to Yuhang during the Qi Dynasty.
+He Sicheng has been diligent and studious since he was a child, and is good at writing articles.
+He became an official at home and served as the minister of King Nankang. He was promoted to Zuochangshi of King Ancheng and a doctor of Taixue. After defeating King Ancheng of Nankang, he joined the army and also served as a recorder.
+He Sicheng went to Si with the prince and wrote "Poetry on a Tour to Mount Lu". After reading this poem, he admired it very much and thought that his own work could not catch up with this poem.
+Shen Yue built a new study in his suburban residence, and Shen Yue ordered someone skilled in calligraphy to inscribe this poem on the wall of the study.
+Fu Zhao once asked He Sicheng to write "Shidian Poems", with elegant and gorgeous diction.
+He Sicheng was dismissed and awarded the title of Tingweizheng.
+In the 15th year of Tianjian, Emperor Gaozu ordered Prince Zhan Shi Xu Mian to recommend bachelors to Hualin Garden to compile the "Qing Lue". Xu Mian recommended He Sicheng and five other people to be selected.
+He Sicheng moved to the post of Censor and Censor.
+Since the Song and Qi Dynasties, this official position has gradually been ignored. In the early years of Liang Tianjian, Liang Tianjian paid attention to the selection of the censor. According to the specifications of the two ministers, three servants were placed in front of the car, holding a green bag containing the official seal. This arrangement is because according to the old practice, the seals and ribbons of officials who correct illegal activities are placed in front of the car.
+After a long time, He Sicheng was moved to the position of moling magistrate, and he entered the dynasty and served as the general manager of the East Palace.
+In addition to being granted the title of Lu Shi by King Shu of Anxi and Xiang to join the army, his post as a layman remained unchanged.
+At that time, Xu Mian and Zhou She were both in charge of political affairs in the court with their talents and abilities. They both admired He Sicheng's talents and often took turns inviting him to have discussions.
+After the death of Prince Zhaoming, He Sicheng came to Beijing to serve as the magistrate of Yi County.
+He moved to Xuanhui and Wuling Wangzhonglushi and joined the army. He died during his tenure at the age of fifty-four.
+
+summary:
+summary line 6: Wang Ji, courtesy name Wenhai, was from Linyi. He could write at seven. He was talented and once wrote a poem that Shen Yue appreciated. He held various official positions, including magistrate, but was dismissed for misconduct. He visited mountains in Kuaiji, sometimes staying for months. He wrote a famous poem with the line "The forest with noisy cicadas is more quiet." He died soon after. His son Wang Bi died before him.
+
+Chunk 13: 
+original: 
+文集十五卷。
+初，思澄与宗人逊及子朗俱擅文名，时人语曰： 东海三何，子朗最多。
+思澄闻之，曰： 此言误耳。
+如其不然，故当归逊。
+思澄意谓宜在己也。
+子朗，字世明，早有才思，工清言，周舍每与共谈，服其精理。
+尝为《败冢赋》，拟庄周马棰，其文甚工。
+世人语曰： 人中爽爽何子朗。
+历官员外散骑侍郎，出为固山令。卒，时年二十四。
+文集行于世。
+刘杳，字士深，平原平原人也。
+祖乘民，宋冀州刺史。
+父闻慰齐东阳太守，有清绩，在《齐书·良政传》。
+杳年数岁，征士明僧绍见之，抚而言曰： 此儿实千里之驹。
+十三，丁父忧，每哭，哀感行路。
+天监初，为太学博士、宣惠豫章王行参军。
+杳少好学，博综群书，沈约、任昉以下，每有遗忘，皆访问焉。
+尝于约坐语及宗庙牺樽，约云： 郑玄答张逸，谓为画凤皇尾娑娑然。
+今无复此器，则不依古。
+杳曰： 此言未必可按。
+古者樽，皆刻木为鸟兽，凿顶及背，以出内酒。
+顷魏世鲁郡地中得齐大夫子尾送女器，有牺樽作牺牛形；晋永嘉贼曹嶷于青州发齐景公冢，又得此二樽，形亦为牛象。
+二处皆古之遗器，知非虚也。
+约大以为然。
+约又云： 何承天《纂文》奇博，其书载张仲师及长颈王事，此何出？
+杳曰： 仲师长尺二寸，唯出《论衡》。
+长颈是毘骞王，硃建安《扶南以南记》云：古来至今不死。
+约即取二书寻检，一如杳言。
+translation: 
+He Sicheng has fifteen volumes of collected works.
+In the past, He Sicheng, He Xun and He Zilang from the same clan were all famous for being good at writing articles. At that time, people said: Among the three in the East China Sea, He Zilang is the most talented.
+He Sicheng heard this and said: This is wrong.
+As for what I have to say, He Xun should still be considered the most talented.
+What He Sicheng meant by this was that the reputation of being the most talented should go to himself.
+He Zilang, also known as Shiming, was very talented in his early years. He had unique insights and was good at talking about mystical principles. Zhou She often talked with him and admired his exquisite mystical principles.
+He Zilang once wrote "Ode to the Lost Tomb", which was modeled after Zhuang Zhou's "Pian of Joy" about the horse beating the skull. The writing is very exquisite.
+At that time, people said: He Zilang is handsome and outstanding.
+He held various official positions, including serving as a minister of cavalry outside the country, and went to Beijing to serve as a national mountain magistrate. During this period, he died at the age of twenty-four.
+There are collections of articles circulating in the world.
+Liu Yao, courtesy name Shishen, was from Pingyuan.
+His grandfather Liu Chengmin was the governor of Jizhou during the Song Dynasty.
+His father, Liu Wenwei, was the prefect of Shuyang during the Qi Dynasty. He had a clean and honest political record. Liu Wenwei's deeds are recorded in the "Book of Qi". In "The Biography of Good Government".
+When Liu Yao was only a few years old, Zhengshi Mingsengshao saw him, patted him and said: This child is indeed a thousand-mile horse.
+When Liu Yao was thirteen years old, his father passed away. He cried every time at the funeral, and his grief moved everyone on the road.
+In the early years of Tianjian, Liu Yao was appointed as a doctor of Taixue, and Xuanhui Yuzhang Wang Xing joined the army.
+Liu Yao had been eager to learn since childhood, and was well-read and proficient in all kinds of books. Shen Yue, Ren Fang and the literati under them always asked Liu Yao if they had forgotten knowledge.
+Liu Yao once talked about the sacrificial bottles used to offer sacrifices to the ancestral temple at Shen Yue's guest table. Shen Yue said: Zheng Xuan answered Zhang Yi and said that the sacrificial bottles were painted with dancing phoenix tails.
+If there is no such wine vessel now, it means that the ancient regulations are not followed.
+Liu Yao said: Zheng Xuan's words may not be able to be used as a basis.
+In ancient times, wine vessels such as Zun and Yi were carved out of wood in the shape of birds and animals, with the top of the head and back cut open so that the wine in the vessel could be poured out.
+In the past, the Wei Dynasty excavated from the ground in Lu County the ritual utensils used by Qi Dafu Ziwei to accompany his daughter. Among them were sacrificial bottles, which were in the shape of an ox for sacrifice. During the Yongjia period of the Jin Dynasty, the traitor Cao Yi robbed Qi Jinggong's tomb in Qingzhou and obtained two such wine bottles, which were also shaped like oxen.
+What was excavated in both places were ritual vessels left over from ancient times. It can be seen from this that the wine vessels such as Zun and Yi wine vessels carved out of wood into the shapes of birds and animals are not fake.
+Shen Yue thought Liu Yao was right.
+Shen Yue also said: He Chengtian's "Compilation" is a very profound book. It records the affairs of Master Zhang Zhong and the Long-necked King. Where did this incident come from?
+Liu Yao said: Zhang Zhongshi was one foot and two inches long. This record is only found in "Lunheng".
+The long-necked king is King Biqian. Zhu Jianan's "Funan Yinan Ji" said: The long-necked king has not died from ancient times to the present.
+Shen Yue took the two books to search and found that they were all as Liu Cha said.
+
+summary:
+summary line 7: He Sicheng, courtesy name Yuanjing, was from Tan. He was diligent and good at writing. He held various official positions. Shen Yue admired his poem and had it inscribed on his wall. He was recommended to compile "Qing Lue." He moved to the position of Censor. He was knowledgeable and admired by Xu Mian and Zhou She. He died at fifty-four. He had fifteen volumes of collected works. He once said that He Xun was the most talented among the three Hes, but meant the reputation should go to himself. He Zilang, also from the same clan, was talented and died at twenty-four.
+
+Chunk 13: 
+original: 
+文集十五卷。
+初，思澄与宗人逊及子朗俱擅文名，时人语曰： 东海三何，子朗最多。
+思澄闻之，曰： 此言误耳。
+如其不然，故当归逊。
+思澄意谓宜在己也。
+子朗，字世明，早有才思，工清言，周舍每与共谈，服其精理。
+尝为《败冢赋》，拟庄周马棰，其文甚工。
+世人语曰： 人中爽爽何子朗。
+历官员外散骑侍郎，出为固山令。卒，时年二十四。
+文集行于世。
+刘杳，字士深，平原平原人也。
+祖乘民，宋冀州刺史。
+父闻慰齐东阳太守，有清绩，在《齐书·良政传》。
+杳年数岁，征士明僧绍见之，抚而言曰： 此儿实千里之驹。
+十三，丁父忧，每哭，哀感行路。
+天监初，为太学博士、宣惠豫章王行参军。
+杳少好学，博综群书，沈约、任昉以下，每有遗忘，皆访问焉。
+尝于约坐语及宗庙牺樽，约云： 郑玄答张逸，谓为画凤皇尾娑娑然。
+今无复此器，则不依古。
+杳曰： 此言未必可按。
+古者樽，皆刻木为鸟兽，凿顶及背，以出内酒。
+顷魏世鲁郡地中得齐大夫子尾送女器，有牺樽作牺牛形；晋永嘉贼曹嶷于青州发齐景公冢，又得此二樽，形亦为牛象。
+二处皆古之遗器，知非虚也。
+约大以为然。
+约又云： 何承天《纂文》奇博，其书载张仲师及长颈王事，此何出？
+杳曰： 仲师长尺二寸，唯出《论衡》。
+长颈是毘骞王，硃建安《扶南以南记》云：古来至今不死。
+约即取二书寻检，一如杳言。
+translation: 
+He Sicheng has fifteen volumes of collected works.
+In the past, He Sicheng, He Xun and He Zilang from the same clan were all famous for being good at writing articles. At that time, people said: Among the three in the East China Sea, He Zilang is the most talented.
+He Sicheng heard this and said: This is wrong.
+As for what I have to say, He Xun should still be considered the most talented.
+What He Sicheng meant by this was that the reputation of being the most talented should go to himself.
+He Zilang, also known as Shiming, was very talented in his early years. He had unique insights and was good at talking about mystical principles. Zhou She often talked with him and admired his exquisite mystical principles.
+He Zilang once wrote "Ode to the Lost Tomb", which was modeled after Zhuang Zhou's "Pian of Joy" about the horse beating the skull. The writing is very exquisite.
+At that time, people said: He Zilang is handsome and outstanding.
+He held various official positions, including serving as a minister of cavalry outside the country, and went to Beijing to serve as a national mountain magistrate. During this period, he died at the age of twenty-four.
+There are collections of articles circulating in the world.
+Liu Yao, courtesy name Shishen, was from Pingyuan.
+His grandfather Liu Chengmin was the governor of Jizhou during the Song Dynasty.
+His father, Liu Wenwei, was the prefect of Shuyang during the Qi Dynasty. He had a clean and honest political record. Liu Wenwei's deeds are recorded in the "Book of Qi". In "The Biography of Good Government".
+When Liu Yao was only a few years old, Zhengshi Mingsengshao saw him, patted him and said: This child is indeed a thousand-mile horse.
+When Liu Yao was thirteen years old, his father passed away. He cried every time at the funeral, and his grief moved everyone on the road.
+In the early years of Tianjian, Liu Yao was appointed as a doctor of Taixue, and Xuanhui Yuzhang Wang Xing joined the army.
+Liu Yao had been eager to learn since childhood, and was well-read and proficient in all kinds of books. Shen Yue, Ren Fang and the literati under them always asked Liu Yao if they had forgotten knowledge.
+Liu Yao once talked about the sacrificial bottles used to offer sacrifices to the ancestral temple at Shen Yue's guest table. Shen Yue said: Zheng Xuan answered Zhang Yi and said that the sacrificial bottles were painted with dancing phoenix tails.
+If there is no such wine vessel now, it means that the ancient regulations are not followed.
+Liu Yao said: Zheng Xuan's words may not be able to be used as a basis.
+In ancient times, wine vessels such as Zun and Yi were carved out of wood in the shape of birds and animals, with the top of the head and back cut open so that the wine in the vessel could be poured out.
+In the past, the Wei Dynasty excavated from the ground in Lu County the ritual utensils used by Qi Dafu Ziwei to accompany his daughter. Among them were sacrificial bottles, which were in the shape of an ox for sacrifice. During the Yongjia period of the Jin Dynasty, the traitor Cao Yi robbed Qi Jinggong's tomb in Qingzhou and obtained two such wine bottles, which were also shaped like oxen.
+What was excavated in both places were ritual vessels left over from ancient times. It can be seen from this that the wine vessels such as Zun and Yi wine vessels carved out of wood into the shapes of birds and animals are not fake.
+Shen Yue thought Liu Yao was right.
+Shen Yue also said: He Chengtian's "Compilation" is a very profound book. It records the affairs of Master Zhang Zhong and the Long-necked King. Where did this incident come from?
+Liu Yao said: Zhang Zhongshi was one foot and two inches long. This record is only found in "Lunheng".
+The long-necked king is King Biqian. Zhu Jianan's "Funan Yinan Ji" said: The long-necked king has not died from ancient times to the present.
+Shen Yue took the two books to search and found that they were all as Liu Cha said.
+
+summary:
+summary line 8: Liu Yao, courtesy name Shishen, was from Pingyuan. He was studious and well-read. Shen Yue and Ren Fang often asked him about forgotten knowledge. He corrected Shen Yue's interpretation of ancient sacrificial bottles. He was knowledgeable about many things, including the origin of the "long-necked king." Shen Yue praised his writings. He held various official positions, including magistrate, and had a clean record. He was recommended to compile "Bianlue." He wrote "Lin Ting Fu," which Wang Sengru praised. He died at fifty. He was honest and frugal. He wrote several books, including "Ya Ya" and "Chu Ci Cao Mu Shu."
+
+Chunk 16: 
+original: 
+谢征，字玄度，陈郡阳夏人。
+高祖景仁，宋尚书左仆射。
+祖稚，宋司徒主簿。
+父璟，少与从叔朓俱知名。
+齐竟陵王子良开西邸，招文学，璟亦预焉。
+隆昌中，为明帝骠骑谘议参军，领记室。
+迁中书郎，晋安内史。
+高祖平京邑，为霸府谘议、梁台黄门郎。
+天监初，累迁司农卿、秘书监、左民尚书、明威将军、东阳太守。
+高祖用为侍中，固辞年老，求金紫，未序，会疾卒。
+征幼聪慧，璟异之，常谓亲从曰： 此儿非常器，所忧者寿；若天假其年，吾无恨矣。
+既长，美风采，好学善属文。
+初为安西安成王法曹，迁尚书金部三公二曹郎、豫章王记室，兼中书舍人。
+时魏中山王元略还北，高祖饯于武德殿，赋诗三十韵，限三刻成。
+征二刻便就，其辞甚美，高祖再览焉。
+又为临汝侯渊猷制《放生文》，亦见赏于世。
+中大通元年，以父丧去职，续又丁母忧。
+诏起为贞威将军，还摄本任。
+服阕，除尚书左丞。
+三年，昭明太子薨，高祖立晋安王纲为皇太子，将出诏，唯召尚书左仆射何敬容、宣惠将军孔休源及征三人与议。
+征时年位尚轻，而任遇已重。
+四年，累迁中书郎，鸿胪卿、舍人如故。
+六年，出为北中郎豫章王长史、南兰陵太守。
+大同二年，卒官，时年三十七。
+友人琅邪王籍集其文为二十卷。
+translation: 
+Xie Zheng, courtesy name Xuandu, was from Yangxia, Chen County.
+His great-great-grandfather Xie Jingren was the minister Zuopushe in the Song Dynasty.
+Grandfather Xie Zhi was the chief secretary of Situ during the Song Dynasty.
+Father Xie Jing was as famous as his cousin Xie Tiao when he was young.
+Xiao Ziliang, the king of Qi Jingling, built the west residence and recruited literary people.
+Xie Jing was also recruited. During the Longchang period, Xie Jing served as Emperor Ming's hussar to consult on joining the army and headed the record office.
+He was moved to the post of Zhongshu Lang and the internal history of Jin'an.
+The capital was pacified with a high cushion, the embankment was invited to serve as a consultant to the Bafu, and the Huangmenlang built a platform.
+In the early years of Tianjian, Xie Qiang accumulated merit and was promoted to Sinong Qing, Secretary Supervisor, Zuo Min Shangshu, Mingwei General, and Shuyang Prefect.
+Emperor Gaozu wanted to appoint Xie Jing as his minister, but Yingdi refused on the grounds of old age and asked for the post of gold seal and purple ribbon. Before he could be appointed to an official position according to rank, Xie Jing died of illness.
+Xie Zheng was smart since he was a child, and he was considered to have excellent talents. He often said to his relatives: This child is not an ordinary person. What is worrying is his life span; if God gives him a long life, I will have no regrets.
+When Xie Zheng grew up, he was very handsome, fond of learning, and good at writing articles.
+Xie Zheng was initially appointed as Facao, King of Chisheng of Anxi, and then moved to the post of Sangong Ercaolang of the Ministry of Jin of Shangshu, the Prince of Yuzhang, and a member of Zhongshushe.
+He also moved to Pingbei to consult and join the army, and concurrently served as minister of Hongshan. His position remained unchanged. At that time, Mengjian, the king of Zhongshan in Wei, returned to the north, and he went to Wushanyao to pay his last respects. Emperor Gaozu asked his ministers to compose thirty rhymes of poetry at the banquet, and the poem was limited to three seconds to be completed.
+Xie Zheng finished the poem in a second. The diction was beautiful and Gao Dan read it again and again.
+Xie Zheng also wrote Linru Houyuan's "Release Essay", which was also appreciated by contemporary people.
+In the first year of Zhongdatong, Tangtang left his job to mourn the death of his father, and then his mother passed away.
+The emperor issued an edict and ordered Xie Zheng to resume his duties as General Zhenwei during the mourning period and return to Beijing to temporarily take charge of his original duties.
+After the mourning period expired, he was awarded the title of Minister Zuocheng.
+In the third year of Zhongdatong, Prince Zhaoming passed away, and Emperor Gaozu appointed Dong Wang as the crown prince. When the edict was about to be issued, Emperor Gaozu just summoned Shangshu Zuopushe He Jingrong, Xuanhui general Kong Shudi and Xie Man to discuss with them.
+At that time, Yaotang was still young and his position was not high, but he was appointed and favored very generously.
+In the fourth year, Xie Luan was promoted to Zhongshulang due to his meritorious service, while the positions of Hongluqing and Sheren remained unchanged.
+In the sixth year of Zhongdatong, Xie Zheng went to Beijing and served as Beizhonglangsui Tonggongshi and Chenluqie prefect.
+Xie Zheng died during his tenure at the age of thirty-seven.
+Xie Zheng's friend Langye Wangshuan collected his manuscripts and compiled them into twenty volumes.
+
+summary:
+summary line 9: Xie Zheng, courtesy name Xuandu, was from Yangxia. He was smart and handsome, fond of learning. He held various official positions. He once finished a poem in one second at a banquet, which Emperor Gaozu admired. He was appointed to discuss the appointment of a new crown prince. He died at thirty-seven. His friend Wang Shuan compiled his manuscripts.
+
+Chunk 17: 
+original: 
+臧严，字彦威，东莞莒人也。
+曾祖焘，宋左光禄。
+祖凝，齐尚书右丞。
+父夌，后军参军。
+严幼有孝性，居父忧以毁闻。
+孤贫勤学，行止书卷不离于手。
+初为安成王侍郎，转常侍。
+从叔未甄为江夏郡，携严之官，于涂作《屯游赋》，任昉见而称之。
+又作《七算》，辞亦富丽。
+性孤介，于人间未尝造请。仆射徐勉欲识之，严终不诣。
+迁冠军行参军、侍湘东王读，累迁王宣惠轻车府参军，兼记室。
+严于学多所谙记，尤精《汉书》，讽诵略皆上口。
+王尝自执四部书目以试之，严自甲至丁卷中，各对一事，并作者姓名，遂无遗失，其博洽如此。
+王迁荆州，随府转西中郎安西录事参军。
+历监义阳、武宁郡，累任皆蛮左，前郡守常选武人，以兵镇之；严独以数门生单车入境，群蛮悦服，遂绝寇盗。
+王入为石头戍军事，除安右录事。
+王迁江州，为镇南谘议参军，卒官。
+文集十卷。
+伏挺，字士标。
+父芃，为豫章内史，在《良吏传》。
+挺幼敏寤，七岁通《孝经》、《论语》。
+及长，有才思，好属文，为五言诗，善效谢康乐体。
+父友人乐安任昉深相叹异，常曰： 此子目下无双。
+齐末，州举秀才，对策为当时第一。
+高祖义师至，挺迎谒于新林，高祖见之甚悦，谓曰 颜子 ，引为征东行参军，时年十八。
+天监初，除中军参军事。
+宅居在潮沟，于宅讲《论语》，听者倾朝。
+迁建康正，俄以劾免。
+久之，入为尚书仪曹郎，迁西中郎记室参军，累为晋陵、武康令。
+罢县还，仍于东郊筑室，不复仕。
+挺少有盛名，又善处当世，朝中势素，多与交游，故不能久事隐静。
+时仆射徐勉以疾假还宅，挺致书以观其意曰：
+昔士德怀顾，恋兴数日；辅嗣思友，情劳一旬。
+translation: 
+Zang Yan, courtesy name Yanwei, was born in Ju, Dongguan.
+His great-grandfather Zang Tao was posthumously granted the title of Dr. Zuo Guanglu during the Song Dynasty.
+His grandfather Zang Ning was appointed Minister Youcheng during the Qi Dynasty.
+His father, Zang Leng, served in the army and joined the army.
+Zang Yan had a filial character when he was young. He became famous for his grief-stricken body during the mourning for his father.
+He lost his father and his family was poor, but he was diligent and studious and never put down his books.
+Initially, he was appointed as the Minister of King Ancheng, and then as the Permanent Minister.
+Zang Yan's uncle Zang Weizhen was appointed as the prefect of Jiangxia and took Zang Yan with him to take office. Zang Yan wrote "Tuenyou Fu" during the trip. Ren Fang admired it very much when he saw the "Tuenyou Fu".
+Zang Yan also wrote "Seven Calculations", and the diction is also very rich and gorgeous.
+Zang Yan was upright and upright by nature, and did not follow the rules. He had never paid a visit to Xu Mian in this world. Xu Mian wanted to get to know him, but Zang Yan still refused to pay him a visit.
+Zang Yan moved to the position of champion to join the army and served as an assistant to King Shu of Hunan Province. He also accumulated merit and moved to the Qingche Mansion of King Xuanhui of Hunan Province to join the army and concurrently served as the recorder's office.
+Zang Yan learned and memorized a lot of knowledge, and was especially proficient in "Han Shu". He recited it skillfully and blurted it out.
+The King of Xiangdong once tested Zang Yan with four bibliographies. From Volume A to Volume D, Zang Yan answered one thing asked by King Xiangshu in each volume, as well as the name of the author. Zang Yan is so knowledgeable.
+King Shu of Hunan moved to serve as the governor of Jingzhou, and Zang Yan followed the palace and was transferred to Xizhonglang Anxi Lushi to join the army.
+Wei Yan successively served as the governor of Yiyang County and the prefect of Wuning. He served many times in barbarian areas. In the past, county governors often selected military generals and led troops to guard the area. However, Zang Yan only led a few disciples to ride in a car and entered the county. The barbarians were convinced, so the banditry also disappeared.
+The king of eastern Hunan came to Beijing and was appointed as Shitou garrison. Zang Yan was dismissed and appointed as Anyou Lushi.
+King Shu of Hunan moved to be the governor of Jiangzhou, and Zang Yan was appointed as Zhennan counselor to join the army.
+Zang Yan died during his tenure. He has ten volumes of collected works.
+The word "Futing" is Shibiao.
+His father Fu Qu served as the internal history of Yuzhang. Fu Qu's deeds were recorded in "Biography of Good Officials".
+Futing was smart since he was a child. He could read "The Classic of Filial Piety" and "The Analects of Confucius" by the age of seven.
+When he grew up, he was very talented and liked to write articles. His five-character poems were good at imitating Xie Kangle's style.
+Futing's father's friend Le'an Renfang admired him deeply and thought he was a genius.
+Ren Fang once said: There is no other talent like Fu Ting in Beijing today. At the end of the Qi Dynasty, Fu Ting was promoted as a scholar in the state, and Fu Ting's countermeasures ranked first at that time.
+When Gaozu's rebel army came to the capital, Fu Ting rushed to Xinlin to meet the rebel army and pay homage to Gaozu. Gaozu was very happy to see him, called him "Yan Zi", and promoted him to join the army as Zheng Shuxing. Fu Ting was only eighteen years old at this time.
+In the early years of Tianjian, Fu Ting was awarded the title of military officer in the Chinese army.
+Fu Ting's residence was in Chaogou, and he lectured on "The Analects of Confucius" in his residence. Officials from all over the dynasty came to listen to him.
+Fu Ting moved to Jian Kangzheng, but was soon removed from office due to impeachment.
+After a long time, Fu Ting went to Beijing again and served as Shangshu Yi Caolang. He moved to Xizhonglang's Ji office and joined the army. He successively served as the order of Jinling and Wukang.
+After being relieved of his duties as county magistrate, he returned to the capital, built a house in the eastern suburbs, and stopped serving as an official.
+Fu Ting had a great reputation when he was young, and he got along well with people at that time. Most of the powerful ministers in important positions and idle officials without real power in the court had contacts with Fu Ting, so Fu Ting could not remain in retirement for a long time.
+At that time, Pushe Xu Mian asked for leave to go home because of illness. Fu Ting wrote to Xu Mian to gauge Xu Mian's thoughts. The letter said:
+In the past, when a scholar missed his old friend, his longing lingered for several days; when Wang Fusi missed his friend, he kept worrying about him for ten days.
+
+summary:
+summary line 10: Zang Yan, courtesy name Yanwei, was from Ju. He was filial and studious. He wrote "Tuenyou Fu," which Ren Fang admired. He was upright and did not follow rules. He was knowledgeable, especially in "Han Shu." He served as a county governor in barbarian areas, where he quelled banditry. He died during his tenure. He has ten volumes of collected works.
+
+Chunk 17: 
+original: 
+臧严，字彦威，东莞莒人也。
+曾祖焘，宋左光禄。
+祖凝，齐尚书右丞。
+父夌，后军参军。
+严幼有孝性，居父忧以毁闻。
+孤贫勤学，行止书卷不离于手。
+初为安成王侍郎，转常侍。
+从叔未甄为江夏郡，携严之官，于涂作《屯游赋》，任昉见而称之。
+又作《七算》，辞亦富丽。
+性孤介，于人间未尝造请。仆射徐勉欲识之，严终不诣。
+迁冠军行参军、侍湘东王读，累迁王宣惠轻车府参军，兼记室。
+严于学多所谙记，尤精《汉书》，讽诵略皆上口。
+王尝自执四部书目以试之，严自甲至丁卷中，各对一事，并作者姓名，遂无遗失，其博洽如此。
+王迁荆州，随府转西中郎安西录事参军。
+历监义阳、武宁郡，累任皆蛮左，前郡守常选武人，以兵镇之；严独以数门生单车入境，群蛮悦服，遂绝寇盗。
+王入为石头戍军事，除安右录事。
+王迁江州，为镇南谘议参军，卒官。
+文集十卷。
+伏挺，字士标。
+父芃，为豫章内史，在《良吏传》。
+挺幼敏寤，七岁通《孝经》、《论语》。
+及长，有才思，好属文，为五言诗，善效谢康乐体。
+父友人乐安任昉深相叹异，常曰： 此子目下无双。
+齐末，州举秀才，对策为当时第一。
+高祖义师至，挺迎谒于新林，高祖见之甚悦，谓曰 颜子 ，引为征东行参军，时年十八。
+天监初，除中军参军事。
+宅居在潮沟，于宅讲《论语》，听者倾朝。
+迁建康正，俄以劾免。
+久之，入为尚书仪曹郎，迁西中郎记室参军，累为晋陵、武康令。
+罢县还，仍于东郊筑室，不复仕。
+挺少有盛名，又善处当世，朝中势素，多与交游，故不能久事隐静。
+时仆射徐勉以疾假还宅，挺致书以观其意曰：
+昔士德怀顾，恋兴数日；辅嗣思友，情劳一旬。
+translation: 
+Zang Yan, courtesy name Yanwei, was born in Ju, Dongguan.
+His great-grandfather Zang Tao was posthumously granted the title of Dr. Zuo Guanglu during the Song Dynasty.
+His grandfather Zang Ning was appointed Minister Youcheng during the Qi Dynasty.
+His father, Zang Leng, served in the army and joined the army.
+Zang Yan had a filial character when he was young. He became famous for his grief-stricken body during the mourning for his father.
+He lost his father and his family was poor, but he was diligent and studious and never put down his books.
+Initially, he was appointed as the Minister of King Ancheng, and then as the Permanent Minister.
+Zang Yan's uncle Zang Weizhen was appointed as the prefect of Jiangxia and took Zang Yan with him to take office. Zang Yan wrote "Tuenyou Fu" during the trip. Ren Fang admired it very much when he saw the "Tuenyou Fu".
+Zang Yan also wrote "Seven Calculations", and the diction is also very rich and gorgeous.
+Zang Yan was upright and upright by nature, and did not follow the rules. He had never paid a visit to Xu Mian in this world. Xu Mian wanted to get to know him, but Zang Yan still refused to pay him a visit.
+Zang Yan moved to the position of champion to join the army and served as an assistant to King Shu of Hunan Province. He also accumulated merit and moved to the Qingche Mansion of King Xuanhui of Hunan Province to join the army and concurrently served as the recorder's office.
+Zang Yan learned and memorized a lot of knowledge, and was especially proficient in "Han Shu". He recited it skillfully and blurted it out.
+The King of Xiangdong once tested Zang Yan with four bibliographies. From Volume A to Volume D, Zang Yan answered one thing asked by King Xiangshu in each volume, as well as the name of the author. Zang Yan is so knowledgeable.
+King Shu of Hunan moved to serve as the governor of Jingzhou, and Zang Yan followed the palace and was transferred to Xizhonglang Anxi Lushi to join the army.
+Wei Yan successively served as the governor of Yiyang County and the prefect of Wuning. He served many times in barbarian areas. In the past, county governors often selected military generals and led troops to guard the area. However, Zang Yan only led a few disciples to ride in a car and entered the county. The barbarians were convinced, so the banditry also disappeared.
+The king of eastern Hunan came to Beijing and was appointed as Shitou garrison. Zang Yan was dismissed and appointed as Anyou Lushi.
+King Shu of Hunan moved to be the governor of Jiangzhou, and Zang Yan was appointed as Zhennan counselor to join the army.
+Zang Yan died during his tenure. He has ten volumes of collected works.
+The word "Futing" is Shibiao.
+His father Fu Qu served as the internal history of Yuzhang. Fu Qu's deeds were recorded in "Biography of Good Officials".
+Futing was smart since he was a child. He could read "The Classic of Filial Piety" and "The Analects of Confucius" by the age of seven.
+When he grew up, he was very talented and liked to write articles. His five-character poems were good at imitating Xie Kangle's style.
+Futing's father's friend Le'an Renfang admired him deeply and thought he was a genius.
+Ren Fang once said: There is no other talent like Fu Ting in Beijing today. At the end of the Qi Dynasty, Fu Ting was promoted as a scholar in the state, and Fu Ting's countermeasures ranked first at that time.
+When Gaozu's rebel army came to the capital, Fu Ting rushed to Xinlin to meet the rebel army and pay homage to Gaozu. Gaozu was very happy to see him, called him "Yan Zi", and promoted him to join the army as Zheng Shuxing. Fu Ting was only eighteen years old at this time.
+In the early years of Tianjian, Fu Ting was awarded the title of military officer in the Chinese army.
+Fu Ting's residence was in Chaogou, and he lectured on "The Analects of Confucius" in his residence. Officials from all over the dynasty came to listen to him.
+Fu Ting moved to Jian Kangzheng, but was soon removed from office due to impeachment.
+After a long time, Fu Ting went to Beijing again and served as Shangshu Yi Caolang. He moved to Xizhonglang's Ji office and joined the army. He successively served as the order of Jinling and Wukang.
+After being relieved of his duties as county magistrate, he returned to the capital, built a house in the eastern suburbs, and stopped serving as an official.
+Fu Ting had a great reputation when he was young, and he got along well with people at that time. Most of the powerful ministers in important positions and idle officials without real power in the court had contacts with Fu Ting, so Fu Ting could not remain in retirement for a long time.
+At that time, Pushe Xu Mian asked for leave to go home because of illness. Fu Ting wrote to Xu Mian to gauge Xu Mian's thoughts. The letter said:
+In the past, when a scholar missed his old friend, his longing lingered for several days; when Wang Fusi missed his friend, he kept worrying about him for ten days.
+
+summary:
+summary line 11: Fu Ting, courtesy name Shibiao. He was smart and talented, good at five-character poems. Ren Fang admired him. He met Emperor Gaozu at eighteen and was promoted. He lectured on "The Analects." He later built a house in the eastern suburbs and stopped serving. He wrote a letter to Xu Mian, expressing his desire for seclusion. Xu Mian replied, praising him but encouraging him to serve. Fu Ting later became an official again but was accused of accepting bribes. He hid as a Taoist priest. He later served under King Shaoling. He died during Hou Jing's rebellion. He wrote ten volumes of "Yi Shuo" and twenty volumes of collected works. His son, Fu Zhiming, served Hou Jing and died in prison.
+
+Chunk 21: 
+original: 
+初为安西法曹行参军。泳时已贵显，吏部尚书徐勉拟泳子晏婴为宫僚，泳垂泣曰： 兄子幼孤，人才粗可，愿以晏婴所忝回用之。
+勉许焉，因转仲容为太子舍人。
+迁安成王主簿。
+时平原刘孝标亦为府佐，并以强学为王所礼接。
+迁晋安功曹史。
+历为永康、钱唐、武康令，治县并无异绩，多被劾。
+久之，除安成王中记室，当出随府，皇太子以旧恩，特降饯宴，赐诗曰： 孙生陟阳道，吴子朝歌县。未若樊林举，置酒临华殿。
+时辈荣之。
+迁安西武陵王谘议参军。
+除尚书左丞，坐推纠不直免。
+仲容博学，少有盛名，颇任气使酒，好危言高论，士友以此少之。
+唯与王籍、谢几卿情好相得，二人时亦不调，遂相追随，诞纵酣饮，不复持检操。
+久之，复为谘议参军，出为黟县令。
+及太清乱，客游会稽，遇疾卒，时年七十四。
+仲容抄诸子书三十卷，众家地理书二十卷，《列女传》三卷，文集二十卷，并行于世。
+陆云公，字子龙，吴郡人也。
+祖闲，州别驾。
+父完，宁远长史。
+云公五岁诵《论语》、《毛诗》，九岁读《汉书》，略能记忆。
+从祖倕、沛国刘显质问十事，云公对无所失，显叹异之。
+既长，好学有才思。
+州举秀才。
+累迁宣惠武陵王、平西湘东王行参军。
+云公先制《太伯庙碑》，吴兴太守张纘罢郡经途，读其文叹曰： 今之蔡伯喈也。
+缵至都掌选，言之于高祖，召兼尚书仪曹郎，顷之即真，入直寿光省，以本官知著作郎事。
+俄除著作郎，累迁中书黄门郎，并掌著作。
+云公善弈棋，尝夜侍御坐，武冠触烛火，高祖笑谓曰： 烛烧卿貂。
+高祖将用云公为侍中，故以此言戏之也。
+是时天渊池新制鳊鱼舟，形阔而短，高祖暇日，常泛此舟，在朝唯引太常刘之遴、国子祭酒到溉、右卫硃异，云公时年位尚轻，亦预焉。
+其恩遇如此。
+太清元年，卒，时年三十七。
+高祖悼惜之，手诏曰： 给事黄门侍郎、掌著作陆云公，风尚优敏，后进之秀。
+translation: 
+When he first joined the army as Cao Xing of Anxi Fa, Yu Yong had already held a distinguished position at that time. Xu Mian, the Minister of Civil Affairs, planned to let Yu Yong's son Yu Yanying serve as an official of the prince. Yu Yong said to Xu Mian with tears: My brother's son Yu Zhongrong has been an orphan since he was a child, and he has a little talent. I hope to appoint him to the position that Yu Yanying will fill.
+Xu Mian agreed to Yu Yong's request and appointed Yu Zhongrong as the crown prince.
+Yu Zhongrong was moved to the position of chief administrator of King Ancheng.
+At that time, Pingyuan Liu Xiaobiao was also serving as a staff member in the palace. Both of them were treated politely by King Ancheng because of their diligent study.
+Yu Zhongrong moved to the post of King Gongcao Shi of Jin'an.
+He successively served as the magistrate of Yongkang, Qiantang, and Wukang, but had no outstanding performance in managing county affairs, and was often impeached.
+After a long time, Yu Zhongrong was dismissed and granted the title of Prince Ancheng's Zhongji Office, and he was about to leave the capital to follow the royal palace. Because Yu Zhongrong was formerly a vassal of the crown prince, the crown prince made an exception and held a farewell banquet because he missed his old relationship. The crown prince gave Yu Zhongrong a poem and said: Sun Sheng Zhiyang Road, Chaoge County, Wuzi, was not like Fan Linju, and set up wine in Linhua Palace.
+At that time, people thought it was a great honor to send Yu Zhongrong away.
+Yu Zhongrong moved to King Wuling of Anxi to consult and join the army.
+Later, he was awarded the title of Minister Zuocheng, but he was dismissed because he investigated the case and corrected the unfairness of impeachment officials.
+Yu Zhongrong was very knowledgeable and had a great reputation when he was young. However, he was very impulsive, used wine to drink, and liked to make upright and extraordinary remarks. His friends among the scholars looked down upon him because of this.
+Yu Zhongrong only had similar personalities and good friendships with Wang Ji, Xie Jiqing and others. Wang Ji and Xie Jiqing were not in harmony with everyone at that time, so the three of them socialized together, drank as much as they wanted, and no longer paid attention to ethics.
+After a long time, Yu Zhongrong was appointed as a consultant to join the army and left the capital to serve as the magistrate of Yi County.
+When the turmoil broke out during the Taiqing period, Yu Zhongrong lived in Kuaiji and died of illness at the age of seventy-four.
+Yu Zhongrong copied thirty volumes of books by various scholars, twenty volumes of geography books of various schools, three volumes of Biography of Women, and twenty volumes of collected works. These books are all circulated in the world.
+Lu Yungong, named Zilong, was from Wujun.
+His grandfather Lu Xian lived in Renzhou.
+His father, Lu Wan, had a long history with Ren Ningyuan.
+When Lu Yungong was five years old, he could recite "The Analects of Confucius" and "Mao Shi". When he was nine years old, he could read "Han Shu" and memorize everything.
+His grandfather Lu Bian and Pei Guo Liu Xian asked him about ten things in the "Book of Han", and he could answer them one by one without making any mistakes. Liu Xian was full of praise and thought he was different from ordinary people.
+When he grew up, Lu Yungong was studious and talented.
+He was elected as a scholar in the state.
+Lu Yun Gongjigong was transferred to the throne of Xuanhui, King of Wuling, and King of Pingxi, Xiangshu, to join the army.
+Lu Yungong originally wrote the "Taibo Temple Stele". Zhang Zuan, the governor of Wuxing, left his post and returned to the capital. On the way, he read the inscription written by Lu Yungong and said with emotion: This man is simply the contemporary Cai Bojie.
+After Zhang Zuan arrived in the capital, he was in charge of the selection of officials. He recommended Lu Yungong to Emperor Gaozu. Emperor Gaozu then called Lu Yungong to serve as the minister of Yi Cao Lang. He was soon appointed to this position and was assigned to Shouguang Province. He also used his original official position to know how to serve as a minister.
+Soon after, in addition to being awarded the title of Writer, he was moved to the post of Zhongshu Huangmenlang and was in charge of writing.
+Lu Yungong was good at playing Go. He once accompanied Gaozu at night. The crown he was wearing caught the light of a candle. Gaozu smiled and said to him: The candle burned the mink tail on your hat.
+Gaozu was about to appoint Lu Yungong as his minister, and his crown would be decorated with a mink tail, so Gaozu used these words to joke with Lu Yungong.
+At that time, a new bream boat was built in Tianyuanchi. The boat was wide and short. Gaozu often took this boat to ride on the waves in his spare time. Among the courtiers, he only brought Taichang Liu Zhilin, Guozi to Gai, and Youwei Zhu Yi. Lu Yungong was young at that time and his position was not high, but he was also among the courtiers who accompanied Gaozu on the boat.
+Emperor Gaozu's favor and favor towards him reached such an extent.
+In the first year of Taiqing, Lu Yungong passed away at the age of thirty-seven.
+Emperor Gaozu was deeply saddened by his death and wrote an edict in his own hand, saying: I serve as the minister of Huangmen and as Duke Lu Yungong. He is a rising star with beautiful demeanor and broad knowledge.
+
+summary:
+summary line 12: Yu Zhongrong, courtesy name Zhongrong, was from Geling. He lost his father young and was studious. He was appointed as a crown prince through his uncle's request. He was knowledgeable but impulsive and liked to drink. He was friends with Wang Ji and Xie Jiqing. He died at seventy-four. He copied many books and wrote several works.
+
+Chunk 21: 
+original: 
+初为安西法曹行参军。泳时已贵显，吏部尚书徐勉拟泳子晏婴为宫僚，泳垂泣曰： 兄子幼孤，人才粗可，愿以晏婴所忝回用之。
+勉许焉，因转仲容为太子舍人。
+迁安成王主簿。
+时平原刘孝标亦为府佐，并以强学为王所礼接。
+迁晋安功曹史。
+历为永康、钱唐、武康令，治县并无异绩，多被劾。
+久之，除安成王中记室，当出随府，皇太子以旧恩，特降饯宴，赐诗曰： 孙生陟阳道，吴子朝歌县。未若樊林举，置酒临华殿。
+时辈荣之。
+迁安西武陵王谘议参军。
+除尚书左丞，坐推纠不直免。
+仲容博学，少有盛名，颇任气使酒，好危言高论，士友以此少之。
+唯与王籍、谢几卿情好相得，二人时亦不调，遂相追随，诞纵酣饮，不复持检操。
+久之，复为谘议参军，出为黟县令。
+及太清乱，客游会稽，遇疾卒，时年七十四。
+仲容抄诸子书三十卷，众家地理书二十卷，《列女传》三卷，文集二十卷，并行于世。
+陆云公，字子龙，吴郡人也。
+祖闲，州别驾。
+父完，宁远长史。
+云公五岁诵《论语》、《毛诗》，九岁读《汉书》，略能记忆。
+从祖倕、沛国刘显质问十事，云公对无所失，显叹异之。
+既长，好学有才思。
+州举秀才。
+累迁宣惠武陵王、平西湘东王行参军。
+云公先制《太伯庙碑》，吴兴太守张纘罢郡经途，读其文叹曰： 今之蔡伯喈也。
+缵至都掌选，言之于高祖，召兼尚书仪曹郎，顷之即真，入直寿光省，以本官知著作郎事。
+俄除著作郎，累迁中书黄门郎，并掌著作。
+云公善弈棋，尝夜侍御坐，武冠触烛火，高祖笑谓曰： 烛烧卿貂。
+高祖将用云公为侍中，故以此言戏之也。
+是时天渊池新制鳊鱼舟，形阔而短，高祖暇日，常泛此舟，在朝唯引太常刘之遴、国子祭酒到溉、右卫硃异，云公时年位尚轻，亦预焉。
+其恩遇如此。
+太清元年，卒，时年三十七。
+高祖悼惜之，手诏曰： 给事黄门侍郎、掌著作陆云公，风尚优敏，后进之秀。
+translation: 
+When he first joined the army as Cao Xing of Anxi Fa, Yu Yong had already held a distinguished position at that time. Xu Mian, the Minister of Civil Affairs, planned to let Yu Yong's son Yu Yanying serve as an official of the prince. Yu Yong said to Xu Mian with tears: My brother's son Yu Zhongrong has been an orphan since he was a child, and he has a little talent. I hope to appoint him to the position that Yu Yanying will fill.
+Xu Mian agreed to Yu Yong's request and appointed Yu Zhongrong as the crown prince.
+Yu Zhongrong was moved to the position of chief administrator of King Ancheng.
+At that time, Pingyuan Liu Xiaobiao was also serving as a staff member in the palace. Both of them were treated politely by King Ancheng because of their diligent study.
+Yu Zhongrong moved to the post of King Gongcao Shi of Jin'an.
+He successively served as the magistrate of Yongkang, Qiantang, and Wukang, but had no outstanding performance in managing county affairs, and was often impeached.
+After a long time, Yu Zhongrong was dismissed and granted the title of Prince Ancheng's Zhongji Office, and he was about to leave the capital to follow the royal palace. Because Yu Zhongrong was formerly a vassal of the crown prince, the crown prince made an exception and held a farewell banquet because he missed his old relationship. The crown prince gave Yu Zhongrong a poem and said: Sun Sheng Zhiyang Road, Chaoge County, Wuzi, was not like Fan Linju, and set up wine in Linhua Palace.
+At that time, people thought it was a great honor to send Yu Zhongrong away.
+Yu Zhongrong moved to King Wuling of Anxi to consult and join the army.
+Later, he was awarded the title of Minister Zuocheng, but he was dismissed because he investigated the case and corrected the unfairness of impeachment officials.
+Yu Zhongrong was very knowledgeable and had a great reputation when he was young. However, he was very impulsive, used wine to drink, and liked to make upright and extraordinary remarks. His friends among the scholars looked down upon him because of this.
+Yu Zhongrong only had similar personalities and good friendships with Wang Ji, Xie Jiqing and others. Wang Ji and Xie Jiqing were not in harmony with everyone at that time, so the three of them socialized together, drank as much as they wanted, and no longer paid attention to ethics.
+After a long time, Yu Zhongrong was appointed as a consultant to join the army and left the capital to serve as the magistrate of Yi County.
+When the turmoil broke out during the Taiqing period, Yu Zhongrong lived in Kuaiji and died of illness at the age of seventy-four.
+Yu Zhongrong copied thirty volumes of books by various scholars, twenty volumes of geography books of various schools, three volumes of Biography of Women, and twenty volumes of collected works. These books are all circulated in the world.
+Lu Yungong, named Zilong, was from Wujun.
+His grandfather Lu Xian lived in Renzhou.
+His father, Lu Wan, had a long history with Ren Ningyuan.
+When Lu Yungong was five years old, he could recite "The Analects of Confucius" and "Mao Shi". When he was nine years old, he could read "Han Shu" and memorize everything.
+His grandfather Lu Bian and Pei Guo Liu Xian asked him about ten things in the "Book of Han", and he could answer them one by one without making any mistakes. Liu Xian was full of praise and thought he was different from ordinary people.
+When he grew up, Lu Yungong was studious and talented.
+He was elected as a scholar in the state.
+Lu Yun Gongjigong was transferred to the throne of Xuanhui, King of Wuling, and King of Pingxi, Xiangshu, to join the army.
+Lu Yungong originally wrote the "Taibo Temple Stele". Zhang Zuan, the governor of Wuxing, left his post and returned to the capital. On the way, he read the inscription written by Lu Yungong and said with emotion: This man is simply the contemporary Cai Bojie.
+After Zhang Zuan arrived in the capital, he was in charge of the selection of officials. He recommended Lu Yungong to Emperor Gaozu. Emperor Gaozu then called Lu Yungong to serve as the minister of Yi Cao Lang. He was soon appointed to this position and was assigned to Shouguang Province. He also used his original official position to know how to serve as a minister.
+Soon after, in addition to being awarded the title of Writer, he was moved to the post of Zhongshu Huangmenlang and was in charge of writing.
+Lu Yungong was good at playing Go. He once accompanied Gaozu at night. The crown he was wearing caught the light of a candle. Gaozu smiled and said to him: The candle burned the mink tail on your hat.
+Gaozu was about to appoint Lu Yungong as his minister, and his crown would be decorated with a mink tail, so Gaozu used these words to joke with Lu Yungong.
+At that time, a new bream boat was built in Tianyuanchi. The boat was wide and short. Gaozu often took this boat to ride on the waves in his spare time. Among the courtiers, he only brought Taichang Liu Zhilin, Guozi to Gai, and Youwei Zhu Yi. Lu Yungong was young at that time and his position was not high, but he was also among the courtiers who accompanied Gaozu on the boat.
+Emperor Gaozu's favor and favor towards him reached such an extent.
+In the first year of Taiqing, Lu Yungong passed away at the age of thirty-seven.
+Emperor Gaozu was deeply saddened by his death and wrote an edict in his own hand, saying: I serve as the minister of Huangmen and as Duke Lu Yungong. He is a rising star with beautiful demeanor and broad knowledge.
+
+summary:
+summary line 13: Lu Yungong, courtesy name Zilong, was from Wujun. He could recite classics at a young age. He was studious and talented. He wrote the "Taibo Temple Stele," which Zhang Zuan praised. He was called to serve by Emperor Gaozu. He was good at Go. Emperor Gaozu favored him greatly. He died at thirty-seven. Emperor Gaozu mourned him. Zhang Zan wrote a letter expressing his sorrow.
+
+Chunk 23: 
+original: 
+云公从兄才子，亦有才名，历官中书郎、宣成王友、太子中庶子、廷尉卿，先云公卒。
+才子、云公文集，并行于世。
+任孝恭，字孝恭，临淮临淮人也。
+曾祖农夫，宋南豫州刺史。
+孝恭幼孤，事母以孝闻。
+精力勤学，家贫无书，常崎岖从人假借。
+每读一遍，讽诵略无所遗。
+外祖丘它，与高祖有旧，高祖闻其有才学，召入西省撰史。
+初为奉朝请，进直寿光省，为司文侍郎，俄兼中书通事舍人。
+敕遣制《建陵寺刹下铭》，又启撰高祖集序文，并富丽，自是专掌公家笔翰。
+孝恭为文敏速，受诏立成，若不留意，每奏，高祖辄称善，累赐金帛。
+孝恭少从萧寺云法师读经论，明佛理，至是，蔬食持戒，信受甚笃。
+而性颇自伐，以才能尚人，于时辈中多有忽略，世以此少之。
+太清二年，侯景寇逼，孝恭启募兵，隶萧正德，屯南岸。
+及贼至，正德举众入贼，孝恭还赴台，台门已闭，因奔入东府，寻为贼所攻，城陷见害。
+文集行于世。
+颜协，字子和，琅邪临沂人也。
+七代祖含，晋侍中、国子祭酒、西平靖侯。
+父见远，博学有志行。
+初，齐和帝之镇荆州也，以见远为录事参军，及即位于江陵，以为治书侍御史，俄兼中丞。
+高祖受禅，见远乃不食，发愤数日而卒。
+高祖闻之曰： 我自应天从人，何预天下士大夫事？
+而颜见远乃至于此也。
+协幼孤，养于舅氏。
+translation: 
+Lu Yungong's cousin Lu Caizi was also famous for his talent. He successively served as Zhongshulang, Xuancheng Wangyou, and Prince's concubine. Ting Weiqing died before Lu Yungong.
+Lu Caizi and Lu Yungong both have collections of essays, which are also circulated in the world.
+Ren Xiaogong, whose courtesy name is Xiaogong, was born in Linhuai.
+His great-grandfather was a farmer and the governor of Southern Yuzhou during the Song Dynasty.
+Ren Xiaogong lost his father when he was young. He served his mother very filially and became famous for this.
+Ren Xiaogong was dedicated and diligent in his studies. His family was poor and he often asked people to borrow books when he had no books to act in.
+Every time he read it, he could recite it without missing anything.
+Ren Cuoyu's maternal grandfather, Qiu Ta, had a relationship with Emperor Gaozu. Hearing that Ren Xiaogong was talented and learned, he summoned him to the Western Province to compile history books.
+Ren Xiaogong was first appointed to the imperial court, and was promoted to Shouguang Province as the Minister of Si Wen. Soon he was also appointed as Zhongshu General Shiren.
+Emperor Gaozu issued an edict and ordered Ren Xiaogong to write the "Inscription under the Temple of Jianling Temple". Ren Xiaogong also presented the "Preface" to the collected works of Emperor Gaozu written by himself. The words were rich and gorgeous. From the time of the Han Dynasty, Ren Xiaogong was in charge of the court's documents full-time.
+Ren Xiaogong wrote articles quickly, and he could write them immediately after receiving the imperial edict. It seemed that he didn't spend much time on it. He wrote good articles and presented them to memorials. Emperor Gaozu always praised his well-written articles and gave him gold and silk many times.
+When he was young, Ren Xiaogong read scriptures with Master Xiao Siyun and was well versed in Buddhist teachings. When he was sent away, Ren Xiaogong only ate vegetables, followed the precepts, and believed in Buddhism very sincerely.
+However, Ren Xiaogong liked to show off his achievements by nature, and often relied on his talents to put himself above others. He often showed contempt for famous figures at that time, and the world looked down upon him because of this.
+In the second year of Taiqing, Hou Jing invaded the capital, and Ren Xiaogong started recruiting sergeants. He led the recruited soldiers to be affiliated with Xiao Zhengde and stationed on the south bank of the Yangtze River.
+When the rebel army arrived, Xiao Zhengde led his army to surrender to Hou Jing, and Ren Xiaogong returned to rush to the palace city. The gate of the palace city had been closed, so Ren Xiaogong fled into Dongfu. Soon Shufu was attacked by the rebels, and Ren Xiaogong was killed.
+Ren Xiaogong's collected works are circulated in the world.
+Yan Xie, courtesy name Zihe, was from Linyi, Langxie.
+His ancestor Yan Han, seven generations ago, served as Shizhong, Guozi Jijiu, and Jinghou of Xiping during the Jin Dynasty.
+His father is far-sighted, knowledgeable, ambitious and ethical.
+In the past, when Emperor Qi He was guarding Jingzhou, he appointed Yan Jianyuan to join the army for the green affairs. When Emperor Qi He ascended the throne in Jiangling, he appointed Yan Jianyuan to serve as the official secretary and censor, and soon became the Zhongcheng.
+After Emperor Gaozu accepted Qi's abdication, Yan Jianyuan went on a hunger strike and died in anger for several days.
+When Emperor Gaozu heard the news, he said: I am following the destiny of heaven and obeying the will of man. What does it have to do with the scholar-bureaucrats in the world?
+And Yan Jianyuan actually did such a thing!
+Yan Xie lost his father when he was young and was raised by his uncle's family.
+
+summary:
+summary line 14: Ren Xiaogong, courtesy name Xiaogong, was from Linhuai. He was filial and studious. He was summoned to compile history books. He wrote quickly and was praised by Emperor Gaozu. He was well-versed in Buddhism. He was arrogant and looked down on others. During Hou Jing's invasion, he led soldiers but was killed when the rebels attacked.
+
+Chunk 24: 
+original: 
+少以器局见称。
+博涉群书，工于草隶。
+释褐湘东王国常侍，又兼府记室。
+世祖出镇荆州，转正记室。
+时吴郡顾协亦在蕃邸，与协同名，才学相亚，府中称为 二协 。
+舅陈郡谢暕卒，协以有鞠养恩，居丧如伯叔之礼，议者重焉。
+又感家门事义，不求显达，恒辞征辟，游于蕃府而已。
+大同五年，卒，时年四十二。
+世祖甚叹惜之，为《怀旧诗》以伤之。
+其一章曰： 弘都多雅度，信乃含宾实。
+鸿渐殊未升，上才淹下秩。
+协所撰《晋仙传》五篇、《日月灾异图》两卷，遇火湮灭。
+有二子：之仪、之推，并早知名。
+之推，承圣中仕至正员郎、中书舍人。
+陈吏部尚书姚察曰：魏文帝称古之文人，鲜能以名节自全。
+何哉？夫文者妙发性灵，独拔怀抱，易邈等夷，必兴矜露。
+大则凌慢侯王，小则慠蔑朋党；速忌离訧，启自此作。
+若夫屈、贾之流斥，桓、冯之摈放，岂独一世哉？盖恃才之祸也。
+群士值文明之运，摛艳藻之辞，无郁抑之虞，不遭向时之患，美矣。
+刘氏之论，命之徒也。
+命也者，圣人罕言欤，就而必之，非经意也。
+translation: 
+He has been praised for his magnanimity since childhood.
+Yan Xie has extensively dabbled in group calligraphy and is good at writing cursive script and official script.
+When Yan Xie first became an official, he took up the post of permanent attendant of the Xiangdong Kingdom, and also served as the official secretary of the government.
+Shizu came out of the capital to guard Jingzhou, and Yan Xie was transferred to the office of actual professors and records.
+At that time, Gu Xie of Wu County also served in the palace. He and Yan Xie had the same names, and their talents and learning were comparable. They were called "Er Xie" in the palace.
+Yan Xie's uncle, Chen Jun Xie Chen, passed away. Yan Xie mourned his uncle with the same etiquette as he would an uncle because of his kindness to his uncle. People who talked about this matter valued Yan Xie's friendship more.
+Yan Xie also felt that his father at home died for his righteousness, so he did not pursue prominent positions and often refused calls from the court, only serving in the feudal prince's palace.
+In the fifth year of Datong, Yan Xie passed away at the age of forty-two.
+Shizu lamented his death and wrote "Nostalgic Poems" to mourn him.
+One of the chapters says: With great magnanimity and elegant demeanor, he is truly a talent in name and in reality!
+Although they have been promoted, they have not yet been promoted, resulting in talented people still staying in positions with low salaries.
+Five chapters of "Biography of Jinxian" and two volumes of "Disasters of the Sun and Moon" written by Yan Xie were burned down due to fire.
+Yan Xie had two sons: Yan Zhiyi and Yan Zitui, both of whom became famous very early.
+During the Chengsheng reign, Yan Zhitui was promoted to Zhengyuan Lang and Zhongshu Sheren.
+Yao Cha, the Minister of Civil Affairs of Chen, said: Emperor Wen of Wei said that few ancient scholars could maintain their reputation. Why?
+Literati must use their intelligence skillfully and reveal their ambitions differently. Therefore, they are prone to look down on their peers and show off their arrogance.
+On big occasions, he will insult and despise princes and kings; on small occasions, he will look down on and insult his friends, which will lead to jealousy and sin.
+For example, Qu Yuan and Mai Yi were ostracized and exiled, and Huan Tan and Feng Yan were reprimanded and dismissed. Sending them out was something that only happened once in a generation. It was really the disaster brought about by the arrogance of these literati!
+The literary men recorded above were in an era of prosperous education, and they wrote articles with gorgeous rhetoric. They did not have depression and worries, and they did not encounter the disasters that the previous generations of literati suffered. It is really great.
+The discussion shows that he is a kind of person who pays attention to destiny.
+Sages rarely talk about things like fate. They tend to talk about fate and believe that fate must control life. This is not the meaning of the sages' classics.
+
+summary:
+summary line 15: Yan Xie, courtesy name Zihe, was from Linyi. He lost his father young. He was magnanimous and good at calligraphy. He served in the Xiangdong Kingdom. He and Gu Xie were called "Er Xie." He mourned his uncle with proper etiquette. He did not pursue prominent positions. He died at forty-two. His works were burned in a fire. His sons, Yan Zhiyi and Yan Zitui, became famous early.
+

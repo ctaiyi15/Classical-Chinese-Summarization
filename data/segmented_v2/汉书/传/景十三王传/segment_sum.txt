@@ -1,0 +1,352 @@
+Summary uses chunk [0, 1, 4, 9]
+
+Chunk 0: 
+original: 
+孝景皇帝十四男。
+王皇后生孝武皇帝。
+栗姬生临江闵王荣、河间献王德、临江哀王阏。
+程姬生鲁共王馀、江都易王非、胶西于王端。
+贾夫人生赵敬肃王彭祖、中山靖王胜。
+唐姬生长沙定王发。
+王夫人生广川惠王越、胶东康王寄、清河哀王乘、常山宪王舜。
+河间献王德以孝景前二年立，修学好古，实事求是。
+从民得善书，必为好写与之，留其真，加金帛赐以招之。
+繇是四方道术之人不远千里，或有先祖旧书，多奉以奏献王者，故得书多，与汉朝等。
+是时，淮南王安亦好书，所招致率多浮辩。
+献王所得书皆古文先秦旧书，《周官》、《尚书》、《礼》、《礼记》、《孟子》、《老子》之属，皆经传说记，七十子之徒所论。
+其学举六艺，立《毛氏诗》、《左氏春秋》博士。
+修礼乐，被服儒术，造次必于儒者。
+山东诸儒多从而游。
+武帝时，献王来朝，献雅乐，对三雍宫及诏策所问三十余事。
+其对推道术而言，得事之中，文约指明。
+立二十六年薨。
+中尉常丽以闻，曰： 王身端行治，温仁恭俭，笃敬爱下，明知深察，惠于鳏寡。
+大行令奏： 谥法曰 聪明睿智曰献 ，宜谥曰献王。
+子共王不害嗣，四年薨。
+子刚王堪嗣，十二年薨。
+子顷王授嗣，十七年薨。
+子孝王庆嗣，四十三年薨。
+子元嗣。
+元取故广陵厉王、厉王太子及中山怀王故姬廉等以为姬。
+甘露中，冀州刺史敞奏元，事下廷尉，逮召廉等。
+元迫胁凡七人，令自杀。
+有司奏请诛元，有诏 削二县，万一千户 。
+后元怒少史留贵，留贵逾垣出，欲告元，元使人杀留贵母。
+translation: 
+Emperor Xiaojing had fourteen sons.
+Queen Wang gave birth to Emperor Xiaowu.
+Li Ji was born to Liu Rong, the Min king of Linjiang, Liu De, the Xian king of Hejian, and Liu Yan, the Ai king of Linjiang.
+Cheng Ji gave birth to Liu Yu, king of the Communist Party of Lu, Liu Fei, king of Yi in Jiangdu, and Liu Duan, king of Jiaoxi.
+Buying a wife gave birth to King Zhao Jingsu, Liu Pengzu, and King Jing of Zhongshan, Liu Sheng.
+Tang Ji grew up and settled with King Liu Fa.
+Mrs. Wang was born as Prince Hui of Guangchuan, Liu Yue, Prince Kang of Micellar, Liu Ji, Prince Ai of Qinghe, Liu Cheng, and Prince Xian of Changshan, Liu Shun.
+Liu De, the king of Hejian, was granted the title of king in the second year of Emperor Jing's reign. He studied academically and loved ancient affairs. He always started from reality and reached correct conclusions.
+If you get a good book among the people, you must make a good copy to the book owner, leave the original copy of the book, and give money and silk to widely recruit good books.
+In this way, people with moral knowledge from all over came from far and wide, some of whom had books collected by their ancestors, and most of them donated to King Xian, so the number of books obtained was as large as that of the Han Dynasty.
+At the same time, Huainan King Liu An also loved books, and most of the books he recruited were useless.
+The books that King Xian obtained were all old ancient texts from before the Qin Dynasty, such as Zhou Guan, Shangshu, Rites, Book of Rites, Mencius, Laozi and other books. They were all written by seventy disciples of Confucius.
+King Xian studied and applied the Six Classics, and established doctors of Mao's Poetry and Zuo's Spring and Autumn Annals.
+Practice rituals and music, experience Confucian academics personally, and everything you learn must be based on Confucianism.
+Many scholars from Shandong followed him there.
+During the period of Emperor Wu, King Xian came to court, offered elegant music, and answered more than 30 questions from Sanyong Palace and imperial edicts.
+As far as the moral scholarship he talks about is concerned, it is reasonable and the language is concise and clear.
+King Xian died after reigning for twenty-six years.
+Lieutenant Chang Li reported to the court, saying: The king himself is upright and clear in his behavior. He is gentle, kind, respectful and frugal. He sincerely respects and loves his subordinates. He knows deeply and is kind to widowers.
+Daxing ordered: "Mi Fa said that the wise and wise people are called Xian, and Mi should be Lu Zhi."
+His son King Pi Zhou succeeded him and died after reigning for four years.
+His son Liu Kan, King Gang, succeeded him and died after reigning for twelve years.
+His son Liu, the king of Qing, succeeded him and died after reigning for seventeen years.
+His son, Xiaowang Liu Qing, succeeded him and died after reigning for forty-three years.
+His son Liu Yuan succeeded to the throne.
+Liu Yuan married the deceased King Li of Guangling, his crown prince, and the former concubine Lian of King Huai of Zhongshan as his concubines.
+During the Ganlu period, the governor of Jizhou Chang reported Liu Yuan's case. The emperor handed the matter over to Tingwei for trial and wanted to arrest Lian and others.
+Liu Yuan forced and threatened Gong Qi and ordered them to commit suicide.
+Relevant officials petitioned Liu Yuan to be executed, and the emperor issued an edict to cut down two counties, totaling 11,000 households.
+Later, Liu Yuan resented the young official Liu Gui. Liu Gui was afraid of escaping over the wall and wanted to report Liu Yuan. Liu Yuan sent people to kill Liu Gui's mother.
+
+summary:
+summary line 0: Emperor Xiaojing had fourteen sons by various consorts. Among them, Liu De, the King of Hejian, was a notable scholar who loved ancient texts. He diligently collected books from the people, offering generous compensation for rare copies, amassing a collection as vast as the imperial library. Unlike King Huainan of An, whose books were often useless, Liu De’s collection consisted of pre-Qin classics like the *Zhou Guan*, *Shangshu*, *Rites*, *Mencius*, and *Laozi*, all attributed to Confucius’s seventy disciples. He established doctors for the *Mao Poetry* and *Zuo’s Spring and Autumn Annals*, practiced rituals and music, and adhered to Confucian teachings, attracting many scholars from Shandong. During Emperor Wu’s reign, he presented elegant music and answered over thirty questions from the court with clarity and reason. After reigning for twenty-six years, he died, praised by officials for his uprightness, kindness, and frugality. His descendants ruled Hejian for generations, though later kings like Liu Yuan faced scandal and deposition for cruelty and misconduct, leading to the kingdom’s abolition and restoration under Emperor Cheng.
+
+Chunk 1: 
+original: 
+有司奏元残贼不改，不可君国子民。
+废勿王，处汉中房陵。
+居数年，坐与妻若其乘朱轮车，怒若，又笞击，令自髡。
+汉中太守请治，病死。
+立十七年，国除。
+绝五岁，成帝建始元年，复立元弟上郡库令良，是为河间惠王。
+良修献王之行，母太后薨，服丧如礼。
+哀帝下诏褒扬曰： 河间王良，丧太后三年，为宗室仪表，其益封万户。
+二十七年薨。
+子尚嗣，王莽时绝。
+临江哀王阏以孝景前二年立，三年薨。无子，国除为郡。
+临江闵王荣以孝景前四年为皇太子，四岁废为临江王。
+三岁，坐侵庙壖地为为宫，上征荣。
+荣行，祖于江陵北门，既上车，轴折车废。
+江陵父老流涕窃言曰： 吾王不反矣！
+荣至，诣中尉府对簿。
+中尉郅都簿责讯王，王恐，自杀。
+葬蓝田，燕数万衔土置冢上。百姓怜之。
+荣最长，亡子，国除。
+地入于汉，为南郡。
+鲁恭王馀以孝景前二年立为淮阳王。
+吴、楚反破后，以孝景前三年徙王鲁。
+好治宫室、苑囿、狗马，季年好音，不喜辞。
+为人口吃难言。
+二十八年薨。
+子安王光嗣，初好音乐舆马，晚节遴，唯恐不足于财。
+四十年薨。子孝王庆忌嗣，三十七年薨。
+子顷王劲嗣，二十八薨。
+子文王睃嗣，十八年薨，亡子，国除。
+哀帝建平三年，复立顷王子睃弟郚乡侯闵为王。
+王莽时绝。
+恭王初好治宫室，坏孔子旧宅以广其宫，闻钟磬琴瑟之声，遂不敢复坏，于其壁中得古文经传。
+江都易王非以孝景前二年立为汝南王。
+translation: 
+Relevant officials reported that Liu Yuan's cruel nature would not change and he could not govern his subjects as the king of the country.
+So he was deposed and allowed to live in Fanling, Hanzhong.
+After several years of encountering each other, he became angry with Ruo because he and his wife were riding a chariot together, so he whipped her and ordered her to shave off her hair.
+The prefect of Hanzhong asked Liu Yuan to be punished, but Liu Yuan later died of illness.
+In the seventeenth year of Liu Yuan's reign, the Hejian Kingdom was abolished.
+The Hejian Kingdom was cut off for five years, and in the first year of Emperor Cheng's founding, Liu Liang, Liu Yuan's younger brother, was re-established as King Hui of Hejian.
+Liu Liang learned the behavior of offering sacrifices to the king. His mother, the Empress Dowager, passed away and observed the funeral as a courtesy.
+Emperor Ai issued an edict of praise and said: Liu Liang, the king of Hejian, stayed in mourning for the Queen Mother for three years. He actually set an example for the clan and granted him the title of Ten Thousand Households.
+He died after reigning for twenty-seven years.
+His son Liu Shang succeeded to the throne, but Wang Mang's line of succession was cut off.
+Linjiang Ai Wang Xing'er was granted the title of king in the second year of the Yuan Dynasty in Jicha. He died after reigning for three years without leaving any sons, and the title was abolished as a county.
+Linjiang Min King Liu Rong was the crown prince in the fourth year of Emperor Jing's reign. Four years later, he was deposed as the prince of Linjiang.
+Another three years passed. Because he occupied the open space of the temple to build a palace, the emperor conscripted Liu Rong.
+When Liu Ming set out, he worshiped his ancestors at the north gate of Jiangling. After getting on the car, the axle broke and the car broke down.
+The elders of Jiangling cried privately and said: Our king will not come back!
+After Liu Rong arrived in the capital, he went to the Lieutenant's Mansion for trial.
+Lieutenant Zhidu interrogated the king with a confession. The king was frightened and committed suicide.
+He was buried in Lantian, and tens of thousands of swallows placed earth on the grave. The people felt pity for his plight.
+Liu Rong was the oldest and had no sons, so his feudal state was abolished.
+The fiefdom was transferred to the Han Dynasty and became Nanjun.
+King Gong of Lu, Liu Yu, was granted the title of King of Huaiyang in the second year of Emperor Jing's reign.
+Wu Chu rebelled, and after being defeated, Liu Yu moved to Lu in the third year of Emperor Jing's reign.
+Liu Yu liked to build palaces, gardens, and raise dogs and horses. In his later years, he liked music but disliked literature.
+He was born with a stutter and had trouble speaking.
+King Liu Gong of Lu died after reigning for twenty-eight years.
+His son An Wang Liu Guang succeeded to the throne. He was initially fond of music, carriages and horses, but in his later years he was greedy and stingy for fear of insufficient wealth.
+He died after reigning for forty years. His son Xiao Wang Qingji succeeded him and died after reigning for thirty-seven years.
+His son Liu Jin, King of Qing, succeeded him and died after reigning for twenty-eight years.
+His son, King Wen Liu, succeeded him to the throne. He died after reigning for eighteen years without any sons, and the feudal state was abolished.
+In the third year of Emperor Ai's reign, he also made Liu Min, Marquis of Buxiang, the younger brother of King Wen Liu Sui, the son of King Qing, as king.
+It was cut off when Wang Mang died.
+Prince Gong initially liked to expand his palace and destroyed Confucius' old house to expand his palace. When he heard the sound of bells, chimes, harps and harps, he did not dare to destroy it any more, and he obtained ancient scriptures and scriptures in the walls of the old house.
+Liu Fei, the king of Yi in Jiangdu, was granted the title of King of Runan in the second year BC of Xiaojing.
+
+summary:
+summary line 1: Other sons of Emperor Xiaojing had varied fates. Liu Rong, the Min King of Linjiang, was once crown prince but was deposed and later committed suicide after being accused of building a palace on temple grounds. Liu Yu, the King of Lu, was known for building palaces and raising dogs and horses, but he had a stutter and disliked literature. His descendant, Liu Gong, destroyed Confucius’s old house to expand his palace but stopped upon hearing music, discovering ancient scriptures in the walls. Liu Fei, the King of Yi in Jiangdu, was a talented youth who fought against Wu during the rebellion, but later became arrogant and extravagant. His son, Liu Jian, was notoriously depraved, committing adultery, murder, and even plotting rebellion with weapons and seals. He was eventually forced to commit suicide, and his kingdom was abolished. Liu Duan, the King of Jiaoxi, was cruel and physically weak, often killing officials who tried to govern lawfully, leading to his kingdom’s reduction and eventual abolition.
+
+Chunk 4: 
+original: 
+彭祖为人巧佞，卑谄足共，而心刻深，好法律，持诡辩以中人。
+多内宠姬及子孙。
+相二千石欲奉汉法以治，则害于王家。
+是以每相二千石至，彭祖衣帛布单衣，自行迎除舍，多设疑事以诈动之，得二千石失言，中忌讳，辄书之。
+二千石欲治者，则以此迫劫；不听，乃上书告之，及污以奸利事。
+彭祖立六十余年，相二千石无能满二岁，辄以罪去，大者死，小者刑。以故二千石莫敢治，而赵王擅权。
+使使即县为贾人榷会，入多于国租税。
+以是赵王家多金钱，然所赐姬诸子，亦尽之矣。
+彭祖不好治宫室禨祥，好为吏。
+上书愿督国中盗贼。
+常夜从走卒行徼邯郸中。
+诸使过客，以彭祖险陂，莫敢留邯郸。
+久之，太子丹与其女弟及同产姊奸。
+江充告丹淫乱，又使人椎埋攻剽，为奸甚众。
+武帝遣使者发吏卒捕丹，下魏郡诏狱，治罪至死。
+彭祖上书冤讼丹，愿从国中勇敢击匈奴，赎丹罪，上不许。
+久之，竟赦出。
+后彭祖入朝，因帝姊平阳、隆虑公主求复立丹为太子，上不许。
+彭祖取江都易王宠姬，王建所奸淖姬者，甚爱之，生一男，号淖子。
+彭祖以征和元年薨，谥敬肃王。
+彭祖薨时，淖姬兄为汉宦者，上召问： 淖子何如？
+对曰： 为人多欲。
+上曰： 多欲不宜君国子民。
+问武始侯昌，曰： 无咎无誉。 上曰： 如是可矣。
+遣使者立昌，是为顷王，十九年薨。
+子怀王尊嗣，五年薨。
+无子，绝二岁。
+宣帝立尊弟高，是为哀王，数月薨。
+子共王充嗣，五十六年薨。
+子隐嗣，王莽时绝。
+初，武帝复以亲亲故，立敬肃王小子偃为平干王，是为顷王，十一年薨。
+子缪王元嗣，二十五年薨。
+大鸿胪禹奏： 元前以刃贼杀奴婢，子男杀谒者，为刺史所举奏，罪名明白。
+病先令，令能为乐奴婢从死，迫胁自杀者凡十六人，暴虐不道。
+故《春秋》之义，诛君之子不宜立。
+元虽未伏诛，不宜立嗣。
+奏可，国除。
+中山靖王胜以孝景前三年立。
+武帝初即位，大臣惩吴、楚七国行事，议者多冤晁错之策，皆以诸侯连城数十，泰强，欲稍侵削，数奏暴其过惩。
+诸侯王自以骨肉至亲，先帝所以广封连城，犬牙相错者，为盘石宗也。
+今或无罪，为臣下所侵辱，有司吹毛求疵，笞服其臣，使证其君，多自以侵冤。
+建元三年，代王登、长沙王发、中山王胜、济川王明来朝，天子置酒，胜闻乐声而泣。问其故，胜对曰：
+translation: 
+Jie Dan is hypocritical, flattering, overly respectful to others, but cruel at heart, accustomed to using the law, and using sophistry to frame people.
+Dona's favorite concubine has many descendants.
+Xiang Erqianshi planned to govern according to Han law, which would be harmful to the Wang family.
+Therefore, every time he saw someone arriving with a promise of two thousand stones, Peng Zu would wear a single coat of silk and go to the front door of the hall to greet him. He would deceive him with many suspicious things and make him shake. If Erqianshi's words were wrong or consistent with taboo things, he would write them down.
+If Erqianshi wanted to govern, he would use these records to coerce and threaten; if he did not obey, he would write a letter to report and falsely accuse him of greed for profit.
+Pengzu had been in power for more than sixty years, and Erqianshi's term of office could not last more than two years. He resigned due to crimes. The elder was executed and the younger was tortured. Therefore, no one in Erqianshi dared to govern, and King Zhao had exclusive power.
+Envoys were sent to various counties to negotiate deals with merchants and collect taxes. The revenue was more than the national tax.
+Therefore, King Zhao's family had a lot of money, but all the gifts given to Ji and his disciples were spent.
+Pengzu did not like to build palaces to worship ghosts and gods for blessings, but preferred to govern for officials.
+Write a letter willing to supervise thieves in the country.
+He often patrols Handan with his officers at night.
+Many envoys and travelers did not dare to stay in Handan because of Peng Zu's evil flattery.
+For a long time, Prince Liu Dan and his younger sisters had committed adultery.
+Jiang Chong accused Liu Dan of promiscuity and sent people to kill and rob Liu Dan. He committed many evil deeds.
+Emperor Wu sent envoys to mobilize officials and soldiers to arrest Liu Dan, and went down to the place where prisoners were imprisoned in Wei Shao to punish him with death.
+Peng Zu wrote a letter to avenge Liu Dan, and was willing to attack Xiongxi together with the brave and courageous people in the country to atone for Liu Qie's sins. Zha did not agree.
+After a long time, he was pardoned.
+Later, Pengzu entered the court and requested through the emperor's sister, Princess Pingyang Longlu, to make Liu Dan the crown prince again, but Emperor Wu disagreed.
+Peng Zu married the favored concubine of King Yi of Jiangdu, Naoji, who had been raped by Wang Liujian. He loved her very much and gave birth to a son named Naozi.
+Peng Zu died in the first year of Zhenghe, and Mi Jingsu paid homage to King Su.
+When Peng Zu died, Naoji's brother was a eunuch of the Han Dynasty. The emperor summoned him and asked: How is Naozi?
+The answer is: He is greedy.
+The emperor said: Greedy is not suitable for being a monarch to manage the people.
+Wu Shi also asked how Hou Chang was doing, and he replied: He has nothing to blame and nothing to praise.
+The emperor said: Just like this. So he sent envoys to establish Liu Chang as king. He was the king of Qing, and he died after reigning for nineteen years.
+His son, King Huai, ascended the throne and died after reigning for five years.
+Without a son, the feudal state was closed for two years.
+Emperor Xuan appointed Liu Zun's younger brother Liu Gao. This was King Ai, who had died in a few months.
+His son Liu Chong, the co-king, succeeded him and died after reigning for fifty-six years.
+His son Liu Yin succeeded to the throne, but Wang Mang was cut off.
+In the past, Emperor Wu, because of his love for his relatives, appointed Liu Yan, the youngest son of King Jingsu, as King Pinggan, making him King Qing. He reigned for eleven years until his death.
+His son Liu Yuansi, King Miao, succeeded him and died after reigning for twenty-five years.
+Dahong Yu Yu reported: Liu Yuan used a knife to kill a slave, and his son killed someone who came to see him. He was reported by the governor and the crime was confirmed.
+During the illness, an order was issued to bury the slaves who could enjoy themselves. A total of sixteen people were forced and threatened to commit suicide. They were cruel and cruel.
+According to the principles of "Spring and Autumn", the son of the king who was executed should not be crowned.
+Although Liu Yuan was not sentenced to death, he should not have an heir.
+Permission is given. The feudal state was abolished.
+Liu Sheng, Prince Jing of Zhongshan, was granted the title of king in the third year of Emperor Jing's reign.
+When Emperor Wu first came to the throne, the ministers took into account the actions of the seven kingdoms of Wu and Chu. Most of the people who discussed it defended Chao Cuo's strategy. They all believed that the princes, with dozens of cities in their ranks, were too powerful and wanted to gradually weaken them. They wrote several memorials to disclose their faults.
+The princes and kings thought that their flesh and blood were the closest to them. The reason why the late emperor encircled the city and made them intertwined was to make the clan as strong as a rock.
+Nowadays, some are innocent but are violated and humiliated by their ministers. Some officials find fault and torture their ministers to obey, forcing them to testify for their monarch. Most of the injustices are caused in this way.
+In the third year of Jianyuan, King Liu Deng, King Liu Fa of Changsha, King Liu Sheng of Zhongshan, and King Liu Ming of Jichuan came to court. The emperor prepared wine. Liu Sheng heard the music and cried. When asked why, Liu Sheng replied:
+
+summary:
+summary line 2: Liu Pengzu, the King of Zhao, was deceitful and flattering, using sophistry to frame officials and amassing wealth through trade. He died after sixty years of rule, but his son Liu Dan was executed for promiscuity and murder. Liu Sheng, the King of Zhongshan, was a drunkard with over 120 children, but he famously wept before Emperor Wu, complaining of officials’ encroachments on princes’ rights. This led to Emperor Wu’s policy of dividing princes’ lands among their sons, weakening their power. Liu Fa, the King of Changsha, was born from a concubine’s deception and ruled a poor, humid kingdom. His descendants faced scandals, including a king who burned houses and killed people. Liu Yue, the King of Guangchuan, died early, and his son Liu Qi was accused of incest and false accusations, leading to his kingdom’s temporary abolition. Liu Qu, a later king, was a scholar who studied the *Yi* and *Analects*, but he became tyrannical, torturing and killing concubines under the influence of his queen, Zhaoxin. He was deposed and committed suicide.
+
+Chunk 9: 
+original: 
+子赤嗣，王莽时绝。
+胶东康王寄以孝景中二年立，二十八年薨。
+淮南王谋反时，寄微闻其事，私作兵车镞矢，战守备，备淮南之起。
+及吏治淮南事，辞出之。
+寄于上最亲，意自伤，发病而死，不敢置后。
+于是上闻寄有长子贤，母无宠，少子庆，母爱幸，寄常欲立之，为非次，因有过，遂无所言。
+上怜之，立贤为胶东王，奉康王祀，而封庆为六安王，王故衡山地。
+胶东王贤立十五年薨，谥为哀王。
+子戴王通平嗣，二十四年薨。
+子顷王音嗣，五十四年薨。
+子共王授嗣，十四年薨。
+子殷嗣，王莽时绝。
+六安共王庆立三十八年薨。
+子夷王禄嗣，十年薨。
+子缪王定嗣，二十二年薨。
+子顷王光嗣，二十七年薨。
+子育嗣，王莽时绝。
+清河哀王乘以孝景中三年立，十二年薨。
+无子，国除。
+常山宪王舜以孝景中五年立。
+舜，帝少子，骄淫，数犯禁，上常宽之。
+三十一年薨，子勃嗣为王。
+初，宪王有不爱姬生长男棁，棁以母无宠故，亦不得幸于王。
+王后脩生太子勃。
+王内多，所幸姬生子平、子商，王后稀得幸。
+及宪王疾甚，诸幸姬侍病，王后以妒媢不常在，辄归舍。
+医进药，太子勃不自尝药，又不宿留侍疾。
+及王薨，王后、太子乃至。
+宪王雅不以棁为子数，不分与财物。
+郎或说太子、王后，令分棁财，皆不听。
+太子代立，又不收恤棁。
+棁怨王后及太子。
+汉使者视宪王丧，棁自言宪王病时，王后、太子不侍，及薨，六日出舍，太子勃私奸、饮酒、博戏、击筑，与女子载驰，环城过市，入狱视囚。
+天子遣大行骞验问，逮诸证者，王又匿之。
+吏求捕，勃使人致击笞掠，擅出汉所疑囚。
+有司请诛勃及宪王后脩。
+上曰： 脩素无行，使棁陷之罪。
+勃无良师傅，不忍致诛。
+有司请废勿王，徙王勃以家属处房陵，上许之。
+勃王数月，废，国除。
+月余，天子为最亲，诏有司曰： 常山宪王早夭，后、妾不和，適、孽诬争，陷于不谊以灭国，朕甚闵焉。
+其封宪王子平三万户，为真定王；子商三万户，为泗水王。
+顷王平立二十五年薨。
+子烈王偃嗣，十八年薨。
+子孝王申嗣，三十三年薨。
+子安王雍嗣，二十六年薨。
+子共王普嗣，十五年薨。
+子阳嗣，王莽时绝。
+泗水思王商立十二年薨。
+子哀王安世嗣，一年薨，无子。
+于是武帝怜泗水王绝，复立安世弟贺，是为戴王。
+立二十二年薨，有遗腹子爰，相内史不以闻。
+太后上书，昭帝闵之，抵相内史罪，立爰，是为勤王。
+立三十九年薨。
+子戾王骏嗣，三十一年薨。
+子靖嗣，王莽时绝。
+translation: 
+His son Liu Chi succeeded to the throne, but Wang Mang cut off the throne.
+King Kang Xingzhou of Jiaodong was granted the title of king in the second year of Zhongyuan in Jihu, and he died after reigning for twenty-eight years.
+When the King of Huainan rebelled, Xingyi heard about it secretly, secretly made chariots, bows and arrows, and prepared all the troops to guard against the rebellion.
+When the officials dealt with Sui's affairs, he confessed to King Chen.
+Cho Yi faced her closest relative, secretly sad, fell ill and died, not daring to have any heirs.
+So I heard that Liu Ji had his eldest son Liu Xian, who was not favored by his mother, but his younger son Liu Qing was favored. Liu Ji often wanted to make him king, but it was not in the right order. Because of his mistakes, he finally had something to say.
+The emperor took pity on him and made Liu Xian the King of Micellar to accept the sacrifices of King Kang. He also made Liu Qing the King of Liu'an and the king of the former Hengshan Mountain.
+Wang Xian died after reigning for fifteen years, and he became King Ai.
+His son Dai Wangtongping succeeded him and died after reigning for twenty-four years.
+His son Liu Yin, King of Qing, succeeded him and died after reigning for fifty-four years.
+His son Liu, the co-king, succeeded him and died after reigning for fourteen years.
+His son Liu Yin succeeded to the throne, but Wang Mang cut off the throne.
+Liu Qing, the communist king of Liu'an, passed away after reigning for thirty-eight years.
+His son Liu Lu, King of Yi, succeeded him and died after reigning for ten years.
+His son Liu Ding, King Mu, succeeded him and died after reigning for twenty-two years.
+His son Liu Guang, King of Qing, succeeded him and died after reigning for twenty-seven years.
+The son Jianyu succeeded to the throne, but Wang Mang cut off the throne.
+King Ai Xingchui of Qinghe was crowned king in the third year of Zhongyuan in Mancha, and died after reigning for twelve years.
+Without a son, the feudal state was abolished.
+Liu Shun, the Xianwang of Changshan, was granted the title of king in the fifth year of Emperor Jing's reign.
+Liu Shun, the emperor's youngest son, was arrogant and extravagant and violated the ban several times, but the emperor often forgave him.
+After reigning for thirty-two years, his son Liu Bo succeeded him as king.
+Once upon a time, King Xian's unloved Ji gave birth to his eldest son Liu Shui. Liu Yue was not loved by the king because his mother was not favored.
+The queen concubines the prince Liu Bo.
+The king had many wives and concubines, and his beloved Ji gave birth to sons Liu Ping and Liu Shang. The queen was rarely lucky.
+When King Xian was seriously ill, all his beloved concubines served the sick man. The queen was not always around due to jealousy, so she often retired to rest.
+The imperial doctor brought medicine, but Prince Liu Bo did not try the medicine himself, nor did he stay overnight to treat the disease.
+The queen and the prince did not arrive until the king died.
+King Xian never regarded Liu Yue as his son and did not give him any property.
+Lang sometimes persuaded the prince and queen to give Liu Yue's property, but they didn't listen.
+The prince succeeded to the throne, but Liu Yue was not placed there.
+Liu Shui resented the queen and the prince.
+The Han Dynasty sent envoys to inspect the funeral of King Xian. Liu Yue said that when King Xian was ill, the queen and the prince did not serve him. When the king died, he went out of the house after six days of mourning.
+The emperor sent Zhang Qian, a high official, to investigate and arrest all the witnesses. The king hid the witnesses again.
+The officials requested that they be arrested, but Liu Bo sent people to beat the officials and released the suspects detained by the Han without authorization.
+Some officials requested that Liu Bo and King Xian and Queen Xiu be killed.
+The emperor said: "Xiu Ping has no virtue, so let Liu Yue make her fall into sin."
+Liu Bo had no good teachers and could not bear to kill him.
+Some officials asked him to depose him as king and move King Liu Bo and his family to live in the mausoleum, and the emperor agreed.
+Liu Bo was granted the title of king for several months, but was abolished and the fiefdom was taken back.
+More than a month later, because the emperor was closest to the king, he issued an edict to Yousi, saying: King Xian of Changshan died early, and later he was at odds with his concubines. His concubines and concubines made false accusations and fought with each other. They fell into injustice and reduced the country. I have great sympathy for him.
+He ordered Liu Ping, the son of King Xian, to have 30,000 households and be the king of Zhending; his son Liu Shang to have 30,000 households and be the king of Surabaya.
+Liu Ping, the king of Qing, died after reigning for twenty-five years.
+His son, King Lie, Liu Yan, succeeded him and died after reigning for eighteen years.
+His son, Xiao Wang Liu, succeeded him and died after reigning for twenty-two years.
+His son Liu Yong, King An, succeeded him and died after reigning for twenty-six years.
+His son, King Liu Pu, succeeded him and died after reigning for fifteen years.
+His son Liu Yang succeeded to the throne, but Wang Mang cut off the throne.
+Liu Shang, the king of swimming, died after reigning for twelve years.
+His son Ai Wang Anshi succeeded him, but he died after one year of reign and had no children.
+So Emperor Wu took pity on the swimming king's heir, and appointed Liu He, An's younger brother, as King Dai.
+After his death in the 22nd year of his reign, he sent his son Liu Nuan away, but the Prime Minister did not report this matter.
+The Empress Dowager wrote that Emperor Zhao took pity on them and punished Xiang Neishi accordingly, and granted Liu Nuan the title of King Qin.
+He died after reigning for thirty-nine years.
+His son, King Liu Jun, succeeded him and died after reigning for thirty-one years.
+His son Liu Jing succeeded to the throne, but Wang Mang cut off the throne.
+
+summary:
+summary line 3: Other kings included Liu Shun of Changshan, who was arrogant but often forgiven by his father. His son Liu Bo was deposed for neglecting his father’s funeral, and the kingdom was divided among his brothers. Liu Ji of Jiaodong was cautious during the Huainan rebellion, but his sons were made kings of smaller states. The text concludes with a reflection on the dangers of luxury and power, noting that most princes became arrogant and immoral, except for the noble King Xian of Hejian.
+

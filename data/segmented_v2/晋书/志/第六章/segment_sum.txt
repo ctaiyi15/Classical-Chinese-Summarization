@@ -1,0 +1,509 @@
+Summary uses chunk [0, 0, 1, 1, 2, 4, 5, 11, 12]
+
+Chunk 0: 
+original: 
+《易》曰： 形而上者谓之道，形而下者谓之器。
+夫神道广大，妙本于阴阳；形器精微，义先于律吕。
+圣人观四时之变，刻玉纪其盈虚，察五行之声，铸金均其清浊，所以遂八风而宣九德，和大乐而成政道。
+然金质从革，侈弇无方；竹体圆虚，修短利制。
+是以神瞽作律，用写钟声，乃纪之以三，平之以六，成于十二，天之道也。
+又叶时日于晷度，效地气于灰管，故阴阳和则景至，律气应则灰飞。
+灰飞律通，吹而命之，则天地之中声也。
+故可以范围百度，化成万品，则《虞书》所谓 叶时月正日，同律度量衡 者也。
+中声节以成文，德音章而和备，则可以动天地，感鬼神，道性情，移风俗。
+叶言志于咏歌，鉴盛衰于治乱，故君子审声以知音，审音以知乐，审乐以知政，盖由兹道。
+太史公律书云： 王者制事立物，法度轨则，一禀于六律。
+六律为万事之本，其于兵械尤所重焉。
+故云望敌知吉凶，闻声效胜负，百王不易之道也。
+及秦氏灭学，其道浸微。
+汉室初兴，丞相张苍首言律，未能审备。
+孝武帝创置协律之官，司马迁言律吕相生之次详矣。
+及王莽际，考论音律，刘歆条奏，大率有五：一曰备数，一、十、百、千、万也；二曰和声，宫、商、角、徵、羽也；三曰审度，分、寸、尺、丈、引也；四曰嘉量，龠、合、升、斗、斛也；五曰权衡，铢、两、斤、钧、石也。
+班固因而志之。
+蔡邕又记建武已后言律吕者，至司马绍统采而续之。
+translation: 
+"Yi" records: Intangible and abstract things are called Tao, and concrete and real things are called utensils.
+The mysterious Tao is all-encompassing, and its wonder is embodied in Yin and Yang; the subtleties of tangible objects are fundamentally embodied in the law.
+The sage observed the changes of the four seasons and made a standard watch to record the succession of the seasons; he understood the corresponding musical sounds of the five elements and made a bell to distinguish their high and low. Only in this way can he comply with the characteristics of music to promote the virtues of the nine virtues, so that prosperous, solemn and solemn music can harmoniously assist the state affairs.
+However, the texture of copper is like leather, which makes it difficult to determine the size of the bell mouth; bamboo is round and hollow, and its length is easy to cut.
+So Shen Gu used bamboo to make music to standardize the pitch of the bell. So the three laws of Huang Zhong, Gu Xi, and Yi Ze were determined first, and then the three laws of Taiku, Ruibin, and Wushe were divided equally into the above three laws and inserted in between. Finally, other six laws such as Da Lu were inserted between the above six laws to form twelve laws. This is the embodiment of the laws of nature.
+At the same time, the sundial shadow is also used to adjust the seasonal moon, and the rhythm tube is used to adjust the weather to match the earth's Qi. Therefore, if the yin and yang are harmonious, the sundial shadow will be accurate, and the earth's Qi will be ashes if it corresponds to the rhythm tube.
+The rhythm pipe can fly ashes and the sound it makes is the sound of harmony between heaven and earth.
+Only then can it standardize various measurement standards and be applied to the measurement of various items, creating the principle stated in "Yu Shu" to make the qi of the four seasons, the lengths and lengths of the sun and the moon uniform, and to make the laws, weights and measures uniform.
+The sound of neutrality has laws and regulations that can fully embody beauty and goodness. Virtuous music is both grand and harmonious. They can move heaven, earth, ghosts, and gods, guide emotions, and change customs.
+Ye Shi said that the expression of aspirations is pinned on chanting, and the identification of the rise and fall of world affairs is pinned on the governance of state affairs. Therefore, a gentleman can listen to the sound to choose the music, listen to the music to grasp the music, and listen to the music to examine political affairs. It is probably due to this reason.
+Tai Shigong's "Lvshu" states: When the king formulates the standard laws of things, he always follows the six laws.
+Taking the Six Laws as the foundation of all things is especially important in war.
+Therefore, observing the enemy's situation can predict good or bad luck, and listening to the sound of the music can determine the outcome. This is an unchanging rule for emperors throughout the ages.
+After Qin Shihuang burned books, these laws gradually declined.
+When the Han Dynasty just emerged, Prime Minister Zhang Cang began to examine the music and temperament, but failed to make a complete assessment.
+During the reign of Emperor Xiaowu, the official position of coordinating music and music began to be set up, and Sima Qian investigated the order of the relationship between music and music in more detail.
+Since Wang Mang came to power, he has also investigated and studied musical rhythm, which Liu Xin presented one by one. There are roughly five items: one is complete mathematics, including one, ten, hundreds, thousands, and ten thousand;
+Ban Gu compiled these contents into "Moshu". "Lü Li Zhi".
+Cai Yong recorded the scholars who later studied Lu and Lu, and compiled these contents into "Xu Hanshu" by Sima Shaotong.
+
+summary:
+summary line 0: The sage observed seasonal changes to create a standard watch and understood the five elements to make bells, aligning music with state affairs. Shen Gu used bamboo to standardize pitch, establishing the twelve laws (Huang Zhong, Gu Xi, Yi Ze, etc.) as an embodiment of natural laws. The sundial shadow and rhythm tube were used to harmonize yin and yang, with the rhythm pipe producing a sound of harmony between heaven and earth, standardizing measurements as stated in "Yu Shu." Virtuous music, grand and harmonious, could move heaven, earth, ghosts, and gods, guiding emotions and customs. Ye Shi noted that aspirations are expressed in chanting, and a gentleman listens to sound to choose music, then to grasp music, and finally to examine political affairs.
+
+Chunk 0: 
+original: 
+《易》曰： 形而上者谓之道，形而下者谓之器。
+夫神道广大，妙本于阴阳；形器精微，义先于律吕。
+圣人观四时之变，刻玉纪其盈虚，察五行之声，铸金均其清浊，所以遂八风而宣九德，和大乐而成政道。
+然金质从革，侈弇无方；竹体圆虚，修短利制。
+是以神瞽作律，用写钟声，乃纪之以三，平之以六，成于十二，天之道也。
+又叶时日于晷度，效地气于灰管，故阴阳和则景至，律气应则灰飞。
+灰飞律通，吹而命之，则天地之中声也。
+故可以范围百度，化成万品，则《虞书》所谓 叶时月正日，同律度量衡 者也。
+中声节以成文，德音章而和备，则可以动天地，感鬼神，道性情，移风俗。
+叶言志于咏歌，鉴盛衰于治乱，故君子审声以知音，审音以知乐，审乐以知政，盖由兹道。
+太史公律书云： 王者制事立物，法度轨则，一禀于六律。
+六律为万事之本，其于兵械尤所重焉。
+故云望敌知吉凶，闻声效胜负，百王不易之道也。
+及秦氏灭学，其道浸微。
+汉室初兴，丞相张苍首言律，未能审备。
+孝武帝创置协律之官，司马迁言律吕相生之次详矣。
+及王莽际，考论音律，刘歆条奏，大率有五：一曰备数，一、十、百、千、万也；二曰和声，宫、商、角、徵、羽也；三曰审度，分、寸、尺、丈、引也；四曰嘉量，龠、合、升、斗、斛也；五曰权衡，铢、两、斤、钧、石也。
+班固因而志之。
+蔡邕又记建武已后言律吕者，至司马绍统采而续之。
+translation: 
+"Yi" records: Intangible and abstract things are called Tao, and concrete and real things are called utensils.
+The mysterious Tao is all-encompassing, and its wonder is embodied in Yin and Yang; the subtleties of tangible objects are fundamentally embodied in the law.
+The sage observed the changes of the four seasons and made a standard watch to record the succession of the seasons; he understood the corresponding musical sounds of the five elements and made a bell to distinguish their high and low. Only in this way can he comply with the characteristics of music to promote the virtues of the nine virtues, so that prosperous, solemn and solemn music can harmoniously assist the state affairs.
+However, the texture of copper is like leather, which makes it difficult to determine the size of the bell mouth; bamboo is round and hollow, and its length is easy to cut.
+So Shen Gu used bamboo to make music to standardize the pitch of the bell. So the three laws of Huang Zhong, Gu Xi, and Yi Ze were determined first, and then the three laws of Taiku, Ruibin, and Wushe were divided equally into the above three laws and inserted in between. Finally, other six laws such as Da Lu were inserted between the above six laws to form twelve laws. This is the embodiment of the laws of nature.
+At the same time, the sundial shadow is also used to adjust the seasonal moon, and the rhythm tube is used to adjust the weather to match the earth's Qi. Therefore, if the yin and yang are harmonious, the sundial shadow will be accurate, and the earth's Qi will be ashes if it corresponds to the rhythm tube.
+The rhythm pipe can fly ashes and the sound it makes is the sound of harmony between heaven and earth.
+Only then can it standardize various measurement standards and be applied to the measurement of various items, creating the principle stated in "Yu Shu" to make the qi of the four seasons, the lengths and lengths of the sun and the moon uniform, and to make the laws, weights and measures uniform.
+The sound of neutrality has laws and regulations that can fully embody beauty and goodness. Virtuous music is both grand and harmonious. They can move heaven, earth, ghosts, and gods, guide emotions, and change customs.
+Ye Shi said that the expression of aspirations is pinned on chanting, and the identification of the rise and fall of world affairs is pinned on the governance of state affairs. Therefore, a gentleman can listen to the sound to choose the music, listen to the music to grasp the music, and listen to the music to examine political affairs. It is probably due to this reason.
+Tai Shigong's "Lvshu" states: When the king formulates the standard laws of things, he always follows the six laws.
+Taking the Six Laws as the foundation of all things is especially important in war.
+Therefore, observing the enemy's situation can predict good or bad luck, and listening to the sound of the music can determine the outcome. This is an unchanging rule for emperors throughout the ages.
+After Qin Shihuang burned books, these laws gradually declined.
+When the Han Dynasty just emerged, Prime Minister Zhang Cang began to examine the music and temperament, but failed to make a complete assessment.
+During the reign of Emperor Xiaowu, the official position of coordinating music and music began to be set up, and Sima Qian investigated the order of the relationship between music and music in more detail.
+Since Wang Mang came to power, he has also investigated and studied musical rhythm, which Liu Xin presented one by one. There are roughly five items: one is complete mathematics, including one, ten, hundreds, thousands, and ten thousand;
+Ban Gu compiled these contents into "Moshu". "Lü Li Zhi".
+Cai Yong recorded the scholars who later studied Lu and Lu, and compiled these contents into "Xu Hanshu" by Sima Shaotong.
+
+summary:
+summary line 1: Tai Shigong's "Lvshu" states that kings follow the six laws as the foundation of all things, especially in war. Observing the enemy's situation and listening to music can predict outcomes. After Qin Shihuang burned books, these laws declined. During the Han Dynasty, Prime Minister Zhang Cang examined music and temperament but failed to complete the assessment. Emperor Xiaowu set up an official position for coordinating music, and Sima Qian investigated the order of music and rhythm. Wang Mang also studied musical rhythm, with Liu Xin presenting five items: complete mathematics, harmony of five tones, high and low pitch, length and shortness, and capacity of round and square. Ban Gu compiled these into "Lü Li Zhi." Cai Yong recorded later scholars' work in "Xu Hanshu." During the end of Mo, musicians fled, and laws were destroyed. Emperor Wu of Wei acquired musician Du Kui to test musical instruments, and Du Kui balanced the legal system. After Emperor Wu of Jin founded the country, the system remained unchanged until Xun Kan rebuilt new standards in the tenth year of Jin. During Yuankang, Xun Xun's son Yingpeng continued the work, but the Yongtai Rebellion caused the loss of rituals and music to Shi Le. When Emperor Jin and Yuan moved to Jiankang, ceremonial utensils and musical instruments were scarce.
+
+Chunk 1: 
+original: 
+汉末天下大乱，乐工散亡，器法堙灭，魏武始获杜夔，使定乐器声调。
+夔依当时尺度，权备典章。
+及武帝受命，遵而不革。
+至泰始十年，光禄大夫荀勖奏造新度，更铸律吕。
+元康中，勖子籓嗣其事，未及成功，属永嘉之乱，中朝典章，咸没于石勒。
+及元帝南迁，皇度草昧，礼容乐器，扫地皆尽，虽稍加采掇，而多所沦胥，终于恭、安，竟不能备。
+今考古律相生之次，及魏武已后言音律度量者，以声明于篇云。
+《传》云： 十二律，黄帝之所作也。
+使伶伦自大夏之西，乃之昆仑之阴，取竹之嶰谷生，其窍厚均者，断雨节间长三寸九分而吹之，以为黄钟之宫，曰含少。
+次制十二竹筒，写凤之鸣，雄鸣为六，雌鸣亦六，以比黄钟之宫，皆可以生之以定律吕。
+则律之始造，以竹为管，取其自然圆虚也。
+又云 黄帝作律，以玉为管，长尺，六孔，这二十月音。
+至舜时，西王母献昭华之琯，以玉为之。
+及汉章帝时，零陵文学奚景于泠道舜祠下得白玉琯。
+又武帝太康元年，汲郡盗发六国时魏襄王冢，亦得玉律。
+则古者又以玉为管矣。
+以玉者，取其体含廉润也。
+而汉平帝时，王莽又以铜为之。
+铜者，自名也，所以同天下，齐风俗也。
+为物至精，不为燥湿寒暑改节，介然有常，似士君子之行，故用焉。
+《周礼》太师掌六律、六吕，以合阴阳之声。
+六律阳声，黄钟、太蔟、姑洗、蕤宾、夷则、无射也；六吕阴声，大吕、应钟、南吕、林钟、仲吕、夹钟也。
+又有太师则执同律以听军声，而诏以吉凶。
+其典同掌六律之和，以辩天地四方阴阳之声，以为乐器，皆以十有二律而为之数度，以十有二声而为之齐量焉。
+及周景王将铸无射，问律于泠州鸠，对曰： 夫六，中之色，故名之曰黄钟，所以宣养六气九德也。
+由是第之。二曰太蔟，所以金奏赞阳出滞也。
+translation: 
+At the end of Mo, the world was in chaos, the musicians fled and scattered, and all the laws and regulations were destroyed and scattered. During the reign of Emperor Wu of the Wei Dynasty, he acquired the musician Du Kui and ordered him to test the musical instrument's tune.
+Du Kui balanced and perfected the legal system according to the standards of the time.
+After Emperor Wu of the Jin Dynasty founded the country, this system remained unchanged.
+In the tenth year of the Jin Dynasty, Xun Kan, the official of Guanglu, wrote a memorial to rebuild new standards and recast new rhythms and instruments.
+During the Yuankang period, Xun Xun's son Yingpeng took over this work. Before it was completed, there was the Yongtai Rebellion, and the rituals, music, and institutional norms of the Central Plains fell into the hands of Shi Le.
+By the time Emperor Jin and Yuan moved the capital to Jiankang, the emperor's character and quality had just been established, and there were almost no ceremonial utensils and musical instruments. Although some collections had been made, most of them had been lost, and they were no longer even available during the reigns of Emperors An and Gong.
+Nowadays, the order of mutual generation of ancient laws has been researched, and scholars who discussed the measurement of laws after Emperor Wu of Wei have been published.
+Records say that the Twelve Laws were produced during the Huangdi era.
+Huangdi ordered the music officer Linglun to cut bamboo from the valley in the west of Daxia and north of Kunlun Mountain. He selected a bamboo tube with a uniform thickness and thickness, and cut a section three inches and nine minutes long between the two sections. He named the sound produced by it as the Palace of Huang Zhong and called it Han Shao.
+Later, twelve bamboo tubes were made to imitate the cry of the phoenix. During this period, there are six sounds of phoenix and six sounds of phoenix. They are all produced from the rhythm tube of the Yellow Bell Palace, forming the twelve rhythms.
+It can be seen that bamboo tubes were used in the beginning of rhythm-making, because the size of its cavity was naturally formed.
+There are also records saying that the Yellow Emperor used jade to make rhythm tubes, one foot long and six holes, and he used one tube for each month in December.
+During the reign of Shun, the king of the West once presented Zhaohua's lüguan, which was made of jade.
+During the reign of Emperor Mozhang, Xi Jing of Lingling Literature unearthed a white jade rhythm tube under the Shun Temple in Lingdao.
+In the first year of Emperor Wu's reign, he robbed the tomb of King Xiang of Wei in the Zhou Dynasty and obtained the jade rules.
+It can be seen that there were examples of jade being used as legal instruments in ancient times.
+The advantage of using jade as a tube is that the tube body is clear and moist.
+During the reign of Emperor Moping, Wang Ling used copper to make musical instruments.
+Copper symbolizes the unity of the world and the same customs.
+Copper has excellent texture and is not deformed by dryness, moisture, cold, or heat. Its performance is stable for a long time, just like the character of a gentleman, so it is used.
+"Zhou Rites" records that the Taishi is in charge of the six laws and six lu, which are used to coordinate the sounds of yin and yang.
+The six rhythms are Yang sounds, which refer to Huangzhong, Taigu, Guxi, Ruibin, Yize, and Wushe; the six Lu are Yin sounds, which refer to Dalu, Yingzhong, Nanlu, Linzhong, Zhonglv, and Jiazhong.
+"The Rites of Zhou" also contains the saying that the imperial master used twelve laws and regulations to predict military affairs and tell good or bad luck.
+At the same time, Dian Tong was in charge of the sum of six rhythms and six lu, which was used to analyze the sounds of yin and yang in the four directions of the world and make musical instruments. They all used the twelve rhythms as the length standard and the twelve tones as the test standard.
+King Zhou Jing wanted to make a Wushe bell, so he asked Jie Zhi about the rhythm. Shi Xi replied: Among the six heavens and earth, its color corresponds to the five elements of earth, and its color is yellow, so it is called a yellow bell.
+From the yellow bell downwards, there is the second rhythm of Tai Cun, which means the use of golden music to assist the growth of Yang Qi and get out of the stagnant season.
+
+summary:
+summary line 2: The text records that the twelve laws were produced during the Huangdi era. Linglun cut bamboo from a valley west of Daxia and north of Kunlun, selecting a tube three inches and nine minutes long, naming the sound Huang Zhong's Palace, called Han Shao. Twelve bamboo tubes were made to imitate the phoenix's cry, with six sounds of the phoenix and six of the phoenix, all from the Yellow Bell Palace rhythm, forming the twelve rhythms. Bamboo tubes were used initially due to their naturally formed cavity size. Huangdi also used jade to make rhythm tubes, one foot long with six holes, one for each month. During Shun's reign, the king of the West presented Zhaohua's lüguan made of jade. During Emperor Mozhang's reign, Xi Jing unearthed a white jade rhythm tube under the Shun Temple. In the first year of Emperor Wu's reign, a jade rule was obtained from the tomb of King Xiang of Wei. Jade was used for its clear and moist tube body. During Emperor Moping's reign, Wang Ling used copper to make musical instruments, symbolizing unity and stability, as copper does not deform with dryness, moisture, cold, or heat.
+
+Chunk 1: 
+original: 
+汉末天下大乱，乐工散亡，器法堙灭，魏武始获杜夔，使定乐器声调。
+夔依当时尺度，权备典章。
+及武帝受命，遵而不革。
+至泰始十年，光禄大夫荀勖奏造新度，更铸律吕。
+元康中，勖子籓嗣其事，未及成功，属永嘉之乱，中朝典章，咸没于石勒。
+及元帝南迁，皇度草昧，礼容乐器，扫地皆尽，虽稍加采掇，而多所沦胥，终于恭、安，竟不能备。
+今考古律相生之次，及魏武已后言音律度量者，以声明于篇云。
+《传》云： 十二律，黄帝之所作也。
+使伶伦自大夏之西，乃之昆仑之阴，取竹之嶰谷生，其窍厚均者，断雨节间长三寸九分而吹之，以为黄钟之宫，曰含少。
+次制十二竹筒，写凤之鸣，雄鸣为六，雌鸣亦六，以比黄钟之宫，皆可以生之以定律吕。
+则律之始造，以竹为管，取其自然圆虚也。
+又云 黄帝作律，以玉为管，长尺，六孔，这二十月音。
+至舜时，西王母献昭华之琯，以玉为之。
+及汉章帝时，零陵文学奚景于泠道舜祠下得白玉琯。
+又武帝太康元年，汲郡盗发六国时魏襄王冢，亦得玉律。
+则古者又以玉为管矣。
+以玉者，取其体含廉润也。
+而汉平帝时，王莽又以铜为之。
+铜者，自名也，所以同天下，齐风俗也。
+为物至精，不为燥湿寒暑改节，介然有常，似士君子之行，故用焉。
+《周礼》太师掌六律、六吕，以合阴阳之声。
+六律阳声，黄钟、太蔟、姑洗、蕤宾、夷则、无射也；六吕阴声，大吕、应钟、南吕、林钟、仲吕、夹钟也。
+又有太师则执同律以听军声，而诏以吉凶。
+其典同掌六律之和，以辩天地四方阴阳之声，以为乐器，皆以十有二律而为之数度，以十有二声而为之齐量焉。
+及周景王将铸无射，问律于泠州鸠，对曰： 夫六，中之色，故名之曰黄钟，所以宣养六气九德也。
+由是第之。二曰太蔟，所以金奏赞阳出滞也。
+translation: 
+At the end of Mo, the world was in chaos, the musicians fled and scattered, and all the laws and regulations were destroyed and scattered. During the reign of Emperor Wu of the Wei Dynasty, he acquired the musician Du Kui and ordered him to test the musical instrument's tune.
+Du Kui balanced and perfected the legal system according to the standards of the time.
+After Emperor Wu of the Jin Dynasty founded the country, this system remained unchanged.
+In the tenth year of the Jin Dynasty, Xun Kan, the official of Guanglu, wrote a memorial to rebuild new standards and recast new rhythms and instruments.
+During the Yuankang period, Xun Xun's son Yingpeng took over this work. Before it was completed, there was the Yongtai Rebellion, and the rituals, music, and institutional norms of the Central Plains fell into the hands of Shi Le.
+By the time Emperor Jin and Yuan moved the capital to Jiankang, the emperor's character and quality had just been established, and there were almost no ceremonial utensils and musical instruments. Although some collections had been made, most of them had been lost, and they were no longer even available during the reigns of Emperors An and Gong.
+Nowadays, the order of mutual generation of ancient laws has been researched, and scholars who discussed the measurement of laws after Emperor Wu of Wei have been published.
+Records say that the Twelve Laws were produced during the Huangdi era.
+Huangdi ordered the music officer Linglun to cut bamboo from the valley in the west of Daxia and north of Kunlun Mountain. He selected a bamboo tube with a uniform thickness and thickness, and cut a section three inches and nine minutes long between the two sections. He named the sound produced by it as the Palace of Huang Zhong and called it Han Shao.
+Later, twelve bamboo tubes were made to imitate the cry of the phoenix. During this period, there are six sounds of phoenix and six sounds of phoenix. They are all produced from the rhythm tube of the Yellow Bell Palace, forming the twelve rhythms.
+It can be seen that bamboo tubes were used in the beginning of rhythm-making, because the size of its cavity was naturally formed.
+There are also records saying that the Yellow Emperor used jade to make rhythm tubes, one foot long and six holes, and he used one tube for each month in December.
+During the reign of Shun, the king of the West once presented Zhaohua's lüguan, which was made of jade.
+During the reign of Emperor Mozhang, Xi Jing of Lingling Literature unearthed a white jade rhythm tube under the Shun Temple in Lingdao.
+In the first year of Emperor Wu's reign, he robbed the tomb of King Xiang of Wei in the Zhou Dynasty and obtained the jade rules.
+It can be seen that there were examples of jade being used as legal instruments in ancient times.
+The advantage of using jade as a tube is that the tube body is clear and moist.
+During the reign of Emperor Moping, Wang Ling used copper to make musical instruments.
+Copper symbolizes the unity of the world and the same customs.
+Copper has excellent texture and is not deformed by dryness, moisture, cold, or heat. Its performance is stable for a long time, just like the character of a gentleman, so it is used.
+"Zhou Rites" records that the Taishi is in charge of the six laws and six lu, which are used to coordinate the sounds of yin and yang.
+The six rhythms are Yang sounds, which refer to Huangzhong, Taigu, Guxi, Ruibin, Yize, and Wushe; the six Lu are Yin sounds, which refer to Dalu, Yingzhong, Nanlu, Linzhong, Zhonglv, and Jiazhong.
+"The Rites of Zhou" also contains the saying that the imperial master used twelve laws and regulations to predict military affairs and tell good or bad luck.
+At the same time, Dian Tong was in charge of the sum of six rhythms and six lu, which was used to analyze the sounds of yin and yang in the four directions of the world and make musical instruments. They all used the twelve rhythms as the length standard and the twelve tones as the test standard.
+King Zhou Jing wanted to make a Wushe bell, so he asked Jie Zhi about the rhythm. Shi Xi replied: Among the six heavens and earth, its color corresponds to the five elements of earth, and its color is yellow, so it is called a yellow bell.
+From the yellow bell downwards, there is the second rhythm of Tai Cun, which means the use of golden music to assist the growth of Yang Qi and get out of the stagnant season.
+
+summary:
+summary line 3: "The Rites of Zhou" records that the Taishi is in charge of the six laws and six lu, coordinating yin and yang sounds. The six rhythms (Huangzhong, Taigu, Guxi, Ruibin, Yize, Wushe) are yang sounds, while the six lu (Dalu, Yingzhong, Nanlu, Linzhong, Zhonglv, Jiazhong) are yin sounds. The imperial master used twelve laws to predict military affairs and good or bad luck. Dian Tong was in charge of the sum of six rhythms and six lu to analyze yin and yang sounds and make musical instruments, using the twelve rhythms as length standards and twelve tones as test standards. King Zhou Jing wanted to make a Wushe bell and asked about the rhythm. Shi Xi explained that the yellow bell corresponds to earth, and from it, the second rhythm of Tai Cun assists Yang Qi. The third law, Guxi, is used for worship. The fourth, Ruibin, is used in the ancestral temple. The fifth, Yi Ze, sings the virtues of the Nine Gongs. The sixth, Wushe, declares the virtues of philosophers. There are also six rooms: Da Lu assists the Yang Law, Jia Zhong harmonizes the four seasons, Zhonglu nourishes neutrality, Lin Zhong brings peace, Nanlu assists formation, and Yingzhong restores utensils to their normal state.
+
+Chunk 2: 
+original: 
+三曰姑洗，所以羞洁百物，考神纳宾也。
+四曰蕤宾，所以安静神人，献酬交酢也。
+五曰夷则，所以咏歌九德，平人无贰也。
+六曰无射，所以宣布哲人之令德，示人轨仪也。
+为之六间，以扬沈伏而黜散越也。
+元间大吕，助宣物也，二间夹钟，出四隙之细也。
+三间中吕，宣中气也。
+四间林钟，和展百事，俾莫不任肃纯恪也。
+五间南吕，赞阳秀也。
+六间应钟，均利器用，俾应复也。
+此皆所以律述时气效节物也。
+及秦始皇焚书荡覆，典策缺亡，诸子琐言时有遗记。
+吕不韦《春秋》言：黄钟之宫，律之本也，下生林钟，林钟上生太蔟，太蔟下生南吕，南吕上生姑洗，姑洗下生应钟，应钟上生蕤宾，蕤宾下生大吕，大吕下生夷则，夷则上生夹钟，夹钟下生无射，无射上生中吕。
+三分所生，益其一分以上生；三分所生，去其一分以下生。
+后代之言音律者多宗此说。
+及汉兴，承秦之弊，张苍首治律历，颇未能详。
+故孝武帝正乐，乃置协律之官，虽律吕清浊之体粗正，金石高下之音有准，然徒捃采遗存，以成一时之制，而数犹用五。
+时淮南王安延致儒博，亦为律吕。
+云黄钟之律九寸而宫音调，因而九之，九九八十一，故黄钟之数立焉，位在子。
+林钟位在未，其数五十四。
+translation: 
+The third law is called Guxi, which means that clean objects can be used to worship gods and entertain guests.
+The fourth law is called Ruibin, and its metaphorical meaning can be used in the ancestral temple to make the gods and men quiet and enjoy themselves, and toast each other like a guest and a host.
+The fifth rhyme is called Yi Ze, and its meaning can sing the virtues of the Nine Gongs. Fulfill the aspirations of the people so that they have no doubts.
+The sixth law is called Wushe, and its allegorical meaning can declare the virtues of philosophers and clarify the standards of life.
+There are also six rooms for promoting stagnant energy and discarding exciting emotions.
+The first room is called Da Lu, and its meaning can assist the Yang Law and Huang Zhong in standardizing all things. The second room is called Jia Zhong, which means to harmonize the subtleties of the four seasons.
+The third room is called Zhonglu, which symbolizes justice and nourishes the spirit of neutrality.
+The fourth room is called Lin Zhong, which means that everything in the world is peaceful and smooth, and everything is without pretense. People should do their own thing, achieve quick success, and respect their duties.
+The fifth room is called Nanlu, which means assisting in the formation of all things.
+The sixth room is called Yingzhong, which means that all the utensils are ready, which is beneficial to the major events of the world, and all the organs and utensils can be restored to the normal state corresponding to their rituals.
+These are all statements that use laws to verify the qi of the four seasons and correspond to things in the world.
+The First Emperor of Qin destroyed culture by burning books, and all the classics were scattered and lost. The articles of various scholars describing trivial anecdotes occasionally survived.
+Lu Buwei's "Spring and Autumn Annals" stated: Huangzhong Palace is the foundation of the law. Lin Zhong was born under Huang Zhong, Tai Cun was born above Lin Zhong, Nan Lu was born under Tai Cong, Gu Xi was born above Nan Lu, Ying Zhong was born under Gu Xi, Ruibin was born above Ying Zhong, Da Lu was born under Ruibin, Yi Ze was born under Da Lu, Jia Zhong was born above Yi Ze, Wu She was born under Jia Zhong, and Zhong Lu was born above Wu She.
+The length of the law generated by the three thirds increases by one point and produces the law of ascending; decreases by one point and produces the law of descending.
+Later generations generally followed this rule when studying music.
+After the Han Dynasty prospered and the Qin Dynasty's book-burning practices were stopped, Zhang Cang began to study the legal calendar, but it was not complete yet.
+Therefore, Emperor Xiaowu took the music examination in the school and set up the official position of Xielu, which allowed the pitch of lulu to be initially standardized and the pitch of musical instruments to be accurately grasped. However, this was just a collection of past results. As a temporary system, the number of notes was still five.
+At that time, King Liu An of Huainan invited scholars to study Lu Lu.
+It is said that the rhythm of Huang Zhong is nine inches, and the palace sound is determined. Therefore, when multiplied by nine, nine, nine and eighty-one, the number of Huang Zhong's rhythm is determined, and its position is Zi.
+The position of Lin Zhong is in Wei, and the law number is fifty-four.
+
+summary:
+summary line 4: The First Emperor of Qin burned books, scattering classics. Lu Buwei's "Spring and Autumn Annals" stated that Huangzhong Palace is the foundation of the law, with Lin Zhong born under it, Tai Cun above Lin Zhong, and so on, following the rule of three-thirds increase or decrease. After the Han Dynasty, Zhang Cang studied the legal calendar but it was incomplete. Emperor Xiaowu set up the official position of Xielu, standardizing pitch, but the number of notes remained five. King Liu An of Huainan invited scholars to study Lu Lu, stating that Huang Zhong's rhythm is nine inches, with the palace sound determined. The twelve laws correspond to the twenty-four seasonal changes, with Jiazi corresponding to Zhonglu, Bingzi to the bell's feather, Wuzi to Huangzhong's palace, Gengzi to Wushe's quotient, and Renzi to Yize's corner. The twelve laws produce sixty tones, and three hundred and sixty tones correspond to the number of days in a year.
+
+Chunk 4: 
+original: 
+午，七百二十九分之五百一十二。
+未，二千一百八十七分之一千二十四。
+申，六千五百六十一分之四千九十六。
+酉，一万九千六百八十二分之八千一百九十二。
+戌，五万九千四十九分之三万二千七百六十八。
+亥，十七万七千一百四十七分之六万五千五百三十六。
+如是周十二辰，在六律为阳，则当位自得而下生阴，在六吕为阴，则得其所衡而上生于阳，推算之术无重上生之法也。
+所谓律取妻，吕生子，阴阳升降，律吕之大经也。
+而迁又言十二律之长，今依淮南九九之数，则蕤宾为重上。
+又言五音相生，而以宫生角，角生商，商生徵，徵生羽，羽生宫。
+求其理用，罔见通途。
+及元始中，王莽辅政，博征通知钟律者，考其音义，使羲和刘歆典领调奏。
+班固《汉书》采而志之，其序论虽博，而言十二律损益次第，自黄钟长九寸，三分损一，下生林钟，长六寸。
+三分益一，上生太蔟而左旋，八八为位。一上一下，终于无射，下生中吕。
+校其相生所得，与司马迁正同。班固采以为志。
+元帝时，郎中京房知五音六十律之数，上使太子傅玄成、谏议大夫章杂试问房于乐府，房对： 受学于故小黄令焦延寿。
+六十律相生之法：以上生下，皆三生二；以下生上，皆三生四。
+阳下生阴，阴上生阳，终于中吕，而十二律毕矣。
+中吕上生执始，执始下生去灭。
+上下相生，终于南事，而六十律毕矣。
+夫十二律之变至于六十，犹八卦之变至于六十四也。
+宓牺作《易》，纪阳气之初以为律法。
+建日冬至之声，以黄钟为宫，太蔟为商，姑洗为角，林钟为徽，南吕为羽，应钟为变宫，蕤宾为变徵，此声气之元，五音之正也。
+故各统一日，其余以次运行，当日者各自为宫，而商角徽羽以类从焉。
+translation: 
+Noon, 512/729.
+Wei, 1024/2187.
+Shen, 4096/6561.
+Unit 8192/19682.
+Xu, 32,768/59,049.
+Hai, 65536/177147.
+In this way, the law corresponds to the twelve celestial beings, among which the six laws are Yang laws, and the number derived from the first law is generated downward to produce the Yin law, while the six Lu are Yin laws, and the numbers derived from the Yin law are generated upward to produce the Yang law. There is no continuous law in the calculation process.
+The creation is the so-called law of marrying a wife and giving birth to a son. The rising and falling of yin and yang formed by the law is also the routine of the operation of the law.
+But Sima Qian also said that if the length of the twelve laws is calculated according to the number of laws in "Huainanzi", then Ruibin is a repeated ascendant.
+It is also said that the five tones are related to each other by using the palace to generate horns, the horns to generate Shang, the Shang to generate Zheng, the Zheng to generate Yu, and the Yu to generate Gong.
+If we look for the principle of their mutual development, it will not make sense at all.
+In the first year of the Yuan Dynasty, Wang Mang assisted in state affairs and recruited scholars who were familiar with bell rhythms to examine the music and rhythm issues, and asked Xi and Liu Xin to sort out the memorials piece by piece.
+Ban Gu's "Book of Han" was collected and compiled into the annals. Although the contents discussed in sequence are extensive, when it comes to the order of the gain and loss of the twelve laws, it is based on the nine-inch long yellow bell, which loses one by three, and the forest bell, which is six inches long.
+In addition, the three points of Lin Zhongchang are beneficial to one, and the left-hand upwards give birth to Taiyun, so that every eight rhythms produce uniformity, the upper ones give birth to the lower parts, and end up in Wushe, and the lower parts give birth to Zhonglu.
+The results of the examination were the same as those of Sima Qian, so Ban Gu was included in his annals.
+During the reign of Emperor Yuan, the doctor Jingfang was proficient in the mathematics of five tones and sixty temperaments. The emperor ordered the crown prince Taifu Xuancheng and the admonishment official Zhang to question Jingfang in Yuefu. Jingfang replied: I learned from the late Xiao Huangling Jiao Yanshou.
+The method of mutual generation of sixty laws is: using the upper law to produce the lower law, the ratio is two-thirds; using the lower law to produce the upper law, the ratio is three-fourths.
+The Yang law gives rise to the Yin law, and the Yin law gives rise to the Yang law. Until Zhonglu, the twelve laws are mutually generated.
+Zhonglu Shangsheng is responsible for the law of beginning, and he is responsible for the law of reduction for his descendants.
+Up and down mutually generate each other, until the law of Nanshi, the sixty laws have completed the mutual generation.
+The twelve laws change into the sixty laws, just like the eight trigrams change into the sixty-four hexagrams.
+Mi Xi wrote "Yi", which comprehensively analyzed the situation of the budding Yang Qi as the standard for high rhythm.
+To establish the musical scale used on the day of the winter solstice, that is, Huang Zhong is the palace, Taixun is the Shang, Guxi is the horn, Lin Zhong is the Zheng, Nanlu is the Yu, Yingzhong is the Biangong, and Ruibin is the Bianzheng. This is the foundation of the tone and the correct position of the five tones.
+Therefore, they can be controlled separately, and the rest can be arranged in order. The rules that control the day are each palace sounds, and Shang Jiao Zheng Yu is arranged in order according to his palace.
+
+summary:
+summary line 5: Sima Qian's "Eight Books" discussed Lu Lu, stating that the most primitive chaotic energy contains the three qi of heaven, earth, and humans, activated in Zi. The twelve laws' mutual generation originates from here. The calculation method uses the nine-inch length of the Huang Zhong rule, with lower rules multiplying two by nine and dividing by three, and upper rules multiplying the lower rule by four and dividing by three. The law corresponds to the twelve celestial beings, with six laws as yang and six lu as yin. Sima Qian noted that if the length of the twelve laws is calculated according to "Huainanzi," Ruibin is a repeated ascendant. In the first year of the Yuan Dynasty, Wang Mang recruited scholars to examine music and rhythm, with Liu Xin sorting out the memorials. Ban Gu's "Book of Han" compiled these into annals, with the order of gain and loss based on the nine-inch yellow bell. During Emperor Yuan's reign, Jingfang was proficient in five tones and sixty temperaments. He explained that the method of mutual generation of sixty laws uses the upper law to produce the lower law with a ratio of two-thirds, and the lower law to produce the upper law with a ratio of three-fourths. The twelve laws change into the sixty laws, like the eight trigrams change into the sixty-four hexagrams. Jingfang added that a precision instrument, shaped like a zither with thirteen strings, is used to determine temperament data. The pitch of the pitch instrument is clear, but the pitch deviation caused by string tension is difficult to standardize without a temperament to calibrate.
+
+Chunk 5: 
+original: 
+《礼运》曰 五声、六律、十二管还相为宫 ，此之谓也。
+以六十律分期之日，黄钟自冬至始，及冬至而复，阴阳、寒燠、风雨之占生焉。
+于以检摄群音，考其高下，苟非革木之声，则无不有所合。《虞书》曰 律和声，此之谓也。
+京房又曰： 竹声不可以度调，故作准以定数。
+准之状如瑟，而长丈，十三弦，隐间九尺，以应黄钟之律九寸。
+中央一弦，下有画分寸，以为六十律清浊之节。
+房言律详于歆所奏，其术施行于史官，候部用之，文多不悉载。
+截管为律，吹以考声，列以效气，道之本也。
+术家以其声微而体难知，其分数不明，故作准以代之。
+准之声明暢易达，分寸又粗，然弦以缓急清浊，非管无以正也。
+均其中弦，令与黄钟相得，案画以求诸律，则无不如数而应者矣。
+《续汉志》具载其六十律准度数，其相生之次与《吕览》、《淮南》同。
+汉章帝元和元年，待诏候钟律殷肜上言： 官无晓六十律以准调音者。
+故待诏严崇具以准法教子男宣，原召宣补学官，主调乐器。
+诏曰： 崇子学审晓律，别其族，协其声者，审试。
+不得依托父学，以聋为聪。
+声微妙，独非莫知，独是莫晓。
+以律错吹，能知命十二律不失一，乃为能传崇学耳。
+试宣十二律，其二中，其四不中，其六不知何律，宣遂罢。
+自此律家莫能为准。
+灵帝熹平六年，东观召典律者太子舍人张光等问准意，光等不知，归阅旧藏，乃得其器。
+形制如房书，犹不能定其弦缓急。
+translation: 
+"Liyun" records that five tones, six rhythms, and twelve pipes form a palace, and this is the reason.
+According to the corresponding period of the sixty laws, the Huang Zhong began to be used for fulfillment on the winter solstice and returned on the next winter solstice. During this period, the predictions of yin and yang, cold and heat, wind and rain were produced.
+Therefore, all kinds of music are standardized and their quality is tested. If it is not played on leather or wooden instruments, there is nothing inappropriate. This is what "Yu Shu" says about "Lune and Harmony".
+Jingfang added: It is difficult to adjust the pitch of the bamboo pipe accurately, so a precision instrument is used to determine the temperament data.
+The accurate shape is like a zither, one foot long, with thirteen strings. The effective string length is nine feet, which corresponds to the nine inches of Huang Zhonglu.
+Under the central string, there is a mark of proportion, which is the mark of the sixty-tone high and low notes.
+Jingfang's discussion of the law is more detailed than Liu Xin's memorial. Its method of interdependence was implemented by officials in charge of the celestial calendar and used by the department responsible for divination of good and bad luck. There are too many contents to record them all.
+The law of cutting bamboo pipes, playing the music on the flute to test the school music, and arranging the flutes to match the weather are the foundation of Tao.
+The people in charge of the rhythm and calendar in ancient times knew that the tiny pitch changes of the rhythm tube, its length was difficult to determine, and its size was unclear, so they made accurate instruments to replace them.
+The pitch of the pitch instrument is clear, smooth and easy to understand, and its proportion is obvious. However, the pitch deviation caused by the tightness of the string tension is difficult to standardize without a temperament to calibrate.
+Adjust the central string so that it has the same pitch as the yellow bell tempered pipe, and then find the string lengths of each tempered string according to the description, and the pitches will be exactly the same.
+"Xu Han Zhi" all records the degrees of the sixty rules on the accurate instrument, and the order of their mutual generation is the same as "Lü Lan" and "Huainan".
+In the first year of Yuanhe, Emperor Zhang of the Han Dynasty, Yin Xi, who was waiting for the imperial edict to wait for Zhonglu, reported: No one in the court knows how to use accurate instruments to adjust the sixty rhythms.
+After Shao Yanchong taught his son Yan Xuan how to tune instruments accurately, he hoped to recruit Yan Xuanbu as an academic officer to be responsible for tuning instruments.
+The emperor's edict said: If Yan Chong's son really knows the temperament, distinguishes their categories, and harmonizes their pitch, he should be tested.
+You can't rely on your father's knowledge and think that you are smart because you don't know the pitch.
+The melody is subtle, but is there no one who understands it and masters it?
+The sequence of the twelve rhythms is staggered and played, and only those who can accurately judge each rhythm and ensure that they are consistent can receive Yan Chong's degree.
+When he tested Yan Xuan's twelve laws, he found that two of them were accurate, but four were not accurate, and six laws could not be identified. Therefore, Yan Xuan could not be appointed as a scholar.
+From then on, lawyers could no longer adjust the instrument.
+In the sixth year of Xiping, Emperor Ling summoned Zhang Guang, the prince's minister in charge of music, and others in Dongguan, and asked about the meaning of the accurate instrument. Zhang Guang and others did not know what it meant, so they went back to check the treasure and found it.
+Its shape is just like what Jingfang said, but the pitch of the string sound cannot be determined.
+
+summary:
+summary line 6: In the first year of Yuanhe, Emperor Zhang of Han, Yin Xi reported that no one in the court knew how to use accurate instruments to adjust the sixty rhythms. Shao Yanchong taught his son Yan Xuan, but when tested, Yan Xuan could only identify two of the twelve laws accurately, so he could not be appointed. From then on, lawyers could no longer adjust the instrument. In the sixth year of Xiping, Emperor Ling summoned Zhang Guang and others, but they did not know the meaning of the accurate instrument. The problem of music could not be summarized, and there were no people in the palace who could distinguish pitch. At the end of the Han Dynasty, wars caused the loss of Yale San. During Emperor Wu of Wei's reign, Du Kui was proficient in music and cast bells, but the pitch was often off. King Wu of Wei checked and found Du Kui's opinion accurate. In the tenth year of Taishi, Zhongshu supervisor Gou Xu and Zhongshu ordered Zhang Hua to produce twenty-five copper and bamboo flutes. Three were consistent with Du Kui's laws, while the others were flute flutes. Liehe explained that the flute was used for practice, and the whole group could play in tune if the names and dimensions were known. Xun Xu and others reported that the flute making was not standardized, and they proposed making twelve flutes according to the twelve laws, with each hole tuned to the same tune. The emperor agreed, and Gou Xu asked Liehe about the method. Liehe replied that the flute length should be based on the rhythm, and the holes should correspond to the rhythms. The flute workers made the flutes, and the rhythmists adjusted their temperament, resulting in standardized instruments and harmonious sounds.
+
+Chunk 11: 
+original: 
+南吕为变徵，非正也。
+应钟为徵，正也。
+黄钟为羽，非正也。
+太蔟为变宫。
+非正也。
+清角之调，唯宫、商及徵与律相应，余四声非正者皆浊，一律哨吹令清，假而用之，其例一也。
+凡笛体用律，长者八之，蕤宾、林钟也。
+短者四之。
+其余十笛，皆四角也。
+空中实容，长者十六。
+短笛竹宜受八律之黍也。
+若长短大小不合于此，或器用不便声均法度之齐等也。
+然笛竹率上大下小，不能均齐，必不得已，取其声均合。
+三宫，一曰正声，二曰下徵，三曰清角也。
+二十一变也。宫有七声，错综用之，故二十一变也。
+诸笛例皆一也。
+伏孔四，所以便事用也。
+一曰正角，出于商上者也，二曰倍角，近笛下者也，三曰变宫，近于宫孔，倍令下者也；四曰变徵，远于徵孔，倍令高者也。
+或倍或半，或四分一，取则于琴徽也。
+四者皆不作其孔，而取其度，以应退上下之法，所以协声均，便事用也。
+其本孔隐而不见，故曰伏孔也。
+大吕之笛，正声应大吕，下徵应夷则，长二尺六寸六分三厘有奇。
+太蔟之笛，正声应太蔟，下徵应南吕，长二尺五寸三分一厘有奇。
+夹钟之笛，正声应夹钟，下徵应无射，长二尺四寸。
+姑洗之笛，正声应姑洗，下徵应应钟，长二尺二寸三分三厘有奇。
+蕤宾之笛，正声应蕤宾，下徵应大吕，长三尺九寸九分五厘有奇。
+变宫近宫孔，故倍半令下，便于用也。
+林钟亦如之一。
+林钟之笛，正声应林钟，下徵应太蔟，长三尺七寸九分七厘有奇。
+夷则之笛，正声应夷则，下徵应夹钟，长三尽六寸。
+变宫之法，亦如蕤宾，体用四角，故四分益一也。
+南吕之笛，正声应南吕，下徵姑洗，长三尺三寸七分有奇。
+无射之笛，正声应无射，下徵应中吕，长三尺二寸。
+应钟之笛，正声应应钟，下徵应蕤宾，长二尺九寸九分六厘有奇。
+五音十二律土音宫，数八十一，为声之始。
+translation: 
+Nanchang is a changed sign, and the pitch is inaccurate.
+Respond to the bell as a sign, and the pitch is accurate.
+Huang Zhong is a feather, and the pitch is inaccurate.
+Taifu is the palace of change.
+The pitch is not accurate.
+In the Qingjiao tune, only the Gong, Shang and Zhengyu temperaments correspond to each other, and the pitches are accurate. The other four tones are all low in pitch. They all use superblowing to raise the tone. The pitches of the corresponding temperaments all have changes, and the principle is the same.
+Generally speaking, when determining the length of a flute body, the length of the flute's angular rhythm is used as a reference. The full length of a longer flute is equivalent to eight times the length of its angular rhythm. This is the case for the Ruibin flute and the Linzhong flute.
+The length of the shorter flute is equivalent to four times the length of the respective horns.
+The flutes corresponding to the other ten rhythms are four times the angle rhythm of each other.
+The volume of the flute tube is ten times its angular volume.
+The piccolo bamboo pipe should be able to accommodate eight times the amount of millet grains per rhythm.
+If the length and size of the flute are inconsistent with this, it is inconvenient for other instruments to take the pitch of the flute as the standard.
+However, most bamboo pipes are larger at the top and smaller at the bottom, and the pipe diameter is uneven. This is a last resort, as long as the sound and rhythm are matched.
+Of the three palaces, one is the positive tone, the second is the downward sign, and the third is the clear angle. Twenty-one changes.
+Each palace has seven tones, each of which is the first tone, and they are used alternately, so there are twenty-one changes.
+The principle of each flute is the same.
+There are four holes, which are used to change the pitch.
+The first fu hole is a positive angle, above the Shang hole; the second fu hole is an octave lower angle sound, close to the tube sound with the sound hole fully closed; the third fu hole is a Bian Gong, close to the palace hole, and is a Bian Gong within an octave lower; the fourth Fu hole is a Bian Zheng, which is farther from the Zheng hole, and is a Bian Zheng within an octave higher.
+Either an octave lower, a higher octave, or an octave higher, and the ratio is the same as shown on the piano emblem.
+The four holes are not actually opened, but are only sized to meet the needs of opening up and down and pronunciation, that is, to adapt to the method of making the sounds uniform and harmonious, and changing the pitch.
+These holes are hidden and not visible, so they are called Fu holes.
+The flute of Da Lu, the upright sound should be in accordance with the law of Da Lu, and the lower sound should be in accordance with the law of Yi Ze. It is two feet, six inches, six minutes and three centimeters long.
+Taiku's flute, the upright sound should be in accordance with Taiku's rhythm, and the lower pitch should be in accordance with Nanlu's rule. It is two feet and five inches long, three-thirds and one centimeter hanging zero.
+The flute of Jia Zhong, the main tone should be in accordance with the rhythm of Jia Zhong, and the lower tone should be in compliance with the rhythm of Wu Sheng. It is two feet and four inches long.
+The flute of Guxi, the upright sound should be in accordance with the rhythm of Guxi, and the lower sound should be in accordance with the rhythm of the bell. It is two feet, two inches long, three thirds and three centimeters long.
+Ruibin's flute, the upright sound should conform to Ruibin's rhythm, and the lower tone should conform to Dalu's rhythm. It is three feet, nine inches, nine minutes and five centimeters long.
+The palace of change is close to the hole of the palace, so its high and low octaves are one octave lower for ease of use.
+The same goes for Ring of Bells and Flute.
+Lin Zhong's flute, the upright sound should be in accordance with the Lin Zhong rhythm, and the lower sound should be in accordance with the Taiku rhythm. It is three feet, seven inches long, nine minutes and seven centimeters long.
+The flute of Yi Ze, the upright sound should be in accordance with the law of Yi Ze, and the lower sound should be in accordance with the rhythm of the bell. It is three feet and six inches long.
+The determination of the changing palace hole is the same as the rhyme of Ruibin. The flute length uses four times the horn tone, so the method of four points plus one is used.
+The flute of Nanlu, the main tone should be in accordance with the Nanlu rhythm, and the lower tone should be in accordance with the Guchi rhythm. It is three feet, three inches long and seven points hanging zero.
+Wushe's flute, the upright tone should be in accordance with the Wushe rhythm, and the lower tone should be in line with the Zhonglu rhythm. It is three feet and two inches long.
+The flute of Yingzhong, the main tone should be in accordance with the rhythm of Yingzhong, and the lower tone should be in accordance with the rhythm of Ruibin. It is two feet, nine inches, nine minutes and six centimeters long.
+The earth sound is the palace, and the rhythm number is eighty-one, which is the starting point for the mutual generation of all sounds.
+
+summary:
+summary line 7: The text describes the construction of twelve flutes, each with a specific length and fingering method. For example, the Huang Zhong flute is two feet eight inches long, with the upright tone corresponding to Huang Zhong and the lower tone to Lin Zhong. The fingering method for the upright tone uses Huang Zhong as the palace, and the flute's holes are positioned according to the mutual generation of the laws. The lower Zheng tone uses Lin Zhong as the palace, and the Qingjiao tone uses Guxi as the palace. The flute's length is determined by the angular rhythm, with longer flutes being eight times the angle rhythm and shorter flutes four times. The flute tube's volume is ten times its angular volume. The text also discusses the three palaces (positive tone, downward sign, and clear angle) with twenty-one changes, each palace having seven tones. The four fu holes are used to change pitch but are not actually opened, only sized to meet the needs of pronunciation.
+
+Chunk 12: 
+original: 
+属土者，以其最浊，君之象也。
+季夏之气和，则宫声调。
+宫乱则荒，其君骄。
+黄钟之宫，律最长也。
+火音徵，三分宫去一以生，其数五十四。
+属火者，以其徵清，事之象也。
+夏气和，则徵声调。
+徵乱则哀，其事勤也。
+金音商，三分徵益一以生，其数七十二。
+属金者，以其浊次宫，臣之象也。
+秋气和，则商声调。
+商乱则诐，其官坏也。
+水音羽，三分商去一以生，其数四十八。
+属水者，以为最清，物之象也。
+冬气和，则羽声调。
+羽乱则危，其财匮也。
+木音角，三分羽益一以生，其数六十四。
+属木者，以其清浊中，人之象也。
+春气和，则角声调。
+角乱则忧，其人怨也。
+凡声尊卑，取象五行，数多者浊，数少者清；大不过宫，细不过羽。
+十一月，律中黄钟，律之始也，长九寸。
+仲冬气至，则其律应，所以宣养六气九德也。
+班固三分损一，下生林钟。
+十二月，律中大吕，司马迁未下生之律，长四寸二百四十三分寸之五十二，倍之为八寸二百四十三分寸之一百四。
+季冬气至，则其律应，所以助宣物也。
+三分益一，上生夷则；京房三分损一，下生夷则。
+正月，律中太蔟，未上生之律，长八寸。
+孟春气至，则其律应，所以赞阳出滞也。
+三分损一，下生南吕。
+二月，律中夹钟，酉下生之律，长三寸二千一百八十七分寸之一千六百三十一，倍之为七寸二千一百八十七分寸之一千七十五。
+translation: 
+Because it is the lowest, it belongs to earth and is a symbol of the monarch.
+If the Qi in the last month of summer is calm, the palace sounds will be harmonious.
+If the palace sounds are disordered, pleasure will be excessive and the ruler will be arrogant.
+Huang Zhonglu is the palace, which is the longest among all the rules.
+The sound of fire is the sign, and the rhythm of the three-thirds of the sound of the palace is obtained by removing one point of it. The number is fifty-four.
+The reason why it belongs to fire is because the zhengyin is higher, and it is also a symbol of things.
+The air of summer is peaceful and the sound of the battle is harmonious.
+If the Zhengsheng is disordered, there will be sorrow and more troubles will occur.
+The golden sound is the quotient, and the three points of the rhythm of the sound are added by one point. The number is seventy-two.
+The reason why it belongs to gold is because its sound is second only to the palace, and it is a symbol of ministers.
+The atmosphere of autumn is peaceful, and the sound of business is harmonious.
+If the business voice is disordered, the atmosphere will be unhealthy and officials will be corrupted.
+The water sound is the feather, and the three-thirds of the rhythm of the Shang sound are obtained by subtracting one point from it. The number is forty-eight.
+The reason why it belongs to water is because its sound is the highest and it is a symbol of things.
+When the air of winter is calm, the sound of feathers becomes harmonious.
+If the feather sound is disordered, there will be danger and financial scarcity.
+The wooden sound is the horn, and the three-point feather sound is added to the rhythm by one point. The law number is sixty-four.
+The reason why it belongs to wood is that its pitch is moderate and it is a symbol of human beings.
+The air of spring is peaceful, and the sound of the trumpet is harmonious.
+If the trumpet sound is disordered, it will cause trouble and cause people's resentment.
+Musical sounds have their own dignity and inferiority, based on the Five Elements, the sound with more rules is lower, and the sound with less rules is higher; the sound with a big sound is not as low as the palace sound, and the sound with a few small sounds is not as high as the feather sound.
+In November, the corresponding rhythm is Huang Zhong, which is the beginning of the twelve rhythms and is nine inches long.
+When the Qi of the second month of winter comes, this law is combined accordingly to comprehensively cultivate the virtues of the six Qi and the nine merits.
+Ban Gu's record is that if three points of the law are lost, one will be lost, and Lin Zhong will be born.
+In December, the corresponding law was Da Lu. The law recorded by Sima Qian, who was born before he became emperor, was four and 243/52 inches long, twice as long as 8 and 243/104 inches.
+When the qi of the third month of winter comes, this law will be combined accordingly to help the yang qi cultivate various species.
+Three-thirds will benefit one, and Yi will be born on the top; Jingfang's record is that three-thirds will lose one, and Yi will be born on the bottom.
+In the first lunar month, the corresponding law is Tai Cun, the law born before the ascendant is eight inches long.
+When the Qi of the first month of spring comes, the law will be combined accordingly, and the Yang Qi will leave the stagnant state.
+Three points will be lost and one will be lost, and Nanlu will be born.
+In February, the corresponding law is Jia Zhong, and the law born from the position of You is three and one thousand six hundred and thirty-one inches long, and twice its length is seven and one thousand seventy-five inches.
+
+summary:
+summary line 8: The text explains the correspondence between musical sounds and the five elements: earth sound is the palace (number 81), fire sound is the sign (number 54), gold sound is the quotient (number 72), water sound is the feather (number 48), and wood sound is the horn (number 64). Each sound is associated with a season and a symbol (monarch, things, ministers, etc.). The twelve laws correspond to the months, with Huang Zhong in November, Da Lu in December, Tai Cun in January, etc. The text also discusses the method of weathering, where a triple secret room is built, and rhythm tubes are placed on wooden cases to wait for the Qi to arrive. The correct length standard is described in "Mozhi," and Xun Xu made a new ruler based on ancient standards, which was consistent with ancient artifacts. The new clock rhythm was praised, but some criticized it for being too high. The text concludes with a discussion of weighing and capacity units, referencing "Zhou Li" and "Spring and Autumn Annals," and noting the changes in systems over time.
+

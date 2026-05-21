@@ -1,0 +1,399 @@
+Summary uses chunk [0, 0, 3, 5, 6]
+
+Chunk 0: 
+original: 
+陈丞相平者，阳武户牖乡人也。
+少时家贫，好读书，有田三十亩，独与兄伯居。
+伯常耕田，纵平使游学。
+平为人长美色。
+人或谓陈平曰： 贫何食而肥若是？
+其嫂嫉平之不视家生产，曰： 亦食糠覈耳。有叔如此，不如无有。
+伯闻之，逐其妇而弃之。
+及平长，可娶妻，富人莫肯与者，贫者平亦耻之。
+久之，户牖富人有张负，张负女孙五嫁而夫辄死，人莫敢娶。
+平欲得之。
+邑中有丧，平贫，侍丧，以先往後罢为助。
+张负既见之丧所，独视伟平，平亦以故後去。
+负随平至其家，家乃负郭穷巷，以弊席为门，然门外多有长者车辙。
+张负归，谓其子仲曰： 吾欲以女孙予陈平。
+张仲曰： 平贫不事事，一县中尽笑其所为，独柰何予女乎？
+负曰： 人固有好美如陈平而长贫贱者乎？
+卒与女。
+为平贫，乃假贷币以聘，予酒肉之资以内妇。
+负诫其孙曰： 毋以贫故，事人不谨。
+事兄伯如事父，事嫂如母。
+平既娶张氏女，赍用益饶，游道日广。
+里中社，平为宰，分肉食甚均。
+父老曰： 善，陈孺子之为宰！
+平曰： 嗟乎，使平得宰天下，亦如是肉矣！
+陈涉起而王陈，使周市略定魏地，立魏咎为魏王，与秦军相攻於临济。
+陈平固已前谢其兄伯，从少年往事魏王咎於临济。
+魏王以为太仆。
+说魏王不听，人或谗之，陈平亡去。
+久之，项羽略地至河上，陈平往归之，从入破秦，赐平爵卿。
+translation: 
+Prime Minister Chen Ping was a native of Humiao Township, Yangwu County.
+Chen Ping's family was poor when he was a boy, but he loved studying. His family had 30 acres of land, and he lived with his brother Chen Bo.
+Brother Chen Bo usually farmed at home, leaving Chen Ping to study abroad.
+Chen Ping is tall and handsome.
+Someone said to Chen Ping: How could a poor family eat and become so fat?
+Chen Ping's sister-in-law was angry that Chen Ping didn't take care of the family and was not engaged in labor and production. She said: "It's just eating bran and throat vegetables. It's better to have such a brother-in-law than not."
+When Uncle Chen heard these words, he divorced his wife and kicked her out of the house.
+When Chen Ping grew up and it was time to marry a wife, no one from a wealthy family would marry his daughter to him, and Chen Ping felt ashamed to marry a daughter-in-law from a poor family.
+After a long time, there was a rich man named Zhang Fu in Hufu. His granddaughter married five times, and each husband died. No one dared to marry her again.
+Chen Ping wanted to marry her.
+There was a funeral in the township. Because Chen Ping's family was poor, he went to help with the funeral. He went early and came back late to earn more money to supplement his family's income.
+Zhang Fu met him at the mourning house and fell in love with the tall and burly Chen Ping; for this reason, Chen Ping left the mourning house very late.
+Once, Zhang Fu followed Chen Ping to his home. The Chen family was in a remote alley near the outer city wall. They used a shabby mat as the door, but there were many wheel marks left by noble people outside the door.
+After Zhang Fu returned home, he said to his son Zhang Zhong: I plan to marry my granddaughter to Chen Ping.
+Zhang Zhong said: Chen Ping is poor and not engaged in productive labor. Everyone in the county laughs at what he does. Why did you marry your granddaughter to him?
+Zhang Fu said: How could a man as handsome as Zhang Ping remain poor and humble for a long time?
+Finally, he married his granddaughter to Chen Ping.
+Because Chen Ping was poor, the Zhang family lent him money to hire him and gave him money to buy banquets to get married.
+Zhang Fu warned his granddaughter: Don't serve others disrespectfully because the Chen family is poor.
+Serve your elder brother Chen Bo as you serve your father, and serve your sister-in-law as you serve your mother.
+After Chen Ping married a girl from the Zhang family, his wealth became increasingly abundant and his contacts became wider and wider.
+Kushangli, where Chen Ping lived, worshiped the earth god. Chen Ping was the person who presided over the cutting of the meat. He distributed the sacrificial meat evenly.
+The fellow villagers said: Well, the Chen family’s children are really good at cutting up sacrificial meat!
+Chen Ping said: Alas, if I were allowed to rule the world, I would divide the meat like this!
+After Chen Sheng raised an army, he proclaimed himself king in Chen County, sent Zhou Shi to pacify the Wei area, established Wei Jiu as the king of Wei, and fought with the Qin army in Linji.
+Before that, Chen Ping had bid farewell to his brother Chen Bo and went to Linji with some young people to work under Wei Wang Jiu.
+The king of Wei appointed him as his servant.
+Chen Ping spoke to the King of Wei, but the King of Wei did not listen. Some people said bad things about him, so Chen Ping had no choice but to flee.
+After a long time, Xiang Yu captured the land and reached the edge of the Yellow River. Chen Ping went to Xiang Yu and followed Xiang Yu into the Pass to conquer Qin. Xiang Yu gave him the title of Qing.
+
+summary:
+summary line 0: Chen Ping, a native of Humiao Township, Yangwu County, was born into poverty but loved studying. His brother Chen Bo farmed while Chen Ping studied abroad. Tall and handsome, Chen Ping faced criticism for his lack of labor, leading his sister-in-law to complain. Chen Bo divorced her upon hearing this. When Chen Ping sought marriage, wealthy families refused him, and he hesitated to marry a poor woman. Eventually, he married Zhang Fu's granddaughter, who had been widowed five times. Zhang Fu, impressed by Chen Ping's appearance and potential, lent him money for the wedding, advising his granddaughter to serve the Chen family respectfully. After marriage, Chen Ping's wealth and connections grew.
+
+Chunk 0: 
+original: 
+陈丞相平者，阳武户牖乡人也。
+少时家贫，好读书，有田三十亩，独与兄伯居。
+伯常耕田，纵平使游学。
+平为人长美色。
+人或谓陈平曰： 贫何食而肥若是？
+其嫂嫉平之不视家生产，曰： 亦食糠覈耳。有叔如此，不如无有。
+伯闻之，逐其妇而弃之。
+及平长，可娶妻，富人莫肯与者，贫者平亦耻之。
+久之，户牖富人有张负，张负女孙五嫁而夫辄死，人莫敢娶。
+平欲得之。
+邑中有丧，平贫，侍丧，以先往後罢为助。
+张负既见之丧所，独视伟平，平亦以故後去。
+负随平至其家，家乃负郭穷巷，以弊席为门，然门外多有长者车辙。
+张负归，谓其子仲曰： 吾欲以女孙予陈平。
+张仲曰： 平贫不事事，一县中尽笑其所为，独柰何予女乎？
+负曰： 人固有好美如陈平而长贫贱者乎？
+卒与女。
+为平贫，乃假贷币以聘，予酒肉之资以内妇。
+负诫其孙曰： 毋以贫故，事人不谨。
+事兄伯如事父，事嫂如母。
+平既娶张氏女，赍用益饶，游道日广。
+里中社，平为宰，分肉食甚均。
+父老曰： 善，陈孺子之为宰！
+平曰： 嗟乎，使平得宰天下，亦如是肉矣！
+陈涉起而王陈，使周市略定魏地，立魏咎为魏王，与秦军相攻於临济。
+陈平固已前谢其兄伯，从少年往事魏王咎於临济。
+魏王以为太仆。
+说魏王不听，人或谗之，陈平亡去。
+久之，项羽略地至河上，陈平往归之，从入破秦，赐平爵卿。
+translation: 
+Prime Minister Chen Ping was a native of Humiao Township, Yangwu County.
+Chen Ping's family was poor when he was a boy, but he loved studying. His family had 30 acres of land, and he lived with his brother Chen Bo.
+Brother Chen Bo usually farmed at home, leaving Chen Ping to study abroad.
+Chen Ping is tall and handsome.
+Someone said to Chen Ping: How could a poor family eat and become so fat?
+Chen Ping's sister-in-law was angry that Chen Ping didn't take care of the family and was not engaged in labor and production. She said: "It's just eating bran and throat vegetables. It's better to have such a brother-in-law than not."
+When Uncle Chen heard these words, he divorced his wife and kicked her out of the house.
+When Chen Ping grew up and it was time to marry a wife, no one from a wealthy family would marry his daughter to him, and Chen Ping felt ashamed to marry a daughter-in-law from a poor family.
+After a long time, there was a rich man named Zhang Fu in Hufu. His granddaughter married five times, and each husband died. No one dared to marry her again.
+Chen Ping wanted to marry her.
+There was a funeral in the township. Because Chen Ping's family was poor, he went to help with the funeral. He went early and came back late to earn more money to supplement his family's income.
+Zhang Fu met him at the mourning house and fell in love with the tall and burly Chen Ping; for this reason, Chen Ping left the mourning house very late.
+Once, Zhang Fu followed Chen Ping to his home. The Chen family was in a remote alley near the outer city wall. They used a shabby mat as the door, but there were many wheel marks left by noble people outside the door.
+After Zhang Fu returned home, he said to his son Zhang Zhong: I plan to marry my granddaughter to Chen Ping.
+Zhang Zhong said: Chen Ping is poor and not engaged in productive labor. Everyone in the county laughs at what he does. Why did you marry your granddaughter to him?
+Zhang Fu said: How could a man as handsome as Zhang Ping remain poor and humble for a long time?
+Finally, he married his granddaughter to Chen Ping.
+Because Chen Ping was poor, the Zhang family lent him money to hire him and gave him money to buy banquets to get married.
+Zhang Fu warned his granddaughter: Don't serve others disrespectfully because the Chen family is poor.
+Serve your elder brother Chen Bo as you serve your father, and serve your sister-in-law as you serve your mother.
+After Chen Ping married a girl from the Zhang family, his wealth became increasingly abundant and his contacts became wider and wider.
+Kushangli, where Chen Ping lived, worshiped the earth god. Chen Ping was the person who presided over the cutting of the meat. He distributed the sacrificial meat evenly.
+The fellow villagers said: Well, the Chen family’s children are really good at cutting up sacrificial meat!
+Chen Ping said: Alas, if I were allowed to rule the world, I would divide the meat like this!
+After Chen Sheng raised an army, he proclaimed himself king in Chen County, sent Zhou Shi to pacify the Wei area, established Wei Jiu as the king of Wei, and fought with the Qin army in Linji.
+Before that, Chen Ping had bid farewell to his brother Chen Bo and went to Linji with some young people to work under Wei Wang Jiu.
+The king of Wei appointed him as his servant.
+Chen Ping spoke to the King of Wei, but the King of Wei did not listen. Some people said bad things about him, so Chen Ping had no choice but to flee.
+After a long time, Xiang Yu captured the land and reached the edge of the Yellow River. Chen Ping went to Xiang Yu and followed Xiang Yu into the Pass to conquer Qin. Xiang Yu gave him the title of Qing.
+
+summary:
+summary line 1: Chen Ping presided over cutting sacrificial meat for the earth god, distributing it evenly, and remarked, "If I ruled the world, I would divide it like this." During the Chen Sheng uprising, he served Wei Wang Jiu but left after his advice was ignored. He then joined Xiang Yu, who appointed him Lord Xinwu. Fearing execution after a failed campaign, Chen Ping fled to the Han king, Liu Bang, who made him a captain. Despite slander from generals like Zhou Bo and Guan Ying about his past and alleged bribery, Chen Ping defended himself, and Liu Bang rewarded him generously, appointing him to supervise the army.
+
+Chunk 3: 
+original: 
+陈平既多以金纵反间於楚军，宣言诸将锺离眛等为项王将，功多矣，然而终不得裂地而王，欲与汉为一，以灭项氏而分王其地。
+项羽果意不信锺离眜等。
+项王既疑之，使使至汉。
+汉王为太牢具，举进。
+见楚使，即详惊曰： 吾以为亚父使，乃项王使！
+复持去，更以恶草具进楚使。
+楚使归，具以报项王。
+项王果大疑亚父。
+亚父欲急攻下荥阳城，项王不信，不肯听。
+亚父闻项王疑之，乃怒曰： 天下事大定矣，君王自为之！
+原请骸骨归！
+归未至彭城，疽发背而死。
+陈平乃夜出女子二千人荥阳城东门，楚因击之，陈平乃与汉王从城西门夜出去。
+遂入关，收散兵复东。
+其明年，淮阴侯破齐，自立为齐王，使使言之汉王。
+汉王大怒而骂，陈平蹑汉王。
+汉王亦悟，乃厚遇齐使，使张子房卒立信为齐王。
+封平以户牖乡。
+用其奇计策，卒灭楚。
+常以护军中尉从定燕王臧荼。
+汉六年，人有上书告楚王韩信反。
+高帝问诸将，诸将曰： 亟发兵阬竖子耳。
+高帝默然。
+问陈平，平固辞谢，曰： 诸将云何？
+上具告之。
+陈平曰： 人之上书言信反，有知之者乎？ 曰： 未有。
+曰： 信知之乎？ 曰： 不知。
+陈平曰： 陛下精兵孰与楚？
+上曰： 不能过。
+平曰： 陛下将用兵有能过韩信者乎？
+上曰： 莫及也。
+平曰： 今兵不如楚精，而将不能及，而举兵攻之，是趣之战也，窃为陛下危之。
+上曰： 为之柰何？
+平曰： 古者天子巡狩，会诸侯。
+南方有云梦，陛下弟出伪游云梦，会诸侯於陈。
+陈，楚之西界，信闻天子以好出游，其势必无事而郊迎谒。
+谒，而陛下因禽之，此特一力士之事耳。
+高帝以为然，乃发使告诸侯会陈， 吾将南游云梦 。
+上因随以行。
+行未至陈，楚王信果郊迎道中。
+高帝豫具武士，见信至，即执缚之，载後车。
+信呼曰： 天下已定，我固当烹！
+高帝顾谓信曰： 若毋声！
+而反，明矣！
+武士反接之。
+遂会诸侯于陈，尽定楚地。
+还至雒阳，赦信以为淮阴侯，而与功臣剖符定封。
+於是与平剖符，世世勿绝，为户牖侯。
+平辞曰： 此非臣之功也。
+上曰： 吾用先生谋计，战胜剋敌，非功而何？
+平曰： 非魏无知臣安得进？
+上曰； 若子可谓不背本矣。
+乃复赏魏无知。
+其明年，以护军中尉从攻反者韩王信於代。
+卒至平城，为匈奴所围，七日不得食。
+高帝用陈平奇计，使单于阏氏，围以得开。
+高帝既出，其计礻必，世莫得闻。
+高帝南过曲逆，上其城，望见其屋室甚大，曰： 壮哉县！
+吾行天下，独见洛阳与是耳。
+顾问御史曰： 曲逆户口几何？
+对曰： 始秦时三万馀户，间者兵数起，多亡匿，今见五千户。
+於是乃诏御史，更以陈平为曲逆侯，尽食之，除前所食户牖。
+其後常以护军中尉从攻陈豨及黥布。
+凡六出奇计，辄益邑，凡六益封。
+translation: 
+Chen Ping spent a lot of gold to create discord among the Chu army. He threatened among the generals that Zhongli Mei and others, as generals of King Xiang, had made a lot of contributions, but they could not allocate territory and become kings. They planned to join forces with the King of Han to eliminate King Xiang, divide the land of Chu, and make each of them king.
+Xiang Yu became suspicious and no longer trusted Zhong Limei and others.
+King Xiang had already suspected Zhong Limei and others, so he sent envoys to the Han army to find out.
+The king of Han prepared a sumptuous banquet and ordered people to bring it in.
+When he saw the envoy from the King of Chu, the King of Han pretended to be surprised and said: I thought it was Yafu's envoy, but it turned out to be the envoy from the King of Chu!
+He also asked people to take away the wine and food, and replaced them with poor food to serve to the envoy of the King of Chu.
+After the King of Chu's envoy returned, he reported the situation to King Xiang.
+As expected, King Xiang was greatly suspicious of Kia's father.
+Fan Zeng wanted to capture Xingyang City quickly, but King Xiang did not trust him and refused to obey.
+When Fan Zeng heard that King Xiang was doubting him, he said angrily: "The major events in the world are basically settled. The king can do it himself!"
+I beg to resign and return home!
+Before he reached Pengcheng when he returned to his hometown, he died of a sore attack on his back.
+Chen Ping then asked two thousand women to leave the east gate of Xingyang City at night. The Chu army launched an attack, and Chen Ping and the King of Han fled out of the city through the west gate of Xingyang City.
+The King of Han then entered Guanzhong, collected the scattered soldiers and marched eastward again.
+The next year, Han Xin, the Marquis of Huaiyin, defeated the State of Qi and proclaimed himself King of Qi. He sent an envoy to report the incident to the King of Han.
+The king of Han was furious and scolded Han Xin.
+Chen Ping secretly stepped on the King of Han's toes, and the King of Han also realized it, so he entertained the King of Qi's envoy generously and sent Zhang Zifang to immediately make Han Xin the King of Qi.
+The king of Han granted the town of Hufu to Chen Ping.
+The King of Han adopted Chen Ping's ingenious tactics and finally destroyed the Chu State.
+Chen Ping once followed the King of Han as a lieutenant in the army to put down the rebellion of King Zang Tu of Yan.
+In the sixth year of the Han Dynasty, someone reported that Han Xin, the king of Chu, was planning to rebel.
+Emperor Gao asked the generals, who said: Send troops quickly to bury this kid alive.
+Emperor Gao remained silent.
+Emperor Gao asked Chen Ping, but Chen Ping declined again and again and asked: What did the generals say?
+The emperor told Chen Ping what the generals said.
+Chen Ping asked: Does anyone else know about the person who wrote a letter to report Han Xin's rebellion? The emperor said: No.
+Chen Ping asked: Does Han Xin himself know about this situation? The emperor said: I don’t know.
+Chen Ping said: Which of your Majesty's elite troops is better than that of Chu?
+The emperor said: Not as good as them.
+Chen Ping asked: Is there any of your Majesty's generals who can surpass Han Xin in using troops?
+The emperor said: There is no one like him.
+Chen Ping said: Now your Majesty's army is not as elite as the Chu State, and the generals are not as talented as Han Xin. If you send troops to attack him, you will encourage him to fight against us. I am privately worried about your Majesty's safety.
+The emperor said: What should we do?
+Chen Ping said: In ancient times, the emperor visited various places and met with the princes.
+There is Yunmengze in the south. Your Majesty can pretend to travel to Yunmeng and meet with the princes in Chen County.
+Chen County is on the western border of Chu State. When Han Xin heard that the emperor was traveling with good intentions, he must have thought that everything was fine, so he went to the outskirts to greet his majesty.
+When he came to pay his respects, His Majesty took the opportunity to capture him. This was something that only a strong man could do.
+Emperor Gao thought his strategy was good, so he sent envoys to inform the princes to meet in Chen County, saying that I was about to patrol Yunmeng south.
+The emperor set off immediately.
+The trip had not yet arrived at Chen County, and as expected, King Han Xin of Chu greeted him on the road to the outskirts.
+Emperor Gao had prepared warriors in advance. When he saw Han Xin coming, he immediately took him down, tied him up, and put him in the passenger car.
+Han Xin shouted: Now that the world is at peace, I should have been cooked and killed!
+Emperor Gao turned around and said to Han Xin: "Stop shouting!"
+Your rebellion is already very clear!
+The warrior tied Han Xin's hands behind his back.
+Emperor Gao then met with the princes in Chen County and all pacified Chu.
+Emperor Gao returned to Luoyang, pardoned Han Xin, conferred him the title of Marquis of Huaiyin, and cut talismans with meritorious ministers to determine rewards.
+At that time, he and Chen Ping broke the talisman and wanted the Chen family to be passed down from generation to generation forever, and he was granted the title of Huyouhou.
+Chen Ping declined and said: This is not my credit.
+The emperor said: I adopted your master's strategy and defeated the enemy. What is the credit if it's not yours?
+Chen Ping said: If it weren't for Wei Wuzhi, how could I be an official in the court?
+The emperor said: It can be said that you, sir, have never forgotten your roots.
+So Wei Wuwu was rewarded.
+The next year, Chen Ping followed Emperor Gao as a lieutenant in the army to attack the rebel King Xin of Han in Daidi.
+The Han army marched in a hurry to Pingcheng, where they were besieged by the Xiongnu and had no food for seven days.
+Emperor Gao adopted Chen Ping's ingenious plan and sent people to Chanyu's Yan family to clear the way, and then he was able to relieve the siege.
+After Emperor Gao escaped, the plan proposed by Chen Ping has been kept strictly confidential, and no one in the world knows the inside story.
+Emperor Gao returned south and passed by Qu Ni. He climbed up the city tower and saw the large houses in the county seat. He said: "This county is so spectacular!"
+I have traveled all over the world and I have only seen Luoyang and this county like this.
+He turned around and asked the censor: "What is the household registration of Qu Ni?"
+The censor replied: At the beginning of the Qin Dynasty, there were more than 30,000 people. During the years of war, many people fled and went into hiding. Now there are only 5,000 people.
+At that time, Emperor Gao ordered the imperial censor to change the title of Chen Ping to the title of Qu Nihou, allowing him to enjoy the tax income of every household in the county, and cancel the food fiefdom of Humo Township that had been previously granted.
+After that, Chen Ping followed Emperor Gao as a lieutenant in the army to conquer Chen Xi and Yingbu.
+He came up with six strange strategies in total, and each time he proposed a strategy, he increased the number of fiefs, a total of six times.
+
+summary:
+summary line 2: Chen Ping advised Liu Bang to use gold to sow discord among Xiang Yu's ministers, leading to Xiang Yu's suspicion of Fan Zeng and others. Fan Zeng resigned and died. Chen Ping then helped Liu Bang escape Xingyang by sending women out the east gate while they fled west. Later, he advised against attacking Han Xin directly, instead capturing him during a meeting in Chen County. Liu Bang granted Chen Ping the title of Huyouhou, which Chen Ping attributed to Wei Wuzhi's recommendation.
+
+Chunk 5: 
+original: 
+以善雍齿，雍齿，高帝之仇，而陵本无意从高帝，以故晚封，为安国侯。
+安国侯既为右丞相，二岁，孝惠帝崩。
+高后欲立诸吕为王，问王陵，王陵曰： 不可。
+问陈平，陈平曰： 可。
+吕太后怒，乃详迁陵为帝太傅，实不用陵。
+陵怒，谢疾免，杜门竟不朝请，七年而卒。
+陵之免丞相，吕太后乃徙平为右丞相，以辟阳侯审食其为左丞相。
+左丞相不治，常给事於中。
+食其亦沛人。
+汉王之败彭城西，楚取太上皇、吕后为质，食其以舍人侍吕后。
+其後从破项籍为侯，幸於吕太后。
+及为相，居中，百官皆因决事。
+吕嬃常以前陈平为高帝谋执樊哙，数谗曰： 陈平为相非治事，日饮醇酒，戏妇女。
+陈平闻，日益甚。
+吕太后闻之，私独喜。
+面质吕嬃於陈平曰： 鄙语曰 兒妇人口不可用 ，顾君与我何如耳。
+无畏吕嬃之谗也。
+吕太后立诸吕为王，陈平伪听之。
+及吕太后崩，平与太尉勃合谋，卒诛诸吕，立孝文皇帝，陈平本谋也。
+审食其免相。
+孝文帝立，以为太尉勃亲以兵诛吕氏，功多；陈平欲让勃尊位，乃谢病。
+孝文帝初立，怪平病，问之。
+平曰： 高祖时，勃功不如臣平。
+及诛诸吕，臣功亦不如勃。
+原以右丞相让勃。
+於是孝文帝乃以绛侯勃为右丞相，位次第一；平徙为左丞相，位次第二。
+赐平金千斤，益封三千户。
+居顷之，孝文皇帝既益明习国家事，朝而问右丞相勃曰： 天下一岁决狱几何？
+勃谢曰： 不知。
+问： 天下一岁钱穀出入几何？
+勃又谢不知，汗出沾背，愧不能对。
+於是上亦问左丞相平。
+平曰： 有主者。
+上曰： 主者谓谁？
+平曰： 陛下即问决狱，责廷尉；问钱穀，责治粟内史。
+上曰： 苟各有主者，而君所主者何事也？
+平谢曰： 主臣！
+陛下不知其驽下，使待罪宰相。
+宰相者，上佐天子理阴阳，顺四时，下育万物之宜，外镇抚四夷诸侯，内亲附百姓，使卿大夫各得任其职焉。
+孝文帝乃称善。
+右丞相大惭，出而让陈平曰： 君独不素教我对！
+陈平笑曰： 君居其位，不知其任邪？
+且陛下即问长安中盗贼数，君欲彊对邪？
+於是绛侯自知其能不如平远矣。
+居顷之，绛侯谢病请免相，陈平专为一丞相。
+孝文帝二年，丞相陈平卒，谥为献侯。
+translation: 
+Wang Ling had a good relationship with Yong Chi. Yong Chi was the enemy of Emperor Gao. Wang Ling had no intention of following Emperor Gao, so he was granted the title late and was named Marquis of Anguo.
+An Guohou became the right prime minister. Two years later, Emperor Xiaohui died.
+The Empress Dowager Lu wanted to make a member of the Lu family king, so she asked Wang Ling about it, and Wang Ling said: No.
+Asked Chen Ping again, Chen Ping said: Yes.
+Empress Dowager Lu was angry, so she pretended to promote Wang Ling to the emperor's tutor, but actually did not reuse Wang Ling.
+Wang Ling became angry and resigned due to illness. He stayed behind closed doors and never met the emperor. He died seven years later.
+After Wang Ling was dismissed from the post of prime minister, Empress Dowager Lu transferred Chen Ping to the right prime minister and appointed Piyang Hou Shenshi as the left prime minister.
+Prime Minister Zuo does not have an office and often handles government affairs in the palace.
+Shen Shi is also from Peixian County.
+When the King of Han was defeated west of Pengcheng, the Chu army captured the King of Han's father and Empress Lu as hostages, forcing them to serve Empress Lu as retainers.
+He later followed the Han army to defeat Xiang Yu and was granted the title of Marquis, and was favored by Empress Dowager Lu.
+When he became the Prime Minister of Zuo and lived in the palace, all officials had to use him to decide national affairs.
+Lu Yan often slandered Chen Ping many times because he had made plans for Emperor Gao to arrest Fan Kuai: Chen Ping ignored government affairs when he was prime minister, drank fine wine every day, and played with women.
+After hearing this, Chen Ping started drinking and having fun more and more.
+When Empress Dowager Lu heard about this, she was secretly happy.
+She said to Chen Ping in front of Lu Yan: As the saying goes, "The words of children and women cannot be trusted. It depends on how you treat me."
+Don't be afraid that Lu Yan will say bad things about you.
+Empress Dowager Lu made a member of the Lu family king, and Chen Ping pretended to obey.
+After the death of Empress Dowager Lu, Chen Ping conspired with Taiwei Zhou Bo, and finally killed all the Lu family and installed Emperor Xiaowen on the throne. Chen Ping was the main planner of this matter.
+After examining the food, he was dismissed from the post of Prime Minister Zuo.
+After Emperor Xiaowen came to the throne, he believed that Taiwei Zhou Bo had made great contributions by personally leading troops to annihilate the Lu clan. Chen Ping wanted to give up the title of Prime Minister You to Zhou Bo, so he retired due to illness.
+Emperor Xiaowen had just ascended the throne and felt that Chen Ping was strangely ill, so he went to inquire about him.
+Chen Ping said: During the reign of Emperor Gaozu, Zhou Bo's contribution was not as good as mine, Chen Ping.
+When it came time to annihilate the Lu family, my contribution would not be as good as Zhou Bo's.
+I am willing to give up the position of Prime Minister You to Zhou Bo.
+So Emperor Xiaowen appointed Jianghou Zhou Bo as Prime Minister of the Right, ranking first; Chen Ping was transferred to Prime Minister of the Left, ranking second.
+Chen Ping was given a thousand pieces of gold as a reward, and three thousand households were granted food fiefs.
+After a period of time, Emperor Xiaowen gradually became more familiar with national affairs. When he was interviewed by ministers, he asked Zhou Bo, the right prime minister: How many cases were judged in the country in a year?
+Zhou Bo apologized and said: I don’t know.
+Emperor Xiaowen asked again: How much is the country's annual expenditure on money and grain?
+Zhou Bo apologized again and said he didn't know. He was so anxious that he was sweating profusely and felt ashamed that he couldn't answer.
+So the emperor asked Chen Ping, Prime Minister Zuo.
+Chen Ping said: There is a person in charge who is responsible.
+The emperor said: Who is in charge?
+Chen Ping said: If your Majesty asks about the status of the judgment case, you can ask the Tingwei; if you want to ask about the income and expenditure of money and food, you can ask the history of Zhi Su Nei.
+The emperor said: If each has a person in charge, then what is it that you are in charge of?
+Chen Ping apologized and said: I am truly terrified!
+Your Majesty did not know that I was of low intelligence, so I reluctantly held the position of prime minister.
+The position of prime minister is to assist the emperor to regulate yin and yang and comply with the four seasons, to nurture all things to grow in time, to calm the barbarians and princes externally, to care for and unite the people internally, so that the ministers and officials can fulfill their duties.
+After hearing this, Emperor Xiaowen praised him for his good answer.
+The Right Prime Minister Zhou Bo was greatly ashamed. After he retired from the court, he complained to Chen Ping and said: Why don't you teach me how to answer these words in normal times?
+Chen Ping smiled and said: "You are in a position, don't you know your responsibilities?"
+If Your Majesty asks about the number of thieves in Chang'an City, will you have to make up the numbers to answer?
+At this time Jianghou Zhou Bo knew that his talents were far inferior to Chen Ping.
+After a while, Jianghou Zhou Bo was ill and asked to be relieved of the post of Prime Minister You, and Chen Ping took on the entire post of Prime Minister alone.
+In the second year of Emperor Xiaowen's reign, Prime Minister Chen Ping passed away, and his posthumous title was Xianhou.
+
+summary:
+summary line 3: Chen Ping devised six secret strategies, including rescuing Liu Bang from a Xiongnu siege at Pingcheng. After Liu Bang's death, Chen Ping avoided Empress Lu's suspicion by pretending to indulge in drinking and women. He conspired with Zhou Bo to eliminate the Lu clan and install Emperor Xiaowen. Chen Ping later ceded the position of Right Prime Minister to Zhou Bo, citing Zhou Bo's greater role in suppressing the Lu family. When Emperor Xiaowen questioned the prime ministers about state affairs, Zhou Bo faltered, while Chen Ping explained the prime minister's role in regulating yin and yang and ensuring officials fulfilled their duties. Zhou Bo resigned, and Chen Ping served as sole prime minister until his death in 166 BC.
+
+Chunk 6: 
+original: 
+子共侯买代侯。
+二年卒，子简侯恢代侯。
+二十三年卒，子何代侯。
+二十三年，何坐略人妻，弃市，国除。
+始陈平曰： 我多阴谋，是道家之所禁。
+吾世即废，亦已矣，终不能复起，以吾多阴祸也。
+然其後曾孙陈掌以卫氏亲贵戚，原得续封陈氏，然终不得。
+太史公曰：陈丞相平少时，本好黄帝、老子之术。
+方其割肉俎上之时，其意固已远矣。
+倾侧扰攘楚魏之间，卒归高帝。
+常出奇计，救纷纠之难，振国家之患。
+及吕后时，事多故矣，然平竟自脱，定宗庙，以荣名终，称贤相，岂不善始善终哉！
+非知谋孰能当此者乎？
+translation: 
+His son Gonghou Chenmai succeeded him.
+Chen Mai died after reigning for two years, and his son Chen Hui, Marquis of Jian, succeeded him.
+Chen Hui died in the 23rd year of his reign, and his son Chen He succeeded him.
+In the twenty-third year of Chen He's reign, he committed the crime of seizing other people's wives and was sentenced to death. The feudal state was abolished.
+Chen Ping once said: I often use secretive strategies, which is taboo in Taoism.
+If my descendants are deposed, they will stop and will not rise again in the end. This is because I secretly accumulated a lot of troubles.
+Afterwards, Chen Ping's great-grandson Chen Zhang relied on his relationship with the Wei family to hope to inherit the original title of the Chen family, but this failed in the end.
+Tai Shigong said: When Prime Minister Chen Ping was young, he originally liked the teachings of Huangdi and Laozi.
+As he sliced ​​the sacrificial meat on the chopping block, his ambitions were already high.
+He wandered between Chu and Wei, and finally surrendered to Emperor Gao.
+He often comes up with ingenious ideas to resolve numerous crises and eliminate disasters in the country.
+During the reign of Empress Lu, many things happened, but Chen Ping was still able to avoid disasters, stabilize the Han Dynasty, maintain a glorious reputation throughout his life, and was called a virtuous prime minister. Isn't this a good beginning and a good end?
+Without wisdom and strategy, who could achieve this?
+
+summary:
+summary line 4: Chen Ping's descendants inherited his title but lost it due to crimes. He once remarked that his secretive strategies were taboo in Taoism, predicting his descendants' decline. Sima Qian praised Chen Ping for his wisdom and ability to navigate crises, maintaining a glorious reputation as a virtuous prime minister.
+

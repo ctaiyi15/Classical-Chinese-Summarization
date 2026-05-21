@@ -1,0 +1,346 @@
+Summary uses chunk [0, 1, 1, 8, 11, 1]
+
+Chunk 0: 
+original: 
+范雎者，魏人也，字叔。游说诸侯，欲事魏王，家贫无以自资，乃先事魏中大夫须贾。
+须贾为魏昭王使於齐，范雎从。
+留数月，未得报。
+齐襄王闻雎辩口，乃使人赐雎金十斤及牛酒，雎辞谢不敢受。
+须贾知之，大怒，以为雎持魏国阴事告齐，故得此馈，令雎受其牛酒，还其金。
+既归，心怒雎，以告魏相。
+魏相，魏之诸公子，曰魏齐。
+魏齐大怒，使舍人笞击雎，折胁摺齿。
+雎详死，即卷以箦，置厕中。
+宾客饮者醉，更溺雎，故僇辱以惩後，令无妄言者。
+雎从箦中谓守者曰： 公能出我，我必厚谢公。
+守者乃请出弃箦中死人。
+魏齐醉，曰： 可矣。
+范雎得出。
+後魏齐悔，复召求之。
+魏人郑安平闻之，乃遂操范雎亡，伏匿，更名姓曰张禄。
+当此时，秦昭王使谒者王稽於魏。
+郑安平诈为卒，侍王稽。
+王稽问： 魏有贤人可与俱西游者乎？
+郑安平曰： 臣里中有张禄先生，欲见君，言天下事。
+其人有仇，不敢昼见。
+王稽曰： 夜与俱来。
+郑安平夜与张禄见王稽。
+语未究，王稽知范雎贤，谓曰： 先生待我於三亭之南。
+与私约而去。
+王稽辞魏去，过载范雎入秦。
+至湖，望见车骑从西来。
+范雎曰： 彼来者为谁？
+王稽曰： 秦相穰侯东行县邑。
+范雎曰： 吾闻穰侯专秦权，恶内诸侯客，此恐辱我，我宁且匿车中。
+有顷，穰侯果至，劳王稽，因立车而语曰： 关东有何变？
+曰： 无有。
+又谓王稽曰： 谒君得无与诸侯客子俱来乎？
+translation: 
+He lobbied the princes and wanted to serve the king of Wei, but his family was very poor and had no way to raise funds, so he first went to serve Xu Jia, a senior official in the state of Wei.
+Once, Xu Jia went to Qi State as an envoy for King Zhao of Wei, and Fan Ju also went with him.
+They stayed in Qi for several months, but were unable to complete their mission.
+At that time, King Qi Xiang learned that Fan Ju was very eloquent, so he sent a special person to give Fan Ju gifts such as ten pounds of gold, beef and wine, but Fan Ju repeatedly refused and did not dare to accept.
+When Xu Jia found out about this, he was very angry. He thought that Fan Ju must have sold the secrets he knew about Wei to Qi, so he got such a gift. So he asked Fan Ju to accept food such as beef, wine, and return the gold.
+After returning to the state of Wei, Xu Jia was angry and jealous of Fan Ju, so he reported the matter to the prime minister of the state of Wei.
+The prime minister of Wei State is one of the sons of Wei State, named Wei Qi.
+Wei Qi was furious after hearing this, and ordered his ministers to beat Fan Ju with boards and thorns, breaking Fan Ju's ribs and teeth.
+At that time, Fan Ju pretended to be dead, so Wei Qi sent someone to roll him up in a mat and threw him in the toilet.
+He also made the guests at the banquet drunk and took turns urinating on Fan Ju, deliberately humiliating him to punish the police and prevent people from revealing state secrets.
+Fan Ju, who was wrapped in the mat, said to the guard: "If you let me go, I will thank you very much in the future."
+The guard wanted to let Fan Ju go, so he asked Wei Qi for instructions to throw the dead people out of the mat.
+Wei Qi was already very drunk at this time, so he agreed smoothly and said: "Okay."
+Fan Ju was able to escape.
+Later Wei Qi regretted it and sent people to search for Fan Ju again.
+Zheng Anping, a native of Wei, heard about this, so he ran away with Fan Ju. They hid, and Fan Ju changed his name to Zhang Lu.
+At this time, King Zhao of Qin sent his envoy Wang Jizheng to Wei.
+Zheng Anping pretended to be a servant and served Wang Ji.
+Wang Ji asked him: "Would any of the talented people in Wei State be willing to travel with me to the Qin State in the west?"
+Zheng Anping replied: There is a Mr. Zhang Lu in my hometown who would like to see you and discuss world affairs with you.
+However, he has enemies and dare not come out to meet you during the day.
+Wang Ji said: You should come with him at night.
+Zheng Anping brought Zhang Lu to visit Wang Ji at night.
+Before the two of them finished talking, Wang Ji realized that Fan Ju was a talented person, so he said to him: Sir, please wait for me south of Santang Gang.
+Fan Ju and Wang Ji made a private appointment to meet and left.
+After Wang Ji said goodbye to Wei and went on the road, when he passed the south of Sanding Gang, he loaded up Fan Ju and quickly entered the border of Qin.
+When the car arrived at Huyi, we saw a group of carriages and horses galloping from the west.
+Fan Ju asked: "Who is coming over there?"
+Wang Ji replied: That was when Ranghou, the Prime Minister of Qin State, went to the east to inspect the counties and cities.
+As soon as Fan Ju heard that it was Ranghou, he said: I heard that Ranghou has monopolized the power of the Qin State. He hates accepting lobbyists from various countries. I am afraid that such a meeting will insult me. I would rather hide in the car for a while.
+After a while, Marquis Rang arrived as expected. After greeting Wang Ji, he stopped the car and asked, "How has the situation in Guandong changed?"
+Wang Ji replied: No.
+Marquis Rang said to Wang Ji again: "Isn't it possible that the envoy came to Qin with the lobbyists from the princes?"
+
+summary:
+summary line 0: Fan Ju, a man of eloquence, initially sought to serve the King of Wei but was too poor to fund his journey. He first served under Xu Jia, a senior official in Wei. When Xu Jia was sent as an envoy to Qi, Fan Ju accompanied him. King Qi Xiang, impressed by Fan Ju's eloquence, sent him gifts of gold, beef, and wine, which Fan Ju refused. Xu Jia suspected Fan Ju had betrayed Wei secrets to Qi and reported this to the Wei prime minister, Wei Qi. Wei Qi had Fan Ju beaten severely, breaking his ribs and teeth, then wrapped him in a mat and threw him in a toilet, where drunken guests urinated on him. Fan Ju convinced a guard to let him escape, and later hid with the help of Zheng Anping, changing his name to Zhang Lu.
+
+Chunk 1: 
+original: 
+无益，徒乱人国耳。
+王稽曰： 不敢。
+即别去。
+范雎曰： 吾闻穰侯智士也，其见事迟，乡者疑车中有人，忘索之。
+於是范雎下车走，曰： 此必悔之。
+行十馀里，果使骑还索车中，无客，乃已。
+王稽遂与范雎入咸阳。
+已报使，因言曰： 魏有张禄先生，天下辩士也。
+曰 秦王之国危於累卵，得臣则安。然不可以书传也 。
+臣故载来。 秦王弗信，使舍食草具。
+待命岁馀。当是时，昭王已立三十六年。
+南拔楚之鄢郢，楚怀王幽死於秦。
+秦东破齐。
+湣王尝称帝，後去之。
+数困三晋。厌天下辩士，无所信。
+穰侯，华阳君，昭王母宣太后之弟也；而泾阳君、高陵君皆昭王同母弟也。
+穰侯相，三人者更将，有封邑，以太后故，私家富重於王室。
+及穰侯为秦将，且欲越韩、魏而伐齐纲寿，欲以广其陶封。
+范雎乃上书曰：
+臣闻明主立政，有功者不得不赏，有能者不得不官，劳大者其禄厚，功多者其爵尊，能治众者其官大。
+故无能者不敢当职焉，有能者亦不得蔽隐。
+使以臣之言为可，原行而益利其道；以臣之言为不可，久留臣无为也。
+语曰： 庸主赏所爱而罚所恶；明主则不然，赏必加於有功，而刑必断於有罪。
+今臣之胸不足以当椹质，而要不足以待斧钺，岂敢以疑事尝试於王哉！
+translation: 
+Such people are not good to Qin and will only disturb other people's countries.
+Wang Ji quickly replied: "I don't dare."
+The two then said goodbye and left.
+Fan Ju said to Wang Ji: I heard that Ranghou is a wise man and has many doubts about how to deal with things. Just now he suspected that there was someone hiding in the car, but he forgot to search it.
+So Fan Ju jumped out of the car and walked on foot, saying: "Ranghou will not let this matter go. He will regret not searching the car."
+After walking for about ten miles, Marquis Rang sent cavalry to chase and search the car. No one was found, so he gave up.
+Wang Ji then entered Xianyang City with Fan Ju.
+After Wang Ji reported the envoy situation to the King of Qin, he took the opportunity to say: There is a Mr. Zhang Lu in Wei State. This man is a rare eloquent person in the world.
+He said that King Qin's country is in danger, just like stacking eggs one on top of another. If King Qin can get and reuse me, it will make the country safe.
+But he needed to be interviewed in person and could not be conveyed by letter, so I brought him to Qin. The King of Qin did not believe what Fan Ju said, so he only let Fan Ju live in a guest house and gave him poor food.
+In this way, Fan Ju waited for more than a year to be received by King Qin. At that time, King Qin Zhao had been on the throne for thirty-six years.
+The State of Qin captured the important towns of Yan and Ying of the State of Chu in the south. King Huai of Chu was imprisoned in the State of Qin and finally died in the State of Qin.
+He conquered Qi in the east.
+Previously, King Qi Min once called himself the Eastern Emperor, but soon canceled this title.
+Qin also besieged Han, Zhao and Wei many times and expanded its territory. King Zhao of Qin was a man of great martial arts, so he hated those lobbyists and did not believe what they said.
+Ranghou and Huayangjun are the younger brothers of King Zhao's mother, Queen Mother Xuan, while Lord Jingyang and Lord Gaoling are both brothers of King Zhao.
+Marquis Rang served as the prime minister, and Lord Huayang, Lord Jingyang, and Lord Gaoling served as generals. They all had their own fiefdoms. Due to the protection of Queen Mother Xuan, their private wealth even exceeded that of the country.
+When Ranghou became the general of Qin, he wanted to cross Korea and Wei to attack Gangyi and Shouyi of Qi, hoping to expand his Taoyi fiefdom.
+For this reason, Fan Ju wrote to the King of Qin and said:
+I heard that when a sage monarch carries out administrative affairs, he must not fail to reward those who have meritorious service, and he must not refrain from granting official positions to those who are talented. Those who have made great contributions will have generous salaries, those who have made many achievements will have high titles, and those who can manage many affairs will have high official positions.
+Therefore, people with insufficient ability dare not take up official positions, and those with talent will not be buried.
+If your Majesty thinks that my words are applicable, I hope you will implement and further realize this idea; if you think that my words are not applicable, then there is no point in keeping me in Qin for a long time.
+As the saying goes: A mediocre monarch rewards those he loves and punishes those he dislikes; this is not the case with a wise monarch. Rewards must be given to those who have meritorious service, and punishments must be imposed on guilty people.
+Now my chest cannot withstand the guillotine and chopping board, and my waist cannot withstand the chopping of an axe. How dare I test the king with baseless and uncertain claims?
+
+summary:
+summary line 1: When King Zhao of Qin sent envoy Wang Ji to Wei, Zheng Anping arranged a secret meeting between Fan Ju and Wang Ji. Recognizing Fan Ju's talent, Wang Ji took him to Qin. On the way, they encountered Marquis Rang, the powerful Qin prime minister, but Fan Ju hid to avoid detection. Once in Qin, Wang Ji recommended Fan Ju to King Zhao, but the king was skeptical and housed Fan Ju poorly for over a year. During this time, Qin had expanded its territory significantly, but the king distrusted lobbyists. Marquis Rang and other relatives of the queen mother held immense power, with private wealth exceeding the state's.
+
+Chunk 1: 
+original: 
+无益，徒乱人国耳。
+王稽曰： 不敢。
+即别去。
+范雎曰： 吾闻穰侯智士也，其见事迟，乡者疑车中有人，忘索之。
+於是范雎下车走，曰： 此必悔之。
+行十馀里，果使骑还索车中，无客，乃已。
+王稽遂与范雎入咸阳。
+已报使，因言曰： 魏有张禄先生，天下辩士也。
+曰 秦王之国危於累卵，得臣则安。然不可以书传也 。
+臣故载来。 秦王弗信，使舍食草具。
+待命岁馀。当是时，昭王已立三十六年。
+南拔楚之鄢郢，楚怀王幽死於秦。
+秦东破齐。
+湣王尝称帝，後去之。
+数困三晋。厌天下辩士，无所信。
+穰侯，华阳君，昭王母宣太后之弟也；而泾阳君、高陵君皆昭王同母弟也。
+穰侯相，三人者更将，有封邑，以太后故，私家富重於王室。
+及穰侯为秦将，且欲越韩、魏而伐齐纲寿，欲以广其陶封。
+范雎乃上书曰：
+臣闻明主立政，有功者不得不赏，有能者不得不官，劳大者其禄厚，功多者其爵尊，能治众者其官大。
+故无能者不敢当职焉，有能者亦不得蔽隐。
+使以臣之言为可，原行而益利其道；以臣之言为不可，久留臣无为也。
+语曰： 庸主赏所爱而罚所恶；明主则不然，赏必加於有功，而刑必断於有罪。
+今臣之胸不足以当椹质，而要不足以待斧钺，岂敢以疑事尝试於王哉！
+translation: 
+Such people are not good to Qin and will only disturb other people's countries.
+Wang Ji quickly replied: "I don't dare."
+The two then said goodbye and left.
+Fan Ju said to Wang Ji: I heard that Ranghou is a wise man and has many doubts about how to deal with things. Just now he suspected that there was someone hiding in the car, but he forgot to search it.
+So Fan Ju jumped out of the car and walked on foot, saying: "Ranghou will not let this matter go. He will regret not searching the car."
+After walking for about ten miles, Marquis Rang sent cavalry to chase and search the car. No one was found, so he gave up.
+Wang Ji then entered Xianyang City with Fan Ju.
+After Wang Ji reported the envoy situation to the King of Qin, he took the opportunity to say: There is a Mr. Zhang Lu in Wei State. This man is a rare eloquent person in the world.
+He said that King Qin's country is in danger, just like stacking eggs one on top of another. If King Qin can get and reuse me, it will make the country safe.
+But he needed to be interviewed in person and could not be conveyed by letter, so I brought him to Qin. The King of Qin did not believe what Fan Ju said, so he only let Fan Ju live in a guest house and gave him poor food.
+In this way, Fan Ju waited for more than a year to be received by King Qin. At that time, King Qin Zhao had been on the throne for thirty-six years.
+The State of Qin captured the important towns of Yan and Ying of the State of Chu in the south. King Huai of Chu was imprisoned in the State of Qin and finally died in the State of Qin.
+He conquered Qi in the east.
+Previously, King Qi Min once called himself the Eastern Emperor, but soon canceled this title.
+Qin also besieged Han, Zhao and Wei many times and expanded its territory. King Zhao of Qin was a man of great martial arts, so he hated those lobbyists and did not believe what they said.
+Ranghou and Huayangjun are the younger brothers of King Zhao's mother, Queen Mother Xuan, while Lord Jingyang and Lord Gaoling are both brothers of King Zhao.
+Marquis Rang served as the prime minister, and Lord Huayang, Lord Jingyang, and Lord Gaoling served as generals. They all had their own fiefdoms. Due to the protection of Queen Mother Xuan, their private wealth even exceeded that of the country.
+When Ranghou became the general of Qin, he wanted to cross Korea and Wei to attack Gangyi and Shouyi of Qi, hoping to expand his Taoyi fiefdom.
+For this reason, Fan Ju wrote to the King of Qin and said:
+I heard that when a sage monarch carries out administrative affairs, he must not fail to reward those who have meritorious service, and he must not refrain from granting official positions to those who are talented. Those who have made great contributions will have generous salaries, those who have made many achievements will have high titles, and those who can manage many affairs will have high official positions.
+Therefore, people with insufficient ability dare not take up official positions, and those with talent will not be buried.
+If your Majesty thinks that my words are applicable, I hope you will implement and further realize this idea; if you think that my words are not applicable, then there is no point in keeping me in Qin for a long time.
+As the saying goes: A mediocre monarch rewards those he loves and punishes those he dislikes; this is not the case with a wise monarch. Rewards must be given to those who have meritorious service, and punishments must be imposed on guilty people.
+Now my chest cannot withstand the guillotine and chopping board, and my waist cannot withstand the chopping of an axe. How dare I test the king with baseless and uncertain claims?
+
+summary:
+summary line 2: Fan Ju wrote to King Zhao, arguing that a wise ruler rewards merit and talent, and that he was willing to die if his advice proved useless. Impressed, King Zhao summoned Fan Ju. At the palace, Fan Ju deliberately provoked the king by claiming Qin only had a queen mother and Marquis Rang, not a king. King Zhao apologized for the delay and sought Fan Ju's counsel. After three rounds of questioning, Fan Ju finally spoke, citing historical examples to emphasize the importance of trust and the dangers of powerful relatives. He outlined a strategy of befriending distant states and attacking nearby ones, starting with Han and Wei, to consolidate Qin's power.
+
+Chunk 8: 
+original: 
+贾有汤镬之罪，请自屏於胡貉之地，唯君死生之！ 范雎曰： 汝罪有几？
+曰： 擢贾之发以续贾之罪，尚未足。
+范雎曰： 汝罪有三耳。
+昔者楚昭王时而申包胥为楚卻吴军，楚王封之以荆五千户，包胥辞不受，为丘墓之寄於荆也。
+今雎之先人丘墓亦在魏，公前以雎为有外心於齐而恶雎於魏齐，公之罪一也。
+当魏齐辱我於厕中，公不止，罪二也。
+更醉而溺我，公其何忍乎？
+罪三矣。
+然公之所以得无死者，以綈袍恋恋，有故人之意，故释公。
+乃谢罢。
+入言之昭王，罢归须贾。
+须贾辞於范雎，范雎大供具，尽请诸侯使，与坐堂上，食饮甚设。
+而坐须贾於堂下，置豆其前，令两黥徒夹而马食之。
+数曰： 为我告魏王，急持魏齐头来！
+不然者，我且屠大梁。
+须贾归，以告魏齐。魏齐恐，亡走赵。匿平原君所。
+范雎既相，王稽谓范雎曰： 事有不可知者三，有不柰何者亦三。
+宫车一日晏驾，是事之不可知者一也。
+君卒然捐馆舍，是事之不可知者二也。
+使臣卒然填沟壑，是事之不可知者三也。
+宫车一日晏驾，君虽恨於臣，无可柰何。
+君卒然捐馆舍，君虽恨於臣，亦无可柰何。
+使臣卒然填沟壑，君虽恨於臣，亦无可柰何。
+范雎不怿，乃入言於王曰： 非王稽之忠，莫能内臣於函谷关；非大王之贤圣，莫能贵臣。
+今臣官至於相，爵在列侯，王稽之官尚止於谒者，非其内臣之意也。
+昭王召王稽，拜为河东守，三岁不上计。
+translation: 
+I have committed a serious crime that deserves to be boiled and killed. I am willing to throw me into the desolate and barbaric Hurao area. Let me live or die. It is just up to your decision! Fan Ju said: How many crimes are you guilty of?
+Xu Jia quickly replied: Even if you pluck out my hair to count my sins, it won't be enough.
+Fan Ju said: You have three charges.
+In the past, when King Zhao of Chu, Shen Baoxu planned for the Chu State and defeated the Wu army. The King of Chu granted him five thousand households in the Chu area as a settlement. Shen Baoxu declined and refused to accept it because his ancestral tomb was buried in the Chu State. Defeating the Wu army could also preserve his ancestral tomb.
+Now my ancestral tomb is in the State of Wei, but you thought that I had an affair with the State of Wei and secretly communicated with the State of Qi, so you said bad things about me in front of Wei Qi. This is your first crime.
+When Wei Qi threw me into the toilet and insulted me wantonly, you did not stop him. This is the second crime.
+What's more, you peed on me when you were drunk. How could you bear it?
+This is the third count.
+But the reason why you can avoid being executed is because today you gave me a thick silk robe and it seems that you are still attached to me as an old friend, so I will give you a way to live and let you go.
+So he resigned from Xu Jia and ended the meeting.
+Immediately, Fan Ju went to the palace and reported the whole story to King Zhao. He decided not to accept Wei's envoy and ordered Xu Jia to return home.
+Xu Jia went to say farewell to Fan Ju. Fan Ju held a banquet and invited all the envoys from various princely states in Qin to sit with him in the hall. There were lavish food and wine.
+But Fan Ju made Xu Jia sit down in the hall, put a trough of feed mixed with grass beans in front of him, and ordered two prisoners who had been tortured to sandwich him in the middle and feed him like a horse.
+Fan Ju ordered him: "Go back and tell King Wei what I said, and quickly offer Wei Qi's head!"
+Otherwise, I will kill Daliang.
+Xu Jia returned to the State of Wei and told Wei Qi about the situation. Wei Qi was greatly frightened, so he fled to the State of Zhao and hid in the home of Lord Pingyuan.
+After Fan Ju became the Prime Minister of Qin, Wang Ji once said to Fan Ju: There are three things that are unpredictable and there are three things that are impossible to do.
+The king may die one day. This is the first unpredictable thing.
+You die suddenly and that's the second thing that's unpredictable.
+If I go suddenly, this is the third unpredictable thing.
+If the king dies one day, even if you feel sorry that I was not reused by the king, there is nothing you can do about it.
+If you die suddenly, there is nothing you can do even if you regret that you have not repaid me.
+If I die suddenly, even if you regret not recommending me in time, there is nothing you can do.
+Fan Ju was unhappy after hearing this, so he went to the palace to speak to the King of Qin and said: Without Wang Ji's loyalty to you, no one would have brought me into Hangu Pass; but for the king's wisdom and wisdom, I would not have been able to make me so noble.
+Now my official position is that of prime minister, and my title has been extended to the rank of marquis. However, Wang Ji is still just a visitor conveying orders to the king. This is not his original intention of bringing me to Qin.
+King Qin Zhao summoned Wang Ji, appointed him as the governor of Hedong County, and allowed him not to report to the court on the political and economic conditions of the county for three years.
+
+summary:
+summary line 3: King Zhao appointed Fan Ju as a guest minister and followed his advice, capturing cities from Wei and Han. Over time, Fan Ju gained the king's trust and exposed the overreach of the queen mother and Marquis Rang, leading to their expulsion. Fan Ju became prime minister, and the king granted him the title of Marquis Ying. When Xu Jia later visited Qin as an envoy, Fan Ju humiliated him for past wrongs but spared his life due to a gift of a robe. Fan Ju also recommended Zheng Anping as a general and repaid all who had helped him.
+
+Chunk 11: 
+original: 
+蔡泽知唐举戏之，乃曰： 富贵吾所自有，吾所不知者寿也，原闻之。
+唐举曰： 先生之寿，从今以往者四十三岁。
+蔡泽笑谢而去，谓其御者曰： 吾持粱刺齿肥，跃马疾驱，怀黄金之印，结紫绶於要，揖让人主之前，食肉富贵，四十三年足矣。
+去之赵，见逐。
+之韩、魏，遇夺釜鬲於涂。
+闻应侯任郑安平、王稽皆负重罪於秦，应侯内惭，蔡泽乃西入秦。
+将见昭王，使人宣言以感怒应侯曰： 燕客蔡泽，天下雄俊弘辩智士也。
+彼一见秦王，秦王必困君而夺君之位。
+应侯闻，曰： 五帝三代之事，百家之说，吾既知之，众口之辩，吾皆摧之，是恶能困我而夺我位乎？
+使人召蔡泽。
+蔡泽入，则揖应。
+应侯固不快，及见之，又倨，应侯因让之曰： 子尝宣言欲代我相秦，宁有之乎？
+对曰： 然。 应侯曰： 请闻其说。
+蔡泽曰： 吁，君何见之晚也！夫四时之序，成功者去。
+夫人生百体坚彊，手足便利，耳目聪明而心圣智，岂非士之原与？
+应侯曰： 然。 蔡泽曰： 质仁秉义，行道施德，得志於天下，天下怀乐敬爱而尊慕之，皆原以为君王，岂不辩智之期与？
+应侯曰： 然。 蔡泽复曰： 富贵显荣，成理万物，使各得其所；性命寿长，终其天年而不夭伤；天下继其统，守其业，传之无穷；名实纯粹，泽流千里，世世称之而无绝，与天地终始：岂道德之符而圣人所谓吉祥善事者与？
+应侯曰： 然。 蔡泽曰： 若夫秦之商君，楚之吴起，越之大夫种，其卒然亦可原与？
+应侯知蔡泽之欲困己以说，复谬曰： 何为不可？
+夫公孙鞅之事孝公也，极身无贰虑，尽公而不顾私；设刀锯以禁奸邪，信赏罚以致治；披腹心，示情素，蒙怨咎，欺旧友，夺魏公子卬，安秦社稷，利百姓，卒为秦禽将破敌，攘地千里。
+translation: 
+Cai Ze knew that Tang Ju was joking with him, so he said, "I already have wealth. What I don't know is the length of life. I want to hear your opinion."
+Tang Ju said: Sir, your life span will be forty-three years from now on.
+Cai Ze smiled and expressed his gratitude and walked away. Then he said to his coachman: I am carrying rice and eating fat meat, driving the carriage at a gallop, holding a gold seal in my hand, and wearing a purple ribbon around my waist. I am highly respected in front of my master and enjoy glory and wealth. I should be satisfied for forty-three years.
+He left Yan State and went to Zhao State, but was driven out by Zhao State.
+Then he went to South Korea and Wei State. On the way, he encountered robbers who robbed him of his cooking utensils such as pots and tripods.
+He heard that both Zheng Anping and Wang Ji recommended by Fan Ju had committed serious crimes in the Qin State. Fan Ju felt ashamed and could not lift his head, so Cai Ze went west to the Qin State.
+He was going to visit King Zhao of Qin. He first sent someone to make a speech in front of Fan Ju to provoke Fan Ju, saying: Cai Ze, a guest from the state of Yan, is a wise and eloquent man with extraordinary knowledge and eloquence in the world.
+As soon as he sees the King of Qin, the King of Qin will definitely put you in trouble and deprive you of your power.
+Fan Ju heard these words and said: I am familiar with the affairs of the Five Emperors and Three Dynasties and the theories of various schools of thought. I can convince many people with their eloquent words. How can this person embarrass me and take away my power?
+So he sent someone to summon Cai Ze.
+Cai Ze came in and bowed to Fan Ju.
+Fan Ju was unhappy at first. When he met Cai Ze and saw how arrogant he was, Fan Ju reprimanded him and said, "You once threatened to replace me as Qin's prime minister. Has this ever happened to you?" Cai Ze replied: Yes.
+Fan Ju said: Let me hear what you have to say. Cai Ze said: Yo!
+Why are you so slow to understand the problem? The four seasons of spring, summer, autumn and winter change in a year, and each one completes its mission and then recedes automatically.
+All parts of a person's body are strong, his hands and feet are nimble, his ears can hear clearly, his eyes can see clearly, and his mind is intelligent. Isn't this the scholar's wish? Fan Ju said: Yes.
+Cai Ze said: He is based on benevolence, upholds justice, promotes the right path, spreads kindness, and is willing to realize his ambitions in the world. People in the world support, love, respect and admire him, and all hope to make him a monarch. Isn't this what a wise and eloquent person expects? Fan Ju said: Yes.
+Cai Ze also said: He who is in a position of wealth and glory, governs everything so that everything can be in its proper place; lives a long life, spends his life safely without dying; the world inherits his tradition, sticks to his career, and passes it on forever; his reputation is in perfect harmony with reality, his kindness is extended thousands of miles away, and he is praised from generation to generation as never ending and as long as heaven and earth: Isn't this the effect of promoting the right way and spreading kindness and the auspicious and good deeds mentioned by the saints? Fan Ju said: Yes.
+Cai Ze said: As for Shang Yang of Qin, Wu Qi of Chu, and Wen Zhong, the great official of Yue, are their tragic endings enviable?
+Fan Ju knew that Cai Ze wanted to use these words to block his mouth and convince himself, so he deliberately quibbled and said: Why not?
+That Gongsun Yang served Qin Xiaogong without any second thoughts throughout his life. He devoted himself to the public affairs and did not care about himself. He set up tortures with knives and saws to suppress treachery and evil, and implemented rewards and punishments to achieve peace in the country. He showed his loyalty and true feelings, suffered resentment and accusations, deceived old friends, captured Wei Gongzi Yan, stabilized the country of Qin, and benefited the people. Finally, he captured enemy generals for Qin, defeated the enemy troops, and opened up the territory thousands of miles away.
+
+summary:
+summary line 4: However, Fan Ju's later years were troubled. Zheng Anping surrendered to Zhao, and Wang Ji was executed for colluding with other states. King Zhao expressed concern about Qin's lack of capable generals, unsettling Fan Ju. Cai Ze, a strategist from Yan, then arrived and warned Fan Ju of the dangers of holding power too long, citing historical figures like Shang Yang and Wu Qi who died after their achievements. Fan Ju heeded the advice and recommended Cai Ze to King Zhao, eventually resigning as prime minister. Cai Ze served briefly but also resigned due to slander, living on in Qin for many years.
+
+Chunk 1: 
+original: 
+无益，徒乱人国耳。
+王稽曰： 不敢。
+即别去。
+范雎曰： 吾闻穰侯智士也，其见事迟，乡者疑车中有人，忘索之。
+於是范雎下车走，曰： 此必悔之。
+行十馀里，果使骑还索车中，无客，乃已。
+王稽遂与范雎入咸阳。
+已报使，因言曰： 魏有张禄先生，天下辩士也。
+曰 秦王之国危於累卵，得臣则安。然不可以书传也 。
+臣故载来。 秦王弗信，使舍食草具。
+待命岁馀。当是时，昭王已立三十六年。
+南拔楚之鄢郢，楚怀王幽死於秦。
+秦东破齐。
+湣王尝称帝，後去之。
+数困三晋。厌天下辩士，无所信。
+穰侯，华阳君，昭王母宣太后之弟也；而泾阳君、高陵君皆昭王同母弟也。
+穰侯相，三人者更将，有封邑，以太后故，私家富重於王室。
+及穰侯为秦将，且欲越韩、魏而伐齐纲寿，欲以广其陶封。
+范雎乃上书曰：
+臣闻明主立政，有功者不得不赏，有能者不得不官，劳大者其禄厚，功多者其爵尊，能治众者其官大。
+故无能者不敢当职焉，有能者亦不得蔽隐。
+使以臣之言为可，原行而益利其道；以臣之言为不可，久留臣无为也。
+语曰： 庸主赏所爱而罚所恶；明主则不然，赏必加於有功，而刑必断於有罪。
+今臣之胸不足以当椹质，而要不足以待斧钺，岂敢以疑事尝试於王哉！
+translation: 
+Such people are not good to Qin and will only disturb other people's countries.
+Wang Ji quickly replied: "I don't dare."
+The two then said goodbye and left.
+Fan Ju said to Wang Ji: I heard that Ranghou is a wise man and has many doubts about how to deal with things. Just now he suspected that there was someone hiding in the car, but he forgot to search it.
+So Fan Ju jumped out of the car and walked on foot, saying: "Ranghou will not let this matter go. He will regret not searching the car."
+After walking for about ten miles, Marquis Rang sent cavalry to chase and search the car. No one was found, so he gave up.
+Wang Ji then entered Xianyang City with Fan Ju.
+After Wang Ji reported the envoy situation to the King of Qin, he took the opportunity to say: There is a Mr. Zhang Lu in Wei State. This man is a rare eloquent person in the world.
+He said that King Qin's country is in danger, just like stacking eggs one on top of another. If King Qin can get and reuse me, it will make the country safe.
+But he needed to be interviewed in person and could not be conveyed by letter, so I brought him to Qin. The King of Qin did not believe what Fan Ju said, so he only let Fan Ju live in a guest house and gave him poor food.
+In this way, Fan Ju waited for more than a year to be received by King Qin. At that time, King Qin Zhao had been on the throne for thirty-six years.
+The State of Qin captured the important towns of Yan and Ying of the State of Chu in the south. King Huai of Chu was imprisoned in the State of Qin and finally died in the State of Qin.
+He conquered Qi in the east.
+Previously, King Qi Min once called himself the Eastern Emperor, but soon canceled this title.
+Qin also besieged Han, Zhao and Wei many times and expanded its territory. King Zhao of Qin was a man of great martial arts, so he hated those lobbyists and did not believe what they said.
+Ranghou and Huayangjun are the younger brothers of King Zhao's mother, Queen Mother Xuan, while Lord Jingyang and Lord Gaoling are both brothers of King Zhao.
+Marquis Rang served as the prime minister, and Lord Huayang, Lord Jingyang, and Lord Gaoling served as generals. They all had their own fiefdoms. Due to the protection of Queen Mother Xuan, their private wealth even exceeded that of the country.
+When Ranghou became the general of Qin, he wanted to cross Korea and Wei to attack Gangyi and Shouyi of Qi, hoping to expand his Taoyi fiefdom.
+For this reason, Fan Ju wrote to the King of Qin and said:
+I heard that when a sage monarch carries out administrative affairs, he must not fail to reward those who have meritorious service, and he must not refrain from granting official positions to those who are talented. Those who have made great contributions will have generous salaries, those who have made many achievements will have high titles, and those who can manage many affairs will have high official positions.
+Therefore, people with insufficient ability dare not take up official positions, and those with talent will not be buried.
+If your Majesty thinks that my words are applicable, I hope you will implement and further realize this idea; if you think that my words are not applicable, then there is no point in keeping me in Qin for a long time.
+As the saying goes: A mediocre monarch rewards those he loves and punishes those he dislikes; this is not the case with a wise monarch. Rewards must be given to those who have meritorious service, and punishments must be imposed on guilty people.
+Now my chest cannot withstand the guillotine and chopping board, and my waist cannot withstand the chopping of an axe. How dare I test the king with baseless and uncertain claims?
+
+summary:
+summary line 5: The historian comments that Fan Ju and Cai泽 succeeded in Qin due to the state's strength and their own perseverance through hardship, noting that many talented individuals fail without such opportunities.
+

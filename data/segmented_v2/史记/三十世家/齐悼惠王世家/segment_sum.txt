@@ -1,0 +1,514 @@
+Summary uses chunk [0, 1, 1, 3, 3, 4, 3, 6]
+
+Chunk 0: 
+original: 
+齐悼惠王刘肥者，高祖长庶男也。
+其母外妇也，曰曹氏。
+高祖六年，立肥为齐王，食七十城，诸民能齐言者皆予齐王。
+齐王，孝惠帝兄也。
+孝惠帝二年，齐王入朝。
+惠帝与齐王燕饮，亢礼如家人。
+吕太后怒，且诛齐王。
+齐王惧不得脱，乃用其内史勋计，献城阳郡，以为鲁元公主汤沐邑。
+吕太后喜，乃得辞就国。
+悼惠王即位十三年，以惠帝六年卒。
+子襄立，是为哀王。
+哀王元年，孝惠帝崩，吕太后称制，天下事皆决於高后。
+二年，高后立其兄子郦侯吕台为吕王，割齐之济南郡为吕王奉邑。
+哀王三年，其弟章入宿卫於汉，吕太后封为硃虚侯，以吕禄女妻之。
+後四年，封章弟兴居为东牟侯，皆宿卫长安中。
+哀王八年，高后割齐琅邪郡立营陵侯刘泽为琅邪王。
+其明年，赵王友入朝，幽死于邸。
+三赵王皆废。
+高后立诸吕诸吕为三王，擅权用事。
+硃虚侯年二十，有气力，忿刘氏不得职。
+尝入待高后燕饮，高后令硃虚侯刘章为酒吏。
+章自请曰： 臣，将种也，请得以军法行酒。 高后曰： 可。
+酒酣，章进饮歌舞。
+已而曰： 请为太后言耕田歌。
+高后兒子畜之，笑曰： 顾而父知田耳。若生而为王子，安知田乎？ 章曰： 臣知之。
+太后曰： 试为我言田。
+章曰： 深耕穊种，立苗欲疏，非其种者，鉏而去之。
+吕后默然。
+顷之，诸吕有一人醉，亡酒，章追，拔剑斩之，而还报曰： 有亡酒一人，臣谨行法斩之。
+translation: 
+Liu Fei, King Hui of Qi Dynasty, was the eldest son of Emperor Gaozu.
+His mother was Gaozu's former mistress, whose surname was Cao.
+Six years ago, Emperor Gaozu granted Liu Fei the title of King of Qi and granted him seventy cities. All people who spoke the Qi language belonged to the King of Qi.
+King Qi is the elder brother of Emperor Xiaohui.
+In the second year of Emperor Xiaohui's reign, King Liu went to Beijing to see the emperor.
+Emperor Hui and the King of Qi had a banquet, and the two treated each other with the same etiquette as family members and brothers.
+Empress Dowager Lu was angry about this and wanted to kill King Qi.
+The King of Qi was afraid that he would not be able to avoid disaster, so he adopted the strategy of his internal historian Xun and donated Chengyang County as Tang Muyi to Princess Lu Yuan.
+Empress Dowager Lu was very happy, and King Qi was able to resign and return to Qi.
+Thirteen years after King Hui ascended the throne, he died in the sixth year of Emperor Hui.
+His son Liu Xiang came to the throne and became King Ai.
+In the first year of King Ai, Emperor Xiaohui passed away, and Empress Dowager Lu began to take charge of the government. All affairs in the world were decided by Empress Lu.
+In the second year, Empress Gao conferred the title of King Lu on her brother's son Lihou Lutai, and set up Jinan County in Qi State as the fiefdom of King Lu.
+In the third year of King Ai's reign, his younger brother Liu Zhang entered the Han Palace for guard duty. Empress Dowager Lu named him Zhu Xuhou and married Lu Lu's daughter to him.
+Four years later, Empress Dowager Lu granted Liu Zhang's younger brother Xingju the title of Marquis of Dongmou, and both of them served as guards in Chang'an Palace.
+In the eighth year of King Ai's reign, Empress Gao divided Langxie County of Qi State and named Liu Ze, Marquis of Yingling, as King Langxie.
+The next year, King Zhao Liuyou entered the court and was imprisoned in his mansion and died.
+The three Zhao kings were deposed one after another.
+After Gao, the descendants of the Lu family were granted the title of King of Yan, King of Zhao, and King of Liang, and they monopolized power and arbitrarily ruled the government.
+When Zhu Xuhou Liu Zhang was twenty years old, he was a man of great courage and bravery. He was angry because the Liu family could not get a position.
+He once served the banquet of the Queen of Gao, who ordered Zhu Xuhou and Liu Zhang to serve as wine stewards.
+Liu Zhang personally requested: "I am a descendant of a military general. Please allow me to supervise the behavior at the banquet in accordance with military law." Empress Gao said: Yes.
+When the wine was in full swing, Liu Zhang performed songs and dances to add to the fun.
+Then he said: Please let me sing a plowing song for the Queen Mother.
+The queen treated him as a child and said with a smile: "I think your father knows about farming. You were born as a prince, how could you know about farming?" Liu Zhang said: I know.
+The Queen Mother said: "Try to tell me about farming."
+Liu Zhang said: If you plow deeply and plant densely, you will leave sparse seedlings. They are not the same kind, so you must shovel and hoe them resolutely.
+Queen Lu was silent after hearing this.
+After a while, one of the Lu clan members got drunk and ran away from the banquet. Liu Zhang chased him, drew his sword and beheaded him. Then he came back and reported: "There is a man who escaped from the banquet. I would like to kill him according to military law."
+
+summary:
+summary line 0: Liu Fei, King Hui of Qi, was Emperor Gaozu's eldest son, granted the title of King of Qi with seventy cities. In the second year of Emperor Xiaohui's reign, he visited the capital and dined with the emperor as equals, angering Empress Dowager Lu, who sought to kill him. Following his internal historian Xun's advice, he donated Chengyang County to Princess Lu Yuan, appeasing the empress dowager and allowing his safe return to Qi. He died thirteen years into his reign, succeeded by his son Liu Xiang, King Ai.
+
+Chunk 1: 
+original: 
+太后左右皆大惊。业已许其军法，无以罪也。
+因罢。
+自是之後，诸吕惮硃虚侯，虽大臣皆依硃虚侯，刘氏为益彊。
+其明年，高后崩。
+赵王吕禄为上将军，吕王产为相国，皆居长安中，聚兵以威大臣，欲为乱。
+硃虚侯章以吕禄女为妇，知其谋，乃使人阴出告其兄齐王，欲令发兵西，硃虚侯、东牟侯为内应，以诛诸吕，因立齐王为帝。
+齐王既闻此计，乃与其舅父驷钧、郎中令祝午、中尉魏勃阴谋发兵。
+齐相召平闻之，乃发卒卫王宫。
+魏勃绐召平曰： 王欲发兵，非有汉虎符验也。
+而相君围王，固善。
+勃请为君将兵卫卫王。
+召平信之，乃使魏勃将兵围王宫。
+勃既将兵，使围相府。
+召平曰： 嗟乎！
+道家之言 当断不断，反受其乱 ，乃是也。 遂自杀。
+於是齐王以驷钧为相，魏勃为将军，祝午为内史，悉发国中兵。
+使祝午东诈琅邪王曰： 吕氏作乱，齐王发兵欲西诛之。
+齐王自以兒子，年少，不习兵革之事，原举国委大王。
+大王自高帝将也，习战事。
+齐王不敢离兵，使臣请大王幸之临菑见齐王计事，并将齐兵以西平关中之乱。
+琅邪王信之，以为然，驰见齐王。
+齐王与魏勃等因留琅邪王，而使祝午尽发琅邪国而并将其兵。
+琅邪王刘泽既见欺，不得反国，乃说齐王曰： 齐悼惠王高皇帝长子，推本言之，而大王高皇帝適长孙也，当立。
+今诸大臣狐疑未有所定，而泽於刘氏最为长年，大臣固待泽决计。
+今大王留臣无为也，不如使我入关计事。
+齐王以为然，乃益具车送琅邪王。
+琅邪王既行，齐遂举兵西攻吕国之济南。
+於是齐哀王遗诸侯王书曰： 高帝平定天下，王诸子弟，悼惠王於齐。
+悼惠王薨，惠帝使留侯张良立臣为齐王。
+惠帝崩，高后用事，春秋高，听诸吕擅废高帝所立，又杀三赵王，灭梁、燕、赵以王诸吕，分齐国为四。
+忠臣进谏，上惑乱不听。
+今高后崩，皇帝春秋富，未能治天下，固恃大臣诸。
+今诸吕又擅自尊官，聚兵严威，劫列侯忠臣，矫制以令天下，宗庙所以危。
+今寡人率兵入诛不当为王者。
+汉闻齐发兵而西，相国吕产乃遣大将军灌婴东击之。
+灌婴至荥阳，乃谋曰： 诸吕将兵居关中，欲危刘氏而自立。
+我今破齐还报，是益吕氏资也。
+乃留兵屯荥阳，使使喻齐王及诸侯，与连和，以待吕氏之变而共诛之。
+齐王闻之，乃西取其故济南郡，亦屯兵於齐西界以待约。
+吕禄、吕产欲作乱关中，硃虚侯与太尉勃、丞相平等诛之。
+硃虚侯首先斩吕产，於是太尉勃等乃得尽诛诸吕。
+而琅邪王亦从齐至长安。
+大臣议欲立齐王，而琅邪王及大臣曰： 齐王母家驷钧，恶戾，虎而冠者也。
+方以吕氏故几乱天下，今又立齐王，是欲复为吕氏也。
+translation: 
+The Queen Mother and her officials were greatly surprised. Since he had been allowed to act in accordance with military law, he could not be punished.
+The banquet also ended.
+From then on, everyone in the Lu family was afraid of Zhu Xuhou, and even the ministers obeyed Zhu Xuhou. Liu's momentum gradually became stronger again.
+The next year, Queen Gao died.
+King Lu Lu of Zhao was appointed as the general, and King Lu Chan was appointed as the prime minister. Both of them lived in Chang'an City. They gathered troops to threaten the ministers and wanted to launch a rebellion.
+Because his wife was Lu Lu's daughter, Zhu Xuhou Liu Zhang knew about their plot, so he sent someone to sneak out of Chang'an to report to his brother King Qi, hoping that he would send troops to the west. Zhu Xuhou and Dongmuhou acted as internal correspondents in order to kill the Lu clan and take the opportunity to make King Qi the emperor.
+After the King of Qi heard about this plan, he secretly planned to send troops with his uncle Si Jun, Lang Zhongling Zhu Wu, and Lieutenant Wei Bo.
+Zhao Ping, the Prime Minister of Qi, heard about this and sent troops to guard the palace.
+Wei Bo lied to Zhao Ping and said: The king wants to send troops, but there is no tiger talisman from the court to verify it.
+Now the Prime Minister has surrounded the palace, which is a good thing.
+I request you to lead the troops to protect King Qi.
+Zhao Ping believed what he said and asked Wei Bo to lead troops to surround the palace.
+After Wei Bo led the army, he sent troops to surround the Prime Minister's Mansion.
+Zhao Ping said: Alas!
+The words of Taoism should be discontinued, but they will be confused by it. This is exactly the case.  Finally committed suicide and died.
+At that time, the King of Qi appointed Si Jun as the prime minister, Wei Bo as the general, Zhu Wu as the internal history officer, and sent out all the troops in the country.
+He sent Zhu Wu to the east to deceive King Langxie, saying: The Lu clan rebelled, and the King of Qi sent troops to march west to kill them.
+The King of Qi thought that he was a junior, young and not familiar with the war, and he was willing to entrust the entire army of the feudal country to the King.
+The king has been a general since the time of Emperor Gao and is familiar with war.
+The King of Qi did not dare to leave the army, so he sent his ministers to invite the King to Linzi to meet with the King of Qi to discuss important matters, and together they could lead the troops westward to quell the chaos in Guanzhong.
+King Langye believed it and thought it was right, so he flew to see King Qi.
+King Qi, Wei Bo and others took the opportunity to detain King Langxie. Zhu Wu was sent to send out all the troops of Langye Kingdom and command them.
+After Langxie King Liu Ze was deceived, he could not return to his feudal kingdom, so he persuaded King Qi and said: King Qi Huihui is the eldest son of Emperor Gao. From the original source, the king is the eldest grandson of Emperor Gao and should inherit the throne.
+Now the ministers are still undecided, and I am the eldest among the Liu family. The ministers are waiting for me to decide the big plan.
+Now that the king has detained me here, I can't do anything. Why not let me enter the customs to discuss the important matter of establishing a new emperor.
+King Qi thought it was right, so he prepared many cars to send King Langxie to the court.
+After King Langxie left, King Qi raised troops to attack Jinan in the west of Lu State.
+At this time, King Liu Ai sent a letter to the princes and kings, saying: After Emperor Gaozu pacified the world, he made his descendants kings, and King Hui Hui made them kings in Qi.
+After the death of King Hui Hui, Emperor Hui sent Zhang Liang, the remaining marquis, to establish his minister as King of Qi.
+After the death of Emperor Hui, Empress Gao took over the dictatorship. She was old and allowed Zhu Lu to depose the kings appointed by Emperor Gao without permission. She also killed three kings of Zhao, destroyed the three kingdoms of Liang, Yan and Zhao, let the Lu people become kings, and divided Qi into four kingdoms.
+The loyal ministers came to remonstrate, but the Lord was confused and refused to listen.
+Now that Empress Gao has passed away, the emperor is still young and cannot govern the world. Of course, he must rely on his ministers and princes.
+Now Zhu Lu is proud of himself as a high official, gathers troops to show off his power, intimidates princes and loyal ministers, and falsely delivers imperial edicts to command the world. The Han court is therefore in great danger.
+Now I am leading an army into the pass to kill those who should not be kings.
+When the court heard that the King of Qi was sending troops to march westward, Prime Minister Lu Chan sent General Guan Ying to lead his troops eastward to intercept the Qi troops.
+When Guan Ying arrived at Xingyang, he thought in his mind: Zhu Lu led his troops to gather in Guanzhong, intending to harm the Liu family and establish himself as emperor.
+If I defeat Qi and return to the DPRK to report victory, it will be equivalent to increasing the capital of the Lu family.
+So he ordered the army to stop and garrison in Xingyang, and sent envoys to inform the king of Qi and the princes that they were willing to unite with each other and wait for Lu's rebellion to be executed together.
+After the King of Qi heard about this, he marched westward to recapture their hometown of Jinan County, and stationed troops on the western border of Qi State to wait for the fulfillment of the alliance.
+Lu Lu and Lu Chan wanted to rebel in Guanzhong. Zhu Xuhou Liu Zhang, Taiwei Zhou Bo, and Prime Minister Chen Ping killed them.
+Zhu Xuhou first beheaded Lu Chan, and then Taiwei Zhou Bo and others were able to kill all the Lu clan members.
+King Langxie also happened to come to Chang'an from Qi.
+The ministers discussed letting King Qi succeed the emperor, but King Langxie and some ministers said: King Qi's mother-uncle Sijun is ferocious and cruel, like a tiger wearing a hat.
+We almost caused chaos in the world just now because of the Lu family, and now we want to establish the King of Qi because we want another Lu family to appear.
+
+summary:
+summary line 1: During King Ai's reign, Empress Dowager Lu took control, appointing Lu family members as kings and dividing Qi's territories. Liu Zhang, Marquis of Zhuxu and King Ai's younger brother, boldly challenged the Lu clan's power. At a banquet, he used a farming song to criticize their rule and later executed a drunken Lu clan member under military law, instilling fear in the Lu family and reviving Liu clan influence. After Empress Dowager Lu's death, Lu Lu and Lu Chan plotted rebellion. Liu Zhang, aware of their plans, urged his brother King Qi to raise troops westward while he and Dongmou Hou served as internal allies. King Qi mobilized forces, detaining King Langxie to command his troops, and sent letters to princes condemning the Lu clan's usurpation. However, General Guan Ying, sent to intercept Qi, halted at Xingyang and allied with Qi instead.
+
+Chunk 1: 
+original: 
+太后左右皆大惊。业已许其军法，无以罪也。
+因罢。
+自是之後，诸吕惮硃虚侯，虽大臣皆依硃虚侯，刘氏为益彊。
+其明年，高后崩。
+赵王吕禄为上将军，吕王产为相国，皆居长安中，聚兵以威大臣，欲为乱。
+硃虚侯章以吕禄女为妇，知其谋，乃使人阴出告其兄齐王，欲令发兵西，硃虚侯、东牟侯为内应，以诛诸吕，因立齐王为帝。
+齐王既闻此计，乃与其舅父驷钧、郎中令祝午、中尉魏勃阴谋发兵。
+齐相召平闻之，乃发卒卫王宫。
+魏勃绐召平曰： 王欲发兵，非有汉虎符验也。
+而相君围王，固善。
+勃请为君将兵卫卫王。
+召平信之，乃使魏勃将兵围王宫。
+勃既将兵，使围相府。
+召平曰： 嗟乎！
+道家之言 当断不断，反受其乱 ，乃是也。 遂自杀。
+於是齐王以驷钧为相，魏勃为将军，祝午为内史，悉发国中兵。
+使祝午东诈琅邪王曰： 吕氏作乱，齐王发兵欲西诛之。
+齐王自以兒子，年少，不习兵革之事，原举国委大王。
+大王自高帝将也，习战事。
+齐王不敢离兵，使臣请大王幸之临菑见齐王计事，并将齐兵以西平关中之乱。
+琅邪王信之，以为然，驰见齐王。
+齐王与魏勃等因留琅邪王，而使祝午尽发琅邪国而并将其兵。
+琅邪王刘泽既见欺，不得反国，乃说齐王曰： 齐悼惠王高皇帝长子，推本言之，而大王高皇帝適长孙也，当立。
+今诸大臣狐疑未有所定，而泽於刘氏最为长年，大臣固待泽决计。
+今大王留臣无为也，不如使我入关计事。
+齐王以为然，乃益具车送琅邪王。
+琅邪王既行，齐遂举兵西攻吕国之济南。
+於是齐哀王遗诸侯王书曰： 高帝平定天下，王诸子弟，悼惠王於齐。
+悼惠王薨，惠帝使留侯张良立臣为齐王。
+惠帝崩，高后用事，春秋高，听诸吕擅废高帝所立，又杀三赵王，灭梁、燕、赵以王诸吕，分齐国为四。
+忠臣进谏，上惑乱不听。
+今高后崩，皇帝春秋富，未能治天下，固恃大臣诸。
+今诸吕又擅自尊官，聚兵严威，劫列侯忠臣，矫制以令天下，宗庙所以危。
+今寡人率兵入诛不当为王者。
+汉闻齐发兵而西，相国吕产乃遣大将军灌婴东击之。
+灌婴至荥阳，乃谋曰： 诸吕将兵居关中，欲危刘氏而自立。
+我今破齐还报，是益吕氏资也。
+乃留兵屯荥阳，使使喻齐王及诸侯，与连和，以待吕氏之变而共诛之。
+齐王闻之，乃西取其故济南郡，亦屯兵於齐西界以待约。
+吕禄、吕产欲作乱关中，硃虚侯与太尉勃、丞相平等诛之。
+硃虚侯首先斩吕产，於是太尉勃等乃得尽诛诸吕。
+而琅邪王亦从齐至长安。
+大臣议欲立齐王，而琅邪王及大臣曰： 齐王母家驷钧，恶戾，虎而冠者也。
+方以吕氏故几乱天下，今又立齐王，是欲复为吕氏也。
+translation: 
+The Queen Mother and her officials were greatly surprised. Since he had been allowed to act in accordance with military law, he could not be punished.
+The banquet also ended.
+From then on, everyone in the Lu family was afraid of Zhu Xuhou, and even the ministers obeyed Zhu Xuhou. Liu's momentum gradually became stronger again.
+The next year, Queen Gao died.
+King Lu Lu of Zhao was appointed as the general, and King Lu Chan was appointed as the prime minister. Both of them lived in Chang'an City. They gathered troops to threaten the ministers and wanted to launch a rebellion.
+Because his wife was Lu Lu's daughter, Zhu Xuhou Liu Zhang knew about their plot, so he sent someone to sneak out of Chang'an to report to his brother King Qi, hoping that he would send troops to the west. Zhu Xuhou and Dongmuhou acted as internal correspondents in order to kill the Lu clan and take the opportunity to make King Qi the emperor.
+After the King of Qi heard about this plan, he secretly planned to send troops with his uncle Si Jun, Lang Zhongling Zhu Wu, and Lieutenant Wei Bo.
+Zhao Ping, the Prime Minister of Qi, heard about this and sent troops to guard the palace.
+Wei Bo lied to Zhao Ping and said: The king wants to send troops, but there is no tiger talisman from the court to verify it.
+Now the Prime Minister has surrounded the palace, which is a good thing.
+I request you to lead the troops to protect King Qi.
+Zhao Ping believed what he said and asked Wei Bo to lead troops to surround the palace.
+After Wei Bo led the army, he sent troops to surround the Prime Minister's Mansion.
+Zhao Ping said: Alas!
+The words of Taoism should be discontinued, but they will be confused by it. This is exactly the case.  Finally committed suicide and died.
+At that time, the King of Qi appointed Si Jun as the prime minister, Wei Bo as the general, Zhu Wu as the internal history officer, and sent out all the troops in the country.
+He sent Zhu Wu to the east to deceive King Langxie, saying: The Lu clan rebelled, and the King of Qi sent troops to march west to kill them.
+The King of Qi thought that he was a junior, young and not familiar with the war, and he was willing to entrust the entire army of the feudal country to the King.
+The king has been a general since the time of Emperor Gao and is familiar with war.
+The King of Qi did not dare to leave the army, so he sent his ministers to invite the King to Linzi to meet with the King of Qi to discuss important matters, and together they could lead the troops westward to quell the chaos in Guanzhong.
+King Langye believed it and thought it was right, so he flew to see King Qi.
+King Qi, Wei Bo and others took the opportunity to detain King Langxie. Zhu Wu was sent to send out all the troops of Langye Kingdom and command them.
+After Langxie King Liu Ze was deceived, he could not return to his feudal kingdom, so he persuaded King Qi and said: King Qi Huihui is the eldest son of Emperor Gao. From the original source, the king is the eldest grandson of Emperor Gao and should inherit the throne.
+Now the ministers are still undecided, and I am the eldest among the Liu family. The ministers are waiting for me to decide the big plan.
+Now that the king has detained me here, I can't do anything. Why not let me enter the customs to discuss the important matter of establishing a new emperor.
+King Qi thought it was right, so he prepared many cars to send King Langxie to the court.
+After King Langxie left, King Qi raised troops to attack Jinan in the west of Lu State.
+At this time, King Liu Ai sent a letter to the princes and kings, saying: After Emperor Gaozu pacified the world, he made his descendants kings, and King Hui Hui made them kings in Qi.
+After the death of King Hui Hui, Emperor Hui sent Zhang Liang, the remaining marquis, to establish his minister as King of Qi.
+After the death of Emperor Hui, Empress Gao took over the dictatorship. She was old and allowed Zhu Lu to depose the kings appointed by Emperor Gao without permission. She also killed three kings of Zhao, destroyed the three kingdoms of Liang, Yan and Zhao, let the Lu people become kings, and divided Qi into four kingdoms.
+The loyal ministers came to remonstrate, but the Lord was confused and refused to listen.
+Now that Empress Gao has passed away, the emperor is still young and cannot govern the world. Of course, he must rely on his ministers and princes.
+Now Zhu Lu is proud of himself as a high official, gathers troops to show off his power, intimidates princes and loyal ministers, and falsely delivers imperial edicts to command the world. The Han court is therefore in great danger.
+Now I am leading an army into the pass to kill those who should not be kings.
+When the court heard that the King of Qi was sending troops to march westward, Prime Minister Lu Chan sent General Guan Ying to lead his troops eastward to intercept the Qi troops.
+When Guan Ying arrived at Xingyang, he thought in his mind: Zhu Lu led his troops to gather in Guanzhong, intending to harm the Liu family and establish himself as emperor.
+If I defeat Qi and return to the DPRK to report victory, it will be equivalent to increasing the capital of the Lu family.
+So he ordered the army to stop and garrison in Xingyang, and sent envoys to inform the king of Qi and the princes that they were willing to unite with each other and wait for Lu's rebellion to be executed together.
+After the King of Qi heard about this, he marched westward to recapture their hometown of Jinan County, and stationed troops on the western border of Qi State to wait for the fulfillment of the alliance.
+Lu Lu and Lu Chan wanted to rebel in Guanzhong. Zhu Xuhou Liu Zhang, Taiwei Zhou Bo, and Prime Minister Chen Ping killed them.
+Zhu Xuhou first beheaded Lu Chan, and then Taiwei Zhou Bo and others were able to kill all the Lu clan members.
+King Langxie also happened to come to Chang'an from Qi.
+The ministers discussed letting King Qi succeed the emperor, but King Langxie and some ministers said: King Qi's mother-uncle Sijun is ferocious and cruel, like a tiger wearing a hat.
+We almost caused chaos in the world just now because of the Lu family, and now we want to establish the King of Qi because we want another Lu family to appear.
+
+summary:
+summary line 2: Liu Zhang, along with Taiwei Zhou Bo and Prime Minister Chen Ping, killed Lu Chan and Lu Lu in Guanzhong, ending the Lu clan's threat. The ministers debated succession; King Langxie and others opposed King Qi due to his cruel maternal uncle, Sijun, and instead chose Dai Wang, Emperor Gaozu's son with the virtuous Bo family, as Emperor Xiaowen. King Qi withdrew his troops. Wei Bo, who had instigated Qi's rebellion, was spared but dismissed after Guan Ying deemed him incompetent. Wei Bo's background included serving Cao Shen, who recommended him to King Huihui.
+
+Chunk 3: 
+original: 
+後一岁，孝文帝以所封悼惠王子分齐为王，齐孝王将闾以悼惠王子杨虚侯为齐王。
+故齐别郡尽以王悼惠王子：子志为济北王，子辟光为济南王，子贤为菑川王，子卬为胶西王，子雄渠为胶东王，与城阳、齐凡七王。
+齐孝王十一年，吴王濞、楚王戊反，兴兵西，告诸侯曰 将诛汉贼臣晁错以安宗庙 。
+胶西、胶东、菑川、济南皆擅发兵应吴楚。
+欲与齐，齐孝王狐疑，城守不听，三国兵共围齐。
+齐王使路中大夫告於天子。天子复令路中大夫还告齐王： 善坚守，吾兵今破吴楚矣。
+路中大夫至，三国兵围临菑数重，无从入。
+三国将劫与路中大夫盟，曰： 若反言汉已破矣，齐趣下三国，不且见屠。
+路中大夫既许之，至城下，望见齐王，曰： 汉已发兵百万，使太尉周亚夫击破吴楚，方引兵救齐，齐必坚守无下！
+三国将诛路中大夫。
+齐初围急，阴与三国通谋，约未定，会闻路中大夫从汉来，喜，及其大臣乃复劝王毋下三国。
+居无何，汉将栾布、平阳侯等兵至齐，击破三国兵，解齐围。
+已而复闻齐初与三国有谋，将欲移兵伐齐。
+齐孝王惧，乃饮药自杀。
+景帝闻之，以为齐首善，以迫劫有谋，非其罪也，乃立孝王太子寿为齐王，是为懿王，续齐後。
+而胶西、胶东、济南、菑川王咸诛灭，地入于汉。
+徙济北王王菑川。
+齐懿王立二十二年卒，子次景立，是为厉王。
+齐厉王，其母曰纪太后。
+太后取其弟纪氏女为厉王后。王不爱纪氏女。
+translation: 
+A year later, Emperor Xiaowen divided the land of Qi and made several sons of King Hui Hui originally named kings. General Lu of King Xiao of Qi was promoted to King of Qi as Yang Xuhou, the son of King Hui Hui.
+It turned out that all other counties in the Qi State were entrusted to the sons of King Huihui as kings: Liu Zhi was the King of Jibei, Liu Biguang was the King of Jinan, Liu Xian was the King of Sichuan, Liu Xian was the King of Jiaoxi, Liu Xiongqu was the King of Jiaodong, and together with the King of Chengyang and the King of Qi, they were seven kings in total.
+In the eleventh year of King Xiao of Qi, King Liu Bi of Wu and King Liu Wu of Chu rebelled. They raised their troops and marched westward, telling the princes: We are going to kill the traitor Chao Cuo of the Han Dynasty to stabilize the country.
+The kings of Jiaoxi, Jiaodong, Sichuan, and Jinan all sent troops without authorization in response to the actions of the kings of Wu and Chu.
+They also wanted to unite with Qi State, but King Xiao of Qi was hesitant and always defended the city and did not listen to them. The armies of the three countries jointly surrounded Qi.
+The King of Qi sent Dr. Lu Zhong to report to the emperor, and the Emperor asked Dr. Lu Zhong to go back and tell the King of Qi: "Hold on, the troops I sent have now defeated Wu and Chu."
+On the way, the doctor returned to Qi State. The armies of the Three Kingdoms surrounded Linzi heavily, and the doctors on the road were unable to enter the city.
+The generals of the Three Kingdoms kidnapped the doctor in Luzhong and made an alliance with him, saying: You turn around and say that the Han court has been breached, and Qi should surrender to the Three Kingdoms as soon as possible, otherwise it will be massacred.
+The doctor on the way had no choice but to agree to them, and when he came to the city, he saw the King of Qi from a distance and said: The imperial court has sent millions of troops, and sent Lieutenant Zhou Yafu to defeat the Wu Chu rebels. He is leading troops to rescue Qi State. Qi State must hold on and not surrender!
+The generals of the Three Kingdoms killed the doctor on the road.
+When the state of Qi was first besieged and reached a critical stage, it secretly contacted the three kingdoms. The alliance had not yet been concluded. Just when they heard that Dr. Lu Zhong had returned from the court, the king of Qi was very happy, and the ministers once again advised the king of Qi not to surrender to the three kingdoms.
+Soon after, the troops led by Han generals Luan Shi and Pingyang Hou Caoqi came to Qi State, defeated the armies of the three countries, and lifted the siege of Qi State.
+Soon, the emperor heard that Qi had conspired with the Three Kingdoms at first, and wanted to move troops to attack Qi.
+King Xiao of Qi was afraid and committed suicide by taking poison.
+After Emperor Jing heard about it, he thought that Qi was the best. It was not his fault that he conspired with the Three Kingdoms because he was threatened by persecution. So Liu Shou, the prince of King Xiao, was made King of Qi. This was King Yi, who continued the descendants of King Qi.
+The King of Jiaoxi, King of Jiaodong, King of Jinan and King of Sichuan were all executed, and their territories were all assigned to the Han court.
+Moved the King of Jibei to Suichuan and became the king.
+In the twenty-second year of King Qi Yi's reign, his son Cijing came to the throne. This was King Li.
+King Qi Li, his mother is Queen Mother Ji.
+The Queen Mother married her brother Ji's daughter to King Li as his queen. King Li did not like Ji's daughter.
+
+summary:
+summary line 3: In Emperor Xiaowen's first year, Qi regained Chengyang, Langye, and Jinan counties. Liu Zhang was made King of Chengyang, and Liu Xingju King of Jibei. King Ai of Qi died, succeeded by his son Liu Ze, King Wen. King Wen died without heirs, and his territory reverted to the court. Emperor Xiaowen then divided Qi among King Huihui's sons: Liu Zhi as King of Jibei, Liu Biguang as King of Jinan, Liu Xian as King of Sichuan, Liu Xian as King of Jiaoxi, Liu Xiongqu as King of Jiaodong, alongside the King of Chengyang and King of Qi, totaling seven kings.
+
+Chunk 3: 
+original: 
+後一岁，孝文帝以所封悼惠王子分齐为王，齐孝王将闾以悼惠王子杨虚侯为齐王。
+故齐别郡尽以王悼惠王子：子志为济北王，子辟光为济南王，子贤为菑川王，子卬为胶西王，子雄渠为胶东王，与城阳、齐凡七王。
+齐孝王十一年，吴王濞、楚王戊反，兴兵西，告诸侯曰 将诛汉贼臣晁错以安宗庙 。
+胶西、胶东、菑川、济南皆擅发兵应吴楚。
+欲与齐，齐孝王狐疑，城守不听，三国兵共围齐。
+齐王使路中大夫告於天子。天子复令路中大夫还告齐王： 善坚守，吾兵今破吴楚矣。
+路中大夫至，三国兵围临菑数重，无从入。
+三国将劫与路中大夫盟，曰： 若反言汉已破矣，齐趣下三国，不且见屠。
+路中大夫既许之，至城下，望见齐王，曰： 汉已发兵百万，使太尉周亚夫击破吴楚，方引兵救齐，齐必坚守无下！
+三国将诛路中大夫。
+齐初围急，阴与三国通谋，约未定，会闻路中大夫从汉来，喜，及其大臣乃复劝王毋下三国。
+居无何，汉将栾布、平阳侯等兵至齐，击破三国兵，解齐围。
+已而复闻齐初与三国有谋，将欲移兵伐齐。
+齐孝王惧，乃饮药自杀。
+景帝闻之，以为齐首善，以迫劫有谋，非其罪也，乃立孝王太子寿为齐王，是为懿王，续齐後。
+而胶西、胶东、济南、菑川王咸诛灭，地入于汉。
+徙济北王王菑川。
+齐懿王立二十二年卒，子次景立，是为厉王。
+齐厉王，其母曰纪太后。
+太后取其弟纪氏女为厉王后。王不爱纪氏女。
+translation: 
+A year later, Emperor Xiaowen divided the land of Qi and made several sons of King Hui Hui originally named kings. General Lu of King Xiao of Qi was promoted to King of Qi as Yang Xuhou, the son of King Hui Hui.
+It turned out that all other counties in the Qi State were entrusted to the sons of King Huihui as kings: Liu Zhi was the King of Jibei, Liu Biguang was the King of Jinan, Liu Xian was the King of Sichuan, Liu Xian was the King of Jiaoxi, Liu Xiongqu was the King of Jiaodong, and together with the King of Chengyang and the King of Qi, they were seven kings in total.
+In the eleventh year of King Xiao of Qi, King Liu Bi of Wu and King Liu Wu of Chu rebelled. They raised their troops and marched westward, telling the princes: We are going to kill the traitor Chao Cuo of the Han Dynasty to stabilize the country.
+The kings of Jiaoxi, Jiaodong, Sichuan, and Jinan all sent troops without authorization in response to the actions of the kings of Wu and Chu.
+They also wanted to unite with Qi State, but King Xiao of Qi was hesitant and always defended the city and did not listen to them. The armies of the three countries jointly surrounded Qi.
+The King of Qi sent Dr. Lu Zhong to report to the emperor, and the Emperor asked Dr. Lu Zhong to go back and tell the King of Qi: "Hold on, the troops I sent have now defeated Wu and Chu."
+On the way, the doctor returned to Qi State. The armies of the Three Kingdoms surrounded Linzi heavily, and the doctors on the road were unable to enter the city.
+The generals of the Three Kingdoms kidnapped the doctor in Luzhong and made an alliance with him, saying: You turn around and say that the Han court has been breached, and Qi should surrender to the Three Kingdoms as soon as possible, otherwise it will be massacred.
+The doctor on the way had no choice but to agree to them, and when he came to the city, he saw the King of Qi from a distance and said: The imperial court has sent millions of troops, and sent Lieutenant Zhou Yafu to defeat the Wu Chu rebels. He is leading troops to rescue Qi State. Qi State must hold on and not surrender!
+The generals of the Three Kingdoms killed the doctor on the road.
+When the state of Qi was first besieged and reached a critical stage, it secretly contacted the three kingdoms. The alliance had not yet been concluded. Just when they heard that Dr. Lu Zhong had returned from the court, the king of Qi was very happy, and the ministers once again advised the king of Qi not to surrender to the three kingdoms.
+Soon after, the troops led by Han generals Luan Shi and Pingyang Hou Caoqi came to Qi State, defeated the armies of the three countries, and lifted the siege of Qi State.
+Soon, the emperor heard that Qi had conspired with the Three Kingdoms at first, and wanted to move troops to attack Qi.
+King Xiao of Qi was afraid and committed suicide by taking poison.
+After Emperor Jing heard about it, he thought that Qi was the best. It was not his fault that he conspired with the Three Kingdoms because he was threatened by persecution. So Liu Shou, the prince of King Xiao, was made King of Qi. This was King Yi, who continued the descendants of King Qi.
+The King of Jiaoxi, King of Jiaodong, King of Jinan and King of Sichuan were all executed, and their territories were all assigned to the Han court.
+Moved the King of Jibei to Suichuan and became the king.
+In the twenty-second year of King Qi Yi's reign, his son Cijing came to the throne. This was King Li.
+King Qi Li, his mother is Queen Mother Ji.
+The Queen Mother married her brother Ji's daughter to King Li as his queen. King Li did not like Ji's daughter.
+
+summary:
+summary line 4: In King Xiao of Qi's eleventh year, the Rebellion of the Seven Kingdoms erupted, with Wu and Chu leading the revolt. Kings of Jiaoxi, Jiaodong, Sichuan, and Jinan joined, besieging Qi. King Xiao hesitated but defended the city. Dr. Lu Zhong, sent to the emperor, returned with orders to hold out, but was captured by the rebels. He falsely reported the Han court's defeat to the city but secretly urged resistance, leading to his execution. Qi held until Han forces under Luan Bu and Cao Qi defeated the rebels and lifted the siege. Suspected of collusion, King Xiao committed suicide, but Emperor Jing later cleared his name, making his son Liu Shou King Yi of Qi. The rebel kings were executed, and their territories annexed.
+
+Chunk 4: 
+original: 
+太后欲其家重宠，令其长女纪翁主入王宫，正其後宫，毋令得近王，欲令爱纪氏女。
+王因与其姊翁主奸。
+齐有宦者徐甲，入事汉皇太后。
+皇太后有爱女曰脩成君，脩成君非刘氏，太后怜之。
+脩成君有女名娥，太后欲嫁之於诸侯，宦者甲乃请使齐，必令王上书请娥。
+皇太后喜，使甲之齐。
+是时齐人主父偃知甲之使齐以取后事，亦因谓甲： 即事成，幸言偃女原得充王後宫。
+甲既至齐，风以此事。
+纪太后大怒，曰： 王有后，後宫具备。
+且甲，齐贫人，急乃为宦者，入事汉，无补益，乃欲乱吾王家！
+且主父偃何为者？
+乃欲以女充後宫！
+徐甲大穷，还报皇太后曰： 王已原尚娥，然有一害，恐如燕王。
+燕王者，与其子昆弟奸，新坐以死，亡国，故以燕感太后。
+太后曰： 无复言嫁女齐事。
+事浸浔闻於天子。
+主父偃由此亦与齐有卻。
+主父偃方幸於天子，用事，因言： 齐临菑十万户，市租千金，人众殷富，巨於长安，此非天子亲弟爱子不得王此。
+今齐王於亲属益疏。
+乃从容言： 吕太后时齐欲反，吴楚时孝王几为乱。
+今闻齐王与其姊乱。
+於是天子乃拜主父偃为齐相，且正其事。
+主父偃既至齐，乃急治王後宫宦者为王通於姊翁主所者，令其辞证皆引王。
+王年少，惧大罪为吏所执诛，乃饮药自杀。
+绝无後。
+translation: 
+The Queen Mother wanted the Ji family to be favored for generations to come, so she let her eldest daughter Ji Wengzhu enter the palace to straighten out the order in the harem and not allow the maids to approach King Qi. She wanted King Li to like Ji's daughter.
+King Li took the opportunity to commit adultery with his sister Wengzhu.
+There was a eunuch named Xu Jia from the State of Qi who entered the court to serve the Empress Dowager of Han Dynasty.
+The Empress Dowager has a beloved daughter, whose title is Xiuchengjun. Xiuchengjun is not from the Liu family, but the Empress Dowager loves her.
+Xiuchengjun had a daughter named E, and the Queen Mother wanted to marry her off to the princes. The eunuch Xu Jia asked to be sent to Qi as an envoy, saying that he would let the King of Qi write a letter asking for E to be his queen.
+The Queen Mother was very happy and sent Xu Jia to Qi State.
+At that time, the leader of the Qi State, Fu Yan, knew that Xu Jia was on a mission to the State of Qi to marry the queen. He also took the opportunity to say to Xu Jia: If the matter succeeds, I hope you can tell the boss that my daughter is willing to serve in the Queen of Qi's harem.
+After Xu Jia arrived in Qi State, he first spread the matter secretly.
+When the Queen Mother Ji heard this, she was furious and said, "The King of Qi already has a queen, and all the concubines in the harem are ready."
+Moreover, Xu Jia was originally a poor man from Qi State. He became an eunuch after he was extremely poor. He entered the court to serve the Han Palace. He did not get any benefits. He also wanted to disturb our royal family of Qi State!
+As for who the master father Yan is?
+He actually wants his daughter to enter the harem!
+Xu Jia was very embarrassed and returned to the court to report to the Empress Dowager: King Qi is willing to marry E as his queen, but there is a problem, maybe like King Yan.
+The King of Yan had just been sentenced to death for committing adultery with his daughters and sisters, and the feudal country was destroyed, so Xu Jia deliberately used the story of King Yan to offend the Queen Mother.
+The Queen Mother said: "Don't talk about marrying your granddaughter to Qi anymore."
+The matter gradually spread to the emperor's ears.
+From then on, the master father Yan also had a gap with the King of Qi.
+Zhufu Yanzheng was favored by the emperor, and he arbitrarily determined political affairs. He took the opportunity to say to the emperor: Linzi of Qi has one hundred thousand households, trade taxes amount to a thousand gold per day, and the population is large and wealthy, even more than Chang'an. If he is not the emperor's brother or beloved son, he should not be king here.
+Nowadays, the relationship between King Qi and his royal relatives is becoming increasingly estranged.
+Then he said calmly: Qi wanted to rebel when Empress Dowager Lu was there, and King Xiao almost participated in the rebellion during the Seven Kingdoms Rebellion between Wu and Chu.
+Now I heard about Qi's affair with his sister.
+So the emperor appointed his father Yan as the prime minister of Qi and wanted to investigate and deal with the matter.
+After Master Yan came to Qi State, he stepped up the interrogation of the eunuchs in Queen Qi's harem who helped King Qi reach the residence of his sister Wengzhu, and ordered them to implicat King Qi in their confessions and circumstantial evidence.
+When the King of Qi was young, he drank poison and committed suicide because he was afraid that he would be arrested and executed by the officials for serious crimes.
+His heirs were cut off and he had no descendants.
+
+summary:
+summary line 5: King Yi reigned for twenty-two years, succeeded by his son Liu Ci, King Li. King Li's mother, Queen Mother Ji, arranged his marriage to her niece, but he disliked her. She then had her daughter Wengzhu oversee the harem, leading to an incestuous relationship. Eunuch Xu Jia, sent by Empress Dowager to propose a marriage for her granddaughter E, was rebuffed by Queen Mother Ji. Xu Jia later slandered Qi, comparing it to the fallen King of Yan. Master Father Yan, favored by the emperor, accused Qi of rebellion and incest, becoming prime minister to investigate. Under pressure, King Li committed suicide, ending his line. Emperor Jing executed Master Father Yan after King Zhao's complaint.
+
+Chunk 3: 
+original: 
+後一岁，孝文帝以所封悼惠王子分齐为王，齐孝王将闾以悼惠王子杨虚侯为齐王。
+故齐别郡尽以王悼惠王子：子志为济北王，子辟光为济南王，子贤为菑川王，子卬为胶西王，子雄渠为胶东王，与城阳、齐凡七王。
+齐孝王十一年，吴王濞、楚王戊反，兴兵西，告诸侯曰 将诛汉贼臣晁错以安宗庙 。
+胶西、胶东、菑川、济南皆擅发兵应吴楚。
+欲与齐，齐孝王狐疑，城守不听，三国兵共围齐。
+齐王使路中大夫告於天子。天子复令路中大夫还告齐王： 善坚守，吾兵今破吴楚矣。
+路中大夫至，三国兵围临菑数重，无从入。
+三国将劫与路中大夫盟，曰： 若反言汉已破矣，齐趣下三国，不且见屠。
+路中大夫既许之，至城下，望见齐王，曰： 汉已发兵百万，使太尉周亚夫击破吴楚，方引兵救齐，齐必坚守无下！
+三国将诛路中大夫。
+齐初围急，阴与三国通谋，约未定，会闻路中大夫从汉来，喜，及其大臣乃复劝王毋下三国。
+居无何，汉将栾布、平阳侯等兵至齐，击破三国兵，解齐围。
+已而复闻齐初与三国有谋，将欲移兵伐齐。
+齐孝王惧，乃饮药自杀。
+景帝闻之，以为齐首善，以迫劫有谋，非其罪也，乃立孝王太子寿为齐王，是为懿王，续齐後。
+而胶西、胶东、济南、菑川王咸诛灭，地入于汉。
+徙济北王王菑川。
+齐懿王立二十二年卒，子次景立，是为厉王。
+齐厉王，其母曰纪太后。
+太后取其弟纪氏女为厉王后。王不爱纪氏女。
+translation: 
+A year later, Emperor Xiaowen divided the land of Qi and made several sons of King Hui Hui originally named kings. General Lu of King Xiao of Qi was promoted to King of Qi as Yang Xuhou, the son of King Hui Hui.
+It turned out that all other counties in the Qi State were entrusted to the sons of King Huihui as kings: Liu Zhi was the King of Jibei, Liu Biguang was the King of Jinan, Liu Xian was the King of Sichuan, Liu Xian was the King of Jiaoxi, Liu Xiongqu was the King of Jiaodong, and together with the King of Chengyang and the King of Qi, they were seven kings in total.
+In the eleventh year of King Xiao of Qi, King Liu Bi of Wu and King Liu Wu of Chu rebelled. They raised their troops and marched westward, telling the princes: We are going to kill the traitor Chao Cuo of the Han Dynasty to stabilize the country.
+The kings of Jiaoxi, Jiaodong, Sichuan, and Jinan all sent troops without authorization in response to the actions of the kings of Wu and Chu.
+They also wanted to unite with Qi State, but King Xiao of Qi was hesitant and always defended the city and did not listen to them. The armies of the three countries jointly surrounded Qi.
+The King of Qi sent Dr. Lu Zhong to report to the emperor, and the Emperor asked Dr. Lu Zhong to go back and tell the King of Qi: "Hold on, the troops I sent have now defeated Wu and Chu."
+On the way, the doctor returned to Qi State. The armies of the Three Kingdoms surrounded Linzi heavily, and the doctors on the road were unable to enter the city.
+The generals of the Three Kingdoms kidnapped the doctor in Luzhong and made an alliance with him, saying: You turn around and say that the Han court has been breached, and Qi should surrender to the Three Kingdoms as soon as possible, otherwise it will be massacred.
+The doctor on the way had no choice but to agree to them, and when he came to the city, he saw the King of Qi from a distance and said: The imperial court has sent millions of troops, and sent Lieutenant Zhou Yafu to defeat the Wu Chu rebels. He is leading troops to rescue Qi State. Qi State must hold on and not surrender!
+The generals of the Three Kingdoms killed the doctor on the road.
+When the state of Qi was first besieged and reached a critical stage, it secretly contacted the three kingdoms. The alliance had not yet been concluded. Just when they heard that Dr. Lu Zhong had returned from the court, the king of Qi was very happy, and the ministers once again advised the king of Qi not to surrender to the three kingdoms.
+Soon after, the troops led by Han generals Luan Shi and Pingyang Hou Caoqi came to Qi State, defeated the armies of the three countries, and lifted the siege of Qi State.
+Soon, the emperor heard that Qi had conspired with the Three Kingdoms at first, and wanted to move troops to attack Qi.
+King Xiao of Qi was afraid and committed suicide by taking poison.
+After Emperor Jing heard about it, he thought that Qi was the best. It was not his fault that he conspired with the Three Kingdoms because he was threatened by persecution. So Liu Shou, the prince of King Xiao, was made King of Qi. This was King Yi, who continued the descendants of King Qi.
+The King of Jiaoxi, King of Jiaodong, King of Jinan and King of Sichuan were all executed, and their territories were all assigned to the Han court.
+Moved the King of Jibei to Suichuan and became the king.
+In the twenty-second year of King Qi Yi's reign, his son Cijing came to the throne. This was King Li.
+King Qi Li, his mother is Queen Mother Ji.
+The Queen Mother married her brother Ji's daughter to King Li as his queen. King Li did not like Ji's daughter.
+
+summary:
+summary line 6: King Hui of Qi's descendants also ruled Chengyang and Suichuan. Liu Zhang, King of Chengyang Jing, was rewarded for killing Lu Chan. His lineage continued through several generations. Liu Xingju, King of Jibei, rebelled after feeling slighted by Emperor Wen, who reduced his promised territory. He was defeated and committed suicide. Later, Liu Zhi, King of Jibei, remained loyal during the Seven Kingdoms Rebellion and was renamed King of Sichuan. Other sons of King Huihui—Liu Biguang, Liu Xian, Liu Xian, and Liu Xiongqu—were made kings but rebelled and were killed, their territories becoming counties.
+
+Chunk 6: 
+original: 
+使棘蒲侯柴将军击破虏济北王，王自杀，地入于汉，为郡。
+後十年，文帝十六年，复以齐悼惠王子安都侯志为济北王。
+十一年，吴楚反时，志坚守，不与诸侯合谋。
+吴楚已平，徙志王菑川。
+济南王辟光，齐悼惠王子，以勒侯孝文十六年为济南王。
+十一年，与吴楚反。
+汉击破，杀辟光，以济南为郡，地入于汉。
+菑川王贤，齐悼惠王子，以武城侯文帝十六年为菑川王。
+十一年，与吴楚反，汉击破，杀贤。
+天子因徙济北王志王菑川。
+志亦齐悼惠王子，以安都侯王济北。
+菑川王反，毋後，乃徙济北王王菑川。
+凡立三十五年卒，谥为懿王。
+子建代立，是为靖王。
+二十年卒，子遗代立，是为顷王。
+三十六年卒，子终古立，是为思王。
+二十八年卒，子尚立，是为孝王。
+五年卒，子横立，至建始三年，十一岁，卒。
+胶西王卬，齐悼惠王子，以昌平侯文帝十六年为胶西王。
+十一年，与吴楚反。
+汉击破，杀卬，地入于汉，为胶西郡。
+胶东王雄渠，齐悼惠王子，以白石侯文帝十六年为胶东王。
+十一年，与吴楚反，汉击破，杀雄渠，地入于汉，为胶东郡。
+太史公曰：诸侯大国无过齐悼惠王。
+以海内初定，子弟少，激秦之无尺土封，故大封同姓，以填万民之心。
+及後分裂，固其理也。
+translation: 
+He sent General Chai Puhou to defeat and capture the King of Jibei. The King of Jibei committed suicide, and the fiefdom was transferred to the imperial court and changed to a county.
+Thirteen years later, in the sixteenth year of Emperor Wen's reign, he granted the title of King of Jibei to Anduhou Liu Zhi, the son of King Hui Hui of Qi.
+Eleven years later, when Wu and Chu rebelled, Liu Zhi always stood firm in the city and did not conspire with the princes of the seven countries to cause rebellion.
+After the Wu and Chu rebellions were put down, the emperor changed the title of Liu Zhi to King Sichuan.
+Jinan King Liu Biguang, the son of King Qi Hui, was named King of Jinan in the 16th year of Emperor Xiaowen's reign as a Lehou.
+Eleven years later, he rebelled with the kings of Wu and Chu.
+The Han army defeated the rebels, killed Liu Piguang, made Jinan a county, and transferred the fiefdom to the Han court.
+Liu Xian, King of Sichuan, was the son of King Hui of Qi. In the 16th year of Emperor Wen's reign, he was named King of Sichuan by Wucheng Hou Jin.
+Eleven years later, he rebelled with the kings of Wu and Chu. The Han army defeated the rebels and killed Liu Xian.
+The emperor therefore moved and granted the title of King of Jibei, Liu Zhi, as King of Sichuan.
+Liu Zhi was also the son of King Qi Hui, and the emperor named him King of Jibei from the Marquis of Andu.
+Liu Xian, the king of Sichuan, rebelled and had no descendants, so he changed the title of King Jibei to King Sichuan.
+King Sichuan died after reigning for thirty-five years, and his posthumous title was King Yi.
+His son Liu Jian succeeded to the throne and became King Jing.
+King Jing died after reigning for twenty years, and his son Liu Yi succeeded to the throne. He was King Qing.
+King Qing died in his thirty-sixth year, and his son Liu Zhonggu came to the throne. This was King Si.
+King Si died in the twenty-eighth year of his reign, and his son Liu Shang came to the throne. This was King Xiao.
+King Xiao died in the fifth year of his reign, and his son Liu Heng ascended the throne. He died in the eleventh year of his reign in the third year of Jianshi.
+King Liu Xing of Jiaoxi was the son of King Hui of Qi. In the 16th year of Emperor Wen's reign, he was granted the title of King of Jiaoxi by the Marquis of Changping.
+Eleven years later, he rebelled with the kings of Wu and Chu.
+The Han army defeated the rebels and killed Liu Xian. The fiefdom was transferred to the Han court and renamed Jiaoxi County.
+Liu Xiongqu, King of Jiaodong, was the son of King Qi Mouhui. In the 16th year of Emperor Wen's reign, he was granted the title of King of Jiaodong by the Marquis of Baishi.
+Eleven years later, he rebelled with the kings of Wu and Chu. The Han army defeated the rebels and killed Xiongqu. The fiefdom was transferred to the Han court and changed to Jiaodong County.
+Tai Shigong said: Among the princes, no one in the great country surpasses King Qi Yuhui.
+Since the world had just been pacified and the Liu family had fewer children, the emperor of the Han Dynasty felt that the Qin Dynasty did not grant large-scale land to clan members, so he enfeoffed people with the same surname in large numbers to calm the hearts of the people.
+It was only natural that it was later split into several countries.
+
+summary:
+summary line 7: Sima Qian noted that King Hui of Qi's domain was the largest among princes, initially granted to stabilize the realm after the Qin dynasty's failure to support clan members, though it was later divided.
+

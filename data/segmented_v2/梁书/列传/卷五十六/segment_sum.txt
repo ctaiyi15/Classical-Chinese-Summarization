@@ -1,0 +1,621 @@
+Summary uses chunk [0, 2, 7, 7, 7, 15, 16, 22, 24]
+
+Chunk 0: 
+original: 
+侯景侯景，字万景，朔方人，或云雁门人。
+少而不羁，见惮乡里。
+及长，骁勇有膂力，善骑射。
+以选为北镇戍兵，稍立功效。
+魏孝昌元年，有怀朔镇兵鲜于修礼，于定州作乱，攻没郡县；又有柔玄镇兵吐斤洛周，率其党与，复寇幽、冀，与修礼相合，众十余万。
+后修礼见杀，部下溃散，怀朔镇将葛荣因收集之，攻杀吐斤洛周，尽有其众，谓之 葛贼 。
+四年，魏明帝殂，其后胡氏临朝，天柱将军尔硃荣自晋阳入杀胡氏，并诛其亲属。
+景始以私众见荣，荣甚奇景，即委以军事。
+会葛贼南逼，荣自讨，命景先驱，至河内，击，大破之，生擒葛荣，以功擢为定州刺史、大行台，封濮阳郡公。
+景自是威名遂著。
+顷之，齐神武帝为魏相，又入洛诛尔硃氏，景复以众降之，仍为神武所用。
+景性残忍酷虐，驭军严整；然破掠所得财宝，皆班赐将士，故咸为之用，所向多捷。
+总揽兵权，与神武相亚。
+魏以为司徒、南道行台，拥众十万，专制河南。
+及神武疾笃，谓子澄曰： 侯景狡猾多计，反覆难知，我死后，必不为汝用。
+乃为书召景。
+景知之，虑及于祸，太清元年，乃遣其行台郎中丁和来上表请降曰：
+臣闻股肱体合，则四海和平；上下猜贰，则封疆幅裂。
+故周、邵同德，越常之贡来臻；飞、恶离心，诸侯所以背叛。
+此盖成败之所由，古今如画一者也。
+translation: 
+Hou Jing, whose courtesy name was Wanjing, was from Shuofang. Some people say he was from Yanmen.
+When he was young, he behaved wildly and his fellow villagers were afraid of him.
+When he reached adulthood, he was vigorous and strong, and was good at horseback riding and archery.
+Therefore, he was selected as a garrison in Beizhen and gradually made meritorious service in the army.
+In the first year of Wei Xiaochang, Xianyu Xiuli, a soldier from Huaishuo town, rebelled in Dingzhou and captured the county. At the same time, Tujin Luozhou, a soldier from Rouxuan town, led his party to invade Youzhou and Jizhou. They joined forces with Xianyu Xiuli, totaling more than 100,000 people.
+Later, Xianyu Xiuli was killed by Yuan Hongye, and his men were scattered. Ge Rong, the general of Huaishuo Town, took the opportunity to gather Xianyu Xiuli's scattered soldiers, attacked and killed Tujinluozhou, and annexed all Tujinluozhou's troops. People called him "Ge Thief".
+In the fourth year of Xiaochang, Emperor Wei Ming died, and Empress Dowager Hu came to rule. Tianzhu General Er Zhurong raised troops from Jinyang and entered Luoyang, killing Empress Hu and Hu's relatives.
+Hou Jing initially brought his army to see Er Zhurong. Er Zhurong thought that Hou Jing had a genius and immediately appointed him as a general to lead the troops.
+When they were dispatched, Ge Rong's bandits marched south to Luoyang. Er Zhurong went to conquer it in person. He ordered Hou Jing to be the vanguard and led his army to Hanoi to attack Ge Rong. He defeated Jiang's army and captured Ge Rong alive. Because of his great achievements, Hou Jing was promoted to the governor of Dingzhou, Daxingtai, and was granted the title of Duke of Puyang.
+Hou Jing became famous from then on.
+Soon, Emperor Shenwu of Qi became the prime minister of Wei. He led his army into Luoyang and killed the Zhu family. Hou Jing led his army to surrender to Gao Huan and was appointed by Emperor Shenwu.
+Hou Jing was cruel and tyrannical, and controlled the army strictly. However, all the treasures he plundered from the enemy were distributed to the soldiers, so the soldiers were happy to serve him and often won battles.
+General Hou Jing holds military power, which is equal to that of Emperor Shenwu.
+Wei appointed him as Situ and Nandaoxingtai, with an army of 100,000, and he controlled Henan alone.
+Later, Emperor Shenwu fell ill. When he was seriously ill, he said to his son Gao Cheng: Hou Jing is cunning, scheming, and capricious. It is difficult to understand and control him. He will definitely not want to be used by you after I die.
+So he wrote a letter to summon Hou Jing to come.
+Hou Jing knew that he wanted to get rid of himself and was afraid of disaster, so in the first year of Taiqing, he sent his Xingtai doctor Ding He to ask Gaozu for surrender. The surrender letter said:
+I heard that if the important ministers of the country unite and cooperate like human limbs, the country will be unified and peaceful; if the top and bottom are jealous and have different intentions, the country will fall apart.
+Therefore, his auxiliary ministers Zhou and Shao were of the same mind and had the same virtue, and the kingdoms of Yue Chang also came to pay tribute; while his ministers Fei and E were disloyal, and as a result all the princes betrayed him.
+Creation is the reason for success and failure, which is the same truth from ancient times to modern times.
+
+summary:
+summary line 0: Hou Jing, courtesy name Wanjing, was from Shuofang, possibly Yanmen. Wild in youth, he became a strong, skilled horseman and archer, serving as a garrison in Beizhen. During Wei Xiaochang's first year, Xianyu Xiuli rebelled in Dingzhou, joined by Tujin Luozhou, amassing over 100,000 troops. After Xianyu Xiuli was killed, Ge Rong gathered his forces, killed Tujin Luozhou, and became known as "Ge Thief." In the fourth year, Emperor Wei Ming died, and Empress Dowager Hu ruled. Er Zhurong raised troops, killed her, and appointed Hou Jing as a general. Hou Jing served as vanguard against Ge Rong, capturing him alive, earning promotion to governor of Dingzhou and Duke of Puyang.
+
+Chunk 2: 
+original: 
+丁和既至，高祖召群臣廷议。尚书仆射谢举及百辟等议，皆云纳侯景非宜，高祖不从是议而纳景。
+及齐神武卒，其子澄嗣，是为文襄帝。
+高祖乃下诏封景河南王、大将军、使持节、董督河南南北诸军事、大行台，承制辄行，如邓禹故事，给鼓吹一部。
+齐文襄遣大将军慕容绍宗围景于长社，景请西魏为援，西魏遣其五城王元庆等率兵救之，绍宗乃退。
+景复请兵于司州刺史羊鸦仁，鸦仁遣长史邓鸿率兵至汝水，元庆军又夜遁。
+于是据悬瓠、项城，求遣刺史以镇之。
+诏以羊鸦仁为豫、司二州刺史，移镇悬瓠；西阳太守羊思建为殷州刺史，镇项城。
+魏既新丧元帅，景又举河南内附，齐文襄虑景与西、南合从，方为己患，乃以书喻景曰：
+盖闻位为大宝，守之未易；仁诚重任，终之实难。
+或杀身成名，或去食存信；比性命于鸿毛，等节义于熊掌。
+夫然者，举不失德，动无过事；进不见恶，退无谤言。
+先王与司徒契阔夷险，孤子相于，偏所眷属，缱绻衿期，绸缪寤语，义贯终始，情存岁寒。
+司徒自少及长，从微至著，共相成生，非无恩德。
+既爵冠通侯，位标上等，门容驷马，室飨万钟，财利润于乡党，荣华被于亲戚。
+意气相倾，人伦所重，感于知己，义在忘躯。
+眷为国士者，乃立漆身之节；馈以壶飧者，便致扶轮之效。
+若然尚不能已，况其重于此乎！
+幸以故旧之义，欲持子孙相托，方为秦晋之匹，共成刘范之亲。
+假使日往月来，时移世易，门无强廕，家有幼孤，犹加璧不遗，分宅相济，无忘先德，以恤后人。
+translation: 
+When Ding He arrived, Gaozu summoned the ministers to discuss the matter in the court hall. The minister, Pushe Xieju, and all the officials said that it was not appropriate to recruit Hou Jing. Gaozu did not follow the opinions and decided to accept Hou Jing's surrender.
+When Emperor Shenwu died, his son Gao Cheng succeeded him and became Emperor Wenxiang.
+Emperor Gaozu then issued an edict to make Hou Jing the King of Henan, a general, an envoy to hold the festival, supervise the military affairs in the north and south of Henan, and the Daxingtai.
+Qi Wenxiang sent General Murong Shaozong to surround Hou Jing in Changshe. Hou Jing asked the Western Wei Dynasty for help. The Western Wei Dynasty sent Wuxu Wang Douqing and others to lead troops to rescue him, and Murong Shaozong retreated.
+Hou Jing asked Sizhou Governor Yangyaren for help. Yangyaren sent Chief Shi Denghong to lead troops to Rushui. Upon seeing this, the Yuanqing army fled at night.
+So he occupied Xuanhu and Xiangcheng, and asked Emperor Gaozu to send governors to guard them.
+Gaozu Shao ordered Yang Yaren to be the governor of Yuzhou and Sizhou and move his troops to guard Xuanhu; he ordered Yang Sijian, the prefect of Xiyang, to be the governor of Yinzhou and guard Xiangcheng.
+Marshal Wei Gang died, and Yiliang took his parents and surrendered to the Chu Dynasty. Emperor Wenxiang of Qi was worried that Hou Jing's alliance with the West and South would become a disaster for himself, so he wrote to Hou Jing:
+It is said that the throne is the most precious thing, and it is not easy to keep it; benevolence is a very important responsibility, and it is really difficult to always maintain it.
+Some people are willing to sacrifice their lives to achieve a good reputation. Some people believe that integrity is more important than food. They regard their lives as lighter than a feather, and morality as precious as a bear's paw.
+Because of this, their behavior will not violate morality, their actions will not be faulty, their advancement in officialdom will not be disliked by others, and their retirement will not be criticized behind their backs.
+The late king and Situ have been friends in life and death, and have calmed down the turmoil. You and I have a deep friendship. We care about each other everywhere, understand each other in affection, and respect each other in conversation. Our interactions have always been benevolent and righteous. Our friendship is like pines and cypresses that do not wither in the severe cold.
+You have grown from childhood to adulthood, and your status has grown from humble to prominent. It is not without kindness that I help you succeed and establish a career.
+Now your title ranks first among the princes, your status ranks before the superiors, your courtyard can accommodate horses and carriages, your family enjoys a wealth of money, your wealth can be shared by people in the village, and your prosperity can even benefit your relatives and old friends.
+The friendship of friends with similar interests and mutual admiration is a virtue that people respect and respect. To appreciate the kindness of a close friend, one must forget oneself in order to uphold integrity.
+Those who are favored by a state official should have the ambition of Yu Rang to swallow charcoal and repay the favor resolutely; those who are gifted with a meal should repay the favor like a spirit wheel and die in return.
+I still feel like I can't express my gratitude as much as I can, let alone receiving more favor from these people!
+Thanks to the friendship of old friends, I want to entrust my children and grandchildren to each other. I just want our two families to be friends of Qin and Jin for generations, and become in-laws like Liu and Fan.
+Even if the days and months go by, the times change, and there is no strong protection for the family, there is only a young orphan, the respect and etiquette of beautifying the family with brocade and bib will not be diminished, and they will divide the house and help like Qiu Chengzi, not forgetting the virtues of their ancestors, and helping the descendants of their friends.
+
+summary:
+summary line 1: Hou Jing later surrendered to Gao Huan, becoming Emperor Shenwu of Qi. He was cruel but shared plunder with soldiers, ensuring loyalty. He held military power equal to Emperor Shenwu, controlling Henan with 100,000 troops. When Emperor Shenwu fell ill, he warned his son Gao Cheng of Hou Jing's cunning. Hou Jing, fearing for his life, surrendered to Liang's Emperor Gaozu in Taiqing's first year, citing Gao Cheng's threats. Emperor Gaozu accepted, making Hou Jing King of Henan. Qi's Murong Shaozong besieged Hou Jing, who sought Western Wei aid, forcing a retreat. Hou Jing then occupied Xuanhu and Xiangcheng.
+
+Chunk 7: 
+original: 
+十二月，景率军围谯城不下，退攻城父，拔之。
+又遣其行台左丞王伟、左民郎中王则诣阙献策，求诸元子弟立为魏主，辅以北伐，许之。
+诏遣太子舍人元贞为咸阳王，须渡江，许即伪位，乘舆副御以资给之。
+齐文襄又遣慕容绍宗追景，景退入涡阳，马尚有数千匹，甲卒数万人，车万余辆，相持于涡北。
+景军食尽，士卒并北人，不乐南渡，其将暴显等各率所部降于绍宗。
+景军溃散，乃与腹心数骑自峡石济淮，稍收散卒，得马步八百人，奔寿春，监州韦黯纳之。
+景启求贬削，优诏不许，仍以为豫州牧，本官如故。
+景既据寿春，遂怀反叛，属城居民，悉召募为军士，辄停责市估及田租，百姓子女悉以配将卒。
+又启求锦万匹，为军人袍，领军硃异议以御府锦署止充颁赏远近，不容以供边城戎服，请送青布以给之。
+景得布，悉用为袍衫，因尚青色。
+又以台所给仗，多不能精，启请东冶锻工，欲更营造，敕并给之。
+景自涡阳败后，多所征求，朝廷含弘，未尝拒绝。
+先是，豫州刺史贞阳侯渊明督众军围彭城，兵败没于魏。至是，遣使还述魏人请追前好。
+二年二月，高祖又与魏连和。
+景闻之惧，驰启固谏，高祖不从。
+尔后表疏跋扈，言辞不逊。
+鄱阳王范镇合肥，及司州刺史羊鸦仁俱累启称景有异志，领军硃异曰： 侯景数百叛虏，何能为役？
+并抑不奏闻，而逾加赏赐，所以奸谋益果。
+又知临贺王正德怨望朝廷，密令要结，正德许为内启。
+八月，景遂发兵反，攻马头、木栅，执太守刘神茂、戍主曹璆等。
+于是诏郢州刺史鄱阳王范为南道都督，北徐州刺史封山侯正表为北道都督，司州刺史柳仲礼为西道都督，通直散骑常侍裴之高为东道都督，同讨景，济自历阳；又令开府仪同三司、丹阳尹、邵陵王纶持节，董督众军。
+十月，景留其中军王显贵守寿春城，出军伪向合肥，遂袭谯州，助防董绍先开城降之，执刺史豊城侯泰。
+高祖闻之，遣太子家令王质率兵三千巡江遏防。
+景进攻历阳，历阳太守庄铁遣弟均率数百人夜斫景营，不克，均战没，铁又降之。
+萧正德先遣大船数十艘，伪称载荻，实装济景。
+景至京口，将渡，虑王质为梗。俄而质无故退，景闻之尚未信也，乃密遣觇之。谓使者曰： 质若审退，可折江东树枝为验。
+觇人如言而返，景大喜曰： 吾事办矣。
+乃自采石济，马数百匹，兵千人，京师不之觉。
+景即分袭姑孰，执淮南太守文成侯宁，遂至慈湖。
+于是诏以扬州刺史宣城王大器为都督城内诸军事，都官尚书羊侃为军师将军以副焉；南浦侯推守东府城，西豊公大春守石头城，轻车长史谢禧守白下。
+既而景至硃雀航，萧正德先屯丹阳郡，至是，率所部与景合。
+建康令庾信率兵千余人屯航北，见景至航，命彻航，始除一舶，遂弃军走南塘，游军复闭航渡景。
+皇太子以所乘马授王质，配精兵三千，使援庾信。
+质至领军府，与贼遇，未阵便奔走，景乘胜至阙下。
+西豊公大春弃石头城走，景遣其仪同于子悦据之。
+谢禧亦弃白下城走。
+translation: 
+In December, Hou Jing led his army to besiege Qiaocheng, but failed to capture it, so he withdrew his troops to attack Chengfu and captured it.
+Hou Jing also sent his Xingtai Zuocheng Wang Wei and Zuo Minlangzhong Wangze to Gaozu to offer advice, advocating that a descendant of the Yuan family should be selected as the lord of Wei and help him ascend the throne through the Northern Expedition.
+Emperor Gaozu agreed to the plan. An imperial edict was sent to send Prince Sheren Yuan Zhen to be the King of Xianyang, and wait for him to cross the river. After crossing the river, he was allowed to ascend the throne and proclaim himself emperor, and he was provided with an imperial chariot.
+Emperor Wenxiang of Qi sent Murong Shaozong to pursue Hou Jing, but Hou Jing retreated into Guoyang. At this time, Hou Jingshang had thousands of horses, tens of thousands of soldiers, and more than 10,000 vehicles, and he and Murong Shaozong were in a stalemate in the north of Woyang.
+Hou Jing ran out of food, and his soldiers were all from Jiangbei and were unwilling to cross south. His general Bao Xian and others led their men to surrender to Murong Shaozong.
+When Hou Jing saw that his army was in disarray, he crossed the Huaihe River from Xia Shi with a few of his friends, and gradually gathered scattered troops. He got 800 horses and infantry, and fled to Shouchun. Wei An of Jianzhou accepted him.
+In Shouchun, Hou Jing sent someone to petition Emperor Gaozu to demote his official position. Emperor Gaozu treated him favorably, but Xia Shao did not agree to his request for demotion and still appointed him as the shepherd of Yuzhou without changing his original official position.
+After Hou Jing occupied Shouchun, he became rebellious. All the residents of Shouchun's city were recruited as sergeants, and he stopped collecting taxes and land rent without authorization. All the children of the people were assigned to the soldiers in the army.
+He also requested the emperor to provide tens of thousands of pieces of brocade to make military uniforms. Zhu Yi, the leader of the army, believed that the imperial brocade office was only used by the imperial court to award meritorious deeds nearby, and could not be used as military uniforms for border towns, so he asked for permission to provide him with green cloth.
+Hou Jing got the cloth and used it all to make robes, so he admired the color cyan.
+He also thought that the weapons supplied by Xingtai were not of high quality, and asked for the blacksmiths from Dongye to be rebuilt. Gaozu ordered that all be given to him.
+After Hou Jing's defeat in Wuyang, he repeatedly requested funds from the imperial court, but the imperial court was generous and never refused.
+Previously, the governor of Yuzhou, Zhenyang Marquis Xiao Yuanming, led all the troops to besiege Pengcheng. He was defeated and fell to Wei. During the period, he sent people back to Liang to state the Wei people's request to restore old friendship.
+In February of the second year, Emperor Gaozu discussed peace with Wei again.
+Hou Jing was very frightened when he found out, and hurriedly sent someone to send a seal to Gaozu to try his best to dissuade him. Gaozu did not listen to Hou Jing's dissuasion.
+Later, Hou Jingshang's memorial was arrogant and his words were arrogant.
+Xiao Fan, the king of Poyang, was guarding Hefei. He and Yang Yaren, the governor of Sizhou, repeatedly reported that Hou Jing had the intention to rebel. The leader Zhu Yi said: Hou Jing only has hundreds of rebels, how can he rebel.
+They suppressed their official seals and did not report to Emperor Gaozu, but instead increased the rewards to Hou Jing, so Hou Jing's conspiracy to rebel became more and more exposed.
+Hou Jing also knew that Linhe King Xiao Zhengde had grudges and complaints against the court, so he secretly sent people to make friends with him and collude with him. Xiao Zhengde agreed to be Hou Jing's internal adviser.
+In August, Hou Jing sent troops to rebel, attacked Ma Tou and Muzha, and captured the prefect Liu Shenmao, the garrison leader Cao Zhu and others.
+Emperor Gaozu then ordered the governor of Hezhou, Poyang King Xiao Fan, to be the governor of the South Road, the governor of North Xuzhou, Fengshan Hou Xiao Zhengbiao, to be the governor of the north, Sizhou governor Liu Zhongli to be the governor of the west, and Pei Zhigao, the regular servant of Tongzhi Sanqi, to be the governor of Shudao.
+In October, Hou Jing left one of his troops, Wang Haogui, to guard Shouchun City, while he led his army to pretend to attack Hefei, but actually went to sneak attack Qiaozhou, and Qiaozhou assisted Dong Shao in opening the city and surrendering. The governor, Fengcheng Hou Xiaotai, was captured.
+Emperor Gaozu learned of this and sent Wang Zhi, the prince's family commander, to lead three thousand troops to defend along the river.
+Hou Jing attacked Liyang. Zhuang Tie, the prefect of Liyang, sent his brother Zhuang Jun to lead hundreds of people to attack Hou Jing's camp at night. They were unsuccessful. Zhuang Jun died in the battle and Zhuang Tie surrendered.
+Xiao Zhengde first dispatched dozens of large ships, pretending to be carrying Diwei, but actually carrying Hou Jing across the river.
+Hou Jing arrived at Jingkou and was about to cross the river. He was worried about Wang Zhi's obstruction. Soon, Wang Zhi retreated without any reason. Hou Jing still didn't believe it when he heard that he secretly sent someone to spy. He said to the sent person: If Wang Zhi really retreats, you can break the branches of the river as a signal.
+The man who went to spy came back as he said. Hou Jing was overjoyed and said, "My mission was successful."
+Just crossing the river from Caishi, there were hundreds of horses and thousands of soldiers, but the people in the capital did not notice it.
+Hou Jing immediately divided his troops to attack Gushu, captured Wencheng Hou Kukong, the prefect of Jinhu, and then arrived at Cisu.
+Zhidan ordered Xiao Daqi, king of Xuancheng, the governor of Yangzhou in Shao, to be the governor of all the military forces in the city, and Yang Kan, the governor of the capital, to be the military advisor and general to assist him; Xiao Tui, the Marquis of Nanpu, guarded Dongfucheng, Xiao Dachun, Duke of Xifeng, guarded Stone City, and Xie Xi, the commander of light chariots, guarded Baixia.
+Then Hou Jing arrived at Zhuquehang. Xiao Zhengde originally stationed troops in Dandanyang County. At this time, he led his troops to join Hou Jing.
+Jiankang ordered Yu Xin to lead more than a thousand troops to the north of Zhuquehang. Seeing that Hou Jing's army had attacked Zhuquehang, Yu Xin ordered the removal of the pontoon bridge. After removing one ship, Yu Xin abandoned his army and fled to Nantang. The abandoned stragglers connected to the pontoon bridge and allowed Hou Jing to cross the river.
+The crown prince gave the king a pledge of his horse, allotted him three thousand elite soldiers, and sent him to reinforce Yu Xin.
+Wang Zhi went to the leader's mansion, met the rebels, and fled without fighting. Hou Jing took advantage of the victory and marched to the palace city.
+Xiao Dachun, Duke of Xifeng, abandoned Stone City and fled. Hou Jing sent his Yi Tong and Yu Ziyue to occupy Stone City.
+Xie Xi also gave up Baixia City and fled.
+
+summary:
+summary line 2: Qi's Emperor Wenxiang wrote to Hou Jing, urging his return with promises of rank and family safety. Hou Jing replied, justifying his actions and rejecting the offer. In December, Hou Jing besieged Qiaocheng, failed, but captured Chengfu. He proposed selecting a Yuan descendant as Wei's lord for a Northern Expedition; Emperor Gaozu agreed. Qi's Murong Shaozong pursued Hou Jing to Woyang, where Hou Jing's army disintegrated due to starvation. He fled to Shouchun with 800 horses, where Emperor Gaozu treated him favorably, appointing him shepherd of Yuzhou.
+
+Chunk 7: 
+original: 
+十二月，景率军围谯城不下，退攻城父，拔之。
+又遣其行台左丞王伟、左民郎中王则诣阙献策，求诸元子弟立为魏主，辅以北伐，许之。
+诏遣太子舍人元贞为咸阳王，须渡江，许即伪位，乘舆副御以资给之。
+齐文襄又遣慕容绍宗追景，景退入涡阳，马尚有数千匹，甲卒数万人，车万余辆，相持于涡北。
+景军食尽，士卒并北人，不乐南渡，其将暴显等各率所部降于绍宗。
+景军溃散，乃与腹心数骑自峡石济淮，稍收散卒，得马步八百人，奔寿春，监州韦黯纳之。
+景启求贬削，优诏不许，仍以为豫州牧，本官如故。
+景既据寿春，遂怀反叛，属城居民，悉召募为军士，辄停责市估及田租，百姓子女悉以配将卒。
+又启求锦万匹，为军人袍，领军硃异议以御府锦署止充颁赏远近，不容以供边城戎服，请送青布以给之。
+景得布，悉用为袍衫，因尚青色。
+又以台所给仗，多不能精，启请东冶锻工，欲更营造，敕并给之。
+景自涡阳败后，多所征求，朝廷含弘，未尝拒绝。
+先是，豫州刺史贞阳侯渊明督众军围彭城，兵败没于魏。至是，遣使还述魏人请追前好。
+二年二月，高祖又与魏连和。
+景闻之惧，驰启固谏，高祖不从。
+尔后表疏跋扈，言辞不逊。
+鄱阳王范镇合肥，及司州刺史羊鸦仁俱累启称景有异志，领军硃异曰： 侯景数百叛虏，何能为役？
+并抑不奏闻，而逾加赏赐，所以奸谋益果。
+又知临贺王正德怨望朝廷，密令要结，正德许为内启。
+八月，景遂发兵反，攻马头、木栅，执太守刘神茂、戍主曹璆等。
+于是诏郢州刺史鄱阳王范为南道都督，北徐州刺史封山侯正表为北道都督，司州刺史柳仲礼为西道都督，通直散骑常侍裴之高为东道都督，同讨景，济自历阳；又令开府仪同三司、丹阳尹、邵陵王纶持节，董督众军。
+十月，景留其中军王显贵守寿春城，出军伪向合肥，遂袭谯州，助防董绍先开城降之，执刺史豊城侯泰。
+高祖闻之，遣太子家令王质率兵三千巡江遏防。
+景进攻历阳，历阳太守庄铁遣弟均率数百人夜斫景营，不克，均战没，铁又降之。
+萧正德先遣大船数十艘，伪称载荻，实装济景。
+景至京口，将渡，虑王质为梗。俄而质无故退，景闻之尚未信也，乃密遣觇之。谓使者曰： 质若审退，可折江东树枝为验。
+觇人如言而返，景大喜曰： 吾事办矣。
+乃自采石济，马数百匹，兵千人，京师不之觉。
+景即分袭姑孰，执淮南太守文成侯宁，遂至慈湖。
+于是诏以扬州刺史宣城王大器为都督城内诸军事，都官尚书羊侃为军师将军以副焉；南浦侯推守东府城，西豊公大春守石头城，轻车长史谢禧守白下。
+既而景至硃雀航，萧正德先屯丹阳郡，至是，率所部与景合。
+建康令庾信率兵千余人屯航北，见景至航，命彻航，始除一舶，遂弃军走南塘，游军复闭航渡景。
+皇太子以所乘马授王质，配精兵三千，使援庾信。
+质至领军府，与贼遇，未阵便奔走，景乘胜至阙下。
+西豊公大春弃石头城走，景遣其仪同于子悦据之。
+谢禧亦弃白下城走。
+translation: 
+In December, Hou Jing led his army to besiege Qiaocheng, but failed to capture it, so he withdrew his troops to attack Chengfu and captured it.
+Hou Jing also sent his Xingtai Zuocheng Wang Wei and Zuo Minlangzhong Wangze to Gaozu to offer advice, advocating that a descendant of the Yuan family should be selected as the lord of Wei and help him ascend the throne through the Northern Expedition.
+Emperor Gaozu agreed to the plan. An imperial edict was sent to send Prince Sheren Yuan Zhen to be the King of Xianyang, and wait for him to cross the river. After crossing the river, he was allowed to ascend the throne and proclaim himself emperor, and he was provided with an imperial chariot.
+Emperor Wenxiang of Qi sent Murong Shaozong to pursue Hou Jing, but Hou Jing retreated into Guoyang. At this time, Hou Jingshang had thousands of horses, tens of thousands of soldiers, and more than 10,000 vehicles, and he and Murong Shaozong were in a stalemate in the north of Woyang.
+Hou Jing ran out of food, and his soldiers were all from Jiangbei and were unwilling to cross south. His general Bao Xian and others led their men to surrender to Murong Shaozong.
+When Hou Jing saw that his army was in disarray, he crossed the Huaihe River from Xia Shi with a few of his friends, and gradually gathered scattered troops. He got 800 horses and infantry, and fled to Shouchun. Wei An of Jianzhou accepted him.
+In Shouchun, Hou Jing sent someone to petition Emperor Gaozu to demote his official position. Emperor Gaozu treated him favorably, but Xia Shao did not agree to his request for demotion and still appointed him as the shepherd of Yuzhou without changing his original official position.
+After Hou Jing occupied Shouchun, he became rebellious. All the residents of Shouchun's city were recruited as sergeants, and he stopped collecting taxes and land rent without authorization. All the children of the people were assigned to the soldiers in the army.
+He also requested the emperor to provide tens of thousands of pieces of brocade to make military uniforms. Zhu Yi, the leader of the army, believed that the imperial brocade office was only used by the imperial court to award meritorious deeds nearby, and could not be used as military uniforms for border towns, so he asked for permission to provide him with green cloth.
+Hou Jing got the cloth and used it all to make robes, so he admired the color cyan.
+He also thought that the weapons supplied by Xingtai were not of high quality, and asked for the blacksmiths from Dongye to be rebuilt. Gaozu ordered that all be given to him.
+After Hou Jing's defeat in Wuyang, he repeatedly requested funds from the imperial court, but the imperial court was generous and never refused.
+Previously, the governor of Yuzhou, Zhenyang Marquis Xiao Yuanming, led all the troops to besiege Pengcheng. He was defeated and fell to Wei. During the period, he sent people back to Liang to state the Wei people's request to restore old friendship.
+In February of the second year, Emperor Gaozu discussed peace with Wei again.
+Hou Jing was very frightened when he found out, and hurriedly sent someone to send a seal to Gaozu to try his best to dissuade him. Gaozu did not listen to Hou Jing's dissuasion.
+Later, Hou Jingshang's memorial was arrogant and his words were arrogant.
+Xiao Fan, the king of Poyang, was guarding Hefei. He and Yang Yaren, the governor of Sizhou, repeatedly reported that Hou Jing had the intention to rebel. The leader Zhu Yi said: Hou Jing only has hundreds of rebels, how can he rebel.
+They suppressed their official seals and did not report to Emperor Gaozu, but instead increased the rewards to Hou Jing, so Hou Jing's conspiracy to rebel became more and more exposed.
+Hou Jing also knew that Linhe King Xiao Zhengde had grudges and complaints against the court, so he secretly sent people to make friends with him and collude with him. Xiao Zhengde agreed to be Hou Jing's internal adviser.
+In August, Hou Jing sent troops to rebel, attacked Ma Tou and Muzha, and captured the prefect Liu Shenmao, the garrison leader Cao Zhu and others.
+Emperor Gaozu then ordered the governor of Hezhou, Poyang King Xiao Fan, to be the governor of the South Road, the governor of North Xuzhou, Fengshan Hou Xiao Zhengbiao, to be the governor of the north, Sizhou governor Liu Zhongli to be the governor of the west, and Pei Zhigao, the regular servant of Tongzhi Sanqi, to be the governor of Shudao.
+In October, Hou Jing left one of his troops, Wang Haogui, to guard Shouchun City, while he led his army to pretend to attack Hefei, but actually went to sneak attack Qiaozhou, and Qiaozhou assisted Dong Shao in opening the city and surrendering. The governor, Fengcheng Hou Xiaotai, was captured.
+Emperor Gaozu learned of this and sent Wang Zhi, the prince's family commander, to lead three thousand troops to defend along the river.
+Hou Jing attacked Liyang. Zhuang Tie, the prefect of Liyang, sent his brother Zhuang Jun to lead hundreds of people to attack Hou Jing's camp at night. They were unsuccessful. Zhuang Jun died in the battle and Zhuang Tie surrendered.
+Xiao Zhengde first dispatched dozens of large ships, pretending to be carrying Diwei, but actually carrying Hou Jing across the river.
+Hou Jing arrived at Jingkou and was about to cross the river. He was worried about Wang Zhi's obstruction. Soon, Wang Zhi retreated without any reason. Hou Jing still didn't believe it when he heard that he secretly sent someone to spy. He said to the sent person: If Wang Zhi really retreats, you can break the branches of the river as a signal.
+The man who went to spy came back as he said. Hou Jing was overjoyed and said, "My mission was successful."
+Just crossing the river from Caishi, there were hundreds of horses and thousands of soldiers, but the people in the capital did not notice it.
+Hou Jing immediately divided his troops to attack Gushu, captured Wencheng Hou Kukong, the prefect of Jinhu, and then arrived at Cisu.
+Zhidan ordered Xiao Daqi, king of Xuancheng, the governor of Yangzhou in Shao, to be the governor of all the military forces in the city, and Yang Kan, the governor of the capital, to be the military advisor and general to assist him; Xiao Tui, the Marquis of Nanpu, guarded Dongfucheng, Xiao Dachun, Duke of Xifeng, guarded Stone City, and Xie Xi, the commander of light chariots, guarded Baixia.
+Then Hou Jing arrived at Zhuquehang. Xiao Zhengde originally stationed troops in Dandanyang County. At this time, he led his troops to join Hou Jing.
+Jiankang ordered Yu Xin to lead more than a thousand troops to the north of Zhuquehang. Seeing that Hou Jing's army had attacked Zhuquehang, Yu Xin ordered the removal of the pontoon bridge. After removing one ship, Yu Xin abandoned his army and fled to Nantang. The abandoned stragglers connected to the pontoon bridge and allowed Hou Jing to cross the river.
+The crown prince gave the king a pledge of his horse, allotted him three thousand elite soldiers, and sent him to reinforce Yu Xin.
+Wang Zhi went to the leader's mansion, met the rebels, and fled without fighting. Hou Jing took advantage of the victory and marched to the palace city.
+Xiao Dachun, Duke of Xifeng, abandoned Stone City and fled. Hou Jing sent his Yi Tong and Yu Ziyue to occupy Stone City.
+Xie Xi also gave up Baixia City and fled.
+
+summary:
+summary line 3: In Shouchun, Hou Jing rebelled, conscripting residents and stopping taxes. He requested brocade for uniforms but received green cloth, which he used. After a defeat, he sought funds from the court, which were granted. In the second year, Emperor Gaozu discussed peace with Wei, alarming Hou Jing, who sent arrogant memorials opposing it. Poyang King Xiao Fan and others reported Hou Jing's rebellion intentions, but official Zhu Yi dismissed them. Hou Jing secretly allied with Linhe King Xiao Zhengde. In August, Hou Jing rebelled, attacking Ma Tou and Muzha. Emperor Gaozu ordered multiple governors to counter him.
+
+Chunk 7: 
+original: 
+十二月，景率军围谯城不下，退攻城父，拔之。
+又遣其行台左丞王伟、左民郎中王则诣阙献策，求诸元子弟立为魏主，辅以北伐，许之。
+诏遣太子舍人元贞为咸阳王，须渡江，许即伪位，乘舆副御以资给之。
+齐文襄又遣慕容绍宗追景，景退入涡阳，马尚有数千匹，甲卒数万人，车万余辆，相持于涡北。
+景军食尽，士卒并北人，不乐南渡，其将暴显等各率所部降于绍宗。
+景军溃散，乃与腹心数骑自峡石济淮，稍收散卒，得马步八百人，奔寿春，监州韦黯纳之。
+景启求贬削，优诏不许，仍以为豫州牧，本官如故。
+景既据寿春，遂怀反叛，属城居民，悉召募为军士，辄停责市估及田租，百姓子女悉以配将卒。
+又启求锦万匹，为军人袍，领军硃异议以御府锦署止充颁赏远近，不容以供边城戎服，请送青布以给之。
+景得布，悉用为袍衫，因尚青色。
+又以台所给仗，多不能精，启请东冶锻工，欲更营造，敕并给之。
+景自涡阳败后，多所征求，朝廷含弘，未尝拒绝。
+先是，豫州刺史贞阳侯渊明督众军围彭城，兵败没于魏。至是，遣使还述魏人请追前好。
+二年二月，高祖又与魏连和。
+景闻之惧，驰启固谏，高祖不从。
+尔后表疏跋扈，言辞不逊。
+鄱阳王范镇合肥，及司州刺史羊鸦仁俱累启称景有异志，领军硃异曰： 侯景数百叛虏，何能为役？
+并抑不奏闻，而逾加赏赐，所以奸谋益果。
+又知临贺王正德怨望朝廷，密令要结，正德许为内启。
+八月，景遂发兵反，攻马头、木栅，执太守刘神茂、戍主曹璆等。
+于是诏郢州刺史鄱阳王范为南道都督，北徐州刺史封山侯正表为北道都督，司州刺史柳仲礼为西道都督，通直散骑常侍裴之高为东道都督，同讨景，济自历阳；又令开府仪同三司、丹阳尹、邵陵王纶持节，董督众军。
+十月，景留其中军王显贵守寿春城，出军伪向合肥，遂袭谯州，助防董绍先开城降之，执刺史豊城侯泰。
+高祖闻之，遣太子家令王质率兵三千巡江遏防。
+景进攻历阳，历阳太守庄铁遣弟均率数百人夜斫景营，不克，均战没，铁又降之。
+萧正德先遣大船数十艘，伪称载荻，实装济景。
+景至京口，将渡，虑王质为梗。俄而质无故退，景闻之尚未信也，乃密遣觇之。谓使者曰： 质若审退，可折江东树枝为验。
+觇人如言而返，景大喜曰： 吾事办矣。
+乃自采石济，马数百匹，兵千人，京师不之觉。
+景即分袭姑孰，执淮南太守文成侯宁，遂至慈湖。
+于是诏以扬州刺史宣城王大器为都督城内诸军事，都官尚书羊侃为军师将军以副焉；南浦侯推守东府城，西豊公大春守石头城，轻车长史谢禧守白下。
+既而景至硃雀航，萧正德先屯丹阳郡，至是，率所部与景合。
+建康令庾信率兵千余人屯航北，见景至航，命彻航，始除一舶，遂弃军走南塘，游军复闭航渡景。
+皇太子以所乘马授王质，配精兵三千，使援庾信。
+质至领军府，与贼遇，未阵便奔走，景乘胜至阙下。
+西豊公大春弃石头城走，景遣其仪同于子悦据之。
+谢禧亦弃白下城走。
+translation: 
+In December, Hou Jing led his army to besiege Qiaocheng, but failed to capture it, so he withdrew his troops to attack Chengfu and captured it.
+Hou Jing also sent his Xingtai Zuocheng Wang Wei and Zuo Minlangzhong Wangze to Gaozu to offer advice, advocating that a descendant of the Yuan family should be selected as the lord of Wei and help him ascend the throne through the Northern Expedition.
+Emperor Gaozu agreed to the plan. An imperial edict was sent to send Prince Sheren Yuan Zhen to be the King of Xianyang, and wait for him to cross the river. After crossing the river, he was allowed to ascend the throne and proclaim himself emperor, and he was provided with an imperial chariot.
+Emperor Wenxiang of Qi sent Murong Shaozong to pursue Hou Jing, but Hou Jing retreated into Guoyang. At this time, Hou Jingshang had thousands of horses, tens of thousands of soldiers, and more than 10,000 vehicles, and he and Murong Shaozong were in a stalemate in the north of Woyang.
+Hou Jing ran out of food, and his soldiers were all from Jiangbei and were unwilling to cross south. His general Bao Xian and others led their men to surrender to Murong Shaozong.
+When Hou Jing saw that his army was in disarray, he crossed the Huaihe River from Xia Shi with a few of his friends, and gradually gathered scattered troops. He got 800 horses and infantry, and fled to Shouchun. Wei An of Jianzhou accepted him.
+In Shouchun, Hou Jing sent someone to petition Emperor Gaozu to demote his official position. Emperor Gaozu treated him favorably, but Xia Shao did not agree to his request for demotion and still appointed him as the shepherd of Yuzhou without changing his original official position.
+After Hou Jing occupied Shouchun, he became rebellious. All the residents of Shouchun's city were recruited as sergeants, and he stopped collecting taxes and land rent without authorization. All the children of the people were assigned to the soldiers in the army.
+He also requested the emperor to provide tens of thousands of pieces of brocade to make military uniforms. Zhu Yi, the leader of the army, believed that the imperial brocade office was only used by the imperial court to award meritorious deeds nearby, and could not be used as military uniforms for border towns, so he asked for permission to provide him with green cloth.
+Hou Jing got the cloth and used it all to make robes, so he admired the color cyan.
+He also thought that the weapons supplied by Xingtai were not of high quality, and asked for the blacksmiths from Dongye to be rebuilt. Gaozu ordered that all be given to him.
+After Hou Jing's defeat in Wuyang, he repeatedly requested funds from the imperial court, but the imperial court was generous and never refused.
+Previously, the governor of Yuzhou, Zhenyang Marquis Xiao Yuanming, led all the troops to besiege Pengcheng. He was defeated and fell to Wei. During the period, he sent people back to Liang to state the Wei people's request to restore old friendship.
+In February of the second year, Emperor Gaozu discussed peace with Wei again.
+Hou Jing was very frightened when he found out, and hurriedly sent someone to send a seal to Gaozu to try his best to dissuade him. Gaozu did not listen to Hou Jing's dissuasion.
+Later, Hou Jingshang's memorial was arrogant and his words were arrogant.
+Xiao Fan, the king of Poyang, was guarding Hefei. He and Yang Yaren, the governor of Sizhou, repeatedly reported that Hou Jing had the intention to rebel. The leader Zhu Yi said: Hou Jing only has hundreds of rebels, how can he rebel.
+They suppressed their official seals and did not report to Emperor Gaozu, but instead increased the rewards to Hou Jing, so Hou Jing's conspiracy to rebel became more and more exposed.
+Hou Jing also knew that Linhe King Xiao Zhengde had grudges and complaints against the court, so he secretly sent people to make friends with him and collude with him. Xiao Zhengde agreed to be Hou Jing's internal adviser.
+In August, Hou Jing sent troops to rebel, attacked Ma Tou and Muzha, and captured the prefect Liu Shenmao, the garrison leader Cao Zhu and others.
+Emperor Gaozu then ordered the governor of Hezhou, Poyang King Xiao Fan, to be the governor of the South Road, the governor of North Xuzhou, Fengshan Hou Xiao Zhengbiao, to be the governor of the north, Sizhou governor Liu Zhongli to be the governor of the west, and Pei Zhigao, the regular servant of Tongzhi Sanqi, to be the governor of Shudao.
+In October, Hou Jing left one of his troops, Wang Haogui, to guard Shouchun City, while he led his army to pretend to attack Hefei, but actually went to sneak attack Qiaozhou, and Qiaozhou assisted Dong Shao in opening the city and surrendering. The governor, Fengcheng Hou Xiaotai, was captured.
+Emperor Gaozu learned of this and sent Wang Zhi, the prince's family commander, to lead three thousand troops to defend along the river.
+Hou Jing attacked Liyang. Zhuang Tie, the prefect of Liyang, sent his brother Zhuang Jun to lead hundreds of people to attack Hou Jing's camp at night. They were unsuccessful. Zhuang Jun died in the battle and Zhuang Tie surrendered.
+Xiao Zhengde first dispatched dozens of large ships, pretending to be carrying Diwei, but actually carrying Hou Jing across the river.
+Hou Jing arrived at Jingkou and was about to cross the river. He was worried about Wang Zhi's obstruction. Soon, Wang Zhi retreated without any reason. Hou Jing still didn't believe it when he heard that he secretly sent someone to spy. He said to the sent person: If Wang Zhi really retreats, you can break the branches of the river as a signal.
+The man who went to spy came back as he said. Hou Jing was overjoyed and said, "My mission was successful."
+Just crossing the river from Caishi, there were hundreds of horses and thousands of soldiers, but the people in the capital did not notice it.
+Hou Jing immediately divided his troops to attack Gushu, captured Wencheng Hou Kukong, the prefect of Jinhu, and then arrived at Cisu.
+Zhidan ordered Xiao Daqi, king of Xuancheng, the governor of Yangzhou in Shao, to be the governor of all the military forces in the city, and Yang Kan, the governor of the capital, to be the military advisor and general to assist him; Xiao Tui, the Marquis of Nanpu, guarded Dongfucheng, Xiao Dachun, Duke of Xifeng, guarded Stone City, and Xie Xi, the commander of light chariots, guarded Baixia.
+Then Hou Jing arrived at Zhuquehang. Xiao Zhengde originally stationed troops in Dandanyang County. At this time, he led his troops to join Hou Jing.
+Jiankang ordered Yu Xin to lead more than a thousand troops to the north of Zhuquehang. Seeing that Hou Jing's army had attacked Zhuquehang, Yu Xin ordered the removal of the pontoon bridge. After removing one ship, Yu Xin abandoned his army and fled to Nantang. The abandoned stragglers connected to the pontoon bridge and allowed Hou Jing to cross the river.
+The crown prince gave the king a pledge of his horse, allotted him three thousand elite soldiers, and sent him to reinforce Yu Xin.
+Wang Zhi went to the leader's mansion, met the rebels, and fled without fighting. Hou Jing took advantage of the victory and marched to the palace city.
+Xiao Dachun, Duke of Xifeng, abandoned Stone City and fled. Hou Jing sent his Yi Tong and Yu Ziyue to occupy Stone City.
+Xie Xi also gave up Baixia City and fled.
+
+summary:
+summary line 4: In October, Hou Jing feigned an attack on Hefei but took Qiaozhou, capturing Fengcheng Hou Xiaotai. He crossed the Yangtze from Caishi with hundreds of horses and thousands of soldiers, unnoticed. He divided troops to attack Gushu, then reached Cisu. Defenders fled, and Hou Jing advanced to the palace city, burning gates. After failed assaults, he built a barrier, cutting off supplies. He established Xiao Zhengde as emperor in November, naming himself Prime Minister. Hou Jing attacked Dongfu City, capturing it and killing over 2,000 officials. He built earth mountains to monitor the city, forcing labor, with weak killed to fill them.
+
+Chunk 15: 
+original: 
+五月，高祖崩于文德殿。
+初，台城既陷，景先遣王伟、陈庆入谒高祖，高祖曰： 景今安在？
+卿可召来。
+时高祖坐文德殿，景乃入朝，以甲士五百人自卫，带剑升殿。
+拜讫，高祖问曰： 卿在戎日久，无乃为劳？
+景默然。
+又问： 卿何州人，而敢至此乎？
+景又不能对，从者代对。
+及出，谓厢公王僧贵曰： 吾常据鞍对敌，矢刃交下，而意气安缓，了无怖心。
+今日见萧公，使人自慑，岂非天威难犯？
+吾不可再见之。
+高祖虽外迹已屈，而意犹忿愤，时有事奏闻，多所谴却。
+景深敬惮，亦不敢逼。
+景遣军人直殿省内，高祖问制局监周石珍曰： 是何物人？
+对曰： 丞相。
+高祖乃谬曰： 何物丞相？
+对曰： 是侯丞相。
+高祖怒曰： 是名景，何谓丞相！
+是后，每所征求，多不称旨，至于御膳亦被裁抑，遂忧愤感疾而崩。
+景乃密不发丧，权殡于昭阳殿，自外文武咸莫知之。
+二十余日，升梓宫于太极前殿，迎皇太子即皇帝位。
+于是矫诏赦北人为奴婢者，冀收其力用焉。
+又遣仪同来亮率兵攻宣城，宣城内史杨华诱亮斩之；景复遣其将李贤明讨华，华以郡降。
+景遣仪同宋子仙等率众东次钱塘，新城戍主戴僧易据县拒之。
+是月，景遣中军侯子鉴入吴军，收于子悦、张大黑，还京诛之。
+时东扬州刺史临成公大连据州，吴兴太守张嵊据郡，自南陵以上，皆各据守。
+景制命所行，惟吴郡以西、南陵以北而已。
+六月，景以仪同郭元建为尚书仆射、北道行台、总江北诸军事，镇新秦。
+郡人陆缉、戴文举等起兵万余人，杀景太守苏单于，推前淮南太守文成侯宁为主，以拒景。
+translation: 
+In May, Emperor Gaozu passed away in Wende Hall.
+After the fall of Taicheng, Hou Jingxian sent Wang Wei and Chen Qing to meet Emperor Gaozu. Emperor Gaozu said: Where is Hou Jing now?
+Go and fetch him.
+At that time, Emperor Gaozu was sitting in the Wende Hall. When Hou Jing entered the hall to worship, he brought 500 soldiers in armor to defend himself and went to the hall with swords.
+After the obeisance, Emperor Gaozu asked: You have been in the army for a long time, maybe you are too tired?
+Hou Jing couldn't answer silently.
+Emperor Gaozu asked again: Which state are you from, and you dare to come to Qianbo?
+Hou Jing was speechless again, so his entourage answered on his behalf.
+After leaving the palace, Hou Jing said to Xiang Gong Wang Senggui: I often ride on a horse to fight with the enemy, with swords and arrows falling alternately, but I am calm and relaxed, without any fear.
+When I saw Mr. Xiao today, I couldn't help but feel frightened. Could it be that the power of God is unstoppable?
+I can't see him again.
+Although Gaozu's actions were restricted, he was still very resentful in his heart and often condemned and denied what Hou Jing heard about.
+Hou Jing was deeply in awe of Gaozu and did not dare to force him.
+Hou Jing sent soldiers to be on duty in the palace province. Emperor Gaozu asked Zhou Shizhen, the supervisor of the production bureau: "Who sent them?"
+He replied: It’s the Prime Minister.
+Gao Dan pretended to be confused and said, "What Prime Minister?"
+He replied: "It's Prime Minister Hou."
+Emperor Gaozu said angrily: "It's the man named Hou Jing." Why call him prime minister!
+From then on, Emperor Gaozu had many needs, but many of them were unsatisfactory. Even the food was cut off. Emperor Gaozu then became ill and died of anger.
+After the death of Emperor Gaozu, Hou Jingmi did not mourn, and the coffin was temporarily parked in Zhaoyang Hall. None of the civil and military officials inside and outside knew about the incident.
+More than twenty days later, the coffin was carried to the front hall of Taiji to welcome the crown prince as emperor.
+Hou Jing then pretended to issue an edict to pardon the Northerners who had been slaves. Trying to bribe these people for his use.
+He also sent Yi Tong to Lailiang and led his troops to attack Xuancheng. Yang Hua, the internal historian in Xuancheng, was beheaded by Yang Liang. Hou Jing sent his general Li Xianming to attack Yang Hua, and Yang Hua led the county to surrender.
+Hou Jing sent Yi, Song Zixian and others to lead the army eastward and stationed in Qiantang. The new city garrison leader Dai Sengyi seized the county to resist him.
+This month, Hou Jing sent the Chinese army Hou Zijian into the Wu army, arrested Yu Ziyue and Zhang Dahei, and returned to the capital to kill them.
+At that time, Lincheng Gong Xiao Dalian, the governor of Dongyangzhou, was guarding the state, and Zhang Sheng, the prefect of Wuxing, was guarding the county. From Nanling onwards, they were all guarding each other.
+The only areas where Hou Jing's order could be implemented were west of Wu County and north of Nanling.
+In June, Hou Jing appointed Guo Yuanjian as Shangshu Pushe, Beidao Xingtai, and general of all military forces in the north of the Yangtze River to guard the New Qin Dynasty.
+County residents Lu Ji, Dai Wenju and others raised more than 10,000 troops and killed Su Shanyu, the governor sent by Hou Jing. They elected the former Huainan governor Wencheng Hou Xiaoning as the leader of the alliance to resist Hou Jing.
+
+summary:
+summary line 5: Reinforcements arrived, but Hou Jing defeated them. Food ran out, leading to cannibalism. Hou Jing sought peace, demanding four Yangtze-right states and hostages. An alliance was made, but Hou Jing broke it, attacking again. The palace city fell; Hou Jing plundered, captured officials, and burned corpses. He falsely issued edicts, demoted Xiao Zhengde, and appointed his own governors. Emperor Gaozu died in May, reportedly from anger after Hou Jing's actions. Hou Jing hid the death for over twenty days before proclaiming the crown prince emperor.
+
+Chunk 16: 
+original: 
+宋子仙闻而击之，缉等弃城走。
+景乃分吴郡海盐、胥浦二县为武原郡。
+至是，景杀萧正德于永福省。封元罗为西秦王，元景龙为陈留王，诸元子弟封王者十余人。
+以柳敬礼为使持节、大都督，隶大丞相，参戎事。
+景遣其中军侯子鉴监行台刘神茂等军东讨，破吴兴，执太守张嵊父子送京师，景并杀之。
+景以宋子仙为司徒，任约为领军将军，尔硃季伯、叱罗子通、彭俊、董绍先、张化仁、于庆、鲁伯和、纥奚斤、史安和、时灵护、刘归义，并为开府仪同三司。
+是月，鄱阳嗣王范率兵次栅口，江州刺史寻阳王大心要之西上。
+景出顿姑孰，范将裴之悌、夏侯威生以众降景。
+十一月，宋子仙攻钱塘，戴僧易降。
+景以钱塘为临江郡，富阳为富春郡。
+又王伟、元罗并为仪同三司。
+十二月，宋子仙、赵伯超、刘神茂进攻会稽，东扬州刺史临成公大连弃城走，遣刘神茂追擒之。
+景以裴之悌为使持节、平西将军、合州刺史，以夏侯威生为使持节、平北将军、南豫州刺史。
+是月，百济使至，见城邑丘墟，于端门外号泣，行路见者莫不洒泪。
+景闻之大怒，送小庄严寺禁止，不听出入。
+大宝元年正月，景矫诏自加班剑四十人，给前后部羽葆鼓吹，置左右长史、从事中郎四人。
+前江都令祖皓起兵于广陵，斩景刺史董绍先，推前太子舍人萧勔为刺史；又结魏人为援，驰檄远近，将以讨景。
+景闻之大惧，即日率侯子鉴等出自京口，水陆并集。
+皓婴城拒守，景攻城，陷之。
+景车裂皓以徇，城中无少长皆斩之。
+以侯子鉴监南兗州事。
+是月，景召宋子仙还京口。
+四月，景以元思虔为东道行台，镇钱塘。
+以侯子鉴为南兗州刺史。
+文成侯宁于吴西乡起兵，旬日之间，众至一万，率以西上。
+景厢公孟振、侯子荣击破之，斩宁，传首于景。
+七月，景以秦郡为西兗州，阳平郡为北兗州。
+任约、卢晖略攻晋熙郡，杀鄱阳世子嗣。
+景以王伟为中书监。
+任约进军袭江州，江州刺史寻阳王大心降之。
+世祖时闻江州失守，遣卫军将军徐文盛率众军下武昌，拒约。
+景又矫诏自进位为相国，封泰山等二十郡为汉王，入朝不趋，赞拜不名，剑履上殿，如萧何故事。
+景以柳敬礼为护军将军，姜询义为相国左长史，徐洪为左司马，陆约为右长史，沈众为右司马。
+是月，景率舟师上皖口。
+十月，盗杀武林侯谘于广莫门。
+谘常出入太宗卧内，景党不能平，故害之。
+景又矫诏曰： 盖悬象在天，四时取则于辰头；群生育地，万物仰照于大明。
+translation: 
+After Song Zixian learned about it, he led his army to attack them, and Lu Ji and others abandoned the city and fled.
+Hou Jing then separated Wujun Haiyan and Xupu counties to form Wuyuan County.
+At this time, Hou Jing killed Xiao Zhengde in Yongfu Province. Yuan Luo was granted the title of King of Western Qin, Yuan Jinglong was granted the title of King of Chenliu, and more than ten of his descendants were granted the title of king.
+He also used Running Salute as an envoy to hold the festival and the governor, subordinate to the prime minister, to participate in military affairs.
+Hou Jing sent the Chinese army Hou Zijian, the supervisory station Liu Shenmao and others to lead an eastward crusade, defeated Wuxing, captured the prefect Zhang Sheng and his son, and sent them to the capital. Hou Jingji killed them together.
+Hou Jing appointed Song Zixian as Situ and the leading general, including Zhu Jibo, Chiluo Zitong, Peng Jun, Dong Shaoxian, Zhang Huaren, Yu Qing, Lu Bohe, He Xijin, Shi Anhe, Shi Linghu, and Liu Guiyi, and he was also named the third division of Kaifu Yitong.
+This month, Xiao Fan, the successor king of Poyang, led his troops to station at Zhakou. King Daxin of Xunyang, the governor of Jiangzhou, invited him to go west.
+Hou Jing sent troops to garrison in Gushu, and Fan generals Pei Zhidi and Xiahou Weisheng led their troops to surrender to Hou Jing.
+In November, Song Zixian attacked Qiantang and Dai Seng surrendered.
+Hou Jing changed Qiantang to Linjiang County and Fuyang to Fuchun County.
+Wang Wei and Yuan Luo were granted the title of "Yitong Sansi" at the same time.
+In December, Song Zixian, Zhao Bochao and Liu Shenmao attacked Kuaiji. Xiao Dalian, Linchenggong, the governor of Dongyangzhou, abandoned the city and fled. Hou Jing sent Liu Shenmao to chase him and capture him.
+Hou Jing appointed Pei Zhiti as his envoy Chijie, general Pingxi, and governor of Hezhou, and Xiahou Weisheng as his envoy Chijie, general Pingbei, and governor of South Yuzhou.
+This month, Baekje's envoys arrived and saw that the capital city was in ruins. People were wailing outside the city, and everyone on the road shed tears when they saw it.
+Hou Jing was furious when he heard about this, so he sent Baekje's envoys to Xiaozhuangyan Temple and locked them up, preventing them from entering or leaving.
+In the first month of the first year of Dabao, Hou Jing pretended to have Shao's orders and added forty swordsmen to himself without permission. He also appointed himself a front and rear Yu Bao advocate, and also appointed himself a left and right chief minister and four ministers.
+The former Jiangdu ordered Zu Hao to raise troops in Guangling, killed Dong Shao, the governor sent by Hou Jing, and elected Xiao Meng, the former prince's native, as the governor. He also contacted the Wei people as backup and used fast riding to publish proclamations to places far and near to denounce Hou Jing.
+When Hou Jing heard the news, he was very frightened. On the same day, he led Hou Zijian and others to send troops from Saidan, and all the land, water and rain troops were mobilized.
+Hou Jing refused to defend the city, but Hou Jing attacked the city and captured it.
+Hou Jing split Zu Hao's chariot to show the public, and killed everyone in the city, old and young.
+Hou Jing used the fort to monitor and supervise various affairs in Yanzhou in the south.
+This month, Hou Jing summoned Song Zixian back to Jingkou.
+In April, Hou Jing appointed Yuan Siqian as the host to guard Qiantang.
+Hou Zijian was appointed as the governor of southern Yanzhou.
+Xiao Ning, Marquis of Wencheng, raised an army in Wuxi Township. Within ten days, the number grew to 10,000, and he led his army to the west.
+Hou Jing's princes Meng Zhen and Hou Zirong defeated him, beheaded Wencheng Hou Xiaoning and gave his head to Hou Jing.
+In July, Hou Jing took Qin County as the western Yanzhou and Yangping County as the northern Yanzhou.
+Ren Yue and Lu Hui slightly attacked Jinxi County and killed Xiao Si, the eldest son of Prince Poyang.
+Hou Jing appointed Wang Wei as the Supervisor of the Zhongshu.
+Ren Yue marched to attack Jiangzhou, and the governor of Jiangzhou, Xunyang Wang Xiao Dazhi, surrendered to him.
+At that time, Emperor Shizu heard that Jiangzhou had been lost and sent General Xu Wensheng of the Guards to lead all the troops to Wuchang to resist Ren Yue.
+Hou Jing also falsely announced that he had been enthroned as prime minister, and granted the title of King of Han Dynasty to twenty counties including Mount Tai. He did not follow the rules when he entered the court, praised and worshiped without honoring his name, and went to the palace with swords and shoes, just like the courtesy enjoyed by Xiao He in the Han Dynasty.
+Hou Jing appointed Liu Jingli as the general guarding the army, Jiang Xunyi as the left chief historian of the prime minister, Xu Hong as the left Sima, Lu Yue as the right chief historian, and Shen Zhong as the right Sima.
+This month, Hou Jing led his navy back to Anhui.
+In October, bandits killed Xiao Zhen, Marquis of Wulin, in Guangmomen.
+Because Wulin Marquis Xiao Zhen often came in and out of Taizong's palace, Hou Jing's party members were confused, so they sent people to kill him.
+Hou Jing also falsely passed on Taizong's edict and said: Heaven shows signs, and the four seasons obtain their laws from the stars; all living things are nurtured by the earth, and all things rely on the sun and the moon to shine.
+
+summary:
+summary line 6: Hou Jing continued campaigns, killing Xiao Zhengde and appointing puppet kings. He faced rebellions, including Zu Hao's in Guangling, which he crushed, killing all residents. In Dabao's first year, he granted himself titles and privileges. He defeated various forces, capturing cities. In October, he killed Wulin Hou Xiao Zhen. He falsely issued an edict, granting himself the title "General of the Universe." Qi's Xin Shu besieged Yangping but retreated. Xu Wensheng defeated Hou Jing's navy, but Hou Jing later captured Yingzhou. He failed to take Baling due to disease and fled after Ren Yue's defeat.
+
+Chunk 22: 
+original: 
+景自巴丘挫衄，军兵略尽，恐齐人乘衅与西师掎角，乃遣郭元建率步军趣小岘，侯子鉴率舟师向濡须，曜兵肥水，以示武威。
+子鉴至合肥，攻罗城，克之。
+郭元建、侯子鉴俄闻王师既近，烧合肥百姓邑居，引军退，子鉴保姑孰，元建还广陵。
+时谢答仁攻刘神茂，神茂别将王华、丽通并据外营降答仁。
+刘归义、尹思合等惧，各弃城走。
+神茂孤危，复降答仁。
+王僧辩军至芜湖，芜湖城主宵遁。
+景遣史安和、宋长贵等率兵二千，助子鉴守姑孰，追田迁等还京师。
+是月，景党郭长献马驹生角。
+三月，景往姑孰，巡视垒栅，又诫子鉴曰： 西人善水战，不可与争锋，往年任约败绩，良为此也。
+若得马步一交，必当可破，汝但坚壁以观其变。
+子鉴乃舍舟登岸，闭营不出。
+僧辩等遂停军十余日，贼党大喜，告景曰： 西师惧吾之强，必欲遁逸，不击，将失之。
+景复命子鉴为水战之备。
+子鉴乃率步骑万余人渡洲，并引水军俱进，僧辩逆击，大破之，子鉴仅以身免。
+景闻子鉴败，大惧涕下，覆面引衾以卧，良久方起，叹曰： 误杀乃公！
+僧辩进军，次张公洲。
+景以卢晖略守石头，纥奚斤守捍国城，悉逼百姓及军士家累入台城内。
+僧辩焚景水栅，入淮，至祥灵寺渚。景大惊，乃缘淮立栅，自石头至硃雀航。
+僧辩及诸将遂于石头城西步上连营立栅，至于落星墩。
+景大恐，自率侯子鉴、于庆、史安和、王僧贵等，于石头东北立栅拒守。
+使王伟、索超世、吕季略守台城，宋长贵守延祚寺。
+遣掘王僧辩父墓，剖棺焚尸。
+王僧辩等进营于石头城北，景列阵挑战。
+僧辩率众军奋击，大破之，侯子鉴、史安和、王僧贵各弃栅走，卢晖略、纥奚斤并以城降。
+景既退败，不入宫，敛其散兵，屯于阙下，遂将逃窜。
+王伟揽辔谏曰： 自古岂有叛天子！
+今宫中卫士，尚足一战，宁可便走，弃此欲何所之？
+景曰： 我在北打贺拔胜，破葛荣，扬名河、朔，与高王一种人。
+今来南渡大江，取台城如反掌，打邵陵王于北山，破柳仲礼于南岸，皆乃所亲见。
+今日之事，恐是天亡。
+乃好守城，我当复一决耳。
+仰观石阙，逡巡叹息。
+久之，乃以皮囊盛二子挂马鞍，与其仪同田迁、范希荣等百余骑东奔。
+王伟委台城窜逸，侯子鉴等奔广陵。
+王僧辩遣侯瑱率军追景。
+景至晋陵，劫太守徐永东奔吴郡，进次嘉兴，赵伯超据钱塘拒之。
+景退还吴郡，达松江，而侯瑱军掩至，景众未阵，皆举幡乞降。
+景不能制，乃与腹心数十人单舸走，推堕二子于水，自沪渎入海。
+至壶豆洲，前太子舍人羊鲲杀之，送尸于王僧辩，传首西台，曝尸于建康市。百姓争取屠脍啖食，焚骨扬灰。
+曾罹其祸者，乃以灰和酒饮之。
+及景首至江陵，世祖命枭之于市，然后煮而漆之，付武库。
+景长不满七尺，而眉目疏秀。
+translation: 
+Since Baqiu suffered a setback, Hou Jing's army has been almost wiped out. He was afraid that the Qi people would take the opportunity to attack him from both sides with the army from the western vassal town, so he sent Guo Yuanjian to lead the infantry to Xiaoxian, and Hou Zijian led the navy to Ruxu to show off his strength in Feishui.
+Hou Zijian arrived in Hefei, attacked Luocheng and captured it.
+Soon, Guo Yuanjian and Hou Zijian heard that Wang's army was nearby, so they burned the city and residents' houses in Hefei and retreated with their troops. Hou Zijian guarded Gushu, and Guo Yuanjian withdrew his troops back to Guangling.
+At this time, Xie Taren attacked Liu Shenmao, and Liu Shenmao's generals Wang Ye and Litong defended the outer camp. They surrendered to Xie Taren at the same time.
+Liu Guiyi, Yin Sihe and others were afraid and abandoned the city and fled.
+Liu Shenmao's lone army was in danger, so he surrendered to Xie Daren.
+Wang Sengbian led his army to Wuhu, and the city lord of Wuhu fled overnight.
+Hou Jing sent Shi Anhe, Song Changgui and others with two thousand troops to assist Hou Zijian in guarding Gushu. Hou Jing himself caught up with Tian Qian and others and led his army back to the capital.
+This month, Guo Chang, a disciple of Hou Jing's party, presented a horse with horns.
+In March, Hou Jing went to Gushu, inspected the military fortress, and warned Hou Zijian again: Westerners are good at water warfare, and you should not fight with them on the water to decide the outcome. In previous years, Ren Yue was defeated by them for this reason.
+If we can fight them on land, we can definitely defeat them. You just need to strengthen the fortifications to hold on and watch the changes in the war.
+In view of the fact that Hou Zi abandoned his ship and landed, he set up camp and could not hold on.
+As a result, Wang Sengbian and others stopped military operations for more than ten days. Hou Zijian and others were overjoyed and reported to Hou Jing: The Western Division is afraid of the strength of our army. They will definitely want to escape. If they do not attack them, they will lose a good opportunity.
+Hou Jing also ordered Hou Zijian to prepare for a water battle.
+Since Hou Zi led more than 10,000 people on foot and cavalry to cross the island, he also led the navy to march together. Wang Sengbian fought and defeated Hou Zijian. Hou Zijian's entire army was wiped out, and only one person escaped back.
+When Hou Jing heard about Hou Zijian's defeat, he cried in horror. He covered his head with a quilt and lay down. After a long time, he got up and sighed: "This guy accidentally killed me!"
+Wang Sengbian marched and stationed himself at Zhang Gongzhou.
+Hou Jing appointed Lu Hui to guard Stone City, and He Xijin to guard the national city. Hou Jing forced all the people and the families of the soldiers to move into Taicheng.
+Wang Sengbian burned Hou Jing's water fence, entered the Huai River, and reached the waterside of Chanling Temple. Hou Jing was shocked, so he built a fence along the Huai River, from Stone City to Zhuquehang.
+Wang Sengbian and other generals went ashore at the west port of Shitou City and set up a fence all the way to Luoxing Pier.
+Hou Jing was so frightened that he personally led Hou Zijian, Yu Qing, Shi Anhe, Wang Senggui and others to build a camp in the northeast of Stone City to resist defense.
+Hou Jing sent Wang Wei, Suo Chaoshi, and Lu Jilue to guard Taicheng, and Song Changgui sent to guard Yanzuo Temple.
+Hou Jing also sent people to dig up the grave of Wang Sengbian's father, open the coffin, and burn the body.
+Wang Sengbian and others marched and set up camp in the north of Stone City, and Hou Jing formed a formation to challenge.
+Wang Sengbian led the troops to attack bravely and defeated Hou Jingjun. Hou Zijian, Shi Anhe, and Wang Sengui each abandoned the camp and fled. Lu Huilue and He Xijin led Shitoucheng to surrender to Wang Sengbian.
+After Hou Jing's soldiers were defeated, he did not enter the palace city, but collected his scattered soldiers and stationed them under the city so that they could escape at any time.
+Wang Wei pulled his horse's bridle to dissuade him and said: Since ancient times, there has never been an emperor who escaped!
+Now that the guards in the palace can still fight, how can they just run away, abandon the capital, and plan to escape to where?
+Hou Jing said: I attacked Helansheng in the north, destroyed Ge Rong, and became famous in He and Shuo. King Gao is of the same race.
+Later, he crossed the river south, captured Taicheng with ease, defeated King Shaoling on the north mountain, and defeated Liu Zhongli on the south bank. These are all things you have seen with your own eyes.
+If we are defeated today, I am afraid that God will kill me.
+You defend the city well, and I will fight them to the death again.
+Looking up at the Stone City Palace, I lingered and sighed for a long time.
+Finally, he put his two sons in leather bags and hung them on the saddles, and fled eastward with his Yi, Tian Qian, Fan Xirong and other hundreds of horses.
+Wang Wei abandoned Taicheng and fled. Hou Zijian and others also fled to Guangling.
+Wang Sengbian sent Hou Yi to lead his army to pursue Hou Jing.
+Hou Jing fled to Jinling, kidnapped the prefect Xu Yong and fled eastward to Wujun, where he stationed in Jiaxing. Zhao Bochao took Qiantang to resist him.
+Hou Jing withdrew his army and returned to Wu County. When they arrived at Songjiang, Hou Yi's army suddenly attacked. Hou Jing's troops had not yet formed their formation, and they all held up flags and asked Hou Yi to surrender.
+Hou Jing couldn't stop him, so he had to escape in a boat with ten of his close friends, pushed his two sons into the water, and then entered the sea from Hudu.
+When they arrived at Hudouzhou, Yang Kun, the former prince's servant, killed Hou Jing and gave the body to Wang Sengbian. Yu Sengbian sent Hou Jing's head to the west platform and displayed the body in Jiankang Market. The people competed to cut his flesh and eat it, and burned his bones to ashes and discarded them.
+People who had been harmed by Hou Jing mixed Hou Jing's ashes with wine and drank it.
+Hou Jing's head was sent to Jiangling, where Emperor Shizu ordered it to be hung for public display, then boiled, painted and handed over to the arsenal.
+Hou Jing is less than seven feet tall, but has handsome features.
+
+summary:
+summary line 7: Hou Jing deposed Taizong, imprisoning him, and established Xiao Dong as emperor. He killed Taizong with a silk cloth weighted with earth. In October, he forced Xiao Dong to abdicate, proclaiming himself emperor with the era name Taishi. He changed Liang's regulations to Han's, but his ignorance of ancestry caused ridicule. In the second year, his forces were defeated by Wang Sengbian. Hou Jing fled east with his sons in leather bags. At Hudouzhou, former prince's servant Yang Kun killed him. His body was displayed, and people ate his flesh, burned his bones, and mixed ashes with wine.
+
+Chunk 24: 
+original: 
+及贞阳覆败，边镇恇扰，高祖固已忧之，曰： 吾今段如此，勿作晋家事乎？
+先是，丹阳陶弘景隐于华阳山，博学多识，尝为诗曰： 夷甫任散诞，平叔坐谈空。不意昭阳殿，化作单于宫。
+大同末，人士竞谈玄理，不习武事；至是，景果居昭阳殿。
+天监中，有释宝志曰： 掘尾狗子自发狂，当死未死啮人伤，须臾之间自灭亡，起自汝阴死三湘。
+又曰： 山家小儿果攘臂，太极殿前作虎视。
+掘尾狗子、山家小儿，皆猴状。
+景遂覆陷都邑，毒害皇室。
+大同中，太医令硃耽尝直禁省，无何，夜梦犬羊各一在御坐，觉而恶之，告人曰： 犬羊者，非佳物也。今据御坐，将有变乎？
+既而天子蒙尘，景登正殿焉。
+及景将败，有僧通道人者，意性若狂，饮酒啖肉，不异凡等，世间游行已数十载，姓名乡里，人莫能知。
+初言隐伏，久乃方验，人并呼为阇梨，景甚信敬之。
+景尝于后堂与其徒共射，时僧通在坐，夺景弓射景阳山，大呼云 得奴已 。
+景后又宴集其党，又召僧通。僧通取肉揾盐以进景，问曰： 好不？
+景答： 所恨太咸。
+僧通曰： 不咸则烂臭。
+果以盐封其尸。
+王伟，陈留人。少有才学，景之表、启、书、檄，皆其所制。
+景既得志，规摹篡夺，皆伟之谋。
+及囚送江陵，烹于市，百姓有遭其毒者，并割炙食之。
+史臣曰：夫道不恒夷，运无常泰，斯则穷通有数，盛衰相袭，时屯阳九，盖在兹焉。
+若乃侯景小竖，叛换本国，识不周身，勇非出类，而王伟为其谋主，成此奸慝。
+驱率丑徒，陵江直济，长戟强弩，沦覆宫阙，祸缠宸极，毒遍黎元，肆其恣睢之心，成其篡盗之祸。
+translation: 
+When Marquis Zhenyang's army was destroyed, the border towns were in fear and panic. Emperor Gaozu was already very worried about this, but he said: Now that we have reached the point of being sent away, do we have to give up the country like the Jin Dynasty?
+Previously, Danyang Tao Hongjing lived in seclusion in Huayang Mountain. He was very knowledgeable and knowledgeable. He once wrote a poem and said: The Yifu was willful and unrestrained. He sat in Mangtan and talked about fantasy Buddhism. Unexpectedly, Zhaoyang Palace turned into the Shanyu Palace of the Xiongnu.
+In the last years of Datong, scholars competed to talk about mystical principles and did not study military affairs. Now Hou Jing has indeed entered Zhaoyang Palace.
+During the Tianjian period, there was a Shi Zhizhi that said: A dog with a tail dug suddenly went crazy, biting people when they were still alive, and then killed itself, fell from the white wall, and died in three embraces.
+He also said: The boy from the Shan family stretched out his clothes, raised his arms, and turned into a tiger in front of the Tai Chi Hall, staring eagerly.
+The tail-hunting dog and the mountain boy are both shaped like monkeys.
+In this way, Hou Jing destroyed and captured Kyoto and poisoned the royal family.
+During the Datong period, the imperial physician ordered Zhu Dan to stay in the forbidden province. Not long after, he dreamed that a dog and a sheep were sitting on the emperor's throne. When he woke up, he was disgusted by this. He told others: Dogs and sheep are not good things. They occupy the emperor's throne. Will there be chaos in the country?
+Afterwards, it turned out that the emperor suffered a disaster, and Hou Jing ascended the main hall.
+When Hou Jing was about to be defeated, there was a monk named Seng Tong. His temperament was like a madman, and he drank and ate meat just like ordinary people. He had been wandering around the world for decades, and no one knew his name and place of origin.
+What he said had obscure meanings that could only be verified after a long time. People called him Tianli, and Hou Jing believed and respected him very much.
+Hou Jing once shot arrows with his followers in the back hall. At that time, Seng Tong was also there. He took Hou Jing's bow and shot an arrow at Jing Yacan, shouting "I'm a slave."
+Wu Jing later held a banquet to gather with his followers, and summoned Seng Tong to the banquet. Seng Tong took the meat, rubbed it with salt, gave it to Hou Jing, and asked: "Is it okay?"
+Hou Jing replied: It's just too salty.
+Sengtong said: If the meat is not salted, it will stink.
+Sure enough, Hou Jing's body was sealed with salt.
+Wang Wei, a native of Chen Liu, was very talented and learned when he was young. Hou Jing's tables, letters, letters, and messages were all drafted and produced by Wang Wei.
+After Hou Jing succeeded, he planned to usurp the throne, and it was Wang Wei who made the plans for him.
+Later, Wang Wei was imprisoned and sent to Jiangling, where he was cooked in the market. The people who had been poisoned by Wang Wei cut off his flesh and roasted it for eating.
+Shi Chen said: The way of heaven will not be peaceful for a long time, nor will the destiny of the country be peaceful for a long time. This is because embarrassment and prosperity have a certain end, and prosperity and decline alternate with each other. This is the reason why the Liang Dynasty suffered misfortune.
+A boy like Hou Jing was domineering in his own country, his knowledge could not protect him, and his courage was not outstanding, but Wang Wei became his mastermind and made his evil conspiracy succeed.
+He led a group of party members to cross the Yangtze River, and with the help of halberds and powerful crossbows, he captured the capital, brought disaster to the emperor, and caused disaster to all the people in the world. He acted arbitrarily, causing the disaster of usurping and stealing the throne.
+
+summary:
+summary line 8: Hou Jing was under seven feet tall with handsome features but was cruel, often mutilating victims before death. He wore a white gauze hat and green robe, sometimes with a tooth comb in his bun. He rode a white horse; it neighed before victories and lowered its head before defeats. Emperor Gaozu's dream of中原 prefectures surrendering led him to accept Hou Jing, a decision later regretted. Omens, including a poem by Tao Hongjing and a prophecy about a dog and sheep, foretold Hou Jing's rise. A monk named Seng Tong, whom Hou Jing respected, made cryptic remarks about salt, foreshadowing Hou Jing's body being salted after death. Wang Wei, Hou Jing's adviser, was later cooked in the market. The historian noted that Hou Jing's cruelty surpassed previous usurpers, attributing his rise to divine timing and human folly.
+

@@ -1,0 +1,401 @@
+Summary uses chunk [0, 1, 2, 4, 5, 6, 15]
+
+Chunk 0: 
+original: 
+孔子曰： 导之以政，齐之以刑，民免而无耻；导之以德，齐之以礼，有耻且格。
+老氏称： 上德不德，是以有德；下德不失德，是以无德。
+法令滋章，盗贼多有。
+信哉是言也！
+法令者，治之具，而非制治清浊之原也。
+昔天下之罔尝密矣，然奸轨愈起，其极也，上下相遁，至于不振。
+当是之时，吏治若救火扬沸，非武健严酷，恶能胜其任而愉快乎？
+言道德者，溺于职矣。
+故曰： 听讼吾犹人也，必也使无讼乎！
+下士闻道大笑之。
+非虚言也。
+汉兴，破觚而为圜，斫雕而为朴，号为罔漏吞舟之鱼。而吏治蒸蒸，不至于奸，黎民艾安。
+由是观之，在彼不在此。
+高后时，酷吏独有侯封，刻轹宗室，侵辱功臣。
+吕氏已败，遂夷侯封之家。
+孝景时，晁错以刻深颇用术辅其资，而七国之乱发怒于错，错卒被戮。
+其后有郅都、甯成之伦。
+郅都，河东大阳人也。
+以郎事文帝。
+景帝时为中郎将，敢直谏，面折大臣于朝。
+尝从入上林，贾姬在厕，野彘入厕。上目都，都不行。
+上欲自持兵救贾姬，都伏上前曰： 亡一姬复一姬进，天下所少宁姬等邪？
+陛下纵自轻，奈宗庙太后何？
+上还，彘亦不伤贾姬。
+太后闻之，赐都金百斤，上亦赐金百斤，由此重都。
+济南瞷氏宗人三百余家，豪猾，二千石莫能制，于是景帝拜都为济南守。
+至则诛瞷氏首恶，余皆股栗。
+translation: 
+Confucius said: If you use political decrees to induce them and punishments to rectify them, the people will only be temporarily exempted from their sins, but they will have no sense of shame; if you use morality to induce them and use rituals to rectify them, the people will not only have a sense of shame, but also have people's hearts subdued.
+Laozi said: Superior virtue is in line with nature and is truly virtuous; inferior virtue is created subjectively and is actually unvirtuous.
+The multiplicity of laws and regulations breeds cunning and deceit, so the number of thieves increases.
+This is really a wise and clear statement!
+Laws and regulations are tools of governance, not the source of good or bad governance.
+In the past, when the law was tight in the world, thieves became more and more numerous and developed to the extreme, causing the monarchs, ministers and people to avoid each other, resulting in the world being ruined and unable to be saved.
+At this time, local governance was in crisis. If tough and harsh measures were not used, how could the governance be maintained?
+Those who advocate morality adopt a relaxed approach.
+Therefore, Confucius said: When trying lawsuits, I am no different from others. I must completely eliminate the litigation events!
+Lao Tzu also said: It is in vain to ridicule a mediocre person who does not know the way.
+These are not lies.
+The rise of the Han Dynasty broke the square into a circle, returned to simplicity and truth, and the legal framework was extremely broad and sparse. However, the situation of officialdom is flourishing, banditry and chaos are not prevalent, and the people live and work in peace and contentment.
+From this point of view, the key to official governance is not the harshness of the law.
+When he was a high-ranking empress, the only cruel official was Hou Feng, who trampled on the clan and insulted the meritorious officials.
+After the Lu family was defeated, Hou Feng's family was eradicated.
+During the reign of Emperor Jing, Chao Cuo used sharp tactics to support his talents, and the Rebellion of the Seven Kingdoms was also caused by Chao Cuo, and finally Chao Cuo was killed.
+Later, Zhidu and Ningcheng appeared again.
+Zhidu was born in Dayang County, Hedong County.
+Serve Emperor Wen as a Langguan.
+Emperor Jing was the Zhonglang General at that time, and he dared to speak out to the emperor and rebuke the ministers' faults in person at the court.
+Zhidu once accompanied the emperor to Shanglin Garden. Jia Ji was in the toilet, and the wild boar also entered the toilet. The emperor looked at Zhidu, but Zhidu was unmoved.
+The emperor wanted to personally take the sword to rescue Maiji. Zhidu knelt down in front of the emperor and said: "We have lost a Jiajie and a new Maiji has come in. Is it possible that the world lacks people like Maiji?"
+Even if your Majesty doesn't care about yourself, how can you be worthy of the country and the Queen Mother?
+After hearing Zhidu's words, the emperor retreated, and the wild boar did not harm Maiji.
+When the Queen Mother heard about this, she rewarded Zhidu with one hundred catties of gold. The emperor also rewarded Zhidu with one hundred catties of gold. From then on, Zhidu was highly valued.
+There were more than 300 families in Jinan's Kun clan. They were powerful and committed all kinds of evil. The prefect of the county could not subdue them, so Emperor Jing appointed Zhidu as the prefect of Jinan.
+After Zhidu arrived, he immediately killed the chief culprit of the Shu clan, and the remaining members of other clans were so frightened that their thighs trembled.
+
+summary:
+summary line 0: Confucius taught that governance through laws and punishments only temporarily prevents wrongdoing without instilling shame, while governance through morality and rituals creates both shame and willing compliance. Laozi similarly distinguished between superior virtue aligned with nature and inferior virtue that is subjectively created. The text observes that excessive laws breed cunning and increase thieves, noting that laws are merely tools of governance, not its source. During the Han Dynasty's rise, broad and sparse legal frameworks allowed officials to flourish and people to live peacefully, demonstrating that effective governance depends not on harsh laws.
+
+Chunk 1: 
+original: 
+居岁余，郡中不拾遗，旁十余郡守畏都如大府。
+都为人，勇有气，公廉，不发私书，问遗无所受，请寄无所听。
+常称曰： 已背亲而出身，固当奉职死节官下，终不顾妻子矣。
+都迁为中尉，丞相条侯至贵居也，而都揖丞相。
+是时，民朴，畏罪自重，而都独先严酷，致行法不避贵戚，列侯宗室见都侧目而视，号曰 苍鹰 。
+临江王征诣中尉府对簿，临江王欲得刀笔为书谢上，而都禁吏弗与。
+魏其侯使人间予临江王。
+临江王既得，为书谢上，因自杀。
+窦太后闻之，怒，以危法中都，都免归家。
+景帝乃使使即拜都为雁门太守，便道之官，得以便宜从事。
+匈奴素闻郅都节，举边为引兵去，竟都死不近雁门。
+匈奴至为偶人象都，令骑驰射，莫能中，其见惮如此。
+匈奴患之。乃中都以汉法。景帝曰： 都忠臣。
+欲释之。
+窦太后曰： 临江王独非忠臣乎？
+于是斩都也。
+甯成，南阳穰人也。
+以郎谒者事景帝。
+好气，为小吏，必陵其长吏；为人上，操下急如束湿。
+猾贼任威。
+稍迁至济南都尉，而郅都为守。
+始前数都尉步入府，因吏谒守如县令，其畏都如此。
+及成往，直凌都出其上。
+都素闻其声，善遇，与结欢。
+久之，都死，后长安左右宗室多犯法，上召成为中尉。
+其治效郅都，其廉弗如，然宗室豪杰人皆惴恐。
+translation: 
+Zhidu served as the prefect for more than a year, but Jinan County did not pick up the troops. The prefects of more than ten nearby counties feared Zhidu as they feared the superior palace.
+Zhidu is brave and powerful, fair and honest, he does not open personal letters, and does not accept gifts or private entrustments from relatives and friends.
+He often declares: I left my family behind and left my hometown to serve as an official. Of course I should be loyal to my duties and be loyal to the last bit of my life. In the end, I couldn't care about my wife and children.
+Zhidu transferred the lieutenant, and Prime Minister Tiaohou was extremely noble and arrogant, but Zhidu bowed to him and refused to bow to him.
+At this time, the folk customs were simple, and the officials and the people were afraid of offending the dignitaries and protected themselves wisely. Only Zhidu dared to take the lead in enforcing the law extremely harshly, without avoiding the emperor's relatives. When the princes and clans saw Zhi, they did not dare to look at him directly, and called him "Goshawk".
+King Linjiang was summoned to the Lieutenant's Mansion to investigate the case. He wanted to get the knife, pen and ink to write a letter to apologize to the emperor, but Zhidu prohibited the jailer from giving it to him.
+Wei Qihou sent someone to secretly deliver the sword and pen to King Linjiang.
+After King Linjiang got it, he wrote a letter to apologize to the emperor and then committed suicide.
+When Empress Dowager Dou heard about this, she was furious and slandered Zhidu with severe punishments. Zhidu was dismissed from his official position and returned home.
+However, Emperor Jing sent someone to Zhidu's home to appoint him as the governor of Yanmen. He did not have to go to the court to say goodbye, but took a shortcut to his post. He could take advantage of the situation and handle government affairs with full authority.
+The Huns were aware of Zhidu's integrity and all evacuated their border troops. After Zhidu's death, they did not dare to take a step near Yanmen.
+The Huns carved a puppet figure that looked exactly like Zhidu, and ordered the cavalry to gallop and shoot, but none of them could hit. They were so frightened by Zhidu.
+The Huns were worried about this situation and used the laws of the Han Dynasty to frame Zhidu. Emperor Jing said: "Zhi are all loyal ministers."
+Want to free him.
+Queen Mother Dou said: Isn't King Linjiang a loyal minister?
+So Zhidu was beheaded.
+Ningcheng was born in Zhang County, Nanyang County.
+Serve Emperor Jing as a Langguan and a visitor.
+He likes to be aggressive, and when he is a junior official, he must be superior to his superiors; when he is someone else's boss, he treats his subordinates as harshly and eagerly as tying wet sticks.
+Cunning and cruel, domineering and domineering.
+Gradually he was promoted to the rank of captain of Jinan, and he was appointed as the prefect of Jinan by Zhidu.
+In the past, several captains walked into the county government and paid homage to the prefect, just like the county magistrate paying homage to the prefect. They were so afraid of Zhi.
+When Ning Cheng went to the county government, he broke in directly and insulted Zhidu. His arrogance was even higher than that of Zhidu.
+Zhidu Sujian Ningcheng became famous, treated him well, and became a good friend with him.
+After a long time, Zhidu died. After that, many of the clan nobles in and around Chang'an violated the law, and the emperor called Ning Cheng to serve as lieutenant.
+Ning Cheng followed the example of Zhi Du in governing the area, but was not as honest as him. However, everyone in the clan, nobles and powerful people were frightened and trembled.
+
+summary:
+summary line 1: The text then chronicles several cruel officials. Zhidu served Emperors Wen and Jing, known for his bravery, integrity, and harsh enforcement. He once prevented Emperor Jing from risking his life to save a palace attendant from a wild boar. As governor of Jinan, he executed the chief culprit among powerful clans, causing such fear that the county became orderly. He declared his loyalty to duty over family. The Huns feared him so much they carved his likeness for target practice but could never hit it. Despite Emperor Jing recognizing him as a loyal minister, Empress Dowager Dou had him executed for his role in Prince Linjiang's suicide.
+
+Chunk 2: 
+original: 
+武帝即位，徙为内史。
+外戚多毁成之短，抵罪髡钳。
+是时，九卿死即死，少被刑，而成刑极，自以为不复收，及解脱，诈刻传出关归家。
+称曰： 仕不至二千石，贾不至千万，安可比人乎！
+乃贳貣陂田千余顷，假贫民，役使数千家。
+数年，会赦，致产数千万，为任侠，持吏长短，出从数十骑。
+其使民，威重于郡守。
+周阳由，其父赵兼以淮南王舅侯周阳，故因氏焉。
+由以宗家任为郎，事文帝。
+景帝时，由为郡守。
+武帝即位，吏治尚修谨，然由居二千石中最为暴酷骄恣。
+所爱者，挠法活之；所憎者，曲法灭之。
+所居郡，必夷其豪。
+为守，视都尉如令；为都尉，陵太守，夺之治。
+汲黯为忮，司马安之文恶，俱在二千石列，同车未尝敢均茵冯。
+后由为河东都尉，与其守胜屠公争权，相告言，胜屠公当抵罪，义不受刑，自杀，而由弃市。
+自甯成、周阳由之后，事益多，民巧法，大抵吏治类多成、由等矣。
+赵禹，斄人也。
+以佐史补中都官，用廉为令史，事太尉周亚夫。
+亚夫为丞相，禹为丞相史，府中皆称其廉平。
+然亚夫弗任，曰： 极知禹无害，然文深，不可以居大府。
+武帝时，禹以刀笔吏积劳，迁为御史。
+translation: 
+Emperor Wu ascended the throne and Tiao Ning became the internal historian.
+Most of the relatives slandered Ning Cheng's shortcomings to Emperor Wu, and Ning Cheng was sentenced to tweezers, his hair was shaved, and an iron ring was placed around his neck.
+At that time, those who committed crimes among the nine ministers were executed, and no other punishment was given. However, Ning Cheng was sentenced to severe punishment. Bai thought that he would not be used again, so he took off the iron ring around his neck, forged documents, sneaked out of Hangu Pass, and fled home.
+He threatened: If you can't earn two thousand dan as an official, and you can't earn tens of millions in business, how can you stand in the world!
+So he took out a loan to buy more than a thousand hectares of paddy fields, and then leased them to the poor, enslaving thousands of families.
+A few years later, when the amnesty was granted, Ning Cheng had accumulated tens of millions of property and became a chivalrous man who fought against injustice and fought against injustice. He held the officials' shortcomings and secrets in his hands and threatened them at any time. He was followed by dozens of knights guarding him when he went out.
+He served the people with greater authority than the county governor.
+Zhou Yangyou, whose father Tong Jian was named Zhou Yanghou as the uncle of the King of Huainan, changed his surname to Zhou Yang.
+Zhou Yangyou was appointed Langguan for family reasons and served Emperor Wen.
+During the reign of Emperor Jing, Zhou Yang was appointed as the county governor.
+After Emperor Wu came to the throne, officials advocated strict governance, but Zhou Yangyou was the most strict and arrogant among all the county guards.
+He would bend the law and let people live if they were friendly to him, even if they deserved death; and he would bend the law and put people to death even if they did not commit a capital crime for those he hated.
+The county where he lives as an official must eradicate all the tyrants.
+When he was appointed as the prefect, he regarded the captain as the county magistrate; once he became the captain, he placed himself above the prefect and deprived him of his legitimate power.
+Ji An was stubborn and stubborn in vain, while Sima An used his articles to hurt people. They were also among the officials at the county level, but when they were in the same car with Zhou Yangyou, they all took the initiative to avoid it and hid aside to sit.
+Later, Zhou Yangyou was appointed as the captain of Hedong, and he and the prefect of the county, Shengtu Gong, fought for power and appealed to each other. Shengtu Gong was found guilty, but he committed suicide without being severely punished, while Zhou Yangyou was executed and abandoned the market.
+Since Ning Cheng and Zhou Yangyou, the world has become more and more unstable. The people use clever methods to resist the law, and the officials are mostly similar to Ning Cheng and Zhou Yangyou.
+Zhao Yu was a native of Yaxian County.
+As an assistant historian, he was appointed as the official of Zhongdu. Because of his integrity, he was appointed as the commander of the order and served the Taiwei Zhou Yafu.
+Zhou Yafu became the prime minister, and then Yu became the prime minister. Everyone in the government praised him for being honest and fair.
+However, Zhou Yafu did not reuse him and said: I know that Yu's character and talent are extraordinary, but he is too harsh in upholding the law and cannot be entrusted with important tasks.
+During the reign of Emperor Wu, Tào Yu had accumulated achievements as a swordsman and pen official and was transferred to the imperial censor.
+
+summary:
+summary line 2: Ningcheng succeeded Zhidu as governor of Jinan, known for aggression and cruelty. After Zhidu's death, he became lieutenant and terrorized nobles. Under Emperor Wu, he was sentenced to shaving and iron collar, but escaped, became wealthy through land leasing, and wielded power greater than county governors. Zhou Yangyou was known for bending laws according to personal feelings, eradicating tyrants, and competing with superiors for power, eventually executed for his conflicts.
+
+Chunk 4: 
+original: 
+义纵自河内迁为南阳太守，闻甯成家居南阳，及至关，甯成侧行送迎，然纵气盛，弗为礼。
+至郡，遂按甯氏，破碎其家。
+成坐有罪，及孔、暴之属皆奔亡，南阳吏民重足一迹。
+而平氏朱强、杜衍杜周为纵爪牙之吏，任用，迁为廷尉史。
+军数出定襄，定襄吏民乱败，于是徙纵为定襄太守。
+纵至，掩定襄狱中重罪二百余人，及宾客昆弟私入相视者亦二百余人。
+纵一切捕鞠，曰 为死罪解脱 。
+是日皆报杀四百余人。
+郡中不寒而栗，猾民佐吏为治。
+是时，赵禹、张汤为九卿矣，然其治尚宽，辅法而行，纵以鹰击毛挚为治。
+后会更五铢钱白金起，民为奸，京师尤甚，乃以纵为右内史，王温舒为中尉。
+温舒至恶，所为弗先言纵，纵必以气陵之，败坏其功。
+其治，所诛杀甚多，然取为小治，奸益不胜，直指始出矣。
+吏之治以斩杀缚吏为务，阎奉以恶用矣。
+纵廉，其治效郅都。
+上幸鼎湖，病久，已而卒起幸甘泉，道不治。
+上怒曰： 纵以我为不行此道乎？
+衔之。
+至冬，杨可方受告缗，纵以为此乱民，部吏捕其为可使者。
+天子闻，使杜式治，以为废格沮事，弃纵市。
+后一岁，张汤亦死。
+王温舒，阳陵人也。
+少时椎埋为奸。
+已而试县亭长，数废。
+数为吏，以治狱至廷尉史。
+事张汤，迁为御史，督盗贼，杀伤甚多。
+稍迁至广平都尉，择郡中豪敢往吏十余人为爪牙，皆把其阴重罪，而纵使督盗贼，快其意所欲得。
+translation: 
+Yi Zong was transferred from Hanoi to be the prefect of Nanyang. He heard that Ning Cheng's family was in Nanyang. When he arrived at the pass, Ning Cheng had come to the roadside to greet him. However, Yi Zong was so angry that he did not salute Ning Cheng.
+As soon as he arrived in Nanyang County, he investigated the Ning family and ransacked his home.
+Ning Cheng was convicted, but the Kong family, Bao family and other powerful people fled. The officials and people in Nanyang were afraid of Yi Zong and did not dare to disobey his orders.
+Zhu Qiang of the Ping family and Du Zhou of Du Yan became Yi Zong's minions and subordinates, and were appointed and promoted to imperial officials.
+At that time, the army was transferred out of Dingxiang several times. The officials and people in Dingxiang were very chaotic and corrupt, so the court transferred Yi and appointed him as the prefect of Dingxiang.
+As soon as Yi Zong arrived, he detained more than 200 felons in Dingxiang Prison, as well as more than 200 guests and brothers who secretly visited them in the prison.
+Yi Zong arrested them all and convicted them of "death penalty".
+That day Yi Zong petitioned for permission to kill more than 400 people.
+From then on, everyone in the county trembled with fear, and even cunning and cunning people helped the officials to govern the place.
+At that time, Zhao Yu and Zhang Tang were already nine ministers, but their governance was still relatively loose. All auxiliary laws were implemented, and only Yi Zong used harsh methods like an eagle catching a parrot to govern.
+Later, with the replacement of the five-baht coin and the rise of silver, traitors and thieves were prevalent among the people, especially in the capital. The imperial court appointed Yi Zong as the right internal history and Wang Wenshu as the lieutenant.
+Wang Wenshu was very cruel and never told Yi Zong beforehand when doing things, but Yi Zong would definitely use his power to ruin his reputation.
+They governed the people and killed too many people, but they could only achieve small governance. The number of traitors and thieves increased and it was difficult to catch them.
+Officials used killing, kidnapping, and kidnapping as their main method to govern the people, so Yan Feng was appointed because of his cruelty and cruelty.
+He is righteous and honest, and his method of governing the people is based on the example of Zhidu.
+The emperor came to Dinghu. He had been ill for many days. After recovering, he drove to Ganquan, but the road had not been repaired yet.
+The emperor said angrily: "Does Yi Zong think that I will not take this path?"
+So I wrote it down.
+In winter, Yang Ke had just presided over the complaint. Yi Zong thought it was an act of chaos, so he sent officials to capture the envoy sent by Yang Ke.
+When the emperor heard about this incident, he asked Du Shi to try it, and he was convicted of infringing and abolishing Shaoshu. Yi Zong was executed and his body was abandoned in the market.
+A year later, Zhang Tang also died.
+Wang Wenshu was from Yangling.
+When he was young, he killed people with vertebrae, buried them privately, and became a thief.
+Later, he broke away from the traitorous party and became the county pavilion chief. He was deposed several times.
+After being appointed to official positions several times, Wang Wenshu was promoted to the rank of Ting Wei Shi because of his ability in managing the prison.
+Under Zhang Tang, he was transferred to the post of censor, supervising the arrest of thieves and killing many people.
+Later, he gradually rose to the rank of Captain of Guangping. He chose more than a dozen brave heroes from the county to be his minions. He concealed their serious crimes and let them supervise the arrest of thieves. Wang Wenshu was very happy because he captured the people he wanted to arrest.
+
+summary:
+summary line 3: Zhao Yu served under Zhou Yafu, who recognized his integrity but considered him too harsh for important positions. Under Emperor Wu, he helped formulate legal regulations and became known for honesty, refusing all social invitations. Yi Zong rose from banditry to become an official through his sister's connection to the Empress Dowager. He governed with daring severity, eradicating powerful families in Hanoi. As governor of Dingxiang, he executed over 400 prisoners in one day. He was eventually executed for his actions.
+
+Chunk 5: 
+original: 
+此人虽有百罪，弗法；即有避回，夷之，亦灭宗。
+以故齐赵之郊盗不敢近广平，广平声为道不拾遗。
+上闻，迁为河内太守。
+素居广平时，皆知河内豪奸之家。
+及往，以九月至，令郡具私马五十匹，为驿自河内至长安，部吏如居广平时方略，捕郡中豪猾，相连坐千余家。
+上书请，大者至族，小者乃死，家尽没入偿臧。
+奏行不过二日，得可，事论报，至流血十余里。
+河内皆怪其奏，以为神速。
+尽十二月，郡中无犬吠之盗。
+其颇不得，失之旁郡，追求，会春，温舒顿足汉曰： 嗟乎，令冬月益展一月，足吾事矣！
+其好杀行威不爱人如此。
+上闻之，以为能，迁为中尉。
+其治复放河内，徒请召猜祸吏与从事，河内则杨皆、麻戊，关中扬赣、成信等。
+义纵为内史，惮之，未敢恣治。
+及纵死，张汤败后，徙为廷尉。
+而尹齐为中尉坐法抵罪，温舒复为中尉。
+为人少文，居它惛惛不辩，至于中尉则心开。
+素习关中俗，知豪恶吏，豪恶吏尽复为用。
+吏苛察淫恶少年，投缿购告言奸，置伯落长以收司奸。
+温舒多谄，善事有势者；即无势，视之如奴。
+有势家，虽有奸如山，弗犯；无势，虽贵戚，必侵辱。
+舞文巧，请下户之猾，以动大豪。
+其治中尉如此。
+奸猾穷治，大氐尽靡烂狱中，行论无出者。
+translation: 
+Therefore, although this person has hundreds of sins, he has not been questioned or punished; but if he does not try his best to supervise the arrest and adopts an evasive attitude, he will be executed immediately and his clan will be exterminated.
+As a result, thieves from the Qi-Zhao border areas did not dare to approach Guangping, and the Guangping area began to be famous for not picking up people on the road.
+When the emperor heard about this, he transferred Wang Wenshu to be the prefect of Hanoi County.
+Wang Van Thu always lived in Quang Binh and was already aware of the home of gangsters and rapists in Ha Noi County.
+When he arrived in September, he ordered the county to prepare fifty private horses and set up post stations on the road from Hanoi to Chang'an. He also ordered the officials to use the method originally used in Guangping to arrest the powerful and traitorous people in the county. More than a thousand people were involved in each other and were guilty.
+Then he reported to the court, requesting that those who committed the most serious crimes should have their clan destroyed, those who had committed the minor crimes personally be put to death, and all their family possessions should be confiscated.
+Only two days after the memorial was sent, the news of the accurate memorial was received, and the execution was carried out according to the order, causing the blood of the murdered person to flow for more than ten miles.
+The people in Hanoi were surprised by this performance and thought it was so fast.
+By the end of December, there were no traces of thieves in the county.
+The thieves could not be caught because they all fled to neighboring counties, and they sent people to hunt for them in neighboring counties. However, it was already the spring season. Wang Wenshu paused and sighed: What a pity, what a pity! If the winter season is extended for another month and all thieves are wiped out, it will be done!
+This shows how far he has reached in terms of his cruelty, love of killing, and lack of benevolent governance.
+The emperor heard about Wang Wenshu and thought he was talented, so he transferred him to lieutenant.
+Its governance was modeled after Hanoi County, and some officials who were prone to suspicion and trouble were summoned and appointed. In Hanoi County, there were Yang Jie and Ma Wu, and in Guanzhong, there were Yang Gan, Cheng Xin, etc.
+Yi Zong served as internal history, and Wang Wenshu was afraid of him, so he did not dare to impose tyranny.
+After Yi Zong died and Zhang Tang was defeated, Wang Wenshu was transferred to Tingwei.
+However, when Yin Qi was charged with breaking the law while serving as lieutenant, Wang Wenshu was appointed as lieutenant again.
+He lacked literary talent and was often absent-minded and indifferent to official duties when holding other official positions. However, he became energetic after becoming a lieutenant.
+He had always been familiar with the customs of Guanzhong and had many acquaintances with the abominable officials. Therefore, after he became a lieutenant, all the abominable officials were re-appointed.
+The officials strictly inspected the promiscuous young people, set up reporting gates to collect reports, and set up officials and chiefs of the towns to arrest the traitors.
+Wang Wenshu loves flattery and is very good at flattering and winning over powerful people; but he treats powerless people like slaves.
+To powerful people, even if they have adultery, they will not offend; to powerless people, even if they are noble relatives, they will be insulted.
+He was cunning and deceitful, and he once petitioned to punish lawless elements among the common people, and used his satire to impress wealthy families.
+It can be seen how smooth his ruling skills have been.
+Those cunning and lawless people were thoroughly punished, and most of them died in prison, and very few of them came out.
+
+summary:
+summary line 4: Wang Wenshu began as a thief but became an official known for managing prisons. As governor of Guangping, he recruited brave men as informants, concealing their crimes while executing those who failed him. As governor of Hanoi, he arrested over a thousand people, executing the worst and confiscating property, with blood flowing for miles. He regretted that winter ended before he could eliminate all thieves. He became lieutenant but committed suicide when facing execution for his crimes, with his entire family executed.
+
+Chunk 6: 
+original: 
+其爪牙吏虎而冠。
+于是中尉部中中猾以下皆伏，有势者为游声誉，称治。
+数岁，其吏多以权贵富。
+温舒击东越还，议有不中意，坐以法免。
+是时，上方欲作通天台而未有人，温舒请复中尉脱卒，得数万人作。
+上说，拜为少府。
+徙右内史，治如其故，奸邪少禁。
+坐法失官，复为右辅，行中尉，如故操。
+岁余，会宛军发，诏征豪吏。
+温舒匿其吏华成，及人有变告温舒受员骑钱，它奸利事，罪至族，自杀。
+其时，两弟及两婚家亦各自坐它罪而族。
+光禄勋徐自为曰： 悲夫！
+夫古有三族，而王温舒罪至同时而五族乎！
+温舒死，家累千金。
+尹齐，东郡茌平人也。
+以刀笔吏稍迁至御史。
+事张汤，汤数称以为廉。
+武帝使督盗贼，斩伐不避贵势。
+迁关都尉，声甚于甯成。
+上以为能，拜为中尉。
+吏民益凋敝，轻齐木强少文，豪恶吏伏匿而善吏不能为治，以故事多废，抵罪。
+后复为淮阳都尉。
+王温舒败后数年，病死，家直不满五十金。
+所诛灭淮阳甚多，及死，仇家欲烧其尸，妻亡去，归葬。
+杨仆，宜阳人也。
+以千夫为吏。
+河南守举为御史，使督盗贼关东，治放尹齐，以敢击行。
+稍迁至主爵都尉，上以为能。
+南越反，拜为楼船将军，有功，封将梁侯。
+东越反，上欲复使将，为其伐前劳，以书敕责之曰： 将军之功，独有先破石门、寻狭，非有斩将骞旗之实也，乌足以骄人哉！
+前破番禺，捕降者以为虏，掘死人以为获，是一过也。
+建德、吕嘉逆罪不容于天下，将军拥精兵不穷追，超然以东越为援，是二过也。
+士卒暴露连岁，为朝会不置酒，将军不念其勤劳，而造佞巧，请乘传行塞，因用归家，怀银黄，垂三组，夸乡里，是三过也。
+失期内顾，以道恶为解，失尊尊之序，是四过也。
+欲请蜀刀，问君贾几何，对曰率数百，武库日出兵而阳不知，挟伪干君，是五过也。
+受诏不至兰池宫，明日又不对。
+假令将军之吏问之不对，令之不从，其罪何如？
+推此心以在外，江海之间可得信乎！
+translation: 
+Wang Wenshu's minions and subordinates are all like wolves and tigers.
+As a result, all the cunning thieves below the average level in the lieutenant's jurisdiction were brought to justice, and the powerful tycoons praised him and praised him for his ability to govern the people.
+A few years later, all of his petty officials became rich thanks to the protection of powerful people.
+Wang Wenshu came back from the attack on Shuyue. When he discussed political affairs, he went against the emperor's will, so he was dismissed from office.
+At this time, the emperor just wanted to build the Tongtian Tower but lacked manpower. Wang Wenshu petitioned to call all the outstanding soldiers who were former lieutenants, and obtained tens of thousands of manpower in total.
+The emperor was very happy and appointed Wang Wenshu as the young master.
+Later, he was transferred to You Neishi, but his governance remained the same, and the number of cunning and evil people was reduced until they were completely banned.
+Later, he was dismissed from office because of his conviction. After his comeback, he served as right assistant and concurrently as lieutenant, and his conduct remained the same as before.
+More than a year later, when the imperial court sent troops to conquer Dawan, the emperor issued an edict to recruit powerful officials.
+Wang Wenshu hid his powerful official Hua Cheng, and someone reported that Wang Wenshu secretly accepted dirty money from soldiers and did other illegal things. The crime should be punished by the clan. Wang Wenshu could not bear this blow, so he committed suicide out of fear of the crime.
+At that time, Wang Wenshu's two younger brothers and his wife's entire family were also executed together as a clan for his crimes.
+Guang Luxun Xu Ziwei said: How sad! How sad!
+In ancient times, there was a plan to exterminate three tribes, but Wang Wenshu actually committed the crime of annihilating five tribes at the same time!
+After Wang Wenshu's death, his family property was worth thousands of gold.
+Yin Qi is from Chiping County, Dongjun.
+Officials with swords and pens were gradually promoted to censors.
+Working under Zhang Tang, Zhang Tang praised him many times for his integrity.
+Emperor Wu sent him to supervise thieves. He killed and eradicated thieves without fearing their fame and power.
+Later he was transferred to Guandu Lieutenant, and his reputation surpassed that of Ning Cheng.
+The emperor thought he had talent and appointed him lieutenant.
+However, the situation of the officials and the people was deteriorating. The world was hypocritical and untrue. Yiqi Muqiang was looked down upon for his lack of literary talent. Evil officials refused to take up their posts. Good officials were incapable of managing affairs. Yin Qi was also accused because most of his duties were neglected.
+Later he came back and became the captain of Huaiyang.
+A few years after Wang Wenshu's defeat, Yin Qi fell ill and died, leaving behind less than fifty gold.
+Because he killed too many people in Huaiyang, after his death, his enemies wanted to burn his body to satisfy their hatred, so his wife fled with the body and was able to bury him.
+Yang Pu is from Yiyang.
+Because thousands of people donated money and grain, he became a minor official.
+Later, the governor of Henan recommended him as a censor and was sent to Guandong to supervise thieves. He imitated Yi Qi in governance and was daring to do anything.
+Gradually promoted to Lord Commander, the emperor thought he had talent.
+South Vietnam rebelled, and Yang Pu was appointed General Lou Chuan. For his meritorious service, he was awarded the title of General Liang Hou.
+Later, Shu Yue rebelled again, and the emperor wanted to appoint him as a general again. Because he was relying on his previous achievements in vain, he issued an edict to reprimand him: Your achievements as a general are only the first to capture dangerous places such as Shimen and Xunjun. There is no real military merit in killing generals and flags. What is there to be proud of?
+The first mistake was to conquer Panyu, capture the surrendered people as prisoners, and exhume the dead as harvest.
+The rebellion committed by King Jiande of South Vietnam and Prime Minister Lu Jia is intolerable in heaven and earth. General, you have elite troops and did not pursue them to the end, allowing Shu Yue to calmly send troops to rescue. This is the second fault.
+The sergeants and soldiers of the army have been exposed to the rain for years, and there is no wine to drink in the court meetings. General, you do not appreciate their hard work, but make clever words to show off yourself. When you return to your hometown, you carry three groups of silver and gold seals. Showing off in the countryside is the third fault.
+Because he was greedy for keeping his wife and concubines home late, he excused himself by saying that the road was dangerous. This violated the ancestral etiquette, which was the fourth fault.
+If you want to be equipped with a Shu knife, I ask you how much it costs, and the answer is hundreds of dollars. Weapons are coming in and out of the weapons warehouse every day, but you pretend not to know. This is the fifth fault.
+After receiving the edict, he did not come to Lanchi Palace to see you, and he did not come to explain later.
+If, general, your subordinates refuse to answer questions or obey orders, how should you punish them?
+Just imagine if everyone is like this, how can there be any trust between heaven and earth?
+
+summary:
+summary line 5: Yan Yannian served as governor of Zhuojun and Henan, known for suppressing powerful families while protecting the poor and weak. He executed dozens from powerful clans, earning the nickname "Butcher." His mother rebuked him for relying on killing rather than kindness, predicting retribution. She returned home to prepare his burial place, and indeed he was later executed for his crimes. Yin Shang, as magistrate of Chang'an, built "Tiger Caves" - deep pits where he threw hundreds of criminals to die. He warned his children that being dismissed for cruelty was preferable to being dismissed for weakness.
+
+Chunk 15: 
+original: 
+慎毋然！
+赏四子皆至郡守，长子立为京兆尹，皆尚威严，有治办名。
+赞曰： 自郅都以下皆以酷烈为声，然都抗直，引是非，争大体。
+张汤以知阿邑人主，与俱上下，时辩当否，国家赖其便。
+赵禹据法守正。
+杜周从谀，以少言为重。
+张汤死后，罔密事丛，浸以耗废，九卿奉职，救过不给，何暇论绳墨之外乎！
+自是以至哀、平，酷吏众多，然莫足数，此其知名见纪者也。
+其廉者足以为仪表，其污者方略教道，一切禁奸，亦质有文武焉。
+虽酷，称其位矣。
+汤、周子孙贵盛，故别传。
+translation: 
+Please be careful and don’t neglect your duties!
+Yin Shang's four sons all became officials and became county guards, and the eldest son Yin Li became a Jingzhao Yin. They all respected majesty and had a reputation for being good at governance.
+Zan said: The recorded masters from Zhidu on down were all famous for their harshness and violence. However, Zhidu was upright, knew right from wrong, and understood the general picture.
+However, Zhang Tang flattered the monarch and was valued for his appearance and deeds. He often used clever words to stir up trouble and made the trend of flattery prevail in the country.
+Yu acted according to the law and strictly observed justice.
+Du Zhou was obedient to flattery, and it was important to speak less in everything.
+After Zhang Tang's death, the law was strict and troubled, and the country became increasingly chaotic and desolate. The nine ministers were busy rescuing and fighting the chaos, so they had no time to discuss matters other than the rule of law!
+From then until the reigns of Emperor Ai and Emperor Ping, there were many cruel officials, but it is impossible to count them. Here we only select the famous ones and see them in the records.
+Among them, those who are honest can serve as examples, while those who are dirty may have strategies and education, or may have the courage to punish traitors and thieves, and may also have literary talents and military strategies.
+Although they are harsh, they are capable of doing their jobs.
+The descendants of Zhang Tang and Du Zhou were famous and prosperous, so they were recorded in separate biographies.
+
+summary:
+summary line 6: The text concludes that while these officials were harsh, some were upright and understood principles, while others flattered monarchs and stirred trouble. Their descendants became prominent, recorded in separate biographies.
+

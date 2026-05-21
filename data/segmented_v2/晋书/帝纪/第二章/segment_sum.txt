@@ -1,0 +1,356 @@
+Summary uses chunk [0, 0, 1, 5, 5, 14]
+
+Chunk 0: 
+original: 
+景皇帝讳师，字子元，宣帝长子也。
+雅有风彩，沈毅多大略。
+少流美誉，与夏侯玄、何晏齐名。
+晏常称曰： 惟几也能成天下之务，司马子元是也。
+魏景初中，拜散骑常侍，累迁中护军。
+为选用之法，举不越功，吏无私焉。
+宣穆皇后崩，居丧以至孝闻。
+宣帝之将诛曹爽，深谋秘策，独与帝潜画，文帝弗之知也。
+将发夕乃告之，既而使人觇之，帝寝如常，而文帝不能安席。
+晨会兵司马门，镇静内外，置阵甚整。
+宣帝曰： 此子竟可也。
+初，帝阴养死士三千，散在人间，至是一朝而集，众莫知所出也。
+事平，以功封长平乡侯，食邑千户，寻加卫将军。
+及宣帝薨，议者咸云 伊尹既卒，伊陟嗣事 ，天子命帝以抚军大将军辅政。
+魏嘉平四年春正月，迁大将军，加侍中，持节、都督中外诸军、录尚书事。
+命百官举贤才，明少长，恤穷独，理废滞。
+诸葛诞、毌丘俭、王昶、陈泰、胡遵都督四方，王基、州泰、邓艾、石苞典州郡，卢毓、李丰裳选举，傅嘏、虞松参计谋，钟会、夏侯玄、王肃、陈本、孟康、赵酆、张缉预朝议，四海倾注，朝野肃然。
+或有请改易制度者，帝曰：  不识不知，顺帝之则 ，诗人之美也。
+三祖典制，所宜遵奉；自非军事，不得妄有改革。
+五年夏五月，吴太傅诸葛恪围新城，朝议虑其分兵以寇淮泗，欲戍诸水口。
+帝曰： 诸葛恪新得政于吴，欲徼一时之利，并兵合肥，以冀万一，不暇复为青徐患也。
+且水口非一，多戍则用兵众，少戍则不足以御寇。
+translation: 
+Emperor Jing's famous teacher, named Ziyuan, was the eldest son of Emperor Xuan.
+Elegant and charming, calm and perseverant, with far-reaching strategies.
+When he was young, he had a good reputation and was as famous as Xia Houxuan and He Yan.
+He Yan often said: Sima Ziyuan is the one who can achieve great things in the world.
+During the early years of Wei Jingchu, he served as a regular servant of Sanqi and was promoted to the rank of Central Protector for many times.
+Formulate methods for selecting talents, promote people without exceeding their merits, and officials have no selfish feelings.
+When Queen Xuanmu passed away, Emperor Jing was famous for his extreme filial piety in mourning.
+When Emperor Xuan was about to kill Cao Shuang, he planned carefully and secretly with Emperor Jing alone. Emperor Wen didn't know what was going on and only told him the night before he was about to take action.
+Afterwards, someone was sent to spy on him. Emperor Jing fell asleep as usual, but Emperor Wen could not sleep peacefully.
+In the early morning, the troops gathered at Simamen. Emperor Jing was calm both inside and outside, and the arrangements were very strict.
+Emperor Xuan said: This son is really good after all.
+At the beginning, Emperor Jing secretly took in three thousand scholars who were not afraid of death and scattered them among the people. When they arrived, they gathered them together in one morning. No one knew where these people came from.
+After the incident subsided, because of his meritorious service, he was granted the title of Marquis of Changping Township, with a population of 1,000 households, and was later granted the title of General of Wei.
+When Emperor Xuan died, people who discussed politics said: Yi Yin is dead, and Yi Zhi will inherit the business. The emperor appointed Emperor Jing as the general of the Fu army to assist in government affairs.
+In the spring and first month of the fourth year of Wei Jiaping's reign, he was promoted to general and granted the title of Shizhong. He held the title of Commander-in-Chief, commanded all the Chinese and foreign armies, and recorded affairs of the Shangshu.
+Order the officials to recommend talents, clarify the hierarchy between the young and the elderly, sympathize with the poor and lonely, and clean up those who have been abandoned.
+Zhuge Dan, Mu Qiujian, Wang Chang, Chen Tai, and Hu Zun were appointed governors of the four directions; Wang Ji, Zhou Tai, Deng Ai, and Shi Bao were in charge of the prefectures and counties; Lu Yu and Li Feng were in charge of elections; Fu Gu and Yu Song participated in making plans; Zhong Hui, Xia Houxuan, Wang Su, Chen Ben, Meng Kang, Tan Feng, and Zhang Ji participated in the court meetings. They were admired by all the people and respected inside and outside the court.
+Occasionally, there were people who asked for changes in the system. Emperor Jing said: "As if you don't know anything, you obey the laws of God and do it. This is what the poet praises."
+The rules and regulations of three generations of ancestors should be observed; unless there is a war, they cannot be changed at will.
+In the summer and May of the fifth year, Zhuge Ke, the Taifu of Wu State, besieged Xincheng. The court was worried that he would divide his troops to invade Huaisi and planned to guard various waterway ports.
+Emperor Jing said: Zhuge Ke had recently gained power in Wu State, and wanted to seek temporary benefits. He gathered his troops in Hefei, hoping that he would succeed by luck and had no energy to cause trouble in Qingxu.
+Besides, there is not one waterway port. If there are more guards, more troops will be needed. If there are fewer guards, it will not be enough to defend against the enemy.
+
+summary:
+summary line 0: Emperor Jing, named Ziyuan, was the eldest son of Emperor Xuan. He was elegant, calm, and strategic, renowned from youth alongside Xia Houxuan and He Yan. He Yan once said he would achieve great things. Serving as a regular servant of Sanqi in the early Wei Jingchu period, he was promoted to Central Protector, where he formulated talent selection methods without bias. After Queen Xuanmu's death, he showed extreme filial piety. When Emperor Xuan planned to kill Cao Shuang, he secretly strategized with Emperor Jing alone, keeping Emperor Wen unaware until the night before action. A spy found Emperor Jing sleeping calmly, while Emperor Wen could not rest. At dawn, troops gathered at Simamen, and Emperor Jing's calm arrangements impressed Emperor Xuan, who praised him. He had secretly gathered three thousand fearless scholars, who assembled unnoticed. After the incident, he was made Marquis of Changping Township with 1,000 households and later General of Wei. Upon Emperor Xuan's death, he became General of the Fu army to assist in governance.
+
+Chunk 0: 
+original: 
+景皇帝讳师，字子元，宣帝长子也。
+雅有风彩，沈毅多大略。
+少流美誉，与夏侯玄、何晏齐名。
+晏常称曰： 惟几也能成天下之务，司马子元是也。
+魏景初中，拜散骑常侍，累迁中护军。
+为选用之法，举不越功，吏无私焉。
+宣穆皇后崩，居丧以至孝闻。
+宣帝之将诛曹爽，深谋秘策，独与帝潜画，文帝弗之知也。
+将发夕乃告之，既而使人觇之，帝寝如常，而文帝不能安席。
+晨会兵司马门，镇静内外，置阵甚整。
+宣帝曰： 此子竟可也。
+初，帝阴养死士三千，散在人间，至是一朝而集，众莫知所出也。
+事平，以功封长平乡侯，食邑千户，寻加卫将军。
+及宣帝薨，议者咸云 伊尹既卒，伊陟嗣事 ，天子命帝以抚军大将军辅政。
+魏嘉平四年春正月，迁大将军，加侍中，持节、都督中外诸军、录尚书事。
+命百官举贤才，明少长，恤穷独，理废滞。
+诸葛诞、毌丘俭、王昶、陈泰、胡遵都督四方，王基、州泰、邓艾、石苞典州郡，卢毓、李丰裳选举，傅嘏、虞松参计谋，钟会、夏侯玄、王肃、陈本、孟康、赵酆、张缉预朝议，四海倾注，朝野肃然。
+或有请改易制度者，帝曰：  不识不知，顺帝之则 ，诗人之美也。
+三祖典制，所宜遵奉；自非军事，不得妄有改革。
+五年夏五月，吴太傅诸葛恪围新城，朝议虑其分兵以寇淮泗，欲戍诸水口。
+帝曰： 诸葛恪新得政于吴，欲徼一时之利，并兵合肥，以冀万一，不暇复为青徐患也。
+且水口非一，多戍则用兵众，少戍则不足以御寇。
+translation: 
+Emperor Jing's famous teacher, named Ziyuan, was the eldest son of Emperor Xuan.
+Elegant and charming, calm and perseverant, with far-reaching strategies.
+When he was young, he had a good reputation and was as famous as Xia Houxuan and He Yan.
+He Yan often said: Sima Ziyuan is the one who can achieve great things in the world.
+During the early years of Wei Jingchu, he served as a regular servant of Sanqi and was promoted to the rank of Central Protector for many times.
+Formulate methods for selecting talents, promote people without exceeding their merits, and officials have no selfish feelings.
+When Queen Xuanmu passed away, Emperor Jing was famous for his extreme filial piety in mourning.
+When Emperor Xuan was about to kill Cao Shuang, he planned carefully and secretly with Emperor Jing alone. Emperor Wen didn't know what was going on and only told him the night before he was about to take action.
+Afterwards, someone was sent to spy on him. Emperor Jing fell asleep as usual, but Emperor Wen could not sleep peacefully.
+In the early morning, the troops gathered at Simamen. Emperor Jing was calm both inside and outside, and the arrangements were very strict.
+Emperor Xuan said: This son is really good after all.
+At the beginning, Emperor Jing secretly took in three thousand scholars who were not afraid of death and scattered them among the people. When they arrived, they gathered them together in one morning. No one knew where these people came from.
+After the incident subsided, because of his meritorious service, he was granted the title of Marquis of Changping Township, with a population of 1,000 households, and was later granted the title of General of Wei.
+When Emperor Xuan died, people who discussed politics said: Yi Yin is dead, and Yi Zhi will inherit the business. The emperor appointed Emperor Jing as the general of the Fu army to assist in government affairs.
+In the spring and first month of the fourth year of Wei Jiaping's reign, he was promoted to general and granted the title of Shizhong. He held the title of Commander-in-Chief, commanded all the Chinese and foreign armies, and recorded affairs of the Shangshu.
+Order the officials to recommend talents, clarify the hierarchy between the young and the elderly, sympathize with the poor and lonely, and clean up those who have been abandoned.
+Zhuge Dan, Mu Qiujian, Wang Chang, Chen Tai, and Hu Zun were appointed governors of the four directions; Wang Ji, Zhou Tai, Deng Ai, and Shi Bao were in charge of the prefectures and counties; Lu Yu and Li Feng were in charge of elections; Fu Gu and Yu Song participated in making plans; Zhong Hui, Xia Houxuan, Wang Su, Chen Ben, Meng Kang, Tan Feng, and Zhang Ji participated in the court meetings. They were admired by all the people and respected inside and outside the court.
+Occasionally, there were people who asked for changes in the system. Emperor Jing said: "As if you don't know anything, you obey the laws of God and do it. This is what the poet praises."
+The rules and regulations of three generations of ancestors should be observed; unless there is a war, they cannot be changed at will.
+In the summer and May of the fifth year, Zhuge Ke, the Taifu of Wu State, besieged Xincheng. The court was worried that he would divide his troops to invade Huaisi and planned to guard various waterway ports.
+Emperor Jing said: Zhuge Ke had recently gained power in Wu State, and wanted to seek temporary benefits. He gathered his troops in Hefei, hoping that he would succeed by luck and had no energy to cause trouble in Qingxu.
+Besides, there is not one waterway port. If there are more guards, more troops will be needed. If there are fewer guards, it will not be enough to defend against the enemy.
+
+summary:
+summary line 1: In the fourth year of Wei Jiaping, he was promoted to general and Shizhong, commanding all armies and recording affairs of the Shangshu. He ordered officials to recommend talents, clarify hierarchies, and aid the poor. He appointed governors like Zhuge Dan and Mu Qiujian, and officials like Wang Ji and Deng Ai, earning admiration. When asked about system changes, he advocated following ancestral laws unless war necessitated change. In the fifth year, Wu's Zhuge Ke besieged Xincheng. Emperor Jing predicted he would concentrate forces in Hefei, not trouble Qingxu, and advised against excessive guards. He sent General Guanqiu Jian and others to resist, ordering high forts for defense. After months, Zhuge Ke's forces were exhausted, and Emperor Jing's counterattack killed over 10,000 enemies.
+
+Chunk 1: 
+original: 
+恪果并力合肥，卒如所度。
+帝于是使镇东将军毌丘俭、扬州刺史文钦等距之。
+俭、钦请战，帝曰： 恪卷甲深入，投兵死地，其锋未易当。
+且新城小而固，攻之未可拔。
+遂命诸将高垒以弊之。
+相持数月，恪攻城力屈，死伤太半。
+帝乃敕钦督锐卒趋合榆，要其归路，俭帅诸将以为后继。
+恪惧而遁，钦逆击，大破之，斩首万余级。
+正元元年春正月，天子与中书令李丰、后父光禄大夫张缉、黄门监苏铄、永宁署令乐敦、冗从仆射刘宝贤等谋以太常夏侯玄代帝辅政。
+帝密知之，使舍人王羡以车迎丰。
+丰见迫，随羡而至，帝数之。
+丰知祸及，因肆恶言。
+帝怒，遣勇士以刀镮筑杀之。
+逮捕玄、缉等，皆夷三族。
+三月，乃讽天子废皇后张氏，因下诏曰： 奸臣李丰等靖谮庸回，阴构凶慝。
+大将军纠虔天刑，致之诛辟。
+周勃之克吕氏，霍光之擒上官，曷以过之。
+其增邑九千户，并前四万。
+帝让不受。
+天子以玄、缉之诛，深不自安。
+而帝亦虑难作，潜谋废立，乃密讽魏永宁太后。
+秋九月甲戌，太后下令曰： 皇帝春秋已长，不亲万机，耽淫内宠，沈嫚女德，日近倡优，纵其丑虐，迎六宫家人留止内房，毁人伦之叙，乱男女之节。
+又为群小所迫，将危社稷，不可承奉宗庙。
+帝召群臣会议，流涕曰： 太后令如是，诸君其如王室何？
+咸曰： 伊尹放太甲以宁殷，霍光废昌邑以安汉，权定社稷，以清四海。
+二代行之于古，明公当之于今，今日之事，惟命是从。
+translation: 
+Zhuge Ke indeed concentrated his troops in Hefei, just as Emperor Jing had speculated.
+Emperor Jing sent General Guanqiu Jian, the general of Zhendong, Sai Zhen, the governor of Nuosu, and others to resist the enemy.
+Dan Qiu Jian and Sai Zhen requested to go out to fight. Emperor Jing said: Zhuge Ke went all out to penetrate our side and put the army in danger. Their sharp edge was difficult to withstand.
+Besides, the new city is small and strong, making it difficult for enemy troops to attack.
+So he ordered the generals to build high forts to defend.
+After several months of stalemate, Zhuge Ke's siege force was exhausted, and more than half of his troops were killed or injured.
+Emperor Jing ordered Governor Wen Lian to lead his elite troops to Heyu to intercept the enemy's retreat, and Wu Danjun led the generals as his successors.
+Jiang prisoner fled out of fear. Sai Xun went up to attack and defeated the enemy army, killing more than 10,000 enemies.
+In the spring and first month of the first year of the fifth year, the emperor and Zhongshu Ling Li Feng, the Queen's father Guanglu doctor Zhang Ji, Huangmen Supervisor Su Shuo, Yongning Department Ling Leqian, red servant Liu Zhili and others planned to use Taichang Xing Lou Sai to replace Emperor Jing to assist the government.
+Emperor Jing secretly knew about this and sent Wang Xian, his minister, to greet Kuifeng in his car.
+Kuifeng was forced to follow Wang Dong to see Ji Tong, who listed his sins.
+Kuifeng knew that disaster was coming, so he insulted him wantonly.
+Emperor Jing was angry and sent warriors to beat him to death with sword-tipped darts.
+The arrest of Xia Houxuan, Zhang Ji and others reduced the number of three clans.
+In March, he politely advised the emperor to depose Queen Zhang. The emperor then issued an edict saying: The treacherous official Li Feng and others are accustomed to listening to slander, using evil and evil, and secretly plotting evil.
+The general inspector worshiped the laws of heaven and put them under the criminal law.
+Zhou Bo surrendered to the Lu family, and Huo Guang captured Shangxuan's achievements, which are difficult to surpass.
+9,000 additional households were added to the general's food estates, adding to the previous total of 40,000 households.
+Emperor Jing declined and refused to accept.
+The emperor felt deeply unsafe because Xia Houxuan and Zhang Ji were executed.
+Liangcha was also worried about causing disaster and secretly planned to depose and re-establish the emperor, so he secretly advised the Empress Dowager Wei Yongning in a polite way.
+In Jiaxu, the ninth month of autumn, the Empress Dowager issued an order: The emperor was too old to manage the complicated government affairs himself. He indulged in favors from the inner palace, indulged in lewdness, approached actors and actresses every day, indulged their ugly behavior, welcomed the concubine's family to stay in the inner palace, destroyed the morality between people, and disturbed the moral integrity of men and women.
+He was coerced by a group of villains and was about to endanger the country, so he could not continue to worship the ancestral temple.
+Emperor Jing convened a gathering of ministers for discussion, and said with tears: "The Queen Mother's order is this, what should we do with the royal family?"
+The ministers all said: Yi Yin exiled Taijia to bring peace to Yin, Huo Guang deposed the king of Changyi to bring peace to Mo, weighed the priorities, stabilized the country, and brought peace to the world.
+The Yin and Han dynasties did this in ancient times, and Ming Gong should do the same today. All matters today must be obeyed by Ming Gong's orders.
+
+summary:
+summary line 2: In the first year of the fifth year, Li Feng, Zhang Ji, and others plotted to replace Emperor Jing. He secretly knew, forced Li Feng to confess, and had him beaten to death. Xia Houxuan and Zhang Ji were arrested, and their three clans were reduced. He advised deposing Queen Zhang, and the emperor added 9,000 households to his estate, totaling 40,000, but he declined. After Xia Houxuan's execution, the emperor felt unsafe. Emperor Jing, fearing disaster, secretly advised the Empress Dowager to depose the emperor. In autumn, the Empress Dowager issued an order citing the emperor's misconduct. Emperor Jing convened ministers, who supported deposition. He deposed the emperor as King of Qi, killing his associates. He proposed King Pengcheng as successor, but the Empress Dowager chose Cao Mao, Duke of Gaogui Township. Emperor Jing reluctantly agreed, but worried when the new emperor showed laziness. He advised the emperor on proper conduct.
+
+Chunk 5: 
+original: 
+初，帝目有瘤疾，使医割之。
+鸯之来攻也，惊而目出。
+惧六军之恐，蒙之以被，痛甚，啮被败而左右莫知焉。
+闰月疾笃，使文帝总统诸军。
+辛亥，崩于许昌，时年四十八。
+二月，帝之丧至自许昌，天子素服临吊，诏曰： 公有济世宁国之勋，克定祸乱之功，重之以死王事，宜加殊礼。
+其令公卿议制。
+有司议以为忠安社稷，功济宇内，宜依霍光故事，追加大司马之号以冠大将军，增邑五万户，谥曰武公。
+文帝表让曰： 臣亡父不敢受丞相相国九命之礼，亡兄不敢受相国之位，诚以太祖常所阶历也。
+今谥与二祖同，必所祗惧。
+昔萧何、张良、霍光咸有匡佐之功，何谥文终，良谥文成，光谥宣成必以文武为谥，请依何等就加。
+诏许之，谥曰忠武。
+晋国既建，追尊曰景王。
+武帝受禅，上尊号曰景皇帝，陵曰峻平，庙称世宗。
+文皇帝讳昭，字子上，景帝之母弟也。
+魏景初二年，封新城乡侯。
+正始初，为洛阳典农中郎将。
+值魏明奢侈之后，帝蠲除苛碎，不夺农时，百姓大悦。
+转散骑常侍。
+大将军曹爽之伐蜀也，以帝为征蜀将军，副夏侯玄出骆谷，次于兴势。
+蜀将王林夜袭帝营，帝坚卧不动。
+林退，帝谓玄曰： 费祎以据险距守，进不获战，攻之不可，宜亟旋军，以为后图。
+爽等引旋，祎果驰兵趣三岭，争险乃得过。
+遂还，拜议郎。
+及诛曹爽，帅众卫二宫，以功增邑千户。
+蜀将姜维之寇陇右也，征西将军郭淮自长安距之。
+进帝位安西将军、持节，屯关中，为诸军节度。
+淮攻维别将句安于麹，久而不决。
+translation: 
+At first, Emperor Jing had a tumor on his eye and asked the doctor to remove it.
+When Saizu attacked, Liangtong's eyes went in and out due to fright.
+Afraid that the Sixth Army would panic, they covered their heads with a quilt. The pain was so unbearable that they bit the quilt to pieces, but no one around them knew about it.
+In the leap month, the illness worsened, and Saitong was asked to take charge of the army.
+He died in Xuchang in Xinhai at the age of forty-eight.
+In February, Jitong's funeral carriage arrived in Kyoto from Zhudan. The emperor came to mourn in person in plain clothes.
+Order the ministers to discuss the funeral arrangements.
+Relevant officials discussed that Emperor Jing's loyalty had stabilized the country and his achievements had saved the world, so Huo Guang's precedent should be followed. The title of Grand Sima was added in front of the General, and fifty thousand households were added to the city, and Mi was given the title of Duke Wu.
+Emperor Wen expressed his resignation and said: My late father did not dare to accept the courtesy of Prime Minister Xiang Guo Jiu Ming, and my late brother did not dare to accept the high position of Xiang Guo, all because Taizu once served as prime minister.
+Now that the title of Mi is the same as that of Emperor Wu and Emperor Wen, it must be frightening.
+In the past, Xiao He, Zhang Liang, and Huo Guang all contributed to saving the situation and assisting the monarch. Xiao He's nickname was Wen Zhong, Zhang Liang's nickname was Wencheng, and Huo Guang's nickname was Xuancheng. If you must use Wenwu as your nickname, please follow the precedents of Xiao He and others when adding gifts.
+The emperor agreed to the edict and named Mi Zhongwu.
+After the establishment of Jin State. The additional honorary title is King Jing.
+Emperor Wu accepted the concession and was honored as Emperor Jing, the mountain mausoleum was called Junping, and the ancestral temple was called Shizong.
+Emperor Wen, whose name is Zishang, is the half-brother of Emperor Jing.
+In the second year of Wei Jingchu's reign, he was granted the title of Xincheng Rural Marquis.
+In the early years of Zhengshi, he was appointed as the lieutenant general of Diannong in Luoyang.
+It was the late period of Emperor Wei Ming's extravagant style. Emperor Wen exempted him from harsh and cumbersome conditions and did not take up farming time. The people were very happy.
+He was transferred to serve as a regular attendant of Sanqi.
+When the general Cao Shuang was conquering Shu, he appointed Emperor Wen as the general to conquer Shu. As Xia Houxuan's deputy, he sent troops to Luo Valley and stationed himself in Xingshi.
+Shu general Wang Lin attacked Emperor Wen's camp at night, but Emperor Wen lay motionless.
+Wang Lin retreated, and Emperor Wen said to Xia Houxuan: Fei Zhang occupied a dangerous position to resist and hold on. We can't fight if we advance, and we can't attack by force. We should return to the army as soon as possible and think about it later.
+Cao Shuang and others led their troops to retreat, and as expected, Fei Zhang led his troops to pursue them straight to the Three Ridges. After a battle and many obstacles, the Wei army was able to pass.
+So he returned to the court and paid homage to Yilang.
+When Cao Shuang was executed, he led the people to defend the second palace. Due to his meritorious service, he gained an additional 1,000 households.
+When Shu general Jiang Wei invaded Longxi, General Guo Huai sent troops from Chang'an to defend against the enemy.
+Emperor Wen was promoted to the general of Anxi and held a festival, and he stationed troops in Guanzhong to control the military affairs.
+Guo Huai attacked Jiang Wei's deputy general Ju'an in Qudi, and the outcome was indecisive for a long time.
+
+summary:
+summary line 3: The emperor later issued an edict praising Emperor Jing's virtues and granting him the title of Prime Minister, adding 9,000 households, totaling 40,000, with honors like wearing swords in court. Emperor Jing resigned from the prime ministership and advised the emperor to study and be simple. The emperor accepted. In the second year, Mu Qiujian and Wen Qin rebelled, crossing the Huaihe River with 60,000 troops. Emperor Jing led over 100,000 troops to conquer, using strategy to avoid direct conflict. He sent generals to cut off retreat, and the rebels were defeated. Wen Qin fled, and Mu Qiujian was killed. Emperor Jing, suffering from an eye tumor, endured pain during the campaign, hiding it from his troops. He died in Xuchang at age 48. His funeral followed Huo Guang's precedent, and he was posthumously named Duke Wu, later Emperor Jing.
+
+Chunk 5: 
+original: 
+初，帝目有瘤疾，使医割之。
+鸯之来攻也，惊而目出。
+惧六军之恐，蒙之以被，痛甚，啮被败而左右莫知焉。
+闰月疾笃，使文帝总统诸军。
+辛亥，崩于许昌，时年四十八。
+二月，帝之丧至自许昌，天子素服临吊，诏曰： 公有济世宁国之勋，克定祸乱之功，重之以死王事，宜加殊礼。
+其令公卿议制。
+有司议以为忠安社稷，功济宇内，宜依霍光故事，追加大司马之号以冠大将军，增邑五万户，谥曰武公。
+文帝表让曰： 臣亡父不敢受丞相相国九命之礼，亡兄不敢受相国之位，诚以太祖常所阶历也。
+今谥与二祖同，必所祗惧。
+昔萧何、张良、霍光咸有匡佐之功，何谥文终，良谥文成，光谥宣成必以文武为谥，请依何等就加。
+诏许之，谥曰忠武。
+晋国既建，追尊曰景王。
+武帝受禅，上尊号曰景皇帝，陵曰峻平，庙称世宗。
+文皇帝讳昭，字子上，景帝之母弟也。
+魏景初二年，封新城乡侯。
+正始初，为洛阳典农中郎将。
+值魏明奢侈之后，帝蠲除苛碎，不夺农时，百姓大悦。
+转散骑常侍。
+大将军曹爽之伐蜀也，以帝为征蜀将军，副夏侯玄出骆谷，次于兴势。
+蜀将王林夜袭帝营，帝坚卧不动。
+林退，帝谓玄曰： 费祎以据险距守，进不获战，攻之不可，宜亟旋军，以为后图。
+爽等引旋，祎果驰兵趣三岭，争险乃得过。
+遂还，拜议郎。
+及诛曹爽，帅众卫二宫，以功增邑千户。
+蜀将姜维之寇陇右也，征西将军郭淮自长安距之。
+进帝位安西将军、持节，屯关中，为诸军节度。
+淮攻维别将句安于麹，久而不决。
+translation: 
+At first, Emperor Jing had a tumor on his eye and asked the doctor to remove it.
+When Saizu attacked, Liangtong's eyes went in and out due to fright.
+Afraid that the Sixth Army would panic, they covered their heads with a quilt. The pain was so unbearable that they bit the quilt to pieces, but no one around them knew about it.
+In the leap month, the illness worsened, and Saitong was asked to take charge of the army.
+He died in Xuchang in Xinhai at the age of forty-eight.
+In February, Jitong's funeral carriage arrived in Kyoto from Zhudan. The emperor came to mourn in person in plain clothes.
+Order the ministers to discuss the funeral arrangements.
+Relevant officials discussed that Emperor Jing's loyalty had stabilized the country and his achievements had saved the world, so Huo Guang's precedent should be followed. The title of Grand Sima was added in front of the General, and fifty thousand households were added to the city, and Mi was given the title of Duke Wu.
+Emperor Wen expressed his resignation and said: My late father did not dare to accept the courtesy of Prime Minister Xiang Guo Jiu Ming, and my late brother did not dare to accept the high position of Xiang Guo, all because Taizu once served as prime minister.
+Now that the title of Mi is the same as that of Emperor Wu and Emperor Wen, it must be frightening.
+In the past, Xiao He, Zhang Liang, and Huo Guang all contributed to saving the situation and assisting the monarch. Xiao He's nickname was Wen Zhong, Zhang Liang's nickname was Wencheng, and Huo Guang's nickname was Xuancheng. If you must use Wenwu as your nickname, please follow the precedents of Xiao He and others when adding gifts.
+The emperor agreed to the edict and named Mi Zhongwu.
+After the establishment of Jin State. The additional honorary title is King Jing.
+Emperor Wu accepted the concession and was honored as Emperor Jing, the mountain mausoleum was called Junping, and the ancestral temple was called Shizong.
+Emperor Wen, whose name is Zishang, is the half-brother of Emperor Jing.
+In the second year of Wei Jingchu's reign, he was granted the title of Xincheng Rural Marquis.
+In the early years of Zhengshi, he was appointed as the lieutenant general of Diannong in Luoyang.
+It was the late period of Emperor Wei Ming's extravagant style. Emperor Wen exempted him from harsh and cumbersome conditions and did not take up farming time. The people were very happy.
+He was transferred to serve as a regular attendant of Sanqi.
+When the general Cao Shuang was conquering Shu, he appointed Emperor Wen as the general to conquer Shu. As Xia Houxuan's deputy, he sent troops to Luo Valley and stationed himself in Xingshi.
+Shu general Wang Lin attacked Emperor Wen's camp at night, but Emperor Wen lay motionless.
+Wang Lin retreated, and Emperor Wen said to Xia Houxuan: Fei Zhang occupied a dangerous position to resist and hold on. We can't fight if we advance, and we can't attack by force. We should return to the army as soon as possible and think about it later.
+Cao Shuang and others led their troops to retreat, and as expected, Fei Zhang led his troops to pursue them straight to the Three Ridges. After a battle and many obstacles, the Wei army was able to pass.
+So he returned to the court and paid homage to Yilang.
+When Cao Shuang was executed, he led the people to defend the second palace. Due to his meritorious service, he gained an additional 1,000 households.
+When Shu general Jiang Wei invaded Longxi, General Guo Huai sent troops from Chang'an to defend against the enemy.
+Emperor Wen was promoted to the general of Anxi and held a festival, and he stationed troops in Guanzhong to control the military affairs.
+Guo Huai attacked Jiang Wei's deputy general Ju'an in Qudi, and the outcome was indecisive for a long time.
+
+summary:
+summary line 4: Emperor Wen, named Zishang, was Emperor Jing's half-brother. He served as a lieutenant general in Luoyang, exempting harsh taxes and pleasing the people. During Cao Shuang's campaign against Shu, he advised retreat, which proved correct. After Cao Shuang's execution, he gained 1,000 households. He defended against Shu's Jiang Wei, using strategy to force his retreat. He later led campaigns against Wu, but was defeated and lost his marquis title. He again faced Jiang Wei, predicting his tactics and defeating him. He suppressed a rebellion in Xinping, regaining his title. When Gaogui Township became king, he was made Gaodu Marquis. During Mu Qiujian's rebellion, he stayed in Luoyang. After Emperor Jing's death, he became General of the Guard, then general and Shizhong, commanding all armies. He refused high honors but was eventually made Duke of Gaodu with nine tins.
+
+Chunk 14: 
+original: 
+昔伊尹，有莘氏之媵臣耳，一佐成汤，遂荷阿衡之号。
+周公藉已成之势，据既安之业，光宅曲阜，奄有龟蒙。
+吕尚，磻溪之渔者也，一朝指麾，乃封营丘。
+自是以来，功薄而赏厚者，不可胜数，然贤哲之士，犹以为美谈。
+况自先相国以来，世有明德，翼辅魏室，以绥天下，朝无秕政，人无谤言。
+前者明公西征灵州，北临沙漠，榆中以西，望风震服，羌戎来驰，回首内向，东诛叛逆，全军独克。
+禽阖闾之将，虏轻锐之卒以万万计，威加南海，名慑三越，宇内康宁，苛慝不作。
+是以时俗畏怀，东夷献舞。
+故圣上览乃昔以来礼典旧章，开国光宅，显兹太原。
+明公宜承奉圣旨，受兹介福，允当天人。
+元功盛勋，光光如彼；国土嘉祚，巍巍如此。
+内外协同，靡愆靡违。
+由斯征伐，则可朝服济江，扫除吴会，西塞江源，望祀岷山。
+回戈弭节，以麾天下，远无不服，迩无不肃。
+令大魏之德，光于唐虞；明公盛勋，超于桓文。
+然后临沧海而谢支伯，登箕山而揖许由，岂不盛乎！
+至公至平，谁与为邻，何必勤勤小让也哉。
+帝乃受命。
+十一月，邓艾帅万余人自阴平逾绝险至江由，破蜀将诸葛瞻于绵竹，斩瞻，传首。
+进军雒县，刘禅降。
+天子命晋公以相国总百揆，于是上节传，去侍中、大都督、录尚书之号焉。
+表邓艾为太尉，钟会为司徒。
+会潜谋叛逆，因密使谮艾。
+咸熙元年春正月，槛车征艾。
+乙丑，帝奉天子西征，次于长安。
+是时魏诸王侯悉在鄴城，命从事中郎山涛行军司事，镇于鄴，遣护军贾充持节、督诸军，据汉中。
+钟会遂反于蜀，监军卫瓘、右将军胡烈攻会，斩之。
+初，会之伐蜀也，西曹属邵悌言于帝曰： 钟会难信，不可令行。
+帝笑曰： 取蜀如指掌，而众人皆言不可，唯会与吾意同。
+灭蜀之后，中国将士，人自思归，蜀之遗黎，犹怀震恐，纵有异志，无能为也。
+translation: 
+In the past, Yi Yin was a domestic slave of the Xin family. Once Sasuke made soup, he had the title of A Heng.
+Relying on the established national power and the already stable foundation, Duke Zhou built his glorious mansion in Qufu and covered Guimeng.
+Lu Shang was a fisherman from Pixi River. As soon as he waved his flag, he sealed the land in Yingqiu.
+Since then, the situation of meager achievements and generous rewards has been unbearable. However, sages still regard this as a good talk.
+Moreover, since he was the Prime Minister of the previous dynasty, he has been virtuous from generation to generation, assisting the Wei royal family and bringing peace to the world. There is no malpractice in the government and no complaints from people.
+In the past, Ming Gong conquered Lingzhou in the west, bordering the desert to the north and west of Yuzhong. When he heard the news, he was frightened and obeyed.
+He captured the generals of Hejian and captured tens of thousands of elite soldiers. His majesty covered the South China Sea, and his reputation shocked Mitsukoshi. The world was healthy and peaceful, and evil spirits were suppressed.
+Therefore, the customs of the time were awe-inspiring, and the barbarians presented dance and music.
+So the Holy Master read the old rituals from ancient times and built a glorious mansion for the public feudal state, which was prominent in Taiyuan.
+Ming Gong should obey the imperial edict and accept this great blessing so that the relationship between heaven and man can be harmonious.
+The first meritorious service is as glorious as that; the land's blessings are as grand as this.
+Rewards are consistent with merit, and there is no excess or violation.
+From then on, in the expedition, we could cross the Yangtze River in court clothes, sweep away Wu Hui, and use the source of the Yangtze River as a frontier to the west to offer sacrifices to Minshan Mountain in the distance.
+Return to the army and gather your troops to command the world. There will be no one who is disobedient in the distance and no one who is not in order nearby.
+Let the virtues of the Wei Dynasty shine in the Jin Dynasty; the Ming Gong's greatest achievements surpass those of Qi Huan and Jin Wen.
+Facing the sea to express gratitude to Wen Bo, and climbing Jishan Mountain to salute Xu You, isn't it a grand event?
+It's very fair. Who can compare with me, so why should I be humble?
+Only then did Emperor Wen accept the emperor's gift.
+In November, Deng Ai led more than 10,000 people from Yinping to Jiangyou, where he defeated Shu general Zhuge Zhan in Mianzhu, killed Zhuge Zhan, and had his head revealed to the public.
+Marching into Luoxian County, Liu Chan surrendered.
+The emperor ordered the Duke of Jin to take charge of everything as the prime minister, so Emperor Wen sent a decree to remove himself from the titles of Shizhong, Grand Governor, and Lu Shangshu.
+Please appoint Deng Ai as Taiwei and Zhong Hui as Situ.
+Zhong Hui conspired to rebel, so he secretly sent people to speak ill of Deng Ai.
+In the first month of spring of the first year of Xianxi, a chariot was sent to arrest Deng Ai.
+In Yichou, Emperor Wen and the Emperor marched westward and were stationed in Chang'an.
+At that time, all the princes were in Yecheng. They ordered Zhonglang to be the military officer of Shantao March and guard in Ye. He sent the guard Jia Chongzhijie to supervise the troops and guard Hanzhong.
+Zhong Hui then rebelled in Shu. The supervisor Wei Gan and the right general Hu Lie attacked Zhong Hui and killed him.
+At the beginning, when Zhong Hui was attacking Shu, Shao Ti, a subordinate of Xicao, told Emperor Wen: Zhong Hui is difficult to trust and cannot be ordered to send troops.
+Emperor Wen smiled and said: "We are in control of conquering Shu, but everyone says no, only Zhong Hui agrees with me."
+After the reduction of Shu, the soldiers in the Central Plains missed their homeland. The people left behind in Shu were still shocked and fearful. Even if they had the intention to rebel, they were powerless.
+
+summary:
+summary line 5: In the second year, Zhuge Dan rebelled, seeking Wu aid. Emperor Wen led 500,000 troops, using strategy to besiege Shouchun. He defeated Wu reinforcements, and after a long siege, Zhuge Dan was killed. He was made Duke of Jin with nine tins, but resigned nine times. He later planned to attack Shu, building warships and training troops. In the fourth year, he attacked Shu, sending Deng Ai and Zhong Hui. Deng Ai defeated Shu, and Liu Chan surrendered. Zhong Hui rebelled but was killed. Emperor Wen was made King of Jin, with twenty counties. He established five-class titles and sent envoys to Wu. He died at age 55, posthumously named King Wen, later Emperor Wen. His achievements included pacifying rebellions, conquering Shu, and stabilizing the realm, though he was criticized for regicide.
+

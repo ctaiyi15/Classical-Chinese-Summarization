@@ -1,0 +1,400 @@
+Summary uses chunk [0, 0, 0, 4, 4, 0, 13, 14]
+
+Chunk 0: 
+original: 
+孝宣皇帝，武帝曾孙，戾太子孙也。
+太子纳史良娣，生史皇孙。皇孙纳王夫人，生宣帝，号曰皇曾孙。
+生数月，遭巫蛊事，太子、良娣、皇孙、王夫人皆遇害。
+语在《太子传》。
+曾孙虽在襁褓，犹坐收系郡邸狱。
+而邴吉为廷尉监，治巫蛊于郡邸，怜曾孙之亡辜，使女徒复作淮阳赵征卿、渭城胡组更乳养，私给衣食，视遇甚有恩。
+巫蛊事连岁不决。
+至后元二年，武帝疾，往来长杨、五柞宫，望气者言长安狱中有天子气，上遣使者分条中都官狱系者，轻、重皆杀之。
+内谒者令郭穰夜至郡邸狱，吉拒闭，使者不得入，曾孙赖吉得全。
+因遭大赦，吉乃载曾孙送祖母史良娣家。
+语在吉及外戚《传》。
+后有诏掖庭养视，上属籍宗正。
+时掖庭令张贺尝事戾太子，思顾旧恩，哀曾孙，奉养甚谨，以私钱供给教书。
+既壮，为取暴室啬夫许广汉女。曾孙因依倚广汉兄弟及祖母家史氏。
+受《诗》于东海澓中翁，高材好学，然亦喜游侠，斗鸡走马，具知闾里奸邪，吏治得失。
+数上下诸陵，周遍三辅，常困于莲勺卤中。
+尤乐杜、鄠之间，率常在下杜。
+时会朝请，舍长安尚冠里，身足下有毛，卧居数有光耀。每买饼，所从买家辄大雠，亦以是自怪。
+元平元年四月，昭帝崩，毋嗣。
+大将军霍光请皇后征昌邑王。
+六月丙寅，王受皇帝玺、绶，尊皇后曰皇太后。
+translation: 
+Emperor Xuan of the Han Dynasty, great-grandson of Emperor Wu, and grandson of Prince Ru.
+Prince Ru took in Shi Liangdi and gave birth to Emperor Shi's grandson. His grandson took in Mrs. Wang and gave birth to Emperor Xuan, who was named Zenghuang's grandson.
+A few months after giving birth, a "witchcraft incident" occurred. The prince, Liang Di, the emperor's grandson, and Mrs. Wang were all killed.
+The facts are all recorded in "The Legend of the Prince".
+Even though his great-grandson was still an infant, he was imprisoned.
+At that time, Bingji was an official of Tingwei and was responsible for handling witchcraft incidents. He was extremely sympathetic to his great-grandson's innocent misfortune, so he ordered the female convicts Zhao Zhengqing from Huaiyang and Hu Zu from Weicheng to exchange breast-feeding and provide them with food and clothing privately. They treated him very kindly.
+The witchcraft incident could not be concluded for several years.
+In the second year of the Yuan Dynasty, Emperor Wu was ill and traveled back and forth between Changyang and Wuzha palaces. The astrologers who were watching the clouds said that there was the emperor's energy in Chang'an prison. Emperor Wu sent envoys to inform the various officials in the capital that criminals imprisoned due to witchcraft incidents would be executed regardless of their severity.
+The emissary ordered Guo Rang to go to the county prison at night for inspection. Bingji closed the prison door so that the envoys could not enter, but his great-grandson Lai Bingji was saved.
+Later, when there was a general amnesty, Bingji drove his great-grandson to his grandmother Shi Liangdi's home.
+This incident is recorded in "Biography of Bingji" and "Biography of Foreign Relatives".
+Later, there was an edict, sending officials from Yeting to visit the great-grandson at the historian's home, and ordered Zongzheng to record him in the royal genealogy.
+At this time, Zhang He, the order of Yeting, was Prince Li's former attendant. He missed Prince Li's old kindness and sympathized with his great-grandson, so he treated his great-grandson considerately and used his personal money to support his great-grandson's education.
+When he was older, he married the daughter of Xu Guanghan, a court dyer, for his great-grandson. Therefore, his great-grandson relied on the Guanghan brothers and the Shi family of his grandmother's family.
+He returned from the East China Sea to learn "Poetry" from Zhong Weng. He was talented and never tired of learning. He also had the character of drawing a sword to help when the road was rough. He fought chickens and horses and made many friends. He was familiar with the evil in the alleys and the gains and losses of official governance.
+He visited the tombs of his ancestors many times to pay his respects, and went to the Sanfu District of Kyoto to understand the people's sentiments. He was once trapped and humiliated in the salt pond of Lianshao County, especially in Du County?
+He traveled between counties, mostly in Xiadu.
+He went to the imperial court to attend court invitations and lived in Shangguanli, Chang'an. He had hair all over his body and on his feet. He always glowed when sleeping. Every time he went to a bakery to buy cakes, the business of the bakery prospered. People were surprised by this.
+In April of the first year of Yuanping, Emperor Zhao died without any heirs.
+General Huo Guang asked the queen to summon the king of Changyi to be the emperor.
+On June 1, the king of Changyi received the emperor's jade seal and imperial robes, and honored the queen as the empress dowager.
+
+summary:
+summary line 0: Emperor Xuan, great-grandson of Emperor Wu, was born into tragedy. His grandfather Prince Ru, grandmother Shi Liangdi, and parents were all killed in the "witchcraft incident" when he was an infant. Imprisoned, he was saved by official Bingji, who arranged for female convicts to nurse him. After a general amnesty, Bingji took him to his grandmother's home. Later, Yeting official Zhang He, remembering his loyalty to Prince Li, supported the boy's education and arranged his marriage to Xu Guanghan's daughter.
+
+Chunk 0: 
+original: 
+孝宣皇帝，武帝曾孙，戾太子孙也。
+太子纳史良娣，生史皇孙。皇孙纳王夫人，生宣帝，号曰皇曾孙。
+生数月，遭巫蛊事，太子、良娣、皇孙、王夫人皆遇害。
+语在《太子传》。
+曾孙虽在襁褓，犹坐收系郡邸狱。
+而邴吉为廷尉监，治巫蛊于郡邸，怜曾孙之亡辜，使女徒复作淮阳赵征卿、渭城胡组更乳养，私给衣食，视遇甚有恩。
+巫蛊事连岁不决。
+至后元二年，武帝疾，往来长杨、五柞宫，望气者言长安狱中有天子气，上遣使者分条中都官狱系者，轻、重皆杀之。
+内谒者令郭穰夜至郡邸狱，吉拒闭，使者不得入，曾孙赖吉得全。
+因遭大赦，吉乃载曾孙送祖母史良娣家。
+语在吉及外戚《传》。
+后有诏掖庭养视，上属籍宗正。
+时掖庭令张贺尝事戾太子，思顾旧恩，哀曾孙，奉养甚谨，以私钱供给教书。
+既壮，为取暴室啬夫许广汉女。曾孙因依倚广汉兄弟及祖母家史氏。
+受《诗》于东海澓中翁，高材好学，然亦喜游侠，斗鸡走马，具知闾里奸邪，吏治得失。
+数上下诸陵，周遍三辅，常困于莲勺卤中。
+尤乐杜、鄠之间，率常在下杜。
+时会朝请，舍长安尚冠里，身足下有毛，卧居数有光耀。每买饼，所从买家辄大雠，亦以是自怪。
+元平元年四月，昭帝崩，毋嗣。
+大将军霍光请皇后征昌邑王。
+六月丙寅，王受皇帝玺、绶，尊皇后曰皇太后。
+translation: 
+Emperor Xuan of the Han Dynasty, great-grandson of Emperor Wu, and grandson of Prince Ru.
+Prince Ru took in Shi Liangdi and gave birth to Emperor Shi's grandson. His grandson took in Mrs. Wang and gave birth to Emperor Xuan, who was named Zenghuang's grandson.
+A few months after giving birth, a "witchcraft incident" occurred. The prince, Liang Di, the emperor's grandson, and Mrs. Wang were all killed.
+The facts are all recorded in "The Legend of the Prince".
+Even though his great-grandson was still an infant, he was imprisoned.
+At that time, Bingji was an official of Tingwei and was responsible for handling witchcraft incidents. He was extremely sympathetic to his great-grandson's innocent misfortune, so he ordered the female convicts Zhao Zhengqing from Huaiyang and Hu Zu from Weicheng to exchange breast-feeding and provide them with food and clothing privately. They treated him very kindly.
+The witchcraft incident could not be concluded for several years.
+In the second year of the Yuan Dynasty, Emperor Wu was ill and traveled back and forth between Changyang and Wuzha palaces. The astrologers who were watching the clouds said that there was the emperor's energy in Chang'an prison. Emperor Wu sent envoys to inform the various officials in the capital that criminals imprisoned due to witchcraft incidents would be executed regardless of their severity.
+The emissary ordered Guo Rang to go to the county prison at night for inspection. Bingji closed the prison door so that the envoys could not enter, but his great-grandson Lai Bingji was saved.
+Later, when there was a general amnesty, Bingji drove his great-grandson to his grandmother Shi Liangdi's home.
+This incident is recorded in "Biography of Bingji" and "Biography of Foreign Relatives".
+Later, there was an edict, sending officials from Yeting to visit the great-grandson at the historian's home, and ordered Zongzheng to record him in the royal genealogy.
+At this time, Zhang He, the order of Yeting, was Prince Li's former attendant. He missed Prince Li's old kindness and sympathized with his great-grandson, so he treated his great-grandson considerately and used his personal money to support his great-grandson's education.
+When he was older, he married the daughter of Xu Guanghan, a court dyer, for his great-grandson. Therefore, his great-grandson relied on the Guanghan brothers and the Shi family of his grandmother's family.
+He returned from the East China Sea to learn "Poetry" from Zhong Weng. He was talented and never tired of learning. He also had the character of drawing a sword to help when the road was rough. He fought chickens and horses and made many friends. He was familiar with the evil in the alleys and the gains and losses of official governance.
+He visited the tombs of his ancestors many times to pay his respects, and went to the Sanfu District of Kyoto to understand the people's sentiments. He was once trapped and humiliated in the salt pond of Lianshao County, especially in Du County?
+He traveled between counties, mostly in Xiadu.
+He went to the imperial court to attend court invitations and lived in Shangguanli, Chang'an. He had hair all over his body and on his feet. He always glowed when sleeping. Every time he went to a bakery to buy cakes, the business of the bakery prospered. People were surprised by this.
+In April of the first year of Yuanping, Emperor Zhao died without any heirs.
+General Huo Guang asked the queen to summon the king of Changyi to be the emperor.
+On June 1, the king of Changyi received the emperor's jade seal and imperial robes, and honored the queen as the empress dowager.
+
+summary:
+summary line 1: As he grew, Emperor Xuan studied poetry under Zhong Weng, showed talent, and became familiar with both common people's lives and official governance. He traveled extensively, visited ancestral tombs, and experienced hardship in Lianshao County. Strange phenomena surrounded him—his body glowed during sleep, and bakeries prospered when he visited.
+
+Chunk 0: 
+original: 
+孝宣皇帝，武帝曾孙，戾太子孙也。
+太子纳史良娣，生史皇孙。皇孙纳王夫人，生宣帝，号曰皇曾孙。
+生数月，遭巫蛊事，太子、良娣、皇孙、王夫人皆遇害。
+语在《太子传》。
+曾孙虽在襁褓，犹坐收系郡邸狱。
+而邴吉为廷尉监，治巫蛊于郡邸，怜曾孙之亡辜，使女徒复作淮阳赵征卿、渭城胡组更乳养，私给衣食，视遇甚有恩。
+巫蛊事连岁不决。
+至后元二年，武帝疾，往来长杨、五柞宫，望气者言长安狱中有天子气，上遣使者分条中都官狱系者，轻、重皆杀之。
+内谒者令郭穰夜至郡邸狱，吉拒闭，使者不得入，曾孙赖吉得全。
+因遭大赦，吉乃载曾孙送祖母史良娣家。
+语在吉及外戚《传》。
+后有诏掖庭养视，上属籍宗正。
+时掖庭令张贺尝事戾太子，思顾旧恩，哀曾孙，奉养甚谨，以私钱供给教书。
+既壮，为取暴室啬夫许广汉女。曾孙因依倚广汉兄弟及祖母家史氏。
+受《诗》于东海澓中翁，高材好学，然亦喜游侠，斗鸡走马，具知闾里奸邪，吏治得失。
+数上下诸陵，周遍三辅，常困于莲勺卤中。
+尤乐杜、鄠之间，率常在下杜。
+时会朝请，舍长安尚冠里，身足下有毛，卧居数有光耀。每买饼，所从买家辄大雠，亦以是自怪。
+元平元年四月，昭帝崩，毋嗣。
+大将军霍光请皇后征昌邑王。
+六月丙寅，王受皇帝玺、绶，尊皇后曰皇太后。
+translation: 
+Emperor Xuan of the Han Dynasty, great-grandson of Emperor Wu, and grandson of Prince Ru.
+Prince Ru took in Shi Liangdi and gave birth to Emperor Shi's grandson. His grandson took in Mrs. Wang and gave birth to Emperor Xuan, who was named Zenghuang's grandson.
+A few months after giving birth, a "witchcraft incident" occurred. The prince, Liang Di, the emperor's grandson, and Mrs. Wang were all killed.
+The facts are all recorded in "The Legend of the Prince".
+Even though his great-grandson was still an infant, he was imprisoned.
+At that time, Bingji was an official of Tingwei and was responsible for handling witchcraft incidents. He was extremely sympathetic to his great-grandson's innocent misfortune, so he ordered the female convicts Zhao Zhengqing from Huaiyang and Hu Zu from Weicheng to exchange breast-feeding and provide them with food and clothing privately. They treated him very kindly.
+The witchcraft incident could not be concluded for several years.
+In the second year of the Yuan Dynasty, Emperor Wu was ill and traveled back and forth between Changyang and Wuzha palaces. The astrologers who were watching the clouds said that there was the emperor's energy in Chang'an prison. Emperor Wu sent envoys to inform the various officials in the capital that criminals imprisoned due to witchcraft incidents would be executed regardless of their severity.
+The emissary ordered Guo Rang to go to the county prison at night for inspection. Bingji closed the prison door so that the envoys could not enter, but his great-grandson Lai Bingji was saved.
+Later, when there was a general amnesty, Bingji drove his great-grandson to his grandmother Shi Liangdi's home.
+This incident is recorded in "Biography of Bingji" and "Biography of Foreign Relatives".
+Later, there was an edict, sending officials from Yeting to visit the great-grandson at the historian's home, and ordered Zongzheng to record him in the royal genealogy.
+At this time, Zhang He, the order of Yeting, was Prince Li's former attendant. He missed Prince Li's old kindness and sympathized with his great-grandson, so he treated his great-grandson considerately and used his personal money to support his great-grandson's education.
+When he was older, he married the daughter of Xu Guanghan, a court dyer, for his great-grandson. Therefore, his great-grandson relied on the Guanghan brothers and the Shi family of his grandmother's family.
+He returned from the East China Sea to learn "Poetry" from Zhong Weng. He was talented and never tired of learning. He also had the character of drawing a sword to help when the road was rough. He fought chickens and horses and made many friends. He was familiar with the evil in the alleys and the gains and losses of official governance.
+He visited the tombs of his ancestors many times to pay his respects, and went to the Sanfu District of Kyoto to understand the people's sentiments. He was once trapped and humiliated in the salt pond of Lianshao County, especially in Du County?
+He traveled between counties, mostly in Xiadu.
+He went to the imperial court to attend court invitations and lived in Shangguanli, Chang'an. He had hair all over his body and on his feet. He always glowed when sleeping. Every time he went to a bakery to buy cakes, the business of the bakery prospered. People were surprised by this.
+In April of the first year of Yuanping, Emperor Zhao died without any heirs.
+General Huo Guang asked the queen to summon the king of Changyi to be the emperor.
+On June 1, the king of Changyi received the emperor's jade seal and imperial robes, and honored the queen as the empress dowager.
+
+summary:
+summary line 2: When Emperor Zhao died without heirs, General Huo Guang initially appointed the King of Changyi, but soon deposed him for lewd behavior. Huo Guang then recommended Emperor Xuan, then eighteen, citing his virtue, education, and suitability. The Empress Dowager agreed, and after proper ceremonies, he ascended the throne.
+
+Chunk 4: 
+original: 
+诏曰： 大司马大将军博陆侯宿卫孝武皇帝三十余年，辅孝昭皇帝十有余年，遭大难，躬秉义，率三公、诸侯、九卿、大夫定万世策，以安宗庙。
+天下蒸庶，咸以康宁，功德茂盛，朕甚嘉之。
+复其后世，畴其爵邑，世世毋有所与。功如萧相国。
+夏四月，凤皇集鲁，群鸟从之。
+大赦天下。
+五月，光禄大夫平丘侯王迁有罪，下狱死。
+上始亲政事，又思报大将军功德，乃复使乐平侯山领尚书事，而令群臣得奏封事，以知下情。五日一听事，自丞相以下各奉职奏事，以傅奏其言，考试功能。
+侍中尚书功劳当迁及有异善，厚加赏赐，至于子孙，终不改易。
+枢机周密，品式备具，上下相安，莫有苟且之意也。
+三年春三月，诏曰： 盖闻有功不赏，有罪不诛，虽唐、虞犹不能以化天下。
+今胶东相成劳来不怠，流民自占八万余口，治有异等，其秩成中二千石，赐爵关内侯。
+又曰： 鳏、寡、孤、独、高年、贫困之民，朕所怜也。
+前下诏假公田，贷种、食。
+其加赐鳏、寡、孤、独、高年帛。
+二千石严教吏谨视遇，毋令失职。
+令国郡国举贤良方正可亲民者。
+夏四月戊申，立皇太子，大赦天下。
+赐御史大夫爵关内侯，中二千石爵右庶长。天下当为父后者爵一级。
+赐广陵王黄金千斤，诸侯王十五人黄金各百斤，列侯在国者八十七人黄金各二十斤。
+translation: 
+The edict states: The Great Sima General Bo Luhou has been with Emperor Xiaowu for more than thirty years, and has assisted Emperor Xiaozhao for more than ten years. He has been loyal to the country many times, and led the Sangong, Jiuqing, officials and other ministers to formulate long-term peace and stability strategies to stabilize the ancestral temple and bring peace to the people of the world.
+I deeply admire him for his high merit and virtue. Now let his descendants enjoy his glory.
+If his nobility is not reduced, if he does not bear the burden of corvee and tax from generation to generation, his merits will be like that of Prime Minister Xiao He.
+In the fourth month of summer, phoenixes gathered in Lu County, followed by flocks of birds.
+Amnesty to the world.
+In the fifth month, Pingqiuhou Wang Qian, the official of Guanglu, was found guilty and sentenced to death in prison.
+The emperor began to take charge of the government personally, and missed the merits of the general Huo Guang, so he appointed Huo Guang's nephew, Lepinghou Huoshan, to be the secretary and take charge of the government affairs. He also ordered the ministers to report their work to the emperor frequently so that the emperor could grasp the situation. He would listen to work reports every five days and perform duties in various departments below the prime minister. To describe their situation and measures, and to test their political achievements and abilities.
+The ministers should be promoted and those who have made special contributions should be generously rewarded so that their duties can be passed down to their descendants and their positions will not be changed.
+This resulted in the imperial court having complete facilities and adequate staffing. The top and bottom are of one heart and one mind, and there is no intention of settling down.
+In the spring and March of the third year, an edict was issued saying: It has been said that meritorious deeds are not rewarded, and crimes are not punished. Even the emperors of the Tang Dynasty, Yao, Yu and Shun could not transform the world with virtue.
+Today, Wang Cheng, the Prime Minister of Jiaodong, warmly receives and properly resettles the refugees, so that more than 80,000 refugees have registered their registered residence in Jiaodong. His political achievements are different from those of ordinary people. Now Wang Cheng's salary has been raised to two thousand dan and he has been given the title of Marquis of Guannei.
+The edict also said: The widowed, lonely, elderly and poor people are the people I have the most sympathy and concern for.
+In the past, edicts were issued to lend public fields, seeds, and grain rations.
+Now I will give silk to the widowed and lonely old man.
+Erqianshi officials should strictly require their staff to pay serious attention to them and not let them lose their regular jobs.
+Let the Zhongyuan County appoint virtuous and upright people who can go deep among the people and understand the people's sentiments.
+On the 22nd day of the fourth lunar month in the summer, the Crown Prince was established and the whole country was granted amnesty.
+He was given the title of Marquis of Guannei, the imperial censor, and the right concubine of the middle two thousand stone ranks. As his father's heir, he was promoted to the first rank in the world.
+King Guangling was rewarded with a thousand catties of gold, each of the fifteen princes and kings was given a hundred catties of gold each, and the eighty-seven people in the feudal kingdom were each rewarded with twenty catties of gold.
+
+summary:
+summary line 3: Emperor Xuan's reign was marked by careful governance. He initially declined Huo Guang's offer to return power, entrusting him with major responsibilities. He rewarded meritorious officials generously, including Huo Guang, Yang Chang, and others. He issued edicts promoting agriculture, reducing waste, and caring for the poor. When earthquakes struck, he wore plain clothes, avoided the main hall, and sought advice from officials.
+
+Chunk 4: 
+original: 
+诏曰： 大司马大将军博陆侯宿卫孝武皇帝三十余年，辅孝昭皇帝十有余年，遭大难，躬秉义，率三公、诸侯、九卿、大夫定万世策，以安宗庙。
+天下蒸庶，咸以康宁，功德茂盛，朕甚嘉之。
+复其后世，畴其爵邑，世世毋有所与。功如萧相国。
+夏四月，凤皇集鲁，群鸟从之。
+大赦天下。
+五月，光禄大夫平丘侯王迁有罪，下狱死。
+上始亲政事，又思报大将军功德，乃复使乐平侯山领尚书事，而令群臣得奏封事，以知下情。五日一听事，自丞相以下各奉职奏事，以傅奏其言，考试功能。
+侍中尚书功劳当迁及有异善，厚加赏赐，至于子孙，终不改易。
+枢机周密，品式备具，上下相安，莫有苟且之意也。
+三年春三月，诏曰： 盖闻有功不赏，有罪不诛，虽唐、虞犹不能以化天下。
+今胶东相成劳来不怠，流民自占八万余口，治有异等，其秩成中二千石，赐爵关内侯。
+又曰： 鳏、寡、孤、独、高年、贫困之民，朕所怜也。
+前下诏假公田，贷种、食。
+其加赐鳏、寡、孤、独、高年帛。
+二千石严教吏谨视遇，毋令失职。
+令国郡国举贤良方正可亲民者。
+夏四月戊申，立皇太子，大赦天下。
+赐御史大夫爵关内侯，中二千石爵右庶长。天下当为父后者爵一级。
+赐广陵王黄金千斤，诸侯王十五人黄金各百斤，列侯在国者八十七人黄金各二十斤。
+translation: 
+The edict states: The Great Sima General Bo Luhou has been with Emperor Xiaowu for more than thirty years, and has assisted Emperor Xiaozhao for more than ten years. He has been loyal to the country many times, and led the Sangong, Jiuqing, officials and other ministers to formulate long-term peace and stability strategies to stabilize the ancestral temple and bring peace to the people of the world.
+I deeply admire him for his high merit and virtue. Now let his descendants enjoy his glory.
+If his nobility is not reduced, if he does not bear the burden of corvee and tax from generation to generation, his merits will be like that of Prime Minister Xiao He.
+In the fourth month of summer, phoenixes gathered in Lu County, followed by flocks of birds.
+Amnesty to the world.
+In the fifth month, Pingqiuhou Wang Qian, the official of Guanglu, was found guilty and sentenced to death in prison.
+The emperor began to take charge of the government personally, and missed the merits of the general Huo Guang, so he appointed Huo Guang's nephew, Lepinghou Huoshan, to be the secretary and take charge of the government affairs. He also ordered the ministers to report their work to the emperor frequently so that the emperor could grasp the situation. He would listen to work reports every five days and perform duties in various departments below the prime minister. To describe their situation and measures, and to test their political achievements and abilities.
+The ministers should be promoted and those who have made special contributions should be generously rewarded so that their duties can be passed down to their descendants and their positions will not be changed.
+This resulted in the imperial court having complete facilities and adequate staffing. The top and bottom are of one heart and one mind, and there is no intention of settling down.
+In the spring and March of the third year, an edict was issued saying: It has been said that meritorious deeds are not rewarded, and crimes are not punished. Even the emperors of the Tang Dynasty, Yao, Yu and Shun could not transform the world with virtue.
+Today, Wang Cheng, the Prime Minister of Jiaodong, warmly receives and properly resettles the refugees, so that more than 80,000 refugees have registered their registered residence in Jiaodong. His political achievements are different from those of ordinary people. Now Wang Cheng's salary has been raised to two thousand dan and he has been given the title of Marquis of Guannei.
+The edict also said: The widowed, lonely, elderly and poor people are the people I have the most sympathy and concern for.
+In the past, edicts were issued to lend public fields, seeds, and grain rations.
+Now I will give silk to the widowed and lonely old man.
+Erqianshi officials should strictly require their staff to pay serious attention to them and not let them lose their regular jobs.
+Let the Zhongyuan County appoint virtuous and upright people who can go deep among the people and understand the people's sentiments.
+On the 22nd day of the fourth lunar month in the summer, the Crown Prince was established and the whole country was granted amnesty.
+He was given the title of Marquis of Guannei, the imperial censor, and the right concubine of the middle two thousand stone ranks. As his father's heir, he was promoted to the first rank in the world.
+King Guangling was rewarded with a thousand catties of gold, each of the fifteen princes and kings was given a hundred catties of gold each, and the eighty-seven people in the feudal kingdom were each rewarded with twenty catties of gold.
+
+summary:
+summary line 4: After Huo Guang's death, Emperor Xuan took personal control of government. He established regular reporting systems and tested officials' abilities. He promoted virtuous officials like Wang Cheng, who resettled refugees. He established the Crown Prince and granted amnesties. He reformed laws to protect filial piety, allowing parents to hide children's crimes and exempting mourners from corvée labor.
+
+Chunk 0: 
+original: 
+孝宣皇帝，武帝曾孙，戾太子孙也。
+太子纳史良娣，生史皇孙。皇孙纳王夫人，生宣帝，号曰皇曾孙。
+生数月，遭巫蛊事，太子、良娣、皇孙、王夫人皆遇害。
+语在《太子传》。
+曾孙虽在襁褓，犹坐收系郡邸狱。
+而邴吉为廷尉监，治巫蛊于郡邸，怜曾孙之亡辜，使女徒复作淮阳赵征卿、渭城胡组更乳养，私给衣食，视遇甚有恩。
+巫蛊事连岁不决。
+至后元二年，武帝疾，往来长杨、五柞宫，望气者言长安狱中有天子气，上遣使者分条中都官狱系者，轻、重皆杀之。
+内谒者令郭穰夜至郡邸狱，吉拒闭，使者不得入，曾孙赖吉得全。
+因遭大赦，吉乃载曾孙送祖母史良娣家。
+语在吉及外戚《传》。
+后有诏掖庭养视，上属籍宗正。
+时掖庭令张贺尝事戾太子，思顾旧恩，哀曾孙，奉养甚谨，以私钱供给教书。
+既壮，为取暴室啬夫许广汉女。曾孙因依倚广汉兄弟及祖母家史氏。
+受《诗》于东海澓中翁，高材好学，然亦喜游侠，斗鸡走马，具知闾里奸邪，吏治得失。
+数上下诸陵，周遍三辅，常困于莲勺卤中。
+尤乐杜、鄠之间，率常在下杜。
+时会朝请，舍长安尚冠里，身足下有毛，卧居数有光耀。每买饼，所从买家辄大雠，亦以是自怪。
+元平元年四月，昭帝崩，毋嗣。
+大将军霍光请皇后征昌邑王。
+六月丙寅，王受皇帝玺、绶，尊皇后曰皇太后。
+translation: 
+Emperor Xuan of the Han Dynasty, great-grandson of Emperor Wu, and grandson of Prince Ru.
+Prince Ru took in Shi Liangdi and gave birth to Emperor Shi's grandson. His grandson took in Mrs. Wang and gave birth to Emperor Xuan, who was named Zenghuang's grandson.
+A few months after giving birth, a "witchcraft incident" occurred. The prince, Liang Di, the emperor's grandson, and Mrs. Wang were all killed.
+The facts are all recorded in "The Legend of the Prince".
+Even though his great-grandson was still an infant, he was imprisoned.
+At that time, Bingji was an official of Tingwei and was responsible for handling witchcraft incidents. He was extremely sympathetic to his great-grandson's innocent misfortune, so he ordered the female convicts Zhao Zhengqing from Huaiyang and Hu Zu from Weicheng to exchange breast-feeding and provide them with food and clothing privately. They treated him very kindly.
+The witchcraft incident could not be concluded for several years.
+In the second year of the Yuan Dynasty, Emperor Wu was ill and traveled back and forth between Changyang and Wuzha palaces. The astrologers who were watching the clouds said that there was the emperor's energy in Chang'an prison. Emperor Wu sent envoys to inform the various officials in the capital that criminals imprisoned due to witchcraft incidents would be executed regardless of their severity.
+The emissary ordered Guo Rang to go to the county prison at night for inspection. Bingji closed the prison door so that the envoys could not enter, but his great-grandson Lai Bingji was saved.
+Later, when there was a general amnesty, Bingji drove his great-grandson to his grandmother Shi Liangdi's home.
+This incident is recorded in "Biography of Bingji" and "Biography of Foreign Relatives".
+Later, there was an edict, sending officials from Yeting to visit the great-grandson at the historian's home, and ordered Zongzheng to record him in the royal genealogy.
+At this time, Zhang He, the order of Yeting, was Prince Li's former attendant. He missed Prince Li's old kindness and sympathized with his great-grandson, so he treated his great-grandson considerately and used his personal money to support his great-grandson's education.
+When he was older, he married the daughter of Xu Guanghan, a court dyer, for his great-grandson. Therefore, his great-grandson relied on the Guanghan brothers and the Shi family of his grandmother's family.
+He returned from the East China Sea to learn "Poetry" from Zhong Weng. He was talented and never tired of learning. He also had the character of drawing a sword to help when the road was rough. He fought chickens and horses and made many friends. He was familiar with the evil in the alleys and the gains and losses of official governance.
+He visited the tombs of his ancestors many times to pay his respects, and went to the Sanfu District of Kyoto to understand the people's sentiments. He was once trapped and humiliated in the salt pond of Lianshao County, especially in Du County?
+He traveled between counties, mostly in Xiadu.
+He went to the imperial court to attend court invitations and lived in Shangguanli, Chang'an. He had hair all over his body and on his feet. He always glowed when sleeping. Every time he went to a bakery to buy cakes, the business of the bakery prospered. People were surprised by this.
+In April of the first year of Yuanping, Emperor Zhao died without any heirs.
+General Huo Guang asked the queen to summon the king of Changyi to be the emperor.
+On June 1, the king of Changyi received the emperor's jade seal and imperial robes, and honored the queen as the empress dowager.
+
+summary:
+summary line 5: The Huo family later rebelled, and Queen Huo was deposed after being implicated in poisoning plots. Emperor Xuan continued his reforms, lowering salt prices, improving prison conditions, and requiring annual reports of deaths in custody. He built tombs, established temples, and rewarded those who had helped him in his youth, including Bingji, Zhang He, and the female convicts who nursed him.
+
+Chunk 13: 
+original: 
+匈奴单于乡风慕义，举国同心，奉珍朝贺，自古未之有也。
+单于非正朔所加，王者所客也，礼仪宜如诸侯王，称臣昧死再拜，位次诸侯王下。
+诏曰： 盖闻五帝三王，礼所不施，不及以政。
+今匈奴单于称北籓臣，朝正月，朕之不逮，德不能弘覆。其以客礼待之，位在诸侯王上。
+三年春正月，行幸甘泉，郊泰畤。
+匈奴呼韩邪单于稽侯犭册来朝，赞谒称籓臣而不名。
+赐以玺绶、冠带、衣裳、安车、驷马、黄金、锦绣、缯絮。
+使有司道单于先行就邸长安，宿长平。
+上自甘泉宿池阳宫。
+上登长平阪，诏单于毋谒。
+共左右当户之群皆列观，蛮夷君、长、王、侯迎者数万人，夹道陈。
+上登渭桥，咸称万岁。
+单于就邸。
+置酒建章宫，飨赐单于，观以珍宝。
+二月，单于罢归。
+遣长乐卫尉高昌侯忠、车骑都尉昌、骑都尉虎将万六千骑送单于。
+单于居幕南，保光禄城。
+诏北边振谷食。
+郅支单于远遁，匈奴遂定。
+诏曰： 乃者凤皇集新蔡，群鸟四面行列，皆乡凤皇立，以万数。
+其赐汝南太守帛百匹，新蔡长吏、三老、孝弟、力田、鳏、寡、孤、独各有差。
+赐民爵二级。毋出今年租。
+三月已丑，丞相霸薨。
+诏诸儒讲《五经》同异，太子太傅萧望之等平奏其议，上亲称制临决焉。
+乃立梁丘《易》、大小夏侯《尚书》、穀梁《春秋》博士。
+冬，乌孙公主来归。
+四年夏，广川王海阳有罪，废迁房陵。
+冬十月丁卯，未央宫宣室阁火。
+黄龙元年春正月，行幸甘泉，郊泰畤。
+匈奴呼韩邪单于来朝，礼赐如初。
+二月，单于归国。
+translation: 
+The Xiongnu Chanyu admired his righteousness to the wind, and the whole country came together to congratulate him with the national treasure. This was an unprecedented thing.
+The Shanyu does not worship Zhengshuo of the Han Dynasty, but is a guest of the king. When he worships, he should be like the princes and kings.
+The edict said: It is often heard that the five emperors and three kings did not rule according to etiquette in the wilderness, and their political punishments were not adequate.
+Today, Chanyu claims to be a minister of the Northern Domain and has come to the court to celebrate the Spring Festival. I am not virtuous enough to place him under the rule of my court. I should treat him as a guest and be in front of the princes and kings.
+In the first month of spring of the third year, I came to Ganquan and offered sacrifices to the Thai people in the suburbs.
+The Xiongnu called Han Xie Shanyu Jihou to come to the court, and when he paid homage, he called him a vassal minister but did not sign up.
+Emperor Xuan rewarded him with seals, ribbons, crowns, clothes, carriages, horses, gold, brocade, and silk fabrics.
+A commissioner was sent to guide Shanyu. He first went to the Chang'an residence and stayed in Changping.
+Emperor Xuan went from Ganquan to Chiyang Palace to rest.
+He went to Changpingban again and sent an edict to the chanyu not to visit him.
+Crowds of people on both sides of the road he passed lined up in front of the door to watch. The barbarian monarchs and princes and tens of thousands of people lined the road to welcome him.
+The emperor boarded the Wei Bridge and the welcoming crowd shouted "Long live!"
+Chanyu entered the building.
+The emperor held a welcome banquet in Jianzhang Palace to honor Shan Yu.
+And let Shanyu visit the treasures of the Han Dynasty.
+In February, Shanyu returned westward after completing his congratulatory mission. The imperial court sent a guard of 16,000 people led by Changle Guards Gaochanghou Dong Zhong, Chariot and Cavalry Commanders Han Chang, and Cavalry Commanders Wei Hu to escort Shan Yu.
+Shanyu lived in the south of Mu and was stationed in Guanglu City.
+The imperial edict was issued to the north to support its grain supply.
+Zhizhi Shanyu was isolated and fled far away, and the Xiongnu became stable from then on.
+Emperor Xuan issued an edict saying: The former phoenix gathered in Xincai, surrounded by tens of thousands of birds, all standing in awe of the phoenix.
+For this reason, the governor of Runan was rewarded with 10,000 pieces of silk, and various rewards were given to Xincai's chief officials, three elders, filial piety, Li Tian, ​​and widowers and widowers.
+Grant the common people the second level of nobility and exempt them from this year's land rent.
+On March 6, Prime Minister Huang Ba passed away.
+The imperial edict ordered various scholars to speak about the similarities and differences of the Five Classics. The prince, Taifu Xiao Wangzhi and others summarized and synthesized them, and then Emperor Xuan personally reviewed them.
+So Liangqiu's "Yi", Daxia Xiahou's "Shangshu", and Gu Liang's "Spring and Autumn" were established.
+In winter, Wusun Princess Liu Jieyou returned to China to visit relatives.
+In the summer of the fourth year, Wang Haiyang of Guangchuan was found guilty and was demoted to a commoner and moved to Fangling.
+On October 23rd in winter, a fire broke out in the Xuanshi Pavilion of Weiyang Palace.
+In the first month of spring of the first year of Huanglong, he came to Ganquan and offered sacrifices to the Thai people in the suburbs.
+When the Xiongnu Huhanxie Chanyu came to court, the courtesy and rewards were the same as last time.
+In February, Shanyu returned to China.
+
+summary:
+summary line 6: Under his rule, the Xiongnu were pacified. Huhanxie Chanyu submitted as a vassal, visiting the court with great ceremony. Emperor Xuan treated him as a guest, rewarding him generously and establishing protectorates for surrendered tribes. The Western Qiang were subdued through military campaigns and farming strategies proposed by General Zhao Chongguo.
+
+Chunk 14: 
+original: 
+诏曰： 盖闻上古之治，君臣同心，举措曲直，各得其所。
+是以上下和洽，海内康平，其德弗可及已。
+朕既不明，数申诏公卿、大夫务行宽大，顺民所疾苦，将欲配三王之隆，明先帝之德也。
+今吏或以不禁奸邪为宽大，纵释有罪为不苛，或以酷恶为贤，皆失其中。
+奉诏宣化如此，岂不谬哉！
+方今天下少事，徭役省减，兵革不动，而民多贫，盗贼不止，其咎安在？
+上计簿，具文而已，务为欺谩，以避其课。
+三公不以为意，朕将何任？
+诸请诏省卒徒自给者皆止。
+御史察计簿，疑非实者，按之，使真伪毋相乱。
+三月，有星孛于王良、阁道，入紫宫。
+夏四月，诏曰： 举廉吏，诚欲得其真也。
+吏六百石位大夫，有罪先请，秩禄上通，足以效其贤材，自今以来毋得举。
+冬十二月甲戌，帝崩于未央宫。
+癸巳，尊皇太后曰太皇太后。
+赞曰：孝宣之治，信赏必罚，综核名实，政事、文学、法理之士咸精其能，至于技巧、工匠、器械，自元、成间鲜能及之，亦足以知吏称其职，民安其业也。
+遭值匈奴乖乱，推亡固存，信威北夷，单于慕义，稽首称籓。
+功光祖宗，业垂后嗣，可谓中兴，侔德殷宗、周宣矣！
+translation: 
+The edict said: I have heard that in ancient times when governing the world, the king and his ministers were of one mind, judged right and wrong, and acted in accordance with the rules.
+It is the harmony between the upper and lower levels, and peace at home and abroad. His cohesion is admirable.
+I am not a wise king, but I have repeatedly told the ministers to be lenient, care about and solve the sufferings of the people, and pursue the peaceful and prosperous times of the three kings and carry forward the virtues of the ancestors.
+Among today's officials, some regard it as lenient not to restrain evil, and as lax as to condone the guilty; some regard cruel officials as virtuous, which are all one-sided and incorrect.
+Such an imperial edict is extremely ridiculous!
+Nowadays, there are few things happening in the world, there are fewer corvees, and there is no army, but the people are poor and there are many thieves. What is the fault?
+The personnel, household registration, and tax information reported to the court were inconsistent with the facts and were lied to avoid prosecution.
+Sangong doesn't care about this. How will I know the true and credible situation?
+Any requests to reduce the number of followers and officers and use their expenses to support themselves will no longer be implemented.
+When the censor finds something suspicious when reviewing the materials reported from various places, he must conduct verification and cannot allow the false to be confused with the true.
+In March, a comet appeared between Wangliangxing and Gedao star areas, and then entered the Purple Palace star area.
+In April of Xia, an edict was issued saying: The purpose of recommending honest officials is to promote honesty and integrity.
+Officials with six hundred stones are regarded as officials. When handling cases, they must first seek instructions from the court, and their rank and salary are determined by the court. From now on, officials with six hundred stones cannot be promoted to honest officials.
+On the seventh day of the twelfth lunar month in winter, Emperor Xuan died in Weiyang Palace.
+On the 26th, the Queen Mother was honored as the Queen Mother.
+Ban Gu commented: When Emperor Xuan of the Han Dynasty governed the country, meritorious deeds must be rewarded, and guilty deeds must be punished. Comprehensive examination of names and facts shows that people in politics, literature, and jurisprudence can be proficient in their professions and exert their expertise. As for the skills of craftsmen and tools, few can match them since the reign of Emperor Yuan and Emperor Cheng. From this we can see that in the era of Emperor Xuan, officials were competent in their duties and the people were in peace with their jobs.
+Being invaded by the Xiongnu, the Huhanxie Chanyu could come to the court, the Zhizhi Chanyu could escape far away, Shen Tianwei could be seen in the Northern Yi, and the Chanyu Muyi could bow his head and declare himself a vassal.
+The ancestor of the Gongguang clan, whose career is passed down to his heirs, can be said to be the master of Zhongxing, and his virtues are comparable to those of Emperor Gaozong of Yin and King Xuan of Zhou.
+
+summary:
+summary line 7: Emperor Xuan died in Weiyang Palace after a reign marked by competent administration, military success, and cultural achievements. Ban Gu commented that he rewarded merit, punished guilt, and examined names and facts thoroughly, making officials proficient in their duties and people content in their work. His reign was considered a restoration, with virtues comparable to those of King Xuan of Zhou.
+

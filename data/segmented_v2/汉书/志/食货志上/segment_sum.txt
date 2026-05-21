@@ -1,0 +1,257 @@
+Summary uses chunk [0, 1, 3, 4, 10]
+
+Chunk 0: 
+original: 
+《洪范》八政，一曰食，二曰货。
+食谓农殖嘉谷可食之物，货谓布帛可衣，及金、刀、鱼、贝，所以分财布利通有无者也。
+二者，生民之本，兴自神农之世。 斫木为耜煣木为耒，耒耨之利以教天下 ，而食足； 日中为市，致天下之民，聚天下之货，交易而退，各得其所 ，而货通。
+食足货通，然后国实民富，而教化成。
+黄帝以下 通其变，使民不倦 。
+尧命四子以 敬授民时 ，舜命后稷以 黎民祖饥 ，是为政首。
+禹平洪水，定九州，制土田，各因所生远近，赋入贡棐，茂迁有无，万国作乂。
+殷周之盛，《诗》、《书》所述，要在安民，富而教之。
+故《易》称： 天地之大德曰生，圣人之大宝曰位；何以守位曰仁，何以聚人曰财。
+财者，帝王所以聚人守位，养成群生，奉顺天德，治国安民之本也。
+故曰： 不患寡而患不均，不患贫而患不安；盖均亡贫，和亡寡，安亡倾。
+是以圣王域民，筑城郭以居之；制庐井以均之；开市肆以通之；设庠序以教之；士、农、工、商，四人有业。
+学以居位曰士，辟土殖谷曰农，作巧成器曰工，通财鬻货曰商。
+圣王量能授事，四民陈力受职，故朝亡废官，邑亡敖民，地亡旷土。
+理民之道，地著为本。
+故必建步立亩，正其经界。
+六尺为步，步百为亩，亩百为夫，夫三为屋，屋三为井，井方一里，是为九夫。
+translation: 
+Among the eight types of government officials in "Hong Fan", one is the official in charge of people's food, and the second is the official in charge of property.
+Food refers to the good grain produced by farmers that can be eaten, and goods refers to cloth and silk that can be worn, as well as golden knives and turtle shells, which are used to distribute property and spread benefits so as to distribute the haves and have-nots.
+Combining the two is the foundation of people's life, and it has begun to rise since the era of Shennong. Cut wood to make grass, bend wood to make grass, and spread the benefits of grass to the world, so that there will be enough food; at noon, a market will be formed to attract people from all over the world, gather all the goods from the world, and then go away after exchange, so that everyone can get what they want, so that the wealth will circulate.
+Food is sufficient, goods are circulated, and then the country enriches and enriches the people. In this way, political and religious culture is formed.
+Huang Di and his subordinates made adjustments for the people so that they would not feel tired.
+Emperor Yao ordered Xizhong, Xishu, Hezhong, and Heshu to inform the people of the weather and seasons. When the people began to starve, Emperor Shun appointed Houji and made Zao the first place in politics.
+Dayu quelled the floods, stabilized the nine provinces, regulated the fields, and handed over the land tax to the oval bamboo vessels that held tribute according to the distance where they were born. He encouraged the world to exchange what they had and what they had, and all the nations were governed.
+The prosperity of the Shang and Zhou Dynasties was recorded in the "Poems" and "Books", which mainly depended on stabilizing the people, making them rich and then educating them.
+Therefore, the Book of Changes states that the great virtue of heaven and earth is life, and the most precious thing for a saint is the throne; how to hold the throne is called benevolence, and how to accumulate people is called wealth.
+Property is the basis for emperors to gather people to protect their throne, support the masses, obey God's kindness, and govern the country and stabilize the people.
+Therefore, it is said: Don’t worry about lack but worry about inequality; don’t worry about poverty but worry about instability; because when there is balance, there will be no poverty; when there is harmony, there will be no abundance; when there is stability, there will be no overthrow.
+Therefore, the wise king defined the people and built cities for them to live in, built houses in the wells and fields to make them equal, opened markets for them to circulate goods, and set up schools to educate them; the four kinds of people, scholars, farmers, workers, and merchants, had their own businesses.
+After learning, becoming an official is called a scholar, opening up land to produce grain is called a farmer, using technology to make utensils is called a worker, and circulating property and buying and selling goods is called a merchant.
+A wise king bestows official positions according to his talents, and the four kinds of people bear responsibility according to their own strength. Therefore, there are no idle officials in the court, no idlers in the city, and no desolate fields on the ground.
+The method of governing people is to make them settle in one place.
+Therefore, steps must be established to set the acres and correct the boundaries of the land.
+Six feet is one step, one hundred steps is one acre, one hundred acres is one man, three houses is one house, three houses is one well, and the radius of the well is one mile, which is nine men.
+
+summary:
+summary line 0: Among the eight types of government officials in "Hong Fan," one oversees food and another property. Food refers to grain from farmers, while property includes cloth, silk, golden knives, and turtle shells, used to distribute wealth. These are the foundation of life, originating from Shennong's era, who taught farming and trade. Sufficient food and circulated property enrich the nation, forming political and religious culture. Huang Di adjusted for the people, Yao informed them of seasons, Shun appointed Houji to address starvation, and Dayu controlled floods, regulated fields, and encouraged trade. The Shang and Zhou dynasties prospered by stabilizing and enriching the people before educating them. The Book of Changes states that life is heaven and earth's great virtue, and a saint's most precious possession is the throne, held through benevolence and wealth accumulation.
+
+Chunk 1: 
+original: 
+八家共之，各受私田百亩，公田十亩，是为八百八十亩，余二十亩以为庐舍。
+出入相友，守望相助，疾病相救，民是以和睦，而教化齐同，力役生产可得而平也。
+民受田：上田夫百亩，中田夫二百亩，下田夫三百亩。
+岁耕种者为不易上田；休一岁者为一易中田；休二岁者为再易下田，三岁更耕之，自爰其处。
+农民户人己受田，其家众男为余夫，亦以口受田如比。
+士、工、商家受田，五口乃当农夫一人。
+此谓平土可以为法者也。
+若山林、薮泽、原陵、淳卤之地，各以肥硗多少为差。
+有赋有税。
+税谓公田什一及工、商、衡虞之人也。
+赋共车马、兵甲、士徒之役，充实府库、赐予之用。
+税给郊、社、宗庙、百神之祀，天子奉养、百官禄食庶事之费。
+民年二十受田，六十归田。
+七十以上，上所养也；十岁以下，上所长也；十一以上，上所强也。
+种谷必杂五种，以备灾害。
+田中不得有树，用妨五谷。
+力耕数耘，收获如寇盗之至。
+还庐树桑，菜茹有畦，瓜瓠、果蓏殖于疆易。鸡、豚、狗、彘毋失其时，女修蚕织，则五十可以衣帛，七十可以食肉。
+在野曰庐，在邑曰里。
+五家为邻，五邻为里，四里为族，五族为常，五常为州，五州为乡。
+乡，万二千五百户也。
+邻长位下士，自此以上，稍登一级，至乡而为卿也。
+于是里有序而乡有庠。
+序以明教，庠则行礼而视化焉。
+春令民毕出在野，冬则毕入于邑。
+其《诗》曰： 四之日举止，同我妇子，馌彼南亩。
+translation: 
+Eight families owned it jointly, each receiving a hundred acres of private land and ten acres of public land, which was eight hundred and eighty acres, leaving twenty acres for houses.
+We are friends with each other when we come in and out, we help each other as guards and lookouts, and we help each other when we are sick. Therefore, the people are harmonious, and the political and religious customs are unified, and labor production can be obtained and evenly distributed.
+The people accepted the land, good land was 100 acres, medium land was 200 acres, and poor land was 300 acres.
+Those who farm every year do not exchange good fields; those who fallow one year exchange medium fields once; those who fallow two years exchange bad fields twice, and those who cultivate three years exchange the fields and change their positions.
+The head of a peasant household receives the land for himself, and the other men in his family are the remaining husbands, and the land is divided among them in proportion.
+Scholars, workers, and merchants divided the fields, and five talents were equivalent to one farmer.
+This means that it can be used as a law on the plains.
+If it is a mountainous area, a woodland, a large lake, a hilly land, or a land immersed in salt-alkali soil, it will be graded according to the degree of fertility and barrenness.
+There are taxes and gifts.
+The tax is one-tenth of the public land and the income of industry, commerce, scale, and Yu.
+Fu is the labor that provides soldiers with chariots, horses, armor, and weapons, and is used to enrich the government's warehouses for storing property, armor, and rewards.
+The tax was used to support the sacrifices to the ancestral gods in the suburbs, the emperor to support the officials, salaries, food, and other expenses.
+When the people reach the age of twenty, their fields will be divided, and when they reach sixty, the acres will be returned.
+Those over seventy years old are those whom the emperor has come to support; those under ten years old are those whom the emperor wants to raise; those over eleven years old are those whom the emperor wants to make strong.
+Grains must be mixed with other grains to prevent disasters.
+There should be no trees in the fields so as not to hinder the grain.
+If you work hard, you will reap the harvest as if thieves are coming.
+If mulberry trees are planted around the cottage, there are ridges in the vegetable field, melons and fruits are planted on the edges of the fields, chickens, pigs, dogs, and pigs are raised without delay, and women weave silkworms, then they can wear silk cloth at the age of fifty and eat meat at the age of seventy.
+A house in a field is called a hut, and a house in a place where people live together is called a li.
+Five families form one neighbour, five neighbors form one li, four li form one clan, five clans form one party, five parties form one state, and five states form one township.
+There are 12,500 households in one township.
+The official rank of the chief of a neighborhood is corporal. From there, the official rank is one level higher, and the official rank at the township level is Qing.
+In this way, there is order in the house and there is harmony in the countryside.
+The preface is used to clarify the teachings, and the xiang is used to practice etiquette to demonstrate the teachings.
+In the spring, the people were ordered to go to the fields, and in the winter to the towns.
+"Poetry" says this: In April, he moved his legs, took the women and children with him, and gave food to the people in the fields to the south.
+
+summary:
+summary line 1: Property is the basis for emperors to gather people, support the masses, and govern. Wise kings defined the people, built cities, houses, markets, and schools, dividing them into scholars, farmers, workers, and merchants. Officials were appointed by talent, and each group bore responsibility, ensuring no idleness. Land was measured in steps, acres, and wells, with eight families jointly owning a well, each receiving private and public land. People helped each other, fostering harmony. Land quality varied: good land yielded 100 acres, medium 200, poor 300. Farmers exchanged fields based on fallow periods. Taxes were one-tenth of public land and industry income, while labor provided military supplies. At age 20, fields were divided; at 60, returned. Grains were mixed to prevent disasters, and mulberry trees, vegetables, and livestock were cultivated. Houses in fields were huts; in communities, li. Neighborhoods, li, clans, parties, states, and townships were organized, with officials from corporal to qing. Education began at age eight, with university at 15. Outstanding students advanced, and princes recommended scholars to the emperor. Folk songs were collected to inform the ruler.
+
+Chunk 3: 
+original: 
+周室既衰，暴君污吏慢其经界，徭役横作，政令不信，上下相诈，公田不治。
+故鲁宣公 初税亩 ，《春秋》讥焉。
+于是上贪民怨，灾害生而祸乱作。
+陵夷至于战国，贵诈力而贱仁谊，先富有而后礼让。
+是时，李悝为魏文侯作尽地力之教，以为地方百里，提封九百顷，除山泽、邑居参分去一，为田六百万亩，治田勤谨则亩益三升，不勤则损亦如之。
+地方百里之增减，辄为粟百八十万石矣。
+又曰：籴甚贵伤民，甚贱伤农。民伤则离散，农伤则国贫，故甚贵与甚贱，其伤一也。
+善为国者，使民毋伤而农益劝。
+今一夫挟五口，治田百亩，岁收亩一石半，为粟百五十石，除十一之税十五石，余百三十五石。
+食，人月一石半，五人终岁为粟九十石，余有四十五石。
+石三十，为钱千三百五十，除社闾尝新、春秋之祠，用钱三百，余千五十。
+衣，人率用钱三百，五人终岁用千五百，不足四百五十。
+不幸疾病死丧之费，及上赋敛，又未与此。
+此农夫所以常困，有不劝耕之心，而令籴至于甚贵者也。
+是故善平籴者，必谨观岁有上、中、下孰。上孰其收自四，余四百石；中孰自三，余三百石；下孰自倍，余百石。
+小饥则收百石，中饥七十石，大饥三十石，故大孰则上籴三而舍一，中孰则籴二，下孰则籴一，使民适足，贾平则止。
+小饥则发小孰之所敛、中饥则发中孰之所敛、大饥则发大孰之所敛而粜之。
+故虽遇饥馑、水旱，籴不贵而民不散，取有余以补不足也。
+translation: 
+After the decline of the Zhou Dynasty, the tyrants and corrupt officials ignored their national boundaries, corvee labor was rampant, government orders were not trustworthy, people above and below deceived each other, and no one cultivated the public fields.
+Therefore, Lu Xuangong's "first tax mu" was ridiculed by "Spring and Autumn".
+As a result, those in power are greedy, and the people are resentful. When disaster occurs, chaos will arise.
+The Zhou Dynasty declined into the Warring States Period, where they respected hypocrisy and violence but despised benevolence and righteousness. They put material sufficiency first and politeness and humility second.
+At this time, Li Kui formulated an edict for Wei Wenhou to fully utilize the land's productive capacity. He believed that the land was a hundred miles in circumference, with a total of 90,000 hectares. Excluding one-third of the mountainous Dahu villages, there were still 6 million acres of fields. If you cultivate the fields carefully, you will receive an additional three dou per acre. If you are not diligent, you will also be deducted three dou.
+If the amount of grain in a land with a radius of a hundred miles increases or decreases, it will amount to 1.8 million stones of millet.
+Moreover, if the grain purchased is too expensive, it will hurt the scholars, workers, and merchants, and if it is too cheap, it will hurt the peasants. If the peasants, workers, and merchants are hurt, there will be dispersion, and if the peasants are hurt, there will be national poverty. Therefore, if it is too expensive or too cheap, one party will definitely be harmed.
+Those who are good at governing the country will protect the soldiers, workers, and merchants from harm and make the farmers more diligent.
+Now a householder with five people cultivates 100 acres of land. The annual harvest is one and a half dan per acre, and the millet cost is 150 dan. After deducting the one-tenth tax of 15 dan, there is still 135 dan left.
+For food, one person needs one and a half dan per month, and five people need 90 shi per year, leaving 45 shi left.
+After selling thirty stones, we got one thousand three hundred and fifty coins. After excluding the new harvest grains in the community and the spring and autumn sacrifices, which cost three hundred coins, we still had one thousand and fifty coins left.
+Clothes cost roughly 300 yuan per person, and 1,500 yuan for five people for the whole year, a difference of 450 yuan.
+Unfortunately, the expenses for illness, death, funeral, and taxes are not included in this package.
+This is the reason why farmers are often poor and have no intention of farming diligently, which makes the purchase of grain too expensive.
+Therefore, those who are good at buying and storing grain at a reasonable price must carefully observe that there are three levels of maturity each year: upper, middle and lower. The upper ripe harvest can be four times the original amount, and there are still 400 stone left at the end; the medium ripe harvest is three times the original amount, and there are still 300 stone left at the end; the low maturity harvest is double the original amount, and there are still one hundred stone left at the end.
+A small famine can collect one hundred stones, a medium famine can collect seventy stones, and a large famine can collect twenty stones. Therefore, in good harvest years, we use the policy of high-ripe years to buy three times the amount of grain in normal years and leave a portion for the people; in mid-ripe years, we buy twice as much grain; in low-ripe years, we buy twice as much grain, so that the people can be satisfied, and the phenomenon of food price average and famine is stopped.
+During a minor famine, the taxes collected during the minor harvest period will be distributed. During a moderate famine, the taxes collected during the middle harvest season will be distributed. During a major famine, the taxes collected during the major harvest period will be distributed to sell them.
+Therefore, even if there are famines, floods and droughts, the inexpensive purchases will not cause the scholars, workers, and merchants to be separated, and the surplus will be used to make up for the shortage.
+
+summary:
+summary line 2: After the Zhou Dynasty declined, tyrants ignored boundaries, corvée was rampant, and public fields were neglected. Lu Xuangong's "first tax mu" was criticized. The Warring States period valued hypocrisy and violence over benevolence. Li Kui advised Wei Wenhou on land productivity, calculating that careful cultivation yielded extra grain. He noted that high grain prices hurt scholars, workers, and merchants, while low prices hurt farmers. A household of five with 100 acres produced 150 dan of millet, but after taxes, food, and expenses, they faced deficits, leading to poverty. Li Kui proposed buying grain at moderate prices during good harvests and selling during famines to stabilize prices, implemented in Wei, making it rich and strong. Qin Xiaogong appointed Shang Yang, who destroyed well fields and emphasized farming and warfare, dominating neighboring states. However, hierarchy was lost, the rich accumulated wealth, and the poor suffered. Qin Shihuang annexed the world, imposed heavy taxes, and conscripted labor, causing rebellion.
+
+Chunk 4: 
+original: 
+行之魏国，国以富强。
+及秦孝公用商君，坏井田，开阡陌，急耕战之赏，虽非古道，犹以务本之故，倾邻国而雄诸侯。
+然王制遂灭，僭差亡度。
+庶人之富者累巨万，而贫者食糟糠；有国强者兼州域，而弱者丧社稷。
+至于始皇，遂并天下，内兴功作，外攘夷狄，收泰半之赋，发闾左之戍。
+男子力耕不足粮饷，女子纺绩不足衣服。
+竭天下之资财以奉其政，犹未足以澹其欲也。
+海内愁怨，遂用溃畔。
+汉兴，接秦之敝，诸侯并起，民失作业而大饥馑。
+凡米石五千，人相食，死者过半。
+高祖乃令民得卖子，就食蜀、汉。
+天下既定，民亡盖臧，自天子不能具醇驷，而将相或乘牛车。
+上于是约法省禁，轻田租，十五而税一，量吏禄，度官用，以赋于民。
+而山川、园池、市肆租税之人，自天子以至封君汤沐邑，皆各为私奉养，不领于天子之经费。
+漕转关东粟以给中都官，岁不过数十万石。
+孝惠、高后之间，衣食滋殖。
+文帝即位，躬修俭节，思安百姓。
+时民近战国，皆背本趋末，贾谊说上曰：
+管子曰： 仓廪实而知礼节。
+民不足而可治者，自古及今，未之尝闻。
+古之人曰： 一夫不耕，或受之饥；一女不织，或受之寒。
+生之有时，而用之亡度，则物力必屈。
+古之治天下，至孅至悉也，故其畜积足恃。
+今背本而趋末，食者甚众，是天下之大残也；淫侈之俗，日日以长，是天下之大贼也。
+残贼公行，莫之或止；大命将泛，莫之振救。
+translation: 
+Implement it in Wei State, and the country will become rich and strong.
+When Qin Xiaogong appointed Shang Yang, he destroyed the well fields, opened up the roads to the fields, and used the rewards of farming and fighting as urgent matters. Even if it was not the ancient method, it was still because of the dedication to the fundamentals, so as to overwhelm the neighboring countries and dominate the princes.
+But the dynastic system ceased to exist, and there was no restraint beyond hierarchy.
+The rich among the people accumulated a lot of wealth, while the poor lived on the chaff; the powerful country swallowed up prefectures and counties, and the weak lost the country.
+When Qin Shihuang arrived, he annexed the world, built a lot of construction projects internally, excluded the barbarians externally, collected more than half of the taxes, and levied civilians on the left side of the Juli Gate to defend the border.
+Men's hard work in farming is not enough to support themselves, and women's spinning is not enough to provide clothing.
+Exhausting all the money and property in the world to pursue his policies is not enough to satisfy his desires.
+People in the country were filled with grief and anger, so they began to flee the rebellion.
+After the establishment of the Han Dynasty, it inherited the shortcomings of the Qin Dynasty. The princes revolted together, the people lost their jobs, and there was a period of great famine.
+A stone of ordinary rice costs 5,000 yuan. If people eat people, more than half of them will die.
+Emperor Gaozu ordered the people to sell their children and live in Shu and Han.
+After the world was settled, the people had nothing to store. From the emperor who could not own four horses of pure color, to the generals who could only ride bullock carts.
+The emperor then issued decrees to restrict frugality, reduce land rents, collect one-fifteenth of the tax, and collect taxes from the people based on official salaries and government expenditures.
+However, the income from taxes on the mountains, rivers and gardens, from the emperor to the private fiefs of the recipients of the fiefdoms, was provided by each of them, and no ordinary fees were paid to the emperor.
+The cost of transporting millet from Guandong via waterways to the capital and delivering it to various government offices does not exceed hundreds of thousands of dan per year.
+In the era of Emperor Xiaohui and Queen Gao, clothing and food gradually increased.
+After Emperor Wen ascended the throne, he personally practiced frugality and worked hard for the stability of the people.
+At that time, the people were not far from the Warring States period. They had abandoned their roots and were moving towards the end. Jia Yi advised the emperor:
+Guan Zhong said: Only when the warehouse is sufficient can you know the etiquette.
+From ancient times to the present, it has never been heard of that the people could manage without adequate supplies.
+Ancient people said: If a man does not cultivate, some will suffer from hunger; if a woman does not weave, some will suffer from cold.
+If there are seasons for producing materials, but there is no restraint in using them, then the materials will definitely be exhausted.
+In ancient times, the world was governed in a very detailed and comprehensive manner, so their savings were enough to rest assured.
+Nowadays, we are abandoning the roots and tending to the ends. There are many people who live on leisure, which is the greatest harm in the world. Excessive and extravagant customs are increasing day by day. This is the greatest harm in the world.
+Cruel and violent acts are carried out openly, and no one comes to stop them; the fate of the country is about to be overturned, and no one comes to save it.
+
+summary:
+summary line 3: After the Han Dynasty, the Qin's shortcomings continued. Princes revolted, people lost jobs, and famine struck, with grain costing 5,000 yuan per stone and cannibalism. Emperor Gaozu ordered people to sell children and move to Shu and Han. After peace, the emperor restricted frugality, reduced land rents to one-fifteenth, and taxed based on official salaries. Emperor Wen practiced frugality and encouraged agriculture. Jia Yi advised that production must exceed consumption, warning of poverty and unrest. He urged returning people to agriculture to build savings. Emperor Wen was moved and began farming himself. Chao Cuo further advised that wise kings ensure people have savings, citing Yao, Yu, and Tang's success. He noted that poverty leads to evil, and farmers work hard but suffer from taxes and merchants' exploitation. He proposed valuing grain over gold and jade, and using grain for rewards and punishments. Emperor Wen allowed people to send grain to the border for titles, reducing taxes. Over 70 years, the country prospered, with full granaries and surplus property. However, wealth led to pride and land annexation. Dong Zhongshu advised planting more wheat and reforming taxes and labor, but after his death, prices rose and cannibalism returned.
+
+Chunk 10: 
+original: 
+又白增海租三倍，天子皆从其计。
+御史大夫萧望之奏言： 故御史属徐宫家在东莱，言往年加海租，鱼不出。
+长老皆言武帝时县官尝自渔，海鱼不出，后复予民，鱼乃出。
+夫阴阳之感，物类相应，万事尽然。
+今寿昌欲近籴漕关内之谷，筑仓治船，费值二万万余，有动众之功，恐生旱气，民被其灾。
+寿昌习于商功分铢之事，其深计远虑，诚未足任，宜且如故。
+上不听。
+漕事果便，寿昌遂白令边郡皆筑仓，以谷贱时增其贾而籴，以利农，谷贵时减贾而粜，名曰常平仓。
+民便之。
+上乃下诏，赐寿昌爵关内侯。
+而蔡癸以好农使劝郡国，至大官。
+元帝即位，天下大水，关东郡十一尤甚。
+二年，齐地饥，谷石三百余，民多饿死，琅邪郡人相食。
+在位诸儒多言盐、铁官及北假田官、常平仓可罢，毋与民争利。
+上从其议，皆罢之。
+又罢建章、甘泉宫卫、角抵、齐三服官，省禁苑以予贫民，减诸侯王庙卫卒半。
+又减关中卒五百人，转谷赈贷穷乏。
+其后用度不足，独复盐铁官。
+成帝时，天下亡兵革之事，号为安乐，然俗奢侈，不以蓄聚为意。
+永始二年，梁国、平原郡比年伤水灾，人相食，刺史、守、相坐免。
+哀帝即位，师丹辅政，建言： 古之圣王莫不设井田，然后治乃可平。
+孝文皇帝承亡周乱秦兵革之后，天下空虚，故务劝农桑，帅以节俭。
+民始充实，未有并兼之害，故不为民田及奴婢为限。
+今累世承平，豪富吏民訾数巨万，而贫弱俞困。
+translation: 
+He also asked for instructions to increase the sea rent three times, and the emperor followed his advice.
+Xiao Wang, the imperial censor, said: "It turns out that the Xu Gong family of the imperial censor's subordinates lives in Shulai. He said that the sea rent was increased in previous years and the fish would not come out."
+The elders all said that during the reign of Emperor Wu, the county magistrate personally fished, but no fish came out of the sea. Later, they returned it to the people, and the fish came out.
+Yin and Yang interact with each other, and things of the same kind correspond to each other. This is the case for all things.
+Now Geng Shouchang plans to purchase grain from the nearby water transport pass, build warehouses and ships, which will cost more than 200 million yuan. It involves the working people, fearing that a drought will occur and the people will suffer from it.
+Geng Shouchang was accustomed to calculating things of one cent and one baht. His far-reaching calculations and thinking were really not up to the task. It would be better to remain as before.
+The emperor did not listen.
+Water transportation was indeed convenient, so Geng Shouchang asked for instructions and ordered the border counties to build warehouses. When the price of grain was low, the price was increased to buy in order to benefit farmers. When the price of grain was high, the price was sold at a reduced price, which was called Changping warehouse.
+People feel convenient.
+The emperor issued an edict and granted Geng Shouchang the title of Marquis of Guannei.
+Because Cai Gui liked agriculture, he served as an envoy to encourage the country and became a high official.
+Emperor Yuan ascended the throne and the world was flooded, especially in the eleven counties of Guandong.
+In the second year of Emperor Yuan's reign, there was a famine in Qi. A grain of rice cost more than 300 yuan per stone. Many people starved to death. People in Langxie County were cannibals.
+Most of the Confucian scholars in official positions said that Yantie Palace, Beijia Tianguan and Changpingcang could be dismissed, and they should not compete for interests with the people.
+The emperor listened to their opinions and dismissed Yantieguan, Beijiatianguan and Changpingcang.
+He also dismissed the palace guards of Jianzhang and Ganquan, Jiaodui, Qi San served as officials, reduced the number of forbidden gardens to provide for the poor, and reduced the number of guards in the princes' temples by half.
+He also reduced the number of soldiers in Guanzhong by 500 and transferred grain to help the poor.
+After that, due to insufficient funds, only Yantieguan was restored.
+When he became emperor, there was no war in the world and it could be said to be peaceful. However, the people's customs were extravagant and they did not consider saving and hoarding.
+In the second year of Yongshi, Liang State and Pingyuan County suffered from floods for consecutive years, and cannibalism occurred. The governor and county governor were dismissed from office for crimes.
+Emperor Ai ascended the throne, and Shi Dan assisted in political affairs. He suggested: In ancient times, wise kings always established well fields and then managed them to achieve peace.
+Emperor Xiaowen inherited the emptiness of the world after the collapse of the Zhou Dynasty and the violent wars of the Qin Dynasty, so he devoted himself to encouraging the people to engage in farming and mulberry farming, and set an example for the world with frugality.
+The people had just begun to enrich themselves, and there was no danger of annexation, so there were no restrictions on people's land and slaves.
+Nowadays, generations of peace have passed down, and the wealthy and officials have a lot of property, but the poor and weak are even poorer.
+
+summary:
+summary line 4: Emperor Wu regretted his conquests and appointed Cheng Fu to promote agriculture. Zhao Guo introduced the Daitian method, with three furrows per acre, changing positions yearly. This method, using convenient tools, increased yields. Zhao Guo taught it widely, and it proved efficient. By Emperor Zhao's time, exiles returned, fields expanded, and savings grew. Emperor Xuan appointed virtuous officials, and grain prices fell to five yuan per stone. Geng Shouchang proposed purchasing grain from nearby counties to save on transport costs, building Changping warehouses to stabilize prices. Emperor Yuan faced floods and famine, with cannibalism in Langxie. Confucian officials advised dismissing salt, iron, and Changping offices, which the emperor did, but later restored salt and iron due to insufficient funds. Emperor Cheng's reign was peaceful but extravagant, with floods causing cannibalism. Emperor Ai considered land and slave restrictions, but they were not implemented. Wang Mang usurped the throne, despised Han systems, and provoked the Xiongnu, leading to war. He renamed land and slaves, prohibited sales, and imposed harsh punishments, causing chaos. Droughts and famines led to cannibalism, with grain prices soaring. Wang Mang opened granaries but officials stole supplies, and many died. He lamented his rule until his death.
+

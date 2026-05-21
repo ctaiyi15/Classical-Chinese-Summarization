@@ -1,0 +1,332 @@
+Summary uses chunk [0, 2, 4, 6, 6, 7]
+
+Chunk 0: 
+original: 
+裴子野，字几原，河东闻喜人，晋太子左率康八世孙。
+兄黎，弟楷、绰，并有盛名，所谓 四裴 也。
+曾祖松之，宋太中大夫。
+祖骃，南中郎外兵参军。
+父昭明，通直散骑常侍。
+子野生而偏孤，为祖母所养，年九岁，祖母亡，泣血哀恸，家人异之。
+少好学，善属文。
+起家齐武陵王国左常侍，右军江夏王参军，遭父忧去职。
+居丧尽礼，每之墓所，哭泣处草为之枯，有白兔驯扰其侧。
+天监初，尚书仆射范云嘉其行，将表奏之，会云卒，不果。
+乐安任昉有盛名，为后进所慕，游其门者，昉必相荐达。
+子野于昉为从中表，独不至，昉亦恨焉。
+久之，除右军安成王参军，俄迁兼廷尉正。
+时三官通署狱牒，子野尝不在，同僚辄署其名，奏有不允，子野从坐免职。
+或劝言诸有司，可得无咎。
+子野笑而答曰： 虽惭柳季之道，岂因讼以受服。
+自此免黜久之，终无恨意。
+二年，吴平侯萧景为南兗州刺史，引为冠军录事，府迁职解。
+时中书范缜与子野未遇，闻其行业而善焉。
+会迁国子博士，乃上表让之曰： 伏见前冠军府录事参军河东裴子野，年四十，字几原，幼禀至人之行，长厉国士之风。居丧有礼，毁瘠几灭，免忧之外，蔬水不进。
+栖迟下位，身贱名微，而性不憛憛，情无汲汲，是以有识嗟推，州闾叹服。
+且家传素业，世习儒史，苑囿经籍，游息文艺。
+著《宋略》二十卷，弥纶首尾，勒成一代，属辞比事，有足观者。
+且章句洽悉，训故可传。脱置之胶庠，以弘奖后进，庶一夔之辩可寻，三豕之疑无谬矣。
+translation: 
+Pei Ziye, whose courtesy name was Jiyuan, was a native of Wenxi, Hedong, and the eighth-generation grandson of Pei Kang, Prince Zuo of the Jin Dynasty.
+His elder brother Pei Li and his younger brothers Pei Kai and Pei Chuo were all famous and were called the Four Peis.
+Great-grandfather Pei Songzhi was a Taizhong doctor in the Song Dynasty.
+His grandfather Pei Si was a foreign soldier of Nan Zhonglang and joined the army.
+My father Zhaoming is a regular attendant of Tongzhi Sanqi.
+His mother died after Ziye was born. He was raised by his grandmother. When he was nine years old, his grandmother passed away. He burst into tears and his family was surprised.
+When he was young, he was studious and good at writing articles.
+He started his career and entered the court as Zuo Changshi of the Wuling Kingdom of Qi. He joined the army as the King of Jiangxia on the right and resigned due to his father's death.
+His behavior during the period of mourning was completely in line with etiquette. Every time he went to the tomb, the grass withered for him when he was crying, and a white rabbit crouched beside him.
+In the early years of Tianjian, Shangshu Pushe Fan Yun praised his conduct and was about to report it to the emperor. However, due to Fan Yun's death, the matter was not completed.
+Ren Fang, a Le'an native, had a good reputation and was admired by his descendants. Anyone who studied under him would be recommended by Ren Fang.
+Ziye is Ren Fang's cousin, but he doesn't go to see him, and Ren Fang resents him.
+After a long time, in addition to being granted the title of King Ancheng of the Right Army to join the army, he was immediately moved to the post of concurrently serving as Wei Zheng.
+At that time, criminal judgment documents were jointly signed by officials from the three parties. Once when Ziye was absent, his colleagues signed his name. The memorial was not approved, and Ziye was implicated and was dismissed.
+Someone advised him to explain the facts to Yusi, and he would be clear of fault.
+Ziye smiled and replied: "Although I feel ashamed that I don't have Liu Ji's conduct, I can't get a job by litigating."
+He has been deposed for a long time since then and has no hatred at all.
+In the second year, Xiao Jing, Marquis of Wu Ping, was appointed as the governor of Southern Yanzhou. He was introduced to serve as the champion. After Xiao Jing was transferred, he was dismissed.
+At that time, Zhongshu Fan Zhen had no contact with Ziye, but he praised him when he heard that he had good character and industry achievements.
+Fan Zhenqian was appointed as the doctor of Guozi, and he immediately recommended Ziye, saying: I heard that Pei Ziye, the former secretary of the Champion Mansion, joined the army in Hedong. He was forty years old and had a few words. He was endowed with superhuman conduct when he was young. When he grew up, he developed excellent moral integrity. He followed etiquette during mourning. Grief was almost life-threatening. After the mourning period was over, he still had no food.
+He was in a lower position, with a humble body and a low reputation, but his temperament was not greedy and he did not deceive his spouse. Therefore, knowledgeable people respected him and people in his hometown admired him.
+Moreover, his family knowledge has been passed down from generation to generation, he has studied Confucianism and history, read a lot of books, and devoted himself to research and writing in his daily life and actions.
+He is the author of twenty volumes of "Song Lue", which runs through the beginning and end, writing the history of a dynasty and writing articles and records, which are worth watching.
+Moreover, the analysis of chapters and sentences is accurate and detailed, and the explanations of words can be handed down from generation to generation. If he is allowed to serve in the school, it will be a great reward for future generations, and the debate on misinformation issues such as Yikui can be found.
+
+summary:
+summary line 0: Pei Ziye, courtesy name Jiyuan, was from Wenxi, Hedong, and a descendant of Jin Dynasty royalty. He was raised by his grandmother after his mother died at his birth, and showed deep filial piety when she passed when he was nine. Known for his studiousness and literary skill, he began his official career as Zuo Changshi of the Wuling Kingdom of Qi. His mourning period for his father was so exemplary that withered grass and a white rabbit appeared at his father's tomb. Fan Yun praised his conduct but died before reporting it to the emperor. Ren Fang, a famous scholar, resented Ziye for not visiting him, despite being a cousin. Ziye later served as a military advisor but was dismissed when a document was signed in his absence without his knowledge. He refused to litigate to clear his name, accepting the dismissal without resentment.
+
+Chunk 2: 
+original: 
+高祖目子野而言曰： 其形虽弱，其文甚壮。
+俄又敕为书喻魏相元叉，其夜受旨，子野谓可待旦方奏，未之为也。及五鼓，敕催令开斋速上，子野徐起操笔，昧爽便就。
+既奏，高祖深嘉焉。
+自是凡诸符檄，皆令草创。
+子野为文典而速，不尚丽靡之词。其制作多法古，与今文体异，当时或有诋诃者，及其末皆翕然重之。
+或问其为文速者，子野答云： 人皆成于手，我独成于心，虽有见否之异，其于刊改一也。
+俄迁中书侍郎，余如故。
+大通元年，转鸿胪卿，寻领步兵校尉。
+子野在禁省十余年，静默自守，未尝有所请谒，外家及中表贫乏，所得俸悉分给之。
+无宅，借官地二亩，起茅屋数间。
+妻子恒苦饥寒，唯以教诲为本，子侄祗畏，若奉严君。
+末年深信释氏，持其教戒，终身饭麦食蔬。
+中大通二年，卒官，年六十二。
+先是子野自克死期，不过庚戌岁。
+是年自省移病，谓同官刘之亨曰： 吾其逝矣。
+遗命俭约，务在节制。
+高祖悼惜，为之流涕。
+诏曰： 鸿胪卿、领步兵校尉、知著作郎、兼中书通事舍人裴子野，文史足用，廉白自居，劬劳通事，多历年所。
+奄致丧逝，恻怆空怀。
+可赠散骑常侍，赙钱五万，布五十匹，即日举哀。
+谥曰贞子。
+子野少时，《集注丧服》、《续裴氏家传》各二卷，抄合后汉事四十余卷，又敕撰《众僧传》二十卷，《百官九品》二卷，《附益谥法》一卷，《方国使图》一卷，文集二十卷，并行于世。
+又欲撰《齐梁春秋》，始草创，未就而卒。
+子謇，官至通直郎。
+顾协，字正礼，吴郡吴人也。
+晋司空和七世孙。
+协幼孤，随母养于外氏。
+translation: 
+Emperor Gaozu looked at Ziye and said: Although his appearance is weak, his writing is heroic.
+Immediately, he was ordered to draft an edict to Wei Xiangyuan. After accepting the edict that night, Ziye thought that it could be submitted tomorrow, so he did not start writing. However, at five o'clock, Shaoshu urged him to hand in the article at Kai Zhaimen. Wang Shu wrote calmly, and it was completed at dawn.
+After the performance, the stage manager was very complimentary.
+Naturally, he was asked to draft all kinds of talismans.
+Ziye's articles were elegant and quick to write, and he did not advocate gorgeous words and sentences. His style mostly imitated the ancients, which was different from today's style. Some people slandered him at the time, but they all respected him later.
+When asked about the reason why he wrote quickly, Ziye replied: "People's articles are written by hand, and I wrote them with my heart alone. Although there are differences that I can see and cannot see, the modifications are the same."
+Soon he was moved to the post of Vice Minister of Zhongshu, and the other posts remained as before.
+In the first year of Datong, he was transferred to Hongluqing, and then concurrently served as the infantry captain.
+Ziye served in the palace for more than ten years. He was quiet, clean and self-respecting. He never made any demands. Since his mother's family and father's family were poor, he gave all his salary to them.
+There was no residence, so we borrowed two acres of official land and built several thatched houses.
+His wife and children often suffered from hunger and cold, but he only focused on teaching. His children and nephews respected him as they served their father.
+In his later years, he believed deeply in Buddhism, strictly abided by religious rules, and only ate vegetarian food throughout his life.
+In the second year of Zhongdatong, he died in office at the age of sixty-two.
+First, Ziye himself estimated that his death date would not be past the Gengxu year.
+In the year of Zao, he reflected on himself and asked to retire. He said to his colleague Liu Zhiheng: I am going to pass away.
+We must be frugal and moderate in dispatching and funeral arrangements.
+Emperor Gaozu mourned and shed tears for him.
+The edict said: Pei Ziye, Qing Honglu, the captain of the infantry academy, the intellectual scholar, and the general secretary of Zhongshu, has sufficient knowledge of literature and history, is honest and self-respecting, and has worked hard for many years.
+Sudden loss makes people sad and missed.
+He can be given as a posthumous gift to the regular attendants of Sanqi, 50,000 yuan for the funeral, and 50 pieces of cloth, and he will be buried in the near future.
+The nickname is Sadako.
+When Ziye was young, he compiled two volumes each of "Collection of Mourning Clothes" and "Continued Biography of the Pei Family", and more than forty volumes of excerpts of events in the Later Han Dynasty. Shaoling also compiled twenty volumes of "Biography of Gan Seng", two volumes of "Hundred Officials and Nine Ranks", one volume of "Fu Yi Mi Fa", one volume of "Pictures of Fang Guo Envoy", and twenty volumes of collected works, all of which have been circulated in the world.
+He also wanted to compile "Qi Liang Chun Qiu" and had started drafting it, but he died before it could be completed.
+His son Pei Jian was promoted to Tongzhilang.
+Gu Xie, whose courtesy name is Zhengli, is from Wu County, Wu County.
+The seventh-generation grandson of Gu He, Sikong of the Jin Dynasty.
+Gu Xie lost his father when he was young and was raised with his mother in his grandfather's house.
+
+summary:
+summary line 1: Fan Zhen later recommended Ziye, praising his moral integrity, filial piety, and scholarly achievements, including his twenty-volume "Song Lue." Despite some officials objecting to his qualifications, Ziye was appointed as Minister Bibu Lang and later as a county magistrate, where he resolved disputes through reasoning, eliminating lawsuits. He completed his great-grandfather's unfinished history, earning praise from Shen Yue and others. He was then appointed as a historian and editor, known for his broad knowledge, such as identifying the origins of envoys from the Baiti and Hua kingdoms. He compiled the "Picture of Envoys from Fang Kingdom" and was admired by contemporaries like Liu Xian and Liu Zhilin. In the seventh year of the ordinary year, he drafted an edict against Wei quickly, impressing Emperor Gaozu with his heroic writing. Ziye's style imitated the ancients, and he wrote quickly, saying he wrote with his heart. He served in the palace for over a decade, living frugally, giving his salary to poor relatives, and supporting his family on borrowed land. He was a devout Buddhist vegetarian in his later years. He died at sixty-two, and the emperor mourned him, granting posthumous honors and a burial. His works include "Collection of Mourning Clothes," "Continued Biography of the Pei Family," and others.
+
+Chunk 4: 
+original: 
+大同八年，卒，时年七十三。
+高祖悼惜之，手诏曰： 员外散骑常侍、鸿胪卿、兼中书通事舍人顾协，廉洁自居，白首不衰，久在省闼，内外称善。
+奄然殒丧，恻怛之怀，不能已已。
+傍无近亲，弥足哀者。
+大殓既毕，即送其丧柩还乡，并营冢椁，并皆资给，悉使周办。
+可赠散骑常侍，令便举哀。
+谥曰温子。
+协少清介有志操。
+初为廷尉正，冬服单薄，寺卿蔡法度谓人曰： 我愿解身上襦与顾郎，恐顾郎难衣食者。
+竟不敢以遗之。
+及为舍人，同官者皆润屋，协在省十六载，器服饮食，不改于常。
+有门生始来事协，知其廉洁，不敢厚饷，止送钱二千，协发怒，杖二十，因此事者绝于馈遗。
+自丁艰忧，遂终身布衣蔬食。
+少时将娉舅息女，未成婚而协母亡，免丧后不复娶。
+至六十余，此女犹未他适，协义而迎之。
+晚虽判合，卒无胤嗣。
+协博极群书，于文字及禽兽草木尤称精详。
+撰《异姓苑》五卷，《琐语》十卷，并行于世。
+徐摛，字士秀，东海郯人也。
+祖凭道，宋海陵太守。
+父超之，天监初仕至员外散骑常侍。
+摛幼而好学，及长，遍览经史。
+属文好为新变，不拘旧体。
+起家太学博士，迁左卫司马。
+会晋安王纲出戍石头，高祖谓周舍曰： 为我求一人，文学俱长兼有行者，欲令与晋安游处。
+舍曰： 臣外弟徐摛，形质陋小，若不胜衣，而堪此选。
+高祖曰： 必有仲宣之才，亦不简其容貌。
+以摛为侍读。
+后王出镇江州，仍补云麾府记室参军，又转平西府中记室。
+translation: 
+He died in the eighth year of his reign at the age of seventy-three.
+Emperor Gaozu mourned and remembered him, and wrote a letter from Shao: "I was a member of the imperial family, a regular servant of Sanqi, a minister of Honglu, and a general secretary of Zhongshu. I was honest and self-respected. I never faded even when I was old. I stayed in the palace for a long time and was praised by people both inside and outside for my good deeds."
+Passed away suddenly, sadly missed. Can't stop.
+He has no close relatives, which makes people even more sad.
+After getting dressed and putting the coffin in, he immediately sent the coffin back to his hometown, built a cemetery coffin and paid for it, and tried his best to get everything done.
+You can posthumously give him a casual knight as a permanent attendant, so that he can express his condolences.
+Mi's nickname is Wen Zi.
+When Gu Xie was young, he was upright, upright and ambitious.
+When he first took office as Tingweizheng, his clothes were thin in winter. Ji Fadu, the minister of the temple, said to people: I would like to give the short coat I am wearing to Shou Lang. I am afraid that Shou Lang will not be able to accept the food and clothing given by others.
+I didn't dare to give him the short coat.
+When he took office, his fellow officials all decorated their houses. Gu Xie stayed in the official office for sixteen years, providing food and clothing and did not change the previous situation.
+The disciple came to see Gu Xie for something. Knowing that he was honest, he did not dare to give him a generous gift. He only gave him 2,000 yuan. Gu Xie became angry. He was beaten twenty times with a rod. From then on, anyone who came to him for trouble would never give him a gift.
+Since the death of his parents, he has been a vegetarian all his life.
+When he was young, he was engaged to his uncle's daughter. Before they got married, Gu Xie's mother died and he did not marry her after the mourning period expired.
+When she was more than sixty years old, the girl did not remarry. Gu Xie married her because of her affection.
+Although he got married in his later years, he had no children.
+Gu Xie is well-read and knows more about writing, animals, and plants.
+He compiled five volumes of "Yi Xing Yuan" and ten volumes of "Suo Yu", both of which have been circulated in the world.
+Xu Zhai, courtesy name Shixiu, was from Tan, Donghai.
+My grandfather Pingdao was the prefect of Hailing in the Song Dynasty.
+His father surpassed him. In the early years of Tianjian, he often served as an official on horseback.
+Xu Gan was young and eager to learn. When he grew up, he read books on classics and history.
+The writing is so new and varied, and doesn't stick to the old style.
+He started as a doctor of Taixue and moved to Sima Zuowei.
+At this time, King Gang of Jin'an went out to garrison the stone. Emperor Gaozu said to Zhou She: I am looking for a person for me who is good at literature and has good character. I want him to associate with Jin'an and accompany him.
+Zhou She said: My cousin Xu Go is humble in appearance and may not be able to wear more clothes, but he is capable of doing this job.
+Emperor Gaozu said: If Wang Can had talent, there would be no need to pick on his appearance.
+Let Xu Zhi serve as an attendant.
+Later, when the King of Jin'an left Zhenjiang Prefecture, he appointed Xu Gao as the Record Office of Yunhui Prefecture to join the army, and then he was transferred to the Record Office of Pingxi Prefecture.
+
+summary:
+summary line 2: Gu Xie, courtesy name Zhengli, from Wu County, lost his father young and was raised by his grandfather. As a child, he expressed a desire for seclusion, impressing his maternal grandfather. He was studious and praised for his concentration. He began his career as a historian in Yangzhou and later as a Taixue doctor. Minister Shen Yue praised his policy essay as unmatched since the Eastern Jin. He served in various roles, including as a magistrate and military advisor. At sixty, he was recommended for his conduct and knowledge, though he remained indifferent to fame. He was appointed as a minister and died at seventy-three. The emperor mourned him, noting his honesty and lack of close relatives. Gu Xie was known for his integrity, refusing gifts and living frugally. He married his uncle's daughter in his sixties, having no children. He was well-read and compiled works like "Yi Xing Yuan" and "Suo Yu."
+
+Chunk 6: 
+original: 
+太宗从其议。
+除太子左卫率。
+太清三年，侯景攻陷台城，时太宗居永福省，贼众奔入，举兵上殿，侍卫奔散，莫有存者。
+摛独嶷然侍立不动，徐谓景曰： 侯公当以礼见，何得如此。
+凶威遂折。
+侯景乃拜，由是常惮摛。
+太宗嗣位，进授左卫将军，固辞不拜。
+太宗后被幽闭，摛不获朝谒，因感气疾而卒，年七十八。
+长子陵，最知名。
+鲍泉，字润岳，东海人也。
+父机，湘东王谘议参军。
+泉博涉史传，兼有文笔。
+少事元帝，早见擢任。
+及元帝承制，累迁至信州刺史。
+太清三年，元帝命泉征河东王誉于湘州，泉至长沙，作连城以逼之，誉率众攻泉，泉据栅坚守，誉不能克。
+泉因其弊出击之，誉大败，尽俘其众，遂围其城，久未能拔。
+世祖乃数泉罪，遣平南将军王僧辩代泉为都督。
+僧辩至，泉愕然，顾左右曰： 得王竟陵助我经略，贼不足平矣。
+僧辩既入，乃背泉而坐，曰： 鲍郎有罪，令旨使我锁卿，卿勿以故意见期。
+因出令示泉，锁之床下。
+泉曰： 稽缓王师，甘罪是分，但恐后人更思鲍泉之愦愦耳。
+乃为启谢淹迟之罪。
+世祖寻复其任，令与僧辩等率舟师东逼邵陵王于郢州。
+郢州平，元帝以长子方诸为刺史，泉为长史，行府州事。
+侯景密遣将宋子仙、任约率精骑袭之。方诸与泉不恤军政，唯蒲酒自乐，贼骑至，百姓奔告，方诸与泉方双陆，不信，曰： 徐文盛大军在东，贼何由得至？
+既而传告者众，始令阖门。贼纵火焚之，莫有抗者，贼骑遂入，城乃陷。
+执方诸及泉送之景所。
+后景攻王僧辩于巴陵，不克，败还，乃杀泉于江夏，沉其尸于黄鹄矶。
+translation: 
+Taizong listened to his advice.
+Later, he was awarded the title of Prince Zuowei.
+In the third year of Taiqing, Hou Jing captured Taicheng and sent Taizong to live in Yongfu Province. The thieves rushed in and raised their troops to the palace. The palace guards fled and no one was willing to stay.
+Xu Zhai stood alone and solemnly without moving, and slowly said to Hou Jing: "The Duke of Hou is supposed to bow before you, how can you do this?"
+Hou Jing was impressed by his fierceness.
+Hou Jing then paid homage to him, and from then on he was often afraid of Xu Gao.
+Taizong succeeded to the throne and was awarded the title of General Zuowei, but Xu Gao refused to accept the title.
+Later, Taizong was imprisoned, and Xu Zhai could not go to court. He died of a gas disease at the age of seventy-eight.
+The eldest son, Xu Ling, is the most famous.
+Bao Quan, whose courtesy name is Runyue, is from Donghai.
+His father, Bao Ji, was consulted by the king of eastern Hunan to join the army.
+Bao Quan was well-read in historical and biographical books and was good at writing both rhymed and non-rhymed articles.
+He served Emperor Yuan when he was young and was promoted and appointed very early.
+After Emperor Yuan inherited the throne, Lei moved to Xinzhou as governor.
+In the third year of Taiqing, Emperor Yuan ordered Bao Quan to go to Xiangzhou to conquer Xiao Yu, the king of Hedong. Bao Quan went to Changsha and deployed neighboring cities to force Xiao Yu. Xiao Yu led his troops to attack Bao Quan. Bao Quan held on to the fence, but Xiao Yu could not conquer it.
+Bao Quan took advantage of his fatigue to attack again, and Xiao Yu was defeated. Bao Quan captured many of his soldiers and surrounded the city, but could not capture it for a long time.
+The emperor Shizu denounced Bao Quan's crimes and sent Pingnan General Wang Sengbian to replace Bao Quan as governor.
+When the monk argued with the army, Bao Quan was very surprised and said to the people around him: "With Wang Jingling's help in my strategy, I can pacify the bandits without any effort."
+Monk Bian entered the room, sat with his back to Bao Quan, and said, "Bao Lang is guilty, and I have ordered you to be imprisoned. Please don't have any hope based on the feelings of an old friend."
+So he showed Bao Quan the edict and locked him under the bed.
+Bao Quan said: "I am willing to plead guilty for delaying the attack of the king's army, but I am afraid that people in the future will think more of Quan's confusion."
+So Seng Bian petitioned to forgive Bao Quan for his delay in using the army.
+Shizu soon resumed his position and ordered him, Seng Bian and others to lead a fleet of boats from Yingzhou in the east to attack King Shaoling.
+After pacifying Yingzhou, Emperor Yuan appointed his eldest son Fang Zhu as governor and Bao Quan as chief historian to handle the affairs of the prefecture.
+Hou Jingmi sent generals Song Zixian and Ren Yue to attack Yingzhou with fine cavalry. Fang Zhuyu Bao Quan did not consider military affairs, but only gambled and drunkenly enjoyed himself. When thieves and cavalry arrived, the people rushed to report. Fang Zhuyu Bao Quan was playing games and did not believe it. He said: "Xu Wensheng's army is guarding Shumian, how can the thieves come?"
+Then many people were informed, so the city gates were closed. The thieves set fire to the city. No one dared to resist. The thieves' cavalry were able to enter the city and the city fell.
+The arrests of Fang Zhu and Bao Quan were sent to Hou Jing's office.
+Later, Hou Jing attacked Wang Sengbian in Baling, but failed to capture him. He returned after failure, so he killed Bao Quan in Jiangxia and sunk his body in Huanghuji.
+
+summary:
+summary line 3: Xu Zhai, courtesy name Shixiu, from Donghai, was studious and known for his innovative writing. He served as a Taixue doctor and was recommended by Zhou She to accompany Prince Jin'an, despite his plain appearance. He held various posts, including as a magistrate and military advisor. His writing style, known as "gong style," was imitated in the palace, initially angering Emperor Gaozu but later earning his favor. Zhu Yi, feeling threatened, had Xu Zhai appointed as prefect of Xin'an, where he governed fairly and improved customs. He later served as a general and advisor on marriage rituals, advising the emperor on proper etiquette. During Hou Jing's rebellion, Xu Zhai stood firm, impressing Hou Jing with his fierceness. He died at seventy-eight after refusing a general title. His eldest son, Xu Ling, was famous.
+
+Chunk 6: 
+original: 
+太宗从其议。
+除太子左卫率。
+太清三年，侯景攻陷台城，时太宗居永福省，贼众奔入，举兵上殿，侍卫奔散，莫有存者。
+摛独嶷然侍立不动，徐谓景曰： 侯公当以礼见，何得如此。
+凶威遂折。
+侯景乃拜，由是常惮摛。
+太宗嗣位，进授左卫将军，固辞不拜。
+太宗后被幽闭，摛不获朝谒，因感气疾而卒，年七十八。
+长子陵，最知名。
+鲍泉，字润岳，东海人也。
+父机，湘东王谘议参军。
+泉博涉史传，兼有文笔。
+少事元帝，早见擢任。
+及元帝承制，累迁至信州刺史。
+太清三年，元帝命泉征河东王誉于湘州，泉至长沙，作连城以逼之，誉率众攻泉，泉据栅坚守，誉不能克。
+泉因其弊出击之，誉大败，尽俘其众，遂围其城，久未能拔。
+世祖乃数泉罪，遣平南将军王僧辩代泉为都督。
+僧辩至，泉愕然，顾左右曰： 得王竟陵助我经略，贼不足平矣。
+僧辩既入，乃背泉而坐，曰： 鲍郎有罪，令旨使我锁卿，卿勿以故意见期。
+因出令示泉，锁之床下。
+泉曰： 稽缓王师，甘罪是分，但恐后人更思鲍泉之愦愦耳。
+乃为启谢淹迟之罪。
+世祖寻复其任，令与僧辩等率舟师东逼邵陵王于郢州。
+郢州平，元帝以长子方诸为刺史，泉为长史，行府州事。
+侯景密遣将宋子仙、任约率精骑袭之。方诸与泉不恤军政，唯蒲酒自乐，贼骑至，百姓奔告，方诸与泉方双陆，不信，曰： 徐文盛大军在东，贼何由得至？
+既而传告者众，始令阖门。贼纵火焚之，莫有抗者，贼骑遂入，城乃陷。
+执方诸及泉送之景所。
+后景攻王僧辩于巴陵，不克，败还，乃杀泉于江夏，沉其尸于黄鹄矶。
+translation: 
+Taizong listened to his advice.
+Later, he was awarded the title of Prince Zuowei.
+In the third year of Taiqing, Hou Jing captured Taicheng and sent Taizong to live in Yongfu Province. The thieves rushed in and raised their troops to the palace. The palace guards fled and no one was willing to stay.
+Xu Zhai stood alone and solemnly without moving, and slowly said to Hou Jing: "The Duke of Hou is supposed to bow before you, how can you do this?"
+Hou Jing was impressed by his fierceness.
+Hou Jing then paid homage to him, and from then on he was often afraid of Xu Gao.
+Taizong succeeded to the throne and was awarded the title of General Zuowei, but Xu Gao refused to accept the title.
+Later, Taizong was imprisoned, and Xu Zhai could not go to court. He died of a gas disease at the age of seventy-eight.
+The eldest son, Xu Ling, is the most famous.
+Bao Quan, whose courtesy name is Runyue, is from Donghai.
+His father, Bao Ji, was consulted by the king of eastern Hunan to join the army.
+Bao Quan was well-read in historical and biographical books and was good at writing both rhymed and non-rhymed articles.
+He served Emperor Yuan when he was young and was promoted and appointed very early.
+After Emperor Yuan inherited the throne, Lei moved to Xinzhou as governor.
+In the third year of Taiqing, Emperor Yuan ordered Bao Quan to go to Xiangzhou to conquer Xiao Yu, the king of Hedong. Bao Quan went to Changsha and deployed neighboring cities to force Xiao Yu. Xiao Yu led his troops to attack Bao Quan. Bao Quan held on to the fence, but Xiao Yu could not conquer it.
+Bao Quan took advantage of his fatigue to attack again, and Xiao Yu was defeated. Bao Quan captured many of his soldiers and surrounded the city, but could not capture it for a long time.
+The emperor Shizu denounced Bao Quan's crimes and sent Pingnan General Wang Sengbian to replace Bao Quan as governor.
+When the monk argued with the army, Bao Quan was very surprised and said to the people around him: "With Wang Jingling's help in my strategy, I can pacify the bandits without any effort."
+Monk Bian entered the room, sat with his back to Bao Quan, and said, "Bao Lang is guilty, and I have ordered you to be imprisoned. Please don't have any hope based on the feelings of an old friend."
+So he showed Bao Quan the edict and locked him under the bed.
+Bao Quan said: "I am willing to plead guilty for delaying the attack of the king's army, but I am afraid that people in the future will think more of Quan's confusion."
+So Seng Bian petitioned to forgive Bao Quan for his delay in using the army.
+Shizu soon resumed his position and ordered him, Seng Bian and others to lead a fleet of boats from Yingzhou in the east to attack King Shaoling.
+After pacifying Yingzhou, Emperor Yuan appointed his eldest son Fang Zhu as governor and Bao Quan as chief historian to handle the affairs of the prefecture.
+Hou Jingmi sent generals Song Zixian and Ren Yue to attack Yingzhou with fine cavalry. Fang Zhuyu Bao Quan did not consider military affairs, but only gambled and drunkenly enjoyed himself. When thieves and cavalry arrived, the people rushed to report. Fang Zhuyu Bao Quan was playing games and did not believe it. He said: "Xu Wensheng's army is guarding Shumian, how can the thieves come?"
+Then many people were informed, so the city gates were closed. The thieves set fire to the city. No one dared to resist. The thieves' cavalry were able to enter the city and the city fell.
+The arrests of Fang Zhu and Bao Quan were sent to Hou Jing's office.
+Later, Hou Jing attacked Wang Sengbian in Baling, but failed to capture him. He returned after failure, so he killed Bao Quan in Jiangxia and sunk his body in Huanghuji.
+
+summary:
+summary line 4: Bao Quan, courtesy name Runyue, from Donghai, was well-read and skilled in writing. He served Emperor Yuan and was appointed governor of Xinzhou. He defeated Xiao Yu but was later accused of delaying the king's army and imprisoned by Wang Sengbian. He was forgiven and later served as chief historian in Yingzhou. The city fell due to neglect by Fang Zhu and Bao Quan, who were captured by Hou Jing. Bao Quan was killed in Jiangxia. He had prophetic dreams about his fate. He was an expert on "Ritual" and compiled forty volumes of "Xinyi."
+
+Chunk 7: 
+original: 
+初，泉之为南讨都督也，其友人梦泉得罪于世祖，觉而告之。
+后未旬，果见囚执。
+顷之，又梦泉著硃衣而行水上，又告泉曰： 君勿忧，寻得免矣。
+因说其梦，泉密记之，俄而复见任，皆如其梦。
+泉于《仪礼》尤明，撰《新仪》四十卷，行于世。
+陈吏部尚书姚察曰：阮孝绪常言，仲尼论四科，始乎德行，终乎文学。
+有行者多尚质朴，有文者少蹈规矩，故卫、石靡余论可传，屈、贾无立德之誉。
+若夫宪章游、夏，祖述回、骞，体兼文行，于裴几原见之矣。
+translation: 
+When Bao Quan went to serve as the governor of Nanchao, his friend dreamed that Bao Quan had offended Shizu and told Bao Quan when he woke up.
+Within ten days, Bao Quan was indeed arrested.
+Soon, he dreamed of Bao Quan walking on the water wearing a red official uniform, and told Bao Quan: "Don't worry, you will be exempted from guilt soon."
+He told the dream to Bao Quan. Bao Quan kept a secret record of the matter and was appointed again soon, and he fulfilled what was said in the dream.
+Bao Quan knew "Ritual" best and compiled forty volumes of "Xinyi", which was circulated in the world.
+Yao Cha, the official secretary of the Chen Dynasty, said: Ruan Xiaoxu often said: Zhongni discusses four subjects, starting with virtue and ending with literature.
+Most virtuous people advocate simplicity, while most literary people do not abide by the rules. Therefore, Wei Wan and Shi Fen have nothing to spread, and Qu Yuan and Jia Yi have no reputation for virtue.
+Like following Ziyou and Zixia, imitating Yan Hui and Ziqian, virtue and literature coexist, which can be seen in Pei Jiyuan.
+
+summary:
+summary line 5: Yao Cha noted that Ruan Xiaoxu observed that virtue and literature rarely coexist, but Pei Ziye exemplified both, combining the qualities of Ziyou, Zixia, Yan Hui, and Ziqian.
+

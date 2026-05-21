@@ -1,0 +1,468 @@
+Summary uses chunk [0, 0, 1, 5, 6, 7]
+
+Chunk 0: 
+original: 
+孔子曰 受业身通者七十有七人 ，皆异能之士也。
+德行：颜渊，闵子骞，冉伯牛，仲弓。
+政事：冉有，季路。
+言语：宰我，子贡。
+文学：子游，子夏。
+师也辟，参也鲁，柴也愚，由也喭，回也屡空。
+赐不受命而货殖焉，亿则屡中。
+孔子之所严事：於周则老子；於卫，蘧伯玉；於齐，晏平仲；於楚，老莱子；於郑，子产；於鲁，孟公绰。
+数称臧文仲、柳下惠、铜鞮伯华、介山子然，孔子皆後之，不并世。
+颜回者，鲁人也，字子渊。
+少孔子三十岁。
+颜渊问仁，孔子曰： 克己复礼，天下归仁焉。
+孔子曰： 贤哉回也！
+一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。
+回也如愚；退而省其私，亦足以发，回也不愚。
+用之则行，舍之则藏，唯我与尔有是夫！
+回年二十九，发尽白，蚤死。
+孔子哭之恸，曰： 自吾有回，门人益亲。
+鲁哀公问： 弟子孰为好学？
+孔子对曰： 有颜回者好学，不迁怒，不贰过。
+不幸短命死矣，今也则亡。
+闵损字子骞。少孔子十五岁。
+孔子曰： 孝哉闵子骞！
+人不间於其父母昆弟之言。
+不仕大夫，不食汙君之禄。 如有复我者，必在汶上矣。
+冉耕字伯牛。
+孔子以为有德行。
+伯牛有恶疾，孔子往问之，自牖执其手，曰： 命也夫！
+斯人也而有斯疾，命也夫！ 冉雍字仲弓。
+仲弓问政，孔子曰： 出门如见大宾，使民如承大祭。
+在邦无怨，在家无怨。
+translation: 
+Confucius said: There are seventy-seven disciples who have studied with me and become proficient in the six arts. They are all people with extraordinary talents.
+Outstanding in virtue: Yan Yuan, Min Ziqian, Ran Boniu, Zhong Gong.
+Those who are good at handling political affairs: Ran You, Ji Lu.
+In terms of language: Zaiwo, Zigong.
+Articles on erudition: Ziyou, Zixia.
+Master Zhuan Sun was extreme, Zeng Shen was slow, Gao Chai was stupid, Zhong You was rude, and Yan Hui was often poor and had nothing.
+Duanmuci did not accept the mercy of fate and went into business, but his predictions on the market were often accurate.
+The people whom Confucius respected: in the Zhou Dynasty, it was Laozi; in the Wei Kingdom, it was Zang Boyu; in the Qi Kingdom, it was Yan Zhongping; in the Chu Kingdom, it was Laolaizi; in the Zheng Kingdom, it was Zichan; in the Lu Kingdom, it was Meng Gongchuo.
+He also often praised Zang Wenzhong, Liu Xiahui, Tongtan Bohua, and Jieshan Ziran. Confucius was born later than them and was not of the same era.
+Yan Hui was from the state of Lu, his courtesy name was Ziyuan.
+Thirty years younger than Confucius.
+Yan Yuan asked what benevolence was, and Confucius said: Restrain yourself and make your words and deeds conform to etiquette, and people in the world will praise you as a virtuous person.
+Confucius said: Yan Hui! What a virtuous person!
+He ate a small bamboo basket of rice, drank a ladle of water, and lived in a simple alley. Most people couldn't bear this kind of hardship, but Yan Hui didn't change his joy.
+When he was listening to my teachings, Yan Hui seemed like a stupid person. After class, I examined his private conversations and showed that he was able to express himself deliberately. Yan Hui was really not stupid.
+When you are employed, you will save the world; when you are not employed, you will hide your secrets. Only you and I have such an attitude towards life!
+Yan Hui was only twenty-nine years old, his hair turned completely white, and he died prematurely.
+Confucius cried very sadly and said: Since I had Yan Hui, the students have become closer and closer to me.
+Duke Ai of Lu asked: Who among the students is the best at learning?
+Confucius replied: There is a man named Yan Hui who had better learn from others and never transfer his anger to others and never make the same mistake again.
+Unfortunately, life was short, and after death, there are no such people anymore.
+Min Sun, also known as Ziqian, was fifteen years younger than Confucius.
+Confucius said: Min Ziqian is too filial!
+He serves his parents and obeys his brothers. Others praise him without any criticism.
+He does not want to be a retainer of a high official, and he does not want to receive a salary from an emperor. So he said: If someone calls me again, I will definitely flee to the north of Wenshui River.
+Ran Geng, courtesy name Boniu.
+Confucius thought he was virtuous.
+Boniu was suffering from an incurable disease. Confucius went to greet him, shook his hand from the window, and said: This is life!
+Such a good person got such a disease, what a fate! Ran Yong, courtesy name Zhong Gong.
+Zhong Gong asked how to handle political affairs. Confucius said: When going out to do things, be as courteous and courteous as receiving distinguished guests, and use the people as piously and cautiously as hosting a grand ceremony.
+In this way, no one will resent you if you serve in the feudal state of a prince, and no one will resent you if you serve in the home of a high official.
+
+summary:
+summary line 0: Confucius identified seventy-seven disciples proficient in the six arts, categorizing them by virtue (Yan Yuan, Min Ziqian, Ran Boniu, Zhong Gong), political skill (Ran You, Ji Lu), eloquence (Zaiwo, Zigong), and erudition (Ziyou, Zixia). He noted individual traits: Zhuan Sun was extreme, Zeng Shen slow, Gao Chai stupid, Zhong You rude, and Yan Hui poor. Zigong, rejecting fate, became a successful merchant. Confucius respected figures like Laozi, Zang Boyu, Yan Zhongping, Laolaizi, Zichan, and Meng Gongchuo, and praised others from earlier eras.
+
+Chunk 0: 
+original: 
+孔子曰 受业身通者七十有七人 ，皆异能之士也。
+德行：颜渊，闵子骞，冉伯牛，仲弓。
+政事：冉有，季路。
+言语：宰我，子贡。
+文学：子游，子夏。
+师也辟，参也鲁，柴也愚，由也喭，回也屡空。
+赐不受命而货殖焉，亿则屡中。
+孔子之所严事：於周则老子；於卫，蘧伯玉；於齐，晏平仲；於楚，老莱子；於郑，子产；於鲁，孟公绰。
+数称臧文仲、柳下惠、铜鞮伯华、介山子然，孔子皆後之，不并世。
+颜回者，鲁人也，字子渊。
+少孔子三十岁。
+颜渊问仁，孔子曰： 克己复礼，天下归仁焉。
+孔子曰： 贤哉回也！
+一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。
+回也如愚；退而省其私，亦足以发，回也不愚。
+用之则行，舍之则藏，唯我与尔有是夫！
+回年二十九，发尽白，蚤死。
+孔子哭之恸，曰： 自吾有回，门人益亲。
+鲁哀公问： 弟子孰为好学？
+孔子对曰： 有颜回者好学，不迁怒，不贰过。
+不幸短命死矣，今也则亡。
+闵损字子骞。少孔子十五岁。
+孔子曰： 孝哉闵子骞！
+人不间於其父母昆弟之言。
+不仕大夫，不食汙君之禄。 如有复我者，必在汶上矣。
+冉耕字伯牛。
+孔子以为有德行。
+伯牛有恶疾，孔子往问之，自牖执其手，曰： 命也夫！
+斯人也而有斯疾，命也夫！ 冉雍字仲弓。
+仲弓问政，孔子曰： 出门如见大宾，使民如承大祭。
+在邦无怨，在家无怨。
+translation: 
+Confucius said: There are seventy-seven disciples who have studied with me and become proficient in the six arts. They are all people with extraordinary talents.
+Outstanding in virtue: Yan Yuan, Min Ziqian, Ran Boniu, Zhong Gong.
+Those who are good at handling political affairs: Ran You, Ji Lu.
+In terms of language: Zaiwo, Zigong.
+Articles on erudition: Ziyou, Zixia.
+Master Zhuan Sun was extreme, Zeng Shen was slow, Gao Chai was stupid, Zhong You was rude, and Yan Hui was often poor and had nothing.
+Duanmuci did not accept the mercy of fate and went into business, but his predictions on the market were often accurate.
+The people whom Confucius respected: in the Zhou Dynasty, it was Laozi; in the Wei Kingdom, it was Zang Boyu; in the Qi Kingdom, it was Yan Zhongping; in the Chu Kingdom, it was Laolaizi; in the Zheng Kingdom, it was Zichan; in the Lu Kingdom, it was Meng Gongchuo.
+He also often praised Zang Wenzhong, Liu Xiahui, Tongtan Bohua, and Jieshan Ziran. Confucius was born later than them and was not of the same era.
+Yan Hui was from the state of Lu, his courtesy name was Ziyuan.
+Thirty years younger than Confucius.
+Yan Yuan asked what benevolence was, and Confucius said: Restrain yourself and make your words and deeds conform to etiquette, and people in the world will praise you as a virtuous person.
+Confucius said: Yan Hui! What a virtuous person!
+He ate a small bamboo basket of rice, drank a ladle of water, and lived in a simple alley. Most people couldn't bear this kind of hardship, but Yan Hui didn't change his joy.
+When he was listening to my teachings, Yan Hui seemed like a stupid person. After class, I examined his private conversations and showed that he was able to express himself deliberately. Yan Hui was really not stupid.
+When you are employed, you will save the world; when you are not employed, you will hide your secrets. Only you and I have such an attitude towards life!
+Yan Hui was only twenty-nine years old, his hair turned completely white, and he died prematurely.
+Confucius cried very sadly and said: Since I had Yan Hui, the students have become closer and closer to me.
+Duke Ai of Lu asked: Who among the students is the best at learning?
+Confucius replied: There is a man named Yan Hui who had better learn from others and never transfer his anger to others and never make the same mistake again.
+Unfortunately, life was short, and after death, there are no such people anymore.
+Min Sun, also known as Ziqian, was fifteen years younger than Confucius.
+Confucius said: Min Ziqian is too filial!
+He serves his parents and obeys his brothers. Others praise him without any criticism.
+He does not want to be a retainer of a high official, and he does not want to receive a salary from an emperor. So he said: If someone calls me again, I will definitely flee to the north of Wenshui River.
+Ran Geng, courtesy name Boniu.
+Confucius thought he was virtuous.
+Boniu was suffering from an incurable disease. Confucius went to greet him, shook his hand from the window, and said: This is life!
+Such a good person got such a disease, what a fate! Ran Yong, courtesy name Zhong Gong.
+Zhong Gong asked how to handle political affairs. Confucius said: When going out to do things, be as courteous and courteous as receiving distinguished guests, and use the people as piously and cautiously as hosting a grand ceremony.
+In this way, no one will resent you if you serve in the feudal state of a prince, and no one will resent you if you serve in the home of a high official.
+
+summary:
+summary line 1: Yan Hui (Yan Yuan), thirty years younger than Confucius, was praised for virtue, living frugally without changing his joy. Confucius said he restrained himself to conform to etiquette, was not stupid, and shared a philosophy of serving when employed and hiding when not. Yan Hui died prematurely at twenty-nine, causing Confucius great grief. Duke Ai of Lu was told Yan Hui was the best learner, never transferring anger or repeating mistakes.
+
+Chunk 1: 
+original: 
+孔子以仲弓为有德行，曰： 雍也可使南面。
+仲弓父，贱人。
+孔子曰： 犁牛之子骍且角，虽欲勿用，山川其舍诸？
+冉求字子有，少孔子二十九岁。
+为季氏宰。
+季康子问孔子曰： 冉求仁乎？
+曰： 千室之邑，百乘之家，求也可使治其赋。
+仁则吾不知也。
+复问： 子路仁乎？
+孔子对曰： 如求。
+求问曰： 闻斯行诸？
+子曰： 行之。
+子路问： 闻斯行诸？
+子曰： 有父兄在，如之何其闻斯行之！
+子华怪之， 敢问问同而答异？
+孔子曰： 求也退，故进之。
+由也兼人，故退之。
+仲由字子路，卞人也。
+少孔子九岁。
+子路性鄙，好勇力，志伉直，冠雄鸡，佩豭豚，陵暴孔子。
+孔子设礼稍诱子路，子路後儒服委质，因门人请为弟子。
+子路问政，孔子曰： 先之，劳之。
+请益。
+曰： 无倦。
+子路问： 君子尚勇乎？
+孔子曰： 义之为上。
+君子好勇而无义则乱，小人好勇而无义则盗。
+子路有闻，未之能行，唯恐有闻。
+孔子曰： 片言可以折狱者，其由也与！
+由也好勇过我，无所取材。
+若由也，不得其死然。
+衣敝缊袍与衣狐貉者立而不耻者，其由也与！
+由也升堂矣，未入於室也。
+季康子问： 仲由仁乎？
+孔子曰： 千乘之国可使治其赋，不知其仁。
+子路喜从游，遇长沮、桀溺、荷丈人。
+子路为季氏宰，季孙问曰： 子路可谓大臣与？
+孔子曰： 可谓具臣矣。
+子路为蒲大夫，辞孔子。
+孔子曰： 蒲多壮士，又难治。
+然吾语汝：恭以敬，可以执勇；宽以正，可以比众；恭正以静，可以报上。
+初，卫灵公有宠姬曰南子。
+translation: 
+Confucius thought that Zhong Gong had achieved great achievements in virtue and said: Ran Yong, you can make him a high official like a senior official.
+Zhong Gong's father was a man of humble status.
+Confucius used an analogy and said: A mottled cow gives birth to a red calf with round and straight horns. Even if you don't want to use it as a sacrifice, will the gods of the mountains and rivers abandon it?
+Ran Qiu, also known as Zi You, was twenty-nine years younger than Confucius.
+As the head of Li family's retainers.
+Ji Kangzi asked Confucius: Is Ran Qiu virtuous?
+Confucius replied: There is a city with a thousand households and a fief with a hundred chariots. Ran Qiu can manage the military and political affairs there well.
+As for whether he is benevolent or not, I don't know.
+Ji Kangzi asked again: Is Zilu virtuous?
+Confucius replied: Just like Ran Qiu.
+Ran Qiu asked Confucius: Do you act immediately when you hear what you should do?
+Confucius replied: Act immediately.
+Zilu asked Confucius: When you hear something you should do, should you act immediately?
+Confucius replied: How can you act immediately when you hear something when your father and brothers are here?
+Zihua felt that this was strange and said in confusion: "I boldly ask, why do you ask the same question but get different answers?"
+Confucius replied: Ran Qiu was timid and worried, so I encouraged him.
+Zhong Yu has the courage of two people to do things, so I have to restrain him.
+Zhong Yuan, named Zi Lu, was from Bian.
+Nine years younger than Confucius.
+Zilu had a rough temperament, liked to show off his strength, had a strong ambition, and was straightforward. He wore a rooster-style hat and a sword decorated with boar skin. He once bullied Confucius.
+Confucius slowly induced him with ritual music. Later, Zilu dressed in Confucian clothes and brought a gift for apprenticeship. Through the recommendation of Confucius's students, Zilu asked to be Confucius's student.
+Zilu asked how to deal with political affairs. Confucius said: You must first set an example for the people, and then you can make the people work hard.
+Zilu asked for further explanation.
+Confucius said: Be persistent.
+Zilu asked: Does a gentleman value bravery?
+Confucius said: What a gentleman values ​​most is righteousness.
+A gentleman who has no choice but to be brave but does not uphold righteousness will become rebellious and rebellious. A villain who has no choice but to be brave but not uphold righteousness will become a robber.
+Zi Lu wanted to hear some truth, but he didn't act immediately, for fear of hearing another truth.
+Confucius said: The only person who can decide a case by just listening to one side's words is Zhong You!
+Zhong Yu advocates bravery more than I can use it, so it does not apply.
+People with a temperament like Zhongyou's will not end well.
+I'm afraid Zhong You is the only one who doesn't feel ashamed to stand next to people wearing fur coats while wearing a shabby robe made of tangled linen.
+Zhong Yuan's knowledge seems to have reached the main hall, but he has not yet been able to enter the inner room.
+Ji Kangzi asked: Is Zhong You virtuous?
+Confucius replied: A country with a thousand chariots can let him manage military and political affairs. As for whether he has benevolence, I don't know.
+Zilu liked to travel with Confucius and met hermits such as Changju, Jieyou, and an old man carrying farm tools.
+Zilu became Ji's retainer. Ji Sun asked Confucius: Can Zilu be said to be a retainer?
+Confucius replied: It can be said that he is a minister who is ready to fill his position.
+Zilu was appointed as the official of Pucheng and bid farewell to Confucius.
+Confucius said: There are many brave warriors in Pu Yi, and it is difficult to govern them.
+However, I tell you: if you are respectful and humble, you can control brave people; if you are generous and honest, you can bring everyone close to you; if you are respectful and honest and the society is quiet, you can use it to serve your superiors.
+At first, Duke Linggong of Wei had a favorite concubine named Nanzi.
+
+summary:
+summary line 2: Min Ziqian, fifteen years younger, was deemed exceptionally filial, avoiding official service. Ran Boniu suffered an incurable disease; Confucius lamented his fate. Zhong Gong, asked about governance, was advised to be courteous and cautious; Confucius deemed him fit for high office despite his humble father. Ran Qiu, twenty-nine years younger, managed military affairs for the Ji family; Confucius encouraged his timidity. Zilu (Zhong You), nine years younger, was bold and straightforward, initially bullying Confucius but later becoming a disciple. Confucius taught him to prioritize righteousness over bravery, and he died in Wei during a rebellion, tying his hat before death.
+
+Chunk 5: 
+original: 
+吴王大说，乃使子贡之越。
+越王除道郊迎，身御至舍而问曰： 此蛮夷之国，大夫何以俨然辱而临之？
+子贡曰： 今者吾说吴王以救鲁伐齐，其志欲之而畏越，曰 待我伐越乃可 。
+如此，破越必矣。
+且夫无报人之志而令人疑之，拙也；有报人之志，使人知之，殆也；事未发而先闻，危也。
+三者举事之大患。
+句践顿首再拜曰： 孤尝不料力，乃与吴战，困於会稽，痛入於骨髓，日夜焦脣乾舌，徒欲与吴王接踵而死，孤之原也。
+遂问子贡。
+子贡曰： 吴王为人猛暴，群臣不堪；国家敝以数战，士卒弗忍；百姓怨上，大臣内变；子胥以谏死，太宰嚭用事，顺君之过以安其私：是残国之治也。
+今王诚发士卒佐之徼其志，重宝以说其心，卑辞以尊其礼，其伐齐必也。
+彼战不胜，王之福矣。
+战胜，必以兵临晋，臣请北见晋君，令共攻之，弱吴必矣。
+其锐兵尽於齐，重甲困於晋，而王制其敝，此灭吴必矣。
+越王大说，许诺。
+送子贡金百镒，剑一，良矛二。
+子贡不受，遂行。
+报吴王曰： 臣敬以大王之言告越王，越王大恐，曰： 孤不幸，少失先人，内不自量，抵罪於吴，军败身辱，栖于会稽，国为虚莽，赖大王之赐，使得奉俎豆而修祭祀，死不敢忘，何谋之敢虑！
+後五日，越使大夫种顿首言於吴王曰： 东海役臣孤句践使者臣种，敢修下吏问於左右。
+今窃闻大王将兴大义，诛彊救弱，困暴齐而抚周室，请悉起境内士卒三千人，孤请自被坚执锐，以先受矢石。
+因越贱臣种奉先人藏器，甲二十领，鈇屈卢之矛，步光之剑，以贺军吏。
+吴王大说，以告子贡曰： 越王欲身从寡人伐齐，可乎？
+子贡曰： 不可。
+夫空人之国，悉人之众，又从其君，不义。
+君受其币，许其师，而辞其君。
+吴王许诺，乃谢越王。
+於是吴王乃遂发九郡兵伐齐。
+子贡因去之晋，谓晋君曰： 臣闻之，虑不先定不可以应卒，兵不先辨不可以胜敌。
+今夫齐与吴将战，彼战而不胜，越乱之必矣；与齐战而胜，必以其兵临晋。 晋君大恐，曰： 为之柰何？
+子贡曰： 修兵休卒以待之。
+晋君许诺。
+子贡去而之鲁。
+吴王果与齐人战於艾陵，大破齐师，获七将军之兵而不归，果以兵临晋，与晋人相遇黄池之上。
+吴晋争彊。晋人击之，大败吴师。
+越王闻之，涉江袭吴，去城七里而军。
+吴王闻之，去晋而归，与越战於五湖。
+三战不胜，城门不守，越遂围王宫，杀夫差而戮其相。
+破吴三年，东向而霸。
+故子贡一出，存鲁，乱齐，破吴，彊晋而霸越。
+子贡一使，使势相破，十年之中，五国各有变。
+子贡好废举，与时转货赀。
+translation: 
+King Wu was very happy, so he sent Zigong to Yue.
+The King of Yue cleared the road and went to the outskirts to greet Zigong. He personally drove his car to the residence where Zigong was staying and asked, "This is a remote and backward country. Why did the doctor humiliate his solemn status and come here?"
+Zigong replied: Now I have persuaded King Wu to rescue Lu and attack Qi. He wanted to do this but was afraid of Yue and said, "Wait until I capture Yue."
+Like this, it is inevitable to conquer the Yue Kingdom.
+Besides, it would be too clumsy to make people suspicious of someone without the intention to retaliate; it would be unsafe to have people know about it if he has the intention to seek revenge; it would be too dangerous to let people know about it before the matter has started.
+These three situations are the biggest disaster in getting things done.
+After hearing this, Gou Jian kowtowed to the ground and bowed again and said: I once overestimated my capabilities and went to war with Wu. I was besieged in Kuaiji. I hated him so much that my lips were parched day and night. I only wanted to fight to the death with the King of Wu. This is my wish.
+So he asked Zigong what to do.
+Zigong said: The king of Wu was ferocious and cruel, and the ministers could not bear it; the country fought many wars, which made it exhausted and decayed, and the soldiers could not bear it; the people resented the king, and there were internal disturbances among the ministers; Wu Zixu was killed for his remonstrances, and the chief minister came to power, complied with the fault of the king, and used it to protect his own selfish interests. This is a political manifestation of harming the country.
+Now if the king can really send troops to assist the king of Wu, appeal to his will, use heavy gold and treasures to win his favor, and honor him with humble words to show respect for him, he will definitely attack Qi.
+If that war cannot be won, it will be your great blessing.
+If he wins, he will definitely lead his troops to approach Jin. Please let me go north to meet the king of Jin and let him attack it together. This will definitely weaken the power of Wu.
+When all their elite troops were consumed in the Qi State, the heavy troops were restrained by the Jin State, and the king took advantage of its exhaustion to attack it, which would surely destroy the Wu State.
+The King of Yue was very happy and agreed to act according to the plan.
+He gave Zigong a hundred yi of gold, a precious sword, and two good spears.
+Zigong didn't accept it and left.
+Zigong reported back to the King of Wu and said: I solemnly told the King of Yue what you said. The King of Yue was very frightened and said: I am very unlucky. I lost my father when I was young.
+Five days later, Wen Zhong, a senior official from the State of Yue, kowtowed to the ground and said to the King of Wu: Gou Jian, the minister of the East China Sea Service, would like to send the envoy Wen Zhong to repair your subordinates and ask them to send greetings to the king.
+Now I heard privately that the king is going to launch an army of justice to attack the violent, support the weak and tyrannical Qi State and appease the Zhou royal family. I request to send out the entire army of 3,000 people in Yue State. Gou Jian requested to personally wear armor and carry sharp weapons, and was willing to risk the danger of arrows and stones in front.
+Therefore, Wen Zhong, a humble minister of the Yue Kingdom, was sent to present the treasures treasured by his ancestors, including twelve pieces of armor, axes, Qulu spears, and light swords, as gifts to the noble military officials.
+The King of Wu was very happy after hearing this and told Zigong what Wen Zhong had said: The King of Yue wants to follow me personally to attack Qi. Is that okay?
+Zigong replied: No.
+It is unethical to make someone else's country empty, mobilize all his troops, and ask his king to follow him on an expedition.
+You accept his gift and allow him to send his army without his king accompanying him.
+The king of Wu agreed and thanked the king of Yue.
+So King Wu mobilized the troops from nine counties to attack Qi.
+Zigong therefore left the state of Wu and went to the state of Jin. He said to the king of Jin: I heard that if you don't plan a strategy in advance, you can't cope with sudden changes, and if you don't manage the army well in advance, you can't defeat the enemy.
+Now the state of Qi and the state of Wu are about to go to war. If the state of Wu cannot win the war, the state of Yue will definitely take the opportunity to disrupt it; after winning the battle with the state of Qi, the king of Wu will definitely lead his army to approach the state of Jin. Jin was very panicked and said: What should we do?
+Zigong said: Prepare your weapons, recuperate your soldiers, and wait for the arrival of the Wu army.
+Jin Jun did as he said.
+Zigong left Jin and went to Lu.
+Sure enough, the King of Wu fought a battle with the Qi people in Ailing and defeated the Qi army. He captured seven generals' soldiers and refused to return home. Sure enough, he led his troops to approach the Jin state and met the Jin people in Huangchi.
+Wu and Jin were competing for supremacy. The Jin people attacked Wu and defeated the Wu army.
+When the King of Yue heard the news of the Wu army's disastrous defeat, he crossed the river to attack the state of Wu. He did not set up camp until he was seven miles away from the capital of the state of Wu.
+When King Wu heard the news, he left Jin and returned to Wu, where he fought with the Yue army in the Five Lakes area.
+Many battles failed, and even the city gate could not be defended. So the Vietnamese army surrounded the palace and killed King Wu Fucha and his minister.
+Three years after the destruction of the Wu State, the Yue State dominated the east.
+Therefore, Zigong's trip saved the state of Lu, disrupted the state of Qi, destroyed the state of Wu, made the state of Jin strong, and enabled the state of Yue to dominate.
+Zigong's mission caused corresponding changes in the situation of various countries. Within ten years, the situations of Qi, Lu, Wu, Jin, and Yue each changed.
+Zigong was good at hoarding rare things, buying at low prices and selling at high prices, and changing hands to make profits according to the supply and demand situation.
+
+summary:
+summary line 3: Zaiwo, eloquent, questioned the three-year mourning period, suggesting one year sufficed; Confucius rebuked him for lacking benevolence. Zaiwo later died in a rebellion in Qi. Zigong, thirty-one years younger, was articulate and wealthy. Confucius compared him to a vessel and praised his humility. Zigong’s diplomatic mission saved Lu, disrupted Qi, destroyed Wu, strengthened Jin, and enabled Yue’s dominance, altering the balance of power among states.
+
+Chunk 6: 
+original: 
+喜扬人之美，不能匿人之过。
+常相鲁卫，家累千金，卒终于齐。
+言偃，吴人，字子游。
+少孔子四十五岁。
+子游既已受业，为武城宰。
+孔子过，闻弦歌之声。
+孔子莞尔而笑曰： 割鸡焉用牛刀？
+子游曰： 昔者偃闻诸夫子曰，君子学道则爱人，小人学道则易使。
+孔子曰： 二三子，偃之言是也。
+前言戏之耳。
+孔子以为子游习於文学。
+卜商字子夏。
+少孔子四十四岁。
+子夏问：  巧笑倩兮，美目盼兮，素以为绚兮 ，何谓也？
+子曰： 绘事後素。
+曰： 礼後乎？
+孔子曰： 商始可与言诗已矣。
+子贡问： 师与商孰贤？
+子曰： 师也过，商也不及。
+然则师愈与？
+曰： 过犹不及。
+子谓子夏曰： 汝为君子儒，无为小人儒。
+孔子既没，子夏居西河教授，为魏文侯师。
+其子死，哭之失明。颛孙师，陈人，字子张。
+少孔子四十八岁。
+子张问干禄，孔子曰： 多闻阙疑，慎言其馀，则寡尤；多见阙殆，慎行其馀，则寡悔。
+言寡尤，行寡悔，禄在其中矣。
+他日从在陈蔡间，困，问行。
+孔子曰： 言忠信，行笃敬，虽蛮貊之国行也；言不忠信，行不笃敬，虽州里行乎哉！
+立则见其参於前也，在舆则见其倚於衡，夫然後行。
+子张书诸绅。
+子张问： 士何如斯可谓之达矣？
+孔子曰： 何哉，尔所谓达者？
+子张对曰： 在国必闻，在家必闻。
+孔子曰： 是闻也，非达也。
+夫达者，质直而好义，察言而观色，虑以下人，在国及家必达。
+translation: 
+He likes to promote the strengths of others and does not hide the faults of others.
+He once served as the prime minister of Lu and Wei, and his family fortune accumulated thousands of gold. He eventually died in Qi.
+Yan Yan was from the state of Wu and his courtesy name was Ziyou.
+Forty-five years younger than Confucius.
+After Ziyou received his profession, he served as the governor of Wucheng.
+Confucius passed by Wucheng and heard the sound of playing the harp and singing.
+Confucius smiled slightly and said: Why use a knife to kill a chicken?
+Ziyou: Once upon a time, I heard my husband say: Talented people who learn rituals and music will cultivate their benevolence and love the people; ordinary people who learn rituals and music will abide by laws and regulations and be easy to control.
+Confucius said to the accompanying students: Everyone, what Yan Yan said is correct.
+What I just said was just a joke.
+Confucius believed that Ziyou was familiar with articles and erudite.
+Bu Shang, courtesy name Zixia.
+Forty-four years younger than Confucius.
+Zixia asked: "The beautiful smile is charming and moving, the bright eyes are flowing and shining, and the pure white hair of the Buddha is dyed with brilliant literary colors. What do these three sentences mean?"
+Confucius replied: Painting must first have a pure white background, and then decorate the picture with color.
+Zixia said: Did the emergence of ritual and music come after benevolence and righteousness?
+Confucius said: Fortune teller, now I can discuss the Book of Songs with you.
+Zigong asked: Which one is stronger, master Zhuan Sun or the diviner?
+Confucius said: Master, it's a little too much, Shang, it's a little behind.
+Zigong said: Is Master Zhuan Sun any better?
+Confucius said: Excess and failure to catch up are equally imperfect.
+Confucius said to Zixia: You must aspire to be a talented and virtuous scholar, not a shallow and dishonest scholar.
+After the death of Confucius, Zixia settled in Hexi to teach students and became the teacher of Wei Wenhou.
+Zixia's son died, and he cried his eyes out. Master Zhuan Sun was a native of Chen State, his courtesy name was Zizhang.
+Forty-eight years younger than Confucius.
+Zizhang learned from Confucius how to obtain official salary. Confucius said: Listen more to what others say, and do not make rash comments about unsolved problems. Others should be cautious when speaking out, so that you can make fewer mistakes; watch more people's actions, and don't act rashly about unsolved problems. Others should act cautiously, which can reduce regrets.
+The fewer mistakes you make in your words and the fewer regrets in your actions, the official salary you seek will be contained in it.
+One day Zizhang followed Confucius and was besieged between the states of Chen and Cai. Zizhang asked how to make everything work.
+Confucius said: If you are honest and trustworthy in your words and sincere and respectful in your actions, it will work even in the southern barbarians and Beidi; if you are not loyal and trustworthy in your words and sincere and respectful in your actions, will it work even in your own hometown?
+When standing, the words "loyalty, trust and reverence" appear before your eyes; when sitting in the car, the words "loyalty, trust and reverence" are hung on the crossbar in front of the car. Once you reach this point, it will work everywhere.
+Zizhang wrote these words on the big belt around his waist.
+Zizhang asked: What can a scholar do to be called enlightened?
+Confucius said: What do you mean by mastery?
+Zizhang replied: "You must have a good reputation among the princes' states, and you must also have a good reputation in the families of ministers and officials."
+Confucius said: This is reputation, not understanding.
+The so-called understanding should be upright and righteous, consider other people's words, observe other people's expressions, and always think about humility and concession. In this way, you will be able to gain access in the states of princes and the fiefdoms of ministers and officials.
+
+summary:
+summary line 4: Ziyou, forty-five years younger, governed Wucheng with music and ritual; Confucius joked about using a “knife to kill a chicken” but later praised him. Zixia, forty-four years younger, discussed the Book of Songs with Confucius, who noted his slight deficiency. After Confucius’s death, Zixia taught in Hexi. Zizhang, forty-eight years younger, learned about gaining office through caution and about achieving success through loyalty and respect. Zeng Shen, forty-six years younger, understood filial piety and wrote the Book of Filial Piety.
+
+Chunk 7: 
+original: 
+夫闻也者，色取仁而行违，居之不疑，在国及家必闻。
+曾参，南武城人，字子舆。少孔子四十六岁。
+孔子以为能通孝道，故授之业。
+作孝经。
+死於鲁。
+澹台灭明，武城人，字子羽。
+少孔子三十九岁。
+状貌甚恶。
+欲事孔子，孔子以为材薄。
+既已受业，退而修行，行不由径，非公事不见卿大夫。
+南游至江，从弟子三百人，设取予去就，名施乎诸侯。
+孔子闻之，曰： 吾以言取人，失之宰予；以貌取人，失之子羽。
+宓不齐字子贱。
+少孔子三十岁。
+孔子谓 子贱君子哉！
+鲁无君子，斯焉取斯？
+子贱为单父宰，反命於孔子，曰： 此国有贤不齐者五人，教不齐所以治者。
+孔子曰： 惜哉不齐所治者小，所治者大则庶几矣。
+原宪字子思。
+子思问耻。
+孔子曰： 国有道，穀。
+国无道，穀，耻也。
+子思曰： 克伐怨欲不行焉，可以为仁乎？
+孔子曰： 可以为难矣，仁则吾弗知也。
+孔子卒，原宪遂亡在草泽中。
+子贡相卫，而结驷连骑，排藜藿入穷阎，过谢原宪。
+宪摄敝衣冠见子贡。
+子贡耻之，曰： 夫子岂病乎？
+原宪曰： 吾闻之，无财者谓之贫，学道而不能行者谓之病。
+若宪，贫也，非病也。
+子贡惭，不怿而去，终身耻其言之过也。公冶长，齐人，字子长。
+孔子曰： 长可妻也，虽在累绁之中，非其罪也。
+translation: 
+The reputation mentioned above seems to be pursuing benevolence, but in actual actions it violates benevolence. You have to deal with it calmly. There is no doubt that such a person will definitely gain fame in the states of princes and the fiefdoms of ministers and officials.
+Zeng Shen was a native of Nanwucheng, named Liaoyu, and was forty-six years younger than Confucius.
+Confucius thought that he could understand filial piety, so he taught him his studies.
+He wrote a "Book of Filial Piety".
+He died in the state of Lu.
+Tantai Mieming was a native of Wucheng, named Ziyu.
+Thirty-nine years younger than Confucius.
+His body and appearance were ugly.
+He wanted to serve Confucius, but Confucius thought that he had low qualifications.
+After studying as a teacher, he devoted himself to self-cultivation practice when he returned home. He dealt with things openly and honestly, and did not take evil paths. It was not for official business and he never met with officials or officials.
+He traveled south to the Yangtze River, and there were three hundred students who followed him. He was flawless in acquiring, giving, abandoning, and pursuing, and his reputation spread to the princes in all directions.
+Confucius heard these things and said: If I judge people by words only, my judgment of Jaeyu is wrong; if I judge people by appearance alone, my judgment of Ziyu is wrong.
+The words are not neat and the characters are cheap.
+Thirty years younger than Confucius.
+Confucius talked about Mi Zi Jian and said: Zi Jian is really a gentleman!
+If there are no gentlemen in the state of Lu, where did this person learn such good character?
+Zi Jian was appointed as Shanfu's local governor. He came back and reported to Confucius, saying: "There are five people in this place who are more talented than me. They taught me how to govern the people."
+Confucius said: What a pity! The areas that are not managed uniformly are too small. If the areas that are managed are large, it will be almost the same.
+Yuan Xian, courtesy name Zisi.
+Zisi asked what shame was.
+Confucius said: If the country's politics are clear, you can be an official and receive a salary, but you can't see trees.
+The country's politics are dark, and it is a shame to be an official and receive a salary but not be able to stand alone.
+Zisi said: If competitiveness, self-praising, resentment, and greed are not revealed, can it be regarded as benevolence?
+Confucius said: It can be said to be commendable. Whether it can be regarded as benevolence, I don't know.
+After Confucius passed away, Yuan Xian went to live in seclusion in a low-lying place with water and overgrown weeds.
+Zigong became the Prime Minister of Wei State, and there was a continuous stream of carriages and horses when he went out, pushing through the thick weeds, and came to a remote, simple and dilapidated hut to visit Yuan Xian.
+Yuan Xian tidied up his shabby clothes and met Zigong.
+Seeing this, Zigong felt ashamed for him and said, "Are you embarrassed?"
+Yuan Xian replied: I have heard that those who have no property are called poverty, and those who have learned principles but cannot implement them are called embarrassment.
+Like me, poverty is not embarrassment.
+Zigong felt very ashamed and left unhappy. He felt ashamed for his whole life that he had said the wrong thing this time. Gongye Chang was a native of Qi State, with the courtesy name Zichang.
+Confucius said: If Gong Ye is the leader, you can marry your daughter to him. Even if he is in prison, it is not his fault.
+
+summary:
+summary line 5: Other disciples included Tantai Mieming, initially judged poorly by appearance but later renowned; Mi Zijian, praised as a gentleman; Yuan Xian, who valued poverty over shame; Gongye Chang, married to Confucius’s daughter; Nangong Kuo, praised for morality; and Gao Chai, deemed stupid. Youruo, resembling Confucius, was briefly treated as a teacher but failed to answer questions. The text lists thirty-five disciples with recorded ages and deeds, and forty-two without, concluding that later accounts vary, with the author relying on The Analects for accuracy.
+

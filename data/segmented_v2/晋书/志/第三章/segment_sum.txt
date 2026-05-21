@@ -1,0 +1,532 @@
+Summary uses chunk [0, 0, 1, 2, 3, 6]
+
+Chunk 0: 
+original: 
+魏文帝黄初四年三月癸卯，月犯心大星。
+占曰： 心为天王位，王者恶之。
+六月甲申，太白昼见。
+案刘向《五纪论》曰： 太白少阴，弱，不得专行，故以己未为界，不得经天而行。
+经天则昼见，其占为兵丧，为不臣，为更王；强国弱，小国强。
+是时孙权受魏爵号，而称兵距守。
+其十二月丙子，月犯心大星。
+占同上。
+五年十月乙卯，太白昼见。占同上。
+又岁星入太微逆行，积百四十九日乃出。
+占曰： 五星入太微，从右入三十日以上，人主有大忧。
+一曰： 有赦至。
+七年五月，帝崩，明帝即位，大赦天下。
+六年五月壬戌，荧惑入太微，至壬申，兴岁星相及，俱犯右执法，至癸酉乃出。
+占曰： 从右入三十日以上，人主有大忧。
+又曰： 月、五星犯左右执法，大臣有忧。
+一曰： 执法者诛，金、火尤甚。
+十一月，皇子东武阳王鉴薨。
+七年正月，骠骑将军曹洪免为庶人。
+四月，征南大将军夏侯尚薨。
+五月，帝崩。
+《蜀记》称明帝问黄权曰： 天下鼎立，何地为正？
+对曰： 当验天文。
+往者荧惑守心而文帝崩，吴、蜀无事，此其征也。
+案三国史并无荧惑守心之文，疑是入太微。
+八月，吴遂围江夏，寇襄阳，大将军宣帝救襄阳，斩吴将张霸等，兵丧更王之应也。
+明帝太和五年五月，荧惑犯房。
+占曰： 房四星，股肱臣将相位也，月、五星犯守之，将相有忧。
+其七月，车骑将军张郃追诸葛亮，为亮所害。
+十二月，太尉华歆薨。
+其十一月乙酉，月犯轩辕大星。
+占曰： 女主忧。
+六年三月乙亥，月又犯轩辕大星。
+十一月寅，太白昼见南斗，遂历八十余日，恆见。
+占曰： 吴有兵。
+明年，孙权遣张弥等将兵万人，锡授公孙文懿为燕王，文懿斩弥等，虏其众。
+青龙三年正月，太后郭氏崩。
+translation: 
+In the third month of Guimao, the fourth year of Emperor Huangchu of Wei Dynasty, the moon violated the great star Antares.
+Divination said: The heart is the location of the king of heaven, and the emperor hates this kind of astrology.
+In June Jiashen, Venus appears during the day.
+Liu Xiang's "Five Chronicles" said: Venus belongs to Shaoyin and is weak and cannot act independently, so it uses self-deficiency as a boundary and cannot move through the sky.
+Day will appear after the movement of the sky. This astrological phenomenon heralds war, death, rebellion, and the change of monarchs; strong countries will become weak, and small countries will become strong.
+When he was sent, Sun Quan accepted the title conferred by Emperor Wei, but he raised troops to resist and defend.
+On December Bing of this year, the moon clashed with the great star Antares.
+Ditto for divination.
+In the tenth month of the fifth year of Huangchu, Venus appeared during the day, and the divination was the same as above.
+Jupiter also entered the Taiwei Yuan and went retrograde, taking a total of 149 days to come out.
+Divination says: If five stars enter Taiwei Yuan, and if they enter from the right for more than thirty days, the monarch will be in great trouble.
+Another way to say it is: There will be forgiveness.
+In May of the seventh year, Emperor Wen died, and Emperor Ming ascended the throne and granted amnesty to the world.
+In the fifth month of the sixth year of Renxu, Mars entered Taiweiyuan and reached Renshen. It was close to Jupiter and violated the right law enforcement star. It was not until Guiyou that it left Taiweiyuan.
+Divination says that if the person enters from the right for more than thirty days, the ruler will be in great trouble.
+He also said: If the moon and five stars clash with the law enforcement stars on the left and right, the minister will be in trouble.
+Another saying is: Those who enforce the law will be killed. This situation is particularly severe when Venus and Mars appear.
+In November, the prince Cao Jian, king of Dongwuyang, died.
+In the first month of the seventh year, Cao Hong, the hussar general, was exempted from civilian status.
+In April, Xia Houshang, the general who conquered the south, died.
+In May, Emperor Ming died.
+"Shu Ji" records that Emperor Ming asked Huang Quan: The world is divided, who is the orthodox?
+The answer is: It should be verified by celestial phenomena.
+In the past, when Mars was in the heart, Emperor Wen passed away, but Wu and Shu were safe and sound, and creation was a test.
+There is no record of Mars residing in the heart in the Three Kingdoms history books. It may be that Mars entered Taiweiyuan.
+In August, Wu State besieged Jiangxia and invaded Xiangyang. General Xuan Emperor rescued Xiangyang and killed Wu general Zhang Ba and others.
+In May of the fifth year of Emperor Taihe's reign, Mars invaded the house.
+Divination says: There are four stars in the house, which are the positions of ministers and generals. If the moon and five stars oppose or reside here, the generals will be in trouble.
+In July of this year, the chariot general Zhang He pursued Zhuge Liang and was killed by Zhuge Liang.
+In December, Taiwei Hua Xin died.
+In November of this year, the moon clashed with the star Regulus.
+Divination said: The heroine is in trouble.
+In the third month of the sixth year of the lunar calendar (Yihai), the moon clashed with the star Regulus again.
+On Bingyin in November, Venus appeared in the Southern Dipper during the day, and it always appeared after more than eighty days.
+The divination said: There will be a war in the state of Wu.
+The next year, Sun Quan sent Zhang Mi and others to lead an army of tens of thousands. Emperor Ming granted Gongsun Wenyi the title of King of Yan. Wen Yi killed Zhang Mi and others and captured his army.
+In the first month of the third year of Qinglong, Queen Mother Guo passed away.
+
+summary:
+summary line 0: In the third month of the fourth year of Emperor Huangchu of Wei, the moon violated the great star Antares, a portent the emperor hated. In June, Venus appeared during the day, heralding war, death, rebellion, and changes of monarchs. This was fulfilled when Sun Quan accepted Wei's title but later resisted. In December, the moon again clashed with Antares. In the fifth year, Venus appeared during the day again, and Jupiter entered Taiwei Yuan retrograde for 149 days, foretelling great trouble for the monarch or forgiveness. In the seventh year, Emperor Wen died, and Emperor Ming ascended, granting amnesty.
+
+Chunk 0: 
+original: 
+魏文帝黄初四年三月癸卯，月犯心大星。
+占曰： 心为天王位，王者恶之。
+六月甲申，太白昼见。
+案刘向《五纪论》曰： 太白少阴，弱，不得专行，故以己未为界，不得经天而行。
+经天则昼见，其占为兵丧，为不臣，为更王；强国弱，小国强。
+是时孙权受魏爵号，而称兵距守。
+其十二月丙子，月犯心大星。
+占同上。
+五年十月乙卯，太白昼见。占同上。
+又岁星入太微逆行，积百四十九日乃出。
+占曰： 五星入太微，从右入三十日以上，人主有大忧。
+一曰： 有赦至。
+七年五月，帝崩，明帝即位，大赦天下。
+六年五月壬戌，荧惑入太微，至壬申，兴岁星相及，俱犯右执法，至癸酉乃出。
+占曰： 从右入三十日以上，人主有大忧。
+又曰： 月、五星犯左右执法，大臣有忧。
+一曰： 执法者诛，金、火尤甚。
+十一月，皇子东武阳王鉴薨。
+七年正月，骠骑将军曹洪免为庶人。
+四月，征南大将军夏侯尚薨。
+五月，帝崩。
+《蜀记》称明帝问黄权曰： 天下鼎立，何地为正？
+对曰： 当验天文。
+往者荧惑守心而文帝崩，吴、蜀无事，此其征也。
+案三国史并无荧惑守心之文，疑是入太微。
+八月，吴遂围江夏，寇襄阳，大将军宣帝救襄阳，斩吴将张霸等，兵丧更王之应也。
+明帝太和五年五月，荧惑犯房。
+占曰： 房四星，股肱臣将相位也，月、五星犯守之，将相有忧。
+其七月，车骑将军张郃追诸葛亮，为亮所害。
+十二月，太尉华歆薨。
+其十一月乙酉，月犯轩辕大星。
+占曰： 女主忧。
+六年三月乙亥，月又犯轩辕大星。
+十一月寅，太白昼见南斗，遂历八十余日，恆见。
+占曰： 吴有兵。
+明年，孙权遣张弥等将兵万人，锡授公孙文懿为燕王，文懿斩弥等，虏其众。
+青龙三年正月，太后郭氏崩。
+translation: 
+In the third month of Guimao, the fourth year of Emperor Huangchu of Wei Dynasty, the moon violated the great star Antares.
+Divination said: The heart is the location of the king of heaven, and the emperor hates this kind of astrology.
+In June Jiashen, Venus appears during the day.
+Liu Xiang's "Five Chronicles" said: Venus belongs to Shaoyin and is weak and cannot act independently, so it uses self-deficiency as a boundary and cannot move through the sky.
+Day will appear after the movement of the sky. This astrological phenomenon heralds war, death, rebellion, and the change of monarchs; strong countries will become weak, and small countries will become strong.
+When he was sent, Sun Quan accepted the title conferred by Emperor Wei, but he raised troops to resist and defend.
+On December Bing of this year, the moon clashed with the great star Antares.
+Ditto for divination.
+In the tenth month of the fifth year of Huangchu, Venus appeared during the day, and the divination was the same as above.
+Jupiter also entered the Taiwei Yuan and went retrograde, taking a total of 149 days to come out.
+Divination says: If five stars enter Taiwei Yuan, and if they enter from the right for more than thirty days, the monarch will be in great trouble.
+Another way to say it is: There will be forgiveness.
+In May of the seventh year, Emperor Wen died, and Emperor Ming ascended the throne and granted amnesty to the world.
+In the fifth month of the sixth year of Renxu, Mars entered Taiweiyuan and reached Renshen. It was close to Jupiter and violated the right law enforcement star. It was not until Guiyou that it left Taiweiyuan.
+Divination says that if the person enters from the right for more than thirty days, the ruler will be in great trouble.
+He also said: If the moon and five stars clash with the law enforcement stars on the left and right, the minister will be in trouble.
+Another saying is: Those who enforce the law will be killed. This situation is particularly severe when Venus and Mars appear.
+In November, the prince Cao Jian, king of Dongwuyang, died.
+In the first month of the seventh year, Cao Hong, the hussar general, was exempted from civilian status.
+In April, Xia Houshang, the general who conquered the south, died.
+In May, Emperor Ming died.
+"Shu Ji" records that Emperor Ming asked Huang Quan: The world is divided, who is the orthodox?
+The answer is: It should be verified by celestial phenomena.
+In the past, when Mars was in the heart, Emperor Wen passed away, but Wu and Shu were safe and sound, and creation was a test.
+There is no record of Mars residing in the heart in the Three Kingdoms history books. It may be that Mars entered Taiweiyuan.
+In August, Wu State besieged Jiangxia and invaded Xiangyang. General Xuan Emperor rescued Xiangyang and killed Wu general Zhang Ba and others.
+In May of the fifth year of Emperor Taihe's reign, Mars invaded the house.
+Divination says: There are four stars in the house, which are the positions of ministers and generals. If the moon and five stars oppose or reside here, the generals will be in trouble.
+In July of this year, the chariot general Zhang He pursued Zhuge Liang and was killed by Zhuge Liang.
+In December, Taiwei Hua Xin died.
+In November of this year, the moon clashed with the star Regulus.
+Divination said: The heroine is in trouble.
+In the third month of the sixth year of the lunar calendar (Yihai), the moon clashed with the star Regulus again.
+On Bingyin in November, Venus appeared in the Southern Dipper during the day, and it always appeared after more than eighty days.
+The divination said: There will be a war in the state of Wu.
+The next year, Sun Quan sent Zhang Mi and others to lead an army of tens of thousands. Emperor Ming granted Gongsun Wenyi the title of King of Yan. Wen Yi killed Zhang Mi and others and captured his army.
+In the first month of the third year of Qinglong, Queen Mother Guo passed away.
+
+summary:
+summary line 1: In the sixth year, Mars entered Taiweiyuan, violating the right law enforcement star, indicating trouble for the ruler or minister. In November, Prince Cao Jian died. In the seventh year, Cao Hong was dismissed, Xiahou Shang died, and Emperor Ming died. "Shu Ji" records Emperor Ming asking Huang Quan about celestial orthodoxy; Huang Quan cited Mars in the heart as a test. In August, Wu besieged Jiangxia and invaded Xiangyang; General Xuan Emperor rescued Xiangyang, killing Wu general Zhang Ba. In the fifth year of Taihe, Mars invaded the house, portending trouble for generals. In July, Zhang He was killed by Zhuge Liang; in December, Taiwei Hua Xin died. In November, the moon clashed with Regulus, portending trouble for the heroine. In the sixth year, the moon clashed with Regulus again, and Venus appeared in the Southern Dipper during the day for over eighty days, foretelling war in Wu. The next year, Sun Quan sent Zhang Mi, who was killed by Gongsun Wenyi.
+
+Chunk 1: 
+original: 
+青龙三年三月辛卯，月犯舆鬼。
+舆鬼主斩杀。
+占曰： 人多病，国有忧。
+又曰： 大臣忧。
+是年夏及冬，大疫。
+四年五月，司徒董昭薨。
+其五月丁亥，太白昼见，积三十余日。
+以晷度推之，非秦魏，则楚也。
+是时，诸葛亮据渭南，宣帝与相持；孙权寇合肥，又遣陛议、孙韶等人淮沔，天子亲东征。
+蜀本秦地，则为秦魏及楚兵悉起矣。
+其七月己巳，月犯楗闭。
+占曰： 有火灾。
+三年七月，崇华殿灾。
+三年六月丁未，填星犯井钺。
+戊戌，太白又犯之。
+占曰： 凡月、五星犯井钺，悉为兵灾。
+一曰： 斧钺用，大臣诛。
+七月己丑，填星犯东井距星。
+占曰： 填星入井，大人忧。
+行近距，为行阴。
+其占曰： 大水，五谷不成。
+景初元年夏，大水，伤五谷。
+其年十月壬申，太白昼见，在尾，历二百余日，恆昼见。
+占曰： 尾为燕，有兵。
+十二月戊辰，月犯钩钤。
+占曰： 王者忧。
+四年闰正月己巳，填星犯井钺。
+三月癸卯，填星犯东井。
+己巳，太白与月加景昼见。
+五月壬寅，太白犯毕左股第一星。
+占曰： 毕为边兵，又主刑罚。
+九月，凉州塞外胡阿毕师使侵犯诸国，西域校尉张就讨之，斩首捕虏万计。
+其年七月甲寅，太白犯轩辕大星。
+占曰： 女主忧。
+景初元年，皇后毛氏崩。
+景初元年二月乙酉，月犯房第二星。
+占曰： 将军有忧。
+其七月，司徒陈矫薨。
+二年四月，司徒韩暨薨。
+其七月辛卯，太白昼见，积二百八十余日。
+时公孙文懿自立为燕王，署置百官，发兵距守，宣帝讨灭之。
+二年二月己丑，月犯心距星，又犯中央大星。
+五月乙亥，月又犯心距星及中央大星。
+translation: 
+In the third month of the second year of Qinglong, Xin Mao, the moon violated the Yugui constellation.
+Yugui is in charge of killing.
+Divination said: There will be many diseases among the people, and the country will be in trouble.
+He also said: The minister is worried.
+In the summer and winter of the Qing Dynasty, diseases were prevalent.
+In May of the fourth year, Situ Dong Zhao died.
+In May of this year, Venus appeared during the day for more than thirty days.
+Judging from the dial, it is estimated that it is either the Qin and Wei areas or the Chu area.
+At the time of the dispatch, Zhuge Liang occupied the south of the Wei River and confronted Emperor Xuan; Sun Quan attacked Hefei, and also sent Lu Yi, Sun Shao and others into the Huai River and Mian River area, and the emperor personally marched eastward.
+The Kingdom of Shu originally belonged to Qin, so wars between Chu and Qin occurred in the Qin and Wei regions.
+It was already the seventh month of the new year, and the moon violated the gate.
+Divination says: There will be a fire.
+In July of the third year, a fire broke out in Chonghua Hall.
+At the end of June of the third year, Saturn opposed the iron star of Jingsu.
+In the Wuxu period, Venus clashed with Jingsu Iron Star again.
+Divination said: Whenever the moon or five stars oppose the Jingsu Iron Star, it indicates war disaster.
+Another theory is: Weapons such as axes and velvet were used, and ministers were killed.
+In the seventh month of the month, Saturn clashes with the star Dongjing.
+Divination says: When Saturn enters the Jing constellation, the respected person will be in trouble.
+Traveling close to the stars is traveling in the underworld.
+Divination said: There will be floods and the grain will not be harvested.
+In the summer of the first year of Jingchu, there was a flood and the grain was damaged.
+In the tenth month of the Renshen year, Venus appeared during the day and resided in Osu. After more than two hundred days, Venus often appeared during the day.
+The divination says: Osu corresponds to the land of Yan, and there will be a war.
+On Wuchen in December, the moon clashes with Gouqin.
+Divination said: The king is in trouble.
+At the end of the first month of the fourth year, Saturn clashed with the Iron Star in Jingsu.
+On Guimao in March, Saturn clashes with the star Shujing.
+Jisi, Venus and the moon add their shadows, and day appears.
+In May of Renyin, Venus clashed with the first star on the left side of Aldebara.
+Divination said: Bisu symbolizes the border army and is responsible for punishment.
+In September, the Hu tribe Abishi sent troops outside the Liangzhou Pass to invade other small countries. Zhang, the captain of the Western Regions, attacked him and killed and captured tens of thousands of people.
+In July of this year, during Jiayin, Venus opposed the star Regulus.
+Divination said: The heroine is in trouble.
+In the first year of Jingchu, Queen Mao passed away.
+In February Yiyou of the first year of Jingchu, the moon violated the second star in the house.
+Divination said: The general is in trouble.
+In July of the year of sending, Situ Chenjiao died.
+In April of the second year, Situ Hanji died.
+In Xinmao, the seventh month of the year of Han, Venus appeared during the day, lasting more than 280 days.
+At this time, Gongsun Wenyi established himself as King of Yan, appointed hundreds of officials, and sent troops to fight against the court. Emperor Xuan attacked and eliminated him.
+In February of the second year of Ji Chou, the moon violated the Antares star and the central star.
+On May 11th, the moon clashed with the distance star and the central star again.
+
+summary:
+summary line 2: In the third year of Qinglong, Queen Mother Guo died. In the second year, the moon violated Yugui, portending disease and trouble for the minister. In the fourth year, Venus appeared during the day for over thirty days, indicating war in Qin, Wei, or Chu. Zhuge Liang confronted Emperor Xuan, Sun Quan attacked Hefei, and the emperor marched east. In the third year, a fire broke out in Chonghua Hall. Saturn and Venus clashed with Jingsu Iron Star, portending war and death of ministers. Saturn clashed with Dongjing, portending trouble for the respected and floods. In the first year of Jingchu, floods damaged grain. Venus appeared during the day in Osu for over two hundred days, portending war in Yan. The moon clashed with Gouqin, portending trouble for the king. In the fourth year, Saturn and Venus clashed with Jingsu stars, and Venus appeared during the day. Venus clashed with Aldebara, portending border war. In September, the Hu tribe Abishi invaded; Zhang, the captain of the Western Regions, defeated them. Venus opposed Regulus, portending trouble for the heroine; Queen Mao died. In the first year of Jingchu, the moon violated the house, portending trouble for the general; Situ Chenjiao died. In the second year, Situ Hanji died. Venus appeared during the day for over 280 days; Gongsun Wenyi rebelled and was eliminated by Emperor Xuan.
+
+Chunk 2: 
+original: 
+案占曰： 王者恶之。
+犯前星，太子有忧。
+三年正月，帝崩。
+太子立，卒见废。
+其年十月甲午，月犯箕。
+占曰： 将军死。
+正始元年四月，车骑将军黄权薨。
+其闰十一月癸丑，月犯心中央大星。
+少帝正始元年四月戊午，月犯昴东头第一星。
+十月庚寅，月又犯昴北斗四星。
+占曰： 月犯昴，胡不安。
+二年六月，鲜卑阿妙兒等寇西方，敦煌太守王延破之，斩二万余级。
+三年，又斩鲜卑大师及千余级。
+二年九月癸酉，月犯舆鬼西北星。
+三年二月丁未，又犯西南星。
+占曰： 有钱令。
+一曰： 大臣忧。
+三年三月，太尉满宠薨。
+四年正月，帝加元服，赐群臣钱各有差。
+四年十月、十一月，月再犯井钺。
+是月，宣帝讨诸葛恪，恪弃城走。
+五年二月，曹爽征蜀。
+五年十一月癸巳，填星犯亢距星。
+占曰： 诸侯有失国者。
+七年七月丁丑，月犯左角。
+占曰： 天下有兵，左将军死。
+七月乙亥，荧惑犯毕距星。
+占曰； 有边兵。
+一曰： 刑罚用。
+九年正月辛亥，月犯亢南星。
+占曰： 兵起。
+一曰： 将军死。
+七月癸丑，填星犯楗闭。
+占曰： 王者不宜出宫下殿。
+嘉平元年，天子谒陵，宣帝奏诛曹爽等。
+天子野宿，于是失势。
+嘉平元年六月壬戌，太白犯东井距星。
+占曰： 国失政，大臣为乱。
+四月辛巳，太白犯舆鬼。
+占曰： 大臣诛。
+一曰： 兵起。
+二年三月己未，太白又犯井距星。
+三年七月，王凌与楚王彪有谋，皆伏诛，人主遂卑。
+吴孙权赤乌十三年夏五月，日北至，荧惑逆行，入南斗。
+秋七月，犯魁第三星而东。
+《汉晋春秋》云 逆行 。
+translation: 
+Case star divination said: The emperor hates this kind of horoscope.
+If it conflicts with the star in front, the prince will be in trouble.
+In the first month of the third year, Emperor Ming died.
+The prince was established and finally deposed.
+In October of this year, the moon violated Jisu.
+Divination said: The general will die.
+In April of the first year of Zhengshi, the chariot general Huang Quan died.
+In the eleventh month of the leap year, Guichou, the moon clashes with the central star of the heart.
+In the fourth month of the first year of the reign of Emperor Zhengshi, the moon violated the first star of Pleiades.
+In October Gengyin, the moon clashed with the four stars of the Pleiades and the Big Dipper.
+The divination said: The moon is in conflict with the Pleiades, making the land unrestful.
+In June of the second year, A Miao'er and others from Xianbei invaded the west. Wang Yan, the governor of Dunhuang, defeated them and killed more than 20,000 people.
+In three years, he killed the Xianbei commander and more than a thousand people.
+In September Guiyou of the second year, the moon clashed with Yugui's northwest star.
+In the second month of the third year, Dingwei invaded Southwest Star again.
+Divination says: There will be an edict granting money.
+Another way of saying it is: The minister is in trouble.
+In March of the third year, Taiwei Man Chong died.
+In the first month of the fourth year, the young emperor performed a crowning ceremony and gave money to the ministers in varying degrees.
+In October and November of the fourth year, the moon violated the Jingsu Iron Star twice.
+In the next month, Emperor Xuan attacked Zhuge Ke, but Zhuge Ke abandoned the city and fled.
+In February of the fifth year, Cao Shuang conquered Shu.
+In the eleventh month of the fifth year of Guisi, Saturn clashed with the star Kangsu.
+Divination said: There are princes who have lost their feudal states.
+In the seventh month of the seventh year, Ding Chou, the moon clashed with the Zuojiao star.
+Divination said: There will be war in the world, and General Zuo will die.
+In July Yihai, Mars clashes with the Aldebaran star.
+Divination said: There will be war on the border.
+Another way of saying it is: Punishment will be used.
+In the first month of the ninth year of Xinhai, the moon clashed with the southern star of Kangsu.
+The divination said: A war broke out.
+Another way of saying it is: The general dies.
+In July, Guichou, Saturn will oppose the closed star.
+Divination says: It is not suitable for the monarch to leave the palace.
+In the first year of Jiaping, the emperor paid a visit to the imperial mausoleum, and Xuantong petitioned to kill Da Chui and others.
+Chen Tong spent the night in the wild and lost his power.
+In the sixth month of Renxu, the first year of Chongchu, Venus clashed with Shujing Suju star.
+Divination said: The court is out of control and the ministers are in chaos.
+In April Xinsi, Venus clashed with Yugui.
+The divination said: The minister will be killed.
+Another way of saying it is: A war broke out.
+At the end of March of the second year, Venus once again violated the star Jingsu.
+In July of the third year, Wang Jun and Chu King Cao Biao had a conspiracy, and they were both executed, and the king lost his authority.
+In May of the summer of the 13th year of Xingzhuhudan, the sun reached the north, and Mars moved against the normal path and entered the south dipper.
+In autumn and July of the same year, Mars violated the third star of Kuisu and moved eastward.
+"Han, Jin, Spring and Autumn" says it is "retrograde".
+
+summary:
+summary line 3: In the second year, the moon violated Antares and the central star, portending trouble for the emperor and prince. In the third year, Emperor Ming died; the prince was deposed. In October, the moon violated Jisu, portending the general's death. In the first year of Zhengshi, General Huang Quan died. In the leap month, the moon clashed with the central star of the heart. In the first year, the moon violated Pleiades and the Big Dipper, portending unrest. In the second year, Xianbei invaded; Wang Yan defeated them. In the third year, more Xianbei were killed. In the second year, the moon clashed with Yugui; in the third year, it invaded again, portending an edict granting money or trouble for the minister. In the third year, Taiwei Man Chong died. In the fourth year, the young emperor performed a crowning ceremony and gave money to ministers. In the fourth year, the moon violated Jingsu Iron Star twice; Emperor Xuan attacked Zhuge Ke, who fled. In the fifth year, Cao Shuang conquered Shu. Saturn clashed with Kangsu, portending princes losing states. In the seventh year, the moon clashed with Zuojiao, portending war and the death of General Zuo. Mars clashed with Aldebaran, portending border war. In the ninth year, the moon clashed with Kangsu, portending war and the general's death. Saturn opposed the closed star, portending the monarch should not leave the palace. In the first year of Jiaping, the emperor visited the imperial mausoleum; Xuantong petitioned to kill Da Chui and others. In the first year of Chongchu, Venus clashed with Shujing, portending court chaos. Venus clashed with Yugui, portending the minister's death or war. In the second year, Venus violated Jingsu. In the third year, Wang Jun and Chu King Cao Biao conspired and were executed.
+
+Chunk 3: 
+original: 
+案占： 荧惑入南斗，三月吴王死。
+一曰： 荧惑逆行，其地有死君。
+太元二年，权薨，是其应也，故《国志》书于吴。
+是时，王凌谋立楚王彪，谓 斗中有星，当有暴贵者 ，以问知星人浩详。
+详疑有故，欲悦其意，不言吴有死丧，而言 淮南楚分，吴楚同占，当有王者兴 ，故凌计遂定。
+嘉平二年十二月丙申，月犯舆鬼。
+三年四月戊寅，月犯东井。
+五月甲寅，月犯亢距星。
+占曰： 将军死。
+一曰： 为兵。
+是月，王凌、楚王彪等诛。
+七月，皇后甄氏崩。
+四年三月，吴将为寇，镇东将军诸葛诞破走之。
+其年七月己巳，月犯舆鬼。
+九月乙巳，又犯之。
+十月癸未，荧惑犯亢南星。
+占曰： 臣有乱。
+四年十一月丁未，月又犯鬼积尸。
+五年六月戊午，太白犯角。
+占曰： 群臣有谋，不成。
+庚辰，月犯箕星。
+占曰： 将军死。
+七月，月犯井钺。
+丙午，月又犯鬼西北星。
+占曰： 国有忧。
+十一月癸酉，月犯东井距星。
+占曰： 将军死。
+正元元年正月，镇东将军毋丘俭、扬州刺史文钦反，兵俱败，诛死。
+二月，李丰及弟翼、后父张缉等谋乱，事泄，悉诛，皇后张氏废。
+九月，帝废为齐王。
+蜀将姜维攻陇西，车骑将军郭淮讨破之。
+高贵乡公正元二年二月戊午，荧惑犯东井北辕西头第一星。
+甘露元年七月乙卯，荧惑犯东井钺星。
+壬戌，月又犯钺星。
+八月辛亥，月犯箕。
+吴废孙亮太平元年九月壬辰，太白犯南斗，《吴志》所书也。
+占曰： 太白犯斗，国有兵，大臣有反者。
+其明年，诸葛诞反。
+又明年，孙綝废亮。
+吴魏并有兵事也。
+甘露元年九月丁巳，月犯东井。
+二年六月己酉，月犯心中央大星。
+八月壬子，岁星犯井钺。
+九月庚寅，岁星逆行，乘井钺。
+十月丙寅，太白犯亢距星。
+translation: 
+The case star divination says: If Mars enters the South Dou, King Yu will die within three months.
+Another saying is: Mars moves against the normal path, and the king of the country will die.
+In the second year of Taiyuan, Sun Quan died. This is the fulfillment of astrology, so "Three Kingdoms" records it under the state of Wu.
+At that time, Wang Peng planned to make King Xuanbiao of Chu the emperor. He said that there were other stars in the Dou constellation, and there should be people who suddenly became noble. In this way, he asked people who knew the stars how to ascend.
+Cha Chenglu suspected that there was a reason, and wanted to make him happy. He did not say that Yuli had died or died, but said that Huainan belonged to the Chu region, and the divination of Xingyu and Chu was the same, so there should be an emperor rising, so Wang Suan's plan was confirmed.
+In the twelfth month of the second year of Taisu, the moon clashed with Yugui.
+In the fourth month of the third year of Wuyin, the moon violated Dongjing Su.
+In the ninth month of the fifth month, the moon clashes with the star Kangsu.
+Divination said: The general will die.
+Another way to say it is: There will be war.
+This month, Wang Jun, King Cao Biao of Chu and others were killed.
+In July, Queen Zhenya passed away.
+In March of the fourth year, the generals of the State of Wu led their troops to invade. Zhuge Dan, the general of Zhendong, defeated them and drove them away.
+In July of this year, there was a ghost on Moon Street.
+In September Yisi, the moon clashed with Yugui again.
+At Guiwei in October, Mars clashes with the southern star of Kangsu.
+Divination said: The minister will cause chaos.
+In the eleventh month of the fourth year, at the end of the eleventh month, the moon once again clashed with the ghost constellation, the Corpse Accumulation Star.
+In Wuwu, June of the fifth year, Venus clashed with Spica.
+Divination said: The minister has a conspiracy, but it will not succeed.
+In Gengchen, the moon clashes with Ji Xing.
+Zhan said: The general is dead.
+In July, the moon clashes with the star Jingsu.
+On Bingwu, the moon again haunts the northwest star.
+Divination said: The country is in trouble.
+On Guiyou day in November, the moon clashes with the Shujing star.
+Zhan said: The general is dead.
+In the first month of the first year of Zhengyuan, Qiu Jian, the general in Zhendong, and Wen Qin, the governor of Yangzhou, rebelled, but they both failed and were killed.
+In February, Li Feng, his brother Li Yi, the queen's father Zhang Ji and others conspired to cause rebellion. When the incident was revealed, they were all executed and the queen Zhang was deposed.
+In September, the young emperor was deposed as King of Qi.
+General Jiang Wei of Shu State attacked Longxi, and General Guo Huai of Chariot and Cavalry defeated him.
+On Wuwu in February of the 1950s in Gaogui Township, Mars attacked the first star at the west end of the north corner of Shujing.
+In the seventh month of the first year of Zhu Ling, on Yimao, Mars clashed with Shujing Suo Xing.
+In Renxu, the moon again violated the iron star of Shujing.
+In the eighth month of Xinhai, the moon violated Jisu.
+In the ninth month of the first year of Taiping, Sun Liang, the deposed emperor of Wu State, Venus invaded Nandou. This is recorded in "Wu Zhi".
+Divination says: If Venus opposes the constellation Dou, there will be war in the country and some ministers will rebel.
+The next year, Zhuge Dan rebelled.
+Another year. Sun Sui deposed Sun Liang.
+Both Wu and Wei were at war.
+On Dingsi in the ninth month of the first year of Ganlu, the moon invaded Jingsu.
+In the sixth month of the second year, the moon clashed with the central star of the heart.
+In the eighth month of Renzi, Jupiter clashed with the hungry star of Jingsu.
+In September, Gengyin, Jupiter moves against the normal path and sits above the iron star of Jingsu.
+In October Bingyin, Venus clashes with the star Kangsu.
+
+summary:
+summary line 4: In the thirteenth year of Xingzhuhudan, Mars moved against the normal path and entered the south dipper, portending King Yu's death within three months. In the second year of Taiyuan, Sun Quan died. Wang Peng planned to make King Xuanbiao of Chu emperor, citing stars in the Dou constellation. In the second year of Taisu, the moon clashed with Yugui. In the third year, the moon violated Dongjing and clashed with Kangsu, portending the general's death or war. Wang Jun and Cao Biao were killed; Queen Zhenya died. In the fourth year, Wu generals invaded; Zhuge Dan defeated them. The moon clashed with Yugui again, and Mars clashed with Kangsu, portending the minister's chaos. In the fifth year, Venus clashed with Spica, portending a failed conspiracy. The moon clashed with Ji and Jingsu, portending the general's death and national trouble. In the first year of Zhengyuan, Qiu Jian and Wen Qin rebelled and were killed. Li Feng and others conspired and were executed; the queen was deposed. The young emperor was deposed as King of Qi. Jiang Wei attacked Longxi; Guo Huai defeated him. In the first year of Zhu Ling, Mars and the moon clashed with Shujing. In the first year of Taiping, Venus invaded Nandou, portending war and minister rebellion. Zhuge Dan rebelled; Sun Sui deposed Sun Liang. In the first year of Ganlu, the moon invaded Jingsu. In the second year, the moon clashed with the central star of the heart. Jupiter clashed with Jingsu and moved against the normal path. Venus clashed with Kangsu, portending rebel ministers and trouble for the king. In the first year of Jingyuan, Chengji killed Gao Guixiang; Zhuge Dan was executed. In the second year, Venus and Jupiter clashed with Jingsu, portending court chaos and war. In the third year, Jupiter opposed Yugui, portending weapons and minister death. In the fourth year, Jupiter violated Yugui again, portending war and minister death. In the first year of Jingyuan, Wang Jing was killed. In the first year of Emperor Jingyuan, the moon clashed with Jianxing, portending ministers framing each other. Zhong Hui and Deng Ai conquered Shu; Zhong Hui framed Deng Ai. In the second year, Mars entered Taiweiyuan, portending trouble for the monarch or minister. In the fourth year, Jupiter resided in the house, portending trouble for the general or amnesty. Deng Ai and Zhong Hui were killed; Shu was pardoned. Five years later, Emperor Yuan abdicated.
+
+Chunk 6: 
+original: 
+一曰： 左卫将军死，天下有兵。
+二年四月癸酉，岁星昼见。
+占曰： 为臣强。
+初，齐王冏定京都，因留辅政，遂专慠无君。
+是月，成都、河间檄长沙王乂讨之，冏乂交战，攻焚宫阙，冏兵败，夷灭。
+又杀其兄上军将军寔以下二十余人。
+太安二年，成都攻长沙，于是公私饥困，百姓力屈。
+太安二年二月，太白入昴。
+占曰： 天下扰，兵大起。
+七月，荧惑入东井。
+占曰： 兵起，国乱。
+是秋，太白守太微上将。
+占曰： 上将以兵亡。
+是年冬，成都、河间攻洛阳。
+八月，长沙王奉帝出距二王。
+三年正月，东海王越执长沙王乂，张方又杀之。
+三年正月，荧惑入南斗，占同永康。
+七月，左卫将军陈率众奉帝伐成都，六军败绩，兵逼乘舆。
+是时，天下盗贼群起，张昌尤盛。
+永兴元年七月庚申，太白犯角、亢，经房、心，历尾、箕。
+九月，入南斗。
+占曰： 犯角，天下大战；犯亢，有大兵，人君忧；入房心，为兵丧；犯尾箕，女主忧。
+一曰： 天下大乱。
+入南斗，有兵丧。
+一曰： 将军为乱。
+其所犯守，又兗、豫、幽、冀、扬州之分野。
+是年七月，有荡阴之役。
+九月，王浚杀幽州刺史和演，攻鄴，鄴溃，于是兗豫为天下兵冲。
+陈敏又乱扬土。
+刘元海、石勒、李雄等并起微贱，跨有州郡。
+皇后羊氏数被幽废。皆其应也。
+二年四月丙子，太白犯狼星。
+占曰： 大兵起。
+九月，岁星守东井。
+占曰： 有兵，井又秦分野。
+是年，苟晞破公师籓，张方破范阳王猇，关西诸将攻河间王颙，颙奔走，东海王迎杀之。
+translation: 
+Another saying is: General Zuowei dies, and there is war in the world.
+In April Guiyou of the second year, Jupiter appeared during the day.
+Divination said: It indicates that the minister will be strong.
+At the beginning, Sima Tong, the king of Qi, stabilized Kyoto and stayed to assist the government, so he became arrogant and arrogant.
+This month, the king of Chengdu and the king of Hejian sent a message to the king of Changsha, Sima Yi, to attack him. King Sima Wang of Qi fought with King Sima Yi of Changsha, captured and burned the palace, King Sima Tong of Qi was defeated, and his party was reduced from the clan.
+He also killed his brother Sima Sai, the general of the army, and more than 20 of his subordinates.
+In the second year of Tai'an, the King of Chengdu attacked the King of Changsha. As a result, public and private affairs were in dire straits, and the people were exhausted.
+In February of the second year of Tai'an, Venus entered the Pleiades.
+Divination said: The world is in chaos and wars are on the rise on a large scale.
+In July, Mars enters Shujing.
+Divination says: War breaks out and the country is in chaos.
+In the autumn of the year of Han, Venus resided in General Taiweiyuan.
+Divination said: The general died in the war.
+In the winter of this year, the king of Chengdu and the king of Hejian captured Luoyang.
+In August, Sima Yi, king of Changsha, brought Emperor Hui to fight against the two kings.
+In the first month of the third year, Sima Yue, king of Shuhai, detained Sima Yi, king of Changsha, and Zhang Fang killed him again.
+In the first month of the third year, Mars entered the Nandou, and the divination was the same as that of the first year of Yongkang.
+In July, Chen Zhen, the general of the left guard, led his troops and led Emperor Hui to attack the King of Chengdu. The army was defeated and the enemy soldiers approached the emperor's chariot.
+At this time, groups of thieves arose in the world, and Zhang Chang was particularly powerful.
+In the seventh month of the first year of Yongxing, Venus violated the two constellations of Jiao and Kang, and passed through the four constellations of Fang, Xin, Wei, and Ji.
+In September, enter Nandou.
+Divination says: If it conflicts with Spica, the world will be at war; if it conflicts with Kang, there will be a big war, and the ruler will be in trouble; if it enters Fang and Heart, it indicates war and death; if it conflicts with Wei and Ji, the heroine will have worries.
+Another way of saying it is: The world is in chaos.
+Entering the South Dou, there is war and death.
+Another way of saying it is: The general rebelled.
+The areas attacked and defended by Venus correspond to the areas of Yanzhou, Yuzhou, Youzhou, Jizhou and Yangzhou.
+In July of this year, there was a battle of Dangyin.
+In September, Wang Jun killed He Yan, the governor of Youzhou, and attacked Yecheng. Yecheng was captured, and Yanzhou and Yuzhou became places of military disputes in the world.
+Chen Min disrupted the Yangzhou area again.
+Liu Yuanhai, Shi Le, Li Xiong and others all rose from humble and humble positions to occupy states and counties.
+Queen Yangshi was imprisoned and deposed many times, all of which were fulfilled by astrology.
+In April of the second year on Bingzi, Venus opposed the Wolf star.
+Divination says: War breaks out on a large scale.
+In September, Jupiter resides in Dongjing.
+Divination said: There is a war, and Jingsu corresponds to the land of Qin.
+In this year, Gou Xi defeated Gongshi Fan, Zhang Fang defeated Sima Cheng, King of Fanyang, and the generals of Guanxi attacked Sima Yi, King of Hejian. Sima Yi escaped, and King Shuhai met and killed him.
+
+summary:
+summary line 5: In the fourth year of Xianning, Venus did not appear, portending defeat and national destruction. Yang Hu petitioned to attack Wu. In the fifth year, the army set off; Venus appeared in the west. In the first year of Taikang, Wu was defeated; Sun Hao surrendered. In the eighth year, Mars resided in the heart, a portent the emperor hated. In the first year of Taixi, Emperor Wu died. In the third year of Yuankang, Mars resided in Taiwei Yuan for sixty days, portending princes plotting against the king or the emperor losing his country. Venus resided in Bisu for over a hundred days, portending urgent orders, the prime minister's death, or border unrest. In the sixth year, Venus Baihua appeared. In the ninth year, Mars resided in the heart and entered the Feather Forest, portending the Imperial Army's launch. Emperor Hui was deposed; the three kings attacked King Sima Lun of Zhao. In the first year of Yongkang, the Zhongtai stars separated, and Venus appeared during the day, portending trouble for the three princes and ministers not abiding by their principles. Empress Jia killed the prince; King Zhao Sima Lun deposed and killed her. In the year of Han, Mars entered the South Dou, portending the prime minister's death and war. Sima Lun usurped the throne; the three kings attacked him. In the second year of Tai'an, Shi Bing captured Mo. In the Qian year, Mars entered Jisu, portending the king losing his throne and war. King Zhao Sima Lun usurped the throne. In the second year, Venus retrograded into Shujing, portending court chaos. King Sima Gang of Qi attacked King Sima Lun of Zhao, eliminated him, and was killed the next year. In the first year of Yongning, the five stars crossed the sky, portending ministers not abiding by their principles and the king changing. After that, the three princes and princes alternated in power, and the two emperors went into exile. Jupiter and Venus appeared during the day. Jupiter resided in void and dangerous constellations, portending war, famine, and corvees. Chen Xing entered Taiwei Yuan, portending civil strife. Venus resided in Youyemen, portending war and bandits. Saturn clashed with the Left Law Enforcement Star, portending trouble for the Shangxiang. Mars resided in the Pleiades, portending disaster for Wei. Stars resided in Yugui, portending disaster for Qin. The moon clashed with the left corner star, portending trouble for the king or the death of General Zuowei and war. In the second year, Jupiter appeared during the day, portending the minister's strength. Sima Tong, the king of Qi, became arrogant. The king of Chengdu and the king of Hejian attacked the king of Changsha; Sima Tong was defeated and killed. In the second year of Tai'an, the king of Chengdu attacked the king of Changsha, causing public and private distress. Venus entered the Pleiades, portending world chaos and war. Mars entered Shujing, portending war and national chaos. Venus resided in General Taiweiyuan, portending the general's death. The king of Chengdu and the king of Hejian captured Luoyang. Sima Yi, king of Changsha, fought the two kings. In the third year, Sima Yue, king of Shuhai, detained and killed Sima Yi. Mars entered the Nandou. Chen Zhen led troops to attack the king of Chengdu; the army was defeated. Groups of thieves arose; Zhang Chang was powerful. In the first year of Yongxing, Venus violated Jiao, Kang, Fang, Xin, Wei, and Ji, entering Nandou, portending war, death, and chaos. There was a battle of Dangyin. Wang Jun killed He Yan and attacked Yecheng. Chen Min disrupted Yangzhou. Liu Yuanhai, Shi Le, and Li Xiong rose from humble positions. Queen Yangshi was imprisoned and deposed. In the second year, Venus opposed the Wolf star, portending war. Jupiter resided in Dongjing, portending war in Qin. Gou Xi defeated Gongshi Fan; Zhang Fang defeated Sima Cheng; Guanxi generals attacked Sima Yi, king of Hejian; Sima Yi escaped; King Shuhai killed him. In the first year of Guangxi, Venus deviated from its normal path, entering Wei and Ji, portending defeat or massacre. Ji Sang attacked Yecheng; Feng Song was defeated; Ji Sang killed Sima Teng, king of Eastern Yan, burning palaces. Mars resided in the heart, a portent the emperor hated. Saturn resided in the house and heart, portending disaster, death, chaos, or forgiveness. Sima Yue monopolized power and was eliminated. Emperor Hui died; Emperor Huai ascended and granted amnesty. In the first year of Yongjia, the stars dispersed, portending bureaucrats and people relocating. After that, the world was in chaos, and many migrated and died. In the second year, Venus was hidden and appeared in the east, portending defeat, death, and the emperor's death in the Hu court. In the third year, Mars attacked Ziweiyuan, portending a king dying in the wilderness and fire. In the fifth year, Liu Yao and Wang Mi burned the palace, captured Emperor Huai, and returned to Pingyang. Saturn stayed in the South Dipper for a long time, portending blessing for that country. General Anshu and King Langxie owned Yangzhou. In the fifth year, Mars resided in the heart. In the sixth year, Venus violated Taiweiyuan, portending an army entering the emperor's court. Emperor Huai was killed in the Xiongnu court. In the first year of Taixing, Venus clashed with Nandou, portending war between Wu and Yue. In the second year, Mars clashed with Dongjing, portending war and respected ministers killing each other. Venus opposed Regulus, portending trouble in the harem. In the third year, Venus entered Taiweiyuan and violated the General Star, portending the emperor leading the army and the general's death. Venus opposed Nandou. Mars resided in Dongjing for thirty years, portending trouble for those with high positions. In the first year of Yongchang, Wang Dun led troops to attack Kyoto; the imperial army was defeated. Emperor Yuan thanked him. Zhou Ti, Chouyuan, and Qiao Ruomo were killed. Liu Wei fled. Sima Cheng, Qiao Wang, and Gan Zhuo were killed. Emperor Yuan died. In the third year of Taining, Mars retrograded into Taiweiyuan, portending war and death. Emperor Ming died. Two years later, Su Jun rebelled, burned the palace, and the Queen Mother died. In the sixth year of Xianhe, the moon entered the South Dou, portending war. Shi Le killed and plundered. Mars resided in the Stomach and Pleiades, portending war in Zhao and Wei. Shi Le died; Shi Jilong declared himself emperor. In the eighth year, the moon entered the South Dou. Shi Le died; Peng Biao ascended the throne. Zhi sent Governor Diebi to rescue Tong Bi; Jie Biao failed and was killed. Mars entered the Pleiades, portending King Hu's death or war in Zhao. Shi Le died; Shi Jilong captured many places. The moon clashed with the Pleiades again, portending unrest in Hu land. In the ninth year, Mars entered Yugui and violated the Jishi star, portending war in the northwest. The moon clashed with the Pleiades again. Huconong was monopolistic and tyrannical; he deposed Shi Hong and proclaimed himself emperor. In the first year of Shengchen, Venus clashed with Pleiades, portending war and drought. Shi Jilong's plundering cavalry arrived in Liyang. The court appointed King Situ to defend. Shi Jilong besieged Baokui. June, drought. The moon entered the Pleiades, portending King Hu's death. Mars entered Shujing, portending war starting or stopping. The moon opposed the Pleiades. In the second year, the moon violated Fangsu and clashed with the Pleiades. Venus clashed with Nandou, appearing during the day, portending death, mourning, and war. Shi Jilong assumed the title of King of Heaven and sent troops to attack Duan Liao and Murong Zhu, but failed. Murong You defeated his general Ma Qiu and captured Duan Liao. In the third year, the moon clashed with the house. Mars entered Yugui and clashed with the corpse star. The moon clashed with Dongjing and Jianxing. In the fourth year, Venus appeared during the day and resided in Liusu, portending war and ministers not obeying. Shi Jilong attacked the area south of Mianshui. In the fifth year, Mars clashed with the right law enforcement star, portending the minister's death and trouble for the ruler. Venus opposed the right law enforcement star again. Venus clashed with the upper star in the house, portending the prime minister's worry. In the fifth year, the moon violated Aldebaran, portending war. The moon clashed with the house, portending trouble for the general. Prime Minister Wang Dao died; Yu Bing took his place. Taiwei Xi Jian died. There was a defeat in the battle of Zhu City. In the sixth year, General Yu Liang died. Mars clashed with Taiweiyuan Admiral Star, portending trouble for the general. Mars opposed the right law enforcement star, portending trouble for those in power. The moon clashed with the central star of Altair, portending trouble for the general. He Chong was reprimanded and asked to be Zhongshu Ling. Venus opposed Aldebaran, portending war or trouble for the heroine. Venus opposed Regulus, portending trouble for the heroine. In the seventh year, Queen Du died. The moon invaded the house. Venus entered Yugui and appeared during the day. The moon clashed with Yugui. In the eighth year, Mars opposed the second star in the house, portending worry for the deputy prime minister. The moon clashed with Bisu, portending the lower class offending the upper class and war. The moon covered Aldebaran again. Two years later, the chariot and cavalry general Chen reported his death. Zuoyi planned to conquer Shi Jilong. In the first year of Emperor Kang, Venus entered the Pleiades, portending war. Venus appeared during the day. Shi Jilong killed his son Shi Sui and sent generals to invade. In the second year, Jupiter clashed with Tianguan. Yu Yi wrote to Yu Bing about Jupiter attacking Tianguan. Venus clashed with Dou, portending funeral and titles. Emperor Kang died; the prince ascended and granted amnesty. In the first year of Yonghe, the moon entered Bisu, portending war. The moon invaded Tianguan, portending rebellious ministers. Venus appeared during the day and resided in Dongjing, portending ministers' power and war in Qin. The moon entered Taiweiyuan and clashed with Tradus, portending dismissal of assistant ministers. The moon opposed Bisu and clashed with Yugui, portending minister death. Yu Yi fell ill and died; his son Yuanzhi was dismissed. Huan Wen attacked Shu, captured Li Shi, and sent him to Kyoto. In the second year, the moon clashed with the house and the left law star. In the third year, the moon clashed with the South Dipper and entered Kuisu, portending war or amnesty. The moon opposed Dongjing, portending the general's death and national trouble. The moon opposed the five princes, portending prince death. Venus clashed with the Nandou, portending funerals and war. In the fourth year, Venus clashed with the left law enforcement star. The moon invaded the house and entered the South Dou. Venus opposed the left law enforcement star. The moon clashed with Kangsu, portending war and the general's death. The moon clashed with the General Star. In the third year, there was a general amnesty. Chen Kui attacked Shouchun and failed. Di and Shu rebels disrupted Yizhou. Shi Jilong attacked Liangzhou. In the fifth year, Chu Pei died. In the fourth year, Venus entered the Pleiades. Venus opposed Regulus, portending war and death. Venus clashed with the house. The moon clashed with Kangsu, portending war and the general's death. Shi Jilong's prince Shi Xuan killed his brother Shi Tao; Shi Xuan also died. The moon clashed with the General Star. In the fifth year, Shi Jilong proclaimed himself emperor and died. Venus clashed with Shujing, portending war in Qin. Venus clashed with the left corner star, portending war. The moon opposed the Pleiades, portending barbarian trouble and the general's death. Chu Su went on a northern expedition and failed. Military camps in Guanzhong mutinied and surrendered to Jin. Shi Zun captured Nanyang. Ran Min killed Shi Zun and killed over 100,000 Hu people. Chu Ai died. Liu Xian, Fu Jian, and Murong Jun claimed titles. Yin Hao's Northern Expedition failed; he was dismissed. In the sixth year, the moon violated Antares and the house, portending trouble for those with high positions and the general and prime minister. The moon clashed with the Pleiades and invaded the five princes. The moon opposed the Zuojiao star, portending the general's death or war. The moon clashed with Jisu, portending the general's death. Mars clashed with Iron Star, portending minister death. The moon clashed with the left corner star. Venus appeared during the day and resided in the South Dipper. The moon opposed the right law star. Situ Cai Mo was dismissed. In the seventh year, Venus opposed the Pleiades. Mars entered Yugui and clashed with the Jixi star, portending trouble for noble people. Mars clashed with Regulus, portending trouble for the heroine. Venus entered Bikou and offended the left thigh, portending consequences for the general and prime minister. The moon clashed with Jisu, portending war. The moon clashed with Dou Su. Mars entered Taiweiyuan and offended the right law enforcement star. Venus attacked Regulus and opposed the right law enforcement star. Liu Xian killed Shi Zhi and his generals; chaos broke out east of Mount Lu; plague was widespread. In the eighth year, the moon clashed with Regulus and entered the South Dou. The moon clashed with the heart star and invaded the house. Jupiter clashed with Shujing, portending civil unrest and war. Mars entered Yugui, portending loyal minister death. Venus entered the South Dou and attacked the fourth star, portending trouble for the general or the prime minister's dismissal. In the ninth year, the moon entered the South Dou and invaded the house. Jupiter opposed the southeast star in Georgi, portending war. The emperor was young; his mother issued the Shao Order; generals conflicted with the prime minister; wars continued. Murong Jun became King of Yan. In the tenth year, the moon eroded the Pleiades, portending war in Zhao and Wei. Saturn covered the hungry star, portending weapons. The moon clashed with Antares, a portent the emperor hated. Venus appeared during the day, portending disaster in Qin and Zheng. Venus clashed with the left law enforcement star. Huan Wen was arbitrary. Huan Wen attacked Fu Jian and defeated the army at Xiaoliu. Murong Ke attacked Qi. In the eleventh year, the moon covered Regulus. The moon clashed with the southern star of Niu, portending national trouble. Venus clashed with the Tianjiang River, portending the Yellow River crossing blocked. In the twelfth year, Venus appeared during the day and resided in Shujing. The moon clashed with the hungry star and covered Jian Xing. Mars entered Taiweiyuan and violated the General Star. Mars clashed with Taiwei Yuan Dongfan’s upper phase star. Qi was captured; Duan Chong was captured; over 3,000 people were killed. Xianbei invaded Hebei. In the first year of Shengping, Murong Jun occupied Linzhang and owned You, Bing, Qing, and Ji states. The generals along the Yellow River fled. Local princes held great power; wars continued. In the first year, Venus entered Yugui. The moon covered Jingsu, portending war in Qin or the general's death. Venus appeared during the day and resided in Zhen, portending war in Chu. The moon violated Bisu, portending border war. Mars attacked the Tianjiang star, portending the Yellow River crossing blocked. Jupiter opposed the house, portending disaster in Yuzhou. Fu Jian killed Fu Sheng and declared himself king of heaven. Murong Jun entered Ye. In the second year, Xie Yi died. Saturn opposed Xuanyuan Star, a portent the monarch hated. The moon invaded Dongjing and the house. Venus opposed the Weeping Star, portending great weeping. In the third year, Mars opposed the star of Zhiguan, portending trouble for the monarch. Mars moved against the normal path and clashed with Gou Ling, a portent the emperor hated. Venus opposed Cambodia. Mars clashed with the Tianjiang River. Venus clashed with Yugui. The moon opposed the central star of Altair, portending the general's death. Venus clashed with Regulus. The moon clashed with Aldebaran, portending border war or the lower offending the upper. Zhuge You led his navy into the Yellow River and was defeated. Xie Wan entered Yingshui; his army dispersed; Xie Wan was deposed. King Situ Kuaiji requested a lower title. In the fourth year, Murong Jun died; his son Fucha was crowned. Murong Jian killed Shangshu Lingdantun. The moon violated the central star of Altair. Mercury clashed with Regulus, portending trouble for the heroine. Venus entered the right door of Taiwei Yuan and came out from the end door, portending the noble person losing power, war, or ministers not following rules. Venus opposed Di, portending national trouble. Mars clashed with the Admiral Star. Venus entered the Nandou and clashed with the fourth star, portending funerals, pardons, and titles. Mars clashed with the house. Venus appeared during the day. The moon clashed with the closed star, a portent the monarch hated. In the fifth year, Saturn moved against the normal path and violated Taiwei Yuan. The moon violated Taiweiyuan and clashed with Jianxing, portending ministers plotting against each other. Yin Hao's army failed; he was demoted. The moon clashed with Altair, portending national trouble. The moon clashed with the northeast star of Di, portending the general's responsibility. Beizhonglang general Xi Tan died. The emperor died; Emperor Ai ascended; Queen Chu lost power. Murong Ke attacked Lu Hu; Lu Hu fled to Rongyang. Huan Wen returned. In the fifth year, the moon covered the northeast star of Di, portending the general's responsibility. The moon covered Bisu, portending border war. The moon clashed with Aldebaran, portending the lower offending the upper or border war. Fan Wang was dismissed. In the first year of Longhe, Murong Bei led his army to attack Heyin. In the third year of Xingning, the moon invaded Nandou, portending trouble for the heroine. Jupiter opposed Yugui, portending trouble for the king. Venus appeared during the day and was in the constellation, portending war, death, and ministers' power. Queen Yu died. In the second year of Haixi Taihe, Venus entered the Pleiades. Murong Bei was wiped out by Fu Jian and occupied Si, Ji, You, and Bing. In the sixth year, Mars resided at the end gate of Taiwei Yuan, portending the emperor losing his country, princes plotting, or a minister beheaded. The moon clashed with Antares, a portent the emperor hated. Huan Wen deposed the emperor and moved him to Xin'an. In the first year of Xian'an, Mars entered Taiwei Yuan against the normal path, portending national unrest. Emperor Jian Wen was forced by Huan Wen. In the second year, Venus crossed the sky, portending war. Jupiter changed color, portending the monarch not being blessed and the minister being strong. Venus appeared during the day and resided in the Big Dipper. Venus opposed Yugui, portending national trouble. Emperor Jian Wen died. Huan Wen executed Wang Tanzhi and others. Yu hope and Lu Xi were executed. In the first year of Ningkang, the moon covered the heart star, portending disaster in Yuzhou or a portent the emperor hated. The moon covered the South Dipper, portending trouble for the minister or the general's death. Huan Wen died. Mars entered Taiweiyuan. The heroine presided over the government; there were many shortcomings. The moon covered the southern star of Altair, portending General Zuo's death. Venus appeared during the day and resided in Di. Beizhonglang general Wang Tan died. In the third year, Venus clashed with Shujing, portending war in Qin. Mars covered the left law enforcement star, portending the law enforcement minister's death. In the first year of Taiyuan, Fu Jian captured Liangzhou. In the second year, Shangshu ordered Wang Biao to die. In the first year, Mars opposed the South Dipper and covered it again, portending war, famine in the Central Plains, or forgiveness. Venus appeared during the day and resided in Di. Mars opposed the Weeping Star and entered the Feather Forest, portending the emperor crying and the army rising. The moon covered Spica, portending war or national trouble. In the second year, Mars lived in Yulin, portending the Praetorian Guards rising. Venus appeared during the day and resided in Spica. In the first year of Shengping, there was a general amnesty. In the third year, the former Qin army attacked Fan, Deng, Xiangyang, and Pengcheng. In the fourth year, Xiangyang fell; Zhu Xu was captured. Wei Xing fell; enemy troops gathered in Guangling and Sanhe. Armies guarded key points. The governor of Yanzhou attacked and defeated the enemy. Agricultural harvests failed. In the fourth year, Venus opposed the crying star, portending the emperor crying. In the fifth year, Mercury opposed Regulus, portending consequences for the heroine. Queen Wang died. In the sixth year, Venus appeared during the day. In the seventh year, Venus appeared again and resided in the Dipper, portending war and death in Wu. In the eighth year, Venus appeared again and resided in Rigel, portending war and death in Wei. Huan Chong conquered Mianshui and Mozhuo; Huanhao attacked Shu. Deng Jian led an army of millions and captured Zuiluo. Liu Kongzhi defeated Li Jian's general Zhu Sheng. Xie Xuan defeated Diechu in Feicheng. In the ninth year, Empress Dowager Chu died. Xie Xuantun stationed troops in Jianqiu. In the ninth year, Venus appeared during the day. In the tenth year, it appeared again in Bisu and Pleiades, portending war and death in Wei. Fu Jian's army fled; Zhao, Wei, and Wei attacked each other; Fu Jian was killed by Yao Chang. In the eleventh year, Venus appeared during the day and resided in Shujing, portending war and ministers' power. It appeared again in Yugui, portending war in Qin. Wei, Xingzuo, and Lideng used troops. Jupiter appeared during the day and resided in the stomach, portending war in Lu and ministers' power. Murong Chui attacked Dong'a; Zhai Liao attacked Jiongshang; Xingli declared himself emperor in Bao; Deng ascended the throne in Longshang; Dan Guang occupied Bianye. In the twelfth year, Venus appeared during the day and resided in Liusu and Dou. In the thirteenth year, daylight appeared again. Mars resided in Spica and Kangxi, portending officials disregarding the law and princes disrupting politics. Murong Chui, Zhai Liao, Yao Chang, Fu Deng, and Murong Yong relied on the army. In the fourteenth year, demon thieves in Pengcheng pretended to be emperor; Liu Laozhi destroyed them. Zhang Dao captured Hexiang and Taishan. Zhai Liao captured Rongyang. There were many shortcomings in political affairs; the monarchy declined. In the fourteenth year, Venus appeared in Liusu, Yisu, and Zhensu during the day. Mars entered Yulin. Zhai Liao invaded Sizhou and Yanzhou; armies failed. Murong Chui seized Bing and Ji. July, drought. August, floods and locusts in Yanzhou. In the fifteenth year, Mars entered Taiweiyuan. Venus entered the Feather Forest. In the sixteenth year, Venus appeared during the day. The moon covered the heart star, portending trouble for the prince. The prince often fell seriously ill. In the seventeenth year, Venus appeared during the day. In the eighteenth year, daylight appeared again. In the nineteenth year, it appeared in Liusu and Yugui during the day. In the twentieth year, Mars entered the sky, portending great famine. Venus appeared in Taiweiyuan during the day, portending national trouble, war, and death. The moon clashed with Zhiguan, Shuxian, and Xixian, portending conspiracy. In the twenty-first year, Venus appeared during the day in Yulin and the stomach, portending powerful ministers, war, and the Chinese army rising. Venus entered the sky, portending famine. Jupiter opposed the Weeping Star, portending weeping. Emperor Xiaowu died. In the first year of Long'an, Wang Gong and others launched an army; martial law was imposed. Floods and droughts occurred; riots occurred; the people were hungry. In the first year, Mars opposed the Weeping Star, portending weeping. Venus appeared during the day and resided in Dongjing, portending a defeated army in Qin. Yao Xing attacked Luoyang; Xi Hui rescued him. Yao Chang died; his son Yao Lue came to the throne. Tuoba Gui ascended the throne in Zhongshan. Mars resided in the Jingsu Cymbal star, portending minister death. In the second year, the sundial moved abnormally. Jupiter appeared during the day and resided in the stomach. Xi Hui sent Deng Qifang to attack Youchaxuan; they failed. Venus appeared during the day and resided in Yulin. The moon opposed the east phase star. In the third year, the moon covered the stars. Mercury clashed with Regulus. Yu Kai and others mobilized the army; martial law was imposed. Luoyang was captured by Qian Fortress. Sun En gathered his troops, captured Kuaiji, and killed Nei Shi. In the fourth year, the moon clashed with the Weeping Star. In the fifth year, Venus appeared during the day in Douxiu until Yimao, portending disaster in Wu and Yue. The Arcturus star scattered and shook, portending princes scattering. The moon invaded the sky, portending trouble for the emperor. Mars attacked Shaowei, portending the secluded person being killed. The moon clashed with the Shuci phase star. Empress Dowager Li died. Demon thieves defeated Gao Yazhi; seven or eight out of ten people died. Sun En attacked prefectures; martial law was imposed. Sun En's faction attacked Lu Zuo; Xingzheng pursued and defeated him. Huan Xuan's memorial violated the emperor's will. Sima Yuanxian reorganized the navy. In the first year of Yuanxing, Lu Xun claimed to be General Zhenglu and seized Yongjia and Jin'an. Emperor An dispatched the Western Army. Huanxuan captured Kyoto, killed Sima Yuanxian, and exiled Sima Daozi. Venus clashed with the five princes and appeared during the day, portending prince death. Mars resided in Shujing and opposed Yugui. Venus covered the right law enforcement star and clashed with Jinxian star, portending the death of those who recommended talented people. In the second year, Jupiter opposed the Western Admiral. The moon covered the Dipper, portending minister death within three years. Venus opposed Fangsu. Jupiter opposed the Jinxian star; Mars opposed the West General star. Venus clashed with the Weeping Star. Mars opposed the east ascending star. The moon covered Regulus. Wei defeated Yao Xing's army. Huan Xuan usurped the throne, exiled Emperor An and Queen He, and demoted Queen He. In the third year, Liu Yu had all the Huan clan executed. Mars moved against the normal path and violated Taiwei Yuan, portending the emperor fighting in the countryside and the prime minister's death. Mars moved against the normal path and was located northwest of the left law enforcement star, portending the law enforcement minister's death. The moon covered Regulus and the Dipper. Saturn entered Yulin. Liu Yu killed Huan Xiu and others. Huan Xuan was defeated and fled; Xin Si killed Zuo Pu and shot Wang Yu; Huan Xuan kidnapped the emperor and took him to Jiangling. Huan Xuan went down to Zhengrongzhou; the rebel army destroyed him. Huan Zhen captured Jiangling and kidnapped the emperor. Queen He of Yongan died. In the first year of Yixi, the moon covered the left law enforcement star and the heart star, portending disaster in Yuzhou. Venus opposed Shujing, portending war in Qin. Venus appeared during the day and resided in Yisu and Zhensu, portending the minister being strong and war in Jingzhou. The moon clashed with the Dipper, portending war or trouble for the minister. Mars attacked Shaowei, portending the hermit being killed. Mars opposed the right and left law enforcement stars. Venus opposed the Gou Ling star, portending trouble for the mouthpiece. Jupiter clashed with the Tianjiang River, portending war and the Yellow River crossing blocked. Wei Yong, the governor of Jingzhou, died. Sima Guochang captured Yiyang. Yao Xing attacked Qiu Chi Gong Yang
+

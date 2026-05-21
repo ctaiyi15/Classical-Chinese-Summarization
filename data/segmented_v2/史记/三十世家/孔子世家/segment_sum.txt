@@ -1,0 +1,581 @@
+Summary uses chunk [0, 1, 1, 3, 5, 7, 10, 13, 16]
+
+Chunk 0: 
+original: 
+孔子生鲁昌平乡陬邑。
+其先宋人也，曰孔防叔。
+防叔生伯夏，伯夏生叔梁纥。
+纥与颜氏女野合而生孔子，祷於尼丘得孔子。
+鲁襄公二十二年而孔子生。
+生而首上圩顶，故因名曰丘云。字仲尼，姓孔氏。
+丘生而叔梁纥死，葬於防山。
+防山在鲁东，由是孔子疑其父墓处，母讳之也。
+孔子为兒嬉戏，常陈俎豆，设礼容。
+孔子母死，乃殡五父之衢，盖其慎也。
+陬人輓父之母诲孔子父墓，然後往合葬於防焉。
+孔子要绖，季氏飨士，孔子与往。
+阳虎绌曰： 季氏飨士，非敢飨子也。
+孔子由是退。
+孔子年十七，鲁大夫孟釐子病且死，诫其嗣懿子曰： 孔丘，圣人之後，灭於宋。
+其祖弗父何始有宋而嗣让厉公。
+及正考父佐戴、武、宣公，三命兹益恭，故鼎铭云： 一命而偻，再命而伛，三命而俯，循墙而走，亦莫敢余侮。
+饘於是，粥於是，以餬余口。
+其恭如是。
+吾闻圣人之後，虽不当世，必有达者。
+今孔丘年少好礼，其达者欤？
+吾即没，若必师之。
+及釐子卒，懿子与鲁人南宫敬叔往学礼焉。
+是岁，季武子卒，平子代立。
+孔子贫且贱。
+及长，尝为季氏史，料量平；尝为司职吏而畜蕃息。
+由是为司空。
+translation: 
+Confucius was born in Zouyi, Changping Township, Lu State.
+His ancestor was from the Song Dynasty, named Uncle Kong Fang.
+Uncle Fang gave birth to Bo Xia, and Bo Xia gave birth to Shu Liang He.
+Shu Lianghe and Yehe, a woman named Yan, gave birth to Confucius. They got Confucius after they went to Niqiu Mountain to pray to the gods.
+Confucius was born in the 22nd year of Duke Xiang of Lu.
+The top of his head was concave when he was born, so he was named Qiu. The courtesy name is Zhongni and the surname is Kong.
+Shortly after Confucius was born, his uncle Liang He died and was buried in Fangshan.
+Fangshan was in the east of Lu State, so Confucius could not know for sure where his father's tomb was. His mother did not tell him where his father was buried.
+When Confucius was a child, he played games, often setting up various sacrificial vessels and learning the ritual movements of sacrificial offerings.
+After Confucius's mother died, she temporarily placed her coffin in the Five Fathers' Road without burying her. This was out of prudent consideration.
+The mother of Wan's father, who was from Zouyi, told him the burial place of Confucius's father, and then Confucius moved his mother to Fangshan to be buried with his father.
+When Confucius was mourning with a filial piety belt tied around his waist, Ji Sun held a banquet to entertain celebrities, and Confucius went to attend.
+Ji Sun's retainer Yang Hu stopped him and said: "Ji's family is entertaining celebrities, but you are not invited."
+Confucius withdrew because of this.
+When Confucius was seventeen years old, Lizi, a senior official in the state of Lu, was critically ill. Before his death, he warned his son Yizi: Confucius is a descendant of a saint, and his ancestors perished in the Song Dynasty.
+His ancestor Fufu He was supposed to succeed as the king of Song Dynasty, but he gave way to his younger brother Li Gong.
+When another of his ancestors, Zheng Kao's father, assisted Song Dai Gong, Song Wu Gong, and Song Xuangong in three dynasties, he was more respectful every time he was given orders. Therefore, the inscription on Zheng Kao's father's tripod says: The first appointment was received with a bow, the second appointment was received with a bow, and the third appointment was bowed and received.
+When I walked, I avoided the middle of the road and walked against the wall, and no one dared to bully me. I just made batter and porridge in this cauldron to survive.
+His frugality has reached this point.
+I heard that although the descendants of saints may not necessarily become kings and govern, there will definitely be people with outstanding talents and virtues.
+Now Confucius is young and courteous. Isn't he a man of outstanding talents and virtue?
+If I die, you must take him as your teacher.
+After Meng Lizi died, Meng Yizi and Nangong Jingshu, a native of Lu, went to Confucius to learn etiquette.
+This year, Ji Wuzi died, and Pingzi succeeded to the throne.
+Confucius' family was poor and of low status.
+When he came of age, he worked as a clerk in charge of the Ji family's warehouse, and he was a cashier who could calculate money and grain fairly and accurately. He also worked as a clerk in charge of pastures, and he was able to breed livestock well.
+Therefore, he was promoted to Sikong in charge of construction projects.
+
+summary:
+summary line 0: Confucius was born in Zouyi, Changping Township, Lu State, to Shu Lianghe and a woman named Yan after they prayed at Niqiu Mountain. His head was concave at birth, so he was named Qiu, with the courtesy name Zhongni and surname Kong. His father died shortly after his birth and was buried in Fangshan, but his mother did not reveal the location. As a child, Confucius played at setting up sacrificial vessels and learning ritual movements. After his mother died, he temporarily placed her coffin at the Five Fathers' Road until a neighbor told him his father's burial place, allowing him to bury them together. At seventeen, Meng Lizi, a senior official, warned his son Yizi that Confucius, a descendant of saints, should be taken as a teacher. After Lizi's death, Yizi and Nangong Jingshu learned etiquette from Confucius.
+
+Chunk 1: 
+original: 
+已而去鲁，斥乎齐，逐乎宋、卫，困於陈蔡之间，於是反鲁。
+孔子长九尺有六寸，人皆谓之 长人 而异之。
+鲁复善待，由是反鲁。
+鲁南宫敬叔言鲁君曰： 请与孔子適周。
+鲁君与之一乘车，两马，一竖子俱，適周问礼，盖见老子云。
+辞去，而老子送之曰： 吾闻富贵者送人以财，仁人者送人以言。
+吾不能富贵，窃仁人之号，送子以言，曰： 聪明深察而近於死者，好议人者也。博辩广大危其身者，发人之恶者也。
+为人子者毋以有己，为人臣者毋以有己。  孔子自周反于鲁，弟子稍益进焉。
+是时也，晋平公淫，六卿擅权，东伐诸侯；楚灵王兵彊，陵轹中国；齐大而近於鲁。
+鲁小弱，附於楚则晋怒；附於晋则楚来伐；不备於齐，齐师侵鲁。
+鲁昭公之二十年，而孔子盖年三十矣。
+齐景公与晏婴来適鲁，景公问孔子曰： 昔秦穆公国小处辟，其霸何也？
+对曰： 秦，国虽小，其志大；处虽辟，行中正。
+身举五羖，爵之大夫，起累绁之中，与语三日，授之以政。
+以此取之，虽王可也，其霸小矣。
+景公说。
+孔子年三十五，而季平子与郈昭伯以斗鸡故得罪鲁昭公，昭公率师击平子，平子与孟氏、叔孙氏三家共攻昭公，昭公师败，奔於齐，齐处昭公乾侯。
+其後顷之，鲁乱。
+孔子適齐，为高昭子家臣，欲以通乎景公。
+translation: 
+Not long after, he left the state of Lu, was ostracized in the state of Qi, was expelled in the states of Song and Wei, was besieged between the states of Chen and Cai, and finally returned to the state of Lu.
+Confucius was nine feet six inches tall. People called him "The Long Man" because they thought he was different from ordinary people.
+The State of Lu was still very kind to him, so he returned to the State of Lu.
+Nangong Jingshu, a native of Lu, said to Duke Zhao of Lu: Please allow me to go on a mission to Zhou with Confucius.
+Duke Zhao of Lu gave him a carriage, two horses, and a boy servant, and set off with him to the Kingdom of Zhou to learn etiquette and pay a visit to Lao Tzu.
+When they were saying goodbye, Lao Tzu came out to see them off and said: I heard that wealthy people give gifts with property, and people with noble moral character give gifts with words.
+I am not a wealthy person, so I can only steal the name of a noble person and send you off with words. These sentences are: A wise and thoughtful person is often threatened with death because he likes to talk about others; a knowledgeable, eloquent and insightful person is often in trouble and endangers himself, because he likes to expose the sins of others.
+Children should not have selfish motives, and ministers should not think only of themselves but the monarch. After Confucius returned to the state of Lu from Zhou Dynasty, more and more disciples followed him.
+At this time, Jin Pinggong was promiscuous and immoral, and the six ministers of the Han, Zhao, Wei, Zhonghang, Fan, and Zhi families controlled the state affairs and constantly sent troops to attack the feudal states in the east. King Ling of Chu had a strong army and often invaded other countries in the Central Plains; Qi was a big country and close to Lu.
+The state of Lu was small and weak. If it surrendered to the state of Chu, it would anger the state of Jin. If it surrendered to the state of Jin, it would cause the state of Chu to attack. If it did not serve Qi well, Qi's army would invade the state of Lu.
+Lu Zhaogong was twenty years old and Confucius was thirty years old.
+Duke Jinggong of Qi and Yan Ying came to the state of Lu. Duke Jinggong asked Confucius: "In the past, Duke Qin's country was small and remote. Why was he able to dominate?"
+Confucius replied: Although the Qin State is small, its ambitions are great; although its location is remote, its governance is very appropriate.
+Duke Mu of Qin personally pulled Baili Xi, who had been redeemed with five black ram skins, and awarded him the title of a great official. As soon as he was released from detention, Qin Jun discussed with him for three days, and then let him take charge of the state affairs.
+Using this spirit to govern the country can even rule the entire world. Being an overlord is not a big deal.
+Jinggong was very happy after hearing this.
+When Confucius was thirty-five years old, Ji Pingzi offended Lu Zhaogong for having a cockfight with Li Zhaobo. Zhaogong led his army to attack Pingzi. Pingzi, the Mengsun family and the Shusun family allied with him to attack Zhaogong. Zhaogong's army was defeated and fled to Qi State. Qi State placed Zhaogong in Qianhou.
+Not long after that, an incident occurred in the state of Lu.
+Confucius came to Qi State and became Gao Zhaozi's retainer, hoping to use Gao Zhaozi's relationship to get close to Jinggong.
+
+summary:
+summary line 1: Confucius' family was poor and of low status. He worked as a clerk managing the Ji family's warehouse and pastures, where he was fair and efficient, leading to his promotion to Sikong. He later left Lu, was ostracized in Qi, expelled in Song and Wei, besieged between Chen and Cai, and finally returned to Lu. At nine feet six inches tall, he was called "The Long Man." Nangong Jingshu requested Duke Zhao of Lu to allow Confucius to travel to Zhou to learn etiquette from Lao Tzu, who advised him to avoid speaking of others' faults and to act without selfish motives. After returning, Confucius gained many disciples.
+
+Chunk 1: 
+original: 
+已而去鲁，斥乎齐，逐乎宋、卫，困於陈蔡之间，於是反鲁。
+孔子长九尺有六寸，人皆谓之 长人 而异之。
+鲁复善待，由是反鲁。
+鲁南宫敬叔言鲁君曰： 请与孔子適周。
+鲁君与之一乘车，两马，一竖子俱，適周问礼，盖见老子云。
+辞去，而老子送之曰： 吾闻富贵者送人以财，仁人者送人以言。
+吾不能富贵，窃仁人之号，送子以言，曰： 聪明深察而近於死者，好议人者也。博辩广大危其身者，发人之恶者也。
+为人子者毋以有己，为人臣者毋以有己。  孔子自周反于鲁，弟子稍益进焉。
+是时也，晋平公淫，六卿擅权，东伐诸侯；楚灵王兵彊，陵轹中国；齐大而近於鲁。
+鲁小弱，附於楚则晋怒；附於晋则楚来伐；不备於齐，齐师侵鲁。
+鲁昭公之二十年，而孔子盖年三十矣。
+齐景公与晏婴来適鲁，景公问孔子曰： 昔秦穆公国小处辟，其霸何也？
+对曰： 秦，国虽小，其志大；处虽辟，行中正。
+身举五羖，爵之大夫，起累绁之中，与语三日，授之以政。
+以此取之，虽王可也，其霸小矣。
+景公说。
+孔子年三十五，而季平子与郈昭伯以斗鸡故得罪鲁昭公，昭公率师击平子，平子与孟氏、叔孙氏三家共攻昭公，昭公师败，奔於齐，齐处昭公乾侯。
+其後顷之，鲁乱。
+孔子適齐，为高昭子家臣，欲以通乎景公。
+translation: 
+Not long after, he left the state of Lu, was ostracized in the state of Qi, was expelled in the states of Song and Wei, was besieged between the states of Chen and Cai, and finally returned to the state of Lu.
+Confucius was nine feet six inches tall. People called him "The Long Man" because they thought he was different from ordinary people.
+The State of Lu was still very kind to him, so he returned to the State of Lu.
+Nangong Jingshu, a native of Lu, said to Duke Zhao of Lu: Please allow me to go on a mission to Zhou with Confucius.
+Duke Zhao of Lu gave him a carriage, two horses, and a boy servant, and set off with him to the Kingdom of Zhou to learn etiquette and pay a visit to Lao Tzu.
+When they were saying goodbye, Lao Tzu came out to see them off and said: I heard that wealthy people give gifts with property, and people with noble moral character give gifts with words.
+I am not a wealthy person, so I can only steal the name of a noble person and send you off with words. These sentences are: A wise and thoughtful person is often threatened with death because he likes to talk about others; a knowledgeable, eloquent and insightful person is often in trouble and endangers himself, because he likes to expose the sins of others.
+Children should not have selfish motives, and ministers should not think only of themselves but the monarch. After Confucius returned to the state of Lu from Zhou Dynasty, more and more disciples followed him.
+At this time, Jin Pinggong was promiscuous and immoral, and the six ministers of the Han, Zhao, Wei, Zhonghang, Fan, and Zhi families controlled the state affairs and constantly sent troops to attack the feudal states in the east. King Ling of Chu had a strong army and often invaded other countries in the Central Plains; Qi was a big country and close to Lu.
+The state of Lu was small and weak. If it surrendered to the state of Chu, it would anger the state of Jin. If it surrendered to the state of Jin, it would cause the state of Chu to attack. If it did not serve Qi well, Qi's army would invade the state of Lu.
+Lu Zhaogong was twenty years old and Confucius was thirty years old.
+Duke Jinggong of Qi and Yan Ying came to the state of Lu. Duke Jinggong asked Confucius: "In the past, Duke Qin's country was small and remote. Why was he able to dominate?"
+Confucius replied: Although the Qin State is small, its ambitions are great; although its location is remote, its governance is very appropriate.
+Duke Mu of Qin personally pulled Baili Xi, who had been redeemed with five black ram skins, and awarded him the title of a great official. As soon as he was released from detention, Qin Jun discussed with him for three days, and then let him take charge of the state affairs.
+Using this spirit to govern the country can even rule the entire world. Being an overlord is not a big deal.
+Jinggong was very happy after hearing this.
+When Confucius was thirty-five years old, Ji Pingzi offended Lu Zhaogong for having a cockfight with Li Zhaobo. Zhaogong led his army to attack Pingzi. Pingzi, the Mengsun family and the Shusun family allied with him to attack Zhaogong. Zhaogong's army was defeated and fled to Qi State. Qi State placed Zhaogong in Qianhou.
+Not long after that, an incident occurred in the state of Lu.
+Confucius came to Qi State and became Gao Zhaozi's retainer, hoping to use Gao Zhaozi's relationship to get close to Jinggong.
+
+summary:
+summary line 2: At thirty, Confucius advised Duke Jing of Qi that Qin's success came from its ambitious governance and use of talents like Baili Xi. At thirty-five, after political turmoil in Lu, Confucius went to Qi, where he studied music and advised Duke Jing on governance, emphasizing proper roles and frugality. However, Yan Ying dissuaded the duke from employing Confucius, criticizing Confucian rituals as impractical. Confucius left Qi and returned to Lu.
+
+Chunk 3: 
+original: 
+吴客曰： 谁为神？
+仲尼曰： 山川之神足以纲纪天下，其守为神，社稷为公侯，皆属於王者。
+客曰： 防风何守？
+仲尼曰： 汪罔氏之君守封、禺之山，为釐姓。
+在虞、夏、商为汪罔，於周为长翟，今谓之大人。
+客曰： 人长几何？
+仲尼曰： 僬侥氏三尺，短之至也。长者不过十之，数之极也。
+於是吴客曰： 善哉圣人！
+桓子嬖臣曰仲梁怀，与阳虎有隙。
+阳虎欲逐怀，公山不狃止之。
+其秋，怀益骄，阳虎执怀。
+桓子怒，阳虎因囚桓子，与盟而醳之。
+阳虎由此益轻季氏。
+季氏亦僭於公室，陪臣执国政，是以鲁自大夫以下皆僭离於正道。
+故孔子不仕，退而脩诗书礼乐，弟子弥众，至自远方，莫不受业焉。
+定公八年，公山不狃不得意於季氏，因阳虎为乱，欲废三桓之適，更立其庶孽阳虎素所善者，遂执季桓子。
+桓子诈之，得脱。
+定公九年，阳虎不胜，奔于齐。
+是时孔子年五十。
+公山不狃以费畔季氏，使人召孔子。
+孔子循道弥久，温温无所试，莫能己用，曰： 盖周文武起丰镐而王，今费虽小，傥庶几乎！
+欲往。子路不说，止孔子。
+孔子曰： 夫召我者岂徒哉？如用我，其为东周乎！
+然亦卒不行。其後定公以孔子为中都宰，一年，四方皆则之。
+由中都宰为司空，由司空为大司寇。
+定公十年春，及齐平。
+夏，齐大夫黎鉏言於景公曰： 鲁用孔丘，其势危齐。
+乃使使告鲁为好会，会於夹谷。
+translation: 
+The envoy from Wu State asked again: "Who is the god?"
+Confucius said: The gods of mountains and rivers can stir up the clouds and cause rain, which is enough to benefit the world. The gods are responsible for supervising the mountains and rivers and offering sacrifices on time. Those who guard the land and grain are princes, and they are all subordinate to the king.
+Wu envoy asked again: What is the Fangfeng family responsible for offering sacrifices to?
+Confucius said: The county chief of the Wanggong family, who supervises the sacrifices in Fengshan and Yushan areas, has the surname Li.
+In Yu, Xia, and Shang Dynasties, he was called Wang Yi, in Zhou Dynasty, he was called Chang Zhai, and now he is called adults.
+Wu Shi asked: How tall can a person be?
+Confucius replied: The Ruohui family is three feet tall and is the shortest among them; the one who is only three feet tall is the tallest among them.
+After hearing this, the envoy from the State of Wu said: What a great saint!
+Ji Huanzi had a favorite named Zhongliang Huai, who had a grudge against Yang Hu.
+Yang Hu wanted to expel Zhong Liang Huai, but Ji's retainer Gong Shan Buxu stopped him.
+In the autumn of this year, Zhongliang Huai became even more arrogant, and Yang Hu captured Zhong Liang Huai.
+Ji Huanzi was very angry about this, so Yang Hu imprisoned Ji Huanzi. He was not released until Ji Huan admitted defeat and made a covenant.
+From then on, Yang Hu looked down upon Ji's family even more.
+Ji's family also acted above Lu Jun, and the state of Lu had a situation where ministers had exclusive power. Therefore, the people of Lu did not observe etiquette from the officials down, and exceeded their authority and violated the right path.
+Therefore, Confucius no longer wanted to be an official in the state of Lu. He retired at home and concentrated on studying and sorting out the classics such as "Poems", "Books", "Rites" and "Music". More and more students, some even coming from far away, all humbly asked Confucius for advice.
+In the eighth year of Lu Dinggong's reign, Gongshan Buxuan failed under Ji Huanzi, so he took advantage of Yanghu's rebellion and planned to abolish the legitimate heirs of Jisun, Mengsun, and Shusun families, and establish a bastard son who Yanghu had always loved, so he arrested Ji Huanzi.
+Huanzi designed to deceive him and was able to escape.
+In the ninth year of Duke Dinggong of Lu, Yang Hu failed in his rebellion and fled to Qi.
+At this time, Confucius was fifty years old.
+Gongshan Buxuan used Philadelphia to rebel against the Ji family, and he sent people to summon Confucius to help.
+Confucius has been exploring the way to govern the country for a long time, but he was depressed and had nowhere to apply it. No one could use him, so he said: In the beginning, King Wen and King Wu of Zhou arose from Feng and Hao and established the royal industry. Although Philadelphia is small now, it should be about the same!
+Confucius wanted to go, but Zilu was unhappy and stopped Confucius.
+Confucius said: If they invite me to go, will my trip be in vain?
+If I am reused, I will establish a dynasty like Zhou Dynasty in the East! However, it didn't happen in the end. Later, Duke Dinggong of Lu appointed Confucius as the governor of the central capital. A year later, all places followed his example.
+Confucius was promoted from the chief of Zhongdu to Sikong, and from Sikong to the great Sikou.
+In the spring of the tenth year of Lu Dinggong, Lu and Qi reconciled.
+In the summer, Li Kuan, an official of the Qi State, said to Jinggong: The Lu State has appointed Confucius, and this situation will endanger the Qi State.
+So Qi Jinggong sent an envoy to tell the state of Lu that he would have a friendly meeting with Lu Dinggong, and the agreed meeting place was Jiagu.
+
+summary:
+summary line 3: At fifty, Confucius was appointed governor of Zhongdu, then promoted to Sikong and later to Grand Sikou. In the tenth year of Duke Ding of Lu, he organized a meeting at Jiagu between Lu and Qi, where he confronted Qi's disruptive performances and had performers executed. Qi returned invaded lands to Lu. In the thirteenth year, Confucius ordered the demolition of the city walls of Ji, Meng, and Shu families to curb their power, but the Meng family resisted, and the city of Cheng could not be captured.
+
+Chunk 5: 
+original: 
+季氏将堕费，公山不狃、叔孙辄率费人袭鲁。
+公与三子入于季氏之宫，登武子之台。
+费人攻之，弗克，入及公侧。
+孔子命申句须、乐颀下伐之，费人北。国人追之，败诸姑蔑。
+二子奔齐，遂堕费。
+将堕成，公敛处父谓孟孙曰： 堕成，齐人必至于北门。
+且成，孟氏之保鄣，无成是无孟氏也。
+我将弗堕。 十二月，公围成，弗克。
+定公十四年，孔子年五十六，由大司寇行摄相事，有喜色。
+门人曰： 闻君子祸至不惧，福至不喜。
+孔子曰： 有是言也。不曰 乐其以贵下人 乎？
+於是诛鲁大夫乱政者少正卯。
+与闻国政三月，粥羔豚者弗饰贾；男女行者别於涂；涂不拾遗；四方之客至乎邑者不求有司，皆予之以归。
+齐人闻而惧，曰： 孔子为政必霸，霸则吾地近焉，我之为先并矣。
+盍致地焉？
+黎鉏曰： 请先尝沮之；沮之而不可则致地，庸迟乎！
+於是选齐国中女子好者八十人，皆衣文衣而舞康乐，文马三十驷，遗鲁君。
+陈女乐文马於鲁城南高门外，季桓子微服往观再三，将受，乃语鲁君为周道游，往观终日，怠於政事。子路曰： 夫子可以行矣。
+孔子曰： 鲁今且郊，如致膰乎大夫，则吾犹可以止。
+桓子卒受齐女乐，三日不听政；郊，又不致膰俎於大夫。
+孔子遂行，宿乎屯。
+translation: 
+The Jisun family was also preparing to demolish the city wall of Feiyi. Gongshan Buxuan and Shusunsu led Feiyi's people to attack Lu.
+Lu Dinggong, Ji Sun, Meng Sun, and Shu Sun hid in Ji Sun's house and climbed to the high altar of Ji Sun Wuzi.
+The Feiyi people led by Gongshan Buxuan attacked them and failed to penetrate, but some people had already broken into the near side of Lu Dinggong's high altar.
+Confucius ordered Shen Gouxu and Leqi to step down and attack them. The Feiyi people failed and fled. The Lu people took advantage of the victory to pursue them and completely defeated them in Gumi.
+Gongshan Buxuan and Shusun Zhui fled to Qi State, and the city wall of Feiyi was finally demolished.
+Then the city was ready to be demolished. Meng Sun's retainer Gong Lian Chufu told Meng Sun: "If the city wall of Cheng Yi is demolished, the people of Qi will definitely advance to our north gate."
+Moreover, Chengcheng is also a barrier for your Meng family. Without Chengcheng, there is no Meng family. I'm not going to tear it down.
+In December, Lu Dinggong led his troops to surround Chengcheng but could not capture it.
+In the fourteenth year of Lu Dinggong, Confucius was fifty-six years old. He acted as the chief minister in the affairs of the prime minister, with a look of joy on his face.
+His disciples said: I heard that a gentleman will not be afraid when a great disaster comes, nor will he be overjoyed when a great blessing comes.
+Confucius said: There is this saying, but isn't there another saying: "Being in a high position and treating the virtuous but a lowly person is content with yourself?"
+So Confucius killed the official Shaozhengmao who was disturbing the state affairs.
+Three months after Confucius participated in state affairs, merchants selling pigs and sheep no longer dared to ask for high prices; men and women walked separately; no one picked up things dropped on the road; travelers from all over the country came to the cities of Lu, and they did not need to ask for favors or gifts from officials, they could get what they needed and go back satisfied.
+When the Qi State heard the news, they became frightened and said: "As long as Confucius is in power in the Lu State, he will definitely dominate. Once the Lu State becomes hegemonic, we are the closest and will definitely take the lead in annexing us."
+Why not give them some land first?
+Li Kuan said: Let's try to stop them first. If that doesn't work, then give them the land. Is it too late?
+So he selected 80 beautiful women from Qi, put them all in gorgeous clothes, taught them how to dance "Kangle", and gave them to Lord Lu together with 120 horses with patterns on their bodies.
+First, place the female musicians and the patterned horse float outside the high gate in the south of Lucheng. Ji Huanzi wore casual clothes and went to watch it again. He planned to accept it, so he told Jun Lu that he would go out to inspect various places. He would take the opportunity to go to the south gate all day long to watch the beauties and horses of Qi State. He didn't even bother to manage the political affairs of the country. Seeing this, Zilu said to Confucius: Teacher, we can leave here.
+Confucius said: The State of Lu is about to hold a suburban ceremony. If the barbecue after the ceremony can be distributed to the officials according to the law, then I can stay here.
+Ji Huanzi finally accepted the women's band sent by Qi State and did not attend to government affairs for three days. After the suburban sacrifice, he violated common etiquette and did not give the sacrificial meat and the ritual utensils used in the suburban sacrifice to the doctor.
+So Confucius left the state of Lu and stayed in the camp overnight that day.
+
+summary:
+summary line 4: At fifty-six, Confucius acted as chief minister, killing the official Shaozhengmao. Within three months, Lu's markets became honest, men and women walked separately, and lost items were not taken. Qi, fearing Lu's rise, sent eighty beautiful women and 120 horses to Lu. Ji Huanzi accepted them, neglecting state affairs. Confucius left Lu after the suburban sacrifice was mishandled, traveling to Wei, where he received a salary of 60,000 dou but left after slander. He was besieged in Kuang, mistaken for Yang Hu, but escaped. He returned to Wei, met Nanzi, and left after Duke Linggong's behavior disgusted him.
+
+Chunk 7: 
+original: 
+於是丑之，去卫，过曹。
+是岁，鲁定公卒。
+孔子去曹適宋，与弟子习礼大树下。
+宋司马桓魋欲杀孔子，拔其树。
+孔子去。
+弟子曰： 可以速矣。
+孔子曰： 天生德於予，桓魋其如予何！
+孔子適郑，与弟子相失，孔子独立郭东门。
+郑人或谓子贡曰： 东门有人，其颡似尧，其项类皋陶，其肩类子产，然自要以下不及禹三寸。累累若丧家之狗。
+子贡以实告孔子。
+孔子欣然笑曰： 形状，末也。而谓似丧家之狗，然哉！
+然哉！ 孔子遂至陈，主於司城贞子家。
+岁馀，吴王夫差伐陈，取三邑而去。
+赵鞅伐朝歌。
+楚围蔡，蔡迁于吴。
+吴败越王勾践会稽。
+有隼集于陈廷而死，楛矢贯之，石砮，矢长尺有咫。
+陈湣公使使问仲尼。仲尼曰： 隼来远矣，此肃慎之矢也。
+昔武王克商，通道九夷百蛮，使各以其方贿来贡，使无忘职业。
+於是肃慎贡楛矢石砮，长尺有咫。
+先王欲昭其令德，以肃慎矢分大姬，配虞胡公而封诸陈。
+分同姓以珍玉，展亲；分异姓以远职，使无忘服。
+故分陈以肃慎矢。
+试求之故府，果得之。
+孔子居陈三岁，会晋楚争彊，更伐陈，及吴侵陈，陈常被寇。
+孔子曰： 归与归与！
+吾党之小子狂简，进取不忘其初。
+於是孔子去陈。
+过蒲，会公叔氏以蒲畔，蒲人止孔子。
+弟子有公良孺者，以私车五乘从孔子。
+其为人长贤，有勇力，谓曰： 吾昔从夫子遇难於匡，今又遇难於此，命也已。
+吾与夫子再罹难，宁斗而死。
+斗甚疾。蒲人惧，谓孔子曰： 苟毋適卫，吾出子。
+与之盟，出孔子东门。
+孔子遂適卫。
+translation: 
+So he was disgusted with what Wei Linggong did, so he left Wei State and went to Cao State.
+This year, Lu Dinggong passed away.
+Confucius left the State of Cao and arrived in the State of Song, where he practiced etiquette with his disciples under a big tree.
+Sima Huan of the Song Dynasty wanted to kill Confucius, so he cut down the tree.
+Confucius had no choice but to leave this place.
+The disciples urged: We can leave quickly.
+Confucius said: Since God has given me the mission of preaching morality, what can Huan Miao do to me?
+When Confucius arrived in the state of Zheng, he became separated from his disciples. Confucius stood alone at the east gate of the outer city.
+When the people of Zheng saw it, they said to Zigong: There is a man at the east gate. His forehead is like Yao, his neck is like Gaotao, and his shoulders are like Zheng Zichan. But from the waist down, he is three inches shorter than Yu. He looks embarrassed and listless, really like a lost dog.
+When Zigong met, he told Confucius the truth.
+Confucius said happily: He may not be right when he describes my appearance, but he is absolutely right when he says that I look like a lost dog! Absolutely right.
+Confucius then arrived in the state of Chen and stayed at the home of Sadako in Sicheng.
+More than a year later, King Wu Fucha came to attack Chen State and captured three cities before retreating.
+Zhao Yang attacked Chaoge.
+Chu State surrounded Cai State, and Cai State moved to Wu.
+The state of Wu defeated King Gou Jian of Yue in Kuaiji.
+One day, many falcons fell down and died in the palace of Chen State. They were pierced by arrows made of falcon wood. The arrowheads were made of stone and were one foot and eight inches long.
+Chen Minggong sent an envoy to ask Confucius for advice. Confucius said: These falcons flew from a very far away place. They are arrows from the Sushen tribe.
+In the past, King Wu of the Zhou Dynasty conquered the Zhou Dynasty and destroyed the Shang Dynasty, which established ties with the various ethnic groups and allowed all ethnic groups of the Nine Barbarians and Barbarians to contribute their own local specialties, so that they could not forget their responsibilities and obligations.
+So the Sushen tribe presented arrows made of mulberry wood and arrowheads made of stone, one foot and eight inches long.
+In order to show his virtue, King Wu of Zhou gave the arrows of the Sushen tribe to his eldest daughter Taiji. Later, Taiji married Duke Yuhu, and Duke Yuhu granted him a title in the state of Chen.
+At the beginning, the royal family distributed treasures and jades to the princes with the same surname to show that they valued their relatives; the tributes from distant places were given to princes with the same surname to show that they valued their relatives; the tributes from distant places were given to princes with the same surname to remind them not to forget to obey the Zhou Dynasty.
+Therefore, the arrows from the Sushen tribe were distributed to Chen Guo.
+After hearing this, Chen Minggong asked people to search in the warehouse where tributes from all parties were stored, and sure enough, they found this kind of arrow.
+Confucius lived in the State of Chen for three years, which coincided with the struggle for hegemony between the State of Jin and the State of Chu. The two countries took turns attacking the State of Chen. Until the State of Wu attacked the State of Chen, the State of Chen was often invaded.
+Confucius said: Go back, go back!
+The disciples in my hometown all have high aspirations, they are all enterprising, and they have not forgotten their original intentions.
+So Confucius left the state of Chen.
+Confucius passed by a place called Pu, and happened to meet the Gongshu family who occupied Pu and rebelled against the country. The people of Pu detained Confucius.
+One of Confucius's disciples named Gong Liangru brought five cars to follow Confucius around the world.
+He was a tall man, talented, virtuous, and brave. He said to Confucius: I used to travel around Kuang with my teacher and encountered dangers. Now I encounter dangers here again. This is destined to happen.
+My teacher and I once again encountered disaster and died fighting.
+Gong Liangru fought fiercely with the Pu people. The Pu people were frightened and said to Confucius: If you don't go to Weiguo, I will let you go.
+Confucius made a covenant with them, and then he let Confucius and the others go out through the east gate.
+Confucius then went to Weiguo.
+
+summary:
+summary line 5: Confucius traveled to Song, where Sima Huan tried to kill him, then to Zheng, where he was described as a lost dog. In Chen, he identified arrows from the Sushen tribe. After three years, he left due to invasions. At Pu, he was detained but escaped after a covenant. He returned to Wei, but Duke Linggong did not use him. He considered going to Jin but turned back after learning of the deaths of two virtuous officials. He returned to Wei, then left for Chen after Duke Linggong ignored him.
+
+Chunk 10: 
+original: 
+曰： 必召厓求。
+於是使使召厓求。
+厓求将行，孔子曰： 鲁人召求，非小用之，将大用之也。
+是日，孔子曰： 归乎归乎！
+吾党之小子狂简，斐然成章，吾不知所以裁之。
+子赣知孔子思归，送厓求，因诫曰 即用，以孔子为招 云。
+厓求既去，明年，孔子自陈迁于蔡。
+蔡昭公将如吴，吴召之也。
+前昭公欺其臣迁州来，後将往，大夫惧复迁，公孙翩射杀昭公。
+楚侵蔡。
+秋，齐景公卒。
+明年，孔子自蔡如叶。
+叶公问政，孔子曰： 政在来远附迩。
+他日，叶公问孔子於子路，子路不对。
+孔子闻之，曰： 由，尔何不对曰 其为人也，学道不倦，诲人不厌，发愤忘食，乐以忘忧，不知老之将至 云尔。
+去叶，反于蔡。
+长沮、桀溺耦而耕，孔子以为隐者，使子路问津焉。
+长沮曰： 彼执舆者为谁？
+子路曰： 为孔丘。
+曰： 是鲁孔丘与？
+曰： 然。
+曰： 是知津矣。 桀溺谓子路曰： 子为谁？ 曰： 为仲由。
+曰： 子，孔丘之徒与？
+曰： 然。
+桀溺曰： 悠悠者天下皆是也，而谁以易之？
+且与其从辟人之士，岂若从辟世之士哉！
+櫌而不辍。
+子路以告孔子，孔子怃然曰： 鸟兽不可与同群。天下有道，丘不与易也。
+他日，子路行，遇荷筱丈人，曰： 子见夫子乎？
+丈人曰： 四体不勤，五穀不分，孰为夫子！
+植其杖而芸。
+子路以告，孔子曰： 隐者也。
+复往，则亡。
+孔子迁于蔡三岁，吴伐陈。
+楚救陈，军于城父。
+闻孔子在陈蔡之间，楚使人聘孔子。
+孔子将往拜礼，陈蔡大夫谋曰： 孔子贤者，所刺讥皆中诸侯之疾。
+今者久留陈蔡之间，诸大夫所设行皆非仲尼之意。
+今楚，大国也，来聘孔子。
+孔子用於楚，则陈蔡用事大夫危矣。
+於是乃相与发徒役围孔子於野。
+不得行，绝粮。
+从者病，莫能兴。
+孔子讲诵弦歌不衰。
+子路愠见曰： 君子亦有穷乎？
+孔子曰： 君子固穷，小人穷斯滥矣。
+子贡色作。
+孔子曰： 赐，尔以予为多学而识之者与？
+曰： 然。
+translation: 
+Gong Zhiyu said: We must summon Ranqiu.
+So he sent someone to recall Ran Qiu.
+Ran Qiu was about to get up and go, but Confucius said: This time the State of Lu summoned Ran Qiu back, he will not be used lightly, he should be used in a big way.
+On this day, Confucius said: Go back, go back!
+Those disciples in my hometown have lofty ambitions but broad-minded actions, and are rich in literary talents. I really don’t know where to start to educate them.
+Zigong knew that Confucius missed his hometown and wanted to go back. When sending Ranqiu off, he told him that if he was re-employed, he should think about inviting the teacher back.
+After Ran Qiu left, Confucius moved from the state of Chen to the state of Cai the next year.
+Cai Zhaogong was preparing to go to the State of Wu, and it was the king of the State of Wu who summoned him.
+Previously, Duke Zhao deceived his ministers and moved the capital to Zhoulai. This time he was going to the Kingdom of Wu again. The officials were worried that he would move the capital again. Gongsun Pian shot Duke Zhao with an arrow on the way.
+Then, the Chu army came to invade Cai.
+In the autumn of the same year, Qi Jinggong passed away.
+In the second year, Confucius went from Cai State to Ye Yi.
+Ye Gong asked Confucius how to govern. Confucius said: The key to governing is to recruit wise men from far away and make people nearby join.
+One day, Lord Ye asked Zilu what Confucius was like, but Zilu didn't answer.
+Confucius heard about this and said: Zhong Yu, why don't you answer him? He is a man who never gets tired when he studies principles, never gets tired of teaching others, forgets to eat when he is studying hard, forgets sorrow when he is happy, doesn't know that aging is coming, etc.
+Confucius left Ye Di of Chu State and returned to Cai State.
+On the road, he met Chang Ju and Jie Zhong, who were plowing the fields side by side. Confucius thought they were hermits, so he sent Zi Lu to find out where the ferry was.
+Chang Ju said: Who is the man holding the reins of the horse?
+Zilu replied: It is Confucius.
+Chang Ju asked again: "Is he Confucius from Lu?"
+Zilu said: Yes.
+Chang Ju said: Then he should know where the ferry is. Jie Dong asked Zi Lu again: "Who are you?" Zilu said: I am Zhong Yu.
+Jie Dun said: Are you a disciple of Confucius?
+Zilu said: Yes.
+Jie Dun said: The world is in turmoil everywhere, and who can change this situation?
+Besides, instead of running around with those who are fleeing from the rioters, why not follow those of us who are fleeing from the troubled times?
+After saying that, he continued to plow the fields non-stop.
+Zilu told Confucius this, and Confucius said disappointedly: We can't live in the mountains and forests with the birds and beasts. If the world were peaceful, I wouldn't have to run around trying to change this situation.
+One day, when Zi Lu was walking alone, he met an old man carrying a weeding tool on his shoulder. Zilu asked him: Have you seen my teacher?
+The old man said: You people are not diligent in your limbs and cannot distinguish the grains. How can I know who your teacher is?
+After saying that, he went to pull weeds on crutches.
+Later, Zilu told Confucius what happened. Confucius said: This is a hermit.
+I asked Zilu to look there again, but the old man was gone.
+Three years after Confucius moved to the state of Cai, the state of Wu attacked the state of Chen.
+The State of Chu rescued the State of Chen, and the army was stationed in Chengfu.
+Hearing that Confucius lived on the border of Chen and Cai, Chu sent people to hire Confucius.
+Confucius was about to go to see and accept the betrothal gift. The officials of Chen and Cai discussed and said: Confucius is a talented and virtuous man, and what he criticizes and satirizes are all about the shortcomings of the princes.
+Now we have been stuck between Chen and Cai for a long time. The administration and actions of the officials are not in line with Zhongni's wishes.
+Today's Chu State is a big country, but it came to hire Confucius.
+If Confucius is reused in Chu State, then our officials in power in Chen and Cai will be in danger.
+So both sides sent some laborers to besiege Confucius in the wild.
+Confucius and his disciples were unable to move and their food supply was cut off.
+The disciples who followed him were sick from hunger and could not stand up.
+But Confucius continued to give lectures, recite poems, sing, and play the piano to everyone.
+Zilu came to see Confucius angrily: Is there a time when a gentleman is in trouble?
+Confucius said: A gentleman can maintain his integrity and remain unwavering in the face of adversity, while a young man will not exercise restraint when faced with adversity and will do anything that goes too far.
+At this time, Zigong's expression also changed.
+Confucius said: Ci, do you think I am a man of erudition and memorization?
+Zigong replied: Yes.
+
+summary:
+summary line 6: At sixty, Confucius was in Chen. After Ji Huanzi's death, Ji Kangzi recalled Ran Qiu, and Confucius hoped to return. He moved to Cai, then to Ye, where he advised on governance. He met hermits Chang Ju and Jie Ni, who criticized his efforts. He was besieged between Chen and Cai, running out of food, but continued teaching. His disciples questioned their plight, but Confucius maintained his principles. King Zhao of Chu planned to grant him land, but Zixi dissuaded him, and the king died soon after. Confucius returned to Wei, then to Lu after fourteen years.
+
+Chunk 13: 
+original: 
+求之至於此道，虽累千社，夫子不利也。 康子曰： 我欲召之，可乎？
+对曰： 欲召之，则毋以小人固之，则可矣。
+而卫孔文子将攻太叔，问策於仲尼。
+仲尼辞不知，退而命载而行，曰： 鸟能择木，木岂能择鸟乎！
+文子固止。
+会季康子逐公华、公宾、公林，以币迎孔子，孔子归鲁。
+孔子之去鲁凡十四岁而反乎鲁。
+鲁哀公问政，对曰： 政在选臣。
+季康子问政，曰： 举直错诸枉，则枉者直。
+康子患盗，孔子曰： 苟子之不欲，虽赏之不窃。
+然鲁终不能用孔子，孔子亦不求仕。
+孔子之时，周室微而礼乐废，诗书缺。
+追迹三代之礼，序书传，上纪唐虞之际，下至秦缪，编次其事。
+曰： 夏礼吾能言之，杞不足徵也。
+殷礼吾能言之，宋不足徵也。
+足，则吾能徵之矣。
+观殷夏所损益，曰： 後虽百世可知也，以一文一质。
+周监二代，郁郁乎文哉。吾从周。 故书传、礼记自孔氏。
+孔子语鲁大师： 乐其可知也。
+始作翕如，纵之纯如，皦如，绎如也，以成。
+吾自卫反鲁，然後乐正，雅颂各得其所。
+古者诗三千馀篇，及至孔子，去其重，取可施於礼义，上采契后稷，中述殷周之盛，至幽厉之缺，始於衽席，故曰 关雎之乱以为风始，鹿鸣为小雅始，文王为大雅始，清庙为颂始 。
+三百五篇孔子皆弦歌之，以求合韶武雅颂之音。
+礼乐自此可得而述，以备王道，成六艺。孔子晚而喜易，序彖、系、象、说卦、文言。
+读易，韦编三绝。曰： 假我数年，若是，我於易则彬彬矣。
+孔子以诗书礼乐教，弟子盖三千焉，身通六艺者七十有二人。
+如颜浊邹之徒，颇受业者甚众。孔子以四教：文，行，忠，信。
+绝四：毋意，毋必，毋固，毋我。
+translation: 
+Although I had meritorious service in the military and was granted a total of 2,500 families, Confucius would not be tempted. Kangzi said: I want to summon him back, is that okay?
+Ran You said: If you want to invite him back, as long as you don't let villains hinder him, that's all.
+At that time, Kong Wenzi, the official of the Wei State, was preparing to attack Taishu and asked Confucius for advice.
+Confucius refused and said he didn't know. When he returned to his residence, he immediately ordered his carriage to leave Weiguo, saying: Birds can choose trees to live in, but how can trees choose birds?
+Kong Wenzi firmly detained him.
+It happened that Ji Kangzi sent Gonghua, Gongbin, and Gonglin to greet Confucius with gifts, and Confucius returned to the state of Lu.
+Confucius left the State of Lu for fourteen years and returned to the State of Lu.
+Duke Ai of Lu asked Confucius about the principles of government. Confucius replied: The most important thing in government is to choose ministers.
+Ji Kangzi also asked Confucius about the principles of government. Confucius said: Use upright people and discard people with evil intentions, so that people with evil intentions can become upright.
+Ji Kangzi was worried about stealing. Confucius said: If you have no desire, people will not steal even if you give them rewards.
+However, the State of Lu failed to appoint Confucius in the end, and Confucius did not ask to be an official.
+In the time of Confucius, the king of Zhou was in decline, rituals and music were in ruins, and the "Poems" and "Books" were also in short supply.
+Confucius studied the etiquette system of the Xia, Shang, and Western Zhou dynasties, and compiled the chapters of Shuzhuan, starting from the time of Yao and Shun of Tang Dynasty, to Duke Mu of Qin Dynasty, and arranged them according to the order of events.
+Confucius said: I can still describe the etiquette system of the Xia Dynasty, but the Qi State, a descendant of the Xia Dynasty, did not leave enough documents to prove it.
+I can also tell you about the etiquette system of the Yin and Shang Dynasties, but the post-Song Dynasty of the Yin and Shang Dynasties did not leave enough documents to prove these systems.
+If there are enough documents from Qi and Song, I can prove these systems.
+After examining the additions and deletions made by the Yin Dynasty to the Xia Dynasty in the etiquette system, Confucius said: Even after a hundred years in the future, the increases and decreases can be predicted, because one kind of emphasis is on literary talent, and the other is on simplicity.
+The etiquette system of the Zhou Dynasty was formulated based on the Xia Dynasty and the Yin Dynasty. It is so rich and colorful. I advocate using the etiquette of the Zhou Dynasty. Therefore, "Shu Zhuan" and "Book of Rites" were both compiled by Confucius.
+Confucius once said to the music official Taishi of Lu: Music can be understood.
+At the beginning of the performance, they should cooperate with each other, and continue to have a harmonious rhythm, clear and continuous sound, until the whole piece of music is completed.
+Confucius also said: After I returned to Lu from Wei, I began to correct the poetry and music, restoring the original tunes of "Ya" and "Song".
+There are more than 3,000 poems handed down from ancient times. At the time of Confucius, he deleted the repetitive ones and selected those that were consistent with the meaning for etiquette education. The earliest ones traced the ancestors of Yin, Qi, and the ancestors of Zhou, Houji. The second ones described the prosperity of the Yin and Zhou dynasties, until the political absence of King Zhou You and King Li of Zhou. The beginning was a poem describing the relationship and feelings between men and women, so it is said: The movement "Guan Sui" is the first chapter of "Guofeng", "Lu Ming" is the first chapter of "Xiao Ya", "King Wen" is the first chapter of "Daya", and "Qing Temple" is the first chapter of "Ode".
+Confucius was able to play and sing the three hundred and five poems in order to match the tunes of the music "Shao", "Wu", "Ya" and "Song".
+From then on, the music system of the former kings was restored to the old view and could be described. The king's way was complete, and Confucius also completed the compilation of "Poetry", "Book", "Yue", "Yi" and "Spring and Autumn" which are known as the "Six Arts". In his later years, Confucius liked to study "The Book of Changes". He explained in detail the "Yun Ci", "Xici", "Gua", "Classic Chinese", etc.
+Confucius read the "Book of Changes" so diligently that he broke the cowhide rope that woven the slips through many times. He also said: If I live a few more years, I will be able to fully understand the diction and meaning of "The Book of Changes".
+Confucius used "Poems", "Books", "Li" and "Music" as teaching materials to educate his disciples. There were about 3,000 disciples studying there, and 72 of them were proficient in the six skills of etiquette, music, archery, charioteering, arithmetic, and shu.
+As for people like Yan Zhuozou, there are even more disciples who were taught by Confucius in many aspects but were not formally naturalized. Confucius educated his disciples in four aspects: knowledge, words and deeds, loyalty and forgiveness, and faith.
+Set four prohibitions for disciples: don’t speculate, don’t be arbitrary, don’t be stubborn, and don’t be self-righteous.
+
+summary:
+summary line 7: In Lu, Confucius was not appointed to office. He compiled the "Shu Zhuan" and "Book of Rites," corrected poetry and music, and studied the "Book of Changes," wearing out the binding cords. He taught about 3,000 disciples, with 72 mastering the six arts. He educated in knowledge, conduct, loyalty, and faith, avoiding profit unless linked to fate and benevolence. He was humble in his hometown but eloquent in court. He avoided spoiled food and improper seating, and showed sympathy to mourners and the blind.
+
+Chunk 16: 
+original: 
+夏人殡於东阶，周人於西阶，殷人两柱间。
+昨暮予梦坐奠两柱之间，予始殷人也。
+後七日卒。
+孔子年七十三，以鲁哀公十六年四月己丑卒。
+哀公诔之曰： 旻天不吊，不玦遗一老，俾屏余一人以在位，茕茕余在疚。
+呜呼哀哉！尼父，毋自律！
+子贡曰： 君其不没於鲁乎！
+夫子之言曰： 礼失则昏，名失则愆。
+失志为昏，失所为愆。
+生不能用，死而诔之，非礼也。
+称 余一人 ，非名也。
+孔子葬鲁城北泗上，弟子皆服三年。
+三年心丧毕，相诀而去，则哭，各复尽哀；或复留。
+唯子赣庐於冢上，凡六年，然後去。
+弟子及鲁人往从冢而家者百有馀室，因命曰孔里。
+鲁世世相传以岁时奉祠孔子冢，而诸儒亦讲礼乡饮大射於孔子冢。孔子冢大一顷。
+故所居堂弟子内，後世因庙藏孔子衣冠琴车书，至于汉二百馀年不绝。
+高皇帝过鲁，以太牢祠焉。
+诸侯卿相至，常先谒然後从政。
+孔子生鲤，字伯鱼。
+伯鱼年五十，先孔子死。
+伯鱼生伋，字子思，年六十二。
+尝困於宋。
+子思作中庸。
+子思生白，字子上，年四十七。
+子上生求，字子家，年四十五。
+子家生箕，字子京，年四十六。
+子京生穿，字子高，年五十一。
+子高生子慎，年五十七，尝为魏相。
+子慎生鲋，年五十七，为陈王涉博士，死於陈下。
+鲋弟子襄，年五十七。
+尝为孝惠皇帝博士，迁为长沙太守。
+translation: 
+When a person from Xia died, his coffin was placed on the steps of the east chamber, when a person from Zhou died, his coffin was placed on the steps of the west chamber, and when a person from Yin died, his coffin was placed between the two pillars of the hall.
+Last night I dreamed that I was sitting between two pillars and being worshiped. My ancestor was the Yin Shang Dynasty.
+After that, Confucius died.
+Confucius was seventy-three years old and died on Ji Chou day in April of the sixteenth year of Duke Ai of Lu.
+Duke Ai of Lu wrote a eulogy for him and said: God is not kind and refuses to keep this old man. He leaves me alone and I am lonely and hurt. ah!
+How painful! Nifu, there is no one who can serve as a role model for me to learn from!
+Zigong said, "Master of Lu, can't he stay in Lu forever?"
+The teacher said: Loss of Dharma will lead to confusion, and loss of status will lead to faults.
+If you lose your will, you will become confused; if you lose your ability, you will make mistakes.
+You cannot use the teacher while he is alive, but it is not appropriate to mourn him after he is dead.
+It is inappropriate to call him "Yu Yiren" as a prince.
+After his death, Confucius was buried on the shore of Surabaya, north of Lucheng. His disciples mourned him in their hearts for three years.
+After three years of mourning, when everyone said goodbye and left, they all cried to each other and mourned each other; some even stayed.
+Only Zigong lived in a small room next to the tomb and guarded the tomb for a total of six years before leaving.
+His disciples and others from the state of Lu led more than a hundred people who lived near the tomb. So this place was named Kongli.
+It has been passed down from generation to generation in the State of Lu that they regularly visit Confucius's tomb every year to worship. Confucian scholars also come here at this time to learn etiquette, go to the countryside for academic examinations, have drinking ceremonies, and perform archery competitions and other ceremonies. Confucius's tomb is an area of ​​one hectare.
+The main hall of Confucius's former residence and the inner rooms where his disciples lived were later converted into temples to store the clothes, hats, musical instruments, cars, books, etc. that Confucius wore during his lifetime. Until the Han Dynasty, it was not abandoned for more than 200 years.
+Emperor Liu Bang of Gao Dynasty passed through the land of Lu and sacrificed Confucius with Tailao, which was equipped with cattle, sheep and pigs.
+When princes, ministers, officials, and prime ministers arrive at their posts, they often visit the tomb of Confucius before taking office and handling government affairs.
+Confucius gave birth to a carp, named Boyu.
+Boyu died at the age of fifty, before Confucius.
+Boyu gave birth to Ji, whose name was Zisi. Guo was sixty-two years old.
+Once trapped in the Song Dynasty.
+Zisi wrote "The Doctrine of the Mean".
+Zisi gave birth to Bai, named Zishang, at the age of forty-seven.
+Zishang gave birth to Qiu, named Zijia, at the age of forty-five.
+Ji was born in Zi's family, named Zijing, and he died at the age of forty-six.
+Zijing gave birth to Chuan Chuan, named Zi Gao, at the age of fifty-one.
+Zigao gave birth to Shen, who died at the age of fifty-seven. He once served as the prime minister of Wei.
+Zishen gave birth to Yu, and died at the age of fifty-seven. He was a doctor of King Sheng of Chen, and died in Chen.
+Yu's younger brother is named Zixiang, who died at the age of fifty-seven.
+He once served as a doctor for Emperor Xiaohui of the Han Dynasty and was later promoted to the prefect of Changsha County.
+
+summary:
+summary line 8: In his later years, Confucius compiled the "Spring and Autumn Annals" based on Lu's history, covering twelve rulers. He used subtle writing to praise and criticize, making rebellious officials fearful. He died at seventy-three in the sixteenth year of Duke Ai of Lu. Duke Ai mourned him, but Zigong criticized the eulogy. Confucius was buried north of Lucheng. Disciples mourned for three years, with Zigong staying six years. His tomb became a site of annual worship, and his former residence was turned into a temple, preserved for over 200 years. Emperor Liu Bang of Han sacrificed to him. Confucius' descendants continued his lineage, including his son Boyu, who died before him, and grandson Zisi, who wrote "The Doctrine of the Mean." The historian concluded that Confucius, though a commoner, became the supreme sage, with his teachings enduring for generations.
+

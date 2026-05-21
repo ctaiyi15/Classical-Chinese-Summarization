@@ -1,0 +1,406 @@
+Summary uses chunk [0, 0, 0, 1, 1, 2]
+
+Chunk 0: 
+original: 
+《洪范》八政，三曰祀。
+祀者，所以昭孝事祖，通神明也。
+旁及四夷，莫不修之；下至禽兽，豺獭有祭。
+是以圣王为之典礼。
+民之精爽不贰，齐肃聪明者，神或降之，在男曰觋，在女曰巫，使制神之处位，为之牲器。
+使先圣之后，能知山川，敬于礼仪，明神之事者，以为祝；能知四时牺牲，坛场上下，氏姓所出者，以为宗。
+故有神民之官，各司其序，不相乱也。
+民神异业，敬而不黩，故神降之嘉生，民以物序，灾祸不至，所求不匮。
+及少昊之衰，九黎乱德，民神杂扰，不可放物。
+家为巫史，享祀无度，黩齐明而神弗蠲。
+嘉生不降，祸灾荐臻，莫尽其气。
+颛顼受之，乃命南正重司天以属神，命火正黎司地以属民，使复旧常，亡相侵黩。
+自共工氏霸九州，其子曰句龙，能平水土，死为社祠。
+有烈山氏王天下，其子曰柱，能殖百谷，死为稷祠。
+故郊祀社稷，所从来尚矣。
+《虞书》曰：舜在璇玑玉衡，以齐七政。
+遂类于上帝，禋于六宗，望秩于山川，遍于群神。
+揖五瑞，择吉月日，见四岳诸牧，班瑞。
+岁二月，东巡狩，至于岱宗。
+岱宗，泰山也。
+柴，望秩于山川。遂见东后。
+东后者，诸侯也。
+合时月正日，同律、度、量、衡，修五礼、五乐，三帛二生一死为贽。
+五月，巡狩至南岳。
+南岳者，衡山也。
+八月，巡狩至西岳。
+西岳者，华山也。
+十一月，巡狩至北岳。
+北岳者，恒山也。
+皆如岱宗之礼。
+中岳，嵩高也。
+五载一巡狩。
+禹遵之。
+后十三世，至帝孔甲，淫德好神，神黩，二龙去之。
+translation: 
+Among the eight types of government officials in "Hong Fan", the third type is called sacrificial officials.
+Sacrifice is used to show filial piety, serve ancestors and understand gods.
+Sacrifices are spread all over the surrounding ethnic minorities, and they all perform sacrifices; even animals, jackals and otters also perform sacrifices.
+Therefore, the sage king established laws and rituals for the sacrifices.
+If the spirit is single-minded, respectful, solemn and wise, the gods may come to him and call 觋 on men and witches on women, so that the gods can reach the gods and provide him with sacrifices.
+The descendants of the sages of the previous generation who can understand the mountains and rivers, worship etiquette, and understand the affairs of the gods are regarded as wizards; those who can understand the pure-color livestock used for sacrifices in the four seasons, the conditions of the places where sacrifices are held, and the origin of the gods are called sect members.
+Therefore, there are officials above the gods and officials below the people, each managing his own affairs without confusion.
+The people and the gods have different karma, respecting and not offending, so the gods send him good luck, and the people follow the natural order, disasters will not come, and there will be no shortage of what they need.
+After the young Emperor Wu weakened, nine members of the Li family rebelled, causing chaos in people and spirits and unable to follow the principles of justice.
+The family is worshiped by witches and sacrifices are made without restraint, which defiles the gods and the gods consider them unclean.
+Good luck will not come, disaster will come often, and he will not be able to complete his life.
+Zhuanxu accepted this situation and ordered Nan Zhengzhong to master astronomy to entrust the gods, and Huo Zhengli to master geography to entrust the people, so that the world could return to its previous normal state and not violate or defile the gods.
+Since the Gonggong family dominated the Kyushu, his son named Julong was able to pacify the water and soil, and was worshiped as the land god after his death.
+There was a man named Lieshan who ruled the world, and his son was named Zhu. He could produce hundreds of grains and was worshiped as a grain god after his death.
+Therefore, worshiping the gods of land and cereals in the countryside has a very early origin.
+"Yu Shu" says that Shun observed the Xuanji Jade Scale and came to organize the sun, moon, five stars and seven political affairs.
+So they offered sacrifices to heaven, six sects inside, mountains and rivers, and gods all over the place.
+Collect the auspicious jade from the princes, princes, uncles, sons and men, choose an auspicious month and auspicious day, meet with the pastors and guardians of the princes from all over the world, and award the auspicious jade to them.
+In February every year, he will go to the east for inspection and arrive at Daizong.
+Daizong is Mount Tai.
+Burn firewood and look at the mountain for sacrifice according to rank. So the meeting ended.
+Shuhou refers to the princes.
+Harmonize the four o'clock and months and correct the dates, unify the rhythm and weights and measures, revise the five rituals and five music, and use three silks, two life and one death as the ritual of stinging.
+In May, we visited Nanyue.
+Nanyue refers to Hengshan Mountain.
+In August, he inspected Huashan Mountain.
+Huashan refers to Huashan.
+In November, he inspected Beiyue.
+Beiyue refers to Hengshan Mountain.
+They are all the same as Daizong's etiquette.
+Zhongyue refers to Mount Song.
+Inspections are conducted every five years.
+Dayu continued this inspection system.
+Thirteen generations later, when Emperor Kongjia arrived, he had bad moral conduct and liked to worship gods. The gods were defiled and two dragons left.
+
+summary:
+summary line 0: Among the eight types of government officials in "Hong Fan," the third type is sacrificial officials. Sacrifice is performed to show filial piety, serve ancestors, and understand gods. Sacrifices are widespread among surrounding ethnic minorities, and even animals like jackals and otters perform them. The sage king established laws and rituals for sacrifices. If a spirit is single-minded, respectful, solemn, and wise, gods may come to him, designating men as 觋 and women as witches to reach the gods and provide sacrifices. Descendants of previous sages who understand mountains, rivers, worship etiquette, and divine affairs become wizards; those who understand pure-color livestock for seasonal sacrifices, sacrificial locations, and godly origins are called sect members. Thus, there are officials above the gods and below the people, each managing their own affairs without confusion. The people and gods have different roles, respecting each other without offense, so gods send good luck, people follow natural order, disasters do not come, and needs are met.
+
+Chunk 0: 
+original: 
+《洪范》八政，三曰祀。
+祀者，所以昭孝事祖，通神明也。
+旁及四夷，莫不修之；下至禽兽，豺獭有祭。
+是以圣王为之典礼。
+民之精爽不贰，齐肃聪明者，神或降之，在男曰觋，在女曰巫，使制神之处位，为之牲器。
+使先圣之后，能知山川，敬于礼仪，明神之事者，以为祝；能知四时牺牲，坛场上下，氏姓所出者，以为宗。
+故有神民之官，各司其序，不相乱也。
+民神异业，敬而不黩，故神降之嘉生，民以物序，灾祸不至，所求不匮。
+及少昊之衰，九黎乱德，民神杂扰，不可放物。
+家为巫史，享祀无度，黩齐明而神弗蠲。
+嘉生不降，祸灾荐臻，莫尽其气。
+颛顼受之，乃命南正重司天以属神，命火正黎司地以属民，使复旧常，亡相侵黩。
+自共工氏霸九州，其子曰句龙，能平水土，死为社祠。
+有烈山氏王天下，其子曰柱，能殖百谷，死为稷祠。
+故郊祀社稷，所从来尚矣。
+《虞书》曰：舜在璇玑玉衡，以齐七政。
+遂类于上帝，禋于六宗，望秩于山川，遍于群神。
+揖五瑞，择吉月日，见四岳诸牧，班瑞。
+岁二月，东巡狩，至于岱宗。
+岱宗，泰山也。
+柴，望秩于山川。遂见东后。
+东后者，诸侯也。
+合时月正日，同律、度、量、衡，修五礼、五乐，三帛二生一死为贽。
+五月，巡狩至南岳。
+南岳者，衡山也。
+八月，巡狩至西岳。
+西岳者，华山也。
+十一月，巡狩至北岳。
+北岳者，恒山也。
+皆如岱宗之礼。
+中岳，嵩高也。
+五载一巡狩。
+禹遵之。
+后十三世，至帝孔甲，淫德好神，神黩，二龙去之。
+translation: 
+Among the eight types of government officials in "Hong Fan", the third type is called sacrificial officials.
+Sacrifice is used to show filial piety, serve ancestors and understand gods.
+Sacrifices are spread all over the surrounding ethnic minorities, and they all perform sacrifices; even animals, jackals and otters also perform sacrifices.
+Therefore, the sage king established laws and rituals for the sacrifices.
+If the spirit is single-minded, respectful, solemn and wise, the gods may come to him and call 觋 on men and witches on women, so that the gods can reach the gods and provide him with sacrifices.
+The descendants of the sages of the previous generation who can understand the mountains and rivers, worship etiquette, and understand the affairs of the gods are regarded as wizards; those who can understand the pure-color livestock used for sacrifices in the four seasons, the conditions of the places where sacrifices are held, and the origin of the gods are called sect members.
+Therefore, there are officials above the gods and officials below the people, each managing his own affairs without confusion.
+The people and the gods have different karma, respecting and not offending, so the gods send him good luck, and the people follow the natural order, disasters will not come, and there will be no shortage of what they need.
+After the young Emperor Wu weakened, nine members of the Li family rebelled, causing chaos in people and spirits and unable to follow the principles of justice.
+The family is worshiped by witches and sacrifices are made without restraint, which defiles the gods and the gods consider them unclean.
+Good luck will not come, disaster will come often, and he will not be able to complete his life.
+Zhuanxu accepted this situation and ordered Nan Zhengzhong to master astronomy to entrust the gods, and Huo Zhengli to master geography to entrust the people, so that the world could return to its previous normal state and not violate or defile the gods.
+Since the Gonggong family dominated the Kyushu, his son named Julong was able to pacify the water and soil, and was worshiped as the land god after his death.
+There was a man named Lieshan who ruled the world, and his son was named Zhu. He could produce hundreds of grains and was worshiped as a grain god after his death.
+Therefore, worshiping the gods of land and cereals in the countryside has a very early origin.
+"Yu Shu" says that Shun observed the Xuanji Jade Scale and came to organize the sun, moon, five stars and seven political affairs.
+So they offered sacrifices to heaven, six sects inside, mountains and rivers, and gods all over the place.
+Collect the auspicious jade from the princes, princes, uncles, sons and men, choose an auspicious month and auspicious day, meet with the pastors and guardians of the princes from all over the world, and award the auspicious jade to them.
+In February every year, he will go to the east for inspection and arrive at Daizong.
+Daizong is Mount Tai.
+Burn firewood and look at the mountain for sacrifice according to rank. So the meeting ended.
+Shuhou refers to the princes.
+Harmonize the four o'clock and months and correct the dates, unify the rhythm and weights and measures, revise the five rituals and five music, and use three silks, two life and one death as the ritual of stinging.
+In May, we visited Nanyue.
+Nanyue refers to Hengshan Mountain.
+In August, he inspected Huashan Mountain.
+Huashan refers to Huashan.
+In November, he inspected Beiyue.
+Beiyue refers to Hengshan Mountain.
+They are all the same as Daizong's etiquette.
+Zhongyue refers to Mount Song.
+Inspections are conducted every five years.
+Dayu continued this inspection system.
+Thirteen generations later, when Emperor Kongjia arrived, he had bad moral conduct and liked to worship gods. The gods were defiled and two dragons left.
+
+summary:
+summary line 1: After the young Emperor Wu weakened, nine members of the Li family rebelled, causing chaos among people and spirits. Families worshiped witches and made unrestrained sacrifices, defiling the gods, who considered them unclean. Good luck did not come, disasters occurred frequently, and lives could not be completed. Zhuanxu accepted this and ordered Nan Zhengzhong to master astronomy to entrust the gods and Huo Zhengli to master geography to entrust the people, restoring normalcy without violating or defiling the gods. Since the Gonggong family dominated Kyushu, his son Julong could pacify the water and soil and was worshiped as the land god after death. Lieshan ruled the world, and his son Zhu produced hundreds of grains and was worshiped as a grain god after death. Worshiping land and grain gods in the countryside has a very early origin.
+
+Chunk 0: 
+original: 
+《洪范》八政，三曰祀。
+祀者，所以昭孝事祖，通神明也。
+旁及四夷，莫不修之；下至禽兽，豺獭有祭。
+是以圣王为之典礼。
+民之精爽不贰，齐肃聪明者，神或降之，在男曰觋，在女曰巫，使制神之处位，为之牲器。
+使先圣之后，能知山川，敬于礼仪，明神之事者，以为祝；能知四时牺牲，坛场上下，氏姓所出者，以为宗。
+故有神民之官，各司其序，不相乱也。
+民神异业，敬而不黩，故神降之嘉生，民以物序，灾祸不至，所求不匮。
+及少昊之衰，九黎乱德，民神杂扰，不可放物。
+家为巫史，享祀无度，黩齐明而神弗蠲。
+嘉生不降，祸灾荐臻，莫尽其气。
+颛顼受之，乃命南正重司天以属神，命火正黎司地以属民，使复旧常，亡相侵黩。
+自共工氏霸九州，其子曰句龙，能平水土，死为社祠。
+有烈山氏王天下，其子曰柱，能殖百谷，死为稷祠。
+故郊祀社稷，所从来尚矣。
+《虞书》曰：舜在璇玑玉衡，以齐七政。
+遂类于上帝，禋于六宗，望秩于山川，遍于群神。
+揖五瑞，择吉月日，见四岳诸牧，班瑞。
+岁二月，东巡狩，至于岱宗。
+岱宗，泰山也。
+柴，望秩于山川。遂见东后。
+东后者，诸侯也。
+合时月正日，同律、度、量、衡，修五礼、五乐，三帛二生一死为贽。
+五月，巡狩至南岳。
+南岳者，衡山也。
+八月，巡狩至西岳。
+西岳者，华山也。
+十一月，巡狩至北岳。
+北岳者，恒山也。
+皆如岱宗之礼。
+中岳，嵩高也。
+五载一巡狩。
+禹遵之。
+后十三世，至帝孔甲，淫德好神，神黩，二龙去之。
+translation: 
+Among the eight types of government officials in "Hong Fan", the third type is called sacrificial officials.
+Sacrifice is used to show filial piety, serve ancestors and understand gods.
+Sacrifices are spread all over the surrounding ethnic minorities, and they all perform sacrifices; even animals, jackals and otters also perform sacrifices.
+Therefore, the sage king established laws and rituals for the sacrifices.
+If the spirit is single-minded, respectful, solemn and wise, the gods may come to him and call 觋 on men and witches on women, so that the gods can reach the gods and provide him with sacrifices.
+The descendants of the sages of the previous generation who can understand the mountains and rivers, worship etiquette, and understand the affairs of the gods are regarded as wizards; those who can understand the pure-color livestock used for sacrifices in the four seasons, the conditions of the places where sacrifices are held, and the origin of the gods are called sect members.
+Therefore, there are officials above the gods and officials below the people, each managing his own affairs without confusion.
+The people and the gods have different karma, respecting and not offending, so the gods send him good luck, and the people follow the natural order, disasters will not come, and there will be no shortage of what they need.
+After the young Emperor Wu weakened, nine members of the Li family rebelled, causing chaos in people and spirits and unable to follow the principles of justice.
+The family is worshiped by witches and sacrifices are made without restraint, which defiles the gods and the gods consider them unclean.
+Good luck will not come, disaster will come often, and he will not be able to complete his life.
+Zhuanxu accepted this situation and ordered Nan Zhengzhong to master astronomy to entrust the gods, and Huo Zhengli to master geography to entrust the people, so that the world could return to its previous normal state and not violate or defile the gods.
+Since the Gonggong family dominated the Kyushu, his son named Julong was able to pacify the water and soil, and was worshiped as the land god after his death.
+There was a man named Lieshan who ruled the world, and his son was named Zhu. He could produce hundreds of grains and was worshiped as a grain god after his death.
+Therefore, worshiping the gods of land and cereals in the countryside has a very early origin.
+"Yu Shu" says that Shun observed the Xuanji Jade Scale and came to organize the sun, moon, five stars and seven political affairs.
+So they offered sacrifices to heaven, six sects inside, mountains and rivers, and gods all over the place.
+Collect the auspicious jade from the princes, princes, uncles, sons and men, choose an auspicious month and auspicious day, meet with the pastors and guardians of the princes from all over the world, and award the auspicious jade to them.
+In February every year, he will go to the east for inspection and arrive at Daizong.
+Daizong is Mount Tai.
+Burn firewood and look at the mountain for sacrifice according to rank. So the meeting ended.
+Shuhou refers to the princes.
+Harmonize the four o'clock and months and correct the dates, unify the rhythm and weights and measures, revise the five rituals and five music, and use three silks, two life and one death as the ritual of stinging.
+In May, we visited Nanyue.
+Nanyue refers to Hengshan Mountain.
+In August, he inspected Huashan Mountain.
+Huashan refers to Huashan.
+In November, he inspected Beiyue.
+Beiyue refers to Hengshan Mountain.
+They are all the same as Daizong's etiquette.
+Zhongyue refers to Mount Song.
+Inspections are conducted every five years.
+Dayu continued this inspection system.
+Thirteen generations later, when Emperor Kongjia arrived, he had bad moral conduct and liked to worship gods. The gods were defiled and two dragons left.
+
+summary:
+summary line 2: "Yu Shu" says Shun observed the Xuanji Jade Scale to organize the sun, moon, five stars, and seven political affairs. He offered sacrifices to heaven, six sects, mountains, rivers, and gods everywhere. He collected auspicious jade from princes, uncles, sons, and men, chose an auspicious month and day, met with pastors and guardians of princes, and awarded the jade. In February each year, he inspected the east and arrived at Daizong (Mount Tai), burning firewood and sacrificing by rank. He harmonized the four seasons, months, and dates, unified rhythm and weights, revised the five rituals and music, and used three silks, two life and one death as stinging rituals. In May, he inspected Nanyue (Hengshan); in August, Huashan; in November, Beiyue (Hengshan), all with the same etiquette as Daizong. Zhongyue is Mount Song. Inspections occurred every five years. Dayu continued this system.
+
+Chunk 1: 
+original: 
+其后十三世，汤伐桀，欲迁夏社，不可，作《夏社》。
+乃迁烈山子柱，而以周弃代为稷祠。
+后八世，帝太戊有桑穀生于廷，一暮大拱，惧。
+伊陟曰： 祆不胜德。
+太戊修德，桑穀死。
+伊陟赞巫咸。
+后十三世，帝武丁得傅说为相，殷复兴焉，称高宗。
+有雉登鼎耳而雊，武丁惧。
+祖己曰： 修德。
+武丁从之，位以永宁。
+后五世，帝乙嫚神而震死。
+后三世，帝纣淫乱，武王伐之。
+由是观之，始未尝不肃祇，后稍怠嫚也。
+周公相成王，王道大洽，制礼作乐，天子曰明堂、辟雍，诸侯曰泮宫。
+郊祀后稷以配天，宗祀文王于明堂以配上帝。
+四海之内各以其职来助祭。
+天子祭天下名山、大川，怀柔百神，咸秩无文。
+五岳视三公，四渎视诸侯。
+而诸侯祭其疆内名山、大川，大夫祭门、户、井、灶、中霤五祀，士、庶人祖考而已。
+各有典礼，而淫祀有禁。
+后十三世，世益衰，礼乐废。
+幽王无道，为犬戎所败，平王东徙雒邑。
+秦襄公攻若救周，列为诸侯，而居西，自以为主少昊之神，作西畤，祠白帝，其牲用駠驹、黄牛、羝羊各一云。
+其后十四年，秦文公东猎汧、渭之间，卜居之而吉。
+文公梦黄蛇自天下属地，其口止于鄜衍。
+文公问史敦，敦曰： 此上帝之征，君其祠之 。
+于是作鄜畤，用三牲郊祭白帝焉。
+自未作鄜，而雍旁故有吴阳武畤，雍东有好畤，皆废无祀。
+translation: 
+Thirteen generations later, Tang conquered Xia Jie and planned to move the Xia Dynasty's land and sacred sites. When this failed, he made "Xia She".
+So he demoted Lieshan's son Zhu, and sacrificed Zhou Guo's son to the Grain God instead.
+Eight generations later, Emperor Taiwu had two mulberry and valley trees growing in the courtyard. One night they grew as thick as an arch. Taiwu felt very frightened.
+Yi Zhi said: Monsters cannot defeat virtue.
+Taiwu practiced virtue, and the mulberry and grain trees died.
+Yi Zhi informed Wu Xian about this.
+Thirteen generations later, Emperor Wuding got Fu Yue as prime minister, the Yin Dynasty prospered again, and Wuding was named Gaozong.
+A pheasant climbed onto the tripod and began to crow. Wu Ding became frightened.
+Zu Ji said: We must cultivate virtue.
+Wu Ding obeyed his words, and the throne has always been peaceful.
+Five generations later, Emperor Yi neglected the gods and was struck by thunder and died.
+Three generations later, Emperor Zhou became promiscuous, and King Wu launched a crusade against him.
+From this point of view, it seems that at the beginning there was no lack of respect for the gods, but later on it gradually became neglected and relaxed.
+The Duke of Zhou assisted in becoming king, and the king's way was quite harmonious. He established rituals and created music. The places where the emperor worshiped the heaven were called Mingtang and Piyong, and the places where the princes worshiped were called Pangong.
+The sacrifices to Hou Ji in the suburbs were made to match the offerings to heaven, and the sacrifices to King Wen in the Mingtang clan were made to match the offerings to heaven.
+Within the four seas, everyone assists in the sacrifice according to their own positions.
+The emperor offered sacrifices to the world's famous mountains and rivers, and invited the gods to appease them, all in accordance with order rather than etiquette.
+Treat the Five Mountains as if they were the three nobles, and treat the Four Sacred Mountains as if they were the princes.
+The princes only offered sacrifices to the famous mountains and rivers within their territory, the officials offered sacrifices to the five places including gates, properties, wells, stoves and middle passages, while the common people only offered sacrifices to their ancestors.
+Each has its own laws and etiquette, and any indulgence in sacrifice must be prohibited.
+Thirteen generations later, the world declined even more and rituals and music were abolished.
+King You lost his royal power and was defeated by Quanrong. King Ping moved eastward to Luoyi.
+Duke Xianggang of Qin attacked the Quan Rong and rescued the king of Zhou. He was classified as a prince and lived in the west. He thought he represented the God of Shao Wu. He built Xizhi and offered sacrifices to the White Emperor. The sacrifices used were one horse, one colt, one ox and one ram each.
+For the next fourteen years, Duke Wen of Qin went eastward to hunt between Yi and Wei, and he divined the situation of his residence and got good omens.
+Duke Wen dreamed of a yellow snake hanging from the sky to the ground, and its mouth rested on the hillside of Wandi.
+Duke Wen asked Shi Dun, who said: "This is a symbol of heaven. You want to sacrifice it."
+So he built a fortress and used three animals to worship Baidi in the suburbs.
+Before the establishment of Yongzhi, there used to be Wuyang Wuzhi next to Yongcheng, and there were good Zhizhi in Yongcheng and Cambodia, but they were all abandoned and no one worshiped them.
+
+summary:
+summary line 3: Thirteen generations later, Emperor Kongjia had bad moral conduct and liked to worship gods, defiling them, causing two dragons to leave. Thirteen generations later, Tang conquered Xia Jie and planned to move Xia's land and sacred sites. When this failed, he made "Xia She," demoting Lieshan's son Zhu and sacrificing Zhou Guo's son to the Grain God instead. Eight generations later, Emperor Taiwu had two mulberry and grain trees growing in the courtyard, growing as thick as an arch overnight. Taiwu was frightened. Yi Zhi said monsters cannot defeat virtue. Taiwu practiced virtue, and the trees died. Yi Zhi informed Wu Xian. Thirteen generations later, Emperor Wuding got Fu Yue as prime minister, reviving the Yin Dynasty, and Wuding was named Gaozong. A pheasant crowed on a tripod, frightening Wuding. Zu Ji said to cultivate virtue. Wuding obeyed, and the throne remained peaceful. Five generations later, Emperor Yi neglected the gods and was struck by thunder and died. Three generations later, Emperor Zhou became promiscuous, and King Wu crusaded against him. From this, it seems that initially there was respect for the gods, but later it gradually declined.
+
+Chunk 1: 
+original: 
+其后十三世，汤伐桀，欲迁夏社，不可，作《夏社》。
+乃迁烈山子柱，而以周弃代为稷祠。
+后八世，帝太戊有桑穀生于廷，一暮大拱，惧。
+伊陟曰： 祆不胜德。
+太戊修德，桑穀死。
+伊陟赞巫咸。
+后十三世，帝武丁得傅说为相，殷复兴焉，称高宗。
+有雉登鼎耳而雊，武丁惧。
+祖己曰： 修德。
+武丁从之，位以永宁。
+后五世，帝乙嫚神而震死。
+后三世，帝纣淫乱，武王伐之。
+由是观之，始未尝不肃祇，后稍怠嫚也。
+周公相成王，王道大洽，制礼作乐，天子曰明堂、辟雍，诸侯曰泮宫。
+郊祀后稷以配天，宗祀文王于明堂以配上帝。
+四海之内各以其职来助祭。
+天子祭天下名山、大川，怀柔百神，咸秩无文。
+五岳视三公，四渎视诸侯。
+而诸侯祭其疆内名山、大川，大夫祭门、户、井、灶、中霤五祀，士、庶人祖考而已。
+各有典礼，而淫祀有禁。
+后十三世，世益衰，礼乐废。
+幽王无道，为犬戎所败，平王东徙雒邑。
+秦襄公攻若救周，列为诸侯，而居西，自以为主少昊之神，作西畤，祠白帝，其牲用駠驹、黄牛、羝羊各一云。
+其后十四年，秦文公东猎汧、渭之间，卜居之而吉。
+文公梦黄蛇自天下属地，其口止于鄜衍。
+文公问史敦，敦曰： 此上帝之征，君其祠之 。
+于是作鄜畤，用三牲郊祭白帝焉。
+自未作鄜，而雍旁故有吴阳武畤，雍东有好畤，皆废无祀。
+translation: 
+Thirteen generations later, Tang conquered Xia Jie and planned to move the Xia Dynasty's land and sacred sites. When this failed, he made "Xia She".
+So he demoted Lieshan's son Zhu, and sacrificed Zhou Guo's son to the Grain God instead.
+Eight generations later, Emperor Taiwu had two mulberry and valley trees growing in the courtyard. One night they grew as thick as an arch. Taiwu felt very frightened.
+Yi Zhi said: Monsters cannot defeat virtue.
+Taiwu practiced virtue, and the mulberry and grain trees died.
+Yi Zhi informed Wu Xian about this.
+Thirteen generations later, Emperor Wuding got Fu Yue as prime minister, the Yin Dynasty prospered again, and Wuding was named Gaozong.
+A pheasant climbed onto the tripod and began to crow. Wu Ding became frightened.
+Zu Ji said: We must cultivate virtue.
+Wu Ding obeyed his words, and the throne has always been peaceful.
+Five generations later, Emperor Yi neglected the gods and was struck by thunder and died.
+Three generations later, Emperor Zhou became promiscuous, and King Wu launched a crusade against him.
+From this point of view, it seems that at the beginning there was no lack of respect for the gods, but later on it gradually became neglected and relaxed.
+The Duke of Zhou assisted in becoming king, and the king's way was quite harmonious. He established rituals and created music. The places where the emperor worshiped the heaven were called Mingtang and Piyong, and the places where the princes worshiped were called Pangong.
+The sacrifices to Hou Ji in the suburbs were made to match the offerings to heaven, and the sacrifices to King Wen in the Mingtang clan were made to match the offerings to heaven.
+Within the four seas, everyone assists in the sacrifice according to their own positions.
+The emperor offered sacrifices to the world's famous mountains and rivers, and invited the gods to appease them, all in accordance with order rather than etiquette.
+Treat the Five Mountains as if they were the three nobles, and treat the Four Sacred Mountains as if they were the princes.
+The princes only offered sacrifices to the famous mountains and rivers within their territory, the officials offered sacrifices to the five places including gates, properties, wells, stoves and middle passages, while the common people only offered sacrifices to their ancestors.
+Each has its own laws and etiquette, and any indulgence in sacrifice must be prohibited.
+Thirteen generations later, the world declined even more and rituals and music were abolished.
+King You lost his royal power and was defeated by Quanrong. King Ping moved eastward to Luoyi.
+Duke Xianggang of Qin attacked the Quan Rong and rescued the king of Zhou. He was classified as a prince and lived in the west. He thought he represented the God of Shao Wu. He built Xizhi and offered sacrifices to the White Emperor. The sacrifices used were one horse, one colt, one ox and one ram each.
+For the next fourteen years, Duke Wen of Qin went eastward to hunt between Yi and Wei, and he divined the situation of his residence and got good omens.
+Duke Wen dreamed of a yellow snake hanging from the sky to the ground, and its mouth rested on the hillside of Wandi.
+Duke Wen asked Shi Dun, who said: "This is a symbol of heaven. You want to sacrifice it."
+So he built a fortress and used three animals to worship Baidi in the suburbs.
+Before the establishment of Yongzhi, there used to be Wuyang Wuzhi next to Yongcheng, and there were good Zhizhi in Yongcheng and Cambodia, but they were all abandoned and no one worshiped them.
+
+summary:
+summary line 4: The Duke of Zhou assisted King Cheng, harmonizing the king's way, establishing rituals and music. The emperor's places for worshiping heaven were called Mingtang and Piyong; princes' places were called Pangong. Sacrifices to Hou Ji in the suburbs matched offerings to heaven, and sacrifices to King Wen in the Mingtang clan matched offerings to heaven. Within the four seas, everyone assisted in sacrifices according to their positions. The emperor sacrificed to the world's famous mountains and rivers, inviting gods to appease them, all in order. The Five Mountains were treated like the three nobles, and the Four Sacred Mountains like princes. Princes only sacrificed to famous mountains and rivers within their territory, officials sacrificed to five places including gates and stoves, and common people only sacrificed to ancestors. Each had laws and etiquette; indulgence in sacrifice was prohibited. Thirteen generations later, the world declined, and rituals and music were abolished. King You lost his royal power and was defeated by Quanrong. King Ping moved eastward to Luoyi. Duke Xianggang of Qin attacked the Quan Rong, rescued the king of Zhou, was classified as a prince, lived in the west, represented the God of Shao Wu, built Xizhi, and sacrificed to the White Emperor with one horse, one colt, one ox, and one ram each.
+
+Chunk 2: 
+original: 
+或曰： 自古以雍州积高，神明之隩，故立畤郊上帝，诸神祠皆聚云。
+盖黄帝时尝用事，虽晚周亦郊焉。
+其语不经见，缙绅者弗道。
+作鄜后九年，文公获若石云，于陈仓北阪城祠之。
+其神或岁不至，或岁数。
+来也常以夜，光辉若流星，从东方来，集于祠城，若雄雉，其声殷殷云，野鸡夜鸣。
+以一牢祠之，名曰陈宝。
+作陈宝祠后七十一年，秦德公立，卜居雍。
+子孙饮马于河，遂都雍。
+雍之诸祠自此兴。
+用三百牢于鄜。
+作伏祠。
+磔狗邑四门，以御蛊灾。
+后四年，秦宣公作密畤于渭南，祭青帝。
+后十三年，秦穆公立，病卧五日不寤，寤，乃言梦见上帝，上帝命穆公平晋乱。
+史书而藏之府。
+而后世皆曰上天。
+穆公立九年，齐桓公既霸，会诸侯于葵丘，而欲封禅。
+管仲曰： 古者封泰山禅梁父者七十二家，而夷吾所记者十有二焉。
+昔无怀氏封泰山，禅云云；虙羲封泰山，禅云云；神农氏封泰山，禅云云；炎帝封泰山，禅云云；黄帝封泰山，禅亭亭；颛顼封泰山，禅云云；帝喾封泰山，禅云云；尧封泰山，禅云云；舜封泰山，禅云云；禹封泰山，禅会稽；汤封泰山，禅云云；周成王封泰山，禅于社首；皆受命然后得封禅。
+桓公曰： 寡人北伐山戎，过孤竹；西伐，束马县车，上卑耳之山；南伐至召陵，登熊耳山，以望江、汉。
+兵车之会三，乘车之会六，九合诸侯，一匡天下，诸侯莫违我。
+昔三代受命，亦何以异乎？
+translation: 
+Some people say: Since ancient times, Yongzhou has always been the residence of gods due to its high terrain, so altars have been built to worship heaven in the suburbs, and temples of various gods have gathered here.
+Sacrifices were held during the Huangdi period, and suburban sacrifices were also held in the late Zhou Dynasty.
+These words are not found in the classics and are not spoken by scholar-bureaucrats.
+Nine years after the establishment of the palace, Duke Wen of Qin got a stone-like object and worshiped it in the city on the northern hillside of Chencang.
+Sometimes this god doesn't come throughout the year, and sometimes it comes several times a year.
+They often come at night, and there are lights like shooting stars coming from the east and gathering in the temple city, and there are lights like roosters, crowing loudly, attracting wild geese to crow at night.
+Using an animal to sacrifice it is called Chen Bao.
+Seventy-one years after the establishment of Chen Bao Temple, Qin Degong became emperor and lived in Yongcheng after divination.
+His descendants expanded their territory to the banks of the Yellow River and established their capital in Yongcheng.
+The temples in Yongcheng began to flourish from this time.
+Three hundred animals were sacrificed in Yongzhi.
+Build a temple to worship.
+The dogs were divided and hung on the four gates of the city to protect against evil spirits.
+Four years later, Qin Xuangong established a secret camp in Weinan to worship the Qing Emperor.
+Thirteen years later, Duke Mu of Qin became king. He lay ill in bed and did not wake up for five days. When he woke up, he said that he had dreamed of heaven, and God ordered Mu Gong to quell the chaos in Jin.
+The historian recorded it and hid it in the mansion.
+Later generations said that Duke Mu of Qin went to heaven.
+In the ninth year of Duke Mu of Qin's reign, Duke Huan of Qi had already become the hegemon. He convened an alliance of princes in Kuiqiu and came up with the idea of ​​enfeoffing Hui.
+Guan Zhong said: In ancient times, there were seventy-two families who built earth altars on Mount Tai to offer sacrifices to heaven. There were seventy-two families who worshiped earth on Mount Liangfu, but Yiwu recorded twelve families.
+In the past, Wuhuai offered sacrifices to heaven on Mount Tai and to earth in Yunyun; Chuxi offered sacrifices to heaven in Mount Tai and earth in Yunyun; Shennong offered sacrifices to heaven in Mount Tai and to earth in Yunyun; Emperor Yan offered sacrifices to heaven in Mount Tai and earth in Yunyun; Huangdi offered sacrifices to heaven in Mount Tai and earth in pavilions; Zhuanxu offered sacrifices to heaven in Mount Tai and earth in Yunyun; Emperor Yan in Tai. Yao offered sacrifices to heaven on Mount Tai and earth in Yunyun; Shun offered sacrifices to heaven on Mount Tai and earth in Yunyun; Yu offered sacrifices to heaven on Mount Tai and earth in Kuaiji; Tang offered sacrifices to heaven on Mount Tai and earth in Yunyun; King Cheng of Zhou worshiped heaven on Mount Tai and earth in Sheshou: all of them were granted Zen status after being appointed as emperors by heaven.
+Duke Huan of Qi said: I marched north to conquer Shanrong and passed by Lone Bamboo; marched west, reined up my horse and climbed Mount Beier; marched south to Zhaoling and climbed Xiong'er Mountain to overlook the Yangtze River and Han River.
+There were three alliances in military chariots, six general alliances, and nine alliances with the princes. I unified the world and none of the princes disobeyed me.
+What is the difference from the previous three generations who received destiny?
+
+summary:
+summary line 5: For the next fourteen years, Duke Wen of Qin hunted eastward between Yi and Wei, divined his residence, and got good omens. He dreamed of a yellow snake hanging from the sky to the ground, its mouth resting on the hillside of Wandi. Shi Dun said this was a symbol of heaven, so he built a fortress and used three animals to worship Baidi in the suburbs. Before Yongzhi was established, there were Wuyang Wuzhi next to Yongcheng and good Zhizhi in Yongcheng and Cambodia, but they were abandoned. Some say Yongzhou has always been the residence of gods due to its high terrain, so altars were built to worship heaven in the suburbs, and temples of various gods gathered here. Sacrifices were held during the Huangdi period, and suburban sacrifices in the late Zhou Dynasty, but these words are not in the classics. Nine years after the palace was established, Duke Wen of Qin got a stone-like object and worshiped it in the city on the northern hillside of Chencang. Sometimes this god didn't come for a year, sometimes several times a year, often at night with lights like shooting stars from the east gathering in the temple city, and lights like roosters crowing loudly, attracting wild geese to crow at night. An animal was sacrificed, called Chen Bao. Seventy-one years after Chen Bao Temple was established, Qin Degong became emperor and lived in Yongcheng after divination. His descendants expanded territory to the Yellow River and established their capital in Yongcheng. The temples in Yongcheng flourished from this time. Three hundred animals were sacrificed in Yongzhi. A temple was built to worship. Dogs were divided and hung on the four gates to protect against evil spirits. Four years later, Qin Xuangong established a secret camp in Weinan to worship the Qing Emperor. Thirteen years later, Duke Mu of Qin became king. He lay ill for five days without waking. When he woke, he said he dreamed of heaven, and God ordered him to quell chaos in Jin. The historian recorded it and hid it in the mansion. Later generations said Duke Mu of Qin went to heaven.
+

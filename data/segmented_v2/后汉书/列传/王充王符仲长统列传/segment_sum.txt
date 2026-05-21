@@ -1,0 +1,391 @@
+Summary uses chunk [0, 0, 0, 0, 7, 7, 8]
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+其指讦时短，讨谪物情，足以观见当时风政，著其五篇云尔。《贵忠篇》曰：夫帝王之所尊敬者，天也；皇天之所爱育者，人也。
+今人臣受君之重位，牧天之所爱，焉可以不安而利之，养而济之哉？
+是以君子任职则思利人，达上则思进贤，故居上而下不怨，在前而后不恨也。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+The book denounces the shortcomings of the time and discusses customs and sentiments, from which the political fashion of the time can be seen. Here are five of them: 1. "Guizhong Pian" The emperor respects God the most, and God loves people the most.
+Now that human ministers are entrusted by the king to govern the people whom God loves, how can they not allow them to be raised and relieved safely and smoothly?
+Therefore, when a gentleman is in a position, he should think about how to benefit others, and those who are above should think about how to introduce wise people. Therefore, those who are in the upper position should not be resentful when they are below, and those who are in the front and behind will not be disobedient.
+
+summary:
+summary line 0: Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji, though his ancestors had moved from Yuancheng, Wei County. His father died when he was young, and he was praised for his filial piety. He studied at Taixue in the capital under Ban Biao of Fufeng. Despite his family's poverty and lack of books, he frequently visited Luoyang bookstores, memorizing texts after a single reading, which allowed him to master various schools of thought. He later returned home to teach and served as a meritorious official, but left due to disagreements with his superiors after repeatedly offering advice.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+其指讦时短，讨谪物情，足以观见当时风政，著其五篇云尔。《贵忠篇》曰：夫帝王之所尊敬者，天也；皇天之所爱育者，人也。
+今人臣受君之重位，牧天之所爱，焉可以不安而利之，养而济之哉？
+是以君子任职则思利人，达上则思进贤，故居上而下不怨，在前而后不恨也。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+The book denounces the shortcomings of the time and discusses customs and sentiments, from which the political fashion of the time can be seen. Here are five of them: 1. "Guizhong Pian" The emperor respects God the most, and God loves people the most.
+Now that human ministers are entrusted by the king to govern the people whom God loves, how can they not allow them to be raised and relieved safely and smoothly?
+Therefore, when a gentleman is in a position, he should think about how to benefit others, and those who are above should think about how to introduce wise people. Therefore, those who are in the upper position should not be resentful when they are below, and those who are in the front and behind will not be disobedient.
+
+summary:
+summary line 1: Wang Chong criticized Confucian scholars for clinging to textual details while losing deeper meanings. He secluded himself, placing writing tools throughout his home, and composed 85 chapters of "Lunheng" (over 200,000 words) to explain phenomena and correct contemporary misconceptions. Governor Dong Qin recruited him, but he resigned. His friend Xie Yiwu recommended him to the court, and Emperor Suzong issued an edict for his service, but illness prevented him from traveling. Near age seventy, with failing memory, he wrote sixteen chapters of "The Book of Cultivation of Nature" on self-discipline and spiritual preservation. He died at home during the Yongyuan period.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+其指讦时短，讨谪物情，足以观见当时风政，著其五篇云尔。《贵忠篇》曰：夫帝王之所尊敬者，天也；皇天之所爱育者，人也。
+今人臣受君之重位，牧天之所爱，焉可以不安而利之，养而济之哉？
+是以君子任职则思利人，达上则思进贤，故居上而下不怨，在前而后不恨也。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+The book denounces the shortcomings of the time and discusses customs and sentiments, from which the political fashion of the time can be seen. Here are five of them: 1. "Guizhong Pian" The emperor respects God the most, and God loves people the most.
+Now that human ministers are entrusted by the king to govern the people whom God loves, how can they not allow them to be raised and relieved safely and smoothly?
+Therefore, when a gentleman is in a position, he should think about how to benefit others, and those who are above should think about how to introduce wise people. Therefore, those who are in the upper position should not be resentful when they are below, and those who are in the front and behind will not be disobedient.
+
+summary:
+summary line 2: Wang Fu, courtesy name Xin, was from Linjing, Anding. Studious and ambitious, he befriended Ma Rong, Dou Zhang, Zhang Heng, and Cui Yuan. Because he was born to a secondary wife, his village looked down on him. During the reigns of Emperors He and An, when powerful families recommended each other for office, Wang Fu's uprightness prevented him from becoming an official. Distressed, he secluded himself and wrote over thirty books criticizing contemporary politics, calling his work "The Theory of Qianfu" to remain anonymous.
+
+Chunk 0: 
+original: 
+王充王符仲长统王充字仲任，会稽上虞人也，其先自魏郡元城徒焉。
+充少孤，乡里称孝。
+后到京师，受业太学，师事扶风班彪。
+好博览而不守章句。
+家贫无书，常游洛阳市肆，阅所卖书，一见辄能诵忆，遂博通众流百家之言。
+后归乡里，屏居教授。
+仕郡为功曹，以数谏争不合去。
+充好论说，始若诡异，终有理实。
+以为俗儒守文，多失其真，乃闭门潜思，绝庆吊之礼，户牖墙壁各置刀笔。著《论衡》八十五篇，二十余万言，释物类同异，正时俗嫌疑。
+刺史董勤辟为从事，转治中，自免还家。
+友人同郡谢夷吾上书荐充才学，肃宗特诏公车征，病不行。
+年渐七十，志力衰耗，乃造《养性书》十六篇，裁节嗜欲，颐神自守。
+永元中，病卒于家。
+王符字节信，安定临泾人也。
+少好学，有志操，与马融、窦章、张衡、崔瑗等友善。
+安定俗鄙庶孽，而符无外家，为乡人所贱。
+自和、安之后，世务游宦，当涂者更相荐引，而符独耿介不同于俗，以此遂不得升进。
+志意蕴愤，乃隐居著书三十余篇，以讥当时失得，不欲章显其名，故号曰《潜夫论》。
+其指讦时短，讨谪物情，足以观见当时风政，著其五篇云尔。《贵忠篇》曰：夫帝王之所尊敬者，天也；皇天之所爱育者，人也。
+今人臣受君之重位，牧天之所爱，焉可以不安而利之，养而济之哉？
+是以君子任职则思利人，达上则思进贤，故居上而下不怨，在前而后不恨也。
+translation: 
+◆Biography of Wang Chong, Wang Chong, courtesy name Zhongren, was from Shangyu, Kuaiji. His ancestors moved here from Yuancheng, Wei County.
+Wang Chong's father died when he was young, and his fellow villagers praised him for his filial piety.
+Later he went to the capital to study at Taixue, where he was taught by Ban Biao, a Fufeng native.
+He is well-read and does not stick to chapters.
+His family was poor and had no books, so he often went to Luoyang bookstore to read the books for sale, and he could memorize them after reading them once. So he understood the theories of various schools of thought.
+Later, he returned to his hometown and lived in seclusion to teach.
+He served as a meritorious official in the prefecture and county, but because he repeatedly advised the superiors, he left due to disagreements.
+Wang Chong likes to make comments, which may sound weird at first, but if you think about it carefully, they are reasonable and well-founded.
+He thought that those Confucian scholars with little knowledge clung to the chapters and sentences in the books and lost the essence and true meaning of the books. So I closed my door and thought deeply, and declined those social gatherings of congratulations and condolences. There were knives and pens placed on the door, windows and walls of his home. He wrote 85 chapters of "Lunheng", totaling more than 200,000 words, explaining the similarities and differences of objects and correcting people's doubts about certain things at that time.
+Dong Qin, the governor, recruited him to work and was later transferred to Zhizhong. He resigned and returned home.
+His friend Xie Yiwu from the same county wrote to the court recommending Wang Chong's talents. Suzong specially issued an edict to recruit him, but he was unable to make the trip due to illness.
+When he was nearly seventy years old, his memory failed. Due to exhaustion of energy, he wrote sixteen chapters of "The Book of Cultivation of Nature", which discusses the principles of controlling cravings, maintaining the spirit, and guarding one's mind.
+During the Yongyuan period, he died of illness at home.
+◆Wang Fu Chuan, Wang Fu, Bye Xin, a native of Linjing, Anding.
+When he was young, he was studious and ambitious, and was good friends with Ma Rong, Dou Zhang, Zhang Heng, Cui Yuan, etc.
+The custom in Anping was to look down on the children of the younger wives, but Wang Fu did not have a maternal wife, so the village looked down upon him.
+Since Emperor He and Emperor An, it was popular to serve as an official on the move, and powerful people recommended each other. However, Wang Fu was upright and unconventional, so he could not become an official.
+But he felt very uncomfortable in his heart, so he lived in seclusion at home and wrote more than 30 books to satirize the political gains and losses at that time. He did not want his name to be known by others, so the book was called "The Theory of Qianfu".
+The book denounces the shortcomings of the time and discusses customs and sentiments, from which the political fashion of the time can be seen. Here are five of them: 1. "Guizhong Pian" The emperor respects God the most, and God loves people the most.
+Now that human ministers are entrusted by the king to govern the people whom God loves, how can they not allow them to be raised and relieved safely and smoothly?
+Therefore, when a gentleman is in a position, he should think about how to benefit others, and those who are above should think about how to introduce wise people. Therefore, those who are in the upper position should not be resentful when they are below, and those who are in the front and behind will not be disobedient.
+
+summary:
+summary line 3: His writings denounced societal ills. He argued that officials should govern justly, as heaven loves the people, and that stealing official positions for personal gain was worse than robbery. He criticized the neglect of agriculture, noting that in Luoyang, merchants outnumbered farmers tenfold, creating widespread poverty. He condemned extravagant dress, wasteful religious practices, and lavish funerals where families spent fortunes on coffins and burials while neglecting living parents. He advocated for proper talent selection, arguing that wise men existed but were improperly used, and criticized judicial corruption where the poor could not obtain justice against wealthy officials. He opposed frequent amnesties, which he believed emboldened criminals while harming the virtuous.
+
+Chunk 7: 
+original: 
+何也？
+凡敢为大奸者，才必有过于众，而能自媚于上者也。
+多散诞得之财，奉以谄谀之辞，以转相驱，非有第五公之廉直，孰不为顾哉？
+论者多曰： 久不赦则奸轨炽而吏不制，宜数肆眚以解散之。
+此未昭政乱之本源，不察祸福之所生也。
+后度辽将军皇甫规解官归安定，乡人有以贷得雁门太守者，亦去职还家，书刺谒规。
+规卧不迎，既入而问： 卿前在郡食雁美乎？
+有顷，又白王符在门。
+规素闻符名，乃惊遽而起，衣不及带，屣履出迎，援符手而还，与同坐，极欢。
+时人为之语曰： 徒见二千石，不如一缝掖。
+言书生道义之为贵也。
+符竟不仕，终于家。
+仲长统字公理，山阳高平人也。
+少好学，博涉书记，赡于文辞。
+年二十余，游学青、徐、并、冀之间，与交友者多异之。
+并州刺史高，袁绍甥也。素贵有名，招致四方游土，士多归附。
+统过，善待遇，访以当时之事。
+统谓曰： 君有雄志而无雄才，好士而不能择人，所以为君深戒也。
+雅自多，不纳其言，统遂去之。
+无几，以并州叛，卒至于败。
+并、冀之士皆以是异统。
+统性俶傥，敢直言，不矜小节，默语无常，时人或谓之狂生。
+每州郡命召，辄称疾不就。
+常以为凡游帝王者，欲以立身扬名耳，而名不常存，人生易灭，优游偃仰，可以自娱。欲卜居清旷，以乐其志，论之曰：
+使居有良田广宅，背山临流，沟池环匝，竹木周布，场圃筑前，果园树后。
+translation: 
+Why?
+Anyone who dares to do bad things must have extraordinary abilities and be able to please their superiors.
+For example, stuffing more ill-gotten gains and saying more things to please others to soften them up. If someone is not as honest and upright as the fifth ethical person, who wouldn't care about money?
+Some people often say: If sins are not pardoned for a long time, bad people will flourish and officials will be unable to stop them. We should use various methods to enlighten them to break them up.
+This is because we do not understand the fundamental source of political chaos and the causes of misfortunes and blessings.
+Later, Huangfugui, the general who conquered the Liao Dynasty, was dismissed from his official post and returned to Anding. The people from the same town who used their goods and wealth to buy the governor of Yanmen also left their jobs and went home, and went to see Huangfugui with their business cards.
+Huangfu Gui lay sleeping and did not come out to greet the man. After the man had already entered the door, he asked: "You used to eat wild goose meat in the county magistrate Renli. It tasted good, didn't it?"
+Soon, someone reported that Wang Fu was at the door asking to see him.
+Huangfu Gui had always heard of Wang Fu's reputation, so he got up quickly, with his clothes not tied yet, put on his shoes and went out to greet him. He held Wang Fu's hand and entered the room, sitting with him very happily.
+People at that time said this: A governor with two thousand stones is not worth a common man.
+That is to say, the moral character of scholars is noble.
+Wang Fu finally stopped serving as an official and died at home.
+◆Zhong Changtong, also known as Zhong Changtong, was born in Gaoping, Shanyang.
+When he was young, he was studious, read extensively in books, and was good at diction.
+When he was more than 20 years old, he studied in Qingzhou, Xuzhou, Bingzhou and Jizhou. Most of his friends thought he was different from ordinary people.
+Gao Gan, the governor of Bingzhou, was Yuan Shao's nephew. He had always been noble and famous, attracting wanderers from all over, and many scholars attached themselves to him.
+Zhong Changtong passed by Gao Gan, who entertained him well and asked about the major events at that time.
+Changtong said to the senior officials: You have great ambitions but no great talents. You like to make friends with scholars but cannot choose talents. Therefore, I am worried about you. Please take this as a warning.
+The senior cadre often felt that he was good. If he didn't accept his advice, Chang Tong would leave.
+Not long after, the high officials rebelled against Bingzhou and were defeated.
+The scholars of Bingzhou and Jizhou all differed in their ability to know people.
+Zhong Changtong was a man of suave nature, who dared to speak out without caring about trivial matters, and who spoke impertinently in silence. Some people at that time called him Kuang Sheng.
+Whenever summoned by the state or county, he often complained that he was ill and would not go away.
+It is often thought that those who lobby the emperor just want to establish themselves and make a name for themselves, but fame does not last forever and life is easy to perish. They can enjoy themselves by wandering and admiring. They want to build a house and live in a clear land to satisfy their ambitions.
+His argument is: Suppose you live in a large house with fertile land, with mountains on the back and water on the side, surrounded by ditches and ponds, surrounded by bamboos and trees, with a field in front and an orchard in the back.
+
+summary:
+summary line 4: Wang Fu never served as an official and died at home. His contemporary Huangfu Gui famously demonstrated respect for him by rushing to greet him while ignoring a wealthy former governor, leading people to say that "a governor with two thousand stones is not worth a common man."
+
+Chunk 7: 
+original: 
+何也？
+凡敢为大奸者，才必有过于众，而能自媚于上者也。
+多散诞得之财，奉以谄谀之辞，以转相驱，非有第五公之廉直，孰不为顾哉？
+论者多曰： 久不赦则奸轨炽而吏不制，宜数肆眚以解散之。
+此未昭政乱之本源，不察祸福之所生也。
+后度辽将军皇甫规解官归安定，乡人有以贷得雁门太守者，亦去职还家，书刺谒规。
+规卧不迎，既入而问： 卿前在郡食雁美乎？
+有顷，又白王符在门。
+规素闻符名，乃惊遽而起，衣不及带，屣履出迎，援符手而还，与同坐，极欢。
+时人为之语曰： 徒见二千石，不如一缝掖。
+言书生道义之为贵也。
+符竟不仕，终于家。
+仲长统字公理，山阳高平人也。
+少好学，博涉书记，赡于文辞。
+年二十余，游学青、徐、并、冀之间，与交友者多异之。
+并州刺史高，袁绍甥也。素贵有名，招致四方游土，士多归附。
+统过，善待遇，访以当时之事。
+统谓曰： 君有雄志而无雄才，好士而不能择人，所以为君深戒也。
+雅自多，不纳其言，统遂去之。
+无几，以并州叛，卒至于败。
+并、冀之士皆以是异统。
+统性俶傥，敢直言，不矜小节，默语无常，时人或谓之狂生。
+每州郡命召，辄称疾不就。
+常以为凡游帝王者，欲以立身扬名耳，而名不常存，人生易灭，优游偃仰，可以自娱。欲卜居清旷，以乐其志，论之曰：
+使居有良田广宅，背山临流，沟池环匝，竹木周布，场圃筑前，果园树后。
+translation: 
+Why?
+Anyone who dares to do bad things must have extraordinary abilities and be able to please their superiors.
+For example, stuffing more ill-gotten gains and saying more things to please others to soften them up. If someone is not as honest and upright as the fifth ethical person, who wouldn't care about money?
+Some people often say: If sins are not pardoned for a long time, bad people will flourish and officials will be unable to stop them. We should use various methods to enlighten them to break them up.
+This is because we do not understand the fundamental source of political chaos and the causes of misfortunes and blessings.
+Later, Huangfugui, the general who conquered the Liao Dynasty, was dismissed from his official post and returned to Anding. The people from the same town who used their goods and wealth to buy the governor of Yanmen also left their jobs and went home, and went to see Huangfugui with their business cards.
+Huangfu Gui lay sleeping and did not come out to greet the man. After the man had already entered the door, he asked: "You used to eat wild goose meat in the county magistrate Renli. It tasted good, didn't it?"
+Soon, someone reported that Wang Fu was at the door asking to see him.
+Huangfu Gui had always heard of Wang Fu's reputation, so he got up quickly, with his clothes not tied yet, put on his shoes and went out to greet him. He held Wang Fu's hand and entered the room, sitting with him very happily.
+People at that time said this: A governor with two thousand stones is not worth a common man.
+That is to say, the moral character of scholars is noble.
+Wang Fu finally stopped serving as an official and died at home.
+◆Zhong Changtong, also known as Zhong Changtong, was born in Gaoping, Shanyang.
+When he was young, he was studious, read extensively in books, and was good at diction.
+When he was more than 20 years old, he studied in Qingzhou, Xuzhou, Bingzhou and Jizhou. Most of his friends thought he was different from ordinary people.
+Gao Gan, the governor of Bingzhou, was Yuan Shao's nephew. He had always been noble and famous, attracting wanderers from all over, and many scholars attached themselves to him.
+Zhong Changtong passed by Gao Gan, who entertained him well and asked about the major events at that time.
+Changtong said to the senior officials: You have great ambitions but no great talents. You like to make friends with scholars but cannot choose talents. Therefore, I am worried about you. Please take this as a warning.
+The senior cadre often felt that he was good. If he didn't accept his advice, Chang Tong would leave.
+Not long after, the high officials rebelled against Bingzhou and were defeated.
+The scholars of Bingzhou and Jizhou all differed in their ability to know people.
+Zhong Changtong was a man of suave nature, who dared to speak out without caring about trivial matters, and who spoke impertinently in silence. Some people at that time called him Kuang Sheng.
+Whenever summoned by the state or county, he often complained that he was ill and would not go away.
+It is often thought that those who lobby the emperor just want to establish themselves and make a name for themselves, but fame does not last forever and life is easy to perish. They can enjoy themselves by wandering and admiring. They want to build a house and live in a clear land to satisfy their ambitions.
+His argument is: Suppose you live in a large house with fertile land, with mountains on the back and water on the side, surrounded by ditches and ponds, surrounded by bamboos and trees, with a field in front and an orchard in the back.
+
+summary:
+summary line 5: Zhong Changtong was from Gaoping, Shanyang. Studious and well-read, he was considered extraordinary by his peers. When visiting Gao Gan, the governor of Bingzhou, he warned that Gao had great ambitions but insufficient talent and poor judgment in choosing associates. Gao ignored this advice and later rebelled and was defeated.
+
+Chunk 8: 
+original: 
+舟车足以代步涉之艰，使令足以息四体之役。
+养亲有兼珍之膳，妻孥无苦身之劳。
+良朋萃止，则陈酒肴以娱之；嘉时吉日，则亨羔豚以奉之。
+蹰躇畦苑，游戏平林，濯清水，追凉风，钓游鲤，弋高鸿。
+讽于舞雩之下，咏归高堂之上。
+安神闺房，思老氏之玄虚；呼吸精和，求至人之仿佛。
+与达者数子，论道讲书，俯仰二仪，错综人物。
+弹《南风》之雅操，发清商之妙曲。
+消摇一世之上，睥睨天地之间。
+不受当时之责，永保性命之期。
+如是，则可以陵霄汉，出宇宙之外矣。
+岂羡夫入帝王之门哉！
+又作诗二篇，以见其志，辞曰：飞鸟遗迹，蝉蜕亡壳。
+腾蛇弃鳞，神龙丧角。
+至人能变，达士拔俗。
+乘云无辔，骋风无足。
+垂露成帏，张霄成幄。
+沆瀣当餐，九阳代烛。
+恒星艳珠，朝霞润玉。
+六合之内，恣心所欲。
+人事可遗，何为局促？
+大道虽夷，见几者寡。
+任意无非，适物无可。
+古来绕绕，委曲如琐。
+百虑何为，至要在我。
+寄愁天上，埋忧地下。
+叛散《五经》，灭弃《风》、《雅》。
+百家杂碎，请用从火。
+抗志山栖，游心海左。
+元气为舟，微风为。
+敖翔太清，纵意容冶。
+尚书令荀彧闻统名，奇之，举为尚书郎。
+后参丞相曹操军事。
+每论说古今及时俗行事，恒发愤叹息。
+因著论名曰《昌言》，凡三十四篇，十余万言。
+献帝逊位之岁，统卒，时年四十一。
+translation: 
+Boats and carts can replace the labor of traveling and wading, which is enough to relieve the four-body struggle.
+Raising relatives has a delicious meal, and the wife does not have to work hard.
+When good friends arrive, they will be entertained with wine and food, festive events, and pigs and sheep will be killed to honor them.
+Take a walk in Qiyuan, play in the plain forest, wash your feet on the shore of clear water, enjoy the cool breeze, go fishing, and shoot birds.
+Sing under the dancing beauties, chant in the high hall.
+Relax in the boudoir, think about the mystery of Lao Tzu, breathe fresh air, and seek to be like a perfect person.
+Talking about Taoism and writing with a few close friends, looking down at the sky and the earth, commenting on the rights and wrongs of people.
+Play the "South Wind" harp and sing the wonderful music of Qing Dynasty and Shang Dynasty.
+A carefree life, looking between heaven and earth.
+He will not be blamed at that time, and his life will be preserved forever.
+In this way, one can rise above the sky and be beyond the universe.
+Are you still envious of entering the imperial family?
+He also wrote two poems to express his ambition. The poem says: The flying birds leave their remains, the singing cicada sheds its body.
+The flying snake abandons its scales and armor, and the divine dragon loses its head and horns.
+A great person can change, a noble person can transcend vulgarity.
+Riding on the clouds without a saddle or bridle, riding the wind with no satisfaction.
+The hanging dew becomes a tent curtain, and the Zhang Xiao becomes a scarf.
+Hangzhou serves as dinner, and Nine Suns replace candles.
+The stars are as bright as pearls, and the morning glow is as smooth as jade.
+Liuhe allows me to roam as much as I want.
+People and things can be left behind, so why be cramped.
+Although the road is flat, there are only a few people there.
+There is no right or wrong in anything you want, and there is nothing wrong with what you want.
+It has been a circuitous and complex process since ancient times.
+No matter what I do, the most important thing is still with me.
+Put your worries in heaven and bury them in the earth.
+The rebellion was dispersed in the Five Classics, and Heaven abandoned the Wind and Ya.
+Baijia is too messy, please use a fire.
+The ambition to fight is in the mountains, and the heart is in the sea.
+The vitality becomes a boat, and the breeze can be the rudder.
+Ao Xiang is in Taiqing, Zongyi is in Rongye.
+The minister ordered Xun to be surprised when he heard Zhong Changtong's name, so he appointed him as minister.
+Later he participated in the military affairs of Prime Minister Cao Cao.
+Whenever he talks about ancient and modern times and the customs and practices of that time, he often sighs with anger.
+Because the treatise is called "Chang Yan", it has a total of thirty-four chapters and more than 100,000 words.
+In the year when Emperor Xian abdicated, Zhong Changtong died at the age of forty-one.
+
+summary:
+summary line 6: Zhong Changtong was unconventional and outspoken, earning the nickname "Kuang Sheng" (Mad Scholar). He frequently declined government summons by claiming illness. He valued personal freedom over official service, describing an ideal life of leisure with fertile land, comfortable housing, family, friends, entertainment, and philosophical contemplation. He wrote poems expressing his desire to transcend worldly concerns. Minister Xun Yu appointed him, and he later served under Prime Minister Cao Cao. He wrote "Chang Yan," consisting of 34 chapters and over 100,000 words, expressing his critical views on contemporary society. He died at age forty-one during the year Emperor Xian abdicated.
+

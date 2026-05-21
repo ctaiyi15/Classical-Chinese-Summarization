@@ -1,0 +1,319 @@
+Summary uses chunk [0, 0, 2, 4, 6]
+
+Chunk 0: 
+original: 
+魏豹，故魏诸公子也。
+其兄魏咎，故魏时封为宁陵君，秦灭魏，为庶人。
+陈胜之王也，咎往从之。
+胜使魏人周市徇魏地，魏地已下，欲立周市为魏王。
+市曰： 天下昏乱，忠臣乃见。
+今天下共畔秦，其谊必立魏王后乃可。
+齐、赵使车各五十乘，立市为王。
+市不受，迎魏咎于陈，五反，陈王乃遣立咎为魏王。
+章邯已破陈王，进兵击魏王于临济。
+魏王使周市请救齐、楚。
+齐、楚遣项它、田巴将兵，随市救魏。
+章邯遂击破杀周市等军，围临济。
+咎为其民约降。
+约降定，咎自杀。
+魏豹亡走楚。
+楚怀王予豹数千人，复徇魏地。
+项羽已破秦兵，降章邯，豹下魏二十余城，立为魏王。
+豹引精兵从项羽入关。
+羽封诸侯，欲有梁地，乃徙豹于河东，都平阳，为西魏王。
+汉王还定三秦，渡临晋，豹以国属焉，遂从击楚于彭城。
+汉王败，还至荥阳，豹请视亲病，至国，则绝河津畔汉。
+汉王谓郦生曰： 缓颊往说之。
+郦生往，豹谢曰： 人生一世间，如白驹过隙。
+今汉王嫚侮人，骂詈诸侯群臣如奴耳，非有上下礼节，吾不忍复见也。
+汉王遣韩信击豹，遂虏之，传豹诣荥阳，以其地为河东、太原、上党郡。
+汉王令豹守荥阳。
+楚围之急，周苛曰： 反国之王，难与共守。
+遂杀豹。
+田儋，狄人也，故齐王田氏之族也。
+儋从弟荣，荣弟横，皆豪桀，宗强，能得人。
+陈涉使周市略地，北至狄，狄城守。
+儋阳为缚其奴，从少年之廷，欲谒杀奴。
+translation: 
+Wei Bao was the son of Wei State during the Six Kingdoms period.
+His elder brother Wei Jiu was named Lord Ningling at that time. After Qin destroyed Wei, he was deposed as a commoner.
+After Chen Sheng rebelled and proclaimed himself king, Wei Jiu went to serve him.
+Chen Sheng sent a Wei man named Zhou Shi to lead his troops to capture the land of Wei. After occupying it, he wanted to make Zhou Shi the king of Wei.
+Zhou Shi said: Only when the world is in chaos can the integrity of loyal ministers be seen.
+Now that the whole world has betrayed Qin, it stands to reason that the king of Wei should be established after him.
+Qi and Tang each sent fifty military chariots to help support Zhou Shi as king.
+Zhou Shi refused to accept it and sent people to Chen County to meet Wei Jiu. After five trips, King Chen agreed to make Wei Jiu the king of Wei.
+Zhang Han defeated King Chen and raised his troops to Linji to attack King Wei.
+The king of Wei sent Zhou Shi to Qi and Chu to request reinforcements.
+Qi and Chu sent Xiang Ta and Tian Ba ​​to lead the army together with Zhou Shi to rescue Wei.
+Zhang Han defeated them again, killed Zhou Shi and others, and surrounded Linji.
+In order to save the people in the city, Wei Jiu agreed to surrender to the Qin army.
+After the agreement was made, Wei Jiu committed suicide and died.
+Wei Bao fled to Chu.
+King Huai of Chu sent thousands of troops to Wei Bao to recapture the land of Wei.
+By this time, Xiang Yu had defeated the Qin army and captured Zhang Han. Wei Bao captured more than 20 cities and was made king of Wei by Xiang Yu.
+Wei Bao led his army to follow Xiang Yu into the pass.
+In the first year of the Han Dynasty, Xiang Yu divided the feudal lords. He wanted to occupy Daliang, so he moved Wei Bao to Hedong, established his capital in Pingyang, and named him King of the Western Wei Dynasty.
+The King of Han almost ordered the Three Qin Dynasties to cross the Yellow River from Linjin. The King of Wei, Wei Bao, surrendered the whole country to the King of Han, and followed the King of Han to attack the Chu army in Pengcheng.
+The king of Han failed and retreated to Rongyang. Wei Bao asked to go back to visit his mother's condition. After returning to Wei, he blocked the crossing of the Yellow River and betrayed the King of Han.
+The king of Han said to Li Sheng: Go and persuade Wei Bao to submit.
+Li Sheng arrived in Wei. Wei Bao declined politely and said: Life is very short.
+The King of Han insults people at will and scolds the princes and ministers as if they were slaves. He has no courtesy at all. I don't want to bear the anger and go to see him again.
+So the King of Han sent Han Xin to attack Wei Bao, captured him, and escorted him to Rongyang, dividing Wei Bao's original territory into three counties: Hedong, Taiyuan, and Shangdang.
+The king of Han asked Wei Bao to garrison Rongyang.
+At that time, the Chu army was attacking Rongyang, and the situation was urgent. Zhou Ke said: "You cannot defend with those who betray the country."
+Then he killed Wei Bao.
+Tian Dan, a native of Di County, was a member of the Tian clan, King of Qi during the Six Kingdoms period.
+Tian Dan's cousin Tian Rong and Tian Rong's younger brother Tian Heng were both heroes. Their clans were powerful and respected.
+Chen She sent Zhou Shi to capture Wei and went north to Di County, but failed to capture it in the end.
+Tian Dan pretended to kill his slave, and brought his young men with him, tied up the slave, and came to see the magistrate of Di County. When he saw the magistrate, he took the opportunity to kill him.
+
+summary:
+summary line 0: The histories of three prominent figures from the Six Kingdoms period: Wei Bao, Tian Dan, and Han Wangxin, detailing their rise, fall, and the fates of their descendants.
+
+Chunk 0: 
+original: 
+魏豹，故魏诸公子也。
+其兄魏咎，故魏时封为宁陵君，秦灭魏，为庶人。
+陈胜之王也，咎往从之。
+胜使魏人周市徇魏地，魏地已下，欲立周市为魏王。
+市曰： 天下昏乱，忠臣乃见。
+今天下共畔秦，其谊必立魏王后乃可。
+齐、赵使车各五十乘，立市为王。
+市不受，迎魏咎于陈，五反，陈王乃遣立咎为魏王。
+章邯已破陈王，进兵击魏王于临济。
+魏王使周市请救齐、楚。
+齐、楚遣项它、田巴将兵，随市救魏。
+章邯遂击破杀周市等军，围临济。
+咎为其民约降。
+约降定，咎自杀。
+魏豹亡走楚。
+楚怀王予豹数千人，复徇魏地。
+项羽已破秦兵，降章邯，豹下魏二十余城，立为魏王。
+豹引精兵从项羽入关。
+羽封诸侯，欲有梁地，乃徙豹于河东，都平阳，为西魏王。
+汉王还定三秦，渡临晋，豹以国属焉，遂从击楚于彭城。
+汉王败，还至荥阳，豹请视亲病，至国，则绝河津畔汉。
+汉王谓郦生曰： 缓颊往说之。
+郦生往，豹谢曰： 人生一世间，如白驹过隙。
+今汉王嫚侮人，骂詈诸侯群臣如奴耳，非有上下礼节，吾不忍复见也。
+汉王遣韩信击豹，遂虏之，传豹诣荥阳，以其地为河东、太原、上党郡。
+汉王令豹守荥阳。
+楚围之急，周苛曰： 反国之王，难与共守。
+遂杀豹。
+田儋，狄人也，故齐王田氏之族也。
+儋从弟荣，荣弟横，皆豪桀，宗强，能得人。
+陈涉使周市略地，北至狄，狄城守。
+儋阳为缚其奴，从少年之廷，欲谒杀奴。
+translation: 
+Wei Bao was the son of Wei State during the Six Kingdoms period.
+His elder brother Wei Jiu was named Lord Ningling at that time. After Qin destroyed Wei, he was deposed as a commoner.
+After Chen Sheng rebelled and proclaimed himself king, Wei Jiu went to serve him.
+Chen Sheng sent a Wei man named Zhou Shi to lead his troops to capture the land of Wei. After occupying it, he wanted to make Zhou Shi the king of Wei.
+Zhou Shi said: Only when the world is in chaos can the integrity of loyal ministers be seen.
+Now that the whole world has betrayed Qin, it stands to reason that the king of Wei should be established after him.
+Qi and Tang each sent fifty military chariots to help support Zhou Shi as king.
+Zhou Shi refused to accept it and sent people to Chen County to meet Wei Jiu. After five trips, King Chen agreed to make Wei Jiu the king of Wei.
+Zhang Han defeated King Chen and raised his troops to Linji to attack King Wei.
+The king of Wei sent Zhou Shi to Qi and Chu to request reinforcements.
+Qi and Chu sent Xiang Ta and Tian Ba ​​to lead the army together with Zhou Shi to rescue Wei.
+Zhang Han defeated them again, killed Zhou Shi and others, and surrounded Linji.
+In order to save the people in the city, Wei Jiu agreed to surrender to the Qin army.
+After the agreement was made, Wei Jiu committed suicide and died.
+Wei Bao fled to Chu.
+King Huai of Chu sent thousands of troops to Wei Bao to recapture the land of Wei.
+By this time, Xiang Yu had defeated the Qin army and captured Zhang Han. Wei Bao captured more than 20 cities and was made king of Wei by Xiang Yu.
+Wei Bao led his army to follow Xiang Yu into the pass.
+In the first year of the Han Dynasty, Xiang Yu divided the feudal lords. He wanted to occupy Daliang, so he moved Wei Bao to Hedong, established his capital in Pingyang, and named him King of the Western Wei Dynasty.
+The King of Han almost ordered the Three Qin Dynasties to cross the Yellow River from Linjin. The King of Wei, Wei Bao, surrendered the whole country to the King of Han, and followed the King of Han to attack the Chu army in Pengcheng.
+The king of Han failed and retreated to Rongyang. Wei Bao asked to go back to visit his mother's condition. After returning to Wei, he blocked the crossing of the Yellow River and betrayed the King of Han.
+The king of Han said to Li Sheng: Go and persuade Wei Bao to submit.
+Li Sheng arrived in Wei. Wei Bao declined politely and said: Life is very short.
+The King of Han insults people at will and scolds the princes and ministers as if they were slaves. He has no courtesy at all. I don't want to bear the anger and go to see him again.
+So the King of Han sent Han Xin to attack Wei Bao, captured him, and escorted him to Rongyang, dividing Wei Bao's original territory into three counties: Hedong, Taiyuan, and Shangdang.
+The king of Han asked Wei Bao to garrison Rongyang.
+At that time, the Chu army was attacking Rongyang, and the situation was urgent. Zhou Ke said: "You cannot defend with those who betray the country."
+Then he killed Wei Bao.
+Tian Dan, a native of Di County, was a member of the Tian clan, King of Qi during the Six Kingdoms period.
+Tian Dan's cousin Tian Rong and Tian Rong's younger brother Tian Heng were both heroes. Their clans were powerful and respected.
+Chen She sent Zhou Shi to capture Wei and went north to Di County, but failed to capture it in the end.
+Tian Dan pretended to kill his slave, and brought his young men with him, tied up the slave, and came to see the magistrate of Di County. When he saw the magistrate, he took the opportunity to kill him.
+
+summary:
+summary line 1: Wei Bao, son of the Wei state, saw his brother Wei Jiu made king by Chen Sheng after the Qin collapse. Wei Jiu later surrendered to Qin to save his people and committed suicide. Wei Bao fled to Chu, recaptured Wei lands with King Huai's aid, and was made King of Wei by Xiang Yu. After Xiang Yu moved him to Hedong, Wei Bao initially surrendered to the Han king but later betrayed him, blocking the Yellow River. The Han king sent Han Xin to capture him, and Wei Bao was eventually killed at Rongyang by Zhou Ke, who deemed him untrustworthy.
+
+Chunk 2: 
+original: 
+齐将田都从共救赵，因入关，故立都为齐王，治临菑。
+故齐王建孙田安，项羽方渡河救赵，安下济北数城，引兵降项羽，羽立安为济北王，治博阳。
+荣以负项梁，不肯助楚攻秦，故不得王。
+赵将陈馀亦失职，不得王。
+二人俱怨项羽。
+荣使人将兵助陈馀，令反赵地，而荣亦发兵以距击田都，都亡走楚。
+荣留齐王市毋之胶东。
+市左右曰： 项王强暴，王小就国，必危。
+市惧，乃亡就国。
+荣怒，追击杀市于即墨，还攻杀济北王安，自立为王，尽并三齐之地。
+项王闻之，大怒，乃北伐齐。
+荣发兵距之城阳。
+荣兵败，走平原，平原民杀荣。
+项羽遂烧夷齐城郭，所过尽屠破。
+齐人相聚畔之。
+荣弟横收齐散兵，得数万人，反击项羽于城阳。
+而汉王帅诸侯败楚，入彭城。
+项羽闻之，乃释齐而归击汉于彭城，因连与汉战，相距荥阳。
+以故横复收齐城邑，立荣子广为王，而横相之，政事无巨细皆断于横。
+定齐三年，闻汉将韩信引兵且东击齐，齐使华毋伤、田解军历下以距汉。
+会汉使郦食其往说王广及相横，与连和。
+横然之，乃罢历下守备，纵酒，且遣使与汉平。韩信乃渡平原。袭破齐历下军，因入临菑。
+王广、相横以郦生为卖己而亨之。
+广东走高密，横走博，守相田光走城阳，将军田既军于胶东。
+楚使龙且救齐，齐王与合军高密。
+汉将韩信、曹参破杀龙且，虏齐王广。
+汉将灌婴追得守相光，至博。
+而横闻王死，自立为王，还击婴，婴败横军于赢下。
+横亡走梁，归彭越。
+越时居梁地，中立，且为汉，且为楚。
+韩信已杀龙且，因进兵破杀田既于胶东，灌婴破杀齐将田吸于千乘，遂平齐地。汉灭项籍，汉王立为皇帝，彭越为梁王。
+横惧诛，而与其徒属五百余人入海，居隝中。
+高帝闻之，以横兄弟本定齐，齐人贤者多附焉，今在海中不收，后恐有乱，乃使使赦横罪而召之。
+横谢曰： 臣亨陛下之使郦食其，今闻其弟商为汉将而贤，臣恐惧，不敢奉诏，请为庶人，守海隝中。
+使还报，高帝乃诏卫尉郦商曰： 齐王横即至，人马从者敢动摇者致族夷！
+乃复使使持节具告以诏意，曰： 横来，大者王，小者乃侯耳；不来，且发兵加诛。
+横乃与其客二人乘传诣雒阳。
+至尸乡厩置，横谢使者曰： 人臣见天子，当洗沐。
+止留。
+谓其客曰： 横始与汉王俱南面称孤，今汉王为天子，而横乃为亡虏，北面事之，其愧固已甚矣。
+translation: 
+Tian Du, a general of the Qi State, participated in the rescue of the Zhao State and allowed Xiang Yu to enter the Pass. Therefore, Tian Du was made King of Qi and his capital was Linmiao.
+Tian An, the grandson of Tian Jian, the former King of Qi during the Six Kingdoms period, captured several cities in Jibei when Xiang Yu crossed the river to rescue Zhao, and led his army to defect to Xiang Yu. Therefore, Xiang Yu made Tian An the king of Jibei and made Boyang his capital.
+Because Tian Rong was carrying Xiang Liang and refused to send troops to help the Chu army attack the Qin army, he was not crowned king.
+Chen Yu, the general of Zhao State, also failed to make him king because of his dereliction of duty.
+Both of them hated Xiang Yu deeply.
+Tian Rong sent troops to help Chen Yu and asked him to attack Zhao. Tian Rong himself also sent troops to attack Tiandu, and Tiandu fled to Chu.
+Tian Rong detained King Qi Tianshi and refused to let him go to Micellar.
+Tian Shi's cronies said: King Xiang is strong and violent. If you don't go and take office, there will definitely be disaster.
+Tian Shi was afraid, so he secretly escaped to Miaojie and took up his post.
+Tian Rong was furious, chased Tian Shi in Jimo and killed him, then turned around and attacked Tian An, the king of Jibei. So Tian Rong established himself as the king of Qi and annexed the territory of San Qi.
+When Xiang Yu heard about the dispatch, he was furious and sent troops to attack Qi in the north.
+Tian Rong sent troops to resist Xiang Yu in Chengyang.
+Tian Rong was defeated and fled to the plains, where he was killed by the local people.
+Xiang Yu burned down the walls of Qi and massacred wherever he went.
+So the people of Qi gathered to resist him.
+Tian Rong's younger brother Tian Heng gathered up the remnants of Qi's troops and gathered tens of thousands of people to attack Xiang Yu's army in Chengyang.
+At this time, Liu Bang, the king of Han, led various princes to defeat the Chu army and entered Pengcheng.
+When Xiang Yu got the news, he spared Qi and returned to Pengcheng to attack the Han army. As a result, he fought with Mo continuously, and the two sides were at a stalemate in Rongyang.
+So Tian Heng restored the cities of Qi State and made Tian Rong's son Tian Guang the king of Qi. Tian Heng came to assist him. All political affairs of Qi State were decided by Tian Heng, no matter how big or small.
+Tian Heng had been pacifying Qi for three years when he suddenly heard that Han Xin, the general of the King of Han, was leading his troops east to attack Qi. The State of Qi sent troops led by Hua Wushang and Tian Jie to garrison at Lixia to fight against the Han army.
+It happened that Li Shiqi, the envoy of the King of Han, came to Qi to persuade King Tian Guang of Qi, Prime Minister Tian Heng and the King of Han to jointly attack Chu.
+Tian Heng agreed, so Lixia's defense was lifted, and the soldiers drank freely. Just as he was about to send an envoy to negotiate peace with the King of Han, Han Xin had already crossed the plain, defeated the Qi army stationed at Lixia, and entered Linmiao.
+Qi King Tian Guang and Prime Minister Tian Heng believed that Li Sheng was conspiring with Han Xin, so they cooked Li Sheng.
+Tian Guang fled eastward to Gaomi, Tian Heng fled to Bo County, Prime Minister Tian Guang fled to Chengyang, and General Tian Ji garrisoned in Jiaodong.
+The state of Chu sent Long Qie to rescue the state of Qi. King Qi and Long Qie's army met at Gaomi.
+The Han generals Han Xin and Cao Shen defeated the Chu army, killed Long Qie, and captured Qi King Tian Guang.
+Han general Guan Ying chased and captured Qi's Prime Minister Tian Guang and came to Bo County.
+When Tian Heng heard that King Qi was dead, he proclaimed himself king and returned to attack Guan Ying. Guan Ying defeated Tian Heng's army.
+Tian Heng fled to Liangdi and joined Pengyue.
+At this time, Peng Yue was stationed in Liangdi. He courted both Mo and Chu and remained neutral. After Han Xin killed Long Qie, he then marched into Jiaodong and killed Tian Ji.
+Guan Ying defeated Qi general Tian Su and killed Tian Su in Qiancheng, so Han Xin pacified Qi. The Han Dynasty destroyed Xiang Ji, the king of Han established himself as emperor, and Peng Yue was named King of Liang.
+Tian Heng was afraid of being killed, so he fled to the sea with more than 500 of his subordinates and lived on the island.
+When Mo Gaozu Liu Bang heard the news, he thought that Brother Tian Heng had already pacified Qi, and many wise men of Qi had joined him. Now that he was living on the sea, if he did not recruit him, there might be trouble in the future, so he sent an envoy to pardon Tian Heng's crime and summon him.
+Tian Heng declined politely and said: I cooked your Majesty's envoy Li Shiqi. I heard that his younger brother Li Shang is now a general of the Han army and a virtuous man. I am very worried, so I dare not follow the imperial edict. I hope to be an ordinary citizen and live on the island.
+The messenger came back and reported to the emperor. Emperor Gaozu summoned Weiwei Li Shang and told him: King Tian Heng of Qi will come, and whoever dares to touch his subordinates will be punished with genocide!
+So he sent an envoy with a talisman to tell Tian Heng the order given by Emperor Gaozu to Li Shang, and said: When Tian Heng comes, the older one will be made king and the younger one will be made marquis. If Tian Heng doesn't come, we will send troops to attack him.
+Tian Heng then took two retainers to Luoyang in a carriage.
+When they arrived at the place where horses were prepared for the post in Xixiang, Tian Heng said to the envoy: As a minister paying homage to the emperor, he should take a bath to purify himself.
+So it stopped.
+Tian Heng said to his disciples: At first, like the King of Han, I was a man facing south and proclaimed himself king. Now the King of Han has become the emperor. And I have become a prisoner of the subjugated country. It is really shameful to ask the north to surrender to him.
+
+summary:
+summary line 2: Tian Dan, a member of the Qi royal clan, declared himself king after killing a county magistrate and expanding Qi's territory. He died in battle against Qin's Zhang Han while aiding Wei. His cousin Tian Rong later made Tian Dan's son Tian Shi king, but conflicts arose with Xiang Yu over allegiances. Tian Rong was killed, and his brother Tian Heng restored Qi, making Tian Rong's son Tian Guang king. Tian Heng ruled Qi for three years until Han Xin's invasion. After a series of battles, Tian Guang was captured, and Tian Heng fled to the sea with 500 followers. Summoned by Emperor Gaozu of Han, Tian Heng committed suicide near Luoyang out of shame, and his followers also died, demonstrating his virtue.
+
+Chunk 4: 
+original: 
+已得亡归汉，汉复以为韩王，竟从击破项籍。
+五年春，与信剖符，王颖川。
+六年春，上以为信壮武，北近巩、雒，南迫宛、叶，东有淮阳，皆天下劲兵处也，乃更以太原郡为韩国，徙信以备胡，都晋阳。
+信上书曰： 国被边，匈奴数入，晋阳去塞远，请治马邑。
+上许之。
+秋，匈奴冒顿大入围信，信数使使胡求和解。
+汉发兵救之，疑信数间使，有二心。
+上赐信书责让之曰： 专死不勇，专生不任，寇攻马邑，君王力不足以坚守乎？
+安危丰亡之地，此二者朕所以责于君王。
+信得书，恐诛，因与匈奴约共攻汉，以马邑降胡，击太原。
+七年冬，上自往击破信军铜鞮，斩其将王喜。
+信亡走匈奴其将白土人曼丘臣、王黄立赵苗裔赵利为王，复收信散兵，而与信及冒顿谋攻汉。
+匈奴使左右贤王将万余骑与王黄等屯广武以南，至晋阳，与汉兵战，汉兵大破之，追至于离石，复破之。
+匈奴复聚兵楼烦西北。
+汉令车骑击匈奴，常败走，汉乘胜追北。
+闻冒顿居代谷，上居晋阳，使人视冒顿，还报曰 可击 。
+上遂至平城，上白登。
+匈奴骑围上，上乃使人厚遗阏氏。
+阏氏说冒顿曰： 今得汉地，犹不能居，且两主不相厄。
+居七日，胡骑稍稍引去。
+天雾，汉使人往来，胡不觉。
+护军中尉陈平言上曰： 胡者全兵，请令强弩傅两矢外乡，徐行出围。
+入平城，汉救兵亦至，胡骑遂解去，汉亦罢兵归。
+信为匈奴将兵往来击边，令王黄等说误陈豨。
+十一年春，信复与胡骑入居参合。
+汉使柴将军击之，遗信书曰： 陛下宽仁，诸侯虽有叛亡，而后归，辄复故位号，不诛也。
+translation: 
+Soon he found an opportunity and fled back to Han. The king of Han named him King of Han. Finally, he followed the king of Han and defeated Xiang Ji.
+In the spring of the fifth year, the King of Han cut his talisman with him, and he was in Ying!
+For the King of Han. In the spring of the sixth year, the emperor thought that King Xin of Han was brave and brave. The territory he assigned was close to Gongxian and Luoyang in the north, Wanxian and Yexian in the south, and the important town of Huaiyang was in Shubian. These places were garrisoned by elite troops, so he gave Taiyuan County to South Korea, so that King Xin of Han could resist the barbarians and move the capital to Jinyang.
+The King of Han wrote a letter saying: The country is close to the border, and the Huns have invaded many times, but Jinyang is far away from the border, so he requested to make Mayi the capital.
+The emperor agreed to his request.
+In the autumn of that year, the Huns leader Mao Dun led a large army to besiege Han Wangxin. Han Wangxin sent envoys many times to seek reconciliation with the Hu people.
+The Han Dynasty sent reinforcements to rescue King Xin of Han, and suspected that King Xin of Han had second thoughts in sending envoys to privately sue for peace with the Xiongnu many times.
+The emperor sent a letter to reproach Han Wangxin, saying: As a general, focusing on fighting to death is not considered brave, and focusing on survival is not qualified for military command. The enemy is besieging Mayi, can't you hold on to your troops?
+Even in a dangerous situation, you must persist in loyalty and integrity. This is what I want to blame you for.
+King Xin of Han received the letter and was afraid of being killed, so he agreed with the Xiongnu to jointly attack Mo, gave Mayi to the Hu people, surrendered to the Xiongnu, and sent troops to attack Taiyuan.
+In the winter of the seventh year, the emperor personally led his army to defeat Han Wangxin in Tongqian and killed his general Wang Xi.
+King Xin of Han fled to the Huns. His generals Manqiuchen and Wang Huang were from Baitu County. They made Tali, a descendant of Shitang from the Six Kingdoms, king. They also collected the remaining soldiers of King Xin of Han and colluded with King Xin and Maodun of Han to attack Han.
+The Xiongnu sent the right and left wise kings to lead more than 10,000 cavalry and Wang Huang and others to station in the south of Guangwu. They went to Jinyang to fight the Han soldiers, but were defeated by the Han soldiers. They pursued them as far as Lishi, where they were defeated again by the Mo army.
+The Huns gathered their troops northwest of Loufan again.
+The Han army also sent chariots and horses to attack the Huns, often defeating them. The Han army took advantage of the victory and pursued them north.
+After hearing the news that Mao Dun lived in Daigu, the emperor went to Jinyang in person, sent people to scout Mao Dun, and reported back that it was possible to attack.
+The emperor then came to Pingcheng and climbed Baishan Mountain.
+Unexpectedly, the emperor was surrounded by Huns cavalry, so the emperor sent people to send many valuable gifts to Ban, the wife of the Huns.
+Que persuaded Mao Dun, saying: Now that we have acquired Han land, it is still uninhabitable. Moreover, when the two masters meet, they cannot force each other into an embarrassing situation.
+After seven days of confrontation, the Hu cavalry retreated a little.
+Heavy fog fell from the sky, and the Han army sent people to and fro, but the Hu people were not aware of it.
+Chen Ping, the lieutenant of the guard, said to the emperor: The weapons of the Hu people are bows and spears. Please ask the soldiers to add two arrows to each strong crossbow, pointing outwards, and move slowly to highlight the encirclement.
+When the emperor ran into Pingcheng, reinforcements from the Han Dynasty also arrived. The Xiongnu cavalry dispersed, and the Han Dynasty also withdrew its troops.
+After that, Han Wangxin led the Huns soldiers to and from the border to attack the Han army, and also asked Wang Huang and others to persuade Chen Xi.
+In the spring of the eleventh year, Han Wangxin and the Hu cavalry were stationed in Shenhe County.
+The Han Dynasty sent General Chai to attack. General Chai first sent a letter to King Han saying: Your Majesty is generous and kind. Although some princes defected, after they surrendered, they immediately restored their previous titles and did not kill them.
+
+summary:
+summary line 3: Han Wangxin, grandson of the original Han king, was made King of Han by Xiang Liang. He later followed the Han king, was captured by Chu, but escaped and was reinstated. After the Han dynasty was established, Emperor Gaozu moved him to Taiyuan to resist the Xiongnu. Suspected of treason for negotiating with the Xiongnu, Han Wangxin surrendered to them and attacked Han. The emperor personally campaigned against him, and after a siege at Pingcheng, the Xiongnu retreated. Han Wangxin continued raiding until he was killed by General Chai in Shenhe County. His descendants, including Han Dangdang and Han Ying, later surrendered to Han and were granted titles, with some serving as generals and officials through subsequent reigns.
+
+Chunk 6: 
+original: 
+增世贵，幼为忠臣，事三主，重于朝廷。
+为人宽和自守，以温颜逊辞承上接下，无所失意，保身固宠，不能有所建明。
+五凤二年薨，谥曰安侯。
+子宝嗣，亡子，国除。
+成帝时，继功臣后，封增兄子岑为龙额侯，薨，子持弓嗣。
+王莽败，乃绝。
+赞曰：周室既坏，至春秋末，诸侯耗尽，而炎、黄、唐、虞之苗裔尚犹颇有存者。
+秦灭六国，而上古遗烈扫地尽矣。
+楚、汉之际，豪桀相王，唯魏豹、韩信、田儋兄弟为旧国之后，然皆及身而绝。
+横之志节，宾客慕义，犹不能自立，岂非天虖！
+韩氏自弓高后贵显，盖周烈近与！
+translation: 
+Han Zeng has been honored for generations and has been a loyal minister since he was a child. He served three masters successively and made contributions to the court.
+He was tolerant and reserved, and he was kind and courteous to both the emperor and his subordinates. He made no mistakes and protected himself by being favored, but he had no achievements.
+Wufeng died in the second year of his reign and was granted the title of Marquis of An.
+His son Han Bao succeeded him. Han Bao had no sons and lost his kingdom.
+When he became emperor, in order to ensure that the heroes would have successors, Han Cen, the son of Han Zeng's brother, was granted the title of Long'ehou. After his death, his son succeeded him with a bow.
+After Wang Mang's defeat, he lost his title.
+Zan said: The Zhou royal family has declined, and by the end of the Spring and Autumn Period, all the princes have been reduced, but there are still many descendants of Emperor Yan, Emperor Huang, Tang Yao, and Yu Shun.
+Qin destroyed the six kingdoms, and the ancient sending industry no longer existed.
+During the war between Chu and Han, heroes became kings one after another. Only the brothers Wei Bao, Han Wangxin, and Tian Dan were descendants of the Six Kingdoms, but by their generation they were all extinct.
+Tian Heng's integrity and the spirit of pursuing morality among the guests could not lead to the establishment of the country. Isn't this God's will?
+The Han family began to gain prominence again after being granted the title of Marquis of Gonggao. Perhaps it was because Huangxun, as a descendant of Guqu, was the closest to the Three Expeditions!
+
+summary:
+summary line 4: The text concludes with a reflection that while Wei Bao, Tian Dan, and Han Wangxin were descendants of the Six Kingdoms, their lineages ended. Tian Heng's integrity and his followers' loyalty did not lead to a lasting state, suggesting divine will. The Han family's resurgence through the Marquis of Gonggao is noted as possibly linked to ancient lineage.
+

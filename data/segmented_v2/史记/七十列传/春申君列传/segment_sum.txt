@@ -1,0 +1,295 @@
+Summary uses chunk [0, 3, 3, 5, 5]
+
+Chunk 0: 
+original: 
+春申君者，楚人也，名歇，姓黄氏。
+游学博闻，事楚顷襄王。
+顷襄王以歇为辩，使於秦。
+秦昭王使白起攻韩、魏，败之於华阳，禽魏将芒卯，韩、魏服而事秦。
+秦昭王方令白起与韩、魏共伐楚，未行，而楚使黄歇適至於秦，闻秦之计。
+当是之时，秦已前使白起攻楚，取巫、黔中之郡，拔鄢郢，东至竟陵，楚顷襄王东徙治於陈县。
+黄歇见楚怀王之为秦所诱而入朝，遂见欺，留死於秦。
+顷襄王，其子也，秦轻之，恐壹举兵而灭楚。
+歇乃上书说秦昭王曰：
+天下莫彊於秦、楚。
+今闻大王欲伐楚，此犹两虎相与斗。
+两虎相与斗而驽犬受其弊，不如善楚。
+臣请言其说：臣闻物至则反，冬夏是也；致至则危，累釭是也。
+今大国之地，遍天下有其二垂，此从生民已来，万乘之地未尝有也。
+先帝文王、庄王之身，三世不妄接地於齐，以绝从亲之要。
+今王使盛桥守事於韩，盛桥以其地入秦，是王不用甲，不信威，而得百里之地。
+王可谓能矣。
+王又举甲而攻魏，杜大梁之门，举河内，拔燕、酸枣、虚、桃，入邢，魏之兵云翔而不敢捄。
+王之功亦多矣。
+王休甲息众，二年而後复之；又并蒲、衍、首、垣，以临仁、平丘，黄、济阳婴城而魏氏服；王又割濮之北，注齐秦之要，绝楚赵之脊，天下五合六聚而不敢救。
+王之威亦单矣。
+王若能持功守威，绌攻取之心而肥仁义之地，使无後患，三王不足四，五伯不足六也。
+王若负人徒之众，仗兵革之彊，乘毁魏之威，而欲以力臣天下之主，臣恐其有後患也。
+translation: 
+Chun Shenjun is a native of Chu State, his name is Xie and his surname is Huang.
+He once traveled around to learn from his teachers, gained profound knowledge, and served King Qingxiang of Chu.
+King Qingxiang thought Huang Xie was eloquent and asked him to go on a mission to Qin.
+At that time, King Zhao of Qin sent Bai Qi to attack Hanhe, defeated Han and Wei in Huayang, and captured Wei general Mang Mao. Han and Wei surrendered to Qin and served Qin.
+King Zhao of Qin had ordered Bai Qi to attack Chu with South Korea and Wei, but the Qin army had not yet set off. At this time, King Chu sent Huang Xie to Qin by chance and heard about Qin's plan.
+At this time, the State of Qin had occupied a large area of ​​Chu State, because before this King Qin had sent Bai Qi to attack the State of Chu, captured Wu County, Qianzhong County, captured the capital of Yancheng and Ying, and marched eastward to Jingling. King Qingxiang of Chu had to move the capital eastward to Chen County.
+Huang Xie saw that King Huai of Chu was lured by Qin and went to Qin's court for negotiation. As a result, he was deceived, detained and died in Qin.
+King Qingxiang was the son of King Huai of Chu, and the state of Qin did not pay attention to him at all. Huang Xie was worried that the state of Chu would perish if a war started.
+So he wrote a letter to persuade King Qin:
+Among the princes in the world, no one is more powerful than Qin and Chu.
+Now I heard that your Majesty is going to conquer Chu State, which is like two tigers fighting each other.
+When two tigers fight each other and the inferior dog takes advantage of it, it is better to be friendly with Chu.
+Please allow me to state my opinion: I have heard that when things develop to their peak, they will inevitably go to the opposite direction, as is the case with the changes between winter and summer; when things accumulate to extremely high levels, they will be dangerous, as is the case with stacked chess pieces.
+Now the land of Qin occupies the western and northern borders of the world. This has never been the case since the beginning of mankind, not even the territory of the emperor.
+However, for three generations, the first emperors, King Wen, King Zhuang, and the king himself, never forgot to connect the land of Qin with Qi, so as to cut off the key parts of the alliance between the countries.
+Now the king sent Shengqiao to serve as a garrison in South Korea. Shengqiao annexed the land of South Korea to the Qin State. This was a good way to obtain hundreds of miles of land without using any soldiers or force.
+The king can be said to be talented.
+The king sent troops to attack the Wei State again, blocking the access roads to and from the Wei capital Daliang, captured Hanoi, captured Yan, Suanzao, Xu, Tao and other places, and then invaded Xing. The Wei troops fled in all directions like white clouds blown by the wind and did not dare to save each other.
+The king has accomplished enough.
+The king stopped the campaign to rest and reorganize his troops, and sent troops again two years later; he also captured Pu, Yan, Shou, Yuan and other places, and then marched to Ren and Pingqiu, while Huang and Jiyang retreated and defended themselves. As a result, Wei surrendered to Qin;
+It can be said that the power of the king has been exerted to the extreme.
+If your Majesty maintains your merits, masters your power, gets rid of the desire to conquer, and spreads benevolence and righteousness, so that there will be no future disasters, your career will be equal to that of the three kings, and your power will be equal to that of the five hegemons.
+If your Majesty, relying on the large number of strong men, relying on the strength of the military, and taking advantage of the power of destroying the Wei State, wants to use force to make the princes of the world submit, I am afraid you will be in trouble in the future.
+
+summary:
+summary line 0: Chun Shenjun, a native of Chu named Huang Xie, served King Qingxiang of Chu. He was sent to Qin after King Qingxiang recognized his eloquence. At that time, Qin, under King Zhao, had been attacking Chu's allies, and Huang Xie learned of Qin's plan to invade Chu. Worried for Chu's survival, he wrote to King Zhao, arguing that Qin and Chu, as the two strongest states, should not fight each other, as this would benefit weaker states like Han and Wei. He warned that Qin's past victories had made it powerful, but attacking Chu would strengthen its enemies and lead to future trouble. Citing historical examples, he advised Qin to ally with Chu instead.
+
+Chunk 3: 
+original: 
+原相国孰虑之。
+应侯以闻秦王。
+秦王曰： 令楚太子之傅先往问楚王之疾，返而後图之。
+黄歇为楚太子计曰： 秦之留太子也，欲以求利也。
+今太子力未能有以利秦也，歇忧之甚。
+而阳文君子二人在中，王若卒大命，太子不在，阳文君子必立为後，太子不得奉宗庙矣。
+不如亡秦，与使者俱出；臣请止，以死当之。
+楚太子因变衣服为楚使者御以出关，而黄歇守舍，常为谢病。
+度太子已远，秦不能追，歇乃自言秦昭王曰： 楚太子已归，出远矣。
+歇当死，原赐死。
+昭王大怒，欲听其自杀也。
+应侯曰： 歇为人臣，出身以徇其主，太子立，必用歇，故不如无罪而归之，以亲楚。
+秦因遣黄歇。
+歇至楚三月，楚顷襄王卒，太子完立，是为考烈王。
+考烈王元年，以黄歇为相，封为春申君，赐淮北地十二县。
+後十五岁，黄歇言之楚王曰： 淮北地边齐，其事急，请以为郡便。
+因并献淮北十二县。请封於江东。
+考烈王许之。
+春申君因城故吴墟，以自为都邑。
+春申君既相楚，是时齐有孟尝君，赵有平原君，魏有信陵君，方争下士，招致宾客，以相倾夺，辅国持权。
+春申君为楚相四年，秦破赵之长平军四十馀万。
+五年，围邯郸。
+邯郸告急於楚，楚使春申君将兵往救之，秦兵亦去，春申君归。
+春申君相楚八年，为楚北伐灭鲁，以荀卿为兰陵令。
+当是时，楚复彊。
+赵平原君使人於春申君，春申君舍之於上舍。
+赵使欲夸楚，为玳瑁簪，刀剑室以珠玉饰之，请命春申君客。春申君客三千馀人，其上客皆蹑珠履以见赵使，赵使大惭。
+translation: 
+I hope you, Xiangguo, will consider this matter carefully.
+Ying Hou Fan Ju reported what Huang Xie said to the King of Qin.
+The King of Qin said: Let the teacher of the Prince of Chu go back to inquire about King Chu's condition first, and then make a plan after he comes back.
+Huang Xie made plans for the prince of Chu and said: The purpose of Qin detaining the prince is to obtain benefits.
+Now the prince is powerless to benefit Qin. I am very worried about you.
+Moreover, Yang Wenjun's two sons are both in the Chu Kingdom. If the king unfortunately dies and the prince is not in the Chu Kingdom, Yang Wenjun's son will definitely be his successor, and the prince will not be able to enjoy the country.
+It is better to flee Qin and go out with the envoy; please let me stay and bear the consequences of this with my life.
+The Prince of Chu changed his clothes and pretended to be the driver of an envoy from the Chu State to get out of the customs. Huang Xie stayed in the guest house, always refusing to receive guests on the pretext that the Prince was ill.
+It was estimated that the prince had gone far and Qin could not catch up, so Huang Xie took the initiative to report to King Zhao of Qin: The prince of Chu has gone back and is far away.
+I deserve death, please grant me death.
+King Zhao was very angry and wanted to allow Huang Xie to commit suicide.
+Ying Hou said: "As a minister, Huang Xie sacrificed his life for his master. If the prince is established as the king of Chu, he will definitely use Huang Xie in an important position. Therefore, it is better to spare him the death penalty and let him return to his country to show his goodwill towards the Chu country."
+The King of Qin listened to the advice of Marquis Ying and sent Huang Xie back to his country.
+Three months after Huang Xie returned to Chu, King Qingxiang of Chu passed away, and Prince Wan was appointed King of Chu. This was King Kaolie.
+In the first year of King Kaolie's reign, Huang Xie was appointed prime minister, granted the title Lord Chunshen, and was rewarded with twelve counties in Huaibei.
+Fifteen years later, Huang Xie proposed to the King of Chu: The area north of the Huaihe River is close to the State of Qi. The situation there is urgent. Please classify this area as a county to make governance more convenient.
+At the same time, he offered twelve counties in Huaibei and asked for the seal to be transferred to Jiangdong.
+King Kaolie agreed to his request.
+Chun Shenjun built cities in the old capital of Wu and made them his own capital.
+Chun Shenjun has already served as the prime minister of the Chu State. At this time, Qi State has Mengchang Lord, Zhao State has Pingyuan Lord, and Wei State has Xinling Lord. They are all vying to treat virtuous corporals, attract guests, compete with each other for wise men, and assist the king in controlling the state affairs.
+In the fourth year when Chun Shenjun served as the prime minister of Chu, Qin defeated and killed more than 400,000 Zhao Changping garrison.
+In the fifth year, Handan, the capital of Zhao State, was surrounded.
+Handan asked for help from the Chu State. Chu State sent Chun Shenjun to lead troops to rescue Handan. After the Qin army retreated, Chun Shenjun led his troops back to Chu State.
+In the eighth year when Chun Shenjun served as the prime minister of Chu State, he marched northward for Chu State, destroyed Lu State, and appointed Xunqing as the magistrate of Lanling County.
+At this time, the Chu State became prosperous and powerful again.
+Once, Lord Pingyuan of the State of Zhao sent envoys to visit Lord Chunshen, and Lord Chunshen arranged for them to stay in a first-class guesthouse.
+The envoy of the State of Zhao wanted to show off the wealth of the State of Zhao to the State of Chu, so he specially put a tortoise shell hairpin in his crown, showed off his sword scabbard decorated with pearls and jade, and asked to invite the guests of Lord Chun Shen to meet him. The distinguished guests of Lord Chun Shen all came to see the envoy of the State of Zhao wearing shoes made of pearls, which made the envoy of the State of Zhao feel ashamed.
+
+summary:
+summary line 1: King Zhao agreed, halted the attack, and formed an alliance with Chu. Huang Xie returned with Prince Wan of Chu as a hostage in Qin. When King Qingxiang fell ill, Huang Xie persuaded the Qin prime minister to let Prince Wan return, arguing it would secure Chu's loyalty. When Qin hesitated, Huang Xie helped Prince Wan escape disguised as a charioteer, staying behind to face punishment. King Zhao initially wanted to execute him but, on advice, spared him and sent him back. Three months later, King Qingxiang died, and Prince Wan became King Kaolie of Chu, appointing Huang Xie as prime minister and granting him the title Lord Chunshen with twelve counties.
+
+Chunk 3: 
+original: 
+原相国孰虑之。
+应侯以闻秦王。
+秦王曰： 令楚太子之傅先往问楚王之疾，返而後图之。
+黄歇为楚太子计曰： 秦之留太子也，欲以求利也。
+今太子力未能有以利秦也，歇忧之甚。
+而阳文君子二人在中，王若卒大命，太子不在，阳文君子必立为後，太子不得奉宗庙矣。
+不如亡秦，与使者俱出；臣请止，以死当之。
+楚太子因变衣服为楚使者御以出关，而黄歇守舍，常为谢病。
+度太子已远，秦不能追，歇乃自言秦昭王曰： 楚太子已归，出远矣。
+歇当死，原赐死。
+昭王大怒，欲听其自杀也。
+应侯曰： 歇为人臣，出身以徇其主，太子立，必用歇，故不如无罪而归之，以亲楚。
+秦因遣黄歇。
+歇至楚三月，楚顷襄王卒，太子完立，是为考烈王。
+考烈王元年，以黄歇为相，封为春申君，赐淮北地十二县。
+後十五岁，黄歇言之楚王曰： 淮北地边齐，其事急，请以为郡便。
+因并献淮北十二县。请封於江东。
+考烈王许之。
+春申君因城故吴墟，以自为都邑。
+春申君既相楚，是时齐有孟尝君，赵有平原君，魏有信陵君，方争下士，招致宾客，以相倾夺，辅国持权。
+春申君为楚相四年，秦破赵之长平军四十馀万。
+五年，围邯郸。
+邯郸告急於楚，楚使春申君将兵往救之，秦兵亦去，春申君归。
+春申君相楚八年，为楚北伐灭鲁，以荀卿为兰陵令。
+当是时，楚复彊。
+赵平原君使人於春申君，春申君舍之於上舍。
+赵使欲夸楚，为玳瑁簪，刀剑室以珠玉饰之，请命春申君客。春申君客三千馀人，其上客皆蹑珠履以见赵使，赵使大惭。
+translation: 
+I hope you, Xiangguo, will consider this matter carefully.
+Ying Hou Fan Ju reported what Huang Xie said to the King of Qin.
+The King of Qin said: Let the teacher of the Prince of Chu go back to inquire about King Chu's condition first, and then make a plan after he comes back.
+Huang Xie made plans for the prince of Chu and said: The purpose of Qin detaining the prince is to obtain benefits.
+Now the prince is powerless to benefit Qin. I am very worried about you.
+Moreover, Yang Wenjun's two sons are both in the Chu Kingdom. If the king unfortunately dies and the prince is not in the Chu Kingdom, Yang Wenjun's son will definitely be his successor, and the prince will not be able to enjoy the country.
+It is better to flee Qin and go out with the envoy; please let me stay and bear the consequences of this with my life.
+The Prince of Chu changed his clothes and pretended to be the driver of an envoy from the Chu State to get out of the customs. Huang Xie stayed in the guest house, always refusing to receive guests on the pretext that the Prince was ill.
+It was estimated that the prince had gone far and Qin could not catch up, so Huang Xie took the initiative to report to King Zhao of Qin: The prince of Chu has gone back and is far away.
+I deserve death, please grant me death.
+King Zhao was very angry and wanted to allow Huang Xie to commit suicide.
+Ying Hou said: "As a minister, Huang Xie sacrificed his life for his master. If the prince is established as the king of Chu, he will definitely use Huang Xie in an important position. Therefore, it is better to spare him the death penalty and let him return to his country to show his goodwill towards the Chu country."
+The King of Qin listened to the advice of Marquis Ying and sent Huang Xie back to his country.
+Three months after Huang Xie returned to Chu, King Qingxiang of Chu passed away, and Prince Wan was appointed King of Chu. This was King Kaolie.
+In the first year of King Kaolie's reign, Huang Xie was appointed prime minister, granted the title Lord Chunshen, and was rewarded with twelve counties in Huaibei.
+Fifteen years later, Huang Xie proposed to the King of Chu: The area north of the Huaihe River is close to the State of Qi. The situation there is urgent. Please classify this area as a county to make governance more convenient.
+At the same time, he offered twelve counties in Huaibei and asked for the seal to be transferred to Jiangdong.
+King Kaolie agreed to his request.
+Chun Shenjun built cities in the old capital of Wu and made them his own capital.
+Chun Shenjun has already served as the prime minister of the Chu State. At this time, Qi State has Mengchang Lord, Zhao State has Pingyuan Lord, and Wei State has Xinling Lord. They are all vying to treat virtuous corporals, attract guests, compete with each other for wise men, and assist the king in controlling the state affairs.
+In the fourth year when Chun Shenjun served as the prime minister of Chu, Qin defeated and killed more than 400,000 Zhao Changping garrison.
+In the fifth year, Handan, the capital of Zhao State, was surrounded.
+Handan asked for help from the Chu State. Chu State sent Chun Shenjun to lead troops to rescue Handan. After the Qin army retreated, Chun Shenjun led his troops back to Chu State.
+In the eighth year when Chun Shenjun served as the prime minister of Chu State, he marched northward for Chu State, destroyed Lu State, and appointed Xunqing as the magistrate of Lanling County.
+At this time, the Chu State became prosperous and powerful again.
+Once, Lord Pingyuan of the State of Zhao sent envoys to visit Lord Chunshen, and Lord Chunshen arranged for them to stay in a first-class guesthouse.
+The envoy of the State of Zhao wanted to show off the wealth of the State of Zhao to the State of Chu, so he specially put a tortoise shell hairpin in his crown, showed off his sword scabbard decorated with pearls and jade, and asked to invite the guests of Lord Chun Shen to meet him. The distinguished guests of Lord Chun Shen all came to see the envoy of the State of Zhao wearing shoes made of pearls, which made the envoy of the State of Zhao feel ashamed.
+
+summary:
+summary line 2: As prime minister, Chun Shenjun governed effectively, moving his fief to Jiangdong and building a capital in the old Wu city. He competed with other lords in attracting talented guests. In his fifth year, he led Chu forces to relieve the siege of Handan, Zhao's capital. In his eighth year, he conquered Lu for Chu, restoring Chu's strength. However, in his twenty-second year, a six-state alliance against Qin, led by Chu, was defeated at Hangu Pass, leading to his alienation by King Kaolie.
+
+Chunk 5: 
+original: 
+今妾自知有身矣，而人莫知。
+妾幸君未久，诚以君之重而进妾於楚王，王必幸妾；妾赖天有子男，则是君之子为王也，楚国尽可得，孰与身临不测之罪乎？
+春申君大然之，乃出李园女弟，谨舍而言之楚王。
+楚王召入幸之，遂生子男，立为太子，以李园女弟为王后。
+楚王贵李园，园用事。
+李园既入其女弟，立为王后，子为太子，恐春申君语泄而益骄，阴养死士，欲杀春申君以灭口，而国人颇有知之者。
+春申君相二十五年，楚考烈王病。
+硃英谓春申君曰： 世有毋望之福，又有毋望之祸。
+今君处毋望之世，事毋望之主，安可以无毋望之人乎？
+春申君曰： 何谓毋望之福？
+曰： 君相楚二十馀年矣，虽名相国，实楚王也。
+今楚王病，旦暮且卒，而君相少主，因而代立当国，如伊尹、周公，王长而反政，不即遂南面称孤而有楚国？
+此所谓毋望之福也。
+春申君曰： 何谓毋望之祸？
+曰： 李园不治国而君之仇也，不为兵而养死士之日久矣，楚王卒，李园必先入据权而杀君以灭口。
+此所谓毋望之祸也。
+春申君曰： 何谓毋望之人？
+对曰： 君置臣郎中，楚王卒，李园必先入，臣为君杀李园。
+此所谓毋望之人也。
+春申君曰： 足下置之，李园，弱人也，仆又善之，且又何至此！
+硃英知言不用，恐祸及身，乃亡去。
+後十七日，楚考烈王卒，李园果先入，伏死士於棘门之内。
+春申君入棘门，园死士侠刺春申君，斩其头，投之棘门外。
+於是遂使吏尽灭春申君之家。
+而李园女弟初幸春申君有身而入之王所生子者遂立，是为楚幽王。
+是岁也，秦始皇帝立九年矣。
+translation: 
+Now I know I'm pregnant, but no one else knows.
+I have only been favored by you for a short time. If you offer me to the King of Chu based on your noble status, the King of Chu will definitely favor me. I rely on God's blessing to give birth to a son. This will mean that your son will become the King of Chu, and the whole country of Chu will be yours. How is this compared with the unexpected disaster you suffer?
+Chun Shenjun thought that what he said was very right, so he sent Li Yuan's sister away from home, arranged her in a strict residence, and then told the King of Chu that he wanted to donate Li Yuan's sister.
+The King of Chu summoned Li Yuan's sister into the palace and favored her very much. He gave birth to a son, made him a prince, and made Li Yuan's sister a queen.
+The King of Chu valued Li Yuan, so Li Yuan participated in the government affairs.
+Li Yuan sent his sister to the palace, made her a queen, and made her son a prince. Worried that Lord Chun Shen would reveal his secret and become more arrogant, he secretly raised an assassin. He planned to kill Lord Chun Shen to silence him, and some people in the capital knew about it.
+In the twenty-fifth year of Chunshenjun's tenure as prime minister, King Kaolie of Chu fell seriously ill.
+Zhu Ying said to Chun Shenjun: There are unexpected blessings and unexpected disasters in the world.
+Now that you are in a world where life and death are uncertain, and you serve a moody monarch, how can you not have people come unexpectedly?
+Chun Shenjun asked: What is unexpected blessing?
+Zhu Ying replied: You have been the prime minister of Chu for more than 20 years. Although you are the prime minister in name, you are actually the king of Chu.
+Now the king of Chu is seriously ill and is about to die. You assist the young king and control the state affairs on his behalf, just like Yi Yin and Zhou Gong. When the king grows up and then hand over the power to him, doesn't it mean that you go south to claim the king and occupy the Chu country?
+This is what is called unexpected blessings.
+Chun Shenjun asked again: What is an unexpected disaster?
+Zhu Ying replied: Li Yuan is your enemy if he is not in charge of national affairs. He has been raising assassins for a long time without caring about the military. As soon as the King of Chu is born, Li Yuan will definitely enter the palace first to seize power and kill you to silence you.
+This is what is called an unexpected disaster.
+Chun Shenjun then asked: What do you mean by someone who comes unexpectedly?
+Zhu Ying replied: If you arrange for me to be the doctor, when the King of Chu is born, Li Yuan will be the first to enter the palace. I will kill Li Yuan for you.
+This is what is called an unexpected person.
+After hearing this, Chun Shenjun said: "You have to give up this plan." Li Yuan is a weak person, and I am very friendly to him. Besides, how could he get to this point!
+Zhu Ying knew that his suggestions were not adopted, and he was afraid that disaster would affect him, so he ran away.
+Seventeen days later, King Chu Kaolie passed away. As expected, Li Yuan entered the palace first and ambushed the assassin at Thorny Gate.
+When Chun Shenjun entered the Thorny Gate, the assassins raised by Li Yuan caught him from both sides and killed him. He cut off his head and threw it outside the Thorny Gate.
+At the same time, he sent officials to kill everyone in Chunshenjun's family.
+Li Yuan's sister was favored by Lord Chun Shen and became pregnant. Then she entered the palace and was favored by Queen Chu Kaolie. The son born to her was established as King of Chu. This was King Chu You.
+This year, Qin Shihuang has been on the throne for nine years.
+
+summary:
+summary line 3: Chun Shenjun later became involved with Li Yuan, who presented his pregnant sister to him. She convinced Chun Shenjun to offer her to the childless King Kaolie, ensuring his son would become king. The king favored her, and she bore a son, who became prince. Li Yuan, fearing Chun Shenjun would reveal the secret, secretly raised assassins. When King Kaolie fell ill, a guest named Zhu Ying warned Chun Shenjun of Li Yuan's plot, but he dismissed it. Seventeen days after the king's death, Li Yuan ambushed and killed Chun Shenjun at the palace gate, then massacred his family. Li Yuan's sister's son became King You of Chu.
+
+Chunk 5: 
+original: 
+今妾自知有身矣，而人莫知。
+妾幸君未久，诚以君之重而进妾於楚王，王必幸妾；妾赖天有子男，则是君之子为王也，楚国尽可得，孰与身临不测之罪乎？
+春申君大然之，乃出李园女弟，谨舍而言之楚王。
+楚王召入幸之，遂生子男，立为太子，以李园女弟为王后。
+楚王贵李园，园用事。
+李园既入其女弟，立为王后，子为太子，恐春申君语泄而益骄，阴养死士，欲杀春申君以灭口，而国人颇有知之者。
+春申君相二十五年，楚考烈王病。
+硃英谓春申君曰： 世有毋望之福，又有毋望之祸。
+今君处毋望之世，事毋望之主，安可以无毋望之人乎？
+春申君曰： 何谓毋望之福？
+曰： 君相楚二十馀年矣，虽名相国，实楚王也。
+今楚王病，旦暮且卒，而君相少主，因而代立当国，如伊尹、周公，王长而反政，不即遂南面称孤而有楚国？
+此所谓毋望之福也。
+春申君曰： 何谓毋望之祸？
+曰： 李园不治国而君之仇也，不为兵而养死士之日久矣，楚王卒，李园必先入据权而杀君以灭口。
+此所谓毋望之祸也。
+春申君曰： 何谓毋望之人？
+对曰： 君置臣郎中，楚王卒，李园必先入，臣为君杀李园。
+此所谓毋望之人也。
+春申君曰： 足下置之，李园，弱人也，仆又善之，且又何至此！
+硃英知言不用，恐祸及身，乃亡去。
+後十七日，楚考烈王卒，李园果先入，伏死士於棘门之内。
+春申君入棘门，园死士侠刺春申君，斩其头，投之棘门外。
+於是遂使吏尽灭春申君之家。
+而李园女弟初幸春申君有身而入之王所生子者遂立，是为楚幽王。
+是岁也，秦始皇帝立九年矣。
+translation: 
+Now I know I'm pregnant, but no one else knows.
+I have only been favored by you for a short time. If you offer me to the King of Chu based on your noble status, the King of Chu will definitely favor me. I rely on God's blessing to give birth to a son. This will mean that your son will become the King of Chu, and the whole country of Chu will be yours. How is this compared with the unexpected disaster you suffer?
+Chun Shenjun thought that what he said was very right, so he sent Li Yuan's sister away from home, arranged her in a strict residence, and then told the King of Chu that he wanted to donate Li Yuan's sister.
+The King of Chu summoned Li Yuan's sister into the palace and favored her very much. He gave birth to a son, made him a prince, and made Li Yuan's sister a queen.
+The King of Chu valued Li Yuan, so Li Yuan participated in the government affairs.
+Li Yuan sent his sister to the palace, made her a queen, and made her son a prince. Worried that Lord Chun Shen would reveal his secret and become more arrogant, he secretly raised an assassin. He planned to kill Lord Chun Shen to silence him, and some people in the capital knew about it.
+In the twenty-fifth year of Chunshenjun's tenure as prime minister, King Kaolie of Chu fell seriously ill.
+Zhu Ying said to Chun Shenjun: There are unexpected blessings and unexpected disasters in the world.
+Now that you are in a world where life and death are uncertain, and you serve a moody monarch, how can you not have people come unexpectedly?
+Chun Shenjun asked: What is unexpected blessing?
+Zhu Ying replied: You have been the prime minister of Chu for more than 20 years. Although you are the prime minister in name, you are actually the king of Chu.
+Now the king of Chu is seriously ill and is about to die. You assist the young king and control the state affairs on his behalf, just like Yi Yin and Zhou Gong. When the king grows up and then hand over the power to him, doesn't it mean that you go south to claim the king and occupy the Chu country?
+This is what is called unexpected blessings.
+Chun Shenjun asked again: What is an unexpected disaster?
+Zhu Ying replied: Li Yuan is your enemy if he is not in charge of national affairs. He has been raising assassins for a long time without caring about the military. As soon as the King of Chu is born, Li Yuan will definitely enter the palace first to seize power and kill you to silence you.
+This is what is called an unexpected disaster.
+Chun Shenjun then asked: What do you mean by someone who comes unexpectedly?
+Zhu Ying replied: If you arrange for me to be the doctor, when the King of Chu is born, Li Yuan will be the first to enter the palace. I will kill Li Yuan for you.
+This is what is called an unexpected person.
+After hearing this, Chun Shenjun said: "You have to give up this plan." Li Yuan is a weak person, and I am very friendly to him. Besides, how could he get to this point!
+Zhu Ying knew that his suggestions were not adopted, and he was afraid that disaster would affect him, so he ran away.
+Seventeen days later, King Chu Kaolie passed away. As expected, Li Yuan entered the palace first and ambushed the assassin at Thorny Gate.
+When Chun Shenjun entered the Thorny Gate, the assassins raised by Li Yuan caught him from both sides and killed him. He cut off his head and threw it outside the Thorny Gate.
+At the same time, he sent officials to kill everyone in Chunshenjun's family.
+Li Yuan's sister was favored by Lord Chun Shen and became pregnant. Then she entered the palace and was favored by Queen Chu Kaolie. The son born to her was established as King of Chu. This was King Chu You.
+This year, Qin Shihuang has been on the throne for nine years.
+
+summary:
+summary line 4: The historian comments that Chun Shenjun's early wisdom in persuading Qin and risking his life for the prince was admirable, but he later fell victim to Li Yuan's schemes, failing to act on Zhu Ying's advice, which led to his downfall.
+

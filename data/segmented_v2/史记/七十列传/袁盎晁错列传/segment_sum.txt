@@ -1,0 +1,352 @@
+Summary uses chunk [0, 1, 3, 4, 5, 6]
+
+Chunk 0: 
+original: 
+袁盎者，楚人也，字丝。
+父故为群盗，徙处安陵。
+高后时，盎尝为吕禄舍人。
+及孝文帝即位，盎兄哙任盎为中郎。
+绛侯为丞相，朝罢趋出，意得甚。
+上礼之恭，常自送之。
+袁盎进曰： 陛下以丞相何如人？
+上曰： 社稷臣。
+盎曰： 绛侯所谓功臣，非社稷臣，社稷臣主在与在，主亡与亡。
+方吕后时，诸吕用事，擅相王，刘氏不绝如带。
+是时绛侯为太尉，主兵柄，弗能正。
+吕后崩，大臣相与共畔诸吕，太尉主兵，適会其成功，所谓功臣，非社稷臣。
+丞相如有骄主色。陛下谦让，臣主失礼，窃为陛下不取也。
+后朝，上益庄，丞相益畏。
+已而绛侯望袁盎曰： 吾与而兄善，今兒廷毁我！
+盎遂不谢。
+及绛侯免相之国，国人上书告以为反，徵系清室，宗室诸公莫敢为言，唯袁盎明绛侯无罪。
+绛侯得释，盎颇有力。
+绛侯乃大与盎结交。
+淮南厉王朝，杀辟阳侯，居处骄甚。
+袁盎谏曰： 诸侯大骄必生患，可適削地。
+上弗用。淮南王益横。
+及棘蒲侯柴武太子谋反事觉，治，连淮南王，淮南王徵，上因迁之蜀，轞车传送。
+袁盎时为中郎将，乃谏曰： 陛下素骄淮南王，弗稍禁，以至此，今又暴摧折之。
+淮南王为人刚，如有遇雾露行道死，陛下竟为以天下之大弗能容，有杀弟之名，柰何？
+上弗听，遂行之。
+淮南王至雍，病死，闻，上辍食，哭甚哀。
+盎入，顿首请罪。
+translation: 
+Yuan Ang is from Chu, and his courtesy name is Si.
+His father once worked with bandits and later moved to Anling.
+During the period of Empress Lu, Yuan An once served as Lu Lu's retainer.
+When Emperor Wen of Han came to the throne, Yuan An's brother Yuan Kuai recommended him to be the lieutenant.
+Jianghou Zhou Bo became the prime minister. After the pilgrimage, he hurried out of the court, very satisfied with his ambitions.
+The emperor was very respectful to him and often sent him off in person.
+Yuan Ang remonstrated and said: What kind of person do you think Prime Minister Jianghou is?
+The emperor said: He is an important minister of the country.
+Yuan An said: Jianghou is what is usually called a hero, not an important minister of the country. The important ministers of the country can live and die with the emperor.
+When Empress Lu was in power, the Lu family was in power and granted the title of king without authorization. As a result, the Liu family's world was barely held together like a thin ribbon and was almost severed.
+During this period, Jianghou Zhou Bo was the Taiwei and held military power, but could not correct the collapse of the Han Dynasty.
+After Empress Lu died, the ministers jointly opposed the Lu family. The Taiwei took control of the military and happened to have the opportunity to succeed, so he was what is usually called a hero, not an important official of the country.
+If the Prime Minister shows a proud look towards the Emperor, but His Majesty humbly gives in, both the minister and the Lord are violating etiquette. I privately think that Your Majesty should not adopt this attitude.
+Later in the court meeting, the emperor gradually became more majestic, and the prime minister gradually became more awe-inspiring.
+Soon after, the prime minister resented Yuan Ang and said: I have a relationship with your brother Yuan Kuai, but now you are slandering me in the court!
+Yuan An also did not apologize to him.
+When Jianghou was dismissed from his position as prime minister and returned to his feudal state, someone in the feudal state wrote a letter accusing him of treason, so Jianghou was summoned to Beijing and imprisoned in prison. Some princes in the royal family did not dare to speak for him. Only Yuan Ang declared that Jianghou was not guilty.
+Jianghou was released, and Yuan An made a lot of efforts.
+Jianghou then made a heart-to-heart friendship with Yuan An.
+When Liu Chang, the king of Huainan, came to Beijing to see him, he killed Piyanghou. He was also quite arrogant in his dealings with others.
+Yuan Ang advised the emperor: If the princes are too arrogant, disaster will inevitably occur. Their fiefdoms can be appropriately reduced.
+The emperor did not adopt his opinion, and King Huainan became even more arrogant.
+When it was discovered that the prince of Chaiwu, the Marquis of Jipu, was preparing to rebel, he was investigated and punished. This incident implicated King Huainan, who was recruited, and the emperor demoted him to Shu and transported him in a prison car.
+Yuan An was serving as Zhonglang General at that time, so he advised him: Your Majesty has always been arrogant and indulgent to the King of Huainan without any restrictions, which has led him to the current situation, and now he has suddenly defeated him.
+The King of Huainan is an upright man. If he encounters a cold wind and dies on the way, his Majesty will be thought that the world is too big to tolerate him, and he will be infamous for killing his younger brother. What will he do then?
+The emperor refused to listen and finally did so.
+King Huainan died of illness when he arrived at Yongdi. When the news came, the emperor neither ate nor drank, and cried very sadly.
+Yuan An entered and kowtowed to apologize.
+
+summary:
+summary line 0: Yuan Ang, courtesy name Si, was from Chu and later moved to Anling. He served as a retainer under Lü Lu during Empress Lü’s reign and was recommended as a lieutenant by his brother after Emperor Wen ascended. Yuan Ang remonstrated with Emperor Wen about his excessive respect for Prime Minister Zhou Bo, arguing that Zhou Bo was a “hero” rather than a true “important minister” for failing to prevent the Lü clan’s usurpation. The emperor heeded his advice, and Zhou Bo later resented Yuan Ang but reconciled after Yuan Ang defended him when Zhou Bo was imprisoned for treason.
+
+Chunk 1: 
+original: 
+上曰： 以不用公言至此。
+盎曰： 上自宽，此往事，岂可悔哉！
+且陛下有高世之行者三，此不足以毁名。
+上曰： 吾高世行三者何事？
+盎曰： 陛下居代时，太后尝病，三年，陛下不交睫，不解衣，汤药非陛下口所尝弗进。
+夫曾参以布衣犹难之，今陛下亲以王者脩之，过曾参孝远矣。
+夫诸吕用事，大臣专制，然陛下从代乘六传驰不测之渊，虽贲育之勇不及陛下。
+陛下至代邸，西向让天子位者再，南面让天子位者三。
+夫许由一让，而陛下五以天下让，过许由四矣。
+且陛下迁淮南王，欲以苦其志，使改过，有司卫不谨，故病死。
+於是上乃解，曰： 将柰何？
+盎曰： 淮南王有三子，唯在陛下耳。
+於是文帝立其三子皆为王。
+盎由此名重朝廷。
+袁盎常引大体慷慨。
+宦者赵同以数幸，常害袁盎，袁盎患之。
+盎兄子种为常侍骑，持节夹乘，说盎曰： 君与斗，廷辱之，使其毁不用。
+孝文帝出，赵同参乘，袁盎伏车前曰： 臣闻天子所与共六尺舆者，皆天下豪英。
+今汉虽乏人，陛下独奈何与刀锯馀人载！
+於是上笑，下赵同。赵同泣下车。
+文帝从霸陵上，欲西驰下峻阪。
+袁盎骑，并车揽辔。
+上曰： 将军怯邪？
+盎曰： 臣闻千金之子坐不垂堂，百金之子不骑衡，圣主不乘危而徼幸。
+今陛下骋六騑，驰下峻山，如有马惊车败，陛下纵自轻，柰高庙、太后何？
+上乃止。
+上幸上林，皇后、慎夫人从。
+translation: 
+The emperor said: Because your opinions were not adopted, this result was reached.
+Yuan An said: Your Majesty, please relax yourself. This is already in the past. Can you still regret it?
+Besides, Your Majesty has three behaviors that are above the world. This incident is not enough to ruin your reputation.
+The emperor said: What are the three behaviors that make me higher than others?
+Yuan An said: When Your Majesty was living in Dai, the Queen Mother was ill. For three years, Your Majesty never closed his eyes or took off his clothes to sleep. Any decoction that His Majesty had not personally tasted was not allowed to be given to the Queen Mother.
+It was difficult for Zeng Shen to do this as a poor man, but now His Majesty has practiced it as a king, which is much better than Zeng Shen's filial piety.
+When Zhu Lu was in power, ministers acted arbitrarily, but Your Majesty rode six inferior horse-drawn carriages from Dai to the capital where disaster and fortune were unpredictable. Even brave men like Meng Ben and Xia Yu could not compare with Your Majesty.
+His Majesty arrived at Dai Guo's guest house in the capital. He resigned to the throne of emperor twice while facing west, and resigned to the throne of emperor three times while sitting facing south.
+Xu You resigned to the world only once, but His Majesty resigned to the world five times, which was more than Xu You's four times.
+Besides, Your Majesty demoted the King of Huainan to make him suffer some hardship and make him correct his mistakes. However, because the officials were not cautious in protecting him, he died of illness.
+Then the emperor felt relieved and said: What should we do in the future?
+Yuan Ang said, "The King of Huainan has three sons. It's just up to your Majesty's arrangement."
+So Emperor Wen made all three sons of King Huainan kings.
+As a result, Yuan Ang became famous in the court.
+Yuan An often praised righteousness and spoke impassionedly.
+Because the eunuch Zhao Tong was favored by the emperor more than once, he often secretly hurt Yuan Ang, which made Yuan Ang worried.
+Yuan An's nephew Yuan Zhong served as an attendant knight, guarding the emperor with talismans. Yuan Zhong persuaded Yuan Ang: "Fight with him and insult him in the court, so that his slanderous words will have no effect."
+Emperor Wen of the Han Dynasty went on a tour, and Zhao Tong accompanied him in the car. Yuan Ang lay in front of the car and said: I heard that the people who accompany the emperor on the tall chariot are all heroes in the world.
+Although the Han Dynasty lacks talents today, why does Your Majesty only want to ride in the same carriage with people who have been cut by swords and saws?
+So the emperor smiled and asked Zhao Tong to get off, and Zhao Tong got out of the car with tears in his eyes.
+Emperor Wen went up the mountain from Baling and planned to run down the steep slope in the west.
+Yuan An was riding a horse, leaning against the car and holding the horse's reins.
+The emperor said: Is the general afraid?
+Yuan An said: I have heard that people with rich families do not sit close to the eaves when they sit, and people with rich families do not lean on the railings of the balcony when standing. A wise monarch does not take chances when facing danger.
+Now Your Majesty lets the six horses of the driver gallop down the high slope. If the horses are frightened and the vehicle is damaged, even if Your Majesty looks down on yourself, how can you be worthy of the Emperor and the Queen Mother?
+The emperor finally stopped.
+The emperor arrived at Shanglin Garden, followed by Queen Dou and Mrs. Shen.
+
+summary:
+summary line 1: Yuan Ang advised against indulging Liu Chang, the King of Huainan, whose arrogance led to rebellion and exile. When the king died en route, Yuan Ang consoled the grieving emperor by citing his three virtuous acts: filial piety to his mother, bravery during the Lü crisis, and humility in refusing the throne. The emperor later made the king’s three sons rulers. Yuan Ang’s outspokenness caused friction with eunuch Zhao Tong, whom he publicly humiliated to prevent him from riding in the emperor’s carriage. He also dissuaded the emperor from reckless chariot racing and corrected seating arrangements that favored a concubine over the queen.
+
+Chunk 3: 
+original: 
+何也？
+则欲以致天下贤士大夫。
+上日闻所不闻，明所不知，日益圣智；君今自闭钳天下之口而日益愚。
+夫以圣主责愚相，君受祸不久矣。
+丞相乃再拜曰： 嘉鄙野人，乃不知，将军幸教。
+引入与坐，为上客。
+盎素不好晁错，晁错所居坐，盎去；盎坐，错亦去：两人未尝同堂语。
+及孝文帝崩，孝景帝即位，晁错为御史大夫，使吏案袁盎受吴王财物，抵罪，诏赦以为庶人。
+吴楚反，闻，晁错谓丞史曰： 夫袁盎多受吴王金钱，专为蔽匿，言不反。
+今果反，欲请治盎宜知计谋。
+丞史曰： 事未发，治之有绝。
+今兵西乡，治之何益！且袁盎不宜有谋。
+晁错犹与未决。
+人有告袁盎者，袁盎恐，夜见窦婴，为言吴所以反者，原至上前口对状。
+窦婴入言上，上乃召袁盎入见。
+晁错在前，及盎请辟人赐间，错去，固恨甚。
+袁盎具言吴所以反状，以错故，独急斩错以谢吴，吴兵乃可罢。
+其语具在吴事中。
+使袁盎为太常，窦婴为大将军。
+两人素相与善。
+逮吴反。诸陵长者长安中贤大夫争附两人，车随者日数百乘。
+及晁错已诛，袁盎以太常使吴。
+吴王欲使将，不肯。
+欲杀之，使一都尉以五百人围守盎军中。
+袁盎自其为吴相时，有从史尝盗爱盎侍兒，盎知之，弗泄，遇之如故。
+人有告从史，言 君知尔与侍者通 ，乃亡归。袁盎驱自追之，遂以侍者赐之，复为从史。
+translation: 
+What is this for?
+He wanted to use this method to attract the wise scholar-bureaucrats in the world.
+Every day the emperor hears things he has never heard before, understands truths he has never understood before, and becomes wiser and wiser day by day; now that you have closed the mouths of the people in the world, you are becoming more stupid day by day.
+If you use a wise monarch to supervise a foolish prime minister, the day when you will suffer disaster is not far away!
+The prime minister then bowed twice and said: I am a vulgar and vulgar person, but I am not smart. Fortunately, I have been taught by the general.
+Shen Tujia invited Yuan An into the inner room to sit with him and treated him as an honored guest.
+Yuan An had always disliked Chao Cuo. As long as Chao Cuo was around, Yuan An would leave. As long as Yuan An was around, Chao Cuo would also leave. The two never talked together.
+When Emperor Wen of the Han Dynasty passed away and Emperor Jing of the Han Dynasty succeeded to the throne, Chao Cuo became the imperial censor. He sent officials to investigate Yuan An's acceptance of Wu Wang Liu Bi's property and punish him according to the seriousness of the crime.
+The emperor issued an edict to demote Yuan An to a commoner. News of Wu Chu's rebellion reached the capital, and Chao Cuo told the Prime Minister: Yuan An received a lot of money from the King of Wu and specifically covered it for him, saying that he would not rebel.
+Now that the rebellion has become a fact, I plan to request Yuan Ang be punished. He must have known the plot of rebellion.
+The Prime Minister said: Punishing him before the matter is exposed may interrupt the rebellion conspiracy.
+Now that the rebels are marching westward, what is the benefit of punishing Yuan Ang! Besides, Yuan Ang shouldn't have any conspiracy.
+Chao Cuo hesitated.
+Someone told Yuan Ang about this. Yuan Ang was afraid and went to see Dou Ying overnight to explain to him the reasons for King Wu's rebellion, hoping to confront him personally in front of the emperor.
+Dou Ying went to the palace to report to the emperor, and the emperor summoned Yuan Ang to the palace to meet him.
+Chao Cuo was right in front of him. When Yuan An asked the emperor to meet him alone without others, Chao Cuo retreated, feeling very resentful.
+Yuan Ang explained in detail that the King of Wu rebelled because of Chao Cuo. Only by killing Chao Cuo immediately to apologize to the King of Wu could the Wu army stop.
+These words of his are all recorded in "The Biography of Wu Wangbi".
+The emperor appointed Yuan An as Taichang and Dou Ying as general.
+The two men have always been friends.
+When the King of Wu rebelled, the prestigious people living in the mausoleums and the wise officials in Chang'an City were vying to attach themselves to the two of them, and hundreds of cars followed behind them every day.
+After Chao Cuo was executed, Yuan Ang went to Wu as an envoy as Taichang.
+The King of Wu wanted him to serve as a general, but Yuan Ang refused.
+The king of Wu killed him and sent a captain to lead 500 men to surround Yuan Ang in the army.
+When Yuan An was the Prime Minister of the State of Wu, a Cong Shi secretly had an affair with Yuan An's maid. Yuan An knew about it but did not reveal it, and treated Cong Shi as before.
+Someone told Cong Shi that Yuan Ang knew about his affair with his maidservant, and Congshi fled home. Yuan Ang chased Congshi in his car, and gave him his maidservant, still calling him Congshi.
+
+summary:
+summary line 2: Transferred to Longxi, Yuan Ang won soldiers’ loyalty through kindness. As prime minister of Wu, he followed his nephew’s advice to avoid conflict by drinking daily and persuading the king not to rebel. He later confronted Prime Minister Shen Tujia for arrogance, warning that closing off advice would lead to disaster. Shen Tujia apologized and treated him as an honored guest.
+
+Chunk 4: 
+original: 
+及袁盎使吴见守，从史適为守盎校尉司马，乃悉以其装赍置二石醇醪，会天寒，士卒饥渴，饮酒醉，西南陬卒皆卧，司马夜引袁盎起，曰： 君可以去矣，吴王期旦日斩君。
+盎弗信，曰： 公何为者？
+司马曰： 臣故为从史盗君侍兒者。
+盎乃惊谢曰； 公幸有亲，吾不足以累公。
+司马曰： 君弟去，臣亦且亡，辟吾亲，君何患！
+乃以刀决张，道从醉卒隧出。
+司马与分背，袁盎解节毛怀之，杖，步行七八里，明，见梁骑，骑驰去，遂归报。
+吴楚已破，上更以元王子平陆侯礼为楚王，袁盎为楚相。
+尝上书有所言，不用。
+袁盎病免居家，与闾里浮沈，相随行，斗鸡走狗。
+雒阳剧孟尝过袁盎，盎善待之。
+安陵富人有谓盎曰： 吾闻剧孟博徒，将军何自通之？
+盎曰： 剧孟虽博徒，然母死，客送葬车千馀乘，此亦有过人者。
+且缓急人所有。
+夫一旦有急叩门，不以亲为解，不以存亡为辞，天下所望者，独季心、剧孟耳。
+今公常从数骑，一旦有缓急，宁足恃乎！
+骂富人，弗与通。
+诸公闻之，皆多袁盎。
+袁盎虽家居，景帝时时使人问筹策。
+梁王欲求为嗣，袁盎进说，其後语塞。梁王以此怨盎，曾使人刺盎。
+刺者至关中，问袁盎，诸君誉之皆不容口。
+乃见袁盎曰： 臣受梁王金来刺君，君长者，不忍刺君。
+然後刺君者十馀曹，备之！
+袁盎心不乐，家又多怪，乃之棓生所问占。
+还，梁刺客後曹辈果遮刺杀盎安陵郭门外。
+晁错者，颍川人也。
+学申商刑名於轵张恢先所，与雒阳宋孟及刘礼同师。
+translation: 
+When Yuan An was sent as an envoy to Wu and was besieged, Sima happened to be the captain who besieged Yuan An. Sima sold all the belongings he carried and used the money to buy two loads of strong-flavored wine. It happened to be cold and the besieging soldiers were hungry and thirsty. They drank too much wine and the soldiers guarding the southwest corner of the city were drunk. Sima Cheng led Yuan An up at night and said: You can go, the King of Wu expects to kill you tomorrow.
+Yuan Ang didn't believe it and said, "What do you do?"
+Sima said: I am the one who originally had an affair with your maid in the history.
+Yuan Ang then thanked him in surprise and said: "You are lucky to have your parents here, I can't let you get in trouble because of this."
+Sima said: Just leave. I will run away and hide my parents. Why should you worry?
+So he cut the tent of the military camp open with a knife and led Yuan Ang out of the road blocked by the drunken soldiers.
+Sima and Yuan Ang parted ways and went in opposite directions. Yuan Ang took off his knot and carried it in his arms. He leaned on his staff and walked for seven or eight miles. At dawn, he encountered Liang's cavalry and fled on horseback. Finally, he returned to the court to report.
+The Wu-Chu rebels had been defeated, and the emperor changed the title of Pingluhou Liu Li, the son of King Chu Yuan, to the king of Chu, and Yuan An became the prime minister of Chu.
+Yuan Ang once wrote a letter to make suggestions, but they were not accepted.
+Yuan Ang was exempted from official duties due to illness and lived at home, hanging out with the villagers and playing cockfighting and dog racing games with them.
+Ju Meng, a native of Luoyang, once visited Yuan An, who received him warmly.
+A rich man from Anling said to Yuan An: I heard that Ju Meng is a gambler. Why do you want to associate with him?
+Yuan An said: Although Ju Meng was a gambler, when his mother passed away, there were more than a thousand guest cars at the funeral. This was also because of his extraordinary qualities.
+Besides, everyone is in danger.
+When you are in danger or something urgent knocks on the door, you don't use the excuse of having your parents around to shirk it, and you don't have to refuse by not being at home because of something. The only people the world looks up to are Ji Xin and Ju Meng.
+Nowadays, you are often followed by several cavalrymen. If there is an emergency, can these people be relied upon?
+Yuan An scolded the rich man and stopped communicating with him.
+After everyone heard this, they all praised Yuan An.
+Although Yuan Ang stayed at home, Emperor Jing of the Han Dynasty often sent people to ask him about strategies.
+The King of Liang wanted to become the heir to Emperor Jing of the Han Dynasty, and Yuan An persuaded him. After that, the discussion stopped. The King of Liang resented Yuan An and once sent someone to assassinate Yuan An.
+The assassin came to Guanzhong and asked what kind of person Yuan An was. Everyone was full of praise.
+The assassin then went to see Yuan An and said: I accepted the money from King Liang to assassinate you. You are a generous man and I cannot bear to assassinate you.
+But there will be more than ten groups of people coming to assassinate you in the future. I hope you will be more prepared!
+Yuan Ang felt very unhappy, and many strange things happened one after another at home, so he went to Mr. Piao to ask for fortune telling.
+When returning home, the assassins from Liang Kingdom who were sent later stopped Yuan An outside the outer city gate of Anling and assassinated him.
+Chao Cuo was from Yingchuan.
+I once studied the punishment naming theories of Shen Buhai and Shang Yang from Mr. Zhang Hui of Zhi County, and I was classmates with Song Meng and Liu Li from Luoyang.
+
+summary:
+summary line 3: Yuan Ang clashed with Chao Cuo, who investigated him for accepting bribes from the King of Wu, leading to his demotion. When Wu rebelled, Yuan Ang blamed Chao Cuo and urged his execution to appease the rebels. After Chao Cuo’s death, Yuan Ang was sent as an envoy to Wu but was besieged. A former subordinate, whom Yuan Ang had forgiven for an affair with his maid, helped him escape. Yuan Ang later served as prime minister of Chu but retired due to illness, living humbly and befriending gambler Ju Meng despite criticism. He opposed making the King of Liang the emperor’s heir, prompting assassination attempts. Warned by an assassin who spared him, Yuan Ang was eventually killed by Liang’s agents outside Anling.
+
+Chunk 5: 
+original: 
+以文学为太常掌故。
+错为人穞直刻深。
+孝文帝时，天下无治尚书者，独闻济南伏生故秦博士，治尚书，年九十馀，老不可徵，乃诏太常使人往受之。
+太常遣错受尚书伏生所。
+还，因上便宜事，以书称说。
+诏以为太子舍人、门大夫、家令。
+以其辩得幸太子，太子家号曰 智囊 。
+数上书孝文时，言削诸侯事，及法令可更定者。
+书数十上，孝文不听，然奇其材，迁为中大夫。
+当是时，太子善错计策，袁盎诸大功臣多不好错。
+景帝即位，以错为内史。
+错常数请间言事，辄听，宠幸倾九卿，法令多所更定。
+丞相申屠嘉心弗便，力未有以伤。
+内史府居太上庙壖中，门东出，不便，错乃穿两门南出，凿庙壖垣。丞相嘉闻，大怒，欲因此过为奏请诛错。错闻之，即夜请间，具为上言之。丞相奏事，因言错擅凿庙垣为门，请下廷尉诛。上曰： 此非庙垣，乃壖中垣，不致於法。
+丞相谢。
+罢朝，怒谓长史曰： 吾当先斩以闻，乃先请，为兒所卖，固误。
+丞相遂发病死。错以此愈贵。
+迁为御史大夫，请诸侯之罪过，削其地，收其枝郡。
+奏上，上令公卿列侯宗室集议，莫敢难，独窦婴争之，由此与错有卻。
+错所更令三十章，诸侯皆諠譁疾晁错。
+错父闻之，从颍川来，谓错曰： 上初即位，公为政用事，侵削诸侯，别疏人骨肉，人口议多怨公者，何也？
+晁错曰： 固也。不如此，天子不尊，宗庙不安。
+错父曰： 刘氏安矣，而晁氏危矣，吾去公归矣！
+translation: 
+With his proficiency in classics, he served as Taichang's anecdote.
+Chao Cuo was an upright and severe man.
+During the reign of Emperor Wen of the Han Dynasty, there was no one in the world who studied "Shangshu". I only heard that Mr. Fu from Jinan was a doctor from the original Qin Dynasty and had studied "Shangshu". He was too old to answer the call, so Emperor Wen ordered Taichang to send people to study with him.
+Taichang sent Chao Cuo to Mr. Fu to study Shangshu.
+After he came back from his studies, he took the opportunity to report to the emperor things that benefited the country and the people, and quoted and explained "Shang Shu".
+Emperor Wen of the Han Dynasty issued an edict and appointed Chao Cuo as the prince's family minister, family official, and prince's family magistrate.
+Chao Cuo won the favor of the prince with his eloquence, and the prince's family called him "the wise man".
+During the reign of Emperor Wen of the Han Dynasty, Chao Cuo wrote many times about reducing the power of the princes and amending the laws.
+After dozens of petitions, Emperor Wen of the Han Dynasty did not accept them, but he believed that he had unique talents and was promoted to a middle doctor.
+At that time, the prince praised Chao Cuo's strategy, but Yuan Ang and most of the other great heroes did not like Chao Cuo.
+After Emperor Jing of the Han Dynasty succeeded to the throne, he appointed Chao Cuo as his internal historian.
+Chao Cuo repeatedly requested the emperor to discuss political affairs with him alone. Emperor Jing always obeyed and favored him more than Jiu Qing. Chao Cuo revised many laws.
+Prime Minister Shen Tujia was dissatisfied, but did not have enough power to harm him.
+I plan to write a memorial about Chao Cuo's fault this time and request that Chao Cuo be executed. Chao Cuo heard the news and asked to go to the emperor alone that night and explained the matter to the emperor in detail. Prime Minister Shen Tujia went to court and took the opportunity to report Chao Cuo for cutting open the wall of Taishang Temple to make a door without permission, and asked the emperor to hand him over to the Tingwei for execution. The emperor said: The wall that Chao Cuo built was not the wall of Taishang Temple, but the wall on the open space outside the temple, so that it would not violate the law.
+The Prime Minister apologized.
+After leaving the court, he angrily said to Chang Shi: I should have killed him first and then reported it to the emperor, but instead I reported him first and was betrayed by this guy. It was a big mistake.
+The prime minister finally fell ill and died, making Chao Cuo even more prominent.
+Chao Cuo was promoted to the imperial censor, and requested that the feudal lords' fiefdoms be reduced accordingly for their crimes, and the counties and cities on the borders of each vassal state be recovered.
+After the memorial was submitted, the emperor ordered the ministers, princes and royal family to discuss it together. No one dared to criticize Chao Cuo's suggestion. Only Dou Ying argued with him, so there was a gap between him and Chao Cuo.
+The decree revised by Chao Cuo had thirty chapters, and the princes all shouted against it and hated Chao Cuo.
+When Chao Cuo's father heard the news, he came from Yingchuan and said to Chao Cuo: The emperor has just succeeded to the throne, and you have taken power, infringing and weakening the power of the princes, alienating other people's flesh and blood, and people are talking and resenting you. Why do you do this?
+Chao Cuo said: Things should be like this. Otherwise, the emperor will not be respected and the country will not be peaceful.
+Chao Cuo's father then said: If this continues, the Liu family will be at peace, but our Chao family will be in danger. I will leave you and go back.
+
+summary:
+summary line 4: Chao Cuo, from Yingchuan, studied Legalist doctrines and Shangshu under Master Fu. He gained favor as a prince’s tutor during Emperor Wen’s reign, advocating for reducing princely power. Emperor Jing promoted him, and he revised laws, angering nobles. His father warned him of danger but Chao Cuo insisted on centralizing authority. The Wu-Chu rebellion used his execution as a pretext. After his death, Deng Gong argued that Chao Cuo’s policies were for the empire’s benefit, and Emperor Jing regretted the execution. Deng Gong later became a high official but retired.
+
+Chunk 6: 
+original: 
+遂饮药死，曰： 吾不忍见祸及吾身。
+死十馀日，吴楚七国果反，以诛错为名。
+及窦婴、袁盎进说，上令晁错衣朝衣斩东市。
+晁错已死，谒者仆射邓公为校尉，击吴楚军为将。
+还，上书言军事，谒见上。
+上问曰： 道军所来，闻晁错死，吴楚罢不？
+邓公曰： 吴王为反数十年矣，发怒削地，以诛错为名，其意非在错也。
+且臣恐天下之士噤口，不敢复言也！
+上曰： 何哉？
+邓公曰： 夫晁错患诸侯彊大不可制，故请削地以尊京师，万世之利也。
+计画始行，卒受大戮，内杜忠臣之口，外为诸侯报仇，臣窃为陛下不取也。
+於是景帝默然良久，曰： 公言善，吾亦恨之。
+乃拜邓公为城阳中尉。
+邓公，成固人也，多奇计。
+建元中，上招贤良，公卿言邓公，时邓公免，起家为九卿。
+一年，复谢病免归。其子章以脩黄老言显於诸公间。
+太史公曰：袁盎虽不好学，亦善傅会，仁心为质，引义慷慨。
+遭孝文初立，资適逢世。
+时以变易，及吴楚一说，说虽行哉，然复不遂。
+好声矜贤，竟以名败。
+晁错为家令时，数言事不用；後擅权，多所变更。
+诸侯发难，不急匡救，欲报私雠，反以亡躯。
+语曰 变古乱常，不死则亡 ，岂错等谓邪！
+translation: 
+He took poison and died. Before he died, he said: I can't bear to see disaster involving myself.
+Ten days after Chao Cuo's father died, the seven kingdoms of Wu and Chu rebelled, in the name of killing Chao Cuo.
+When Dou Ying and Yuan Ang came forward, the emperor ordered Chao Cuo to wear court clothes and execute him in Dongshi.
+After the death of Chao Cuo, Duke Deng of Yezhe Pushe served as a school captain. When he attacked Wu Chu's army, he served as a general.
+After returning to the capital, he wrote a letter reporting the military situation and went to see the emperor.
+The emperor asked: "You came from the army and heard that Chao Cuo was dead. Did Wu Chu's army retreat?"
+Deng Gong said: The King of Wu has been deliberately rebellious for decades. He was angry because you reduced his fiefdom, so in the name of killing Chao Cuo, his original intention was not Chao Cuo.
+Besides, I'm worried that all the scholars in the world will shut up and never dare to speak out again.
+The emperor said: Why?
+Deng Gong said: Chao Cuo was worried that the princes would become too powerful and could not be subdued, so he asked to reduce the fiefdoms of the princes in order to favor the court. This is the benefit of all generations.
+The plan had just started to be implemented, but he was actually killed, which blocked the mouths of loyal ministers internally, and avenged the princes externally. I privately think that it is not advisable for your Majesty to do this.
+At this time Emperor Jing was silent for a long time and said: "What you said is right. I also regret this."
+So Deng Gong was appointed as the lieutenant of Chengyang.
+Deng Gong was from Chenggu and had many unexpected ideas.
+During the Jianyuan period, the emperor recruited virtuous people, and the ministers all recommended Deng Gong. At that time, Deng Gong was dismissed from office, and he became the ninth minister from his leisure time at home.
+A year later, he resigned and returned home, claiming to be ill. His son Deng Zhang was very famous among the court ministers for studying the theories of Huangdi and Laozi.
+Tai Shigong said: Although Yuan Ang is not easy to learn, he is good at understanding and understanding. He takes benevolence as his essence and often praises righteousness and is impassioned.
+When Emperor Wen of the Han Dynasty had just ascended the throne, his talents happened to be at the right time, so they could be put to use.
+The current situation was constantly changing. When Wu Chu rebelled, he proposed to kill Chao Cuo.
+Although his suggestions were adopted and implemented, he was no longer used by the court.
+People who love fame and show off their talents end up getting into trouble because of their pursuit of fame. When Chao Cuo was making the prince's family orders, he made many suggestions but they were not adopted. Later, he took power and revised many laws of the country.
+The princes launched a rebellion, but Chao Cuo was not eager to correct the crisis, but wanted to avenge himself, which resulted in his death.
+As the saying goes: If you change the ancient laws and mess up the routine, you will either die or escape. Are you talking about people like Chao Cuo?
+
+summary:
+summary line 5: Tai Shigong commented that Yuan Ang, though unlearned, was benevolent and outspoken, but his fame-seeking led to downfall. Chao Cuo, despite his talents, failed to adapt and died due to his rigidity, as the saying goes: altering ancient laws brings ruin.
+

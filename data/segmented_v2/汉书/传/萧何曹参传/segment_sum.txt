@@ -1,0 +1,470 @@
+Summary uses chunk [0, 0, 1, 4, 5, 1]
+
+Chunk 0: 
+original: 
+萧何，沛人也。
+以文毋害为沛主吏掾。
+高祖为布衣时，数以吏事护高祖。
+高祖为亭长，常佑之。
+高祖以吏繇咸阳，吏皆送奉钱三，何独以五。
+秦御史监郡者，与从事辩之。何乃给泗水卒史事，第一。
+秦御史欲入言征何，何固请，得毋行。
+及高祖起为沛公，何尝为丞督事。
+乃遂就国，以何为丞相。
+何进韩信，汉王以为大将军，说汉王令引兵东定三秦。
+语在《信传》。何以丞相留收巴、蜀，填抚谕告，使给军食。
+汉二年，汉王与诸侯击楚，何守关中，侍太子，治栎阳。
+为令约束，立宗庙、社稷、宫室、县邑，辄奏，上可许以从事；即不及奏，辄以便宜施行，上来以闻。
+计户转漕给军，汉王数失军遁去，何常兴关中卒，辄补缺。上以此剸属任何关中事。
+汉三年，与项羽相距京、索间，上数使使劳苦丞相。
+鲍生谓何曰： 今王暴衣露盖，数劳苦君者，有疑君心。
+为君计，莫若遣君子孙昆弟能胜兵者悉诣军所，上益信君。
+于是何从其计，汉王大说。
+汉五年，已杀项羽，即皇帝位，论功行封，群臣争功，岁余不决。上以何功最盛，先封为酂侯，食邑八千户。
+功臣皆曰： 臣等身被坚执兵，多者百余战，少者数十合，攻城略地，大小各有差。
+今萧何未有汗马之劳，徒持文墨议论，不战，顾居臣等上，何也？
+上曰： 诸君知猎乎？ 曰： 知之。
+知猎狗乎？
+曰： 知之。
+上曰： 夫猎，追杀兽者狗也，而发纵指示兽处者人也。
+今诸君徒能走得曾耳，功狗也；至如萧何，发纵指示，功人也。
+且诸君独以身从我，多者三两人；萧何举宗数十人皆随我，功不可忘也！
+translation: 
+Xiao He was from Peidi.
+Because he could write documents without defects, he was appointed as an official of Pei Lord.
+When Gaozu was still a commoner, Xiao He supported Gaozu in official affairs many times.
+After Gaozu became the chief of the pavilion, he helped him again.
+Gaozu went to Xianyang to serve as an official. The minor officials all contributed 300 yuan to see Gaozu off, but only Xiao He contributed 500 yuan.
+Qin Yushi supervised the people of the county and was engaged in the inspection of his duties. Xiao He was awarded the post of official of Sishui County and was the best in the examination.
+Qin Yushi planned to report to the court to recruit Xiao He, but Xiao He refused and was able to stay.
+When Emperor Gaozu rose up and became Duke of Pei, Xiao He was appointed as the prime minister and governor.
+When Pei Gong arrived in Xianyang, all the generals rushed to the treasury where gold and silk were stored to divide them up.
+Only Xiao He went in first to collect the books on laws and regulations written by Qin Prime Minister and Censor. The reason why Pei Gong knew the fortresses in the world in detail, the number of households, the distribution of strength and weakness, and the people's hatred and sorrow was because Xiao He had received Qin's books.
+Xiao He took over the remaining Ba and Shu as prime minister, pacified the people in the territory, and asked them to provide food for the army.
+In the second year of the Han Dynasty, the king of Han and the princes attacked Chu. Xiao He stayed in Guanzhong, guarding the prince and governing Yueyang.
+Formulate laws and regulations, establish ancestral temples, communities, palaces, and counties. They should be reported regularly and implemented if the emperor agrees. If it is too late to report the matter, then implement it in an appropriate manner and tell the Emperor after he comes back.
+Calculating the number of households and transferring grain and wages to supply military supplies, the King of Han led his troops to escape many times. Xiao He often recruited soldiers from Guanzhong to supplement the front line. Therefore, the emperor specifically handed over Guanzhong affairs to Xiao He.
+In the third year of the Han Dynasty, there was a confrontation with Xiang Yu in Beijing and Suo. The emperor sent envoys many times to comfort the prime minister.
+Bao Sheng said to Xiao He: Your Majesty, your clothes are drying in the sun and the hood of your car is wet with dew, but you have comforted you many times. This is because you are suspicious of you.
+For your sake, it would be better to send all your descendants and brothers who are capable of fighting into the army, so that the emperor will trust you more.
+So Xiao He followed his plan, and the king of Han was very happy.
+In the fifth year of the Han Dynasty, Xiang Yu had passed away, and Liu Bang ascended the throne. He was awarded according to his merit. The ministers competed for merit. It was difficult to decide for more than a year. The emperor believed that Xiao He had made the greatest contribution, so he was first granted the title of Marquis of Feng, with a settlement of 8,000 households.
+The heroes all said: We personally wore mail armor and held weapons. We experienced more than a hundred battles and dozens of rounds, conquering cities and territories.
+Now Xiao He has no great achievements. He just expresses his opinions through writing and writing. He does not go to war, but his status is above us. Why is this?
+The emperor said: Do you know about hunting? Everyone said: I know.
+Asked again: Do you know hunting dogs?
+Answered: I know.
+The Emperor said: In hunting, dogs are the ones who chase and kill wild beasts, but humans are the ones who let loose and indicate where the wild beasts are.
+Now you can only chase wild beasts, and the merit is similar to that of hunting dogs; as for Xiao He, he issues instructions, and the merit is the same as that of hunters.
+And you are just following me with your own body, there are only three or two people, and dozens of people from Xiao He’s family are following me. The credit must not be forgotten!
+
+summary:
+summary line 0: Xiao He, from Peidi, began his career as a meticulous official under Pei Lord, supporting the future Emperor Gaozu (then a commoner and later a pavilion chief) in official matters. When Gaozu served in Xianyang, Xiao He contributed 500 yuan for his farewell, exceeding the 300 yuan given by others. As an official in Sishui County, he excelled in inspections, but declined a court recruitment to remain. When Gaozu rose as Duke of Pei, Xiao He became his prime minister and governor. Upon entering Xianyang, while others seized gold and silk, Xiao He collected Qin’s legal and administrative books, enabling Gaozu to understand the empire’s geography, households, and people’s grievances. As prime minister, he governed Ba and Shu, pacifying the people and supplying the army.
+
+Chunk 0: 
+original: 
+萧何，沛人也。
+以文毋害为沛主吏掾。
+高祖为布衣时，数以吏事护高祖。
+高祖为亭长，常佑之。
+高祖以吏繇咸阳，吏皆送奉钱三，何独以五。
+秦御史监郡者，与从事辩之。何乃给泗水卒史事，第一。
+秦御史欲入言征何，何固请，得毋行。
+及高祖起为沛公，何尝为丞督事。
+乃遂就国，以何为丞相。
+何进韩信，汉王以为大将军，说汉王令引兵东定三秦。
+语在《信传》。何以丞相留收巴、蜀，填抚谕告，使给军食。
+汉二年，汉王与诸侯击楚，何守关中，侍太子，治栎阳。
+为令约束，立宗庙、社稷、宫室、县邑，辄奏，上可许以从事；即不及奏，辄以便宜施行，上来以闻。
+计户转漕给军，汉王数失军遁去，何常兴关中卒，辄补缺。上以此剸属任何关中事。
+汉三年，与项羽相距京、索间，上数使使劳苦丞相。
+鲍生谓何曰： 今王暴衣露盖，数劳苦君者，有疑君心。
+为君计，莫若遣君子孙昆弟能胜兵者悉诣军所，上益信君。
+于是何从其计，汉王大说。
+汉五年，已杀项羽，即皇帝位，论功行封，群臣争功，岁余不决。上以何功最盛，先封为酂侯，食邑八千户。
+功臣皆曰： 臣等身被坚执兵，多者百余战，少者数十合，攻城略地，大小各有差。
+今萧何未有汗马之劳，徒持文墨议论，不战，顾居臣等上，何也？
+上曰： 诸君知猎乎？ 曰： 知之。
+知猎狗乎？
+曰： 知之。
+上曰： 夫猎，追杀兽者狗也，而发纵指示兽处者人也。
+今诸君徒能走得曾耳，功狗也；至如萧何，发纵指示，功人也。
+且诸君独以身从我，多者三两人；萧何举宗数十人皆随我，功不可忘也！
+translation: 
+Xiao He was from Peidi.
+Because he could write documents without defects, he was appointed as an official of Pei Lord.
+When Gaozu was still a commoner, Xiao He supported Gaozu in official affairs many times.
+After Gaozu became the chief of the pavilion, he helped him again.
+Gaozu went to Xianyang to serve as an official. The minor officials all contributed 300 yuan to see Gaozu off, but only Xiao He contributed 500 yuan.
+Qin Yushi supervised the people of the county and was engaged in the inspection of his duties. Xiao He was awarded the post of official of Sishui County and was the best in the examination.
+Qin Yushi planned to report to the court to recruit Xiao He, but Xiao He refused and was able to stay.
+When Emperor Gaozu rose up and became Duke of Pei, Xiao He was appointed as the prime minister and governor.
+When Pei Gong arrived in Xianyang, all the generals rushed to the treasury where gold and silk were stored to divide them up.
+Only Xiao He went in first to collect the books on laws and regulations written by Qin Prime Minister and Censor. The reason why Pei Gong knew the fortresses in the world in detail, the number of households, the distribution of strength and weakness, and the people's hatred and sorrow was because Xiao He had received Qin's books.
+Xiao He took over the remaining Ba and Shu as prime minister, pacified the people in the territory, and asked them to provide food for the army.
+In the second year of the Han Dynasty, the king of Han and the princes attacked Chu. Xiao He stayed in Guanzhong, guarding the prince and governing Yueyang.
+Formulate laws and regulations, establish ancestral temples, communities, palaces, and counties. They should be reported regularly and implemented if the emperor agrees. If it is too late to report the matter, then implement it in an appropriate manner and tell the Emperor after he comes back.
+Calculating the number of households and transferring grain and wages to supply military supplies, the King of Han led his troops to escape many times. Xiao He often recruited soldiers from Guanzhong to supplement the front line. Therefore, the emperor specifically handed over Guanzhong affairs to Xiao He.
+In the third year of the Han Dynasty, there was a confrontation with Xiang Yu in Beijing and Suo. The emperor sent envoys many times to comfort the prime minister.
+Bao Sheng said to Xiao He: Your Majesty, your clothes are drying in the sun and the hood of your car is wet with dew, but you have comforted you many times. This is because you are suspicious of you.
+For your sake, it would be better to send all your descendants and brothers who are capable of fighting into the army, so that the emperor will trust you more.
+So Xiao He followed his plan, and the king of Han was very happy.
+In the fifth year of the Han Dynasty, Xiang Yu had passed away, and Liu Bang ascended the throne. He was awarded according to his merit. The ministers competed for merit. It was difficult to decide for more than a year. The emperor believed that Xiao He had made the greatest contribution, so he was first granted the title of Marquis of Feng, with a settlement of 8,000 households.
+The heroes all said: We personally wore mail armor and held weapons. We experienced more than a hundred battles and dozens of rounds, conquering cities and territories.
+Now Xiao He has no great achievements. He just expresses his opinions through writing and writing. He does not go to war, but his status is above us. Why is this?
+The emperor said: Do you know about hunting? Everyone said: I know.
+Asked again: Do you know hunting dogs?
+Answered: I know.
+The Emperor said: In hunting, dogs are the ones who chase and kill wild beasts, but humans are the ones who let loose and indicate where the wild beasts are.
+Now you can only chase wild beasts, and the merit is similar to that of hunting dogs; as for Xiao He, he issues instructions, and the merit is the same as that of hunters.
+And you are just following me with your own body, there are only three or two people, and dozens of people from Xiao He’s family are following me. The credit must not be forgotten!
+
+summary:
+summary line 1: In the second year of the Han Dynasty, Xiao He stayed in Guanzhong, governing Yueyang, establishing laws, temples, and counties, reporting to the emperor when possible. He recruited soldiers and supplied grain, earning the emperor’s trust. During the confrontation with Xiang Yu, the emperor’s frequent consolations led Bao Sheng to advise Xiao He to send his capable relatives to the army to allay suspicion, which he did, pleasing the emperor. After Xiang Yu’s death, Liu Bang ascended the throne and awarded Xiao He first among the marquises, granting him 8,000 households. When ministers protested, the emperor compared their merit to hunting dogs and Xiao He’s to a hunter, silencing them. Later, Eqiu argued Xiao He’s contributions—preserving Guanzhong and supplying troops—were eternal, securing him the top rank. Xiao He was granted special court privileges.
+
+Chunk 1: 
+original: 
+群臣后皆莫敢言。
+列侯毕已受封，奏位次，皆曰： 平阳侯曹参身被七十创，攻城略地，功最多，宜第一。
+上已桡功臣多封何，至位次未有以复难之，然心欲何第一。
+关内侯鄂秋时为谒者，进曰： 郡臣议皆误。
+夫曹参虽有野战略地之功，此特一时之事。
+夫上与楚相距五岁，失军亡众，跳身遁者数矣，然萧何常从关中遣军补其处。
+非上所诏令召，而数万众会上乏绝者数矣。
+夫汉与楚相守荥阳数年，军无见粮，萧何转漕关中，给食不乏。
+陛下虽数亡山东，萧何常全关中待陛下，此万世功也。
+今虽无曹参等百数，何缺于汉？
+汉得之不必待以全。
+奈何欲以一旦之功加万世之功哉！
+萧何当第一，曹参次之。
+上曰： 善。
+于是乃令何第一，赐带剑履上殿，入朝不趋。
+上曰： 吾闻进贤受上赏，萧何功虽高，待鄂君乃得明。
+于是因鄂秋故所食关内侯邑二千户，封为安平侯。
+是日，悉封何父母兄弟十余人，皆食邑。
+乃益封何二千户， 以尝繇咸阳时何送我独赢钱二也 。
+陈豨反，上自将，至邯郸。
+而韩信谋反关中，吕后用何计诛信。
+语在《信传》。
+上已闻诛信，使使拜丞相为相国，益封五千户，令卒五百人一都尉为祖国卫。
+诸君皆贺，召平独吊。
+召平者，故秦东陵侯。
+秦破，为布衣，贫，种瓜长安城东，瓜美，故世谓 东陵瓜 ，从召平始也。
+平谓何曰： 祸自此始矣。
+上暴露于外，而君守于内，非被矢石之难，而益君封置卫者，以今者淮阴新反于中，有疑君心。
+夫置卫卫君，非以宠君也。
+愿君让封勿受，悉以家私财佐军。
+何从其计，上说。
+translation: 
+From now on, all the ministers will not dare to say anything.
+After the princes were awarded the title and their rankings were announced, they all said: Pingyang Hou Cao Shen was injured in seventy places. He made the greatest contribution to conquering the city and captured the territory, so he should be ranked first.
+The emperor had already made the heroes surrender and granted Xiao He more titles. As for the position, there was no way to embarrass them anymore, but in his heart he still wanted Xiao He to be ranked first.
+At that time, Eqiu, the Marquis of Guan Nei, came to visit him and said: "The opinions of all the ministers are wrong."
+Although Cao Shen had the credit for strategically planning the country, this was only a temporary matter.
+The emperor had a stalemate with Chu for five years, losing troops and generals, and fleeing many times. However, Xiao He often sent troops from Guanzhong to supplement them.
+It wasn't the emperor's order to summon soldiers, but tens of thousands of people arrived when the emperor was in trouble.
+Han and Chu had been guarding each other in Rongyang for many years, and there was no existing food in the army. Xiao He transferred food and wages from Guanzhong, and there was no shortage of supplies.
+Although His Majesty lost Shandong many times, Xiao He always preserved Guanzhong and waited for His Majesty to return again. This is a tribute to all generations.
+Now even if there are a hundred less people like Cao Shen, what will the Han lose?
+The acquisition of Han does not necessarily have to wait for them to be preserved.
+Why should the merit of one day be added to the merit of eternity!
+Xiao He should be first, followed by Cao Shen.
+The emperor said: OK.
+So he made Xiao He the first, and gave him a sword and shoes to wear to the palace, so he didn't have to take small steps to enter the court.
+The emperor said: I heard that those who want to be worthy will be rewarded. Although Xiao He's contribution is high, it can be clearly seen because of E Jun.
+Therefore, Eqiu was granted the title of Marquis of Anping in addition to the two thousand households in the neighboring towns where Eqiu originally lived.
+On this day, more than a dozen of Xiao He's parents and brothers were all rewarded with food.
+Xiao He was also granted the title of 2,000 households to repay me for serving in Xianyang. Xiao He was the only one who gave me an extra 200 yuan.
+Chen Xi rebelled, and the emperor personally led the army to Handan.
+Han Xin rebelled in Guanzhong, and Empress Lu adopted Xiao He's strategy to kill Han Xin.
+It is recorded in "Xin Zhuan".
+When the emperor heard that Han Xin had been killed, he sent an envoy to worship the prime minister as the prime minister, granted five thousand households, and ordered 500 soldiers and a captain to protect the prime minister.
+All the kings celebrated, but Zhao Ping expressed condolences.
+Zhaoping was the original Marquis of Shuling of Qin.
+After the fall of Qin, he became a commoner and very poor. He planted melons in the east of Chang'an City. The melons were very sweet, so the so-called "Shuling melon" in the world began in Zhaoping.
+Zhao Ping said to Xiao He: The disaster began from now on.
+The emperor is camping outside, but you stay behind in the court and do not suffer the pain of stone arrows. The reason why you are granted a title of guard is because the Marquis of Huaiyin has just rebelled internally and is suspicious of you.
+Guards are assigned to you to protect you, not to favor you.
+I hope you will refuse the reward and use all your family property to fund the army.
+Xiao He followed Zhao Ping's plan, and the emperor was very happy.
+
+summary:
+summary line 2: During Chen Xi and Han Xin’s rebellions, Xiao He helped Empress Lu kill Han Xin. The emperor granted him 5,000 households and a guard, but Zhao Ping warned this was due to suspicion, advising Xiao He to refuse the reward and fund the army. He complied, pleasing the emperor. When Yingbu rebelled, a retainer warned Xiao He’s popularity could lead to his extermination, urging him to damage his reputation by buying land cheaply. He did so, and the emperor was happy. Later, the emperor imprisoned Xiao He for requesting Linyuan for the people, but a courtier argued his loyalty, leading to his release. Xiao He served Emperor Hui, recommending Cao Shen as his successor. He died in the second year of Xiaohui’s reign, posthumously named Wen Zhonghou. His descendants inherited his title, with later emperors restoring it after extinctions.
+
+Chunk 4: 
+original: 
+北救东阿，击章邯军，陷陈，追至濮阳。
+攻定陶，取临济。
+南救雍丘，击李由军，破之，杀李由，虏秦候一人。
+章邯破杀项梁也，沛公与项羽引兵而东。楚怀王以沛公为砀郡长，将砀郡兵。
+于是乃封参执帛，号曰建成君。
+迁为戚公，属砀郡。
+其后，从攻东郡尉军，破之成武南。
+击王离军成阳南，又攻杠里，大破之。
+追北，西至开封，击赵贲军，破之，围赵贲开封城中。
+西击秦将杨熊军于曲遇，破之，虏秦司马及御史各一人。
+迁为执珪。
+从西攻阳武，下轘辕、缑氏，绝河津。
+击赵贲军尸北，破之。
+从南攻犨，与南阳守齮战阳城郭东，陷陈，取宛，虏齮，定南阳郡。
+从西攻武关、峣关，取之。
+前攻秦军蓝田南，又夜击其北军，大破之，遂至咸阳，破秦。
+项羽至，以沛公为汉王。
+汉王封参为建成侯。
+从至汉中，迁为将军。
+从还定三秦，攻下辨、故道、雍、斄。
+击章平军于好畤南，破之，围好畸，取壤乡。
+击三秦军壤东及高栎，破之。复围章平，平出好畤走。
+因击赵贲、内史保军，破之。
+东取咸阳，更名曰新城。
+参将兵守景陵二十三日，三秦使章平等攻参，参出击，大破之。
+赐食邑于宁秦。
+以将军引兵围章邯废丘；以中尉从汉王出临晋关。
+至河内，下修武，度围津，东击龙且、项佗定陶，破之。
+东取砀、萧、彭城。
+击项籍军，汉军大败走。
+参以中尉围取雍丘。
+王武反于外黄，程处反于燕，往击，尽破之。
+柱天侯反于衍氏，进破取衍氏。
+击羽婴于昆阳，追至叶。
+还攻武强，因至荥阳。
+参自汉中为将军中尉，从击诸侯及项王，败，还至荥阳。
+汉二年，拜为假左丞相，入屯兵关中。
+月余，魏王豹反，以假左丞相别与韩信东攻魏将孙遬东张，大破之。
+因攻安邑，得魏将王襄。
+击魏王于曲阳，追至东垣，生获魏王豹。
+取平阳，得豹母妻子，尽定魏地，凡五十二县。
+赐食邑平阳。
+因从韩信击赵相国夏说军于邬东，大破之，斩夏说。
+韩信与故常山王张耳引兵下井陉，击成安君陈馀，而令参还围赵别将戚公于邬城中。
+戚公出走，追斩之。
+乃引兵诣汉王在所。
+韩信已破赵，为相国，东击齐，参以左丞相属焉。
+攻破齐历下军，遂取临淄。
+还定济北郡，收著、漯阴、平原、鬲、卢。
+已而从韩信击龙且军于上假密，大破之，斩龙且，虏亚将周兰。
+定齐郡，凡得七十县。
+得故齐王田广相田光，其守相许章，及故将军田既。
+韩信立为齐王，引兵东诣陈，与汉王共破项羽，而参留平齐未服者。
+汉王即皇帝位，韩信徙为楚王。
+参归相印焉。
+高祖以长子肥为齐王，而以参为相国。
+高祖六年，与诸侯剖符，赐参爵列侯，食邑平阳万六百三十户，世世勿绝。
+参以齐相国击陈豨将张春，破之，黥布反，参从悼惠王将车骑十二万，与高祖会击黥布军，大破之。
+南至蕲，还定竹邑、相、萧、留。
+参功：凡下二国，县百二十二；得王二人，相三人，将军六人，大莫嚣、郡守、司马、侯、御史各一人。
+孝惠元年，除诸侯相国法，更以参为齐丞相。
+参之相齐，齐七十城。
+天下初定，悼惠王富于春秋，参尽召长老诸先生，向所以安集百姓。
+而齐故诸儒以百数，言人人殊，参未知所定。
+闻胶西有盖公，善治黄、老言，使人厚币请之。
+translation: 
+He went north to rescue Shu'a, defeated Zhang Han's army, charged into battle, and pursued him to Puyang.
+Capture Dingtao and occupy Linji.
+He went south to rescue Yongqiu, attacked Li Youjun, and won a great victory. He killed Li You and captured one of the Marquis of Qin.
+When Zhang Han defeated and killed Xiang Liang, Pei Gong and Xiang Yu led their troops to the east. King Huai of Chu made Pei Gong the leader of Qiang Deng and led the troops of Dan County.
+So Xuan Shen was granted the title of Silk Holder and was named Jiancheng Jun.
+He was promoted to Qi Gong and was subordinate to Yang County.
+After that, he followed up and attacked Shujun Wei's army and defeated it south of Chengwu.
+Attacked Wang Lijun in the south of Chengyang, and then attacked Gangli, and won a great victory.
+He pursued the defeated army and went west to Kaifeng, where he attacked Zhao Ben's army and won. Surrounded Dun Bi in Kaifeng City.
+They attacked Qin general Yang Xiong's army in Quyu to the west, and were victorious. They captured Qin Sima and Yu Shi, one person each.
+Promoted to Zhigui.
+The followers followed to attack Yangwu to the west, and reached Nianyuan and Fengshi to block the crossing of the Yellow River.
+Attacked Zhao Ben's army in Xibei and won.
+The entourage went south to attack Zhao, fought with Nanyang Shouji in Guodong of Yangcheng, charged into the battle, captured Wan, captured Qi, and pacified Nanyang County.
+The followers went west to attack Wuguan and Xiguan and occupied the two places.
+He advanced to attack the Qin army in the south of Lantian, and then attacked the northern army at night. He won a great victory, and then went to Xianyang to defeat Qin.
+Xiang Yu arrived and made Peigong King of Han.
+The king of Han granted Cao Shen the title of Marquis of Jiancheng.
+He followed him to Hanzhong and was promoted to general.
+He then followed back to pacify the Three Qin Dynasties, and attacked Xia Bian, Gudao, Yong, and Yak.
+Attacked Zhang Ping's army in the south of Haozhi and won. They surrounded Haozhi and occupied Rangxiang.
+Attacked the San Qin army in Rangshu and Gaoliang and won. They also surrounded Zhang Ping, who escaped from Haozhi.
+So he attacked Zhao Bi and Nei Shi Baojun and won.
+He captured Xianyang to the east and renamed it Xincheng.
+Cao Shen led his troops to guard Jingling for twenty-three days. The Three Qin Dynasty sent Zhang Pingping to attack Cao Shen. Cao Shen attacked and won a great victory.
+Give him Ning Qin as a food town.
+As a general, he led the army to besiege Zhang Han in Feiqiu; as a lieutenant, he followed the King of Han to Jin Pass.
+Arriving at Hanoi, Xiuwu, crossing Weijin, and heading east to attack Long Qie and Xiang Tuo at Dingtao, and won.
+Head east to capture Jie, Xiao and Pengcheng.
+Attacking Xiang Ji's army, the Han army was defeated and fled.
+Cao Shen surrounded Yongqiu as a lieutenant.
+Wang Wu rebelled in Waihuang, Cheng Chu rebelled in Yan, and Cao Shen attacked, and they all won.
+Zhu Tianhou rebelled in Yanshi, and Cao Shen marched to defeat Yanshi.
+Attack Yu Ying in Kunyang and catch up with Ye.
+He went back to attack Wu Qiang and arrived at Rongyang.
+Cao Shen served as a general and lieutenant from the desert, following him to attack the princes. When King Xiang failed, he returned to Yang.
+In the second year of Han Dynasty, he worshiped as the fake Prime Minister Zuo and entered Guanzhong to station troops.
+More than a month later, King Bao of Wei rebelled. As a false prime minister, he and Han Xin attacked Shuzhang at Shubian where Wei general Sun Yao was stationed, and won a great victory.
+Then he attacked Anyi and captured Wei general Wang Xiang.
+Attacked the King of Wei in Quyang, pursued him to Shuyuan, and captured King Bao of Wei alive.
+He captured Pingyang, captured Bao's mother, wife and children, and pacified Wei, a total of fifty-two counties.
+Give food to Pingyang.
+So he followed Han Xin to attack the Prime Minister Xia Shuo's army in Wudong, and won a great victory, killing Xia Shuo.
+Han Xin and Zhang Er, the former king of Changshan, led their troops to Jingxing and attacked Chen Yu, the king of Cheng'an. They ordered Cao Shen to go back and besiege Zhao Bie's general Qi Gong in Wucheng.
+Qi Gong fled and chased him.
+So he led his troops to where the king of Han was.
+Han Xin had defeated Fang, became prime minister, and went east to attack Qi. Cao Shen followed him as prime minister of Zuo.
+He defeated Qi Li's army and occupied Linzi.
+Go back and pacify Jibei County, and recover Zhuge, Luoyin, Pingyuan, Li, and Lu.
+Then he followed Han Xin to attack Long Qie's army in secret, and won a great victory. He killed Long Qie and captured the general Zhou Lan.
+Qi County was pacified and a total of seventy counties were obtained.
+Captured the former Qi King Tian Guang, Prime Minister Tian Guang, the Prime Minister Xu Zhang, and the former general Tian Ji.
+Han Xin was appointed King of Qi, led his troops east to Chen, and defeated Xiang Yu together with the King of Han. Cao Shen left behind to pacify the areas where Qi had not yet surrendered.
+The King of Han became the emperor, and his title was changed to King of Chu.
+The stems and ginseng are cross-linked.
+He conferred the title of eldest son, Chu Xun, as king of change, and appointed Xuan Shen as prime minister.
+In the sixth year of his reign, he cut the talisman with the princes and granted the title of Emperor Xuan as a prince. The number of households in the city was reduced to 10,630, which lasted from generation to generation.
+Cao Shen, as Prime Minister of Qi, attacked Chen Xi's general Zhang Chun and won. When Tingbu rebelled, Cao Shen followed King Hui Hui and led 120,000 chariots and cavalry. Together with Gaozu, he attacked the Tingbu army and won a great victory.
+Go south to Qi, return to the army and pacify Zhuyi, Xiang, Xiao and Liu.
+Cao Shen's achievements: conquered two countries and 122 counties in total; captured two kings, three prime ministers, six generals, and one each of Da Mo Zhen, county guard, Sima, marquis, and censor.
+In the first year of Xiaohui, the law of princes and ministers was abolished and Cao Shen was appointed as the prime minister of Qi.
+When Cao Shen and Cao were together, there were seventy cities in Qi.
+The world had just been peaceful and King Hui was young. Cao Shen summoned all the elders and gentlemen to ask how to assemble the people.
+There are hundreds of scholars in Qi, and everyone says it differently. Cao Shen doesn't know how to be sure.
+I heard that there was a Duke Gai in Jiaoxi who was good at studying Huang Lao's words, so he sent someone to invite him with generous gifts.
+
+summary:
+summary line 3: Cao Shen, also from Peidi, served as a jailer in Qin and followed Gaozu as Zhongjuan. He achieved numerous military victories, including defeating Qin forces, capturing cities, and killing generals. After Xiang Yu made Peigong King of Han, Cao Shen became Marquis of Jiancheng. He pacified the Three Qin Dynasties, captured Xianyang, and fought in key battles. As a general and lieutenant, he attacked princes, and after King Xiang’s defeat, he served as false prime minister, defeating Wei and capturing King Bao. He followed Han Xin to attack Zhao and Qi, capturing cities and generals. After the Han emperor’s ascension, Cao Shen became prime minister of Qi, attacking Chen Xi and Yingbu. His achievements included conquering two countries and 122 counties, capturing two kings and three prime ministers.
+
+Chunk 5: 
+original: 
+既见盖公，盖公为言 治道贵清静而民自定 ，推此类具言之。
+参于是避正堂，舍盖公焉。
+其治要用黄、老术，故相齐九年，齐国安集，大称贤相。
+萧何薨，参闻之，告舍人趣治行， 吾且入相。
+居无何，使者果召参。
+参去，属其后相曰： 以齐狱市为寄，慎勿扰也。
+后相曰： 治无大于此者乎？ 参曰： 不然。
+夫狱市者，所以并容也，今君扰之，奸人安所容乎？
+吾是以先之。
+始参微时，与萧何善，及为宰相，有隙。
+至何且死，所推贤唯参。
+参代何为相国，举事无所变更，壹遵何之约束。
+择郡国吏长大，讷于文辞，谨厚长者，即召除为丞相史。
+吏言文刻深，欲务声名，辄斥去之。
+日夜饮酒。卿大夫以下吏及宾客见参不事事；来者皆欲有言。
+至者，参辄饮以醇酒，度之欲有言，复饮酒，醉而后去，终莫得开说，以为常。
+相舍后园近吏舍，吏舍日饮歌呼。从吏患之，无如何，乃请参游后园。
+闻吏醉歌呼，从吏幸相国召按之。
+乃反取酒张坐饮，大歌呼与相和。
+参见人之有细过，掩匿覆盖之，府中无事。
+参子窋为中大夫。
+惠帝怪相国不治事，以为 岂少朕与？
+乃谓窋曰： 女归，试私从容问乃父曰： 高帝新弃群臣，帝富于春秋，君为相国，日饮，无所请事，何以忧天下？
+然无言吾告女也。
+窋既洗沐归，时间，自从其所谏参。参怒而笞之二百，曰： 趣入侍，天下事非乃所当言也！
+至朝时，帝让参曰： 与窋胡治乎？
+乃者我使谏君也。
+参免冠谢曰： 陛下自察圣武孰与高皇帝？
+上曰： 朕乃安敢望先帝！
+参曰： 陛下观参孰与萧何贤？
+上曰： 君似不及也。
+参曰： 陛下言之是也。
+translation: 
+When he met Gai Gong, Gai Gong told him that the key to peace is tranquility and the people will be at peace, and so on and discussed in detail.
+Cao Shen then left the main hall and asked Gai Gong to live there.
+He adopted the methods of Huang and Lao in his administration, so in the ninth year of his reign as Prime Minister of Qi, the State of Qi settled in peace, and people praised him as a wise Prime Minister.
+When Cao Shen heard about Xiao He's death, he told his family to pack up their luggage as soon as possible. I will be the prime minister of the court.
+Soon after, the messenger came to summon Cao Shen.
+Cao Shen was about to leave, and he told the person who took over his position: "I entrust Qi's prison litigation and market trade to you, and do not disturb it."
+The later prime minister said: Isn't there anything bigger than running a country? Cao Shen said: No.
+Prison litigation and market trade are places for inclusion. If you invade it, where will the traitor find shelter?
+So I put that first.
+At first, when Cao Shen was humble, he was friendly with Xiao He. When he became prime minister, the two had conflicts.
+When Xiao He was about to die, the only wise man he recommended was Cao Shen.
+Cao Shen replaced Xiao He as prime minister, and everything remained unchanged and everything was in accordance with Xiao He's agreement.
+Select a loyal elder who was born as a minor official in the county and was not good at eloquence, and he was called to be the prime minister.
+Among the minor officials, those who interpreted the legal provisions profoundly and wanted to gain fame were excluded.
+Drinking day and night, the officials and guests below the Qing officials saw that Cao Shen was doing nothing, and everyone who came wanted to give advice.
+As soon as the person arrived, Cao Shen gave him wine. Guessing that he was about to talk, he let him drink again. He went back after he was drunk. Finally, no one could speak, so he got used to it.
+The back garden of the Prime Minister's Mansion was close to the residence of the minor officials. The minor officials drank and sang in their residences every day. The subordinate officials felt that they were in trouble and had nothing to do with them, so they invited Cao to visit the back garden.
+Hearing a young official singing drunkenly, the official wanted to be summoned by the Prime Minister to interrogate him.
+Instead, Cao Shen asked people to get some wine, sit down and drink, and sang loudly to keep him company.
+When Cao saw someone making a small mistake, he covered it up for him, so that everything was safe in the house.
+Cao Shen's son, Cao Cheng, became the middle doctor.
+Emperor Hui blamed the prime minister for not paying attention to political affairs, thinking he was looking at my youth?
+So he said to Cao Zhou: Go back and ask your father privately and casually: Emperor Gao has just abandoned his ministers and left. The emperor is young and powerful. You are the prime minister, drinking every day and doing nothing. How can you share the worries of the world?
+But don't say I told you that.
+Cao Shen went home on vacation. When she had time, she admonished Cao Shen as she pleased. Cao Shen angrily beat him two hundred times and said, "Go and serve in the court. It is not your place to talk about world affairs."
+When he went to court, the emperor scolded Cao Shen and said, "What does it have to do with Cao Zhou?"
+That's why I asked him to ridicule you.
+Cao Shen took off his hat and apologized and said: Your Majesty, what do you think about the emperor's sage, valor and valor?
+The emperor said: How dare I compare with the late emperor!
+Cao Shen said: Your Majesty, who is more worthy between me and Xiao He?
+The emperor said: You seem to be inferior to him.
+Cao Shen said: Your Majesty is right.
+
+summary:
+summary line 4: As prime minister of Qi, Cao Shen adopted Huang-Lao principles, governing with tranquility and earning praise. Upon hearing of Xiao He’s death, he prepared to become prime minister of the court, advising his successor to prioritize prison litigation and market trade. Despite past conflicts, Xiao He recommended Cao Shen. As prime minister, Cao Shen adhered to Xiao He’s laws, selecting loyal elders and excluding those seeking fame. He drank daily, avoiding advice, and covered minor mistakes. When Emperor Hui criticized his inaction, Cao Shen argued that Emperor Gao and Xiao He had established clear laws, and he merely maintained them, which the emperor accepted. He died after three years as prime minister, posthumously named Yihou. His descendants inherited his title, with later generations continuing until Wang Mang’s era.
+
+Chunk 1: 
+original: 
+群臣后皆莫敢言。
+列侯毕已受封，奏位次，皆曰： 平阳侯曹参身被七十创，攻城略地，功最多，宜第一。
+上已桡功臣多封何，至位次未有以复难之，然心欲何第一。
+关内侯鄂秋时为谒者，进曰： 郡臣议皆误。
+夫曹参虽有野战略地之功，此特一时之事。
+夫上与楚相距五岁，失军亡众，跳身遁者数矣，然萧何常从关中遣军补其处。
+非上所诏令召，而数万众会上乏绝者数矣。
+夫汉与楚相守荥阳数年，军无见粮，萧何转漕关中，给食不乏。
+陛下虽数亡山东，萧何常全关中待陛下，此万世功也。
+今虽无曹参等百数，何缺于汉？
+汉得之不必待以全。
+奈何欲以一旦之功加万世之功哉！
+萧何当第一，曹参次之。
+上曰： 善。
+于是乃令何第一，赐带剑履上殿，入朝不趋。
+上曰： 吾闻进贤受上赏，萧何功虽高，待鄂君乃得明。
+于是因鄂秋故所食关内侯邑二千户，封为安平侯。
+是日，悉封何父母兄弟十余人，皆食邑。
+乃益封何二千户， 以尝繇咸阳时何送我独赢钱二也 。
+陈豨反，上自将，至邯郸。
+而韩信谋反关中，吕后用何计诛信。
+语在《信传》。
+上已闻诛信，使使拜丞相为相国，益封五千户，令卒五百人一都尉为祖国卫。
+诸君皆贺，召平独吊。
+召平者，故秦东陵侯。
+秦破，为布衣，贫，种瓜长安城东，瓜美，故世谓 东陵瓜 ，从召平始也。
+平谓何曰： 祸自此始矣。
+上暴露于外，而君守于内，非被矢石之难，而益君封置卫者，以今者淮阴新反于中，有疑君心。
+夫置卫卫君，非以宠君也。
+愿君让封勿受，悉以家私财佐军。
+何从其计，上说。
+translation: 
+From now on, all the ministers will not dare to say anything.
+After the princes were awarded the title and their rankings were announced, they all said: Pingyang Hou Cao Shen was injured in seventy places. He made the greatest contribution to conquering the city and captured the territory, so he should be ranked first.
+The emperor had already made the heroes surrender and granted Xiao He more titles. As for the position, there was no way to embarrass them anymore, but in his heart he still wanted Xiao He to be ranked first.
+At that time, Eqiu, the Marquis of Guan Nei, came to visit him and said: "The opinions of all the ministers are wrong."
+Although Cao Shen had the credit for strategically planning the country, this was only a temporary matter.
+The emperor had a stalemate with Chu for five years, losing troops and generals, and fleeing many times. However, Xiao He often sent troops from Guanzhong to supplement them.
+It wasn't the emperor's order to summon soldiers, but tens of thousands of people arrived when the emperor was in trouble.
+Han and Chu had been guarding each other in Rongyang for many years, and there was no existing food in the army. Xiao He transferred food and wages from Guanzhong, and there was no shortage of supplies.
+Although His Majesty lost Shandong many times, Xiao He always preserved Guanzhong and waited for His Majesty to return again. This is a tribute to all generations.
+Now even if there are a hundred less people like Cao Shen, what will the Han lose?
+The acquisition of Han does not necessarily have to wait for them to be preserved.
+Why should the merit of one day be added to the merit of eternity!
+Xiao He should be first, followed by Cao Shen.
+The emperor said: OK.
+So he made Xiao He the first, and gave him a sword and shoes to wear to the palace, so he didn't have to take small steps to enter the court.
+The emperor said: I heard that those who want to be worthy will be rewarded. Although Xiao He's contribution is high, it can be clearly seen because of E Jun.
+Therefore, Eqiu was granted the title of Marquis of Anping in addition to the two thousand households in the neighboring towns where Eqiu originally lived.
+On this day, more than a dozen of Xiao He's parents and brothers were all rewarded with food.
+Xiao He was also granted the title of 2,000 households to repay me for serving in Xianyang. Xiao He was the only one who gave me an extra 200 yuan.
+Chen Xi rebelled, and the emperor personally led the army to Handan.
+Han Xin rebelled in Guanzhong, and Empress Lu adopted Xiao He's strategy to kill Han Xin.
+It is recorded in "Xin Zhuan".
+When the emperor heard that Han Xin had been killed, he sent an envoy to worship the prime minister as the prime minister, granted five thousand households, and ordered 500 soldiers and a captain to protect the prime minister.
+All the kings celebrated, but Zhao Ping expressed condolences.
+Zhaoping was the original Marquis of Shuling of Qin.
+After the fall of Qin, he became a commoner and very poor. He planted melons in the east of Chang'an City. The melons were very sweet, so the so-called "Shuling melon" in the world began in Zhaoping.
+Zhao Ping said to Xiao He: The disaster began from now on.
+The emperor is camping outside, but you stay behind in the court and do not suffer the pain of stone arrows. The reason why you are granted a title of guard is because the Marquis of Huaiyin has just rebelled internally and is suspicious of you.
+Guards are assigned to you to protect you, not to favor you.
+I hope you will refuse the reward and use all your family property to fund the army.
+Xiao He followed Zhao Ping's plan, and the emperor was very happy.
+
+summary:
+summary line 5: The praise notes that both Xiao He and Cao Shen, born in Qin, rose with Han, stabilizing the state through their complementary roles—Xiao He guarding Guanzhong and Cao Shen leading expeditions. Their reputations endured, benefiting future generations.
+

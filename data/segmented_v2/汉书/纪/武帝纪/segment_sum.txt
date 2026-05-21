@@ -1,0 +1,548 @@
+Summary uses chunk [0, 1, 2, 4, 5, 8, 13, 16]
+
+Chunk 0: 
+original: 
+孝武皇帝，景帝中子也，母曰王美人。年四岁立为胶东王。
+七岁为皇太子，母为皇后。
+十六岁，后三年正月，景帝崩。
+甲子，太子即皇帝位，尊皇太后窦氏曰太皇太后，皇后曰皇太后。
+三月，封皇太后同母弟田蚡、胜皆为列侯。
+建元元年冬十月，诏丞相、御史、列侯、中二千石、二千石、诸侯相举贤良方正直言极谏之士。
+丞相绾奏： 所举贤良，或治申、商、韩非、苏秦、张仪之言，乱国政，请皆罢。
+奏可。
+春二月，赦天下。赐民爵一级。
+年八十复二算，九十复甲卒。
+行三铢钱。
+夏四月己巳，诏曰： 古之立孝，乡里以齿，朝廷以爵，扶世导民，莫善于德。
+然即于乡里先耆艾，奉高年，古之道也。
+今天下孝子、顺孙愿自竭尽以承其亲，外迫公事，内乏资财，是以孝心阙焉，朕甚哀之。
+民年九十以上，已有受鬻法，为复子若孙，令得身帅妻妾遂其供养之事。
+五月，诏曰： 河海润千里。其令祠官修山川之祠，为岁事，曲加礼。
+赦吴、楚七国帑输在官者。
+秋七月，诏曰： 卫士转置送迎二万人，其省万人。
+罢苑马，以赐贫民。
+议立明堂。
+遣使者安车蒲轮，束帛加璧，征鲁申公。
+二年冬十月，御史大夫赵绾坐请毋奏事太皇太后，及郎中令王臧皆下狱，自杀。
+丞相婴、太尉蚡免。
+春二月丙戌朔，日有蚀之。夏四月戊申，有如日夜出。
+初置茂陵邑。
+translation: 
+Emperor Xiaowu Liu Che was the second son of Emperor Jing. His mother was Wang Meiren, who was made King of Jiaodong when she was four years old.
+At the age of seven, he was made crown prince, and his mother was made queen.
+At the age of sixteen, in the first month of the third year after Emperor Jing, Emperor Jing died.
+On the twenty-seventh day of the first lunar month, the prince succeeded to the throne of the emperor, and the empress dowager Dou was honored as the empress dowager, and the empress was the empress dowager.
+In March, the Empress Dowager and her brothers Tian Chongfen and Tian Sheng were made marquises.
+In the tenth month of the winter of the first year of Jianyuan, the prime minister, censors, princes, and princes were ordered to recommend virtuous and upright people who can give the most honest advice.
+Prime Minister Wei Wan reported: If any of the recommended virtuous people make remarks about Shen Buhai, Shang Yang, Han Fei, Su Qin, or Zhang Yi, which would confuse the state affairs, please stop them.
+The emperor agreed.
+In the second month of spring, the world will be pardoned and the people will be rewarded with one level of nobility.
+Those who are over eighty years old are exempted from taxes for two members of the family, and those who are over ninety years old are exempted from taxes for the whole family.
+Issue three baht coins.
+On the ninth day of April in the summer of the first year of Jianyuan, an edict was issued saying: According to the ancient rules, age is the most important thing in the countryside, and title is the most important thing in the court. In governing the country and educating the people, virtue must be given a prominent position.
+It can be said that respecting the elders and caring for the elderly in the countryside has been a principle since ancient times.
+Today, filial sons and grandsons in the world are willing to do their best to support their elders. However, they are forced by external affairs and lack of financial resources internally. Therefore, it seems that filial piety is missing. I deeply sympathize with them.
+When people are over ninety years old, the court has a system of making porridge and rice with rice and millet. Now it is added that his sons or grandsons are exempted from corvee service, so that they can lead their wives to fulfill their responsibility of supporting the elderly.
+In the fifth month, an edict was issued saying: The rivers and seas moisten thousands of miles, and the ancestral officials can be ordered to build ancestral temples in the mountains and rivers. It is normal to offer sacrifices every year, and the sacrifices should also be improved.
+The first offender in the Seven Kingdoms Rebellion was pardoned for his crime of confiscating his wife as a servant of the official family, and was deported.
+In the seventh month of Autumn, an edict was issued saying: The palace guards will go to the old place to set up a new one, numbering 20,000, and save 10,000.
+The court's horse-breeding gardens were opened to the poor to graze and collect wood.
+It was agreed to establish a Mingtang where the emperor declared his political and religious affairs.
+An envoy was sent to summon Lu Shen Gong in a safe and comfortable vehicle with cloth and jade.
+In the winter of October of the second year, Zhao Wan, the imperial censor, committed the crime of not reporting to the Empress Dowager. He and his doctor ordered Wang Zang to be imprisoned and committed suicide.
+Prime Minister Dou Ying and Taiwei Tian Chong were dismissed from their posts.
+On the first day of February in spring, there is a partial solar eclipse. On April 24th in summer, the night was like day.
+The establishment of Maoling-eup began.
+
+summary:
+summary line 0: Emperor Xiaowu Liu Che, the second son of Emperor Jing, was born to Wang Meiren. At age four, he was made King of Jiaodong, and at seven, he became crown prince. At sixteen, in the third year of Emperor Jing's reign, his father died, and Liu Che succeeded the throne. He honored Empress Dowager Dou and his mother as empress dowagers, and granted marquis titles to his maternal uncles. In the first year of Jianyuan, he ordered officials to recommend virtuous and upright individuals, but Prime Minister Wei Wan advised against promoting those who studied Legalist or strategist philosophies, which the emperor approved. He pardoned the world, rewarded the people, exempted taxes for the elderly, and issued three-baht coins. Edicts emphasized respect for elders, exempted families of those over ninety from corvée, and improved sacrifices to rivers and seas. He pardoned first offenders in the Seven Kingdoms Rebellion, reduced palace guards, opened horse-breeding gardens to the poor, and planned to build a Mingtang. He summoned the scholar Lu Shen Gong.
+
+Chunk 1: 
+original: 
+三年春，河水溢于平原，大饥，人相食。
+赐徙茂陵者户钱二十万，田二顷。
+初作便门桥。
+秋七月，有星孛于西北。
+济川王明坐杀太傅、中傅废迁防陵。
+未至，闽越走，兵还。九月丙子晦，日有蚀之。四年夏，有风赤如血。
+六月，旱。秋九月，有星孛于东北。
+五年春，罢三铢钱，行半两钱。
+置《五经》博士。
+夏四月，平原君薨。
+五月，大蝗。
+秋八月，广川王越、清河王乘皆薨。
+六年春二月乙未，辽东高庙灾。
+夏四月壬子，高园便殿火。
+上素服五日。
+五月丁亥，太皇太后崩。
+秋八月，有星孛于东方，长竟天。
+闽越王郢攻南越。遣大行王恢将兵出豫章、大司农韩安国出会稽击之，未至，越人杀郢降，兵还。
+元光元年冬十一月，初令郡国举孝廉各一人。
+卫尉李广为骁骑将军屯云中，中尉程不识为车骑将军屯雁门，六月罢。
+夏四月，赦天下，赐民长子爵一级。复七国宗室前绝属者。
+五月，诏贤良曰： 朕闻昔在唐、虞，画像而民不犯，日月所烛，莫不率俾。
+周之成、康，刑错不用，德及鸟兽，教通四海，海外肃慎，北发渠搜，氐羌徠服；星辰不孛，日月不蚀，山陵不崩，川谷不塞；麟、凤在郊薮，河、洛出图书。
+呜乎，何施而臻此与！
+今朕获奉宗庙，夙兴以求，夜寐以思，若涉渊水，未知所济。
+猗与伟与！
+何行而可以章先帝之洪业休德，上参尧、舜，下配三王！
+朕之不敏，不能远德，此子大夫之所睹闻也，贤良明于古今王事之体，受策察问，咸以书对，著之于篇，朕亲览焉。
+于是董仲舒、公孙弘等出焉。
+秋七月癸未，日有蚀之。
+二年冬十月，行幸雍，祠五畴。
+春，诏问公卿曰： 朕饰子女以配单于，金币文绣赂之甚厚，单于待命加曼，侵盗亡已。
+translation: 
+In the spring of the third year, the Yellow River flooded the plains, causing a great famine and causing people to eat each other.
+The residents who moved to Maoling were given 200,000 yuan and two hectares of land.
+Build the Benmen Bridge across the Weishui River from Chang'an to Maoling.
+In autumn and July, a comet appears in the northwest.
+King Liu Ming of Jichuan committed the crime of killing Taifu and Zhongfu and was deposed and moved to Fangling.
+The Fujian and Yue soldiers besieged Dong Ou, and Dong Ou asked the Han court for help. The emperor sent Yan, a senior official, to assist him and mobilize the troops stationed in Kuaiji to float to the sea to rescue Dong Ou. Before the soldiers arrived, Minyue retreated. September 2nd, partial solar eclipse. In the summer of the fourth year, a wind blew up the red dust, which was as red as blood.
+In June, there was a severe drought, and in autumn and September, comets appeared in the northeast.
+In the spring of the fifth year, three baht coins were abolished and half a liang coin was issued.
+Set up Doctor of the Five Classics.
+In April of summer, the emperor's grandmother Pingyuan Jun passed away.
+In May, a major locust plague occurred.
+In the eighth month of autumn, King Liu Yue of Guangchuan and King Liu Cheng of Qinghe both died.
+On the third day of February in the sixth year of spring, there was a fire in the Gaozu Temple in Liaodong.
+On April 21st in the summer, a fire broke out in the Gaoyuan Bedroom.
+The emperor wore plain clothes and blamed himself for five days.
+On May 26, the Empress Dowager passed away.
+In autumn and August, the comet appears in the east for a long time.
+When King Ying of Minyue attacked South Vietnam, the imperial court sent Daxing Wang Hui to lead troops out of Yuzhang, and Da Sinong Han Anguo to lead troops out of Kuaiji to prepare for a counterattack. Before the soldiers arrived, the Yue people killed Ying and surrendered. Wang, Han and others withdrew their troops.
+In the winter and November of the first year of Yuanguang, the county began to recommend one person each for Xiao and Lian.
+Wei Lieutenant Li Guang stationed troops at Yunzhong as General Chao Cavalry, and Lieutenant Cheng Bushi stationed troops at Yanmen as General Chao Cavalry. They withdrew their troops in June.
+In the fourth month of summer, he pardoned the world, rewarded the chief minister with the first level of viscount, and restored the clan status of the clans of the seven kingdoms that had been extinguished due to the crime of rebellion by the seven kingdoms.
+In May, the imperial edict Xianliang said: I heard that in the old days of Tang and Yu, only sin robes were used to symbolize the five punishments, but the people could not break the law. Everyone obeyed the sun and the moon.
+During the reign of King Cheng and King Kang of the Zhou Dynasty, criminal laws were put aside, virtues extended to birds and beasts, and education spread all over the world. When Su Shen from abroad came to the court, the northern canals were searched for service, and the Di and Qiang surrendered; the stars did not comet, the sun and the moon did not eclipse, the mountains did not collapse, and the rivers and valleys were not blocked; unicorns and phoenixes roamed the countryside, and books appeared in the Yellow River and Luoshui.
+hehe! Only Pushi Deze can have such a prosperous time!
+Today I have the honor to inherit the great authority. I get up early to seek and stay quiet at night to think. If I look at the ocean and sigh, I don't know how to reach the other shore.
+Beautiful! How great!
+Through those actions, the great cause and virtues of the late emperor were carried forward, and he was worthy of Yao and Shun at the top and the three kings at the bottom.
+My nature is dull and my virtue cannot reach far. This is well known to all the doctors. Wise men understand the rise and fall of kings in ancient and modern times, and receive advice and inquiries. Please write them down in writing and compile them into a volume for my reading.
+So Dong Zhongshu, Gongsun Hong and others stood out.
+On July 30th in autumn, there will be a partial eclipse of the sun.
+In the winter and tenth month of the second year, the emperor went to Yongdi to worship the Five Emperors.
+In the spring, I issued an edict and asked the ministers: "I once decorated beautiful women to match the Xiongnu Chanyu, and rewarded them generously with gold coins, embroidery, and embroidery. However, after accepting the imperial edict, the Chanyu became arrogant and invaded endlessly."
+
+summary:
+summary line 1: In the second year, officials Zhao Wan and Wang Zang committed suicide for failing to report to the Empress Dowager, and Prime Minister Dou Ying and Taiwei Tian Chong were dismissed. A partial solar eclipse occurred, and a night was as bright as day. Maoling-eup was established. In the third year, the Yellow River flooded, causing famine and cannibalism. Residents moving to Maoling received funds and land. A comet appeared in the northwest. King Liu Ming of Jichuan was deposed for murder. Minyue besieged Dong Ou, but Han forces caused their retreat. In the fourth year, red dust blew, drought struck, and comets appeared. In the fifth year, three-baht coins were abolished, half-liang coins issued, and Doctors of the Five Classics established. The emperor's grandmother died, locusts plagued, and two kings died. In the sixth year, fires at Gaozu Temple and Gaoyuan Bedroom led the emperor to blame himself. The Empress Dowager died, and a comet appeared. Minyue attacked South Vietnam, but the Yue people killed their king and surrendered.
+
+Chunk 2: 
+original: 
+边境被害，朕甚闵之。
+今欲举兵攻之，何如？
+大行王恢建议宜击。
+夏六月，御史大夫韩安国为护军将军，卫尉李广为骁骑将军，太仆公孙贺为轻车将军，大行王恢为将屯将军，太中大夫李息为材官将军，将三十万众屯马邑谷中，诱致单于，欲袭击之。
+单于入塞，觉之，走出。
+六月，军罢。
+将军王恢坐首谋不进，下狱死。
+秋九月，令民大酺五日。
+三年春，河水徙，从顿丘东南流入勃海。
+夏五月，封高祖功臣五人后为列侯。
+河水决濮阳，泛郡十六。发卒十万救决河。起龙渊宫。
+四年冬，魏其侯窦婴有罪，弃市。
+春三月乙卯，丞相蚡薨。
+夏四月，陨霜杀草。
+五月，地震。赦天下。
+五年春正月，河间王德薨。
+夏，发巴、蜀治南夷道。又发卒万人治雁门阻险。
+秋七月，大风拔木。
+乙巳，皇后陈氏废。捕为巫蛊者，皆枭首。
+八月，螟。
+征吏民有明当世之务、习先圣之术者，县次续食，令与计偕。
+六年冬，初算商车。
+春，穿漕渠通渭。
+匈奴入上谷，杀略吏民。遣车骑将军卫青出上谷，骑将军公孙敖出代，轻车将军公孙贺出云中，骁骑将军李广出雁门。
+青至龙城，获首虏七百级。
+广、敖失师而还。
+诏曰： 夷狄无义，所从来久。间者匈奴数寇边境，故遣将抚师。
+古者治兵振旅，因遭虏之方入，将吏新会，上下未辑。代郡将军敖、雁门将军广所任不肖，校尉又背义妄行，弃军而北，少吏犯禁。
+translation: 
+I am deeply disturbed by the murders at the border.
+Now I want to send troops to attack, what do you think?
+Daxing Wang Hui suggested that we should attack.
+In the sixth month of the summer, Han Anguo, the imperial censor, was appointed as the guard general, Weiwei Li Guang was the heroic cavalry general, Sun He, the great servant, was the light chariot general, Daxing Wang Hui was the general general, and the great official Li Xi was the caiguan general. They stationed 300,000 people in the valley of Mayi. They wanted to lure Shan Yu into the fortress and launched an attack unexpectedly.
+After Shanyu entered the fortress, he immediately exited when he noticed something strange.
+In June, withdraw troops.
+General Wang Hui committed the crime of "not advancing the plan" and was imprisoned and died.
+In the ninth month of autumn, the whole country was ordered to drink alcohol for five days to comfort the farmers.
+In the spring of the third year, the Yellow River moved and flowed from the southeast of Dunqiu into the Bohai Sea.
+In the fifth month of summer, five of Gaozu's meritorious officials were granted the title of marquis.
+The Yellow River burst in Puyang and flooded sixteen counties. One hundred thousand soldiers were mobilized to block the floods for disaster relief, and Longyuan Palace was built.
+In the winter of the fourth year, Wei Qihou Dou Ying was found guilty and his head was hung in public.
+On the seventeenth day of the third lunar month in the spring, Prime Minister Chong died.
+In April of summer, severe frost damaged crops.
+In May, there was an earthquake and the world was forgiven.
+In the first month of spring of the fifth year, Wang De of Hejian passed away.
+In the summer, corvees from Bashu were recruited to build Nanyi Avenue, and tens of thousands of soldiers were mobilized to build Yanmen Pass.
+In autumn and July, strong wind uproots trees.
+On July 14, Queen Chen was deposed, and the witches who incited people and disrupted the court were arrested and beheaded.
+August, plague of borers.
+Among the officials and people, those who understood the affairs of the time and the art of the sages were recruited to Kyoto to take countermeasures, and the towns and counties along the way were provided with food expenses.
+Order the envoys from each county to be the leader of their team when they come to Beijing. In the winter of the sixth year, taxes began to be levied on merchants' vehicles and ships.
+In spring, a canal for transporting grain was excavated and connected to the Wei River.
+The Xiongnu invaded the Shang Valley and plundered the people. The emperor sent the cavalry general Wei Qingbing out of the Shang Valley, the cavalry general Gongsun Aobing to come out, the light cavalry general Gongsun He out of Yunzhong, and the brave cavalry general Li Guang out of Yanmen.
+Wei Qing went to Longcheng and captured 700 enemy heads.
+Gongsun Ao and Li Guang were defeated due to command errors and returned home.
+The emperor issued an edict saying: Yi and Di have been treacherous for a long time. In the past, the Xiongnu invaded the border many times, so generals were sent to command the frontline soldiers to meet the enemy. The ancient military law is to control the army when going out, and to strengthen the brigade when entering.
+Due to the sudden invasion of the Xiongnu this time, our army's officers and men had a new meeting, and there was no coordination between the top and bottom. The generals Gongsun Ao who sent the troops out of Daijun, and Li Guang who sent the troops out of Yanmen were of low quality. The captain also acted blindly against orders, so that he abandoned the army and fled, and the petty officials violated the ban.
+
+summary:
+summary line 2: In the first year of Yuanguang, counties recommended one filial and incorrupt person each. Generals Li Guang and Cheng Bushi withdrew troops. The emperor pardoned the world and restored clans of the Seven Kingdoms. He issued an edict praising ancient rulers and seeking advice, leading to the rise of Dong Zhongshu and Gongsun Hong. In the second year, the emperor worshipped the Five Emperors and discussed attacking the Xiongnu. Generals stationed 300,000 troops at Mayi to lure the Xiongnu Chanyu, but he escaped. General Wang Hui died in prison. In the third year, the Yellow River changed course, and five meritorious officials were made marquises. Flooding in Puyang led to disaster relief. In the fourth year, Dou Ying was executed, Prime Minister Chong died, frost damaged crops, and an earthquake occurred. In the fifth year, King Wang De of Hejian died, roads were built, and Queen Chen was deposed. Talented individuals were recruited. In the sixth year, taxes on merchants' vehicles began. The Xiongnu invaded, and General Wei Qing captured 700 heads, while Gongsun Ao and Li Guang were defeated. The emperor pardoned soldiers for disciplinary violations.
+
+Chunk 4: 
+original: 
+奏可。
+十二月，江都王非薨。
+春三月甲子，立皇后卫氏。
+诏曰： 朕闻天地不变，不成施化；阴阳不变，物不畅茂。
+《易》曰 通其变，使民不倦 。
+《诗》云 九变复贯，知言之选 。
+朕嘉唐、虞而乐殷、周，据旧以鉴新。
+其赦天下，与民更始。
+诸逋贷及辞讼在孝景后三年以前，皆勿听治。
+秋，匈奴入辽西，杀太守；入渔阳、雁门，败都尉，杀略三千余人。
+遣将军卫青出雁门，将军李息出代，获首虏数千级。
+东夷薉君南闾等口二十八万人降，为苍海郡。
+鲁王馀、长沙王发皆薨。
+二年冬，赐淮南王、菑川王几杖，毋朝。
+春正月，诏曰： 梁王、城阳王亲慈同生，愿以邑分弟，其许之，诸侯王请与子弟邑者，朕将亲览，使有列位焉。
+于是籓国始分，而子弟毕侯矣。
+匈奴入上谷、渔阳、杀略吏民千余人。
+遣将军卫青、李息出云中，至高阙，遂西至符离，获首虏数千级。收河南地，置朔方、五原郡。
+三月乙亥晦，日有蚀之。
+夏，募民徙朔方十万口。
+又徙郡国豪杰及訾三百万以上于茂陵。
+秋，燕王定国有罪，自杀。
+三年春，罢苍海郡。
+三月，诏曰： 夫刑罚所以防奸也，内长文所以见爱也。以百姓之未洽于教化，朕嘉与士大夫日新厥业，祗而不解。
+其赦天下。
+夏，匈奴入代，杀太守；入雁门，杀略千余人。
+六月庚午，皇太后崩。
+秋，罢西南夷，城朔方城。
+令民大酺五日。
+四年冬，行幸甘泉。
+夏，匈奴入代、定襄、上郡，杀略数千人。
+五年春，大旱。
+translation: 
+This memorial was adopted.
+In December, Liu Fei, King of Jiangdu, passed away.
+On March 13th in the spring, Queen Wei was established.
+The edict was issued: I have heard that if the heaven and earth do not change, transformation will not be possible; if the yin and yang do not change, things will not flourish.
+"Yi" says: Only by adapting to the situation can the people's spirit be lifted up.
+"Poetry" says: Understand the changes of heaven and earth without losing the way, choose the good and follow it.
+I appreciate the Tang, Yu, and Yin and Zhou dynasties, and am willing to learn from historical experiences and lessons.
+Now the world is amnesty and the people are reformed.
+Some were prosecuted for committing crimes and fleeing in fear of crime or owing official property for a long time. Those who committed the crime three years ago before Emperor Xiaojing were exempted from prosecution.
+In the autumn of the first year of Yuanshuo, the Huns invaded western Liaoning and killed the prefect of western Liaoning. They also invaded Yuyang and Yanmen, defeated the captains, and killed and plundered more than 3,000 people.
+General Wei Qing was sent out of Yanmen, and General Li Xi was sent to replace him, and he captured thousands of enemy heads.
+Nanlu, Huijun of Dongyi, and others led 280,000 subjects to submit to the Han and established Canghai County.
+King Liu Yu of Lu and King Liu Fa of Changsha both died.
+In the winter of the second year, King Huainan and King Sichuan were given a few sticks to avoid going to court.
+In the first month of spring, an edict was issued saying: The king of Liang and the king of Chengyang are my brothers. I would like to grant my second brother a title of food. Please accept it. When the princes and kings ask for a seat for their children, I will personally review the list and ensure that they have the title of prince.
+So the original vassal state was divided into some food towns, and all the princes and brothers were granted the title of marquis.
+The Xiongnu entered Shanggu and Yuyang, killing and plundering more than a thousand officials and people.
+The imperial court sent generals Wei Qing and Li Xi out of Yunzhong to Gaoque, and then to Fuli. They captured thousands of enemy heads, recovered Henan, and established Shuofang and Wuyuan counties.
+On March 30th, there was a partial solar eclipse.
+In the summer, 100,000 people were recruited to migrate to Shuofang County.
+They also moved the upper-class people of the county and households with assets of more than three million to Maoling.
+In the autumn, King Yan committed suicide because he was guilty of the crime.
+In the spring of the third year, the organizational structure of Canghai County was abolished.
+In March, an edict was issued saying: Punishment is used to prevent adultery, and respect for virtue is to show the importance of talent. Today's people have not been cultivated in education, and I am happy to work with the scholar-bureaucrats to renew the Han Dynasty's imperial career, and to be respectful and unremitting.
+Can forgive the world.
+In summer, the Xiongnu invaded Dai and killed the prefect. Invading Yanmen, killing and plundering more than a thousand people.
+On the second day of June, the Empress Dowager passed away.
+In autumn, the conquest of the southwestern barbarians was exempted and Shuofang City was built.
+The people of the country were ordered to drink alcohol for five days to comfort the people.
+In the winter of the fourth year, I visited Ganquan.
+In the summer, the Huns came to Dai, Dingxiang and Shangjun, killing and plundering thousands of people.
+In the spring of the fifth year, a severe drought occurred.
+
+summary:
+summary line 3: In the first year of Shuo, the emperor issued edicts promoting virtue and talent, ordering officials to recommend filial and incorrupt individuals. Queen Wei was established. In the first year of Yuanshuo, the Xiongnu invaded, and Wei Qing captured thousands of heads. Dongyi submitted, and Canghai County was established. In the second year, the emperor granted titles to princes' sons. Wei Qing recovered Henan, establishing Shuofang and Wuyuan counties. People were moved to Shuofang and Maoling. In the third year, Canghai County was abolished, and the Xiongnu invaded Dai and Yanmen. The Empress Dowager died. In the fourth year, the emperor visited Ganquan. In the fifth year, drought struck, and Wei Qing captured over 15,000 Xiongnu heads. The emperor promoted education and set up doctoral disciples. In the sixth year, Wei Qing defeated the Xiongnu in the desert, but Zhao Xin surrendered and Su Jian fled. The emperor established martial arts reward officers.
+
+Chunk 5: 
+original: 
+大将军卫青将六将军兵十余万人出朔方、高阙，获首虏万五千级。
+夏六月，诏曰： 盖闻导民以礼，风之以乐。今礼坏乐崩，朕甚闵焉。
+故详延天下方闻之士，咸荐诸朝。其令礼官劝学，讲议洽闻，举遗举礼，以为天下先。
+太常其议予博士弟子，崇乡党之化，以厉贤材焉。
+丞相弘请为博士置弟子员，学者益广。
+秋，匈奴入代，杀都尉。
+六年春二月，大将军卫青将六将军兵十余万骑出定襄，斩首三千余级。
+还，休士马于定襄、云中、雁门。
+赦天下。
+夏四月，卫青复将六将军绝幕，大克获。
+前将军赵信军败，降匈奴。
+右将军苏建亡军，独自脱还，赎为庶人。
+六月，诏曰： 朕闻五帝不相复礼，三代不同法，所由殊路而建德一也。
+盖孔子对定公以徠远，哀公以论臣，景公以节用，非期不同，所急异务也。
+今中国一统而北边未安，朕甚悼之。
+日者大将军巡朔方，征匈奴，斩首虏万八千级，诸禁锢及有过者，咸蒙厚赏，得免、减罪。
+今大将军仍复克获，斩首虏万九千级，受爵赏而欲移卖者，无所流貤。
+其议为令。
+有司奏请置武功赏官，以宠战士。
+元狩元年冬十月，行幸雍，祠五畴。获白麟，作《白麟之歌》。
+十一月，淮南王安、衡山王赐谋反，诛。
+党与死者数万人。
+十二月，大雨雪，民冻死。
+夏四月，赦天下。
+丁卯，立皇太子。
+赐中二千石爵右庶长，民为父后者一级。
+诏曰： 朕闻咎繇对禹，曰在知人，知人则哲，惟帝难之。
+盖君者，心也，民犹支体，支体伤则心憯怛。
+translation: 
+General Wei Qing led six generals and more than 100,000 soldiers to set out at Shuofang and Gaoque, and captured more than 15,000 Xiongnu heads.
+In the sixth month of the Xia Dynasty, an edict was issued saying: I once heard that people were taught to use etiquette and cultivated people to enjoy music. Nowadays, etiquette has become corrupted and music has collapsed. I am very sorry.
+Therefore, the erudite and virtuous people gathered in Kyoto, and the ceremonial officials gave lectures. They collected and cited erudite texts, cited omitted articles, and promoted or destroyed rites, setting them as an example for the world.
+The Taichang official should consider setting up the virtuous people who participated in this academic ceremony as doctoral disciples. This can not only promote education in the countryside, but also reward talents.
+Prime Minister Gongsun Hongzou asked the doctor to set up disciples, and more and more people learned etiquette.
+In autumn, the Xiongnu came to power and killed the captain.
+In the spring and February of that year, General Wei Qing led six generals and more than 100,000 soldiers to ride out of Dingxiang and beheaded more than 3,000 enemies.
+After returning to the division, the troops and horses rested and reorganized in Dingxiang, Yunzhong, Yanmen and other places.
+Forgive the world.
+In April of summer, Wei Qing once again led six generals and soldiers to the desert at the southern border of the Xiongnu and won a complete victory.
+Former general Zhao Xin was defeated and surrendered to the Huns.
+The right general Su Jian's troops collapsed and he fled back alone to redeem himself as a civilian.
+In June, he issued an edict saying: I heard that the five emperors did not follow the old rules of the past, and the three generations did not follow the laws of the previous generation. The historical era in which they lived had changed, but the moral policies they established were consistent.
+In the past, Confucius treated Duke Ding of Lu as a person who wanted to please those who were far away, and Duke Ai of Lu, who focused on political governance and saving money. This was not because the requirements were different, but that the specific situation determined the top priority.
+Today China is unified but the north is unrest. I miss you very much.
+At that time, the general Wei Qing patrolled Shuofang, conquered the Xiongnu, and beheaded 18,000 enemies. Some imprisoned people and those who had committed crimes were rewarded with victory on the front line, and were exempted from crime.
+Now the general has once again achieved brilliant results, beheading 19,000 enemies. This time he took the initiative to receive the reward and wanted to sell it. If he does not comply with the order, he will not be allowed to do so.
+Regulations can be formulated accordingly.
+Officials in charge of martial arts requested the emperor to set up martial arts reward officers to reward warriors.
+In the winter and tenth month of the first year of Yuanshou, he went to Yong to offer sacrifices to the Five Emperors. He obtained a white unicorn and wrote "The Song of Bailin".
+In November, Liu An, the king of Huainan, and Liu Ci, the king of Hengshan, rebelled and were executed.
+Tens of thousands of party members were executed.
+In December, there was heavy rain and snow, and civilians froze to death.
+In the fourth month of summer, there is a general amnesty for the whole world.
+On April 21st in summer, the crown prince was established.
+He was given a title of two thousand stones, the right concubine's eldest son, and the first rank of title to the person who succeeded his father as the head of the family.
+The edict was issued: I heard that Gao Tao's advice to Yu was to know people first. Only those who can know people are sages. Emperor Yao thought it was very difficult to know people.
+Generally speaking, the king is the heart, and the people are like the limbs. When a limb is injured, the heart mourns.
+
+summary:
+summary line 4: In the first year of Yuanshou, the emperor obtained a white unicorn and wrote a song. Kings of Huainan and Hengshan rebelled and were executed. The crown prince was established. The emperor issued edicts rewarding filial piety and caring for the elderly. Generals Huo Qubing and Gongsun Ao captured thousands of Xiongnu heads. The Xiongnu king Kunxie surrendered, and Wuwei and Jiuquan counties were established. In the third year, a comet appeared, and the emperor pardoned the world. In the fourth year, Wei Qing and Huo Qubing defeated the Xiongnu in Mobei, with heavy casualties. Li Guang committed suicide. In the fifth year, half-liang coins were scrapped, and five-baht coins issued. In the sixth year, the emperor established princes and issued edicts on currency reform. He sent officials to inspect the country and relieve the needy.
+
+Chunk 8: 
+original: 
+秋九月，大司马骠骑将军去病薨。
+元鼎元年夏五月，赦天下，大酺五日。
+得鼎汾水上。
+济东王彭离有罪，废徙上庸。
+二年冬十一月，御史大夫张汤有罪，自杀。
+十二月，丞相青翟下狱死。
+春，起柏梁台。
+三月，大雨雪。
+夏，大水，关东饿死者以千数。
+秋九月，诏曰： 仁不异远，义不辞难，今京师虽未为丰年，山林、池泽之饶与民共之。
+今水潦移于江南，迫隆冬至，朕惧其饥寒不活。
+江南之地，火耕水耨，方下巴、蜀之粟致之江陵，遣博士中等分循行，谕告所抵，无令重困。
+吏民有振救饥民免其厄者，具举以闻。
+三年冬，徙函谷关于新安。以故关为弘农县。
+十一月，令民告缗者以其半与之。
+正月戊子，阳陵园火。
+夏四月，雨雹，关东郡国十余饥，人相食。
+常山王舜薨。子嗣立，有罪，废徙房陵。
+四年冬十月，行幸雍，祠五畴。赐民爵一级，女子百户牛、酒。
+行自夏阳，东幸汾阴。
+十一月甲子，立后土祠于汾阴脽上。
+礼毕，行幸荥阳。
+还至洛阳，诏曰： 祭地翼州，瞻望河、洛，巡省豫州，观于周室，邈而无祀。
+询问耆老，乃得孽子嘉。
+其封嘉为周子南君，以奉周祀。
+春二月，中山王胜薨。
+夏，封方士栾大为乐通侯，位上将军。
+六月，得宝鼎后土祠旁。
+秋，马生渥洼水中。
+作《宝鼎》、《天马》之歌。
+立常山宪王子商为泗水王。
+五年冬十月，行幸雍，祠五畴。
+遂逾陇，登空同，西临祖厉河而还。
+十一月辛巳朔旦，冬至。
+立泰畤于甘泉。
+translation: 
+In the ninth month of autumn, General Huo Qubing passed away.
+In the summer and fifth month of the first year of Yuanding, he pardoned the whole country and ordered the whole country to drink happily for five days to comfort the people.
+Get the tripod above the Fen River.
+Peng Li, the king of Jidong, was guilty and moved to Shangyong.
+In the winter of November of the second year, Zhang Tang, the imperial censor, committed suicide.
+In December, Prime Minister Zhuang Qingzhai was imprisoned and died.
+In the spring of the second year of Yuanding, Bailiang Terrace was built.
+In March, there was heavy rain and snow.
+In summer, there were floods, and thousands of people in Guandong starved to death.
+In the ninth month of Autumn, an edict was issued saying: It is benevolence to treat people both far and near as one, and it is righteousness not to be afraid of hardships and dangers. Although it is not a good year for the capital today, the wealth and resources of the mountains, forests, ponds and lakes should be exploited together with the people.
+The current flood disaster is moving to the south of the Yangtze River, and the winter is coming. I am worried that the people in the south of the Yangtze River will be hungry and cold.
+In the Jiangnan area, fire plowing and water plowing were carried out, and Bashu grain was immediately transferred to Jiangling. Doctors and middlemen were sent to various places to inspect and inform the victims that Shu grain had arrived, so as to relieve their worries.
+Any officials or people who have made outstanding achievements in famine relief must report their deeds to the court in detail.
+In the winter of the third year, Hangu was moved to Xin'an, and the original address was Hongnong County.
+In November, it was ordered that anyone who exposed tax evasion would be rewarded with half of the amount they should pay.
+In the spring of the third year of Yuanding, a fire broke out in Yanglingyuan.
+In the summer of April, there was hail, and famine broke out in more than a dozen counties in Kanto, and cannibalism occurred.
+When Liu Shun, the king of Changshan, passed away, his son Bo Xun succeeded him. He was found guilty and moved to Fangling.
+In the winter and tenth month of the fourth year, I visited Yong and offered sacrifices to the Five Emperors. I was rewarded with the rank of baron, a hundred women, cattle, and some wine.
+Depart from Xiayang and arrive at Fenyin.
+On November 8, Hou Tu Temple was built on the east bank of Fenyin.
+After the ceremony, we arrived at Xingyang.
+Returning to the capital from Luoyang, he issued an edict: "The Queen's sacrifice will be carried out in Jizhou, and we will look at the Luoshui River of the Yellow River. We will inspect Yuzhou and inspect the old sites of the Zhou Dynasty. The Zhou temple has been closed for worship for a long time."
+After asking the local elders, he found Ji Jia, a descendant of the Zhou Dynasty.
+Now Jia is granted the title of Zhou Zinanjun to inherit Zhou's sacrifices.
+In the second month of spring, Liu Sheng, the king of Zhongshan, passed away.
+In the Xia Dynasty, Luan Da, a scholar of alchemy, was appointed Marquis of Letong and became a general.
+In June, I got the tripod next to Houtu Temple.
+In autumn, it is said that horses are born in Wowa water.
+Composed the songs "Baoding" and "Tianma" to celebrate the occasion.
+Prince Liu Shang of Changshan was made King of Surabaya.
+In the winter of the fifth year and in the tenth month, I was lucky enough to go to Yong to offer sacrifices to the Five Emperors?
+Then we crossed Longshan Mountain, ascended Tongshan Mountain in the sky, and returned to the Zuli River in the west.
+On the first day of November, the winter solstice, Li Tai?
+In Ganquan County.
+
+summary:
+summary line 5: In the first year of Yuanding, a tripod was found in the Fen River. In the second year, officials died, and Bailiang Terrace was built. Floods caused starvation. In the third year, the emperor moved Hangu and ordered tax evasion rewards. In the fourth year, he built Hou Tu Temple and granted titles to Zhou descendants. In the fifth year, he sacrificed to the sun and moon, found a tripod, and composed songs. In the sixth year, Nanyue rebelled, and the emperor sent generals to suppress it. The Western Qiang and Xiongnu invaded. In the first year of Yuanfeng, the emperor patrolled the border, shocking the Xiongnu. Dongyue submitted, and people were moved. He climbed Mount Song, built altars, and issued edicts on reforms.
+
+Chunk 13: 
+original: 
+十二月，禅高里，祠后土。
+东临勃海，望祠蓬莱。
+春，还，受计于甘泉。
+二月，起建章宫。
+夏五月，正历，以正月为岁首。色上黄，数用五，定官名，协音律。
+遣因杅将军公孙敖筑塞外受降城。
+秋八月，行幸安定。遣贰师将军李广利发天下谪民西征大宛。
+蝗从东方飞至敦煌。
+二年春正月戊申，丞相庆薨。
+三月，行幸河东，祠后土。
+令天下大酺五日，膢五日，祠门户，比腊。
+夏四月，诏曰： 朕用事介山，祭后土，皆有光应。其赦汾阴、安邑殊死以下。
+五月，籍吏民马补车骑马。
+秋，蝗。
+遣浚稽将军赵破奴二万骑出朔方击匈奴，不还。
+冬十二月，御史大夫儿宽卒。
+三年春正月，行东巡海上。
+夏四月，还，修封泰山，禅石闾。
+遣光禄勋徐自为筑五原塞外列城，西北至卢朐，游击将军韩说将兵屯之。
+强弩都尉路博德筑居延。
+秋，匈奴人定襄、云中，杀略数千人，行坏光禄诸亭、障；又入张掖、酒泉，杀都尉。
+四年春，贰师将军广利斩大宛王首，获汗血马来。作《西极天马之歌》。
+秋，起明光宫。
+冬，行幸回中。
+徙弘农都尉治武关，税出入者以给关吏、卒食。
+天汉元年春正月，行幸甘泉，郊泰畴。
+三月，行幸河东，祠后土。
+匈奴归汉使者，使使来献。
+夏五月，赦天下。
+秋，闭城门大搜。发谪戍屯五原。
+二年春，行幸东海。还幸回中。
+夏五月，贰师将军三万骑出酒泉，与右贤王战于天山，斩首虏万余级。
+又遣因杅将军出西河，骑都尉李陵将步兵五千人出居延北，与单于战，斩首虏万余级。
+陵兵败，降匈奴。
+translation: 
+In December, sacrifices are held at Mount Gaoli at the foot of Mount Tai and at the Hou Tu Temple.
+It faces the Bohai Sea in the east and looks forward to offering sacrifices to Penglai.
+Returning to Kyoto in the spring, he was sent to Ganquan Palace by the governors.
+In February, the Zhang Palace was built.
+In the fifth month of summer, the calendar was revised, using the first month as the first month of the year, using yellow as the color, using straight characters for seals, unifying official names, and harmonizing music and rhythm.
+General Gongsun Ao was sent to build a city outside the fortress to accept the surrender.
+In autumn and August, he patrolled Anding County and sent General Li Guangli of the Second Division to recruit the criminals from all over the world who were sent into exile to guard the border and march westward to Dawan.
+Locusts flew from the east to Dunhuang.
+In the first month of spring of the second year, Prime Minister Shi Qing passed away.
+In March, the emperor traveled to Hedong to worship the Houtu God.
+The people were ordered to drink for five days to rejoice, pray for five days, and offer sacrifices in temples, the specifications of which were the same as those of the wax festival.
+In the fourth month of summer, an edict was issued saying: I offered sacrifices to Jieshan and prayed for blessings on the land, and the spiritual light induced me to pardon criminals below death row in Fenyin and Anyi.
+In May, the officials and people’s horses were registered to supplement the horses for carriage and riding.
+Autumn, locust plague.
+He sent Junji General Zhao Ponu with 20,000 cavalry out of Shuofang to attack the Xiongnu, and the entire army was wiped out.
+In the winter of December, Erkuan, the imperial censor, passed away.
+In the first month of spring of the third year, the emperor went eastward to patrol the sea.
+In the fourth month of summer, on the way back, he built a seal on Mount Tai and offered sacrifices to Mount Shilu.
+Guang Luxun and Xu Ziwei were sent to build a series of fortresses outside the Wuyuan Great Wall, northwest to Luqu Mountain, and guerrilla general Han Shuo led the troops to garrison.
+Lu Bode, the captain of Qiannu, built his residence in Yancheng.
+In autumn, the Xiongnu invaded Dingxiang and Yunzhong, killing and plundering thousands of people, and destroying the pavilions and barriers built by Guangluxun. They also entered Zhangye and Jiuquan and killed the captains.
+In the spring of the fourth year, Li Guangli, the general of the Second Division, beheaded the King of Dayuan and won a horse that had sweated thousands of miles. The imperial court wrote "Song of the West Pole Pegasus" to celebrate.
+In autumn, the Guangming Palace rises.
+In winter, I will be lucky to return to the center.
+The captain who moved to Hongnong set up a tax card at Wuguan to collect entry and exit tariffs to provide the daily needs of customs officials and guards.
+In the first month of spring in the first year of Tianhan, the emperor came to Ganquan and offered sacrifices to Mount Tai in the suburbs.
+In March, he came to Hedong to offer sacrifices to Hou Tu.
+The Huns returned the Han envoys and sent envoys to offer tribute.
+In the fifth month of summer, there is a general amnesty for the whole world.
+In autumn, the city gates were closed to search for those who violated the law and wasted money, and the criminals were assigned to guard the Wuyuan border.
+In the spring of the second year, I traveled to the East China Sea and returned to China.
+In the fifth month of summer, the General of the Second Division led 30,000 cavalry out of Jiuquan and fought against King Youxian of the Xiongnu in the Tianshan Mountains, beheading more than 10,000 of the enemy.
+He also sent General Yin Muyu out of Xihe, and Li Ling, the Cavalry Commander, sent 5,000 infantrymen out of Yanbei to fight Shanyu and beheaded more than 10,000 enemies.
+Li Ling was defeated and surrendered to the Huns.
+
+summary:
+summary line 6: In the first year of Taichu, the emperor revised the calendar and built a palace. In the second year, he sacrificed to Houtu. In the third year, he built fortresses. In the fourth year, Li Guangli beheaded the King of Dayuan. In the first year of Tianhan, the Xiongnu returned envoys. In the second year, Li Guangli fought the Xiongnu, but Li Ling surrendered. Witchcraft was investigated. In the third year, the emperor sacrificed at Mount Tai. In the fourth year, he sent generals against the Xiongnu. In the first year of Taishi, Gongsun Ao was executed. In the second year, the emperor obtained a white unicorn and changed gold forms. In the third year, he visited the East China Sea. In the fourth year, he sacrificed at Mount Tai. In the first year of Zhenghe, witchcraft occurred. In the second year, the crown prince fled and committed suicide. In the third year, Li Guangli surrendered to the Xiongnu. In the fourth year, the emperor plowed land and repaired Mount Tai. In the first year of Hou Yuan, he pardoned the world. In the second year, he made Prince Fuling crown prince and died in Wuzha Palace.
+
+Chunk 16: 
+original: 
+三月，遣贰师将军广利将七万人出五原，御史大夫商丘成二万人出西河，重合侯马通四万骑出酒泉。
+成至浚稽山与虏战，多斩首。
+通至天山，虏引去，因降车师。
+皆引兵还。
+广利败，降匈奴。
+六月，丞相屈氂下狱要斩，妻枭首。
+秋，蝗。
+九月，反者公孙勇、胡倩发觉，皆伏辜。
+四年春正月，行幸东莱，临大海。
+二月丁酉，陨石于雍，二，声闻四百里。
+三月，上耕于巨定。
+还幸泰山，修封。
+庚寅，祀于明堂。
+癸巳，禅石闾。
+夏六月，还幸甘泉。
+秋八月辛酉晦，日有蚀之。
+后元元年春正月，行幸甘泉，郊泰畴，遂幸安定。
+昌邑王髆薨。
+二月，诏曰： 朕郊见上帝，巡于北边，见群鹤留止，以不罗罔，靡所获献。
+荐于泰畴，光景并见。
+其赦天下。
+夏六月，御史大夫商丘成有罪，自杀。
+侍中仆射莽河罗与弟重合侯通谋反，侍中驸马都尉金日磾、奉车都尉霍光、骑都尉上官桀讨之。
+秋七月，地震，往往涌泉出。
+二年春正月，朝诸侯王于甘泉宫，赐宗室。
+二月，行幸盩厔五柞宫。
+乙丑，立皇子弗陵为皇太子。
+丁卯，帝崩于五柞宫，入殡于未央宫前殿。
+三月甲申，葬茂陵。
+赞曰：汉承百王之弊，高祖拨乱反正，文、景务在养民，至于稽古礼文之事，犹多阙焉。
+孝武初立，卓然罢黜百家，表章《六经》。遂畴咨海内，举其俊茂，与之立功。
+translation: 
+In March, Li Guangli, the general of the Second Division, led 70,000 troops out of Wuyuan, Shang Qiucheng, the imperial censor, led 20,000 troops out of Xihe, and Hou Ma Tong led 40,000 cavalry out of Jiuquan.
+Shangqiu formed an army and went to Junji Mountain to engage the enemy and beheaded many of them.
+Ma Tong's troops reached the Tianshan Mountains, but the Huns retreated and took advantage of the situation to conquer the chariot division.
+Generals Shang and Ma both withdrew their troops and returned to the court.
+Li Guangli was defeated and surrendered to the Huns.
+In June, Prime Minister Liu Quyou was imprisoned and beheaded because his wife was involved in witchcraft.
+In autumn, there was a locust plague.
+In September, Gongsun Yong and Hu Qian were found guilty of treason and were executed.
+In the first month of spring of the fourth year, I came to Donglai and looked at the sea.
+On the third day of February, a meteorite fell in Yongdi, and its sound was heard four hundred miles away.
+In March, the emperor plowed the land in person.
+On the way back, he climbed Mount Tai and repaired the seal.
+On March 26, a sacrifice was held in Mingtang.
+On the 29th, sacrifices were made to Shilu Mountain.
+In June of summer, I returned to Ganquan.
+On August 30th in autumn, a partial solar eclipse occurred.
+In the first month of spring of the first year of Hou Yuan Dynasty, he drove to Ganquan to worship the god of Mount Tai in the suburbs, and then came to Anding.
+Wang Kun of Changyi passed away.
+In February, an edict was issued saying: I saw a spiritual light from heaven during the festival in the suburbs. When I was patrolling to the north, I saw a group of cranes roosting. At that time, it was not the time for trapping and killing, so I did not go hunting.
+When worshiping at Taishan Temple, auras and divine shadows appeared together.
+Therefore forgive the sinners in the world.
+In June of Xia, Shang Qiucheng, the imperial censor, committed suicide.
+The servant Shemang Heluo and his younger brother Hou Matong conspired to rebel. The prince-in-law Jin Rishidan, the commander of the carriage, Huo Guang, the commander of the chariot, and Shangguan Jie, the commander of the cavalry, joined forces to conquer.
+In autumn and July, there were earthquakes and magma gushes out from time to time.
+In the spring of the second year and the first month of the first lunar month, all princes and kings came to the emperor in Ganquan Palace, and the emperor rewarded the clan.
+In February, I came to Wuzha Palace in Zhouzhi County.
+On February 12, Prince Fuling was made the crown prince.
+On the 14th, Emperor Wu died in Wuzha Palace. The funeral was held in the front hall of Weiyang.
+On the second day of March, he was buried in Maoling.
+Ban Gu commented: The Han Dynasty was founded in a turbulent period when heroes were vying for the throne. Emperor Gaozu of the Han Dynasty brought order to the chaos, and Emperor Wen and Emperor Jing made recuperation and recuperation his top priority. However, there was still a lack of achievements in the cultural affairs of ancient rituals.
+In the early days of Emperor Wu of the Han Dynasty, he resolutely dismissed hundreds of schools of thought and advocated Confucianism alone. He also sought advice from others, recommended talented people, and gave them opportunities to make contributions.
+
+summary:
+summary line 7: Ban Gu commented: Emperor Wu dismissed hundreds of schools, promoted Confucianism, established Imperial College, and reformed rituals. He inherited ancestral achievements but lacked frugality, which even praised emperors could not surpass.
+

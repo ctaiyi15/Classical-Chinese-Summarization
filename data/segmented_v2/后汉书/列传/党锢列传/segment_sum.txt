@@ -1,0 +1,1630 @@
+Summary uses chunk [0, 0, 1, 2, 2, 3, 6, 6, 7, 7, 8, 8, 8, 9, 11, 11, 12, 13, 1, 14, 14, 14, 15, 15, 15, 16]
+
+Chunk 0: 
+original: 
+孔子曰： 性相近也，习相远也。
+言嗜恶之本同，而迁染之涂异也。
+夫刻意则行不肆，牵物则其志流。
+是以圣人导人理性，裁抑宕佚，慎其所与，节其所偏，虽情品万区，质文异数，至于陶物振俗，其道一也。叔末浇讹，王道陵缺，而犹假仁以效己，凭义以济功。
+举中于理，则强梁褫气；片言违正，则厮台解情。
+盖前哲之遗尘，有足求者。
+霸德既衰，狙诈萌起。
+强者以决胜为雄，弱者以诈劣受屈。
+至有画半策而绾万金，开一说而锡琛瑞。
+或起徒步而仕执珪，解草衣以升卿相。
+士之饰巧驰辩，以要能钓利者，不期而景从矣。
+自是爱尚相夺，与时回变，其风不可留，其敝不能反。及汉祖仗剑，武夫兴，宪令宽赊，文礼简阔，绪余四豪之烈，人怀陵上之心，轻死重气，怨惠必仇，令行私庭，权移匹庶，任侠之方，成其俗矣。
+自武帝以后，崇尚儒学，怀经协术，所在雾会，至有石渠分争之论，党同伐异之说，守文之徒，盛于时矣。
+至王莽专伪，终于篡国，忠义之流，耻见缨绋，遂乃荣华丘壑，甘足枯槁。
+虽中兴在运，汉德重开，而保身怀方，弥相慕袭，去就之节，重于时矣。
+逮桓、灵之间，主荒政缪，国命委于阉寺，士子羞与为伍，故匹夫抗愤，处士横议，遂乃激扬名声，互相题拂，品核公卿，裁量执政，婞直之风，于斯行矣。
+夫上好则下必甚，矫枉故直必过，其理然矣。
+translation: 
+Preface to the Biography of Dang Guo, Confucius said: Their natures are similar, but their habits are far apart.
+This means that people's likes and dislikes are the same in nature, but their education and environment make people's temperament and conduct very different.
+Therefore, a virtuous person teaches others to cultivate their character, overcome dissolute behavior, be cautious in making friends, control bias, and be fair in dealing with situations.
+Although people's emotions are vastly different, and their culture and quality are also different, as for cultivating talents and revitalizing customs, the principles are the same. In the chaos of the weekend, customs are superficial and hypocritical, the country is out of order, and disciplines are lax. There are also people who use the name of benevolence to achieve their own goals and rely on loyalty to make their careers successful.
+If the behavior is in line with the law, even the cruel and brutal people will have to submit; if the words are irrational, the base and ignorant people can also feel it.
+The things left by the wise people of the past are worth learning.
+As tyranny declines, fraud occurs.
+The strong prevail through decisive victory, while the weak suffer due to deceit.
+Some even received tens of thousands of gold for half an idea, and some received treasures for one word.
+Some people were born as common people and became high officials, and were promoted to ministers. People who are eloquent and resourceful, who show off their talents in order to gain fame and wealth, come unexpectedly.
+Since then, lovers have been fighting each other. As time goes by, this trend is irreversible and the evils cannot be reversed.
+By the time Emperor Gaozu of the Han Dynasty rose to power with his sword, people who advocated force had sprung up. The laws were relaxed and the etiquette was simple and unobtrusive. They inherited the style of the four monarchs of Xinling, Pingyuan, Chunshen, and Mengchang. Everyone cherished the mentality of aggression and condescension, despised life and death, valued loyalty, and repaid each other if they had grievances and virtues. Orders were given to private individuals, and power was in the hands of ordinary men. It became a social custom to let the knights be the best.
+Since Emperor Wu of the Han Dynasty, Confucianism has been promoted, and scholars of Confucianism and Confucianism can be found everywhere. There was even a debate about the Six Arts in Shiqu Pavilion, and those who agreed with me became friends; those who disagreed attacked me. People who value literature are at their peak at this time.
+When Wang Mang took power and deceived himself, he finally usurped the throne of the Han Dynasty. Those who are loyal to the Han Dynasty and have a righteous mind are ashamed to serve as an official for Wang Mang, those who regard seclusion as an honor and are willing to be poor.
+Although Guangwu was revived and Han Dynasty was re-established, his wiseness to protect himself and his uprightness and self-restraint still made everyone envious of him. The important issue of being an official and not being an official is of great importance in current affairs!
+In the era of Emperor Huan and Emperor Ling, the monarchy was in chaos and politics was corrupt. The lifeline of the country was in the hands of the eunuchs. Scholars thought it was shameful to be with them. Therefore, the common people were indignant, and the virgins discussed freely, flaunted their honor, praised each other, evaluated the ministers, and discussed the gains and losses of governing. The upright atmosphere became widespread.
+What the top likes, the bottom likes more. To correct the crookedness, it must be straightened. This is the truth!
+
+summary:
+summary line 0: Confucius stated that human natures are similar but habits diverge greatly, meaning education and environment shape conduct. Virtuous people teach others to cultivate character, overcome dissolute behavior, and be cautious in making friends. During times of chaos, customs became superficial, and some used benevolence and loyalty as tools for personal gain. By Emperor Gaozu's rise, martial advocates emerged, inheriting the style of the four lords—Xinling, Pingyuan, Chunshen, and Mengchang—where people valued loyalty and vengeance. Under Emperor Wu, Confucianism flourished, with scholars debating the Six Arts at Shiqu Pavilion, forming factions based on agreement or disagreement.
+
+Chunk 0: 
+original: 
+孔子曰： 性相近也，习相远也。
+言嗜恶之本同，而迁染之涂异也。
+夫刻意则行不肆，牵物则其志流。
+是以圣人导人理性，裁抑宕佚，慎其所与，节其所偏，虽情品万区，质文异数，至于陶物振俗，其道一也。叔末浇讹，王道陵缺，而犹假仁以效己，凭义以济功。
+举中于理，则强梁褫气；片言违正，则厮台解情。
+盖前哲之遗尘，有足求者。
+霸德既衰，狙诈萌起。
+强者以决胜为雄，弱者以诈劣受屈。
+至有画半策而绾万金，开一说而锡琛瑞。
+或起徒步而仕执珪，解草衣以升卿相。
+士之饰巧驰辩，以要能钓利者，不期而景从矣。
+自是爱尚相夺，与时回变，其风不可留，其敝不能反。及汉祖仗剑，武夫兴，宪令宽赊，文礼简阔，绪余四豪之烈，人怀陵上之心，轻死重气，怨惠必仇，令行私庭，权移匹庶，任侠之方，成其俗矣。
+自武帝以后，崇尚儒学，怀经协术，所在雾会，至有石渠分争之论，党同伐异之说，守文之徒，盛于时矣。
+至王莽专伪，终于篡国，忠义之流，耻见缨绋，遂乃荣华丘壑，甘足枯槁。
+虽中兴在运，汉德重开，而保身怀方，弥相慕袭，去就之节，重于时矣。
+逮桓、灵之间，主荒政缪，国命委于阉寺，士子羞与为伍，故匹夫抗愤，处士横议，遂乃激扬名声，互相题拂，品核公卿，裁量执政，婞直之风，于斯行矣。
+夫上好则下必甚，矫枉故直必过，其理然矣。
+translation: 
+Preface to the Biography of Dang Guo, Confucius said: Their natures are similar, but their habits are far apart.
+This means that people's likes and dislikes are the same in nature, but their education and environment make people's temperament and conduct very different.
+Therefore, a virtuous person teaches others to cultivate their character, overcome dissolute behavior, be cautious in making friends, control bias, and be fair in dealing with situations.
+Although people's emotions are vastly different, and their culture and quality are also different, as for cultivating talents and revitalizing customs, the principles are the same. In the chaos of the weekend, customs are superficial and hypocritical, the country is out of order, and disciplines are lax. There are also people who use the name of benevolence to achieve their own goals and rely on loyalty to make their careers successful.
+If the behavior is in line with the law, even the cruel and brutal people will have to submit; if the words are irrational, the base and ignorant people can also feel it.
+The things left by the wise people of the past are worth learning.
+As tyranny declines, fraud occurs.
+The strong prevail through decisive victory, while the weak suffer due to deceit.
+Some even received tens of thousands of gold for half an idea, and some received treasures for one word.
+Some people were born as common people and became high officials, and were promoted to ministers. People who are eloquent and resourceful, who show off their talents in order to gain fame and wealth, come unexpectedly.
+Since then, lovers have been fighting each other. As time goes by, this trend is irreversible and the evils cannot be reversed.
+By the time Emperor Gaozu of the Han Dynasty rose to power with his sword, people who advocated force had sprung up. The laws were relaxed and the etiquette was simple and unobtrusive. They inherited the style of the four monarchs of Xinling, Pingyuan, Chunshen, and Mengchang. Everyone cherished the mentality of aggression and condescension, despised life and death, valued loyalty, and repaid each other if they had grievances and virtues. Orders were given to private individuals, and power was in the hands of ordinary men. It became a social custom to let the knights be the best.
+Since Emperor Wu of the Han Dynasty, Confucianism has been promoted, and scholars of Confucianism and Confucianism can be found everywhere. There was even a debate about the Six Arts in Shiqu Pavilion, and those who agreed with me became friends; those who disagreed attacked me. People who value literature are at their peak at this time.
+When Wang Mang took power and deceived himself, he finally usurped the throne of the Han Dynasty. Those who are loyal to the Han Dynasty and have a righteous mind are ashamed to serve as an official for Wang Mang, those who regard seclusion as an honor and are willing to be poor.
+Although Guangwu was revived and Han Dynasty was re-established, his wiseness to protect himself and his uprightness and self-restraint still made everyone envious of him. The important issue of being an official and not being an official is of great importance in current affairs!
+In the era of Emperor Huan and Emperor Ling, the monarchy was in chaos and politics was corrupt. The lifeline of the country was in the hands of the eunuchs. Scholars thought it was shameful to be with them. Therefore, the common people were indignant, and the virgins discussed freely, flaunted their honor, praised each other, evaluated the ministers, and discussed the gains and losses of governing. The upright atmosphere became widespread.
+What the top likes, the bottom likes more. To correct the crookedness, it must be straightened. This is the truth!
+
+summary:
+summary line 1: When Wang Mang usurped the Han throne, loyal scholars refused to serve him, preferring poverty and seclusion. Although Guangwu revived the Han, the issue of serving in office remained critical. During Emperors Huan and Ling's reigns, eunuchs controlled the government, and scholars considered it shameful to associate with them. Commoners became indignant, and upright scholars freely discussed governance, praising each other and criticizing ministers. This righteous atmosphere spread widely, but eventually led to the disaster of the Party禁锢, as seen with Fan Pang and Zhang Jian.
+
+Chunk 1: 
+original: 
+若范滂、张俭之徒，清心忌恶，终陷党议，不其然乎？
+初，桓帝为蠡吾侯，受学于甘陵周福，及即帝位，擢福为尚书。
+时同郡河南尹房植有名当朝，乡人为之谣曰： 天下规矩房伯武，因师获印周仲进。
+二家宾客，互相讥揣，遂各树朋徒，渐成尤隙，由是甘陵有南北部，党人之议，自此始矣。
+后汝南太守宗资任功曹范滂，南阳太守成瑨亦委功曹岑，二郡又为谣曰： 汝南太守范孟博，南阳宗资主画诺。
+南阳太守岑公孝，弘农成瑨但坐啸。
+因此流言转入太学，诸生三万余人，郭林宗、贾伟节为其冠，并与李膺、陈蕃、王暢更相褒重。
+学中语曰： 天下模楷李元礼，不畏强御陈仲举，天下俊秀王叔茂。
+又渤海公族进阶、扶风魏齐卿，并危言深论，不隐豪强。
+自公卿以下，莫不畏其贬议，屣履到门。
+时，河内张成善说风角，推占当赦，遂教子杀人。
+李膺为河南尹，督促收捕，既而逢宥获免，膺愈怀愤疾，竟案杀之。
+初，成以方伎交通宦官，帝亦颇谇其占。
+成弟子牢修因上书诬告膺等养太学游士，交结诸郡生徒，更相驱驰，共为部党，诽讪朝廷，疑乱风俗。
+于是天子震怒，班下郡国，逮捕党人，布告天下，使同忿疾，遂收执膺等。
+其辞所连及陈寔之徒二百余人，或有逃遁不获，皆悬金购募。
+使者四出，相望于道。
+明年，尚书霍谞、城门校尉窦武并表为请，帝意稍解，乃皆赦归田里，禁锢终身。
+而党人之名，犹书王府。
+自是正直废放。
+邪枉炽结，海内希风之流，遂共相标榜，指天下名士，为之称号。上曰 三君 ，次曰 八俊 ，次曰 八顾 ，次曰 八及 ，次曰 八厨 ，犹古之 八元 、 八凯 也。
+窦武、刘淑、陈蕃为 三君 。
+translation: 
+Isn't it true that Fan Pang, Zhang Jian, etc., suffered from bad governance during the Qing Dynasty, and finally fell into the disaster of the Party's control?
+In the past, Emperor Huan was the Marquis of Liwu. He learned from Zhou Fu in Ganling and became the emperor. He promoted Zhou Fu to be the minister.
+At that time, Yin Fangzhi of Henan, who was in the same county as Zhou Fu, was very famous in the court. The people in the village made two songs: Fang Bowu is the rule in the world, and Zhou Zhongjin was awarded the seal because of his division.
+The guests from the two families ridiculed each other, so they each made friends, which gradually became enemies. As a result, Ganling was divided into northern and southern parts, and the name of the party members began to exist.
+Later, the prefect of Runan, Zongzi, appointed Cao Fanpang, and the prefect of Nanyang, Cheng Jin, also appointed the meritorious Cao Cenri. The two counties also composed a ballad saying: Fan Mengbo, the prefect of Runan, is the master of Nanyang Zongzi.
+Nanyang Prefect Cen Gongxiao, Hongnong Cheng Jindan sat and whistled.
+Therefore, rumors spread to the Imperial College, and there were more than 30,000 students there. Guo Linzong and Jia Weijie were the leaders, and they all respected each other with Li Ying, Chen Fan, and Wang Chang.
+There is a rumor in the school: Li Yuanli is a model in the world, Chen Zhongju is not afraid of force, and Wang Shumao is a handsome man in the world.
+In addition, the Bohai clan has advanced, and Fufeng and Wei Qiqing all dare to speak out and are not afraid of the powerful.
+From the ministers down, everyone who was not afraid of their accusations came to accept them one after another.
+At that time, Zhang Cheng in Hanoi was good at fortune telling. He used the wind in all directions to predict good and bad luck. He speculated that the court would grant amnesty, so he taught his son to kill people.
+Li Ying was the Yin of Henan and urged the arrest of Zhang Cheng. Soon, when the imperial court pardoned him and exempted him from arrest, Li Ying became even more angry and arrested and executed him.
+At first, Zhang Cheng used astrology to make friends with eunuchs, and the emperor once asked Zhang Cheng about his divination.
+Therefore, Zhang Cheng's disciple Lao wrote a letter and falsely accused Li Ying and others of adopting Taixue travellers, making friends with students in various counties, causing trouble, forming cliques, slandering the court, and disrupting customs.
+So the emperor became angry, promulgated the prefectures, arrested party members, and announced to the whole world that they shared the same hatred with the enemy. So Li Ying and others were arrested.
+There were more than 200 Chen Chen's followers mentioned in the confession. Some of them escaped but were not caught, and rewards were offered for their capture.
+People were sent out to search and hunt, and there was an endless stream of people on the road.
+The next year, Shangshu Huo, Chengmen Colonel Dou Wu and others all petitioned the emperor to reconsider, and the emperor's anger was somewhat relieved.
+So those arrested were sent back to the countryside without charge and were banned from employment for life. The names of party members are written in the palace.
+Since then, the upright people have been abandoned, and the bad people have similar odors and collude together.
+People in the country who pursue high integrity and integrity praise each other, refer to celebrities in the world, and set a label. The first one is called Sanjun, the second is called Bajun, the third is called Bagu, the fourth is called Baji, and the fifth is called Bachu, which is similar to the ancient Ba Yuan and Ba Kai.
+Dou Wu, Liu Shu and Chen Fan were called the "Three Monarchs".
+
+summary:
+summary line 2: The party incident began when Emperor Huan, formerly Marquis of Liwu, studied under Zhou Fu and later promoted him. Yin Fangzhi of Henan was also famous, and their guests ridiculed each other, forming factions that divided Ganling into northern and southern parts. Later, Prefect Zongzi of Runan appointed Fan Pang, and Prefect Cheng Jin of Nanyang appointed Cen Ri. Ballads spread to the Imperial College, where over 30,000 students followed leaders Guo Linzong and Jia Weijie, respecting Li Ying, Chen Fan, and Wang Chang. Rumors praised Li Yuanli as a model, Chen Zhongju as fearless, and Wang Shumao as outstanding. Others like the Bohai clan and Fufeng Wei Qiqing dared to speak against the powerful.
+
+Chunk 2: 
+original: 
+君者，言一世之所宗也。
+李膺、荀翌、杜密、王暢、刘祐、魏朗、赵典、朱为 八俊 。
+俊者，言人之英也。
+郭林宗、宗慈、巴肃、夏馥、范滂、尹勋、蔡衍、羊陟为 八顾 。
+顾者，言能以德行引人者也。张俭、岑晊、刘表、陈翔、孔昱、苑康、檀敷、翟超为 八及 。
+及者，言其能导人追宗者也。
+度尚、张邈、王考、刘儒、胡母班、秦周、蕃向、王章为 八厨 。厨者，言能以财救人者也。
+又张俭乡人朱，承望中常侍侯览意旨，上书告俭与同乡二十四人别相署号，共为部党，图危社稷。
+以俭及檀彬、褚凤、张肃、薛兰、冯禧、魏玄、徐乾为 八俊 田林、张隐、刘表、薛郁、王访、刘祗、宣靖、公绪恭为 八顾 ，朱楷、田槃、耽、薛敦、宋布、唐龙、嬴咨、宣褒为 八及 ，刻石立墠，共为部党，而俭为之魁。
+灵帝诏刊章捕俭等。
+大长秋曹节因此讽有司奏捕前党故司空虞放、太仆杜密、长乐少府李膺、司隶校尉朱、颍川太守巴肃、沛相荀翌、河内太守魏朗、山阳太守翟超、任城相刘儒、太尉掾范滂等百余人，皆死狱中。
+余或先殁不及，或亡命获免。
+自此诸为怨隙者，因相陷害，睚眦之忿，滥入党中。
+又州郡承旨，或有未尝交关，亦离祸毒。
+其死徙废禁者，六七百人。
+熹平五年，永昌太守曹鸾上书大讼党人，言甚方切。
+帝省奏大怒，即诏司隶、益州槛车收鸾，送槐里狱掠杀之。
+于是又诏州郡更考党人门生故吏父子兄弟，其在位者，免官禁锢，爰及五属。
+光和二年，上禄长和海上言： 礼，从祖兄弟别居异财，恩义已轻，服属疏末。而今党人锢及五族，既乖典训之文，有谬经常之法。
+帝览而悟之，党锢自从祖以下，皆得解释。
+中平元年，黄巾贼起，中常侍吕强言于帝曰： 党锢久积，人情多怨。
+王考字文祖，东平寿张人，冀州刺史；秦周字平王，陈留平丘人，北海相；蕃向字嘉景，鲁国人，郎中；王璋字伯仪，东莱曲城人，少府卿：位行并不显。翟超，山阳太守，事在《陈蕃传》，字及郡县未详。
+朱，沛人，与杜密等俱死狱中。唯赵典名见而已。
+translation: 
+Jun means to be the sect of one generation.
+Li Ying, Xun Yi, Du Mi, Wang Chang, Liu You, Wei Lang, Zhao Dian, and Zhu were called the eight heroes.
+Jun means a hero among people.
+Guo Linzong, Zongci, Basu, Xia Fu, Fan Pang, Yin Xun, Cai Yan and Yangzhi are called Bagu.
+Gu means being able to use one's own moral character to support others. Zhang Jian, Cen Rizhi, Liu Biao, Chen Xiang, Kong Yu, Yuan Kang, Tanfu and Zhai Chao are called eight and eight.
+And, it means being able to guide others to follow the religion.
+Du Shang, Zhang Miao, Wang Kao, Liu Ru, Hu Muban, Qin Zhou, Fan Xiang, and Wang Zhang were called the "Eight Chefs", which meant that they could save people with money.
+In addition, Zhu Bing, a native of Zhang Jian's hometown, wrote a letter to Zhang Jian and twenty-four people from his hometown to act as cronies and to harm the country.
+Zhang Jian, Tan Bin, Chu Feng, Zhang Su, Xue Lan, Feng Xi, Wei Xuan and Xu Qian were the eight heroes; Tian Lin, Zhang Yin, Liu Biao, Xue Yu, Wang Fang, Liu Zhi, Xuan Jing and Gongxugong were the eight heroes; Zhu Kai, Tian, ​​Shudan, Xue Dun, Song Bu, Tang Long, Ying Zi and Xuan Bao were the eight heroes. The carved stones were erected in the suburbs. We are all friends, Zhang Jian is too handsome.
+Emperor Ling issued an edict to arrest Zhang Jian and others, but Zhu Bing's name was not included in the edict.
+To maintain confidentiality. Therefore, Cao Jie in the Great Changqiu period signaled the relevant officials to report the arrest of the former party members Xian Sikong Yufang, Taipu Du Mi, Changle Shaofu Li Ying, Sili Colonel Zhu E, Yingchuan Prefect Basu, Pei Prime Minister Xun Yi, Hanoi Prefect Wei Lang, Shanyin Prefect Zhai Chao, Rencheng Prime Minister Liu Ru, and Taiwei Fan Pang. More than 100 people died in prison.
+Some of the others died before being captured, and some escaped without being captured.
+From then on, anyone who had resentments, framed each other, or even had a slight personal grudge would be classified as a clique.
+Youzhou and counties followed the orders from above, and some of them had no contact with them at all, and were also implicated.
+Six to seven hundred people were killed, exiled, and banned.
+In the fifth year of Xiping's reign, Cao Luan, the prefect of Yongchang, wrote a letter loudly calling for justice for the party members. His words were legitimate and consistent with the facts.
+The emperor was furious after reading the memorial and immediately issued an edict to the officials. Yizhou arrested Cao Luan in a carriage and sent him to Huaili prison to be beaten to death.
+So he issued an order to the prefectures and counties to examine party disciples, old subordinates, fathers, sons and brothers. Those who were in office were removed from their posts and banned from serving as officials, which involved five generations.
+In the second year of Guanghe's reign, Shanglu Changhe Haishu wrote: Li, the brothers of Congzu separated and their property was also divided. The kindness has been neglected, and mourning is also the end of alienation. Now the party members have imprisoned the five clans, which is no longer in line with the laws and regulations. Father, son, brother, are not implicated in the crime; it also violates the regular laws.
+After seeing this, the emperor came to his senses, and all the prison terms imposed by the party since his ancestors were lifted.
+In the first year of Zhongping, the Yellow Turban bandits arose. Lu Qiang, the official of the Central Committee, said to the emperor: The party has been imprisoned for such a long time, and many people are dissatisfied.
+If the sin is not forgiven for a long time, it is easy to conspire with Zhang Jiao, causing great chaos and regret. The emperor was frightened by what he said, so he pardoned the party members and the family members who had been executed and moved back to their original counties. Later, the Yellow Turban Rebellion, the government fell apart, and the country's principles and regulations disappeared.
+In total, the crony incidents began in Ganling and Runan and ended with Li Ying and Zhang Jian. Within the four seas, people were in dire straits and displaced. For more than 20 years, all those affected were good people in the world.
+
+summary:
+summary line 3: Zhang Cheng of Hanoi, skilled in fortune-telling, predicted an amnesty and had his son kill someone. Li Ying, as Henan Yin, arrested and executed Zhang Cheng despite the amnesty. Zhang Cheng's disciple falsely accused Li Ying and others of forming cliques, slandering the court. The emperor arrested over 200 party members, with some escaping. The next year, officials petitioned for reconsideration, and the arrested were sent home but banned from office for life. Thereafter, upright people were abandoned, while the wicked colluded. Those pursuing high integrity praised each other, creating labels: Sanjun (Three Monarchs), Bajun (Eight Heroes), Bagu (Eight Supports), Baji (Eight Guides), and Bachu (Eight Assistants). Dou Wu, Liu Shu, and Chen Fan were Sanjun; Li Ying, Xun Yi, Du Mi, Wang Chang, Liu You, Wei Lang, Zhao Dian, and Zhu were Bajun; Guo Linzong, Zongci, Basu, Xia Fu, Fan Pang, Yin Xun, Cai Yan, and Yangzhi were Bagu; Zhang Jian, Cen Rizhi, Liu Biao, Chen Xiang, Kong Yu, Yuan Kang, Tanfu, and Zhai Chao were Baji; Du Shang, Zhang Miao, Wang Kao, Liu Ru, Hu Muban, Qin Zhou, Fan Xiang, and Wang Zhang were Bachu.
+
+Chunk 2: 
+original: 
+君者，言一世之所宗也。
+李膺、荀翌、杜密、王暢、刘祐、魏朗、赵典、朱为 八俊 。
+俊者，言人之英也。
+郭林宗、宗慈、巴肃、夏馥、范滂、尹勋、蔡衍、羊陟为 八顾 。
+顾者，言能以德行引人者也。张俭、岑晊、刘表、陈翔、孔昱、苑康、檀敷、翟超为 八及 。
+及者，言其能导人追宗者也。
+度尚、张邈、王考、刘儒、胡母班、秦周、蕃向、王章为 八厨 。厨者，言能以财救人者也。
+又张俭乡人朱，承望中常侍侯览意旨，上书告俭与同乡二十四人别相署号，共为部党，图危社稷。
+以俭及檀彬、褚凤、张肃、薛兰、冯禧、魏玄、徐乾为 八俊 田林、张隐、刘表、薛郁、王访、刘祗、宣靖、公绪恭为 八顾 ，朱楷、田槃、耽、薛敦、宋布、唐龙、嬴咨、宣褒为 八及 ，刻石立墠，共为部党，而俭为之魁。
+灵帝诏刊章捕俭等。
+大长秋曹节因此讽有司奏捕前党故司空虞放、太仆杜密、长乐少府李膺、司隶校尉朱、颍川太守巴肃、沛相荀翌、河内太守魏朗、山阳太守翟超、任城相刘儒、太尉掾范滂等百余人，皆死狱中。
+余或先殁不及，或亡命获免。
+自此诸为怨隙者，因相陷害，睚眦之忿，滥入党中。
+又州郡承旨，或有未尝交关，亦离祸毒。
+其死徙废禁者，六七百人。
+熹平五年，永昌太守曹鸾上书大讼党人，言甚方切。
+帝省奏大怒，即诏司隶、益州槛车收鸾，送槐里狱掠杀之。
+于是又诏州郡更考党人门生故吏父子兄弟，其在位者，免官禁锢，爰及五属。
+光和二年，上禄长和海上言： 礼，从祖兄弟别居异财，恩义已轻，服属疏末。而今党人锢及五族，既乖典训之文，有谬经常之法。
+帝览而悟之，党锢自从祖以下，皆得解释。
+中平元年，黄巾贼起，中常侍吕强言于帝曰： 党锢久积，人情多怨。
+王考字文祖，东平寿张人，冀州刺史；秦周字平王，陈留平丘人，北海相；蕃向字嘉景，鲁国人，郎中；王璋字伯仪，东莱曲城人，少府卿：位行并不显。翟超，山阳太守，事在《陈蕃传》，字及郡县未详。
+朱，沛人，与杜密等俱死狱中。唯赵典名见而已。
+translation: 
+Jun means to be the sect of one generation.
+Li Ying, Xun Yi, Du Mi, Wang Chang, Liu You, Wei Lang, Zhao Dian, and Zhu were called the eight heroes.
+Jun means a hero among people.
+Guo Linzong, Zongci, Basu, Xia Fu, Fan Pang, Yin Xun, Cai Yan and Yangzhi are called Bagu.
+Gu means being able to use one's own moral character to support others. Zhang Jian, Cen Rizhi, Liu Biao, Chen Xiang, Kong Yu, Yuan Kang, Tanfu and Zhai Chao are called eight and eight.
+And, it means being able to guide others to follow the religion.
+Du Shang, Zhang Miao, Wang Kao, Liu Ru, Hu Muban, Qin Zhou, Fan Xiang, and Wang Zhang were called the "Eight Chefs", which meant that they could save people with money.
+In addition, Zhu Bing, a native of Zhang Jian's hometown, wrote a letter to Zhang Jian and twenty-four people from his hometown to act as cronies and to harm the country.
+Zhang Jian, Tan Bin, Chu Feng, Zhang Su, Xue Lan, Feng Xi, Wei Xuan and Xu Qian were the eight heroes; Tian Lin, Zhang Yin, Liu Biao, Xue Yu, Wang Fang, Liu Zhi, Xuan Jing and Gongxugong were the eight heroes; Zhu Kai, Tian, ​​Shudan, Xue Dun, Song Bu, Tang Long, Ying Zi and Xuan Bao were the eight heroes. The carved stones were erected in the suburbs. We are all friends, Zhang Jian is too handsome.
+Emperor Ling issued an edict to arrest Zhang Jian and others, but Zhu Bing's name was not included in the edict.
+To maintain confidentiality. Therefore, Cao Jie in the Great Changqiu period signaled the relevant officials to report the arrest of the former party members Xian Sikong Yufang, Taipu Du Mi, Changle Shaofu Li Ying, Sili Colonel Zhu E, Yingchuan Prefect Basu, Pei Prime Minister Xun Yi, Hanoi Prefect Wei Lang, Shanyin Prefect Zhai Chao, Rencheng Prime Minister Liu Ru, and Taiwei Fan Pang. More than 100 people died in prison.
+Some of the others died before being captured, and some escaped without being captured.
+From then on, anyone who had resentments, framed each other, or even had a slight personal grudge would be classified as a clique.
+Youzhou and counties followed the orders from above, and some of them had no contact with them at all, and were also implicated.
+Six to seven hundred people were killed, exiled, and banned.
+In the fifth year of Xiping's reign, Cao Luan, the prefect of Yongchang, wrote a letter loudly calling for justice for the party members. His words were legitimate and consistent with the facts.
+The emperor was furious after reading the memorial and immediately issued an edict to the officials. Yizhou arrested Cao Luan in a carriage and sent him to Huaili prison to be beaten to death.
+So he issued an order to the prefectures and counties to examine party disciples, old subordinates, fathers, sons and brothers. Those who were in office were removed from their posts and banned from serving as officials, which involved five generations.
+In the second year of Guanghe's reign, Shanglu Changhe Haishu wrote: Li, the brothers of Congzu separated and their property was also divided. The kindness has been neglected, and mourning is also the end of alienation. Now the party members have imprisoned the five clans, which is no longer in line with the laws and regulations. Father, son, brother, are not implicated in the crime; it also violates the regular laws.
+After seeing this, the emperor came to his senses, and all the prison terms imposed by the party since his ancestors were lifted.
+In the first year of Zhongping, the Yellow Turban bandits arose. Lu Qiang, the official of the Central Committee, said to the emperor: The party has been imprisoned for such a long time, and many people are dissatisfied.
+If the sin is not forgiven for a long time, it is easy to conspire with Zhang Jiao, causing great chaos and regret. The emperor was frightened by what he said, so he pardoned the party members and the family members who had been executed and moved back to their original counties. Later, the Yellow Turban Rebellion, the government fell apart, and the country's principles and regulations disappeared.
+In total, the crony incidents began in Ganling and Runan and ended with Li Ying and Zhang Jian. Within the four seas, people were in dire straits and displaced. For more than 20 years, all those affected were good people in the world.
+
+summary:
+summary line 4: Zhu Bing, a native of Zhang Jian's hometown, wrote to accuse Zhang Jian and twenty-four others of being cronies. Emperor Ling issued an edict to arrest them, but Zhu Bing's name was omitted for secrecy. Cao Jie signaled officials to arrest former party members, and over 100 died in prison. Others escaped or died before capture. Anyone with personal grudges was classified as a clique, and six to seven hundred people were killed, exiled, or banned. In the fifth year of Xiping, Cao Luan wrote to defend party members but was beaten to death. An edict then examined party disciples, old subordinates, and relatives, banning five generations from office. In the second year of Guanghe, He Haishu argued that imprisoning five clans violated laws, and the emperor lifted all prison terms. In the first year of Zhongping, the Yellow Turban rebellion arose, and Lu Qiang warned that long imprisonment might cause party members to join the rebels. The emperor pardoned them, but the government later collapsed. The party incidents lasted over twenty years, affecting all good people in the world.
+
+Chunk 3: 
+original: 
+刘淑字仲承，河间乐成人也。
+祖父称，司隶校尉。
+淑少学明《五经》，遂隐居，立精舍讲授，诸生常数百人。
+州郡礼请，五府连辟，并不就。
+永兴二年，司徒种暠举淑贤良方正，辞以疾。
+恒帝闻淑高名，切责州郡，使舆病诣京师。
+淑不得已而赴洛阳，对策为天下第一，拜议郎。
+又陈时政得失，灾异之占，事皆效验。
+再迁尚书，纳忠建议，多所补益。
+又再迁侍中、虎贲中郎将。
+上疏以为宜罢宦官，辞甚切直，帝虽不能用，亦不罪焉。
+以淑宗室之贤，特加敬异，每有疑事，常密谘问之。
+灵帝即位，宦官谮淑与窦武等通谋，下狱自杀。
+李膺字元礼，颍川襄城人也。
+祖父脩，安帝时为太尉。
+父益，赵国相。
+膺性简亢，无所交接，唯以同郡荀淑、陈■为师友。
+初举孝廉，为司徒胡广所辟，举高第，再迁青州刺史。
+守令畏威明，多望风弃官。
+复征，再迁渔阳太守。
+寻转蜀郡太守，以母老乞不之官。
+转护乌桓校尉。
+鲜卑数犯塞，膺常蒙矢石，每破走之，虏甚惮慑。
+以公事免官，还居纶氏，教授常千人。
+南阳樊陵求为门徒，膺谢不受。
+陵后以阿附宦官，致位太尉，为节志者所羞。
+荀爽尝就谒膺，因为其御，既还，喜曰： 今日乃得御李君矣。
+其见慕如此。
+永寿二年，鲜卑寇云中，桓帝闻膺能，乃复征为度辽将军。
+先是，羌虏及疏勒、龟兹数出攻抄张掖、酒泉、云中诸郡，百姓屡被其害。
+translation: 
+◆The biography of Liu Shu, courtesy name Zhongcheng, was from Lecheng County, Hejian County.
+His grandfather, Liu Cheng, was the school captain of Sili School.
+After Liu Shu learned the Five Classics when she was young, she lived in seclusion and set up a monastery to teach, often to hundreds of students.
+The prefectures and counties invited each other with courtesy, and even the five prefectures refused to go.
+In the second year of Yongxing, Situ Zhongfan recommended Liu Shuxian as a good and upright person, but he declined due to illness.
+When Emperor Huan heard that Liu Shu was famous, he scolded the prefectures and counties and carried the sick Liu Shu to the capital in a sedan chair.
+Liu Shu had no choice but to go to Luoyang. She was the best in the world in answering the emperor's questions and was awarded the title of Yilang.
+Liu Shu also stated that the gains and losses in current affairs and the reasons why disasters occurred were all valid.
+If you are promoted to minister again, you will be able to adopt loyal advice and make suggestions to the emperor, which will be of great benefit.
+He was promoted to Shizhong and Hubenzhonglangjiang.
+He expressed his urgent opinion to the emperor that the eunuch should be dismissed, but although the emperor did not adopt it, he did not accuse him.
+Because Liu Shu was a sage in the clan, she respected him especially. When she encountered doubts and difficult decisions, she often asked him secretly.
+After Emperor Ling ascended the throne, the eunuchs falsely accused Liu Shu of conspiring with Dou Wu and others and threw him into prison. Liu Shu committed suicide.
+◆The biography of Li Ying, whose courtesy name is Yuanli, was born in Xiangcheng County, Yingchuan County.
+His grandfather was named Taiwei at the time of Emperor An.
+His father was named Yi and served as the Prime Minister of Zhao.
+Li Ying was aloof and unsociable. He only regarded Xun Shu and Chen Chen from the same county as his mentors and friends.
+At first, Li Ying was recommended as Xiaolian, and was recruited by Situ Hu Guang and promoted to Gaodi. He was promoted to governor of Qingzhou.
+The county guards and magistrates were afraid of Li Ying's majesty and insight, so most of them abandoned their official posts and left after hearing the news that Li Ying had come to Qingzhou.
+Li Ying was recruited again and transferred to the post of Yuyang Prefect.
+Soon he was transferred to the post of governor of Shu County, but his mother requested not to take up the post because of her old age.
+He was transferred to the rank of Colonel Hu Wuhuan.
+Xianbei invaded the border many times, and Li Ying often took the risk to defeat them and drive them away every time.
+The enemy is very afraid. He was dismissed from office due to official duties and returned to his hometown, Lunshi County, where he often taught thousands of students.
+Fan Ling from Nanyang asked to be his disciple, but Li Ying declined him and refused to accept.
+Fan Ling later relied on flattery to cling to the eunuchs and obtained the high position of Taiwei. He was humiliated by people with integrity.
+Xun Shuang once went to visit Li Ying and drove a carriage for Li Ying. When he came back, he happily said: Today I drove a carriage for Li Jun.
+Li Ying was admired to this extent.
+In the second year of Emperor Huan's Yongshou reign, Xianbei invaded Yunzhong. Emperor Huan heard that Li Ying was talented, so he recruited him as a general to conquer Liao.
+Previously, the Qiang people took captives to Shule and Qiuci, and invaded and plundered Zhangye, Jiuquan, and Yunzhong counties many times. The people suffered many disasters from them.
+
+summary:
+summary line 5: Liu Shu, from Hejian, studied the Five Classics and taught hundreds of students. He declined multiple invitations but was eventually carried to Luoyang, where he answered the emperor's questions and was appointed Yilang. He advised dismissing eunuchs, but the emperor did not adopt it. After Emperor Ling ascended, eunuchs falsely accused Liu Shu of conspiring with Dou Wu, and he committed suicide in prison.
+
+Chunk 6: 
+original: 
+顷闻上帝震怒，贬黜鼎臣，人鬼同谋，以为天子当贞观二五，利见大人，不谓夷之初旦，明而未融，虹蜺扬辉，弃和取同。
+方今天地气闭，大人休否，智者见险，投以远害。
+虽匮人望，内合私愿。想甚欣然，不为恨也。
+愿怡神无事，偃息衡门，任其飞沈，与时抑扬。
+顷之，帝崩。陈蕃为太傅，与大将军窦武共秉朝政，连谋诛诸宦官，故引用天下名士，乃以膺为长乐少府。
+及陈、窦之败，膺等复废。
+后张俭事起，收捕钩党，乡人谓膺曰： 可去矣 。
+对曰： 事不辞难，罪不逃刑，臣之节也。
+吾年已六十，死生有命，去将安之？
+乃诣诏狱。考死，妻子徙边，门生、故吏及其父兄，并被禁锢。
+时，侍御史蜀郡景毅子顾为膺门徒，而未有录牒，故不及于谴。
+张孟卓与吾善，袁本初汝外亲，虽尔勿依，必归曹氏。
+诸子从之，并免于乱世。
+杜密字周甫，颍川阳城人也。
+为人沈质，少有厉俗志。
+为司徒胡广所辟，稍迁代郡太守。征，三迁太山太守、北海相。
+其宦官子弟为令长有奸恶者，辄捕案之。
+行春到高密县，见郑玄为乡佐，知其异器，即召署郡职，遂遣就学。
+后密去官还家，每谒守令，多所陈托。同郡刘胜，亦自蜀郡告归乡里，闭门埽轨，无所干及。
+太守王昱谓密曰： 刘季陵清高士，公卿多举之者。
+密知昱激己，对曰： 刘胜位为大夫，见礼上宾，而知善不荐，闻恶无言，隐情惜己，自同寒蝉，此罪人也。
+今志义力行之贤而密达之，违道失节之士而密纠之，使明府赏刑得中，令问休扬，不亦万分之一乎？
+昱惭服，待之弥厚。
+translation: 
+Recently I heard that the emperor was angry and demoted and dismissed the minister Chen Fan. People and ghosts conspired together. They thought that the emperor should be on the 25th day of Zhenguan to benefit the adults. He didn't want the Yi Gua sun to come out at the beginning of the day. The sun was not clear and the rainbow was shining. He abandoned the gentleman and became the villain.
+When the earth's Qi is closed today, the sage hides, and the wise man sees danger and throws himself into distant harm.
+Although it is less famous, it is in line with my private wishes. I am very happy to miss you, but I don’t feel hateful about it.
+I hope you will have nothing to do and rest in peace, live in seclusion in Hengmen, let things rise and fall, and change with the times.
+Soon after the death of Emperor Huan, Chen Fan became the Taifu and presided over the government together with the general Dou Wu. They conspired to kill various eunuchs, recommended and appointed celebrities from all over the world, and appointed Li Ying as the Shaofu of Changle.
+When Chen Fan and Dou Wu failed, Li Ying and others were dismissed from office.
+Later, the Zhang Jian incident occurred and the party members involved were arrested. The people from the same town said to Li Ying, "You can go."
+Li Ying replied: If you are a king, you will not avoid disaster, and if you are guilty, you will not escape punishment. This is my moral integrity.
+I am already sixty years old. Death and life are determined by fate. Where can I go?
+He took the initiative to go to the prison designated by the emperor's edict and was tortured to death. His wife and children were exiled to the border. Students, former subordinate officials and their fathers and brothers were all banned from serving as officials.
+At this time, Jing Gu, the son of Jing Yi from Shu County who was serving as the imperial censor, was Li Ying's disciple, but he was not included in the party list, so he was not punished.
+Jing Yi said with emotion and pride: "I originally thought that Li Ying was virtuous and sent his son to be his teacher. How could I just settle for nothing just because I left him out of the list?"
+So he petitioned to be dismissed and go home.
+At that time, people believed that he had a righteous sentiment. ◆The biography of Du Mi, named Zhou Fu, was a native of Yangcheng County, Yingchuan County.
+He is a deep and simple man, and he had ambitions and customs when he was young.
+He was promoted by Situ Hu Guang, and was promoted slightly to the prefect of Daijun. He was recruited by the imperial court, and was promoted to the prefect of Taishan and the prime minister of Beihai three times.
+If any of the eunuchs' sons committed evil acts, they would be arrested and interrogated.
+Once, Du Mi went to Gaomi to inspect spring plowing production and provide relief to the poor. He found that Zheng Xuan was a talented person as a township assistant, so he called him to act as a county official and sent him to study.
+Later, Du Mi left his official position and returned home. Every time he visited the governor, he stated his opinions and asked for many things. Liu Sheng from the same county also returned to his hometown from Shu County, but he stayed behind closed doors and made no requests.
+Wang Yu, the prefect, said to Du Mi: Liu Jiling is really a noble man, and many of the officials recommend him.
+Du Mi knew that Wang Yu was irritating him, so he replied: Liu Sheng was a doctor, and the prefect treated him with the courtesy of a guest, but he knew the good and did not recommend it, and did not say anything after hearing bad news. He hid the true feelings for himself, like a cicada. This is a guilty person.
+Now I will go up to the wise men who are committed to justice, and I will correct the bad men who violate the law, so that the prefect can win rewards and punishments, and the good reputation can be promoted. Isn't this a ten thousandth help to you?
+Wang Yu was ashamed and admired him, and respected him even more.
+
+summary:
+summary line 6: Li Ying, from Yingchuan, was aloof and regarded Xun Shu and Chen Chen as mentors. He was recommended as Xiaolian and became governor of Qingzhou, where corrupt officials fled upon hearing of his arrival. He later served as Colonel Hu Wuhuan, defeating Xianbei invaders. As Henan Yin, he arrested and executed Zhang Cheng despite the amnesty, angering the emperor. During the party disaster, Li Ying was arrested and tortured to death at age sixty. His wife and children were exiled, and his students were banned from office.
+
+Chunk 6: 
+original: 
+顷闻上帝震怒，贬黜鼎臣，人鬼同谋，以为天子当贞观二五，利见大人，不谓夷之初旦，明而未融，虹蜺扬辉，弃和取同。
+方今天地气闭，大人休否，智者见险，投以远害。
+虽匮人望，内合私愿。想甚欣然，不为恨也。
+愿怡神无事，偃息衡门，任其飞沈，与时抑扬。
+顷之，帝崩。陈蕃为太傅，与大将军窦武共秉朝政，连谋诛诸宦官，故引用天下名士，乃以膺为长乐少府。
+及陈、窦之败，膺等复废。
+后张俭事起，收捕钩党，乡人谓膺曰： 可去矣 。
+对曰： 事不辞难，罪不逃刑，臣之节也。
+吾年已六十，死生有命，去将安之？
+乃诣诏狱。考死，妻子徙边，门生、故吏及其父兄，并被禁锢。
+时，侍御史蜀郡景毅子顾为膺门徒，而未有录牒，故不及于谴。
+张孟卓与吾善，袁本初汝外亲，虽尔勿依，必归曹氏。
+诸子从之，并免于乱世。
+杜密字周甫，颍川阳城人也。
+为人沈质，少有厉俗志。
+为司徒胡广所辟，稍迁代郡太守。征，三迁太山太守、北海相。
+其宦官子弟为令长有奸恶者，辄捕案之。
+行春到高密县，见郑玄为乡佐，知其异器，即召署郡职，遂遣就学。
+后密去官还家，每谒守令，多所陈托。同郡刘胜，亦自蜀郡告归乡里，闭门埽轨，无所干及。
+太守王昱谓密曰： 刘季陵清高士，公卿多举之者。
+密知昱激己，对曰： 刘胜位为大夫，见礼上宾，而知善不荐，闻恶无言，隐情惜己，自同寒蝉，此罪人也。
+今志义力行之贤而密达之，违道失节之士而密纠之，使明府赏刑得中，令问休扬，不亦万分之一乎？
+昱惭服，待之弥厚。
+translation: 
+Recently I heard that the emperor was angry and demoted and dismissed the minister Chen Fan. People and ghosts conspired together. They thought that the emperor should be on the 25th day of Zhenguan to benefit the adults. He didn't want the Yi Gua sun to come out at the beginning of the day. The sun was not clear and the rainbow was shining. He abandoned the gentleman and became the villain.
+When the earth's Qi is closed today, the sage hides, and the wise man sees danger and throws himself into distant harm.
+Although it is less famous, it is in line with my private wishes. I am very happy to miss you, but I don’t feel hateful about it.
+I hope you will have nothing to do and rest in peace, live in seclusion in Hengmen, let things rise and fall, and change with the times.
+Soon after the death of Emperor Huan, Chen Fan became the Taifu and presided over the government together with the general Dou Wu. They conspired to kill various eunuchs, recommended and appointed celebrities from all over the world, and appointed Li Ying as the Shaofu of Changle.
+When Chen Fan and Dou Wu failed, Li Ying and others were dismissed from office.
+Later, the Zhang Jian incident occurred and the party members involved were arrested. The people from the same town said to Li Ying, "You can go."
+Li Ying replied: If you are a king, you will not avoid disaster, and if you are guilty, you will not escape punishment. This is my moral integrity.
+I am already sixty years old. Death and life are determined by fate. Where can I go?
+He took the initiative to go to the prison designated by the emperor's edict and was tortured to death. His wife and children were exiled to the border. Students, former subordinate officials and their fathers and brothers were all banned from serving as officials.
+At this time, Jing Gu, the son of Jing Yi from Shu County who was serving as the imperial censor, was Li Ying's disciple, but he was not included in the party list, so he was not punished.
+Jing Yi said with emotion and pride: "I originally thought that Li Ying was virtuous and sent his son to be his teacher. How could I just settle for nothing just because I left him out of the list?"
+So he petitioned to be dismissed and go home.
+At that time, people believed that he had a righteous sentiment. ◆The biography of Du Mi, named Zhou Fu, was a native of Yangcheng County, Yingchuan County.
+He is a deep and simple man, and he had ambitions and customs when he was young.
+He was promoted by Situ Hu Guang, and was promoted slightly to the prefect of Daijun. He was recruited by the imperial court, and was promoted to the prefect of Taishan and the prime minister of Beihai three times.
+If any of the eunuchs' sons committed evil acts, they would be arrested and interrogated.
+Once, Du Mi went to Gaomi to inspect spring plowing production and provide relief to the poor. He found that Zheng Xuan was a talented person as a township assistant, so he called him to act as a county official and sent him to study.
+Later, Du Mi left his official position and returned home. Every time he visited the governor, he stated his opinions and asked for many things. Liu Sheng from the same county also returned to his hometown from Shu County, but he stayed behind closed doors and made no requests.
+Wang Yu, the prefect, said to Du Mi: Liu Jiling is really a noble man, and many of the officials recommend him.
+Du Mi knew that Wang Yu was irritating him, so he replied: Liu Sheng was a doctor, and the prefect treated him with the courtesy of a guest, but he knew the good and did not recommend it, and did not say anything after hearing bad news. He hid the true feelings for himself, like a cicada. This is a guilty person.
+Now I will go up to the wise men who are committed to justice, and I will correct the bad men who violate the law, so that the prefect can win rewards and punishments, and the good reputation can be promoted. Isn't this a ten thousandth help to you?
+Wang Yu was ashamed and admired him, and respected him even more.
+
+summary:
+summary line 7: Du Mi, from Yingchuan, was deep and simple. He served as prefect of Daijun and Taishan, arresting eunuchs' sons who committed evil acts. He discovered Zheng Xuan's talent and sent him to study. After the party broke out, he was dismissed and later committed suicide during a party summons.
+
+Chunk 7: 
+original: 
+后桓帝征拜尚书令，迁河南尹，转太仆。
+党事既起，免归本郡，与李膺俱坐，而名行相次，故时人亦称 李杜 焉。
+后太傅陈蕃辅政，复为太仆。
+明年，会党事被征，自杀。
+刘祐字伯祖，中山安国人也。
+安国后别属博陵。
+祐初察孝廉，补尚书侍郎，闲练故事，文札强辨，每有奏议，应对无滞，为僚类所归。
+除任城令，兗州举为尤异，迁扬州刺史。
+是时会稽太守梁旻，大将军冀之从弟也。
+祐举奏其罪，旻坐征。
+复迁祐河东太守。
+时属县令长率多中官子弟，百姓患之。
+祐到，黜其权强，平理冤结，政为三河表。
+再迁，延熹四年，拜尚书令，又出为河南尹，转司隶校尉。
+时权贵子弟罢州郡还入京师者，每至界首，辄改易舆服，隐匿财宝。
+威行朝廷。
+拜宗正，三转大司农。
+时中常侍苏康、管霸用事于内，遂固天下良田美业，山林湖泽，民庶穷困，州郡累气。
+祐移书所在，依科品没入之。
+桓帝大怒，论祐输左校。
+后得赦出，复历三卿，辄以疾辞，乞骸骨归田里。
+诏拜中散大夫，遂杜门绝迹。
+每三公缺，朝廷皆属意于祐，以谮毁不用。
+延笃贻之书曰： 昔太伯三让，人无德而称焉。延陵高揖，华夏仰风。
+吾子怀蘧氏之可卷，休甯子之如愚，微妙玄通，冲而不盈，蔑三光之明，未暇以天下为事，何其劭与！
+灵帝初，陈蕃辅政，以祐为河南尹。
+及蕃败，祐黜归，卒于家。
+明年，大诛党人，幸不及祸。
+魏朗字少英，会稽上虞人也。
+少为县吏。
+兄为乡人所杀，朗白日操刃报仇于县中，遂亡命到陈国。
+从博士仲信学《春秋图纬》，又诣太学受《五经》，京师长者李膺之徒争从之。
+初辟司徒府，再迁彭城令。
+时，中官子弟为国相，多行非法，朗与更相章奏，幸臣忿疾，欲中之。
+会九真贼起，乃共荐郎为九真都尉。
+到官，奖厉吏兵，讨破群贼，斩首二千级。
+桓帝美其功，征拜议郎。
+顷之，迁尚书。
+屡陈便宜。
+有所补益。出为河内太守，政称三河表。
+尚书令陈蕃荐朗公忠亮直，宜在机密，复征为尚书。
+translation: 
+Later, Emperor Huan conquered and worshiped him as Shangshu Ling, promoted to Henan Yin, and transferred to the Imperial Servant.
+After the party broke out, he was dismissed from office and returned to his hometown. He and Li Ying were both convicted. Their reputation and behavior were comparable, so people at that time also called them Li Du.
+Later, Chen Fan, the Taifu, assisted the government, and then became the Taifu.
+The next year, he was summoned for party affairs and committed suicide.
+◆The biography of Liu You, the uncle named Liu You, was from Anguo County, Zhongshan County.
+Anguo County later belonged to Boling.
+Liu You began to promote filial piety and integrity, and supplemented the minister's position. He is familiar with historical events and is particularly good at writing. He usually provides advice to the emperor and responds quickly, which is appreciated by his colleagues.
+When he was appointed as the city magistrate, Yanzhou praised him as an outstanding talent. He was promoted to the governor of Yangzhou.
+At this time, Liang, the prefect of Kuaiji, was the disciple of General Liang Ji.
+Liu You exposed his crime, and Liang Min was scolded for this.
+Liu You was also promoted to the governor of Hedong.
+At that time, most of the county magistrates and chiefs were the sons of eunuchs, who were harmful to the people.
+When Liu You took office, he removed those powerful and violent people who should be removed from their posts, sentenced those who should be sentenced, vindicated unjust and false cases, and set a model for politics in Hedong, Hanoi, and Sanhe in Henan.
+He was promoted again, and in the fourth year of Yanxi's reign, he was appointed Shangshu Ling. He was also promoted to Henan Yin and was transferred to the Si Li Xiaowei.
+At that time, the powerful and wealthy children who returned to the capital from the prefectures and counties would change their clothes and hide their treasures as soon as they reached the border.
+Liu Youwei visited the court.
+Ren Zongzheng, the chief agricultural officer of Santiao.
+At that time, the ministers Su Kang and Guan Ba ​​were in power in the imperial court, occupying the country's fertile lands and beautiful industries, mountains, forests and lakes. The people were poor and the states and counties dared not say a word.
+Liu You moved the documents to the area they occupied and confiscated them according to law.
+Emperor Huan was furious and sentenced Liu You to Zuo School for forced labor.
+Later, when he was pardoned and visited the three ministers again, he often excused himself because of illness and asked to return to the fields.
+The imperial edict was issued to the officials, so Dumen disappeared.
+When the three princes were vacant, the emperor all preferred Liu You, who was slandered and ignored.
+Yan Du wrote to Liu You and said: In the past, the Taibo made three concessions, and the people missed him. The youngest son of Yanling bowed, and the Chinese praised his noble style.
+You have the virtue of Zang Boyu who said, "If a country has no way, it can be rolled up and cherished". You understand Ning Wuzi's spirit of "if a country has no way, it can be foolish."
+Pure sincerity and self-improvement are extremely valuable. At the beginning of Emperor Ling's reign, Chen Fan assisted the government and appointed Liu You as the Yin of Henan.
+After Chen Fan failed, Liu You was deposed and returned to his hometown, where he died at home.
+The next year, party members were massacred, but Liu You was lucky to be spared.
+◆Biography of Wei Lang. Wei Lang was named Shaoying and was a native of Shangyu County, Kuaiji County.
+He became a county official when he was young.
+His brother was killed by a villager, and Wei Lang took revenge in the county with a knife during the day. So he fled to the state of Chen.
+He studied "Spring and Autumn Pictures" with Dr. Gu Zhongxin, and then went to Taixue to study "Five Classics". Li Ying, the elder of the capital, and others all competed to associate with him.
+He was promoted to Situ Mansion and promoted to Pengcheng Order.
+At that time, the eunuch's son was serving as the prime minister of the country and his actions were illegal. Wei Lang reported to the court many times. The emperor's favored ministers were very angry and wanted to slander him.
+When they met the Jiuzhen thieves, they jointly recommended Wei Lang to be appointed the Jiuzhen Captain.
+After taking office, Wei Lang rewarded his officers and soldiers, defeated the county thieves, and beheaded 2,000 people.
+Emperor Huan commended him for his contribution and appointed him as Yilang.
+Soon, he was promoted to Sima.
+He stated his political opinions many times and made contributions to the court.
+He became the prefect of Hanoi, and his politics was a model for Hedong, Hanoi and Sanhe in Henan.
+The minister ordered Chen Fan to recommend Wei Langgong to be Zhongzhiliang, who could be appointed to a confidential position, and then be recruited as minister.
+
+summary:
+summary line 8: Liu You, from Zhongshan, was familiar with history and skilled in writing. He exposed crimes of Liang Ji's disciple and removed corrupt officials in Hedong. As Si Li Xiaowei, he confiscated lands occupied by powerful ministers, angering Emperor Huan, who sentenced him to labor. After pardon, he returned to seclusion and died at home, spared from the party massacre.
+
+Chunk 7: 
+original: 
+后桓帝征拜尚书令，迁河南尹，转太仆。
+党事既起，免归本郡，与李膺俱坐，而名行相次，故时人亦称 李杜 焉。
+后太傅陈蕃辅政，复为太仆。
+明年，会党事被征，自杀。
+刘祐字伯祖，中山安国人也。
+安国后别属博陵。
+祐初察孝廉，补尚书侍郎，闲练故事，文札强辨，每有奏议，应对无滞，为僚类所归。
+除任城令，兗州举为尤异，迁扬州刺史。
+是时会稽太守梁旻，大将军冀之从弟也。
+祐举奏其罪，旻坐征。
+复迁祐河东太守。
+时属县令长率多中官子弟，百姓患之。
+祐到，黜其权强，平理冤结，政为三河表。
+再迁，延熹四年，拜尚书令，又出为河南尹，转司隶校尉。
+时权贵子弟罢州郡还入京师者，每至界首，辄改易舆服，隐匿财宝。
+威行朝廷。
+拜宗正，三转大司农。
+时中常侍苏康、管霸用事于内，遂固天下良田美业，山林湖泽，民庶穷困，州郡累气。
+祐移书所在，依科品没入之。
+桓帝大怒，论祐输左校。
+后得赦出，复历三卿，辄以疾辞，乞骸骨归田里。
+诏拜中散大夫，遂杜门绝迹。
+每三公缺，朝廷皆属意于祐，以谮毁不用。
+延笃贻之书曰： 昔太伯三让，人无德而称焉。延陵高揖，华夏仰风。
+吾子怀蘧氏之可卷，休甯子之如愚，微妙玄通，冲而不盈，蔑三光之明，未暇以天下为事，何其劭与！
+灵帝初，陈蕃辅政，以祐为河南尹。
+及蕃败，祐黜归，卒于家。
+明年，大诛党人，幸不及祸。
+魏朗字少英，会稽上虞人也。
+少为县吏。
+兄为乡人所杀，朗白日操刃报仇于县中，遂亡命到陈国。
+从博士仲信学《春秋图纬》，又诣太学受《五经》，京师长者李膺之徒争从之。
+初辟司徒府，再迁彭城令。
+时，中官子弟为国相，多行非法，朗与更相章奏，幸臣忿疾，欲中之。
+会九真贼起，乃共荐郎为九真都尉。
+到官，奖厉吏兵，讨破群贼，斩首二千级。
+桓帝美其功，征拜议郎。
+顷之，迁尚书。
+屡陈便宜。
+有所补益。出为河内太守，政称三河表。
+尚书令陈蕃荐朗公忠亮直，宜在机密，复征为尚书。
+translation: 
+Later, Emperor Huan conquered and worshiped him as Shangshu Ling, promoted to Henan Yin, and transferred to the Imperial Servant.
+After the party broke out, he was dismissed from office and returned to his hometown. He and Li Ying were both convicted. Their reputation and behavior were comparable, so people at that time also called them Li Du.
+Later, Chen Fan, the Taifu, assisted the government, and then became the Taifu.
+The next year, he was summoned for party affairs and committed suicide.
+◆The biography of Liu You, the uncle named Liu You, was from Anguo County, Zhongshan County.
+Anguo County later belonged to Boling.
+Liu You began to promote filial piety and integrity, and supplemented the minister's position. He is familiar with historical events and is particularly good at writing. He usually provides advice to the emperor and responds quickly, which is appreciated by his colleagues.
+When he was appointed as the city magistrate, Yanzhou praised him as an outstanding talent. He was promoted to the governor of Yangzhou.
+At this time, Liang, the prefect of Kuaiji, was the disciple of General Liang Ji.
+Liu You exposed his crime, and Liang Min was scolded for this.
+Liu You was also promoted to the governor of Hedong.
+At that time, most of the county magistrates and chiefs were the sons of eunuchs, who were harmful to the people.
+When Liu You took office, he removed those powerful and violent people who should be removed from their posts, sentenced those who should be sentenced, vindicated unjust and false cases, and set a model for politics in Hedong, Hanoi, and Sanhe in Henan.
+He was promoted again, and in the fourth year of Yanxi's reign, he was appointed Shangshu Ling. He was also promoted to Henan Yin and was transferred to the Si Li Xiaowei.
+At that time, the powerful and wealthy children who returned to the capital from the prefectures and counties would change their clothes and hide their treasures as soon as they reached the border.
+Liu Youwei visited the court.
+Ren Zongzheng, the chief agricultural officer of Santiao.
+At that time, the ministers Su Kang and Guan Ba ​​were in power in the imperial court, occupying the country's fertile lands and beautiful industries, mountains, forests and lakes. The people were poor and the states and counties dared not say a word.
+Liu You moved the documents to the area they occupied and confiscated them according to law.
+Emperor Huan was furious and sentenced Liu You to Zuo School for forced labor.
+Later, when he was pardoned and visited the three ministers again, he often excused himself because of illness and asked to return to the fields.
+The imperial edict was issued to the officials, so Dumen disappeared.
+When the three princes were vacant, the emperor all preferred Liu You, who was slandered and ignored.
+Yan Du wrote to Liu You and said: In the past, the Taibo made three concessions, and the people missed him. The youngest son of Yanling bowed, and the Chinese praised his noble style.
+You have the virtue of Zang Boyu who said, "If a country has no way, it can be rolled up and cherished". You understand Ning Wuzi's spirit of "if a country has no way, it can be foolish."
+Pure sincerity and self-improvement are extremely valuable. At the beginning of Emperor Ling's reign, Chen Fan assisted the government and appointed Liu You as the Yin of Henan.
+After Chen Fan failed, Liu You was deposed and returned to his hometown, where he died at home.
+The next year, party members were massacred, but Liu You was lucky to be spared.
+◆Biography of Wei Lang. Wei Lang was named Shaoying and was a native of Shangyu County, Kuaiji County.
+He became a county official when he was young.
+His brother was killed by a villager, and Wei Lang took revenge in the county with a knife during the day. So he fled to the state of Chen.
+He studied "Spring and Autumn Pictures" with Dr. Gu Zhongxin, and then went to Taixue to study "Five Classics". Li Ying, the elder of the capital, and others all competed to associate with him.
+He was promoted to Situ Mansion and promoted to Pengcheng Order.
+At that time, the eunuch's son was serving as the prime minister of the country and his actions were illegal. Wei Lang reported to the court many times. The emperor's favored ministers were very angry and wanted to slander him.
+When they met the Jiuzhen thieves, they jointly recommended Wei Lang to be appointed the Jiuzhen Captain.
+After taking office, Wei Lang rewarded his officers and soldiers, defeated the county thieves, and beheaded 2,000 people.
+Emperor Huan commended him for his contribution and appointed him as Yilang.
+Soon, he was promoted to Sima.
+He stated his political opinions many times and made contributions to the court.
+He became the prefect of Hanoi, and his politics was a model for Hedong, Hanoi and Sanhe in Henan.
+The minister ordered Chen Fan to recommend Wei Langgong to be Zhongzhiliang, who could be appointed to a confidential position, and then be recruited as minister.
+
+summary:
+summary line 9: Wei Lang, from Kuaiji, avenged his brother's murder and studied at Taixue. He served as Jiuzhen Captain, defeating thieves and beheading 2,000. As prefect of Hanoi, his governance was exemplary. During the party disaster, he was dismissed and later committed suicide at Niuzhu.
+
+Chunk 8: 
+original: 
+会被党议，免归家。
+朗性矜严，闭门整法度，家人不见墯容。
+后窦武等诛，朗以党被急征，行至牛渚，自杀。
+著书数篇，号《魏子》云。
+夏馥字子治，陈留圉人也。
+少为书生，言行质直。
+同县高氏、蔡氏并皆富殖，郡人畏而事之，唯馥比门不与交通，由是为豪姓所仇。
+桓帝初，举直言，不就。
+馥虽不交时宦，然以声名为中官所惮，遂与范滂、张俭等俱被诬陷，诏下州郡，捕为党魁。
+及俭等亡命，经历之处，皆被收考，辞所连引，布遍天下。
+馥乃顿足而叹曰： 孽自己作，空污良善，一人逃死，祸及万家，何以生为！
+乃自剪须变形，入林虑山中，隐匿姓名，为治家佣。
+亲突烟炭，形貌毁瘁，积二三年，人无知者。
+后馥弟静，乘车马，载缣帛，追之于涅阳市中。
+遇馥不识，闻其言声，乃觉而拜之。
+馥避不与语，静追随至客舍，共宿。
+夜中密呼静曰： 吾以守道疾恶，故为权宦所陷。
+且念营苟全，以庇性命，弟奈何载物相求，是以祸见追也。
+明旦，别去。
+党禁未解而卒。
+宗慈字孝初，南阳安众人也。
+举孝廉，九辟公府，有道征，不就。
+后为脩武令。
+时，太守出自权豪，多取货赂，慈遂弃官去。
+征拜议郎，未到，道疾卒。
+南阳群士皆重其义行。
+巴肃字恭祖，勃海高城人也。
+初察孝廉，历慎令、贝丘长，皆以郡守非其人，辞病去。
+辟公府。稍迁拜议郎。
+与窦武、陈蕃等谋诛阉官，武等遇害，肃亦坐党禁锢。
+中常侍曹节后闻其谋，收之。
+肃自载诣县。
+县令见肃，入阁解印绶与俱去。
+translation: 
+In case of party disaster, he was dismissed from office and returned home.
+Wei Lang was reserved and serious by nature, and kept the rules behind closed doors. No one in his family saw any signs of laziness in him.
+Later, Dou Wu and others were killed, and Wei Lang was summoned urgently due to party troubles. He walked to Niuzhu and committed suicide.
+He wrote several books called "Wei Zi".
+◆The biography of Xia Fu, whose courtesy name is Zizhi, was from Yuxian County, Chenliu County.
+When he was young, he was a scholar with upright words and deeds.
+The Gao family and the Cai family in the same county were both wealthy, and the people in the county were afraid of him and served him carefully. Only Xia Fu, although he lived in the same family as Gao and Cai, did not associate with them, so he was hated by the wealthy people.
+At the beginning of Emperor Huan's reign, he spoke out and said no.
+Although Xia Fu did not associate with the eunuchs, he was feared by the eunuchs because of his reputation. He, Fan Pang, Zhang Jian and others were all framed by the eunuchs. The imperial court issued an edict to go to the prefectures and counties to arrest him as the leader of the party.
+Zhang Jian and others fled for their lives. In the places they went through, everyone who came into contact with them was arrested and interrogated. People involved in interrogation were all over the world.
+Xia Fu paused and sighed and said: "The sin is your own fault. It hurts good people in vain. One person escapes to die, and the disaster affects thousands of families. What are you doing alive!"
+So he cut off his beard, changed his appearance, ran to Linlu Mountain, concealed his name, and became a servant of the smelting family.
+After working with chimney soot, his appearance was ruined and exhausted. After two or three years, no one knew it was him.
+Later, Xia Fu's younger brother Xia Jing took a car and pursued the silk to Niyang City.
+When he touched Xia Fu, he couldn't recognize him. When he heard Xia Fu's voice, he discovered Xia Fu and knelt down to Xia Fu.
+Xia Fu tried to avoid talking to him, so Xia Jing chased him to the hotel and slept with Xia Fu.
+At night Xia Fu quietly called Xia Jing: "I was framed by the powerful eunuch because I kept the right path and hated evil."
+If you want to stay safe and save your life, why did you come to me with your things? You are bringing trouble upon me!
+We left at dawn.
+He died before the party ban was lifted.
+◆Zong Ci's biography, Zong Ci's courtesy name was Xiaochu, and he was a native of Anzhong County, Nanyang County.
+In order to promote filial piety and honesty, the government summoned him nine times to conquer him with virtue, but he refused.
+Later he served as a military commander.
+At this time, the prefect came from a powerful and wealthy family, and corruption and bribery were very serious, so Zong Ci abandoned the county magistrate and left.
+The imperial court summoned Yilang, but he did not arrive and died on the road.
+The scholar-bureaucrats in Nanyang all respected his righteous deeds.
+◆Basu biography, Basu courtesy name Gongzu, a native of Gaocheng County, Bohai County.
+He was first promoted as Xiaolian, and successively served as the magistrate of Shen County and the magistrate of Beiqiu County. However, he resigned due to illness because the county governor was unpopular.
+When he was appointed to the Duke's Mansion, he was promoted to Yilang.
+He conspired with Dou Wu, Chen Fan and others to kill the eunuchs. Dou Wu and others were killed, and Basu was also banned from serving as an official because of the party's disaster.
+Later, Cao Jie, the minister of the Central Committee, heard that Ba Su had participated in the plot to kill the eunuch and arrested him.
+Basu took a bus to the county by himself.
+The county magistrate saw Basu and went into the cabinet to untie the seal ribbon and wanted to go with him.
+
+summary:
+summary line 10: Xia Fu, from Chenliu, was upright and did not associate with wealthy families. He was framed by eunuchs as a party leader. While fleeing, he cut his beard, changed his appearance, and worked as a servant in a smelting family for years. His brother discovered him, but Xia Fu left at dawn and died before the party ban was lifted.
+
+Chunk 8: 
+original: 
+会被党议，免归家。
+朗性矜严，闭门整法度，家人不见墯容。
+后窦武等诛，朗以党被急征，行至牛渚，自杀。
+著书数篇，号《魏子》云。
+夏馥字子治，陈留圉人也。
+少为书生，言行质直。
+同县高氏、蔡氏并皆富殖，郡人畏而事之，唯馥比门不与交通，由是为豪姓所仇。
+桓帝初，举直言，不就。
+馥虽不交时宦，然以声名为中官所惮，遂与范滂、张俭等俱被诬陷，诏下州郡，捕为党魁。
+及俭等亡命，经历之处，皆被收考，辞所连引，布遍天下。
+馥乃顿足而叹曰： 孽自己作，空污良善，一人逃死，祸及万家，何以生为！
+乃自剪须变形，入林虑山中，隐匿姓名，为治家佣。
+亲突烟炭，形貌毁瘁，积二三年，人无知者。
+后馥弟静，乘车马，载缣帛，追之于涅阳市中。
+遇馥不识，闻其言声，乃觉而拜之。
+馥避不与语，静追随至客舍，共宿。
+夜中密呼静曰： 吾以守道疾恶，故为权宦所陷。
+且念营苟全，以庇性命，弟奈何载物相求，是以祸见追也。
+明旦，别去。
+党禁未解而卒。
+宗慈字孝初，南阳安众人也。
+举孝廉，九辟公府，有道征，不就。
+后为脩武令。
+时，太守出自权豪，多取货赂，慈遂弃官去。
+征拜议郎，未到，道疾卒。
+南阳群士皆重其义行。
+巴肃字恭祖，勃海高城人也。
+初察孝廉，历慎令、贝丘长，皆以郡守非其人，辞病去。
+辟公府。稍迁拜议郎。
+与窦武、陈蕃等谋诛阉官，武等遇害，肃亦坐党禁锢。
+中常侍曹节后闻其谋，收之。
+肃自载诣县。
+县令见肃，入阁解印绶与俱去。
+translation: 
+In case of party disaster, he was dismissed from office and returned home.
+Wei Lang was reserved and serious by nature, and kept the rules behind closed doors. No one in his family saw any signs of laziness in him.
+Later, Dou Wu and others were killed, and Wei Lang was summoned urgently due to party troubles. He walked to Niuzhu and committed suicide.
+He wrote several books called "Wei Zi".
+◆The biography of Xia Fu, whose courtesy name is Zizhi, was from Yuxian County, Chenliu County.
+When he was young, he was a scholar with upright words and deeds.
+The Gao family and the Cai family in the same county were both wealthy, and the people in the county were afraid of him and served him carefully. Only Xia Fu, although he lived in the same family as Gao and Cai, did not associate with them, so he was hated by the wealthy people.
+At the beginning of Emperor Huan's reign, he spoke out and said no.
+Although Xia Fu did not associate with the eunuchs, he was feared by the eunuchs because of his reputation. He, Fan Pang, Zhang Jian and others were all framed by the eunuchs. The imperial court issued an edict to go to the prefectures and counties to arrest him as the leader of the party.
+Zhang Jian and others fled for their lives. In the places they went through, everyone who came into contact with them was arrested and interrogated. People involved in interrogation were all over the world.
+Xia Fu paused and sighed and said: "The sin is your own fault. It hurts good people in vain. One person escapes to die, and the disaster affects thousands of families. What are you doing alive!"
+So he cut off his beard, changed his appearance, ran to Linlu Mountain, concealed his name, and became a servant of the smelting family.
+After working with chimney soot, his appearance was ruined and exhausted. After two or three years, no one knew it was him.
+Later, Xia Fu's younger brother Xia Jing took a car and pursued the silk to Niyang City.
+When he touched Xia Fu, he couldn't recognize him. When he heard Xia Fu's voice, he discovered Xia Fu and knelt down to Xia Fu.
+Xia Fu tried to avoid talking to him, so Xia Jing chased him to the hotel and slept with Xia Fu.
+At night Xia Fu quietly called Xia Jing: "I was framed by the powerful eunuch because I kept the right path and hated evil."
+If you want to stay safe and save your life, why did you come to me with your things? You are bringing trouble upon me!
+We left at dawn.
+He died before the party ban was lifted.
+◆Zong Ci's biography, Zong Ci's courtesy name was Xiaochu, and he was a native of Anzhong County, Nanyang County.
+In order to promote filial piety and honesty, the government summoned him nine times to conquer him with virtue, but he refused.
+Later he served as a military commander.
+At this time, the prefect came from a powerful and wealthy family, and corruption and bribery were very serious, so Zong Ci abandoned the county magistrate and left.
+The imperial court summoned Yilang, but he did not arrive and died on the road.
+The scholar-bureaucrats in Nanyang all respected his righteous deeds.
+◆Basu biography, Basu courtesy name Gongzu, a native of Gaocheng County, Bohai County.
+He was first promoted as Xiaolian, and successively served as the magistrate of Shen County and the magistrate of Beiqiu County. However, he resigned due to illness because the county governor was unpopular.
+When he was appointed to the Duke's Mansion, he was promoted to Yilang.
+He conspired with Dou Wu, Chen Fan and others to kill the eunuchs. Dou Wu and others were killed, and Basu was also banned from serving as an official because of the party's disaster.
+Later, Cao Jie, the minister of the Central Committee, heard that Ba Su had participated in the plot to kill the eunuch and arrested him.
+Basu took a bus to the county by himself.
+The county magistrate saw Basu and went into the cabinet to untie the seal ribbon and wanted to go with him.
+
+summary:
+summary line 11: Zongci, from Nanyang, refused multiple government summons. He served as a military commander but abandoned his post when the prefect was corrupt. He died on the road while being summoned as Yilang.
+
+Chunk 8: 
+original: 
+会被党议，免归家。
+朗性矜严，闭门整法度，家人不见墯容。
+后窦武等诛，朗以党被急征，行至牛渚，自杀。
+著书数篇，号《魏子》云。
+夏馥字子治，陈留圉人也。
+少为书生，言行质直。
+同县高氏、蔡氏并皆富殖，郡人畏而事之，唯馥比门不与交通，由是为豪姓所仇。
+桓帝初，举直言，不就。
+馥虽不交时宦，然以声名为中官所惮，遂与范滂、张俭等俱被诬陷，诏下州郡，捕为党魁。
+及俭等亡命，经历之处，皆被收考，辞所连引，布遍天下。
+馥乃顿足而叹曰： 孽自己作，空污良善，一人逃死，祸及万家，何以生为！
+乃自剪须变形，入林虑山中，隐匿姓名，为治家佣。
+亲突烟炭，形貌毁瘁，积二三年，人无知者。
+后馥弟静，乘车马，载缣帛，追之于涅阳市中。
+遇馥不识，闻其言声，乃觉而拜之。
+馥避不与语，静追随至客舍，共宿。
+夜中密呼静曰： 吾以守道疾恶，故为权宦所陷。
+且念营苟全，以庇性命，弟奈何载物相求，是以祸见追也。
+明旦，别去。
+党禁未解而卒。
+宗慈字孝初，南阳安众人也。
+举孝廉，九辟公府，有道征，不就。
+后为脩武令。
+时，太守出自权豪，多取货赂，慈遂弃官去。
+征拜议郎，未到，道疾卒。
+南阳群士皆重其义行。
+巴肃字恭祖，勃海高城人也。
+初察孝廉，历慎令、贝丘长，皆以郡守非其人，辞病去。
+辟公府。稍迁拜议郎。
+与窦武、陈蕃等谋诛阉官，武等遇害，肃亦坐党禁锢。
+中常侍曹节后闻其谋，收之。
+肃自载诣县。
+县令见肃，入阁解印绶与俱去。
+translation: 
+In case of party disaster, he was dismissed from office and returned home.
+Wei Lang was reserved and serious by nature, and kept the rules behind closed doors. No one in his family saw any signs of laziness in him.
+Later, Dou Wu and others were killed, and Wei Lang was summoned urgently due to party troubles. He walked to Niuzhu and committed suicide.
+He wrote several books called "Wei Zi".
+◆The biography of Xia Fu, whose courtesy name is Zizhi, was from Yuxian County, Chenliu County.
+When he was young, he was a scholar with upright words and deeds.
+The Gao family and the Cai family in the same county were both wealthy, and the people in the county were afraid of him and served him carefully. Only Xia Fu, although he lived in the same family as Gao and Cai, did not associate with them, so he was hated by the wealthy people.
+At the beginning of Emperor Huan's reign, he spoke out and said no.
+Although Xia Fu did not associate with the eunuchs, he was feared by the eunuchs because of his reputation. He, Fan Pang, Zhang Jian and others were all framed by the eunuchs. The imperial court issued an edict to go to the prefectures and counties to arrest him as the leader of the party.
+Zhang Jian and others fled for their lives. In the places they went through, everyone who came into contact with them was arrested and interrogated. People involved in interrogation were all over the world.
+Xia Fu paused and sighed and said: "The sin is your own fault. It hurts good people in vain. One person escapes to die, and the disaster affects thousands of families. What are you doing alive!"
+So he cut off his beard, changed his appearance, ran to Linlu Mountain, concealed his name, and became a servant of the smelting family.
+After working with chimney soot, his appearance was ruined and exhausted. After two or three years, no one knew it was him.
+Later, Xia Fu's younger brother Xia Jing took a car and pursued the silk to Niyang City.
+When he touched Xia Fu, he couldn't recognize him. When he heard Xia Fu's voice, he discovered Xia Fu and knelt down to Xia Fu.
+Xia Fu tried to avoid talking to him, so Xia Jing chased him to the hotel and slept with Xia Fu.
+At night Xia Fu quietly called Xia Jing: "I was framed by the powerful eunuch because I kept the right path and hated evil."
+If you want to stay safe and save your life, why did you come to me with your things? You are bringing trouble upon me!
+We left at dawn.
+He died before the party ban was lifted.
+◆Zong Ci's biography, Zong Ci's courtesy name was Xiaochu, and he was a native of Anzhong County, Nanyang County.
+In order to promote filial piety and honesty, the government summoned him nine times to conquer him with virtue, but he refused.
+Later he served as a military commander.
+At this time, the prefect came from a powerful and wealthy family, and corruption and bribery were very serious, so Zong Ci abandoned the county magistrate and left.
+The imperial court summoned Yilang, but he did not arrive and died on the road.
+The scholar-bureaucrats in Nanyang all respected his righteous deeds.
+◆Basu biography, Basu courtesy name Gongzu, a native of Gaocheng County, Bohai County.
+He was first promoted as Xiaolian, and successively served as the magistrate of Shen County and the magistrate of Beiqiu County. However, he resigned due to illness because the county governor was unpopular.
+When he was appointed to the Duke's Mansion, he was promoted to Yilang.
+He conspired with Dou Wu, Chen Fan and others to kill the eunuchs. Dou Wu and others were killed, and Basu was also banned from serving as an official because of the party's disaster.
+Later, Cao Jie, the minister of the Central Committee, heard that Ba Su had participated in the plot to kill the eunuch and arrested him.
+Basu took a bus to the county by himself.
+The county magistrate saw Basu and went into the cabinet to untie the seal ribbon and wanted to go with him.
+
+summary:
+summary line 12: Basu, from Bohai, conspired with Dou Wu and Chen Fan to kill eunuchs. After their failure, he was banned from office. Cao Jie arrested him, and Basu surrendered himself, saying he would not escape punishment. He was killed, and the governor carved a stone to record his deeds.
+
+Chunk 9: 
+original: 
+肃曰： 为人臣者，有谋不敢隐，有罪不逃刑。
+既不隐其谋矣，又敢逃其刑乎？
+遂被害。刺史贾琮刊石立铭以记之。
+范滂字孟博，汝南征羌人也。
+少厉清节，为州里所服，举孝廉，光禄四行。
+时冀州饥荒，盗贼群起，乃以滂为清诏使，案察之。
+滂登车揽辔，慨然有澄清天下之志。
+乃至州境，守令自知臧污，望风解印绶去。
+其所举奏，莫不厌塞众议。迁光禄勋主事。
+时，陈蕃为光禄勋，滂执公仪诣蕃，蕃不止之，滂怀恨，投版弃官而去。
+郭林宗闻而让蕃曰： 若范孟博者，岂宜以公礼格之？
+今成其去就之名，得无自取不优之议也？
+蕃乃谢焉。
+复为太尉黄琼所辟。
+后诏三府掾属举谣言，滂奏刺史、二千石权豪之党二十余人。
+尚书责滂所劾猥多，疑有私故。
+滂对曰： 臣之所举，自非叨秽奸暴，深为民害，岂以污简札哉！
+间以会日迫促，故先举所急，其未审者，方更参实。
+臣闻农夫去草，嘉谷必茂；忠臣除奸，王道以清。
+若臣言有贰，甘受显戮。
+吏不能洁。
+滂睹时方艰，知意不行，因投劾去。
+太守宗资先闻其名，请署功曹，委任政事。
+滂在职，严整疾恶。
+其有行违孝悌，不轨仁义者，皆埽迹斥逐，不与共朝。
+显荐异节，抽拔幽陋。
+滂外甥西平李颂，公族子孙，而为乡曲所弃，中常侍唐衡以颂请资，资用为吏。
+滂以非其人，寝而不召。
+资迁怒，捶书佐朱零。
+translation: 
+Basu said: As a minister, I dare not conceal my plans, and I will not escape punishment if I am guilty.
+I have not concealed my involvement in the murder of the eunuch, how dare I escape punishment?
+Because he was killed, the governor Jia Cong carved a stone inscription to record his deeds.
+◆Biography of Fan Pang, named Meng Bo, who conquered the Qiang people in Runan.
+When he was young, he honed his integrity and was highly praised by the state. He praised the four elements of filial piety, integrity and honor: honesty, simplicity, humility and frugality.
+At this time, there was a famine in Jizhou and thieves were on the rise, so Fan Pang was appointed as an envoy to the Qing Dynasty to investigate the situation of thieves.
+Fan Pang boarded the chariot and took the bridle with a high spirit and ambition to clarify the world.
+When he arrived at the prefecture and county, the governor knew that he was corrupt and violated the law. When he heard the news, he abandoned his official position and left.
+What Fan Pang exposed was what public opinion demanded to be dealt with, and Sheng Guang Luxun was in charge.
+At this time, Chen Fan was appointed Guang Luxun, and Fan Pang met Chen Fan on official occasions. Chen Fan did not stay with him, but Fan Pang held a grudge and abandoned his official post.
+When Guo Linzong heard that Chen Fan was being reprimanded, he said: "Can a person like Fan Mengbo be treated according to public etiquette?"
+Now that he is gone, it will make him famous. Isn't that a bad thing for himself?
+Chen Fan then apologized to Fan Pang.
+He was also recruited by Taiwei Huang Qiong.
+Later, the emperor ordered the three government officials to listen to the history of the good and bad, the people's suffering, and report to the court. Fan Pang reported to the governor and more than twenty people from the powerful party of two thousand stones.
+The minister blamed Fan Pang for too many impeachments and suspected that he was seeking personal revenge.
+Fan Pang replied: If what I am impeaching is not corruption and violence, which has caused great harm to the people, is it for the purpose of dirtying Jianzha?
+Because there is not enough time, those who need to be impeached first will be impeached first, and those that have not been thoroughly reviewed should be implemented later.
+I heard that if farmers weed the grass, good grains will flourish; if loyal ministers remove the traitors, the country's politics will be clear.
+If what I say is untrue, I am willing to be severely punished.
+Officials cannot question him.
+Fan Pang saw that the country was in a difficult time and knew that his ideals could not be realized, so he committed a crime and left.
+The prefect Zongzi had heard about Fan Pang before and asked him to act as a meritorious official and make political appointments.
+Fan Pang was in office and strictly enforced the rule. He hated bad people and bad deeds with deep hatred.
+Anyone who is unfilial or unfaithful, or behaves unbenevolently and righteously, will be expelled and will not work with them, and even their footprints will be wiped clean.
+Deliberately recommend those who are upright and upright, and promote those who have been buried.
+Fan Pang's nephew Li Song of Xiping, a descendant of the public family, was abandoned by the village. Tang Heng, the official of the Central Committee, introduced Li Song to Zongzi, who appointed Li Song as an official.
+Fan Pang thought Li Song was not suitable and suppressed it.
+Zongzi was so angry that he vented his anger on Shu Zuo Zhu Ling and whipped him.
+
+summary:
+summary line 13: Fan Pang, from Runan, was appointed envoy to investigate thieves in Jizhou. He exposed corrupt officials and was praised for his integrity. During the party disaster, he was imprisoned and tortured. After release, he returned south but was later arrested again. His mother encouraged him to die for a good reputation, and he was executed at age thirty-three.
+
+Chunk 11: 
+original: 
+既有令名，复求寿考，可兼得乎？
+滂跪受教，再拜而辞。
+顾谓其子曰： 吾欲使汝为恶，则恶不可为；使汝为善，则我不为恶。
+行路闻之，莫不流涕。时年三十三。
+论曰：李膺振拔污险之中，蕴义生风，以鼓动流俗，激素行以耻威权，立廉尚以振贵势，使天下之士奋迅感概，波荡而从之，幽深牢破室族而不顾，至于子伏其死而母欢其义。壮矣哉！
+子曰： 道之将废也与？
+命也！
+尹勋字伯元，河南巩人也。
+家世衣冠。
+伯父睦为司徒，兄颂为太尉，宗族多居贵位者，而勋独持清操，不以地势尚人。
+州郡连辟，察孝廉，三迁邯郸令，政有异迹。
+后举高第，五迁尚书令。
+及桓帝诛大将军梁冀，勋参建大谋，封都乡侯。
+迁汝南太守。
+上书解释范滂、袁忠等党议禁锢。
+寻征拜将作大匠，转大司农。
+坐窦武等事，下狱自杀。
+蔡衍字孟喜，汝南项人也。
+少明经讲授，以礼让化乡里。
+乡里有争讼者，辄诣衍决之，其所平处，皆曰无怨。
+举孝廉，稍迁冀州刺史。
+中堂侍具瑗托其弟恭举茂才，衍不受，乃收赍书者案之。
+又劾奏河间相曹鼎臧罪千万。
+鼎者，中堂侍腾之弟也。
+腾使大将军梁冀为书请之，衍不答，鼎竟坐输作左校。
+乃征衍拜议郎、符节令。
+梁冀闻衍贤，请欲相见，衍辞疾不往，冀恨之。
+时南阳太守成瑨等以收纠宦官考廷尉，衍与议郎刘瑜表救之，言甚切厉，坐免官还家，杜门不出。
+灵帝即位，复拜议郎，会病卒。
+羊陟字嗣祖，太山梁父人也。
+家世冠族。
+translation: 
+I already have a good reputation, and if I seek longevity exams, is it possible to have both?
+He knelt down to receive instruction, then bowed and resigned.
+He turned back to his son and said: I want you to do evil, but you can't do evil; I want you to do good, but I don't want to do evil, and this is the result!
+Everyone on the road shed tears when he heard this. He was thirty-three years old at the time.
+Officials commented: Li Ying stood up in a filthy and dangerous situation, and had a righteous heart. He used it to encourage popular customs, encourage high moral conduct to humiliate authority, and establish a clean and honest atmosphere to destroy the power of nobles. Even though he was in prison and his family was ruined, he never looked back. As for the son's death, the mother was happy for her son's sacrifice. How heroic!
+Confucius said: Has the Tao been abandoned?
+Or is it destiny?
+◆The biography of Yin Xun, whose courtesy name is Boyuan, was born in Gongxian County, Henan Province.
+It has been the home of officials for generations.
+His uncle Yin Mu is a Situ, his brother Yin Song is a Taiwei, and many of the Yin family occupies important positions. Yin Xun only adheres to the integrity and integrity and does not use status and power to overwhelm others.
+The prefectures and counties were conquered many times, promoted filial piety and integrity, and moved to Handan three times, with extraordinary political achievements.
+Later, he was promoted to high rank and moved to the ministerial order in the fifth year.
+Emperor Huan killed the general Liang Ji, and Yin Xun participated in the plan and was granted the title of Marquis of the capital.
+Moved to runan prefecture.
+The letter was written to explain to Fan Pang that Yuan Zhong and others suggested that he be imprisoned and not allowed to be an official because of the party disaster.
+Soon, he recruited generals to be chief craftsmen and transferred them to agricultural departments.
+Because of Dou Wu and other incidents, he was thrown into prison and committed suicide.
+◆Cai Yan's biography, Cai Yan's courtesy name is Meng happy, a native of Xiang County, Runan County.
+When he was young, he was proficient in Confucian classics, taught his disciples, and educated the villagers with courtesy.
+When there were disputes in the village, they often went to Cai Yan's house to ask for settlement. After Cai Yan mediated, everyone said they had no objection.
+He was promoted to the title of Xiaolian and the governor of Jizhou.
+Ju Yuan, the official in charge of the imperial office, asked Cai Yan to nominate his younger brother as a maocai, but Cai Yan refused and ordered him to be arrested and asked to deliver letters.
+He also impeached Cao Ding, the Prime Minister of Hejian, for embezzling millions of dollars in stolen goods.
+Cao Ding is the younger brother of Zhongchang Shi Cao Teng.
+Cao Teng sent General Liang Ji to write a letter to Cai Yan asking him to intercede, but Cai Yan ignored him. Cao Ding was therefore convicted and sent to Zuo School for labor reform.
+The imperial court recruited Cai Yan to serve as Yi Lang and Fu Jie Ling.
+Liang Ji heard that Cai Yan was talented and asked him to meet him. Cai Yan was ill and refused to go, so Liang Ji hated him.
+At this time, Nanyang Governor Cheng Wang Jin and others were interrogated by the court captain for taking in the eunuchs. Cai Yan and Yilang Liu Yu came to rescue them.
+Emperor Ling ascended the throne and was appointed Yilang again. He died of illness.
+◆The biography of Yangzhi, the descendant of Yangzhi, was a native of Liangfu County, Taishan.
+Generations are the family of officials.
+
+summary:
+summary line 14: Yin Xun, from Henan, adhered to integrity despite his family's power. He participated in killing Liang Ji and was granted marquis. He wrote to explain Fan Pang's case but was later imprisoned and committed suicide due to Dou Wu's incident.
+
+Chunk 11: 
+original: 
+既有令名，复求寿考，可兼得乎？
+滂跪受教，再拜而辞。
+顾谓其子曰： 吾欲使汝为恶，则恶不可为；使汝为善，则我不为恶。
+行路闻之，莫不流涕。时年三十三。
+论曰：李膺振拔污险之中，蕴义生风，以鼓动流俗，激素行以耻威权，立廉尚以振贵势，使天下之士奋迅感概，波荡而从之，幽深牢破室族而不顾，至于子伏其死而母欢其义。壮矣哉！
+子曰： 道之将废也与？
+命也！
+尹勋字伯元，河南巩人也。
+家世衣冠。
+伯父睦为司徒，兄颂为太尉，宗族多居贵位者，而勋独持清操，不以地势尚人。
+州郡连辟，察孝廉，三迁邯郸令，政有异迹。
+后举高第，五迁尚书令。
+及桓帝诛大将军梁冀，勋参建大谋，封都乡侯。
+迁汝南太守。
+上书解释范滂、袁忠等党议禁锢。
+寻征拜将作大匠，转大司农。
+坐窦武等事，下狱自杀。
+蔡衍字孟喜，汝南项人也。
+少明经讲授，以礼让化乡里。
+乡里有争讼者，辄诣衍决之，其所平处，皆曰无怨。
+举孝廉，稍迁冀州刺史。
+中堂侍具瑗托其弟恭举茂才，衍不受，乃收赍书者案之。
+又劾奏河间相曹鼎臧罪千万。
+鼎者，中堂侍腾之弟也。
+腾使大将军梁冀为书请之，衍不答，鼎竟坐输作左校。
+乃征衍拜议郎、符节令。
+梁冀闻衍贤，请欲相见，衍辞疾不往，冀恨之。
+时南阳太守成瑨等以收纠宦官考廷尉，衍与议郎刘瑜表救之，言甚切厉，坐免官还家，杜门不出。
+灵帝即位，复拜议郎，会病卒。
+羊陟字嗣祖，太山梁父人也。
+家世冠族。
+translation: 
+I already have a good reputation, and if I seek longevity exams, is it possible to have both?
+He knelt down to receive instruction, then bowed and resigned.
+He turned back to his son and said: I want you to do evil, but you can't do evil; I want you to do good, but I don't want to do evil, and this is the result!
+Everyone on the road shed tears when he heard this. He was thirty-three years old at the time.
+Officials commented: Li Ying stood up in a filthy and dangerous situation, and had a righteous heart. He used it to encourage popular customs, encourage high moral conduct to humiliate authority, and establish a clean and honest atmosphere to destroy the power of nobles. Even though he was in prison and his family was ruined, he never looked back. As for the son's death, the mother was happy for her son's sacrifice. How heroic!
+Confucius said: Has the Tao been abandoned?
+Or is it destiny?
+◆The biography of Yin Xun, whose courtesy name is Boyuan, was born in Gongxian County, Henan Province.
+It has been the home of officials for generations.
+His uncle Yin Mu is a Situ, his brother Yin Song is a Taiwei, and many of the Yin family occupies important positions. Yin Xun only adheres to the integrity and integrity and does not use status and power to overwhelm others.
+The prefectures and counties were conquered many times, promoted filial piety and integrity, and moved to Handan three times, with extraordinary political achievements.
+Later, he was promoted to high rank and moved to the ministerial order in the fifth year.
+Emperor Huan killed the general Liang Ji, and Yin Xun participated in the plan and was granted the title of Marquis of the capital.
+Moved to runan prefecture.
+The letter was written to explain to Fan Pang that Yuan Zhong and others suggested that he be imprisoned and not allowed to be an official because of the party disaster.
+Soon, he recruited generals to be chief craftsmen and transferred them to agricultural departments.
+Because of Dou Wu and other incidents, he was thrown into prison and committed suicide.
+◆Cai Yan's biography, Cai Yan's courtesy name is Meng happy, a native of Xiang County, Runan County.
+When he was young, he was proficient in Confucian classics, taught his disciples, and educated the villagers with courtesy.
+When there were disputes in the village, they often went to Cai Yan's house to ask for settlement. After Cai Yan mediated, everyone said they had no objection.
+He was promoted to the title of Xiaolian and the governor of Jizhou.
+Ju Yuan, the official in charge of the imperial office, asked Cai Yan to nominate his younger brother as a maocai, but Cai Yan refused and ordered him to be arrested and asked to deliver letters.
+He also impeached Cao Ding, the Prime Minister of Hejian, for embezzling millions of dollars in stolen goods.
+Cao Ding is the younger brother of Zhongchang Shi Cao Teng.
+Cao Teng sent General Liang Ji to write a letter to Cai Yan asking him to intercede, but Cai Yan ignored him. Cao Ding was therefore convicted and sent to Zuo School for labor reform.
+The imperial court recruited Cai Yan to serve as Yi Lang and Fu Jie Ling.
+Liang Ji heard that Cai Yan was talented and asked him to meet him. Cai Yan was ill and refused to go, so Liang Ji hated him.
+At this time, Nanyang Governor Cheng Wang Jin and others were interrogated by the court captain for taking in the eunuchs. Cai Yan and Yilang Liu Yu came to rescue them.
+Emperor Ling ascended the throne and was appointed Yilang again. He died of illness.
+◆The biography of Yangzhi, the descendant of Yangzhi, was a native of Liangfu County, Taishan.
+Generations are the family of officials.
+
+summary:
+summary line 15: Cai Yan, from Runan, was proficient in Confucian classics and mediated village disputes. He refused to nominate a eunuch's relative and impeached corrupt officials. He died of illness after Emperor Ling ascended.
+
+Chunk 12: 
+original: 
+陟少清直有学行，举孝廉，辟太尉李固府，举高第，拜侍御史。
+会固被诛，陟以故吏禁锢历年。
+复举高第，再迁冀州刺史。
+奏案贪浊，所在肃然。
+又再迁虎贲中郎将、城门校尉，三迁尚书令。
+时，太尉张颢、司徒樊陵、大鸿胪郭防、太仆曹陵、大司农冯方并与宦竖相姻私，公行货赂，并奏罢黜之，不纳。
+以前太尉刘宠、司隶校尉许冰、幽州刺史杨熙、凉州刺史刘恭、益州刺史庞艾清亮在公，荐举升进。帝嘉之。拜陟河南尹。
+计日受奉，常食干饭茹菜，禁制豪右，京师惮之。会党事起，免官禁锢。卒于家。
+张俭字元节，山阳高平人，赵王张耳之后也。
+父成，江夏太守，俭初举茂才，以刺史非其人，谢病不起。
+延熹八年，太守翟超请为东部督邮。
+时中常侍侯览家在防东，残暴百姓，所为不轨。
+俭举劾览及其母罪恶，请诛之。
+览遏绝章表，并不得通，由是结仇。
+乡人朱并，素性佞邪，为俭所弃，并怀怨恚，遂上书告俭与同郡二十四人为党，于是刊章讨捕。
+俭得亡命，困迫遁走，望门投止，莫不重其名行，破家相容。
+后流转东莱，止李笃家。
+外黄令毛钦操兵到门，笃引钦谓曰： 张俭知名天下，而亡非其罪。
+纵俭可得，宁忍执之乎？
+钦因起抚笃曰： 蘧伯玉耻独为君子，足下如何自专仁义？
+笃曰： 笃虽好义，明廷今日载其半矣。
+钦叹息而去。
+笃因缘送俭出塞，以故得免。
+translation: 
+When Yang Zhi was young, he was upright and knowledgeable. He was promoted as Xiaolian and conscripted into Taiwei Li Gu's mansion. Because of his excellent performance, he was promoted to a high rank and was appointed as Shi Yushi.
+When Li Gu was executed, Yang Zhi was banned from being an official for many years because he was Li Gu's old official.
+Because of his outstanding performance, he was promoted to the provincial governor of Jizhou.
+Report cases of corruption and corruption, and wherever they go, corruption and perversion of the law will disappear.
+He was promoted to Huben Zhonglang General, Chengmen Xiaowei, and Shangshu Ling three times.
+At this time, Taiwei Zhang Hao, Situ Fanling, Da Honglu Guo Fang, Tai servant Cao Ling, and Da Sinong Feng Fang all had marriages with eunuchs, got together, and openly bribed eunuchs. Yang Zhi petitioned them one by one to remove them and expel them, but the emperor did not accept it.
+Former Taiwei Liu Chong, Sili Colonel Xu Bing, Youzhou Governor Yang Xi, Liangzhou Governor Liu Gong, and Yizhou Governor Pang Ai were honest and upright in public affairs. Yang Zhi recommended them and promoted them. The emperor commended him and appointed him as Henan Yin.
+He received salary on a daily basis, often ate dry rice and vegetables, and suppressed powerful people. All the officials in the capital were afraid of him. When troubles with the party occurred, he was removed from office, and he was imprisoned as an official. He died at home.
+◆Zhang Jianzhuan, Zhang Jianzi Yuanjie, a native of Gaoping, Shanyang, a descendant of Zhao Wang Zhang Er.
+His father, Zhang Cheng, was the governor of Jiangxia. Zhang Jian was initially recommended as a talented person by the villagers. He thought that the governor was not suitable for him, so he refused to go because of illness.
+In the eighth year of Yanxi's reign, the governor Zhai Chao asked him to be the postal supervisor in the east.
+At this time, Zhongchang Shihou Lan's family was in Fangdong, and he was cruel to the people and lawless.
+Zhang Jian exposed the crimes of Hou Lan and his mother and asked the court to execute them.
+Hou Lan withheld Zhang Jian's seal, but the emperor did not see it, so he and Hou Lan became enmity.
+Zhu Bing, a native of the country, was flattering, despicable and nasty by nature. Zhang Jian looked down upon him and hated him. He wrote a letter to accuse Zhang Jian and twenty-four people in the same county of being friends. The court then ordered Zhang Jian to be arrested and Zhu Bing's name to be cut off to show that he was keeping it secret.
+Zhang Jian ran for his life and ran away in embarrassment. Wherever he ran, when it got dark, he would stay in any house. No one disrespected his reputation and character. Even though his family was ruined, they were still willing to take him in.
+Later he went into exile in Donglai and stayed at Li Du's home.
+Waihuang ordered Mao Qin to lead troops to his home. Li Du called Mao Qin and said: "Zhang Jian is famous all over the world. It is not his fault to escape."
+Even if you see Zhang Jian, can you bear to capture him?
+Mao Qin stood up and caressed Li Du and said: "It is shameful for Zang Boyu to think that he is a gentleman alone. Why do you only focus on benevolence and righteousness?"
+Li Du said: Although I, Li Du, say I love righteousness, you have gained half of it today!
+Mao Qin sighed and left.
+Li Du was able to send Zhang Jian out of the fortress, and Zhang Jian was finally saved from death.
+
+summary:
+summary line 16: Yangzhi, from Taishan, was upright and knowledgeable. He reported corruption cases and recommended honest officials. He suppressed powerful people as Henan Yin but was removed during the party disaster and died at home.
+
+Chunk 13: 
+original: 
+其所经历，伏重诛者以十数，宗亲并皆殄灭，郡县为之残破。
+中平元年，党事解，乃还乡里。
+大将军、三公并辟，又举敦朴，公车特征，起家拜少府，皆不就。
+献帝初，百姓饥荒，而俭资计差温，乃倾竭财产，与邑里共之，赖其存者以百数。
+建安初，征为卫尉，不得已而起。
+俭见曹氏世德已萌，乃阖门县车，不豫政事。
+岁余卒于许下。年八十四。
+论曰：昔魏齐违死，虞卿解印；季布逃亡，朱家甘罪。
+而张俭见怒时王，颠沛假命，天下闻其风者，莫不怜其壮志，而争为之主。
+至乃捐城委爵、破族屠身，盖数十百所，岂不贤哉！
+然俭以区区一掌，而欲独堙江河，终婴疾甚之乱。多见其不知量也。
+岑晊字公孝，南阳棘阳人也。
+父豫，为南郡太守，以贪叨诛死。
+晊年少未知名，往侯同郡宗慈，慈方以有道见征，宾客满门，以晊非良家子，不肯见。
+晊留门下数日，晚乃引入。
+慈与语，大奇之，遂将俱至洛阳，因诣太学受业。
+晊有高才，郭林宗、朱公叔等皆为友，李膺、王暢称其有干国器，虽在闾里，慨然有董正天下之志。
+太守弘农成瑨下车，欲振威严，闻晊高名，请为功曹，又以张牧为中贼曹吏。
+瑨委心晊、牧，褒善纠违，肃清朝府。
+宛有富贾张汎者，桓帝美人之外亲，善巧雕镂玩好之物，颇以赂遗中官，以此并得显位，恃其伎巧，用势纵横。
+晊与牧劝收捕汎等，既而同赦，晊竟诛之，并收其宗族宾客，杀二百余人，后乃奏闻。
+于是中常侍侯览使汎妻上书讼其兔。
+帝大震怒，征，下狱死。
+晊与牧亡匿齐鲁之间。
+translation: 
+Dozens of people were executed in every house where Zhang Jian passed by, and all their clan relatives were killed, leaving the county in ruins.
+In the first year of Zhongping, the party's imprisonment was lifted, and Zhang Jian returned to his hometown.
+The generals and three princes all recruited him and recommended him with sincerity. He had the characteristics of the official carriage of the imperial court and was appointed to pay homage to the Shaofu, but he was not accepted.
+In the early years of Emperor Xian's reign, the people were in famine, and Zhang Jian's family was relatively wealthy, so he shared his property with his fellow villagers. There are hundreds of people who survive on these properties.
+In the early years of Jian'an, the imperial court recruited him as a guard, but he accepted it as a last resort.
+Zhang Jian saw that Cao Cao had usurpation ambitions, so he closed his door and hung up his car.
+More than a year later, he died in Xuzhou at the age of eighty-four.
+The historian commented: In the past, Wei Qi avoided death, Yu Qing resigned and fled with him, Ji Bu fled for his life, and the Zhu family was willing to hide him and save him.
+Zhang Jian offended the emperor and fled everywhere for his life. When people in the world heard about his integrity, they all liked his ambition and competed to be the host to take him in.
+There are probably dozens of cases where he abandoned his city, lost his official position, and destroyed his body and clan. Isn't Zhang Jian still a virtuous person?
+However, Zhang Jian tried to block the river with just one palm of his hand, and finally caused trouble because of his hatred for unkind people. This shows how overestimating his ability is!
+◆Cen Hao's biography, Cen Hao's courtesy name was Gongxiao, and he was a native of Jiyang County, Nanyang County.
+His father, Cen Yu, served as the governor of Nanjun and was killed for corruption.
+When Cen Hao was young and not well-known, he went to see Zong Ci of the same county. Zong Ci was recruited for being a good man. The house was full of guests. They thought Cen Hao was not a good family son and were unwilling to meet him.
+Cen Hao stayed outside the door for many days before being brought in.
+Zong Ci talked to him and praised him greatly, so he took him to Luoyang to study at Taixue.
+Cen Hao had superb talents, and Guo Linzong, Li Gongshu, etc. all became friends with him. Li Ying and Wang Chang said that he had the ability to govern the country. Although he was in the countryside, he was high-spirited and had the ambition to govern the world.
+When the prefect, Hongnongcheng, came to the Jin Dynasty, he wanted to establish his authority. After hearing Cen Hao's name, he asked him to serve as a meritorious officer, and also appointed Zhang Mu as a thief officer.
+King Cheng Jin trusted Cen Hao and Zhang Mu, rewarded good deeds and corrected mistakes, and purged the palace.
+There was a wealthy businessman named Zhang Xun in Wan County, who was a relative of Emperor Huan's beauty. He could carve some ingenious and interesting things, and often gave them to eunuchs with bribes. As a result, he also obtained a prominent official position. With his skills, he could do whatever he wanted.
+Cen Hao and Zhang Mu persuaded Wang Jin to arrest Zhang Xun and others. Later, when they were pardoned, Cen Hao still killed them and arrested their clan guests. He killed more than 200 people before reporting to the court.
+So the wife of Zhang Xun, the official in charge of Zhang Xun, sent a letter to complain.
+Emperor Huan was furious and conscripted King Jin into prison and died in prison.
+Cen Hao and Zhang Mu were hiding between Qi and Lu.
+
+summary:
+summary line 17: Zhang Jian, from Shanyang, exposed Hou Lan's crimes but was framed by Zhu Bing. He fled for his life, with many houses sheltering him despite the risk of execution. Dozens were killed for hiding him. After the party ban was lifted, he returned home and shared his wealth with villagers. He died at age eighty-four during Jian'an.
+
+Chunk 1: 
+original: 
+若范滂、张俭之徒，清心忌恶，终陷党议，不其然乎？
+初，桓帝为蠡吾侯，受学于甘陵周福，及即帝位，擢福为尚书。
+时同郡河南尹房植有名当朝，乡人为之谣曰： 天下规矩房伯武，因师获印周仲进。
+二家宾客，互相讥揣，遂各树朋徒，渐成尤隙，由是甘陵有南北部，党人之议，自此始矣。
+后汝南太守宗资任功曹范滂，南阳太守成瑨亦委功曹岑，二郡又为谣曰： 汝南太守范孟博，南阳宗资主画诺。
+南阳太守岑公孝，弘农成瑨但坐啸。
+因此流言转入太学，诸生三万余人，郭林宗、贾伟节为其冠，并与李膺、陈蕃、王暢更相褒重。
+学中语曰： 天下模楷李元礼，不畏强御陈仲举，天下俊秀王叔茂。
+又渤海公族进阶、扶风魏齐卿，并危言深论，不隐豪强。
+自公卿以下，莫不畏其贬议，屣履到门。
+时，河内张成善说风角，推占当赦，遂教子杀人。
+李膺为河南尹，督促收捕，既而逢宥获免，膺愈怀愤疾，竟案杀之。
+初，成以方伎交通宦官，帝亦颇谇其占。
+成弟子牢修因上书诬告膺等养太学游士，交结诸郡生徒，更相驱驰，共为部党，诽讪朝廷，疑乱风俗。
+于是天子震怒，班下郡国，逮捕党人，布告天下，使同忿疾，遂收执膺等。
+其辞所连及陈寔之徒二百余人，或有逃遁不获，皆悬金购募。
+使者四出，相望于道。
+明年，尚书霍谞、城门校尉窦武并表为请，帝意稍解，乃皆赦归田里，禁锢终身。
+而党人之名，犹书王府。
+自是正直废放。
+邪枉炽结，海内希风之流，遂共相标榜，指天下名士，为之称号。上曰 三君 ，次曰 八俊 ，次曰 八顾 ，次曰 八及 ，次曰 八厨 ，犹古之 八元 、 八凯 也。
+窦武、刘淑、陈蕃为 三君 。
+translation: 
+Isn't it true that Fan Pang, Zhang Jian, etc., suffered from bad governance during the Qing Dynasty, and finally fell into the disaster of the Party's control?
+In the past, Emperor Huan was the Marquis of Liwu. He learned from Zhou Fu in Ganling and became the emperor. He promoted Zhou Fu to be the minister.
+At that time, Yin Fangzhi of Henan, who was in the same county as Zhou Fu, was very famous in the court. The people in the village made two songs: Fang Bowu is the rule in the world, and Zhou Zhongjin was awarded the seal because of his division.
+The guests from the two families ridiculed each other, so they each made friends, which gradually became enemies. As a result, Ganling was divided into northern and southern parts, and the name of the party members began to exist.
+Later, the prefect of Runan, Zongzi, appointed Cao Fanpang, and the prefect of Nanyang, Cheng Jin, also appointed the meritorious Cao Cenri. The two counties also composed a ballad saying: Fan Mengbo, the prefect of Runan, is the master of Nanyang Zongzi.
+Nanyang Prefect Cen Gongxiao, Hongnong Cheng Jindan sat and whistled.
+Therefore, rumors spread to the Imperial College, and there were more than 30,000 students there. Guo Linzong and Jia Weijie were the leaders, and they all respected each other with Li Ying, Chen Fan, and Wang Chang.
+There is a rumor in the school: Li Yuanli is a model in the world, Chen Zhongju is not afraid of force, and Wang Shumao is a handsome man in the world.
+In addition, the Bohai clan has advanced, and Fufeng and Wei Qiqing all dare to speak out and are not afraid of the powerful.
+From the ministers down, everyone who was not afraid of their accusations came to accept them one after another.
+At that time, Zhang Cheng in Hanoi was good at fortune telling. He used the wind in all directions to predict good and bad luck. He speculated that the court would grant amnesty, so he taught his son to kill people.
+Li Ying was the Yin of Henan and urged the arrest of Zhang Cheng. Soon, when the imperial court pardoned him and exempted him from arrest, Li Ying became even more angry and arrested and executed him.
+At first, Zhang Cheng used astrology to make friends with eunuchs, and the emperor once asked Zhang Cheng about his divination.
+Therefore, Zhang Cheng's disciple Lao wrote a letter and falsely accused Li Ying and others of adopting Taixue travellers, making friends with students in various counties, causing trouble, forming cliques, slandering the court, and disrupting customs.
+So the emperor became angry, promulgated the prefectures, arrested party members, and announced to the whole world that they shared the same hatred with the enemy. So Li Ying and others were arrested.
+There were more than 200 Chen Chen's followers mentioned in the confession. Some of them escaped but were not caught, and rewards were offered for their capture.
+People were sent out to search and hunt, and there was an endless stream of people on the road.
+The next year, Shangshu Huo, Chengmen Colonel Dou Wu and others all petitioned the emperor to reconsider, and the emperor's anger was somewhat relieved.
+So those arrested were sent back to the countryside without charge and were banned from employment for life. The names of party members are written in the palace.
+Since then, the upright people have been abandoned, and the bad people have similar odors and collude together.
+People in the country who pursue high integrity and integrity praise each other, refer to celebrities in the world, and set a label. The first one is called Sanjun, the second is called Bajun, the third is called Bagu, the fourth is called Baji, and the fifth is called Bachu, which is similar to the ancient Ba Yuan and Ba Kai.
+Dou Wu, Liu Shu and Chen Fan were called the "Three Monarchs".
+
+summary:
+summary line 18: Cen Hao, from Nanyang, studied at Taixue and befriended Guo Linzong. He served as a meritorious officer under Wang Jin, arresting and killing over 200 corrupt individuals. Emperor Huan imprisoned Wang Jin, and Cen Hao fled, later dying in the Jiangxia Mountains.
+
+Chunk 14: 
+original: 
+会赦出。
+后州郡察举，三府交辟，并不就。
+及李、杜之诛，因复逃窜，终于江夏山中云。
+陈翔字子麟，汝南邵陵人也。
+祖父珍，司隶校尉。
+翔少知名，善交结。
+察孝廉，太尉周景辟举高第，拜侍御史。
+时正旦朝贺，大将军梁冀威仪不整。翔奏冀恃贵不敬，请收案罪，时人奇之。
+迁定襄太守，征拜议郎，迁扬州刺史。
+举奏豫章太守王永奏事中官，吴郡太守徐参在职贪秽，并征诣廷尉。
+参，中常侍璜之弟也。
+由此威名大振。
+又征拜议郎，补御史中丞。
+坐党事考黄门北寺狱，以无验见原，卒于家。
+孔昱字元世，鲁国鲁人也。
+七世祖霸，成亲时历九卿，封褒成侯。
+自霸至昱，爵位相系，其卿相牧守五十三人，列侯七人。
+昱少习家学，大将军梁冀辟，不应。
+太尉举方正，对策不合，乃辞病去。
+后遭党事禁锢。
+灵帝即位，公车征拜议郎，补洛阳令，以师丧弃官，卒于家。
+苑康字仲真，勃海重合人也。
+少受业太学，与郭林宗亲善。
+举孝廉，再迁颍阴令，有能迹。
+迁太山太守。
+郡内豪姓多不法，康至，奋威怒，施严令，莫有干犯者。
+先所请夺人田宅，皆遽还之。
+是时，山阳张俭杀常侍侯览母，案其宗党宾客，或有迸匿太山界者，康既常疾阉官，因此皆穷相收掩，无得遗脱。
+览大怨之，诬康与兗州刺史第五种及都尉壶嘉诈上贼降，征康诣廷尉狱，减死罪一等，徙日南。
+颍阴人及太山羊陟等诣阙为讼，乃原还本郡，卒于家。
+檀敷字文有，山阳瑕丘人也。
+少为诸生，家贫而志清，不受乡里施惠。
+translation: 
+Meet pardon and come out.
+Later, he was elected by the state and county, and he was not accepted by the three governments.
+After Li Gu and Du Mi were killed, he fled again and was heard to have died in the Jiangxia Mountains.
+◆Chen Xiang's biography, Chen Xiang's courtesy name is Zilin, a native of Shaoling County, Runan County.
+Grandfather Chen Zhen, Sili Xiaowei.
+Chen Xiang was famous for his social skills when he was young.
+He was promoted to Xiaolian, and Taiwei Zhou Jing promoted him with a high rank and appointed him as Shi Yushi.
+At this time, on the first day of the first lunar month of the lunar calendar, Liang Ji, the general, showed his unkempt appearance and unkempt appearance. Chen Xiang reported to the emperor that Liang Ji was disrespectful to the emperor because of his good fortune, so he should be arrested and punished. People at the time thought he was a strange person.
+He was promoted to prefect of Dingxiang, conscripted as Yilang, and promoted to governor of Yangzhou.
+The emperor reported that Wang Yong, the prefect of Yuzhang, was a senior official, and Xu Shen, the prefect of Wu County, had committed corruption in office, and both were expelled from the imperial court.
+Xu Shen is the younger brother of Xu Huang, the imperial minister.
+As a result, his reputation grew.
+He was also appointed as Yilang to supplement the imperial censor Zhongcheng.
+He was interrogated by the Huangmen Beisi Prison due to party misfortune, but was exonerated because there was no evidence, and died at home.
+◆The biography of Kong Yu, whose courtesy name was Yuan Dynasty, was from Lu County, Lu State.
+Kong Ba, the seventh generation ancestor, served successively as Jiuqing when he became emperor, and was granted the title of Marquis.
+From Kong Ba to Kong Yu, the title of nobility continued, and there were fifty-three ministers and ministers, including seven princes.
+When Kong Yu was a child, he studied "Shang Shu" and was summoned by the general Liang Ji, but he did not respond.
+Taiwei Ju Fangzheng disagreed with the emperor's questions, so he resigned due to illness.
+Later, he was banned from serving as an official due to party disaster.
+When Emperor Ling came to the throne, he conscripted Yilang in a public car to supplement the Luoyang order. Because of the death of his teacher, he abandoned his official position and died at home.
+◆The biography of Yuan Kang, whose courtesy name is Zhongzhen, was born in Chonghe County, Bohai County.
+When he was young, he studied in Taixue and was very close to Guo Linzong.
+Raise filial piety and integrity, and then move to Yingyin Order. Known for his ability.
+He was promoted to Taishou of Taishan.
+Many surnames in the county were engaged in illegal activities. When Yuan Kang took office, he acted aggressively, got angry, and promulgated strict laws. No one dared to break the law.
+Those who had invaded other people's fields and houses in the past were quickly returned to their original owners.
+At this time, Zhang Jian of Shanyang killed Hou Lan's mother, who was often serving as a servant. Yuan Kang investigated her clan guests, some of whom were hidden in Taishan. He always hated eunuchs, so he arrested them all without missing or running away.
+Hou Lan hated Yuan Kang to the extreme. He falsely accused Yuan Kang, Yanzhou Governor No. 5 and Duwei Hujia of surrendering, and summoned Yuan Kang to Tingwei Prison. He was commuted to the death penalty and demoted to Rinan.
+Yingyin and Taiyangzhi waited until the court appealed for Yuankang and were pardoned. They were sent back to their own county and died at home.
+◆Tanfu Zhuan, Tanfu Ziwenyou, a native of Xiaqiu, Shanyin County.
+When I was young, I was Zhusheng. Although my family was poor, I had high ambitions and did not accept benefits from the wealthy people in the village.
+
+summary:
+summary line 19: Chen Xiang, from Runan, reported Liang Ji's disrespect and was promoted to governor of Yangzhou. He expelled corrupt officials but was imprisoned during the party disaster. He was exonerated and died at home.
+
+Chunk 14: 
+original: 
+会赦出。
+后州郡察举，三府交辟，并不就。
+及李、杜之诛，因复逃窜，终于江夏山中云。
+陈翔字子麟，汝南邵陵人也。
+祖父珍，司隶校尉。
+翔少知名，善交结。
+察孝廉，太尉周景辟举高第，拜侍御史。
+时正旦朝贺，大将军梁冀威仪不整。翔奏冀恃贵不敬，请收案罪，时人奇之。
+迁定襄太守，征拜议郎，迁扬州刺史。
+举奏豫章太守王永奏事中官，吴郡太守徐参在职贪秽，并征诣廷尉。
+参，中常侍璜之弟也。
+由此威名大振。
+又征拜议郎，补御史中丞。
+坐党事考黄门北寺狱，以无验见原，卒于家。
+孔昱字元世，鲁国鲁人也。
+七世祖霸，成亲时历九卿，封褒成侯。
+自霸至昱，爵位相系，其卿相牧守五十三人，列侯七人。
+昱少习家学，大将军梁冀辟，不应。
+太尉举方正，对策不合，乃辞病去。
+后遭党事禁锢。
+灵帝即位，公车征拜议郎，补洛阳令，以师丧弃官，卒于家。
+苑康字仲真，勃海重合人也。
+少受业太学，与郭林宗亲善。
+举孝廉，再迁颍阴令，有能迹。
+迁太山太守。
+郡内豪姓多不法，康至，奋威怒，施严令，莫有干犯者。
+先所请夺人田宅，皆遽还之。
+是时，山阳张俭杀常侍侯览母，案其宗党宾客，或有迸匿太山界者，康既常疾阉官，因此皆穷相收掩，无得遗脱。
+览大怨之，诬康与兗州刺史第五种及都尉壶嘉诈上贼降，征康诣廷尉狱，减死罪一等，徙日南。
+颍阴人及太山羊陟等诣阙为讼，乃原还本郡，卒于家。
+檀敷字文有，山阳瑕丘人也。
+少为诸生，家贫而志清，不受乡里施惠。
+translation: 
+Meet pardon and come out.
+Later, he was elected by the state and county, and he was not accepted by the three governments.
+After Li Gu and Du Mi were killed, he fled again and was heard to have died in the Jiangxia Mountains.
+◆Chen Xiang's biography, Chen Xiang's courtesy name is Zilin, a native of Shaoling County, Runan County.
+Grandfather Chen Zhen, Sili Xiaowei.
+Chen Xiang was famous for his social skills when he was young.
+He was promoted to Xiaolian, and Taiwei Zhou Jing promoted him with a high rank and appointed him as Shi Yushi.
+At this time, on the first day of the first lunar month of the lunar calendar, Liang Ji, the general, showed his unkempt appearance and unkempt appearance. Chen Xiang reported to the emperor that Liang Ji was disrespectful to the emperor because of his good fortune, so he should be arrested and punished. People at the time thought he was a strange person.
+He was promoted to prefect of Dingxiang, conscripted as Yilang, and promoted to governor of Yangzhou.
+The emperor reported that Wang Yong, the prefect of Yuzhang, was a senior official, and Xu Shen, the prefect of Wu County, had committed corruption in office, and both were expelled from the imperial court.
+Xu Shen is the younger brother of Xu Huang, the imperial minister.
+As a result, his reputation grew.
+He was also appointed as Yilang to supplement the imperial censor Zhongcheng.
+He was interrogated by the Huangmen Beisi Prison due to party misfortune, but was exonerated because there was no evidence, and died at home.
+◆The biography of Kong Yu, whose courtesy name was Yuan Dynasty, was from Lu County, Lu State.
+Kong Ba, the seventh generation ancestor, served successively as Jiuqing when he became emperor, and was granted the title of Marquis.
+From Kong Ba to Kong Yu, the title of nobility continued, and there were fifty-three ministers and ministers, including seven princes.
+When Kong Yu was a child, he studied "Shang Shu" and was summoned by the general Liang Ji, but he did not respond.
+Taiwei Ju Fangzheng disagreed with the emperor's questions, so he resigned due to illness.
+Later, he was banned from serving as an official due to party disaster.
+When Emperor Ling came to the throne, he conscripted Yilang in a public car to supplement the Luoyang order. Because of the death of his teacher, he abandoned his official position and died at home.
+◆The biography of Yuan Kang, whose courtesy name is Zhongzhen, was born in Chonghe County, Bohai County.
+When he was young, he studied in Taixue and was very close to Guo Linzong.
+Raise filial piety and integrity, and then move to Yingyin Order. Known for his ability.
+He was promoted to Taishou of Taishan.
+Many surnames in the county were engaged in illegal activities. When Yuan Kang took office, he acted aggressively, got angry, and promulgated strict laws. No one dared to break the law.
+Those who had invaded other people's fields and houses in the past were quickly returned to their original owners.
+At this time, Zhang Jian of Shanyang killed Hou Lan's mother, who was often serving as a servant. Yuan Kang investigated her clan guests, some of whom were hidden in Taishan. He always hated eunuchs, so he arrested them all without missing or running away.
+Hou Lan hated Yuan Kang to the extreme. He falsely accused Yuan Kang, Yanzhou Governor No. 5 and Duwei Hujia of surrendering, and summoned Yuan Kang to Tingwei Prison. He was commuted to the death penalty and demoted to Rinan.
+Yingyin and Taiyangzhi waited until the court appealed for Yuankang and were pardoned. They were sent back to their own county and died at home.
+◆Tanfu Zhuan, Tanfu Ziwenyou, a native of Xiaqiu, Shanyin County.
+When I was young, I was Zhusheng. Although my family was poor, I had high ambitions and did not accept benefits from the wealthy people in the village.
+
+summary:
+summary line 20: Kong Yu, from Lu, studied "Shang Shu" and refused Liang Ji's summons. He was banned from office due to the party disaster and later died at home after serving as Luoyang magistrate.
+
+Chunk 14: 
+original: 
+会赦出。
+后州郡察举，三府交辟，并不就。
+及李、杜之诛，因复逃窜，终于江夏山中云。
+陈翔字子麟，汝南邵陵人也。
+祖父珍，司隶校尉。
+翔少知名，善交结。
+察孝廉，太尉周景辟举高第，拜侍御史。
+时正旦朝贺，大将军梁冀威仪不整。翔奏冀恃贵不敬，请收案罪，时人奇之。
+迁定襄太守，征拜议郎，迁扬州刺史。
+举奏豫章太守王永奏事中官，吴郡太守徐参在职贪秽，并征诣廷尉。
+参，中常侍璜之弟也。
+由此威名大振。
+又征拜议郎，补御史中丞。
+坐党事考黄门北寺狱，以无验见原，卒于家。
+孔昱字元世，鲁国鲁人也。
+七世祖霸，成亲时历九卿，封褒成侯。
+自霸至昱，爵位相系，其卿相牧守五十三人，列侯七人。
+昱少习家学，大将军梁冀辟，不应。
+太尉举方正，对策不合，乃辞病去。
+后遭党事禁锢。
+灵帝即位，公车征拜议郎，补洛阳令，以师丧弃官，卒于家。
+苑康字仲真，勃海重合人也。
+少受业太学，与郭林宗亲善。
+举孝廉，再迁颍阴令，有能迹。
+迁太山太守。
+郡内豪姓多不法，康至，奋威怒，施严令，莫有干犯者。
+先所请夺人田宅，皆遽还之。
+是时，山阳张俭杀常侍侯览母，案其宗党宾客，或有迸匿太山界者，康既常疾阉官，因此皆穷相收掩，无得遗脱。
+览大怨之，诬康与兗州刺史第五种及都尉壶嘉诈上贼降，征康诣廷尉狱，减死罪一等，徙日南。
+颍阴人及太山羊陟等诣阙为讼，乃原还本郡，卒于家。
+檀敷字文有，山阳瑕丘人也。
+少为诸生，家贫而志清，不受乡里施惠。
+translation: 
+Meet pardon and come out.
+Later, he was elected by the state and county, and he was not accepted by the three governments.
+After Li Gu and Du Mi were killed, he fled again and was heard to have died in the Jiangxia Mountains.
+◆Chen Xiang's biography, Chen Xiang's courtesy name is Zilin, a native of Shaoling County, Runan County.
+Grandfather Chen Zhen, Sili Xiaowei.
+Chen Xiang was famous for his social skills when he was young.
+He was promoted to Xiaolian, and Taiwei Zhou Jing promoted him with a high rank and appointed him as Shi Yushi.
+At this time, on the first day of the first lunar month of the lunar calendar, Liang Ji, the general, showed his unkempt appearance and unkempt appearance. Chen Xiang reported to the emperor that Liang Ji was disrespectful to the emperor because of his good fortune, so he should be arrested and punished. People at the time thought he was a strange person.
+He was promoted to prefect of Dingxiang, conscripted as Yilang, and promoted to governor of Yangzhou.
+The emperor reported that Wang Yong, the prefect of Yuzhang, was a senior official, and Xu Shen, the prefect of Wu County, had committed corruption in office, and both were expelled from the imperial court.
+Xu Shen is the younger brother of Xu Huang, the imperial minister.
+As a result, his reputation grew.
+He was also appointed as Yilang to supplement the imperial censor Zhongcheng.
+He was interrogated by the Huangmen Beisi Prison due to party misfortune, but was exonerated because there was no evidence, and died at home.
+◆The biography of Kong Yu, whose courtesy name was Yuan Dynasty, was from Lu County, Lu State.
+Kong Ba, the seventh generation ancestor, served successively as Jiuqing when he became emperor, and was granted the title of Marquis.
+From Kong Ba to Kong Yu, the title of nobility continued, and there were fifty-three ministers and ministers, including seven princes.
+When Kong Yu was a child, he studied "Shang Shu" and was summoned by the general Liang Ji, but he did not respond.
+Taiwei Ju Fangzheng disagreed with the emperor's questions, so he resigned due to illness.
+Later, he was banned from serving as an official due to party disaster.
+When Emperor Ling came to the throne, he conscripted Yilang in a public car to supplement the Luoyang order. Because of the death of his teacher, he abandoned his official position and died at home.
+◆The biography of Yuan Kang, whose courtesy name is Zhongzhen, was born in Chonghe County, Bohai County.
+When he was young, he studied in Taixue and was very close to Guo Linzong.
+Raise filial piety and integrity, and then move to Yingyin Order. Known for his ability.
+He was promoted to Taishou of Taishan.
+Many surnames in the county were engaged in illegal activities. When Yuan Kang took office, he acted aggressively, got angry, and promulgated strict laws. No one dared to break the law.
+Those who had invaded other people's fields and houses in the past were quickly returned to their original owners.
+At this time, Zhang Jian of Shanyang killed Hou Lan's mother, who was often serving as a servant. Yuan Kang investigated her clan guests, some of whom were hidden in Taishan. He always hated eunuchs, so he arrested them all without missing or running away.
+Hou Lan hated Yuan Kang to the extreme. He falsely accused Yuan Kang, Yanzhou Governor No. 5 and Duwei Hujia of surrendering, and summoned Yuan Kang to Tingwei Prison. He was commuted to the death penalty and demoted to Rinan.
+Yingyin and Taiyangzhi waited until the court appealed for Yuankang and were pardoned. They were sent back to their own county and died at home.
+◆Tanfu Zhuan, Tanfu Ziwenyou, a native of Xiaqiu, Shanyin County.
+When I was young, I was Zhusheng. Although my family was poor, I had high ambitions and did not accept benefits from the wealthy people in the village.
+
+summary:
+summary line 21: Yuan Kang, from Bohai, was strict as Taishan prefect, returning stolen lands. He arrested Hou Lan's clan guests hiding in Taishan. Hou Lan falsely accused him, and Yuan Kang was sentenced to death but later pardoned. He died at home.
+
+Chunk 15: 
+original: 
+举孝廉，连辟公府，皆不就。
+立精舍教授，远方至者常数百人。
+桓帝时，博士征，不就。
+灵帝即位，太尉黄琼举方正，对策合时宜，再迁议郎，补蒙令。
+以郡守非其人，弃官去。
+家无产业，子孙同衣而出。
+年八十，卒于家。
+刘儒字叔林，东郡阳平人也。
+郭林宗常谓儒口讷心辩，有珪璋之质。
+察孝廉，举高第，三迁侍中。
+桓帝时，数有灾异，下策博求直言，儒上封事十条，极言得失，辞甚忠切。
+帝不能纳，出为任城相。
+顷之，征拜议郎。
+会窦武事，下狱自杀。
+贾彪字伟节，颍川定陵人也。
+少游京师，志节慷慨，与同郡荀爽齐名。
+初仕州郡，举孝廉，补新息长。
+小民困贫，多不养子，彪严为其制，与杀人同罪。
+城南有盗劫害人者，北有妇人杀子者，彪出案发，而掾吏欲引南。
+彪怒曰： 贼冠害人，此则常理，母子相残，逆天违道。
+遂驱车北行，案验其罪。
+城南贼闻之，亦面缚自首。
+数年间，人养子者千数，佥曰： 贾父所长 ，生男名为 贾子 ，生女名为 贾女 。
+延熹九年，党事起，太尉陈蕃争之不能得，朝廷寒心，莫敢复言。
+彪谓同志曰： 吾不西行，大祸不解。
+乃入洛阳，说城门校尉窦武、尚书霍谞，武等讼之，桓帝以此大赦党人。
+李膺出，曰： 吾得免此，贾生之谋也。
+先是，岑晊以党事逃亡，亲友多匿焉，彪独闭门不纳，时人望之。
+彪曰： 《传》言 相时而动，无累后人 。
+translation: 
+In order to promote filial piety and honesty, the government called for him many times, but he still failed.
+Jingshe teaches students, and hundreds of people often come to study from far away.
+During the reign of Emperor Huan, he was recruited with a doctorate degree, but he was not successful.
+When Emperor Ling came to the throne, Taiwei Huang Qiong promoted him to be Fangzheng. He answered the emperor's questions and met the requirements of the administration at that time. He was promoted to Yilang and supplemented the county magistrate of Meng.
+Because the county guard was unpopular, he abandoned his official position and returned home.
+The family has no property, but they live in the same clothes as their children and grandchildren, and eat by the sun.
+He died at home at the age of eighty.
+◆The biography of Liu Ru, whose courtesy name is Shulin, was from Yangping County, Dongjun.
+Guo Linzong once said that although Liu Ru stuttered in speech, he was very smart and had an essence as white as jade.
+He was promoted to be filial and honest, and he was promoted to a high rank due to his outstanding performance.
+During the reign of Emperor Huan, disasters often occurred, and he issued edicts to ask for outspoken opinions. Liu Ru secretly wrote ten articles, expressing the gains and losses of the court with great loyalty and sincerity.
+Emperor Huan could not accept it and appointed him as the Prime Minister of the city.
+Soon, he was appointed Yilang.
+After encountering Dou Wushi, he was imprisoned and committed suicide.
+Jia Biao's biography, Jia Biao's courtesy name is Weijie, a native of Dingling County, Yingchuan County.
+When he was young, he traveled to the capital. He had extraordinary integrity and impassioned generosity, and was as famous as Xun Shuang, a native of the same county.
+He began to serve as an official in the state and county, promoted filial piety and integrity, and served as the county magistrate of Xinxi.
+The people were poor and did not raise their children. Jia Biao established a strict legal system. Those who did not raise their children were as guilty as murdering people.
+There were robbers and murderers in the south of the city, and women and children in the north. Jia Biao went to the scene of the crime to deal with it, and Shi Shi wanted to take Jia Biao to the south of the city.
+Jia Biao got angry and said: "It is common sense for thieves and bandits to harm others; it is contrary to nature and human nature for a mother and her son to kill each other."
+So he drove to the north of the city and punished the woman.
+When the thieves in the south of the city heard about it, they also tied themselves up and went to the county to surrender.
+Within a few years, thousands of people were raising children and they were all called "Jia Gongzhang". Those who gave birth to boys were named "Jia Zi" and those who gave birth to girls were named "Jia Nu".
+In the ninth year of Yanxi's reign, a party disaster broke out. Taiwei Chen Fan opposed it but failed. All officials in the court felt chilled by it and did not dare to say anything more.
+Jia Biao said to his colleagues: If I don't go westward, the disaster will not be relieved.
+So he went to Luoyang and told the city gate captain Dou Wu, Shangshu Huo, Dou Wu and others to appeal to the emperor, and Emperor Huan therefore pardoned the party members.
+Li Ying came out and said: I was able to avoid the party disaster because of Jia Sheng's strength!
+At one time, Cen Hao was on the run due to party troubles, and his relatives and friends hid him. Jia Biao stayed behind closed doors and refused to accept him. People at that time hated him.
+Jia Biao said: "The Biography" says: Act according to time and do not harm future generations.
+
+summary:
+summary line 22: Tanfu, from Shanyin, was poor but had high ambitions. He taught hundreds of students and refused multiple summons. He died at home at age eighty.
+
+Chunk 15: 
+original: 
+举孝廉，连辟公府，皆不就。
+立精舍教授，远方至者常数百人。
+桓帝时，博士征，不就。
+灵帝即位，太尉黄琼举方正，对策合时宜，再迁议郎，补蒙令。
+以郡守非其人，弃官去。
+家无产业，子孙同衣而出。
+年八十，卒于家。
+刘儒字叔林，东郡阳平人也。
+郭林宗常谓儒口讷心辩，有珪璋之质。
+察孝廉，举高第，三迁侍中。
+桓帝时，数有灾异，下策博求直言，儒上封事十条，极言得失，辞甚忠切。
+帝不能纳，出为任城相。
+顷之，征拜议郎。
+会窦武事，下狱自杀。
+贾彪字伟节，颍川定陵人也。
+少游京师，志节慷慨，与同郡荀爽齐名。
+初仕州郡，举孝廉，补新息长。
+小民困贫，多不养子，彪严为其制，与杀人同罪。
+城南有盗劫害人者，北有妇人杀子者，彪出案发，而掾吏欲引南。
+彪怒曰： 贼冠害人，此则常理，母子相残，逆天违道。
+遂驱车北行，案验其罪。
+城南贼闻之，亦面缚自首。
+数年间，人养子者千数，佥曰： 贾父所长 ，生男名为 贾子 ，生女名为 贾女 。
+延熹九年，党事起，太尉陈蕃争之不能得，朝廷寒心，莫敢复言。
+彪谓同志曰： 吾不西行，大祸不解。
+乃入洛阳，说城门校尉窦武、尚书霍谞，武等讼之，桓帝以此大赦党人。
+李膺出，曰： 吾得免此，贾生之谋也。
+先是，岑晊以党事逃亡，亲友多匿焉，彪独闭门不纳，时人望之。
+彪曰： 《传》言 相时而动，无累后人 。
+translation: 
+In order to promote filial piety and honesty, the government called for him many times, but he still failed.
+Jingshe teaches students, and hundreds of people often come to study from far away.
+During the reign of Emperor Huan, he was recruited with a doctorate degree, but he was not successful.
+When Emperor Ling came to the throne, Taiwei Huang Qiong promoted him to be Fangzheng. He answered the emperor's questions and met the requirements of the administration at that time. He was promoted to Yilang and supplemented the county magistrate of Meng.
+Because the county guard was unpopular, he abandoned his official position and returned home.
+The family has no property, but they live in the same clothes as their children and grandchildren, and eat by the sun.
+He died at home at the age of eighty.
+◆The biography of Liu Ru, whose courtesy name is Shulin, was from Yangping County, Dongjun.
+Guo Linzong once said that although Liu Ru stuttered in speech, he was very smart and had an essence as white as jade.
+He was promoted to be filial and honest, and he was promoted to a high rank due to his outstanding performance.
+During the reign of Emperor Huan, disasters often occurred, and he issued edicts to ask for outspoken opinions. Liu Ru secretly wrote ten articles, expressing the gains and losses of the court with great loyalty and sincerity.
+Emperor Huan could not accept it and appointed him as the Prime Minister of the city.
+Soon, he was appointed Yilang.
+After encountering Dou Wushi, he was imprisoned and committed suicide.
+Jia Biao's biography, Jia Biao's courtesy name is Weijie, a native of Dingling County, Yingchuan County.
+When he was young, he traveled to the capital. He had extraordinary integrity and impassioned generosity, and was as famous as Xun Shuang, a native of the same county.
+He began to serve as an official in the state and county, promoted filial piety and integrity, and served as the county magistrate of Xinxi.
+The people were poor and did not raise their children. Jia Biao established a strict legal system. Those who did not raise their children were as guilty as murdering people.
+There were robbers and murderers in the south of the city, and women and children in the north. Jia Biao went to the scene of the crime to deal with it, and Shi Shi wanted to take Jia Biao to the south of the city.
+Jia Biao got angry and said: "It is common sense for thieves and bandits to harm others; it is contrary to nature and human nature for a mother and her son to kill each other."
+So he drove to the north of the city and punished the woman.
+When the thieves in the south of the city heard about it, they also tied themselves up and went to the county to surrender.
+Within a few years, thousands of people were raising children and they were all called "Jia Gongzhang". Those who gave birth to boys were named "Jia Zi" and those who gave birth to girls were named "Jia Nu".
+In the ninth year of Yanxi's reign, a party disaster broke out. Taiwei Chen Fan opposed it but failed. All officials in the court felt chilled by it and did not dare to say anything more.
+Jia Biao said to his colleagues: If I don't go westward, the disaster will not be relieved.
+So he went to Luoyang and told the city gate captain Dou Wu, Shangshu Huo, Dou Wu and others to appeal to the emperor, and Emperor Huan therefore pardoned the party members.
+Li Ying came out and said: I was able to avoid the party disaster because of Jia Sheng's strength!
+At one time, Cen Hao was on the run due to party troubles, and his relatives and friends hid him. Jia Biao stayed behind closed doors and refused to accept him. People at that time hated him.
+Jia Biao said: "The Biography" says: Act according to time and do not harm future generations.
+
+summary:
+summary line 23: Liu Ru, from Dongjun, was intelligent despite stuttering. He wrote ten articles on governance but was imprisoned and committed suicide after Dou Wu's incident.
+
+Chunk 15: 
+original: 
+举孝廉，连辟公府，皆不就。
+立精舍教授，远方至者常数百人。
+桓帝时，博士征，不就。
+灵帝即位，太尉黄琼举方正，对策合时宜，再迁议郎，补蒙令。
+以郡守非其人，弃官去。
+家无产业，子孙同衣而出。
+年八十，卒于家。
+刘儒字叔林，东郡阳平人也。
+郭林宗常谓儒口讷心辩，有珪璋之质。
+察孝廉，举高第，三迁侍中。
+桓帝时，数有灾异，下策博求直言，儒上封事十条，极言得失，辞甚忠切。
+帝不能纳，出为任城相。
+顷之，征拜议郎。
+会窦武事，下狱自杀。
+贾彪字伟节，颍川定陵人也。
+少游京师，志节慷慨，与同郡荀爽齐名。
+初仕州郡，举孝廉，补新息长。
+小民困贫，多不养子，彪严为其制，与杀人同罪。
+城南有盗劫害人者，北有妇人杀子者，彪出案发，而掾吏欲引南。
+彪怒曰： 贼冠害人，此则常理，母子相残，逆天违道。
+遂驱车北行，案验其罪。
+城南贼闻之，亦面缚自首。
+数年间，人养子者千数，佥曰： 贾父所长 ，生男名为 贾子 ，生女名为 贾女 。
+延熹九年，党事起，太尉陈蕃争之不能得，朝廷寒心，莫敢复言。
+彪谓同志曰： 吾不西行，大祸不解。
+乃入洛阳，说城门校尉窦武、尚书霍谞，武等讼之，桓帝以此大赦党人。
+李膺出，曰： 吾得免此，贾生之谋也。
+先是，岑晊以党事逃亡，亲友多匿焉，彪独闭门不纳，时人望之。
+彪曰： 《传》言 相时而动，无累后人 。
+translation: 
+In order to promote filial piety and honesty, the government called for him many times, but he still failed.
+Jingshe teaches students, and hundreds of people often come to study from far away.
+During the reign of Emperor Huan, he was recruited with a doctorate degree, but he was not successful.
+When Emperor Ling came to the throne, Taiwei Huang Qiong promoted him to be Fangzheng. He answered the emperor's questions and met the requirements of the administration at that time. He was promoted to Yilang and supplemented the county magistrate of Meng.
+Because the county guard was unpopular, he abandoned his official position and returned home.
+The family has no property, but they live in the same clothes as their children and grandchildren, and eat by the sun.
+He died at home at the age of eighty.
+◆The biography of Liu Ru, whose courtesy name is Shulin, was from Yangping County, Dongjun.
+Guo Linzong once said that although Liu Ru stuttered in speech, he was very smart and had an essence as white as jade.
+He was promoted to be filial and honest, and he was promoted to a high rank due to his outstanding performance.
+During the reign of Emperor Huan, disasters often occurred, and he issued edicts to ask for outspoken opinions. Liu Ru secretly wrote ten articles, expressing the gains and losses of the court with great loyalty and sincerity.
+Emperor Huan could not accept it and appointed him as the Prime Minister of the city.
+Soon, he was appointed Yilang.
+After encountering Dou Wushi, he was imprisoned and committed suicide.
+Jia Biao's biography, Jia Biao's courtesy name is Weijie, a native of Dingling County, Yingchuan County.
+When he was young, he traveled to the capital. He had extraordinary integrity and impassioned generosity, and was as famous as Xun Shuang, a native of the same county.
+He began to serve as an official in the state and county, promoted filial piety and integrity, and served as the county magistrate of Xinxi.
+The people were poor and did not raise their children. Jia Biao established a strict legal system. Those who did not raise their children were as guilty as murdering people.
+There were robbers and murderers in the south of the city, and women and children in the north. Jia Biao went to the scene of the crime to deal with it, and Shi Shi wanted to take Jia Biao to the south of the city.
+Jia Biao got angry and said: "It is common sense for thieves and bandits to harm others; it is contrary to nature and human nature for a mother and her son to kill each other."
+So he drove to the north of the city and punished the woman.
+When the thieves in the south of the city heard about it, they also tied themselves up and went to the county to surrender.
+Within a few years, thousands of people were raising children and they were all called "Jia Gongzhang". Those who gave birth to boys were named "Jia Zi" and those who gave birth to girls were named "Jia Nu".
+In the ninth year of Yanxi's reign, a party disaster broke out. Taiwei Chen Fan opposed it but failed. All officials in the court felt chilled by it and did not dare to say anything more.
+Jia Biao said to his colleagues: If I don't go westward, the disaster will not be relieved.
+So he went to Luoyang and told the city gate captain Dou Wu, Shangshu Huo, Dou Wu and others to appeal to the emperor, and Emperor Huan therefore pardoned the party members.
+Li Ying came out and said: I was able to avoid the party disaster because of Jia Sheng's strength!
+At one time, Cen Hao was on the run due to party troubles, and his relatives and friends hid him. Jia Biao stayed behind closed doors and refused to accept him. People at that time hated him.
+Jia Biao said: "The Biography" says: Act according to time and do not harm future generations.
+
+summary:
+summary line 24: Jia Biao, from Yingchuan, was known for his integrity. As Xinxi magistrate, he punished those who did not raise children and stopped infanticide. During the party disaster, he appealed to Dou Wu and Huo, leading to the party members' pardon. He refused to shelter Cen Hao and was banned from office, dying at home.
+
+Chunk 16: 
+original: 
+公孝以要君致衅，自遗其咎，吾以不能奋戈相待，反可容隐之乎？
+于是咸服其裁正。
+以党禁锢，卒于家。初，彪兄弟三人，并有高名，而彪最优，故天下称曰 贾氏三虎，伟节最怒 。何颙字伯求，南阳襄乡人也。
+少游学洛阳。
+颙虽后进，而郭林宗、贾伟节等与之相好，显名太学。
+友人虞伟高有父仇未报，而笃病将终，颙往候之，伟高泣而诉。颙感其义，为复仇，以头其墓。
+及陈蕃、李膺之败，颙以与蕃、膺善，遂为宦官所陷，乃变姓名，亡匿汝南间。
+所至皆亲其豪桀，有声荆豫之域。
+袁绍慕之，私与往来，结为奔走之友。
+是时，党事起，天下多离其难，颙常私入洛阳，从绍计议。
+其穷困闭厄者，为求援救，以济其患。
+有被掩捕者，则广设权计，使得逃隐，全免者甚众。
+及党锢解，颙辟司空府。
+每三府会议，莫不推颙之长。
+累迁。
+及董卓秉政，逼颙以为长史，托疾不就，乃与司空荀爽、司徒王允等共谋卓。
+会爽薨，颙以他事为卓所系，忧愤而卒。
+初，颙见曹操，叹曰： 汉家将亡，安天下者必此人也。
+操以是嘉之。
+尝称 颍川荀彧，王佐之器 。
+及彧为尚书令，遣人西迎叔父爽，并致颙尸，而葬之爽之冢傍。
+translation: 
+Gongxiao brought the blame on himself for threatening the emperor to commit crime. Just because I cannot treat each other with hostility and hate him, how can I shelter him and hide him?
+Due to party troubles, he was prohibited from becoming an official and died at home.
+At first, the three Jia Biao brothers were all famous, and Jia Biao was the best. Therefore, there is a legend in the world: Among the three tigers of the Jia family, Wei Jie is the most angry. ◆The biography of He Yong, named Boqiu, was a native of Xiangxiang County, Nanyang County.
+When he was young, he traveled to the capital to study.
+Although He Yong is a junior, Guo Linzong, Jia Weijie and others are very close to him. Famous Imperial Academy.
+His friend Yu Weigao had not avenged his father and was seriously ill and was about to die. He Yong went to see him. Yu Weigao cried to him. He Yong was moved by his righteousness and avenged him. He sacrificed the head of his enemy to the grave of Yu Weigao's father.
+After Chen Fan and Li Ying failed, He Yong was framed by the eunuchs because of his friendship with Chen Fan and Li Ying. He then changed his name and fled to Runan County.
+Wherever he went, he gathered heroes and became famous in Jingzhou and Yuzhou.
+Yuan Shao admired his character, secretly interacted with him, and became his sworn friend.
+At this time, the party was in trouble and many people in the world suffered. He Yong often went to Luoyang privately to discuss with Yuan Shao.
+For some poor and helpless people, help them survive the disaster.
+For some people who were being hunted, he made great suggestions, allowing them to escape or hide, and saved many people from party disasters.
+After the party disaster was resolved, He Yong was recruited by Sikong Mansion.
+In every meeting of the three governments, He Yong was always recommended as the leader.
+Promoted several times.
+Dong Zhuo was in power and forced He Yong to become a long history officer. He refused to accept it on the pretext of illness, and conspired with Sikong Xunshuang, Situ Wang Yun and others to kill Dong Zhuo.
+Xun Shuang died, and He Yong was arrested by Dong Zhuo for other matters, and he died of sorrow and anger.
+At first, when He Yong saw Cao Cao, he sighed and said: The Han family is about to perish, and this man must be the one who will bring peace to the world.
+Cao Cao was very happy.
+He once praised Yingchuan Xun as the weapon of Wang Zuo.
+Xun Ren served as the Minister of Secretariat and sent people to the west to meet his uncle Xun Shuang. He Yong's body was collected and buried next to Xun Shuang's tomb.
+
+summary:
+summary line 25: He Yong, from Nanyang, avenged his friend's father and fled after Chen Fan and Li Ying's failure. He secretly helped many escape the party disaster. After the disaster ended, he was recruited but refused Dong Zhuo's offer. He conspired to kill Dong Zhuo but died of sorrow and anger after arrest. He once praised Cao Cao as the one to pacify the world.
+

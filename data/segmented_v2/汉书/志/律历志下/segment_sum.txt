@@ -1,0 +1,336 @@
+Summary uses chunk [6, 6, 6, 11]
+
+Chunk 6: 
+original: 
+纪术推五星见复，置太极上元以来，尽所求年，乘大终见复数，盈岁数得一，则定见复数也。
+不盈者名曰见复余。
+见复余盈其见复数，一以上见在往年，倍一以上，又在前往年，不盈者在今年也。
+推星所见中次，以见中分乘定见复数，盈见中法得一则积中也。
+不盈者名曰中余。
+以元中除积中，余则中元余也。
+以章中除之，余则入章中数也。
+以十二除之，余则星见中次也。
+中数从冬至起，次数从星纪起，算外，则星所见中次也。
+推星见月，以闰分乘定见复数，以章岁乘中余从之，盈见月法得一，并积中，则积月也。
+不盈者名曰月余。
+以元月除积月余，名曰月元余。
+以章月除月元余，则入章月数也。
+以十二除之，至有闰之岁，除十三入章。
+三岁一闰，六岁二闰，九岁三闰，十一岁四闰，十四岁五闰，十七岁六闰，十九岁七闰。
+不盈者数起于天正，算外，则星所见月也。
+推至日，以中法乘中元余，盈元法得一，名曰积日，不盈者名曰小余。
+小余盈二千五百九十七以上，中大。
+数除积日如法，算外，则冬至也。
+推朔日，以月法乘月元余，盈日法得一，名曰积日，余名曰小余。
+小余三十八以上，月大。
+数除积日如法，算外，则星见月朔日也。
+推入中次日度数，以中法乘中余，以见中法乘其小余并之。盈见中日法得一，则入中日入次度数也。
+中以至日数，次以次初数，算外，则星所见及日所在度数也。
+求夕，在日后十五度。
+推入月日数，以月法乘月余，以见月法乘其小余并之，盈见月日法得一，则入月日数也。
+并之大余，数除如法，则见日也。
+推后见中，加积中于中元余，加后中余于中余，盈其法得一，从中元余，除数如法，则后见中也。
+推后见月，加积月于月元余，加后月余于月余，盈其法得一，从月元余，除数如法，则后见月也。
+推至日及人中次度数，如上法。
+推朔日及入月数，如上法。
+推晨见加夕，夕见加晨，皆如上法。
+推五步，置始见以来日数，至所求日，各以其行度数乘之。
+其星若日有分者，分子乘全为实，分母为法。
+其两有分者，分母分度数乘全，分子从之，令相乘为实，分母相乘为法，实如法得一，名曰积度。
+数起星初见所在宿度，算外，则星所在宿度也。
+岁术推岁所在，置上元以来，外所求年，盈岁数，除去之，不盈者以百四十五乘之，以百四十四为法，如法得一，名曰积次，不盈者名曰次余。
+积次盈十二，除去之，不盈者名曰定次。
+数从星纪起，算尽之外，则所在次也。
+欲知太岁，以六十除积次，余不盈者，数从丙子起，算尽之外，则太岁日也。
+translation: 
+Calculate the five-star manifestation complex number: Multiply the Datong manifestation complex number from the original Shangyuan and all the required years. The full number of years is one, which is the definite manifestation complex number.
+Those who are less than one year old are called Xianfuyu.
+The present plural is full of its present plural. If it is more than one, it will appear in the previous year. If it is more than double, it will appear in the year before that. If it is less than one year old, it will appear in this year.
+Calculate the middle number of the star's appearance: multiply the present complex number by the divided part of the present middle number. If the full present middle number is obtained, one is obtained, which is the product middle number.
+Those who are dissatisfied with the present Zhongfa are called Zhongyu.
+Divide product Zhong by Yuan Zhong, and the remainder is Zhong Yuan remainder.
+Use the zhongzhong to divide the middle yuan, and the remainder will be included in the zhongzhong.
+Divide the number of chapters by twelve, and the remainder is the number of star appearances.
+The middle number starts from the winter solstice, and the number starts from the star era. If not counted, it is the middle number of the star.
+Calculate the star and the moon: Multiply the definite present complex number by the leap factor, multiply the remainder by the chapter year, add the two products, the full moon method is one, add the product, it is the accumulated month.
+Those who are dissatisfied with the appearance of the moon are called Yue Yu.
+Dividing the accumulated monthly surplus by the first month is called Yueyuanyu.
+If the remainder of the month is divided by the zhang month, it is incorporated into the number of the zhang month.
+Divide the month number of the chapter by twelve, and in a leap year, divide it by thirteen and merge it into the chapter.
+There is one leap in every three years, two leaps in six years, three leaps in nine years, four leaps in eleven years, five leaps in fourteen years, six leaps in seventeen years, and seven leaps in nineteen years.
+Those who are dissatisfied with the method of manifesting the moon will start counting from Tianzheng. If not calculated, the moon will be manifested by the stars.
+The calculation is as follows: Multiply the middle Yuan by the Zhong method. If the Yuan method is full, you will get one, which is called accumulation. If it is less than the Yuan method, it will be called Xiaoyu.
+Xiaoyu is over two thousand five hundred and ninety-seven, and is a middle school student.
+According to the rules, divide the product and calculate, it is the winter solstice.
+Calculate the new moon day: Use the moon method to multiply the moon Yuan Yu, and the full Yue method is used to get one, which is called Ji Yue, and the rest is called Xiao Yu.
+Xiaoyu is over thirty-eight and one month old.
+According to the rules, if you divide the accumulated days and count them, it means that the stars will appear on the first day of the new moon.
+Calculate the degree of the next day after entering the center: Multiply the middle remainder by the center method, multiply the small remainder by the present center method, add the two products, and when the present center method is full, we get one, which is the degree of the enter day.
+The middle number is the number of the day, the second number is the initial number, and the outer number is the degree where the star appears and is.
+Asking for the evening, it will be fifteen degrees later.
+To calculate the number of days in the moon: Multiply the remainder of the month by the moon method, multiply its small remainder by the method of the apparent moon, and add their products. When the full moon is full, the number of days in the moon is one, which is the number of the days of the entered moon.
+Add the remainder and divide according to the rules, which is the present day.
+Calculate the posterior and present middle: add the middle remainder of the product to the middle remainder, add the posterior middle remainder to the middle remainder, and get one when it is full, add the middle remainder, and divide according to the rules, which is the posterior manifestation middle.
+Calculate the post manifest month: Add the accumulated month to the month's remainder, add the post month's remainder to the month's remainder, until it is full, you get one, add the month's remainder, and divide according to the rules to get the post manifest month.
+Calculate the solstice and the middle degree: the same method as before.
+Calculate the new day and the beginning of the month: the same as the previous method.
+Calculating morning appearance plus evening time: adding evening time to morning time is the same as the previous method.
+Five steps of calculation: use the number of days since it first appeared, and multiply them by the number of degrees it travels to the desired day.
+If the star has a divisor, multiply the numerator by the whole number as the divisor and the denominator as the dividend.
+Among them, if two stars have points, multiply the whole by the denominator and the numerator, so that the multiplication becomes the divisor, and the denominator multiplication becomes the dividend. If the dividend is the same as the divisor, we get one, which is called the integral.
+The calculation starts from the nakshatra degree where the star first appears. If not calculated, it is the nakshatra degree where the star is.
+Calculating the age: Since the Yuan Dynasty, regardless of the year required, if the number of years is found, just remove it. If it is less than the number of years, multiply it by one hundred and forty-five, and use one hundred and forty-four as the divisor. If it is equal to the divisor, it will be one, which is called the accumulation times. If it is less than the number of years, it is called the remainder.
+If the accumulated number reaches twelve, it is removed. If it is less than twelve, it is called fixed number.
+Start counting from the star era, and anything beyond the end of the calculation is the current time.
+If you want to know Tai Sui, divide the accumulated times by sixty, and the remainder is less than twelve. Count from Bing Zi. After counting, the rest is Tai Sui.
+
+summary:
+summary line 0: A comprehensive system of astronomical and calendrical calculations, beginning with a series of defined numerical constants and methods. The "method number" is derived from multiplying the original Huang Zhong Chujiu by itself. The "leap method" of nineteen is used as the number of years in a chapter. The "Tongfa" (1,539) is obtained by multiplying the leap number by the daily number, and the "Yuanfa" (4,617) is three times the Tongfa. Other key numbers include the "Zhang month" (235), "Moon Dharma" (2,392), and "Weekly days" (562,120). The text details the calculation of various astronomical cycles, including the synodic meeting, meeting months, and the cycles of the year star, Taibai Star, Zhenxing, Yinghuo, and the stars (Mercury). For each planet, the text provides specific numbers for its appearance, motion (direct, retrograde, and stationary), and the duration of its visibility and concealment, along with the degrees it travels.
+
+Chunk 6: 
+original: 
+纪术推五星见复，置太极上元以来，尽所求年，乘大终见复数，盈岁数得一，则定见复数也。
+不盈者名曰见复余。
+见复余盈其见复数，一以上见在往年，倍一以上，又在前往年，不盈者在今年也。
+推星所见中次，以见中分乘定见复数，盈见中法得一则积中也。
+不盈者名曰中余。
+以元中除积中，余则中元余也。
+以章中除之，余则入章中数也。
+以十二除之，余则星见中次也。
+中数从冬至起，次数从星纪起，算外，则星所见中次也。
+推星见月，以闰分乘定见复数，以章岁乘中余从之，盈见月法得一，并积中，则积月也。
+不盈者名曰月余。
+以元月除积月余，名曰月元余。
+以章月除月元余，则入章月数也。
+以十二除之，至有闰之岁，除十三入章。
+三岁一闰，六岁二闰，九岁三闰，十一岁四闰，十四岁五闰，十七岁六闰，十九岁七闰。
+不盈者数起于天正，算外，则星所见月也。
+推至日，以中法乘中元余，盈元法得一，名曰积日，不盈者名曰小余。
+小余盈二千五百九十七以上，中大。
+数除积日如法，算外，则冬至也。
+推朔日，以月法乘月元余，盈日法得一，名曰积日，余名曰小余。
+小余三十八以上，月大。
+数除积日如法，算外，则星见月朔日也。
+推入中次日度数，以中法乘中余，以见中法乘其小余并之。盈见中日法得一，则入中日入次度数也。
+中以至日数，次以次初数，算外，则星所见及日所在度数也。
+求夕，在日后十五度。
+推入月日数，以月法乘月余，以见月法乘其小余并之，盈见月日法得一，则入月日数也。
+并之大余，数除如法，则见日也。
+推后见中，加积中于中元余，加后中余于中余，盈其法得一，从中元余，除数如法，则后见中也。
+推后见月，加积月于月元余，加后月余于月余，盈其法得一，从月元余，除数如法，则后见月也。
+推至日及人中次度数，如上法。
+推朔日及入月数，如上法。
+推晨见加夕，夕见加晨，皆如上法。
+推五步，置始见以来日数，至所求日，各以其行度数乘之。
+其星若日有分者，分子乘全为实，分母为法。
+其两有分者，分母分度数乘全，分子从之，令相乘为实，分母相乘为法，实如法得一，名曰积度。
+数起星初见所在宿度，算外，则星所在宿度也。
+岁术推岁所在，置上元以来，外所求年，盈岁数，除去之，不盈者以百四十五乘之，以百四十四为法，如法得一，名曰积次，不盈者名曰次余。
+积次盈十二，除去之，不盈者名曰定次。
+数从星纪起，算尽之外，则所在次也。
+欲知太岁，以六十除积次，余不盈者，数从丙子起，算尽之外，则太岁日也。
+translation: 
+Calculate the five-star manifestation complex number: Multiply the Datong manifestation complex number from the original Shangyuan and all the required years. The full number of years is one, which is the definite manifestation complex number.
+Those who are less than one year old are called Xianfuyu.
+The present plural is full of its present plural. If it is more than one, it will appear in the previous year. If it is more than double, it will appear in the year before that. If it is less than one year old, it will appear in this year.
+Calculate the middle number of the star's appearance: multiply the present complex number by the divided part of the present middle number. If the full present middle number is obtained, one is obtained, which is the product middle number.
+Those who are dissatisfied with the present Zhongfa are called Zhongyu.
+Divide product Zhong by Yuan Zhong, and the remainder is Zhong Yuan remainder.
+Use the zhongzhong to divide the middle yuan, and the remainder will be included in the zhongzhong.
+Divide the number of chapters by twelve, and the remainder is the number of star appearances.
+The middle number starts from the winter solstice, and the number starts from the star era. If not counted, it is the middle number of the star.
+Calculate the star and the moon: Multiply the definite present complex number by the leap factor, multiply the remainder by the chapter year, add the two products, the full moon method is one, add the product, it is the accumulated month.
+Those who are dissatisfied with the appearance of the moon are called Yue Yu.
+Dividing the accumulated monthly surplus by the first month is called Yueyuanyu.
+If the remainder of the month is divided by the zhang month, it is incorporated into the number of the zhang month.
+Divide the month number of the chapter by twelve, and in a leap year, divide it by thirteen and merge it into the chapter.
+There is one leap in every three years, two leaps in six years, three leaps in nine years, four leaps in eleven years, five leaps in fourteen years, six leaps in seventeen years, and seven leaps in nineteen years.
+Those who are dissatisfied with the method of manifesting the moon will start counting from Tianzheng. If not calculated, the moon will be manifested by the stars.
+The calculation is as follows: Multiply the middle Yuan by the Zhong method. If the Yuan method is full, you will get one, which is called accumulation. If it is less than the Yuan method, it will be called Xiaoyu.
+Xiaoyu is over two thousand five hundred and ninety-seven, and is a middle school student.
+According to the rules, divide the product and calculate, it is the winter solstice.
+Calculate the new moon day: Use the moon method to multiply the moon Yuan Yu, and the full Yue method is used to get one, which is called Ji Yue, and the rest is called Xiao Yu.
+Xiaoyu is over thirty-eight and one month old.
+According to the rules, if you divide the accumulated days and count them, it means that the stars will appear on the first day of the new moon.
+Calculate the degree of the next day after entering the center: Multiply the middle remainder by the center method, multiply the small remainder by the present center method, add the two products, and when the present center method is full, we get one, which is the degree of the enter day.
+The middle number is the number of the day, the second number is the initial number, and the outer number is the degree where the star appears and is.
+Asking for the evening, it will be fifteen degrees later.
+To calculate the number of days in the moon: Multiply the remainder of the month by the moon method, multiply its small remainder by the method of the apparent moon, and add their products. When the full moon is full, the number of days in the moon is one, which is the number of the days of the entered moon.
+Add the remainder and divide according to the rules, which is the present day.
+Calculate the posterior and present middle: add the middle remainder of the product to the middle remainder, add the posterior middle remainder to the middle remainder, and get one when it is full, add the middle remainder, and divide according to the rules, which is the posterior manifestation middle.
+Calculate the post manifest month: Add the accumulated month to the month's remainder, add the post month's remainder to the month's remainder, until it is full, you get one, add the month's remainder, and divide according to the rules to get the post manifest month.
+Calculate the solstice and the middle degree: the same method as before.
+Calculate the new day and the beginning of the month: the same as the previous method.
+Calculating morning appearance plus evening time: adding evening time to morning time is the same as the previous method.
+Five steps of calculation: use the number of days since it first appeared, and multiply them by the number of degrees it travels to the desired day.
+If the star has a divisor, multiply the numerator by the whole number as the divisor and the denominator as the dividend.
+Among them, if two stars have points, multiply the whole by the denominator and the numerator, so that the multiplication becomes the divisor, and the denominator multiplication becomes the dividend. If the dividend is the same as the divisor, we get one, which is called the integral.
+The calculation starts from the nakshatra degree where the star first appears. If not calculated, it is the nakshatra degree where the star is.
+Calculating the age: Since the Yuan Dynasty, regardless of the year required, if the number of years is found, just remove it. If it is less than the number of years, multiply it by one hundred and forty-five, and use one hundred and forty-four as the divisor. If it is equal to the divisor, it will be one, which is called the accumulation times. If it is less than the number of years, it is called the remainder.
+If the accumulated number reaches twelve, it is removed. If it is less than twelve, it is called fixed number.
+Start counting from the star era, and anything beyond the end of the calculation is the current time.
+If you want to know Tai Sui, divide the accumulated times by sixty, and the remainder is less than twelve. Count from Bing Zi. After counting, the rest is Tai Sui.
+
+summary:
+summary line 1: The text then outlines methods for deducing the Sun-Moon Yuan Tong, calculating the winter solstice, and determining the positions of the five stars. It describes how to calculate the number of years since the original Shangyuan and the specific cycles of Jiazi, Jiachen, and Jiashen. Procedures are given for calculating the first day of the lunar month, the location of the leap remainder, and the twenty-four solar terms. The text also details the calculation of the stars' positions at morning and midnight, the lunar eclipse, and the complex numbers for the manifestation of the five stars. It explains how to determine the middle number of a star's appearance, the star and the moon, and the degree of the next day after entering the center.
+
+Chunk 6: 
+original: 
+纪术推五星见复，置太极上元以来，尽所求年，乘大终见复数，盈岁数得一，则定见复数也。
+不盈者名曰见复余。
+见复余盈其见复数，一以上见在往年，倍一以上，又在前往年，不盈者在今年也。
+推星所见中次，以见中分乘定见复数，盈见中法得一则积中也。
+不盈者名曰中余。
+以元中除积中，余则中元余也。
+以章中除之，余则入章中数也。
+以十二除之，余则星见中次也。
+中数从冬至起，次数从星纪起，算外，则星所见中次也。
+推星见月，以闰分乘定见复数，以章岁乘中余从之，盈见月法得一，并积中，则积月也。
+不盈者名曰月余。
+以元月除积月余，名曰月元余。
+以章月除月元余，则入章月数也。
+以十二除之，至有闰之岁，除十三入章。
+三岁一闰，六岁二闰，九岁三闰，十一岁四闰，十四岁五闰，十七岁六闰，十九岁七闰。
+不盈者数起于天正，算外，则星所见月也。
+推至日，以中法乘中元余，盈元法得一，名曰积日，不盈者名曰小余。
+小余盈二千五百九十七以上，中大。
+数除积日如法，算外，则冬至也。
+推朔日，以月法乘月元余，盈日法得一，名曰积日，余名曰小余。
+小余三十八以上，月大。
+数除积日如法，算外，则星见月朔日也。
+推入中次日度数，以中法乘中余，以见中法乘其小余并之。盈见中日法得一，则入中日入次度数也。
+中以至日数，次以次初数，算外，则星所见及日所在度数也。
+求夕，在日后十五度。
+推入月日数，以月法乘月余，以见月法乘其小余并之，盈见月日法得一，则入月日数也。
+并之大余，数除如法，则见日也。
+推后见中，加积中于中元余，加后中余于中余，盈其法得一，从中元余，除数如法，则后见中也。
+推后见月，加积月于月元余，加后月余于月余，盈其法得一，从月元余，除数如法，则后见月也。
+推至日及人中次度数，如上法。
+推朔日及入月数，如上法。
+推晨见加夕，夕见加晨，皆如上法。
+推五步，置始见以来日数，至所求日，各以其行度数乘之。
+其星若日有分者，分子乘全为实，分母为法。
+其两有分者，分母分度数乘全，分子从之，令相乘为实，分母相乘为法，实如法得一，名曰积度。
+数起星初见所在宿度，算外，则星所在宿度也。
+岁术推岁所在，置上元以来，外所求年，盈岁数，除去之，不盈者以百四十五乘之，以百四十四为法，如法得一，名曰积次，不盈者名曰次余。
+积次盈十二，除去之，不盈者名曰定次。
+数从星纪起，算尽之外，则所在次也。
+欲知太岁，以六十除积次，余不盈者，数从丙子起，算尽之外，则太岁日也。
+translation: 
+Calculate the five-star manifestation complex number: Multiply the Datong manifestation complex number from the original Shangyuan and all the required years. The full number of years is one, which is the definite manifestation complex number.
+Those who are less than one year old are called Xianfuyu.
+The present plural is full of its present plural. If it is more than one, it will appear in the previous year. If it is more than double, it will appear in the year before that. If it is less than one year old, it will appear in this year.
+Calculate the middle number of the star's appearance: multiply the present complex number by the divided part of the present middle number. If the full present middle number is obtained, one is obtained, which is the product middle number.
+Those who are dissatisfied with the present Zhongfa are called Zhongyu.
+Divide product Zhong by Yuan Zhong, and the remainder is Zhong Yuan remainder.
+Use the zhongzhong to divide the middle yuan, and the remainder will be included in the zhongzhong.
+Divide the number of chapters by twelve, and the remainder is the number of star appearances.
+The middle number starts from the winter solstice, and the number starts from the star era. If not counted, it is the middle number of the star.
+Calculate the star and the moon: Multiply the definite present complex number by the leap factor, multiply the remainder by the chapter year, add the two products, the full moon method is one, add the product, it is the accumulated month.
+Those who are dissatisfied with the appearance of the moon are called Yue Yu.
+Dividing the accumulated monthly surplus by the first month is called Yueyuanyu.
+If the remainder of the month is divided by the zhang month, it is incorporated into the number of the zhang month.
+Divide the month number of the chapter by twelve, and in a leap year, divide it by thirteen and merge it into the chapter.
+There is one leap in every three years, two leaps in six years, three leaps in nine years, four leaps in eleven years, five leaps in fourteen years, six leaps in seventeen years, and seven leaps in nineteen years.
+Those who are dissatisfied with the method of manifesting the moon will start counting from Tianzheng. If not calculated, the moon will be manifested by the stars.
+The calculation is as follows: Multiply the middle Yuan by the Zhong method. If the Yuan method is full, you will get one, which is called accumulation. If it is less than the Yuan method, it will be called Xiaoyu.
+Xiaoyu is over two thousand five hundred and ninety-seven, and is a middle school student.
+According to the rules, divide the product and calculate, it is the winter solstice.
+Calculate the new moon day: Use the moon method to multiply the moon Yuan Yu, and the full Yue method is used to get one, which is called Ji Yue, and the rest is called Xiao Yu.
+Xiaoyu is over thirty-eight and one month old.
+According to the rules, if you divide the accumulated days and count them, it means that the stars will appear on the first day of the new moon.
+Calculate the degree of the next day after entering the center: Multiply the middle remainder by the center method, multiply the small remainder by the present center method, add the two products, and when the present center method is full, we get one, which is the degree of the enter day.
+The middle number is the number of the day, the second number is the initial number, and the outer number is the degree where the star appears and is.
+Asking for the evening, it will be fifteen degrees later.
+To calculate the number of days in the moon: Multiply the remainder of the month by the moon method, multiply its small remainder by the method of the apparent moon, and add their products. When the full moon is full, the number of days in the moon is one, which is the number of the days of the entered moon.
+Add the remainder and divide according to the rules, which is the present day.
+Calculate the posterior and present middle: add the middle remainder of the product to the middle remainder, add the posterior middle remainder to the middle remainder, and get one when it is full, add the middle remainder, and divide according to the rules, which is the posterior manifestation middle.
+Calculate the post manifest month: Add the accumulated month to the month's remainder, add the post month's remainder to the month's remainder, until it is full, you get one, add the month's remainder, and divide according to the rules to get the post manifest month.
+Calculate the solstice and the middle degree: the same method as before.
+Calculate the new day and the beginning of the month: the same as the previous method.
+Calculating morning appearance plus evening time: adding evening time to morning time is the same as the previous method.
+Five steps of calculation: use the number of days since it first appeared, and multiply them by the number of degrees it travels to the desired day.
+If the star has a divisor, multiply the numerator by the whole number as the divisor and the denominator as the dividend.
+Among them, if two stars have points, multiply the whole by the denominator and the numerator, so that the multiplication becomes the divisor, and the denominator multiplication becomes the dividend. If the dividend is the same as the divisor, we get one, which is called the integral.
+The calculation starts from the nakshatra degree where the star first appears. If not calculated, it is the nakshatra degree where the star is.
+Calculating the age: Since the Yuan Dynasty, regardless of the year required, if the number of years is found, just remove it. If it is less than the number of years, multiply it by one hundred and forty-five, and use one hundred and forty-four as the divisor. If it is equal to the divisor, it will be one, which is called the accumulation times. If it is less than the number of years, it is called the remainder.
+If the accumulated number reaches twelve, it is removed. If it is less than twelve, it is called fixed number.
+Start counting from the star era, and anything beyond the end of the calculation is the current time.
+If you want to know Tai Sui, divide the accumulated times by sixty, and the remainder is less than twelve. Count from Bing Zi. After counting, the rest is Tai Sui.
+
+summary:
+summary line 2: The text provides a detailed breakdown of the five steps of calculation for the planets, using the number of days since their first appearance and their daily motion. It also describes the calculation of the age (Sui Xing) and its profits and losses, noting that the Sui star's misplacement can cause disasters. The text then lists the twelve celestial divisions (Xingji) from Dou Twelve Degrees to Dou Shidu, associating each with a solar term and the corresponding months in the Xia, Shang, and Zhou calendars. It provides the degrees for various constellations and explains the cycles of nine ends and three ends, which relate to the unification of the calendar.
+
+Chunk 11: 
+original: 
+帝喾《春秋外传》曰：颛顼之所建，帝喾受之。
+清阳玄嚣之孙也。
+水生木，故为木德。
+天下号曰高辛氏。
+帝挚继之，不知世数。
+周迁其乐，故《易》不载。
+周人禘之。
+唐帝《帝系》曰：帝喾四妃，陈丰生帝尧，封于唐。
+盖高辛氏衰，天下归之。
+木生火，故为火德，天下号曰陶唐氏。
+让天下于虞，使子朱处于丹渊为诸侯。
+即位七十载。
+虞帝《帝系》曰：颛顼生穷蝉，五世而生瞽叟，瞽叟生帝舜，处虞之妫汭，尧嬗以天下。
+火生土，故为土德。天下号曰有虞氏。
+让天下于禹，使子商均为诸侯。
+即位五十载。
+伯禹《帝系》曰：颛顼五世而生鲧，鲧生禹，虞舜嬗以天下。
+土生金，故为金德。
+天下号曰夏后氏。
+继世十七王，四百三十二岁。
+成汤《书经·汤誓》：汤伐夏桀。
+金生水，故为水德。
+天下号曰商，后曰殷。
+《三统》，上元至伐桀之岁，十四万一千四百八十岁，岁在大火房五度，故《传》曰： 大火，阏伯之星也，实纪商人。
+后为成汤，方即世崩没之时，为天子用事十三年矣。
+商十二月乙丑朔旦冬至，故《书序》曰： 成汤既没，太甲元年，使伊尹作《伊训》。
+《伊训》篇曰： 惟太甲元年十有二月乙丑朔，伊尹祀于先王，诞资有牧方明。
+言虽有成汤、太丁、外丙之服，以冬至越祀先王于方明以配上帝，是朔旦冬至之岁也。
+后九十五岁，商十二月甲申朔旦冬至，亡余分，是为孟统。
+自伐桀至武王伐纣，六百二十九岁，故《传》曰殷 载祀六百 。
+《殷历》曰：当成汤方即世用事十三年，十一月甲子朔旦冬至，终六府首。
+当周公五年，则为距伐桀四百五十八岁，少百七十一岁，不盈六百二十九。
+又以夏时乙丑为甲子，计其年乃孟统后五章，癸亥朔旦冬至也。
+translation: 
+Emperor Xue, "Chun Qiu Wai Zhuan" said that what Zhuan Xiang established was accepted by Emperor Yu.
+The emperor is the grandson of Qingyang Xuanxiao.
+Water produces wood, so it is wood virtue.
+The world is called Gaoxin clan.
+Emperor Zhi succeeded him to the throne for an unknown number of years.
+The Zhou Dynasty changed his music.
+Therefore, there is no record in "Yi". People in Zhou Dynasty offered sacrifices to him.
+Emperor Tang, "Emperor Lineage" says that Emperor Ying had four concubines. Chen Feng gave birth to Emperor Yao, who was granted a title in the Tang Dynasty.
+When the Gao Xin family weakened, the world surrendered to Emperor Yao.
+Wood generates fire, so it has the virtue of fire, and the world is called Tao Tang.
+Later, he ceded the world to Yu and made his son Zhu Danyuan a prince.
+Emperor Tang reigned for seventy years.
+Emperor Yu, "Emperor Lineage" says, Zhuanxu begat Qiongcicada, and after five generations Gusou begat Gusou. Gusou gave birth to Emperor Shun, and placed Yu in the place where Yanshui bends, and Yao surrendered the world.
+Fire generates earth, so it is earth virtue, and the world is called Youyu.
+He ceded the world to Ding Yu and made his son Shangjun a prince.
+Emperor Yu reigned for fifty years.
+Boyu, "Emperor Lineage" says that Zhuanxu's fifth-generation grandson gave birth to Gun, who in turn gave birth to Yu, and Yu and Shun gave way to the world.
+Gold is born in the soil, so it is gold virtue.
+The whole world is called Xiahou clan.
+He was succeeded by ten kings for a total of four hundred and thirty-two years.
+Make soup. "Book of Books." "Tang Shi" records that Shang Tang attacked Xia Jie.
+Metal generates water, so it has the virtue of water.
+The world was called Shang, and later Yin:
+"Santong Calendar" says that the year when Shangyuan came to conquer Jie was 141,480 years. The year of Jie was at the fifth degree of Da Mars and Fang Xing. Therefore, it is said that Da Mars is Ban Bo's star and is actually used to remember merchants.
+Later, it was Chengtang. When he died, he had been worshiping him with the etiquette of the emperor for thirteen years.
+In the twelfth month of the Shang Dynasty, the winter solstice occurred on the day of Yi Chou and Shuo, so the "Preface to the Book" says: After Cheng Tang died, in the first year of Taijia, Yi Yin was ordered to write "Yi Xun".
+"Yi Xun" says: In the twelfth month of the first year of Taijia, Yi Chou Shuo, Yi Yin offered sacrifices to the late king, and the birth capital was Mu Fangming.
+That is to say, even if there are the duties of Chengtang, Taiding, and Waibing, because during the winter solstice, they have to cross the bamboo mat that covers the car to sacrifice the ancestors in front of the statues of the gods to offer sacrifices to heaven. This is the year of the winter solstice on the first day of the lunar month.
+Ninety-five years later, on the winter solstice of Jiashen and Shuodan in December of Shang Dynasty, there was nothing left, so Meng Tong was born.
+Six hundred and twenty-nine years passed from Cheng Tang's crusade against Jie to King Wu's crusade against Zhou, so it is said that the Yin Dynasty recorded six hundred days of sacrifices.
+"Yin Li" says that after the death of Tang Dynasty, sacrifices were made for thirteen years, beginning with the winter solstice on the first day of the eleventh month and ending on the first day of the sixth lunar month.
+By the fifth year of Zhou Gong's reign, it had been 458 years since the expedition against Jie, which was 171 years short, less than 629 years.
+According to the time of summer, Yichou is Jiazi, and its age is calculated as the fifth chapter after Meng Tong, the winter solstice on the first day of Guihai.
+
+summary:
+summary line 3: The text includes a historical chronology, starting from the legendary emperors (Taiwu, Yandi, Huangdi, Shaowu, Zhuan Xu, Xue, Tang, Yu) and their associated virtues (wood, fire, earth, metal, water). It traces the lineage and reigns of the Xia, Shang, and Zhou dynasties, providing specific years and astronomical events. For example, it notes that the Xia dynasty had 432 years, the Shang dynasty 629 years, and the Zhou dynasty 867 years. The text also details the reigns of the Qin dynasty and the early Han emperors, from Gaozu to Emperor Guangwu, providing the number of years for each reign and the total years since the Shangyuan. It concludes with the reign of Emperor Guangwu, noting that he reigned for 33 years.
+

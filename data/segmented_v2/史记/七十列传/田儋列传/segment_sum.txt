@@ -1,0 +1,161 @@
+Summary uses chunk [0, 1, 2]
+
+Chunk 0: 
+original: 
+田儋者，狄人也，故齐王田氏族也。
+儋从弟田荣，荣弟田横，皆豪，宗彊，能得人。
+陈涉之初起王楚也，使周市略定魏地，北至狄，狄城守。
+田儋详为缚其奴，从少年之廷，欲谒杀奴。
+见狄令，因击杀令，而召豪吏子弟曰： 诸侯皆反秦自立，齐，古之建国，儋，田氏，当王。
+遂自立为齐王，发兵以击周市。
+周市军还去，田儋因率兵东略定齐地。
+秦将章邯围魏王咎於临济，急。魏王请救於齐，齐王田儋将兵救魏。
+章邯夜衔枚击，大破齐、魏军，杀田儋於临济下。
+儋弟田荣收儋馀兵东走东阿。
+齐人闻王田儋死，乃立故齐王建之弟田假为齐王，田角为相，田间为将，以距诸侯。
+田荣之走东阿，章邯追围之。
+项梁闻田荣之急，乃引兵击破章邯军东阿下。
+章邯走而西，项梁因追之。
+而田荣怒齐之立假，乃引兵归，击逐齐王假。假亡走楚。齐相角亡走赵；角弟田间前求救赵，因留不敢归。
+田荣乃立田儋子市为齐王。荣相之，田横为将，平齐地。
+项梁既追章邯，章邯兵益盛，项梁使使告赵、齐，发兵共击章邯。
+田荣曰： 使楚杀田假，赵杀田角、田间，乃肯出兵。
+楚怀王曰： 田假与国之王，穷而归我，杀之不义。
+赵亦不杀田角、田间以市於齐。
+齐曰： 蝮螫手则斩手，螫足则斩足。
+何者？
+为害於身也。
+今田假、田角、田间於楚、赵，非直手足戚也，何故不杀？
+translation: 
+Tian Dan was a native of Di County and a sibling of the Tian family, King of Qi during the Warring States Period.
+Tian Dan's cousin and Tian Rong's younger brother Tian Heng was a powerful figure in the local area, and his clan was strong and very popular.
+When Chen She began to raise troops and claim to be the King of Chu, he sent Zhou Shi to capture and pacify the Wei region, and then marched north to Di County, which was defended.
+Tian Dan pretended to tie up his own slave and led his young men to the county government, claiming to kill the guilty slave after meeting with the county magistrate.
+When they saw the magistrate of Di County, they took the opportunity to kill him, and then summoned powerful officials and young people to say: "The princes from all over the country have rebelled against Qin and established themselves. Qi is a country established in ancient times, and I, Tian Dan, am a member of Qi Wang Tian's clan and should be the king."
+So Tian Dan proclaimed himself King of Qi and raised troops to attack Zhou City.
+After Zhou Shi's army withdrew, Tian Dan took the opportunity to lead his troops eastward, seize and pacify the land of Qi.
+Qin general Zhang Han led his troops to besiege King Jiu of Wei in Linji. The situation was urgent, and King Wei sent people to Qi to ask for rescue. King Tian Dan of Qi led the army to rescue Wei.
+Zhang Han let his soldiers and horses hold the coins in their mouths at night, and took advantage of the cover of night to launch a sneak attack. He defeated the Qi and Wei coalition forces and killed Tian Dan at the foot of Linji City.
+Tian Dan's cousin Tian Rong gathered the remaining troops of Tian Dan and fled eastward to Dong'a.
+After the people of Qi heard the news that Tian Dan had died in battle, they supported Tian Jia, the younger brother of the former King of Qi Tian Jian, as King of Qi, Tian Jiao as prime minister, and Tian Jian as general, in order to resist the princes.
+When Tian Rong fled to Dong'a, Zhang Han pursued and intercepted him.
+Xiang Liang heard that Tian Rong was in critical condition, so he led his troops to Dong'a City and defeated Zhang Han in one fell swoop.
+Zhang Han fled to the west, while Xiang Liang took advantage of the victory to pursue him.
+However, Tian Rong was very angry about the fact that the Qi people made Tianjie the king of Qi, so he led his troops back and attacked and chased Qi King Tianjie. Tianjie fled to Chu State, and Prime Minister Tian Jiao fled to Zhao State. Tian Jiao's younger brother Tian Jian had gone to Zhao State for help before, so he stayed in Zhao State and did not dare to go back.
+Tian Rong then made Tian Dan's son Tian Shi the king of Qi and appointed himself prime minister. Tian Heng was made a general and the land of Qi was pacified.
+After Xiang Liang pursued Zhang Han, Zhang Han's army became increasingly powerful, so Xiang Liang sent envoys to inform Qi and Zhao, asking the two countries to jointly send troops to attack Zhang Han.
+Tian Rong said: If Chu kills Tianjia and Zhao kills Tianjiao and Tianjian, we will send troops.
+King Huai of Chu said: Tianjia is the king of our ally. He came to us when we were desperate. It is unethical to kill him.
+Zhao State was also unwilling to trade with Qi State by killing Tian Jiao and Tian Jian Lai.
+The people of Qi said: If the hand is bitten by a viper, the hand must be cut off; if the foot is bitten by the viper, the foot must be cut off.
+Why?
+Because if not, it will harm the whole body.
+But now Tianjia, Tianjiao, and Tianjian are not flesh and blood relatives to Chu and Zhao. Why not kill them?
+
+summary:
+summary line 0: Tian Dan, a member of the Qi royal family, proclaimed himself King of Qi during the Warring States period after killing the Di County magistrate. He raised troops but was later killed by Qin general Zhang Han at Linji. His cousin Tian Rong gathered the remnants and fled east. After Tian Dan's death, the Qi people installed Tian Jia as king, but Tian Rong, angered by this, attacked and drove Tian Jia and his ministers into exile. Tian Rong then made Tian Dan's son Tian Shi king and appointed himself prime minister, with Tian Heng as general.
+
+Chunk 1: 
+original: 
+且秦复得志於天下，则齮龁用事者坟墓矣。
+楚、赵不听，齐亦怒，终不肯出兵。
+章邯果败杀项梁，破楚兵，楚兵东走，而章邯渡河围赵於钜鹿。
+项羽往救赵，由此怨田荣。
+项羽既存赵，降章邯等，西屠咸阳，灭秦而立侯王也，乃徙齐王田市更王胶东，治即墨。
+齐将田都从共救赵，因入关，故立都为齐王，治临淄。
+故齐王建孙田安，项羽方渡河救赵，田安下济北数城，引兵降项羽，项羽立田安为济北王，治博阳。
+田荣以负项梁不肯出兵助楚、赵攻秦，故不得王；赵将陈馀亦失职，不得王：二人俱怨项王。
+项王既归，诸侯各就国，田荣使人将兵助陈馀，令反赵地，而荣亦发兵以距击田都，田都亡走楚。
+田荣留齐王市，无令之胶东。
+市之左右曰： 项王彊暴，而王当之胶东，不就国，必危。
+市惧，乃亡就国。
+田荣怒，追击杀齐王市於即墨，还攻杀济北王安。
+於是田荣乃自立为齐王，尽并三齐之地。
+项王闻之，大怒，乃北伐齐。
+齐王田荣兵败，走平原，平原人杀荣。
+项王遂烧夷齐城郭，所过者尽屠之。齐人相聚畔之。
+荣弟横，收齐散兵，得数万人，反击项羽於城阳。
+而汉王率诸侯败楚，入彭城。
+项羽闻之，乃醳齐而归，击汉於彭城，因连与汉战，相距荥阳。
+以故田横复得收齐城邑，立田荣子广为齐王，而横相之，专国政，政无巨细皆断於相。
+translation: 
+Moreover, if the Qin Dynasty succeeds in conquering the world, not only will we be humiliated, but even our ancestors' graves may have to be dug up.
+Neither Chu nor Zhao were willing to obey Qi, and Qi was very angry and eventually refused to send troops to rescue.
+Zhang Han indeed defeated the Chu army and killed Xiang Liang. The Chu army fled eastward, and Zhang Han took the opportunity to cross the Yellow River and besiege Zhao's Julu.
+Xiang Yu went to rescue Zhao State, and therefore resented Tian Rong very much.
+Xiang Yu had already protected Zhao State and surrendered Zhang Han and other generals of the Qin Dynasty, so he went west to Xianyang to kill, destroyed the Qin Dynasty, and then divided the princes and kings among themselves. So he changed the title of King Qi Tianshi to King Jiaodong and ruled in Jimo.
+Qi general Tian Du followed Xiang Yu to rescue Zhao and then marched into Guanzhong. Therefore, Xiang Yu made Tian Du the king of Qi and ruled in Linzi.
+Tian An, the grandson of Tian Jian, the former Qi king, captured many cities in Jibei one after another when Xiang Yu was crossing the river to rescue Zhao, and then led his troops to surrender to Xiang Yu. Xiang Yu therefore made Tian An the king of Jibei, and his seat was Boyang.
+Because Tian Rong disobeyed Xiang Yu and refused to send troops to assist Chu and Zhao in attacking the Qin Dynasty, he could not be crowned king; Zhao general Chen Yu was also not crowned king because of his dereliction of duty. Both of them resented Xiang Yu.
+After Xiang Yu returned to Chu, the feudal princes also returned to their own fiefdoms. Tian Rong sent troops to help Chen Yu and asked him to rebel against Xiang Yu in Zhao. Tian Rong himself also sent troops to fight against Tian Du, who fled to Chu.
+Tian Rong detained Qi Wang Tianshi and refused to allow him to go to the administrative office of Jiaodong.
+Tian Shi's men said: Xiang Yu is powerful and ferocious, and as the king of Qi, you should go to your own kingdom of Jiaodong. If you don't go, there will be danger.
+Tian Shi was very frightened, so he ran away to Jiaodong.
+When Tian Rong learned about it, he was furious and led his men to chase King Qi Tianshi and killed him in Jimo. When he came back, he attacked Tian'an, the king of Jibei, and killed him.
+Therefore, Tian Rong proclaimed himself the king of Qi and occupied all the lands of Sanqi.
+After Xiang Yu heard the news, he was very angry, so he launched an army to attack Qi in the north.
+King Tian Rong of Qi was severely defeated and fled to Pingyuan. The people of Pingyuan killed Tian Rong.
+Afterwards, Xiang Yu burned and leveled the walls of Qi's capital, and massacred everyone he passed. The people of Qi couldn't bear it, so they all gathered to rebel against him.
+Tian Rong's younger brother Tian Heng gathered Qi's scattered soldiers and obtained tens of thousands of troops to counterattack Xiang Yu in Chengyang.
+At this time, Liu Bang, king of Han, led the army of the princes to defeat the Chu army and entered Pengcheng.
+After Xiang Yu heard the news, he let go of the Qi army and went back, launching an attack on the Han soldiers in Pengcheng. Then there were many battles with the Han army, and they were locked in a stalemate in Xingyang.
+Therefore, Tian Heng was able to regain the large and small cities of Qi again, and established Tian Guang, Tian Rong's son, as the king of Qi. Tian Heng assisted him as prime minister and arbitrarily ruled the country. All political affairs, no matter how big or small, were decided by Tian Heng.
+
+summary:
+summary line 1: When Xiang Liang requested Qi's aid against Zhang Han, Tian Rong demanded the execution of the exiled Qi leaders as a condition, which Chu and Zhao refused. Qi withheld support, and Zhang Han subsequently defeated and killed Xiang Liang. Later, Xiang Yu, after defeating Qin, divided the territories, demoting Tian Shi to King of Jiaodong and installing Tian Du as King of Qi. Tian Rong, resentful at being excluded, attacked and killed Tian Du and Tian An, proclaiming himself King of Qi. Xiang Yu retaliated, defeating and killing Tian Rong. Tian Heng then gathered forces, regained Qi territory, and installed Tian Rong's son Tian Guang as king, with himself as de facto ruler.
+
+Chunk 2: 
+original: 
+横定齐三年，汉王使郦生往说下齐王广及其相国横。
+横以为然，解其历下军。
+汉将韩信引兵且东击齐。
+齐初使华无伤、田解军於历下以距汉，汉使至，乃罢守战备，纵酒，且遣使与汉平。
+汉将韩信已平赵、燕，用蒯通计，度平原，袭破齐历下军，因入临淄。
+齐王广、相横怒，以郦生卖己，而亨郦生。
+齐王广东走高密，相横走博，守相田光走城阳，将军田既军於胶东。
+楚使龙且救齐，齐王与合军高密。
+汉将韩信与曹参破杀龙且，虏齐王广。
+汉将灌婴追得齐守相田光。
+至博，而横闻齐王死，自立为齐王，还击婴，婴败横之军於嬴下。田横亡走梁，归彭越。
+彭越是时居梁地，中立，且为汉，且为楚。
+韩信已杀龙且，因令曹参进兵破杀田既於胶东，使灌婴破杀齐将田吸於千乘。
+韩信遂平齐，乞自立为齐假王，汉因而立之。
+後岁馀，汉灭项籍，汉王立为皇帝，以彭越为梁王。
+田横惧诛，而与其徒属五百馀人入海，居岛中。
+高帝闻之，以为田横兄弟本定齐，齐人贤者多附焉，今在海中不收，後恐为乱，乃使使赦田横罪而召之。
+田横因谢曰： 臣亨陛下之使郦生，今闻其弟郦商为汉将而贤，臣恐惧，不敢奉诏，请为庶人，守海岛中。
+使还报，高皇帝乃诏卫尉郦商曰： 齐王田横即至，人马从者敢动摇者致族夷！
+乃复使使持节具告以诏商状，曰： 田横来，大者王，小者乃侯耳；不来，且举兵加诛焉。
+田横乃与其客二人乘传诣雒阳。
+未至三十里，至尸乡厩置，横谢使者曰： 人臣见天子当洗沐。
+止留。
+谓其客曰： 横始与汉王俱南面称孤，今汉王为天子，而横乃为亡虏而北面事之，其耻固已甚矣。
+translation: 
+Three years after Tian Heng pacified Qi, King Liu Bang of Han sent Li Shiqi to Qi to lobby Qi King Tian Guang and Prime Minister Tian Heng to submit to the Han Dynasty.
+Tian Heng believed that this was feasible, so he lifted Qi's defense against the Han army in Lixia.
+Han Xin, the general of the Han Dynasty, was going to attack Qi State eastward.
+At first, Qi State sent troops led by Hua Wushang and Tian Jie to station in Lixia to resist the Han army. When the Han envoys arrived, they abandoned their war preparations to defend the city, allowed the soldiers to drink, and sent envoys to make peace with the Han Dynasty.
+However, after the Han general Han Xin pacified Zhao and Yan, he used Kuai Tong's strategy to cross the plains and make a sudden attack, defeating the Qi garrison stationed in Lixia, and then invaded Linzi.
+When Qi King Tian Guang and Prime Minister Tian Heng saw the sudden appearance of the Han army, they were very angry. They thought they had been betrayed by Li Sheng and immediately cooked and killed Li Sheng.
+King Tian Guang of Qi fled east to Gaomi, Prime Minister Tian Heng fled to Boyang, Prime Minister Tian Guang fled to Chengyang, and General Tian Ji led the army to garrison in Jiaodong.
+At this time, Chu State sent Long Qie to lead the army to rescue Qi State. Qi Wang Tian Guang and Long Qie met in Gaomi.
+Han generals Han Xin and Cao Shen defeated the Qi-Chu coalition forces in Gaomi, killed Chu general Long Qie, and captured Qi King Tian Guang.
+Han general Guan Ying continued the pursuit and captured Tian Guang, the prime minister of Qi.
+Guan Ying continued to march and arrived at Boyang. When Tian Heng heard that King Qi Tian Guang was dead, he proclaimed himself King of Qi and turned to fight Guan Ying. Under Yingxia, Tian Heng's army was severely defeated by Guan Ying. Tian Heng fled to Liangdi and surrendered to Pengyue.
+At this time, Peng Yue supported the army and remained neutral between Chu and Han, as if for the king of Han and for the king of Chu.
+After Han Xin killed Chu General Long Qie, he ordered Cao Shen to continue marching to Jiaodong, where he defeated Tian Ji and killed him in battle. Han Xin also ordered Guan Ying to pursue Qi General Tian Sui, defeat him in Qiancheng and kill him.
+In this way, Han Xin pacified Qi and wrote to Liu Bang, asking him to make himself the false king of Qi. Liu Bang also took advantage of the situation and made Han Xin the king of Qi.
+More than a year later, Liu Bang, king of Han, destroyed Xiang Yu, proclaimed himself emperor, and made Pengyue King of Liang.
+Tian Heng was afraid of being killed, so he led more than 500 of his men to flee into the sea and live on a small island.
+After Liu Bang, the emperor of the Han Dynasty, heard the news, he thought that Brother Tian Heng had already pacified Qi State, and most of the wise men of Qi State were attached to him. If he was left to wander in the sea without being taken in, he might be in trouble in the future.
+Therefore, he sent an envoy to pardon Tian Heng's crime and summoned him to the court. However, Tian Heng declined and said: I once cooked and killed your majesty's envoy Li Sheng. Now I heard that Li Sheng's younger brother Li Shang was a very talented Han Dynasty general. So I was very afraid and did not dare to go to Beijing to follow the imperial edict. I asked you to allow me to be a commoner and stay on this island.
+When the envoy came back to report, Emperor Gaozu immediately issued an edict to Weiwei Li Shang: King Tian Heng of Qi is about to arrive in Beijing. Anyone who dares to touch his entourage will be executed immediately!
+Then he sent an envoy with a talisman to inform Tian Heng of the imperial edict issued by the emperor to tell Li Shang's situation exactly as it was. He also said: "If Tian Heng comes to Beijing, the largest one can be made a king and the smallest one can be made a marquis; if he does not come, an army will be sent to kill him."
+Tian Heng and his two retainers took the stage carriage to Luoyang.
+Thirty miles away from Luoyang, there is a place called Corpse Township. On this day, Tian Heng and others came to this inn. Tian Heng said to the Han envoy: As a human minister, you should take a refreshing bath before paying homage to the emperor.
+So he stayed.
+Tian Heng said to his disciples: At first, I, Tian Heng, and the King of Han were both lonely kings in the south. But now that the King of Han has become the emperor, I, Tian Heng, have become a slave of the subjugated country. It would be a great shame to have to serve him in the north.
+
+summary:
+summary line 2: Years later, Han king Liu Bang sent Li Shiqi to negotiate Qi's submission. Tian Heng agreed and lifted defenses, but Han general Han Xin launched a surprise attack, capturing Linzi. Believing Li Shiqi had betrayed them, Tian Guang and Tian Heng executed him. Han forces defeated Qi and Chu allies, killing General Long Qie and capturing Tian Guang. Tian Heng then proclaimed himself king but was defeated by Han forces and fled to Liang. After Liu Bang became emperor, Tian Heng, fearing execution, fled to an island with 500 followers. Summoned by the emperor, Tian Heng committed suicide near Luoyang, ashamed to serve under Liu Bang after having killed Li Shiqi. His two retainers and later the 500 followers also died, demonstrating his ability to inspire loyalty. The historian Sima Qian praised Tian Heng's virtue, noting that despite his death, no painter has depicted his story.
+

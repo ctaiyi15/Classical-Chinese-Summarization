@@ -1,0 +1,359 @@
+Summary uses chunk [0, 1, 2, 10, 10]
+
+Chunk 0: 
+original: 
+周公旦者，周武王弟也。
+自文王在时，旦为子孝，笃仁，异于群子。
+及武王即位，旦常辅翼武王，用事居多。
+武王九年，东伐至盟津，周公辅行。
+十一年，伐纣，至牧野，周公佐武王，作《牧誓》。
+破殷，入商宫。
+已杀纣，周公把大钺，召公把小钺，以夹武王，衅社，告纣之罪于天，及殷民。
+释箕子之囚。
+封纣子武庚禄父，使管叔、蔡叔傅之，以续殷祀。
+遍封功臣同姓戚者。
+封周公旦于少昊之虚曲阜，是为鲁公。
+周公不就封，留佐武王。
+武王克殷二年，天下未集，武王有疾，不豫，群臣惧，太公、召公乃缪卜。
+周公曰： 未可以戚我先王。
+周公于是乃自以为质，设三坛，周公北面立，戴璧秉圭，告于太王、王季、文王。
+史策祝曰： 惟尔元孙王发，勤劳阻疾。
+若尔三王是有负子之责于天，以旦代王发之身。
+旦巧能，多材多艺，能事鬼神。
+乃王发不如旦多材多艺，不能事鬼神。
+乃命于帝庭，敷佑四方，用能定汝子孙于下地，四方之民罔不敬畏。
+无坠天之降葆命，我先王亦永有所依归。
+今我其即命于元龟，尔之许我，我以其璧与圭归，以俟尔命。
+尔不许我，我乃屏璧与圭。
+周公已令史策告太王、王季、文王，欲代武王发，于是乃即三王而卜。
+卜人皆曰吉，发书视之，信吉。
+周公喜，开籥，乃见书遇吉。
+周公入贺武王曰： 王其无害。
+旦新受命三王，维长终是图，兹道能念予一人。 周公藏其策金縢é匮中，诫守者勿敢言。
+明日，武王有瘳。
+translation: 
+Duke Dan of Zhou was the younger brother of King Wu of Zhou.
+When King Wen was still alive, Dan, as his son, was very filial, loyal and kind, better than his other brothers.
+When King Wu came to the throne, Dan often assisted King Bi Wu and handled many government affairs.
+In the ninth year of King Wu's reign, he personally marched eastward to Mengjin, and Duke Zhou accompanied the army to assist him.
+In the eleventh year, King Wu crusaded against Yin Zhou and the army reached Muye. Duke Zhou assisted King Wu and issued the "Oath of Mu" to mobilize the battle.
+The Zhou army broke through the capital of Yin and entered the palace of Yin.
+After killing Yin Zhou, Duke Zhou held a big axe, and Duke Zhao held a small axe. They flanked King Wu on their left and right, held the ceremony of provoking the community, and announced King Zhou's guilt to heaven and the people of Yin Dynasty.
+Release the imprisoned Jizi.
+Wu Genglu, the son of King Zhou, was granted the title of Father, and ordered Uncle Guan and Uncle Cai to assist him in order to continue the sacrifices of Yin.
+After that, he was awarded the title of meritorious officials and relatives of the Zhou royal family.
+The Duke of Zhou was granted the title of Duke of Lu in Qufu, Shaohao's former ruins.
+However, Duke Zhou was not allowed to go to his own kingdom, but stayed in Chaoyan to assist King Wu.
+In the second year after King Wu defeated Yin Zhou, the unification of the world had not yet succeeded. King Wu fell ill and was unwell, and the ministers were frightened. Taigong and Zhaogong wanted to perform divination piously to know good and bad luck.
+Duke Zhou said: "You cannot make our late king worry and grieve."
+Duke Zhou then used himself as a pledge and set up three altars. Standing facing the north, holding a jade and a gui, he prayed to the spirits of King Tai, Wang Ji and King Wen.
+The historian was ordered to write a congratulatory message saying: Your eldest grandson, King Zhou, will be sent to you. Hard work leads to illness.
+If the three former kings owe God a son, please send Dan instead of Zhou Wangfa.
+Dan is smart, capable, versatile, and able to serve ghosts and gods.
+King Fa of Zhou was not as versatile as Dan and could not serve ghosts and gods.
+But King Fa of Zhou was ordered by Heaven to help the whole world, and to enable your descendants to live peacefully in the world. People everywhere will respect him.
+He can ensure that the heaven-given treasures are preserved for a long time, and our late king can be enshrined forever.
+Now I obey the orders of the late king through the divination turtle. If you can agree to my request, I will offer the jade and obey your orders.
+If you don't agree, I will hide the jade.
+After Zhou Gong ordered the historian to write a book to congratulate King Tai, Wang Ji, and King Wen that he would replace King Wu with his own body, he went to the altar of the three kings to divine fortune.
+People in fortune-telling said it was auspicious. When I opened the omen book, I found that it was indeed auspicious.
+Duke Zhou was very happy, so he opened the lock and looked at the divination book hidden in the cabinet, which was also an auspicious sign.
+The Duke of Zhou immediately entered the palace to congratulate King Wu and said: "You are not in trouble. I have just accepted the orders of the three ancestors, so that you only need to consider the long-term plan of the Zhou Dynasty and the world, and have nothing else to worry about."
+This is what is called God’s thoughtful consideration for the Emperor. Duke Zhou put the scroll into a gold-wired cabinet and sealed it, warning the keepers not to leak it.
+The next day, King Wu suddenly recovered.
+
+summary:
+summary line 0: Duke Dan of Zhou, younger brother of King Wu of Zhou, was known for his filial piety and virtue. He assisted King Wu in military campaigns, including the conquest of Yin Zhou at Muye. After Yin Zhou's death, Duke Zhou participated in ceremonies announcing King Zhou's guilt, released the imprisoned Jizi, and helped grant territories to various nobles. Though granted the title of Duke of Lu in Qufu, he remained in the capital to assist King Wu.
+
+Chunk 1: 
+original: 
+其后武王既崩，成王少，在强葆之中。
+周公恐天下闻武王崩而畔，周公乃践阼代成王摄行政当国。
+管叔及其群弟流言于国曰： 周公将不利于成王。
+周公乃告太公望、召公奭曰： 我之所以弗辟而摄行政者，恐天下畔周，无以告我先王太王、王季、文王。
+三王之忧劳天下久矣，于今而后成。
+武王蚤终，成王少，将以成周，我所以为之若此。
+于是卒相成王，而使其子伯禽代就封于鲁。
+周公戒伯禽曰： 我文王之子，武王之弟，成王之叔父，我于天下亦不贱矣。
+然我一沐三捉发，一饭三吐哺，起以待士，犹恐失天下之贤人。
+子之鲁，慎无以国骄人。
+管、蔡、武庚等果率淮夷而反。
+周公乃奉成王命，兴师东伐，作《大诰》。
+遂诛管叔，杀武庚，放蔡叔。
+收殷余民，以封康叔于卫。封微子于宋，以奉殷祀。
+宁淮夷东土，二年而毕定。
+诸侯咸服宗周。
+天降祉福，唐叔得禾，异母同颖，献之成王，成王命唐叔以馈周公于东土，作《馈禾》。
+周公既受命禾，嘉天子命，作《嘉禾》。
+东土以集，周公归报成王，乃为诗贻王，命之曰《鸱鸮》。
+王亦未敢训周公。
+成王七年二月乙未，王朝步自周，至丰，使太保召公先之雒相土。
+其三月，周公往营成周雒邑，卜居焉，曰吉，遂国之。
+成王长，能听政。
+于是周公乃还政于成王，成王临朝。
+周公之代成王治，南面倍依以朝诸侯。
+及七年后，还政成王，北面就臣位，匔ō匔如畏然。
+translation: 
+Later, King Wu died and King Cheng was still in his infancy.
+Duke Zhou was worried that people in the world would betray the court when they heard about King Wu's death, so he ascended the throne to handle government affairs on behalf of King Cheng and preside over the power of the country.
+Guan Shu and his brothers spread rumors in the country: Duke Zhou will be detrimental to the king.
+The Duke of Zhou then told Taigong Wang and Zhao Gongsi: The reason why I do not avoid suspicion and act in the affairs of the country is because I am afraid that the people in the world will betray the Zhou family and cannot explain to our ancestors Taiwang Taiwang, Wang Ji and King Wen.
+The three ancestors have worked hard for the cause of the world for a long time, and they have just succeeded.
+King Wu died young and King Cheng was young. I only did this to complete the great cause of stabilizing the Zhou Dynasty.
+So he eventually assisted in becoming king, and ordered his son Boqin to go to the State of Lu to be granted a title on his behalf.
+Zhou Gong warned Bo Qin: I am the son of King Wen, the younger brother of King Wu, and the uncle of King Cheng. My status among the people in the world is not low.
+But I had to pull up my hair three times once I washed my hair, spit out the food I was chewing three times after eating a meal, and got up to receive the wise men. Even so, I was afraid of missing out on the wise men in the world.
+After you arrive in Lu, don't be arrogant because you have a land.
+Sure enough, Guan Shu, Cai Shu, Wu Geng and others led Huaiyi to launch a rebellion.
+The Duke of Zhou followed the orders of King Cheng, raised his troops to march eastward, and wrote the "Great Edict".
+So Guan Shu was executed, Wu Geng was killed, and Cai Shu was exiled.
+Collect the remnants of Yin, grant Kang Shu to Wei, and Wei Zi to Song, and let him perform Yin's sacrifices.
+It took another two years to pacify Huaiyi and other areas in the east.
+The princes all followed the Zhou Dynasty.
+God sent blessings, and Uncle Tang received two stalks of millet and one ear, which he dedicated to King Cheng. King Cheng ordered Uncle Tang to go to the eastern part of the garrison where Duke Zhou's army was stationed and present it to Duke Zhou, and wrote "Feeding Grain".
+After Zhou Gong accepted it, he expressed gratitude and praised the emperor's order and wrote "Jiahe".
+After the East became stable, Duke Zhou reported back to King Cheng and wrote a poem as a gift to King Cheng. His poem was called "Owl".
+King Cheng did not dare to blame Duke Zhou.
+On the last day of February in the seventh year of King Cheng, King Cheng went to Haojing to pay homage to Wuwang Temple, and then walked to Fengjing to pay homage to Wenwang Temple. He ordered Taibao Zhaogong to go to Luoyi first to survey the terrain.
+In March, Duke Zhou went to Luoyi to build the capital city of Zhou and conducted divination. The results showed good luck, so he made Luoyi the capital.
+King Cheng grew up and was able to handle state affairs.
+So Zhou Gong returned the political power to King Cheng, who came to the court to listen to the government.
+In the past, when the Duke of Zhou replaced King Cheng in governing the world, he faced the south and his back to the wall to accept the worship of the princes.
+Seven years later, when King Cheng returned the throne, Duke Zhou faced north and stood in the position of a minister, still cautious and respectful as if he were walking on thin ice.
+
+summary:
+summary line 1: When King Wu fell ill, Duke Zhou offered himself as a sacrifice to the ancestral spirits, praying to die in King Wu's place. He performed divination, received auspicious signs, and King Wu recovered. After King Wu's death, with King Cheng still an infant, Duke Zhou assumed regency to prevent rebellion. His brothers Guan Shu and Cai Shu spread rumors that he would harm the young king. Duke Zhou explained his actions were to preserve the Zhou legacy, and eventually suppressed a rebellion led by Guan Shu, Cai Shu, and Wu Geng, executing Guan Shu and exiling Cai Shu.
+
+Chunk 2: 
+original: 
+初，成王少时，病，周公乃自揃其蚤沉之河，以祝于神曰： 王少未有识，奸神命者乃旦也。
+亦藏其策于府。成王病有瘳。
+及成王用事，人或谮周公，周公奔楚。
+成王发府，见周公祷书，乃泣，反周公。
+周公归，恐成王壮，治有所淫佚，乃作《吐司》，作《毋逸》。
+《毋逸》称： 为人父母，为业至长久，子孙骄奢忘之，以亡其家，为人子可不慎乎！
+故昔在殷王中宗，严恭敬畏天命，自度治民，震惧不敢荒宁，故中宗飨国七十五年。
+其在高宗，久劳于外，为与小人。作其即位，乃有亮闇，三年不言。言乃欢，不敢荒宁，密靖殷国，至于小大无怨，故高宗飨国五十五年。
+其在祖甲，不义惟王，久为小人于外，知小人之依，能保施小民，不侮鳏ā寡，故祖甲飨国三十三年。
+《吐司》称曰： 自汤至于帝乙，无不率祀明德，帝无不配天者。
+在今后嗣王纣，诞淫厥佚，不顾天及民之从也，其民皆可诛。
+文王日中昃不暇食，飨国五十年。
+作此以诫成王。
+成王在丰，天下已安，周之官政未次序。于是周公作《周官》，官别其宜，作《立政》，以便百姓。百姓说。
+周公在丰，病，将没，曰： 必葬我成周，以明吾不敢离成王。
+周公既卒，成王亦让，葬周公于毕，从文王，以明予小子不敢臣周公也。
+周公卒后，秋未获，暴风雷，禾尽偃，大木尽拔。
+周国大恐。
+成王与大夫朝服以开金縢书，王乃得周公所自以为功代武王之说。
+二公及王乃问史百执事，史百执事曰： 信有，昔周公命我勿敢言。
+成王执书以泣，曰： 自今后其无缪卜乎！
+昔周公勤劳王家，惟予幼人弗及知。
+今天动威以彰周公之德，惟朕小子其迎，我国家礼亦宜之。
+王出郊，天乃雨，反风，禾尽起。
+二公命国人，凡大木所偃，尽起而筑之。
+岁则大孰。
+于是成王乃命鲁得郊祭文王。
+鲁有天子礼乐者，以褒周公之德也。
+translation: 
+When King Cheng was young, he fell ill once. Duke Zhou cut off his fingernails and sank them into the river. He prayed to the gods and said: "The king has no opinions when he is young, and he offends the gods."
+He also hid the blessing notice in the secret palace, and the illness of King Cheng was indeed cured.
+After King Cheng came to the throne, some people said bad things about Duke Zhou, so Duke Zhou fled to the state of Chu.
+King Cheng opened the secret palace and found the prayer book written by Duke Zhou. He was moved to tears and immediately invited Duke Zhou back.
+After Zhou Gong returned to the country, he was afraid that the young king would indulge in debauchery while governing the country, so he wrote "Toast" and "Wuyi".
+"Wu Yi" says: As parents, it is extremely difficult to start a business for a long time. Their descendants are arrogant and extravagant and forget the hardships of their ancestors, ruining the family business. Sons of man must be cautious!
+Therefore, in the past, King Zhongzong of Yin solemnly and respectfully feared the mandate of heaven, was strict with himself when governing the people, competed in the industry and did not dare to neglect his career for his own pleasure, so Zhongzong owned the country for seventy-five years.
+Emperor Gaozong of Yin worked hard among the people for a long time and lived with the common people. After he came to the throne, he went into mourning and remained silent for three years. Once he spoke, he won the support of his subjects and did not dare to indulge in debauchery. This made the country of Yin stable and the ministers of the common people had no complaints. Therefore, Emperor Gaozong reigned for fifty-five years.
+King Zujia of Yin felt that he was not the eldest son and it was not morally right to be a king, so he escaped from the people for a long time. He was well aware of the people's needs. He stabilized the country and benefited the people. He did not regret being arrogant to a widowed and lonely man. Therefore, Zujia owned the country for thirty-three years.
+"Toushi" said: From Tang Dynasty to Emperor Yi, all the kings of the Yin Dynasty followed the etiquette system to perform sacrifices, worked hard to be virtuous, and were able to live up to the destiny.
+Later, when he came to Yin and Zhou Dynasty, he was very dissolute and indulgent, regardless of the will of God and the people. All the people thought that he should be killed.
+King Wen of Zhou had no time to eat when the sun turned west every day, and he owned the country for fifty years.
+Duke Zhou wrote these to warn King Cheng.
+King Cheng lived in Fengjing. Although the world was stable at that time, the official system of the Zhou Dynasty had not yet been properly arranged, so Zhou Gong wrote "Zhou Officials" to delineate the responsibilities of hundreds of officials. He wrote "Establishing Government" to benefit the people and make them happy.
+Duke Zhou fell ill in Fengjing and said before his death: I must be buried in Chengzhou to show that I dare not leave King Cheng.
+After the death of Duke Zhou, King Cheng also showed humility, and finally buried Duke Zhou in Biyi, accompanying King Wen, to show that King Cheng did not dare to treat Duke Zhou as his minister.
+After the death of Duke Zhou, just before the harvest in the autumn, suddenly there was a strong wind, thunder and lightning, all the crops fell down, and the big trees were uprooted.
+The whole state of Zhou was greatly frightened.
+At this time, King Cheng and the officials put on their formal attires, opened the Book of Golden Ribbons, and saw the brief letter stating that Duke Zhou was willing to take himself as a hostage and die for King Wu.
+Taigong, Zhaogong and Chengwang asked the historian and other officials for confirmation. They replied: "This is indeed the case. At that time, Duke Zhou ordered us not to tell it."
+King Cheng held the slip and cried: "I'm afraid there will never be such pious divination from now on."
+In the past, Duke Zhou worked hard for the royal family, but a young person like me didn't know it yet.
+Now that God is showing his majesty to commend Zhou Gong for his virtue, I will personally go to greet the God. According to the etiquette of our country, I should do the same.
+So King Cheng went out of the city to hold a ceremony to worship the sky on the outskirts of the city. It started to rain immediately, the wind direction reversed, and the fallen crops stood upright again.
+Taigong and Zhaogong asked people to pick up all the big trees that had been blown down, and use soil to build up the roots of the trees and tamp them firmly.
+This year the whole country received a bumper harvest.
+So King Cheng ordered the king of Lu to hold suburban sacrifices and worship King Wen.
+The state of Lu had the emperor's rituals and music, which were used to praise Zhou Gong's virtues.
+
+summary:
+summary line 2: Duke Zhou governed for seven years, then returned power to King Cheng when the king came of age. He wrote admonitions including "Wu Yi" and "Toushi" to warn King Cheng against indulgence, citing examples of Yin Dynasty rulers who prospered through diligence or fell through decadence. After Duke Zhou's death, King Cheng buried him beside King Wen. When a storm destroyed crops, King Cheng opened the golden-bound cabinet containing Duke Zhou's prayer to die for King Wu, realized his virtue, and performed ceremonies that restored the harvest.
+
+Chunk 10: 
+original: 
+遂败公师。
+孟懿子闻叔孙氏胜，亦杀郈昭伯。
+郈昭伯为公使，故孟氏得之。
+三家共伐公，公遂奔。
+己亥，公至于齐。
+齐景公曰： 请致千社待君。
+子家曰： 弃周公之业而臣于齐，可乎？
+乃止。
+子家曰： 齐景公无信，不如早之晋。
+弗从。
+叔孙见公还，见平子，平子顿首。
+初欲迎昭公，孟孙、季孙后悔，乃止。
+二十六年春，齐伐鲁，取郓而居昭公焉。
+夏，齐景公将内公，令无受鲁赂。
+申丰、汝贾许齐臣高龁、子将粟五千庾。
+子将言于齐侯曰： 群臣不能事鲁君，有异焉。
+宋元公为鲁如晋，求内之，道卒。
+叔孙昭子求内其君，无病而死。
+不知天弃鲁乎？抑鲁君有罪于鬼神也？
+愿君且待。
+齐景公从之。
+二十八年，昭公如晋，求入。
+季平子私于晋六卿，六卿受季氏赂，谏晋君，晋君乃止，居昭公干侯。
+二十九年，昭公如郓。
+齐景公使人赐昭公书，自谓 主君 。
+昭公耻之，怒而去干侯。
+三十一年，晋欲内昭公，召季平子。
+平子布衣跣行，因六卿谢罪。
+六卿为言曰： 晋欲内昭公，众不从。
+晋人止。
+三十二年，昭公卒于干侯。
+鲁人共立昭公弟宋为君，是为定公。
+定公立，赵简子问史墨曰： 季氏亡乎？
+史墨对曰： 不亡。
+季友有大功于鲁，受鄪为上卿，至于文子、武子，世增其业。
+鲁文公卒，东门遂杀适立庶，鲁君于是失国政。
+政在季氏，于今四君矣。
+民不知君，何以得国！
+是以为君慎器与名，不可以假人。
+translation: 
+So he defeated Duke Zhao's army.
+When Meng Yizi heard that Shusun's family had won the battle, he also pursued Bo Zhaobo.
+Zhaobo Li was sent to the Meng family as an envoy of Duke Zhao, so the Meng family captured him.
+The three families jointly attacked Duke Zhao, who fled abroad.
+On the day of Jihai, Duke Zhao fled to Qi.
+Duke Jin of Qi said to Duke Zhao: I am willing to give a thousand houses to receive the king.
+Zi Jia said: "Is it okay to give up Zhou Gong's inheritance and surrender to Qi?"
+So this behavior stopped.
+Zi Jia said: Qi Jinggong is not trustworthy, so it is better to go to Jin as soon as possible.
+Duke Zhao did not listen.
+Shusun went to the state of Qi to see Duke Zhao and then returned to the state of Lu. He went to see Pingzi, and Pingzi kowtowed.
+At first, they wanted to welcome Duke Zhao back, but Meng Sun and Ji Sun regretted it and did not do so.
+In the spring of the 26th year, Qi attacked Lu and occupied Yunyi, allowing Duke Zhao of Lu to live there.
+In the summer, Duke Jin of Qi wanted to escort Duke Zhao back to his country by force, and ordered his subordinates not to accept gifts from Lu.
+Doctors Shen Feng and Ru Jia of Lu promised to give 80,000 dou of grain to Doctor Gao Lu and Zijiang of Qi.
+The general said to the Marquis of Qi: The ministers of Lu disobey the Lord of Lu, and there are strange phenomena.
+Duke Yuan of Song Dynasty went to Jin State to ask for help for Duke Zhao of Lu, and wanted to support Duke Zhao in returning to the country, but died on the way.
+Uncle Sun Zhaozi asked Lu Jun to return to his country and died without illness.
+I wonder if God abandoned Lu Jun, or did he offend ghosts and gods?
+Please wait and see.
+Qi Jinggong obeyed his words.
+In the twenty-eighth year, Duke Zhao went to Jin and asked for support in returning to the country to become king.
+Ji Pingzi bribed the six ministers of Jin. The six ministers accepted Ji's gift and went to admonish the king of Jin. The king of Jin no longer insisted and only allowed Zhaogong to live in Qianhou.
+In the twenty-ninth year, Duke Zhao came to Yunyi.
+Duke Jinggong of Qi sent someone to deliver a letter to Duke Zhao, in which he called Duke Zhao "the Lord".
+Duke Zhao felt it was a shame and went to Qianhou again in anger.
+In the thirty-first year, the people of Jin wanted to support Duke Zhao in returning to Lu, so they summoned Ji Pingzi.
+Ji Pingzi walked barefoot in common clothes and apologized to the six ministers.
+Liuqing spoke for Ji Pingzi and said: Although Jin supports Duke Zhao, the people of Lu are unwilling.
+Jin Jun gave up.
+In the thirty-second year, Duke Zhao died in Qianhou.
+The people of Lu jointly established Zhaogong's younger brother Song as their king, who was named Dinggong.
+After Duke Ding was established, Zhao Jianzi asked Shi Mo: Will the Ji family perish?
+Shi Mo replied: It will not perish.
+Ji You made great contributions to the state of Lu, and was granted the title of Shangqing in Eyi. He continued to expand his business through generations until Wenzi and Wuzi.
+After Duke Wen of Lu passed away, Dongmen killed his legitimate son and made his concubine the king of Lu. The king of Lu lost his political power.
+The national affairs are controlled by the Ji family, and so far there have been four monarchs.
+The people don't know their king. How does the king control the administrative power of the country?
+Because of this, the monarch should treat the country's vehicles, equipment, titles and titles with caution, and should not give them to others easily.
+
+summary:
+summary line 3: The state of Lu continued through successive dukes. Duke Boqin, Duke Zhou's son, governed Lu and suppressed rebellions. The state experienced periods of stability and turmoil, with conflicts over succession and the growing power of the Three Huan families (Mengsun, Shusun, Jisun). Duke Zhao was forced into exile after attacking the Ji family, dying in Qianhou. The state declined as the Three Huan families grew increasingly powerful, reducing subsequent rulers to figureheads.
+
+Chunk 10: 
+original: 
+遂败公师。
+孟懿子闻叔孙氏胜，亦杀郈昭伯。
+郈昭伯为公使，故孟氏得之。
+三家共伐公，公遂奔。
+己亥，公至于齐。
+齐景公曰： 请致千社待君。
+子家曰： 弃周公之业而臣于齐，可乎？
+乃止。
+子家曰： 齐景公无信，不如早之晋。
+弗从。
+叔孙见公还，见平子，平子顿首。
+初欲迎昭公，孟孙、季孙后悔，乃止。
+二十六年春，齐伐鲁，取郓而居昭公焉。
+夏，齐景公将内公，令无受鲁赂。
+申丰、汝贾许齐臣高龁、子将粟五千庾。
+子将言于齐侯曰： 群臣不能事鲁君，有异焉。
+宋元公为鲁如晋，求内之，道卒。
+叔孙昭子求内其君，无病而死。
+不知天弃鲁乎？抑鲁君有罪于鬼神也？
+愿君且待。
+齐景公从之。
+二十八年，昭公如晋，求入。
+季平子私于晋六卿，六卿受季氏赂，谏晋君，晋君乃止，居昭公干侯。
+二十九年，昭公如郓。
+齐景公使人赐昭公书，自谓 主君 。
+昭公耻之，怒而去干侯。
+三十一年，晋欲内昭公，召季平子。
+平子布衣跣行，因六卿谢罪。
+六卿为言曰： 晋欲内昭公，众不从。
+晋人止。
+三十二年，昭公卒于干侯。
+鲁人共立昭公弟宋为君，是为定公。
+定公立，赵简子问史墨曰： 季氏亡乎？
+史墨对曰： 不亡。
+季友有大功于鲁，受鄪为上卿，至于文子、武子，世增其业。
+鲁文公卒，东门遂杀适立庶，鲁君于是失国政。
+政在季氏，于今四君矣。
+民不知君，何以得国！
+是以为君慎器与名，不可以假人。
+translation: 
+So he defeated Duke Zhao's army.
+When Meng Yizi heard that Shusun's family had won the battle, he also pursued Bo Zhaobo.
+Zhaobo Li was sent to the Meng family as an envoy of Duke Zhao, so the Meng family captured him.
+The three families jointly attacked Duke Zhao, who fled abroad.
+On the day of Jihai, Duke Zhao fled to Qi.
+Duke Jin of Qi said to Duke Zhao: I am willing to give a thousand houses to receive the king.
+Zi Jia said: "Is it okay to give up Zhou Gong's inheritance and surrender to Qi?"
+So this behavior stopped.
+Zi Jia said: Qi Jinggong is not trustworthy, so it is better to go to Jin as soon as possible.
+Duke Zhao did not listen.
+Shusun went to the state of Qi to see Duke Zhao and then returned to the state of Lu. He went to see Pingzi, and Pingzi kowtowed.
+At first, they wanted to welcome Duke Zhao back, but Meng Sun and Ji Sun regretted it and did not do so.
+In the spring of the 26th year, Qi attacked Lu and occupied Yunyi, allowing Duke Zhao of Lu to live there.
+In the summer, Duke Jin of Qi wanted to escort Duke Zhao back to his country by force, and ordered his subordinates not to accept gifts from Lu.
+Doctors Shen Feng and Ru Jia of Lu promised to give 80,000 dou of grain to Doctor Gao Lu and Zijiang of Qi.
+The general said to the Marquis of Qi: The ministers of Lu disobey the Lord of Lu, and there are strange phenomena.
+Duke Yuan of Song Dynasty went to Jin State to ask for help for Duke Zhao of Lu, and wanted to support Duke Zhao in returning to the country, but died on the way.
+Uncle Sun Zhaozi asked Lu Jun to return to his country and died without illness.
+I wonder if God abandoned Lu Jun, or did he offend ghosts and gods?
+Please wait and see.
+Qi Jinggong obeyed his words.
+In the twenty-eighth year, Duke Zhao went to Jin and asked for support in returning to the country to become king.
+Ji Pingzi bribed the six ministers of Jin. The six ministers accepted Ji's gift and went to admonish the king of Jin. The king of Jin no longer insisted and only allowed Zhaogong to live in Qianhou.
+In the twenty-ninth year, Duke Zhao came to Yunyi.
+Duke Jinggong of Qi sent someone to deliver a letter to Duke Zhao, in which he called Duke Zhao "the Lord".
+Duke Zhao felt it was a shame and went to Qianhou again in anger.
+In the thirty-first year, the people of Jin wanted to support Duke Zhao in returning to Lu, so they summoned Ji Pingzi.
+Ji Pingzi walked barefoot in common clothes and apologized to the six ministers.
+Liuqing spoke for Ji Pingzi and said: Although Jin supports Duke Zhao, the people of Lu are unwilling.
+Jin Jun gave up.
+In the thirty-second year, Duke Zhao died in Qianhou.
+The people of Lu jointly established Zhaogong's younger brother Song as their king, who was named Dinggong.
+After Duke Ding was established, Zhao Jianzi asked Shi Mo: Will the Ji family perish?
+Shi Mo replied: It will not perish.
+Ji You made great contributions to the state of Lu, and was granted the title of Shangqing in Eyi. He continued to expand his business through generations until Wenzi and Wuzi.
+After Duke Wen of Lu passed away, Dongmen killed his legitimate son and made his concubine the king of Lu. The king of Lu lost his political power.
+The national affairs are controlled by the Ji family, and so far there have been four monarchs.
+The people don't know their king. How does the king control the administrative power of the country?
+Because of this, the monarch should treat the country's vehicles, equipment, titles and titles with caution, and should not give them to others easily.
+
+summary:
+summary line 4: The state of Lu lasted for thirty-four generations from Duke Zhou to Duke Qing, when King Kaolie of Chu conquered Lu. The historian Sima Qian noted that despite Lu's reputation for ritual propriety, its actual history was marked by chaos, including the murder of legitimate heirs and ministers attacking their rulers, revealing a contradiction between their ceremonial observance and political reality.
+

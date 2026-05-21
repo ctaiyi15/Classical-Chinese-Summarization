@@ -1,0 +1,607 @@
+Summary uses chunk [0, 0, 1, 2, 4, 5, 7, 9, 14]
+
+Chunk 0: 
+original: 
+宣皇帝讳懿，字仲达，河内温县孝敬里人，姓司马氏。
+其先出自帝高阳之子重黎，为夏官祝融，历唐、虞、夏、商，世序其职。
+及周，以夏官为司马。其后程柏休父，周宣王时，以世官克平徐方，锡以官族，因而为氏。
+楚汉间，司马卬为赵将，与诸侯伐秦。
+秦亡，立为殷王，都河内。
+汉以其地为郡，子孙遂家焉。
+自仰八世，生征西将军钧，字叔平。
+钧生豫章太守量，字公度。
+量生颍川太守俊，字元异。
+俊生京兆尹防，字建公。
+帝即防之第二子也。
+少有奇节，聪明多大略，博学洽闻，伏膺儒教。
+汉末大乱，常慨然有忧天下心。
+南阳太守同郡杨俊名知人，见帝，未弱冠，以为非常之器。
+尚书清河崔琰与帝兄朗善，亦谓朗曰： 君弟聪亮明允，刚断英特，非子所及也。
+汉建安六年，郡举上计掾。
+魏武帝为司空，闻而辟之。
+帝知汉运方微，不欲屈节曹氏，辞以风痹，不能起居。
+魏武使人夜往密刺之，帝坚卧不动。
+及魏武为丞相，又辟为文学掾，敕行者曰： 若复盘桓，便收之。
+帝惧而就职。
+于是，使与太子游处，迁黄门侍郎，转议郎、丞相东曹属，寻转主簿。
+从讨张鲁，言于魏武曰： 刘备以诈力虏刘璋，蜀人未附而远争江陵，此机不可失也。
+今若曜威汉中，益州震动，进兵临之，势必瓦解。
+因此之势，易为功力。
+圣人不能违时，亦不失时矣。
+translation: 
+Emperor Xuan's name was Yi, whose courtesy name was Zhongda. He was from Xiaojingli, Wen County, Henan, and his surname was Sima.
+His ancestors were descendants of Chongli, the son of Emperor Gaoyang, namely Xia Guan Zhurong. After experiencing the Tang, Yu, Xia and Shang dynasties, he inherited this official position.
+During the reign of King Xuan of Zhou Dynasty, the person who served as Sima of the Xia Dynasty was a man named Cheng Baixiu's father. Because he conquered and pacified Xu Fang as a world official, he was given the family name of Sima.
+Therefore, Longmo became their last name. During the Chu and Han Dynasties, Sima Yan was a general who joined the army of the princes in conquering the Se country.
+After the fall of the Qin State, it was established as: Mudou, and the king's capital was established in Chi.
+He designated the land as a county, and his descendants lived here permanently.
+From Sima, the eighth generation descendant, Sima Gou, the general of the Western Conquest, named Shuping.
+Sima Gou Sheng invited Tong Taishou to cultivate the land, named Gong Ji.
+Dandan was born in Yuanbei, Dankentan, the prefect of Yuanbei, with the courtesy name Wuken.
+When Siya was born and fled, Siken fell to Yin, whose name was Jiangong.
+Emperor Xuan was Si Yaduo's second son.
+Emperor Xuan had extraordinary integrity when he was young. He was smart, bold and had lofty ambitions. He was erudite and devoted to Confucianism.
+At the end of the Han Dynasty, the world was in chaos, and Emperor Xuan often lamented and worried about the world.
+Nanyang Prefect Dangyu, who was from the same county and was known for being good at identifying talents, met Emperor Xuan, who was underage at the time. He thought Emperor Xuan was an unusually talented person.
+Cui Yanyu, a native of Qinghe who served as minister, was a friend of Emperor Xuan's brother Sima Lang. He once said to Sima Lang: Your brother is smart, wise and honest, and his decisive ability is outstanding. He is not comparable to ordinary people.
+Six years after the founding of the Imperial Household, the county recommended candidates for the imperial office.
+At that time, Yan Gen Zaoxuan invited Sikong to serve. After hearing about Emperor Xuan's reputation, he recruited him.
+Emperor Xuan understood that Yi's fortune was declining, and he was unwilling to lose his integrity and succumb to Tadang, so he declined on the grounds that he had wind paralysis and was unable to eat and live normally.
+Wei Genzuo sent a secret agent at night to spy on the situation, but Emperor Xuan lay motionless on the bed.
+When Emperor Wu of Wei was appointed prime minister, he summoned Emperor Xuan to be a literary advisor and ordered the people sent there: If he makes excuses again, he will be imprisoned.
+Emperor Xuan was afraid and took office.
+From then on, Emperor Wu of Wei ordered Emperor Xuan to accompany the prince at all times. He was promoted to the position of Huangmen Shilang, then Yilang, Prime Minister Shu Cao's family, and soon he was transferred to the chief secretary.
+Emperor Xuan followed Cao Cao to attack Zhang Lu and advised Emperor Wu of Wei: Liu Bei captured Liu Zhang through deception and force. The Shu people sent troops to fight for Jiangling before they surrendered. This opportunity cannot be missed.
+Now if we go to Hanzhong to display our troops and show off our power, Yizhou will panic and seize the opportunity to march and attack the city, which will inevitably lead to collapse.
+With this momentum, it is easy to establish achievements.
+A saint cannot go against heaven's timing, nor can he lose his opportunity.
+
+summary:
+summary line 0: Emperor Xuan, named Sima Yi with the courtesy name Zhongda, was from Wen County, Henan. His ancestors traced back to Chongli, a descendant of Emperor Gaoyang, who served as Xia Guan Zhurong. During the Zhou Dynasty, a descendant named Cheng Baixiu's father was granted the surname Sima for pacifying Xu Fang. In the Chu-Han period, Sima Yan was a general. By the eighth generation, Sima Gou emerged, and Emperor Xuan was the second son of Si Yaduo.
+
+Chunk 0: 
+original: 
+宣皇帝讳懿，字仲达，河内温县孝敬里人，姓司马氏。
+其先出自帝高阳之子重黎，为夏官祝融，历唐、虞、夏、商，世序其职。
+及周，以夏官为司马。其后程柏休父，周宣王时，以世官克平徐方，锡以官族，因而为氏。
+楚汉间，司马卬为赵将，与诸侯伐秦。
+秦亡，立为殷王，都河内。
+汉以其地为郡，子孙遂家焉。
+自仰八世，生征西将军钧，字叔平。
+钧生豫章太守量，字公度。
+量生颍川太守俊，字元异。
+俊生京兆尹防，字建公。
+帝即防之第二子也。
+少有奇节，聪明多大略，博学洽闻，伏膺儒教。
+汉末大乱，常慨然有忧天下心。
+南阳太守同郡杨俊名知人，见帝，未弱冠，以为非常之器。
+尚书清河崔琰与帝兄朗善，亦谓朗曰： 君弟聪亮明允，刚断英特，非子所及也。
+汉建安六年，郡举上计掾。
+魏武帝为司空，闻而辟之。
+帝知汉运方微，不欲屈节曹氏，辞以风痹，不能起居。
+魏武使人夜往密刺之，帝坚卧不动。
+及魏武为丞相，又辟为文学掾，敕行者曰： 若复盘桓，便收之。
+帝惧而就职。
+于是，使与太子游处，迁黄门侍郎，转议郎、丞相东曹属，寻转主簿。
+从讨张鲁，言于魏武曰： 刘备以诈力虏刘璋，蜀人未附而远争江陵，此机不可失也。
+今若曜威汉中，益州震动，进兵临之，势必瓦解。
+因此之势，易为功力。
+圣人不能违时，亦不失时矣。
+translation: 
+Emperor Xuan's name was Yi, whose courtesy name was Zhongda. He was from Xiaojingli, Wen County, Henan, and his surname was Sima.
+His ancestors were descendants of Chongli, the son of Emperor Gaoyang, namely Xia Guan Zhurong. After experiencing the Tang, Yu, Xia and Shang dynasties, he inherited this official position.
+During the reign of King Xuan of Zhou Dynasty, the person who served as Sima of the Xia Dynasty was a man named Cheng Baixiu's father. Because he conquered and pacified Xu Fang as a world official, he was given the family name of Sima.
+Therefore, Longmo became their last name. During the Chu and Han Dynasties, Sima Yan was a general who joined the army of the princes in conquering the Se country.
+After the fall of the Qin State, it was established as: Mudou, and the king's capital was established in Chi.
+He designated the land as a county, and his descendants lived here permanently.
+From Sima, the eighth generation descendant, Sima Gou, the general of the Western Conquest, named Shuping.
+Sima Gou Sheng invited Tong Taishou to cultivate the land, named Gong Ji.
+Dandan was born in Yuanbei, Dankentan, the prefect of Yuanbei, with the courtesy name Wuken.
+When Siya was born and fled, Siken fell to Yin, whose name was Jiangong.
+Emperor Xuan was Si Yaduo's second son.
+Emperor Xuan had extraordinary integrity when he was young. He was smart, bold and had lofty ambitions. He was erudite and devoted to Confucianism.
+At the end of the Han Dynasty, the world was in chaos, and Emperor Xuan often lamented and worried about the world.
+Nanyang Prefect Dangyu, who was from the same county and was known for being good at identifying talents, met Emperor Xuan, who was underage at the time. He thought Emperor Xuan was an unusually talented person.
+Cui Yanyu, a native of Qinghe who served as minister, was a friend of Emperor Xuan's brother Sima Lang. He once said to Sima Lang: Your brother is smart, wise and honest, and his decisive ability is outstanding. He is not comparable to ordinary people.
+Six years after the founding of the Imperial Household, the county recommended candidates for the imperial office.
+At that time, Yan Gen Zaoxuan invited Sikong to serve. After hearing about Emperor Xuan's reputation, he recruited him.
+Emperor Xuan understood that Yi's fortune was declining, and he was unwilling to lose his integrity and succumb to Tadang, so he declined on the grounds that he had wind paralysis and was unable to eat and live normally.
+Wei Genzuo sent a secret agent at night to spy on the situation, but Emperor Xuan lay motionless on the bed.
+When Emperor Wu of Wei was appointed prime minister, he summoned Emperor Xuan to be a literary advisor and ordered the people sent there: If he makes excuses again, he will be imprisoned.
+Emperor Xuan was afraid and took office.
+From then on, Emperor Wu of Wei ordered Emperor Xuan to accompany the prince at all times. He was promoted to the position of Huangmen Shilang, then Yilang, Prime Minister Shu Cao's family, and soon he was transferred to the chief secretary.
+Emperor Xuan followed Cao Cao to attack Zhang Lu and advised Emperor Wu of Wei: Liu Bei captured Liu Zhang through deception and force. The Shu people sent troops to fight for Jiangling before they surrendered. This opportunity cannot be missed.
+Now if we go to Hanzhong to display our troops and show off our power, Yizhou will panic and seize the opportunity to march and attack the city, which will inevitably lead to collapse.
+With this momentum, it is easy to establish achievements.
+A saint cannot go against heaven's timing, nor can he lose his opportunity.
+
+summary:
+summary line 1: From a young age, Emperor Xuan displayed extraordinary integrity, intelligence, and lofty ambitions, being erudite in Confucianism. During the late Han Dynasty's chaos, he lamented the state of the world. Nanyang Prefect Dangyu recognized his talent early on, and Cui Yanyu praised his wisdom and decisiveness. In the sixth year of the founding, he was recommended for office but initially declined due to illness, fearing the declining fortunes of the Han. When Emperor Wu of Wei (Cao Cao) summoned him as a literary advisor, he was threatened with imprisonment and reluctantly took the post. He served as Huangmen Shilang, Yilang, and Prime Minister Shu Cao's family, eventually becoming chief secretary.
+
+Chunk 1: 
+original: 
+魏武曰： 人苦无足，既得陇右，复欲得蜀！
+言竟不从。
+既而从讨孙权，破之。
+军还，权遣使乞降，上表称臣，陈说天命。
+魏武帝曰： 此兒欲踞吾著炉炭上邪！
+答曰： 汉运垂终，殿下十分天下而有其九，以服事之。
+权之称臣，天人之意也。
+虞、夏、殷、周不以谦让者，畏天知命也。
+魏国既建，迁太子中庶子。
+每与大谋，辄有奇策，为太子所信重，与陈群、吴质、硃乐号曰四友。
+迁为军司马，言于魏武曰： 昔箕子陈谋，以食为首。
+今天下不耕者盖二十余万，非经国远筹也。
+虽戎甲未卷，自宜且耕且守。
+魏武纳之，于是务农积谷，国用丰赡。
+帝又言荆州刺史胡修粗暴，南乡太守傅方骄奢，并不可居边。
+魏武不之察。
+及蜀将羽围曹仁于樊，于禁等七军皆没，修、方果降羽，而仁围甚急焉。
+是时汉帝都许昌，魏武以为近贼，欲徙河北。
+帝谏曰： 禁等为水所没，非战守之所失，于国家大计未有所损，而便迁都，既示敌以弱，又淮沔之人大不安矣。
+孙权、刘备，外亲内疏，羽之得意，权所不愿也。
+可喻权所，令掎其后，则樊围自解。
+魏武从之。
+权果遣将吕蒙西袭公安，拔之，羽遂为蒙所获。
+魏武以荆州遗黎及屯田在颍川者逼近南寇，皆欲徙之。
+帝曰： 荆楚轻脱，易动难安。
+关羽新破，诸为恶者藏窜观望。
+今徙其善者，既伤其意，将令去者不敢复还。
+从之。
+其后诸亡者悉复业。
+及魏武薨于洛阳，朝野危惧。
+translation: 
+Emperor Wu of Wei said: People are suffering from lack of satisfaction. They have captured Longxi and still want to capture Shu!
+In the end, he did not listen to Emperor Xuan's opinion.
+Soon Emperor Xuan followed Cao Cao to conquer Sun Quan and defeated Sun Quan's army.
+After the army triumphantly returned, Sun Quan sent an envoy to beg for surrender, presented a memorial to him, and stated that this was his destiny.
+Emperor Wu of Wei said: This boy wants to roast me on the fire!
+Emperor Xuan replied: The fate of the Han Dynasty is coming to an end, and the prime minister owns nine-tenths of the world, and serves the emperor accordingly.
+Sun Quan became a minister, which was the common wish of heaven and man.
+The reason why the Yu, Xia, Yin, and Zhou dynasties refused to give in and refuse was precisely because they feared God and knew God's will.
+After the establishment of the Wei Kingdom, Emperor Xuan was promoted to the crown prince and concubine.
+Whenever he participates in major decisions, he always has a good plan and wins the trust and respect of the prince. He is known as the four friends with Chen Qun, Wu Zhi and Zhu Shuo.
+Emperor Xuan was promoted to Army Sima and told Emperor Wu of Wei: In ancient times, Jizi discussed the strategy of governing the country and proposed that food is the first priority for the people.
+At present, there are about 200,000 people in the country who are not engaged in agricultural production. This is not a long-term solution for running the country.
+Although the war has not subsided, we should still cultivate the land and defend at the same time.
+Emperor Wu of Wei adopted this opinion and devoted himself to farming to accumulate grain. The country's property was rich and sufficient.
+Emperor Xuan also issued a memorial stating that Hu Xiu, the governor of Jingzhou, was cruel to the people, and Fu Fang, the governor of Nanxiang, was arrogant and extravagant, and neither of them should be appointed officials to serve as border guards.
+Emperor Wu of Wei did not investigate or deal with them.
+When Shu general Guan Yu besieged Cao Ren in Fan, Yu Jin and other seven armies were completely wiped out. Hu Xiu and Fu Fang surrendered to Guan Yu, making Cao Ren's siege even more critical.
+At this time, Emperor Han made Xuchang his capital. Emperor Wu of Wei thought that Xuchang was too close to the enemy and wanted to move to the north of the Yellow River.
+Emperor Xuan advised: "The defeat of Yu Jin and other troops by the water was not due to a blunder in combat and defense. The relocation did not harm the overall situation of the country. Moving the capital rashly not only showed our weakness to the enemy, but also caused extreme unrest among the soldiers and civilians in the Huaihe and Mianshui areas."
+Sun Quan and Liu Bei were close on the outside but distant on the inside. Guan Yu's victory was exactly what Sun Quan did not want.
+You can explain to Sun Quan and let him contain Guan Yu's rear, then the siege of Fandi will naturally be lifted.
+Emperor Wu of Wei followed this opinion.
+Sure enough, Sun Quan sent general Lu Meng to the west to attack Gong'an. After capturing Gong'an, Guan Yu was finally killed by Lu Meng.
+Emperor Wu of Wei believed that the repatriated people in Jingzhou and the people stationed in Yingchuan to guard the border were too close to the southern enemy, and wanted to move them all away.
+Emperor Xuan said: The people of Jingchu are imprudent, easily agitated and difficult to appease.
+Guan Yu had just been defeated, and all kinds of evildoers hid and fled to watch.
+Now ordering those good people to migrate will not only hurt their feelings, but will also make those who have fled dare not return to their hometowns.
+Emperor Wu of Wei followed this opinion.
+After that, the exiles all returned to their hometowns to engage in their own professions.
+When Emperor Wu of Wei died in Luoyang, the government and the public were frightened.
+
+summary:
+summary line 2: Emperor Xuan accompanied Cao Cao on campaigns, advising against missing opportunities to attack Shu after capturing Hanzhong, but Cao Cao refused. He later followed Cao Cao to defeat Sun Quan. After Sun Quan's surrender, Emperor Xuan argued that the Han dynasty's fate was ending and Cao Cao should accept heaven's will. In the Wei Kingdom, he became crown prince and concubine, trusted by the prince, and was known as one of the four friends with Chen Qun, Wu Zhi, and Zhu Shuo. As Army Sima, he advocated for agricultural cultivation to support the military, which Cao Cao adopted, enriching the state. He also criticized corrupt officials Hu Xiu and Fu Fang, but Cao Cao ignored him; they later surrendered to Guan Yu, worsening Cao Ren's siege. Emperor Xuan advised against moving the capital, suggesting instead to ally with Sun Quan against Guan Yu, which led to Guan Yu's death. He also opposed relocating people from Jingzhou, allowing exiles to return home.
+
+Chunk 2: 
+original: 
+帝纲纪丧事，内外肃然。
+乃奉梓宫还鄴。
+魏文帝即位，封河津亭侯，转丞相长史。
+会孙权帅兵西过，朝议以樊、襄阳无谷，不可以御寇。
+时曹仁镇襄阳，请召仁还宛。
+帝曰： 孙权新破关羽，此其欲自结之时也，必不敢为患。
+襄阳水陆之冲，御寇要害，不可弃也。
+言竟不从。
+仁遂焚弃二城，权果不为寇，魏文悔之。
+及魏受汉禅，以帝为尚书。
+顷之，转督军、御史中丞，封安国乡侯。
+黄初二年，督军官罢，迁侍中、尚书右仆射。
+五年，天子南巡，观兵吴疆。
+帝留镇许昌，改封向乡侯，转抚军、假节，领兵五千，加给事中、录尚书事。
+帝固辞。
+天子曰： 吾于庶事，以夜继昼，无须臾宁息。
+此非以为荣，乃分忧耳。
+六年，天子复大兴舟师征吴，复命帝居守，内镇百姓，外供军资。
+临行，诏曰： 吾深以后事为念，故以委卿。
+曹参虽有战功，而萧何为重。
+使吾无西顾之忧，不亦可乎！
+天子自广陵还洛阳，诏帝曰： 吾东，抚军当总西事；吾西，抚军当总东事。
+于是帝留镇许昌。
+及天子疾笃，帝与曹真、陈群等见于崇华殿之南堂，并受顾命辅政。
+诏太子曰： 有间此三公者，慎勿疑之。
+明帝即位，改封舞阳侯。
+及孙权围江夏，遣其将诸葛瑾、张霸并攻襄阳，帝督诸军讨权，走之。
+进击，败瑾，斩霸，并首级千余。
+迁骠骑将军。
+太和元年六月，天子诏帝屯于宛，加督荆、豫二州诸军事。
+初，蜀将孟达之降也，魏朝遇之甚厚。
+帝以达言行倾巧，不可任，骤谏，不见听，乃以达领新城太守，封侯，假节。
+translation: 
+Emperor Xuan presided over the funeral and kept order inside and outside the court.
+Then he personally carried the coffin back to Ye.
+After Emperor Wen of Wei came to the throne, he granted Emperor Xuan the title of Marquis of Hejin Ting, and then the title of Prime Minister Chang Shi.
+At the same time, Sun Quan led his troops to march westward. The imperial court considered that Fan and Xiangyang did not have enough food reserves to defend themselves against the enemy.
+At that time, Cao Ren was guarding Xiangyang, hoping to recall Cao Ren to Wandi.
+Emperor Xuan said: Sun Quan recently defeated Guan Yu. This is the time when he wants to take the initiative to make friends, so he must not dare to invade.
+襄阳是水陆交通的要道，抵御敌人的要害之地，不能放弃。
+最终没听从。
+So Cao Ren burned and abandoned the two cities. As expected, Sun Quan did not invade. Emperor Wei Wen regretted it very much.
+After accepting the abdication of the Han Dynasty, Emperor Xuan was appointed Shangshu.
+Soon, he was appointed as military governor and censor Zhongcheng, and was granted the title of Marquis of Anguo Township.
+In the second year of Jianchi's reign, he was dismissed from the post of military governor and promoted to Shizhong and Shangshu Youpushe.
+In the fifth year, the emperor visited the south and reviewed the army at the border of Wu.
+Emperor Xuan stayed to guard Xidan, and renamed it Xuesu Castle. He was granted the title of Fujun and Jiajie, commanding five thousand soldiers, and was given the title of Shizhong and Lu Shangshushi.
+Emperor Xuan firmly refused.
+The Emperor said: Because of many trivial matters, I work day and night without a moment of peace and rest.
+This is not an honor, it is just to share my worries.
+In the sixth year, the emperor mobilized a large naval army to conquer the state of Wu, and ordered Emperor Xuan to stay behind to appease the people internally and provide military supplies externally.
+Before setting off, he issued an edict saying: I am deeply worried about the rear affairs, so I entrust it to you.
+Although Cao Shen had military exploits, Xiao He was more important.
+Wouldn't it be great if I don't have to worry about anything?
+The emperor returned to Luoyang from Guangling and ordered Emperor Xuan: "I am in the east, you should be in charge of the affairs in the west; I am in the west, you should be in charge of the affairs in the east."
+So Emperor Xuan stayed to guard Xuchang.
+The emperor was seriously ill, and Emperor Xuan, Cao Zhen, Chen Qun and others paid homage to the emperor in the South Hall of Chonghua Hall, and together they accepted his deathbed orders to assist the government.
+The prince was ordered to say: If there is a estrangement between the three adults, do not be suspicious.
+After Emperor Ming ascended the throne, he changed the title of Emperor Xuan to Wuyang Marquis.
+Sun Quan besieged Jiangxia and sent generals Zhuge Jin and Zhang Ba to attack Xiangyang. Emperor Xuan led all armies to attack Sun Quan and drove back the Wu army.
+He marched in pursuit, defeated Zhuge Jin, killed Zhang Ba, and killed more than a thousand enemy soldiers in total.
+Emperor Xuan was promoted to General of Hussars.
+In June of the first year of Taihe, the emperor ordered Emperor Xuan to garrison in Wandi and add the military governor of Jingzhou and Yuzhou to the army.
+When Shu general Meng Da surrendered, the Wei Dynasty treated him very well.
+Emperor Xuan believed that Mengda's words and deeds were cunning and untrustworthy, and his repeated remonstrances were not accepted, so he appointed Mengda as the prefect of Xincheng, granted him the title of marquis, and gave him the title of holiday.
+
+summary:
+summary line 3: After Cao Cao's death, Emperor Xuan managed the funeral and escorted the coffin to Ye. Under Emperor Wen of Wei (Cao Pi), he was made Marquis of Hejin Ting and Prime Minister Chang Shi. When Sun Quan attacked, he advised against recalling Cao Ren from Xiangyang, but was ignored; Cao Ren burned the city, and Sun Quan did not invade, causing regret. After the Han abdication, Emperor Xuan served as Shangshu, then military governor and censor Zhongcheng, later becoming Shizhong and Shangshu Youpushe. He guarded Xuchang and was granted titles, though he refused honors. During campaigns against Wu, he stayed behind to manage affairs. On his deathbed, Emperor Wen entrusted him, Cao Zhen, and Chen Qun with assisting the government.
+
+Chunk 4: 
+original: 
+蜀将姚静、郑他等帅其属七千余人来降。
+属帝朝于京师，天子访之于帝。
+帝对曰： 贼以密网束下，故下弃之。
+宜弘以大纲，则自然安乐。
+又问二虏宜讨，何者为先？
+对曰： 吴以中国不习水战，故敢散居东关。
+凡攻敌，必扼其喉而摏其心。
+夏口、东关，贼之心喉。
+若为陆军以向皖城，引权东下，为水战军向夏口，乘其虚而击之，此神兵从天而坠，破之必矣。
+天子并然之，复命屯于宛。
+四年，迁大将军，加大都督、假黄钺，与曹真伐蜀。
+帝自西城斫山开道，水陆并进，溯沔而上，至于朐，拔其新丰县。
+军次丹口，遇雨，班师。
+明年，诸葛亮寇天水，围将军贾嗣、魏平于祁山。
+天子曰： 西方有事，非君莫可付者。
+乃使帝西屯长安，都督雍、梁二州诸军事，统车骑将军张郃、后将军费曜、征蜀护军戴凌、雍州刺史郭淮等讨亮。
+张郃劝帝分军往雍、郿为后镇，帝曰： 料前军独能当之者，将军言是也。
+若不能当，而分为前后，此楚之三军所以为黥布禽也。
+遂进军隃麋。
+亮闻大军且至，乃自帅众将芟上邽之麦。
+诸将皆惧，帝曰： 亮虑多决少，必安营自固，然后芟麦。吾得二日兼行足矣。
+于是卷甲晨夜赴之。亮望尘而遁。
+帝曰： 吾倍道疲劳，此晓兵者之所贪也。
+亮不敢据渭水，此易与耳。
+进次汉阳，与亮相遇，帝列阵以待之。
+使将牛金轻骑饵之，兵才接而亮退，追至祁山。
+亮屯卤城，据南北二山，断水为重围。
+translation: 
+Shu generals Yao Jing, Zheng Ta and others led more than 7,000 men to surrender.
+At that time, the border counties had just surrendered, and most of them did not have household registration books. The Wei Dynasty wanted to verify it and asked Emperor Xuan to come to the capital for an audience.
+The emperor asked Emperor Xuan, who replied: The enemy used strict laws to rule the people, so the people turned their backs on him.
+They should be treated leniently according to Dafa, and they can naturally live and work in peace and contentment.
+He also asked, “Which country should be conquered first?”
+He replied: The State of Wu thinks that the people in the Central Plains are not accustomed to water warfare, so they dare to live in Shuguan.
+Whenever you attack an enemy, you must choke his throat and pound his heart.
+Xiakou and Shuguan are the heart and throat of Wu.
+If we send an army to march to Wancheng, lure Sun Quan to his side, and then send a navy army to march to Xia, and take advantage of the opportunity to attack them, it will be like magic soldiers falling from the sky, and we will definitely defeat them.
+The emperor thought it was reasonable, and ordered Emperor Xuan to station troops in Wan.
+In the fourth year, he was promoted to general, increased to governor, fake Huang Bo, and joined Cao Zhen in the crusade against Xili.
+Emperor Xuan split the mountains from Youyue to clear a road, and the land and water armies advanced side by side, up the Mian River to Quji, and captured Xinfeng County.
+The troops were stationed in Dankou. They encountered heavy rain and returned to the army.
+The next year, Zhuge Liang invaded Tianshui and besieged generals Jia Si and Wei Ping in Qishan.
+The Emperor said: There is a war in the West, and there is no one who can be trusted except you.
+So Emperor Xuan was sent to the west to garrison Chang'an, and he commanded the military forces of Yongzhou and Liangzhou. He led the cavalry general Zhang He, the rear general Fei Yao, the army conquering Shu Dai Jun, the Yongzhou governor Guo Huai and others to attack Zhuge Liang.
+Zhang He advised Emperor Xuan to divide his army and garrison it in Yong and Commandery to command from behind. Emperor Xuan said: If you know that the front army can resist the enemy on its own, your opinion is right, general.
+If it cannot resist and the troops are divided into two parts, the Chu army will be destroyed by Yingbu.
+So he marched to Yumi.
+When Zhuge Liang heard that the army was coming, he personally led his soldiers to harvest the wheat in the upper state.
+All the generals were very scared. Emperor Xuan said: Zhuge Liang is more worried and less decisive. He will definitely camp and defend himself, and then cut the wheat. We have two days to travel day and night. It is enough.
+So he marched lightly and day and night, but Zhuge Liang fled.
+Emperor Xuan said: We are very tired from marching all the way, which is what those who know military knowledge hope.
+Lijiangtai did not dare to occupy Jusai, which was easy to deal with.
+He marched and stationed in Hanyang, met Zhuge Liang, and Emperor Xuan formed a formation to face the Shu army.
+He sent general Niu Jin to lure the Shu army with light cavalry. As soon as the two armies engaged, Zhuge Kui retreated and pursued him to Kongshan.
+He condemned Jiangtai and stationed troops at Lu Su, occupying the two mountains in the north and south, and cut off the water sources to create a circle of encirclement.
+
+summary:
+summary line 4: Under Emperor Ming, Emperor Xuan became Wuyang Marquis. He repelled Sun Quan's forces, killing Zhang Ba. He was promoted to General of Hussars and garrisoned in Wan. When Shu general Meng Da rebelled, Emperor Xuan suspected his cunning and, despite warnings, marched swiftly, capturing and executing Meng Da in sixteen days. He then dealt with Shen Yi, who had forged edicts, and exiled Meng Da's followers. He advised leniency for surrendered border counties and proposed attacking Wu via Xiakou and Shuguan. He was promoted to general and joined Cao Zhen against Shu, but heavy rain forced a retreat.
+
+Chunk 5: 
+original: 
+帝攻拔其围，亮宵遁。追击，破之，俘斩万计。
+天子使使者劳军，增封邑。
+时军师杜袭、督军薛悌皆言，明年麦熟，亮必为寇，陇右无谷，宜及冬豫运。
+帝曰： 亮再出祁山，一攻陈仓，挫衄而反。
+纵其后出，不复攻城，当求野战，必在陇东，不在西也。
+亮每以粮少为恨，归必积谷，以吾料之，非三稔不能动矣。
+于是表徙冀州农夫佃上邽，兴京兆、天水、南安监冶。
+青龙元年，穿成国渠，筑临晋陂，溉田数千顷，国以充实。
+二年，亮又率众十余万出斜谷，垒于郿之渭水南原。
+天子忧之，遣征蜀护军秦朗督步骑二万，受帝节度。
+诸将欲住渭北以待之，帝曰： 百姓积聚皆在渭南，此必争之地也。
+遂引军而济，背水为垒。
+因谓诸将曰： 亮若勇者，当出武功依山而东，若西上五丈原，则诸军无事矣。
+亮果上原，将北渡渭，帝遣将军周当屯阳遂以饵之。
+数日，亮不动。
+帝曰： 亮欲争原而不向阳遂，此意可知也。
+遣将军胡遵、雍州刺史郭淮共备阳遂，与亮会于积石，临原而战，亮不得进，还于五丈原。
+会有长星坠亮之垒，帝知其必败，遣奇兵掎亮之后，斩五百余级，获生口千余，降者六百余人。
+时朝廷以亮侨军远寇，利在急战，每命帝持重，以候其变。
+亮数挑战，帝不出，因遗帝巾帼妇人之饰。
+帝怒，表请决战，天子不许，乃遣骨鲠臣卫尉辛毗杖节为军师以制之。
+后亮复来挑战，帝将出兵以应之，毗杖节立军门，帝乃止。
+初，蜀将姜维闻毗来，谓亮曰： 辛毗杖节而至，贼不复出矣。
+亮曰： 彼本无战心，所以固请者，以示武于其众耳。
+将在军，君命有所不受，苟能制吾，岂千里而请战邪！
+帝弟孚书问军事，帝复书曰： 亮志大而不见机，多谋而少决，好兵而无权，虽提卒十万，已堕吾画中，破之必矣。
+与之对垒百余日，会亮病卒，诸将烧营遁走，百姓奔告，帝出兵追之。
+亮长史杨仪反旗鸣鼓，若将距帝者。
+帝以穷寇不之逼，于是杨仪结阵而去。
+经日，乃行其营垒，观其遗事，获其图书、粮谷甚众。帝审其必死，曰： 天下奇才也。
+辛毗以为尚未可知。
+帝曰： 军家所重，军书密计、兵马粮谷，今皆弃之，岂有人捐其五藏而可以生乎？
+translation: 
+Emperor Xuan attacked and broke through his encirclement. Zhuge Liang escaped at night, pursued and defeated him, captured and killed more than 10,000 people.
+The emperor sent people to comfort the army and increase the number of fiefs.
+At that time, military advisor Du Xi and military governor Xue Ti both said that when the wheat was ripe next year, the tomb robbers would definitely attack. There was no food in Luxi and it should be transported in advance in winter.
+Emperor Xuan said: Zhuge Liang came out of Qishan again, attacked Chenhe, was defeated and returned.
+Even if he comes again in the future, he will not attack the city. He will definitely hope to fight in the field, and it will definitely be in Longshu, not in the west.
+Zhuge Liang is often helpless due to lack of food. He will definitely accumulate food after returning. According to my speculation, he will not take action until three years have passed.
+So Shangzou moved the farmers from Jizhou to Shangbang and strengthened the supervision and management of Jingzhao, Tianshui and Nan'an.
+In the first year of the year, the Chengguo Canal was dug, a submerged pressure was built, thousands of hectares of land were irrigated, and the national treasury was enriched.
+In the second year, Zhuge Liang led more than 100,000 troops out of Xiegu and stationed troops in the plain south of the Wei River in Yongdi.
+The emperor was very worried and sent Qin Lang, the guard of Shu, to lead 20,000 infantry and cavalry to accept the command of Emperor Xuan.
+The generals wanted to fight in Weibei, but Emperor Xuan said: "The people are gathering in Mengnan. This is a battleground."
+So he led his army across the water and made a camp with his back to the water.
+Then he said to the generals: If Zhuge Liang is a brave man, he should start from martial arts and march eastward along the mountain. If you go west to Wuzhangyuan, then all armies and horses will be safe.
+As expected, Zhuge Liang went to the plain and prepared to cross the Wei River north. Emperor Xuan sent General Zhou Dang to lure the Shu army in Yangsu.
+For several days, Zhuge Liang remained silent.
+Emperor Xuan said: Zhuge Liang wanted to seize the plains instead of going to Yangsui. We can know his intentions.
+He sent general Hu Zun and Yongzhou governor Guo Huai to jointly guard Yang Sui, and met Zhuge Liang at Jishi. When the battle began near the plain, Zhuge Liang was unable to advance and returned to Wuzhangyuan.
+When a comet crashed into Zhuge Liang's camp, Emperor Xuan knew that Zhuge Liang would definitely fail, so he sent a surprise force to contain Zhuge Liang's rear, killing more than 500 people, capturing more than 1,000 alive, and more than 600 surrendered.
+At that time, the imperial court believed that Zhuge Liang was a distant enemy living in the south of the Yangtze River and was conducive to a quick victory. Emperor Xuan was often ordered to be cautious and wait for his changes.
+Zhuge Liang challenged Emperor Xuan many times, but Emperor Xuan refused to fight, so Zhuge Liang gave Emperor Yi women's clothes.
+Emperor Xuan was furious and petitioned for a decisive battle. The emperor disagreed and sent an upright minister, Wei Wei Xinpi, holding a talisman as a military advisor to stop Emperor Xuan.
+Later, Zhuge Liang came to challenge again. Emperor Xuan was preparing to send troops to fight. Xinpi stood at the military gate holding a talisman, and Emperor Xuan gave up.
+At the beginning, Shu general Jiang Wei heard that Xinpi was coming and said to Zhuge Liang: If Xinpi comes to hold the festival, the enemy will not fight again.
+Zhuge Liang said: He had no intention of going to war in the first place, so the reason why he insisted on asking for a fight was just to show his bravery in front of his soldiers.
+When a general is in the army, you don't have to accept your orders. If you can really deal with me, why bother asking for a battle thousands of miles away?
+Emperor Xuan's younger brother Sima Fu wrote to ask for military advice. Emperor Xuan replied: Zhuge Liang has great ambitions but no opportunities. He is more resourceful and less decisive. He likes to use troops but has no power. Although he leads a hundred thousand soldiers, he has fallen into my trap. Defeating them is certain.
+The confrontation with Zhuge Liang lasted for more than a hundred days. When Zhuge Liang fell ill and died, the generals burned their camps and fled quietly. The people rushed to tell each other, and Emperor Xuan sent troops to pursue him.
+Zhuge Liang's chief commander, Yang Yi, turned around and marched with drums and flags, as if he was going to fight Emperor Xuan.
+Emperor Xuan thought that it was not appropriate to pursue poor bandits, so Yang Yi formed a formation and left.
+After a few days of encounter, Emperor Xuan came to Zhuge Liang's camp, inspected the things they sent, and seized many books, grain and grass. Emperor Xuan was sure that Zhuge Liang was dead and said: "He is really a genius in the world."
+Xinpi thinks it’s not certain yet.
+Emperor Xuan said: What the military attaches great importance to are military documents and secrets, as well as food and fodder for soldiers, horses, and horses. Now that they have been thrown away, is there anyone who can still live after throwing away his own five internal organs?
+
+summary:
+summary line 5: When Zhuge Liang invaded, Emperor Xuan was sent west to command forces. He marched to Yumi, forcing Zhuge Liang to flee. He defeated Shu forces at Kongshan, capturing thousands. He predicted Zhuge Liang would not attack for three years due to food shortages, so he moved farmers and dug canals to enrich the state. In the second year, Zhuge Liang led 100,000 troops to Wuzhangyuan. Emperor Xuan avoided battle, despite Zhuge Liang sending women's clothes to provoke him. He petitioned for a decisive battle but was stopped by Xinpi. Zhuge Liang died, and Emperor Xuan pursued, confirming his death. He later learned Zhuge Liang ate little and handled all affairs, predicting his early death. He defeated Shu general Ma Dai and accepted surrenders from Di kings.
+
+Chunk 7: 
+original: 
+然自河以北，百姓困穷，外内有役，势不并兴，宜假绝内务，以救时急。
+景初二年，帅牛金、胡遵等步骑四万发自京都。
+车驾送出西明门。诏弟孚、子师送过温，赐以谷帛牛酒，敕郡守典农以下皆往会焉。
+见父老故旧，宴饮累日。
+帝叹息，怅然有感，为歌曰： 天地开辟，日月重光。
+遭遇际会，毕力遐方。
+将扫群秽，还过故乡。
+肃清万里，总齐八荒。
+告成归老，待罪舞阳。
+遂进师，经孤竹，越碣石，次于辽水。
+文懿果遣步骑数万，阻辽隧，坚壁而守，南北六七十里，以距帝。
+帝盛兵多张旗帜，出其南，贼尽锐赴之。
+乃泛舟潜济以出其北，与贼营相逼，沈舟焚梁，傍辽水作长围，弃贼而向襄平。
+诸将言曰： 不攻贼而作围，非所以示众也。
+帝曰： 贼坚营高垒，欲以老吾兵也。
+攻之，正入其计，此王邑所以耻过昆阳也。
+古人曰，敌虽高垒，不得不与我战者，攻其所必救也。
+贼大众在此，则巢窟虚矣。
+我直指襄平，则人怀内惧，惧而求战，破之必矣。
+遂整阵而过。
+贼见兵出其后，果邀之。
+帝谓诸将曰： 所以不攻其营，正欲致此，不可失也。
+乃纵兵逆击，大破之，三战皆捷。贼保襄平，进军围之。
+初，文懿闻魏师之出也，请救于孙权。
+权亦出兵遥为之声援，遗文懿书曰： 司马公善用兵，变化若神，所向无前，深为弟忧之。
+会霖潦，大水，平地数尺，三军恐，欲移营。
+帝令军中敢有言徙者斩。
+都督令史张静犯令，斩之，军中乃定。
+贼恃水，樵牧自若。
+诸将欲取之，皆不听。
+司马陈圭曰： 昔攻上庸，八部并进，昼夜不息，故能一旬之半，拔坚城，斩孟达。
+今者远来而更安缓，愚窃惑焉。
+帝曰： 孟达众少而食支一年，吾将士四倍于达而粮不淹月，以一月图一年，安可不速？
+以四击一，正令半解，犹当为之。
+是以不计死伤，与粮竞也。
+今贼众我寡，贼饥我饱，水雨乃尔，功力不设，虽当促之，亦何所为。
+自发京师，不忧贼攻，但恐贼走。
+今贼粮垂尽，而围落未合，掠其牛马，抄其樵采，此故驱之走也。
+夫兵者诡道，善因事变。
+贼凭众恃雨，故虽饥困，未肯束手，当示无能以安之。
+取小利以惊之，非计也。
+朝廷闻师遇雨，咸请召还。
+天子曰： 司马公临危制变，计日擒之矣。
+既而雨止，遂合围。
+起土山地道，楯橹钩橦，发矢石雨下，昼夜攻之。
+translation: 
+However, from the north of the Yellow River, the people are poor and distressed, and they are working hard both inside and outside. The forces cannot be developed at the same time, and construction should be temporarily stopped to relieve temporary emergencies.
+In the second year of Jingchu, Emperor Xuan led Niu Jin, Hu Zun and other 40,000 infantry and cavalry troops to set out from Kyoto.
+The emperor sent him out of Ximing Gate, and his brother Sima Fu and his son Sima Shi sent him warm water and gave him grain, silk, cattle and wine. He ordered the county governor, Dian Nong, and all the officials below to pay homage to Emperor Xuan.
+Emperor Xuan met with his father and old friends and had a banquet for several days.
+Emperor Xuan sighed deeply and felt sad. He chanted a poem and said: The sky and the earth are created, and the sun and the moon shine again.
+At the right time, we went on an expedition with all our strength.
+He will sweep away the enemies and return to the army to cross the countryside.
+Clear away thousands of miles and unify the four directions.
+Retire after success, and wait for sin to dance in the sun.
+So he marched, passed Guzhu, crossed Jieshi, and stationed troops in Liao River.
+As expected, Wen Yi sent tens of thousands of infantry and cavalry to block the Liao Tunnel and defend the walls sixty or seventy miles from north to south to resist Emperor Xuan.
+Emperor Xuan sent out heavy troops to the south with great fanfare, and the bandits gathered their elite troops to fight.
+Emperor Xuan used boats to secretly cross the army to attack the north, close to the bandits' camp, sank the boats and burned the bridges, built a long siege along the wall of water, abandoned the enemy troops and marched towards Xiangping.
+The generals said: Setting up a siege instead of attacking the rebel army is not a good way to inform the army.
+Emperor Xuan said: The bandits have strengthened the fortress in order to tire out our army.
+Attacking them fell into their trap, which was why Wang Yi was ashamed of Guo Kunyang.
+The ancients said that the reason why the enemy has to fight us despite building high barriers is because we attack the place they must rescue.
+When the army of thieves and bandits gathers here, their lair will be empty.
+If we attack Xiangping directly, the enemy will be fearful and seek battle in fear, and we will definitely defeat them.
+So the whole column marched away.
+When the rebels saw our troops appearing behind them, they actually intercepted them.
+Emperor Xuan said to the generals: "That's why I didn't attack their camp because I was hoping to create this situation. This opportunity should not be missed."
+So he sent his troops to fight back and defeated the enemy. After three battles and three victories, the rebels retreated to Xiangping, and Emperor Xuan marched to surround Xiangping.
+When Wenyi heard the news of Wei Jun's departure, he asked Sun Jie for help.
+Jieqie also sent troops to support him from a distance, and wrote to Wen Yi: "Sima Gong is good at using troops, his transformation is like a god, and he is invincible. I am deeply worried about you."
+It happened to be a continuous heavy rain and several feet of water accumulated on the flat ground. The soldiers of the three armies panicked and wanted to move the camp.
+Emperor Xuan ordered that anyone in the army who dared to speak of migration be beheaded.
+The commander-in-chief Shi Zhangjing violated military orders and was beheaded, and the morale of the army stabilized.
+Relying on the strength of the water, the bandit army was able to cut firewood and graze their cattle in peace and contentment.
+The generals wanted to capture them, but Emperor Xuan did not agree.
+Sima Chen Gui said: In the previous attack on Shangyong, eight troops marched at the same time, day and night, so they were able to capture the fortified city and kill Mengda in five or six days.
+Now I feel more peaceful and relaxed when I come from afar. I don't understand it.
+Emperor Xuan said: Meng Da has a small number of soldiers but enough food to last a year. Our soldiers are four times as many as Meng Da but have less than a month's food. If we use troops that can last for one month against those that can last for a year, how can we not fight quickly?
+With four against one, this should be done even if split in half.
+Therefore, regardless of the number of casualties, we are competing with food.
+Now that the enemy is outnumbered and we are outnumbered, the thieves are hungry and we are full, and the rain is falling like this, the effect cannot be exerted. Although it should be accelerated, what can be done.
+Since setting off from the capital, I have not been worried about the rebels attacking, but I am worried about the rebels escaping.
+Now the bandits' army is about to run out of food and grass, but our army has not yet encircled them. We have robbed their cattle and horses and confiscated their firewood, in order to deliberately drive them away.
+The use of soldiers pays attention to the art of deception and is good at changing at any time.
+The thieves relied on large numbers of people and heavy rain, so even though they were hungry and sleepy, they refused to surrender. We should show our incompetence to reassure them.
+It's not a good idea to alarm them by seeking small profits.
+When the court heard that the army had encountered heavy rain, they sent a letter to summon them back.
+The Emperor said: If Sima Gong can respond to danger, he will soon be able to capture the bandits.
+Soon the rain stopped and they were surrounded.
+They built earthen mountain tunnels, prepared shields, oars, hooks and carts, and attacked day and night with arrows and stones raining down on them.
+
+summary:
+summary line 6: When Gongsun Wenyi rebelled in Liaodong, Emperor Xuan predicted he would hold the Liao River and estimated a year for the campaign. He advised halting palace construction to relieve the people. In the second year of Jingchu, he led 40,000 troops, crossing the Liao River and feinting south while crossing north. He besieged Xiangping, ignoring calls to attack the enemy camp, and defeated Wenyi after three battles. Despite heavy rain, he forbade moving camp, beheading a violator. He rejected surrenders, executed Wenyi, and killed 7,000 men over fifteen, plus 2,000 officials. He released Gongsun Gong and honored loyalists. He refused to give short coats to soldiers, citing public property. He dismissed elderly soldiers and mourned the dead.
+
+Chunk 9: 
+original: 
+帝大遽，乃乘追锋车昼夜兼行，自白屋四百余里，一宿而至。
+引入嘉福殿卧内，升御床。
+帝流涕问疾，天子执帝手，目齐王曰： 以后事相托。
+死乃复可忍，吾忍死待君，得相见，无所复恨矣。
+与大将军曹爽并受遗诏辅少主。
+及齐王即帝位，迁侍中、持节、都督中外诸军、录尚书事，与爽各统兵三千人，共执朝政，更直殿中，乘舆入殿。
+爽欲使尚书奏事先由己，乃言于天子，徙帝为大司马。
+朝议以为前后大司马累薨于位，乃以帝为太傅。入殿不趋，赞拜不名，剑履上殿，如汉萧何故事。
+嫁娶丧葬取给于官，以世子师为散骑常侍，子弟三人为列侯，四人为骑都尉。
+帝固让子弟官不受。
+魏正始元年春正月，东倭重译纳贡，焉耆、危须诸国，弱水以南，鲜卑名王，皆遣使来献。
+天子归美宰辅，又增帝封邑。
+初，魏明帝好修宫室，制度靡丽，百姓苦之。
+帝自辽东还，役者犹万余人，雕玩之物动以千计。
+至是皆奏罢之，节用务农，天下欣赖焉。
+二年夏五月，吴将全琮寇芍陂，硃然、孙伦围樊城，诸葛瑾、步骘掠柤中，帝请自讨之。
+议者咸言，贼远来围樊，不可卒拔。
+挫于坚城之下，有自破之势，宜长策以御之。
+帝曰： 边城受敌而安坐庙堂，疆场骚动，众心疑惑，是社稷之大忧也。
+六月，乃督诸军南征，车驾送出津阳门。
+帝以南方暑湿，不宜持久，使轻骑挑之，然不敢动。
+translation: 
+Emperor Xuan was so panicked that he took a light post car and traveled day and night. He traveled more than four hundred miles from Baiwu and arrived there in one day.
+Enter the Jiafu Palace bedroom and walk to the imperial bed.
+Emperor Xuan asked about his condition with tears in his eyes. The emperor took Emperor Xuan's hand, looked at King Qi and said, "I will entrust you with the funeral affairs."
+Death can actually be controlled. I waited patiently for you until we met, and there was no regrets left.
+Cao Shuang, the general of Emperor Xuan, accepted the imperial edict to assist the young master.
+After the King of Qi succeeded to the throne, Emperor Xuan was promoted to Shizhong, Chijie, Commander-in-Chief of the Chinese and foreign armies, and Secretary-General. He and Cao Shuang each commanded three thousand troops, and jointly took charge of the government affairs. They took turns to be on duty in the palace, and could sit in the palace as a public servant.
+Cao Shuang wanted the affairs to be reported to the minister to go through him first, so he proposed to the emperor and appointed Emperor Xuan as the chief minister.
+After deliberation, the imperial court concluded that all the great ministers before and after had died in their positions, so they appointed Emperor Xuan as Taifu. He did not need to walk quickly when entering the palace, did not need to state his name when meeting the emperor, and was allowed to wear swords and shoes when entering the palace. Everything was just like the old practice of Xiao He of the Han Dynasty.
+All wedding and funeral expenses for Emperor Xuan's family were provided by the government. His eldest son, Sima Shi, was appointed as the regular attendant of the cavalry, three of his children were appointed as lieutenants, and four were appointed as cavalry captains.
+Emperor Xuan resolutely resigned and refused to accept the official titles of his disciples.
+In the first month of the spring of the first year of the Zhengshi period, envoys from the Eastern Japan came to pay tribute. The kings of the Yanqi, Weixu, and Xianbei people south of Weishui all sent envoys to pay tribute.
+The emperor attributed the credit to the prime minister and increased Emperor Xuan's fiefdom.
+At first, Emperor Wei Ming liked to build palaces, which were luxurious and magnificent in scale, which made the people feel miserable.
+When Emperor Xuan returned from Liaodong, there were still more than 10,000 people serving as laborers, and there were often thousands of prize items.
+At this time, everyone petitioned to stop, and those who saved money went back to farming, and the world was happy and looked up to it.
+In the summer and May of the second year of Zhengshi, the Wu general Quan Cong invaded Shaopi. Zhu Pan and Jianjian besieged! Bi. Zhuge Jin and Chu Ju were plundering Dan Shi. Emperor Xuan requested to attack personally.
+Commentators all said that the bandits came from afar to besiege Sanzhiqiu, and it was impossible to capture the city quickly.
+If they are frustrated under the city, they will have the tendency to self-destruct, and they can use good strategies to resist.
+Emperor Xuan said: If the border town is invaded but sits on top of the imperial court, if the border is not stable, doubts will arise in the hearts of the people. This is a great worry for the country.
+In June, he led various armies to march south, and the emperor sent out the Jinyang League.
+Emperor Xuan ordered the light cavalry to challenge because the weather in the south was hot and humid and could not last long. Zhu Ran did not dare to attack rashly.
+
+summary:
+summary line 7: Returning, he was granted more fiefs. When Emperor Ming was dying, he entrusted Emperor Xuan with the young King Qi, alongside Cao Shuang. Emperor Xuan became Taifu with high honors. He refused titles for his sons. Under King Qi, he repelled Wu attacks, digging canals for farming. He advised against Cao Shuang's Shu campaign, which failed. When Cao Shuang moved the Empress Dowager and controlled the government, Emperor Xuan feigned illness. He tricked Li Sheng into thinking he was dying, so Cao Shuang relaxed. In the first year of Jiaping, he deposed Cao Shuang during an imperial visit, executing him and his party. He refused the prime minister position and Jiuxi honors.
+
+Chunk 14: 
+original: 
+凌计无所出，乃迎于武丘，面缚水次，曰： 凌若有罪，公当折简召凌，何苦自来邪！
+帝曰： 以君非折简之客故耳。
+即以凌归于京师。
+道经贾逵庙，凌呼曰： 贾梁道！
+王凌是大魏之忠臣，惟尔有神知之。
+至项，仰鸩而死。
+收其余党，皆夷三族，并杀彪。
+悉录魏诸王公置于鄴，命有司监察，不得交关。
+天子遣侍中韦诞持节劳军于五池。
+帝至自甘城，天子又使兼大鸿胪、太仆庾嶷持节，策命帝为相国，封安平郡公，孙及兄子各一人为列侯，前后食邑五万户，侯者十九人。
+固让相国、郡公不受。
+六月，帝寝疾，梦贾逵、王凌为祟，甚恶之。
+秋八月戊寅，崩于京师，时年七十三。
+天子素服临吊，丧葬威仪依汉霍光故事，追赠相国、郡公。
+弟孚表陈先志，辞郡公及韫辌车。
+九月庚申，葬于河阴，谥曰文贞，后改谥文宣。
+先是，预作终制，于首阳山为土藏，不坟不树；作顾命三篇，敛以时服，不设明器，后终者不得合葬。
+一如遗命。
+晋国初建，追尊曰宣王。
+武帝受禅，上尊号曰宣皇帝，陵曰高原，庙称高祖。
+帝内忌而外宽，猜忌多权变。
+魏武察帝有雄豪志，闻有狼顾相。欲验之。
+乃召使前行，令反顾，面正向后而身不动。
+又尝梦三马同食一槽，甚恶焉。
+因谓太子丕曰： 司马懿非人臣也，必预汝家事。
+太子素与帝善，每相全佑，故免。
+帝于是勤于吏职，夜以忘寝，至于刍牧之间，悉皆临履，由是魏武意遂安。
+及平公孙文懿，大行杀戮。
+诛曹爽之际，支党皆夷及三族，男女无少长，姑姊妹女子之适人者皆杀之，既而竟迁魏鼎云。
+明帝时，王导侍坐。
+帝问前世所以得天下，导乃陈帝创业之始，用文帝末高贵乡公事。
+明帝以面覆床曰： 若如公言，晋祚复安得长远！
+translation: 
+Wang Jun had no choice, so he went to Wuqiu to greet him, tied himself by the water, and said: "If Wang Jun is guilty, you should break the slip and call me in letter. Why bother to come in person?"
+Emperor Xuan said: Because you are not a person who can turn your abbreviation into a letter.
+He took Wang Jun back to the capital with him.
+Passing the Maikui Temple on the way, Wang Jun shouted: "Maikui Road!"
+Wang Jun was a loyal minister of the Wei Dynasty, and only the gods understood this.
+When he reached Xiang, he took poison and died.
+The remaining party members who arrested him killed all three tribes and beheaded Cao Biao.
+Gather all the princes of the Wei family in Ye and order the relevant departments to keep them under guard and not to allow them to come in casually.
+The emperor sent his servant Wei Dan to hold the talisman festival in Wuchi to comfort the army.
+After Emperor Xuan arrived from Gancheng, the emperor ordered Da Honglu and his imperial servant Yu Yi to hold the talisman, and ordered Emperor Xuan to be the prime minister of the country, and to make Anping County Duke. Each of his grandson and his brother's son was made a marquis, and 50,000 households were granted successively. There were 19 people in the clan who were marquises.
+Emperor Xuan resolutely dismissed the Prime Minister and the Duke but did not accept it.
+In June, Emperor Xuan was bedridden. He dreamed that Mai Kui and Wang Jun were causing trouble, and he was very disgusted.
+Wuyin died in the capital in the eighth month of autumn at the age of seventy-three.
+The emperor came to express his condolences in person wearing plain clothes. The funeral specifications were modeled on the old system of Huo Guang of the Han Dynasty, and he was given posthumously to the prime minister and the county governor.
+His younger brother, Sima Fu, went to court to state Emperor Xuan's wishes during his lifetime and to reject the Duke and Yun Cheng.
+In September, Geng Shen was buried in Heyin. Mi Hao Wen was later changed to Xuan Sai.
+Before that, Xuanhu had given instructions in advance that he would be buried in Juyang Mountain without building a grave or erecting a monument; he would write three chapters of "Gu Ming" and bury him in the clothes of the time, without any funeral objects, and those who died later could not be buried together.
+Everything is according to his orders.
+When the Jin Kingdom was first established, Emperor Xuan was honored as King Xuan.
+After the master boy accepted the abdication, he was honored as Emperor Xuan, his mausoleum was named Plateau, and his temple was named Gaozu.
+Xuanhu was jealous in his heart but generous in appearance, suspicious and manipulative.
+Emperor Sewu noticed that Emperor Xuan was ambitious. He heard that he could look back at people like a wolf and wanted to test it.
+He called him forward and asked him to look back. Emperor Xuan's face was facing backward but his body was not moving.
+Emperor Wu once dreamed that three horses were eating in the same manger, and he was very disgusted.
+He told Prince Cao Pi: Sima Yi is not a willing minister and will definitely interfere in national affairs.
+The prince had always been very good with Emperor Xuan and always protected him, so he was spared.
+Emperor Xuan was very diligent in his position, working around the clock, personally taking care of everything from cutting grass to grazing, so Emperor Wu of Wei was relieved.
+When Gongsun Wenyi was pacified, they massacred them wantonly.
+When Cao Shuang was killed, all his party members were killed by the Yi clan, regardless of gender, old or young. Even his married sisters and so on were all killed, and then he finally usurped the power of Wei.
+During the reign of Emperor Ming of Jin Dynasty, Director Wang was sitting beside him.
+When Emperor Ming asked about how he had conquered the world in his previous life, Wang Dao recounted what happened when Emperor Xuan started his business and what happened to the noble countryman in the last years of Emperor Wen.
+Emperor Ming put his face on the bed and said: If it is really like what you said, how can the Jin Dynasty last long?
+
+summary:
+summary line 8: Later, he suppressed rebellions by Ling Huyu and Wang Leng, executing them and Cao Biao. He confined Wei princes. He refused further honors. He died at seventy-three, buried simply as per his wishes. Posthumously honored as Emperor Xuan of Jin, his temple name was Gaozu. He was described as jealous but generous, suspicious and manipulative. Cao Cao warned about his ambition, but Cao Pi protected him. He massacred after victories and usurped Wei power. His cruelty was noted, and Emperor Ming of Jin lamented the dynasty's foundation. His strategies were praised but his loyalty questioned, as he betrayed trust and killed rivals, leading to later ridicule.
+

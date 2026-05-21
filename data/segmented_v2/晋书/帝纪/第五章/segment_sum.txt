@@ -1,0 +1,663 @@
+Summary uses chunk [0, 1, 2, 3, 5, 6, 6, 8, 10]
+
+Chunk 0: 
+original: 
+孝怀皇帝讳炽，字丰度，武帝第二十五子也。
+太熙元年，封豫章郡王。
+属孝惠之时，宗室构祸，帝冲素自守，门绝宾游，不交世事，专玩史籍，有誉于时。
+初拜散骑常侍，及赵王伦篡，见收。
+伦败，为射声校尉。
+累迁车骑大将军、都督青州诸军事。未之镇。
+永兴元年，改授镇北大将军、都督鄴城守诸军事。
+十二月丁亥，立为皇太弟。
+帝以清河王覃本太子也，惧不敢当。
+典书令庐陵修肃曰： 二相经营王室，志宁社稷，储贰之重，宜归时望，亲贤之举，非大王而谁？
+清河幼弱，未允众心，是以既升东宫，复赞籓国。
+今乘舆播越，二宫久旷，常恐氐羌饮马于泾川，蚁众控弦于霸水。
+宜及吉辰，时登储副，上翼大驾，早宁东京，下允黔首喁喁之望。 帝曰： 卿，吾之宋昌也。
+乃从之。
+光熙元年十一月庚午，孝惠帝崩。
+羊皇后以于太弟为嫂，不得为太后，催清河王覃入，已至尚书阁，侍中华混等急召太弟。
+癸酉，即皇帝位，大赦，尊皇后羊氏为惠皇后，居弘训宫，追尊所生太妃王氏为皇太后，立妃梁氏为皇后。
+十二月壬午朔，日有蚀之。
+己亥，封彭城王植子融为乐城县王。
+南阳王模杀河间王颙于雍谷。
+辛丑，以中书监温羡为司徒，尚书左仆射王衍为司空。
+己酉，葬孝惠皇帝于太阳陵。
+李雄别帅李离寇梁州。
+永嘉元年春正月癸丑朔，大赦，改元，除三族刑。
+以太傅、东海王越辅政，杀御史中丞诸葛玫。
+translation: 
+Emperor Xiaohuai, whose name was Chi and whose courtesy name was Fengdu, was the twenty-fifth son of Emperor Wu.
+In the first year of Taixi's reign, he was granted the title of Prince of Yuzhang County.
+When Emperor Hui was on the throne, members of the royal family were in chaos. The emperor was peaceful and self-restrained, thanked guests behind closed doors, paid no attention to worldly affairs, and concentrated on studying historical classics. He was very prestigious at that time.
+At first he served as a regular servant of Sanqi, but when King Zhao Sima Jian usurped the throne, he was imprisoned.
+After Sima Lun failed, he served as the captain of Shesheng.
+Gradually he was promoted to general of chariots and cavalry, and commander of all military forces in Qingzhou, but he did not go to the town.
+In the first year of Chenglei's reign, he was appointed as the general of Zhenbei and the governor of Yecheng garrison.
+In December Dinghai, he was established as the emperor's younger brother.
+The emperor believed that Sima Tan, the king of Qinghe, was the prince, so he was afraid and did not dare to take the responsibility.
+Kaisheng, a doctor in Lu, said: The two prime ministers manage royal affairs with the aim of stabilizing the country. The crown prince has an important position and should be carried out by someone who is favored by the public. To recommend worthy people, who else but the king can do it?
+King Qinghe was young and weak, and was not popular with everyone, so he entered the East Palace and returned to the feudal kingdom as King Qinghe.
+Nowadays, the emperor is homeless, and the second palace has been empty for a long time. He is often worried that the Di and Qiang people will attack him, and the enemies like ants will come to the shore of the river to show off their power.
+He should take advantage of the auspicious time and ascend to the position of crown prince in time, so that he can assist the emperor and pacify the house of Sesai as soon as possible, and satisfy the people's sincere and urgent wishes. Emperor Huai said: You are really my Song Ken.
+So he followed Xiu Su's advice.
+In the eleventh month of the first year of Guangya, Chu Zhao passed away.
+Queen Jian thought that she was just a sister-in-law to the crown prince and could not be the queen mother, so she urged Qinghe King Sima Tan to enter the palace. She had already arrived at Shangshuhe, and Shi Zhonghuahun and others hurriedly summoned the crown prince.
+Guiyou, that is, the emperor, granted amnesty to the world, honored Queen Yang as Queen Hui, and allowed her to live in Hongxun Palace. After honoring her biological mother, Princess Wang, as the Empress Dowager, she established the concubine as the Queen.
+On the first day of Renwu, there will be a solar eclipse.
+In Jihai, Sima Rong, the son of Dan Zhouchui, the king of Yue, was granted the title of King of Lecheng County.
+Sima Mo, who pressed his eyes directly, killed Sima Yi, the king of Hejian, in Yongzhao.
+Xin Chou appointed Zhongshu Jian as Situ, and Shangshu Zuopushe Wang Qu as Sikong.
+Jiyou buried Emperor Xiaohui in Zhukenqiu.
+Kui Bao's general Kui Zheng invaded Luan Ye.
+On the first day of spring in the first year of Yongjia, on the first day of the first lunar month, Guichou Shuo, a general amnesty was granted to the whole country, the reign name was changed, and the punishment of the three clans of Lian was abolished.
+He asked Taifu and Shuhai King Sima Yue to assist the government and killed Zhuge Mei, the censor Zhongcheng.
+
+summary:
+summary line 0: Emperor Xiaohuai, named Sima Chi, was the twenty-fifth son of Emperor Wu. He was made Prince of Yuzhang in the first year of Taixi. During Emperor Hui's reign, amid royal chaos, he remained peaceful and reclusive, studying classics and gaining prestige. He served as a regular attendant but was imprisoned when Sima Jian usurped the throne. After Sima Lun's failure, he held various military posts, including general of chariots and cavalry. In the first year of Chenglei, he became general of Zhenbei and governor of Yecheng. In December, he was made emperor's younger brother but feared taking responsibility due to Sima Tan being prince. Doctor Kaisheng advised him to accept the crown prince role to stabilize the state, and he eventually ascended.
+
+Chunk 1: 
+original: 
+二月辛巳，东莱人王弥起兵反，寇青、徐二州，长广太守宋罴、东牟太守庞伉并遇害。
+三月己未朔，平东将军周馥斩送陈敏首。
+丁卯，改葬武悼杨皇后。
+庚午，立豫章王诠为皇太子。
+辛未，大赦。
+庚辰，东海王越出镇许昌。
+以征东将军、高密王简为征南大将军、都督荆州诸军事，镇襄阳；改封安北将军、东燕王腾为新蔡王、都督司冀二州诸军事，镇鄴；以征南将军、南阳王模为征西大将军、都督秦雍梁益四州诸军事，镇长安。
+并州诸郡为刘元海所陷，刺史刘琨独保晋阳。
+夏五月，马牧帅汲桑聚众反，败魏郡太守冯嵩，遂陷鄴城，害新蔡王腾。
+烧鄴宫，火旬日不灭。
+又杀前幽州刺史石鲜于乐陵，入掠平原，山阳公刘秋遇害。
+洛阳步广里地陷，有二鹅出，色苍者冲天，白者不能飞。
+建宁郡夷攻陷宁州，死者三千余人。
+秋七月己酉朔，东海王越进屯官渡，以讨汲桑。
+己未，以平东将军、琅邪王睿为安东将军、都督扬州江南诸军事、假节，镇建鄴。
+八月己卯朔，抚军将军苟晞败汲桑于鄴。
+甲辰，曲赦幽、并、司、冀、兗、豫等六州。
+分荆州、江州八郡为湘州。
+九月戊申，苟晞又破汲桑，陷其九垒。
+辛亥，有大星如日，小者如斗，自西方流于东北，天尽赤，俄有声如雷。
+始修千金堨于许昌以通运。
+冬十一月戊申朔，日有蚀之。
+甲寅，以尚书右仆射和郁为征北将军，镇鄴。
+十二月戊寅，并州人田兰、薄盛等斩汲桑于乐陵。
+甲午，以前太傅刘寔为太尉。
+庚子，以光禄大夫、延陵公高光为尚书令。
+东海王越矫诏囚清河王覃于金墉城。
+癸卯，越自为丞相。
+以抚军将军苟晞为征东大将军。
+二年春正月丙子朔，日有蚀之，日有蚀之。
+translation: 
+In the second month of Xinsi, Wang Mi from Donglai rebelled and invaded Qingzhou and Xuzhou. Song Ba, the governor of Changguang, and Pang and his wife, the governor of Dongmou, were both killed.
+On the first day of the third month, Pingshu General Zhou Fu beheaded Chen Min and sent him to him.
+Ding Mao reburied Empress Wu and Yang.
+In Gengwu, Sima Quan, the king of Yuzhang, was made the crown prince.
+Xin Wei, grant amnesty to the world.
+In Gengchen, Sima Yue, King of Shuhai, came out of the capital to guard Xuchang.
+Sima Jian, the general of Zhengdong and King of Gaomi, was appointed as the general of Zhengnan, the governor of Jingzhou's military forces, and guarded Xiangyang; the general of Anbei and Sima Teng, king of Shuyan, was appointed as the new king of Cai, the governor of Jizhou military, and guarded Ye; the general of Zhengnan and Nanyang King Sima Mo was appointed as the general of Zhengxi, the governor of Qin Yongliang, and the military of Yizhou, guarding Chang'an.
+All the counties in Bingzhou were captured by Liu Yuanhai, and only Jinyang was defended by the governor Liu Kun.
+In the fifth month of summer, Marshal Ma Mu Ji Sang gathered a crowd to rebel and defeated Feng Song, the prefect of Wei County. He then captured Yecheng and killed Sima Teng, the king of Xincai.
+The Ye Palace was burned down and the fire continued for ten days.
+He also killed Shi Shi, the former governor of Youzhou, in Leling, and went into the plains to plunder. Liu Qiu, the Duke of Shanyang, was killed.
+The ground in Buguangli, Luoyang, sank, and two geese emerged. The pale one soared into the sky, while the white one could not fly.
+The Yi people from Jianning County captured Ningzhou City and killed more than 3,000 people.
+On the first day of the seventh month in autumn, Sima Yue, king of Shuhai, stationed in Guandu, preparing to attack Jisang.
+Before long, he appointed General Pingdong and King Sima Rui of Langxie as General Andong and Commander-in-Chief of the military affairs in Yangzhou and Jiangnan. He was temporarily in charge of the festival and guarded Jianye.
+On the first day of the eighth lunar month, Gou Xi, the general of the Fu army, defeated Ji Sang in Ye.
+In Jiachen, six states including You, Bing, Si, Ji, Yan, and Liao were granted amnesty.
+The eight counties in Jingzhou and Jiangzhou were divided into Xiangzhou.
+In the ninth month of Wushen, Gou Xi defeated Ji Sang again and captured nine of his fortresses.
+In Xinhai, there were big stars like the sun and small stars like buckets, flowing from the west to the northeast. The sky turned red, and soon there was a sound like thunder.
+Construction of Wangjin Fort began in Jiangdan to facilitate transportation.
+There is a solar eclipse on the first day of Wushen lunar month in the eleventh month of winter.
+In Jiayin, Shangshu Youpushe and Yu were appointed as generals in the northern expedition to guard Ye.
+On the 12th day of the twelfth month of the lunar month, Tian Lan and Bo Sheng from the state were sent to kill Ji Sang in Leling.
+In the Jiawu period, Liu Shi, the former Taifu, was appointed as Taiwei.
+Gengzi appointed Dr. Guanglu and Duke Yanling Zhili as ministers.
+Moyue of Sejulong falsely told Shaoshu that Sima Tan, king of Zhahe, was imprisoned in Jinyong City.
+Guimao, Si District Yue proclaimed himself prime minister.
+General Gou Xi of the Fu Army was appointed as the General of the Conquest of the East.
+There was a solar eclipse on the first day of the first lunar month in the spring of the second year. Ding Wei, grant amnesty to the world.
+
+summary:
+summary line 1: In the first year of Guangya, after Chu Zhao's death, Queen Jian urged Sima Tan to enter the palace, but the crown prince was summoned instead. The emperor granted amnesty, honored Queen Yang as Queen Hui, and his mother as Empress Dowager. A solar eclipse occurred, and Sima Rong was made King of Lecheng. Sima Mo killed Sima Yi. Various officials were appointed, and Emperor Xiaohui was buried. Kui Zheng invaded Luan Ye. In the first year of Yongjia, a general amnesty was declared, and Sima Yue was asked to assist the government. Wang Mi rebelled, invading Qingzhou and Xuzhou. Zhou Fu beheaded Chen Min. Sima Quan was made crown prince. Sima Yue guarded Xuchang, and other kings were assigned to guard key cities. Liu Yuanhai captured most of Bingzhou. Ji Sang rebelled, killing Sima Teng and others, and burning Ye Palace. A ground sinkhole in Luoyang released two geese. Yi people killed over 3,000 in Ningzhou. Sima Yue prepared to attack Ji Sang. Gou Xi defeated Ji Sang, and six prefectures were granted amnesty. Jingzhou and Jiangzhou were divided into Xiangzhou. Gou Xi defeated Ji Sang again. A large star fell, and thunder sounded. Wangjin Fort was built. Solar eclipses occurred. Tian Lan killed Ji Sang. Liu Shi was made Taiwei. Sima Tan was imprisoned. Sima Yue became prime minister. Gou Xi was made general.
+
+Chunk 2: 
+original: 
+三月，东海王越镇鄄城。刘元海侵汲郡，略有顿丘、河内之地。
+王弥寇青、徐、兗、豫四州。
+夏四月丁亥，入许昌，诸郡守将皆奔走。
+五月甲子，弥遂寇洛阳，司徒王衍帅众御之，弥退走。
+秋七月甲辰，刘元海寇平阳，太守宋抽奔京师，河东太守路述力战，死之。
+十一月乙巳，尚书令高光卒；丁卯，以太子少傅荀籓为尚书令。
+己酉，石勒寇鄴，魏郡太守王粹战败，死之。
+十二月辛未朔，大赦。
+立长沙王乂子硕为长沙王，鲜为临淮王。
+三年春正月甲午，彭城王释薨。
+三月戊申，征南大将军、高密王简薨。
+以尚书左仆射山简为征南将军、都尉荆湘交广等四州诸军事，司隶校尉刘暾为尚书左仆射。
+丁巳，东海王越归京师。
+乙丑，勒兵人宫，于帝侧收近臣中书令缪播、帝舅王延等十余人，并害之。
+丙寅，曲赦河南郡。
+丁卯，太尉刘寔请老，以司徒王衍为太尉。
+东海王越领司徒。
+刘元海冠黎阳，遣车骑将军王堪击之，王师败绩于延津，死者三万余人。
+大旱，江、汉、河、洛皆竭，可涉。
+夏四月，左积弩将军硃诞叛奔于刘元海。
+石勒攻陷冀州郡县百余壁。
+秋七月戊辰，当阳地裂三所，各广三丈，长三百余步。
+辛未，平阳人刘芒荡自称汉后，诳诱羌戎，僭帝号于马兰山。
+支胡五斗叟、郝索聚众数千为乱，屯新丰，与芒荡合党。
+刘元海遣子聪及王弥寇上党，围壶关。
+并州刺史刘琨使兵救之，为聪所败。
+淮南内史王旷、将军施融、曹超及聪战，又败，超、融死之。
+上党太守庞淳以郡降贼。
+九月丙寅，刘聪围浚仪，遣平北将军曹武讨之。
+丁丑，王师败绩。
+东海王越人保京城。
+聪至西明门，越御之，战于宣阳门外，大破之。
+石勒寇常山，安北将军王浚使鲜卑骑救之，大破勒于飞龙山。
+征西大将军、南阳王模使其将淳于定破刘芒荡、五斗叟，并斩之。
+使车骑将军王堪、平北将军曹武讨刘聪，王师败绩，堪奔还京师。
+李雄别帅罗羡以梓潼归顺。
+刘聪攻洛阳西明门，不克。
+宜都夷道山崩，荆、湘二州地震。
+冬十一月，石勒陷长乐，安北将军王斌遇害。因屠黎阳。
+乞活帅李恽、薄盛等帅众救京师，聪退走。
+恽等又破王弥于新汲。
+十二月乙亥，夜有白气如带，自地升天，南北各二丈。
+四年春正月乙丑朔，大赦。
+二月，石勒袭鄄城，兗州刺史袁孚战败，为其部下所害。
+勒又袭白马，车骑将军王堪死之。
+李雄将文硕杀雄大将军李国，以巴西归顺。
+戊午，吴兴人钱璯反，自称平西将军。
+三月，丞相仓曹属周帅乡人讨璯，斩之。
+translation: 
+In the second month of Xinmao, Sima Qin, king of Qinghe, was killed by Sima Yue, king of Donghai. Gengzi, Huqin invaded Xiaodan, and Anbei general Tu attacked and defeated him.
+In March, Sima Yue, King of Shuhai, guarded Juancheng. Sleep invades the feet and occupies the area of ​​pulling and chattering. The title infringes on the four states of Yi, Tu, Yan and Tu.
+In the fourth month of summer, Dinghai entered Xu Dan, and all the generals stationed in the counties fled.
+In the fifth month of Jiazi, Wang Jiang then invaded Haoshi. Situ Gongqian led his troops to resist, and Wang You withdrew his troops.
+On the first day of the seventh month in autumn, Liu Wuji invaded Naodang, and the prefect Secuo fled to the capital. The prefect Mi Dengshu fought hard and died in the battle.
+In the eighth month of Dinghai, Sima Yue, king of Shuhai, moved from Jianqiu to Yimeng. In September, Huqin invaded Longzhu, and Renthi, the general who conquered the north, fled from Ye to Qiquang. In the winter of October, during the Jiaxu period, Xingwutu assumed the title of emperor in the guard area and was still called Xuan.
+In November Yisi, Shangshu Ling Gao Guang died; in Jiyou, Shi Le invaded Ye; Wang Zheng, the prefect of Yun and Deng, was defeated and died in the battle.
+Ding Mao appointed Prince Shaofu Jipeng as Shangshu Ling. On the first day of the Xinwei lunar month in December, a general amnesty will be granted to the whole world.
+Sima Shuo, the son of Sima Yi, the king of Changsha, was made Kenlanwa, and Sima Shi was the king of Linhuai.
+In the spring of the first month of the third year of Jiawu, Sima Shi, the king of Pengcheng, passed away.
+In the third month of Wushen, Sima Jian, the general who conquered the south and the king of Gaomi, passed away.
+He appointed Shangshu Zuopushe Shan Jian as the general of the southern expedition and the governor of the military in the four states of Jing, Xiang, Kui, and Lu. He also appointed Liu Tun, the captain of Sili school, as Shangshu Zuopushe.
+Ding Si, Sima Yue, King of the East China Sea, returned to the capital.
+Yi Chou. He led troops into the palace, captured close ministers Zhongshu Ling Longzhong, the emperor's uncle Gong Yan and more than ten people from the emperor's side, and killed them all.
+Bingyin, amnesty and return to Yixing.
+On Ding Mao, Taiwei Liu Shi requested to retire and appointed Situ Wang Yan as Taiwei.
+Sima Yue, King of the East China Sea, also served as Situ.
+Liu Yuanhai invaded Liyang and sent chariot general Wang Kan to attack him. Wang Kan's troops were defeated in Yanjin, and more than 30,000 people died.
+There is a severe drought, and the Yangtze River, Han River, Yellow River, and Luoshui River have little water and can be waded across.
+In April of summer, Zuo Jinu General Zhu Dan defected to Liu Yuanhai.
+Shi Le captured more than a hundred fortresses in various counties in Jizhou.
+On the Wuchen day of the seventh month in autumn, the ground in Dangyang area cracked in three places, each three feet wide and more than three hundred steps long.
+In Xinwei, Liu Mangdang, a native of Pingyang, claimed to be a descendant of the Han royal family, deceived the Qiang Rong tribe, and claimed the title of emperor in Malan Mountain.
+Wudaosou and Hao Suo, who supported the Hu, gathered thousands of people to rebel, stationed in Xinfeng, and formed a party with Mangdang.
+Liu Yuanhai sent his sons Liu Cong and Wang Mi to invade Shangdang and besieged Huguan.
+Liu Kun, the governor of Bingzhou, sent troops to rescue, but was defeated by Liu Cong.
+Huainan internal history Wang Kuang, general Shi Rong, Cao Chao and Liu Cong fought and were defeated again. Cao Chao and Shi Rong died in the battle.
+Pang Chun, the governor of Shangdang, surrendered the county and the city to rebel against the traitors.
+In September Bingyin, Liu Cong besieged Junyi and sent Pingbei General Cao Wu to attack Liu Cong.
+Ding Chou, the army was defeated.
+Sima Yue, King of Shuhai, came to defend the capital.
+Liu Cong attacked Ximing Gate, but Sima Yue, King of Shuhai, resisted and fought outside Xuanyang Gate, defeating Liu Cong.
+Shi Le invaded Changshan. Anbei general Wang Jun asked the Xianbei cavalry to rescue him and defeated Shi Le at Feilong Mountain.
+Sima Mo, the general who conquered the west and king of Nanyang, sent his general Chun Yuding to defeat Liu Mangdang and Wu Dousou and kill them all.
+He sent chariot general Wang Kan and Pingbei general Cao Wu to attack Liu Cong. The officers and soldiers were defeated, and Wang Kan fled back to the capital.
+Li Xiong's deputy commander Luo Xian came to submit to Zitong.
+Liu Cong attacked Ximing Gate in Luoyang but failed.
+A landslide occurred in Yidao, Yidu, and there were earthquakes in Jing and Xiang prefectures.
+In November of winter, Shile captured Changle, Anbei general Wang Bin was killed, and massacred in Liyang.
+Refugee leaders Li Pang, Bo Sheng and others led everyone to rescue the capital, but Liu Cong retreated and fled.
+Li Pang and others defeated Wang Mi again in Xinji.
+In Yihai, December, at night there is white air like a belt, rising from the ground to the sky, two feet in length in the north and south.
+On the first day of the first month of the fourth year of spring, Yi Chou, a general amnesty was granted to the whole world.
+In February, Shi Le attacked Juancheng. Yuan Fu, the governor of Yanzhou, was defeated and killed by his men.
+Shi Le attacked Baima again, and Wang Kan, the chariot and cavalry general, was killed in battle.
+Li Xiong's general Wenshuo killed Li Xiong's general Li Guo and submitted to Brazil.
+In Wuwu, Qian Fen, a native of Wuxing, rebelled and called himself General Pingxi.
+In March, Prime Minister Cang Cao, who was subordinate to Zhou Quan, led his countrymen to attack Qian Wei and killed him.
+
+summary:
+summary line 2: In the second year, a solar eclipse and amnesty occurred. Sima Qin was killed by Sima Yue. Huqin invaded but was defeated. Sima Yue guarded Juancheng. Wang Jiang invaded Haoshi. Liu Wuji invaded Naodang. Sima Yue moved to Yimeng. Huqin invaded Longzhu. Xingwutu declared himself emperor. Shi Le invaded Ye. A general amnesty was declared. Sima Shuo and Sima Shi were made kings. In the third year, Sima Shi died. Sima Jian died. Sima Yue returned to the capital, killed close ministers, and amnesty was declared. Liu Shi retired. Sima Yue became Situ. Liu Yuanhai invaded Liyang, and Wang Kan was defeated. A severe drought occurred. Zhu Dan defected to Liu Yuanhai. Shi Le captured fortresses in Jizhou. Ground cracks appeared in Dangyang. Liu Mangdang declared himself emperor. Wudaosou rebelled. Liu Cong besieged Huguan. Liu Kun was defeated. Pang Chun surrendered. Liu Cong besieged Junyi. Sima Yue defended the capital and defeated Liu Cong. Shi Le invaded Changshan. Wang Jun defeated Shi Le. Sima Mo defeated Liu Mangdang. Wang Kan was defeated. Li Xiong's deputy submitted. Liu Cong attacked Luoyang but failed. Landslides and earthquakes occurred. Shi Le captured Changle and massacred Liyang. Refugee leaders rescued the capital. A white air appeared in the sky.
+
+Chunk 3: 
+original: 
+夏四月，大水。
+将军祁弘破刘元海将刘灵曜于广宗。李雄陷梓潼。
+兗州地震。
+五月，石勒寇汲郡，执太守胡宠，遂南济河，荥阳太守裴纯奔建鄴。
+大风折木。
+地震。
+幽、并、司、冀、秦、雍等六州大蝗，食草木，牛马毛皆尽。
+六月，刘元海死，其子和嗣伪位，和弟聪杀和而自立。
+秋七月，刘聪从弟曜及其将石勒围怀，诏征虏将军宋抽救之，为曜所败，抽死之。
+九月，河内人乐仰执太守裴整叛，降于石勒。
+徐州监军王隆自下邳弃军奔于周馥。
+雍州人王如举兵反于宛，杀害令长，自号大将军、司雍二州牧，大掠汉沔，新平人庞寔、冯翊人严嶷、京兆人侯脱等各起兵应之。
+征南将军山简、荆州刺史王澄、南中郎将杜蕤并遣兵援京师，及如战于宛，诸军皆大败；王澄独以众进至沶口，众溃而归。
+冬十月辛卯，昼昏，至于庚子。
+大星西南坠，有声。
+壬寅，石勒围仓垣，陈留内史王赞击败之，勒走河北。
+壬子，以骠骑将军王浚为司空，平北将军刘琨为平北大将军。
+京师饥。
+东海王越羽檄征天下兵，帝谓使者曰： 为我语诸征镇，若今日，尚可救，后则无逮矣。
+时莫有至者。
+石勒陷襄城，太守崔旷遇害，遂至宛。
+王浚遣鲜卑文鸯帅骑救之，勒退。
+浚又遣别将王申始讨勒于汶石津，大破之。
+十一月甲戌，东海王越帅众出许昌，以行台自随。
+宫省无复守卫，荒馑日甚，殿内死人交横，府寺营署并掘堑自守，盗贼公行，桴鼓之音不绝。
+越军次项，自领豫州牧，以太尉王衍为军司。
+丁丑，流氐隗伯等袭宜都，太守嵇晞奔建鄴。
+translation: 
+In April of summer, there are floods.
+General Qi Hong defeated Liu Yuanhai's general Liu Lingyao at Guangzong. Li Xiong captured Zitong.
+An earthquake occurred in Yanzhou.
+In May, Shi Le invaded Ji County and captured Hu Chong, the prefect. He then crossed the Yellow River southward, while Pei Chun, the prefect of Rongyang, fled to Jianye.
+Strong winds broke trees.
+earthquake.
+Locusts infested the six prefectures of You, Bing, Si, Ji, Qin, and Yong, eating up all the grass, trees, cattle, and horses.
+In June, Liu Yuanhai died and his son Liu He took over the throne of the pseudo-emperor. Liu He's younger brother Liu Cong murdered Liu He and proclaimed himself the pseudo-emperor.
+In the seventh month of autumn, Liu Cong's younger brother Liu Yao and his general Shi Le besieged Huai. Xia Shao asked the conquest general Song Tuo to rescue them, but they were defeated by Liu Yao and Song Tuo died in the battle.
+In September, the Hanoi people rebelled against the capture of the prefect Pei Zheng and surrendered to Shi Le.
+Wang Long, the supervisor of the Xuzhou army, abandoned his army from Xiapi and fled to Zhou Fu.
+Wang Ru, a native of Yongzhou, first raised troops to rebel in Wan, killed the local governor, called himself a general and the pastor of Siyong Erzhou, and looted the Hanmio area. Ponce of Xinping, Yan Yi of Feng Yi, and Hou Tuo of Jingzhao each raised their own troops to respond to him.
+Shan Jian, the general who conquered the south, Wang Cheng, the governor of Jingzhou, and Du Rui, the general of Nanzhonglang, all sent troops to rescue the capital. They fought with Wang Ru in Wan and all their armies were defeated. Only Wang Cheng led his troops to Luokou and returned because his troops were defeated.
+In the tenth month of winter, the days are dark and dark, lasting for ten days until Gengzi Day.
+There is a big star falling to the southwest and there is a sound.
+In Renyin, Shi Le besieged Cangyuan. Wang Zan, Chen Liu's internal history officer, defeated him and Shi Le fled to the north of the Yellow River.
+Renzi appointed Hussar General Wang Jun as Sikong and Pingbei General Liu Kun as Pingbei General.
+Famine in the capital.
+Sima Yue, King of the East China Sea, issued a letter with feathers to urgently recruit the troops from all over the world. The emperor said to the envoys: Tell the generals for me that if you send troops immediately, you can still save us. If you delay, it will be too late.
+No general came to rescue him at that time.
+Shi Le captured Xiangcheng and the prefect Cui Kuang was killed. Then he attacked Wan.
+Wang Jun sent Xianbei Wenyang to lead the cavalry to rescue Nahuo, but Shi Le retreated.
+Wang Jun also sent his general Wang Shenshi to attack Shile in Wenshijin and defeated Shile.
+In November of Jiaxu, King Sima Yue of Shuhai led his troops to leave Xuchang and asked Xingtai to follow him.
+The palace offices no longer have guards, famine and famine are becoming more and more serious day by day, the palaces and palaces are littered with dead people, the government offices, temples, barracks, etc. all dig trenches to defend themselves, thieves and robbers are openly operating, and the sound of alarm drums is endless.
+Sima Yue, King of Shuhai, stationed his troops in Xiang. He concurrently served as the shepherd of Yuzhou, and asked Wang Yan, the Taiwei, to serve as military commander.
+Ding Chou, the wandering Di people Kai Bo and others attacked Yidu, and the prefect Ji Xi fled to Jianye.
+
+summary:
+summary line 3: In the fourth year, a general amnesty was declared. Shi Le attacked Juancheng and Baima, killing officials. Qian Fen rebelled but was killed. Floods occurred. Qi Hong defeated Liu Lingyao. Earthquakes and locusts infested six prefectures. Liu Yuanhai died, and Liu Cong became emperor. Liu Yao and Shi Le besieged Huai. Song Tuo died. Hanoi people surrendered to Shi Le. Wang Ru rebelled in Wan. Shan Jian and others were defeated. Days were dark for ten days. A large star fell. Shi Le besieged Cangyuan but was defeated. Wang Jun and Liu Kun were promoted. Famine struck the capital. Sima Yue urgently recruited troops, but no one came. Shi Le captured Xiangcheng and attacked Wan. Wang Jun defeated Shi Le. Sima Yue left Xuchang. The capital lacked guards, and chaos ensued. Sima Yue stationed in Xiang. Di people attacked Yidu. Wang Shenshi defeated Liu Yao. Zhou Fu welcomed the emperor to Shouyang but was attacked by Sima Yue. A plague killed over 3,000 in Xiangyang. Zhang Gui was made general. Gou Xi defeated Cao Yi. Li Hong caused trouble.
+
+Chunk 5: 
+original: 
+至是饥甚，人相食，百官流亡者十八九。
+帝召群臣会议，将行而警卫不备。
+帝抚手叹曰： 如何会无车舆！
+乃使司徒傅祗出诣河阴，修舟楫，为水行之备。
+朝士数人导从。
+帝步出西掖门。至铜驰街，为盗所掠，不得进而还。
+六月癸未，刘曜、王弥、石勒同寇洛川，王师频为贼所败，死者甚众。
+庚寅，司空荀籓、光禄大夫荀组奔轘辕，太子左率温几夜开广莫门奔小平津。
+丁酉、刘曜、王弥入京师。
+帝开华林园门，出河阴藕池，欲幸长安，为曜等所追及。
+曜等遂焚烧宫庙，逼辱妃后，吴王晏、竟陵王楙、尚书左仆射和郁、右仆射曹馥、尚书闾丘冲、袁粲、王绲、河南尹刘默等皆遇害，百官士庶死者三万余人。
+帝蒙尘于平阳，刘聪以帝为会稽公。
+荀籓移檄州镇，以琅邪王为盟主。
+豫章王端东奔苟晞，晞立为皇太子，自领尚书令，具置官属，保梁国之蒙县。
+百姓饥俭，米斛万余价。
+秋七月，大司马王浚承制假立太子，置百官，署征镇。
+石勒寇谷阳，沛王滋战败遇害。
+八月，刘聪使子粲攻陷长安，太尉、征西将军、南阳王模遇害，长安遗人四千余家奔汉中。
+九月癸亥，石勒袭阳夏，至于蒙县，大将军苟晞、豫章王端并没于贼。
+冬十月，勒寇豫州，诸军至江而还。
+十一月，猗卢寇太原，平北将军刘琨不能制，徙五县百姓于新兴，以其地居之。
+六年春正月，帝在平阳。
+刘聪寇太原。
+故镇南府牙门将胡亢聚众寇荆土，自号楚公。
+二月壬子，日有蚀之。
+癸丑，镇东大将军、琅邪王睿上尚书，檄四方以讨石勒。
+大司马王浚移檄天下，称被中诏承制，以荀籓为太尉。
+汝阳王熙为石勒所害。
+translation: 
+When they were sent, they were extremely hungry, and people were eating people. Nine out of ten people in the palace were exiled.
+The emperor convened the ministers to discuss and prepared to travel, but there were no guards.
+The emperor rubbed his hands and sighed: "Why are there no vehicles?"
+He asked Situ Fu Zhi to go out of the city to Heyin to repair the boats and prepare for the waterway.
+Dozens of officials from the DPRK and China accompanied him.
+The emperor walked out of Xiyemen and went to Tongchi Street. He was robbed by robbers and could not move forward and returned to the palace.
+In Guiwei, Liu Yao, Wang Mi, and Shi Le invaded Luochuan. The imperial army was frequently defeated by the rebels, and many people died.
+In the sixth month of Gengyin, Sikong Xunfan and Guanglu doctor Xun group fled to Yuanyuan. Prince Zuo led Wen Ji to open Guangmo gate at night and fled to Xiaopingjin.
+Ding You, Liu Yao and Wang Mi entered the capital.
+The emperor opened the gate of Hualin Garden and passed by Heyin Lotus Pond. He wanted to go to Chang'an, but Liu Yao and others caught up with him.
+Liu Yao burned the palaces and temples, forced and insulted the concubines and queens. King Sima Yan of Wu, King Sima Suan of Jingling, Shangshu Zuopushe Heyu, Youpushe Caofu, Shangshu Luqiuchong, Yuan Can, Wang Nui, Henan Yin Liumo and others were all killed. More than 30,000 officials, officials and common people died.
+The emperor was captured in Pingyang, and Liu Cong made the emperor the Duke of Kuaiji.
+Xun Fan sent a message to the military towns in various states, with King Langxie as the leader of the alliance.
+Sima Duan, the king of Yuzhang, fled east to Gou Xi, who made him the crown prince. He also served as Shangshu Ling and set up various government agencies to garrison Meng County in Liang State.
+The people were hungry and the harvest was bad. The price of rice was more than ten thousand yuan per bushel.
+In the seventh month of autumn, Grand Sima Wang Jun followed the emperor's will and temporarily established the crown prince, appointed hundreds of officials, and arranged various military towns.
+Shi Le invaded Guyang, and King Sima Zi of Pei was defeated and killed.
+In August, Liu Cong sent his son Liu Can to capture Chang'an. Taiwei, General Zhengxi, and Nanyang King Sima Mo were killed. More than 4,000 people from Chang'an fled to Hanzhong.
+In the ninth month of Guihai, Shi Le attacked Yangxia and reached Meng County. General Gou Xi and King Sima Duan of Yuzhang were both killed by the rebels.
+In the tenth month of winter, Shi Le invaded all counties in Yuzhou and did not return until he reached the Yangtze River.
+In November, Yilu invaded Taiyuan, and Pingbei General Liu Kun could not control it. He moved the people of five counties to Xinxing and let them live there.
+In the first month of the spring of the sixth year, the emperor was in Pingyang.
+Liu Cong invaded Taiyuan.
+Hu Kang, the general of Yamen in the former Zhennan Prefecture, gathered a crowd to invade the Jingzhou area and named himself Duke of Chu.
+In the second month of Renzi, there is a solar eclipse.
+In Guichou, Sima Rui, the general of Zhendong and king of Langxie, wrote to the minister, advocating issuing a proclamation to recruit soldiers and horses from all over the country to attack Shile.
+Wang Jun, the Grand Sima, forwarded a message to the world, claiming that he had accepted the palace edict, upheld the emperor's will, and appointed Xun Fan as Taiwei.
+Sima Xi, king of Ruyang, was killed by Shi Le.
+
+summary:
+summary line 4: In the fifth year, the emperor secretly ordered Gou Xi to attack Sima Yue. Gou Xi was defeated. Sima Yue sent troops to attack Gou Xi. Shi Le invaded Jiangxia. Li Xiong captured Fucheng. Du Sou rebelled. Sima Rui attacked Zhou Fu. Sima Qian died. Shi Le invaded Runan. Xia Shao announced Sima Yue's crimes. Sima Yue died. Shi Le chased his coffin, killing many officials and princes. Wang Sang and Leng Dao captured Xuzhou. Refugees rebelled in Xiangzhou. Wang Jun was promoted. Sima Yue left Yin Pantao behind. Gou Xi proposed moving the capital, but ministers refused. Famine worsened, and people ate each other. The emperor tried to leave but was robbed. Liu Yao, Wang Mi, and Shi Le invaded Luochuan. The imperial army was defeated. Xun Fan and others fled. Liu Yao and Wang Mi entered the capital. The emperor tried to flee but was captured. Liu Yao burned palaces and killed many. The emperor was taken to Pingyang and made Duke of Kuaiji. Xun Fan sent messages to military towns. Sima Duan was made crown prince. Famine continued. Wang Jun established a crown prince. Shi Le invaded Guyang. Liu Can captured Chang'an, killing Sima Mo. Shi Le attacked Yangxia, killing Gou Xi and Sima Duan. Shi Le invaded Yuzhou. Yilu invaded Taiyuan. Liu Kun moved people.
+
+Chunk 6: 
+original: 
+夏四月丙寅，征南将军山简卒。
+秋七月，岁星、荧惑、太白聚于牛斗。
+石勒寇冀州。
+刘粲寇晋阳，平北将军刘琨遣部将郝诜帅众御粲，诜败绩，死之，太原太守高乔以晋阳降粲。
+八月庚戌，刘琨奔于常山。
+辛亥，阴平都尉董冲逐太守王鉴，以郡叛降于李雄。
+乙亥，刘琨乞师于猗卢，表卢为代公。
+九月己卯，猗卢使子利孙赴琨，不得进。
+辛巳，前雍州刺史贾疋讨刘粲于三辅，走之，关中小定，乃与卫将军梁芬、京兆太守梁综共奉秦王鄴为皇太子于长安。
+冬十月，猗卢自将六万骑次于盆城。
+十一月甲午，刘粲遁走，刘琨收其遗众，保于阳曲。
+是岁大疫。
+七年春正月，刘聪大会，使帝著青衣行酒。
+侍中庾珉号哭，聪恶之。
+丁未，帝遇弑，崩于平阳，时年三十。
+帝初诞，有嘉禾生于豫章之南昌。
+先是望气者云 豫章有天子气 ，其后竟以豫章王为皇太弟。
+在东宫，恂恂谦损，接引朝士，讲论书籍。
+及即位，始遵旧制，临太极殿，使尚书郎读时令，又于东堂听政。
+至于宴会，辄与群官论众务，考经籍。
+黄门侍郎傅宣叹曰： 今日复见武帝之世矣！
+秘书监荀崧又常谓人曰： 怀帝天姿清劭，少著英猷，若遭承平，足为守文佳主。
+而继惠帝扰乱之后，东海专政，无幽厉之衅，而有流亡之祸。
+孝愍皇帝讳鄴，字彦旗，武帝孙，吴孝王晏之子也。
+出继后伯父秦献王柬，袭封秦王。
+永嘉二年，拜散骑常侍、抚军将军。
+及洛阳倾覆，避难于荥阳密县，与舅荀籓、荀组相遇，自密南趋许颍。
+豫州刺史阎鼎与前抚军长史王毗、司徒长史刘畴、中书郎李昕及籓、组等同谋奉帝归于长安，而畴等中涂复叛，鼎追杀之，籓、组仅而获免。
+鼎遂挟帝乘牛车，自宛趣武关，频遇山贼，士卒亡散，次于蓝田。
+鼎告雍州刺史贾疋，疋遽遣州兵迎卫，达于长安，又使辅国将军梁综助守之。
+时有玉龟出霸水，神马鸣城南焉。六年九月辛巳，奉秦王为皇太子，登坛告类，建宗庙社稷，大赦。
+加疋征西大将军，以秦州刺史、南阳王保为大司马。
+贾疋讨贼张连，遇害，众推始平太守麹允领雍州刺史，为盟主，承制选置。
+建兴元年夏四月丙午，奉怀帝崩问，举哀成礼。
+壬申，即皇帝位，大赦，改元。
+以卫将军梁芬为司徒，雍州刺史麹允为使持节、领军将军、录尚书事，京兆大守索綝为尚书右仆射。
+石勒攻龙骧将军李恽于上白，恽败，死之。
+五月壬辰，以镇东大将军、琅邪王睿为侍中、左丞相、大都督陕东诸军事，大司马、南阳王保为右丞相、大都督陕西诸军事。
+又诏二王曰： 夫阳九百六之灾，虽在盛世，犹或遘之。
+translation: 
+In the fourth month of Xia Bingyin, General Shan Jian passed away.
+In the seventh month of autumn, Suixing, Yinghuo, and Taibai gather between the Ox and Diu constellations.
+Shi Le invaded Jizhou.
+Liu Can invaded Jinyang. Pingbei general Liu Kun sent his general Hao Yue to lead an army to resist Liu Can. Hao Yue was defeated and died in battle. Gao Qiao, the prefect of Taiyuan, surrendered Jinyang to Liu Can.
+In August Gengxu, Liu Kun fled to Changshan.
+In Jihai, Yinping Captain Dong Chong drove away the prefect Wang Jian, led the county to rebel and surrendered to Li Xiong.
+In the year of 1911, Liu Kun asked Yi Lu for reinforcements and recommended Yi Lu as the acting duke.
+On Ji Mao in the ninth month, Yilu sent his son Lisun to Liu Kun, but he could not reach it.
+Xin Si, the former governor of Yongzhou, Maizhen, attacked Liu Can in Sanfu and defeated him. Guanzhong became a little more stable, so he, General Liang Fen of the Wei, and Liang Zong, the prefect of Jingzhao, jointly honored the King of Qin, Sima Ye, as the crown prince in Chang'an.
+In the tenth month of winter, Yilu himself led 60,000 cavalry and garrisoned Yucheng.
+During the Sino-Japanese War in November, Liu Can quietly withdrew his troops and fled, while Liu Kun gathered his remaining troops and guarded Yangqu.
+In the same year, a great plague prevailed.
+In the first month of the spring of the seventh year, Liu Cong convened a banquet with ministers and asked the emperor to wear Tsing Yi and go back and forth to drink.
+The servant Yu Min howled and cried, and Liu Cong hated him.
+Ding Wei, the emperor was killed and died in Pingyang at the age of thirty.
+When the emperor was born, auspicious seedlings grew in Nanchang, Yuzhang County.
+Before that, the alchemist who observed the weather said that Yuzhang County had heaven and earth. Later, he became the crown prince as the king of Yuzhang.
+When he was in Shugong, he was respectful, cautious, humble and self-disciplined, socialized with court officials, and discussed history books.
+When he came to the throne, he began to follow the old system and went to Taiji Hall to have Shangshu Lang read out the political decrees formulated according to the seasons, and listened to politics in the East Hall.
+At every banquet, he always discussed various affairs with the ministers and studied the classics.
+Huangmen Shilang Fu Xuan exclaimed: Now we have seen the era of Emperor Wu again!
+Xun Song, the secretary supervisor, often told people: Emperor Huai's natural talents were elegant and beautiful, and he had outstanding talents since he was a child. If he encounters a peaceful era, he can definitely become a good monarch who abides by the old system.
+However, after Emperor Hui's disturbance and the dictatorship of King Shuhai, there was no disaster like King You and King Li of Zhou, but there was the disaster of exile.
+Emperor Xiaomin's name was Sima Ye, whose courtesy name was Chan'ao. He was the grandson of Genzao and the son of King Xiao of Wu, Sima Yan.
+He was adopted by his uncle Luwang Sima Dong, who later inherited the title of King of Painting.
+In the second year of Cheng Sai's reign, he was appointed as a regular servant of Sanqi and a general of Fujun.
+When Luoyang fell, he took refuge in Mi County, Rongyang, where he met his uncles Xun Fan and Xun Zu, and together they headed south from Mi County to Xuchang and Yingchuan.
+The governor of Yuzhou, Jian Ding, together with former Fu army chief Shi Wangbi, Situ chief Shi Liu Chou, Zhongshu Lang Li Xin, Xun Fan, Xun Zu and others jointly planned to serve the emperor and settle down in Chang'an. However, Liu Chou and others rebelled midway, and Yan Ding chased and killed them. Xun Fan and Xun Zu were lucky enough to escape death.
+Yan Ding took the emperor hostage and rode in an ox cart from Wan to Wuguan. He encountered bandits on the mountains many times, and the soldiers escaped dead and wounded, and temporarily settled in Lantian.
+Qin Ding informed the governor of Yongzhou, Jia Zong, and Jia Zong hurriedly sent troops from the state to meet the guards. Finally they arrived in Chang'an and asked General Liang Zong to assist in the guard.
+At that time, a jade turtle appeared in Bashui and a divine horse neighed in the south of the city. In the ninth month of the sixth year of Xinsi, King Qin was honored as the crown prince, went to the altar to offer sacrifices to heaven and the five emperors, established an ancestral temple and a shrine, and granted amnesty to the world.
+He also conferred the title of Great General to Conquer the West, and appointed Sima Bao, the governor of Qinzhou and King of Nanyang, as the Great Sima.
+Buying Zhuan attacked the traitor Zhang Lian and was killed. Everyone recommended Qu Yun, the prefect of Shihu, to concurrently serve as the governor of Yongzhou and the leader of the alliance. He would select people and appoint officials in accordance with the emperor's will.
+On Bingwu in the summer of April of the first year of Jianxing, I learned of the death of Emperor Huai, and held a mourning ceremony according to etiquette.
+Renshen ascended the throne as emperor, granted amnesty to the world, and changed his reign title.
+General Liang Fen of the Wei was appointed as Situ, Qu Yun, the governor of Yongzhou, was appointed as envoy Chijie, leading general and secretary of the Shangshu Shi, and Suo Sui, the prefect of Jingzhao, was appointed as the right servant of Shangshu.
+Shi Le attacked Longxiang General Li Tan in Shangbai, but Li Tan was defeated and died in battle.
+On Renchen in the fifth month, Sima Rui, the general of Zhendong and the king of Langxie, was appointed as the minister, prime minister of the left, and the chief military officer of Shaanxi Shu.
+He also issued an edict to these two kings: Speaking of disasters and bad luck, even in the heyday of the dynasty, we still sometimes encounter them.
+
+summary:
+summary line 5: In the sixth year, the emperor was in Pingyang. Liu Cong invaded Taiyuan. Hu Kang rebelled. A solar eclipse occurred. Sima Rui issued a proclamation. Wang Jun forwarded a message. Sima Xi was killed. Shan Jian died. Stars gathered. Shi Le invaded Jizhou. Liu Can invaded Jinyang. Liu Kun fled. Dong Chong surrendered to Li Xiong. Liu Kun asked Yilu for help. Yilu sent his son. Maizhen defeated Liu Can. Sima Ye was made crown prince. Yilu led cavalry. Liu Can fled. A great plague occurred. In the seventh year, Liu Cong humiliated the emperor. The emperor was killed at age 30. He was born with auspicious signs. He was respectful and studied history. As emperor, he followed old systems and discussed affairs with ministers. Fu Xuan praised him. Xun Song said he could have been a good monarch in peace. However, after Emperor Hui's disturbance, he faced exile.
+
+Chunk 6: 
+original: 
+夏四月丙寅，征南将军山简卒。
+秋七月，岁星、荧惑、太白聚于牛斗。
+石勒寇冀州。
+刘粲寇晋阳，平北将军刘琨遣部将郝诜帅众御粲，诜败绩，死之，太原太守高乔以晋阳降粲。
+八月庚戌，刘琨奔于常山。
+辛亥，阴平都尉董冲逐太守王鉴，以郡叛降于李雄。
+乙亥，刘琨乞师于猗卢，表卢为代公。
+九月己卯，猗卢使子利孙赴琨，不得进。
+辛巳，前雍州刺史贾疋讨刘粲于三辅，走之，关中小定，乃与卫将军梁芬、京兆太守梁综共奉秦王鄴为皇太子于长安。
+冬十月，猗卢自将六万骑次于盆城。
+十一月甲午，刘粲遁走，刘琨收其遗众，保于阳曲。
+是岁大疫。
+七年春正月，刘聪大会，使帝著青衣行酒。
+侍中庾珉号哭，聪恶之。
+丁未，帝遇弑，崩于平阳，时年三十。
+帝初诞，有嘉禾生于豫章之南昌。
+先是望气者云 豫章有天子气 ，其后竟以豫章王为皇太弟。
+在东宫，恂恂谦损，接引朝士，讲论书籍。
+及即位，始遵旧制，临太极殿，使尚书郎读时令，又于东堂听政。
+至于宴会，辄与群官论众务，考经籍。
+黄门侍郎傅宣叹曰： 今日复见武帝之世矣！
+秘书监荀崧又常谓人曰： 怀帝天姿清劭，少著英猷，若遭承平，足为守文佳主。
+而继惠帝扰乱之后，东海专政，无幽厉之衅，而有流亡之祸。
+孝愍皇帝讳鄴，字彦旗，武帝孙，吴孝王晏之子也。
+出继后伯父秦献王柬，袭封秦王。
+永嘉二年，拜散骑常侍、抚军将军。
+及洛阳倾覆，避难于荥阳密县，与舅荀籓、荀组相遇，自密南趋许颍。
+豫州刺史阎鼎与前抚军长史王毗、司徒长史刘畴、中书郎李昕及籓、组等同谋奉帝归于长安，而畴等中涂复叛，鼎追杀之，籓、组仅而获免。
+鼎遂挟帝乘牛车，自宛趣武关，频遇山贼，士卒亡散，次于蓝田。
+鼎告雍州刺史贾疋，疋遽遣州兵迎卫，达于长安，又使辅国将军梁综助守之。
+时有玉龟出霸水，神马鸣城南焉。六年九月辛巳，奉秦王为皇太子，登坛告类，建宗庙社稷，大赦。
+加疋征西大将军，以秦州刺史、南阳王保为大司马。
+贾疋讨贼张连，遇害，众推始平太守麹允领雍州刺史，为盟主，承制选置。
+建兴元年夏四月丙午，奉怀帝崩问，举哀成礼。
+壬申，即皇帝位，大赦，改元。
+以卫将军梁芬为司徒，雍州刺史麹允为使持节、领军将军、录尚书事，京兆大守索綝为尚书右仆射。
+石勒攻龙骧将军李恽于上白，恽败，死之。
+五月壬辰，以镇东大将军、琅邪王睿为侍中、左丞相、大都督陕东诸军事，大司马、南阳王保为右丞相、大都督陕西诸军事。
+又诏二王曰： 夫阳九百六之灾，虽在盛世，犹或遘之。
+translation: 
+In the fourth month of Xia Bingyin, General Shan Jian passed away.
+In the seventh month of autumn, Suixing, Yinghuo, and Taibai gather between the Ox and Diu constellations.
+Shi Le invaded Jizhou.
+Liu Can invaded Jinyang. Pingbei general Liu Kun sent his general Hao Yue to lead an army to resist Liu Can. Hao Yue was defeated and died in battle. Gao Qiao, the prefect of Taiyuan, surrendered Jinyang to Liu Can.
+In August Gengxu, Liu Kun fled to Changshan.
+In Jihai, Yinping Captain Dong Chong drove away the prefect Wang Jian, led the county to rebel and surrendered to Li Xiong.
+In the year of 1911, Liu Kun asked Yi Lu for reinforcements and recommended Yi Lu as the acting duke.
+On Ji Mao in the ninth month, Yilu sent his son Lisun to Liu Kun, but he could not reach it.
+Xin Si, the former governor of Yongzhou, Maizhen, attacked Liu Can in Sanfu and defeated him. Guanzhong became a little more stable, so he, General Liang Fen of the Wei, and Liang Zong, the prefect of Jingzhao, jointly honored the King of Qin, Sima Ye, as the crown prince in Chang'an.
+In the tenth month of winter, Yilu himself led 60,000 cavalry and garrisoned Yucheng.
+During the Sino-Japanese War in November, Liu Can quietly withdrew his troops and fled, while Liu Kun gathered his remaining troops and guarded Yangqu.
+In the same year, a great plague prevailed.
+In the first month of the spring of the seventh year, Liu Cong convened a banquet with ministers and asked the emperor to wear Tsing Yi and go back and forth to drink.
+The servant Yu Min howled and cried, and Liu Cong hated him.
+Ding Wei, the emperor was killed and died in Pingyang at the age of thirty.
+When the emperor was born, auspicious seedlings grew in Nanchang, Yuzhang County.
+Before that, the alchemist who observed the weather said that Yuzhang County had heaven and earth. Later, he became the crown prince as the king of Yuzhang.
+When he was in Shugong, he was respectful, cautious, humble and self-disciplined, socialized with court officials, and discussed history books.
+When he came to the throne, he began to follow the old system and went to Taiji Hall to have Shangshu Lang read out the political decrees formulated according to the seasons, and listened to politics in the East Hall.
+At every banquet, he always discussed various affairs with the ministers and studied the classics.
+Huangmen Shilang Fu Xuan exclaimed: Now we have seen the era of Emperor Wu again!
+Xun Song, the secretary supervisor, often told people: Emperor Huai's natural talents were elegant and beautiful, and he had outstanding talents since he was a child. If he encounters a peaceful era, he can definitely become a good monarch who abides by the old system.
+However, after Emperor Hui's disturbance and the dictatorship of King Shuhai, there was no disaster like King You and King Li of Zhou, but there was the disaster of exile.
+Emperor Xiaomin's name was Sima Ye, whose courtesy name was Chan'ao. He was the grandson of Genzao and the son of King Xiao of Wu, Sima Yan.
+He was adopted by his uncle Luwang Sima Dong, who later inherited the title of King of Painting.
+In the second year of Cheng Sai's reign, he was appointed as a regular servant of Sanqi and a general of Fujun.
+When Luoyang fell, he took refuge in Mi County, Rongyang, where he met his uncles Xun Fan and Xun Zu, and together they headed south from Mi County to Xuchang and Yingchuan.
+The governor of Yuzhou, Jian Ding, together with former Fu army chief Shi Wangbi, Situ chief Shi Liu Chou, Zhongshu Lang Li Xin, Xun Fan, Xun Zu and others jointly planned to serve the emperor and settle down in Chang'an. However, Liu Chou and others rebelled midway, and Yan Ding chased and killed them. Xun Fan and Xun Zu were lucky enough to escape death.
+Yan Ding took the emperor hostage and rode in an ox cart from Wan to Wuguan. He encountered bandits on the mountains many times, and the soldiers escaped dead and wounded, and temporarily settled in Lantian.
+Qin Ding informed the governor of Yongzhou, Jia Zong, and Jia Zong hurriedly sent troops from the state to meet the guards. Finally they arrived in Chang'an and asked General Liang Zong to assist in the guard.
+At that time, a jade turtle appeared in Bashui and a divine horse neighed in the south of the city. In the ninth month of the sixth year of Xinsi, King Qin was honored as the crown prince, went to the altar to offer sacrifices to heaven and the five emperors, established an ancestral temple and a shrine, and granted amnesty to the world.
+He also conferred the title of Great General to Conquer the West, and appointed Sima Bao, the governor of Qinzhou and King of Nanyang, as the Great Sima.
+Buying Zhuan attacked the traitor Zhang Lian and was killed. Everyone recommended Qu Yun, the prefect of Shihu, to concurrently serve as the governor of Yongzhou and the leader of the alliance. He would select people and appoint officials in accordance with the emperor's will.
+On Bingwu in the summer of April of the first year of Jianxing, I learned of the death of Emperor Huai, and held a mourning ceremony according to etiquette.
+Renshen ascended the throne as emperor, granted amnesty to the world, and changed his reign title.
+General Liang Fen of the Wei was appointed as Situ, Qu Yun, the governor of Yongzhou, was appointed as envoy Chijie, leading general and secretary of the Shangshu Shi, and Suo Sui, the prefect of Jingzhao, was appointed as the right servant of Shangshu.
+Shi Le attacked Longxiang General Li Tan in Shangbai, but Li Tan was defeated and died in battle.
+On Renchen in the fifth month, Sima Rui, the general of Zhendong and the king of Langxie, was appointed as the minister, prime minister of the left, and the chief military officer of Shaanxi Shu.
+He also issued an edict to these two kings: Speaking of disasters and bad luck, even in the heyday of the dynasty, we still sometimes encounter them.
+
+summary:
+summary line 6: Emperor Xiaomin, named Sima Ye, was grandson of Genzao and son of Sima Yan. He was adopted by Sima Dong. In the second year of Cheng Sai, he became a regular servant. After Luoyang fell, he fled to Mi County. Xun Fan and others planned to serve him in Chang'an. Yan Ding took him to Lantian. Jia Zong escorted him to Chang'an. A jade turtle appeared. In the sixth year, he was made crown prince. He appointed officials. In the first year of Jianxing, he learned of Emperor Huai's death and ascended the throne. He appointed generals. Shi Le killed Li Tan. Sima Rui was made prime minister. The emperor issued edicts to raise troops. Shi Le killed Tian Hui. Shandong was captured. Du Chen invaded Wuchang. Du Sou's general attacked Mianyang. Xun Fan died. Liu Cong invaded Henan. Tao Kan was defeated. Heavy hail and snow fell. Yang Wu captured Liangzhou. Earthquakes and rain of meat occurred.
+
+Chunk 8: 
+original: 
+杜弢寇武昌，焚烧城邑。
+弢别将王真袭沔阳，荆州刺史周顗奔于健康。
+九月，司空荀籓薨于荥阳。
+刘聪寇河南，河南尹张髦死之。
+冬十月，荆州刺史陶侃讨杜弢党杜曾于石城，为曾所败。
+己巳，大雨雹。
+庚午，大雪。
+十一月，流人杨武攻陷梁州。
+十二月，河东地震，雨肉。
+二年春正月己巳朔，黑雾著人如墨，连夜，五日乃止。
+辛未，辰时日陨于地。
+又有三日相承，出于西方而东行。
+丁丑，大赦。
+杨武大略汉中，遂奔李雄。
+二月壬寅，以司空王浚为大司马，卫将军荀组为司空，凉州刺史张轨为太尉，封西平郡公，并州刺史刘琨为大将军。
+三月癸酉，石勒陷幽州，杀侍中、大司马、幽州牧、博陵公王浚，焚烧城邑，害万余人。
+杜弢别帅王真袭荆州刺史陶侃于林鄣，侃奔滠中。
+夏四月甲辰，地震。
+五月壬辰，太尉、领护羌校尉、凉州刺史、西平公张轨薨。
+六月，刘曜、赵冉寇新丰诸县，安东将军索綝讨破之。
+秋七月，曜、冉等又逼京都，领军将军麹允讨破之，冉中流矢而死。
+九月，北中郎将刘演克顿丘，斩石勒所署太守邵攀。丙戌，麟见襄平。
+单于代公猗卢遣使献马。
+蒲子马生人。
+三年春正月，盗杀晋昌太守赵佩。
+吴兴人徐馥害太守袁琇。
+以侍中宋哲为平东将军。屯华阴。
+二月丙子，进左丞相、琅邪王睿为大都督、督中外诸军事，右丞相、南阳王保为相国，司空荀组为太尉，大将军刘琨为司空。
+进封代公猗卢为代王。
+荆州刺史陶侃破王真于巴陵。
+杜弢别将杜弘、张彦与临川内史谢摛战于海昏，摛败绩，死之。
+三月，豫率内史周访击杜弘，走之，斩张彦于陈。
+夏四月，大赦。
+五月，刘聪寇并州。
+translation: 
+Du Chen invaded Wuchang and set fire to the houses in the city.
+Du Sou's general Wang Zhen attacked Mianyang, and Jingzhou governor Zhou Hao fled to Jiankang.
+In September, Sikong Goufan died in Rongyang.
+Liu Cong invaded Henan, and Yin Zhangmao of Henan died in battle.
+In the winter of October, Tao Kan, the governor of Jingzhou, attacked Du Zeng, a member of Du Qiang's party, but was defeated by Du Zeng in Shicheng.
+Ji Si, heavy hail fell.
+Gengwu, it snowed heavily.
+In November, the refugee Yang Wu captured Liangzhou.
+In December, an earthquake occurred in Hedong and it rained meat.
+In the spring of the second year, on the first day of the first lunar month, there was a black fog, which stuck to people's bodies like ink stains. It was difficult to distinguish between day and night, and it took five consecutive days to dissipate.
+Xinwei, the sun sets at midnight in the morning.
+There are three more suns connected, coming out from the west and going east.
+Ding Chou, grant amnesty to the world.
+Yang Wu looted the Hanzhong area and then defected to Li Xiong.
+In the second month of Renyin, Wang Jun of Sikong was appointed as Grand Sima, General Xun Zu of Wei was appointed as Sikong, Zhang Gui, the governor of Liangzhou, was made Taiwei, Zhang Gui was made the Duke of Xiping County, and Liu Kun, the governor of Bingzhou, was appointed as the general.
+In the third month of Guiyou, Shi Le captured Youzhou and killed Shi Zhong, Da Sima, Youzhou Mu, and Prince Boling. He set fire to the houses in the city and killed more than 10,000 people.
+Du Sou's deputy commander Wang Zhen attacked Tao Kan, the governor of Jingzhou, in Lin Zhang, and Tao Kan fled to Tianzhong.
+On the first day of April in summer, there was an earthquake.
+In the fifth month of Renchen, Zhang Gui, the Taiwei, the captain who led the Qiang army, the governor of Liangzhou, and the Duke of Xiping died.
+In June, Liu Yao and Tran Ran invaded Xinfeng counties, and Anton general Suo Sui attacked and defeated them.
+In the seventh month of autumn, Liu Yao, Zhao Ran and others invaded Kyoto again. The leading general Qu Yun attacked and defeated them. Zhao Ran was killed by an arrow.
+In September, Beizhonglang general Liu Yan captured Dunqiu and beheaded Bingxu, Shao Pan, the prefect appointed by Shi Le. Qilin appeared in Xiangping.
+Shanyu sent an envoy to offer horses on behalf of Duke Yilu.
+Puzi's horse gave birth to a human being.
+In the first month of spring of the third year, thieves killed Zhao Pei, the prefect of Jinchang.
+Xu Fu, a native of Wuxing, killed the prefect Yuan You.
+Song Zhe, the servant in charge, was appointed as General Pingdong and stationed in Huayin.
+On the second day of the second month, Sima Rui, the prime minister of the left and the king of Langxie, was promoted to the general governor, supervising all the Chinese and foreign military affairs. The prime minister on the right and the king of Nanyang, Sima Bao, was promoted to the prime minister.
+Jin made Dai Gong Yilu the acting king.
+Tao Kan, the governor of Jingzhou, defeated Wang Zhen in Baling.
+Du Hong and Zhang Yan, Du Sou's generals, fought with Linchuan Nei Shi Xie in Haihun. Xie Zie failed and died in the battle.
+In March, Zhou Fang, the internal historian of Yuzhang, attacked Du Hong, drove him away, and beheaded Zhang Yan in the battle.
+In the fourth month of summer, there is a general amnesty for the whole world.
+In May Liu Cong invaded Bingzhou.
+
+summary:
+summary line 7: In the second year, black fog and three suns appeared. A general amnesty was declared. Yang Wu defected to Li Xiong. Wang Jun was promoted. Shi Le captured Youzhou, killing many. Du Sou's deputy attacked Tao Kan. Earthquakes occurred. Zhang Gui died. Liu Yao invaded but was defeated. Liu Yao invaded again but was defeated. Liu Yan captured Dunqiu. Qilin appeared. Yilu offered horses. A horse gave birth to a human. In the third year, thieves killed officials. Xu Fu killed the prefect. Song Zhe was stationed in Huayin. Sima Rui was promoted. Yilu was made king. Tao Kan defeated Wang Zhen. Du Hong and Zhang Yan were defeated. Zhou Fang killed Zhang Yan. A general amnesty was declared. Liu Cong invaded Bingzhou. Tombs were robbed. The emperor ordered burial of dead bones. Shi Le captured Puyang. Liu Cong invaded Shangdang. Tao Kan pacified Xiangzhou. Liu Yao invaded the north. Qu Yun attacked Qingbaicheng. Suo Sui was appointed. Liu Cong captured Feng Yi. Zhang Xuan sent the imperial seal. Thieves killed Zhao Ban.
+
+Chunk 10: 
+original: 
+群臣号泣攀车，执帝之手，帝亦悲不自胜。
+御史中丞吉朗自杀。
+曜焚榇受壁，使宋敞奉帝还宫。
+初，有童谣曰： 天子何在豆田中。
+时王浚在幽州，以豆有藿，杀隐士霍原以应之。
+及帝如曜营，营实在城东豆田壁。
+辛丑，帝蒙尘于平阳，麹允及群官并从。
+刘聪假帝光禄大夫、怀安侯。
+壬寅，聪临殿，帝稽首于前，麹允伏地恸哭，因自杀。
+尚书梁允、侍中梁浚、散骑常侍严敦、左丞臧振、黄门侍郎任播、张伟、杜曼及诸郡守并为曜所害，华辑奔南山。
+石勒围乐平，司空刘琨遣兵援之，为勒所败，乐平太守韩据出奔。
+司空长史李弘以并州叛降于勒。
+十二月甲申朔，日有蚀之。
+己未，刘琨奔蓟，依段匹磾。
+五年春正月，帝在平阳。
+庚子，虹霓弥天，三日并照。
+平东将军宋哲奔江左。
+李雄使其将李恭、罗寅寇巴东。
+二月，刘聪使其将刘暢攻荥阳，太守李矩击破之。
+三月，琅邪王睿承制改元，称晋王于建康。
+夏五月丙子，日有蚀之。
+秋七月，大暑，司、冀、青、雍等四州螽蝗。
+石勒亦竞取百姓禾，时人谓之 胡蝗 。
+八月，刘聪使赵固袭卫将军华荟于定颍，遂害之。
+冬十月丙子，日有蚀之。
+刘聪出猎，令帝行车骑将军，戎服执戟为导，百姓聚而观之，故老或歔欷流涕，聪闻而恶之。
+聪后因大会，使帝行酒洗爵，反而更衣，又使帝执盖，晋臣在坐者多失声而泣，尚书郎辛宾抱帝恸哭，为聪所害。
+十二月戊戌，帝遇弑，崩于平阳，时年十八。
+帝之继皇统也，属永嘉之乱，天下崩离，长安城中户不盈百，墙宇颓毁，蒿棘成林。
+translation: 
+The ministers cried and clung to the car, holding the emperor's hand tightly. The emperor could not help himself in grief.
+Yushi Zhongcheng Jilang committed suicide.
+Liu Yao burned the coffin, accepted the jade, and asked Song Chang to serve the emperor and return to the palace.
+At the beginning, there was a nursery rhyme that said: Why is the emperor wrapped in a bean field?
+At that time, Wang Jun was in Youzhou. He thought that the bean leaf was called Huo, so he killed the hermit Huo Yuan to make the nursery rhyme come true.
+When the emperor went to Liu Yao's military camp, the military camp was on the wall of the bean field near the city.
+Xin Chou, the emperor was taken to Pingyang and imprisoned, and Qu Yun and other officials accompanied him.
+Liu Cong asked the emperor to temporarily serve as Doctor Guanglu and Marquis Huai'an.
+In Renyin, Liu Cong went to the palace, and the emperor kowtowed in front of him. Qu Yun fell on the ground and cried bitterly, and then committed suicide.
+Shangshu Liang Yun, Shizhong Liang Jun, Sanqi Changshi Yan Dun, Zuo Cheng Zang Zhen, Huangmen Shilang Ren Bo, Zhang Wei, Du Man and the prefects of various counties were all killed by Liu Yao, and Hua Ji fled to Nanshan.
+Shi Le besieged Leping, and Sikong Liu Kun sent troops to rescue him. Shi Le was defeated, and Han Ju, the governor of Leping, fled.
+Sikong Chief Shi Li Hong betrayed Bingzhou and surrendered to Shi Le.
+There is a solar eclipse on the first day of December, Yi Mao.
+Before long, Liu Kun fled to Ji and attached himself to Duan Pichen.
+In the first month of spring of the fifth year, the emperor was in Pingyang.
+Gengzi, the sky is full of rainbows, and three suns are shining at the same time.
+Pingdong General Song Zhe fled to Jiangzuo.
+Li Xiong sent his generals Li Gong and Luo Yin to invade Ba Shu.
+In February, Liu Cong sent his general Liu Chang to attack Rongyang, and the prefect Li Ju defeated him.
+In March, Langye King Sima Rui followed the emperor's will and changed his reign title, calling himself King Jin in Jiankang.
+In the fifth month of summer, there is a solar eclipse.
+In autumn and July, there is a severe drought, and there are locusts in Si, Ji, Qing, and Yong prefectures.
+Shi Le also rushed to collect the crops of the people. At that time, people called them "Hu locusts".
+In August, Liu Cong sent Zhao Gu to attack General Hua Lei in Linying and killed him.
+In the tenth month of winter, there is a solar eclipse.
+Liu Cong went out hunting and ordered the emperor to act as a general of chariots and cavalry, wearing a military uniform and holding a halberd as a leader. The people gathered to watch him. Some of the old ministers cried and shed tears. Liu Cong was disgusted after hearing this.
+Later, at the banquet, Liu Cong asked the emperor to drink wine and rinse the wine master. When he went to the toilet, he asked the emperor to hold the toilet lid. Many of the old officials of the Jin Dynasty present here burst into tears. Shangshulang Xinbin held the emperor in his arms and cried bitterly, and was killed by Liu Cong.
+In December of 1898, the emperor was killed and Zai Huyang passed away at the age of eighteen.
+When the emperor inherited the throne, the Yongjia Rebellion was happening, and the world was falling apart. There were less than a hundred households in the city of Chang'an, the walls and palaces were in ruins, and forests of wormwood and thorns had grown.
+
+summary:
+summary line 8: In the fourth year, Yilu died. Liu Yao invaded Shangjun. Zhang Shi sent troops. Shi Le captured Linqiu. Lei Zhao rebelled. A solar eclipse and locusts occurred. Liu Yao attacked the north. Qu Yun's army collapsed. Liu Yao entered Jingyang. The capital was cut off. Qu Yun defended Chang'an. Famine struck. The emperor surrendered. Liu Yao accepted the surrender. The emperor was taken to Pingyang. Qu Yun committed suicide. Many officials were killed. Shi Le besieged Leping. Liu Kun fled. In the fifth year, the emperor was in Pingyang. Rainbows and three suns appeared. Song Zhe fled. Li Xiong invaded Ba Shu. Liu Chang attacked Rongyang. Sima Rui changed the reign title. A solar eclipse occurred. Drought and locusts infested. Shi Le collected crops. Zhao Gu killed Hua Lei. A solar eclipse occurred. Liu Cong humiliated the emperor. The emperor was killed at age 18. The Yongjia Rebellion caused chaos. Chang'an was in ruins. The court lacked resources. The emperor was forced to surrender. Historians commented on the decline of the Jin dynasty, blaming weak governance, corrupt officials, and moral decay. The emperors were unable to restore order, leading to their capture and death.
+

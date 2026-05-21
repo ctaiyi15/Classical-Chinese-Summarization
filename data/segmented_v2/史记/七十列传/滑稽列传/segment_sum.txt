@@ -1,0 +1,343 @@
+Summary uses chunk [0, 0, 2, 3, 7]
+
+Chunk 0: 
+original: 
+孔子曰： 六艺于治一也。
+礼以节人，乐以发和，书以道事，诗以达意，易以神化，春秋以义。
+太史公曰：天道恢恢，岂不大哉！
+谈言微中，亦可以解纷。
+淳于髡者，齐之赘婿也。
+长不满七尺，滑稽多辩，数使诸侯，未尝屈辱。
+齐威王之时喜隐，好为淫乐长夜之饮，沈湎不治，委政卿大夫。
+百官荒乱，诸侯并侵，国且危亡，在於旦暮，左右莫敢谏。
+淳于髡说之以隐曰： 国中有大鸟，止王之庭，三年不蜚又不鸣，不知此鸟何也？
+王曰： 此鸟不飞则已，一飞冲天；不鸣则已，一鸣惊人。
+於是乃朝诸县令长七十二人，赏一人，诛一人，奋兵而出。诸侯振惊，皆还齐侵地。
+威行三十六年。
+语在田完世家中。
+威王八年，楚大发兵加齐。
+齐王使淳于髡之赵请救兵，赍金百斤，车马十驷。
+淳于髡仰天大笑，冠缨索绝。
+王曰： 先生少之乎？
+髡曰： 何敢！
+王曰： 笑岂有说乎？
+髡曰： 今者臣从东方来，见道傍有禳田者，操一豚蹄，酒一盂，祝曰： 瓯窭满篝，汙邪满车，五穀蕃熟，穰穰满家。
+臣见其所持者狭而所欲者奢，故笑之。
+於是齐威王乃益赍黄金千溢，白璧十双，车马百驷。
+髡辞而行，至赵。
+赵王与之精兵十万，革车千乘。
+楚闻之，夜引兵而去。
+威王大说，置酒后宫，召髡赐之酒。
+问曰： 先生能饮几何而醉？
+translation: 
+Confucius said: The Six Classics have the same role in governing the country.
+"Li" is used to regulate people's words and deeds, "Music" is used to promote people's harmony, "Book" is used to record past deeds and regulations, "Poetry" is used to express emotions, "Yi" is used to spy on the magical changes of heaven and earth, and "Spring and Autumn" is used to understand the meaning of subtle words and weigh the right and wrong.
+Tai Shigong said: The truth in the world is vast and boundless, isn't it great!
+If the words can be slightly to the point, it can also resolve a lot of troubles.
+Chunyu Kun was a son-in-law of Qi State.
+Less than seven feet tall, he is funny and eloquent. He has been on many missions to the princes and has never been humiliated.
+When King Wei of Qi was in power, he liked to talk in argot, feast all night long, indulge in excessive drinking, ignored state affairs, and entrusted political affairs to the officials.
+The civil and military officials are dissolute and indulgent, and the princes and countries invade and invade. The country is in danger and is in danger in a matter of seconds. None of the ministers around King Qi dared to give advice.
+Chunyu Kun used argot to admonish and admonish King Wei of Qi, saying: There is a big bird in the capital that landed in the king's courtyard. It has not flown or screamed for three years. Does the king know what happened to this bird?
+King Wei of Qi said: If this bird does not fly, it will go straight to the sky; if it does not scream, it will amaze people.
+So he ordered all the chiefs of the seventy-two counties in the country to come to the court to report. They rewarded one person and killed another. They also sent troops to defend against the enemy. The princes and states were shocked and returned the occupied land to Qi.
+Qi's prestige lasted for thirty-six years.
+All these things are recorded in "Tian Wan Family".
+In the eighth year of King Wei of Qi's reign, the State of Chu sent a large army to invade its borders.
+The King of Qi sent Chunyu Kun as an envoy to the State of Zhao to request reinforcements, and asked him to carry a gift of a hundred catties of gold and ten four-horse carriages.
+Chunyu Kun looked up to the sky and laughed so hard that the string holding his hat broke.
+King Wei said: Sir, do you think the gift is too little?
+Chunyu Kun said: How dare you think too little!
+King Wei said: Then you laugh, do you have any excuse?
+Chunyu Kun said: Today I came from the east and saw a man worshiping the God of the Fields by the roadside. He held a pig's trotter and a glass of wine and prayed: "The grain harvested in the highlands fills the bonnet, and the crops harvested in the low fields fill the vehicles; the grains are lush and ripe, and the rice grains are piled up in the warehouse."
+I saw that he brought few sacrifices and prayed for many things, so I laughed at him.
+So King Wei of Qi increased the gifts to a thousand pieces of gold, ten pairs of white jade stones, and a hundred four-horse carriages.
+Chunyu Kun said goodbye and set off for the Kingdom of Zhao.
+King Zhao allocated him 100,000 elite soldiers and 1,000 leather-wrapped chariots.
+When the Chu State heard the news, they withdrew their troops overnight.
+King Qi Wei was very happy. He set up wine and food in the harem, summoned Chunyu Kun and gave him wine to drink.
+Ask him: How much wine can you drink before you get drunk?
+
+summary:
+summary line 0: Confucius stated that the Six Classics serve the same purpose in governing a country: "Li" regulates conduct, "Music" promotes harmony, "Book" records past deeds, "Poetry" expresses emotions, "Yi" explores cosmic changes, and "Spring and Autumn" discerns subtle meanings and right from wrong. Tai Shigong remarked on the vastness of truth, noting that concise words can resolve many troubles.
+
+Chunk 0: 
+original: 
+孔子曰： 六艺于治一也。
+礼以节人，乐以发和，书以道事，诗以达意，易以神化，春秋以义。
+太史公曰：天道恢恢，岂不大哉！
+谈言微中，亦可以解纷。
+淳于髡者，齐之赘婿也。
+长不满七尺，滑稽多辩，数使诸侯，未尝屈辱。
+齐威王之时喜隐，好为淫乐长夜之饮，沈湎不治，委政卿大夫。
+百官荒乱，诸侯并侵，国且危亡，在於旦暮，左右莫敢谏。
+淳于髡说之以隐曰： 国中有大鸟，止王之庭，三年不蜚又不鸣，不知此鸟何也？
+王曰： 此鸟不飞则已，一飞冲天；不鸣则已，一鸣惊人。
+於是乃朝诸县令长七十二人，赏一人，诛一人，奋兵而出。诸侯振惊，皆还齐侵地。
+威行三十六年。
+语在田完世家中。
+威王八年，楚大发兵加齐。
+齐王使淳于髡之赵请救兵，赍金百斤，车马十驷。
+淳于髡仰天大笑，冠缨索绝。
+王曰： 先生少之乎？
+髡曰： 何敢！
+王曰： 笑岂有说乎？
+髡曰： 今者臣从东方来，见道傍有禳田者，操一豚蹄，酒一盂，祝曰： 瓯窭满篝，汙邪满车，五穀蕃熟，穰穰满家。
+臣见其所持者狭而所欲者奢，故笑之。
+於是齐威王乃益赍黄金千溢，白璧十双，车马百驷。
+髡辞而行，至赵。
+赵王与之精兵十万，革车千乘。
+楚闻之，夜引兵而去。
+威王大说，置酒后宫，召髡赐之酒。
+问曰： 先生能饮几何而醉？
+translation: 
+Confucius said: The Six Classics have the same role in governing the country.
+"Li" is used to regulate people's words and deeds, "Music" is used to promote people's harmony, "Book" is used to record past deeds and regulations, "Poetry" is used to express emotions, "Yi" is used to spy on the magical changes of heaven and earth, and "Spring and Autumn" is used to understand the meaning of subtle words and weigh the right and wrong.
+Tai Shigong said: The truth in the world is vast and boundless, isn't it great!
+If the words can be slightly to the point, it can also resolve a lot of troubles.
+Chunyu Kun was a son-in-law of Qi State.
+Less than seven feet tall, he is funny and eloquent. He has been on many missions to the princes and has never been humiliated.
+When King Wei of Qi was in power, he liked to talk in argot, feast all night long, indulge in excessive drinking, ignored state affairs, and entrusted political affairs to the officials.
+The civil and military officials are dissolute and indulgent, and the princes and countries invade and invade. The country is in danger and is in danger in a matter of seconds. None of the ministers around King Qi dared to give advice.
+Chunyu Kun used argot to admonish and admonish King Wei of Qi, saying: There is a big bird in the capital that landed in the king's courtyard. It has not flown or screamed for three years. Does the king know what happened to this bird?
+King Wei of Qi said: If this bird does not fly, it will go straight to the sky; if it does not scream, it will amaze people.
+So he ordered all the chiefs of the seventy-two counties in the country to come to the court to report. They rewarded one person and killed another. They also sent troops to defend against the enemy. The princes and states were shocked and returned the occupied land to Qi.
+Qi's prestige lasted for thirty-six years.
+All these things are recorded in "Tian Wan Family".
+In the eighth year of King Wei of Qi's reign, the State of Chu sent a large army to invade its borders.
+The King of Qi sent Chunyu Kun as an envoy to the State of Zhao to request reinforcements, and asked him to carry a gift of a hundred catties of gold and ten four-horse carriages.
+Chunyu Kun looked up to the sky and laughed so hard that the string holding his hat broke.
+King Wei said: Sir, do you think the gift is too little?
+Chunyu Kun said: How dare you think too little!
+King Wei said: Then you laugh, do you have any excuse?
+Chunyu Kun said: Today I came from the east and saw a man worshiping the God of the Fields by the roadside. He held a pig's trotter and a glass of wine and prayed: "The grain harvested in the highlands fills the bonnet, and the crops harvested in the low fields fill the vehicles; the grains are lush and ripe, and the rice grains are piled up in the warehouse."
+I saw that he brought few sacrifices and prayed for many things, so I laughed at him.
+So King Wei of Qi increased the gifts to a thousand pieces of gold, ten pairs of white jade stones, and a hundred four-horse carriages.
+Chunyu Kun said goodbye and set off for the Kingdom of Zhao.
+King Zhao allocated him 100,000 elite soldiers and 1,000 leather-wrapped chariots.
+When the Chu State heard the news, they withdrew their troops overnight.
+King Qi Wei was very happy. He set up wine and food in the harem, summoned Chunyu Kun and gave him wine to drink.
+Ask him: How much wine can you drink before you get drunk?
+
+summary:
+summary line 1: Chunyu Kun, a short, witty son-in-law of Qi, often served as an envoy without disgrace. During King Wei of Qi's reign, the king neglected state affairs, indulging in feasting and drinking, leading to invasions and national peril. No minister dared to advise. Chunyu Kun used an allegory of a great bird that neither flew nor cried for three years. King Wei understood, summoned all county chiefs, rewarded one, executed another, and repelled invaders, restoring Qi's prestige for 36 years. Later, when Chu invaded, Chunyu Kun was sent to Zhao for reinforcements with modest gifts. He laughed at a farmer praying for abundant harvests with meager offerings, prompting King Wei to increase the gifts. Zhao then sent 100,000 elite troops, causing Chu to withdraw. King Wei asked Chunyu Kun about his drinking capacity. Chunyu Kun explained that his drunkenness varied by context: fear made him drunk after one measure, while joy allowed him to drink eight measures. He warned against excess, as it leads to decline. King Wei ceased nightly drinking and appointed Chunyu Kun as a guest official.
+
+Chunk 2: 
+original: 
+王曰： 何如？
+对曰： 臣请以彫玉为棺，文梓为椁，楩枫豫章为题凑，发甲卒为穿壙，老弱负土，齐赵陪位於前，韩魏翼卫其后，庙食太牢，奉以万户之邑。
+诸侯闻之，皆知大王贱人而贵马也。
+王曰： 寡人之过一至此乎！
+为之柰何？
+优孟曰： 请为大王六畜葬之。以垅灶为椁，铜历为棺，赍以姜枣，荐以木兰，祭以粮稻，衣以火光，葬之於人腹肠。
+於是王乃使以马属太官，无令天下久闻也。
+楚相孙叔敖知其贤人也，善待之。
+病且死，属其子曰： 我死，汝必贫困。
+若往见优孟，言我孙叔敖之子也。
+居数年，其子穷困负薪，逢优孟，与言曰： 我，孙叔敖子也。
+父且死时，属我贫困往见优孟。
+优孟曰： 若无远有所之。
+即为孙叔敖衣冠，抵掌谈语。岁馀，像孙叔敖，楚王及左右不能别也。
+庄王置酒，优孟前为寿。
+庄王大惊，以为孙叔敖复生也，欲以为相。
+优孟曰： 请归与妇计之，三日而为相。
+庄王许之。
+三日后，优孟复来。
+王曰： 妇言谓何？
+孟曰： 妇言慎无为，楚相不足为也。
+如孙叔敖之为楚相，尽忠为廉以治楚，楚王得以霸。
+今死，其子无立锥之地，贫困负薪以自饮食。
+必如孙叔敖，不如自杀。
+因歌曰： 山居耕田苦，难以得食。
+起而为吏，身贪鄙者馀财，不顾耻辱。
+身死家室富，又恐受赇枉法，为奸触大罪，身死而家灭。
+贪吏安可为也！
+念为廉吏，奉法守职，竟死不敢为非。
+廉吏安可为也！
+楚相孙叔敖持廉至死，方今妻子穷困负薪而食，不足为也！
+於是庄王谢优孟，乃召孙叔敖子，封之寝丘四百户，以奉其祀。
+translation: 
+King Zhuang asked: What should we do?
+You Meng replied: I requested that the coffin be made of beautiful jade with carved patterns, the cover of fine catalpa wood, and the coffin blocks made of valuable woods such as urin, maple, hemp, and camphor. I sent soldiers to dig a grave for it, and asked the elderly and children to carry earth to build the tomb.
+When the princes heard this, they all knew that the king despised people and valued horses.
+King Zhuang said: "Has my fault reached this level?"
+What to do about it?
+Umeng said: Please allow me to bury it in the same way as an animal: pile an earth stove on the ground as a set, use a large copper pot as a coffin, use ginger and dates to season, use spices to relieve the smell, use rice as a sacrifice, use fire as clothes, and bury it in the human belly.
+So King Zhuang sent someone to give the horse to the eunuch in charge of the palace's meals, so that the people in the world would not spread the matter for a long time.
+Sun Shuao, the prime minister of Chu, knew that Youmeng was a wise man and treated him well.
+When Sun Shuao was seriously ill and about to die, he told his son: After I die, you will definitely be poor.
+At that time, you go to see Youmeng and say that I am Sun Shuao's son.
+A few years later, Sun Shuao's son was indeed so poor that he had to rely on firewood to survive. Once I met Youmeng on the road, he said to Youmeng: I am Sun Shuao's son.
+Before my father died, he asked me to go see Youmeng when I was in poverty.
+Youmeng said: Don't go far away.
+So, he immediately sewed clothes and hats similar to Sun Shuao's and wore them, imitating Sun Shuao's speech, behavior, voice and smile.
+After more than a year, he imitated Sun Shuao so much that even the officials around King Zhuang of Chu could not tell him apart.
+King Zhuang of Chu held a banquet, and Youmeng came forward to toast and bless King Zhuang. King Zhuang was shocked, thinking that Sun Shuao had come back to life again, and wanted to make him Prime Minister of Chu.
+Youmeng said: "Please allow me to go back and discuss this matter with my wife, and come back in three days to take up the post of Prime Minister of Chu."
+King Zhuang agreed to him.
+Three days later, Youmeng came to see King Zhuang again.
+King Zhuang asked: What did your wife say?
+Youmeng said: My wife told me not to do it. It is not worthy to be the prime minister of Chu State.
+Like Sun Shuao, who was the prime minister of the Chu State and governed the Chu State with loyalty and integrity, the king of Chu was able to dominate.
+Now that he is dead, his son has no place to stand and is so poor that he has to carry firewood to make a living every day.
+If you want to be the prime minister of Chu like Sun Shuao, you might as well commit suicide.
+Umeng then sang: Living in the mountains and fields, it is difficult to live in the fields and suffer hardships.
+Those who go out to serve as officials, are themselves corrupt and despicable, accumulate excess wealth, and have no regard for their integrity.
+After his death, although his family was wealthy, he was afraid of corruption, bending the law, doing illegal things, and committing serious crimes. He was killed and his family was also destroyed.
+What can a corrupt official do?
+I want to be an upright official, abide by the law, be loyal to my duties, and never dare to do anything illegal until my death.
+Alas, what can an upright official do?
+For example, Sun Shuao, Prime Minister of Chu, insisted on integrity throughout his life, but now his wife, children and children are so poor that they have to collect firewood for a living.
+It’s really not worth being an upright official! So King Zhuang expressed his apology to You Meng, and immediately summoned Sun Shuao's son and granted him the city of Qiuqiu with 400 households for the purpose of worshiping Sun Shuao.
+
+summary:
+summary line 2: Over a century later, You Meng, a tall Chu performer, used humor to advise King Zhuang. When the king wanted to bury his beloved horse with grand rites, You Meng suggested an even grander burial to expose the king's folly. King Zhuang relented and had the horse cooked. Later, You Meng impersonated the deceased prime minister Sun Shuao to advise King Zhuang. He highlighted Sun Shuao's poverty despite his integrity, leading the king to grant Sun's son land and households for ancestral worship.
+
+Chunk 3: 
+original: 
+后十世不绝。
+此知可以言时矣。
+其后二百馀年，秦有优旃。
+优旃者，秦倡侏儒也。
+善为笑言，然合於大道，秦始皇时，置酒而天雨，陛楯者皆沾寒。
+优旃见而哀之，谓之曰： 汝欲休乎？
+陛楯者皆曰： 幸甚。
+优旃曰： 我即呼汝，汝疾应曰诺。
+居有顷，殿上上寿呼万岁。
+优旃临槛大呼曰： 陛楯郎！
+郎曰： 诺。
+优旃曰： 汝虽长，何益，幸雨立。
+我虽短也，幸休居。
+於是始皇使陛楯者得半相代。
+始皇尝议欲大苑囿，东至函谷关，西至雍、陈仓。
+优旃曰： 善。
+多纵禽兽於其中，寇从东方来，令麋鹿触之足矣。
+始皇以故辍止。
+二世立，又欲漆其城。
+优旃曰： 善。
+主上虽无言，臣固将请之。
+漆城虽於百姓愁费，然佳哉！
+漆城荡荡，寇来不能上。
+即欲就之，易为漆耳，顾难为廕室。
+於是二世笑之，以其故止。
+居无何，二世杀死，优旃归汉，数年而卒。
+太史公曰：淳于髡仰天大笑，齐威王横行。
+优孟摇头而歌，负薪者以封。
+优旃临槛疾呼，陛楯得以半更。
+岂不亦伟哉！
+褚先生曰：臣幸得以经术为郎，而好读外家传语。
+窃不逊让，复作故事滑稽之语六章，编之於左。
+可以览观扬意，以示后世好事者读之，以游心骇耳，以附益上方太史公之三章。
+武帝时有所幸倡郭舍人者，发言陈辞虽不合大道，然令人主和说。
+武帝少时，东武侯母常养帝，帝壮时，号之曰 大乳母 。
+率一月再朝。
+translation: 
+Since then, there has been no interruption for ten generations.
+It can be said that Youmeng's intelligence was just right and he seized the opportunity to display it.
+More than two hundred years after You Meng, Qin State gave birth to You Zhan.
+Youzhan is a singing and dancing artist from the Qin State. He is very short.
+He is good at telling jokes, but they all make sense. During the reign of Qin Shihuang, a banquet was held in the palace. It was raining, and the guards standing guard under the palace steps were all wet with rain and cold.
+When Youzhan saw them, he felt very sorry for them and said to them: "Do you want to rest?"
+The guards all said: Very much so.
+Youzhan said: If I call you, you must answer me quickly.
+After a while, people in the palace toasted Qin Shihuang and shouted long live the emperor.
+Youzhan approached the railing and shouted loudly: Guard!
+The guard replied: Yes.
+Youzhan said: Although you are tall, what good is it?
+I was lucky enough to stand in the open air and get soaked in the rain. Although I am short, I am lucky enough to rest here.
+Therefore, Qin Shihuang allowed the guards to reduce their duty by half and take over in turns.
+Qin Shihuang once planned to expand the hunting area to Hangu Pass in the east and Yong County and Chencang in the west.
+Youzhan said: OK.
+Keep more animals inside. If the enemy invades from the east, it will be enough to let the elk use their horns to resist them.
+After hearing this, Qin Shihuang stopped his plan to expand the hunting grounds.
+Emperor Qin II came to the throne and wanted to paint the city walls with paint.
+Youzhan said: OK.
+Even if your Majesty did not say it, I would have asked you to do so.
+Although the lacquered city wall brings sorrow and expense to the people, it is beautiful!
+The walls were painted so slippery that enemies could not climb up even if they came.
+To accomplish this, it is easy to paint, but what is difficult is to find a big house, put the painted city wall in it, and let it dry in the shade.
+The second emperor laughed and canceled the plan.
+Soon, the second emperor was killed, Youzhan surrendered to the Han Dynasty, and died a few years later.
+Tai Shigong said: Chunyu Kun looked up to the sky and laughed, and King Wei of Qi followed his example throughout the world.
+You Meng shook his head and sang, and those who carried firewood for a living were rewarded.
+Youzhan leaned on the railing and shouted, so the guards holding shields under the palace steps were able to reduce their duty by half and take turns to rest.
+Aren’t these all great and praiseworthy!
+Mr. Chu Shaosun said: I am fortunate to be a doctor because I am proficient in Confucian classics. I also like to read historical biographies other than the Six Classics.
+I couldn't be humble and conceding, so I wrote six more chapters of funny stories and compiled them at the back of Tai Shigong's original work.
+It can be read and expanded, so that it can be passed on to future generations who are not afraid of troubles to read, so as to relax their minds and alert them to listen. It is specially attached to the back of the three funny stories of Tai Shigong above.
+During the reign of Emperor Wu of the Han Dynasty, there was a favored artist named Guo. Although his speeches were not reasonable, he could make the emperor feel happy after listening to them.
+When Emperor Wu was young, the mother of Marquis Dongwu nursed him. When Emperor Wu grew up, he called her the "Big Wet Nurse".
+I visit the DPRK about twice a month.
+
+summary:
+summary line 3: Two centuries later, You Zhan, a short Qin performer, used wit to aid others. During a rainstorm, he joked about guards being wet while he was dry, leading Qin Shihuang to halve their duty. He also dissuaded the emperor from expanding hunting grounds and Qin Ershi from painting city walls, using humor to highlight impracticality.
+
+Chunk 7: 
+original: 
+将军止车前，东郭先生旁车言曰： 王夫人新得幸於上，家贫。
+今将军得金千斤，诚以其半赐王夫人之亲，人主闻之必喜。
+此所谓奇策便计也。
+卫将军谢之曰： 先生幸告之以便计，请奉教。
+於是卫将军乃以五百金为王夫人之亲寿。
+王夫人以闻武帝。
+帝曰： 大将军不知为此。
+问之安所受计策，对曰： 受之待诏者东郭先生。
+诏召东郭先生，拜以为郡都尉。
+东郭先生久待诏公车，贫困饥寒，衣敝，履不完。
+行雪中，履有上无下，足尽践地。
+道中人笑之，东郭先生应之曰： 谁能履行雪中，令人视之，其上履也，其履下处乃似人足者乎？
+及其拜为二千石，佩青緺出宫门，行谢主人。故所以同官待诏者，等比祖道於都门外。
+荣华道路，立名当世。
+此所谓衣褐怀宝者也。
+当其贫困时，人莫省视；至其贵也，乃争附之。
+谚曰： 相马失之瘦，相士失之贫。
+其此之谓邪？
+王夫人病甚，人主至自往问之曰： 子当为王，欲安所置之？
+对曰： 原居洛阳。
+人主曰： 不可。
+洛阳有武库、敖仓，当关口，天下咽喉。
+自先帝以来，传不为置王。
+然关东国莫大於齐，可以为齐王。
+王夫人以手击头，呼 幸甚 。
+王夫人死，号曰 齐王太后薨 。
+昔者，齐王使淳于髡献鹄於楚。
+出邑门，道飞其鹄，徒揭空笼，造诈成辞，往见楚王曰： 齐王使臣来献鹄，过於水上，不忍鹄之渴，出而饮之，去我飞亡。
+吾欲刺腹绞颈而死。恐人之议吾王以鸟兽之故令士自伤杀也。
+鹄，毛物，多相类者，吾欲买而代之，是不信而欺吾王也。
+欲赴佗国奔亡，痛吾两主使不通。
+translation: 
+General Wei stopped in front of the car, and Mr. Dong Guo said beside the car: Mrs. Wang has recently been favored by the emperor, and her family is poor.
+Now that the general has received a thousand catties of gold, if he uses half of it to give to Mrs. Wang's parents, the emperor will be very happy to know it.
+This is what is called a clever and convenient strategy.
+General Wei thanked him and said: Fortunately, sir, you told me this convenient strategy. I will definitely follow the advice.
+So General Wei used five hundred kilograms of gold as a gift to Mrs. Wang's parents.
+Mrs. Wang told Emperor Wu about this.
+Emperor Wu said: The general does not know how to do this.
+When Wei Qing was asked where he got the strategy, he replied: "I got it from Mr. Dongguo who was on duty."
+So he ordered Mr. Dongguo to be summoned and appointed him as the county captain.
+Mr. Dongguo has been waiting for work at the bus station for a long time. He is poor, hungry and cold. His clothes are shabby and his shoes are not intact.
+When walking in the snow, the shoes have sides but no soles, and the feet are all on the ground.
+The passers-by laughed at him, and Mr. Dongguo answered them: Who can wear shoes and walk in the snow, and let people see that the top of the shoe is a shoe, and the bottom of the shoe looks like a human foot?
+When he was appointed as an official with a salary of two thousand dan, wore a green ribbon, walked out of the palace gate to say goodbye to his master, all those who had been waiting with him in the past came to bid farewell to him in batches on the outskirts of the capital.
+Glorious and glorious all the way, famous in the contemporary era.
+This is what is called a man wearing coarse clothes but carrying a treasure in his arms.
+When he was poor, everyone ignored him; when he became famous, everyone rushed to depend on him.
+As the saying goes: A fortune teller misses a good horse because of his skinny appearance, and a fortune teller misses a talented person because of his poor appearance.
+Is this the scenario you are talking about?
+Mrs. Wang was seriously ill, and the emperor visited her in person and asked her: Your son should be crowned king. Where do you want to crown him?
+He replied: I hope to be sealed in Luoyang.
+The emperor said: No.
+Luoyang has arsenals, large granaries, and is located at a transportation junction. It is the choke point of the world.
+Since the late emperor, it is said that no king has been granted the title of king in Luoyang.
+However, none of the feudal states in the Guandong area is larger than Qi, so he can be crowned King of Qi.
+Mrs. Wang patted her head with her hands and exclaimed: So lucky.
+After the death of Mrs. Wang, it was called the death of the Queen Mother of Qi.
+Once upon a time, the King of Qi sent Chunyu Kun to the State of Chu to offer yellow swans.
+After leaving the capital gate, the yellow swan flew away on the way. He had no choice but to hold the empty cage, fabricate a lie, and go to see the king of Chu, saying: The king of Qi sent me to offer the yellow swan. When he passed by the water, he couldn't bear the yellow swan to dry up, so he let it drink water. Unexpectedly, it left me and flew away.
+I want to stab the abdomen or strangle the neck to death, but I am also worried that others will criticize the king for causing the scholars to commit suicide because of birds and beasts.
+Yellow swans are feathered things that are very similar. I want to buy a similar one to replace it. This is dishonest and deceives the king.
+He wanted to flee to other countries, but he was also sad that the communication between the monarchs of Qi and Chu was cut off.
+
+summary:
+summary line 4: Tai Shigong praised these three for their clever advice. Mr. Chu Shaosun added six more tales, including that of Guo Sheren, who helped a wet nurse avoid exile by prompting her to show reluctance, moving Emperor Wu to pity. Dongfang Shuo, a learned scholar, used humor to gain favor with Emperor Wu, often receiving rewards but spending them on marriages. He defended his behavior as "court reclusion" and advised against slander on his deathbed. Mr. Dong Guo advised General Wei Qing to gift gold to Empress Wang's parents, earning himself an official post. Other tales include a clever envoy who lost a swan but gained rewards, a prefect coached by a drunkard to credit the emperor for peace, and Ximen Bao, who stopped the practice of sacrificing girls to the River God by throwing the corrupt priests into the river, then dug irrigation canals that benefited the people for generations.
+
