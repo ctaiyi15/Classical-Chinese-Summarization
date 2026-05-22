@@ -64,11 +64,11 @@ def process_segment_file(file_path):
     return output_path
 
 def main():
-    print(f"🚀 Starting Se3 Concatenation...")
+    print(f"Starting Se3 Concatenation...")
     files = sorted(list(DATA_ROOT.rglob("segment_sum.txt")))
     
     if not files:
-        print(f"❌ No segment_sum.txt files found in {DATA_ROOT}")
+        print(f" No segment_sum.txt files found in {DATA_ROOT}")
         return
 
     count = 0
@@ -79,7 +79,7 @@ def main():
             
         try:
             out_p = process_segment_file(f)
-            print(f"✅ Processed: {f.relative_to(PROJECT_ROOT)} -> {OUTPUT_FILENAME}")
+            print(f" Processed: {f.relative_to(PROJECT_ROOT)} -> {OUTPUT_FILENAME}")
             count += 1
         except Exception as e:
             print(f"⚠️ Error processing {f}: {e}")
