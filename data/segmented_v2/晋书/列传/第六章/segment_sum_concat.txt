@@ -1,0 +1,444 @@
+Summary uses chunk [0, 1, 2, 4, 4, 10, 14, 10]
+
+Chunk 0: 
+original: 
+卫瓘子恆孙璪玠张华子祎韪刘卞卫瓘，字伯玉，河东安邑人也。
+高祖暠，汉明帝时，以儒学自代郡征，至河东安邑卒，因赐所亡地而葬之，子孙遂家焉。
+父觊，魏尚书。
+瓘年十岁丧父，至孝过人。
+性贞静有名理，以明识清允称。
+袭父爵阌乡侯。
+弱冠为魏尚书郎。
+时魏法严苛，母陈氏忧之，瓘自请得徙为通事郎，转中书郎。
+时权臣专政，瓘优游其间，无所亲疏，甚为傅嘏所重，谓之甯武子。
+在位十年，以任职称，累迁散骑常侍。
+陈留王即位，拜侍中，持节慰劳河北。
+以定议功，增邑户。
+数岁转廷尉卿。
+瓘明法理，每至听讼，小大以情。
+邓艾、钟会之伐蜀也，瓘以本官持节监艾、会军事，行镇西军司，给兵千人。
+蜀既平，艾辄承制封拜。
+会阴怀异志，因艾专擅，密与瓘俱奏其状。
+诏使槛车征之，会遣瓘先收艾。
+会以瓘兵少，欲令艾杀瓘，因加艾罪。
+瓘知欲危己，然不可得而距，乃夜至成都，檄艾所统诸将，称诏收艾，其余一无所问。
+若来赴官军，爵赏如先；敢有不出，诛及三族。
+比至鸡鸣，悉来赴瓘，唯艾帐内在焉。
+平旦开门，瓘乘使者车，径入至成都殿前。
+艾卧未起，父子俱被执。
+艾诸将图欲劫艾，整仗趣瓘营。
+瓘轻出迎之，伪作表草，将申明艾事，诸将信之而止。
+俄而会至，乃悉请诸将胡烈等，因执之，囚益州解舍，遂发兵反。
+于是士卒思归，内外骚动，人情忧惧。
+translation: 
+Wei Guan, courtesy name Boyu, was born in Anyi, Hedong Province.
+During the reign of Emperor Ming of the Han Dynasty, the great ancestor Wei Hao was recruited by the imperial court from Dai County for his proficiency in Confucianism. He went to Anyi, Hedong, and died. The land where he died was given to him for burial, and his descendants settled there.
+His father, Wei Jian, was the Minister of Wei.
+Wei Guan's father passed away when he was ten years old, and his extreme filial piety exceeded that of ordinary people.
+He has a quiet temperament and is good at distinguishing right from wrong, and is known for being knowledgeable and fair.
+Inherited his father's title of Marquis of Yuexiang.
+At the age of twenty, he became the minister of Wei.
+At that time, Wei's laws were strict and detailed, and his mother Chen was worried. Wei Guan asked to be transferred to Tongshilang, and was later transferred to Zhongshulang.
+At that time, the court officials were in exclusive power, and Wei Guan was among them. He had no distinction between those who were in power and those who were in power. He was highly regarded by Fu Gu, who called him Ning!
+After ten years in the official position, he was known for his competence and was gradually promoted to the rank of regular attendant.
+When King Chenliu came to the throne, he paid homage to his ministers and went to Hebei to express his condolences.
+Because of the merits of agreeing on major events, the number of households in the fief was increased.
+A few years later, he was transferred to Tingweiqing.
+Wei Guan is well versed in legal principles, and every time he judges a case, he bases his judgment on reason, no matter how big or small the case is.
+When Deng Ai and Zhong Hui conquered Shu, Wei Gan used his former official position to supervise the military affairs of Deng Ai and Zhong Hui, and also served as the Zhenxi Military Division, with a thousand soldiers.
+After the Shu Kingdom was pacified, Deng Ai was granted the title in accordance with the emperor's will.
+Zhong Hui secretly harbored rebellious intentions because Deng Ai was dictatorial and arbitrary, so he secretly reported the situation with Wei Guan.
+The emperor issued an edict to send a guard to arrest Deng Ai, and Zhong Hui sent a guard to arrest Deng Ai first.
+Zhong Hui believed that Deng Ai had few soldiers and wanted Deng Ai to kill Wei Guan in order to aggravate Deng Ai's crime.
+Wei Guan knew that Zhong Hui wanted to harm him, but he could not refuse, so he arrived in Chengdu at night and sent a message to the generals led by Deng Ai, claiming that he had issued an imperial edict to arrest Deng Ai, and the others ignored him.
+If you come to join the army, you will still be rewarded with titles; if you dare not come and join the army, the three clans will be killed.
+When the cries of war broke out, they all came to defend Wei Guan. Only Deng Ai's entourage was still there.
+When the doors opened at dawn, Wei Guan took the messenger's vehicle and went directly to the Chengdu Palace.
+Deng Ai fell asleep before he got up, and both his father and son were captured.
+Several generals under Deng Ai planned to kidnap Deng Ai back and went straight to Wei Guan's camp with weapons.
+Wei Guan came out of the camp to meet them. He pretended to write a draft of the above table and was going to explain Deng Ai's affairs. The generals believed him and gave up.
+As soon as Zhong Hui arrived, he invited all the generals Hu Lie and others, took the opportunity to capture them, imprisoned them in Yizhou Prison, and then sent troops to rebel.
+As a result, the soldiers were worried about returning home, there was turmoil inside and outside, and people were worried and fearful.
+summary:
+Wei Guan, courtesy name Boyu, was from Anyi, Hedong. His ancestor Wei Hao was recruited for his Confucian learning during the Han Dynasty, and his father Wei Jian served as a minister. Orphaned at ten, Wei Guan was known for his filial piety, quiet temperament, and fairness. He inherited his father's marquis title and began his official career at twenty. He served in various positions, including as a regular attendant, and was known for his competence and legal expertise, judging cases based on reason.
+
+Chunk 1: 
+original: 
+会留瓘谋议，乃书版云 欲杀胡烈等 ，举以示瓘，瓘不许，因相疑贰。
+瓘如厕，见胡烈故给使，使宣语三军，言会反。
+会逼瓘定议，经宿不眠，各横刀膝上。
+在外诸军已潜欲攻会。瓘既不出，未敢先发。
+会使瓘慰劳诸军。
+瓘心欲去，且坚其意，曰： 卿三军主，宜自行。
+会曰： 卿监司，且先行，吾当后出。
+瓘便下殿。
+会悔遣之，使呼瓘。
+瓘辞眩疾动，诈仆地。
+比出阁，数十信追之。
+瓘至外解，服盐汤，大吐。
+瓘素羸，便似困笃。
+会遣所亲人及医视之，皆言不起，会由是无所惮。
+及暮，门闭，瓘作檄宣告诸军。
+诸军并已唱义，陵旦共攻会。
+会率左右距战，诸将击败之，唯帐下数百人随会绕殿而走，尽杀之。
+瓘于是部分诸将，群情肃然。
+邓艾本营将士复追破槛车出艾，还向成都。
+瓘自以与会共陷艾，惧为变，又欲专诛会之功，乃遣护军田续至绵竹，夜袭艾于三造亭，斩艾及其子忠。
+初，艾之入江由也，以续不进，将斩之，既而赦焉。
+及瓘遣续，谓之曰： 可以报江由之辱矣。
+事平，朝议封瓘。
+瓘以克蜀之功，群帅之力，二将跋扈，自取灭亡，虽运智谋，而无搴旗之效，固让不受。
+除使持节、都督关中诸军事、镇西将军，寻迁都督徐州诸军事、镇东将军，增封菑阳侯，以余爵封弟实开阳亭侯。
+泰始初，转征东将军，进爵为公，都督青州诸军事、青州刺史，加征东大将军、青州牧。
+所在皆有政绩。
+除征北大将军、都督幽州诸军事、幽州刺史、护乌桓校尉。
+至镇，表立平州，后兼督之。
+于时幽并东有务桓，西有力微，并为边害。
+瓘离间二虏，遂致嫌隙，于是务桓降而力微以忧死。
+朝廷嘉其功，赐一子亭侯。
+瓘乞以封弟，未受命而卒，子密受封为亭侯。
+瓘六男无爵，悉让二弟，远近称之。
+累求入朝，既至，武帝善遇之，俄使旋镇。
+咸宁初，征拜尚书令，加侍中。
+translation: 
+Zhong Hui left Wei Guan to plan and discuss, and wrote on his hand that he planned to kill Hu Lie and others. He raised his hand to show Wei Guan, but Wei Guan refused, so they became suspicious of each other.
+Wei Guan went to the toilet and saw Hu Lie's former entourage, and asked him to inform the three armies that Zhong Hui would rebel.
+Zhong Hui forced Wei Guan to make a decision and stayed up all night, each holding a knife across his knees.
+The armies outside had secretly planned to attack Zhonghui, but because Wei Guan had not come out, they did not dare to take action first.
+Zhong will ask Wei Guan to comfort the troops.
+Wei Guan wanted to leave, so he tried to keep Zhong Hui from changing his mind, saying: "You are the commander-in-chief of the armed forces, so you should go in person."
+Zhong Hui said: You are the supervisor, you go first, and I will go later.
+Wei Guan went down to the palace.
+Zhong Hui regretted sending Wei Guan and asked someone to recall Wei Guan.
+Wei Guan refused on the grounds of dizziness and pretended to fall to the ground.
+When he got out, dozens of messengers chased him.
+Wei Guan went outside, drank salt soup, and vomited violently.
+Wei Guanzi was weak, so he appeared to be seriously ill.
+Zhong Hui sent his cronies and doctors to visit him, but they all said that he could not get out of bed, so Zhong Hui was unscrupulous.
+Waiting until sunset, the city gates were closed, and Wei Cui wrote a message to inform all the armies.
+All armies responded to the righteous deed and attacked Zhonghui together at dawn.
+Zhong Hui led the resistance from the left and right, and the generals defeated him. Only a few hundred people in his tent followed Zhong Hui and fled around the palace, but they were all killed.
+Wei Quan deployed the generals and the morale of the army was in order.
+The soldiers from Deng Ai's headquarters caught up with the broken carriage, rescued Deng Ai, and returned to Chengdu.
+Wei Gan thought he was working with Zhong Hui to capture Deng Ai. He was afraid of an incident and wanted to take all the credit for killing Zhong Hui, so he sent his army guard Tian Xu to Mianzhu to attack Deng Ai at night in Sanzaoting, killing Deng Ai and his son Deng Zhong.
+When Deng Ai entered Jiangyou, he was about to kill Tian Xu because he refused to join him, but later pardoned him.
+When Wei Cui sent Tian Xu, he said to him: You can avenge Jiang You's humiliation.
+After the matter was settled, the court discussed granting Wei Guan the title.
+Wei Guan believed that the conquest of Shu was due to the strength of the generals. Generals Zhong Hui and Deng Ai were domineering and brought their own destruction. Although he used his resourcefulness, he did not take the credit for taking down the enemy flag, so he resolutely refused to accept it.
+Wei Cui was granted the title of Envoy Chijie, Commander-in-Chief of all military affairs in Guanzhong, and General of Zhenxi. Soon he was appointed Commander-in-Chief of all military affairs in Guanzhong, and General of Zhendong. He was granted the title of Marquis of Miaoyang, and the remaining titles were given to his younger brother Wei Shi as Marquis of Kaiyangting.
+In the early years of Taishi, he was transferred to the post of General Zhengshu, and his title was promoted to Duke. He was in charge of all military affairs in Qingzhou and the governor of Qingzhou. He was also awarded the title of General Zhengshu and Qingzhou Mu.
+There are political achievements wherever he works.
+He was awarded the title of General of Peking University, Commander-in-Chief of Youzhou's military affairs, Youzhou's governor, and Wuhuan's captain.
+When you arrive at your post, please set up Pingzhou, and then take charge of Pingzhou.
+At that time, Youzhou Bingzhou had Wuhuan in the east and Weiwei in the west, which was a scourge on the border.
+Wei Guan alienated the two of them, causing them to become suspicious and enmity. Wu Huan surrendered and Li Wei died of sorrow and anger.
+The imperial court commended Wei Guan for his achievements and gave him a son as Tinghou.
+Wei Guan asked for the title of his younger brother, but he died before he could be granted the title. His son Wei Mi was granted the title of Marquis of Ting.
+Wei Guan's six sons did not have titles, so they were all given to his two younger brothers. This was praised by people near and far.
+He repeatedly requested to enter the court. After entering the court, Emperor Wu treated him well and soon allowed him to return to guard.
+In the early years of Xianning, he was recruited to serve as Shangshu Ling and serve as a minister.
+summary:
+During the conquest of Shu, Wei Guan supervised the armies of Deng Ai and Zhong Hui. Zhong Hui, harboring rebellious intentions, plotted to have Deng Ai kill Wei Guan. Wei Guan, aware of the danger, arrested Deng Ai at night by issuing a false imperial edict. After Zhong Hui rebelled and was killed, Wei Guan, fearing repercussions from his involvement with Zhong Hui, ordered the assassination of Deng Ai and his son. Despite his role, Wei Guan refused credit for the conquest, attributing it to the generals. He was later appointed to high military positions, including General of Zhenxi and Governor of Qingzhou, where he achieved political successes and pacified border tribes like the Wuhuan.
+
+Chunk 2: 
+original: 
+性严整，以法御下，视尚书若参佐，尚书郎若掾属。
+瓘学问深博，明习文艺，与尚书郎敦煌索靖俱善草书，时人号为 一台二妙 。
+汉末张芝亦善草书，论者谓瓘得伯英筋，靖得伯英肉。
+太康初，迁司空，侍中、令如故。
+为政清简，甚得朝野声誉。
+武帝敕瓘第四子宣尚繁昌公主。
+瓘自以诸生之胄，婚对微素，抗表固辞，不许。
+又领太子少傅，加千兵百骑鼓吹之府。
+以日蚀，瓘与太尉汝南王亮、司徒魏舒俱逊位，帝不听。
+瓘以魏立九品，是权时之制，非经通之道，宜复古乡举里选。
+与太尉亮等上疏曰： 昔圣王崇贤，举善而教，用使朝廷德让，野无邪行。
+诚以闾伍之政，足以相检，询事考言，必得其善，人知名不可虚求，故还修其身。
+是以崇贤而俗益穆，黜恶而行弥笃。
+斯则乡举里选者，先王之令典也。
+自兹以降，此法陵迟。
+魏氏承颠覆之运，起丧乱之后，人士流移，考详无地，故立九品之制，粗且为一时选用之本耳。
+其始造也，乡邑清议，不拘爵位，褒贬所加，足为劝励，犹有乡论余风。
+中间渐染，遂计资定品，使天下观望，唯以居位为贵，人弃德而忽道业，争多少于锥刀之末，伤损风俗，其弊不细。
+今九域同规，大化方始，臣等以为宜皆荡除末法，一拟古制，以土断，定自公卿以下，皆以所居为正，无复悬客远属异土者。
+如此，则同乡邻伍，皆为邑里，郡县之宰，即以居长，尽除中正九品之制，使举善进才，各由乡论。
+然则下敬其上，人安其教，俗与政俱清，化与法并济。
+人知善否之教，不在交游，即华竞自息，各求于己矣。
+今除九品，则宜准古制，使朝臣共相举任，于出才之路既博，且可以厉进贤之公心，核在位之明暗，诚令典也。
+translation: 
+He is strict by nature and manages his subordinates according to the law. He regards the minister as an assistant and the minister as a subordinate official.
+Wei Gan had profound knowledge and was familiar with literature and art. He was good at cursive calligraphy along with Suo Jing of Dunhuang. People at that time said that "one minister can save two masters".
+Zhang Zhi was also good at cursive calligraphy in the late Han Dynasty. Commentators said that Wei Quan got the strength of Boying's calligraphy, and Suo Jing got the flesh of Boying's calligraphy.
+In the early years of Taikang, he was promoted to Sikong, but his positions of Shizhong and Shangshuling remained.
+His honest and concise administration was highly praised both inside and outside the court.
+Emperor Wu arranged for Wei Xuan, Wei Gan's fourth son, to marry Princess Fanchang.
+Wei Gan believed that he was a descendant of a Confucian disciple, and his marriage was not a prominent one. He refused outright, but the emperor did not allow it.
+He also served as the prince's young master, and was awarded the title of a mansion with thousands of soldiers and hundreds of cavalry.
+Because of the solar eclipse, Wei Gan and Taiwei Runan Wang Sima Liang and Situ Wei Shu all requested to give up their official positions, but the emperor refused.
+Wei Guan believed that the nine-level Zhongzheng system established by Wei was a temporary system, not a long-term solution, and the ancient rural selection and recommendation system should be restored.
+He and Taiwei Sima Liang and others wrote in Shangshu: In the past, sage kings respected wise men and recommended talented people for education, so that the court would be benevolent, virtuous and modest, and there would be no evil behavior outside the court.
+It is indeed because the politics of the people in the village are enough to supervise each other, consult on things and evaluate opinions, and there will definitely be wise men among them. People's reputation cannot be obtained out of thin air, but should be cultivated themselves.
+Therefore, when the virtuous are revered, the customs become more solemn, and when the wicked are deposed, the behavior of the people becomes more sincere.
+Therefore, the selection and recommendation by the township is a beautiful example of the late king.
+Since then, the approach has fallen into decline.
+Wei inherited a subversive national destiny. It arose after death and war. People were displaced and moved, and there was no fixed place for detailed assessment. Therefore, the system of nine grades was established as a temporary basis for selecting talents.
+When this system was first established, the rural appraisals were not limited to titles. The praise and criticism of people were enough to encourage and inspire, and there was also the spirit of rural commentary.
+The middle gradually became polluted, so seniority was used to determine grades, making people in the world believe that only high positions are noble. People abandoned virtue and ignored morality, fought for small gains, and violated morals. The disadvantages are not small.
+Now that the world is unified and enlightenment is beginning, we believe that all those bad laws and regulations should be eliminated and based entirely on the ancient system, judging by the place of residence, it is stipulated that from the public minister down, all officials from the place of residence will be appointed, and no more guests or people from other places will be appointed.
+In this way, all neighbors from the same township are from the same town. Officials in counties and counties will appoint elders from the township. The system of Zhongzheng Jiupin will be completely abolished, so that the recommendation of talents will be determined by the township.
+In this way, the subordinates will respect the superior, the people will be content with education, customs and politics will be clear, and education and laws will be successful.
+People know that the education of good and bad does not lie in communication. In this way, the flashy competition will naturally stop, and people will demand themselves.
+If the Nine Ranks are abolished, the ancient system should be used as the standard, allowing courtiers to recommend and appoint each other, creating a way to appoint talents, inspiring the public spirit of recommending talents, and assessing the political performance of those in office. This is indeed a good system.
+summary:
+Wei Guan was a strict administrator and a scholar, skilled in cursive calligraphy alongside Suo Jing. He advocated for the abolition of the nine-rank system in favor of ancient rural selection, but his proposal was not implemented. He also attempted to advise Emperor Wu against appointing the simple-minded Crown Prince, but his hints were dismissed. This led to resentment from Empress Jia. Later, due to his son's marital issues and political conflicts, Wei Guan requested retirement and was granted the title of Taibao.
+
+Chunk 4: 
+original: 
+须自表得报，就戮未晚也。
+瓘不从，遂与子恆、岳、裔及孙等九人同被害，时年七十二。
+恆二子璪、玠，时在医家得免。
+初，杜预闻瓘杀邓艾，言于众曰： 伯玉其不免乎！
+身为名士，位居总帅，既无德音，又不御下以正，是小人而乘君子之器，当何以堪其责乎？
+瓘闻之，不俟驾而谢。
+终如预言。
+初，瓘家人炊饭，堕地尽化为螺，岁余而及祸。
+太保主簿刘繇等冒难收瓘而葬之。
+初，瓘为司空，时帐下督荣晦有罪，瓘斥遣之。
+及难作，随兵讨瓘，故子孙皆及于祸。
+楚王玮之伏诛也，瓘女与国臣书曰： 先公名谥未显，无异凡人，每怪一国蔑然无言。
+《春秋》之失，其咎安在？
+悲愤感慨，故以示意。
+于是繇等执黄幡，挝登闻鼓，上言曰： 初，矫诏者至，公承诏当免，即便奉送章绶，虽有兵仗，不施一刃，重敕出第，单车从命。
+如矫诏之文唯免公官，右军以下即承诈伪，违其本文，辄戮宰辅，不复表上，横收公子孙辄皆行刑，贼害大臣父子九人。
+伏见诏书 为楚王所诳误，非本同谋者皆弛遣 。
+如书之旨，谓里舍人被驱逼赍白杖者耳。
+律，受教杀人，不得免死。
+况乎手害功臣，贼杀忠良，虽云非谋，理所不赦。
+今元恶虽诛，杀贼犹存。
+臣惧有司未详事实，或有纵漏，不加精尽，使公父子仇贼不灭，冤魂永恨，诉于穹苍，酷痛之臣，悲于明世。
+臣等身被创痍，殡敛始讫。
+谨条瓘前在司空时，帐下给使荣晦无情被黜，知瓘家人数、小孙名字。
+晦后转给右军，其夜晦在门外扬声大呼，宣诏免公还第。
+及门开，晦前到中门，复读所赍伪诏，手取公章绶貂蝉，催公出第。
+晦按次录瓘家口及其子孙，皆兵仗将送，著东亭道北围守，一时之间，便皆斩斫。
+害公子孙，实由于晦。
+及将人劫盗府库，皆晦所为。
+考晦一人，众奸皆出。
+乞验尽情伪，加以族诛。
+诏从之。
+朝廷以瓘举门无辜受祸，乃追瓘伐蜀勋，封兰陵郡公、增邑三千户，谥曰成，赠假黄钺。
+translation: 
+It's not too late to wait until you get a reply from the list before going to be punished.
+Wei Cui refused to listen, so he was killed together with nine other people, including his sons Wei Heng, Wei Yue, Wei Yi and his grandson. He was seventy-two years old at the time.
+Wei Heng's two sons, Wei Cao and Wei Jie, were able to escape the disaster at the time.
+When Du Yu heard that Wei Guan had killed Deng Ai, he said to everyone: Boyu may not be immune to the disaster!
+As a celebrity, in the position of commander-in-chief, without a good reputation, and without the right way to manage his subordinates, this is a villain taking advantage of the generosity of a gentleman. How should he bear the blame of others?
+After Wei Guan heard about it, he couldn't wait to drive and went to apologize.
+In the end, it was as predicted by Du Yu.
+At first, Wei Guan's family was cooking, and when it fell on the ground, it turned into snails, and he died more than a year later.
+Taibao Chief Secretary Liu Yao and others risked their lives to collect and bury Wei Cui's body.
+At first, Wei Guan was appointed Sikong. At that time, the governor Ronghui was guilty, so Wei Guan rebuked him and expelled him.
+When a disaster occurred, he followed the army to conquer Wei Guan, so his descendants were affected by the disaster.
+After Sima Zhang, the king of Chu, was executed, Wei Guan's daughter wrote to the ministers: My late grandfather has not yet received his name and title, and he is no different from ordinary people. I often blame the people in the country for not speaking up for him.
+Where does the blame for the mistakes of "Spring and Autumn" lie?
+Feeling sad and angry, I wrote a letter to express my gratitude.
+So Liu Yao and others held Huang Yao in their hands, beat the Dengwen drum, and told the emperor: When the person who falsely claimed the imperial edict arrived, the Duke received Shao Shu and said he should be dismissed. He immediately gave him a seal and ribbon. Although he had weapons, he did not move a sword or a gun. He also ordered the Duke to leave the house and ride a bicycle to obey the orders.
+According to the false edict, they only removed the duke from his official position. The right army and others followed the false edict and violated the original text and killed the prime ministers and assistants. Instead of going to court, they arbitrarily captured the duke's descendants and killed them, killing nine ministers, father and son.
+We saw that the edict stated that those who were deceived by the King of Chu were not the original conspirators and were given leniency.
+According to the purpose of the edict, it refers to people in private houses who are driven and persecuted and kill people with sticks.
+The law stipulates that those who are ordered to kill cannot be exempted from the death penalty.
+What's more, if you kill heroes and harm loyal people with your own hands, although you are not an accomplice, you cannot be forgiven.
+Although the chief culprit has been killed, the murderer is still there.
+We are afraid that the relevant officials are not clear about the facts, or have indulged in omissions, and have not eliminated the evil, so that the enemies of the father and son will not be eliminated, and the souls of the grievances will hold a grudge for a long time and complain to the sky. The extremely painful ministers will be sad in the clear world.
+Those of us who have suffered physical trauma need to complete the funeral arrangements.
+He solemnly stated to the emperor that when Wei Guan was Sikong, his attendant Rong Hui was dismissed for being dishonest. He knew the number of Wei Guan's family members and the names of his descendants.
+Rong Hui later transferred to the Youjun Army. That night Rong Hui shouted loudly outside the door, announcing that Shao Shu had dismissed the Duke and returned home to serve the people.
+When the door opened, Rong Hui entered the middle door, read out the false edict again, took the duke's official seal, ribbon and crown, and urged the duke to leave the house.
+Rong Hui registered the population and descendants of Wei Gan's family in order, escorted them with weapons, and formed a circle to the north of Dongting Road to guard them. In a short time, they were all killed.
+The reason for killing the Duke's descendants is really because of honor and disgrace.
+As for instigating people to rob and steal the treasury, it was Rong Hui who did it.
+Examine Rong Chabo, and all evil deeds come from him.
+Request to verify the authenticity and impose the punishment of clan execution on him.
+The edict complied with the memorial.
+Because Wei Guan's family suffered an innocent disaster, the imperial court remembered Guan's achievements in conquering Shu and made him the Duke of Junjian.
+summary:
+After Emperor Hui ascended, Wei Guan was restored to power but clashed with Prince Sima Zhang of Chu. Empress Jia, resenting Wei Guan's integrity, falsely accused him of plotting rebellion. Sima Zhang arrested Wei Guan and his family, executing them despite his subordinates' advice to resist. Wei Guan was 72. His grandsons Wei Cao and Wei Jie escaped. Du Yu had predicted Wei Guan's downfall due to his role in Deng Ai's death. Wei Guan's son Wei Heng, a calligrapher, wrote extensively on the history of Chinese scripts, from ancient characters to seal, clerical, and cursive styles. He was also killed in the purge. Wei Guan's other son Wei Zhan served as an official and petitioned to abolish cruel interrogation methods. Wei Jie, Wei Guan's grandson, was a renowned beauty and philosopher, known for his eloquence and admired by contemporaries. He died young at 27.
+
+Chunk 10: 
+original: 
+后东海王越以兰陵益其国，改封江夏郡公，邑八千五百户。
+怀帝即位，为散骑侍郎。
+永嘉五年，没于刘聪。
+元帝以瓘玄孙崇嗣。
+玠字叔宝，年五岁，风神秀异。
+祖父瓘曰： 此兒有异于众，顾吾年老，不见其成长耳！
+总角乘羊车入市，见者皆以为玉人，观之者倾都。
+骠骑将军王济，玠之舅也，俊爽有风姿，每见玠，辄叹曰： 珠玉在侧，觉我形秽。
+又尝语人曰： 与玠同游，冏若明珠之在侧，朗然照人。
+及长，好言玄理。
+其后多病体羸，母恆禁其语。
+遇有胜日，亲友时请一言，无不咨嗟，以为入微。
+琅邪王澄有高名，少所推服，每闻玠言，辄叹息绝倒。
+故时人为之语曰： 卫玠谈道，平子绝倒。
+澄及王玄、王济并有盛名，皆出玠下，世云 王家三子，不如卫家一兒。
+玠妻父乐广，有海内重名，议者以为 妇公冰清，女婿玉润。
+辟命屡至，皆不就。
+久之，为太傅西阁祭酒，拜太子洗马。
+璪为散骑侍郎，内侍怀帝。
+玠以天下大乱，欲移家南行。
+母曰： 我不能舍仲宝去也。
+玠启谕深至，为门户大计，母涕泣从之。
+临别，玠谓兄曰： 在三之义，人之所重。
+今可谓致身之日，兄其勉之。
+乃扶舆母转至江夏。
+玠妻先亡。
+征南将军山简见之，甚相钦重。
+简曰： 昔戴叔鸾嫁女，唯贤是与，不问贵贱，况卫氏权贵门户令望之人乎！
+于是以女妻焉。
+遂进豫章，是时大将军王敦镇豫章，长史谢鲲先雅重玠，相见欣然，言论弥日。
+敦谓鲲曰： 昔王辅嗣吐金声于中朝，此子复玉振于江表，微言之绪，绝而复续。
+不意永嘉之末，复闻正始之音，何平叔若在，当复绝倒。
+玠尝以人有不及，可以情恕；非意相干，可以理遣，故终身不见喜愠之容。
+以王敦豪爽不群，而好居物上，恐非国之忠臣，求向建鄴。
+京师人士闻其姿容，观者如堵。
+玠劳疾遂甚，永嘉六年卒，时年二十七，时人谓玠被看杀。
+葬于南昌。
+谢鲲哭之恸，人问曰： 子有何恤而致斯哀？
+答曰： 栋梁折矣，不觉哀耳。
+咸和中，改茔于江宁。
+丞相王导教曰： 卫洗马明当改葬。
+此君风流名士，海内所瞻，可修薄祭，以敦旧好。
+后刘惔、谢尚共论中朝人士，或问： 杜乂可方卫洗马不？
+尚曰： 安得相比，其间可容数人。
+惔又云： 杜乂肤清，叔宝神清。
+其为有识者所重若此。
+于时中兴名士，唯王承及玠为当时第一云。
+恆族弟展字道舒，历尚书郎、南阳太守。
+永嘉中，为江州刺史，累迁晋王大理。
+诏有考子证父，或鞭父母问子所在，展以为恐伤正教，并奏除之。
+中兴建，为廷尉，上疏宜复肉刑，语在《刑法志》。
+卒，赠光禄大夫。
+张华，字茂先，范阳方城人也。
+父平，魏渔阳郡守。
+华少孤贫，自牧羊，同郡卢钦见而器之。
+乡人刘放亦奇其才，以女妻焉。
+华学业优博，辞藻温丽，朗赡多通，图纬方伎之书莫不详览。
+少自修谨，造次必以礼度。
+translation: 
+Later, Sima Yue, King of the East China Sea, used Lanling to expand his feudal kingdom and changed it to Jiangxia County Duke, with a settlement of 8,500 households.
+Emperor Huai ascended the throne and was appointed Minister of Sanqi.
+In the fifth year of Yongjia, he died at the hands of Liu Cong.
+Emperor Yuan gave Wei Guan successive heirs.
+Wang Jie's courtesy name is Shubao. When he was five years old, his demeanor was different from ordinary people.
+Grandfather Wei Guan said: This child is different, but I am too old to see him grow up!
+When he was young, he rode a sheep cart to the market. Everyone who saw him thought he was a beauty, and people went to watch him.
+General Wang Ji, Wei Jie's uncle, was handsome, forthright and graceful. Every time he saw Wei Jie, he would sigh and say, "I feel ugly when I have pearls and jade around me."
+He once said to others: Traveling with Wei Gecko is like having bright beads beside you, shining brightly.
+When I grow up, I like to talk about mysteries.
+Later, he became sick and weak, and his mother often didn't let him talk much.
+On a good day, relatives and friends would sometimes ask him to say a few words, and everyone would praise him, thinking that he had touched on the subtleties of what he said.
+Langxie Wang Cheng was famous and rarely praised others. Whenever he heard Wei Gecko's remarks, he would sigh and fall in love.
+For this reason, people at that time said: Wei Gecko talks about Tao, and Pingzi falls over.
+Wang Cheng, Wang Xuan, and Wang Ji are all famous, and they are all inferior to Wei Gecko. People say that the three sons of the Wang family are not as good as the one son of the Wei family.
+Wei Jie's father-in-law Yue Guang is famous throughout the country. Commentators believe that his father-in-law is as clear as ice and his son-in-law is as smooth as jade.
+The recruitment order came many times, but he never showed up.
+A long time later, Taifu Ren Xihe offered wine and washed the prince's horse.
+Wei Duo served as Sanqi Shilang and served Emperor Huai in the palace.
+Wei Gecko planned to move to the south because of the chaos in the world.
+Mother said: I can't leave Zhongbao behind.
+Wei Jie explained the truth thoroughly, and for the sake of the family plan, my mother agreed to him with tears.
+Before leaving, Wei Gecko said to his brother: The morality of respecting father, teacher and king is what people value.
+Now it can be said that I am dedicated to serving the king, and my brother encourages himself.
+So he escorted his mother to Jiangxia.
+Wei Gecko's wife died first.
+When Shan Jian, the general who conquered the south, saw Wei Chan, he admired him very much.
+The mountain slips say: In the past, Dai Shuluan only married virtuous men, regardless of their status, not to mention that the Wei family was from a powerful and famous family!
+So she married her daughter to him.
+Then enter Yuzhang. At that time, the general Wang Dun was guarding Yuzhang, and the chief minister Xie Wan had always respected Wei Gecko before. He was very happy to meet him and talked with him for a whole day.
+Wang Dun said to Xie Wan: In the past, Wang Fusi's speech in China and North Korea was like the sound of gold, and this person's speech in Jiangbiao was like the vibration of jade. His subtle speech was interrupted and continued.
+Unexpectedly, in the last years of Yongjia, I heard Zhengshi's voice again. If Uncle He Ping was still here, he would definitely fall in love.
+Wei Jie often believes that no one is perfect and can be forgiven; if the offense is not intentional, it can be dealt with according to reason, so he will never see his happy and angry face throughout his life.
+Because Wang Dun was bold and unsociable, he liked to live among others, and he was probably not a loyal minister of the country. He took concrete and planned to build Ye.
+People in the capital heard about the appearance of Basket Gecko, and those who watched him crowded into a wall.
+Wei Jie's illness worsened due to overwork. He died in the sixth year of Yongjia at the age of twenty-seven. People at the time said that Wei Jie was expected to die.
+Buried in Nanchang.
+Xie Wan cried and he was very sad. Someone asked him: Why are you so sad?
+The answer is: The pillars are broken, so I am sad.
+In Xianhe, he was buried in Jiangning.
+Prime Minister Wang Dao said: Wei Xima should indeed be reburied.
+This person is a romantic and famous person who is looked up to by people from all over the world. He can prepare a small sacrifice to encourage his old friends.
+Later, Liu Hui and Xie Shang discussed Chinese and Korean people together. Someone asked: Can Du Yi be compared with Wei Xima?
+Xie Shang said: How can they be compared? The gap between them can accommodate several people.
+Liu Hui added: Du You is pure in appearance, and Shu Ben is pure in spirit.
+This is how Wei Gecko is highly regarded by knowledgeable people.
+At that time, among the celebrities of ZTE, Wang Chenghe and Wei Jie were the number one at that time.
+Wei Heng's younger brother Wei Zhan, named Daoshu, served successively as Shangshu Lang and Nanyang Prefect.
+During the Yongjia period, he served as the governor of Jiangzhou and was gradually promoted to Dali, King of Jin Dynasty.
+There are provisions in the Shao book about torture of sons to prove their father's sins, or whipping parents to ask where their sons are. Wei Zhan thought that this might harm the political religion, so he petitioned to abolish it.
+During the Zhongxing Dynasty, he was appointed Tingwei. Shangshu said that corporal punishment should be restored. The matter was recorded in the book "Criminal Law Chronicles".
+After his death, he was given posthumously to Dr. Guanglu.
+Zhang Hua, courtesy name Maoxian, was born in Fangcheng, Fanyang.
+His father, Zhang Ping, was the governor of Yuyang County in Wei.
+When Zhang Hua was young, he was lonely and poor, tending sheep by himself. Lu Qin from the same county discovered him and valued him.
+Liu Fang, a fellow countryman, also valued his talent and married his daughter to him.
+Zhang Hua's studies are profound and extensive, his vocabulary is gorgeous, he is smart and erudite, and there is no book like Yuanwei Fanggui that he does not read carefully.
+When he was young, he cultivated himself carefully and acted according to etiquette.
+summary:
+Zhang Hua, courtesy name Maoxian, was from Fangcheng. Orphaned and poor, he herded sheep but was recognized for his talent. He was learned and wrote the "Ode to the Quail," which gained him fame. He served as a key advisor to Emperor Wu, supporting the conquest of Wu and overseeing logistics. After Wu's fall, he was rewarded but later fell out of favor due to his support for Prince Sima You. He was sent to Youzhou, where he pacified border tribes and received tribute from distant states. Zhang Hua's son Zhang Yi was also killed. His grandson Zhang Yu survived. Liu Bian, a loyal official, warned Zhang Hua of Empress Jia's plots but was not heeded. He later died by poison to avoid execution. The text concludes with a lament for Wei Guan and Zhang Hua, praising their loyalty but noting their tragic ends in a time of chaos.
+
+Chunk 14: 
+original: 
+楚王玮受密诏杀太宰汝南王亮、太保卫瓘等，内外兵扰，朝廷大恐，计无所出。
+华白帝以 玮矫诏擅害二公，将士仓卒，谓是国家意，故从之耳。
+今可遣驺虞幡使外军解严，理必风靡。
+上从之，玮兵果败。
+及玮诛，华以首谋有功，拜右光禄大夫、开府仪同三司、侍中、中书监，金章紫绶。
+固辞开府。
+贾谧与后共谋，以华庶族，儒雅有筹略，进无逼上之嫌，退为众望所依，欲倚以朝纲，访以政事。
+疑而未决，以问裴頠，頠素重华，深赞其事。
+华遂尽忠匡辅，弥缝补阙，虽当暗主虐后之朝，而海内晏然，华之功也。
+华惧后族之盛，作《女史箴》以为讽。
+贾后虽凶妒，而知敬重华。
+久之，论前后忠勋，进封壮武郡公。
+华十余让，中诏敦譬，乃受。
+数年，代下邳王晃为司空，领著作。
+及贾后谋废太子，左卫率刘卞甚为太子所信遇，每会宴，卞必预焉。
+屡见贾谧骄傲，太子恨之，形于言色，谧亦不能平。
+卞以贾后谋问华，华曰： 不闻。
+卞曰： 卞以寒悴，自须昌小吏受公成拔，以至今日。
+士感知己，是以尽言，而公更有疑于卞邪！
+华曰： 假令有此，君欲如何？
+卞曰： 东宫俊乂如林，四率精兵万人。
+公居阿衡之任，若得公命，皇太子因朝入录尚书事，废贾后于金墉城，两黄门力耳。
+华曰： 今天子当阳，太子，人子也，吾又不受阿衡之命，忽相与行此，是无其君父，而以不孝示天下也。
+虽能有成，犹不免罪，况权戚满朝，威柄不一，而可以安乎！
+及帝会群臣于式乾殿，出太子手书，遍示群臣，莫敢有言者。
+translation: 
+King Sima Zhang of Chu accepted a secret edict to kill Sima Liang, King of Runan, and Guan, the chief minister. The internal and external armies were in chaos, and the court was in panic and could do nothing.
+Zhang Hua told the emperor: Sima Zhang forged an edict and killed the second prince without permission. In a hurry, the soldiers thought it was the will of the country and followed him.
+Now we can send people to carry Yuyu banners to relieve the peripheral troops from alerting them. Logically, they will follow the wind.
+The emperor obeyed him, and Chu King Sima Zhang's rebellion failed.
+When Sima Zhang was killed, Qiang Jie was awarded the title of Doctor Youguanglu, Kaifu Yitong Sansi, Shizhong, Zhongshujian, with a gold seal and purple ribbon because he was the first to make a plan.
+Resolutely refuse to open the government.
+Jia Mi conspired with the queen and believed that Zhang Hua was from a commoner family, elegant and strategic, and was not suspected of intimidating the emperor when he advanced, but would be favored by the public when he retreated. He planned to rely on him to govern the court and consult on political affairs.
+Undecided, he went to ask Pei Yuan. Pei Yuan had always respected Zhang Hua and fully agreed with this matter.
+Zhang Hua then tried his best to help and correct mistakes. Although the fatuous emperor was tyrannizing the queen, the country was stable. This was Zhang Hua's credit.
+Zhang Hua was afraid that the queen's family would become powerful, so he wrote "Proverbs for Women's History" as a satire.
+Although Empress Jia was fierce and jealous, she knew how to respect Chui Long.
+After a period of time, people discussed Cheng Chu's outstanding achievements and made him the Duke of Zhuangwu.
+Zhang Hua gave in more than ten times, and the emperor issued an edict to urge him to enlighten him, and then he accepted it.
+A few years later, he replaced Sima Huang, the king of Xiapi, as Sikong and concurrently as the author.
+When Empress Jia planned to depose the prince, Zuo Wei led Liu Bian, who was trusted by the prince. Liu Bian would definitely attend every gathering and banquet.
+The prince resented Buying Pride when he saw him many times, and it showed in his words and expressions, and Buying was not convinced.
+Liu Bian asked Zhang Ge about Empress Jia's plan, Qiang Long said, "I haven't heard of it."
+Suzhuang said: Suzhuang was born in poverty. He was promoted from a small official in Xuchang to his current status.
+The scholar was grateful to his confidant, so he told me everything, but the gentleman had doubts about me!
+Zhang Hua said: If there is something like you said, what do you want to do?
+Liu Bian said: The heroes of the East Palace cannot be deployed clearly, and there are ten thousand elite soldiers in the four ranks.
+The Duke is in the important position of presiding over the state affairs. If he gets the order from the Duke and the crown prince enters the court and serves as the minister, after the purchase of Jinyong City is abolished, the power of the two Huangmen will be enough.
+Zhang Hua said: Now that the emperor has ascended the throne, the prince is the emperor's son. I did not accept the order and suddenly participated in such a thing. I have no regard for the emperor and my father, and I show my unfilial piety to the world.
+Even if they succeed, they still cannot be exempted from the crime. What's more, the dynasty is full of powerful officials and nobles, and the authority is not on one side. How can this be stable?
+When the emperor gathered the ministers in Shiqian Hall and showed the prince's handwriting to the ministers, no one dared to speak.
+summary:
+Recalled to court, Zhang Hua became a central figure under Emperor Hui, stabilizing the government despite Empress Jia's tyranny. He opposed the deposition of the crown prince, arguing for caution, but was overruled. He also thwarted a coup by Prince Sima Zhang of Chu. However, his refusal to join Prince Sima Lun of Zhao's rebellion led to his arrest and execution at 69, along with his family. He was known for his vast knowledge, collecting rare books, and his expertise in astronomy and strange phenomena, such as identifying dragon meat and predicting chaos from a bird feather.
+

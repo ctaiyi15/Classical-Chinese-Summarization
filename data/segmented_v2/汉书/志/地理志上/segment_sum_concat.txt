@@ -1,0 +1,226 @@
+Summary uses chunk [0, 1, 3, 3, 5, 5, 5]
+
+Chunk 0: 
+original: 
+昔在黄帝，作舟车以济不通，旁行天下，方制万里，画野分州，得百里之国万区。
+是故《易》称 先王建万国，亲诸侯 ，《书》云 协和万国 ，此之谓也。
+尧遭洪水，怀山襄陵，天下分绝，为十二州，使禹治之。
+水土既平，更制九州，列五服，任土作贡。
+曰：禹敷土，随山刊木，奠高山大川。
+冀州既载，壶口治梁及岐。
+既修太原，至于岳阳。
+覃怀底绩，至于衡章。
+厥土惟白壤。
+厥赋上上错，厥田中中。
+恒、卫既从，大陆既作。
+鸟夷皮服，夹右碣石，入于河。
+泲、河惟兖州。
+九河既道，雷夏既泽，雍、沮会同，桑土既蚕，是降丘宅土。
+厥土黑坟，草繇木条。
+厥田中下，赋贞，作十有三年乃同。
+厥贡漆丝，厥棐织文。
+浮于泲、漯，通于河。
+海、岱惟青州。
+虫禺夷既略，惟、甾其道。
+厥土白坟，海濒广澙。
+田上下，赋中上。
+贡盐、絺，海物惟错，岱畎丝、枲、钅公、松、怪石，莱夷作牧，厥棐檿丝。
+浮于汶，达于泲。
+海、岱及淮惟徐州。
+淮、沂其乂，蒙、羽其艺。
+大野既猪，东原厎平。
+厥土赤埴坟，草木渐包。
+田上中，赋中中。
+translation: 
+In the past, the Yellow Emperor taught people to make boats and carts to help reach places where roads were impassable. The Yellow Emperor therefore traveled all over the world, planned a territory of thousands of miles, divided the fields into states, and obtained a country with a hundred miles of land, with 10,000 regions.
+Therefore, the Book of Changes. "North Gua" says that the former kings established all the kingdoms and got close to the princes, "Shang Shu".
+In Yao's time, there was a flood. The mountains were surrounded, the hills were submerged, and the world was separated and isolated. Twelve states were formed, and Dayu was sent to control the floods.
+After the flood was settled, it was changed to the regional system of Kyushu, divided into five services, and the tribute was determined according to the land.
+"Shangshu" says: Dayu divided the land and cut trees along the mountains as road signs, thus laying the foundation for high mountains and rivers.
+Jizhou: It started from Hukou, then Liangshan and Qishan.
+After Taiyuan was governed, it was governed all the way to Yueyang.
+After the governance in the Qinhuai area achieved results, we reached Zhangshui, which flows across the Yellow River.
+The soil in this area is white soil.
+The land rent paid for tribute here is the first among the nine, and other varieties are produced. The soil quality here is the fifth.
+After the Hengshui River and the Weishui River followed the old river course, Daluze River began to be managed.
+The people of Niaoyi used animal skins to make clothes. Yu walked on the right side of Jieshi and entered the Yellow River.
+Between Jishui and the Yellow River is Yanzhou.
+The nine tributaries of the lower reaches of the Yellow River have been dredged, Leixiaze has merged into a large lake, Yongshui River and Jushui River have merged at Leixiaze, and sericulture has begun where mulberry trees are planted, so people come down from the hills to live on the flat land.
+The soil here is dark and fat, the grass is lush and the trees are straight.
+The fields here are of the sixth grade, and the tribute is of the ninth grade. It took thirteen years of farming to become the same as in other states.
+The tributes here include lacquer and silk, as well as colored silk wrapped in baskets.
+Take a boat from Jishui and Luoshui to enter the Yellow River.
+Between the sea and Mount Tai is Qingzhou.
+After the Yi River was managed, the Weishui River and Zi River were also dredged.
+The soil here is white and fertile, and there is a wide salt-alkali land by the sea.
+The fields here are of the third class, and the rents and taxes paid are of the fourth class.
+Tributes to the court include salt and sesame, as well as various seafood, silk, quail, lead, pine and strange rocks from the Tai Valley area. Lai Yi area can be used for grazing. The tribute here is tussah silk in baskets.
+The tributes were carried by boat from Wenshui to Jishui and then transferred to the Yellow River.
+Between the sea, Mount Tai and the Huaihe River lies Xuzhou.
+After the Huaihe River and Yishui River are controlled, planting can be carried out in the Mengshan and Yushan areas.
+Now that Dabi Ze has been filled with water, the Shuyuan area has also been managed.
+The soil here is red, sticky, fertile, and lush with vegetation.
+The fields here are second-class, and the rents and taxes paid are fifth-class.
+summary:
+It then references the *Book of Changes* and *Shang Shu*, noting that during Yao's time, a flood submerged mountains and hills, isolating the world into twelve states. Dayu was sent to control the floods, and afterward, the regional system was changed to Kyushu, divided into five services, with tribute determined by land quality.
+
+Chunk 1: 
+original: 
+贡土五色，羽畎夏狄，峄阳孤桐，泗濒浮磬，淮夷蠙珠臮鱼，厥棐玄纤缟。
+浮于淮、泗，达于河。
+淮、海惟扬州。
+彭蠡既猪，阳鸟逌居。
+三江既人，震泽厎定，簜既敷，草夭木乔。
+厥土涂泥。
+田下下，赋下上错。
+贡金三品，瑶、瑻、簜、齿、革、羽毛，鸟夷卉服，厥棐织贝，厥包橘、柚，锡贡。
+均江海，通于淮、泗。
+荆及衡阳惟荆州。
+江、汉朝宗于海。
+九江孔殷，沱，灊既道，云梦土作乂。
+厥土涂泥。
+田下中，赋上下。
+贡羽旄、齿、革，金三品，杶、幹、栝、柏、厉、砥、砮、丹，惟箘簵、楛，三国厎贡厥名，包匦菁茅，厥棐玄纁玑组，九江纳锡大龟。
+浮于江、沱、灊、汉，逾于洛，至于南河。
+荆、河惟豫州。
+伊、洛、瀍、涧既入于河，荥、波既猪，道荷泽，被盟猪，厥土惟壤，下土坟垆。
+田中上，赋错上中。
+贡漆、枲、絺、纻、棐纤纩，锡贡磬错。
+浮于洛，入于河。
+华阳，黑水惟梁州。
+岷、嶓既艺，沱、灊既道，蔡、蒙旅平，和夷厎绩。
+厥土青黎。田下上，赋下中三错。
+贡璆、铁、银、镂、砮、磬、熊、罴、狐、狸、织皮。
+西顷因桓是俫，浮于灊，逾于沔，入于渭，乱于河。
+黑水、西河惟雍州。
+弱水既西，泾属渭汭。
+漆、沮既从，酆水逌同。
+荆、岐既旅，终南、惇物，至于鸟鼠，原隰厎绩，至于猪野。
+translation: 
+The tribute soil is of five colors, the valley of Yushan is Xia Di, the southern slope of Cicada Mountain produces unique paulownia trees, there are floating stones by the swimming pool that can be used as chimes, the Huaiyi area produces Wangbi pearls and beautiful fish, and there are also black silk bundles and white silk in this area.
+Take a boat from Huai River and Swim River to Huanghui.
+Between the Huaihe River and the sea is Yangzhou.
+Pengli has gathered great water, and this bundle has become a habitat for swan geese.
+After the water from Sanjiang flowed into the sea, Zhenze was also pacified. Small and large bamboos grow everywhere, the grass is lush and the trees are tall.
+The soil is moist mud.
+The fields here are of the ninth grade, and the rents and taxes paid are of the seventh grade, mixed with other categories.
+The tribute items were gold, silver, copper, Yao, Suo, Xiaodang, teeth, leather, and feathers. Wuyi wore straw clothes. People put bundles of cloth and shells in baskets, and wrapped oranges and pomelos as tribute.
+Came through the Huai River and swimming.
+To the south of Jingshan Mountain and to the north of Hengshan Mountain is Jingzhou.
+The Yangtze River and Han River flow into the sea.
+The Yangtze River passes through Jingshan Mountain and is divided into nine tributaries. After the Tuo River and Dibai River are dredged, the land in Yunmeng can be cultivated.
+The soil is moist mud.
+The farmland here is of the eighth grade, and the rent paid is the third grade.
+The tributes included feathers, teeth, leather, gold, silver, copper, fennel, stems, eucalyptus, cypress, Li, Di, Nu, Dan, as well as Rong and Qu. The three vassal states paid tribute to their famous products, wrapped bayberries and jingmao, colored silk and strings of pearls in baskets, and Jiujiang paid tribute to the giant tortoise.
+Take a boat from the Yangtze River, Tuoshui, Dianshui, and Moshui, cross the Luoshui River, and reach the Nanhe River.
+Between Jingshan Mountain and the Yellow River is Yuzhou.
+After the Yishui, Luoshui, Lushui and Jianshui entered the Yellow River, Rong and Bo filled up the water, dredged the Heze, and built embankments at Mengzhu. The soil in this Xiang is soft, and underneath is fertile black hard soil.
+The farmland in this parcel is of the fourth grade, and the rent paid is the second grade, mixed with the first grade tribute.
+The tributes include lacquer, silk, silk, silk in baskets and bundles of cotton, as well as stones for making jade.
+Take a boat from Luoshui to the Yellow River.
+South of Huashan and between Heishui is Liangzhou.
+Minshan and Banzhong Mountains have been able to be planted, Tuoshui and Difenshui have been dredged, Caishui and Mengshui have been pacified, and Heyi has been controlled.
+The soil of this package is green and the bundles are sparse. The fields are of the seventh grade, and the tributes are of the eighth grade. There are also seventh and ninth grades mixed in.
+The tributes include iron, silver, carvings, seals, chimes, bears, bears, foxes, raccoons, and woven skins.
+Xiqing Mountain winds along the direction of the Huan River. From Diving, you can take a boat, cross the Mian River, arrive at the Weishui River, and cross the Weishui River to the Yellow River.
+Between Heishui and Xihe is Yongzhou.
+The weak water has flowed westward, and the Jing River has flowed into the Wei River.
+After the lacquer water and Ju water flowed into the tears obediently, Feng water also flowed into the Wei water.
+After Jingshan and Qishan were managed, Zhongnan, Dunwu and Niaoshu Mountain were all managed.
+summary:
+The text details the geography, soil, fields, tribute, and waterways of each of the nine provinces: Jizhou, Yanzhou, Qingzhou, Xuzhou, Yangzhou, Jingzhou, Yuzhou, Liangzhou, and Yongzhou. For each province, it describes the soil type, land grade, tribute items, and river routes for transportation. For example, Jizhou has white soil and first-grade tribute, while Yangzhou has moist mud soil and ninth-grade fields. The text also mentions the opening of mountains and dredging of rivers, such as the Yellow River being dredged from Jishi Mountain to Longmen Mountain.
+
+Chunk 3: 
+original: 
+六府孔修，庶土交正，厎慎财赋，咸则三壤，成赋中国。
+锡土姓： 祗台德先，不距朕行。
+五百里甸服：百里赋内总，二百里内铚，三百里内戛服，四百里粟，五百里米。
+五百里侯服：百里采，二百里男国，三百里诸侯。
+五百里绥服；三百里揆文教，二百里奋武卫。
+五百里要服：三百里夷，二百里蔡。
+五百里荒服：三百里蛮，二百里流。
+东渐于海，西被于流沙，朔、南洎，声教讫于四海。
+禹锡玄圭，告厥成功。
+后受禅于虞，为夏后氏。
+殷因于夏，亡所变改。
+周既克殷，监于二代而损益之，定官分职，改禹徐、梁二州合之于雍、青，分冀州之地以为幽、并。
+故《周官》有职方氏，掌天下之地，辩九州之国。
+东南曰扬州：其山曰会稽，薮曰具区，川曰三江，浸曰五湖；其利金、锡、竹箭；民二男五女；畜宜鸟兽，谷宜稻。
+正南曰荆州：其山曰衡，薮曰云梦，川曰江、汉，浸曰颍、湛；其利丹、银、齿、革；民一男二女；畜及谷宜，与扬州同。
+translation: 
+The six prefectures of water, fire, metal, wood, earth, and grain are all well governed. Taxes are levied on the land everywhere, and the amount of property taxes is carefully stipulated. Taxes are stipulated according to the upper, middle, and lower levels of the land.
+Give land to the princes, and give them surnames along with them: The people I respect and support are those who take virtue as a prerequisite and do not disobey my measures.
+The area five hundred miles away from the royal city is called Dianfu: the place one hundred miles away pays the grain with stalks, the place two hundred miles away pays the ear of the grain, the place three hundred miles away pays the grain with peas, the place four hundred miles away pays the grain with the husk, and the place five hundred miles away pays the rice.
+The areas five hundred miles away from the Dianfu are called Marquisfu: the area closest to the Dianfu of a hundred miles is the place where ministers and officials are enfeoffed, the area within two hundred miles is the place where barons are enfeoffed, and the area three hundred miles away is the place where princes are enfeoffed.
+The surrounding areas of five hundred miles each are Suifu: the place three hundred miles away is to inspect the emperor's politics and religion and implement it, and the place two hundred miles away is to defend the emperor with force.
+Five hundred miles must be served: three hundred miles must implement civilian laws, and two hundred miles must abide by criminal laws.
+Five Hundred Miles of Wilderness: If you have three hundred miles of land, you must use education to change your barbaric nature; if you have two hundred miles of land, let it flow.
+It gradually reaches the sea to the east, covers the quicksand to the west, spreads to the north and south at the same time, and its prestige and teachings penetrate deep into the four seas.
+Yao gave Dayu a beautiful black jade in recognition of his success in controlling floods.
+Later, Dayu accepted the concession from Yu Shun and became the emperor, and was called the Xiahou clan.
+The Shang Dynasty inherited the Xia Dynasty system without any changes.
+After the Zhou Dynasty defeated the Yin Dynasty, it drew on the systems of the Yin and Zhou dynasties and added or subtracted them, determined official positions, and assigned responsibilities. Xuzhou and Liangzhou established by Xia Yu were merged into Yongzhou and Qingzhou respectively, and the area of ​​Jizhou was divided into Youzhou and Bingzhou.
+Therefore, in the "Book of Rites of Zhou", there is an official named Fang, who is in charge of the land of the world and governs all the countries in Kyushu.
+The southeastern part is called Yangzhou: its mountains are named Kuaiji, its large lakes are called Juqu, its big rivers are called Sanjiang, and the lakes that can divert canals to irrigate farmland are called Five Lakes. It is rich in gold, tin, and bamboo arrows. The male-female ratio of the people is two men and five women. It is suitable for raising birds and animals, and it is suitable for growing grains and rice.
+Directly south is Jingzhou: the mountain is called Hengshan, the lake is called Yunmeng, the big rivers are the Yangtze River and the Han River, and the canals that can be diverted to irrigate farmland are called Yingshui and Zhanshui. This area is rich in elixirs, silver, teeth, and leather. The male-to-female ratio of the people is one male to two females. The animals suitable for livestock and the cereals grown are the same as those in Yangzhou.
+summary:
+After the pacification of Kyushu, the land became habitable, and the nine rivers were dredged. Taxes were levied based on land quality, and the area around the royal city was divided into five zones: Dianfu, Houfu, Suifu, Yaofu, and Huangfu, each with specific tribute requirements. The text then describes the succession of dynasties: Yao gave Dayu a black jade, Dayu became emperor as the Xiahou clan, the Shang inherited the Xia system, and the Zhou modified it, merging Xuzhou and Liangzhou into Yongzhou and Qingzhou and dividing Jizhou into Youzhou and Bingzhou. The *Book of Rites of Zhou* describes the official Fang, who governed the land of the world and all countries in Kyushu. The text then lists the characteristics of each province, including mountains, lakes, rivers, irrigation canals, products, population ratios, and suitable livestock and grains. For instance, Yangzhou has Kuaiji Mountain, Juqu Lake, and Sanjiang River, with a population ratio of two men to five women, and is suitable for raising birds and animals and growing rice.
+
+Chunk 5: 
+original: 
+而太昊、黄帝之后，唐、虞侯伯犹存，帝王图籍相踵而可知。
+周室既衰，礼乐征伐自诸侯出，转相吞灭，数百年间，列国耗尽。
+至春秋时，尚有数十国，五伯迭兴，总其盟会。
+陵夷至于战国，天下分而为七，合从连衡，经数十年。
+秦遂并兼四海。
+以为周制微弱，终为诸侯所丧，故不立尺土之封，分天下为郡县，荡灭前圣之苗裔，靡有孓遗者矣。
+汉兴，因秦制度，崇恩德，行简易，以抚海内。
+至武帝攘却胡、越，开地斥境，南置交阯，北置朔方之州，兼徐、梁、幽、并夏、周之制，改雍曰凉，改梁曰益，凡十三部，置刺史。
+先王之迹既远，地名又数改易，是以采获旧闻，考迹《诗》、《书》，推表山川，以缀《禹贡》、《周官》、《春秋》，下及战国、秦、汉焉。
+京兆尹，故秦内史，高帝元年属塞国，二年更为渭南郡，九年罢，复为内史。
+武帝建元六年分为右内史，太初元年更为京兆君。
+元始二年，户十九万五千七百二，口六十八万二千四百六十八。
+县十二：长安，高帝五年置。
+惠帝元年初城，六年成。
+户八万八百，口二十四万六千二百。
+王莽曰常安。
+新丰，骊山在南，故骊戎国。
+秦曰骊邑。
+高祖七年置。
+船司空，莽曰船利。
+蓝田，山出美玉，有虎候山祠，秦孝公置也。
+华阴，故阴晋，秦惠文王五年更名宁秦，高帝八年更名华阴。
+太华山在南，有祠，豫州山。
+集灵宫，武帝起。莽曰华坛也。
+郑，周宣王弟郑桓公邑。有铁官。
+湖，有周天子祠二所。
+translation: 
+After Taiwu and Huangdi, marquises and counts still existed in Tang and Yushi, and the maps and household registrations of the emperors can be known one after another.
+After the decline of the Zhou Dynasty, the ritual and music conquests were decided by the princes, and they were annexed and eliminated one by one. Within hundreds of years, all the princely states were wiped out.
+By the Spring and Autumn Period, there were still dozens of countries, and five countries successively became hegemons and became alliance leaders.
+Gradually during the Warring States Period, the world was divided into seven countries, which were unified and unified. After several decades.
+The Qin Dynasty then annexed the four seas.
+It was believed that the decline of the Zhou Dynasty lay in the enfeoffment of vassal states. Therefore, Qin did not establish feudal states with a foot of land, divided the world into counties and counties, and wiped out the descendants of the previous sages, leaving no one left.
+After the establishment of the Han Dynasty, it followed the system of the stupid dynasty, respected kindness, and implemented simple and easy methods to appease the country.
+By the time of Emperor Wu of the Han Dynasty, the Hu and Yue people were repelled, the land was opened up, the territory was expanded, Jiaoxu Prefecture was established in the south, and Shuofang Prefecture was established in the north. Xuzhou, Luanye, and Youye were annexed, and the system was the same as that of the Xia and Zhou Dynasties.
+The deeds of the previous kings were separated by a long time, and the place names changed several times. Therefore, we collected old rumors, examined the records in the "Book of Songs" and "Shangshu", and made inferences based on Shan! to connect the "Yu Gong", "Zhou Guan", and "Spring and Autumn", down to the Warring States, Qin, and Han Dynasties.
+Jingzhaoyin was the place of internal history of the Qin Dynasty. It was transferred to the Sai Kingdom in the first year of Emperor Gaodi. It was changed to Weinan County in the second year of Emperor Gaodi. It was revoked and renamed to internal history in the ninth year of Emperor Gaodi.
+In the sixth year of Jianyuan of Emperor Wu, it was divided into Youneishi, and in the first year of Taichu it was changed to Jingzhaoyin.
+In the second year of Wushi, there were 195,702 households with 682,468 people.
+It has twelve counties under its jurisdiction: Chang'an County, which was established in the fifth year of Emperor Gaodi's reign.
+Construction of the city began in the first year of Emperor Hui's reign and was completed in the sixth year of Emperor Hui's reign.
+There are 80,800 households and 246,200 people.
+During Wang Mang's reign, it was called Chang'an.
+Xinfeng County, Lishan Mountain is to the south of it, and it used to be the Lirong Kingdom.
+The Qin Dynasty was called Liyi.
+It was established in the seventh year of Emperor Gaozu's reign.
+Ship Sikong County, Wang Mang's name was Chuanli.
+In Lantian County, the mountains produce beautiful jade, and there is the Huhou Mountain Temple, which was built during the reign of Duke Xiao of Qin.
+Huayin County, formerly known as Yin Jin, was renamed Ning Qin in the fifth year of King Qin Huiwen, and was renamed Huayin in the eighth year of Emperor Gao.
+Taihua Mountain is to the south of it and has a sacrificial temple. It is a mountain in Yuzhou.
+Jiling Palace was built during the reign of Emperor Wu and was called Huatan during the reign of Wang Mang.
+Zheng County is the town of Zheng Huan Gong, the younger brother of King Xuan of Zhou Dynasty. It has iron officials.
+In Hu County, there are two temples dedicated to the emperor of the Zhou Dynasty.
+summary:
+The Zhou Dynasty had five levels of nobility but only three levels of land enfeoffment: dukes and marquises with a hundred miles, counts with seventy miles, and sons and barons with fifty miles. There were about 1,800 small countries. After the Zhou Dynasty declined, the states were annexed and eliminated, leaving only dozens by the Spring and Autumn Period, with five hegemons. During the Warring States Period, the world was divided into seven countries, which were later unified by Qin. Qin, believing the Zhou's decline was due to enfeoffment, divided the world into counties and commanderies, eliminating the descendants of previous sages. The Han Dynasty followed the Qin system but later expanded its territory under Emperor Wu, establishing Jiaoxu Prefecture in the south and Shuofang Prefecture in the north. The text then provides a detailed list of commanderies and counties, including their populations, jurisdictions, and historical notes. For example, Jingzhaoyin was the internal history of Qin, later renamed, with 195,702 households and 682,468 people, governing twelve counties including Chang'an and Xinfeng. Similarly, Zuo Fengyi had 235,101 households and 917,822 people, governing twenty-four counties such as Gaoling and Luyang. The text continues with similar descriptions for other commanderies like You Fufeng, Hongnong, Hedong, Taiyuan, Shangdang, Hanoi, Henan, Dongjun, Chenliu, Yingchuan, Runan, Nanyang, Nanjun, Jiangxia, Lujiang, Jiujiang, Shanyang, Jiyin, Peijun, Wei, Julu, Changshan, Qinghe, Zhuo, Bohai, Pingyuan, Qiancheng, Jinan, Taishan, Qijun, Beihai, Donglai, Langxie, Donghai, Linhuai, Kuaiji, Danyang, Yuzhang, Guiyang, Wuling, Lingling, Hanzhong, Guanghan, Shu, Qianwei, Yuejiao, Yizhou, Yangke, and Bajun. Each entry includes household counts, populations, and lists of counties with historical notes, such as the establishment of counties during the reigns of various emperors and name changes during Wang Mang's interregnum.
+
