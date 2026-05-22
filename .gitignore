@@ -2,4 +2,5 @@
 data/raw/**/*.txt
 !data/raw/sample/
 !data/raw/sample/**/*.txt
-notebooks/experiment*
+notebooks/experiment*.DS_Store
+*/.DS_Store
