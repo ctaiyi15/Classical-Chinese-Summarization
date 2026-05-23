@@ -28,11 +28,13 @@ Reference paper:
 ├── notebooks/
 │   ├── trans_and_eval.ipynb    # Early translation + evaluation workflow
 │   ├── hansum_summarize_generate.ipynb # Summary Generation
-│   ├── hansum_eval_summary_llm.ipynb   # Summary Evaluation with LLM
+│   ├── hansum_eval_summary_llm_task1.ipynb   # Summary Evaluation with LLM Task 1 (all facts in summaries are from texts)
+│   ├── hansum_eval_summary_llm_task2.ipynb   # Summary Evaluation with LLM Task 2 (all important points in texts covered)
 │   └── textrank_summary.ipynb
 ├── scripts/
 │   ├── evaluate_round_trip.py      # Single-corpus round-trip evaluation
 │   ├── evaluate_all_round_trip.py  # Multi-corpus round-trip evaluation
+│   ├── eval_correlation.py         # Get correlation scores for different evaluation strategies
 │   └── clean_summary_preambles.py  # Clean LLM-style preambles from summaries
 └── src/
     ├── translation.py          # Async translation helpers using googletrans
