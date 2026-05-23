@@ -4,3 +4,8 @@ data/raw/**/*.txt
 !data/raw/sample/**/*.txt
 notebooks/experiment*.DS_Store
 */.DS_Store
+.venv/
+__pycache__/
+data/mt5_segmented_v2/
+outputs/
+
