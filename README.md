@@ -40,6 +40,17 @@ Reference paper:
     └── baseline/tf_idf.py      # Simple TF-IDF baseline utility
 ```
 
+## Typical Workflow
+
+1. Add or sync raw bilingual data into `data/raw/<corpus>`.
+2. Run translation into `data/processed/translated/<corpus>`.
+3. Run back-translation into `data/processed/translated_back/<corpus>`.
+4. Run evaluation scripts to generate CSV/JSON/Markdown summaries.
+5. Generate summaries into `data/processed/summary/<corpus>` if needed.
+6. Run `python3 scripts/clean_summary_preambles.py` to create cleaned summaries under `data/processed/summary_clean/<corpus>`.
+7. Inspect `summary.md` for quick reporting and `corpus_metrics.csv` / `file_summary.csv` for deeper analysis.
+
+
 ## Data Convention
 
 Each text unit is stored in a directory that typically contains:
@@ -238,15 +249,6 @@ If you want to use optional embedding similarity from `metrics.py`, you will als
 pip install sentence-transformers
 ```
 
-## Typical Workflow
-
-1. Add or sync raw bilingual data into `data/raw/<corpus>`.
-2. Run translation into `data/processed/translated/<corpus>`.
-3. Run back-translation into `data/processed/translated_back/<corpus>`.
-4. Run evaluation scripts to generate CSV/JSON/Markdown summaries.
-5. Generate summaries into `data/processed/summary/<corpus>` if needed.
-6. Run `python3 scripts/clean_summary_preambles.py` to create cleaned summaries under `data/processed/summary_clean/<corpus>`.
-7. Inspect `summary.md` for quick reporting and `corpus_metrics.csv` / `file_summary.csv` for deeper analysis.
 
 ## Notes for Contributors
 
