@@ -13,10 +13,7 @@ def normalize_path(p: str) -> str:
 
 
 def make_summary_key(p: str) -> str:
-    """
-    Match paths by the portion after summary_clean/.
-    This avoids mismatch between absolute and relative paths.
-    """
+    """Match paths by the portion after summary_clean/ to avoid mismatch between absolute and relative paths"""
     p = normalize_path(p)
 
     marker = "summary_clean/"
@@ -106,9 +103,7 @@ def compute_pairwise_correlations(df, score_cols):
 
 
 def main(csv_file, faithfulness_json, coverage_json, output_file=None):
-    # -------------------------
     # Load CSV: SummaC results
-    # -------------------------
     csv_df = pd.read_csv(csv_file)
 
     required_csv_cols = {"summac_conv_score", "sum_path"}
@@ -128,9 +123,7 @@ def main(csv_file, faithfulness_json, coverage_json, output_file=None):
         ]
     ].copy()
 
-    # -------------------------
-    # Load JSON: faithfulness
-    # -------------------------
+    # Load JSON: faithfulness (task 1)
     faithfulness_records = load_json_results(faithfulness_json)
     faithfulness_df = pd.DataFrame(faithfulness_records)
 
@@ -152,9 +145,7 @@ def main(csv_file, faithfulness_json, coverage_json, output_file=None):
         ]
     ].copy()
 
-    # -------------------------
-    # Load JSON: coverage
-    # -------------------------
+    # Load JSON: coverage (task 2)
     coverage_records = load_json_results(coverage_json)
     coverage_df = pd.DataFrame(coverage_records)
 
@@ -176,9 +167,7 @@ def main(csv_file, faithfulness_json, coverage_json, output_file=None):
         ]
     ].copy()
 
-    # -------------------------
-    # Debug matching
-    # -------------------------
+    # debug matching
     csv_keys = set(csv_scores["match_key"])
     faithfulness_keys = set(faithfulness_scores["match_key"])
     coverage_keys = set(coverage_scores["match_key"])
@@ -193,9 +182,7 @@ def main(csv_file, faithfulness_json, coverage_json, output_file=None):
     print(f"Faithfulness ∩ Coverage: {len(faithfulness_keys & coverage_keys)}")
     print(f"All three overlap: {len(csv_keys & faithfulness_keys & coverage_keys)}")
 
-    # -------------------------
-    # Merge all three
-    # -------------------------
+    # merge all three
     merged = (
         csv_scores
         .merge(faithfulness_scores, on="match_key", how="inner")
@@ -227,9 +214,7 @@ def main(csv_file, faithfulness_json, coverage_json, output_file=None):
         print("Need at least 2 valid rows to compute correlations.")
         return
 
-    # -------------------------
-    # Pairwise correlations
-    # -------------------------
+    # pairwise correlations
     corr_df = compute_pairwise_correlations(analysis_df, score_cols)
 
     print()
@@ -242,7 +227,7 @@ def main(csv_file, faithfulness_json, coverage_json, output_file=None):
     print("---------------")
     print(analysis_df[score_cols].describe())
 
-    # Optional save
+    # optional save
     if output_file:
         analysis_df.to_csv(output_file, index=False, encoding="utf-8-sig")
 
