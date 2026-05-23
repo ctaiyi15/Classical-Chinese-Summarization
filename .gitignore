@@ -20,6 +20,3 @@ outputs/**
 !outputs/mt5-small-segmented-v2-epoch10/article_generations.jsonl
 !outputs/mt5-small-segmented-v2-epoch10/eval_results.json
 !outputs/**/README.md
-!outputs\mt5-cc2en-segmented-v2-epoch10\eval_results.json
-!outputs\mt5-cc2en-segmented-v2-epoch10\article_generations.jsonl
-!outputs\mt5-cc2en-segmented-v2-epoch10\test_generations.jsonl
