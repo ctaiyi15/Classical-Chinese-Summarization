@@ -214,6 +214,14 @@ Current 10-epoch EN -> EN result from
 | Chunk | 0.177 | 0.034 | 0.136 |
 | Article | 0.282 | 0.059 | 0.157 |
 
+Current 10-epoch EN -> EN sampling rerun from
+`outputs/mt5-en2en-segmented-v2-epoch10-sampling/eval_results.json`:
+
+| Level | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| --- | ---: | ---: | ---: |
+| Chunk | 0.279 | 0.065 | 0.155 |
+| Article | 0.396 | 0.111 | 0.171 |
+
 ### CC -> EN Direct Summarization
 
 - Task: Classical Chinese chunk -> English summary line.
@@ -237,11 +245,19 @@ Current 10-epoch CC -> EN result from
 | Chunk | 0.143 | 0.017 | 0.115 |
 | Article | 0.215 | 0.030 | 0.138 |
 
-On this small baseline, CC -> EN is consistently below EN -> EN, which is
-expected: the model must both interpret classical Chinese and summarize into
-English, while EN -> EN starts from an English translation. Qualitative samples
-also show repetition and generic biographical templates, so these numbers should
-be treated as a runnable direct baseline rather than a strong model.
+Current 10-epoch CC -> EN sampling rerun from
+`outputs/mt5-cc2en-segmented-v2-epoch10-sampling/eval_results.json`:
+
+| Level | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| --- | ---: | ---: | ---: |
+| Chunk | 0.243 | 0.033 | 0.135 |
+| Article | 0.360 | 0.078 | 0.154 |
+
+Sampling with `temperature=0.8`, `top_p=0.9`, `top_k=50`,
+`no_repeat_ngram_size=3`, and `repetition_penalty=1.2` improves ROUGE for both
+pipelines and removes the rough repetition signals measured by
+`generation_stats.json`. The sampling outputs are much shorter than the gold
+summaries, so these improvements should be checked qualitatively for coverage.
 
 ### Summary Outputs
 
