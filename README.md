@@ -42,17 +42,6 @@ Reference paper:
     └── baseline/tf_idf.py      # Simple TF-IDF baseline utility
 ```
 
-## Typical Workflow
-
-1. Add or sync raw bilingual data into `data/raw/<corpus>`.
-2. Run translation into `data/processed/translated/<corpus>`.
-3. Run back-translation into `data/processed/translated_back/<corpus>`.
-4. Run evaluation scripts to generate CSV/JSON/Markdown summaries.
-5. Generate summaries into `data/processed/summary/<corpus>` if needed.
-6. Run `python3 scripts/clean_summary_preambles.py` to create cleaned summaries under `data/processed/summary_clean/<corpus>`.
-7. Inspect `summary.md` for quick reporting and `corpus_metrics.csv` / `file_summary.csv` for deeper analysis.
-
-
 ## Data Convention
 
 Each text unit is stored in a directory that typically contains:
@@ -71,6 +60,66 @@ The evaluation scripts compare:
 
 - original modern Chinese: `data/raw/.../target.txt`
 - round-trip output: `data/processed/translated_back/.../target.txt`
+
+## Typical Workflow (How to Reproduce)
+
+Follow these steps to reproduce the full data processing, cleaning, segmentation, and evaluation pipeline from scratch.
+
+### 1. Data Setup
+Add or sync raw bilingual data into the repository.
+```bash
+# Data should be placed in:
+data/raw/<corpus>/.../target.txt
+```
+
+### 2. Round-Trip Translation
+Run the initial Modern Chinese to English translation, followed by the back-translation to filter out low-quality translations.
+*(Note: These are handled via the async Google Translate helpers in `src/translation.py` and `src/round_trip.py`)*
+```bash
+python3 src/round_trip.py
+```
+
+### 3. Translation Fidelity Evaluation
+Evaluate the round-trip translations against the original Modern Chinese references to generate CSV/JSON/Markdown reports.
+```bash
+python3 scripts/evaluate_all_round_trip.py
+```
+
+### 4. Summary Generation
+Generate English summaries from the English translations using the DeepSeek API.
+*(Open and run the following notebook in Google Colab or locally)*
+```bash
+# Notebook to run:
+notebooks/hansum_summarize_generate.ipynb
+```
+
+### 5. Summary Preamble Cleaning
+LLM-generated summaries often contain conversational filler (e.g., "Here is a summary:"). Run this script to strip meta-commentary and produce high-signal targets.
+```bash
+python3 scripts/clean_summary_preambles.py
+# Outputs are saved to data/processed/summary_clean/
+```
+
+### 6. Semantic Self-Segmentation (Se3)
+To overcome the mT5 model's context limits, chunk the long historical documents based on semantic similarity and assign the cleaned summary sentences to the corresponding chunks.
+```bash
+python3 scripts/segment_sum_concat.py
+# Concatenated chunk-summary pairs are saved as segment_sum_concat.txt
+```
+
+### 7. Factual Consistency Evaluation (SummaC)
+Evaluate the chunked source-target pairs for factual consistency using Natural Language Inference (NLI).
+*(Open and run the following notebook in Google Colab using a GPU)*
+```bash
+# Notebook to run:
+notebooks/summac_eval_segment_v2.ipynb
+```
+
+### 8. Final Output Inspection
+Inspect the generated reports for deeper analysis before passing the pairs to an mT5 model for fine-tuning.
+- `data/processed/evaluation/all_round_trip/summary.md` (Translation Fidelity)
+- `data/processed/summary_clean/cleanup_report.json` (Cleaning Stats)
+- `data/processed/evaluation/summary_eval/summac_segmented_v2_results.csv` (NLI Consistency)
 
 ## Translation Workflow
 
