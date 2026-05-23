@@ -1,0 +1,12 @@
+# Install the CUDA wheel from the PyTorch index for local GPU training.
+torch==2.6.0
+transformers
+datasets
+accelerate
+sentencepiece
+protobuf
+evaluate
+rouge_score
+pandas
+tqdm
+scikit-learn

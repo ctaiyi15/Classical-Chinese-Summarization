@@ -240,6 +240,85 @@ The all-corpus evaluation script automatically checks coverage between:
 
 ## Summarization Notebooks and Baselines
 
+## mT5 Segmented v2 Baselines
+
+The repository now keeps two explicit mT5 baselines over `data/segmented_v2`.
+Both use article-level train/test splitting, read chunk-summary pairs from
+`segment_sum_concat.txt`, remove summary targets longer than 300 words, and
+train `google/mt5-small` with CUDA when available.
+
+See [`EXPERIMENTS.md`](EXPERIMENTS.md) for the detailed experiment log.
+
+### EN -> EN Summarization
+
+- Task: English translated chunk -> English summary line.
+- Source field: `translation:` in `data/segmented_v2/**/segment_sum_concat.txt`.
+- Target field: `summary:` in `data/segmented_v2/**/segment_sum_concat.txt`.
+- Data directory: `data/mt5_en2en_segmented_v2/`.
+- Scripts:
+  - `scripts/prepare_mt5_en2en_segmented_v2.py`
+  - `scripts/train_mt5_en2en_segmented_v2.py`
+  - `scripts/evaluate_mt5_en2en_segmented_v2.py`
+
+Existing legacy scripts are still kept for compatibility:
+
+- `scripts/prepare_mt5_segmented_v2.py`
+- `scripts/train_mt5_segmented_v2.py`
+- `scripts/evaluate_mt5_segmented_v2.py`
+
+Current 10-epoch EN -> EN result from
+`outputs/mt5-small-segmented-v2-epoch10/eval_results.json`:
+
+| Level | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| --- | ---: | ---: | ---: |
+| Chunk | 0.177 | 0.034 | 0.136 |
+| Article | 0.282 | 0.059 | 0.157 |
+
+Current 10-epoch EN -> EN sampling rerun from
+`outputs/mt5-en2en-segmented-v2-epoch10-sampling/eval_results.json`:
+
+| Level | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| --- | ---: | ---: | ---: |
+| Chunk | 0.279 | 0.065 | 0.155 |
+| Article | 0.396 | 0.111 | 0.171 |
+
+### CC -> EN Direct Summarization
+
+- Task: Classical Chinese chunk -> English summary line.
+- Source field: `original:` in `data/segmented_v2/**/segment_sum_concat.txt`.
+- Target field: `summary:` in `data/segmented_v2/**/segment_sum_concat.txt`.
+- Data directory: `data/mt5_cc2en_segmented_v2/`.
+- Scripts:
+  - `scripts/prepare_mt5_cc2en_segmented_v2.py`
+  - `scripts/train_mt5_cc2en_segmented_v2.py`
+  - `scripts/evaluate_mt5_cc2en_segmented_v2.py`
+
+The CC -> EN preparation script found exact classical Chinese chunk text in all
+409 `segment_sum_concat.txt` files. No fallback approximate chunk alignment was
+used.
+
+Current 10-epoch CC -> EN result from
+`outputs/mt5-cc2en-segmented-v2-epoch10/eval_results.json`:
+
+| Level | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| --- | ---: | ---: | ---: |
+| Chunk | 0.143 | 0.017 | 0.115 |
+| Article | 0.215 | 0.030 | 0.138 |
+
+Current 10-epoch CC -> EN sampling rerun from
+`outputs/mt5-cc2en-segmented-v2-epoch10-sampling/eval_results.json`:
+
+| Level | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| --- | ---: | ---: | ---: |
+| Chunk | 0.243 | 0.033 | 0.135 |
+| Article | 0.360 | 0.078 | 0.154 |
+
+Sampling with `temperature=0.8`, `top_p=0.9`, `top_k=50`,
+`no_repeat_ngram_size=3`, and `repetition_penalty=1.2` improves ROUGE for both
+pipelines and removes the rough repetition signals measured by
+`generation_stats.json`. The sampling outputs are much shorter than the gold
+summaries, so these improvements should be checked qualitatively for coverage.
+
 ### Summary Outputs
 
 The repository currently distinguishes between two summary directories:
