@@ -1,0 +1,288 @@
+Summary line 0
+Span: 0-21 (score=0.8411)
+
+original:
+吴王濞者，高帝兄刘仲之子也。
+高帝已定天下七年，立刘仲为代王。
+而匈奴攻代，刘仲不能坚守，弃国亡，间行走雒阳，自归天子。
+天子为骨肉故，不忍致法，废以为郃阳侯。
+高帝十一年秋，淮南王英布反，东并荆地，劫其国兵，西度淮，击楚，高帝自将往诛之。
+刘仲子沛侯濞年二十，有气力，以骑将从破布军蕲西，会甀，布走。
+荆王刘贾为布所杀，无後。
+上患吴、会稽轻悍，无壮王以填之，诸子少，乃立濞於沛为吴王，王三郡五十三城。
+已拜受印，高帝召濞相之，谓曰： 若状有反相。
+心独悔，业已拜，因拊其背，告曰： 汉後五十年东南有乱者，岂若邪？
+然天下同姓为一家也，慎无反！
+濞顿首曰： 不敢。
+会孝惠、高后时，天下初定，郡国诸侯各务自拊循其民。
+吴有豫章郡铜山，濞则招致天下亡命者铸钱，煮海水为盐，以故无赋，国用富饶。
+孝文时，吴太子入见，得侍皇太子饮博。
+吴太子师傅皆楚人，轻悍，又素骄，博，争道，不恭，皇太子引博局提吴太子，杀之。於是遣其丧归葬。
+至吴，吴王愠曰： 天下同宗，死长安即葬长安，何必来葬为！
+复遣丧之长安葬。
+吴王由此稍失籓臣之礼，称病不朝。
+京师知其以子故称病不朝，验问实不病，诸吴使来，辄系责治之。
+吴王恐，为谋滋甚。
+及後使人为秋请，上复责问吴使者，使者对曰： 王实不病，汉系治使者数辈，以故遂称病。
+
+translation:
+King Wu Liu Bi was the son of Liu Zhong, the brother of Emperor Gaozu of the Han Dynasty.
+Seven years after Emperor Gaozu pacified the world, he named Liu Zhong the acting king.
+Later, when the Xiongnu attacked Dai, Liu Zhong could not hold on, so he abandoned the country and fled. He took a small road to Luoyang and surrendered to the emperor.
+Because the emperor was a brother of flesh and blood, he could not bear to be punished according to law, so he only deposed the king and demoted him to be the Marquis of Heyang.
+In the autumn of the eleventh year of Emperor Gaozu, King Yingbu of Zhunnan rebelled, annexed the Jing territory to the east, hijacked the troops of the local princes, crossed the Huai River to the west, and attacked Chu State. Emperor Gaozu personally led the army to punish him.
+Liu Zhong's son, Peihou Liu Bi, was twenty years old and strong. As a cavalry commander, he followed Gaozu and defeated Yingbu's army at Huizhen in the west of Qixian County. Yingbu fled.
+King Liu Jia of Jing was killed by Yingbu and had no heirs.
+The emperor was worried that the people in Wu and Kuaiji were frivolous and aggressive, and there was no brave king to restrain them. His sons were young, so he made Liu Bi the king of Wu in Pei, with jurisdiction over three counties and fifty-three counties.
+After he had received his official seal, Emperor Gaozu asked Liu Bi to come and see him. After seeing him, he said: "You have a rebellious appearance."
+At the same time, he felt regret in his heart, but he had already appointed him, so he patted him on the back and warned him: "There will be a rebellion in the southeast in the fifty years after the founding of the Han Dynasty. Is it you?"
+However, everyone with the same surname is one family, so you must not rebel!
+Liu Bi kowtowed and said, "I don't dare."
+By the time of Emperor Xiaohui and Queen Gao, the world had just stabilized, and the princes of some counties were working hard to appease their own people.
+Wu State owned the copper mines in Yuzhang County, so Liu Bi recruited desperadoes from all over the world to mint money privately and boil seawater to make salt. Because of this, the state did not levy taxes and the state expenses were very abundant.
+During the reign of Emperor Xiaowen, the Crown Prince of Wu came to Beijing for an audience and was able to accompany the Crown Prince to drink and play chess.
+Prince Wu's teachers were both from Chu. They were frivolous, strong, and arrogant. When they were playing chess with the crown prince, they had an argument over the chess game and their attitude was disrespectful. The crown prince picked up the chessboard and threw the chessboard at Prince Wu, killing him. Afterwards, his body was sent back to Wu for burial.
+When they arrived at the state of Wu, King Wu said angrily: If a family with the same surname in the world died in Chang'an, they should be buried in Chang'an. Why should they be sent to the state of Wu for burial?
+The body was then sent to Chang'an for burial.
+From then on, the King of Wu gradually disobeyed the etiquette that his vassals should abide by, claiming to be ill and refusing to enter the court.
+The people in the capital knew that he claimed to be ill and refused to enter the court because his son had died. After questioning, he was indeed not ill. After that, when the envoys of the King of Wu came, they detained him, questioned him, and punished him.
+The King of Wu was frightened and even more actively planned rebellion.
+Later, the King of Wu sent someone to Beijing for the autumn invitation, and the emperor questioned the envoy again. The envoy told the emperor: The King of Wu is indeed not sick. The imperial court detained and punished several envoys, so he claimed that he was ill and could not come back.
+
+summary:
+King Wu Liu Bi was the son of Liu Zhong, brother of Emperor Gaozu of Han. After Gaozu pacified the realm, he named Liu Zhong acting king, but Liu Zhong abandoned his post during a Xiongnu attack and was demoted to marquis. In the eleventh year of Gaozu, Yingbu rebelled, and Liu Bi, then twenty, served as a cavalry commander, helping defeat Yingbu. Gaozu, concerned about the unruly people of Wu and Kuaiji and lacking mature sons, appointed Liu Bi King of Wu over three counties. However, Gaozu noted Liu Bi's rebellious appearance and warned him against rebellion, which Liu Bi denied.
+
+================================================================================
+
+Summary line 1
+Span: 12-34 (score=0.7823)
+
+original:
+会孝惠、高后时，天下初定，郡国诸侯各务自拊循其民。
+吴有豫章郡铜山，濞则招致天下亡命者铸钱，煮海水为盐，以故无赋，国用富饶。
+孝文时，吴太子入见，得侍皇太子饮博。
+吴太子师傅皆楚人，轻悍，又素骄，博，争道，不恭，皇太子引博局提吴太子，杀之。於是遣其丧归葬。
+至吴，吴王愠曰： 天下同宗，死长安即葬长安，何必来葬为！
+复遣丧之长安葬。
+吴王由此稍失籓臣之礼，称病不朝。
+京师知其以子故称病不朝，验问实不病，诸吴使来，辄系责治之。
+吴王恐，为谋滋甚。
+及後使人为秋请，上复责问吴使者，使者对曰： 王实不病，汉系治使者数辈，以故遂称病。
+且夫 察见渊中鱼，不祥 。
+今王始诈病，及觉，见责急，愈益闭，恐上诛之，计乃无聊。
+唯上弃之而与更始。
+於是天子乃赦吴使者归之，而赐吴王几杖，老，不朝。
+吴得释其罪，谋亦益解。
+然其居国以铜盐故，百姓无赋。
+卒践更，辄与平贾。
+岁时存问茂材，赏赐闾里。
+佗郡国吏欲来捕亡人者，讼共禁弗予。
+如此者四十馀年，以故能使其众。
+晁错为太子家令，得幸太子，数从容言吴过可削。
+数上书说孝文帝，文帝宽，不忍罚，以此吴日益横。
+及孝景帝即位，错为御史大夫，说上曰： 昔高帝初定天下，昆弟少，诸子弱，大封同姓，故王孽子悼惠王王齐七十馀城，庶弟元王王楚四十馀城，兄子濞王吴五十馀城：封三庶孽，分天下半。
+
+translation:
+By the time of Emperor Xiaohui and Queen Gao, the world had just stabilized, and the princes of some counties were working hard to appease their own people.
+Wu State owned the copper mines in Yuzhang County, so Liu Bi recruited desperadoes from all over the world to mint money privately and boil seawater to make salt. Because of this, the state did not levy taxes and the state expenses were very abundant.
+During the reign of Emperor Xiaowen, the Crown Prince of Wu came to Beijing for an audience and was able to accompany the Crown Prince to drink and play chess.
+Prince Wu's teachers were both from Chu. They were frivolous, strong, and arrogant. When they were playing chess with the crown prince, they had an argument over the chess game and their attitude was disrespectful. The crown prince picked up the chessboard and threw the chessboard at Prince Wu, killing him. Afterwards, his body was sent back to Wu for burial.
+When they arrived at the state of Wu, King Wu said angrily: If a family with the same surname in the world died in Chang'an, they should be buried in Chang'an. Why should they be sent to the state of Wu for burial?
+The body was then sent to Chang'an for burial.
+From then on, the King of Wu gradually disobeyed the etiquette that his vassals should abide by, claiming to be ill and refusing to enter the court.
+The people in the capital knew that he claimed to be ill and refused to enter the court because his son had died. After questioning, he was indeed not ill. After that, when the envoys of the King of Wu came, they detained him, questioned him, and punished him.
+The King of Wu was frightened and even more actively planned rebellion.
+Later, the King of Wu sent someone to Beijing for the autumn invitation, and the emperor questioned the envoy again. The envoy told the emperor: The King of Wu is indeed not sick. The imperial court detained and punished several envoys, so he claimed that he was ill and could not come back.
+And there is such a thing: it is unlucky to see fish in a deep pool.
+Now the King of Wu began to pretend to be sick. When the court noticed and was severely questioned, he became more and more eager to conceal his behavior for fear that the emperor would kill him. The plan of claiming to be sick was out of helplessness.
+It is hoped that the emperor will put aside his past grudges and give King Wu a chance to start over.
+So the emperor pardoned Wu's envoys and allowed them to go back. He also gave King Wu a few swords and a staff, thinking that he was old and could not go to the capital to see him.
+The king of Wu was able to absolve him of his sins, and the rebellion was relaxed.
+However, the feudal state where he was located had no income from copper salt, so the people did not pay taxes.
+Soldiers are paid in lieu of service and the price is fair.
+At a certain time every year, they visit talented people and give rewards to common people.
+The king of Wu took in fugitives who were wanted by law officials from other counties and did not hand them over.
+After doing this for more than forty years, the king of Wu was able to control and utilize his people.
+Chao Cuo served as the prince's family order and gained the prince's favor. He encouraged the prince many times to say that the king of Wu was guilty and his fiefdom should be reduced.
+He also wrote many times to persuade Emperor Wen. Emperor Wen was generous and could not bear to punish him, so King Wu became even more arrogant.
+When Emperor Jing came to the throne, Chao Cuo became the imperial censor, and advised the emperor: In the past, when Emperor Gaozu had just settled the world, he had few brothers and young sons, so he widely enfeoffed people with the same surname. Therefore, his concubine, King Tuohui, was granted the title of King of Qi and ruled over more than 70 counties.
+
+summary:
+During Emperor Xiaohui and Queen Gao's reigns, Wu prospered by minting coins from copper mines and making salt from seawater, avoiding taxes and attracting desperadoes. Under Emperor Xiaowen, a chess dispute led to the Crown Prince of Wu's death at the hands of the Han crown prince. The King of Wu, angered, buried his son in Chang'an and began feigning illness to avoid court, gradually disobeying etiquette. The court detained Wu envoys, prompting the King of Wu to plan rebellion. Emperor Xiaowen later pardoned Wu's envoys and granted the king leniency, easing tensions. However, Wu continued to harbor fugitives and control its people for over forty years.
+
+================================================================================
+
+Summary line 2
+Span: 75-97 (score=0.7642)
+
+original:
+及削吴会稽、豫章郡书至，则吴王先起兵，胶西正月丙午诛汉吏二千石以下，胶东、菑川、济南、楚、赵亦然，遂发兵西。
+齐王後悔，饮药自杀，畔约。
+济北王城坏未完，其郎中令劫守其王，不得发兵。
+胶西为渠率，胶东、菑川、济南共攻围临菑。
+赵王遂亦反，阴使匈奴与连兵。
+七国之发也，吴王悉其士卒，下令国中曰： 寡人年六十二，身自将。
+少子年十四，亦为士卒先。
+诸年上与寡人比，下与少子等者，皆发。
+发二十馀万人。
+南使闽越、东越，东越亦发兵从。
+孝景帝三年正月甲子，初起兵於广陵。
+西涉淮，因并楚兵。
+发使遗诸侯书曰： 吴王刘濞敬问胶西王、胶东王、菑川王、济南王、赵王、楚王、淮南王、衡山王、庐江王、故长沙王子：幸教寡人！
+以汉有贼臣，无功天下，侵夺诸侯地，使吏劾系讯治，以僇辱之为故，不以诸侯人君礼遇刘氏骨肉，绝先帝功臣，进任奸宄，诖乱天下，欲危社稷。
+陛下多病志失，不能省察。
+欲举兵诛之，谨闻教。
+敝国虽狭，地方三千里；人虽少，精兵可具五十万。
+寡人素事南越三十馀年，其王君皆不辞分其卒以随寡人，又可得三十馀万。
+寡人虽不肖，原以身从诸王。
+越直长沙者，因王子定长沙以北，西走蜀、汉中。
+告越、楚王、淮南三王，与寡人西面；齐诸王与赵王定河间、河内，或入临晋关，或与寡人会雒阳；燕王、赵王固与胡王有约，燕王北定代、云中，抟胡众入萧关，走长安，匡正天子，以安高庙。
+原王勉之。
+楚元王子、淮南三王或不沐洗十馀年，怨入骨髓，欲一有所出之久矣，寡人未得诸王之意，未敢听。
+
+translation:
+When the documents to reduce the Wu Guoji and Yuzhang counties were sent to the state of Wu, the king of Wu first launched an army to rebel. On Bingwu of the first month, the king of Jiaoxi killed the officials sent by the court with less than 2,000 shi, as did the kings of Jiaodong, Sichuan, Jinan, Chu, and Zhao, so they marched westward.
+King Qi later regretted it and committed suicide by taking poison, violating the covenant.
+The King of Jibei's city wall was damaged and had not been repaired, so his lieutenant ordered him to be kidnapped and guarded so that he could not send troops.
+The King of Jiaoxi was the leader, and together with the King of Jiaodong, the King of Sichuan and the King of Jinan, they led troops to besiege Linyi.
+King Liu Sui of Zhao also rebelled and secretly sent envoys to the Xiongnu to discuss joint operations.
+When the Seven Kingdoms launched a rebellion, the King of Wu conscripted all his soldiers and ordered the whole country: I am sixty-two years old and personally command the army.
+The youngest son is fourteen years old and also leads the way.
+Therefore, people who are the same age as me, and the same age as my youngest son at the lowest level, all have to go to war.
+More than 200,000 people were conscripted.
+He sent envoys to Minyue and Dongyue to the south, and Dongyue also sent troops to follow the king of Wu.
+In the first month of the third year of Emperor Jing's reign, King Wu first set out from Guangling.
+He crossed the Huaihe River to the west and joined the Chu army.
+The letter sent by an envoy to the princes said: King Wu Liu Bi respectfully greets the king of Jiaoxi, King of Jiaodong, King of Suichuan, King of Jinan, King of Zhao, King of Chu, King of Huainan, King of Hengshan, King of Lujiang, and the son of the late King of Changsha: I hope to get your advice!
+Because there are treacherous ministers in the court who have done nothing for the world, but they invade the land of the princes, send officials to impeach, arrest, interrogate and punish the princes, and only insult the princes. They do not treat the Liu family's relatives with the etiquette of princes and kings. They ignore the meritorious officials of the late emperor, promote and appoint bad people, confuse the world, and want to harm the country.
+Your Majesty is frail, sick and mentally disturbed, and cannot clearly understand the political situation.
+I want to raise an army to punish them, and I respectfully follow your advice.
+Although our country is small, the land is only three thousand miles in radius; although the population is small, we can prepare 500,000 elite soldiers.
+I have been serving South Vietnam for more than thirty years, and their monarchs have not refused to recruit and assign soldiers to follow me into the army, and I can get more than three hundred thousand people.
+Although I am not talented, I am willing to follow all the princes personally.
+Yue is bordering Changsha. They can follow the son of the King of Changsha to pacify the north of Changsha, and then attack Shu and Hanzhong westward.
+I sent people to tell the King of Dongyue, the King of Chu, and the King of Huainan to attack westward with me. After the kings of Qi and King Zhao pacified Hejian and Hanoi, some of them entered Linjin Pass and some joined me in Luoyang. King Yan and King Zhao originally had an alliance with the Xiongnu.
+I hope everyone will work hard.
+The sons of King Yuan of Chu, King Huainan, King Hengshan, and King Lujiang of Huainan have been focusing on their own affairs for more than ten years. Their resentment has been deeply rooted in their bones and they have wanted to take action for a long time. However, I do not know the kings' intentions and dare not obey orders.
+
+summary:
+Chao Cuo, favored by Emperor Jing, repeatedly urged reducing Wu's territory, arguing that rebellion was inevitable. In the third year of Emperor Jing's reign, Chao Cuo reduced the lands of Chu, Zhao, Jiaoxi, and Wu. King Wu Liu Bi, fearing further losses, plotted rebellion. He sent Ying Gao to recruit King Jiaoxi, citing Chao Cuo's tyranny and promising joint action. King Jiaoxi agreed, and alliances formed with Qi, Sichuan, Jiaodong, Jinan, and Jibei. The Seven Kingdoms rebelled, with Wu conscripting over 200,000 men and gaining support from Dongyue. King Wu issued a letter to the princes, denouncing Chao Cuo and calling for a punitive campaign, offering rewards for capturing Han officials.
+
+================================================================================
+
+Summary line 3
+Span: 72-95 (score=0.7798)
+
+original:
+王弗听。
+遂发使约齐、菑川、胶东、济南、济北，皆许诺，而曰 城阳景王有义，攻诸吕，勿与，事定分之耳 。
+诸侯既新削罚，振恐，多怨晁错。
+及削吴会稽、豫章郡书至，则吴王先起兵，胶西正月丙午诛汉吏二千石以下，胶东、菑川、济南、楚、赵亦然，遂发兵西。
+齐王後悔，饮药自杀，畔约。
+济北王城坏未完，其郎中令劫守其王，不得发兵。
+胶西为渠率，胶东、菑川、济南共攻围临菑。
+赵王遂亦反，阴使匈奴与连兵。
+七国之发也，吴王悉其士卒，下令国中曰： 寡人年六十二，身自将。
+少子年十四，亦为士卒先。
+诸年上与寡人比，下与少子等者，皆发。
+发二十馀万人。
+南使闽越、东越，东越亦发兵从。
+孝景帝三年正月甲子，初起兵於广陵。
+西涉淮，因并楚兵。
+发使遗诸侯书曰： 吴王刘濞敬问胶西王、胶东王、菑川王、济南王、赵王、楚王、淮南王、衡山王、庐江王、故长沙王子：幸教寡人！
+以汉有贼臣，无功天下，侵夺诸侯地，使吏劾系讯治，以僇辱之为故，不以诸侯人君礼遇刘氏骨肉，绝先帝功臣，进任奸宄，诖乱天下，欲危社稷。
+陛下多病志失，不能省察。
+欲举兵诛之，谨闻教。
+敝国虽狭，地方三千里；人虽少，精兵可具五十万。
+寡人素事南越三十馀年，其王君皆不辞分其卒以随寡人，又可得三十馀万。
+寡人虽不肖，原以身从诸王。
+越直长沙者，因王子定长沙以北，西走蜀、汉中。
+告越、楚王、淮南三王，与寡人西面；齐诸王与赵王定河间、河内，或入临晋关，或与寡人会雒阳；燕王、赵王固与胡王有约，燕王北定代、云中，抟胡众入萧关，走长安，匡正天子，以安高庙。
+
+translation:
+King Jiaoxi refused to listen.
+So he sent envoys to join forces with the King of Qi, the King of Sichuan, the King of Jiaodong, the King of Jinan, and the King of Jibei. They all agreed and said: For the sake of justice, King Chengyang Jing will attack those surnamed Lu. Don't let him participate in the army. After the incident is completed, just give him some land.
+The princes were shocked and frightened by the recent punishment of reducing their land, and most of them resented Chao Cuo.
+When the documents to reduce the Wu Guoji and Yuzhang counties were sent to the state of Wu, the king of Wu first launched an army to rebel. On Bingwu of the first month, the king of Jiaoxi killed the officials sent by the court with less than 2,000 shi, as did the kings of Jiaodong, Sichuan, Jinan, Chu, and Zhao, so they marched westward.
+King Qi later regretted it and committed suicide by taking poison, violating the covenant.
+The King of Jibei's city wall was damaged and had not been repaired, so his lieutenant ordered him to be kidnapped and guarded so that he could not send troops.
+The King of Jiaoxi was the leader, and together with the King of Jiaodong, the King of Sichuan and the King of Jinan, they led troops to besiege Linyi.
+King Liu Sui of Zhao also rebelled and secretly sent envoys to the Xiongnu to discuss joint operations.
+When the Seven Kingdoms launched a rebellion, the King of Wu conscripted all his soldiers and ordered the whole country: I am sixty-two years old and personally command the army.
+The youngest son is fourteen years old and also leads the way.
+Therefore, people who are the same age as me, and the same age as my youngest son at the lowest level, all have to go to war.
+More than 200,000 people were conscripted.
+He sent envoys to Minyue and Dongyue to the south, and Dongyue also sent troops to follow the king of Wu.
+In the first month of the third year of Emperor Jing's reign, King Wu first set out from Guangling.
+He crossed the Huaihe River to the west and joined the Chu army.
+The letter sent by an envoy to the princes said: King Wu Liu Bi respectfully greets the king of Jiaoxi, King of Jiaodong, King of Suichuan, King of Jinan, King of Zhao, King of Chu, King of Huainan, King of Hengshan, King of Lujiang, and the son of the late King of Changsha: I hope to get your advice!
+Because there are treacherous ministers in the court who have done nothing for the world, but they invade the land of the princes, send officials to impeach, arrest, interrogate and punish the princes, and only insult the princes. They do not treat the Liu family's relatives with the etiquette of princes and kings. They ignore the meritorious officials of the late emperor, promote and appoint bad people, confuse the world, and want to harm the country.
+Your Majesty is frail, sick and mentally disturbed, and cannot clearly understand the political situation.
+I want to raise an army to punish them, and I respectfully follow your advice.
+Although our country is small, the land is only three thousand miles in radius; although the population is small, we can prepare 500,000 elite soldiers.
+I have been serving South Vietnam for more than thirty years, and their monarchs have not refused to recruit and assign soldiers to follow me into the army, and I can get more than three hundred thousand people.
+Although I am not talented, I am willing to follow all the princes personally.
+Yue is bordering Changsha. They can follow the son of the King of Changsha to pacify the north of Changsha, and then attack Shu and Hanzhong westward.
+I sent people to tell the King of Dongyue, the King of Chu, and the King of Huainan to attack westward with me. After the kings of Qi and King Zhao pacified Hejian and Hanoi, some of them entered Linjin Pass and some joined me in Luoyang. King Yan and King Zhao originally had an alliance with the Xiongnu.
+
+summary:
+Emperor Jing responded by sending Zhou Yafu to attack Wu and Chu, and other generals against Qi and Zhao. Yuan An advised killing Chao Cuo to appease the rebels, and Chao Cuo was executed. Yuan An then attempted to negotiate with Wu, but King Wu refused, declaring himself the Eastern Emperor. Zhou Yafu, following a strategy to avoid direct confrontation, cut off Wu's food supplies. Wu's army, led by King Wu, failed to adopt effective strategies, such as a surprise attack on Wuguan or a swift march to Luoyang. After a prolonged siege of Liang, Wu's forces starved and scattered. King Wu fled to Dongyue but was assassinated by Dongyue forces bribed by Han. Other rebel kings, including those of Jiaoxi, Jiaodong, Sichuan, Jinan, and Zhao, were defeated or committed suicide, and their states were abolished.
+
+================================================================================
+
+Summary line 4
+Span: 0-21 (score=0.7151)
+
+original:
+吴王濞者，高帝兄刘仲之子也。
+高帝已定天下七年，立刘仲为代王。
+而匈奴攻代，刘仲不能坚守，弃国亡，间行走雒阳，自归天子。
+天子为骨肉故，不忍致法，废以为郃阳侯。
+高帝十一年秋，淮南王英布反，东并荆地，劫其国兵，西度淮，击楚，高帝自将往诛之。
+刘仲子沛侯濞年二十，有气力，以骑将从破布军蕲西，会甀，布走。
+荆王刘贾为布所杀，无後。
+上患吴、会稽轻悍，无壮王以填之，诸子少，乃立濞於沛为吴王，王三郡五十三城。
+已拜受印，高帝召濞相之，谓曰： 若状有反相。
+心独悔，业已拜，因拊其背，告曰： 汉後五十年东南有乱者，岂若邪？
+然天下同姓为一家也，慎无反！
+濞顿首曰： 不敢。
+会孝惠、高后时，天下初定，郡国诸侯各务自拊循其民。
+吴有豫章郡铜山，濞则招致天下亡命者铸钱，煮海水为盐，以故无赋，国用富饶。
+孝文时，吴太子入见，得侍皇太子饮博。
+吴太子师傅皆楚人，轻悍，又素骄，博，争道，不恭，皇太子引博局提吴太子，杀之。於是遣其丧归葬。
+至吴，吴王愠曰： 天下同宗，死长安即葬长安，何必来葬为！
+复遣丧之长安葬。
+吴王由此稍失籓臣之礼，称病不朝。
+京师知其以子故称病不朝，验问实不病，诸吴使来，辄系责治之。
+吴王恐，为谋滋甚。
+及後使人为秋请，上复责问吴使者，使者对曰： 王实不病，汉系治使者数辈，以故遂称病。
+
+translation:
+King Wu Liu Bi was the son of Liu Zhong, the brother of Emperor Gaozu of the Han Dynasty.
+Seven years after Emperor Gaozu pacified the world, he named Liu Zhong the acting king.
+Later, when the Xiongnu attacked Dai, Liu Zhong could not hold on, so he abandoned the country and fled. He took a small road to Luoyang and surrendered to the emperor.
+Because the emperor was a brother of flesh and blood, he could not bear to be punished according to law, so he only deposed the king and demoted him to be the Marquis of Heyang.
+In the autumn of the eleventh year of Emperor Gaozu, King Yingbu of Zhunnan rebelled, annexed the Jing territory to the east, hijacked the troops of the local princes, crossed the Huai River to the west, and attacked Chu State. Emperor Gaozu personally led the army to punish him.
+Liu Zhong's son, Peihou Liu Bi, was twenty years old and strong. As a cavalry commander, he followed Gaozu and defeated Yingbu's army at Huizhen in the west of Qixian County. Yingbu fled.
+King Liu Jia of Jing was killed by Yingbu and had no heirs.
+The emperor was worried that the people in Wu and Kuaiji were frivolous and aggressive, and there was no brave king to restrain them. His sons were young, so he made Liu Bi the king of Wu in Pei, with jurisdiction over three counties and fifty-three counties.
+After he had received his official seal, Emperor Gaozu asked Liu Bi to come and see him. After seeing him, he said: "You have a rebellious appearance."
+At the same time, he felt regret in his heart, but he had already appointed him, so he patted him on the back and warned him: "There will be a rebellion in the southeast in the fifty years after the founding of the Han Dynasty. Is it you?"
+However, everyone with the same surname is one family, so you must not rebel!
+Liu Bi kowtowed and said, "I don't dare."
+By the time of Emperor Xiaohui and Queen Gao, the world had just stabilized, and the princes of some counties were working hard to appease their own people.
+Wu State owned the copper mines in Yuzhang County, so Liu Bi recruited desperadoes from all over the world to mint money privately and boil seawater to make salt. Because of this, the state did not levy taxes and the state expenses were very abundant.
+During the reign of Emperor Xiaowen, the Crown Prince of Wu came to Beijing for an audience and was able to accompany the Crown Prince to drink and play chess.
+Prince Wu's teachers were both from Chu. They were frivolous, strong, and arrogant. When they were playing chess with the crown prince, they had an argument over the chess game and their attitude was disrespectful. The crown prince picked up the chessboard and threw the chessboard at Prince Wu, killing him. Afterwards, his body was sent back to Wu for burial.
+When they arrived at the state of Wu, King Wu said angrily: If a family with the same surname in the world died in Chang'an, they should be buried in Chang'an. Why should they be sent to the state of Wu for burial?
+The body was then sent to Chang'an for burial.
+From then on, the King of Wu gradually disobeyed the etiquette that his vassals should abide by, claiming to be ill and refusing to enter the court.
+The people in the capital knew that he claimed to be ill and refused to enter the court because his son had died. After questioning, he was indeed not ill. After that, when the envoys of the King of Wu came, they detained him, questioned him, and punished him.
+The King of Wu was frightened and even more actively planned rebellion.
+Later, the King of Wu sent someone to Beijing for the autumn invitation, and the emperor questioned the envoy again. The envoy told the emperor: The King of Wu is indeed not sick. The imperial court detained and punished several envoys, so he claimed that he was ill and could not come back.
+
+summary:
+The rebellion lasted from January to March, with Zhao falling later. Emperor Jing reinstated some royal lines and granted Wu's territory to others. The historian concludes that Liu Bi's rebellion stemmed from his son's death and greed, while Chao Cuo's plans led to his own death, and Yuan Ang's strategies brought initial favor but eventual disgrace.
+
+================================================================================
+

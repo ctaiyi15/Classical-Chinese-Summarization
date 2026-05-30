@@ -9,7 +9,7 @@ from collections import Counter
 original_root = Path("../data/raw/original")
 translated_root = Path("../data/processed/translated")
 summary_root = Path("../data/processed/summary_clean")
-output_root = Path("../data/segmented")
+output_root = Path("../data/segmented_v2")
 
 def mean_pooling(model_output, attention_mask):
     token_embeddings = model_output.last_hidden_state
@@ -71,8 +71,8 @@ def rouge_1(orig, tran):
 
 if __name__ == '__main__':
 
-    lower_limit = 512
-    upper_limit = 1024
+    lower_limit = 1024
+    upper_limit = 2048
 
     model_name = "sentence-transformers/all-MiniLM-L6-v2"
     tokenizer = AutoTokenizer.from_pretrained(model_name)

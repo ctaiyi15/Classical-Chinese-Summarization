@@ -1,0 +1,438 @@
+Summary line 0
+Span: 0-21 (score=0.7107)
+
+original:
+司马相如者，蜀郡成都人也，字长卿。
+少时好读书，学击剑，故其亲名之曰犬子。
+相如既学，慕蔺相如之为人，更名相如。
+以赀为郎，事孝景帝，为武骑常侍，非其好也。
+会景帝不好辞赋，是时梁孝王来朝，从游说之士齐人邹阳、淮阴枚乘、吴庄忌夫子之徒，相如见而说之，因病免，客游梁。
+梁孝王令与诸生同舍，相如得与诸生游士居数岁，乃著子虚之赋。
+会梁孝王卒，相如归，而家贫，无以自业。
+素与临邛令王吉相善，吉曰： 长卿久宦游不遂，而来过我。
+於是相如往，舍都亭。
+临邛令缪为恭敬，日往朝相如。
+相如初尚见之，後称病，使从者谢吉，吉愈益谨肃。
+临邛中多富人，而卓王孙家僮八百人，程郑亦数百人，二人乃相谓曰： 令有贵客，为具召之。
+并召令。
+令既至，卓氏客以百数。
+至日中，谒司马长卿，长卿谢病不能往，临邛令不敢尝食，自往迎相如。
+相如不得已，彊往，一坐尽倾。
+酒酣，临邛令前奏琴曰： 窃闻长卿好之，原以自娱。
+相如辞谢，为鼓一再行。
+是时卓王孙有女文君新寡，好音，故相如缪与令相重，而以琴心挑之。
+相如之临邛，从车骑，雍容间雅甚都；及饮卓氏，弄琴，文君窃从户窥之，心悦而好之，恐不得当也。
+既罢，相如乃使人重赐文君侍者通殷勤。
+文君夜亡奔相如，相如乃与驰归成都。
+
+translation:
+Sima Xiangru was born in Chengdu, Shu County, and his courtesy name was Changqing.
+When he was a boy, he liked to read and learn swordsmanship, so his parents named him Quanzi.
+After Sima Xiangru completed his studies, he admired Lin Xiangru's character and changed his name to Xiangru.
+Initially, due to his family's wealth, he was awarded the position of Langguan, guarded Emperor Xiao Jing, and became a regular servant of martial arts, but this was not his hobby.
+It happened that Emperor Jing of the Han Dynasty did not like Ci Fu. At this time, King Liang Xiao came to the capital to see Emperor Jing. He was accompanied by people who were good at lobbying, including Zou Yang from Qijun, Meicheng from Huaiyin, and Mr. Zhuang Ji from Wuxian. Xiangru fell in love with these people when he saw them, so he resigned from his official position on the pretext of illness and lived in Liang State.
+King Liang Xiao asked Xiangru and other scholars to live together. Xiangru had the opportunity to get along with scholars and lobbyists for several years, so he wrote "Zixu Fu".
+Just when King Liang Xiao died, Xiangru had to return to Chengdu. However, his family was poor and he had no occupation that could support his life.
+Xiangru always got along well with Wang Ji, the magistrate of Linqiong County. Wang Ji said: Chang Qing, you have been away from home for a long time and are seeking an official position. It is not satisfactory. You can come to see me.
+So Xiangru went to Linqiong and lived in the capital pavilion in the city.
+The Linqiong County Magistrate pretended to be respectful and visited Xiangru every day.
+At first, Xiangru still met each other with courtesy. Later, he lied about being ill and asked his entourage to refuse Wang Ji's visit. However, Wang Ji was more cautious and respectful.
+There are many rich people in Linqiong County. For example, the Sun family of King Zhuo has 800 slaves, and the Cheng Zheng family has hundreds of people. The two discussed with each other and said: The county magistrate has a distinguished guest, and we are going to prepare a banquet for him.
+The county magistrate was also invited.
+When the county magistrate arrived at the Zhuo family, there were already hundreds of guests in the Zhuo family.
+At noon, I went to invite Sima Changqing, but he refused to come, saying that he was ill. Linqiong ordered to see Xiangru not come and did not dare to eat. He went to greet Xiangru himself.
+Xiangru had no choice but to come to Zhuo's house. All the guests were amazed and envious of his charisma.
+When the wine was in full swing, the Linqiong County Magistrate stepped forward, placed the harp in front of Xiangru, and said, "I heard that Chang Qing likes to play the harp very much, and I hope to listen to a piece of music to cheer you up."
+After thanking Xiangru, he played one or two pieces of music.
+At this time, Zhuo Wangsun had a daughter named Wenjun, who was newly widowed and loved music. So Xiangru pretended to respect each other with the county magistrate, and secretly aroused her love with the sound of the piano.
+When Xiangru came to Qiong, he was followed by carriages and horses. He was dignified in appearance, quiet and elegant, and very generous. When Zhuo Wang and Sun's family were drinking and playing piano music, Zhuo Wenjun secretly looked at him through the crack in the door. He was very happy and liked him very much, but he was afraid that he would not understand his feelings.
+After the banquet, Xiangru asked someone to reward Wenjun's waiter with a large sum of money to convey his admiration to her.
+So Zhuo Wenjun ran away from home at night and eloped with Xiangru. Xiangru and Wenjun hurried back to Chengdu.
+
+summary:
+Sima Xiangru, courtesy name Changqing, was born in Chengdu, Shu County. As a youth, he studied literature and swordsmanship, and later admired Lin Xiangru, changing his name accordingly. He initially served as a Langguan under Emperor Jing of Han due to family wealth, but disliked his post. When Emperor Jing showed little interest in rhapsodies (Ci Fu), Xiangru befriended scholars like Zou Yang and Mei Cheng during a visit from King Xiao of Liang. He resigned on pretence of illness and lived in Liang, where he wrote "Zixu Fu." After King Xiao's death, Xiangru returned to Chengdu impoverished.
+
+================================================================================
+
+Summary line 1
+Span: 6-29 (score=0.7506)
+
+original:
+会梁孝王卒，相如归，而家贫，无以自业。
+素与临邛令王吉相善，吉曰： 长卿久宦游不遂，而来过我。
+於是相如往，舍都亭。
+临邛令缪为恭敬，日往朝相如。
+相如初尚见之，後称病，使从者谢吉，吉愈益谨肃。
+临邛中多富人，而卓王孙家僮八百人，程郑亦数百人，二人乃相谓曰： 令有贵客，为具召之。
+并召令。
+令既至，卓氏客以百数。
+至日中，谒司马长卿，长卿谢病不能往，临邛令不敢尝食，自往迎相如。
+相如不得已，彊往，一坐尽倾。
+酒酣，临邛令前奏琴曰： 窃闻长卿好之，原以自娱。
+相如辞谢，为鼓一再行。
+是时卓王孙有女文君新寡，好音，故相如缪与令相重，而以琴心挑之。
+相如之临邛，从车骑，雍容间雅甚都；及饮卓氏，弄琴，文君窃从户窥之，心悦而好之，恐不得当也。
+既罢，相如乃使人重赐文君侍者通殷勤。
+文君夜亡奔相如，相如乃与驰归成都。
+家居徒四壁立。
+卓王孙大怒曰： 女至不材，我不忍杀，不分一钱也。
+人或谓王孙，王孙终不听。
+文君久之不乐，曰： 长卿第俱如临邛，从昆弟假贷犹足为生，何至自苦如此！
+相如与俱之临邛，尽卖其车骑，买一酒舍酤酒，而令文君当炉。
+相如身自著犊鼻裈，与保庸杂作，涤器於市中。
+卓王孙闻而耻之，为杜门不出。
+昆弟诸公更谓王孙曰： 有一男两女，所不足者非财也。
+
+translation:
+Just when King Liang Xiao died, Xiangru had to return to Chengdu. However, his family was poor and he had no occupation that could support his life.
+Xiangru always got along well with Wang Ji, the magistrate of Linqiong County. Wang Ji said: Chang Qing, you have been away from home for a long time and are seeking an official position. It is not satisfactory. You can come to see me.
+So Xiangru went to Linqiong and lived in the capital pavilion in the city.
+The Linqiong County Magistrate pretended to be respectful and visited Xiangru every day.
+At first, Xiangru still met each other with courtesy. Later, he lied about being ill and asked his entourage to refuse Wang Ji's visit. However, Wang Ji was more cautious and respectful.
+There are many rich people in Linqiong County. For example, the Sun family of King Zhuo has 800 slaves, and the Cheng Zheng family has hundreds of people. The two discussed with each other and said: The county magistrate has a distinguished guest, and we are going to prepare a banquet for him.
+The county magistrate was also invited.
+When the county magistrate arrived at the Zhuo family, there were already hundreds of guests in the Zhuo family.
+At noon, I went to invite Sima Changqing, but he refused to come, saying that he was ill. Linqiong ordered to see Xiangru not come and did not dare to eat. He went to greet Xiangru himself.
+Xiangru had no choice but to come to Zhuo's house. All the guests were amazed and envious of his charisma.
+When the wine was in full swing, the Linqiong County Magistrate stepped forward, placed the harp in front of Xiangru, and said, "I heard that Chang Qing likes to play the harp very much, and I hope to listen to a piece of music to cheer you up."
+After thanking Xiangru, he played one or two pieces of music.
+At this time, Zhuo Wangsun had a daughter named Wenjun, who was newly widowed and loved music. So Xiangru pretended to respect each other with the county magistrate, and secretly aroused her love with the sound of the piano.
+When Xiangru came to Qiong, he was followed by carriages and horses. He was dignified in appearance, quiet and elegant, and very generous. When Zhuo Wang and Sun's family were drinking and playing piano music, Zhuo Wenjun secretly looked at him through the crack in the door. He was very happy and liked him very much, but he was afraid that he would not understand his feelings.
+After the banquet, Xiangru asked someone to reward Wenjun's waiter with a large sum of money to convey his admiration to her.
+So Zhuo Wenjun ran away from home at night and eloped with Xiangru. Xiangru and Wenjun hurried back to Chengdu.
+When I entered the house, I saw nothing but four walls.
+When Zhuo Wangsun learned about his daughter's elopement, he was furious and said: "My daughter is extremely unqualified. I can't bear to hurt her, but I won't give her a cent either."
+Some people tried to persuade Zhuo Wangsun, but he still refused to listen.
+After a long time, Wenjun felt unhappy and said: "Chang Qing, as long as you go to Linqiong with me, you can make a living by borrowing money from your brothers. Why have you made yourself so miserable?"
+Xiangru came to Linqiong with Wenjun, sold all his carriages and horses, and bought a hotel to sell wine.
+He also asked Wenjun to personally take charge of the wine shop business in Longqian, while he put on his calf-nosed trousers and worked with the employees, washing wine vessels in the busy city.
+When Zhuo Wangsun heard about this, he felt so ashamed that he stayed behind closed doors.
+Some brothers and elders talked to Zhuo Wangsun and said, "You have a son and two daughters. What the family lacks is not money."
+
+summary:
+Xiangru's friend Wang Ji, magistrate of Linqiong, invited him to stay. Wang Ji feigned deference, but Xiangru eventually refused visits, feigning illness. Wealthy locals, including Zhuo Wangsun and Cheng Zheng, hosted a banquet for the magistrate. Xiangru initially declined but attended after the magistrate personally invited him. During the feast, Xiangru played the zither, captivating Zhuo Wangsun's newly widowed daughter, Wenjun, who secretly admired him. After the banquet, Xiangru bribed her attendants to convey his feelings, and Wenjun eloped with him to Chengdu, where they lived in poverty with only four walls.
+
+================================================================================
+
+Summary line 2
+Span: 21-51 (score=0.6973)
+
+original:
+文君夜亡奔相如，相如乃与驰归成都。
+家居徒四壁立。
+卓王孙大怒曰： 女至不材，我不忍杀，不分一钱也。
+人或谓王孙，王孙终不听。
+文君久之不乐，曰： 长卿第俱如临邛，从昆弟假贷犹足为生，何至自苦如此！
+相如与俱之临邛，尽卖其车骑，买一酒舍酤酒，而令文君当炉。
+相如身自著犊鼻裈，与保庸杂作，涤器於市中。
+卓王孙闻而耻之，为杜门不出。
+昆弟诸公更谓王孙曰： 有一男两女，所不足者非财也。
+今文君已失身於司马长卿，长卿故倦游，虽贫，其人材足依也，且又令客，独柰何相辱如此！
+卓王孙不得已，分予文君僮百人，钱百万，及其嫁时衣被财物。
+文君乃与相如归成都，买田宅，为富人。
+居久之，蜀人杨得意为狗监，侍上。
+上读子虚赋而善之，曰： 朕独不得与此人同时哉！
+得意曰： 臣邑人司马相如自言为此赋。
+上惊，乃召问相如。
+相如曰： 有是。
+然此乃诸侯之事，未足观也。
+请为天子游猎赋，赋成奏之。
+上许，令尚书给笔札。
+相如以 子虚 ，虚言也，为楚称； 乌有先生 者，乌有此事也，为齐难； 无是公 者，无是人也，明天子之义。
+故空藉此三人为辞，以推天子诸侯之苑囿。
+其卒章归之於节俭，因以风谏。
+奏之天子，天子大说。
+其辞曰：
+楚使子虚使於齐，齐王悉发境内之士，备车骑之众，与使者出田。
+田罢，子虚过詑乌有先生，而无是公在焉。
+坐定，乌有先生问曰： 今日田乐乎？
+子虚曰： 乐。  获多乎？
+曰： 少。
+然则何乐？
+
+translation:
+So Zhuo Wenjun ran away from home at night and eloped with Xiangru. Xiangru and Wenjun hurried back to Chengdu.
+When I entered the house, I saw nothing but four walls.
+When Zhuo Wangsun learned about his daughter's elopement, he was furious and said: "My daughter is extremely unqualified. I can't bear to hurt her, but I won't give her a cent either."
+Some people tried to persuade Zhuo Wangsun, but he still refused to listen.
+After a long time, Wenjun felt unhappy and said: "Chang Qing, as long as you go to Linqiong with me, you can make a living by borrowing money from your brothers. Why have you made yourself so miserable?"
+Xiangru came to Linqiong with Wenjun, sold all his carriages and horses, and bought a hotel to sell wine.
+He also asked Wenjun to personally take charge of the wine shop business in Longqian, while he put on his calf-nosed trousers and worked with the employees, washing wine vessels in the busy city.
+When Zhuo Wangsun heard about this, he felt so ashamed that he stayed behind closed doors.
+Some brothers and elders talked to Zhuo Wangsun and said, "You have a son and two daughters. What the family lacks is not money."
+Now, Wenjun has become the wife of Sima Changqing. Changqing was tired of running away from home. Although he was poor, he was indeed a talent and could be completely relied on. Besides, he is a distinguished guest of the county magistrate, why do you despise him like this!
+Zhuo Wangsun had no choice but to give Wenjun 100 slaves, 1 million in money, clothes, bedding and various belongings when she got married.
+Wenjun returned to Chengdu with Xiangru, bought land and houses, and became a wealthy family.
+After a long period of time, Yang Deyi, a native of Shu County, served as a dog supervisor to serve the emperor.
+One day, Emperor Wu read "Zixu Fu" and thought it was well written. He said: "I cannot be at the same time as this author."
+Yang Deyi said: My fellow countryman Sima Xiangru claimed that he wrote this poem.
+Emperor Wu was very surprised and summoned Xiangru to ask.
+Xiangru said: There is such a thing.
+However, this Fu only describes the affairs of the princes and is not worth reading.
+Please ask me to write a poem about the emperor's hunting trip. After the poem is completed, I will present it to the emperor.
+Emperor Wu agreed and ordered the minister to give him a pen and wooden slips.
+Xiangru used the fictitious words "Zixu" to state the beauty of the Chu State; "Mr. Wu You" means that there is no such thing, and uses it to refute the Chu State for the Qi State; "Wu Shi Gong" means that there is no such person to clarify the principle of being the emperor.
+Therefore, an article was written under the guise of these three people to deduce the prosperous scenes of the emperor and the princes.
+The theme of the last chapter of the Fu comes down to frugality, in order to exhort the emperor.
+After presenting the gift to the emperor, the emperor was very happy.
+The text of the poem says:
+The King of Chu sent Zixu as an envoy to the State of Qi. The King of Qi dispatched all the soldiers in the territory, prepared many chariots and horses, and went hunting with the envoy.
+After the hunting was over, Zixu went to visit Mr. Wu You and boasted about the incident to him. Wu Shigong happened to be present.
+After everyone sat down, Mr. Wu You asked Zixu: "Are you happy hunting today?"
+Zixu said: Happy. Is there a lot of prey?
+Zixu replied: Very few.
+If this is the case, where does the joy come from?
+
+summary:
+Zhuo Wangsun was furious and refused to support them. Wenjun suggested they return to Linqiong, where they sold their possessions and opened a tavern. Wenjun managed the shop while Xiangru worked publicly in menial tasks. Ashamed, Zhuo Wangsun, persuaded by relatives, eventually gave them 100 slaves, money, and belongings, enabling them to become wealthy.
+
+================================================================================
+
+Summary line 3
+Span: 33-63 (score=0.7105)
+
+original:
+居久之，蜀人杨得意为狗监，侍上。
+上读子虚赋而善之，曰： 朕独不得与此人同时哉！
+得意曰： 臣邑人司马相如自言为此赋。
+上惊，乃召问相如。
+相如曰： 有是。
+然此乃诸侯之事，未足观也。
+请为天子游猎赋，赋成奏之。
+上许，令尚书给笔札。
+相如以 子虚 ，虚言也，为楚称； 乌有先生 者，乌有此事也，为齐难； 无是公 者，无是人也，明天子之义。
+故空藉此三人为辞，以推天子诸侯之苑囿。
+其卒章归之於节俭，因以风谏。
+奏之天子，天子大说。
+其辞曰：
+楚使子虚使於齐，齐王悉发境内之士，备车骑之众，与使者出田。
+田罢，子虚过詑乌有先生，而无是公在焉。
+坐定，乌有先生问曰： 今日田乐乎？
+子虚曰： 乐。  获多乎？
+曰： 少。
+然则何乐？
+曰： 仆乐齐王之欲夸仆以车骑之众，而仆对以云梦之事也。
+曰： 可得闻乎？ 子虚曰： 可。
+王驾车千乘，选徒万骑，田於海滨。
+列卒满泽，罘罔弥山，揜兔辚鹿，射麋脚麟。
+鹜於盐浦，割鲜染轮。
+射中获多，矜而自功。
+顾谓仆曰： 楚亦有平原广泽游猎之地饶乐若此者乎？
+楚王之猎何与寡人？
+仆下车对曰： 臣，楚国之鄙人也，幸得宿卫十有馀年，时从出游，游於後园，览於有无，然犹未能遍睹也，又恶足以言其外泽者乎！
+齐王曰： 虽然，略以子之所闻见而言之。
+仆对曰： 唯唯。臣闻楚有七泽，尝见其一，未睹其馀也。
+臣之所见，盖特其小小者耳，名曰云梦。
+
+translation:
+After a long period of time, Yang Deyi, a native of Shu County, served as a dog supervisor to serve the emperor.
+One day, Emperor Wu read "Zixu Fu" and thought it was well written. He said: "I cannot be at the same time as this author."
+Yang Deyi said: My fellow countryman Sima Xiangru claimed that he wrote this poem.
+Emperor Wu was very surprised and summoned Xiangru to ask.
+Xiangru said: There is such a thing.
+However, this Fu only describes the affairs of the princes and is not worth reading.
+Please ask me to write a poem about the emperor's hunting trip. After the poem is completed, I will present it to the emperor.
+Emperor Wu agreed and ordered the minister to give him a pen and wooden slips.
+Xiangru used the fictitious words "Zixu" to state the beauty of the Chu State; "Mr. Wu You" means that there is no such thing, and uses it to refute the Chu State for the Qi State; "Wu Shi Gong" means that there is no such person to clarify the principle of being the emperor.
+Therefore, an article was written under the guise of these three people to deduce the prosperous scenes of the emperor and the princes.
+The theme of the last chapter of the Fu comes down to frugality, in order to exhort the emperor.
+After presenting the gift to the emperor, the emperor was very happy.
+The text of the poem says:
+The King of Chu sent Zixu as an envoy to the State of Qi. The King of Qi dispatched all the soldiers in the territory, prepared many chariots and horses, and went hunting with the envoy.
+After the hunting was over, Zixu went to visit Mr. Wu You and boasted about the incident to him. Wu Shigong happened to be present.
+After everyone sat down, Mr. Wu You asked Zixu: "Are you happy hunting today?"
+Zixu said: Happy. Is there a lot of prey?
+Zixu replied: Very few.
+If this is the case, where does the joy come from?
+Zixu replied: I am happy that King Qi wanted to boast to me about his many chariots and horses, but I answered him with the grand scene of King Chu hunting in Yunmengze.
+Mr. Wuyou said: Can you tell me and listen? Zixu said, "Okay."
+The King of Qi commanded thousands of chariots and selected tens of thousands of riders to hunt on the shores of the East China Sea.
+Soldiers lined up all over the marshes, animal traps covered the hills, and the animal nets covered the hares. The wheels crushed the big deer to death, shot the elk, and caught the calf of Lin.
+The chariots and riders galloped on the salt flats by the sea, and the blood of the slaughtered animals stained the wheels red.
+He shot at the beasts and captured a lot of food, and the king of Qi proudly boasted about his achievements.
+He looked back at me and said: Chu State also has plains and vast swamps for hunting and hunting. Can it make people have such fun?
+Who has more fun, the King of Chu's safari, or me?
+I got out of the car and replied, "My dear minister, I am just a humble man from Chu State, but I have been lucky enough to serve as a guard in the Chu Palace for more than ten years. I often go hunting with the King of Chu. The hunting ground is in the back garden of the palace. I can enjoy the surrounding scenery by the way, but I cannot see all the grand scenes. How can I talk about the grand scenery of Daze outside the inner garden?"
+King Qi said: Even so, please briefly talk about what you have seen and heard!  I replied: Yes, yes.
+I heard that there are seven great lakes in Chu State. I have seen one of them, but not the others.
+The one I saw is just the smallest of the seven great swamps, named Yunmeng.
+
+summary:
+Later, Emperor Wu of Han read "Zixu Fu" and admired it. Yang Deyi informed him that Xiangru was the author. Summoned, Xiangru offered to write a grander rhapsody about the emperor's hunting grounds. He composed "Shanglin Fu," using fictitious characters—Zixu (Chu), Mr. Wuyou (Qi), and Wu Shigong (the emperor's perspective)—to contrast princely extravagance with imperial virtue. The rhapsody described vast landscapes, hunting scenes, and concluded with a call for frugality and benevolence. The emperor was delighted and appointed Xiangru as Langguan.
+
+================================================================================
+
+Summary line 4
+Span: 156-172 (score=0.7525)
+
+original:
+相如为郎数岁，会唐蒙使略通夜郎西僰中，发巴蜀吏卒千人，郡又多为发转漕万馀人，用兴法诛其渠帅，巴蜀民大惊恐。
+上闻之，乃使相如责唐蒙，因喻告巴蜀民以非上意。
+檄曰：
+告巴蜀太守：蛮夷自擅不讨之日久矣，时侵犯边境，劳士大夫。
+陛下即位，存抚天下，辑安中国。
+然後兴师出兵，北征匈奴，单于怖骇，交臂受事，诎膝请和。
+康居西域，重译请朝，稽首来享。
+移师东指，闽越相诛。
+右吊番禺，太子入朝。
+南夷之君，西僰之长，常效贡职，不敢怠堕，延颈举踵，喁喁然皆争归义，欲为臣妾，道里辽远，山川阻深，不能自致。
+夫不顺者已诛，而为善者未赏，故遣中郎将往宾之，发巴蜀士民各五百人，以奉币帛，卫使者不然，靡有兵革之事，战斗之患。
+今闻其乃发军兴制，惊惧子弟，忧患长老，郡又擅为转粟运输，皆非陛下之意也。
+当行者或亡逃自贼杀，亦非人臣之节也。
+夫边郡之士，闻烽举燧燔，皆摄弓而驰，荷兵而走，流汗相属，唯恐居後，触白刃，冒流矢，义不反顾，计不旋踵，人怀怒心，如报私雠。
+彼岂乐死恶生，非编列之民，而与巴蜀异主哉？
+计深虑远，急国家之难，而乐尽人臣之道也。
+故有剖符之封，析珪而爵，位为通侯，居列东第，终则遗显号於後世，传土地於子孙，行事甚忠敬，居位甚安佚，名声施於无穷，功烈著而不灭。
+
+translation:
+Xiangru served as Langguan for several years. At that time, Tang Meng was ordered to plunder and open up Yelang and Bozhong to the west. He recruited thousands of officials and soldiers from Ba and Shu counties, and more than 10,000 land and water transportation personnel from Xijun. He also used wartime laws to kill the commander, and the people of Ba and Shu were shocked and frightened.
+When the emperor heard about this situation, he sent Xiangru to blame Tang Meng and took the opportunity to tell the people of Ba and Shu that what Tang Meng did was not the emperor's original intention.
+The message said:
+Announcement to the governors of Ba and Shu: The barbarians have taken military power for themselves, disobeyed the imperial court, and have not been attacking for a long time. They often invade the borders and cause hardships to the scholar-bureaucrats.
+Now that the emperor has ascended the throne, he is trying to appease the world and make China peaceful and harmonious.
+Then he mobilized his troops and went north to attack the Xiongnu, which shocked the Xiongnu. They surrendered and bowed their knees to seek peace.
+Kangju and other countries in the Western Regions also went through translations, communicated with each other, requested to see Emperor Wu, kowtowed reverently, and presented tributes.
+Then the army pointed directly to the east, and the king of Minyue was killed by his younger brother.
+Then the army arrived at Panyu, and the King of Nanyue sent Prince Yingqi to the court.
+The monarchs of Nanyi and the leaders of Xibo often paid tribute and taxes, and did not dare to neglect them. Everyone stretched their necks, raised their heels, admired the court, strived for benevolence and righteousness, and wanted to be the servants of the Han Dynasty. However, the road was far away and mountains and rivers blocked them, so they could not come to pay tribute to the Hanjun in person.
+Now, those who disobey have been killed, but those who have done good deeds have not yet been rewarded, so the Zhonglang general is sent to treat them politely and make them submit. As for the levying of 500 soldiers and civilians from Ba and Shu, it was just to offer gifts and protect the envoys from accidents. They did not expect to start a war and cause the disaster of war.
+Now, the emperor heard that General Zhonglang actually used wartime laws, which frightened the children of Ba and Shu, and made the fathers and elders of Ba and Shu worried about disaster. The two counties of Ba and Shu also transferred grain to General Zhonglang without authorization. This was not the emperor's original intention.
+As for those who were conscripted, some ran away and some killed each other. This was not the moral integrity of a minister.
+When the soldiers in the border counties and counties heard the news that the beacon fire was held high and the fumes were lit, they all prepared their bows to shoot, galloped forward, and rushed to the battlefield with their weapons on their backs. Everyone was sweating, fearing that they would fall behind; when fighting, even if they were exposed to sharp blades and risked being hit by stray arrows, they had no hesitation and never thought of turning around and running away. Everyone is angry as if seeking personal revenge.
+Are they happy to die but hate to live? Are they not good citizens in their household registration, and are they not the same monarch as Ba and Shu?
+It's just that they have deep thoughts, long-term considerations, and are focused on the danger of the country, and like to do their best to fulfill the obligations of their subjects.
+Therefore, some of them were rewarded by the talisman-cutting officials, and some of them were given titles, ranked in the ranks of marquises, and their residences were arranged in the east. After their death, they can pass down the dignitary's posthumous title to future generations, and pass on the rewarded land to their descendants. They are very loyal and serious in their work, and they are particularly comfortable as officials. Their good reputation will be spread to future generations, and their outstanding achievements will never be wiped out.
+
+summary:
+Xiangru served as an envoy to blame Tang Meng for harsh policies in Ba and Shu, issuing an imperial proclamation reassuring the people. He later advocated for reopening southwestern territories, becoming Zhonglang General to pacify the region. Despite opposition, he succeeded, and the emperor was pleased. However, accusations of bribery led to his dismissal, though he was later reinstated as Langguan.
+
+================================================================================
+
+Summary line 5
+Span: 270-297 (score=0.6588)
+
+original:
+弥节容与兮，历吊二世。
+持身不谨兮，亡国失埶。
+信谗不寤兮，宗庙灭绝。
+呜呼哀哉！
+操行之不得兮，坟墓芜秽而不脩兮，魂无归而不食。夐邈绝而不齐兮，弥久远而愈鬐。
+精罔阆而飞扬兮，拾九天而永逝。
+呜呼哀哉！
+相如拜为孝文园令。
+天子既美子虚之事，相如见上好仙道，因曰： 上林之事未足美也，尚有靡者。
+臣尝为大人赋，未就，请具而奏之。
+其辞曰：世有大人兮，在于中州。宅弥万里兮，曾不足以少留。
+悲世俗之迫隘兮，朅轻举而远游。
+垂绛幡之素蜺兮，载云气而上浮。
+建格泽之长竿兮，总光耀之采旄。
+垂旬始以为幓兮，抴彗星而为髾。
+掉指桥以偃蹇兮，又旖旎以招摇。
+揽欃枪以为旌兮，靡屈虹而为绸。
+红杳渺以眩湣兮，猋风涌而云浮。
+驾应龙象舆之蠖略逶丽兮，骖赤螭青虬之鞮蟉蜿蜒。
+低卬夭蟜据以骄骜兮，诎折隆穷蠼以连卷沛艾赳螑仡以佁儗兮，放散畔岸骧以孱颜。
+跮踱輵辖容以委丽兮，绸缪偃蹇怵鞨以梁倚。
+纠蓼叫奡蹋以艐路兮，蔑蒙踊跃腾而狂趡。
+莅飒卉翕熛至电过兮，焕然雾除，霍然云消。
+邪绝少阳而登太阴兮，与真人乎相求。
+互折窈窕以右转兮，横厉飞泉以正东。
+悉徵灵圉而选之兮，部乘众神於瑶光。使五帝先导兮，反太一而从陵阳。
+左玄冥而右含雷兮，前陆离而後潏湟。
+厮征伯侨而役羡门兮，属岐伯使尚方。
+
+translation:
+Wandering slowly, I passed by II's grave and paid my respects to him.
+He himself acted imprudently, which led to the destruction of the country and the loss of his power.
+He listened to the slander and refused to wake up, causing the ancestral temple to be exterminated.
+Alas!
+His moral character was not upright, his tomb was deserted and no one had repaired it, his soul had nowhere to go, and no one offered sacrifices to him; he drifted to an extremely far and boundless place, far beyond the darkness.
+The spirit like a monster ascends into the sky and flies far away through the vast nine days.
+Alas!
+Xiangru was appointed as the mausoleum order of Emperor Wen of Han Dynasty.
+Emperor Wu not only praised Zixu's deeds, but Xiangru also saw that the emperor loved the immortal way, so he took the opportunity to say: "The deeds in Shanglin are not the most beautiful, there are more beautiful things."
+I once wrote "Ode to Your Excellency", but it is not finished. Please allow me to present it to the Emperor after I finish it.
+Xiangru believed that the immortals in the legend lived in the mountains, forests and swamps, and were particularly thin in appearance. They were not the immortals the emperor had in mind, so he wrote the "Adult Fu", which wrote: There is an adult in the world who lives in China. The houses are spread thousands of miles away, but they are not enough to make him stop for a while.
+Sad about the coercion and hardship of the world, he passed away and wandered into the distance.
+Riding on the secondary rainbow decorated with red flags, it floats up carrying the clouds.
+Long poles of clouds that look like fireworks are erected, and colorful flags are tied together.
+The star of ten days hangs as the streamer of the banner, and the comet hangs as the banner feather.
+The flags are invincible in the wind, meandering gracefully and swaying gracefully.
+He took a spear and made a flag, and the flagpole was wrapped with a curved rainbow as silk.
+The sky was deep red and dark, with surging clouds and floating clouds.
+Driving the Yinglong and Xiang chariots, they move forward in a controlled manner, with the red chi and green Qiu as the galloping horses.
+Sometimes the dragon's body flexes and rises, soars with its head held high, and gallops at will; sometimes it twists and bulges, coils and curls. Sometimes he shakes his head and stretches his neck, ups and downs and moves forward, sometimes he holds his head high; sometimes he lets himself relax and is self-indulgent, sometimes his head is held high.
+Sometimes he advances and retreats suddenly, waving his eyes and sticking out his tongue, like a bird flying away, following each other from left to right; sometimes the dragon's head shakes and bends gracefully, like a frightened rabbit running, like the beams of a house relying on each other.
+Or step onto the road amid the hustle and bustle, or fly and jump, galloping forward.
+Or flying quickly, chasing each other, as fast as lightning, suddenly bright, the fog disappears, and the clouds disperse.
+Cross the East Pole diagonally and climb to the North Pole to interact with the immortals.
+After passing through the intricate and winding place, turn right and cross the Feiquan towards the due east.
+Summon all the immortals to select them, and arrange them on Yaoguang. Let the Five Emperors be your guides, let Taiyi return, and let Lingyang Ziming be your attendant.
+On the left is Xuan Ming, on the right is Han Lei, with Lu Li in front and Yan Huang behind.
+Let Prince Qiao be a servant, make Xian Meng Gao a servant, and let Qi Bo be in charge of prescriptions.
+
+summary:
+Xiangru suffered from diabetes and avoided court debates. He advised the emperor against dangerous hunting, writing a remonstrance. He also composed "Ode to the Immortals" and "Adult Fu," depicting celestial journeys. His final work, a treatise on the Feng and Shan sacrifices, urged the emperor to perform these rites. The emperor later conducted them after Xiangru's death.
+
+================================================================================
+
+Summary line 6
+Span: 327-350 (score=0.5670)
+
+original:
+天子曰： 司马相如病甚，可往从悉取其书；若不然，後失之矣。
+使所忠往，而相如已死，家无书。
+问其妻，对曰： 长卿固未尝有书也。
+时时著书，人又取去，即空居。
+长卿未死时，为一卷书，曰有使者来求书，奏之。
+无他书。
+其遗札书言封禅事，奏所忠。
+忠奏其书，天子异之。
+其书曰：伊上古之初肇，自昊穹兮生民，历撰列辟，以迄于秦。
+率迩者踵武，逖听者风声。纷纶葳蕤，堙灭而不称者，不可胜数也。
+续昭夏，崇号谥，略可道者七十有二君。
+罔若淑而不昌，畴逆失而能存？
+轩辕之前，遐哉邈乎，其详不可得闻也。
+五三六经载籍之传，维见可观也。书曰 元首明哉，股肱良哉 。
+因斯以谈，君莫盛於唐尧，臣莫贤於后稷。
+后稷创业於唐，公刘发迹於西戎，文王改制，爰周郅隆，大行越成，而後陵夷衰微，千载无声，岂不善始善终哉。
+然无异端，慎所由於前，谨遗教於後耳。
+故轨迹夷易，易遵也；湛恩濛涌，易丰也；宪度著明，易则也；垂统理顺，易继也。
+是以业隆於繦褓而崇冠于二后。
+揆厥所元，终都攸卒，未有殊尤绝迹可考于今者也。
+然犹蹑梁父，登泰山，建显号，施尊名。
+大汉之德，逢涌原泉，沕潏漫衍，旁魄四塞，云尃雾散，上暢九垓，下溯八埏。
+怀生之类霑濡浸润，协气横流，武节飘逝，迩陕游原，迥阔泳沫，首恶湮没，闇昧昭晢，昆蟲凯泽，回首面内。
+然後囿驺虞之珍群，徼麋鹿之怪兽，鳒一茎六穗於庖，牺双共抵之兽，获周馀珍收龟于岐，招翠黄乘龙於沼。鬼神接灵圉，宾於间馆。奇物谲诡，俶傥穷变。钦哉，符瑞臻兹，犹以为薄，不敢道封禅。
+
+translation:
+The emperor said: Sima Xiangru is very ill. You can send someone to retrieve all his books; if you don't do this, they will be lost in the future.
+He sent Suozhong to Maoling, but Xiangru was dead and there were no books at home.
+When I asked Xiangru's wife, she replied: Changqing never had a book.
+He often writes books and others take them away, so his home is always empty.
+When Chang Qing was still alive, he wrote a book. He said that if an envoy came to pick up the book, he would present it.
+There are no other books.
+The book he left behind was about Feng Chan, and he dedicated it to his loyal followers.
+Suo Zhong presented the book to the emperor again, and the emperor was surprised by the book.
+The book says: At the beginning of ancient times, all peoples were born from heaven, and experienced kings of all generations, all the way to Qin.
+Follow the footsteps of modern kings and listen to the legacy and reputation of ancient kings. They are numerous and confusing. There are countless people whose reputations and deeds have been destroyed but not praised.
+There are only seventy-two monarchs who can succeed Shun and Yu, advocate honorable titles and posthumous titles, and can be granted the title of Zen in Qinshan and be slightly praised.
+If one acts in accordance with good principles, no one will not prosper; if one goes against common sense and acts unethically, who can survive?
+Before Xuanyuan, time was long, things were unclear, and the details were unknown.
+Some of the deeds of the Five Emperors and Three Kings are recorded in the Six Classics books and legends, and we can see the general situation. "Shangshu" says: The king is wise and the ministers are outstanding.
+According to this record, it can be said that the sage of the king did not exceed that of Tang Yao, and the virtuousness of the ministers did not compare with Hou Ji.
+Houji made great achievements during the reign of Yao of Tang Dynasty, Gongliu became prosperous in the land of Xirong, King Wen reformed the system, made Zhou prosperous, and the way of peace was formed. Although the political achievements of subsequent descendants declined, there has been no voice of resentment for thousands of years. Isn't this a good beginning and a good end?
+But there is no other reason why the Zhou Dynasty could be like this. It is just that the previous kings were able to carefully engage in the things they considered and planned, and they were able to rigorously teach future generations.
+Therefore, the road opened by the predecessors is smooth and easy to follow; the deep kindness is broad and easy to be abundant; the law is clear and easy to follow; the inheritance of the law is reasonable and easy to inherit.
+Therefore, Duke Zhou's achievements flourished during the reign of King Cheng, and his merits surpassed those of King Wen and King Wu.
+Judging from its beginning and its end, there are no particularly outstanding achievements that can be compared with the current Han Dynasty.
+However, Zhou people still went up to Liangfu Mountain and Mount Tai, established noble titles and gained a respected reputation.
+The benevolence of the great Han Dynasty surged out like a fountain, spreading grandly and spreading in all directions. It spreads like clouds and mist, reaching up to the nine heavens and down to extremely distant places in all directions.
+All living beings receive kindness, the harmonious spirit spreads widely, and the mighty spirit drifts away. Those who are near are like swimming in the source of grace, and those who are far away are like swimming in the last stream of grace.
+The leaders of evil will be obliterated, and those in darkness will gain light. Even all kinds of animals were happy and turned around to face the Chinese court. Then, precious beasts such as Zouyu gathered in the garden, monsters such as Bailin entered the fence, selected a six-tasseled Jiahe in the kitchen for sacrifice, sacrificed a white lin with a branched horn, obtained the treasure tripod left by the Zhou Dynasty and the raised sacred turtles in Qishan, and summoned the divine horse from the swamp to ride the yellow. Ghosts and gods greet the gods and spirits and treat them as guests in the pavilion. Rare things, strange and extraordinary, infinitely varied. It's so admirable that all the auspicious signs are appearing here, but he still thinks that his merits are meager and he dare not praise the matter of being enshrined in Zen.
+
+summary:
+Sima Qian noted that Xiangru's works, though ornate, promoted frugality, akin to the "Book of Songs." Yang Xiong criticized their imbalance between luxury and admonition, but Sima Qian defended their value.
+
+================================================================================
+
