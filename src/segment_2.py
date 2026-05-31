@@ -1,55 +1,11 @@
 from pathlib import Path
-from transformers import MT5Tokenizer
-import torch
-import torch.nn.functional as F
-from transformers import AutoTokenizer, AutoModel
+from transformers import AutoTokenizer
 from collections import Counter
 
-original_root = Path("../data/raw/original/史记/七十列传")
-translated_root = Path("../data/processed/translated/史记/七十列传")
-summary_root = Path("../data/processed/summary_clean/史记/七十列传")
-output_root = Path("../data/segmented_v3/史记/七十列传")
-
-def mean_pooling(model_output, attention_mask):
-    token_embeddings = model_output.last_hidden_state
-    mask = attention_mask.unsqueeze(-1).expand(
-        token_embeddings.size()
-    ).float()
-    return (token_embeddings * mask).sum(dim=1) / mask.sum(dim=1)
-
-
-def sentence_similarity(sen1, sen2):
-    encoded = tokenizer(
-        [sen1, sen2],
-        padding=True,
-        truncation=True,
-        return_tensors="pt"
-    )
-    with torch.no_grad():
-        output = model(**encoded)
-    embeddings = mean_pooling(
-        output,
-        encoded["attention_mask"]
-    )
-    similarity = F.cosine_similarity(
-        embeddings[0].unsqueeze(0),
-        embeddings[1].unsqueeze(0)
-    )
-    return similarity.item()
-
-def similarity_compare(chunk1, chunk2, sen):
-    if not chunk1 and not chunk2:
-        return 1
-    if not chunk1:
-        return 2
-    if not chunk2:
-        return 1
-    sim1 = sum([sentence_similarity(s, sen) for s in chunk1]) / len(chunk1)
-    sim2 = sum([sentence_similarity(s, sen) for s in chunk2]) / len(chunk2)
-    if sim1 >= sim2:
-        return 1
-    else:
-        return 2
+original_root = Path("../data/raw/original")
+translated_root = Path("../data/processed/translated")
+summary_root = Path("../data/processed/summary_clean")
+output_root = Path("../data/segmented_v4")
     
 def rouge_1(orig, tran):
     orig_tokens = orig.lower().split()
@@ -68,27 +24,7 @@ def rouge_1(orig, tran):
         F1 = (2 * precision * recall) / (precision + recall)
     return (precision, recall, F1)
 
-def get_embedding(text, tokenizer, model):
-    encoded = tokenizer(
-        text,
-        padding=True,
-        truncation=True,
-        return_tensors="pt"
-    )
-
-    with torch.no_grad():
-        output = model(**encoded)
-
-    token_embeddings = output.last_hidden_state
-    attention_mask = encoded["attention_mask"]
-
-    mask = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
-    emb = (token_embeddings * mask).sum(dim=1) / mask.sum(dim=1)
-
-    emb = F.normalize(emb, p=2, dim=1)
-    return emb[0]
-
-def generate_token_spans(source, len_tokenizer, sem_tokenizer, model, lower_limit, upper_limit, step=3):
+def generate_token_spans(source, len_tokenizer, lower_limit, upper_limit, step=3):
     spans = []
     token_source = [len(len_tokenizer.encode(sen)) for sen in source]
 
@@ -109,31 +45,27 @@ def generate_token_spans(source, len_tokenizer, sem_tokenizer, model, lower_limi
 
             if current_size >= lower_limit:
                 span_text = " ".join(current_span)
-                span_emb = get_embedding(span_text, sem_tokenizer, model)
 
                 spans.append({
                     "start": start,
                     "end": end,
                     "token_size": current_size,
-                    "embedding": span_emb
+                    "text": span_text
                 })
 
     return spans
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     lower_limit = 1024
     upper_limit = 2048
 
-    model_name = "sentence-transformers/all-MiniLM-L6-v2"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModel.from_pretrained(model_name)
     mt5_tokenizer = AutoTokenizer.from_pretrained("google/mt5-small")
 
     for file_count,summary_file in enumerate(summary_root.rglob("target.summary.txt")):
         
         # if file_count == 16:
-            print(f'Processing file {file_count + 1}: {summary_file}')
+            print(f"Processing file {file_count + 1}: {summary_file}")
             relative_parent = summary_file.parent.relative_to(summary_root)
 
             translated_file = (
@@ -141,8 +73,7 @@ if __name__ == '__main__':
                 relative_parent /
                 "target.txt"
             )
-            original_file = original_root / relative_parent / 'source.txt'
-            output_all_file = output_root / relative_parent / "segment_all.txt"
+            original_file = original_root / relative_parent / "source.txt"
             output_sum_file = output_root / relative_parent / "segment_sum.txt"
 
             with open(summary_file, "r", encoding="utf-8") as f:
@@ -157,45 +88,47 @@ if __name__ == '__main__':
             if not sum_text or not tran_text:
                 continue
 
-            chunks = []
-            current_chunk = []
-            current_chunk_size = 0
-            orig_chunks = []
-            orig_current_chunk = []
-            token_source = [len(mt5_tokenizer.encode(sen)) for sen in tran_text]
-
-            spans = generate_token_spans(tran_text, mt5_tokenizer, tokenizer, model, lower_limit, upper_limit, 3)
-            print(f'{len(spans)} spans found.\n')
-            span_embeddings = torch.stack([span["embedding"] for span in spans])
+            spans = generate_token_spans(tran_text, mt5_tokenizer, lower_limit, upper_limit, 3)
+            print(f"{len(spans)} spans found.\n")
 
             matches = []
 
             for idx, sum_line in enumerate(sum_text):
-                sum_emb = get_embedding(sum_line, tokenizer, model)
 
-                scores = torch.matmul(
-                    span_embeddings,
-                    sum_emb
-                )
+                best_score = float("-inf")
+                best_span = None
 
-                best_idx = torch.argmax(scores).item()
-                best_span = spans[best_idx]
+                for span in spans:
+                    span_text = span["text"]
 
-                best_score = scores[best_idx].item()
+                    precision, recall, f1 = rouge_1(
+                        sum_line,
+                        span_text
+                    )
+                    summary_len = len(sum_line.split())
+                    span_len = len(span_text.split())
+
+                    length_ratio = span_len / summary_len if summary_len > 0 else 1
+                    length_penalty = 0.02 * length_ratio
+                    score = recall - length_penalty
+
+                    if score > best_score:
+                        best_score = score
+                        best_span = span
+                        
+                if best_span is None:
+                    continue
 
                 matches.append({
                     "start": best_span["start"],
                     "end": best_span["end"],
-                    "score": best_score
+                    "score": best_score,
+                    "summary_sentences": [sum_line]
                 })
 
-            
-            output_sum_file.parent.mkdir(
-                parents=True,
-                exist_ok=True
-            )
+            output_sum_file.parent.mkdir(parents=True, exist_ok=True)
 
-            with open(output_sum_file, 'w', encoding='utf-8') as out:
+            with open(output_sum_file, "w", encoding="utf-8") as out:
 
                 for i, span in enumerate(matches):
 
@@ -203,21 +136,21 @@ if __name__ == '__main__':
                     end = span["end"]
                     score = span["score"]
 
-                    out.write(f'Summary line {i}\n')
+                    out.write(f"Summary line {i}\n")
                     out.write(
-                        f'Span: {start}-{end} '
-                        f'(score={score:.4f})\n\n'
+                        f"Span: {start}-{end} "
+                        f"(score={score:.4f})\n\n"
                     )
 
-                    out.write('original:\n')
+                    out.write("original:\n")
                     for sen in orig_text[start:end+1]:
-                        out.write(sen + '\n')
+                        out.write(sen + "\n")
 
-                    out.write('\ntranslation:\n')
+                    out.write("\ntranslation:\n")
                     for sen in tran_text[start:end+1]:
-                        out.write(sen + '\n')
+                        out.write(sen + "\n")
 
-                    out.write('\nsummary:\n')
-                    out.write(sum_text[i] + '\n')
+                    out.write("\nsummary:\n")
+                    out.write(sum_text[i] + "\n")
 
-                    out.write('\n' + '=' * 80 + '\n\n')
+                    out.write("\n" + "=" * 80 + "\n\n")
