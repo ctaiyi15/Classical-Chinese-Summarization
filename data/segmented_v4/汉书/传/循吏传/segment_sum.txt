@@ -1,0 +1,470 @@
+Summary line 0
+Span: 0-15 (score=0.5311)
+
+original:
+汉兴之初，反秦之敝，与民休息，凡事简易，禁罔疏阔，而相国萧、曹以宽厚清静为天下帅，民作 画一 之歌。
+孝惠垂拱，高后女主，不出房闼，而天下晏然，民务稼穑，衣食滋殖。
+至于文、景，遂移风易俗。
+是时，循吏如河南守吴公、蜀守文翁之属，皆谨身帅先，居以廉平，不至于严，而民从化。
+孝武之世，外攘四夷，内改法度，民用凋敝，奸轨不禁。
+时少能以化治称者，惟江都相董仲舒、内史公孙弘、皃宽，居官可纪。
+三人皆儒者，通于世务，明习文法，以经术润饰吏事，天子器之。
+仲舒数谢病去，弘、宽至三公。
+孝昭幼冲，霍光秉政，承奢侈师旅之后，海内虚耗，光因循守职，无所改作。
+至于始元、元凤之间，匈奴乡化，百姓益富，举贤良文学，问民所疾苦，于是罢酒榷而议盐铁矣。
+及至孝宣，由仄陋而登至尊，兴于闾阎，知民事之艰难。
+自霍光薨后始躬万机，厉精为治，五日一听事，自丞相已下各奉职而进。
+及拜刺史守相，辄亲见问，观其所由，退而考察所行以质其言，有名实不相应，必知其所以然。
+常称曰： 庶民所以安其田里而亡叹息愁恨之心者，政平讼理也。
+与我共此者，其唯良二千石乎！ 以为太守，吏民之本也。数变易则下不安，民知其将久，不可欺罔，乃服从其教化。
+故二千石有治理效，辄以玺书勉厉，增秩赐金，或爵至关内侯，公卿缺则选诸所表以次用之。
+
+translation:
+At the beginning of the rise of the Han Dynasty, the bad governance of the Qin Dynasty was reversed, so that the people could recuperate and live, everything was simplified, and prohibitions and laws were greatly relaxed. The prime ministers Xiao He and Cao Shen became models for the world with their generous and quiet style of work. The people therefore compiled a "painting and a song" to praise them.
+Emperor Hui ruled without doing anything, Empress Lu lived in seclusion in the palace, but the world was peaceful, the people concentrated on agricultural production, and there was a scene of plenty of food and clothing.
+During the reigns of Emperors Wen and Jing, customs changed again.
+At that time, officials who were able to obey the law and obey the law, such as Wu Gong, the governor of Henan County, and Weng Weng, the governor of Shu County, were strict with themselves, set examples for others, acted honestly and justly, and could make the people obey and accept the influence without using coercion.
+During the reign of Emperor Wu, he resisted the barbarians from all directions externally and revised laws and regulations internally. As a result, the people were exhausted and internal strife and external troubles could not be prevented.
+At that time, there were very few people who were famous for their education and governance. Only Dong Zhongshu, the Prime Minister of Jiangdu, Gongsun Hong and Ni Kuan, the internal historian, whose political performances are worthy of a book.
+The three of them were all Confucian scholars, who were both proficient in the way of life and writing. They used Confucian thinking and methods to help themselves handle government affairs, and the emperor valued them very much.
+Dong Zhongshu resigned from office many times due to illness, while Gongsun Hong and Ni Kuan fulfilled their duties as officials.
+Emperor Zhao ascended the throne at a young age, and Huo Guang took charge of government affairs on his behalf. At this time, after years of war, domestic consumption was very high. Huo Guang followed this and abide by his duties without changing his previous practices.
+In the Shiyuan and Yuanfeng years, the Xiongnu surrendered, and the people's lives gradually became richer, so they began to recommend talents, care about the people's sufferings, abolished the wine tax, and discussed the benefits of salt and iron.
+When Emperor Xuan arrived, because he was an emperor who came from a humble background and started his family in an alley, he was well aware of the people's joys and sorrows.
+After Huo Guang's death, he began to personally handle various court affairs and worked hard to govern. He went to court every five days to listen to government affairs and reported to the court in order from the prime minister to the other officials.
+When officials such as governors, governors, and princes are conferred, they must be interviewed in person to understand their thoughts, and then their actions are examined to compare with their words. If the names are inconsistent with reality, the root cause must be found.
+Emperor Xuan once said: The reason why the people can rest assured in agricultural production and eliminate the bad mood of worry and resentment is because the politics are peaceful and the law can uphold justice.
+The only people who jointly guarantee this with me are those good county guards. He believes that county guards are the basis for managing officials and the people. Frequent changes will cause local unrest. When the people know that the selection of the prefect is very stable and cannot be deceived, they will obey his teachings.
+Therefore, if the county governor is effective in governance, he will always issue letters to encourage him personally, increase his salary and give him a large sum of money, or confer a title to a marquis in Guannei. When the official position is vacant, he will be appointed in turn by those who have been commended.
+
+summary:
+During the early Han Dynasty, the harsh policies of the Qin Dynasty were reversed, allowing the people to recover and live simply, with relaxed laws. Prime Ministers Xiao He and Cao Cao set an example with their generous and quiet governance, earning praise from the people. Emperor Hui ruled without intervention, and Empress Lu remained secluded, yet the realm was peaceful, with abundant food and clothing. Under Emperors Wen and Jing, customs improved, and officials like Wu Gong and Weng Weng governed with integrity, inspiring obedience without force.
+
+================================================================================
+
+Summary line 1
+Span: 3-21 (score=0.5600)
+
+original:
+是时，循吏如河南守吴公、蜀守文翁之属，皆谨身帅先，居以廉平，不至于严，而民从化。
+孝武之世，外攘四夷，内改法度，民用凋敝，奸轨不禁。
+时少能以化治称者，惟江都相董仲舒、内史公孙弘、皃宽，居官可纪。
+三人皆儒者，通于世务，明习文法，以经术润饰吏事，天子器之。
+仲舒数谢病去，弘、宽至三公。
+孝昭幼冲，霍光秉政，承奢侈师旅之后，海内虚耗，光因循守职，无所改作。
+至于始元、元凤之间，匈奴乡化，百姓益富，举贤良文学，问民所疾苦，于是罢酒榷而议盐铁矣。
+及至孝宣，由仄陋而登至尊，兴于闾阎，知民事之艰难。
+自霍光薨后始躬万机，厉精为治，五日一听事，自丞相已下各奉职而进。
+及拜刺史守相，辄亲见问，观其所由，退而考察所行以质其言，有名实不相应，必知其所以然。
+常称曰： 庶民所以安其田里而亡叹息愁恨之心者，政平讼理也。
+与我共此者，其唯良二千石乎！ 以为太守，吏民之本也。数变易则下不安，民知其将久，不可欺罔，乃服从其教化。
+故二千石有治理效，辄以玺书勉厉，增秩赐金，或爵至关内侯，公卿缺则选诸所表以次用之。
+是故汉世良吏，于是为盛，称中兴焉。
+若赵广汉、韩延寿、尹翁归、严延年、张敞之属，皆称其位，然任刑罚，或抵罪诛。
+王成、黄霸、朱邑、龚遂、郑弘、召信臣等，所居民富，所去见思，生有荣号，死见奉祀，此廪廪庶几德让君子之遗风矣。
+文翁，庐江舒人也。
+少好学，通《春秋》，以郡县吏察举。
+景帝末，为蜀郡守，仁爱好教化。
+
+translation:
+At that time, officials who were able to obey the law and obey the law, such as Wu Gong, the governor of Henan County, and Weng Weng, the governor of Shu County, were strict with themselves, set examples for others, acted honestly and justly, and could make the people obey and accept the influence without using coercion.
+During the reign of Emperor Wu, he resisted the barbarians from all directions externally and revised laws and regulations internally. As a result, the people were exhausted and internal strife and external troubles could not be prevented.
+At that time, there were very few people who were famous for their education and governance. Only Dong Zhongshu, the Prime Minister of Jiangdu, Gongsun Hong and Ni Kuan, the internal historian, whose political performances are worthy of a book.
+The three of them were all Confucian scholars, who were both proficient in the way of life and writing. They used Confucian thinking and methods to help themselves handle government affairs, and the emperor valued them very much.
+Dong Zhongshu resigned from office many times due to illness, while Gongsun Hong and Ni Kuan fulfilled their duties as officials.
+Emperor Zhao ascended the throne at a young age, and Huo Guang took charge of government affairs on his behalf. At this time, after years of war, domestic consumption was very high. Huo Guang followed this and abide by his duties without changing his previous practices.
+In the Shiyuan and Yuanfeng years, the Xiongnu surrendered, and the people's lives gradually became richer, so they began to recommend talents, care about the people's sufferings, abolished the wine tax, and discussed the benefits of salt and iron.
+When Emperor Xuan arrived, because he was an emperor who came from a humble background and started his family in an alley, he was well aware of the people's joys and sorrows.
+After Huo Guang's death, he began to personally handle various court affairs and worked hard to govern. He went to court every five days to listen to government affairs and reported to the court in order from the prime minister to the other officials.
+When officials such as governors, governors, and princes are conferred, they must be interviewed in person to understand their thoughts, and then their actions are examined to compare with their words. If the names are inconsistent with reality, the root cause must be found.
+Emperor Xuan once said: The reason why the people can rest assured in agricultural production and eliminate the bad mood of worry and resentment is because the politics are peaceful and the law can uphold justice.
+The only people who jointly guarantee this with me are those good county guards. He believes that county guards are the basis for managing officials and the people. Frequent changes will cause local unrest. When the people know that the selection of the prefect is very stable and cannot be deceived, they will obey his teachings.
+Therefore, if the county governor is effective in governance, he will always issue letters to encourage him personally, increase his salary and give him a large sum of money, or confer a title to a marquis in Guannei. When the official position is vacant, he will be appointed in turn by those who have been commended.
+For this reason, Xunliang officials emerged in endlessly in the Han Dynasty, which is known as the ZTE.
+People such as Zhao Guanghan, Han Yanshou, Yin Wenggui, Yan Yannian, and Zhang Chang were all competent and conscientious in their duties, but they were punished and some even committed capital crimes.
+Wang Cheng, Huang Ba, Zhu Yi, Gong Sui, Zheng Hong, Zhao Xinchen and others were prosperous when they were in office, but missed by the people after they left office. They were given honorary titles during their lifetimes, and were worshiped and remembered after their deaths. This kind of style may be the style of gentlemen who are benevolent and courteous.
+Wen Weng was from Shu County, Lujiang County.
+When he was young, he loved learning and was proficient in "Spring and Autumn". He was promoted to the imperial court as a county official.
+In the last years of Emperor Jing's reign, Weng Weng served as the prefect of Shu County. He was tolerant and caring for the people, and liked to use political enlightenment to influence and govern the people of Shu County.
+
+summary:
+Emperor Wu's reign saw external conflicts and internal legal reforms, exhausting the people and causing unrest. Few officials were noted for good governance, except Confucian scholars Dong Zhongshu, Gongsun Hong, and Ni Kuan, who used Confucian principles in administration and were valued by the emperor. Emperor Zhao ascended young, with Huo Guang as regent, who maintained stability after years of war. During the Shiyuan and Yuanfeng years, the Xiongnu surrendered, and the people grew prosperous, leading to talent recommendations, care for the people, and discussions on salt and iron taxes.
+
+================================================================================
+
+Summary line 2
+Span: 3-18 (score=0.4824)
+
+original:
+是时，循吏如河南守吴公、蜀守文翁之属，皆谨身帅先，居以廉平，不至于严，而民从化。
+孝武之世，外攘四夷，内改法度，民用凋敝，奸轨不禁。
+时少能以化治称者，惟江都相董仲舒、内史公孙弘、皃宽，居官可纪。
+三人皆儒者，通于世务，明习文法，以经术润饰吏事，天子器之。
+仲舒数谢病去，弘、宽至三公。
+孝昭幼冲，霍光秉政，承奢侈师旅之后，海内虚耗，光因循守职，无所改作。
+至于始元、元凤之间，匈奴乡化，百姓益富，举贤良文学，问民所疾苦，于是罢酒榷而议盐铁矣。
+及至孝宣，由仄陋而登至尊，兴于闾阎，知民事之艰难。
+自霍光薨后始躬万机，厉精为治，五日一听事，自丞相已下各奉职而进。
+及拜刺史守相，辄亲见问，观其所由，退而考察所行以质其言，有名实不相应，必知其所以然。
+常称曰： 庶民所以安其田里而亡叹息愁恨之心者，政平讼理也。
+与我共此者，其唯良二千石乎！ 以为太守，吏民之本也。数变易则下不安，民知其将久，不可欺罔，乃服从其教化。
+故二千石有治理效，辄以玺书勉厉，增秩赐金，或爵至关内侯，公卿缺则选诸所表以次用之。
+是故汉世良吏，于是为盛，称中兴焉。
+若赵广汉、韩延寿、尹翁归、严延年、张敞之属，皆称其位，然任刑罚，或抵罪诛。
+王成、黄霸、朱邑、龚遂、郑弘、召信臣等，所居民富，所去见思，生有荣号，死见奉祀，此廪廪庶几德让君子之遗风矣。
+
+translation:
+At that time, officials who were able to obey the law and obey the law, such as Wu Gong, the governor of Henan County, and Weng Weng, the governor of Shu County, were strict with themselves, set examples for others, acted honestly and justly, and could make the people obey and accept the influence without using coercion.
+During the reign of Emperor Wu, he resisted the barbarians from all directions externally and revised laws and regulations internally. As a result, the people were exhausted and internal strife and external troubles could not be prevented.
+At that time, there were very few people who were famous for their education and governance. Only Dong Zhongshu, the Prime Minister of Jiangdu, Gongsun Hong and Ni Kuan, the internal historian, whose political performances are worthy of a book.
+The three of them were all Confucian scholars, who were both proficient in the way of life and writing. They used Confucian thinking and methods to help themselves handle government affairs, and the emperor valued them very much.
+Dong Zhongshu resigned from office many times due to illness, while Gongsun Hong and Ni Kuan fulfilled their duties as officials.
+Emperor Zhao ascended the throne at a young age, and Huo Guang took charge of government affairs on his behalf. At this time, after years of war, domestic consumption was very high. Huo Guang followed this and abide by his duties without changing his previous practices.
+In the Shiyuan and Yuanfeng years, the Xiongnu surrendered, and the people's lives gradually became richer, so they began to recommend talents, care about the people's sufferings, abolished the wine tax, and discussed the benefits of salt and iron.
+When Emperor Xuan arrived, because he was an emperor who came from a humble background and started his family in an alley, he was well aware of the people's joys and sorrows.
+After Huo Guang's death, he began to personally handle various court affairs and worked hard to govern. He went to court every five days to listen to government affairs and reported to the court in order from the prime minister to the other officials.
+When officials such as governors, governors, and princes are conferred, they must be interviewed in person to understand their thoughts, and then their actions are examined to compare with their words. If the names are inconsistent with reality, the root cause must be found.
+Emperor Xuan once said: The reason why the people can rest assured in agricultural production and eliminate the bad mood of worry and resentment is because the politics are peaceful and the law can uphold justice.
+The only people who jointly guarantee this with me are those good county guards. He believes that county guards are the basis for managing officials and the people. Frequent changes will cause local unrest. When the people know that the selection of the prefect is very stable and cannot be deceived, they will obey his teachings.
+Therefore, if the county governor is effective in governance, he will always issue letters to encourage him personally, increase his salary and give him a large sum of money, or confer a title to a marquis in Guannei. When the official position is vacant, he will be appointed in turn by those who have been commended.
+For this reason, Xunliang officials emerged in endlessly in the Han Dynasty, which is known as the ZTE.
+People such as Zhao Guanghan, Han Yanshou, Yin Wenggui, Yan Yannian, and Zhang Chang were all competent and conscientious in their duties, but they were punished and some even committed capital crimes.
+Wang Cheng, Huang Ba, Zhu Yi, Gong Sui, Zheng Hong, Zhao Xinchen and others were prosperous when they were in office, but missed by the people after they left office. They were given honorary titles during their lifetimes, and were worshiped and remembered after their deaths. This kind of style may be the style of gentlemen who are benevolent and courteous.
+
+summary:
+Emperor Xuan, who rose from humble beginnings, understood the people's hardships. After Huo Guang's death, he personally managed court affairs, holding court every five days and interviewing officials to ensure their actions matched their words. He believed that stable county governors were key to peace, rewarding effective ones with promotions and titles. This led to a flourishing of virtuous officials, known as the ZTE era. Some, like Zhao Guanghan and Han Yanshou, were diligent but faced punishment, while others like Wang Cheng and Huang Ba were honored in life and remembered after death.
+
+================================================================================
+
+Summary line 3
+Span: 21-43 (score=0.5437)
+
+original:
+景帝末，为蜀郡守，仁爱好教化。
+见蜀地辟陋有蛮夷风，文翁欲诱进之，乃选郡县小吏开敏有材者张叔等十余人亲自饬厉，遣诣京师，受业博士，或学律令。减省少府用度，买刀布蜀物，赍计吏以遗博士。
+数岁，蜀生皆成就还归，文翁以为右职，用次察举，官有至郡守刺史者。
+又修起学官于成都市中，招下县子弟以为学官弟子，为除更徭，高者以补郡县吏，次为孝弟力田。
+常选学官僮子，使在便坐受事。
+每出行县，益从学官诸生明经饬行者与俱，使传教令，出入闺阁。
+县邑吏民见而荣之，数年，争欲为学官弟子，富人至出钱以求之。
+由是大化，蜀地学于京师者比齐鲁焉。
+至武帝时，乃令天下郡国皆立学校官，自文翁为之始云。
+文翁终于蜀，吏民为立祠堂，岁时祭祀不绝。
+至今巴蜀好文雅，文翁之化也。
+王成，不知何郡人也。
+为胶东相，治甚有声。
+宣帝最先褒之，地节三年下诏曰： 盖闻有功不赏，有罪不诛，虽唐、虞不能以化天下。
+今胶东相成，劳来不怠，流民自占八万余口，治有异等之效。
+其赐成爵关内侯，秩中二千石。
+未及征用，会病卒官。
+后诏使丞相、御史问郡国上计长吏守丞以政令得失，或对言前胶东相成伪自增加，以蒙显赏，是后俗吏多为虚名云。
+黄霸字次公，淮阳阳夏人也，以豪杰役使徙云陵。
+霸少学律令，喜为吏，武帝末以待诏入钱赏官，补侍郎谒者，坐同产有罪劾免。
+后复入谷沈黎郡，补左冯翊二百石卒史。
+冯翊以霸入财为官，不署右职，使领郡钱谷计。
+簿书正，以廉称，察补河东均输长，复察廉为河南太守丞。
+
+translation:
+In the last years of Emperor Jing's reign, Weng Weng served as the prefect of Shu County. He was tolerant and caring for the people, and liked to use political enlightenment to influence and govern the people of Shu County.
+He saw that Shu County was located in a remote and remote border area and was affected by the backward customs of ethnic minorities, so he wanted to educate and inspire it in many aspects to make progress. So he selected more than ten people from the county officials who were enlightened, wise and talented, such as Uncle Zhang, to personally instruct and encourage them. , and sent them to the capital Chang'an, either to study Confucian classics with the doctors, or to learn laws and regulations from the officials; to reduce the expenses of the county and magistrates, buy the precious specialties of Shu, golden knives and cloth, and let the officials in charge of accounting books bring them with them when they report the situation to Beijing, and give them to the doctors.
+A few years later, when the students who had been sent out to study returned to school, Wen Weng appointed them to high-level positions in the county, and successively recommended them to the court through inspections and other channels, and some of them became county governors or governors.
+In addition, Wen Weng also established a school in Chengdu City, recruiting young children from counties outside Chengdu as students, exempting them from paying more taxes and corvee, and those with good academic performance supplemented the county officials, while those with poor academic performance served as filial piety, Litian and other township officials.
+They often select young students from schools and let them help handle government affairs in the county government's side houses.
+Whenever he went out to patrol various counties, Wen Weng always asked many students who were well versed in scriptures and of good conduct to go around with him to preach enlightenment policies and go in and out of county offices.
+When the county officials and people saw this situation, they were very envious. Within a few years, everyone was vying to become a student in the school, so that wealthy families paid for the education.
+From then on, enlightenment prevailed and the atmosphere in Shu County changed greatly. The number of people from Shu County studying in the capital is comparable to that of Qi, Lu and other places.
+When Emperor Wu arrived, he ordered counties and counties to set up schools and relevant management officials. This was started by Wen Weng.
+After Wen Wengshou returned to Shu County, the local officials and people built an ancestral hall for him, and offered sacrifices continuously during every year and festival.
+To this day, the people in the Bashu region like elegance and are influenced by Wen Weng's teachings.
+Wang Cheng, I don’t know which county he is from.
+He once served as the minister of mice and was very prestigious in governing the place.
+Emperor Xuan was the first to praise him. The Book of Shao issued in the third year of Dijie said: If you don't reward those who have merit and punish those who are guilty, then even the names of Yao and Shun of Tang Dynasty will not be able to educate the world.
+Now the Prime Minister Wang Cheng has never slackened his efforts to encourage the people, and has attracted more than 80,000 refugees. He has made special achievements in governing the place.
+Wang Cheng was given the title of Marquis of Guannei and a salary of two thousand stones.
+But before the time of requisition, Wang Cheng fell ill and died.
+Later, he asked the prime ministers and censors to inquire about the gains and losses of the county's chief accountants, prefects, and government officials. Some reported that the former prime minister Wang Cheng had made false reports and exaggerated his own achievements in order to defraud prominent officials. As a result, mediocre officials later also used all means to pursue false fame.
+Huang Ba, courtesy name Cigong, was a native of Yangxia County, Huaiyang County. His family was a wealthy gentry and moved to Yunling.
+Huang Ba studied laws and regulations when he was young and liked to be an official. In the last years of Emperor Wu, he donated money as an imperial edict and was rewarded with an official position.
+Later, he donated grain to Shenli County to supplement Zuo Feng Yi's official salary of 200 shi.
+Because Huang Ba donated money to serve as an official, Zuo Fengyi despised him and refused to give him a high position, making him responsible for the county's money and grain access.
+Huang Ba did not deceive in accounting, and after his integrity was found out, he was promoted to the chief of Hedong County, and later he was promoted to the prefect of Henan County because of his integrity.
+
+summary:
+Wen Weng, a native of Shu County, was known for his love of learning and governance. As prefect of Shu, he selected talented officials to study in Chang'an, reducing expenses and providing gifts to scholars. He established schools in Chengdu, exempting students from taxes and appointing them to official positions. His efforts transformed Shu's culture, making it comparable to Qi and Lu. Emperor Wu later ordered all counties to establish schools, following Wen Weng's example. After his death, the people built a temple for him, and his influence persists in the Bashu region.
+
+================================================================================
+
+Summary line 4
+Span: 30-49 (score=0.3818)
+
+original:
+文翁终于蜀，吏民为立祠堂，岁时祭祀不绝。
+至今巴蜀好文雅，文翁之化也。
+王成，不知何郡人也。
+为胶东相，治甚有声。
+宣帝最先褒之，地节三年下诏曰： 盖闻有功不赏，有罪不诛，虽唐、虞不能以化天下。
+今胶东相成，劳来不怠，流民自占八万余口，治有异等之效。
+其赐成爵关内侯，秩中二千石。
+未及征用，会病卒官。
+后诏使丞相、御史问郡国上计长吏守丞以政令得失，或对言前胶东相成伪自增加，以蒙显赏，是后俗吏多为虚名云。
+黄霸字次公，淮阳阳夏人也，以豪杰役使徙云陵。
+霸少学律令，喜为吏，武帝末以待诏入钱赏官，补侍郎谒者，坐同产有罪劾免。
+后复入谷沈黎郡，补左冯翊二百石卒史。
+冯翊以霸入财为官，不署右职，使领郡钱谷计。
+簿书正，以廉称，察补河东均输长，复察廉为河南太守丞。
+霸为人明察内敏，又习文法，然温良有让，足知，善御众。
+为丞，处议当于法，合人心，太守甚任之，吏民爱敬焉。
+自武帝末，用法深。
+昭帝立，幼，大将军霍光秉政，大臣争权，上官桀等与燕王谋作乱，光既诛之，遂遵武帝法度，以刑罚痛绳群下，由是俗吏上严酷以为能，而霸独用宽和为名。
+会宣帝即位，在民间时知百姓苦吏急也，闻霸持法平，召以为廷尉正，数决疑狱，庭中称平。
+守丞相长史，坐公卿大议廷中知长信少府夏侯胜非议诏书大不敬，霸阿从不举劾，皆下廷尉，系狱当死。
+
+translation:
+After Wen Wengshou returned to Shu County, the local officials and people built an ancestral hall for him, and offered sacrifices continuously during every year and festival.
+To this day, the people in the Bashu region like elegance and are influenced by Wen Weng's teachings.
+Wang Cheng, I don’t know which county he is from.
+He once served as the minister of mice and was very prestigious in governing the place.
+Emperor Xuan was the first to praise him. The Book of Shao issued in the third year of Dijie said: If you don't reward those who have merit and punish those who are guilty, then even the names of Yao and Shun of Tang Dynasty will not be able to educate the world.
+Now the Prime Minister Wang Cheng has never slackened his efforts to encourage the people, and has attracted more than 80,000 refugees. He has made special achievements in governing the place.
+Wang Cheng was given the title of Marquis of Guannei and a salary of two thousand stones.
+But before the time of requisition, Wang Cheng fell ill and died.
+Later, he asked the prime ministers and censors to inquire about the gains and losses of the county's chief accountants, prefects, and government officials. Some reported that the former prime minister Wang Cheng had made false reports and exaggerated his own achievements in order to defraud prominent officials. As a result, mediocre officials later also used all means to pursue false fame.
+Huang Ba, courtesy name Cigong, was a native of Yangxia County, Huaiyang County. His family was a wealthy gentry and moved to Yunling.
+Huang Ba studied laws and regulations when he was young and liked to be an official. In the last years of Emperor Wu, he donated money as an imperial edict and was rewarded with an official position.
+Later, he donated grain to Shenli County to supplement Zuo Feng Yi's official salary of 200 shi.
+Because Huang Ba donated money to serve as an official, Zuo Fengyi despised him and refused to give him a high position, making him responsible for the county's money and grain access.
+Huang Ba did not deceive in accounting, and after his integrity was found out, he was promoted to the chief of Hedong County, and later he was promoted to the prefect of Henan County because of his integrity.
+Huang Ba is good at observation, quick thinking, and familiar with legal provisions. He is gentle and modest in dealing with others, considerate of his family, and good at uniting everyone.
+When he was the prefect, he acted in accordance with the law and complied with the people's hearts. The prefect trusted him very much, and the people also respected and loved him.
+Since the last years of Emperor Wu, the use of laws has become more stringent.
+Emperor Zhao was still very young when he came to the throne, and the general Huo Guang assisted in the administration. Ministers fought for power and profit. Shangguan Jie and others also conspired with King Yan to cause rebellion. Huo Guang killed them. Therefore, he still abided by the laws of Emperor Wu's era and used severe punishments to restrain the ministers and people. As a result, some vulgar officials used harsh criminal laws to do their best. Huang Ba was the only one known for his tolerance and gentleness.
+When Emperor Huixuan came to the throne, he was well aware that the people suffered from the harsh punishments imposed by officials when he was among the people. He also heard that Huang Ba upheld the law fairly, so he summoned Huang Ba to be the court official. Huang Ba adjudicated difficult cases several times, and the court unanimously believed that the verdict was fair.
+So he temporarily served as Prime Minister Chang Shi. In a high-level meeting of ministers, Huang Ba failed to report the disrespectful words and deeds of Xia Housheng, the young minister of Changxin Palace, who criticized the emperor's edict without reporting it. Huang Ba and Xia Housheng were handed over to the Tingwei for trial. As a result, they were sentenced to death and imprisoned.
+
+summary:
+Wang Cheng, whose origins are unknown, served as a minister and attracted over 80,000 refugees, earning Emperor Xuan's praise and a marquis title. However, after his death, it was reported that he had exaggerated his achievements, leading to a trend of false fame among officials.
+
+================================================================================
+
+Summary line 5
+Span: 39-55 (score=0.5006)
+
+original:
+黄霸字次公，淮阳阳夏人也，以豪杰役使徙云陵。
+霸少学律令，喜为吏，武帝末以待诏入钱赏官，补侍郎谒者，坐同产有罪劾免。
+后复入谷沈黎郡，补左冯翊二百石卒史。
+冯翊以霸入财为官，不署右职，使领郡钱谷计。
+簿书正，以廉称，察补河东均输长，复察廉为河南太守丞。
+霸为人明察内敏，又习文法，然温良有让，足知，善御众。
+为丞，处议当于法，合人心，太守甚任之，吏民爱敬焉。
+自武帝末，用法深。
+昭帝立，幼，大将军霍光秉政，大臣争权，上官桀等与燕王谋作乱，光既诛之，遂遵武帝法度，以刑罚痛绳群下，由是俗吏上严酷以为能，而霸独用宽和为名。
+会宣帝即位，在民间时知百姓苦吏急也，闻霸持法平，召以为廷尉正，数决疑狱，庭中称平。
+守丞相长史，坐公卿大议廷中知长信少府夏侯胜非议诏书大不敬，霸阿从不举劾，皆下廷尉，系狱当死。
+霸因从胜受《尚书》狱中，再逾冬，积三岁乃出，语在《胜传》。
+胜出，复为谏大夫，令左冯翊宋畸举霸贤良。
+胜又口荐霸于上，上擢霸为扬州刺史。
+三岁，宣帝下诏曰： 制诏御史：其以贤良高第扬州刺史霸为颍川太守，秩比二千石居，官赐车盖，特高一丈，别驾主簿车，缇油屏泥于轼前，以章有德。
+时，上垂意于治，数下恩泽诏书，吏不奉宣。
+太守霸为选择良吏，分部宣布诏令，令民咸知上意，使邮亭乡官皆畜鸡豚，以赡鳏寡贫穷者。
+
+translation:
+Huang Ba, courtesy name Cigong, was a native of Yangxia County, Huaiyang County. His family was a wealthy gentry and moved to Yunling.
+Huang Ba studied laws and regulations when he was young and liked to be an official. In the last years of Emperor Wu, he donated money as an imperial edict and was rewarded with an official position.
+Later, he donated grain to Shenli County to supplement Zuo Feng Yi's official salary of 200 shi.
+Because Huang Ba donated money to serve as an official, Zuo Fengyi despised him and refused to give him a high position, making him responsible for the county's money and grain access.
+Huang Ba did not deceive in accounting, and after his integrity was found out, he was promoted to the chief of Hedong County, and later he was promoted to the prefect of Henan County because of his integrity.
+Huang Ba is good at observation, quick thinking, and familiar with legal provisions. He is gentle and modest in dealing with others, considerate of his family, and good at uniting everyone.
+When he was the prefect, he acted in accordance with the law and complied with the people's hearts. The prefect trusted him very much, and the people also respected and loved him.
+Since the last years of Emperor Wu, the use of laws has become more stringent.
+Emperor Zhao was still very young when he came to the throne, and the general Huo Guang assisted in the administration. Ministers fought for power and profit. Shangguan Jie and others also conspired with King Yan to cause rebellion. Huo Guang killed them. Therefore, he still abided by the laws of Emperor Wu's era and used severe punishments to restrain the ministers and people. As a result, some vulgar officials used harsh criminal laws to do their best. Huang Ba was the only one known for his tolerance and gentleness.
+When Emperor Huixuan came to the throne, he was well aware that the people suffered from the harsh punishments imposed by officials when he was among the people. He also heard that Huang Ba upheld the law fairly, so he summoned Huang Ba to be the court official. Huang Ba adjudicated difficult cases several times, and the court unanimously believed that the verdict was fair.
+So he temporarily served as Prime Minister Chang Shi. In a high-level meeting of ministers, Huang Ba failed to report the disrespectful words and deeds of Xia Housheng, the young minister of Changxin Palace, who criticized the emperor's edict without reporting it. Huang Ba and Xia Housheng were handed over to the Tingwei for trial. As a result, they were sentenced to death and imprisoned.
+As a result, Huang Ba studied "Shang Shu" with Xia Housheng in prison. He was not released from prison until the third year after two winters. His detailed deeds can be found in "The Biography of Xiahou Sheng".
+After Xia Housheng was released from prison, he became an admonishing doctor again, and asked Zuo Fengyi and Song Wei to recommend Huang Ba as a virtuous man.
+Xia Housheng personally recommended Huang Ba to the emperor, and the emperor promoted Huang Ba to be the governor of Yangzhou.
+Three years later, Emperor Xuan issued an edict saying: Order the censor: Huang Ba, who served as the governor of Yangzhou as a virtuous Gaodi, was appointed as the prefect of Yingchuan County. His salary was two thousand dan per month. When he took office, he was given a high cover for the car, which was allowed to be one foot high. His subordinates drove the car and the chief registrar. A mud-blocking red curtain could be hung in front of the car to show benevolence.
+At that time, the emperor was concentrating on governing the world and issued Shao letters to the people many times, but some officials did not let the people know.
+However, the prefect Huang Ba specially selected outstanding subordinate officials and assigned them to various places to issue the Emperor's Shao Order so that the people could know the Emperor's will. He also asked the Youting township officials to raise chickens and pigs to support the widowed and poor people.
+
+summary:
+Huang Ba, from Yangxia County, studied law and became an official through donations. He was known for his integrity, gentle demeanor, and ability to unite people. As prefect of Yingchuan, he implemented policies to support the poor, promote agriculture, and reduce crime. His governance was so effective that the county's household registration increased, and he was praised by Emperor Xuan. However, as prime minister, his performance declined, and he was criticized for overstepping his duties. Despite this, he is remembered as one of the best local officials in Han history. He died in office, and his descendants continued to serve as officials until Wang Mang's era.
+
+================================================================================
+
+Summary line 6
+Span: 117-141 (score=0.4703)
+
+original:
+霸推问之，乃其乡里巫家女也。
+霸即娶为妻，与之终身。
+为丞相后徙杜陵。
+朱邑字仲卿，庐江舒人也。
+少时为舒桐乡啬夫，廉平不苛，以爱利为行，未尝笞辱人，存问耆老孤寡，遇之有恩，所部吏民爱敬焉。
+迁补太守卒史，举贤良为大司农丞，迁北海太守，以治行第一入为大司农。
+为人淳厚，笃于故旧，然性公正，不可交以私。
+天子器之，朝廷敬焉。
+是时，张敞为胶东相，与邑书曰： 明主游心太古，广延茂士，此诚忠臣竭思之时也。
+直敞远守剧郡，驭于绳墨，匈臆约结，固亡奇也。
+虽有，亦安所施？
+足下以清明之德，掌周稷之业，犹饥者甘糟糠，穰岁余梁肉。
+何则？
+有亡之势异也。
+昔陈平虽贤，须魏倩而后进；韩信虽奇，赖萧公而后信。
+故事各达其时之英俊，若必伊尹、吕望而后荐之，则此人不因足下而进矣。
+邑感敞言，贡荐贤士大夫，多得其助者。
+身为列卿，居处俭节，禄赐以共九族乡党，家亡余财。
+神爵元年卒。
+天子闵惜，下诏称扬曰： 大司农邑，廉洁守节，退食自公，亡强外之交，束脩之馈，可谓淑人君子，遭离凶灾，朕甚闵之。
+其赐邑子黄金百斤，以奉其祭祀。
+初，邑病且死，属其子曰： 我故为桐乡吏，其民爱我，必葬我桐乡。
+后世子孙奉尝我，不如桐乡民。
+及死，其子葬之桐乡西郭外，民果共为邑起冢立祠，岁时祠祭，至今不绝。
+龚遂字少卿，山阳南平阳人也。
+
+translation:
+Huang Ba went over to inquire about the woman's surname, and it turned out that she was the daughter of a shaman family in the countryside.
+Huang Ba married her and grew old with her.
+After Huang Ba became prime minister, he moved to Duling.
+Zhu Yi, whose courtesy name is Zhongqing, was born in Shu County, Lujiang County.
+When he was young, he served as a stingy man in charge of hearing lawsuits and collecting taxes in Tongxiang, Shu County. He was honest and fair in his work, did not impose harsh policies, and benefited the people with a benevolent heart. He never beat or bullied the villagers. He cared for the elderly, orphans and widowed mothers, and was very kind to them. Therefore, the officials and people in his area respected and loved him.
+Later, he was transferred to the post of the prefect, and he was promoted to the chief minister of Nongcheng because he was recommended as a virtuous man. Later, he was transferred to the prefect of Beihai County, and then he was promoted to the chief minister of agriculture because of his outstanding governance and conduct.
+Zhu Yi is an honest man who cherishes old feelings, but he is also upright and does not show favoritism in official matters.
+Therefore, the emperor valued him and the court officials also respected him.
+At that time, Zhang Chang was appointed as the Prime Minister of the Miao Dynasty and wrote to Zhu Yi: The emperor today yearns for the style of ancient saints and recruits philanthropists extensively. This is really the good time that loyal ministers most yearn for.
+However, I, Zhang Chang, am far away in a remote and difficult-to-govern county at this time. I am restricted by laws and regulations, and my mind is depressed, making it difficult for me to have greater ambitions.
+Even if there is, where can it be used?
+And with your honest and wise character, you preside over agriculture, and you are like a hungry person who uses chaff as delicacy, but in a good harvest year, you have to abandon a lot of fine food.
+What is the reason for this?
+Nothing more than the difference in circumstances between having and not having.
+In the past, although Chen Ping was a virtuous man, he needed Wei Qian's help to make progress; although Han Xin was a genius, he had to rely on Xiao He's recommendation to gain trust.
+Therefore, if all the heroes who are born at the right time must be famous like Yi Yin and Lu Wang in ancient times before being recommended, then the talents will not be appointed because of you.
+Zhu Yi was deeply moved by what Zhang Chang said, so he tried his best to recommend talents and provided various help.
+Zhu Yi was a minister, but his family was very frugal. He shared his salary and rewards with his elders in his hometown, but he had no extra money.
+Zhu Yi passed away in the first year of Shenjue.
+The emperor took pity on him, so he went down to Shao and praised him, saying: "The great minister, Zhu Yi, is honest, honest and public-minded. He does not make casual friends or accept bribes. He can be called an upright gentleman." I feel very sorry for this misfortune.
+One hundred catties of gold were specially given to the son of Zhu Yi for the purpose of offering sacrifices.
+When Zhu Yi was critically ill, he told his son: I was originally a minor official in Tongxiang. The local people loved me and I will be buried in Tongxiang after my death.
+The descendants of future generations will not be as good as the fathers and fellows of Tongxiang in offering sacrifices to me.
+After his death, his son buried him outside the west city of Tongxiang. As expected, the people built a tomb and an ancestral hall for Zhu Yi and offered sacrifices on time every year, which has never stopped to this day.
+Gong Sui, whose courtesy name was Shaoqing, was a native of Pingyang County in the south of Shanyang County.
+
+summary:
+Zhu Yi, from Shu County, was known for his honesty and fairness as a minor official. He rose to become a minister of agriculture, living frugally and sharing his salary with his hometown elders. He died in 61 BC, and Emperor Xuan praised his integrity, granting gold for sacrifices. He was buried in Tongxiang, where the people built a temple for him.
+
+================================================================================
+
+Summary line 7
+Span: 186-208 (score=0.4757)
+
+original:
+遂不忍逆，从至京师。
+王生日饮酒，不视太守。
+会遂引入宫，王生醉，从后呼，曰： 明府且止，愿有所白。
+遂还问其故，王生曰： 天子即问君何以治渤海，君不可有所陈对，宜曰 皆圣主之德，非小臣之力也 。 遂受其言。
+既至前，上果问以治状，遂对如王生言。
+天子说其有让，笑曰： 君安得长者之言而称之？
+遂因前曰： 臣非知此，乃臣议曹教戒臣也。
+上以遂年老不任公卿，拜为水衡都尉，议曹王生为水衡丞，以褒显遂云。
+水衡典上林禁苑，共张宫馆，为宗庙取牲，官职亲近，上甚重之。
+以官寿卒。
+召信臣字翁卿，九江寿春人也。
+以明经甲科为郎，出补穀阳长。
+举高第，迁上蔡长。
+其治视民如子，所居见称述，超为零陵太守，病归。
+复征为谏大夫，迁南阳太守，其治如上蔡。
+信臣为人勤力有方略，好为民兴利，务在富之。
+躬劝耕农，出入阡陌，止舍离乡亭，稀有安居时。
+行视郡中水泉，开通沟渎，起水门提阏凡数十处，以广溉灌，岁岁增加，多至三万顷。
+民得其利，蓄积有余。
+信臣为民作均水约束，刻石立于田畔，以防分争。
+禁止嫁娶送终奢靡，务出于俭约。
+府县吏家子弟好游敖，不以田作为事，辄斥罢之，甚者案其不法，以视好恶。
+其化大行，郡中莫不耕稼力田，百姓归之，户口增倍，盗贼狱讼衰止。
+
+translation:
+But Gong Sui couldn't bear to refuse, so he asked him to follow him to Beijing.
+When Wang Sheng arrived in the capital, he just drank every day and never visited Gong Sui.
+One day, Gong Sui was summoned to the palace. Wang Sheng was drunk. He followed him and shouted loudly: "Ming Mansion will stop for a moment. I have a few words to say to you."
+Gong Sui turned around and asked him what he was shouting for. He said: If the emperor asks you how you manage the Bohai Sea, you must not say anything more. You should only answer: It all depends on the power of the Holy Spirit. It is not that I have any ability! , Gong Sui accepted his opinion.
+Gong Sui arrived in front of Emperor Xuan. As expected, the emperor asked him about the management of the Bohai Sea, and he answered according to Wang Sheng's words.
+Emperor Xuan was pleased with his humility and courtesy, and said with a smile: "Where did you learn the words of a loyal elder?"
+Gong Sui took the opportunity to step forward and said, "I don't know what I should say. It was my advisor Cao Wangsheng who warned me."
+Because Gong Sui was old and could not take on the important responsibilities of a minister, Emperor Xuan appointed him as the Commander-in-Chief of Shuiheng, and proposed that King Cao be appointed Shuihengcheng to express his praise and respect for Gong Sui.
+Shuiheng Duwei was in charge of Shanglin Garden, responsible for the furnishings of the palaces and pavilions, and providing sacrifices for the ancestral temple. It was an official position that was close to the emperor.
+Gong Sui was highly regarded by Emperor Xuan and died in office.
+Zhao Xinchen, named Wengqing, was from Shouchun County, Jiujiang County.
+He was appointed as a Langguan as Ming Jingjia Ke, and left the capital to serve as the county magistrate of Guyang.
+Ranked first in the performance appraisal, he was transferred to Shangcai County Magistrate.
+He called his trusted ministers to love the people like his own sons, and was highly praised during his tenure as an official. Later, he was promoted to the prefect of Lingling County, but he returned due to illness.
+After recovering from the illness, he was recruited as an admonishing doctor and later transferred to the post of governor of Nanyang County. His governance was as good as when he was in Shangcai.
+Zhao Xinchen is diligent and resourceful, likes to provide welfare for the people, and is committed to making them rich.
+I personally work hard at farming, go to and from the fields, and stay in country houses. I rarely have any leisure time.
+He inspected water springs in the county, presided over the opening of ditches, and erected dozens of water gates and sluices, which increased the irrigated farmland, reaching a maximum of 30,000 hectares.
+The people benefited from water conservancy and irrigation, and the harvested grain was sufficient for storage.
+Zhao Xinchen also formulated water regulations for the people, and engraved these regulations on stone tablets and erected them at the boundaries of the fields to prevent competition.
+In addition, he also prohibited extravagance and waste during weddings and funerals, and was committed to promoting the trend of diligence and thrift.
+If the children of prefecture and county officials roam freely, and if the prefecture and county officials do not regard farming as their official duties, they will all be reprimanded and dismissed from office. In serious cases, they will be brought to justice to observe the good and evil.
+Through the above measures, education has been widely implemented in the county. Everyone in the county is engaged in agriculture. The people support county officials. The number of households in the county has also doubled, and the number of thieves and lawsuits has been reduced to a very small level.
+
+summary:
+Gong Sui, from Pingyang County, was a loyal advisor to King Liu He of Changyi, often admonishing him for his unruly behavior. After Liu He was deposed, Gong Sui was sentenced to hard labor but later appointed governor of Bohai County. He quelled a rebellion by offering amnesty to farmers and promoting agriculture, leading to prosperity. He died in office, highly regarded by Emperor Xuan.
+
+================================================================================
+
+Summary line 8
+Span: 195-216 (score=0.4749)
+
+original:
+以官寿卒。
+召信臣字翁卿，九江寿春人也。
+以明经甲科为郎，出补穀阳长。
+举高第，迁上蔡长。
+其治视民如子，所居见称述，超为零陵太守，病归。
+复征为谏大夫，迁南阳太守，其治如上蔡。
+信臣为人勤力有方略，好为民兴利，务在富之。
+躬劝耕农，出入阡陌，止舍离乡亭，稀有安居时。
+行视郡中水泉，开通沟渎，起水门提阏凡数十处，以广溉灌，岁岁增加，多至三万顷。
+民得其利，蓄积有余。
+信臣为民作均水约束，刻石立于田畔，以防分争。
+禁止嫁娶送终奢靡，务出于俭约。
+府县吏家子弟好游敖，不以田作为事，辄斥罢之，甚者案其不法，以视好恶。
+其化大行，郡中莫不耕稼力田，百姓归之，户口增倍，盗贼狱讼衰止。
+吏民亲爱信臣，号之曰召父。
+荆州刺史奏信臣为百姓兴利，郡以殷富，赐黄金四十斤。
+迁河南太守，治行常为第一，复数增秩赐金。
+竟宁中，征为少府，列于九卿，奏请上林诸离远宫馆稀幸御者，勿复缮治共张，又奏省乐府黄门倡优诸戏，及宫馆兵弩什器减过泰半。
+太官园种冬生葱韭菜茹，覆以屋庑，昼夜然蕴火，待温气乃生。信臣以为此皆不时之物，有伤于人，不宜以奉供养，乃它非法食物，悉奏罢，省费岁数千万。
+信臣年老以官卒。
+元始四年，诏书祀百辟卿士有益于民者，蜀郡以文翁，九江以召父应诏书。
+岁时郡二千石率官属行礼，奉祠信臣冢，而南阳亦为立祠。
+
+translation:
+Gong Sui was highly regarded by Emperor Xuan and died in office.
+Zhao Xinchen, named Wengqing, was from Shouchun County, Jiujiang County.
+He was appointed as a Langguan as Ming Jingjia Ke, and left the capital to serve as the county magistrate of Guyang.
+Ranked first in the performance appraisal, he was transferred to Shangcai County Magistrate.
+He called his trusted ministers to love the people like his own sons, and was highly praised during his tenure as an official. Later, he was promoted to the prefect of Lingling County, but he returned due to illness.
+After recovering from the illness, he was recruited as an admonishing doctor and later transferred to the post of governor of Nanyang County. His governance was as good as when he was in Shangcai.
+Zhao Xinchen is diligent and resourceful, likes to provide welfare for the people, and is committed to making them rich.
+I personally work hard at farming, go to and from the fields, and stay in country houses. I rarely have any leisure time.
+He inspected water springs in the county, presided over the opening of ditches, and erected dozens of water gates and sluices, which increased the irrigated farmland, reaching a maximum of 30,000 hectares.
+The people benefited from water conservancy and irrigation, and the harvested grain was sufficient for storage.
+Zhao Xinchen also formulated water regulations for the people, and engraved these regulations on stone tablets and erected them at the boundaries of the fields to prevent competition.
+In addition, he also prohibited extravagance and waste during weddings and funerals, and was committed to promoting the trend of diligence and thrift.
+If the children of prefecture and county officials roam freely, and if the prefecture and county officials do not regard farming as their official duties, they will all be reprimanded and dismissed from office. In serious cases, they will be brought to justice to observe the good and evil.
+Through the above measures, education has been widely implemented in the county. Everyone in the county is engaged in agriculture. The people support county officials. The number of households in the county has also doubled, and the number of thieves and lawsuits has been reduced to a very small level.
+Officials and people all loved Zhao Xinchen and called him Zhaofu.
+The governor of Jingzhou praised the summoned ministers for their ability to seek benefits for the people, and the counties under their jurisdiction became rich, and they were given forty catties of gold.
+Later, he summoned his ministers and was transferred to the post of governor of Henan. His governance performance always ranked first in the world, so his salary was increased many times and he was given gold.
+During the Jingning period, Zhao Xinchen was conscripted into the Shaofu and was listed among the nine ministers. He asked the emperor not to repair and manage some distant palaces in the Shanglin area that the emperor rarely visited. He also asked the emperor to reduce the number of entertainment activities such as Yuefu Huangmen and advocating excellence, and to reduce the number of crossbows and equipment in the palaces by half.
+The winter green onions and leeks grown in the Taiguan Garden had to be grown in a greenhouse, with fires burning day and night, and required warm air to grow. Zhao Xinchen believed that these did not grow naturally according to the seasons, and would be harmful to people if eaten. They were not suitable for the needs of the palace. They should be asked to stop planting them along with other crops that are not grown according to seasonal seasons. This would save tens of millions every year.
+Later, he summoned his trusted ministers to die of old age while serving in office.
+In the fourth year of the Yuan Dynasty, the emperor issued an edict to commemorate those who had done good things for the people among the hundreds of officials and officials. Shu County appointed Wen Weng, and Jiujiang summoned trusted ministers to respond to the edict.
+Every year when the time comes, the prefect of the county leads his subordinate officials to pay homage to Zhao Xinchen's tomb, and a temple is built for him in Nanyang.
+
+summary:
+Zhao Xinchen, from Shouchun County, was a diligent official who improved agriculture through irrigation, opening ditches and building water gates. He prohibited extravagance and promoted thrift, leading to increased household numbers and reduced crime. He served as governor of Henan and later as a minister, advising against wasteful palace projects. He died in office, and a temple was built for him in Nanyang.
+
+================================================================================
+

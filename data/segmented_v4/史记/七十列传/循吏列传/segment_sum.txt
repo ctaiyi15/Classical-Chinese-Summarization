@@ -1,0 +1,500 @@
+Summary line 0
+Span: 0-25 (score=0.3132)
+
+original:
+太史公曰：法令所以导民也，刑罚所以禁奸也。
+文武不备，良民惧然身修者，官未曾乱也。
+奉职循理，亦可以为治，何必威严哉？
+孙叔敖者，楚之处士也。
+虞丘相进之於楚庄王，以自代也。
+三月为楚相，施教导民，上下和合，世俗盛美，政缓禁止，吏无奸邪，盗贼不起。
+秋冬则劝民山采，春夏以水，各得其所便，民皆乐其生。
+庄王以为币轻，更以小为大，百姓不便，皆去其业。
+市令言之相曰： 市乱，民莫安其处，次行不定。
+相曰： 如此几何顷乎？
+市令曰： 三月顷。
+相曰： 罢，吾今令之复矣。
+後五日，朝，相言之王曰： 前日更币，以为轻。
+今市令来言曰 市乱，民莫安其处，次行之不定 。
+臣请遂令复如故。
+王许之，下令三日而市复如故。
+楚民俗好庳车，王以为庳车不便马，欲下令使高之。
+相曰： 令数下，民不知所从，不可。
+王必欲高车，臣请教闾里使高其困。
+乘车者皆君子，君子不能数下车。
+王许之。
+居半岁，民悉自高其车。
+此不教而民从其化，近者视而效之，远者四面望而法之。
+故三得相而不喜，知其材自得之也；三去相而不悔，知非己之罪也。
+子产者，郑之列大夫也。
+郑昭君之时，以所爱徐挚为相，国乱，上下不亲，父子不和。
+
+translation:
+Tai Shigong said: Laws are used to guide people to do good, and punishments are used to prevent people from doing evil.
+When the grammar and criminal laws were incomplete, kind-hearted people still exercised self-restraint and self-cultivation with fear, because the officials behaved well and never violated the rules and regulations.
+As long as officials fulfill their duties and act according to principles, they can use it as an example to govern the world. Why must we use severe punishments?
+Sun Shuao was a hermit from Chu State.
+The Prime Minister Yu Qiu recommended him to King Zhuang of Chu, hoping that he would succeed him.
+Sun Shuao was promoted to the state minister in three months after he became an official. He administered politics and taught the people, which made the officials and people harmonious and united, and the customs were very pure and beautiful. His administration was lenient and not harsh, but he always stopped prohibitions. Officials did not do evil or deceitful things, and there were no thieves among the people.
+In autumn and winter, he encouraged people to go into the mountains to cut trees, and in spring and summer, he used the rising river water to transport the wood out of the mountains.
+The people all have convenient ways to make a living and live happily. King Zhuang believed that the original coins of Chu State were too light, so he ordered the small coins to be minted into large coins. It was very inconvenient for the people to use them, and they gave up their own business one after another.
+The chief executive in charge of the market reported to Prime Minister Sun Shuao: The market is in chaos, no one can do business there with peace of mind, and the order is very unstable.
+Sun Shuao asked: How long has this been going on?
+The city order replied: It has been three months.
+Sun Shuao said: Needless to say, I will try to restore the market to its original state now.
+Five days later, he went to the court to advise King Zhuang: "The reason why I changed the coins before was because I thought the old coins were too light."
+Now the city magistrate has come to report that the market is in chaos, no one can make a living there with peace of mind, and the order is very unstable.
+I request an immediate order to restore the old currency.
+King Zhuang agreed and issued the order for three days, and the market returned to its original state.
+The people of Chu State liked to ride in low carriages. The King of Chu thought that low carriages were not convenient for driving horses, so he wanted to order the low carriages to be raised.
+Sun Shuao, the Prime Minister of the State, said: It is not good to issue government orders repeatedly, leaving the people at a loss as to what to do.
+If you definitely want to raise the height of your car, I would like to ask the villagers to raise the threshold.
+The passengers are all respectable gentlemen. They cannot get out of the car frequently just to pass the threshold, so naturally the base of the car will be made higher.
+The king of Chu agreed to his request.
+After half a year, people took the initiative to raise the height of their cars.
+This is why Sun Shuao naturally obeyed his teachings without giving orders to control the people. People around him saw his words and deeds with their own eyes and imitated him. People who were far away watched the changes in the people around him and imitated him.
+Therefore, Sun Shuao was not complacent in being in the position three times, because he understood that he had achieved it with his talents; he had no regrets in leaving the position three times, because he knew that he was not at fault.
+Zichan was a senior official in the state of Zheng.
+When Zheng Zhaojun was in power, he appointed his favorite Xu Zhi as the prime minister of the country. The government was in chaos, the officials and the people were not in harmony, and the father and son were not harmonious.
+
+summary:
+Tai Shigong observed that laws guide people toward good, while punishments deter evil. Even when legal codes were incomplete, virtuous people exercised self-restraint because officials upheld rules. He argued that if officials fulfill their duties with integrity, severe punishments are unnecessary.
+
+================================================================================
+
+Summary line 1
+Span: 0-25 (score=0.4645)
+
+original:
+太史公曰：法令所以导民也，刑罚所以禁奸也。
+文武不备，良民惧然身修者，官未曾乱也。
+奉职循理，亦可以为治，何必威严哉？
+孙叔敖者，楚之处士也。
+虞丘相进之於楚庄王，以自代也。
+三月为楚相，施教导民，上下和合，世俗盛美，政缓禁止，吏无奸邪，盗贼不起。
+秋冬则劝民山采，春夏以水，各得其所便，民皆乐其生。
+庄王以为币轻，更以小为大，百姓不便，皆去其业。
+市令言之相曰： 市乱，民莫安其处，次行不定。
+相曰： 如此几何顷乎？
+市令曰： 三月顷。
+相曰： 罢，吾今令之复矣。
+後五日，朝，相言之王曰： 前日更币，以为轻。
+今市令来言曰 市乱，民莫安其处，次行之不定 。
+臣请遂令复如故。
+王许之，下令三日而市复如故。
+楚民俗好庳车，王以为庳车不便马，欲下令使高之。
+相曰： 令数下，民不知所从，不可。
+王必欲高车，臣请教闾里使高其困。
+乘车者皆君子，君子不能数下车。
+王许之。
+居半岁，民悉自高其车。
+此不教而民从其化，近者视而效之，远者四面望而法之。
+故三得相而不喜，知其材自得之也；三去相而不悔，知非己之罪也。
+子产者，郑之列大夫也。
+郑昭君之时，以所爱徐挚为相，国乱，上下不亲，父子不和。
+
+translation:
+Tai Shigong said: Laws are used to guide people to do good, and punishments are used to prevent people from doing evil.
+When the grammar and criminal laws were incomplete, kind-hearted people still exercised self-restraint and self-cultivation with fear, because the officials behaved well and never violated the rules and regulations.
+As long as officials fulfill their duties and act according to principles, they can use it as an example to govern the world. Why must we use severe punishments?
+Sun Shuao was a hermit from Chu State.
+The Prime Minister Yu Qiu recommended him to King Zhuang of Chu, hoping that he would succeed him.
+Sun Shuao was promoted to the state minister in three months after he became an official. He administered politics and taught the people, which made the officials and people harmonious and united, and the customs were very pure and beautiful. His administration was lenient and not harsh, but he always stopped prohibitions. Officials did not do evil or deceitful things, and there were no thieves among the people.
+In autumn and winter, he encouraged people to go into the mountains to cut trees, and in spring and summer, he used the rising river water to transport the wood out of the mountains.
+The people all have convenient ways to make a living and live happily. King Zhuang believed that the original coins of Chu State were too light, so he ordered the small coins to be minted into large coins. It was very inconvenient for the people to use them, and they gave up their own business one after another.
+The chief executive in charge of the market reported to Prime Minister Sun Shuao: The market is in chaos, no one can do business there with peace of mind, and the order is very unstable.
+Sun Shuao asked: How long has this been going on?
+The city order replied: It has been three months.
+Sun Shuao said: Needless to say, I will try to restore the market to its original state now.
+Five days later, he went to the court to advise King Zhuang: "The reason why I changed the coins before was because I thought the old coins were too light."
+Now the city magistrate has come to report that the market is in chaos, no one can make a living there with peace of mind, and the order is very unstable.
+I request an immediate order to restore the old currency.
+King Zhuang agreed and issued the order for three days, and the market returned to its original state.
+The people of Chu State liked to ride in low carriages. The King of Chu thought that low carriages were not convenient for driving horses, so he wanted to order the low carriages to be raised.
+Sun Shuao, the Prime Minister of the State, said: It is not good to issue government orders repeatedly, leaving the people at a loss as to what to do.
+If you definitely want to raise the height of your car, I would like to ask the villagers to raise the threshold.
+The passengers are all respectable gentlemen. They cannot get out of the car frequently just to pass the threshold, so naturally the base of the car will be made higher.
+The king of Chu agreed to his request.
+After half a year, people took the initiative to raise the height of their cars.
+This is why Sun Shuao naturally obeyed his teachings without giving orders to control the people. People around him saw his words and deeds with their own eyes and imitated him. People who were far away watched the changes in the people around him and imitated him.
+Therefore, Sun Shuao was not complacent in being in the position three times, because he understood that he had achieved it with his talents; he had no regrets in leaving the position three times, because he knew that he was not at fault.
+Zichan was a senior official in the state of Zheng.
+When Zheng Zhaojun was in power, he appointed his favorite Xu Zhi as the prime minister of the country. The government was in chaos, the officials and the people were not in harmony, and the father and son were not harmonious.
+
+summary:
+Sun Shuao, a hermit from Chu, became prime minister after three months. His lenient yet effective governance fostered harmony, pure customs, and no deceit among officials or theft among people. He encouraged seasonal woodcutting and river transport, improving livelihoods. When King Zhuang replaced small coins with large ones, causing market chaos, Sun Shuao advised restoring the old currency, which stabilized the market within three days. To address low carriages, he suggested raising thresholds instead of issuing decrees; within half a year, people voluntarily raised their carriages. Sun Shuao remained humble in office and unregretful in dismissal, knowing his abilities and lack of fault.
+
+================================================================================
+
+Summary line 2
+Span: 15-42 (score=0.4530)
+
+original:
+王许之，下令三日而市复如故。
+楚民俗好庳车，王以为庳车不便马，欲下令使高之。
+相曰： 令数下，民不知所从，不可。
+王必欲高车，臣请教闾里使高其困。
+乘车者皆君子，君子不能数下车。
+王许之。
+居半岁，民悉自高其车。
+此不教而民从其化，近者视而效之，远者四面望而法之。
+故三得相而不喜，知其材自得之也；三去相而不悔，知非己之罪也。
+子产者，郑之列大夫也。
+郑昭君之时，以所爱徐挚为相，国乱，上下不亲，父子不和。
+大宫子期言之君，以子产为相。
+为相一年，竖子不戏狎，斑白不提挈，僮子不犁畔。
+二年，市不豫贾。
+三年，门不夜关，道不拾遗。
+四年，田器不归。五年，士无尺籍，丧期不令而治。
+治郑二十六年而死，丁壮号哭，老人兒啼，曰： 子产去我死乎！民将安归？
+公仪休者，鲁博士也。
+以高弟为鲁相。
+奉法循理，无所变更，百官自正。
+使食禄者不得与下民争利，受大者不得取小。
+客有遗相鱼者，相不受。
+客曰： 闻君嗜鱼，遗君鱼，何故不受也？
+相曰： 以嗜鱼，故不受也。
+今为相，能自给鱼；今受鱼而免，谁复给我鱼者？
+吾故不受也。
+食茹而美，拔其园葵而弃之。
+见其家织布好，而疾出其家妇，燔其机，云 欲令农士工女安所雠其货乎 ？
+
+translation:
+King Zhuang agreed and issued the order for three days, and the market returned to its original state.
+The people of Chu State liked to ride in low carriages. The King of Chu thought that low carriages were not convenient for driving horses, so he wanted to order the low carriages to be raised.
+Sun Shuao, the Prime Minister of the State, said: It is not good to issue government orders repeatedly, leaving the people at a loss as to what to do.
+If you definitely want to raise the height of your car, I would like to ask the villagers to raise the threshold.
+The passengers are all respectable gentlemen. They cannot get out of the car frequently just to pass the threshold, so naturally the base of the car will be made higher.
+The king of Chu agreed to his request.
+After half a year, people took the initiative to raise the height of their cars.
+This is why Sun Shuao naturally obeyed his teachings without giving orders to control the people. People around him saw his words and deeds with their own eyes and imitated him. People who were far away watched the changes in the people around him and imitated him.
+Therefore, Sun Shuao was not complacent in being in the position three times, because he understood that he had achieved it with his talents; he had no regrets in leaving the position three times, because he knew that he was not at fault.
+Zichan was a senior official in the state of Zheng.
+When Zheng Zhaojun was in power, he appointed his favorite Xu Zhi as the prime minister of the country. The government was in chaos, the officials and the people were not in harmony, and the father and son were not harmonious.
+Dagong Ziqi told Zheng Zhaojun about these situations, and Zhaojun appointed Zichan as the prime minister.
+After Zichan was in power for one year, the libertines no longer played frivolously, the elderly no longer had to carry heavy loads, and the children no longer had to work in the fields.
+After two years, transactions in the market will be fair and high prices will no longer be reserved.
+Three years later, people did not close their homes at night and did not pick up lost items on the road.
+Four years later, farmers will not have to take their farm tools home after work. Five years later, men will not need to perform military service. In case of a funeral, they will consciously perform funeral rites.
+Zichan passed away in the twenty-sixth year of his rule in Zheng. The young men cried bitterly, and the old people wept like children, saying: "Zichan has left us and died. Who will the people rely on in the future?"
+Gongyixiu was a doctor from the state of Lu.
+Because of his outstanding talent and learning, he became the prime minister of the state of Lu.
+He obeyed the laws and acted according to the principles without changing the regulations at all, so the officials behaved themselves in a correct manner.
+He ordered officials not to compete for interests with the people, and high officials not to take advantage.
+A guest brought fish to the Prime Minister Gong Yixiu's door, but he refused to accept it.
+The guest said: I heard that you love fish very much, so why don’t you accept it?
+Gong Yixiu replied: "It's because I love fish so much that I can't accept it."
+Now that I am the Prime Minister, I can afford fish. If I am dismissed from office because I accepted your fish today, who will be willing to give me fish in the future?
+So I can't accept it.
+Gongyixiu ate the vegetables and thought they tasted good, so he pulled out all the mallow vegetables in his home and threw them away.
+When he saw that the cloth he had woven was good, he immediately kicked his wife out of the house and burned the loom. He said: Are we going to leave farmers and weavers with nowhere to sell the goods they produce?
+
+summary:
+Zichan, a senior official in Zheng, became prime minister under Zheng Zhaojun after prior mismanagement. In one year, frivolity ceased, elders and children were relieved of burdens. In two years, market transactions became fair. In three years, people left doors unlocked and returned lost items. In four years, farmers left tools in fields. In five years, military service was unnecessary, and funerals were conducted properly. After 26 years, Zichan died; young and old mourned, lamenting the loss of their reliance.
+
+================================================================================
+
+Summary line 3
+Span: 18-46 (score=0.2167)
+
+original:
+王必欲高车，臣请教闾里使高其困。
+乘车者皆君子，君子不能数下车。
+王许之。
+居半岁，民悉自高其车。
+此不教而民从其化，近者视而效之，远者四面望而法之。
+故三得相而不喜，知其材自得之也；三去相而不悔，知非己之罪也。
+子产者，郑之列大夫也。
+郑昭君之时，以所爱徐挚为相，国乱，上下不亲，父子不和。
+大宫子期言之君，以子产为相。
+为相一年，竖子不戏狎，斑白不提挈，僮子不犁畔。
+二年，市不豫贾。
+三年，门不夜关，道不拾遗。
+四年，田器不归。五年，士无尺籍，丧期不令而治。
+治郑二十六年而死，丁壮号哭，老人兒啼，曰： 子产去我死乎！民将安归？
+公仪休者，鲁博士也。
+以高弟为鲁相。
+奉法循理，无所变更，百官自正。
+使食禄者不得与下民争利，受大者不得取小。
+客有遗相鱼者，相不受。
+客曰： 闻君嗜鱼，遗君鱼，何故不受也？
+相曰： 以嗜鱼，故不受也。
+今为相，能自给鱼；今受鱼而免，谁复给我鱼者？
+吾故不受也。
+食茹而美，拔其园葵而弃之。
+见其家织布好，而疾出其家妇，燔其机，云 欲令农士工女安所雠其货乎 ？
+石奢者，楚昭王相也。坚直廉正，无所阿避。
+行县，道有杀人者，相追之，乃其父也。
+纵其父而还自系焉。
+使人言之王曰： 杀人者，臣之父也。
+
+translation:
+If you definitely want to raise the height of your car, I would like to ask the villagers to raise the threshold.
+The passengers are all respectable gentlemen. They cannot get out of the car frequently just to pass the threshold, so naturally the base of the car will be made higher.
+The king of Chu agreed to his request.
+After half a year, people took the initiative to raise the height of their cars.
+This is why Sun Shuao naturally obeyed his teachings without giving orders to control the people. People around him saw his words and deeds with their own eyes and imitated him. People who were far away watched the changes in the people around him and imitated him.
+Therefore, Sun Shuao was not complacent in being in the position three times, because he understood that he had achieved it with his talents; he had no regrets in leaving the position three times, because he knew that he was not at fault.
+Zichan was a senior official in the state of Zheng.
+When Zheng Zhaojun was in power, he appointed his favorite Xu Zhi as the prime minister of the country. The government was in chaos, the officials and the people were not in harmony, and the father and son were not harmonious.
+Dagong Ziqi told Zheng Zhaojun about these situations, and Zhaojun appointed Zichan as the prime minister.
+After Zichan was in power for one year, the libertines no longer played frivolously, the elderly no longer had to carry heavy loads, and the children no longer had to work in the fields.
+After two years, transactions in the market will be fair and high prices will no longer be reserved.
+Three years later, people did not close their homes at night and did not pick up lost items on the road.
+Four years later, farmers will not have to take their farm tools home after work. Five years later, men will not need to perform military service. In case of a funeral, they will consciously perform funeral rites.
+Zichan passed away in the twenty-sixth year of his rule in Zheng. The young men cried bitterly, and the old people wept like children, saying: "Zichan has left us and died. Who will the people rely on in the future?"
+Gongyixiu was a doctor from the state of Lu.
+Because of his outstanding talent and learning, he became the prime minister of the state of Lu.
+He obeyed the laws and acted according to the principles without changing the regulations at all, so the officials behaved themselves in a correct manner.
+He ordered officials not to compete for interests with the people, and high officials not to take advantage.
+A guest brought fish to the Prime Minister Gong Yixiu's door, but he refused to accept it.
+The guest said: I heard that you love fish very much, so why don’t you accept it?
+Gong Yixiu replied: "It's because I love fish so much that I can't accept it."
+Now that I am the Prime Minister, I can afford fish. If I am dismissed from office because I accepted your fish today, who will be willing to give me fish in the future?
+So I can't accept it.
+Gongyixiu ate the vegetables and thought they tasted good, so he pulled out all the mallow vegetables in his home and threw them away.
+When he saw that the cloth he had woven was good, he immediately kicked his wife out of the house and burned the loom. He said: Are we going to leave farmers and weavers with nowhere to sell the goods they produce?
+Shi She was the Prime Minister of King Zhao of Chu. He was strong, upright, honest and just. He was neither flattering nor timid.
+On a trip to inspect various counties, a murderer happened to kill someone on the way. He pursued the murderer, who turned out to be his own father.
+He let his father go and imprisoned himself when he returned.
+He sent someone to tell King Zhao: The murderer is my father.
+
+summary:
+Gongyixiu, prime minister of Lu, upheld laws without alteration, ensuring officials behaved correctly. He forbade officials from competing with people for profit. When offered fish, he refused, fearing dismissal would end future gifts. He discarded tasty vegetables and burned his wife’s loom to avoid harming farmers and weavers.
+
+================================================================================
+
+Summary line 4
+Span: 33-65 (score=0.3034)
+
+original:
+以高弟为鲁相。
+奉法循理，无所变更，百官自正。
+使食禄者不得与下民争利，受大者不得取小。
+客有遗相鱼者，相不受。
+客曰： 闻君嗜鱼，遗君鱼，何故不受也？
+相曰： 以嗜鱼，故不受也。
+今为相，能自给鱼；今受鱼而免，谁复给我鱼者？
+吾故不受也。
+食茹而美，拔其园葵而弃之。
+见其家织布好，而疾出其家妇，燔其机，云 欲令农士工女安所雠其货乎 ？
+石奢者，楚昭王相也。坚直廉正，无所阿避。
+行县，道有杀人者，相追之，乃其父也。
+纵其父而还自系焉。
+使人言之王曰： 杀人者，臣之父也。
+夫以父立政，不孝也；废法纵罪，非忠也；臣罪当死。
+王曰： 追而不及，不当伏罪，子其治事矣。
+石奢曰： 不私其父，非孝子也；不奉主法，非忠臣也。
+王赦其罪，上惠也；伏诛而死，臣职也。
+遂不受令，自刎而死。
+李离者，晋文公之理也。
+过听杀人，自拘当死。
+文公曰： 官有贵贱，罚有轻重。
+下吏有过，非子之罪也。
+李离曰： 臣居官为长，不与吏让位；受禄为多，不与下分利。
+今过听杀人，傅其罪下吏，非所闻也。
+辞不受令。
+文公曰： 子则自以为有罪，寡人亦有罪邪？
+李离曰： 理有法，失刑则刑，失死则死。
+公以臣能听微决疑，故使为理。
+今过听杀人，罪当死。
+遂不受令，伏剑而死。
+太史公曰：孙叔敖出一言，郢市复。
+子产病死，郑民号哭。
+
+translation:
+Because of his outstanding talent and learning, he became the prime minister of the state of Lu.
+He obeyed the laws and acted according to the principles without changing the regulations at all, so the officials behaved themselves in a correct manner.
+He ordered officials not to compete for interests with the people, and high officials not to take advantage.
+A guest brought fish to the Prime Minister Gong Yixiu's door, but he refused to accept it.
+The guest said: I heard that you love fish very much, so why don’t you accept it?
+Gong Yixiu replied: "It's because I love fish so much that I can't accept it."
+Now that I am the Prime Minister, I can afford fish. If I am dismissed from office because I accepted your fish today, who will be willing to give me fish in the future?
+So I can't accept it.
+Gongyixiu ate the vegetables and thought they tasted good, so he pulled out all the mallow vegetables in his home and threw them away.
+When he saw that the cloth he had woven was good, he immediately kicked his wife out of the house and burned the loom. He said: Are we going to leave farmers and weavers with nowhere to sell the goods they produce?
+Shi She was the Prime Minister of King Zhao of Chu. He was strong, upright, honest and just. He was neither flattering nor timid.
+On a trip to inspect various counties, a murderer happened to kill someone on the way. He pursued the murderer, who turned out to be his own father.
+He let his father go and imprisoned himself when he returned.
+He sent someone to tell King Zhao: The murderer is my father.
+If you punish your father to establish political achievements, this is unfilial; if you abandon the law and condone crime, it is disloyal; therefore, I deserve the death penalty.
+King Zhao said: "You chased the criminal but did not catch him. You should not prosecute the crime. You should go and manage the affairs of the country."
+Shi She said: If you do not favor your father, you are not a filial son; if you do not abide by the king's law, you are not a loyal minister.
+Your forgiveness of my sins is a favor from the Lord; serving your sentence and dying is your duty as a minister.
+So Shi She refused to obey the king of Chu's order and cut his neck to death.
+Li Li was a judge of Duke Wen of Jin.
+He heard that the case was wrong and the murder was in vain. When he found out, he imprisoned himself and sentenced him to death.
+Duke Wen said: Official positions vary, and punishments vary in severity.
+This is the fault of your officials, not your fault.
+Li Li said: My official position is that of a senior official, and I have never given up my high position to my subordinates. I have received a lot of official salary, and I have never given any benefits to them.
+Now, I have made mistakes in investigating the case and a life was wasted, but I have to shift the blame to my subordinates. I have never heard of such a theory.
+He refused to accept Duke Wen's order.
+Duke Wen said: If you think you are guilty, am I guilty too?
+Li Li said: There are laws and regulations for judges to decide cases. If you are wrongly sentenced, you will be punished personally, and if you are wrongly killed, you will be punished with death.
+You made me a judge because I can listen to subtle details and decide difficult cases.
+Now I heard the case wrongly and killed someone in vain, so I should be sentenced to death.
+So he refused to accept Duke Wen of Jin's pardon and committed suicide with his sword.
+Tai Shigong said: Sun Shuao said something, and the market order in Yingdu was restored.
+Zichan died of illness, and the people of Zheng State burst into tears.
+
+summary:
+Shi She, prime minister of Chu, pursued a murderer who was his father. He released his father and imprisoned himself, stating that punishing his father was unfilial and condoning crime disloyal. Despite King Zhao’s pardon, he committed suicide to uphold duty.
+
+================================================================================
+
+Summary line 5
+Span: 33-65 (score=0.2933)
+
+original:
+以高弟为鲁相。
+奉法循理，无所变更，百官自正。
+使食禄者不得与下民争利，受大者不得取小。
+客有遗相鱼者，相不受。
+客曰： 闻君嗜鱼，遗君鱼，何故不受也？
+相曰： 以嗜鱼，故不受也。
+今为相，能自给鱼；今受鱼而免，谁复给我鱼者？
+吾故不受也。
+食茹而美，拔其园葵而弃之。
+见其家织布好，而疾出其家妇，燔其机，云 欲令农士工女安所雠其货乎 ？
+石奢者，楚昭王相也。坚直廉正，无所阿避。
+行县，道有杀人者，相追之，乃其父也。
+纵其父而还自系焉。
+使人言之王曰： 杀人者，臣之父也。
+夫以父立政，不孝也；废法纵罪，非忠也；臣罪当死。
+王曰： 追而不及，不当伏罪，子其治事矣。
+石奢曰： 不私其父，非孝子也；不奉主法，非忠臣也。
+王赦其罪，上惠也；伏诛而死，臣职也。
+遂不受令，自刎而死。
+李离者，晋文公之理也。
+过听杀人，自拘当死。
+文公曰： 官有贵贱，罚有轻重。
+下吏有过，非子之罪也。
+李离曰： 臣居官为长，不与吏让位；受禄为多，不与下分利。
+今过听杀人，傅其罪下吏，非所闻也。
+辞不受令。
+文公曰： 子则自以为有罪，寡人亦有罪邪？
+李离曰： 理有法，失刑则刑，失死则死。
+公以臣能听微决疑，故使为理。
+今过听杀人，罪当死。
+遂不受令，伏剑而死。
+太史公曰：孙叔敖出一言，郢市复。
+子产病死，郑民号哭。
+
+translation:
+Because of his outstanding talent and learning, he became the prime minister of the state of Lu.
+He obeyed the laws and acted according to the principles without changing the regulations at all, so the officials behaved themselves in a correct manner.
+He ordered officials not to compete for interests with the people, and high officials not to take advantage.
+A guest brought fish to the Prime Minister Gong Yixiu's door, but he refused to accept it.
+The guest said: I heard that you love fish very much, so why don’t you accept it?
+Gong Yixiu replied: "It's because I love fish so much that I can't accept it."
+Now that I am the Prime Minister, I can afford fish. If I am dismissed from office because I accepted your fish today, who will be willing to give me fish in the future?
+So I can't accept it.
+Gongyixiu ate the vegetables and thought they tasted good, so he pulled out all the mallow vegetables in his home and threw them away.
+When he saw that the cloth he had woven was good, he immediately kicked his wife out of the house and burned the loom. He said: Are we going to leave farmers and weavers with nowhere to sell the goods they produce?
+Shi She was the Prime Minister of King Zhao of Chu. He was strong, upright, honest and just. He was neither flattering nor timid.
+On a trip to inspect various counties, a murderer happened to kill someone on the way. He pursued the murderer, who turned out to be his own father.
+He let his father go and imprisoned himself when he returned.
+He sent someone to tell King Zhao: The murderer is my father.
+If you punish your father to establish political achievements, this is unfilial; if you abandon the law and condone crime, it is disloyal; therefore, I deserve the death penalty.
+King Zhao said: "You chased the criminal but did not catch him. You should not prosecute the crime. You should go and manage the affairs of the country."
+Shi She said: If you do not favor your father, you are not a filial son; if you do not abide by the king's law, you are not a loyal minister.
+Your forgiveness of my sins is a favor from the Lord; serving your sentence and dying is your duty as a minister.
+So Shi She refused to obey the king of Chu's order and cut his neck to death.
+Li Li was a judge of Duke Wen of Jin.
+He heard that the case was wrong and the murder was in vain. When he found out, he imprisoned himself and sentenced him to death.
+Duke Wen said: Official positions vary, and punishments vary in severity.
+This is the fault of your officials, not your fault.
+Li Li said: My official position is that of a senior official, and I have never given up my high position to my subordinates. I have received a lot of official salary, and I have never given any benefits to them.
+Now, I have made mistakes in investigating the case and a life was wasted, but I have to shift the blame to my subordinates. I have never heard of such a theory.
+He refused to accept Duke Wen's order.
+Duke Wen said: If you think you are guilty, am I guilty too?
+Li Li said: There are laws and regulations for judges to decide cases. If you are wrongly sentenced, you will be punished personally, and if you are wrongly killed, you will be punished with death.
+You made me a judge because I can listen to subtle details and decide difficult cases.
+Now I heard the case wrongly and killed someone in vain, so I should be sentenced to death.
+So he refused to accept Duke Wen of Jin's pardon and committed suicide with his sword.
+Tai Shigong said: Sun Shuao said something, and the market order in Yingdu was restored.
+Zichan died of illness, and the people of Zheng State burst into tears.
+
+summary:
+Li Li, a judge of Jin, discovered a wrongful execution. He imprisoned himself and sentenced himself to death. Duke Wen offered pardon, but Li Li insisted on accountability, refusing to shift blame. He committed suicide to uphold legal integrity.
+
+================================================================================
+
+Summary line 6
+Span: 36-68 (score=0.1110)
+
+original:
+客有遗相鱼者，相不受。
+客曰： 闻君嗜鱼，遗君鱼，何故不受也？
+相曰： 以嗜鱼，故不受也。
+今为相，能自给鱼；今受鱼而免，谁复给我鱼者？
+吾故不受也。
+食茹而美，拔其园葵而弃之。
+见其家织布好，而疾出其家妇，燔其机，云 欲令农士工女安所雠其货乎 ？
+石奢者，楚昭王相也。坚直廉正，无所阿避。
+行县，道有杀人者，相追之，乃其父也。
+纵其父而还自系焉。
+使人言之王曰： 杀人者，臣之父也。
+夫以父立政，不孝也；废法纵罪，非忠也；臣罪当死。
+王曰： 追而不及，不当伏罪，子其治事矣。
+石奢曰： 不私其父，非孝子也；不奉主法，非忠臣也。
+王赦其罪，上惠也；伏诛而死，臣职也。
+遂不受令，自刎而死。
+李离者，晋文公之理也。
+过听杀人，自拘当死。
+文公曰： 官有贵贱，罚有轻重。
+下吏有过，非子之罪也。
+李离曰： 臣居官为长，不与吏让位；受禄为多，不与下分利。
+今过听杀人，傅其罪下吏，非所闻也。
+辞不受令。
+文公曰： 子则自以为有罪，寡人亦有罪邪？
+李离曰： 理有法，失刑则刑，失死则死。
+公以臣能听微决疑，故使为理。
+今过听杀人，罪当死。
+遂不受令，伏剑而死。
+太史公曰：孙叔敖出一言，郢市复。
+子产病死，郑民号哭。
+公仪子见好布而家妇逐。
+石奢纵父而死，楚昭名立。
+李离过杀而伏剑，晋文以正国法。
+
+translation:
+A guest brought fish to the Prime Minister Gong Yixiu's door, but he refused to accept it.
+The guest said: I heard that you love fish very much, so why don’t you accept it?
+Gong Yixiu replied: "It's because I love fish so much that I can't accept it."
+Now that I am the Prime Minister, I can afford fish. If I am dismissed from office because I accepted your fish today, who will be willing to give me fish in the future?
+So I can't accept it.
+Gongyixiu ate the vegetables and thought they tasted good, so he pulled out all the mallow vegetables in his home and threw them away.
+When he saw that the cloth he had woven was good, he immediately kicked his wife out of the house and burned the loom. He said: Are we going to leave farmers and weavers with nowhere to sell the goods they produce?
+Shi She was the Prime Minister of King Zhao of Chu. He was strong, upright, honest and just. He was neither flattering nor timid.
+On a trip to inspect various counties, a murderer happened to kill someone on the way. He pursued the murderer, who turned out to be his own father.
+He let his father go and imprisoned himself when he returned.
+He sent someone to tell King Zhao: The murderer is my father.
+If you punish your father to establish political achievements, this is unfilial; if you abandon the law and condone crime, it is disloyal; therefore, I deserve the death penalty.
+King Zhao said: "You chased the criminal but did not catch him. You should not prosecute the crime. You should go and manage the affairs of the country."
+Shi She said: If you do not favor your father, you are not a filial son; if you do not abide by the king's law, you are not a loyal minister.
+Your forgiveness of my sins is a favor from the Lord; serving your sentence and dying is your duty as a minister.
+So Shi She refused to obey the king of Chu's order and cut his neck to death.
+Li Li was a judge of Duke Wen of Jin.
+He heard that the case was wrong and the murder was in vain. When he found out, he imprisoned himself and sentenced him to death.
+Duke Wen said: Official positions vary, and punishments vary in severity.
+This is the fault of your officials, not your fault.
+Li Li said: My official position is that of a senior official, and I have never given up my high position to my subordinates. I have received a lot of official salary, and I have never given any benefits to them.
+Now, I have made mistakes in investigating the case and a life was wasted, but I have to shift the blame to my subordinates. I have never heard of such a theory.
+He refused to accept Duke Wen's order.
+Duke Wen said: If you think you are guilty, am I guilty too?
+Li Li said: There are laws and regulations for judges to decide cases. If you are wrongly sentenced, you will be punished personally, and if you are wrongly killed, you will be punished with death.
+You made me a judge because I can listen to subtle details and decide difficult cases.
+Now I heard the case wrongly and killed someone in vain, so I should be sentenced to death.
+So he refused to accept Duke Wen of Jin's pardon and committed suicide with his sword.
+Tai Shigong said: Sun Shuao said something, and the market order in Yingdu was restored.
+Zichan died of illness, and the people of Zheng State burst into tears.
+When Gongyixiu saw that his wife had finished weaving the cloth, he drove her out of the house.
+Shi She let his father go and committed suicide to take the blame, which established King Zhao of Chu's reputation.
+Li Li was wrongly convicted of murder and died with his sword, helping Duke Wen of Jin to rectify the country's laws.
+
+summary:
+Tai Shigong concluded that Sun Shuao restored market order, Zichan’s death moved Zheng, Gongyixiu drove out his wife, Shi She’s suicide honored King Zhao, and Li Li’s death rectified Jin’s laws.
+
+================================================================================
+
