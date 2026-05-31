@@ -11,6 +11,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT_ROOT = PROJECT_ROOT / "data" / "segmented_v2"
 DEFAULT_OUTPUT_ROOT = PROJECT_ROOT / "data" / "mt5_cc2en_segmented_v2"
 CHUNK_SPLIT_RE = re.compile(r"^Chunk\s+(\d+):\s*$", re.MULTILINE)
+SUMMARY_SPLIT_RE = re.compile(r"^Summary line\s+(\d+)\s*$", re.MULTILINE | re.IGNORECASE)
 
 
 def parse_args():
@@ -75,6 +76,34 @@ def parse_concat_file(path):
                 }
             )
     return pairs
+
+
+def parse_segment_sum_file(path):
+    content = path.read_text(encoding="utf-8")
+    matches = list(SUMMARY_SPLIT_RE.finditer(content))
+    pairs = []
+
+    for idx, match in enumerate(matches):
+        block_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(content)
+        block = content[match.end():block_end]
+        source = section_text(block, "original:", "translation:")
+        target = section_text(block, "summary:")
+        if source and target:
+            pairs.append(
+                {
+                    "chunk_id": int(match.group(1)),
+                    "source": source,
+                    "target": target,
+                    "source_alignment": "exact_segment_original_section",
+                }
+            )
+    return pairs
+
+
+def parse_segment_file(path):
+    if path.name == "segment_sum_concat.txt":
+        return parse_concat_file(path)
+    return parse_segment_sum_file(path)
 
 
 def candidate_source_paths(article_dir, input_root):
@@ -177,10 +206,15 @@ def main():
     if not 0.0 < args.train_ratio < 1.0:
         raise ValueError("--train_ratio must be between 0 and 1.")
 
-    concat_files = sorted(args.input_root.rglob("segment_sum_concat.txt"))
-    if not concat_files:
+    segment_files = sorted(args.input_root.rglob("segment_sum_concat.txt"))
+    input_format = "segment_sum_concat"
+    if not segment_files:
+        segment_files = sorted(args.input_root.rglob("segment_sum.txt"))
+        input_format = "segment_sum"
+
+    if not segment_files:
         raise FileNotFoundError(
-            f"No segment_sum_concat.txt files found below {args.input_root}."
+            f"No segment_sum_concat.txt or segment_sum.txt files found below {args.input_root}."
         )
 
     article_samples = {}
@@ -191,10 +225,10 @@ def main():
     exact_classical_chunk_articles = 0
     fallback_aligned_articles = 0
 
-    for concat_file in concat_files:
+    for concat_file in segment_files:
         corpus, article_path = article_metadata(concat_file.parent, args.input_root)
         corpora.add(corpus)
-        pairs = parse_concat_file(concat_file)
+        pairs = parse_segment_file(concat_file)
         raw_pairs += len(pairs)
 
         has_classical_source = bool(pairs) and all(has_cjk(pair["source"]) for pair in pairs)
@@ -243,14 +277,16 @@ def main():
     stats = {
         "input_root": str(args.input_root),
         "output_root": str(args.output_root),
-        "source_from": "data/segmented_v2/**/segment_sum_concat.txt original sections",
-        "alignment": "exact chunk-level original sections from segmented_v2",
+        "source_from": f"{args.input_root}/**/{input_format}.txt original sections",
+        "alignment": f"exact chunk-level original sections from {input_format}.txt",
         "used_fallback_approximate_chunking": False,
         "max_target_words": args.max_target_words,
         "train_ratio": args.train_ratio,
         "seed": args.seed,
         "total_corpora": len(corpora),
-        "total_articles_discovered": len(concat_files),
+        "input_format": input_format,
+        "segment_files": len(segment_files),
+        "total_articles_discovered": len(segment_files),
         "articles_with_classical_source_found": exact_classical_chunk_articles,
         "articles_missing_classical_source": len(missing_articles),
         "raw_pairs": raw_pairs,

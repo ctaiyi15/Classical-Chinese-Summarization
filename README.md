@@ -323,6 +323,24 @@ pipelines and removes the rough repetition signals measured by
 `generation_stats.json`. The sampling outputs are much shorter than the gold
 summaries, so these improvements should be checked qualitatively for coverage.
 
+### Segmented v4 Sampling Results
+
+The newer `data/segmented_v4` format uses `segment_sum.txt` files with
+`Summary line`, `Span`, `original`, `translation`, and `summary` sections. The
+same mT5 scripts can prepare v4 data by passing `--input_root data/segmented_v4`.
+
+Current 10-epoch v4 sampling results:
+
+| Pipeline | Chunk R-1 | Chunk R-2 | Chunk R-L | Article R-1 | Article R-2 | Article R-L |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| EN -> EN v4 sampling | 0.298 | 0.070 | 0.163 | 0.455 | 0.128 | 0.182 |
+| CC -> EN v4 sampling | 0.264 | 0.033 | 0.142 | 0.408 | 0.082 | 0.162 |
+
+Both v4 runs have 356 chunk-level test generations and 60 article-level grouped
+generations. Neither run produced empty outputs or `<extra_id...>` artifacts.
+The average generated lengths are `78.5` words for EN -> EN and `80.2` words
+for CC -> EN, compared with `106.9` gold-target words.
+
 ### Summary Outputs
 
 The repository currently distinguishes between two summary directories:
