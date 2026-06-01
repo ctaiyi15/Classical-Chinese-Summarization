@@ -91,6 +91,8 @@ Current 10-epoch CC -> EN sampling rerun results:
 | EN -> EN epoch10 sampling | 0.279 | 0.065 | 0.155 | 0.396 | 0.111 | 0.171 |
 | CC -> EN epoch10 | 0.143 | 0.017 | 0.115 | 0.215 | 0.030 | 0.138 |
 | CC -> EN epoch10 sampling | 0.243 | 0.033 | 0.135 | 0.360 | 0.078 | 0.154 |
+| EN -> EN v4 epoch10 sampling | 0.298 | 0.070 | 0.163 | 0.455 | 0.128 | 0.182 |
+| CC -> EN v4 epoch10 sampling | 0.264 | 0.033 | 0.142 | 0.408 | 0.082 | 0.162 |
 
 The direct CC -> EN baseline trails the EN -> EN baseline when both use the same
 decoding setup, which is expected because CC -> EN combines classical Chinese
@@ -102,3 +104,46 @@ to near zero. However, both sampling runs generate much shorter outputs
 (`64.7` words for EN -> EN and `66.6` words for CC -> EN, versus `127.3` gold
 words), so the ROUGE gains should be checked qualitatively for coverage and
 possible under-generation.
+
+## Segmented v4 Sampling Runs
+
+`data/segmented_v4` contains 409 `segment_sum.txt` files. Unlike v2, it does not
+use `segment_sum_concat.txt`; each file contains `Summary line`, `Span`,
+`original`, `translation`, and `summary` sections. The preparation scripts now
+auto-detect both formats.
+
+Prepared v4 data:
+
+- Raw pairs: `2578`
+- Removed long-summary pairs: `57`
+- Grouped samples: `2521`
+- Train/test articles: `337 / 60`
+- Train/test samples: `2165 / 356`
+
+EN -> EN v4 epoch10 sampling:
+
+- Generations: `outputs/mt5-en2en-segmented-v4-epoch10-sampling`
+- Chunk-level ROUGE-1/2/L: `0.298 / 0.070 / 0.163`
+- Article-level ROUGE-1/2/L: `0.455 / 0.128 / 0.182`
+- Empty generations: `0`
+- Outputs containing `<extra_id`: `0`
+- Average generated length: `78.5` words
+- Rough repeated sentence count: `0`
+- Rough repeated trigram count: `3`
+
+CC -> EN v4 epoch10 sampling:
+
+- Generations: `outputs/mt5-cc2en-segmented-v4-epoch10-sampling`
+- Chunk-level ROUGE-1/2/L: `0.264 / 0.033 / 0.142`
+- Article-level ROUGE-1/2/L: `0.408 / 0.082 / 0.162`
+- Empty generations: `0`
+- Outputs containing `<extra_id`: `0`
+- Average generated length: `80.2` words
+- Rough repeated sentence count: `0`
+- Rough repeated trigram count: `0`
+
+The v4 sampling runs improve over the v2 sampling runs for both pipelines.
+EN -> EN remains stronger than CC -> EN, as expected, but CC -> EN v4 closes
+part of the gap at article level. Qualitative samples still show occasional
+topic drift, so downstream evaluation should include human inspection or an
+additional faithfulness metric rather than relying on ROUGE alone.

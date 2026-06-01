@@ -1,0 +1,15 @@
+{
+  "generations_file": "outputs\\mt5-small-segmented-v2-smoke\\test_generations.jsonl",
+  "chunk_samples": 30,
+  "article_samples": 8,
+  "chunk_level": {
+    "rouge1": 0.0,
+    "rouge2": 0.0,
+    "rougeL": 0
+  },
+  "article_level": {
+    "rouge1": 0.0,
+    "rouge2": 0.0,
+    "rougeL": 0
+  }
+}

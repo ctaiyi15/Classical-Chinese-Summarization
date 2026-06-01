@@ -10,13 +10,16 @@ __pycache__/
 data/mt5_segmented_v2/
 data/mt5_en2en_segmented_v2/
 data/mt5_cc2en_segmented_v2/
+data/mt5_en2en_segmented_v4/
+data/mt5_cc2en_segmented_v4/
 
 # Training outputs: keep lightweight generation/evaluation artifacts,
 # but do not commit model weights, optimizer states, or checkpoints.
 outputs/**
 !outputs/
 !outputs/**/
-!outputs/mt5-small-segmented-v2-epoch10/test_generations.jsonl
-!outputs/mt5-small-segmented-v2-epoch10/article_generations.jsonl
-!outputs/mt5-small-segmented-v2-epoch10/eval_results.json
+!outputs/**/test_generations.jsonl
+!outputs/**/article_generations.jsonl
+!outputs/**/eval_results.json
+!outputs/**/generation_stats.json
 !outputs/**/README.md
