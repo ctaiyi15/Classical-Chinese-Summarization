@@ -323,23 +323,50 @@ pipelines and removes the rough repetition signals measured by
 `generation_stats.json`. The sampling outputs are much shorter than the gold
 summaries, so these improvements should be checked qualitatively for coverage.
 
-### Segmented v4 Sampling Results
+### Segmented v4 Clean Sampling Results
 
 The newer `data/segmented_v4` format uses `segment_sum.txt` files with
 `Summary line`, `Span`, `original`, `translation`, and `summary` sections. The
 same mT5 scripts can prepare v4 data by passing `--input_root data/segmented_v4`.
+The preparation scripts remove separator-only lines such as `=======` from
+source and target text.
 
-Current 10-epoch v4 sampling results:
+The first v4 sampling runs accidentally included separator lines in the training
+targets. Those contaminated runs should not be cited as final results. The clean
+v4 data has no `=` separator contamination and no empty source or target fields.
+
+Clean v4 prepared data:
+
+- Raw pairs: `2578`
+- Removed long-summary pairs: `56`
+- Grouped samples: `2522`
+- Train/test articles: `338 / 60`
+- Train/test samples: `2163 / 359`
+- Average target length: `105.1` words
+
+Current clean 10-epoch v4 sampling results:
 
 | Pipeline | Chunk R-1 | Chunk R-2 | Chunk R-L | Article R-1 | Article R-2 | Article R-L |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| EN -> EN v4 sampling | 0.298 | 0.070 | 0.163 | 0.455 | 0.128 | 0.182 |
-| CC -> EN v4 sampling | 0.264 | 0.033 | 0.142 | 0.408 | 0.082 | 0.162 |
+| EN -> EN clean v4 sampling | 0.266 | 0.066 | 0.157 | 0.390 | 0.114 | 0.174 |
+| CC -> EN clean v4 sampling | 0.236 | 0.030 | 0.136 | 0.382 | 0.078 | 0.155 |
 
-Both v4 runs have 356 chunk-level test generations and 60 article-level grouped
-generations. Neither run produced empty outputs or `<extra_id...>` artifacts.
-The average generated lengths are `78.5` words for EN -> EN and `80.2` words
-for CC -> EN, compared with `106.9` gold-target words.
+Both clean v4 runs have 359 chunk-level test generations and 60 article-level
+grouped generations. Neither run produced empty outputs or `<extra_id...>`
+artifacts. The average generated lengths are `48.0` words for EN -> EN and
+`55.8` words for CC -> EN, compared with roughly `105.1` gold-target words.
+
+Qualitatively, EN -> EN clean v4 generations are usually related to the input
+topic, but many details are still false or mixed across nearby historical
+events. CC -> EN clean v4 is weaker: outputs are often fluent English but less
+grounded in the Classical Chinese source.
+
+Important caveat: v4 span windows were designed mainly for CC -> EN. Classical
+Chinese is compact, but the English translation of the same span is much longer.
+For EN -> EN training, many v4 English sources exceed the model input length and
+are truncated, so the model may learn from incomplete evidence while the target
+summary refers to information outside the visible input. This likely explains
+why EN -> EN v4 can sound related while still hallucinating factual details.
 
 ### Summary Outputs
 
