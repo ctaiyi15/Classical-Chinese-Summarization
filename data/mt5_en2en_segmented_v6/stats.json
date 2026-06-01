@@ -1,0 +1,18 @@
+{
+  "input_root": "data\\segmented_v6",
+  "output_root": "data\\mt5_en2en_segmented_v6",
+  "max_target_words": 300,
+  "train_ratio": 0.85,
+  "seed": 42,
+  "input_format": "segment_sum",
+  "segment_files": 409,
+  "raw_pairs": 4168,
+  "removed_long_summary_pairs": 63,
+  "grouped_samples": 4105,
+  "train_articles": 345,
+  "test_articles": 61,
+  "train_samples": 3533,
+  "test_samples": 572,
+  "average_source_words": 326.07844092570036,
+  "average_target_words": 66.37563946406821
+}
