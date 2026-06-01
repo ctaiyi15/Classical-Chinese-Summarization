@@ -1,0 +1,472 @@
+Summary line 0
+Span: 0-9 (score=0.5715)
+
+original:
+李广，陇西成纪人也。
+其先曰李信，秦时为将，逐得燕太子丹者也。
+广世世受射。
+孝文十四年，匈奴大入萧关，而广以良家子从军击胡，用善射，杀首虏多，为郎，骑常侍。
+数从射猎，格杀猛兽，文帝曰： 惜广不逢时，令当高祖世，万户侯岂足道哉！
+景帝即位，为骑郎将。
+吴、楚反时，为骁骑都尉，从太尉亚夫战昌邑下，显名。
+以梁王授广将军印，故还，赏不行。
+为上谷太守，数与匈奴战。
+典属国公孙昆邪为上泣曰： 李广材气，天下亡双，自负其能，数与虏确，恐亡之。
+
+translation:
+Li Guang, a native of Shengqi, Longxi County.
+His ancestor Li Zhi was a general in the Qin Dynasty and once hunted down Prince Dan of Yan State.
+Li Guang's family has been learning archery for generations.
+In the fourteenth year of Emperor Xiaowen's reign, the Huns invaded Xiaoguan in large numbers. Li Guang joined the army to fight against the Huns as a son of a good family. Because he was good at archery, he killed and captured many enemies. He became a Langguan of the Han Dynasty and served as a riding attendant.
+Li Guang often went hunting with Emperor Wen and killed fierce beasts, so Emperor Wen said: It's a pity that you didn't get the chance; if you were in the era of Emperor Gao, it wouldn't be a problem to be granted the title of Marquis of Ten Thousand Households!
+Emperor Xiaojing ascended the throne, and Li Guang was appointed Cavalry General.
+When the seven kingdoms of Wu and Chu rebelled, Li Guang served as the commander of Xiaoqi. He followed Taiwei Zhou Yafu to attack Wu and Chu, and made outstanding achievements in Changyi City.
+Because the King of Liang privately awarded General Li Guang the seal, he did not receive the reward after returning to the court.
+He was transferred to the prefect of Shanggu and fought many battles with the Xiongnu.
+Sun Kunxie, the Duke of Dian, said to the emperor with tears in his eyes: "Li Guang's talent is unparalleled in the world." He relied on his own ability and fought against the enemy many times, fearing that he would be sacrificed.
+
+summary:
+Li Guang, a native of Longxi County, was a descendant of a Qin general and came from a family skilled in archery. He began his military career during Emperor Wen's reign, fighting the Xiongnu at Xiaoguan, where his archery skills earned him a position as a Langguan. Emperor Wen lamented that Li Guang's talents would have earned him a marquisate in the era of Emperor Gaozu. Under Emperor Jing, he served as a Cavalry General and fought in the campaign against the rebellious seven kingdoms of Wu and Chu, but was denied a reward due to accepting a seal from the King of Liang. He later served as the Prefect of Shanggu and other border commanderies, frequently battling the Xiongnu.
+
+================================================================================
+
+Summary line 1
+Span: 9-15 (score=0.3237)
+
+original:
+典属国公孙昆邪为上泣曰： 李广材气，天下亡双，自负其能，数与虏确，恐亡之。
+上乃徙广为上郡太守。
+匈奴侵上郡，上使中贵人从广勒习兵击匈奴。
+中贵人者数十骑从，见匈奴三人，与战。
+射伤中贵人，杀其骑且尽。
+中贵人走广，广曰： 是必射雕者也。
+广乃从百骑往驰三人。
+
+translation:
+Sun Kunxie, the Duke of Dian, said to the emperor with tears in his eyes: "Li Guang's talent is unparalleled in the world." He relied on his own ability and fought against the enemy many times, fearing that he would be sacrificed.
+So he was transferred to the prefecture of Shangjun.
+The Huns invaded Shangjun, and the emperor sent noble men to follow Li Guang and lead his own troops to fight against the Huns.
+The noble man galloped with dozens of cavalry, met three Huns, and fought with them.
+The three Huns turned around and fired arrows, wounding the noble man and killing almost all the cavalry he had brought with him.
+The noble man ran to Li Guang. Li Guang said: This must be the Condor Shooter.
+Li Guang then led a hundred cavalry to chase the three men.
+
+summary:
+During a campaign in Shangjun, Li Guang, with only a hundred cavalry, encountered thousands of Xiongnu.
+
+================================================================================
+
+Summary line 2
+Span: 21-29 (score=0.3354)
+
+original:
+今我留，匈奴必以我为大军之诱，不我击。
+广令曰： 前！
+未到匈奴陈二里所，止，令曰： 皆下马解鞍！
+骑曰： 虏多如是，解鞍，即急，奈何？
+广曰： 彼虏以我为走，今解鞍以示不去，用坚其意。
+有白马将出护兵。
+广上马，与十余骑奔射杀白马将，而复还至其百骑中，解鞍，纵马卧。
+时会暮，胡兵终怪之，弗敢击。
+夜半，胡兵以为汉有伏军于傍欲夜取之，即引去。
+
+translation:
+Now that we stop, the Xiongnu must think that we are decoys of the army and will not dare to attack us.
+Li Guang ordered: Forward!
+After entering about two miles away from the Huns' position, they stopped and ordered: "Everyone, dismount and unsaddle!"
+His cavalry said: There are many enemies and they are close. What if there is an emergency after unsaddled?
+Li Guang said: Those enemies thought that we would escape, and now they took off their saddles to show that they would not leave. They used this method to confirm their suspicions.
+So the Huns' cavalry finally did not dare to attack.
+A general on a white horse came out to guard his soldiers. Li Guang mounted his horse, galloped over with more than a dozen cavalry, and shot the Xiongnu general on a white horse to death. Then he returned to his cavalry, took off the saddle, and ordered the soldiers to let go of their horses and lie down.
+It was almost dusk on this beautiful day, and the Huns soldiers were always uncertain and did not dare to attack.
+In the middle of the night, the Huns also thought that the Han army had an ambush nearby and would attack them at night, so the Huns all retreated.
+
+summary:
+He cleverly halted his men and dismounted, convincing the enemy they were a decoy, which prevented an attack. After nightfall, the Xiongnu withdrew, suspecting an ambush.
+
+================================================================================
+
+Summary line 3
+Span: 27-36 (score=0.5347)
+
+original:
+广上马，与十余骑奔射杀白马将，而复还至其百骑中，解鞍，纵马卧。
+时会暮，胡兵终怪之，弗敢击。
+夜半，胡兵以为汉有伏军于傍欲夜取之，即引去。
+平旦，广乃归其大军。
+后徙为陇西、北地、雁门中云中太守。
+武帝即位，左右言广名将也，由是入为未央卫尉，而程不识时亦为长乐卫尉。
+程不识故与广俱以边太守将屯。
+及出击胡，而广行无部曲行陈，就善水草顿舍，人人自便，不击刁斗自卫，莫府省文书，然亦远斥候，未尝遇害。
+程不识正部曲行伍营陈，击刁斗，吏治军簿至明，军不得自便。
+不识曰： 李将军极简易，然虏卒犯之，无以禁；而其士亦佚乐，为之死。
+
+translation:
+A general on a white horse came out to guard his soldiers. Li Guang mounted his horse, galloped over with more than a dozen cavalry, and shot the Xiongnu general on a white horse to death. Then he returned to his cavalry, took off the saddle, and ordered the soldiers to let go of their horses and lie down.
+It was almost dusk on this beautiful day, and the Huns soldiers were always uncertain and did not dare to attack.
+In the middle of the night, the Huns also thought that the Han army had an ambush nearby and would attack them at night, so the Huns all retreated.
+Early the next morning, Li Guangcai returned to his main army.
+Later, he successively served as the prefect of Longxi, Beidi, Yanmen and Yunzhong.
+When Emperor Wu came to the throne, his ministers said that Li Guang was a famous general, so Li Guang was transferred to the Weiyang Palace Guards, while Cheng Bushi also served as the Changle Palace Guards at that time.
+In the past, Cheng Bushi and Li Guang both led the army as governors of border counties and stationed fields to guard the border.
+When he sent out troops to attack the Huns, Li Guang's army did not have strict organization, queues or formations. They stationed themselves near good water sources and grasslands, and stayed and stayed at their own convenience. They did not patrol or patrol at night to defend themselves. The military's documents and books were kept simple, but reconnaissance posts were also set up in the distance, so they did not encounter any danger.
+Cheng Bushi strictly required the establishment, formation and formation, and patrolled at night, and the officers processed military documents until dawn, and the troops were not allowed to do what they wanted.
+Cheng Bushi said: Li Guang's troops were very casual, but when the enemy suddenly attacked them, they were unable to parry them; and his soldiers were comfortable and happy, and they were all willing to die for him.
+
+summary:
+Li Guang later served as a palace guard under Emperor Wu, alongside Cheng Bushi. While Cheng Bushi's army was strictly disciplined, Li Guang's was more relaxed, yet his soldiers were loyal and willing to die for him. The Xiongnu feared Li Guang's strategies, and soldiers preferred serving under him.
+
+================================================================================
+
+Summary line 4
+Span: 42-49 (score=0.4096)
+
+original:
+后四岁，广以卫尉为将军，出雁门击匈奴。
+匈奴兵多，破广军，生得广。
+单于素闻广贤，令曰： 得李广必生致之。
+胡骑得广，广时伤，置两马间。
+络而盛卧。行十余里，广阳死，睨其傍有一儿骑善马，暂腾而上胡儿马，因抱儿鞭马南驰数十里，得其余军。
+匈奴骑数百追之，广行取儿弓射杀追骑，以故得脱。
+于是至汉，汉下广吏。
+吏当广亡失多，为虏所生得，当斩，赎为庶人。
+
+translation:
+Four years later, Li Guang was transferred from a guard to a general and attacked the Huns from Yanmen County.
+The Huns had more soldiers and defeated Li Guang's army and captured Li Guang alive.
+Shan Yu always heard that Li Guang was talented and issued an order: If Li Guang is captured, he must be delivered alive.
+The Huns cavalry captured Li Guang, who was injured at the time. They placed Li Guang between the two horses and used ropes to form a net bag for Li Guang to lie down.
+After walking for more than ten miles, Li Guang pretended to be dead and squinted at a Hun boy riding a good horse next to him. Li Guang suddenly jumped up, climbed on the Hun boy's horse, held the boy in his arms and rode south for dozens of miles, and gathered the remaining troops of him.
+Hundreds of Xiongnu cavalry chased him. As he ran, Li Guang picked up the bow and arrow of the Xiongnu boy and shot the chasing cavalry to death, thus escaping.
+So he returned to the Han capital, and the Han court handed Li Guang over to the judge.
+The judge ruled that Li Guang had lost many men and horses and was captured alive by the enemy. He should be beheaded and use money to atone and become a civilian.
+
+summary:
+Li Guang was captured by the Xiongnu in a later campaign but escaped by feigning death, stealing a horse, and shooting his pursuers.
+
+================================================================================
+
+Summary line 5
+Span: 75-81 (score=0.3775)
+
+original:
+广乃令持满毋发，而广身自以大黄射其裨将，杀数人，胡虏益解。
+会暮，吏士无人色，而广意气自如，益治军。
+军中服其勇也。
+明日，复力战，而博望侯军亦军，匈奴乃解去。
+汉军邑，弗能追。
+是时，广军几没，罢归。
+汉法，博望侯后期，当死，赎为庶人。
+
+translation:
+Li Guang ordered the soldiers to draw their bows and not to release arrows. Li Guang personally used the big yellow crossbow to shoot at the enemy's lieutenants, killing several of them, and the Huns gradually relaxed.
+It happened to be dark, and the officers and soldiers were pale, but Li Guang looked as usual and commanded the army more energetically.
+The soldiers in the army admired his courage.
+The next day, they continued to fight hard, and Bowang Hou's army also arrived, and the Huns army finally relieved the siege.
+The Han army was tired and could not pursue him.
+At this time, Li Guang's army was almost wiped out and he had to withdraw his troops.
+According to the laws of the Han Dynasty, Bowang Hou delayed the scheduled date and was sentenced to death. He paid for his sins and was reduced to a commoner.
+
+summary:
+He was sentenced to death for his losses but redeemed himself with money, becoming a commoner.
+
+================================================================================
+
+Summary line 6
+Span: 90-94 (score=0.4062)
+
+original:
+岂吾相不当侯邪？
+朔曰： 将军自念，岂尝有恨者乎？
+广曰： 吾为陇西守，羌尝反，吾诱降者八百余人，诈而同日杀之，至今恨独此耳。
+朔曰： 祸莫大于杀已降，此乃将军所以不得侯者也。
+广历七郡太守，前后四十余年，得赏赐，辄分其戏下，饮食与士卒共之。
+
+translation:
+Shouldn’t my life be granted a title of marquis?
+Wang Shuo said: General, think about it yourself, has there ever been any regret?
+Li Guang said: I was once the governor of Longxi. The Qiang people rebelled. I lured them to surrender. More than 800 people surrendered. I used deception to kill them on the same day. So far, my biggest regret is only this incident.
+Wang Shuo said: There is no greater sin than killing someone who has surrendered. This is why the general cannot be granted the title of marquis.
+Li Guang served as the governor of seven counties for more than 40 years. After receiving rewards, he immediately distributed them to his subordinates, and shared his food and drink with the soldiers.
+
+summary:
+He later served as the Right Governor of Beiping, where the Xiongnu avoided him for years.
+
+================================================================================
+
+Summary line 7
+Span: 96-100 (score=0.2975)
+
+original:
+为人长，爰臂，其善射亦天性，虽子孙他人学者莫能及。
+广呐口少言，与人居，则画地为军陈，射阔狭以饮。
+专以射为戏。
+将兵，乏绝处见水，士卒不尽饮，不近水；不尽餐，不尝食；宽缓不苛，士以此爱乐为用。
+其射，见敌，非在数十步之内，度不中不发，发即应弦而倒。
+
+translation:
+Li Guang was tall, long-armed, and talented in archery. Even if his descendants and others learned archery from him, they could not catch up with him.
+Li Guang was arrogant and did not talk much to others. He lived with others and drew battle formations on the ground. He shot arrows wider and narrower than the area he shot. If he lost, he drank wine as a penalty.
+Specialized in archery as a game.
+When leading troops on the march, they encounter a shortage of food and water. When they see water, not all the soldiers drink the water. He does not go near the water. Not all the soldiers have food. He does not taste the food. He treats soldiers generously and carefully, so soldiers like to work for him.
+When he shoots an arrow and sees an enemy within a few dozen steps, he probably won't hit the target and will fall to the ground as soon as he shoots.
+
+summary:
+During a hunt, he famously shot an arrow into a stone, mistaking it for a tiger.
+
+================================================================================
+
+Summary line 8
+Span: 84-93 (score=0.5047)
+
+original:
+景帝时，蔡积功至二千石。
+武帝元朔中，为轻车将军，从大将军击右贤王，有功中率，封为乐安侯。
+元狩二年，代公孙弘为丞相。
+蔡为人在下中，名声出广下远甚，然广不得爵邑，官不过九卿。
+广之军吏及士卒或取封侯。
+广与望气王朔语云： 自汉击匈奴，广未尝不在其中，而诸妄校尉已下，材能不及中，以军功取侯者数十人。广不为后人，然终无尺寸功以得封邑者，何也？
+岂吾相不当侯邪？
+朔曰： 将军自念，岂尝有恨者乎？
+广曰： 吾为陇西守，羌尝反，吾诱降者八百余人，诈而同日杀之，至今恨独此耳。
+朔曰： 祸莫大于杀已降，此乃将军所以不得侯者也。
+
+translation:
+During the reign of Emperor Jing, Li Cai received a salary of two thousand stone levels for his accumulated merit.
+During the Yuanshuo period of Emperor Xiaowu, he served as General of Qingchao and followed the general to attack King Youxian. His meritorious service reached the standard of reward and he was named Marquis of Le'an.
+In the second year of Yuanshou, he replaced Gongsun Hong as prime minister.
+Li Cai's character was among the lowest, and his reputation was far below that of Li Guang. However, Li Guang did not receive a title or fief, and his official position did not exceed Jiuqing.
+Many of Li Guang's officers and soldiers were awarded the title of Marquis.
+Li Guang once chatted with Wang Shuo, a Wangqi master, and said: Ever since the Han Dynasty attacked the Huns, I have never been absent from them. However, the talents of each army commander and below are not average enough. However, there are dozens of people who have obtained marquises because of their military exploits in attacking the Huns. However, I did not fall behind others, but I did not have a small amount of merit to obtain a fief. What is the reason?
+Shouldn’t my life be granted a title of marquis?
+Wang Shuo said: General, think about it yourself, has there ever been any regret?
+Li Guang said: I was once the governor of Longxi. The Qiang people rebelled. I lured them to surrender. More than 800 people surrendered. I used deception to kill them on the same day. So far, my biggest regret is only this incident.
+Wang Shuo said: There is no greater sin than killing someone who has surrendered. This is why the general cannot be granted the title of marquis.
+
+summary:
+Despite his reputation, Li Guang never received a marquisate, a fact he lamented to Wang Shuo, who attributed it to Li Guang's past deception and killing of surrendered Qiang rebels.
+
+================================================================================
+
+Summary line 9
+Span: 108-112 (score=0.4794)
+
+original:
+是时，公孙敖新失侯，为中将军，大将军亦欲使敖与俱当单于，故徙广。
+广知之，固辞。
+大将军弗听，令长史封书与广之莫府，曰： 急诣部，如书。
+广不谢大将军而起行，意象愠怒而就部，引兵与右将军食其合军出东道。
+惑失道，后大将军。
+
+translation:
+At this time, Gongsun Ao had recently lost a marquis and was serving as lieutenant general. The general also wanted Gongsun Ao to fight against Shanyu with him, so he transferred former general Li Guang.
+Li Guang knew this situation at the time and resolutely refused to be transferred to the general.
+The general refused to listen and ordered the chief historian to send a document to Li Guang's shogunate, saying: Go to the military headquarters where you are and do as the document says.
+Li Guang set out without saying goodbye to the general. He went to the military headquarters in anger, led his soldiers and the right general to the place where they joined forces, and set off from the east road.
+He lost his way and fell behind the general.
+
+summary:
+In his final campaign, Li Guang served as a former general under Wei Qing. Ordered to take a circuitous eastern route, he lost his way and failed to join the main force.
+
+================================================================================
+
+Summary line 10
+Span: 129-150 (score=0.4499)
+
+original:
+广死明年，李蔡以丞相坐诏赐冢地阳陵当得二十亩，蔡盗取三顷，颇卖得四十余万，又盗取神道外壖地一亩葬其中，当下狱，自杀。
+敢以校尉从票骑将军击胡左贤王，力战，夺左贤王旗鼓，斩首多，赐爵关内侯，食邑二百户，代广为郎中令。
+顷之，怨大将军青之恨其父，乃击伤大将军，大将军匿讳之。
+居无何，敢从上雍，至甘泉宫猎，票骑将军去病怨敢伤青，射杀敢。
+去病时方贵幸，上为讳，云 鹿触杀之 。
+居岁余，去病死。
+敢有女为太子中人，爱幸。
+敢男禹有宠于太子，然好利，亦有勇。
+尝与侍中贵人饮，侵陵之，莫敢应。
+后诉之上，上召禹，使刺虎，县下圈中，未至地，有诏引出之。
+禹从落中以剑斫绝累，欲刺虎。
+上壮之，遂救止焉。
+而当户有遗腹子陵，将兵击胡，兵败，降匈奴。
+后人告禹谋欲亡从陵，下吏死。
+陵字少卿，少为侍中建章监。
+善骑射，爱人，谦让下士，甚得名誉。
+武帝以为有广之风，使将八百骑，深入匈奴二千余里，过居延视地形，不见虏，还。
+拜为骑都尉，将勇敢五千人，教射酒泉、张掖以备胡。
+数年，汉遣贰师将军伐大宛，使陵将五校兵随后。
+行至塞，会贰师还。
+上赐陵书，陵留吏士，与轻骑五百出敦煌，至盐水，迎贰师还，复留屯张掖。
+天汉二年，贰师将三万骑出酒泉，击右贤王于天山。
+
+translation:
+In the second year after Li Guang's death, Li Cai became the prime minister. He should be punished by the judge for occupying the open space of Emperor Xiaojing's Yangling Mausoleum. The open space given to him at that time was only 20 acres, and Li Cai occupied three hectares. After selling the land, he received more than 400,000 yuan. He also occupied an acre of land outside the Shinto as a cemetery. He was sentenced to prison, so Li Cai also committed suicide.
+As a school captain, Li Gan followed the hussar general to attack King Zuoxian of the Huns. He fought hard and captured King Zuoxian's war drum and flag. He beheaded many of the enemies. He was awarded the title of Marquis of Dingguannei and enjoyed the title of 200 households. He succeeded Li Guang as the doctor's order.
+Soon, Li Gan resented the general Wei Qing for causing his father to die out of hatred, so he wounded the general, but the general concealed the incident.
+Not long after, Li Gan accompanied the emperor to Yongzhou Ganquan Palace for hunting. General Huo Qubing resented Li Gan for injuring Wei Qing and shot Li Gan to death.
+Huo Qubing was favored by the nobles at that time, but the emperor concealed the truth and said that a wild deer killed him.
+More than a year later, Huo Qubing died.
+Li Gan had a daughter who was the prince's maid and was favored.
+Li Gan's son Li Yu was also favored by the prince, but he was fond of wealth and had courage.
+He once drank with a nobleman in his attendants and insulted him, but the nobleman did not dare to say anything.
+Later, he told the emperor. The emperor summoned Li Yu and asked him to stab the tiger. He hung down to the tiger enclosure, but before he reached the ground, he ordered Li Yu to be pulled up.
+Li Yu cut the rope from the net and wanted to stab the tiger.
+The emperor thought he was brave, so he rescued him and stopped him from stabbing the tiger.
+Li Danghu had a posthumous son named Li Ling, who led an army to attack the Huns. He was defeated and surrendered to the Huns.
+Later, someone accused Li Yu of trying to follow Li Ling and was executed.
+Li Ling, whose courtesy name is Shaoqing, was appointed as the Jian Zhang Supervisor of the Imperial Palace when he was young.
+He is good at riding and shooting, loves and cares for others, and is humble to his subordinates. He has a good reputation.
+Emperor Wu felt that he had Li Guang's demeanor, so he asked him to lead 800 cavalry and penetrated more than 2,000 miles into the Huns' territory. He passed through the Juyan area and inspected the terrain. When the Huns were not seen, he returned.
+He worshiped the official Cavalry Captain and led 5,000 warriors to teach archery in Jiuquan and Zhangye areas to prevent the Huns from invading.
+A few years later, the Han Dynasty sent the general of the Second Division to attack Dawan, and sent Li Ling to lead five schools of troops to follow.
+When marching to the frontier fortress, he met the general of the Second Division returning.
+The emperor gave Li Ling a letter, and Li Ling left his officers and soldiers behind. He left Dunhuang with 500 light cavalry and went to Yanyan to welcome the return of the general of the second division, and then stationed at Zhangye.
+In the second year of Tianhan, the general of the Second Division led 30,000 cavalry to Jiuquan to attack King Youxian of the Xiongnu in the Tianshan Mountains.
+
+summary:
+After Wei Qing's interrogation, Li Guang, feeling humiliated and over sixty, committed suicide. His death caused widespread mourning. His son Li Gan later wounded Wei Qing in revenge and was killed by Huo Qubing, who claimed it was a deer attack. Li Guang's grandson Li Ling led a campaign against the Xiongnu with 5,000 infantry, fighting bravely but ultimately surrendering after running out of arrows and reinforcements. The emperor, misled by reports that Li Ling was training the Xiongnu, executed his family. Li Ling remained with the Xiongnu, marrying a Chanyu's daughter and dying there years later.
+
+================================================================================
+
+Summary line 11
+Span: 261-267 (score=0.5153)
+
+original:
+武字子卿，少以父任，兄弟并为郎，稍迁至栘中厩监。
+时汉连伐胡，数通使相窥观，匈奴留汉使郭吉、路充国等，前后十余辈。
+匈奴使来，汉亦留之以相当。
+天汉元年，且鞮侯单于初立，恐汉袭之，乃曰： 汉天子我丈人行也。
+尽归汉使路充国等。
+武帝嘉其义，乃遣武以中郎将使持节送匈奴使留在汉者，因厚赂单于，答其善意。
+武与副中郎将张胜及假吏常惠等募士斥候百余人俱。
+
+translation:
+Su Wu, also known as Ziqing, was appointed as a Lang along with his brothers when he was young because his father Su Jian had made great contributions to the country. Su Wu was later gradually promoted to the supervisor of the Zhongzhong Stable.
+At that time, the Han Dynasty continued to attack the Xiongnu. Both sides sent envoys to secretly observe the situation of the other side. The Xiongnu successively detained more than ten batches of Han envoys, including Guo Ji and Lu Chongguo.
+When the Xiongnu envoys arrived, the Han Dynasty also detained them to compensate.
+In the first year of the Han Dynasty, Shanyu, the marquis of Tartar, had just ascended the throne and was afraid of the Han Dynasty's attack, so he said: The emperor of the Han Dynasty is my elder.
+Return all the detained Han Dynasty envoys such as Lu Chongguo and others.
+Emperor Wu of the Han Dynasty praised him for his righteousness, so he sent Su Wu as a Zhonglang general to escort the Huns envoys who were detained in the Han Dynasty with the Han Dynasty talisman, and presented Shanyu with many properties to repay his kindness.
+Su Wu, his deputy envoy Han Zhonglang, Zhang Sheng, and Chang Hui, who temporarily served as the envoy's subordinates, recruited more than 100 soldiers and scouts to go to the Xiongnu.
+
+summary:
+Su Wu was sent as an envoy to the Xiongnu in 100 BCE. When a conspiracy involving his deputy Zhang Sheng was exposed, Su Wu attempted suicide to avoid disgrace.
+
+================================================================================
+
+Summary line 12
+Span: 309-314 (score=0.4200)
+
+original:
+若知我不降明，欲令两国相攻，匈奴之祸从我始矣。
+律知武终不可胁，白单于。
+单于愈益欲降之，乃幽武置大窖中，绝不饮食。
+天雨雪，武卧啮雪与旃毛并咽之，数日不死。
+匈奴以为神，乃徙武北海上无人处，使牧羝，羝乳乃得归。别其官属常惠等，各置他所。
+武既至海上，廪食不至，掘野鼠去草实而食之。
+
+translation:
+You know that I will not surrender. If you want the two countries to attack each other, the Xiongnu's defeat will begin with killing me.
+Wei Lu knew that he could not threaten Su Wu to surrender in the end, so he reported the situation to Shan Yu.
+The Chanyu wanted Su Wu to surrender more and more, so he imprisoned him in Dajiaoxiang and cut off food and drink from him.
+It snowed heavily, so Su Wu lay down on the ground and ate snow balls and felt wool, so that many of them did not starve to death.
+The Xiongnu thought he was a man of God, so they moved him to an uninhabited place in the North Sea and let him herd rams. He was not allowed to come back until the rams gave birth to babies. They separated him from his subordinates Chang Hui and others and placed him in different places.
+After Su Wu was exiled to Beihai, the Huns did not provide him with food, so he had to dig grass seeds stored by wild rats to satisfy his hunger.
+
+summary:
+He survived and was imprisoned, surviving on snow and felt. Exiled to the North Sea to herd rams, he steadfastly refused to surrender, even when his former friend Li Ling tried to persuade him.
+
+================================================================================
+
+Summary line 13
+Span: 339-346 (score=0.3467)
+
+original:
+陵与卫律之罪上通于天。
+因泣下沾衿，与武决去。
+陵恶自赐武，使其妻赐武牛羊数十头。
+后陵复至北海上，语武： 区脱捕得云中生口，言太守以下吏民皆白服，曰上崩。
+武闻之，南乡号哭，欧血，旦夕临数月。
+昭帝即位数年，匈奴与汉和亲。
+汉求武等，匈奴诡言武死。
+后汉使复至匈奴，常惠请其守者与俱，得夜见汉使。具自陈过。教使者谓单于，言天子射上林中，得雁，足有系帛书，言武等在荒泽中。
+
+translation:
+Wei Lu and I’s sins are higher than the sky!
+Then tears fell like rain, soaking his clothes, and he said goodbye to Su Wu and left.
+Li Ling was too shy to give Su Wu his belongings in person, so he sent his wife to send some cattle and sheep to Su Wu.
+Later, Li Ling went to Beihai and told Su Wu: The Xiongnu frontier post captured Han Chinese in Yunzhong alive, saying that everyone from the prefect to the common people were wearing white mourning clothes, and that the emperor was dead.
+When Su Wu heard the news, he faced the south and cried so hard that he vomited blood. He cried in mourning for Emperor Wu every morning and night. A few months later, Emperor Zhao ascended the throne.
+After a few years, the Xiongnu and the Han Dynasty reconciled.
+The Han Dynasty sought Su Wu and others, but the Huns falsely claimed that Su Wu was dead.
+Later, the Mo envoy came to the Xiongnu again. Chang Hui asked his guard to go with him to see the Mo envoy at night. He described what happened in detail. He also told the Han envoy to tell Shanyu that the Han emperor was hunting in Shanglin Garden and shot down a wild goose. There was a silk letter tied to his foot, saying that Su Wu was in a certain big swamp.
+
+summary:
+After nineteen years, the Han Dynasty learned he was alive through a clever ruse involving a wild goose with a message.
+
+================================================================================
+
+Summary line 14
+Span: 363-366 (score=0.4106)
+
+original:
+常惠后至右将军，封列侯，自有传。
+武留匈奴凡十九岁，始以强壮出，及还，须发尽白。
+武来归明年，上官桀、子安与桑弘羊及燕王、盖主谋反。
+武子男元与安有谋，坐死。
+
+translation:
+Chang Hui later rose to the rank of General You, and was granted the title of Marquis. There is a biography of him in the "Book of Han".
+Su Wu was detained by the Xiongnu for nineteen years. He was in the prime of life when he went on the mission, but when he returned, his beard and hair were all white.
+In the second year after Su Wu returned, Shangguan Jie's son Shangguan An conspired with Sang Hongyang, King Yan and Lord Gai to rebel.
+Su Wu's son Su Yuan conspired with Shangguan An and was killed for the crime.
+
+summary:
+Su Wu returned to Chang'an, honored for his loyalty, though his son was later executed for conspiracy.
+
+================================================================================
+
+Summary line 15
+Span: 375-382 (score=0.4052)
+
+original:
+武所得赏赐，尽以施予昆弟故人，家不余财。
+皇后父平恩侯、帝舅平昌侯、乐昌侯、车骑将军韩增、丞相魏相、御史大夫丙吉皆敬重武。
+武年老，子前坐事死，上闵之，问左右： 武在匈奴久，岂有子乎？
+武因平恩侯自白： 前发匈奴时，胡妇适产一子通国，有声问来，愿因使者致金帛赎之。
+上许焉。
+后通国随使者至，上以为郎。
+又以武弟子为右曹。
+武年八十余，神爵二年病卒。
+
+translation:
+All the rewards and gifts Su Wu received were given to his brothers and old friends, and no property was accumulated at home.
+The queen's father, Ping'enhou Xu Bo, Emperor Xuan's uncle, Changhou Wang Wuyou and Leluhou Wangwu, the chariot general Han Zeng, the prime minister Wei Xiang, and the imperial censor Bingji all respected Su Wu.
+Su Wu was old, and his son Su Yuan committed a crime and was killed. Emperor Xuan felt pity for him and asked his ministers: "Su Wu has been in the Huns for so long. Didn't he have any children?"
+Su Wu stated to Emperor Xuan through Marquis Ping'en: When I returned from the Huns, my Huns wife happened to give birth to a son named Su Tongguo. There happened to be news that I could redeem him with property through the messenger.
+Emperor Xuan agreed.
+Later, Su Tongguo came back with the envoy, and Emperor Xuan appointed him as Lang.
+He also appointed Su Wu's nephew as Youcao.
+Su Wu was in his eighties and died of illness in the second year of Emperor Xuan's reign.
+
+summary:
+He died in his eighties, and his portrait was later placed in the Qilin Pavilion among eleven notable ministers of Emperor Xuan's reign.
+
+================================================================================
+
+Summary line 16
+Span: 390-392 (score=0.4262)
+
+original:
+此言虽小，可以喻大。
+然三代之将，道家所忌，自广至陵，遂亡其宗，哀哉！
+孔子称 志士仁人，有杀身以成仁，无求生以害仁 ， 使于四方，不辱君命 ，苏武有之矣。
+
+translation:
+Although this is a small matter, it can also be said to be a big deal.
+However, the generals of the third generation of the Li family were taboo to Taoists. From Li Guang to Li Ling, the clan members were exterminated. How sad!
+Confucius said that a man with lofty ideals and benevolence should sacrifice his life to achieve benevolence, and do not seek to survive in order to harm benevolence. He can serve in all directions and do not disgrace the king's orders. These moral standards of life are all reflected in Su Wu.
+
+summary:
+The text praises Li Guang's integrity and Su Wu's unwavering loyalty, noting the tragic fate of the Li family and the exemplary virtue of Su Wu.
+
+================================================================================
+

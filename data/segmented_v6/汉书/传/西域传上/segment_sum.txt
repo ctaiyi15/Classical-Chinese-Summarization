@@ -1,0 +1,474 @@
+Summary line 0
+Span: 0-9 (score=0.8192)
+
+original:
+西域以孝武时始通，本三十六国，其后稍分至五十余，皆在匈奴之西，乌孙之南。
+南北有大山，中央有河，东西六千余里，南北千余里。
+东则接汉，厄以玉门、阳关，西则限以葱岭。
+其南山，东出金城，与汉南山属焉。
+其河有两原：一出葱岭出，一出于阗。
+于阗在南山下，其河北流，与葱岭河合，东注蒲昌海。
+蒲昌海，一名盐泽者也，去玉门、阳关三百余里，广袤三四百里。
+其水亭居，冬夏不增减，皆以为潜行地下，南出于积石，为中国河云。
+自玉门、阳关出西域有两道：从鄯善傍南山北，波河西行至莎车，为南道，南道西逾葱岭则出大月氏、安息。
+自车师前王廷随北山，波河西行至疏勒，为北道，北道西逾葱岭则出大宛、康居、奄蔡焉。
+
+translation:
+The Western Regions began to communicate with the Central Plains from the time of Emperor Wu of the Han Dynasty. There were originally thirty-six countries in that area. Later, it was gradually divided into more than fifty kingdoms, all of which were located to the west of the Xiongnu and south of the Wusun.
+The Western Region has large mountains in the north and south, and a river in the center. It is more than 6,000 miles wide from east to west and more than 1,000 miles long from north to south.
+It is connected to the Han Dynasty in the east, with Yumen Pass and Yang Pass as dangerous fortresses, and Congling as the boundary in the west.
+Its Nanshan Mountain starts from Jincheng County and is connected to the Nanshan Mountain of the Han Dynasty.
+Its river has two sources: one originates from Congling Mountain and the other originates from Khotan.
+Khotan is at the foot of Nanshan Mountain. The river flows north, merges with the Congling River, and then flows eastward into the Puchang Sea.
+Puchanghai, also known as Yanze, is more than 300 miles away from Yumenguan and Yangguan. The length and width of the lake are about 300 miles.
+The lake water is stable and does not increase or decrease in winter and summer. The lake water flows underground and emerges from Jishi Mountain to the south, which is the Huanghui in the Central Plains.
+There are two roads from Yumenguan and Yangguan to the Western Regions. From Shanshan, follow the north side of Nanshan and go west along the Tarim River to Yarkand, which is the south road; the south road goes west across Congling to reach Dayuezhi and Anxi.
+From Cheshiqian Wangting, follow the south side of Beishan and go west along the Tarim River to Shule, which is the north road: the north road goes west across Congling to reach Dawan, Kangju, and Yancai.
+
+summary:
+The Western Regions began communication with the Central Plains during Emperor Wu of Han, originally comprising thirty-six countries that later divided into over fifty kingdoms, all located west of the Xiongnu and south of the Wusun. The region spans more than 6,000 miles east to west and over 1,000 miles north to south, bordered by the Han Dynasty to the east with Yumen Pass and Yang Pass as fortresses, and Congling to the west. Its central river has two sources: one from Congling Mountain and another from Khotan, flowing north to merge and eastward into Puchang Sea (also known as Yanze), a stable lake about 300 miles wide. The lake water flows underground, emerging at Jishi Mountain as the Huanghui in the Central Plains. Two main roads lead from Yumen and Yang Pass to the Western Regions: the south road via Shanshan and Yarkand, crossing Congling to reach Dayuezhi and Anxi; the north road via Cheshi and Shule, crossing Congling to reach Dawan, Kangju, and Yancai.
+
+================================================================================
+
+Summary line 1
+Span: 9-33 (score=0.7275)
+
+original:
+自车师前王廷随北山，波河西行至疏勒，为北道，北道西逾葱岭则出大宛、康居、奄蔡焉。
+西域诸国大率土著，有城郭田畜，与匈奴、乌孙异俗，故皆役属匈奴。
+匈奴西边日逐王置僮仆都尉，使领西域，常居焉耆、危须、尉黎间，赋税诸国，取富给焉。
+自周衰，戎狄错居泾渭之北。
+及秦始皇攘却戎狄，筑长城，界中国，然西不过临洮。
+汉兴至于孝武，事征四夷，广威德，而张骞始开西域之迹。
+其后骠骑将军击破匈奴右地，降浑邪、休屠王，遂空其地，始筑令居以西，初置酒泉郡，后稍发徙民充实之，分置武威、张掖、敦煌，列四郡，据两关焉。
+自贰师将军伐大宛之后，西域震惧，多遣使来贡献。汉使西域者益得职。
+于是自敦煌西至盐泽，往往起亭，而轮台、渠犁皆有田卒数百人，置使者校尉领护，以给使外国者。
+至宣帝时，遣卫司马使护鄯善以西数国。
+及破姑师，未尽殄，分以为车师前后王及山北六国。
+时汉独护南道，未能尽并北道也。然匈奴不自安矣。
+其后日逐王畔单于，将众来降，护鄯善以西使者郑吉迎之。
+既至汉，封日逐王为归德侯，吉为安远侯。
+是岁，神爵二年也。
+乃因使吉并护北道，故号曰都护。
+都护之起，自吉置矣。
+僮仆都尉由此罢，匈奴益弱，不得近西域。
+于是徙屯田，田于北胥鞬，披莎车之地，屯田校尉始属都护。
+都护督察乌孙、康居诸外国，动静有变以闻。
+可安辑，安辑之；可击，击之。
+都护治乌垒城，去阳关二千七百三十八里，与渠犁田官相近，土地肥饶，于西域为中，故都护治焉。
+至元帝时，复置戊己校尉，屯田车师前王庭。
+是时，匈奴东蒲类王兹力支将人众千七百余人降都护，都护分车师后王之西为乌贪訾离地以处之。
+自宣、元后，单于称藩臣，西域服从。其土地山川、王侯户数、道里远近，翔实矣。
+
+translation:
+From Cheshiqian Wangting, follow the south side of Beishan and go west along the Tarim River to Shule, which is the north road: the north road goes west across Congling to reach Dawan, Kangju, and Yancai.
+Most of the countries in the Western Regions lived a settled life, with cities, fields, and livestock. They were different from the customs of the Xiongnu and Wusun. They were all enslaved and subordinate to the Xiongnu in the past.
+King Yue Zhu in the western Xiongnu set up a boy servant captain to manage the western regions. He was often stationed in Yanqi, Weixu, Weili and other places, collecting taxes from various countries, and he was very wealthy.
+Since the decline of the Zhou Dynasty, the Rong, Di and other ethnic groups have lived together in the north of the Jingshui and Weishui rivers.
+When Qin Shihuang arrived, he drove away the Rong and Di and built the Great Wall as the border of the Central Plains countries, but the west of Qin did not exceed Lintao County.
+From the establishment of the Western Han Dynasty to the time of Emperor Wu, he managed the surrounding ethnic areas and promoted mighty virtue, so Zhang Qian began to open the road to the Western Regions.
+Later, Husband General Huo Qubing defeated the Xiongnu in the right area, and King Hunxie and Xiutu surrendered. There were no Xiongnu in the right area. The Han Dynasty began to build beacons to the west of Lingju and began to establish Jiuquan County. Later, the people were recruited to live here, and Wuwei, Zhangye, and Dunhuang were established in four counties, and they guarded Yumen and Yangguan Pass.
+Since Li Guangli, the general of the Second Division, attacked Dayuan, all countries in the Western Regions were frightened. Most countries sent envoys to Chang'an to pay tribute. The Han Dynasty's envoys to the Western Regions were increasingly rewarded and promoted.
+So from the west of Dunhuang to Yanze, pavilions and barriers were built everywhere. Hundreds of field soldiers were stationed in Luntai and Quli. Envoys and captains were set up to supervise the field affairs and provide livelihood for the Han Dynasty's envoys to foreign countries.
+During the reign of Emperor Xuan, Wei Sima was assigned to oversee several countries west of Shanshan.
+When it came time to defeat Gu Shi, he did not eliminate them all, but divided them into the former king of Cheshi, the queen of Cheshi, and the six kingdoms of Shanbei.
+At that time, the Han Dynasty only supervised the southern route and did not annex all the northern routes, but the Huns were already feeling very uneasy.
+Later, King Rizhu betrayed Chanyu and led his troops to surrender to the Han Dynasty. Zheng Ji, the envoy of the Han Dynasty who protected Shanshan from the west, met King Rizhu.
+In the Han Dynasty, the Han Dynasty named Zhu Wang as the Marquis of Guide and Zheng Ji as the Marquis of Anyuan.
+This year is the third year of Shenjue.
+The Han Dynasty sent Zheng Ji to protect the North Road, so it was called "Duhu".
+The establishment of the Protectorate began with Zheng Ji.
+The Xiongnu's child servant captain originally stationed in the Western Regions has since been dismissed. The Xiongnu has become even weaker and cannot approach the Western Regions.
+So the Han Dynasty moved the people to farm in Beixu Tar, dividing the land of Shache. From then on, the military commander of the farm began to belong to the military guard.
+The Protectorate monitors the situation in Wusun, Kangju and other foreign countries, and reports to the emperor immediately if there is any movement.
+Soothe those who can be soothed; strike those who need to be struck.
+The Protector is stationed in Wulei City, which is 2,738 miles away from Yangguan. It is close to the field officers of Quli. The land is fertile and in the center of the Western Region, so the Protector is stationed here.
+During the reign of Emperor Yuan Dynasty, Wuji Xiaowei was appointed to man the fields in front of the officials.
+At this time, Wang Zilizhi of Baotui Dongpu led more than 1,700 people to surrender to the guardian. The guardian divided the land to the west of the queen of the Che Division for Wu Tan Zi Li's country, and arranged for the branch to live there.
+Since the Xuancha and Wutong period, Li Sculpture Chanyu Xianghui has been called a vassal, and Youhan has also obeyed Hemu. The land, mountains, rivers, princes, household registrations, and distances of roads in Youqiu have all been recorded in detail.
+
+summary:
+Most Western Region countries were settled, with cities, fields, and livestock, distinct from Xiongnu and Wusun customs. They were historically enslaved by the Xiongnu, who appointed a boy servant captain to manage the region, collecting taxes from various countries. After the Zhou Dynasty's decline, Rong and Di ethnic groups lived north of the Jingshui and Weishui rivers. Qin Shihuang drove them out and built the Great Wall, but the west did not exceed Lintao County. From the Western Han's establishment to Emperor Wu, Zhang Qian opened the road to the Western Regions. Later, Huo Qubing defeated the Xiongnu, leading to the surrender of King Hunxie and Xiutu. The Han Dynasty built beacons west of Lingju, established Jiuquan County, and later recruited people to settle in Wuwei, Zhangye, and Dunhuang, guarding Yumen and Yang Pass. After Li Guangli attacked Dayuan, Western Region countries sent envoys to Chang'an. The Han Dynasty built pavilions and barriers from Dunhuang to Yanze, stationed field soldiers in Luntai and Quli, and set up envoys and captains to supervise farming. During Emperor Xuan's reign, Wei Sima oversaw several countries west of Shanshan. After defeating Gu Shi, the Han Dynasty divided it into the former and latter kings of Cheshi and the six kingdoms of Shanbei, initially supervising only the southern route. Later, King Rizhu betrayed Chanyu and surrendered to the Han Dynasty. Zheng Ji, the envoy protecting Shanshan, met King Rizhu, and both were granted marquis titles. The Han Dynasty established the Protectorate, beginning with Zheng Ji, who protected the North Road. The Xiongnu's child servant captain was dismissed, weakening the Xiongnu. The Han Dynasty moved people to farm in Beixu Tar, dividing Shache's land. The Protectorate monitored Wusun, Kangju, and other foreign countries, stationed in Wulei City, 2,738 miles from Yangguan, due to its fertile land and central location. During Emperor Yuan's reign, Wuji Xiaowei was appointed to man fields. Wang Zilizhi of Baotui Dongpu surrendered with over 1,700 people, and the Protectorate allocated land for them. Since the Xuancha and Wutong period, Li Sculpture Chanyu Xianghui became a vassal, and details of land, mountains, rivers, and distances were recorded.
+
+================================================================================
+
+Summary line 2
+Span: 30-48 (score=0.4979)
+
+original:
+都护治乌垒城，去阳关二千七百三十八里，与渠犁田官相近，土地肥饶，于西域为中，故都护治焉。
+至元帝时，复置戊己校尉，屯田车师前王庭。
+是时，匈奴东蒲类王兹力支将人众千七百余人降都护，都护分车师后王之西为乌贪訾离地以处之。
+自宣、元后，单于称藩臣，西域服从。其土地山川、王侯户数、道里远近，翔实矣。
+出阳关，自近者始，曰婼羌。
+婼羌国王号去胡来王。
+去阳关千八百里，去长安六千三百里，辟在西南，不当孔道。
+户四百五十，口千七百五十，胜兵者五百人。
+西与且末接。
+随畜逐不草，不田作，仰鄯善、且末谷。
+山有铁，自作兵，后有弓、矛、服刀、剑、甲。
+西北至鄯善，乃当道云。
+鄯善国，本名楼兰，王治扞泥城，去阳关千六百里，去长安六千一百里。
+户千五百七十，口万四千一百，胜兵二千九百十二人。
+辅国侯、却胡侯、鄯善都尉、击车师都尉、左右且渠、击车师君各一人，译长二人。
+西北去都护治所千七百八十五里，至墨山国千三百六十五里，西北至车师千八百九十里。
+地沙卤，少田，寄田仰谷旁国。
+国出玉，多葭苇、柽柳、胡桐、白草。
+民随率牧逐水草，有驴马，多橐它。
+
+translation:
+The Protector is stationed in Wulei City, which is 2,738 miles away from Yangguan. It is close to the field officers of Quli. The land is fertile and in the center of the Western Region, so the Protector is stationed here.
+During the reign of Emperor Yuan Dynasty, Wuji Xiaowei was appointed to man the fields in front of the officials.
+At this time, Wang Zilizhi of Baotui Dongpu led more than 1,700 people to surrender to the guardian. The guardian divided the land to the west of the queen of the Che Division for Wu Tan Zi Li's country, and arranged for the branch to live there.
+Since the Xuancha and Wutong period, Li Sculpture Chanyu Xianghui has been called a vassal, and Youhan has also obeyed Hemu. The land, mountains, rivers, princes, household registrations, and distances of roads in Youqiu have all been recorded in detail.
+Going west out of Yangguan, starting from the nearest, is Laoqiang.
+The name of the king of Waqiang is the King of Quhu Lai.
+It is 1,800 miles from Yangguan and 6,300 miles from Chang'an. It is in a remote place in the southwest and is not on the main road.
+There are 450 households, 1,750 people, and 500 troops.
+The west is connected with Qiemo.
+They live with their livestock chasing water and grass, do not farm, and rely on Shanshan, which does not provide food.
+The mountains produce iron, and they make their own weapons, including bows, spears, knives, swords, and armor.
+Northwest to Shanshan, Shanshan is on the main road.
+The Shanshan Kingdom, formerly known as Loulan, was governed by the king of Shanni City, which stretched 1,600 miles from Yangguan to the east and 6,100 miles from Chang'an.
+There are 1,570 households, a population of 14,100, and an army of 2,912.
+There are Fu Guohou, Quehuhou, Shanshan Duwei, Chauchushi Duwei, Zuo Qiequ, You Qiequ, Chache Shijun, one each, and two translators.
+The northwest is 1,785 miles from Wulei City, the headquarters of the Western Region Protectorate, the northwest is 1,365 miles from Shanguo, and the northwest is 1,890 miles from Cheshi.
+The place is rich in sand and saltwater and has few fields, so we plant fields and buy grain in nearby countries.
+It produces jade, many reeds, willow, tung trees, and white grass.
+The people lived with their livestock chasing water and grass, and they gave birth to donkeys, horses, and many camels.
+
+summary:
+Starting from the nearest west of Yangguan, the Laoqiang Kingdom had 450 households, 1,750 people, and 500 troops, living with livestock and not farming. The Shanshan Kingdom (formerly Loulan) had 1,570 households, 14,100 people, and 2,912 troops, with officials including Fu Guohou and translators. It produced jade, reeds, and willow, and its people lived with livestock.
+
+================================================================================
+
+Summary line 3
+Span: 48-71 (score=0.5529)
+
+original:
+民随率牧逐水草，有驴马，多橐它。
+能作兵，与婼羌同。
+初，武帝咸张骞之言，甘心欲通大宛诸国，使者相望于道，一岁中多至十余辈。
+楼兰、姑师当道，苦之，攻劫汉使王恢等，又数为匈奴耳目，令其兵遮汉使。
+汉使多言其国有城邑，兵弱易击。
+于是武帝遣从票侯赵破奴将属国骑及郡兵数万击姑师。
+王恢数为楼兰所苦，上令恢佐破奴将兵。
+破奴与轻骑七百人先至，虏楼兰王遂破姑师，因暴兵威以动乌孙、大宛之属。
+还，封破奴为浞野侯，恢为浩侯。
+于是汉列亭障至玉门矣。
+楼兰既降服贡献，匈奴闻，发兵击之。
+于是楼兰遣一子质匈奴，一子质汉。
+后贰师军击大宛，匈奴欲遮之，贰师兵盛不敢当，即遣骑因楼兰候汉使后过者，欲绝勿通。
+时汉军正任文将兵屯玉门关，为贰师后距，捕得生口，知状以闻。
+上诏文便道引兵捕楼兰王。
+将指阙，簿责王，对曰： 小国在大国间，不两属无以自安。
+愿徙国入居汉地。
+上直其言，遣归国，亦因使候司匈奴。
+匈奴自是不甚亲信楼兰。
+征和元年，楼兰王死，国人来请质子在汉者，欲立之。
+质子常坐汉法，下蚕室宫刑，故不遣。
+报曰： 侍子，天子爱之，不能遣。
+其更立其次当立者。
+楼兰更立王，汉复责其质子，亦遣一子质匈奴。
+
+translation:
+The people lived with their livestock chasing water and grass, and they gave birth to donkeys, horses, and many camels.
+Can make weapons, the same as wax Qiang.
+At first, Emperor Wu of the Han Dynasty was moved by Zhang Qian's words and was very willing to communicate with other countries in Dawan. The envoys he sent could see each other on the road. There were so many envoys that there could be more than ten batches a year.
+Lou Lan and Gu Shi were located on the main road. Feeling the hard work of supplying the envoys, they attacked and robbed the Han envoy Wang Hui and others. They also acted as eyes and ears for the Huns several times, allowing the Huns to intercept the Han envoys.
+Most of the envoys from the Han Dynasty said that there were cities in Gushi and Loulan, and their troops were weak and easy to attack.
+So Emperor Mowu sent Zhao Ponu, the Marquis of Piao, to lead tens of thousands of Han ethnic minority cavalry and desert soldiers from the county to attack Gushi.
+Wang Hui was attacked by Loulan several times, so Emperor Wu ordered him to help Zaponu lead his troops.
+Wang Hui and his 700 Qing cavalrymen went to Loulan first and captured the King of Loulan. Then he defeated Gu Shi and showed off his military power to shake up Wusun, Dawan and others.
+They returned to Chang'an, and Emperor Wu made Zhao Ponu the Marquis of Zhuoye and Wang Hui the Marquis of Hao.
+So the Han Dynasty built pavilions and barriers westward to Yumen Pass.
+Loulan had surrendered to the Han Dynasty and paid tribute. When the Xiongnu learned about it, they sent troops to attack.
+So King Loulan sent one of his sons to the Huns as a hostage, and another son to the Han Dynasty as a hostage.
+Later, General Ershi attacked Dawan, and the Xiongnu wanted to intercept the Han army. However, the Han army was so powerful that the Xiongnu did not dare to resist, so they sent knights to borrow Loulan's help to wait for the Han envoys who were walking behind, and stopped them from passing.
+At that time, Ren Wen of the Han army led his troops to garrison at Yumen Pass and served as the rear guard of the general of the Second Division. He captured prisoners and reported the situation to Emperor Wu.
+Emperor Wu ordered Ren Wen to lead troops from Xiaolu to arrest King Loulan.
+King Loulan was taken to the Han Palace and questioned one by one according to the book. King Loulan said: A small country is sandwiched between big countries. If it does not adopt the approach of two subordinates, it will not be able to secure itself.
+I hope that my country will be moved to the territory of the Han Dynasty.
+Emperor Wu thought his words were straightforward, so he sent him back to his country and also asked Loulan to spy on the Xiongnu's movements.
+From then on, the Huns did not trust Loulan very much.
+In the first year of Zhenghe, King Loulan died. The people of Loulan came to invite the hostage in the Han Dynasty to return to their country and make him king.
+The hostage often violated Han law and was sent to the silkworm room and executed by castration, so he could not be sent back.
+He replied to Loulan: "The servant is very popular with the emperor, so I cannot send him back to his country."
+You can establish a person who should be established.
+Loulan established a new king, and the Han Dynasty asked King Loulan to send a proton, and King Loulan also sent a proton to the Xiongnu.
+
+summary:
+Initially, Emperor Wu was moved by Zhang Qian's words and sent many envoys to Dawan. Loulan and Gushi, on the main road, attacked Han envoys and acted as Xiongnu spies. Emperor Wu sent Zhao Ponu and Wang Hui to attack Gushi and capture the King of Loulan, leading to the construction of pavilions west to Yumen Pass. Loulan surrendered but later sent hostages to both the Han and Xiongnu. After King Loulan died, the Han Dynasty could not send back a castrated hostage, leading to a new king who declined to visit the Han emperor. Later, Wei Tuqi, the king's brother, surrendered to the Han Dynasty. In the fourth year of Yuanfeng, Fu Jiezi assassinated King Loulan, established Wei Tuqi as king, and renamed the country Shanshan. The Han Dynasty sent a Sima and forty officials to garrison Yixun, marking the beginning of official establishment there. Shanshan was a strategic point on the road to the Western Regions, with various countries like Qiemo, Xiaowan, Jingjue, Ronglu, Shanmi, Qule, Khotan, Pishan, Wushuo, Xiye, Puli, Yinai, Wulei, Nandou, and Jibin, each with specific populations, troops, and distances from Chang'an.
+
+================================================================================
+
+Summary line 4
+Span: 201-234 (score=0.4809)
+
+original:
+圣王分九州，制五服，务盛内，不求外。
+今遣使者承至尊之命，送蛮夷之贾，劳吏士之众，涉危难之路，罢弊所恃以事无用，非久长计也。
+使者业已受节，可至皮山而还。
+于是凤白从钦言。
+罽宾实利赏赐贾市，其使数年而一至云。
+乌弋山离国，王去长安万二千二百里。
+不属都护。
+户口胜兵，大国也。
+东北至都护治所六十日行，东与罽宾、北与扑挑、西与犁靬、条支接。
+行可百余日，乃至条支。
+国临西海，暑湿，田稻。
+有大鸟，卵如瓮。
+人众甚多，往往有小君长，安息役属之，以为外国。
+善眩。
+安息长老传闻条支有弱水、西王母，亦未尝见也。
+自条支乘水西行，可百余日，近日所入云。
+乌戈地暑热莽平，其草木、畜产、五谷、果菜、食饮、宫室、市列、钱货、兵器、金珠之属皆与罽宾同，而有桃拔、师子、犀子。
+俗重妄杀。
+其钱独文为人头，幕为骑马。
+以金银饰杖。
+绝远，汉使希至。
+自玉门、阳关出南道，历鄯善而南行，至乌弋山离，南道极矣。
+转北而东得安息。
+安息国，王治番兜城，去长安万一千六百里。
+不属都护。
+北与康居、东与乌弋山离、西与条支接。
+土地风气，物类所有，民俗与乌弋、罽宾同。
+亦以银为钱，文独为王面，幕为夫人面。
+王死辄更铸钱。
+有大马爵。
+其属小大数百城，地方数千里，最大国也。
+临妫水，商贾车船行旁国。
+书草，旁行为书记。
+武帝始遣使至安息，王令将将二万骑迎于东界。
+
+translation:
+The Holy King divided the world into Kyushu and formulated the Five Services. His main purpose was to prosper the interior and not to seek outside.
+Today's envoys are ordered by the emperor to escort the barbarian merchants, toil the officials and soldiers, and to trudge on the dangerous road. The Central Plains are exhausted, and what they do is useless. This is not a strategy for long-term peace and stability.
+Now that the envoy has accepted the emperor's dispatch, he can send it to Pishan and come back.
+Wang Feng reported to the Queen Mother and accepted Du Qin's suggestion.
+The kitchen guests were indeed greedy for the Han emperor's rewards and business, so they sent a group of envoys every few years.
+Wuyi Mountain leaves the country and reaches Kensai 12,200 miles east.
+Does not belong to the Youqiu Protector.
+Judging from the households and the army, it is a big country.
+It takes sixty days to travel from the northeast to the Youqiu Capital Protectorate. It connects the Shu and the Bin, the north and the Tatsu, and the west and the whole bridge and the building.
+It takes more than a hundred days to travel west from Wuyi Mountain to Tiaozhi.
+Tiaozhi is close to the West Sea to the west and has a hot and humid climate, so rice is grown.
+There are camel crows, and the eggs are the same as urns and pots.
+The population was large, divided into many small chiefs, all belonging to Parthia and foreign.
+Good at magic.
+The old man who rested in peace said that there was Ruoshui and Queen Mother of the West in Tiaozhi, but he had never seen them.
+Taking a boat from Tiaozhi to the west, it takes more than a hundred days to reach the place where the sun sets.
+Wuyi is hot and hot, with flat terrain and lush vegetation. Plants, livestock, grains, fruits and vegetables, food and drink, palaces, markets, currency, weapons, gold beads, etc. are all the same as the kitchen guests, as well as peach trees, lions, and rhinos.
+Customs prohibit indiscriminate killing.
+The coin has a portrait on the front and a horseback riding pattern on the back.
+Decorate the staff with gold and silver.
+It was very far away from the Han Dynasty, and Han envoys rarely came here.
+Baiyumenguan and Yangguan follow the South Road, pass through Shanshan and go south to Wuyi Mountain, which is the end of the South Road.
+Turn north and east to reach rest.
+In the Anxi Kingdom, the king ruled the city of Fandou, which was 11,600 miles away from Chang'an.
+It does not belong to the Western Region Protector.
+It is connected to Kangju in the north, Shu and Wuyishanli, and Tiaozhi in the west.
+The land, climate, products, and folk customs are the same as those of Wuyi and Weibin.
+Silver coins are also used, with the king's head on the front and the lady's head on the back.
+After the king's death, money was minted.
+There are ostriches.
+The king has hundreds of cities, large and small, and a territory of thousands of miles. It is a very big country.
+Near Yanshui, merchants and merchants used cars and ships to trade with nearby countries.
+Written on leather paper, the text is written horizontally.
+Emperor Wu of the Han Dynasty began to send envoys to Parthia. At that time, the king ordered a general to lead 20,000 cavalry to the eastern border to greet them.
+
+summary:
+Jibin, a large country not under the Western Region Protector, had a mild climate, produced various crops and metals, and had a market with gold and silver coins. The Han Dynasty's communication with Jibin began under Emperor Wu, but later conflicts arose, including the killing of Han envoys. Du Qin advised against further engagement due to the dangers and costs, and the Han Dynasty eventually limited contact. Wuyi Mountain, another large country, had similar customs to Jibin, with a hot climate and lush vegetation. Anxi Kingdom, a very large country with hundreds of cities, used silver coins and had a written language. Emperor Wu sent envoys to Parthia, who were greeted by a general with 20,000 cavalry.
+
+================================================================================
+
+Summary line 5
+Span: 237-258 (score=0.5965)
+
+original:
+大月氏国，治监氏城，去长安万一千六百里。
+不属都护。
+户十万，口四十万，胜兵十万人。
+东至都护治所四千七百四十里，西至安息四十九日行，南与罽宾接。
+土地风气，物类所有，民俗钱货，与安息同。
+出一封橐驼。
+大月氏本行国也，随畜移徙，与匈奴同俗。
+控弦十余万，故强轻匈奴。
+本居敦煌、祁连间，至昌顿单于攻破月氏，而老上单于杀月氏，以其头为饮器，月氏乃远去，过大宛，西击大夏而臣之，都妫水北为王庭。
+其余小众不能去者，保南山羌，号小月氏。
+大夏本无大君长，城邑往往置小长，民弱畏战，故月氏徙来，皆臣畜之，共禀汉使者。
+有五翕侯：一曰休密翕侯，治和墨城，去都护二千八百四十一里，去阳关七千八百二里；二曰双靡翕侯，治双靡城，去都护三千七百四十一里，去阳关七千七百八十二里；三曰贵霜翕侯，治护澡城，去都护五千九百四十里，去阳关七千九百八十二里，四曰肸顿翕侯，治薄茅城，去都护五千九百六十二里，去阳关八千二百二里；五曰离附翕侯，治高附城，去都护六千四十一里，去阳关九千二百八十三里。
+凡五翕侯，皆属大月氏。
+康居国，王冬治乐越匿地。
+到卑阗城。
+去长安万二千三百里。
+不属都护。
+至越匿地马行七日，至王夏所居蕃内九千一百四里。
+户十二万，口六十万，胜兵十二万人。
+东至都护治所五千五百五十里。
+与大月氏同俗。
+东羁事匈奴。
+
+translation:
+In Dayuezhi Kingdom, the city of Jianshi was governed and extended to Chang'an for 11,600 miles.
+It does not belong to the Western Region Protector.
+There are 100,000 households, 400,000 people, and 100,000 troops.
+It is 4,740 miles from Wulei City, where the governor of the Western Regions is located, to Xi'an in the west, a journey of forty-nine days, and to Shanbin in the south.
+The land, climate, products, folk customs, and coins are the same as those of Parthia.
+A camel gives birth to a single peak.
+The Dayuezhi were originally a nomadic country and moved with their livestock, which was the same custom as the Xiongnu.
+There were more than 100,000 warriors who could shoot arrows, so they thought they were powerful and despised the Huns.
+Originally lived between Dunhuang and Qilian Mountains. When the Xiongnu came to Maodun Chanyu, they defeated the Yuezhi. Maodun's son Laoshang Chanyu also killed the Yuezhi king and used the king's head to make a bowl. The Yuezhi people were forced to flee westward, crossed Dawan, and then attacked the west and surrendered to Daxia, establishing their capital north of Mashui.
+A small number of Yuezhi people did not leave and relied on the Nanshan Qiang people, called Xiao Yuezhi.
+The Daxia people originally had no unified king, and each city established its own small chief. The people were weak and afraid of fighting. Therefore, when the Yuezhi people moved in, they all surrendered, and both Da Yuezhi and Daxia were under the control of the Han Dynasty.
+Daxia is divided into five tribes, each with its own marquis: the first is Xiumi Linghou, who governs Hemo City, and is sent to Wulei City, where the Western Regions Dufu is located, for 2,841 miles, and to Yangguan, which is 7,802 miles away; the second is Shuangmi Linghou, who governs Shuangmi City, and is sent to the Duhu Office for 3,741 miles and to Yangguan, which is 7,782 miles away; the third is Guishuang Linghou, who is responsible for protecting baths. The city is bound to the Duhu Zhizhi for 5,940 miles, and to Yangguan Qiding and 982 miles; the fourth is Gandun Linghou, who governs Bomao City, the east is 5,962 miles to the Guanhu Zhizhi, and the Yangguan 8,202 miles; the fifth is Gaofu Linghou, who governs Gaofu City, and is bound to the Duhu Zhiqi Qi for 1,041 miles, and to Yangguan 9,283 miles.
+There are a total of Linghous in Qiu, all of whom belong to Dayue clan.
+In the country of Kangju, the king took pleasure in the winter and went into hiding.
+Arrive at the city of Bhotan.
+It was raked 12,300 miles to Chang'an.
+It does not belong to the Western Region Protector.
+It takes seven days to ride on horseback to reach the land of Linni, and it is 9104 miles to Fannei, where the king lives in summer.
+There are 120,000 households, 600,000 people, and 120,000 soldiers.
+From the east to Wulei City, where the Western Region Protectorate is located, it is 5,550 miles.
+The custom is the same as that of Da Yueshi.
+The east side was restrained by the Xiongnu.
+
+summary:
+Dayuezhi, originally a nomadic country, was defeated by the Xiongnu and moved west to Daxia, establishing their capital. Daxia was divided into five tribes, each with its own marquis, all belonging to Dayuezhi. Kangju, with 120,000 households and 600,000 people, had customs similar to Dayuezhi and was restrained by the Xiongnu.
+
+================================================================================
+
+Summary line 6
+Span: 255-276 (score=0.3941)
+
+original:
+户十二万，口六十万，胜兵十二万人。
+东至都护治所五千五百五十里。
+与大月氏同俗。
+东羁事匈奴。
+宣帝时，匈奴乖乱，五单于并争，汉拥立呼韩邪单于，而郅支单于怨望，杀汉使者，西阻康居。
+其后都护甘延寿、副校尉陈汤发戊己校尉西域诸国兵至康居，诛灭郅支单于，语在《甘延寿、陈汤传》。
+是岁，元帝建昭三年也。
+至成帝时，康居遣子侍汉，贡献，然自以绝远，独骄嫚，不肯与诸国相望。
+都护郭舜数上言： 本匈奴盛时，非以兼有乌孙、康居故也；及其称臣妾，非以失二国也。
+汉虽皆受其质子，然三国内相输遗，交通如故，亦相候司，见便则发；合不能相亲信，离不能相臣役。
+以今言之，结配乌孙竟未有益，反为中国生事。
+然乌孙既结在前，今与匈奴俱称臣，义不可距。
+而康居骄黠，讫不肯拜使者。
+都护吏至其国，坐之乌孙诸使下，王及贵人先饮食已，乃饮啖都护吏，故为无所省以夸旁国。
+以此度之，何故遣子入侍？
+其欲贾市为好，辞之诈也。
+匈奴百蛮大国，今事汉其备，闻康居不拜，且使单于有自下之意，宜归其侍子，绝勿复使，以章汉家不通无礼之国。
+敦煌、酒泉小郡及南道八国，给使者往来人、马、驴、橐驼食，皆苦之。
+空罢耗所过，送迎骄黠绝远之国，非至计也。
+汉为其新通，重致远人。终羁縻而未绝。
+其康居西北可二千里，有奄蔡国。
+控弦者十余万人。
+
+translation:
+There are 120,000 households, 600,000 people, and 120,000 soldiers.
+From the east to Wulei City, where the Western Region Protectorate is located, it is 5,550 miles.
+The custom is the same as that of Da Yueshi.
+The east side was restrained by the Xiongnu.
+During the reign of Emperor Xuan of the Han Dynasty, the Xiongnu were in civil strife, and the five Chanyus fought against each other. In the Han Dynasty, Yong established Huhanxie Danzi, and the Zhizhi Chanyu was dissatisfied with Xuan, and killed Xuan's envoy Yin, confronting Xuan with the dangers of Chen day.
+Later, the commander-in-chief of Xiyu, Ju Yanci, and the deputy principal Wei Su were appointed governor. Dang sent Wuji Xiaowei and soldiers from the Youyue kingdoms to hide in the dust, and killed Zhizhi Shanyu. This incident is recorded in "The Biography of Gan Yanshou" and "The Biography of Chen Tang".
+This year is the third year of Hutong Jianzhao.
+When he became emperor, King Kangju sent his prince to Chang'an to serve the emperor and contribute gifts. However, Bai thought that his country was far away from the Han, so he was arrogant and arrogant, and refused to treat the Han like other countries.
+Guo Shun, the governor of the Western Regions, wrote to the emperor several times, saying: When the Xiongnu was strong, it was not because they had Wusun and Kangju; later the Xiongnu became vassal to Mo, nor was it because they lost Wusun and Kangju.
+Although the Han Dynasty accepted the hostages of these three countries, these three countries still communicated with each other behind the scenes, and when they saw opportunities, they started to cause trouble. These three kingdoms will not be very close together, nor can they surrender to each other if they are apart.
+Taking today's situation as an example: there is no benefit to our alliance with Wusun. On the contrary, it will cause trouble for our government.
+However, Wusun has united with us before, and today together with the Xiongnu, they have submitted to our court. From a moral point of view, they cannot refuse.
+But Kang Ju was arrogant and unruly, and actually refused to worship the envoys of the Han Dynasty.
+The Duhu sent officials to their country, and they competed to let our officials sit under the envoys from Wusun and other countries. After the king and the nobles had finished eating, they only let the officials of the Duhu eat, deliberately ignoring the Han envoys to show off to other countries.
+Inferring from these things, why did they send princes to serve the emperor?
+They just want to do business, and all the good things they say are lies.
+The Xiongnu is a big country among hundreds of barbarians, and their courtesy to the Han is very considerate today.
+When they heard that Kang Ju did not pay homage to the Mo envoy, Shan Zi felt that serving the Han was too low. Kang Ju's servants should be allowed to go back and no longer communicate with Kang Ju. This can show that our Han Dynasty will not associate with countries that are rude and righteous. Dunhuang, the small counties of Jiuquan, and the eight southern countries were in great difficulty in providing food and drink for the envoys, horses, donkeys, and camels.
+This is an area that has been passed by, and it is not a wise strategy to send foreigners who are arrogant and far away.
+However, the imperial court used the reason that Kang Ju had just arrived as envoy and advocated the principle of attracting people from far away, so it adopted the policy of restraint and did not sever ties with Kang Ju.
+About two thousand miles northwest from Kangju, there is the state of Yancai.
+There are more than 100,000 warriors who can shoot arrows.
+
+summary:
+During Emperor Xuan's reign, the Han Dynasty killed Zhizhi Chanyu. Under Emperor Cheng, King Kangju was arrogant, and the Protectorate recommended cutting ties, but the court maintained relations. Yancai, northwest of Kangju, had over 100,000 warriors and customs similar to Kangju.
+
+================================================================================
+
+Summary line 7
+Span: 282-293 (score=0.4163)
+
+original:
+户六万，口三十万，胜兵六万人。
+副王、辅国王各一人。
+东至都护治所四千三十一里，北至康居卑阗城千五百一十里，西南至大月氏六百九十里。
+北与康居、南与大月氏接，土地风气物类民俗与大月氏、安息同。
+大宛左右以蒲陶为酒，富人藏酒至万余石，久者至数十岁不败。
+俗耆酒，马耆目宿。
+宛别邑七十余城，多善马。
+马汗血，言其先天马子也。
+张骞始为武帝言之，上遣使者持千金及金马，以请宛善马。
+宛王以汉绝远，大兵不能至，爱其宝马不肯与。
+汉使妄言，宛遂攻杀汉使，取其财物。
+于是天子遣贰师将军李广利将兵前后十余万人伐宛，连四年。
+
+translation:
+There are 60,000 households, a population of 300,000, and an army of 60,000.
+There is one deputy king and one assistant king.
+It stretches 4,031 miles to Wulei City, the headquarters of the Western Regions Governor, in the east, 1,510 miles to Kangju Beitian City in the north, and 690 miles to Dayuezhi in the southwest.
+It is connected to Kangju in the north and Dayuezhi in the south. Its land, climate, products and folk customs are the same as those of Dayuezhi and Anxi.
+The people of Dawan all use grapes to make wine. Rich families have wine that can store more than 10,000 dan, and the wine will last for decades.
+People like to drink wine, and horses like to eat alfalfa.
+There are more than seventy cities in Wanyu, and there are many good horses.
+The horse's sweat is red, and it is said that the ancestor of this horse is the son of Tianma.
+Zhang Qian then reported the situation in Dayuan to Emperor Wu of the Han Dynasty. Emperor Wu of the Han Dynasty sent an envoy with a thousand pieces of gold and gold horses to Dayuan to ask for good horses.
+King Wan thought that the Han Dynasty was too far away and Han soldiers could not reach Dayuan. He loved his BMW and refused to give it to the Han Dynasty.
+The envoy from Mo insulted King Wan, so Dawan attacked and killed the envoy from Han and seized the property of the envoy from Mo.
+Emperor Wu of the Han Dynasty sent General Li Guang of the Second Division to lead more than 100,000 troops to attack Dawan, and the attack continued for four years.
+
+summary:
+Dayuan, with 60,000 households and 300,000 people, produced good horses and used grapes for wine. Emperor Wu sent Li Guangli to attack Dayuan, resulting in the dedication of two Pegasus horses annually.
+
+================================================================================
+
+Summary line 8
+Span: 297-311 (score=0.7129)
+
+original:
+又发使十余辈，抵宛西诸国求奇物，因风谕以伐宛之威。
+宛王蝉封与汉约，岁献天马二匹。
+汉使采蒲陶、目宿种归。
+天子以天马多，又外国使来众，益种蒲陶、目宿离宫馆旁，极望焉。
+自宛以西至安息国，虽颇异言，然大同，自相晓知也。
+其人皆深目，多须髯。
+善贾市，争分铢。
+贵女子，女子所言，丈夫乃决正。
+其地无丝漆，不知铸铁器。
+及汉使亡卒降，教铸作它兵器。
+得汉黄白金，辄以为器，不用为币。
+自乌孙以西至安息，近匈奴。
+匈奴尝困月氏，故匈奴使持单于一信到国，国传送食，不敢留苦。
+及至汉使，非出币物不得食，不市畜不得骑，所以然者，以远汉，而汉多财物，故必市乃得所欲。
+及呼韩邪单于朝汉，后咸尊汉矣。
+
+translation:
+The Han Dynasty also sent more than ten groups of envoys to various countries west of Dayuan to search for rare property and show off the military power of the expedition against Dayuan.
+Wan Wang Chanfeng made an appointment with the Han Dynasty and dedicated two Pegasus horses to the Han Dynasty every year.
+The desert envoy collected some grape and alfalfa seeds and brought them back to Chang'an.
+Because the emperor had many horses and envoys from foreign countries, he expanded the planting of grapes and alfalfa next to the palace annex, so that it could be seen as far as the eye could see.
+From Dawan to the west to Parthia, the residents along the way have different languages, but they are similar and they can understand each other's meaning.
+The people in this bundle all have deep-set eyes and long beards.
+He is good at doing business and will fight for every detail.
+A noble woman; a man will do what a woman says.
+This is wrapped in silk and lacquer, but I don't know if it's cast iron.
+Later, the Han sent the escaped soldiers to live in the local area and taught these people how to forge iron tools and weapons.
+They obtained gold and silver from the Han Dynasty, which were used as utensils and not as coins.
+From Wusun, go west to Parthia, close to the Xiongnu.
+The Xiongnu once created hardships for the Yuezhi, so as long as the Xiongnu sent someone with a letter from Shanyu, the Yuezhi would quickly deliver food, not daring to neglect and fear hardship.
+But for the Han envoys who came, if they didn't give them property, they wouldn't be given food, and if they didn't buy livestock, they wouldn't have horses to ride on. So, just because the Han Dynasty was far away and had a lot of property, they couldn't get what they wanted without buying it.
+After Hu Hanxie Chanyu submitted to the Han Dynasty, these countries all respected the Han Dynasty.
+
+summary:
+From Dawan to Parthia, residents had different languages but similar customs, with deep-set eyes and long beards. They were skilled in business and obtained gold and silver from the Han Dynasty. After Huhanxie Chanyu submitted to the Han Dynasty, these countries respected the Han. Various other kingdoms like Taohua, Xiuxun, Zhendu, Shache, Shule, and Weitou had specific populations, troops, and distances, with some farming and raising livestock.
+
+================================================================================
+

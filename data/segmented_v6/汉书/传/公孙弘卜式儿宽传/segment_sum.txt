@@ -1,0 +1,338 @@
+Summary line 0
+Span: 0-6 (score=0.6540)
+
+original:
+公孙弘，菑川薛人也。
+少时为狱吏，有罪，免。
+家贫，牧豕海上。
+年四十余，乃学《春秋》杂说。
+武帝初即位，招贤良文学士，是时，弘年六十，以贤良征为博士。
+使匈奴，还报，不合意，上怒，以为不能，弘乃移病免归。
+元光五年，复征贤良文学，菑川国复推上弘。
+
+translation:
+Gongsun Hong was born in Xue County, Sichuan State.
+He worked as a jailer when he was young. Removed from office for committing a crime.
+Because his family was poor, he made a living by herding pigs on the beach.
+When he was in his forties, he began to study "Spring and Autumn" and miscellaneous treatises of various schools.
+When Emperor Wu of the Han Dynasty first came to the throne, he recruited virtuous and literary people. At this time, Gongsun Hong was sixty years old and got a doctorate as a virtuous and literary person.
+He was sent as an envoy to the Huns and returned to the court to report, which was not in line with the emperor's wishes. Emperor Wu was very angry and thought he was incompetent, so Gongsun Hong wrote a letter claiming to be ill and was dismissed from office and returned to his hometown.
+In the fifth year of Yuanguang, Emperor Wu of the Han Dynasty once again selected virtuous literary people, and Dong Weihui once again recommended Gong Zhucong.
+
+summary:
+Gongsun Hong, born in Xue County, Sichuan State, began his career as a jailer but was dismissed for a crime. Left impoverished, he herded pigs until his forties, when he started studying the "Spring and Autumn" and various philosophical texts. At sixty, he was recruited as a virtuous and literary person under Emperor Wu of Han, but his mission to the Huns displeased the emperor, leading to his dismissal. In the fifth year of Yuanguang, he was recommended again and, despite initial reluctance, presented a detailed policy response.
+
+================================================================================
+
+Summary line 1
+Span: 45-48 (score=0.1362)
+
+original:
+弘复上疏曰： 陛下有先圣之位而无先圣之名，有先圣之民而无先圣之吏，是以势同而治异。
+先世之吏正，故其民笃；今世之吏邪，故其民薄。
+政弊而不行，令倦而不听。
+夫使邪吏行弊政，用倦令治薄民，民不可得而化，此治之所以异也。
+
+translation:
+Gongsun Hong once again wrote to Shu and said: Your Majesty has the position of the First Sage but not the reputation of the First Sage, and has the reputation of the First Sage but does not have the officials of the First Sage. Therefore, your Majesty is in the same situation as the First Sage, but the results of his governance are different.
+In the past, the officials were honest, so the people were loyal; now, the officials are greedy, so the people are vulgar.
+Bad politics will not be implemented, and hateful laws will not be obeyed.
+Appointing corrupt officials to implement bad governance and using abhorrent laws to govern vulgar people will make it impossible for the people to be educated, which is why different governance results will occur.
+
+summary:
+His essay emphasized governance through righteousness, trust, and eight principles: appointing by talent, avoiding useless discussions, reducing taxes, not harming agriculture, promoting the virtuous, rewarding merit, punishing crime appropriately, and rewarding virtue.
+
+================================================================================
+
+Summary line 2
+Span: 33-45 (score=0.4900)
+
+original:
+致利除害，兼爱无私，谓之仁；明是非，立可否，谓之义；进退有度，尊卑有分，谓之礼；擅杀生之柄，通壅塞之涂，权轻重之数，论得失之道，使远近情伪必见于上，谓之术：凡此四者，治之本，道之用也，皆当设施，不可废也。
+得其要，则天下安乐，法设而不用；不得其术，则主蔽于上，官乱于下。
+此事之情，属统垂业之本也。
+臣闻尧遭鸿水，使禹治之，未闻禹之有水也。
+若汤之旱，则桀之余烈也。
+桀、纣行恶，受天之罚；禹、汤积德，以王天下。
+因此观之，天德无私亲，顺之和起，逆之害生。
+此天文、地理、人事之纪。
+臣弘愚戆，不足以奉大对。
+时对者百余人，太常奏弘第居下。
+策奏，天子擢弘对为第一。
+召见，容貌甚丽，拜为博士，待诏金马门。
+弘复上疏曰： 陛下有先圣之位而无先圣之名，有先圣之民而无先圣之吏，是以势同而治异。
+
+translation:
+The above four articles are the fundamental principles and methods for governing the world. They should all be formulated and implemented and cannot be abandoned.
+If you master the key points, the world will be happy and peaceful. Although the criminal law is established, it will not be used because no one breaks the law. If you cannot master these methods, the emperor will be deceived and the officials will cause chaos.
+The gains and losses of these things are the basis for inheriting and continuing the achievements of our ancestors.
+I heard that there were floods in Yao's time and he sent Yu to control them. I didn't hear that there were floods when Yu was in charge of the world.
+As for the drought in the Shang Tang era, it was caused by the remnants of Xia Jie.
+Xia Jie and Shang Zhou implemented evil policies and were punished by heaven; Dayu and Shang Tang did good deeds and accumulated virtue, so they became kings of the world.
+From this point of view, God does not have personal preferences, likes and dislikes. If you comply with God's virtues, harmony will prosper. If you go against the grain, disasters will happen.
+Creation is the law of astronomy, geography, and human affairs.
+I am foolish and reckless, and I am not qualified to answer the emperor's policy questions.
+At that time, there were more than a hundred people who responded to the imperial edict. When Taichang reported the results of the edict, Gongsun Hong was ranked lower.
+After the strategy slip was presented to the emperor, the emperor selected Gongsun Hong's strategy as the first.
+Gongsun Hong was summoned to see him. The emperor saw that he was a talented person, so he appointed him as a doctor and waited for the Shao Jin Ma Alliance.
+Gongsun Hong once again wrote to Shu and said: Your Majesty has the position of the First Sage but not the reputation of the First Sage, and has the reputation of the First Sage but does not have the officials of the First Sage. Therefore, your Majesty is in the same situation as the First Sage, but the results of his governance are different.
+
+summary:
+He argued that harmony between heaven and earth arises from unified virtue, and that floods and droughts under Yu and Tang were due to prior misrule. His response was ranked first by the emperor, who appointed him as a doctor.
+
+================================================================================
+
+Summary line 3
+Span: 60-62 (score=0.4129)
+
+original:
+每朝会议，开陈其端，使人主自择，不肯面折庭争。
+于是上察其行慎厚，辩论有余，习文法吏事，缘饰以儒术，上说之，一岁中至左内史。
+弘奏事，有所不可，不肯庭辩。
+
+translation:
+Whenever there was a political meeting in the court, Gongsun Hong would state his opinions and let the emperor make his own choice, rather than refute or argue face to face in the court.
+From this, the emperor saw that his behavior was cautious and honest, he left room for debate, he was familiar with documents, laws and official duties, and he decorated it with Confucianism, so he liked him very much and promoted him to Zuo Neishi within a year.
+When Gongsun Hong went to court, he did not argue in court if he thought something was wrong.
+
+summary:
+Gongsun Hong rose quickly, becoming Zuo Neishi within a year, known for cautious debate and Confucian decorum.
+
+================================================================================
+
+Summary line 4
+Span: 81-89 (score=0.4163)
+
+original:
+夫以三公为布被，诚饰诈欲以钓名。
+且臣闻管仲相齐，有三归，侈拟于君，桓公以霸，亦上僣于君。
+晏婴相景公，食不重肉，妾不衣丝，齐国亦治，亦下比于民。
+今臣弘位为御史大夫，为布被，自九卿以下至于小吏无差，诚如黯言。
+且无黯，陛下安闻此言？
+上以为有让，愈益贤之。
+元朔中，代薛泽为丞相。
+先是，汉常以列侯为丞相，唯弘无爵，上于是下诏曰： 朕嘉先圣之道，开广门路，宣招四方之士，盖古者任贤而序位，量能以授官，劳大者厥禄厚，德盛者获爵尊，故武功以显重，而文德以行褒。
+其以高成之平津乡户六百五十封丞相弘为平津侯。
+
+translation:
+As one of the Three Lords, using a cloth quilt is indeed a pretense and deception, in order to gain fame and reputation.
+I heard that when Guan Zhong was the prime minister of Qi, he married three women with different surnames. His luxury was comparable to that of a monarch. Duke Huan of Qi relied on his assistance to dominate, but he was against an arrogant king.
+Yan Ying served as Qi Jinggong's prime minister. He did not eat two portions of meat and vegetables for one meal, and his concubines did not wear silk clothes. Qi State was also governed very well. He was looking down on the common people.
+Now I, Gongsun Hong, serve as the imperial censor. I use cloth quilts to eliminate the distinction between high and low officials from Jiuqing to the junior officials. It's exactly what Ji An said.
+Besides, without Ji An, how could your Majesty hear what I said?
+The emperor thought he could be polite and respected him more and more.
+During the Yuanshuo period, Gongsun Hong replaced Xue Ze as prime minister.
+In the original Han Dynasty, princes were generally appointed as prime ministers. Only Gongsun Hong did not have a title. The emperor issued an edict: "I admire the way of governing the country by the sages. I open the door wide and recruit wise men from all over." In ancient times, positions were arranged according to merit, and different palace positions were awarded based on talents. People with great merits received generous salaries, and people with high virtues received prestigious titles. Therefore, those with martial arts were promoted, and those with literary virtues were praised.
+We hereby order that 650 households in Pingjin Township, Gaocheng County, be granted to Prime Minister Gongsun Hong and be granted the title of Marquis of Pingjin.
+
+summary:
+He avoided court confrontations, often aligning with the emperor’s wishes, which drew accusations of hypocrisy from Ji An. Gongsun Hong defended himself, and the emperor favored him more. He served as imperial censor and later prime minister, receiving the title Marquis of Pingjin. Despite his high rank, he lived frugally, eating simple meals and using cloth quilts, spending his salary on guests and relatives.
+
+================================================================================
+
+Summary line 5
+Span: 90-97 (score=0.3925)
+
+original:
+其后以为故事，至丞相封，自弘始也。
+时，上方兴功业，娄举贤良。
+弘自见为举首，起徒步，数年至宰相封侯，于是起客馆，开东阁以延贤人，与参谋议。
+弘身食一肉，脱粟饭，故人宾客仰衣食，奉禄皆以给之，家无所余。
+然其性意忌，外宽内深。
+诸常与弘有隙，无近远，虽阳与善，后竟报其过。
+杀主父偃，徙董仲舒胶西，皆弘力也。
+后淮南、衡山谋反，治党与方急，弘病甚，自以为无功而封侯，居宰相位，宜佐明主填抚国家，使人由臣子之道。
+
+translation:
+This became the system thereafter. The promotion of officials to prime minister and the title of marquis began with Gongsun Hong.
+At that time, when the emperor was making great achievements, he repeatedly selected virtuous people.
+Gongsun Hong stood out because he was the first to take countermeasures. He was dressed in white cloth, and a few years later he was promoted to prime minister and was granted the title of marquis. For this reason, he built a guesthouse, opened the gates, invited wise men, and discussed matters with them.
+Gongsun Hong himself only ate a meat dish and brown rice for each meal. His relatives, friends and guests all relied on him to provide food and clothing. As a result, he spent all his salary and there was nothing left at home.
+But he has a jealous temperament, and is gentle on the outside but deep inside.
+Those who have had quarrels with Gongsun Hong, no matter near or far, although he is friendly to them on the surface, they will always seek revenge in the end.
+It was Gongsun Hong's idea to kill his father Yan and demote Dong Zhongshu to Jiaoxi.
+Later, the King of Huainan and the King of Hengshan rebelled, and when the court was severely investigating their accomplices, Gongsun Hong fell seriously ill. He felt that he had done nothing, so he was granted the title of marquis and held the position of prime minister. He should assist the wise emperor to calm down and pacify the country, so that people would follow the moral principles of a minister.
+
+summary:
+However, he was inwardly vengeful, contributing to the downfall of rivals like Dong Zhongshu. During the Huainan and Hengshan rebellions, he fell ill and offered to resign, but the emperor refused, granting him leave. He died in office at eighty.
+
+================================================================================
+
+Summary line 6
+Span: 120-128 (score=0.3460)
+
+original:
+位在宰相封侯，而为布被脱粟之饭，奉禄以给故人宾客，无有所余，可谓减于制度，而率下笃俗者也，与内厚富而外为诡服以钓虚誉者殊科。
+夫表德章义，所以率世厉俗，圣王之也。
+其赐弘后子孙之次见为適者，爵关内侯，食邑三百户。
+卜式，河南人也。
+以田畜为事。
+有少弟，弟壮，式脱身出，独取畜羊百余，田宅财物尽与弟。
+式入山牧，十余年，羊致千余头，买田宅。
+而弟尽破其产，式辄复分与弟者数矣。
+时汉方事匈奴，式上书，愿输家财半助边。
+
+translation:
+He was appointed prime minister and granted the title of marquis, but he covered himself with quilts, ate brown rice, and used his salary to provide for old guests, so that he had nothing left. The food and clothing he enjoys are below the standards stipulated by the system. It can be said that they use themselves as an example to promote simple folk customs, which is completely different from those who hide their wealth but dress frugally on the surface to gain a false reputation.
+It is the law of the Holy King to guide by commending virtues and righteous deeds and encourage changes in secular folk customs.
+The direct descendants of Gongsun Hong were given the title of Marquis of Guannei, with a settlement of 300 households.
+Bu Shi, from Henan.
+The occupation is farming and animal husbandry.
+He had a younger brother. When he grew up, Bu Shi separated from his family and took over a hundred sheep. He gave all his farm, house and property to his younger brother.
+Bu Shi had been tending sheep in the mountains for more than ten years, and there were more than a thousand sheep, so he bought a farm and a house.
+But his younger brother went bankrupt, and Bu Shi immediately distributed the property to his younger brother. This happened many times.
+At that time, the Han Dynasty was resisting the invasion of the Huns, and Bu Shi wrote a letter willing to donate half of his family wealth to help the border affairs.
+
+summary:
+Bu Shi, a farmer and herder from Henan, donated half his wealth to support border campaigns against the Xiongnu, but Gongsun Hong advised against accepting, calling it irregular. Later, during a famine, Bu Shi gave 200,000 yuan to aid refugees, earning imperial recognition.
+
+================================================================================
+
+Summary line 7
+Span: 147-156 (score=0.6013)
+
+original:
+初，式不愿为郎，上曰： 吾有羊在上林中，欲令子牧之。
+式既为郎，布衣草蹻而牧羊。
+岁余，羊肥息。
+上过其羊所，善之。
+式曰： 非独羊也，治民亦犹是矣。
+以时起居，恶者辄去，毋令败群。
+上奇其言，欲试使治民。
+拜式缑氏令，缑氏便之；迁成皋令，将漕最。
+上以式朴忠，拜为齐王太傅，转为相。
+会吕嘉反，式上书曰： 臣闻主愧臣死。
+
+translation:
+At first, Bu Shi was unwilling to become a husband. The emperor said, "I have sheep in Shanglin Garden, and I want you to graze them."
+After Bu Shi became a Langguan, he still wore commoners and straw sandals to herd sheep.
+After more than a year, the sheep became fat and multiplied.
+The emperor passed by the sheep herding field and praised him very much.
+Bu Shi said: Not only shepherding sheep, but also governing the people.
+Live on time, get rid of the bad ones immediately, and don't let them harm others.
+The emperor was surprised by his words and wanted him to try to govern the people.
+Renbu Shi was appointed as the Feng family order, and the Feng family was in great control; he was moved to the Gao order to be in charge of water transportation, and he was the best in the assessment.
+The emperor was honest and honest in his divination style, and he became the Tutor of the King of Qi, and then became the Prime Minister.
+When Lu Jia rebelled, Bu Shi wrote: I heard that the Lord was ashamed and I died.
+
+summary:
+He was appointed as a langzhong to herd sheep in Shanglin Garden, where he excelled. The emperor, impressed, made him a magistrate, then tutor to the King of Qi, and eventually prime minister. During the Lu Jia rebellion, Bu Shi offered to fight, but the emperor honored him instead. As imperial censor, he criticized salt and iron taxes, displeasing the emperor, and was demoted.
+
+================================================================================
+
+Summary line 8
+Span: 177-192 (score=0.3568)
+
+original:
+宽为人温良，有廉知自将，善属文，然懦于武，口弗能发明也。
+时张汤为廷尉，廷尉府尽用文史法律之吏，而宽以儒生在其间，见谓不习事，不署曹，除为从史，之北地视畜数年。
+还至府，上畜簿，会廷尉时有疑奏，已再见却矣，掾史莫知所为。
+宽为言其意，掾史因使宽为奏。
+奏成，读之皆服，以白廷尉汤。
+汤大惊，召宽与语，乃奇其材，以为掾。
+上宽所作奏，即时得可。
+异日，汤见上。
+问曰： 前奏非俗吏所及，谁为之者？
+汤言儿宽。
+上曰： 吾固闻之久矣。
+汤由是乡学，以宽为奏谳掾，以古法义决疑狱，甚重之。
+及汤为御史大夫，以宽为掾，举侍御史。
+见上，语经学，上说之，从问《尚书》一篇。
+擢为中大夫，迁左内史。
+宽既治民，劝农业，缓刑罚，理狱讼，卑体下士，务在于得人心；择用仁厚士，推情与下，不求名声，吏民大信爱之。
+
+translation:
+Kuan is a gentle man, honest and wise, capable of self-defense, good at writing, weak in martial arts, and unable to express himself verbally.
+At that time, he was appointed as a Tingwei, and the Tingwei government was full of officials of literature, history and law, but Zhe was among them as a Confucian scholar. He showed that he was not familiar with affairs and could not be a low-level official. He was appointed as a Congshi and went to Jidian to guard livestock for several years.
+Returning to the mansion, he submitted the livestock register. When the imperial officer encountered a problem, the memorial had been returned many times, and the officials did not know what to do.
+Ni Kuan explained to him how to write it, and the officials asked Ni Kuan to write the memorial.
+After the performance was completed, everyone who read it was convinced and told the official Zhang Tang.
+Zhang Tang was shocked and called Ni Kuan to talk. He appreciated his talent and appointed him as his assistant.
+Submit the memorial written by Ni Kuan and get immediate permission.
+The next day, Zhang Tang met with the emperor.
+Asked: The last memorial was beyond the reach of ordinary officials. Who wrote it?
+Zhang Tang said it was Ni Kuan.
+The emperor said: I have heard of him a long time ago.
+Zhang Tang yearned for learning from then on, and appointed Ni Kuan as an official to report cases. He used the meaning of ancient law to judge difficult cases, which was very popular.
+When he went to Zhangtang, he was appointed as the official censor, Ni Kuan was appointed as a subordinate official, and he was promoted to serve as the censor.
+Meet the emperor and talk about Confucian classics. The emperor was delighted and asked about another article in "Shang Shu".
+He was promoted to Zhongdafu and moved to Zuo Neishi.
+After being leniently appointed to the post of civil administration, he encouraged farming, reduced sentences and punishments, and managed prison litigation. He was courteous to his subordinates and devoted himself to winning the hearts of the people. He chose benevolent people, treated his subordinates favorably, and did not seek reputation. The officials and the people were extremely trustworthy and loved.
+
+summary:
+Ni Kuan, a scholar of "Shangshu," worked as a farmer while studying. He became a Tingwei official, known for his writing and legal expertise. Promoted by Zhang Tang, he served as Zuo Neishi, where he encouraged farming, reduced punishments, and built irrigation canals.
+
+================================================================================
+
+Summary line 9
+Span: 216-225 (score=0.3851)
+
+original:
+上乃诏宽与迁等共定汉《太初历》。
+语在《律历志》。
+初，梁相褚大通《五经》，为博士，时宽为弟子。
+及御史大夫缺，征褚大，大自以为得御史大夫。
+至洛阳，闻儿宽为之，褚大笑。
+及至，与宽议封禅于上前，大不能及，退而服曰： 上诚知人。
+宽为御史大夫，以称意任职，故久无有所匡谏于上，官属易之。
+居位九岁，以官卒。
+赞曰：公孙弘、卜式、儿宽皆以鸿渐之翼困于燕爵，远迹羊豕之间，非遇其时，焉能致此位乎？
+是时，汉兴六十余载，海内艾安，府库充实，而四夷未宾，制度多阙。
+
+translation:
+The emperor then ordered Ni Kuan, Sima Qian and others to jointly establish the Han Taichu Calendar.
+See "Lü Li Zhi" for details.
+At the beginning, Chu Da, the Prime Minister of Liang State, was proficient in the Five Classics and was a doctor. At that time, Ni Kuan was his disciple.
+When there was a vacancy for the imperial censor, Chu Da came to take up the post. Chu Da thought he was qualified to be the censor.
+When he arrived in Luoyang, he heard that Ni Kuan had taken office, and Chu laughed.
+When he arrived at the court and discussed with Ni Kuan in front of the emperor, Chu was not as good as Ni Kuan, so he stood back and said in admiration: Your Majesty really knows people.
+Ni Kuan was the imperial censor. Because he was satisfied with his position, he did not give any advice to the emperor for a long time, and his officials despised him.
+He reigned for nine years and died in office.
+Zan said: Gongsun Hong, Bu Shi and Ni Kuan all used Hongjian's wings to be trapped in the sparrows, traveling far between sheep and pigs. How could they have reached this point without luck?
+At that time, the Han Dynasty had been prosperous for more than sixty years. The country was stable and the treasury was abundant. However, the four sides were not convinced and there were many systems lacking.
+
+summary:
+When dismissed for poor tax collection, the people paid their debts, restoring his position. He advised on the Fengshan ceremonies, supporting the emperor’s plans, and helped establish the Taichu calendar. As imperial censor, he became complacent and died in office after nine years. The text concludes that Gongsun Hong, Bu Shi, and Ni Kwan rose from humble origins due to the Han dynasty’s prosperity under Emperor Wu, who recruited diverse talents.
+
+================================================================================
+
+Summary line 10
+Span: 225-228 (score=0.1547)
+
+original:
+是时，汉兴六十余载，海内艾安，府库充实，而四夷未宾，制度多阙。
+上方欲用文武，求之如弗及，始以蒲轮迎枚生，见主父而叹息。
+群士慕向，异人并出。
+卜式拔于刍牧，弘羊擢于栗竖，卫青奋于奴仆，日磾出于降虏，斯亦曩时版筑饭牛之朋已。
+
+translation:
+At that time, the Han Dynasty had been prosperous for more than sixty years. The country was stable and the treasury was abundant. However, the four sides were not convinced and there were many systems lacking.
+The emperor had just started a great civil and military undertaking, but he could not find the talents he asked for, so he started to use a pulsar cart to welcome Mei Cheng, and sighed when he saw his master's father dying.
+The people were envious and yearned for it, and strange people and talents appeared at the same time.
+Bu Shiba was promoted from herding, Hongyang was promoted from the Jia people, Wei Qing was promoted from the slaves, and Jin Yuechan was promoted from the captives. These are the ancient version of building and selling cattle.
+
+summary:
+This era saw a flourishing of Confucians, loyalists, legalists, writers, and generals, achieving great deeds.
+
+================================================================================
+
+Summary line 11
+Span: 75-78 (score=0.1962)
+
+original:
+发十策，弘不得一。
+弘乃谢曰： 山东鄙人，不知其便若是，愿罢西南夷、苍海，专奉朔方。
+上乃许之。
+汲黯曰： 弘位在三公，奉禄甚多，然为布被，此诈也。
+
+translation:
+Zhu Maichen and others raised ten questions, but Gongsun Hong could not refute any of them.
+So he apologized to the emperor and said: I am a vulgar person from Shandong. I don't understand how beneficial it is to establish Shuofang County. I hope to stop moving to Southwest Yi and Canghai County and focus on running Shuofang County.
+The emperor then agreed to his request.
+Ji An said: Gongsun Hong is ranked among the three nobles and has a lot of salary, but he uses cloth to make quilts. This is hypocrisy.
+
+summary:
+Later, under Emperor Xuan, similar talents emerged, but none matched the brilliance of Emperor Wu’s reign.
+
+================================================================================
+

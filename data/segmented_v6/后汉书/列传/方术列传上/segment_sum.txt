@@ -1,0 +1,734 @@
+Summary line 0
+Span: 0-10 (score=0.5018)
+
+original:
+仲尼称《易》有君子之道四焉，曰 卜筮者尚其占 。
+占也者，先王所以定祸福，决嫌疑，幽赞于神明，遂知来物者也。
+若夫阴阳推步之学，往往见于坟记矣。
+然神经怪牒、玉策金绳，关扃于明灵之府、封縢于瑶坛之上者，靡得而窥也。
+至乃《河》、《洛》之文，龟龙之图，箕子之术，师旷之书，纬候之部，钤决之符，皆所以探抽冥赜、参验人区，时有可闻者焉。
+其流又有风角、遁甲、七政、元气、六日七分、逢占、日者、挺专、须臾、孤虚之术，乃望云省气，推处祥妖，时亦有以效于事也。
+而斯道隐远，玄奥难原，故圣人不语怪神，罕言性命。
+或开末而抑其端，或曲辞以章其义，所谓 民可使由之，不可使知之 。
+汉自武帝颇好方术，天下怀协道艺之士，莫不负策抵掌，顺风而届焉。
+后王莽矫用符命，及光武尤信谶言，士之赴趣时宜者，皆骋驰穿凿，争谈之也。
+故王梁、孙咸，名应图箓，越登槐鼎之任；郑兴、贾逵，以附同称显；恒谭、尹敏，以乖忤沦败。
+
+translation:
+◆Biography of Alchemy, Preface, Confucius talked about the "Book of Changes" which said that there are four principles of "the way of a gentleman", one of which is to use tortoise shell or divination grass for divination.
+The so-called divination was used by the ancient kings to predict misfortunes and fortunes, to decide problems, and to let the gods give instructions to determine the meaning of everything in the future.
+There are many records in ancient books about the theories of Yin and Yang that speculate on the future.
+But the crazy ultimatum, the jade-cement golden rope, hidden in a mysterious place and sealed on the Yao altar, can no longer be seen.
+As for the Hetu Luoshu, the images of turtles and dragons, Jizi's alchemy, Shikuang's secret book, Weihou, etc., and seal talismans, they are all used to speculate on unknown numbers and test the good and bad luck of personnel, and sometimes they are heard.
+There are many schools of them, such as Feng Jiao, Dun Jia, Qi Zheng, Yuan Nian, Six Days and Seven Points, Feng Zhan, Ri Zhe, Ting Zhuan, Xu Yu, Luxu Technique, etc., as well as those who look at the clouds and calculate the energy, infer good and bad, sometimes it seems to be somewhat effective.
+But after all, this kind of thing is a bit vague, profound and mysterious, and quite difficult to explore. Therefore, Confucius did not talk about monsters, gods and the like, and rarely talked about life.
+Sometimes the ending is mentioned without mentioning its origin, and sometimes the main idea is mentioned in a roundabout way, just to let people follow it without letting people know the reason behind it!
+Ever since Emperor Wu of the Han Dynasty, the people in the Han Dynasty had been very fond of alchemy and other things. There was no one in the world who knew the art of alchemy but had come here with some advice on their backs.
+Later, Wang Mang pretended to usurp the throne under the pretense of Fu Fu. In the Eastern Han Dynasty, Guangwu believed in the prophecy, and some people who were following the trend came to the emperor's side to discuss the matter and talk loudly.
+Therefore, Wang Liang and Sun Xian became the Great Sikong and Great Sima based on their plans. Zheng Xing and Jia Kui became famous because they echoed appropriately, while Huan Tan and Yin Min failed because of their opposition.
+
+summary:
+Confucius discussed the "Book of Changes," noting that a gentleman's way includes divination using tortoise shells or grass. Ancient kings used divination to predict fortunes, solve problems, and receive divine guidance. Many ancient records contain theories of Yin and Yang for predicting the future, though certain mystical texts like the jade-cement golden rope are now lost. Various schools of divination exist, including Feng Jiao, Dun Jia, Qi Zheng, and others, along with cloud-reading and energy-calculation methods. These practices are often vague and difficult to explore, which is why Confucius rarely discussed supernatural matters. Since Emperor Wu of the Han dynasty, alchemy became popular. Wang Mang used prophecies to justify his usurpation, and Emperor Guangwu of Eastern Han believed in them, leading to many practitioners gaining positions.
+
+================================================================================
+
+Summary line 1
+Span: 9-19 (score=0.4805)
+
+original:
+后王莽矫用符命，及光武尤信谶言，士之赴趣时宜者，皆骋驰穿凿，争谈之也。
+故王梁、孙咸，名应图箓，越登槐鼎之任；郑兴、贾逵，以附同称显；恒谭、尹敏，以乖忤沦败。
+自是习为内学，尚奇文，贵异数，不乏于时矣。
+是以通儒硕生，忿其奸妄不经，奏议慷慨，以为宜见藏摈。
+子长亦云： 观阴阳之书，使人拘而多忌。
+盖为此也。
+夫物之所偏，未能无蔽。虽云大道，其硋或同。
+若乃《诗》之失愚，《书》之失诬。
+然则数术之失，至于诡俗乎？
+意者多迷其统，取遣颇偏，甚有虽流宕过诞亦失也。中世张衡为阴阳之宗，郎顗咎征最密，余亦班班名家焉。
+其徒亦有雅才伟德，未必体极艺能。
+
+translation:
+Later, Wang Mang pretended to usurp the throne under the pretense of Fu Fu. In the Eastern Han Dynasty, Guangwu believed in the prophecy, and some people who were following the trend came to the emperor's side to discuss the matter and talk loudly.
+Therefore, Wang Liang and Sun Xian became the Great Sikong and Great Sima based on their plans. Zheng Xing and Jia Kui became famous because they echoed appropriately, while Huan Tan and Yin Min failed because of their opposition.
+From then on, there were many people who studied divination and studied strange texts and numbers.
+Therefore, some knowledgeable people were very angry when they saw these grotesque things, and they made impassioned speeches to the emperor, thinking that they must be abandoned.
+Sima Qian also said: Reading the books of the Yin and Yang family makes people restrained and have many taboos.
+That’s what I’m talking about.
+Everything has its biases and cannot be without faults. Even the way of a saint is generally the same.
+Some people accuse the shortcomings of "The Book of Songs" of being too real and almost stupid; the historical records of "The Book of Songs" are untrue and almost exaggerated.
+But isn’t the shortcoming of numerology the secret and deception?
+If you only talk about gentle and sincere poetic teachings and remove some foolish things, you will have a deep understanding of the Book of Songs; if you read through the history of the Tang and Yu dynasties without pursuing those false accusations, you will have a deep understanding of the Book of Books; if you only follow the rules of change in magic and do not believe in those vulgar words, then you will have a deep understanding of the mystery of magic. The ancients said: If you are not a person who truly understands the truth, the Dao will not be implemented in an empty way.
+This means that most people get lost in the confusion and therefore stray too far from the right path.
+
+summary:
+Some knowledgeable people opposed these practices. Sima Qian noted that Yin and Yang books make people restrained with many taboos. The text concludes that while everything has biases, understanding the true principles of magic requires rejecting vulgar interpretations.
+
+================================================================================
+
+Summary line 2
+Span: 21-36 (score=0.5600)
+
+original:
+任文公，巴郡阆中人也。
+父文孙，明晓天官风角秘要。
+文公少修父术，州辟从事。
+哀帝时，有言越巂太守欲反，刺史大惧，遣文公等五从事检行郡界，潜伺虚实。
+共止传舍，时，暴风卒至，文公遽趣白诸从事促去，当有逆变来害人者，因起驾速驱。
+诸从事未能自发，郡果使兵杀之，文公独得免。
+后为治中从事。时，天大旱，白刺史曰： 五月一日，当有大水。其变已至，不可防救，宜令吏人豫为其备。
+刺史不听，文公独储大船。百姓或闻，颇有为防者。到其日旱烈，文公急命促载，使白刺史，刺史笑之。
+日将中，天北云起，须臾大雨，至晡时，湔水涌起十余丈，突坏庐舍，所害数千人。
+文公遂以占术驰名。
+辟司空掾。
+平帝即位，称疾归家。
+王莽篡后，文公推数，知当大乱，乃课家人负物百斤，环舍趋走，日数十，时人莫知其故。
+后兵寇并起，其逃亡者少能自脱，惟文公大小负粮捷步，悉得完免。
+遂奔子公山，十余年不被兵革。
+公孙述时，蜀武担石折。
+
+translation:
+◆Biography of Ren Wengong, Ren Wengong was from Langzhong, Bajun.
+His father, Ren Wensun, knew the secrets of Tianguan Fengjiao.
+When Wen Gong was young, he learned from his father and was called to work in the state.
+During the reign of Emperor Ai, some people said that the prefect of Yueyuan wanted to make trouble, and the governor was very afraid, so he sent Duke Wen and five other people to inspect the boundaries of the county and take a peek at the actual situation.
+They were living in the guest house together, and a storm suddenly came. Wen Gong quickly asked other workers to leave, saying that something bad would happen to harm people, so he drove the carriage and ran away.
+Those who were engaged could not leave quickly, so Jun Guo sent troops to kill them, and Duke Wen was spared.
+Later, when Wen Gong was engaged in governing the country, there was a severe drought at that time. He reported to the governor: On May 1st, there will be a flood. The change has come and cannot be prevented. The officials and the people should be called to prepare early.
+The governor refused to listen, so Wen Gong prepared a big boat alone. Some people heard about it, and some took precautions. When the drought was at its worst, Wen Gong hurriedly moved away and sent someone to report to the governor, who laughed it off.
+The sun was about to hit the middle of the day, clouds started to rise in the north, and soon it rained heavily. By evening, the water suddenly rose by more than ten feet, destroying houses and injuring thousands of people.
+Duke Wen became famous for his divination skills.
+He was called Sikong Peng.
+Emperor Ping ascended the throne and returned home claiming to be ill.
+After Wang Mang usurped the throne, Duke Wen knew that a great chaos was coming, so he trained his family members to carry hundreds of kilograms of stuff and run around the house dozens of times a day. No one knew the reason at the time.
+Later, when soldiers and bandits broke out, few of those who fled were able to escape. Only Wen Gong and his family carried food and walked quickly, and they were all spared.
+So he ran to Zigong Mountain and survived the military revolution for more than ten years.
+During Gongsun Shu's reign, a stone broke off at Wudan Mountain in Sichuan.
+
+summary:
+Ren Wengong of Langzhong learned Tianguan Fengjiao from his father. During Emperor Ai's reign, he correctly predicted a storm that killed his companions. Later, he predicted a flood during a drought, saving his family while thousands died. He became famous for divination and fled to Zigong Mountain during the military revolution, surviving by training his family to carry food and run quickly.
+
+================================================================================
+
+Summary line 3
+Span: 48-59 (score=0.4950)
+
+original:
+仲子从之，日晏乃往。
+莽问： 君来何迟？
+仲子具以宪言对，莽阴奇之。
+及后篡位，拜宪郎中，赐以衣服。
+宪受衣焚之，逃于东海之滨。
+莽深忿恚，讨逐不知所在。
+光武即位，求天下有道之人，乃征宪拜博士。
+再迁，建武七年，代张堪为光禄勋。
+从驾南郊。
+宪在位，忽回向东北，含酒三潠。
+执法奏为不敬。
+诏问其故。
+
+translation:
+Zhongzi obeyed, and Riyan went.
+Wang Mang asked: Why are you late?
+Zhongzi answered Guo Xian's words, and Wang Mang was secretly surprised.
+Later, when he usurped the throne, he worshiped Guo Xian as a doctor and gave him clothes.
+Guo Xian burned his clothes and fled to the coast of the East China Sea.
+Wang Mang hated him very much and wanted to chase him but didn't know where he was.
+When Guangwu came to the throne, he was looking for people with good moral principles in the world, so he called Xian to be a doctor.
+He was promoted again, and in the seventh year of Jianwu, he served as Guang Luxun for Zhang Kan.
+From driving to the southern suburbs.
+When Guo Xian was in office, he suddenly looked back to the Northeast and took three sips of wine.
+Law enforcement officers reported this as an act of disrespect.
+The emperor issued an edict to ask why.
+
+summary:
+Guo Xian of Runan studied under Zhongzi. He advised Zhongzi against visiting Wang Mang, who later became emperor and appointed Guo Xian as a doctor. Guo Xian burned his clothes and fled. Under Emperor Guangwu, he served as Guang Luxun.
+
+================================================================================
+
+Summary line 4
+Span: 66-76 (score=0.4664)
+
+original:
+帝叹曰： 恨不用子横之言。
+时，匈奴数犯塞，帝患之，乃召百僚廷议。
+宪以为天下疲敝，不宜动众。
+谏争不合，乃伏地称眩瞀，不复言。
+帝令两郎扶下殿，宪亦不拜。
+帝曰： 常闻 关东觥觥郭子横 ，竟不虚也。
+宪遂以病辞退，卒于家。
+许杨字伟君，汝南平舆人也。
+少好术数。
+王莽辅政，召为郎，稍迁酒泉都尉。
+及莽篡位，杨乃变姓名为巫医，逃匿它界。
+
+translation:
+The emperor sighed: "I regret not using Zi Heng's words."
+At that time, the Xiongnu invaded the border fortress several times, and the emperor was very worried, so he summoned hundreds of officials to discuss it at the court.
+Guo Xian believed that the world was exhausted and should not mobilize troops.
+The remonstrance was not in line with his wishes, so he fell to the ground and said he was dizzy and stopped talking.
+The emperor sent two men to help him go down to the palace, but Guo Xian did not bow.
+The emperor said: I often hear that Guandong Gong Guo Ziheng, this is absolutely true.
+Guo Xian then resigned due to illness and died at home.
+Xu Yangzhuan, also known as Xu Yang, was named Weijun and was a native of Pingxing, Runan.
+When I was young, I liked arithmetic.
+When Wang Mang was assisting the government, he was called Lang, and soon he was promoted to Captain of Jiuquan.
+When Wang Mang usurped the throne, Xu Yang changed his name to become a witch doctor and fled to another place.
+
+summary:
+He predicted a fire in Qi state and advised against military campaigns. He later resigned due to illness and died at home. Xu Yang of Runan, skilled in arithmetic, served under Wang Mang but fled when Wang usurped the throne.
+
+================================================================================
+
+Summary line 5
+Span: 84-89 (score=0.2000)
+
+original:
+昔大禹决江疏河，以利天下。明府今兴立废业，富国安民，童谣之言，将有征于此。
+诚愿以死效力。
+晨大悦，因署杨为都水掾，使典其事。
+杨因高下形势，起塘四百余里，数年乃立。
+百姓得其便，累岁大稔。
+初，豪右大姓因缘陂役，竞欲辜较在所，杨一无听，遂共谮杨受取赇赂。
+
+translation:
+In the past, Dayu created rivers and dredged rivers to benefit the world. Today, the Ming Dynasty established waste industries to enrich the country and secure the people. The words of the nursery rhyme will be effective here.
+I am really willing to die for this.
+Deng Chen was overjoyed, so he appointed Yang as the governor of the capital and put him in charge of this matter.
+The terrain of Xu Yangshun is high and low, and the pond is more than 400 miles away. It took several years to complete it.
+The people benefited from it and had good harvests year after year.
+At first, the surname Hao You wanted to take over the power of that area for the sake of repairing Bei, but Xu Yang refused to listen, so they jointly framed Yang for accepting bribes.
+
+summary:
+He helped restore irrigation systems in Runan, completing over 400 li of ponds over several years.
+
+================================================================================
+
+Summary line 6
+Span: 90-103 (score=0.6650)
+
+original:
+晨遂收杨下狱，而械辄自解。
+狱吏恐，遽白晨。
+晨惊曰： 果滥矣。太守闻忠信可以感灵，今其效乎！
+即夜出杨，遣归。
+时天大阴晦，道中若有火光照之，时人异焉。
+后以病卒。
+晨于都宫为杨起庙，图画形像，百姓思其功绩，皆祭祀之。
+高获字敬公，汝南新息人也。
+为人尼首方面。
+少游学京师，与光武有旧。
+师事司徒欧阳歙。
+歙下狱当断，获冠铁冠，带鈇锧，诣阙请歙。
+帝虽不赦，而引见之。
+谓曰： 敬公，朕欲用子为吏，宜改常性。
+
+translation:
+Deng Chen imprisoned Xu Yang. But the handcuffs will be released naturally.
+The jailer was frightened and immediately reported to Deng Chen.
+Deng Chen was shocked and said: "It's really bad. The prefect heard that loyalty can move the gods. Has it come true now?"
+Xu Yang was immediately released that night and allowed to go home.
+It was very dark and there seemed to be firelight shining on him on the road, which made people feel very strange at the time.
+Later Xu Yang died of illness.
+Deng Chen built a temple for Xu Yang in the capital palace and painted portraits. The people remembered his achievements and went to worship him.
+Gao Huozhuan, named Jinggong, was from Xinxi, Runan.
+The appearance is that the four sides of the face are high and the middle is low.
+When he was young, he studied in the capital and had an old relationship with Emperor Guangwu.
+He worshiped Situ Ouyang She as his teacher.
+Ouyang She was imprisoned and sentenced. Gao Huo, wearing an iron hat and torture tools, went to the court to beg for She's pardon.
+Although the emperor did not pardon She, he introduced Gao Huo.
+He said to Gao: "Jing Gong, I want to use you as an official, but you should change your normal behavior."
+
+summary:
+Despite being falsely accused of bribery, his handcuffs miraculously opened, and he was released. He died of illness, and a temple was built in his honor. Gao Huo of Runan studied under Ouyang She and had an old relationship with Emperor Guangwu. He refused to change his behavior for an official position. Skilled in astronomy and Dun Jia, he helped bring rain during a drought.
+
+================================================================================
+
+Summary line 7
+Span: 105-120 (score=0.4921)
+
+original:
+三公争辟，不应。
+后太守鲍昱请获，既至门，令主簿就迎，主簿但使骑吏迎之，获闻之，即去。
+昱遣追请获，获顾曰： 府君但为主簿所欺，不足与谈。
+遂不留。
+时郡境大旱。获素善天文，晓遁甲，能役使鬼神。
+昱自往问何以致雨，获曰： 急罢三部督邮，明府当自北出，到三十里亭，雨可致也。
+昱从之，果得大雨。
+每行县，辄轼其闾。
+获遂远遁江南，卒于石城。
+石城人思之，共为立祠。
+王乔者，河东人也。
+显宗世，为叶令。
+乔有神术，每月朔望，常自县诣台朝。
+帝怪其来数，而不见车骑，密令太史伺望之。
+言其临至，辄有双凫从东南飞来。
+于是候凫至，举罗张之，但得一只舄焉。
+
+translation:
+When he came out, he said goodbye and left. The three princes fought to summon him, but they refused.
+Later, the prefect Bao Yu asked for Huo. When he arrived at the door, he sent the chief clerk to greet him. The chief clerk only sent the cavalry to greet him. Gao Huo heard this and left immediately.
+Bao Yu pursued Gao Huo, but Gao Huo turned around and said, "The Lord of the House has been deceived by his master, and it is not enough to talk to him."
+Will not stay.
+At that time, there was a severe drought in the county. Gao Huo had always been good at astronomy, knew Dunjia, and could manipulate ghosts and gods.
+Bao Yu himself went to ask how to get the rain. Gao Huo said: "I will immediately remove the three departments of postal supervision. The Ming government should go out from the north to Sansili Pavilion, and the rain can come."
+Bao Xian complied, and sure enough he received heavy rain.
+Every time he visits a county, he always greets his family with courtesy.
+Gao Huo fled to the south of the Yangtze River and died in Shicheng.
+The people of Shicheng missed him and built a shrine in his honour.
+Biography of Wang Qiao, Wang Qiao, a native of Hedong.
+During the reign of Emperor Xianzong, he became the magistrate of Ye County.
+Wang Qiao has magical powers. On the first and fifteenth day of every month, he often travels from Ye County to the forbidden provinces of the imperial court to meet with the emperor.
+The emperor saw that he came very quickly, but did not see his carriage and horses. He felt strange and secretly asked Taishi to spy on his whereabouts.
+Taishi reported that when Wang Qiao arrived, two water birds often flew from the southeast.
+So the emperor asked people to open a net to catch water birds, but only got one shoe.
+
+summary:
+He later fled to Jiangnan and died in Shicheng, where a shrine was built for him. Wang Qiao of Hedong served as magistrate of Ye County during Emperor Xianzong's reign. He traveled to court magically every month, arriving with two water birds. When caught, only one shoe was found.
+
+================================================================================
+
+Summary line 8
+Span: 117-130 (score=0.5441)
+
+original:
+乔有神术，每月朔望，常自县诣台朝。
+帝怪其来数，而不见车骑，密令太史伺望之。
+言其临至，辄有双凫从东南飞来。
+于是候凫至，举罗张之，但得一只舄焉。
+乃诏上方讠尔视，则四年中所赐尚书官属履也。每当朝时，叶门下鼓不击自鸣，闻于京师。
+后天下玉棺于堂前，吏人推排，终不摇动。
+乔曰： 天帝独召我邪？
+乃沐浴服饰寝其中，盖便立覆。
+宿昔葬于城东，土自成坟。
+其夕，县中牛皆流汗喘乏，而人无知者。
+百姓乃为立庙，号叶君祠。
+牧守每班录，皆先谒拜之。
+吏人祈祷，无不如应。
+若有违犯，亦立能为祟。
+
+translation:
+Wang Qiao has magical powers. On the first and fifteenth day of every month, he often travels from Ye County to the forbidden provinces of the imperial court to meet with the emperor.
+The emperor saw that he came very quickly, but did not see his carriage and horses. He felt strange and secretly asked Taishi to spy on his whereabouts.
+Taishi reported that when Wang Qiao arrived, two water birds often flew from the southeast.
+So the emperor asked people to open a net to catch water birds, but only got one shoe.
+Check the shoes. They are the shoes given to the minister's officials in four years. Whenever Wang Qiao goes to court, the drum at the gate of Ye County does not beat but plays by itself, so that the capital can hear it.
+Later, a jade coffin dropped from the sky to the front of the hall. Officials stepped forward to push it, but they could not move it.
+Wang Qiao said: Did God call me alone?
+So he washed himself, got dressed, slept in the coffin, and the lid was immediately closed.
+After two nights, the coffin was buried in the east of the city, and the soil naturally turned into a grave.
+That night, the cattle in the county were sweating and panting, but people didn't know what was going on.
+The people built a temple for him, called Ye Jun Temple.
+Every time local officials arrive at their posts, they must first pay homage to it.
+When officials pray for something, it is very effective.
+If there is any violation of God's will, disaster will be imposed immediately.
+
+summary:
+A jade coffin descended from heaven, and Wang Qiao entered it, which closed immediately. The coffin was buried, and a temple called Ye Jun Temple was built. Local officials must pay homage upon arrival.
+
+================================================================================
+
+Summary line 9
+Span: 129-144 (score=0.4800)
+
+original:
+吏人祈祷，无不如应。
+若有违犯，亦立能为祟。
+帝乃迎取其鼓，置都亭下，略无复声焉。
+或云此即古仙人王子乔也。
+谢夷吾字尧卿，会稽山阴人也。
+少为郡吏，学风角占候。
+太守第五伦擢为督邮。
+时，乌程长有臧衅，伦使收案其罪。
+夷吾到县，无所验，但望阁伏哭而还。
+一县惊怪，不知所为。
+及还，白伦曰： 窃以占候，知长当死。近三十日，远不过六十日，游魂假息，非刑所加，故不收之。
+伦听其言，至月余，果有驿马赍长印绶，上言暴卒。
+伦以此益礼信之。
+举孝廉，为寿张令，稍迁荆州刺史，迁钜鹿太守。
+所在爱育人物，有善绩。
+及伦作司徒，令班固为文荐夷吾曰：
+
+translation:
+When officials pray for something, it is very effective.
+If there is any violation of God's will, disaster will be imposed immediately.
+The emperor then took the drum from Ye County and placed it under the capital pavilion. From then on, there was no more sound.
+Some people say that this is the ancient immortal prince Qiao.
+Xie Yiwu's biography, Xie Yiwu's courtesy name is Yaoqing, a native of Shanyin in Kuaiji.
+When he was young, he worked as a county official and studied in style.
+The prefect Wu Lun promoted him to postal supervisor.
+At that time, Wu Chengchang was guilty of embezzlement, and Wu Lun sent him to imprison Wu Chengchang and try his crimes.
+After Yiwu arrived at the county, he did not check it. He only looked at the pavilion and returned crying.
+People in the county were surprised and didn't know what they were doing.
+When he came back, he reported to Wu Lun: "I used Zhanhou to know that Chief Wu Cheng would die in thirty days but not in sixty days. He would rest as a wandering soul and would not be punished, so I did not arrest him."
+Wu Lun listened to his words, and after a month or so, a post came and sent Chang Wu Cheng's seal and ribbon, saying that he died of a sudden illness.
+Fifth Lun was more polite and convinced.
+Xie Yiwu was promoted to Xiaolian and made the longevity magistrate. Soon he was promoted to the governor of Jingzhou and the prefect of Julu.
+Care for people wherever you go and have good political achievements.
+Later Wu Lun became a Situ and asked Ban Gu to write an article recommending Xie Yiwu Dao: I heard that Yao used Ji and Qi to achieve prosperity and peace in politics; Shun used Gao Tao to promote Yongxi.
+
+summary:
+Xie Yiwu of Kuaiji served as a county official and postal supervisor. He predicted a criminal's death within thirty days, which came true. He became governor of Jingzhou and prefect of Julu, known for good governance. Wu Lun recommended him highly, comparing him to ancient sages. He later knew his death date in advance and died as expected.
+
+================================================================================
+
+Summary line 10
+Span: 165-174 (score=0.4976)
+
+original:
+又有风吹削哺，太守以问由。
+由对曰： 方当有荐木实者，其色黄赤。
+顷之，五官掾献橘数包。
+由尝从人饮，敕御者曰： 酒若三行，便宜严驾。
+既而趣去。
+后主人舍有斗相杀者，人请问何以知之。
+由曰： 向社中木上有鸠斗，此兵贼之象也。
+其言多验。
+著书十余篇，名曰《其平》。
+终于家。
+
+translation:
+Another wind blew and cut the food, and the prefect asked Yang You again.
+You replied: When there is a person who recommends solid wood, his color is yellow.
+Soon, Wu Guan offered several bags of oranges.
+Yang You once went to someone's house to drink. He said to the coachman: If you drink for three hours, you should get up quickly.
+Soon he was urged to leave.
+Later, there was a fight and murder behind the master's room, and people asked Yang You how he knew.
+You replied: Just now there were turtledoves fighting on the trees in the Tutu Temple. This is a sign of soldiers and thieves.
+Many of his words came true.
+Yang You wrote more than ten books called "Qi Ping".
+Died at home.
+
+summary:
+Yang You of Chengdu studied the Book of Changes and various divination methods. He correctly predicted a barbarian invasion and other events. He wrote ten books called "Qi Ping" and died at home.
+
+================================================================================
+
+Summary line 11
+Span: 171-187 (score=0.6389)
+
+original:
+由曰： 向社中木上有鸠斗，此兵贼之象也。
+其言多验。
+著书十余篇，名曰《其平》。
+终于家。
+李南字孝山，丹阳句容人也。
+少笃学，明于风角。
+和帝永元中，太守马棱坐盗贼事被征，当诣廷尉，吏民不宁，南特通谒贺。
+棱意有恨，谓曰： 太守不德，今当即罪，而君反相贺邪？
+南曰： 旦有善风，明日中时，应有吉问，故来称庆。
+旦日，棱延望景晏，以为无征；至晡，乃有驿使赍诏书原停棱事。
+南问其迟留之状。
+使者曰： 向度宛陵浦里方亢，马踠足，是以不得速。
+棱乃服焉。
+后举有道，辟公府，病不行，终于家。
+南女亦晓家术，为由拳县人妻。
+晨诣爨室，卒有暴风，妇便上堂从姑求归，辞其二亲。姑不许，乃跪而泣曰： 家世传术，疾风卒起，先吹灶突及井，此祸为妇女主爨者，妾将亡之应。
+因著其亡日。
+
+translation:
+You replied: Just now there were turtledoves fighting on the trees in the Tutu Temple. This is a sign of soldiers and thieves.
+Many of his words came true.
+Yang You wrote more than ten books called "Qi Ping".
+Died at home.
+Li Nan's biography, Li Nan's courtesy name is Xiaoshan, and he was born in Gourong, Danyang.
+He was eager to learn when he was young and knew the wind angle very well.
+During the reign of Emperor Yongyuan, the prefect Ma Leng was summoned for a theft case, and he had to go to Tingwei to handle the case. The officials and the people were uneasy, and Li Nante called in to congratulate him.
+Ma Leng was a little unhappy and said to Li Nan: The prefect is immoral and must be punished now, but why do you congratulate me instead?
+Li Nan said: There is good wind in the morning, and good news should arrive at noon tomorrow, so I come to congratulate you.
+The next morning, Ma Leng stretched his neck to look at the shadow of the sun, thinking that it was not working. At noon, there was an edict from the post envoy to forgive Ma Leng.
+Li Nan asked why he was late.
+The messenger said: When passing through Wanling Puliyan the day before yesterday, the horse broke its foot, so it could not be reached quickly.
+Ma Leng was convinced.
+Later, he was promoted as a Taoist scholar and summoned to the palace. However, he was unable to travel due to illness and died at home.
+Li Nan's daughter also knew family skills and became the wife of a native of Youquan County.
+Arriving in the kitchen in the morning, a sudden storm broke out. The woman went to the main room to ask her mother-in-law for leave to go back and say goodbye to her parents. Her mother-in-law refused, so the daughter-in-law knelt down and cried: My family specializes in ancestral magic. A sudden strong wind blows the chimney and derrick of the stove first. This disaster will surely befall the woman who is in charge of cooking in the kitchen. This is a sign that I will die.
+So the date of her death was stated.
+
+summary:
+Li Nan of Danyang knew wind angle divination. He predicted good news for Prefect Ma Leng, which arrived as expected. He was later summoned to the palace but could not travel due to illness and died at home. His daughter also knew family skills and predicted her own death from a storm sign.
+
+================================================================================
+
+Summary line 12
+Span: 189-196 (score=0.4657)
+
+original:
+李郃字孟节，汉中南郑人也。
+父颉，以儒学称，官至博士。
+郃袭父业，游太学，通《五经》。
+善《河》、《洛》风星，外质朴，人莫之识。
+县召署幕门候吏。
+和帝即位，分遣使者，皆微服单行，各至州县，观采风谣。
+使者二人当到益部，投郃候舍。
+时，夏夕露坐，郃因仰观，问曰： 二君发京师时，宁知朝廷遣二使邪？
+
+translation:
+According to the biography of Li He, Li He was named Mengjie and was a native of Nanzheng, Hanzhong.
+His father, Li Jie, was famous for his Confucianism and was a doctorate.
+Li He inherited his father's business, traveled to Taixue, and was proficient in the Five Classics.
+He grew up in the "Heluo" Fengxing, with a simple appearance that no one else could understand.
+The county called him to serve as a waiting official at the curtain gate.
+Emperor He ascended the throne and dispatched envoys, all wearing casual clothes and acting alone. Each of them went to the prefectures and counties to observe the rumors.
+The two envoys should go to Yibu and surrender to Li He's residence.
+At this time, it was summer and he was enjoying the cool night outside. Li He looked up at the sky and asked: When you two set off from the capital, did you know that the imperial court sent two envoys?
+
+summary:
+Li He of Hanzhong was proficient in the Five Classics and Heluo Fengxing. He identified two imperial envoys by observing stars.
+
+================================================================================
+
+Summary line 13
+Span: 204-214 (score=0.4729)
+
+original:
+郃遂所在留迟，以观其变。
+行至扶风，而宪就国自杀，支党悉伏其诛。
+凡交通宪者，皆为免官，唯汉中太守不豫焉。
+郃岁中举孝廉，五迁尚书令，又拜太常。
+元初四年，代袁敞为司空，数陈得失，有忠臣节。
+在位四年，坐请托事免。
+安帝崩，北乡侯立，复为司徒。
+及北乡侯病，郃阴与少府河南陶范、步兵校尉赵直谋立顺帝，会孙程等事先成，故郃功不显。
+明年，坐吏民疾病，仍有灾异，赐策免。
+将作大匠翟酺上郃 潜图大计，以安社稷 ，于是录阴谋之功，封郃涉都侯，辞让不受。
+官至奉车都尉。
+
+translation:
+Li He stayed there late to observe the changes.
+He walked to Fufeng, while Dou Xian committed suicide in the fiefdom, and all his followers were killed.
+Everyone who had contact with Dou Xian was dismissed from office, except for the prefect of Hanzhong.
+Li He was promoted to Xiaolian at the age of 15, promoted to minister five times, and was worshiped as Taichang.
+In the fourth year of the Yuan Dynasty, he replaced Yuan Chang as Sikong. He stated the gains and losses of political affairs several times, showing the integrity of a loyal minister.
+After four years in office, he was dismissed because he asked for help.
+After the death of Emperor An, Beixiang was appointed Marquis of Beixiang, and Li He was appointed as Situ.
+When the Marquis of Beixiang fell ill, Li He secretly conspired with Shaofu Henan Tao Fan and infantry commander Zhao Zhi to establish Emperor Shun. Sun Cheng and others succeeded in advance, so Li He's contribution was not significant.
+In the second year, due to the illness of the officials and the people, there were still disasters, so he was granted the title of dismissal from office.
+General Zhai, the great craftsman, wrote a letter saying that Li He wanted to help everyone to stabilize the country. So he recorded the merits of the conspiracy and made Li He the Marquis of Shedu, but Li He refused.
+He was over eighty years old and died at home.
+
+summary:
+He advised against associating with General Dou Xian, who later committed suicide. Li He served as Sikong and Situ, showing loyalty. He refused a marquis title and died at home over eighty years old.
+
+================================================================================
+
+Summary line 14
+Span: 216-225 (score=0.5358)
+
+original:
+习《易经》，明风角。
+时有就其学者，虽未至，必豫知其姓名。
+尝告守津吏曰： 某日当有诸生二人，荷担问翳舍处者，幸为告之。
+后竟如其言。
+又有一生来学，积年，自谓略究要术，辞归乡里。翳为合膏药，并以简书封于筒中，告生曰： 有急发视之。
+生到葭萌，与吏争度，津吏楇破从者头。
+生开筒得书，言到葭萌，与吏斗头破者，以此膏裹之。
+生用其言，创者即愈。
+生叹服，乃还卒业。
+翳遂隐居窜迹，终于家。
+
+translation:
+Study the Book of Changes, Mingfengjiao.
+There were people who went there to study at that time. Even if they did not arrive, they must have known his name in advance.
+I once told a Shoujin official: One day there will be two students carrying their luggage and asking about my residence. I hope you can tell them.
+It turned out to be exactly what he said.
+Another student came to study. After studying for several years, he thought he had mastered the essential skills. He resigned and returned to his hometown. Duan Yi mixed a plaster for him, sealed it in a tube with a simple letter, and told the student: "If there is an emergency, open it and take a look."
+When the students arrived at Jiameng, they fought with the officials to cross the river, and the Jin officials broke the head of the disciple.
+The student then opened the tube and got the letter. The letter said, if you get to Jiameng and break it in a fight with an official, use this plaster to wrap it.
+The student listened to his words and the injured person recovered immediately.
+The students were so impressed that they completed their studies in a hurry.
+Duan Yi then lived in seclusion and died at home.
+
+summary:
+Duan Yi of Guanghan studied the Book of Changes and Mingfengjiao. He accurately predicted students' arrivals and provided a plaster that healed a student's injury. He lived in seclusion and died at home.
+
+================================================================================
+
+Summary line 15
+Span: 225-231 (score=0.3744)
+
+original:
+翳遂隐居窜迹，终于家。
+廖扶字文起，汝南平舆人也。
+习《韩诗》、《欧阳尚书》，教授常数百人。
+父为北地太守，永初中，坐羌没郡下狱死。扶感父以法丧身，惮为吏。
+及服终而叹曰： 老子有言： 名与身孰亲？
+吾岂为名乎！
+遂绝志世外。
+
+translation:
+Duan Yi then lived in seclusion and died at home.
+Liao Fu's biography, Liao Fu's character and writing, was born in Pingyu, Runan.
+He often taught hundreds of people to study "Han Shi" and "Ouyang Shangshu".
+His father was the governor of the Northern Territory. During the Yongchu period, he was imprisoned and died because of the Qiang people who invaded the county. Liao Fu felt that his father died because of the law and was afraid of becoming an official.
+At the end of the mourning period, he sighed: "I said: Who is related to the name and the body?"
+Do I have a reputation?
+So I decided to leave the world.
+
+summary:
+Liao Fu of Runan studied classics and astronomy. After his father's death, he decided to leave worldly affairs.
+
+================================================================================
+
+Summary line 16
+Span: 231-238 (score=0.4084)
+
+original:
+遂绝志世外。
+专精经典，尤明天文、谶纬，风角、推步之术。
+州郡公府辟召，皆不应。
+就问灾异，亦无所对。
+扶逆知岁荒，乃聚谷数千斛，悉用给宗族姻亲，又敛葬遭疫死亡不能自收者。
+常居先人冢侧，未曾入城市。
+太守谒焕，先为诸生，从扶学。后临郡，未到，先遣吏修门人之礼，又欲擢扶子弟，固不肯，当时人因号为北郭先生。
+年八十，终于家。
+
+translation:
+So I decided to leave the world.
+Specializes in classics, especially astronomy, prophecy, wind angle, and pushing techniques.
+Even if the state, county or government summoned him, he would not respond.
+Even if asked about the disaster, there is no answer.
+Liao Futui knew that there was a famine in the years, so he gathered thousands of dendrobiums from the grain, all of which were used to give to his clan's in-laws and to bury those who died of illness and could not collect their bones.
+He often lives near the graves of his ancestors and never enters the city.
+The prefect's name was Ye Huan. He was a student at first and studied under Liao Fu. Later he came to the county. Before he took office, he first sent officials and disciples gifts and wanted to promote Liao Fu's children. Liao Fu refused, so people at that time called him Mr. Beiguo.
+He died at home at the age of eighty.
+
+summary:
+He predicted famines and distributed grain to relatives. He refused official positions and died at home at age eighty.
+
+================================================================================
+
+Summary line 17
+Span: 243-254 (score=0.3749)
+
+original:
+国有资财二亿，家僮八百人。
+像幼有仁心，不杀昆虫，不折萌牙。
+能通《京氏易》，好黄、老言。
+及国卒，感多藏厚亡之义，乃散金帛资产，周施亲疏。
+或谏像曰： 君三男两女，孙息盈前，当增益产业，何为坐自殚竭乎？
+像曰： 昔斗子文有言： 我乃逃祸，非避富也。
+吾门户殖财日久，盈满之咎，道家所忌。
+今世将衰，子又不才。
+不仁而富，谓之不幸。
+墙隙而高，其崩必疾也。
+智者闻之，咸服焉。
+自知亡日，召宾客九族饮食辞诀，忽然而终。
+
+translation:
+Zhang Guo has a capital of 200 million and a family of 800 children.
+The broken statue showed benevolence when it was young and did not kill insects or break young shoots.
+Be able to understand "Jing's Book of Changes" and be familiar with the words of Huangdi and Laozi.
+After the death of the state, he realized what Lao Tzu said: "A great treasure will lead to a rich perish", so he dispersed his gold and silk property and gave it to his relatives and friends.
+Someone advised him, "You have three sons and two daughters, and a family full of grandchildren. You should increase your property. Why did you take it all away?"
+Like saying: Once upon a time, Dou Ziwen had a saying: I am running away from misfortune, not riches.
+My family has been accumulating wealth for a long time, and the fault of being full is the most taboo among Taoists.
+In this world, the way is about to decline, and the son has no talent.
+Being rich without kindness is called misfortune.
+If the wall is tall with gaps, it will collapse quickly!
+The smart people were convinced by him after hearing these words.
+Knowing the day of his death, he summoned the nine guests to eat and say goodbye, then died suddenly.
+
+summary:
+Zhe Xiang of Guanghan understood the Book of Changes and Huangdi-Laozi teachings. After his father's death, he dispersed his wealth, citing Laozi's warnings about riches. He knew his death day, bid farewell to guests, and died suddenly at eighty-four.
+
+================================================================================
+
+Summary line 18
+Span: 252-261 (score=0.5270)
+
+original:
+墙隙而高，其崩必疾也。
+智者闻之，咸服焉。
+自知亡日，召宾客九族饮食辞诀，忽然而终。
+时年八十四。家无余资，诸子衰劣如其言云。
+樊英字季齐，南阳鲁阳人也。
+少受业三辅，习《京氏易》，兼明《五经》。
+又善风角、星算，《河》、《洛》七纬，推步灾异。
+隐于壶山之阳，受业者四方而至。
+州郡前后礼请，不应；公卿举贤良方正、有道，皆不行。
+尝有暴风从西方起，英谓学者曰： 成都市火甚盛。
+
+translation:
+If the wall is tall with gaps, it will collapse quickly!
+The smart people were convinced by him after hearing these words.
+Knowing the day of his death, he summoned the nine guests to eat and say goodbye, then died suddenly.
+He was eighty-four years old, his family had no extra property, and his sons were in decline as his father said.
+Fan Ying's biography, Fan Ying's courtesy name is Ji Qi, and he was born in Luyang, Nanyang.
+When he was young, he studied in Sanfu and learned "Jingshi Yi" and "Five Classics" at the same time.
+He is also good at wind angle and star calculation. He and Luo have seven latitudes and can predict disasters and changes.
+Living in seclusion in the sun of Hushan Mountain, people coming from all over the world came to receive their karma.
+The prefectures and counties politely asked him to come out, but he refused. Even if the minister recommends him to be a virtuous, upright, and moral person, it will not work.
+Once there was a storm coming from the west. Fan Ying said to the students: There was a big fire in Chengdu.
+
+summary:
+Fan Ying of Nanyang studied Jingshi Yi and Five Classics, skilled in wind angle and star calculation. He predicted a fire in Chengdu.
+
+================================================================================
+
+Summary line 19
+Span: 264-273 (score=0.2689)
+
+original:
+于是天下称其术艺。
+安帝初，征为博士。
+至建光元年，复诏公车赐策书，征英及同郡孔乔、李昺、北海郎宗、陈留杨伦、东平王辅六人，唯郎宗、杨伦到洛阳，英等四人并不至。
+永建二年，顺帝策书备礼，玄纁征之，复固辞疾笃。
+乃诏切责郡县，驾载上道。
+英不得已，到京，称疾不肯起。
+乃强舆入殿，犹不以礼屈。
+帝怒，谓英曰： 朕能生君，能杀君；能贵君，能贱君；能富君，能贫君。
+君何以慢朕命？
+英曰： 臣受命于天。
+
+translation:
+So the world praised his superb art.
+In the early years of Emperor An's reign, Fan Ying was called a doctor.
+In the first year of Jianguang's reign, he issued an imperial edict to issue policy documents and summoned Fan Ying and six others from the same county, including Kong Qiao, Li Yuenei, Beihai Lang Zong, Chen Liu Yang Lun, and Dongping Sanfu. Only Lang Zong and Yang Lun arrived in Luoyang, while Fan Ying and the other four did not.
+In the second year of Yongjian's reign, Emperor Shun prepared a letter and prepared a ceremony for him. He summoned him with Xuanzhong, but he resolutely resigned because he was seriously ill.
+So the edict ordered the counties and counties to drive them on the road.
+Fan Ying had no choice but to arrive in Kyoto, claiming to be ill and refusing to get up.
+So he reluctantly carried him into the palace in a car, but he still didn't show any courtesy.
+The emperor got angry and said to Ying: I can make you live or kill you; I can make you noble or humble; I can make you rich or poor.
+Why did you neglect my orders?
+Fan Ying said: I am ordered by Heaven.
+
+summary:
+He refused multiple imperial summons but eventually attended court, where he boldly stated he was ordered by Heaven.
+
+================================================================================
+
+Summary line 20
+Span: 288-298 (score=0.4941)
+
+original:
+初，河南张楷与英俱征，既而谓英曰： 天下有二道，出与处也。
+吾前以子之出，能辅是君也，济斯人也。
+而子始以不訾之身，怒万乘之主；及其享受爵禄，又不闻匡救之术，进退无所据矣。
+英既善术，朝廷每有灾异，诏辄下问变复之效，所言多验。
+初，英著《易章句》，世名樊氏学，以图纬教授。
+颍川陈寔，少从英学。
+尝有疾，妻遣婢拜问，英下床答拜。
+寔怪而问之。
+英曰： 妻，齐也。共奉祭祀，礼无不答。
+其恭谨若是。
+年七十余，卒于家。
+
+translation:
+At first, Zhang Kai from Henan was summoned together with Fan Ying, and then he said to Ying: There are two ways in the world, that is, coming out and not coming out.
+I used to think that if you came out, you could help the king and help these people.
+But you started to anger the Lord of Ten Thousand Vehicles with your unafraid of slander. After enjoying the honor and wealth, you didn't hear of any way to save the world, and there was no basis for advancement or retreat.
+Fan Ying was good at alchemy. Whenever there was a disaster or strange phenomenon in the court, he would often issue edicts to ask about the effect of transformation and recovery, and what he said was often effective.
+At first, Fan Ying wrote "Yi Zhang Ju" and was known as Fan's School in the world. He taught his students with Tuwei.
+Chen Chen of Yingchuan learned from Fan Ying when he was young.
+Once when Fan Ying was ill, his wife sent her maid to pay her respects, and Fan Ying would get out of bed to answer her questions.
+Chen Chen felt strange and asked him.
+Ying said: Wife means Qi. When offering sacrifices, there is no one who refuses to pay homage according to the etiquette.
+Such was his reverence.
+He was in his seventies and died at home.
+
+summary:
+He was appointed General of the Five Features but soon returned home. He wrote "Yi Zhang Ju" and taught students. He died at home in his seventies.
+
+================================================================================
+

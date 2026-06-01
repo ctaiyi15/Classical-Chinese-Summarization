@@ -1,0 +1,132 @@
+Summary line 0
+Span: 0-5 (score=0.5738)
+
+original:
+简文帝太宗简文皇帝，讳纲，字世缵，小字六通，高祖第三子，昭明太子母弟也。
+天监二年十月丁未，生于显阳殿。
+五年，封晋安王，食邑八千户。
+八年，为云麾将军，领石头戍军事，量置佐吏。
+九年，迁使持节、都督南北兗、青、徐、冀五州诸军事、宣毅将军、南兗州刺史。
+十二年，入为宣惠将军、丹阳尹。
+
+translation:
+Emperor Taizong's Jianwen was named Gang, with the courtesy name Shizuan and the nickname Liutong. He was the third son of Emperor Gaozu and the half-brother of Prince Zhaoming.
+He was born in Xianyang Hall on October 28th, the second year of Tianjian.
+In the fifth year of Tianjian's reign, he was granted the title of King of Jin'an and had a settlement of 8,000 households.
+In the eighth year of Tianjian's reign, he was appointed General Yunhui, leading the military garrison in Shitou, and considered setting up advisers.
+In the ninth year of Tianjian, he was promoted to envoy Chijie, governor of the military affairs of the five states of southern and northern Yanzhou, Qing, Xu, and Hebei, general Xuanyi, and governor of southern Yanzhou.
+In the twelfth year of Tianjian, he was appointed as General Hui and Danyang Yin.
+
+summary:
+Emperor Taizong, named Gang, was the third son of Emperor Gaozu and half-brother of Prince Zhaoming. Born in Xianyang Hall in 464 AD, he was granted the title King of Jin'an in 467 AD with 8,000 households. Over the years, he held various military and civil posts, including General Yunhui, governor of multiple states, and commander-in-chief of military affairs. He was appointed crown prince in 531 AD after Prince Zhaoming's death and became emperor in 549 AD upon Emperor Gaozu's death. Upon ascending the throne, he issued edicts to reduce sentences, release northern slaves, and appoint officials. He faced challenges such as rebellions, famines, and invasions.
+
+================================================================================
+
+Summary line 1
+Span: 69-88 (score=0.4338)
+
+original:
+丙戌，以安陆王大春为东扬州刺史。
+省吴州，如先为郡。
+诏曰： 近东垂扰乱，江阳纵逸。上宰运谋，猛士雄奋，吴、会肃清，济、兗澄谧，京师畿内，无事戎衣。
+朝廷达宫，斋内左右，并可解严。
+乙巳，以尚书仆射王克为左仆射。
+是月，邵陵王纶自寻阳至于夏口，郢州刺史南平王恪以州让纶。
+丙午，侯景逼太宗幸西州。
+夏五月庚午，征北将军、开府仪同三司鄱阳嗣王范薨。
+自春迄夏，大饥，人相食，京师尤甚。
+六月辛巳，以南郡王大连行扬州事。
+庚子，前司州刺史羊鸦仁自尚书省出奔西州。
+秋七月戊辰，贼行台任约寇江州，刺史寻阳王大心以州降约。
+是月，以南郡王大连为江州刺史。
+八月甲午，湘东王绎遣领军将军王僧辩率众逼郢州。
+乙亥，侯景自进位相国，封二十郡为汉王。
+邵陵王纶弃郢州走。
+冬十月乙未，侯景又逼太宗幸西州曲宴，自加宇宙大将军、都督六合诸军事。
+立皇子大钧为西阳郡王，大威为武宁郡王，大球为建安郡王，大昕为义安郡王，大挚为绥建郡王，大圜为乐梁郡王。
+壬寅，景害南康嗣王会理。
+十一月，任约进据西阳，分兵寇齐昌，执衡阳王献送京师，害之。
+
+translation:
+On the 6th, King Dachun of Anlu was appointed governor of Dongyangzhou.
+After inspecting Wuzhou, it was still changed to a county as before.
+The edict is issued: Recently, there have been intrusions and disturbances in the east of the country, and Jiangyang is turbulent. The prime minister is planning and planning, and the warriors are working hard to clear Wu and Hui, stabilize Ji and Yan, and there is nothing to do in the capital.
+Martial law can be lifted by high-ranking officials of the imperial court, both inside and outside the palace.
+On the 25th, Ren Shangshu Pushe Wang Ke was appointed Zuo Pushe.
+This month, Wang Lun of Shaoling arrived at Xiakou from Xunyang. Wang Ke, the governor of Yingzhou, Nanping, transferred Yingzhou to Wang Lun of Shaoling.
+On the 26th, Hou Jing forced Taizong to visit Xizhou.
+On the 22nd day of the fifth month of the Xia Dynasty, General Zhengbei, Kaifu Yi and the Third Division Poyang Successor Wang Fan died.
+From spring to summer, there was a great famine, with people eating people, and the situation in the capital became even more serious.
+On June 3rd, he was appointed Prince of Nanjun in Dalian to conduct affairs in Yangzhou.
+On the 22nd, Yang Yaren, the former governor of Sizhou, fled from Shangshu Province to Xizhou.
+On the 20th day of the seventh lunar month in the autumn, the thieves went to Taiwan and Ren Yue invaded Jiangzhou. The governor of Xunyang, King Daxin, surrendered to Ren Yue.
+This month, Dalian, the king of Nanjun, was appointed governor of Jiangzhou.
+On August 17, Wang Yi of eastern Hunan sent his leading general Wang Sengbian to lead his troops to approach Yingzhou.
+In Yihai, Hou Jing proclaimed himself Prime Minister and made twenty counties the King of Han.
+Wang Lun of Shaoling abandoned Yingzhou and fled.
+On the 19th day of the tenth month in winter, Hou Jing forced Taizong to visit Xizhou and hosted a private banquet. He named himself the general of the universe and the commander-in-chief of all military affairs in Liuhe.
+The prince Dajun was made the king of Xiyang, Dawei was the king of Wuning, Daqiu was the king of Jian'an, Daxin was the king of Yi'an, Dazhi was the king of Suijian, and Dahuan was the king of Leliang.
+On the 26th, Hou Jing killed Huili, the successor king of Nankang.
+In November, Ren Yue marched into Xiyang, divided his troops and invaded Qichang, arrested Wang Xian of Hengyang, escorted him to the capital, and killed him.
+
+summary:
+In 550 AD, Hou Jing forced him to visit Xizhou and later proclaimed himself prime minister. Hou Jing deposed Taizong as King of Jin'an in 551 AD, imprisoned him, and killed many of his family members. Taizong died in Yongfu Province at age 49, suffocated by a bag of soil. He was posthumously named Emperor Ming, later changed to Emperor Jianwen.
+
+================================================================================
+
+Summary line 2
+Span: 123-144 (score=0.4223)
+
+original:
+弗欺暗室，岂况三光，数至于此，命也如何！
+又为《连珠》二首，文甚凄怆。
+太宗幼而敏睿，识悟过人，六岁便属文，高祖惊其早就，弗之信也。乃于御前面试，辞采甚美。
+高祖叹曰： 此子，吾家之东阿。
+既长，器宇宽弘，未尝见愠喜。
+方颊豊下，须鬓如画，眄睐则目光烛人。
+读书十行俱下。
+九流百氏，经目必记；篇章辞赋，操笔立成。
+博综儒书，善言玄理。
+自年十一，便能亲庶务，历试蕃政，所在有称。
+在穆贵嫔忧，哀毁骨立，昼夜号泣不绝声，所坐之席，沾湿尽烂。
+在襄阳拜表北伐，遣长史柳津、司马董当门，壮武将军杜怀宝、振远将军曹义宗等众军进讨，克平南阳、新野等郡，魏南荆州刺史李志据安昌城降，拓地千余里。
+及居监抚，多所弘宥，文案簿领，纤毫不可欺。
+引纳文学之士，赏接无倦，恒讨论篇籍，继以文章。
+高祖所制《五经讲疏》，尝于玄圃奉述，听者倾朝野。
+雅好题诗，其序云： 余七岁有诗癖，长而不倦。
+然伤于轻艳，当时号曰 宫体 。
+所著《昭明太子传》五卷，《诸王传》三十卷，《礼大义》二十卷，《老子义》二十卷，《庄子义》二十卷，《长春义记》一百卷，《法宝连璧》三百卷，并行于世焉。
+史臣曰：太宗幼年聪睿，令问夙标，天才纵逸，冠于今古。
+文则时以轻华为累，君子所不取焉。
+及养德东朝，声被夷夏，洎乎继统，实有人君之懿矣。
+方符文、景，运钟《屯》、《剥》，受制贼臣，弗展所蕴，终罹怀、愍之酷，哀哉！
+
+translation:
+There is no place that is dark and uninhabited, let alone the sun, moon and stars! This happens many times, who knows what the fate will be like!
+He also wrote two poems, "Lianzhu", with extremely sad lyrics.
+When he was young, Taizong was smart, witty and knowledgeable. His knowledge and understanding were beyond ordinary people. He was able to compose at the age of six. Emperor Gaozu marveled at his precocity and did not believe it was true, so he interviewed him personally. As expected, his diction and style were excellent.
+Emperor Gaozu sighed: This child will become Dong'a of my family.
+When you grow up, you will be broad-minded and ambitious, and will not easily reveal your emotions.
+The cheeks are square and plump, and the beard and temples are like a painting. If you look at him, your eyes will be scorching.
+Read ten lines at a glance.
+The thoughts of hundreds of characters from nine genres are never forgotten and kept in mind. Articles, words and poems can be written in one stroke.
+He is erudite in Confucianism and good at metaphysics.
+From the age of eleven, he has been familiar with various government affairs of the country, and has been praised for his many attempts to deal with foreign affairs.
+During the period of mourning for Mu's noble concubine, she became extremely thin due to the grief of her loss. It was as if she was leaning on her bones and she was sobbing non-stop. The mats she sat on were all soaked with tears and rotted.
+In Xiangyang, the Northern Expedition was launched, and several armies including Chief Shi Liujin, Sima Dong Dangmen, Zhuangwu General Du Huaibao, and Zhenyuan General Cao Yizong were dispatched to attack the enemy. They pacified Nanyang, Xinye and other counties. Li Zhi, the governor of Jingzhou in southern Wei, occupied Anchang City and surrendered, expanding his territory by more than a thousand miles.
+When he was appointed to supervise the country and Fujun, he showed great tolerance and magnanimity. He was responsible for handling the case files without making any mistakes.
+Attract and recruit literary people, never tire of appreciating and receiving them, often discuss books, and then write articles.
+The "Explanations of the Five Classics" compiled by Emperor Gaozu was once recited in Xuanpu, and the audience was moved by both the government and the public.
+Yahao wrote a poem, and his preface reads: I was addicted to poetry when I was seven years old, and I have never slacked off since I became an adult.
+However, the injury was minor and it was called "uterine body" at that time.
+He wrote five volumes of "The Biography of Prince Zhaoming", thirty volumes of "The Biography of the Kings", twenty volumes of "Li Dayi", twenty volumes of "Laozi Yi", twenty volumes of "Zhuangzi Yi", one hundred volumes of "Changchun Yiji", and three hundred volumes of "Magic Treasure Lianbi".
+Shi Chen said: Taizong was smart and wise when he was young. His beautiful knowledge has been spread for a long time. His talents are beyond the past and present.
+Because the article was influenced by the frivolous and flashy writing style of the time, it was not appreciated by gentlemen.
+When Taizong cultivated his morality in the Eastern Dynasty and his reputation spread throughout the country, and when he succeeded to the throne, he truly possessed the virtues of a human king.
+Just when Taizong was governing the country like Emperors Wen and Jing, his fate was unlucky as shown in "Tuen" and "Pi". He was controlled by traitors and could not display his talents. He finally met the cruel ending of Emperor Huai and Emperor Min of Jin. How sad!
+
+summary:
+Taizong was exceptionally intelligent, able to compose at age six, and known for his broad-mindedness and literary talents. He wrote numerous works, including "The Biography of Prince Zhaoming" and "Changchun Yiji." Despite his virtues, he was controlled by traitors and met a tragic end.
+
+================================================================================
+

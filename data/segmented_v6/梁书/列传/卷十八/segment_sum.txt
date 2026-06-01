@@ -1,0 +1,524 @@
+Summary line 0
+Span: 0-13 (score=0.8387)
+
+original:
+张惠绍，字德继，义阳人也。
+少有武干。
+齐明帝时为直阁，后出补竟陵横桑戍主。
+永元初，母丧归葬于乡里。
+闻义师起，驰归高祖，板为中兵参军，加宁朔将军、军主。
+师次汉口，高祖使惠绍与军主硃思远游遏江中，断郢、鲁二城粮运。
+郢城水军主沈难当帅轻舸数十挑战，惠绍击破，斩难当，尽获其军器。
+义师次新林、硃雀，惠绍累有战功。
+建康城平，迁辅国将军、前军，直阁、左细仗主。
+高祖践阼，封石阳县侯，邑五百户。
+迁骁骑将军，直阁、细仗主如故。
+时东昏余党数百人，窃入南北掖门，烧神虎门，害卫尉张弘策。
+惠绍驰率所领赴战，斩首数十级，贼乃散走。
+以功增邑二百户。迁太子右卫率。
+
+translation:
+Zhang Huishao, courtesy name Deji, was from Yiyang.
+He had military talent in his youth.
+During the reign of Emperor Qi Ming of the Southern Dynasty, he was appointed as Zhihe, and later he was appointed as the garrison commander of Jingling Hengsang.
+In the early years of Yongyuan, his mother passed away and he returned to his hometown for burial.
+When he heard about the rise of Liang Gaozu's righteous army, he hurried to join Gaozu. He was appointed as a soldier in the army and joined the army as general Ningshuo and military leader.
+The righteous army was temporarily stationed in Han Dynasty, and Emperor Gaozu sent Zhu Siyuan, the leader of the Hui Shao Yu army, to patrol the Yangtze River to block the grain transportation channel between Ying and Lu cities.
+Shen Nandang, the navy chief of Yingcheng, led ten light warships to challenge Hui Shao, but was defeated by Hui Shao. Shen Nandang was beheaded and all his weapons were seized.
+The righteous army stopped at Xinlin and Zhuque, and Hui Shao made many military exploits.
+After Jiankang City was captured by the righteous army, Hui Shao moved to serve as the general of the auxiliary state and the front army, the commander of Zhihe and Zuoxi.
+After Liang Gaozu ascended the throne, he granted Huishao the title of Marquis of Shiyang County, with a settlement of 500 households.
+Hui Shao was again promoted to General of Xiaoqi, and the masters of Zhihe and Xizhan remained the same.
+At that time, the remnant party of Donghun Hou, consisting of hundreds of people, secretly sneaked into Nanyemen and Beiyemen, set fire to Shenhumen, and killed the guard Zhang Hongce.
+Hui Shao led his men to rush to fight and beheaded them to the tenth level. Only then did the rest of the party escape.
+Due to his meritorious service, Hui Shao increased his residence by 200 households, and was moved to the position of the crown prince's right guard.
+
+summary:
+Zhang Huishao, courtesy name Deji, was from Yiyang. During the reign of Emperor Qi Ming of the Southern Dynasty, he served as Zhihe and garrison commander of Jingling Hengsang. After his mother's death in the early Yongyuan period, he returned home for burial. Upon hearing of Liang Gaozu's righteous army, he joined as a soldier and was appointed General Ningshuo. He defeated Shen Nandang's navy, seized weapons, and made many military exploits at Xinlin and Zhuque. After Jiankang was captured, he became General of the Auxiliary State and was later granted the title of Marquis of Shiyang County with 500 households. When remnants of Donghun Hou's forces attacked the palace gates, Huishao led his men to defeat them, killing many. He was promoted to Crown Prince's Right Guard and increased his residence by 200 households.
+
+================================================================================
+
+Summary line 1
+Span: 9-25 (score=0.6595)
+
+original:
+高祖践阼，封石阳县侯，邑五百户。
+迁骁骑将军，直阁、细仗主如故。
+时东昏余党数百人，窃入南北掖门，烧神虎门，害卫尉张弘策。
+惠绍驰率所领赴战，斩首数十级，贼乃散走。
+以功增邑二百户。迁太子右卫率。
+天监四年，大举北伐，惠绍与冠军长史胡辛生、宁朔将军张豹子攻宿预，执城主马成龙，送于京师。
+使部将蓝怀恭于水南立城为掎角。
+俄而魏援大至，败陷怀恭，惠绍不能守，是夜奔还淮阴，魏复得宿预。
+六年，魏军攻钟离，诏左卫将军曹景宗督众军为援，进据邵阳。惠绍与冯道根、裴邃等攻断魏连桥，短兵接战，魏军大溃。
+以功增邑三百户，还为左骁骑将军。
+寻出为持节、都督北兗州诸军事、冠军将军、北兗州刺史。
+魏宿预、淮阳二城内附，惠绍抚纳有功，进号智武将军，益封二百户。
+入为卫尉卿，迁左卫将军。
+出为持节、都督司州诸军事、信威将军、司州刺史、领安陆太守。
+在州和理，吏民亲爱之。
+征还为左卫将军，加通直散骑常侍，甲仗百人，直卫殿内。
+十八年，卒，时年六十三。
+
+translation:
+After Liang Gaozu ascended the throne, he granted Huishao the title of Marquis of Shiyang County, with a settlement of 500 households.
+Hui Shao was again promoted to General of Xiaoqi, and the masters of Zhihe and Xizhan remained the same.
+At that time, the remnant party of Donghun Hou, consisting of hundreds of people, secretly sneaked into Nanyemen and Beiyemen, set fire to Shenhumen, and killed the guard Zhang Hongce.
+Hui Shao led his men to rush to fight and beheaded them to the tenth level. Only then did the rest of the party escape.
+Due to his meritorious service, Hui Shao increased his residence by 200 households, and was moved to the position of the crown prince's right guard.
+In the fourth year of Tianjian, Liang Jun launched a large-scale Northern Expedition. Hui Shaoyu champion Hu Xinsheng and Ningshuo general Zhang Baozi attacked Suyu, captured the city lord Ma Chenglong, and escorted him to the capital.
+He asked his general Lan Huaigong to build a city on the south bank of the river, forming a cornering force.
+Soon, reinforcements from the Wei army arrived in large numbers, defeated Lan Huaigong and captured the city built by Huaigong. Hui Shao could not defend the city of Yu, so he fled back to Huaiyin that night, and the Wei army regained the city.
+In the sixth year of Tianjian, the Wei army attacked Zhongli. Emperor Wu of Liang ordered the left guard general Cao Jingzong to supervise the various armies as backup and marched to occupy Shaoyang. Hui Shao, Feng Daogen, Pei Sui and others attacked the Wei army's connecting bridge. The two armies fought in close combat, and the Wei army was defeated.
+Hui Shao also added 300 households to the city due to his meritorious service. After returning, he served as General Zuo Xiaoqi.
+Soon after, he served as Chijie, Commander-in-Chief of all military affairs in Northern Yanzhou, Champion General, and Governor of Northern Yanzhou.
+The two cities of Suyu and Huaiyang of the Wei State were surrendered to the Liang Dynasty. Hui Shao was promoted to the title of General Zhiwu due to his meritorious service in recruiting and appeasing them, and was granted an additional 200 households.
+Later he was recalled to serve as Wei Qing and moved to Zuowei General.
+He also served as Chijie, governor of all military affairs in Sizhou, general Xinwei, governor of Sizhou, and concurrently as prefect of Anlu.
+Huishao managed the state well during his term, and the officials and the people loved him very much.
+Sai Niu was recalled to the capital to serve as the general of the left guard. He was appointed as a regular attendant on the cavalry and led an armored honor guard of 100 people to guard the palace.
+In the eighteenth year of Tianjian, Ji Saichao passed away at the age of sixty-three.
+
+summary:
+In the fourth year of Tianjian, he attacked Suyu and captured the city lord Ma Chenglong. However, after Wei reinforcements arrived and defeated his general Lan Huaigong, Huishao fled to Huaiyin. In the sixth year, he fought at Zhongli under Cao Jingzong, contributing to the defeat of the Wei army. He later served as Governor of Northern Yanzhou, where he managed affairs well and was beloved by officials and people. He died at age sixty-three in the eighteenth year of Tianjian, receiving posthumous honors.
+
+================================================================================
+
+Summary line 2
+Span: 30-43 (score=0.4321)
+
+original:
+宜追宠命，以彰勋烈。
+可赠护军将军，给鼓吹一部，布百匹，蜡二百斤。
+谥曰忠。
+子澄嗣。
+澄初为直阁将军，丁父忧，起为晋熙太守，随豫州刺史裴邃北伐，累有战功，与湛僧智、胡绍世、鱼弘并当时之骁将。
+历官卫尉卿、太子左卫率。
+卒官，谥曰愍。
+冯道根，字巨基，广平酂人也。
+少失父，家贫，佣赁以养母。
+行得甘肥，不敢先食，必遽还以进母。
+年十三，以孝闻于乡里。
+郡召为主簿，辞不就。
+年十六，乡人蔡道斑为湖阳戍主，道斑攻蛮锡城，反为蛮所困，道根救之。
+匹马转战，杀伤甚多，道斑以免，由是知名。
+
+translation:
+Appointments with special gifts can be given posthumously in recognition of his achievements.
+He can be posthumously given the title of General Guarding the Army, a piece of propaganda, one hundred bolts of cloth, and two hundred catties of wax.
+Mi called Zhong.
+He was succeeded by his son Zhang Cheng.
+At first, he was appointed as General Zhihe. After his father's death, he was appointed as the prefect of Zhesesu. He followed the governor Zhosai in the Northern Expedition and made many military exploits. At that time, Yu Zhan Sengzhi, Hu Shaoshi, and Yu Dan were all brave generals.
+Throughout his life, he served as Weiweiqing, Prince Zuoweili and other officials.
+He died in office and was named Mi.
+Dun Daodan, whose courtesy name is Danji, was born in Luluo.
+He lost his father when he was young and his family was poor. He had been employed as a worker since he was a child to support his mother.
+When he got delicious food, he didn't dare to eat it first. He had to go home quickly and donate it to his mother.
+At only thirteen years old, he was famous in his hometown for his filial piety.
+The county governor called him to be the chief clerk, but he refused.
+When he was sixteen years old, fellow countryman Tomb Daowang served as the garrison leader of Yingdang. Daowang attacked the base where the barbarians lived, but was besieged by the barbarians. Feng Daogen went to rescue him.
+He fought alone in the east and west and killed many enemies. As a result, Dao Ban was able to avoid the siege, and Feng Daogen became a famous figure.
+
+summary:
+Feng Daogen, courtesy name Danji, was from Luluo. Orphaned young and poor, he worked to support his mother, gaining fame for filial piety at thirteen. At sixteen, he rescued fellow villager Tomb Daowang from barbarians, killing many enemies.
+
+================================================================================
+
+Summary line 3
+Span: 48-71 (score=0.5232)
+
+original:
+如是，则立破之矣。
+显达不听，道根犹以私属从军。
+及显达败，军人夜走，多不知山路；道根每及险要，辄停马指示之，众赖以全。
+寻为汮均口戍副。
+永元中，以母丧还家。
+闻高祖起义师，乃谓所亲曰： 金革夺礼，古人不避，扬名后世，岂非孝乎？
+时不可失，吾其行矣。
+率乡人子弟胜兵者，悉归高祖。
+时有蔡道福为将从军，高祖使道根副之，皆隶于王茂。
+茂伐沔，攻郢城，克加湖，道根常为前锋陷陈。
+会道福卒于军，高祖令道根并领其众。
+大军次新林，随王茂于硃雀航大战，斩获尤多。
+高祖即位，以为骁骑将军，封增城县男，邑二百户。
+领文德帅，迁游击将军。
+是岁，江州刺史陈伯之反，道根随王茂讨平之。
+天监二年，为宁朔将军、南梁太守，领阜陵城戍。
+初到阜陵，修城隍，远斥候，有如敌将至者，众颇笑之。
+道根曰： 怯防勇战，此之谓也。
+修城未毕，会魏将党法宗、傅竖眼率众二万，奄至城下。道根堑垒未固，城中众少，皆失色。
+道根命广开门，缓服登城，选精锐二百人，出与魏军战，败之。
+魏人见意闲，且战又不利，因退走。
+是时魏分兵于大小岘、东桑等，连城相持。
+魏将高祖珍以三千骑军其间，道根率百骑横击破之，获其鼓角军仪。
+于是粮运既绝，诸军乃退。
+
+translation:
+In this way, the Wei army can be defeated quickly.
+Xianda did not follow his advice, and Daogen still let his men follow the army.
+When Xianda was defeated, the soldiers fled overnight, but most of them did not know the mountain roads. Every time Feng Daogen reached a dangerous place, he stopped his horse and pointed the direction to the soldiers. The team relied on his guidance to survive.
+Soon, Feng Daogen served as Mizoguchi's deputy garrison commander.
+During the Yongyuan period, Feng Daogen's mother passed away and he went home to attend the funeral.
+When I heard that Zhidan was organizing an insurrectionary division, I told my relatives: We cannot observe etiquette during wars, and the ancients did not avoid this issue. If we can be famous for future generations, isn't it not filial piety?
+This opportunity cannot be missed, I have to leave.
+He led all the children in the village who could serve as soldiers to defect to Gaozu.
+At that time, there was a general named Cai Daofu, and Gaozu asked Daogen to be his deputy. They were all subordinate to Wang Zhan.
+When Wang Jian attacked the ground, attacked the strong ball, and conquered the twists and turns, the channel bearers were all charging ahead.
+When Cai Daofu died in the army during the Han Dynasty, Chanpai ordered Tongdao Dan to command all the troops of Ji Daohuan.
+The rebel army was stationed in Qianta. When they met Daolong and Wang Lu, they fought in Saique and killed many enemies.
+After Emperor Gaozu ascended the throne, he appointed Feng Daodan as General Xiaoqi. He was also granted the title of Male of Zengcheng County and was given the title of a resident of 200 households.
+He also led Said Commander and was promoted to guerrilla general.
+In this year, Chen Bozhi, the governor of Jiangzhou, rebelled. When he met Daodan and Wang Peng, he attacked him quickly and put down the rebellion.
+In the second year of Yujian, Feng Daogen was appointed as General Ningshuo, Grand Administrator of Muliang County, and concurrently as her garrison commander in the imperial palace.
+As soon as Yaodaozou arrived in Huanglu, he built a moat and placed sentries at a distance, as if the enemy was about to come. Everyone laughed at him.
+Feng Daogen said: Be careful and defensive. Fight bravely, this is what I mean.
+The trenches had not yet been built, and General Yu Shifu led 20,000 troops to attack the city. At this time, the trench fortress of Fuling City built by Daogen was not strong enough, and there were few soldiers in the city. Everyone was panicked.
+Feng Daogen ordered the city gate to be opened wide. He calmly put on his battle uniform and climbed to the top of the city. He selected 200 elite soldiers and went out to fight the Wei army and defeated the Wei army.
+Qiao Jun saw that Dao Dan was looking at ease, but it was not in his best position to fight with him, so he retreated.
+At that time, the Wei army divided its forces and deployed them in Zuoxian, Chenmaggot, Sailuo and other places. The cities maintained contact with each other and faced each other with Fuling City in Daogen.
+Wei general Gao Zuzhen led 3,000 cavalry to communicate with each other. Feng Daogen led 100 cavalry to defeat the Wei army and captured the Wei army's Gujiao Army honor guard.
+As a result, the Wei army's food transportation channels were cut off, and all armies had to retreat.
+
+summary:
+During the Yongyuan period, after his mother's death, he joined Gaozu's righteous army, leading village youths. He served under Cai Daofu and later commanded his troops after Daofu's death. After Gaozu ascended, Daogen was made General Xiaoqi and Male of Zengcheng County with 200 households. He suppressed Chen Bozhi's rebellion. As Grand Administrator of Muliang County, he prepared defenses despite ridicule, then defeated General Yu Shifu's 20,000 troops by opening the city gates and sending out 200 elite soldiers. He later captured Wei army's Gujiao Army honor guard, cutting off their food supply. At the battle of Zhongli, he built fortresses and attacked the Wei army's bridge, contributing to their defeat.
+
+================================================================================
+
+Summary line 4
+Span: 87-91 (score=0.6094)
+
+original:
+道根性谨厚，木讷少言，为将能检御部曲，所过村陌，将士不敢虏掠。
+每所征伐，终不言功，诸将讠雚哗争竞，道根默然而已。
+其部曲或怨非之，道根喻曰： 明主自鉴功之多少，吾将何事。
+高祖尝指道根示尚书令沈约曰： 此人口不论勋。
+约曰： 此陛下之大树将军也。
+
+translation:
+Feng Daogen had a cautious and generous character, and was dull and talkative. When he was a general, he was able to restrain his subordinates. The officers and soldiers did not dare to plunder the villages they passed through.
+After every battle, Daogen always did not say his own credit. Other generals clamored for credit, but he just remained silent.
+Some of his subordinates had complaints against him, but Daogen reasoned with him and said: The emperor is very aware of everything and will be able to identify who has done more and who has done less, so what else should we do?
+Gao Dan once pointed at Dao Dan and said to Shangshu Lingxuan: This man never talks about his achievements.
+Shen Yue said: This is your Majesty's General Big Tree.
+
+summary:
+Daogen was cautious and generous, never boasting of his achievements. Gaozu compared him to General Big Tree.
+
+================================================================================
+
+Summary line 5
+Span: 90-95 (score=0.4236)
+
+original:
+高祖尝指道根示尚书令沈约曰： 此人口不论勋。
+约曰： 此陛下之大树将军也。
+处州郡，和理清静，为部下所怀。
+在朝廷，虽贵显而性俭约，所居宅不营墙屋，无器服侍卫，入室则萧然如素士之贫贱者。
+当时服其清退，高祖亦雅重之。
+微时不学，既贵，粗读书，自谓少文，常慕周勃之器重。
+
+translation:
+Gao Dan once pointed at Dao Dan and said to Shangshu Lingxuan: This man never talks about his achievements.
+Shen Yue said: This is your Majesty's General Big Tree.
+Fallen: When Mandan was an official in the state and county, he was lenient and gentle in governance, and his administration was clear and without disputes. He has always been remembered by his subordinates.
+When he was an official in the imperial court, even though he was in a distinguished position, he was still very frugal in nature. The house he lived in had no walls, no utensils, clothing, and no guards. Entering his room, it was very deserted, just like the house of a poor and lowly person among ordinary people.
+People at that time admired his poverty and indifference, and Emperor Gaozu also valued him very much.
+Daogen did not have the opportunity to study when he was young and in a low position. After his status rose, he became proficient in writing and calligraphy. He claimed that he lacked literary talent and often envied Zhou Bo for being valued for his talents.
+
+summary:
+He lived frugally in a simple house with no walls or guards. Though uneducated in youth, he later became proficient in writing.
+
+================================================================================
+
+Summary line 6
+Span: 99-107 (score=0.4518)
+
+original:
+豫部重得道根，人皆喜悦。
+高祖每称曰： 冯道根所在，能使朝廷不复忆有一州。
+居州少时，遇疾，自表乞还朝，征为散骑常侍、左军将军。
+既至疾甚，中使累加存问。
+普通元年正月，卒，时年五十八。
+是日舆驾春祠二庙，既出宫，有司以闻。
+高祖问中书舍人硃异曰： 吉凶同日，今行乎？
+异对曰： 昔柳庄寝疾，卫献公当祭，请于尸曰： 有臣柳庄，非寡人之臣，是社稷之臣也，闻其死，请往。
+不释祭服而往，遂以襚之。
+
+translation:
+The Yuzhou tribe regained Feng Daogen, and everyone was very happy.
+Emperor Gaozu often praised him and said: Wherever Feng Daogen went, he was able to make the court no longer remember that there was still a state to be dispatched.
+Feng Daogen fell ill soon after he took office in the state. He submitted a petition to the emperor, requesting to return to the capital. The emperor summoned him to serve as a regular servant of the cavalry and a general of the left army.
+When Daogen returned to the capital, his condition became even more serious. The emperor sent envoys to inquire about his condition several times.
+In the first month of the first year of the ordinary year, Feng Daogen passed away at the age of fifty-eight.
+On the day of his death, the emperor was about to go to the Second Temple to perform a spring festival. As soon as he left the palace, relevant officials reported to him the news of Daogen's death.
+Zhu Yi, a member of Emperor Gaozu's Jianzhong Shushe, said: Good luck and bad luck fall on the same day. Can I go today?
+Zhu Yi replied: Once upon a time, Liuzhuang died of illness in bed, and Wei Xianggong was performing sacrifices. He asked the person who presided over the sacrifices: There is a minister named Liuzhuang. He is not my minister, but a minister of Sheji. I heard that he was dead, and I asked to see him.
+He went to Liuzhuang's house without taking off his sacrificial robes, and presented Liuzhuang with clothes and quilts.
+
+summary:
+He died at fifty-eight in the first year of the ordinary period, with Gaozu personally mourning him.
+
+================================================================================
+
+Summary line 7
+Span: 111-131 (score=0.5662)
+
+original:
+奄致殒丧，恻怆于怀。
+可赠信威将军、左卫将军，给鼓吹一部。
+赙钱十万，布百匹。
+谥曰威。
+子怀嗣。
+康绚，字长明，华山蓝田人也。
+其先出自康居。
+初，汉置都护，尽臣西域。
+康居亦遣侍子待诏于河西，因留为黔首，其后即以康为姓。
+晋时陇右乱，康氏迁于蓝田。
+绚曾祖因为苻坚太子詹事，生穆，穆为姚苌河南尹。
+宋永初中，穆举乡族三千余家，入襄阳之岘南。宋为置华山郡蓝田县，寄居于襄阳，以穆为秦、梁二州刺史。
+未拜，卒。绚世父元隆，父元抚，并为流人所推，相继为华山太守。
+绚少俶傥有志气。齐文帝为雍州刺史，所辟皆取名家，绚特以才力召为西曹书佐。
+永明三年，除奉朝请。
+文帝在东宫，以旧恩引为直后，以母忧去职。
+服阕，除振威将军、华山太守。
+推诚抚循，荒余悦服。
+迁前军将军，复为华山太守。
+永元元年，义兵起，绚举郡以应高祖，身率敢勇三千人，私马二百五十匹以从。
+除西中郎南康王中兵参军，加辅国将军。
+
+translation:
+His sudden death left people feeling sad.
+You can posthumously confer him the title of General Xinwei and General Zuowei, and give him a piece of propaganda.
+Give away one hundred thousand pieces of money and one hundred pieces of cloth.
+Mi Haowei.
+He was succeeded by his son Feng Huai.
+Chen Pingyu Zhoulong was a native of Landanbi, Huashan County.
+His ancestors came from Chenjuli.
+Initially, a protective guard was set up in Lianqian.
+All the countries in Youqiu were in chaos, and Chen Zhuli also sent his prince as a servant to return to the Western Protectorate to wait for the emperor's order, so he stayed there and became an ordinary citizen, and their descendants took Kang as their surname.
+During the Jin Dynasty, there was turmoil in Longyou, and the Kang family moved to Lantian.
+Kang Xuan's great-grandfather Chenyu became the crown prince of Xianjian, Zhan Shi, and gave birth to a son named Kang Mu.
+During the reign of Xiansai, he mobilized more than 3,000 families with the surname Chen in the township and entered the Xianan area of ​​​​Xiangyang. For this purpose, Saiqu established Lanyan, Huashan County, subordinate to Saitun, and appointed Chenmu as the governor of Taizhou and Zhezhou. He died before taking office.
+Chen Mian's eldest uncle Chen Wuzhui and his father Qidou Mian were both elected by the immigrants and served as the prefect of Huashan County one after another.
+When Chenmian was a young man, he was outstanding and ambitious. When Emperor Wen of Qi came to appoint the governor, all the officials he selected came from famous people. Kang Xuan was called to be the secretary of Xicao because of his special talent.
+In the third year of Yongming Dynasty, Kangmian was awarded to the imperial court.
+When Saitong was the crown prince in Shu Palace, Kang Xuan was appointed as his concubine by Emperor Wen because of his old friendship, but he resigned due to the death of his mother.
+After the mourning period expired, he was awarded the title of General Zhenwei and the Grand Administrator of Huashan County.
+He appeases the people and treats each other with sincerity, and people in remote areas are also convinced by him.
+Later he moved to the post of general of the former army and then governor of Huashan County.
+In the first year of the return year, the benevolent and righteous troops of Shandan raised troops. Kang Xuan led the entire Huashan County to respond to the direct charge. He himself led 3,000 brave men and led his 250 horses to follow Gaozu.
+He was appointed as the middle soldier of King Lang Chenchen of Xizhong to join the army and became a general of the country.
+
+summary:
+Chen Mian, from Huashan County, had ancestors from Chenjuli who migrated during the Jin Dynasty. Outstanding in youth, he was called to serve as secretary of Xicao. After his mother's death, he became Grand Administrator of Huashan County, where he treated people with sincerity. When Gaozu raised troops, Chen Mian led 3,000 brave men and 250 horses to join him.
+
+================================================================================
+
+Summary line 8
+Span: 126-138 (score=0.6071)
+
+original:
+文帝在东宫，以旧恩引为直后，以母忧去职。
+服阕，除振威将军、华山太守。
+推诚抚循，荒余悦服。
+迁前军将军，复为华山太守。
+永元元年，义兵起，绚举郡以应高祖，身率敢勇三千人，私马二百五十匹以从。
+除西中郎南康王中兵参军，加辅国将军。
+义师方围张冲于郢城，旷日持久，东昏将吴子阳壁于加湖，军锋甚盛，绚随王茂力攻屠之。
+自是常领游兵，有急应赴，斩获居多。
+天监元年，封南安县男，邑三百户。
+除辅国将军、竟陵太守。
+魏围梁州，刺史王珍国使请救，绚以郡兵赴之，魏军退。
+七年，司州三关为魏所逼，诏假绚节、武旅将军，率众赴援。
+九年，迁假节、督北兗州缘淮诸军事、振远将军、北兗州刺史。
+
+translation:
+When Saitong was the crown prince in Shu Palace, Kang Xuan was appointed as his concubine by Emperor Wen because of his old friendship, but he resigned due to the death of his mother.
+After the mourning period expired, he was awarded the title of General Zhenwei and the Grand Administrator of Huashan County.
+He appeases the people and treats each other with sincerity, and people in remote areas are also convinced by him.
+Later he moved to the post of general of the former army and then governor of Huashan County.
+In the first year of the return year, the benevolent and righteous troops of Shandan raised troops. Kang Xuan led the entire Huashan County to respond to the direct charge. He himself led 3,000 brave men and led his 250 horses to follow Gaozu.
+He was appointed as the middle soldier of King Lang Chenchen of Xizhong to join the army and became a general of the country.
+The uprising troops were besieging Chengwei in Dancheng for a long time. The generals of Shuhunbao, Wang Wuyan, formed an encirclement. The army's vanguard was very powerful.
+From then on, Chen Mian often led soldiers on patrols, and rushed to rescue wherever there was a crisis, killing and capturing many enemies.
+In the first year of Tianjian, Chen Gou was granted the title of male in Nan'an County and was granted the title of 300 households.
+He was also appointed as the general of the auxiliary state and the prefect of Jingling County.
+The Wei army surrounded Liang Su, and the governor Wang Zhenguo sent someone to ask for help. Kang Xuan led Jingling and Deng's soldiers there, and the Wei army retreated.
+In the seventh year, the three passes of Sizhou were besieged by the Wei army. He was directly responsible for the command of Chen Mianzhi Fujie, appointed as the general of the military brigade, and led the army to rescue.
+In the ninth year, he moved to Jiejie, supervised the military affairs of Yanzhou and Huaihe River in northern Yanzhou, general Zhenyuan, and governor of northern Yanzhou.
+
+summary:
+He was granted the title of Male of Nan'an County with 300 households. He rescued Liang Su from Wei siege and later served as Governor of Northern Yanzhou.
+
+================================================================================
+
+Summary line 9
+Span: 156-159 (score=0.4520)
+
+original:
+缘淮百里内，冈陵木石，无巨细必尽，负担者肩上皆穿。
+夏日疾疫，死者相枕，蝇虫昼夜声相合。
+高祖愍役人淹久，遣尚书右仆射袁昂、侍中谢举假节慰劳之，并加蠲复。
+是冬又寒甚，淮、泗尽冻，士卒死者十七八，高祖复遣赐以衣袴。
+
+translation:
+Within a hundred miles along the Huaihe River, all the trees and stones on the hills and hills, no matter how big or small, were chopped down, and the shoulders of those who carried the trees and burdens were worn out.
+In the summer, an epidemic broke out, and the dead migrant workers piled together, sleeping on each other, and the sound of mosquitoes, flies and insects continued day and night.
+Emperor Gaozu felt sorry for the slaves who had to work for too long, so he sent Shangshu's right servant She Yuan Ang and his minister Xie Ju Chijie to the construction site to express condolences and exempt them from taxes.
+This winter was very cold. The Huaihe River and swimming pools were all frozen. Seventy-eight percent of the migrant workers and soldiers died. Emperor Gaozu also sent people to give clothes and trousers to the workers.
+
+summary:
+He supervised construction of the Jingshan Weir on the Huai River, mobilizing 200,000 workers. The weir was nine miles long, but the Huai River's currents repeatedly damaged it. Iron tools were sunk to counter dragons, and trees were cut for construction. An epidemic killed seventy-eight percent of workers.
+
+================================================================================
+
+Summary line 10
+Span: 84-88 (score=0.4075)
+
+original:
+十三年，出为信武将军、宣惠司马、新兴、永宁二郡太守。
+十四年，征为员外散骑常侍、右游击将军，领硃衣直阁。
+十五年，为右卫将军。
+道根性谨厚，木讷少言，为将能检御部曲，所过村陌，将士不敢虏掠。
+每所征伐，终不言功，诸将讠雚哗争竞，道根默然而已。
+
+translation:
+In the thirteenth year, he served as General Xinwu, Sima Xuanhui, and Governor of Xingxing Yongning County.
+In the fourteenth year, he was called to serve as Yuanwai Sanqi Changshi, Right Guerrilla General, and concurrently as Zhu Yi Zhihe.
+In the fifteenth year, he was appointed as the right guard general.
+Feng Daogen had a cautious and generous character, and was dull and talkative. When he was a general, he was able to restrain his subordinates. The officers and soldiers did not dare to plunder the villages they passed through.
+After every battle, Daogen always did not say his own credit. Other generals clamored for credit, but he just remained silent.
+
+summary:
+In the fifteenth year, the weir was completed, but later broke. Chen Mian served as Governor of Sizhou for three years, overhauling city moats.
+
+================================================================================
+
+Summary line 11
+Span: 102-107 (score=0.5360)
+
+original:
+既至疾甚，中使累加存问。
+普通元年正月，卒，时年五十八。
+是日舆驾春祠二庙，既出宫，有司以闻。
+高祖问中书舍人硃异曰： 吉凶同日，今行乎？
+异对曰： 昔柳庄寝疾，卫献公当祭，请于尸曰： 有臣柳庄，非寡人之臣，是社稷之臣也，闻其死，请往。
+不释祭服而往，遂以襚之。
+
+translation:
+When Daogen returned to the capital, his condition became even more serious. The emperor sent envoys to inquire about his condition several times.
+In the first month of the first year of the ordinary year, Feng Daogen passed away at the age of fifty-eight.
+On the day of his death, the emperor was about to go to the Second Temple to perform a spring festival. As soon as he left the palace, relevant officials reported to him the news of Daogen's death.
+Zhu Yi, a member of Emperor Gaozu's Jianzhong Shushe, said: Good luck and bad luck fall on the same day. Can I go today?
+Zhu Yi replied: Once upon a time, Liuzhuang died of illness in bed, and Wei Xianggong was performing sacrifices. He asked the person who presided over the sacrifices: There is a minister named Liuzhuang. He is not my minister, but a minister of Sheji. I heard that he was dead, and I asked to see him.
+He went to Liuzhuang's house without taking off his sacrificial robes, and presented Liuzhuang with clothes and quilts.
+
+summary:
+He died at fifty-seven in the first year of the ordinary period. He was generous and cheerful, giving cotton-padded clothes to poor officials in winter.
+
+================================================================================
+
+Summary line 12
+Span: 189-212 (score=0.6264)
+
+original:
+子悦嗣。
+昌义之，历阳乌江人也。少有武干。
+齐代随曹虎征伐，累有战功。
+虎为雍州，以义之补防阁，出为冯翊戍主。
+及虎代还，义之留事高祖。时天下方乱，高祖亦厚遇之。
+义师起，板为辅国将军、军主，除建安王中兵参军。
+时竟陵芊口有邸阁，高祖遣驱，每战必捷。
+大军次新林，随王茂于新亭，并硃雀航力战，斩获尤多。
+建康城平，以为直阁将军、马右夹毂主。
+天监元年，封永豊县侯，邑五百户。
+除骁骑将军。
+出为盱眙太守。
+二年，迁假节、督北徐州诸军事、辅国将军、北徐州刺史，镇钟离。
+魏寇州境，义之击破之。
+三年，进号冠军将军，增封二百户。
+四年，大举北伐，扬州刺史临川王督众军军洛口，义之以州兵受节度，为前军，攻魏梁城戍，克之。
+五年，高祖以征役久，有诏班师，众军各退散，魏中山王元英乘势追蹑，攻没马头，城内粮储，魏悉移之归北。
+议者咸曰： 魏运米北归，当无复南向。
+高祖曰： 不然，此必进兵，非其实也。
+乃遣土匠修堑营钟离城，敕义之为战守之备。
+是冬，英果率其安乐王元道明、平东将军杨大眼等众数十万，来寇钟离。
+钟离城北阻淮水，魏人于邵阳洲西岸作浮桥，跨淮通道。
+英据东岸，大眼据西岸，以攻城。
+时城中众才三千人，义之督帅，随方抗御。
+
+translation:
+His son Kang Yue succeeded him.
+Chang Yizhi, Bi Yan: Sister. He had a strong body when he was young.
+During the first expedition, he followed Xuanxu in the expedition and made many military exploits.
+When Cao Hu took office in Qian, he asked Zhan Zhi to fill the post of Fanghe and serve as the garrison commander of Feng Yi.
+When Xuanxu was exchanged, Zhanzhi stayed to serve Zhizhuo. At that time, the world was in chaos, and Gaozu treated justice well.
+After the righteous army rose up, Shanzhi was awarded the title of general of the auxiliary country and military commander, and was appointed as the middle soldier of King Jian'an to join the army.
+At that time, Tong Zuodeng's Tongdan had a warehouse for storing military supplies. Chantan sent him to fight, and he won every time.
+When the uprising army was stationed in Saimi, Chang Yizhi followed Wang Jian and fought hard in Qianhuang and Yuquexiao, killing and capturing many of them.
+After Jiankang City was pacified, Emperor Gaozu appointed Chang Yizhi as General Zhihe and Lord of Ma Youjiahu.
+The first year of Tianjian. The owner of the lamp was granted the title of Lord Chengfengxuanbao, and he was granted the title of Lord of Chengfengxuanbao, with a settlement of 500 households.
+Ren Xiaoqi General.
+Served as the prefect of the disgraceful face sculpture.
+In the second year, he was moved to the post of Jiejie, supervising the military affairs of Xu maggot in the north, general of the auxiliary state, governor of Rentiao Prefecture, and guarding Zhongli.
+The Wei army invaded Jitu and was defeated by Dan Zhanzhi's troops.
+Three years later, Chang Zhanzhi was awarded the title of Champion General and added 200 households in the city.
+In the fourth year, Luanqu launched a large-scale Northern Expedition. King Linchuan, the governor of Yangzhou, commanded various armies to be stationed in Chi. Zhanzhi led the state soldiers to accept Jiedu and served as the front army, attacked Wei's Liangcheng garrison and captured the garrison.
+In the fifth year, Zhidan felt that the military conscription was too long, so he ordered the army to return to the court, and all the troops retreated. Wang Chenglong of Zhongshan in Wei State took advantage of the situation to follow and pursue, and captured Matou City. The city packed the stored grain, and all the Soviet troops moved to the north.
+Commentators all said: The troops transported the rice back to the north, so they should not invade further south.
+Shandan said: No, the Japanese must be marching into the army. The current situation is not the truth of the matter.
+So he sent civil craftsmen to build clock plates and ordered Danzhan to prepare for war.
+In the winter of this year, Cheng Ji indeed led an army of hundreds of thousands including King Seruan Wu Huaqie, General Pingdong Yang Zuozu, and invaded Zhongli southward.
+The north side of Zhongli City was blocked by Qishui, so the Wei army built a pontoon bridge on the west bank of Yingbao Xun across the Huaihe River as a passage.
+Yuan Ying occupied Shu'an, Yang Dayan occupied the west bank, and attacked the city with a hammer.
+At that time, there were only 3,000 people in the city, and Chang Yizhi led them to resist at any time.
+
+summary:
+Chang Yizhi, with a strong body in youth, followed Xuanxu on expeditions. When Gaozu's righteous army rose, he was made General of the Auxiliary State. He fought bravely at Qianhuang and Yuquexiao. After Jiankang was pacified, he became General Zhihe and Lord of Ma Youjiahu. As Governor of Zhongli, he defeated Wei invaders. In the sixth year, when Wei armies besieged Zhongli with only 3,000 defenders, Yizhi led resistance, using mud to repair walls damaged by siege engines. He was skilled in archery, killing many enemies. Cao Jingzong's relief army arrived and defeated the Wei forces. Yizhi pursued them to Luokou. He later supervised construction of Jingshan Weir under Chen Mian.
+
+================================================================================
+
+Summary line 13
+Span: 234-238 (score=0.7105)
+
+original:
+义之班师，为有司所奏，高祖以其功臣，不问也。
+十五年，复以为使持节、都督湘州诸军事、信威将军、湘州刺史。
+其年，改授都督北徐州缘淮诸军事、平北将军、北徐州刺史。
+义之性宽厚，为将能抚御，得人死力，及居籓任，吏民安之。
+俄给鼓吹一部，改封营道县侯，邑户如先。
+
+translation:
+When Changyi's teacher returned to the court, he was presented with a memorial by the relevant officials. Emperor Gaozu thought that he was a meritorious official and did not ask about his faults.
+In the fifteenth year, Chang Yizhi was appointed as envoy Chijie, governor of Xiang maggot military affairs, general Xinwei, and fishery governor.
+In the same year, he was changed to the governor of North Xuzhou, Yuanjin Zhujun, the general of Pingbei, and the governor of North Xuzhou.
+Changyi had a generous nature, and as a general, he could soothe people's hearts and rule well, so he could be rewarded by his subordinates for their desperate efforts. When he was an official in the feudal state, his subordinates and the people were very stable.
+Soon, the emperor gave him a piece of propaganda, and he was granted the title of Marquis of Yingdao County, with the same number of households as before.
+
+summary:
+He had a generous nature, soothing people's hearts as a general. He was granted the title of Marquis of Yingdao County.
+
+================================================================================
+
+Summary line 14
+Span: 237-241 (score=0.5827)
+
+original:
+义之性宽厚，为将能抚御，得人死力，及居籓任，吏民安之。
+俄给鼓吹一部，改封营道县侯，邑户如先。
+普通三年，征为护军将军，鼓吹如故。
+四年十月，卒。
+高祖深痛惜之，诏曰： 护军将军、营道县开国侯昌义之，干略沉济，志怀宽隐，诚著运始，效彰边服。
+
+translation:
+Changyi had a generous nature, and as a general, he could soothe people's hearts and rule well, so he could be rewarded by his subordinates for their desperate efforts. When he was an official in the feudal state, his subordinates and the people were very stable.
+Soon, the emperor gave him a piece of propaganda, and he was granted the title of Marquis of Yingdao County, with the same number of households as before.
+After three years of Xuanbi's reign, Dan Zhanzhi was summoned to serve as the general of the army, and his propaganda continued as before.
+Died in October four years.
+Emperor Gaozu deeply regretted his death and wrote in the edict: Chang Yizhi, the general who protected the army and the founder of Yingdao County, was steady in his work, successful in his strategy, broad-minded and majestic, and outstanding in loyalty. At the beginning of the national destiny, he served on the border and achieved results.
+
+summary:
+He died in October of the fourth year of Xuanbi's reign, with Gaozu deeply regretting his death and issuing a posthumous edict.
+
+================================================================================
+

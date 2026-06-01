@@ -1,0 +1,168 @@
+Summary line 0
+Span: 0-26 (score=0.5638)
+
+original:
+蒙恬者，其先齐人也。
+恬大父蒙骜，自齐事秦昭王，官至上卿。
+秦庄襄王元年，蒙骜为秦将，伐韩，取成皋、荥阳，作置三川郡。
+二年，蒙骜攻赵，取三十七城。
+始皇三年，蒙骜攻韩，取十三城。
+五年，蒙骜攻魏，取二十城，作置东郡。
+始皇七年，蒙骜卒。
+骜子曰武，武子曰恬。
+恬尝书狱典文学。
+始皇二十三年，蒙武为秦裨将军，与王翦攻楚，大破之，杀项燕。
+二十四年，蒙武攻楚，虏楚王。
+蒙恬弟毅。
+始皇二十六年，蒙恬因家世得为秦将，攻齐，大破之，拜为内史。
+秦已并天下，乃使蒙恬将三十万众北逐戎狄，收河南。
+筑长城，因地形，用制险塞，起临洮，至辽东，延袤万馀里。
+於是渡河，据阳山，逶蛇而北。
+暴师於外十馀年，居上郡。
+是时蒙恬威振匈奴。
+始皇甚尊宠蒙氏，信任贤之。
+而亲近蒙毅，位至上卿，出则参乘，入则御前。
+恬任外事而毅常为内谋，名为忠信，故虽诸将相莫敢与之争焉。
+赵高者，诸赵疏远属也。
+赵高昆弟数人，皆生隐宫，其母被刑僇，世世卑贱。
+秦王闻高彊力，通於狱法，举以为中车府令。
+高既私事公子胡亥，喻之决狱。
+高有大罪，秦王令蒙毅法治之。
+毅不敢阿法，当高罪死，除其宦籍。
+
+translation:
+Meng Tian, ​​his ancestor was from Qi State.
+Meng Tian's grandfather, Meng Ao, came to Qin from Qi to serve King Qin Zhao, and became a high official.
+In the first year of King Zhuangxiang of Qin, Meng Ao served as the general of the Qin State, attacked South Korea, occupied Chenggao and Xingyang, and established Sanchuan County.
+In the second year of King Zhuang Xiang's reign, Meng Ao attacked Zhao and captured thirty-seven cities.
+In the third year of Qin Shihuang's reign, Meng Ao attacked South Korea and captured thirteen cities.
+In the fifth year of the First Emperor's reign, Meng Ao attacked Wei, captured twenty cities, and established Dongjun.
+In the seventh year of the First Emperor's reign, Meng Ao passed away.
+Meng Ao's son was named Meng Wu, and Meng Wu's son was named Meng Tian.
+Meng Tian once worked in prison litigation records and was responsible for managing relevant documents and prison litigation files.
+In the 23rd year of the First Emperor of Qin, Meng Wu served as a general of the Qin State. He and Wang Jian attacked the Chu State, defeated the Chu army and killed Xiang Yan.
+In the twenty-fourth year of the First Emperor's reign, Meng Wu attacked Chu State again and captured the King of Chu.
+Meng Tian's younger brother is called Meng Yi.
+In the twenty-sixth year of the First Emperor of Qin, Meng Tian became a general of the Qin State because of his background. He led his troops to attack the Qi State and defeated the Qi army. He was given the official position of internal history.
+After the Qin State annexed the world, it sent Meng Tian to lead a huge army of 300,000 people to drive away the Rong and Di to the north and recover the land south of the Yellow River.
+The Great Wall was built, taking advantage of the geographical situation, and setting up fortresses, stretching from Lintao in the west to Liaodong in the east, stretching for more than 10,000 miles.
+So he crossed the Yellow River, occupied Yangshan Mountain, and extended zigzag to the north.
+In the scorching sun, frost, wind and rain, I have been stationed in Shangjun for more than ten years.
+At this time, Meng Tian's reputation shocked the Xiongnu.
+Qin Shihuang particularly respected and admired the Meng family, trusting and appreciating their talents.
+Therefore, he became close to Meng Yi and became the highest official. When he went out, he would ride in the same carriage with the First Emperor, and when he returned to the court, he would serve the king.
+Meng Tian was responsible for military responsibilities outside the country, while Meng Yi often made suggestions in the court and was known as a loyal minister. Therefore, even other generals did not dare to compete with them for favor.
+Zhao Gao is an estranged relative of King Zhao's family.
+The Zhao Gao brothers were all castrated at birth and became eunuchs. His mother was also punished for breaking the law, so her status was low for generations.
+When the King of Qin heard that Zhao Gao was very capable and proficient in criminal and prison laws, he promoted him to the post of Zhongche Mansion Order.
+Zhao Gao then served his son Hu Hai privately and taught him how to decide lawsuits.
+Zhao Gao committed a serious crime, and King Qin asked Meng Yi to punish him in accordance with the law.
+Meng Yi did not dare to bend the law. According to the law, he should be sentenced to death and deprived of his official status.
+
+summary:
+Meng Tian, a Qin general, hailed from Qi through his grandfather Meng Ao, who served Qin under King Zhao and later as a general under King Zhuangxiang and the First Emperor, conquering territories in Han, Zhao, and Wei before his death in 7 BCE. Meng Tian’s father, Meng Wu, also a general, defeated Chu alongside Wang Jian. Meng Tian began as a legal clerk, became a general in 26 BCE, and led 300,000 troops to expel northern nomads, reclaim land south of the Yellow River, and construct the Great Wall from Lintao to Liaodong. He garrisoned Shangjun for over a decade, intimidating the Xiongnu. His brother Meng Yi served as a trusted advisor to the First Emperor.
+
+================================================================================
+
+Summary line 1
+Span: 18-37 (score=0.5366)
+
+original:
+始皇甚尊宠蒙氏，信任贤之。
+而亲近蒙毅，位至上卿，出则参乘，入则御前。
+恬任外事而毅常为内谋，名为忠信，故虽诸将相莫敢与之争焉。
+赵高者，诸赵疏远属也。
+赵高昆弟数人，皆生隐宫，其母被刑僇，世世卑贱。
+秦王闻高彊力，通於狱法，举以为中车府令。
+高既私事公子胡亥，喻之决狱。
+高有大罪，秦王令蒙毅法治之。
+毅不敢阿法，当高罪死，除其宦籍。
+帝以高之敦於事也，赦之，复其官爵。
+始皇欲游天下，道九原，直抵甘泉，乃使蒙恬通道，自九原抵甘泉，巉山堙谷，千八百里。
+道未就。
+始皇三十七年冬，行出游会稽，并海上，北走琅邪。
+道病，使蒙毅还祷山川，未反。
+始皇至沙丘崩，祕之，群臣莫知。
+是时丞相李斯、公子胡亥、中车府令赵高常从。
+高雅得幸於胡亥，欲立之，又怨蒙毅法治之而不为己也。
+因有贼心，乃与丞相李斯、公子胡亥阴谋，立胡亥为太子。
+太子已立，遣使者以罪赐公子扶苏、蒙恬死。
+扶苏已死，蒙恬疑而复请之。
+
+translation:
+Qin Shihuang particularly respected and admired the Meng family, trusting and appreciating their talents.
+Therefore, he became close to Meng Yi and became the highest official. When he went out, he would ride in the same carriage with the First Emperor, and when he returned to the court, he would serve the king.
+Meng Tian was responsible for military responsibilities outside the country, while Meng Yi often made suggestions in the court and was known as a loyal minister. Therefore, even other generals did not dare to compete with them for favor.
+Zhao Gao is an estranged relative of King Zhao's family.
+The Zhao Gao brothers were all castrated at birth and became eunuchs. His mother was also punished for breaking the law, so her status was low for generations.
+When the King of Qin heard that Zhao Gao was very capable and proficient in criminal and prison laws, he promoted him to the post of Zhongche Mansion Order.
+Zhao Gao then served his son Hu Hai privately and taught him how to decide lawsuits.
+Zhao Gao committed a serious crime, and King Qin asked Meng Yi to punish him in accordance with the law.
+Meng Yi did not dare to bend the law. According to the law, he should be sentenced to death and deprived of his official status.
+The First Emperor pardoned Zhao Gao because of his diligence and hard work. His original official position was restored.
+The First Emperor planned to tour the world, passing through Jiuyuan County and going directly to Ganquan Palace. He sent Meng Tian to open a road for him, from Jiuyuan to Ganquan, opening up the mountains and filling in the deep valleys, a total length of 1,800 miles.
+However, the passage was not completed.
+In the winter of the thirty-seventh year of the First Emperor's reign, the royal chariot went out on a tour of Kuaiji, leaning on the sea, heading north to Langye.
+He got seriously ill halfway through, so Meng Yi turned back to pray to the gods of mountains and rivers.
+Before Meng Yi could return, the First Emperor walked to the sand dunes and died. The news of the death of the First Emperor was blocked, and none of the civil and military officials knew about it.
+At this time, Prime Minister Li Si, Prince Hu Hai, and Zhao Gao, the magistrate of CRRC, often served Qin Shihuang.
+Zhao Gao usually received Hu Hai's favor and planned to appoint Hu Hai to inherit the throne. However, he resented Meng Yi for punishing him according to the law instead of protecting him, so he wanted to kill him.
+He secretly planned with Prime Minister Li Si and Prince Hu Hai to make Hu Hai the crown prince.
+After the crown prince was established, he sent envoys to fabricate charges and prepare the death penalty for Prince Fusu and Meng Tian.
+After Fusu committed suicide, Mengtian became suspicious and asked for an appeal.
+
+summary:
+Zhao Gao, a eunuch of Zhao royal descent, rose to favor due to legal expertise, teaching Prince Hu Hai. When Zhao Gao committed a serious crime, Meng Yi sentenced him to death, but the First Emperor pardoned him. During the First Emperor’s fatal illness in 37 BCE, Meng Yi was sent to pray; after the emperor’s death, Zhao Gao conspired with Li Si and Hu Hai to install Hu Hai as crown prince, fabricating charges against Fusu and Meng Tian. Fusu committed suicide; Meng Tian was imprisoned. Zhao Gao, fearing the Meng family’s resurgence, falsely accused Meng Yi of opposing Hu Hai’s appointment, leading to his imprisonment in Dai. After Hu Hai became the Second Emperor, Zhao Gao slandered the Mengs daily. Ziying advised against killing them, warning of past disasters from killing loyal ministers, but Hu Hai ignored him.
+
+================================================================================
+
+Summary line 2
+Span: 36-42 (score=0.3928)
+
+original:
+太子已立，遣使者以罪赐公子扶苏、蒙恬死。
+扶苏已死，蒙恬疑而复请之。
+使者以蒙恬属吏，更置。
+胡亥以李斯舍人为护军。
+使者还报，胡亥已闻扶苏死，即欲释蒙恬。
+赵高恐蒙氏复贵而用事，怨之。
+毅还至，赵高因为胡亥忠计，欲以灭蒙氏，乃言曰： 臣闻先帝欲举贤立太子久矣，而毅谏曰 不可 。
+
+translation:
+After the crown prince was established, he sent envoys to fabricate charges and prepare the death penalty for Prince Fusu and Meng Tian.
+After Fusu committed suicide, Mengtian became suspicious and asked for an appeal.
+The envoy handed Meng Tian over to the officials in charge, and sent someone else to take over his duties.
+Hu Hai used Li Si's retainers as military guards.
+When the envoy came back to report, Hu Hai had heard the news of Fusu's death and immediately planned to release Meng Tian.
+Zhao Gao was afraid that the Meng family would become powerful again and resented them.
+Meng Yi returned after praying to the gods of the mountains and rivers. Zhao Gao took the opportunity to express his loyalty to Hu Hai and wanted to eradicate the Meng brothers, so he said to Hu Hai: I heard that the late emperor selected talents and made you the crown prince a long time ago, but Meng Yi tried to dissuade him and said: No.
+
+summary:
+Meng Yi was ordered to commit suicide; he defended his loyalty and criticized unjust executions, citing historical examples, but was killed. Meng Tian, ordered to die, declared his innocence and loyalty, recounting the Duke of Zhou’s story to urge the emperor to reconsider. The envoy refused to relay his words.
+
+================================================================================
+
+Summary line 3
+Span: 84-89 (score=0.4138)
+
+original:
+起临洮属之辽东，城巉万馀里，此其中不能无绝地脉哉？
+此乃恬之罪也。
+乃吞药自杀。
+太史公曰：吾適北边，自直道归，行观蒙恬所为秦筑长城亭障，堑山堙谷，通直道，固轻百姓力矣。
+夫秦之初灭诸侯，天下之心未定，痍伤者未瘳，而恬为名将，不以此时彊谏，振百姓之急，养老存孤，务修众庶之和，而阿意兴功，此其兄弟遇诛，不亦宜乎！
+何乃罪地脉哉？
+
+translation:
+Starting from Lintao and continuing to Liaodong, the Great Wall was built and trenches were dug for more than 10,000 miles. Is there no place where the earth's veins are cut off in the middle?
+This is my sin.
+So he swallowed poison and committed suicide.
+Tai Shigong said: I went to the northern border and returned from the straight road. Along the way, I observed the Great Wall and frontier fortresses built by Meng Tian for the country. He excavated mountains, filled deep valleys, and connected the straight road. I originally did not pay attention to the people's manpower and material resources.
+When the Qin State had just wiped out the other princes, the people of the world had not yet settled down, and the wounds had not yet healed. As a famous general, Meng Tian did not try his best to admonish and relieve the people's emergencies, provide care for the elderly, raise orphans, and devote himself to the work of making the people live a stable life. Instead, he catered to the wishes of the First Emperor and built the Great Wall on a large scale. Isn't it natural that their brothers were killed?
+Where is the sin of digging up the earth's veins?
+
+summary:
+Meng Tian lamented his sin of cutting earth’s veins while building the Great Wall and poisoned himself. Sima Qian criticized Meng Tian for failing to counsel the First Emperor to aid the people after conquests, instead building the Great Wall, which led to his and his brother’s deaths.
+
+================================================================================
+

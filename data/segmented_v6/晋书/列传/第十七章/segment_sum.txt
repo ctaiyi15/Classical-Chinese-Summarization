@@ -1,0 +1,334 @@
+Summary line 0
+Span: 0-11 (score=0.7520)
+
+original:
+傅玄，字休奕，北地泥阳人也。
+祖燮，汉汉阳太守。
+父干，魏扶风太守。
+玄少孤贫，博学善属文，解钟律。
+性刚劲亮直，不能容人之短。
+郡上计吏再举孝廉，太尉辟，皆不就。
+州举秀才，除郎中，与东海缪施俱以时誉选入著作，撰集魏书。
+后参安东、卫军军事，转温令，再迁弘农太守，领典农校尉。
+所居称职，数上书陈便宜，多所匡正。
+五等建，封鹑觚男。
+武帝为晋王，以玄为散骑常侍。
+及受禅，进爵为子，加附马都尉。
+
+translation:
+Fu Xuan, whose courtesy name was Xiu Yi, was from Niyang in the north.
+His grandfather Fu Xie was the prefect of Hanyang in the Han Dynasty.
+His father, Fu Qian, was the governor of Fufeng in the Wei state.
+Fu Xuan was lonely and poor when he was young. He was erudite, good at writing articles, and knew the rhythm of music.
+He has a strong and upright character and cannot tolerate the shortcomings of others.
+He was appointed as a planner in the county, and he was recommended as Xiaolian twice. He was also recruited by the Taiwei, but he did not take up the post.
+He took the state examination and passed the scholar examination, and was appointed as a doctor. Due to their reputation at that time, he and Donghai Mushi were selected as writers and compiled Wei books.
+Later, he learned about the military affairs of Anton and Weijun. He was transferred to the county magistrate of Wen County and promoted to the prefect of Hongnong. In charge of the post of captain of Diannong School.
+He was a competent official, wrote many petitions and made many corrections.
+After the establishment of the fifth-grade system, he was granted the title of Baron Quail.
+When Emperor Wu Sima Yan was the king of Jin Dynasty, he appointed him as a regular attendant of Sanqi.
+When Emperor Wu succeeded to the throne, he was promoted to viscount and promoted to Prince Consort and Commander-in-Chief.
+
+summary:
+Fu Xuan, courtesy name Xiu Yi, was from Niyang in the north. His grandfather Fu Xie was a Han prefect, and his father Fu Qian was a Wei governor. Orphaned and poor in youth, Fu Xuan was erudite, skilled in writing, and knowledgeable in music. He had a strong, upright character and could not tolerate others' faults. He was appointed as a county planner, recommended as Xiaolian twice, and recruited by the Taiwei, but did not take the post. He passed the scholar examination, became a doctor, and was selected with Donghai Mushi to compile Wei books. He later held various military and civil posts, including prefect of Hongnong and captain of Diannong School, and was known for his competent governance and many petitions. After the fifth-grade system was established, he was granted the title of Baron Quail. Under Emperor Wu of Jin, he was promoted to viscount and Prince Consort and Commander-in-Chief.
+
+================================================================================
+
+Summary line 1
+Span: 9-30 (score=0.5097)
+
+original:
+五等建，封鹑觚男。
+武帝为晋王，以玄为散骑常侍。
+及受禅，进爵为子，加附马都尉。
+帝初即位，广纳直言，开不讳之路，玄及散骑常侍皇甫陶共掌谏职。
+玄上疏曰： 臣闻先王之临天下也，明其大教，长其义节。道化隆于上，清议行于下，上下相奉，人怀义心。
+亡秦荡灭先王之制，以法术相御，而义心亡矣。
+近者魏武好法术，而天下贵刑名；魏文慕通达，而天下贱守节。
+其后纲维不摄，而虚无放诞之论盈于朝野，使天下无复清议，而亡秦之病复发于今。
+陛下圣德，龙兴受禅，弘尧、舜之化，开正直之路，体夏禹之至俭，综殷周之典文，臣咏叹而已，将又奚言！
+惟未举清远有礼之臣，以敦风节；未退虚鄙，以惩不恪，臣是以犹敢有言。
+诏报曰： 举清远有礼之臣者，此尤今之要也。
+乃使玄草诏进之。
+玄复上疏曰：
+臣闻舜举五臣，无为而化，用人得其要也。
+天下群司猥多，不可不审得其人也。
+不得其人，一日则损不赀，况积日乎！
+典谟曰 无旷庶官 ，言职之不可久废也。
+诸有疾病满百日不差，宜令去职，优其礼秩而宠存之，既差而后更用。
+臣不废职于朝，国无旷官之累，此王政之急也。
+臣闻先王分士农工商以经国制事，各一其业而殊其务。
+自士已上子弟，为之立太学以教之，选明师以训之，各随其才优劣而授用之。
+农以丰其食，工以足其器，商贾以通其货。
+
+translation:
+After the establishment of the fifth-grade system, he was granted the title of Baron Quail.
+When Emperor Wu Sima Yan was the king of Jin Dynasty, he appointed him as a regular attendant of Sanqi.
+When Emperor Wu succeeded to the throne, he was promoted to viscount and promoted to Prince Consort and Commander-in-Chief.
+As soon as Emperor Wu came to the throne, he widely adopted outspoken speech and opened up a way of speaking without taboos. Fu Xuan and Huangfu Tao, the regular servant of Sanqi, jointly took charge of the post of admonishment officer.
+Fu Xuan Shangshu said: I have heard that the former king came to the world, proclaimed the great teachings, and increased etiquette, righteousness, and moral integrity. The teachings flourished in the court, public opinions became popular below, and everyone followed them together, and everyone had a heart of benevolence and righteousness.
+The perished Qin Dynasty destroyed the laws of the ancestors and ruled with harsh laws, and the heart of benevolence and righteousness declined.
+In modern times, Emperor Wu of the Wei Dynasty Cao Cao liked magic, so the world valued punishments; Emperor Wen of the Wei Dynasty Cao Pi admired those who knew the truth, so the world despised keeping integrity.
+From then on, the imperial court was unable to govern, so empty, useless, and uninhibited discussions flooded the government and the public, so that there was no longer any fair discussion in the world, and the ills of the Qin Dynasty's demise recurred today.
+His Majesty's morality is supreme, the dynasty has risen, he has inherited the throne, he has carried forward the teachings of Yao and Shun, he has opened up the path of righteous advice, he has experienced the frugality of Xia and Yu, and after considering the laws and essays of the Shang and Zhou dynasties, I can only sigh, what else am I going to say!
+It's just that I didn't recommend courteous ministers with lofty ideals to uphold moral integrity; I didn't remove hypocritical and despicable villains to punish disrespectful ministers, so I still dare to say something.
+The edict replied: Recommending ministers with high aspirations and etiquette is an especially important thing today.
+So Fu Xuan was asked to draft an edict and present it to him.
+Fu Xuan wrote again:
+I heard that Shun recommended five ministers and governed without doing anything. This was because he had found the essentials in employing people.
+Because there are so many official positions in the world, it is necessary to examine and find the right person.
+If you don't find the right person, you will waste a lot of money in one day, not to mention the accumulated time?
+"Shangshu Gao Tao Mo" said: Do not leave hundreds of officials vacant, which means that the positions cannot be abandoned for a long time.
+Those who have been ill for a hundred days and have not recovered should be allowed to leave their jobs and be given generous courtesy and salary until they recover.
+The ministers will not give up their positions in the government, and the country will not be burdened by idle officials. This is the top priority of the king's government.
+I heard that the previous emperors managed state affairs according to the division of labor between scholars, farmers, industry and commerce. Each had its own industry and different affairs.
+For the children of scholars and above, the Imperial Academy was established for them to educate them, sage teachers were selected to teach them, and they were appointed according to their respective talents.
+Agriculture must ensure a bumper harvest, industry must provide sufficient equipment, and merchants must ensure the circulation of goods.
+
+summary:
+As an admonishment officer, Fu Xuan submitted a memorial criticizing the decline of benevolence and righteousness since the Qin and Wei dynasties, praising Emperor Wu's virtue, and urging the recommendation of courteous ministers and removal of hypocritical ones. The emperor agreed and asked him to draft an edict. Fu Xuan further wrote on the importance of proper official appointments, advocating for long-term positions and the division of labor among scholars, farmers, workers, and merchants. He stressed the need for a system to plan the number of people in each class, emphasizing agriculture and Confucian education.
+
+================================================================================
+
+Summary line 2
+Span: 39-52 (score=0.4051)
+
+original:
+伊尹古之名臣，耕于有莘；晏婴齐之大夫，避庄公之难，亦耕于海滨。
+昔者圣帝明王，贤佐俊士，皆尝从事于农矣。
+王人赐官，冗散无事者，不督使学，则当使耕，无缘放之使坐食百姓也。
+今文武之官既众，而拜赐不在职者又多，加以服役为兵，不得耕稼，当农者之半，南面食禄者参倍于前。
+使冗散之官农，而收其租税，家得其实，而天下之谷可以无乏矣。
+夫家足食，为子则孝，为父则慈，为兄则友，为弟则悌。
+天下足食，则仁义之教可不令而行也。
+为政之要，计人而置官，分人而授事，士农工商之分不可斯须废也。
+若未能精其防制，计天下文武之官足为副贰者使学，其余皆归之于农。
+若百工商贾有长者，亦皆归之于农。
+务农若此，何有不赡乎！
+《虞书》曰： 三载考绩，三考黜陟幽明。
+是为九年之后乃有迁叙也。
+故居官久，则念立慎终之化，居不见久，则竞为一切之政。
+
+translation:
+Yi Yin was a famous official in ancient times and farmed in Youxin; Yan Ying was a senior official in Qi State who also went to the seaside to farm in order to avoid the disaster of Duke Zhuang of Qi.
+In the past, sage emperors and capable men were all engaged in agricultural production.
+The emperor conferred official positions, and if those officials who were superfluous, idle and had nothing to do were urged to study, they should be allowed to farm. There was no reason to let them sit back and eat the people's food.
+Nowadays, there are many civil and military officials, but there are still more who do not serve in their posts. In addition, they serve as soldiers and cannot grow crops, and they are half the number of farmers. In this way, the number of people sitting facing south and receiving salary is three times that of the previous dynasty.
+Let the idle and redundant officials work on the farm and collect their taxes, and private individuals will also gain substantial benefits, and the world will not be short of food.
+Every family has enough food. A son should be filial, a father should be loving, an elder brother should be friendly, and a younger brother should be filial.
+If the world has enough food and clothing, then the teachings of benevolence and righteousness will be implemented without orders.
+The key to government is to set up officials according to the total number of people, divide labor until people are assigned their duties, and the division of labor between scholars, farmers, industry and commerce cannot be abandoned at all times.
+如果不能精确制定相应的制度，就应考核天下的文武官员，能为长官辅佐的人让他们学习，其余的都让他们务农。
+As for the surplus people among the hundreds of industrial and merchant merchants, they were also allowed to engage in agriculture.
+What's not enough about farming like this?
+"Shang Shu Shun Dian" says: The political performance will be evaluated once every three years, and those who are inferior and promoted to outstanding people will be dismissed after three evaluations.
+It can be seen that the promotion order is only after nine years.
+Therefore, if you stay in an official position for a long time, you will think about establishing a good education; if you stay in an official position for a short period of time, you will strive to do something with political achievements.
+
+summary:
+He also proposed that idle officials should farm, and that the government should evaluate officials every three years, with promotions after nine years. The emperor praised his sincerity and ordered further study of his proposals.
+
+================================================================================
+
+Summary line 3
+Span: 69-79 (score=0.3319)
+
+original:
+近者孔晁、綦毋皆案以轻慢之罪，所以皆原，欲使四海知区区之朝无讳言之忌也。
+俄迁侍中。
+初，玄进皇甫陶，及入而抵，玄以事与陶争，言喧哗，为有司所奏，二人竟坐免官。
+泰始四年，以为御史中丞。
+时颇有水旱之灾，玄复上疏曰：
+臣闻圣帝明王受命，天时未必无灾，是以尧有九年之水，汤有七年之旱，惟能济之以人事耳。
+故洪水滔天而免沈溺，野无生草而不困匮。
+伏惟陛下圣德钦明，时小水旱，人未大饥，下祗畏之诏，求极意之言，同禹、汤之罪己，侔周文之夕惕。
+臣伏欢喜，上便宜五事：
+其一曰，耕夫务多种而耕不熟，徒丧功力而无收。
+又旧兵持官牛者，官得六分，士得四分；自持私牛者，与官中分，施行来久，众心安之。
+
+translation:
+Recently, both Kong and Qi Wulu were convicted of contempt. The reason why I have forgiven them is to let the world know that I, the Jin Dynasty, do not need to taboo speech.
+Soon Fu Xuan was promoted to the rank of Attendant.
+At first, Fu Xuan recommended Huangfu Tao, but after entering the court, the two had conflicts. Fu Xuan had a dispute with Huangfu Tao over political affairs.
+In the fourth year of Taishi's reign, he was appointed as Yushi Zhongcheng.
+At that time, there were many floods and droughts. Fu Xuan wrote in another book:
+I heard that Emperor Shengming inherited the destiny of heaven, and the weather was not necessarily without disasters. Therefore, Yao had floods for nine years, and Shang Tang had droughts for seven years. They could only use people to relieve them.
+Therefore, the floods can be overwhelming and the sky will not be submerged, and the ground will not grow grass but will not be sleepy.
+I believe that your majesty has a sage moral character. At present, there are minor floods and droughts, and the people are not suffering from major famines. You issue edicts to respect the destiny of heaven and seek opinions that are in line with the will of heaven. You are as strict with yourself as Xia Yu and Shang Tang. You are as cautious as King Wen of Zhou and do not dare to neglect.
+I'm so happy that Shang Shu stated the five things that should be done:
+The first thing is: Nowadays, people cultivating are trying to grow a variety of crops, but they cannot mature due to drought, thus wasting their labor and yielding no harvest.
+In addition, in the past, when soldiers used the government's cattle, the government would get six-tenths of the harvest, and soldiers would get four-tenths of the harvest. If they used private cattle, they would share it equally with the government. This has been implemented for a long time, and everyone has peace of mind.
+
+summary:
+In the fourth year of Taishi, Fu Xuan became Yushi Zhongcheng. During floods and droughts, he submitted five proposals: adjusting the share of harvest for soldiers using government cattle; enforcing Han-era laws to punish negligent officials; improving water conservancy by dividing responsibilities; reforming land tax to rest labor; and establishing a new county in Gaopingchuan to manage the Xianbei tribe and prevent border unrest.
+
+================================================================================
+
+Summary line 4
+Span: 99-118 (score=0.5042)
+
+original:
+此二郡非烈所制，则恶胡东西有窟穴浮游之地，故复为患，无以禁之也。
+宜更置一郡于高平川，因安定西州都尉募乐徙民，重其复除以充之，以通北道，渐以实边。
+详议此二郡及新置郡，皆使并属秦州，令烈得专御边之宜。
+诏曰： 得所陈便宜，言农事得失及水官兴废，又安边御胡政事宽猛之宜，申省周备，一二具之，此诚为国大本，当今急务也。
+如所论皆善，深知乃心，广思诸宜，动静以闻也。
+五年，迁太仆。
+时比年不登，羌胡扰边，诏公卿会议。
+玄应对所问，陈事切直，虽不尽施行，而常见优容。
+转司隶校尉。
+献皇后崩于弘训宫，设丧位。
+旧制，司隶于端门外坐，在诸卿上，绝席。
+其入殿，按本品秩在诸卿下，以次坐，不绝席。
+而谒者以弘训宫为殿内，制玄位在卿下。
+玄恚怒，厉声色而责谒者。
+谒者妄称尚书所处，玄对百僚而骂尚书以下。
+御史中丞庾纯奏玄不敬，玄又自表不以实，坐免官。
+然玄天性峻急，不能有所容；每有奏劾，或值日暮，捧白简，整簪带，竦踊不寐，坐而待旦。
+于是贵游慑伏，台阁生风。
+寻卒于家，时年六十二，谥曰刚。
+玄少时避难于河内，专心诵学，后虽显贵，而著述不废。
+
+translation:
+These two counties are not under the control of Hu Lie, and the vicious Hu people have caves and caves to buffer and roam, so there is no way to prevent future disasters.
+Another county should be established in Gaopingchuan, so that the captain of Anxizhou can recruit people who are willing to migrate, supplement them with a large number of people exempted from corvee, open up the northbound road, and gradually enrich the border.
+It is best to consider that these two counties and the established counties belong to Qinzhou, so that Hu Lie can take charge of border affairs.
+The edict said: "To obtain the things that should be done as stated in the report, including the gains and losses of farming, the rise and fall of water conservancy officials, as well as the security of the border to resist the barbarians and the severity of the political affairs, are described in detail and complete. This is indeed a fundamental matter of governing the country and an urgent task today."
+The discussion is correct. Knowing that you are loyal to the royal family, you should think more broadly about what should be done and tell me the situation.
+In the fifth year of Taishi's reign, he was appointed as a servant.
+At that time, the grain harvest had not been harvested for several years, and the Western Qiang and Hu people were harassing the border. The emperor issued an edict for the ministers to discuss.
+Fu Xuan responded to the emperor's questions and stated his reasons sincerely and straightforwardly. Although he did not implement everything, he was often tolerated.
+Transferred to the post of Sili Xiaowei.
+Queen Xian passed away in Hongxun Palace, and a place of mourning was set up.
+According to the old system, the minister should sit outside Duanmen, sitting alone above the other ministers.
+Entering the palace, according to the official rank of this product, under the ministers, sit in order and sit at the same table with others.
+The visitors believed that Hongxun Palace was within the palace, and placed Fu Xuan's position under the position of Qing.
+Fu Xuan was furious and shouted at the visitors.
+The visitor pretended that it was arranged by the Minister, and Fu Xuan cursed the Minister in front of all the officials and left the table.
+Yu Chun, the imperial censor, reported to Fu Xuan how disrespectful he was, but Fu Xuan's report was inconsistent with the facts, so he was dismissed from office.
+However, Fu Xuan was by nature severe and impatient, and could not be tolerant when things happened. Every time there was a memorial to report, or when it was late, he would hold the memorial in his hand, straighten his crown and belt, and restlessly not sleep, but sit and wait for dawn.
+As a result, those princes and nobles without official positions were afraid to surrender, and the minister suddenly gained prestige.
+Soon he died at home at the age of sixty-two. His posthumous title was Gang.
+Fu Xuan took refuge in Hanoi when he was young and concentrated on reading. Although he became rich and powerful, his writings were not neglected.
+
+summary:
+The emperor approved these as fundamental to governance. In the fifth year of Taishi, Fu Xuan became a servant. Despite grain shortages and border troubles, his sincere advice was often tolerated. He later became Sili Xiaowei, but was dismissed after a dispute over seating at a mourning ceremony. He died at home at age sixty-two, posthumously titled Gang.
+
+================================================================================
+
+Summary line 5
+Span: 114-130 (score=0.4957)
+
+original:
+御史中丞庾纯奏玄不敬，玄又自表不以实，坐免官。
+然玄天性峻急，不能有所容；每有奏劾，或值日暮，捧白简，整簪带，竦踊不寐，坐而待旦。
+于是贵游慑伏，台阁生风。
+寻卒于家，时年六十二，谥曰刚。
+玄少时避难于河内，专心诵学，后虽显贵，而著述不废。
+撰论经国九流及三史故事，评断得失，各为区例，名为《傅子》，为内、外、中篇，凡有四部、六录，合百四十首，数十万言，并文集百余卷行于世。
+玄初作内篇成，子咸以示司空王沈。
+沈与玄书曰： 省足下所著书，言富理济，经纶政体，存重儒教，足以塞杨、墨之流遁，齐孙、孟于往代。
+每开卷，未尝不叹息也。 不见贾生，自以过之，乃今不及 ，信矣！
+其后追封清泉侯。子咸嗣。
+咸字长虞，刚简有大节。
+风格峻整，识性明悟，疾恶如仇，推贤乐善，常慕季文子、仲山甫之志。
+好属文论，虽绮丽不足，而言成规鉴。
+颍川庾纯常叹曰： 长虞之文近乎诗人之作矣！
+咸宁初，袭父爵，拜太子洗马，累迁尚书右丞。出为冀州刺史，继母杜氏不肯随咸之官，自表解职。
+三旬之间，迁司徒左长史。
+时帝留心政事，诏访朝臣政之损益。
+
+translation:
+Yu Chun, the imperial censor, reported to Fu Xuan how disrespectful he was, but Fu Xuan's report was inconsistent with the facts, so he was dismissed from office.
+However, Fu Xuan was by nature severe and impatient, and could not be tolerant when things happened. Every time there was a memorial to report, or when it was late, he would hold the memorial in his hand, straighten his crown and belt, and restlessly not sleep, but sit and wait for dawn.
+As a result, those princes and nobles without official positions were afraid to surrender, and the minister suddenly gained prestige.
+Soon he died at home at the age of sixty-two. His posthumous title was Gang.
+Fu Xuan took refuge in Hanoi when he was young and concentrated on reading. Although he became rich and powerful, his writings were not neglected.
+He wrote a book that commented on the three religions and nine streams of governing the country and the three historical events, and judged the pros and cons, each with regulations. The book is called "Fu Zi", which is divided into three chapters: internal, external and middle. It has four parts and six records, with a total of 140 poems and hundreds of thousands of words. It has been popular in the world together with more than 100 volumes of collected works.
+Fu Xuan originally wrote the internal chapter, and his son Fu Xian gave it to Sikong Wang Shen to read.
+Wang Chen wrote to Fu Xuan: I saw your book, which contains grand words and well-equipped principles, plans for governing the country, and attaches great importance to Confucian education and morality. It is enough to block the debauchery of Yang Zhu and Mo Zhai's teachings, and can be compared with Xun Kuang and Meng Ke in ancient times.
+Every time I open the book, I sigh with emotion. Without seeing Jia Yi, I thought I was better than him, but now I know I can't compare to him.
+That’s so true! Later, he was granted the title of Marquis of Qingquan, and his son Fu Xian inherited the title.
+Fu Xian's character is "Yu", and he has a strong sense of uprightness.
+He has a strict demeanor and conduct, is well-informed, intelligent and wise, hates evil as much as his enemies, recommends talents, is willing to do good, and often looks up to the ambitions of Ji Wenzi and Zhongshanfu.
+I like to write literary essays. Although my literary talent is not brilliant, my remarks can serve as a warning.
+Yu Chun of Yingchuan often lamented: Fu Changyu's articles are close to the poet's creation.
+In the early years of Xianning, he inherited his father's title and worshiped him as Prince Xima. He moved to Shangshu Youcheng and went to court to serve as the governor of Jizhou. His stepmother Du refused to go with Fu Xian, so Fu Xian petitioned to be dismissed.
+Thirty years later, he was appointed Situ Zuo Changshi.
+At that time, Emperor Wu paid attention to political affairs and issued an edict to visit courtiers to inquire about political affairs.
+
+summary:
+Fu Xuan wrote "Fu Zi," a book on governance and the three religions, divided into internal, external, and middle chapters, with over 100 volumes. His son Fu Xian inherited his title. Fu Xian, courtesy name Yu, was upright, strict, and hated evil. He served as Prince Xima, Shangshu Youcheng, and governor of Jizhou, but resigned when his stepmother refused to accompany him. Later, as Situ Zuo Changshi, he criticized the emperor for overworking himself and proposed consolidating official positions, simplifying affairs, and promoting agriculture.
+
+================================================================================
+
+Summary line 6
+Span: 177-180 (score=0.2193)
+
+original:
+宜加显贬，以隆风教。
+帝以骏管朝政，有诏不问，骏甚惮之。
+咸复与骏笺讽切之，骏意稍折，渐以不平。
+由是欲出为京兆、弘农太守，骏甥李斌说骏，不宜斥出正人，乃止。
+
+translation:
+He should be severely demoted and deposed in order to uphold customs and enlightenment.
+The emperor thought that Yang Jun was in charge of the affairs of the court, and when he was asked about the imperial edict, Yang Jun was very frightened.
+Fu Xian wrote another letter to Yang Jun, his satirical remonstrances were straightforward. Yang Jun restrained himself slightly and gradually became dissatisfied.
+He wanted Fu Xian to serve as the governor of Jingzhao and Hongnong. Yang Jun's nephew Li Bin persuaded Yang Jun that upright people should not be criticized for serving as foreign officials, so he was able to stop.
+
+summary:
+He also petitioned against extravagance, citing ancient frugality. During Emperor Hui's reign, he advised Yang Jun on regency matters and later criticized Sima Liang for excessive rewards.
+
+================================================================================
+
+Summary line 7
+Span: 264-272 (score=0.2895)
+
+original:
+其在《周礼》，三年大比。
+孔子亦云， 三年有成 。
+而中间以来，长吏到官，未几便迁，百姓困于无定，吏卒疲于送迎 。
+时仆射王戎兼吏部，咸奏： 戎备位台辅，兼掌选举，不能谧静风俗，以凝庶绩，至令人心倾动，开张浮竞。
+中郎李重、李义不相匡正。
+请免戎等官。
+诏曰： 政道之本，诚宜久于其职，咸奏是也。
+戎职在论道，吾所崇委，其解禁止。
+御史中丞解结以咸劾戎为违典制，越局侵官，干非其分，奏免咸官。诏亦不许。
+
+translation:
+"The Rites of Zhou" also implements a three-year competition.
+Confucius also said: It takes three years to achieve success.
+But in recent times, long-term officials have taken up posts in government offices and were soon reassigned. The people are troubled by the lack of fixed officials, and the officials are tired of seeing off the old and welcoming the new.
+At that time, the servant Wang Rong was also in charge of the official department. Fu Xian reported: Wang Rong was in the position of Taifu and was also in charge of elections, but he did not calm the customs and gather achievements, which made people uneasy and uneasy, and opened up the wind of frivolous competition.
+The lieutenants Li Chong and Li Yi did not correct him.
+I request that Wang Rong and others be relieved of their duties.
+The edict said: The foundation of political ethics is that one should serve for a long time. Fu Xian's report is correct.
+Wang Rong's duty is to review affairs. He is recommended by me and cannot be removed from office.
+Yushi Zhongcheng Jiejie believed that Fu Xian's impeachment of Wang Rong violated the code, violated the rules, interfered with matters that were not within his authority, so he submitted a memorial to remove Fu Xian from his official position, but the edict did not agree.
+
+summary:
+Fu Xian was known for his fearless impeachments, including against Wang Rong, and his advocacy for long-term official tenures.
+
+================================================================================
+
+Summary line 8
+Span: 291-294 (score=0.7143)
+
+original:
+吴郡顾荣常与亲故书曰： 傅长虞为司隶，劲直忠果，劾按惊人。
+虽非周才，偏亮可贵也。
+元康四年卒官，时年五十六，诏赠司隶校尉，朝服一具、衣一袭、钱二十万，谥曰贞。
+有三子：敷、晞、纂。
+
+translation:
+Gu Rong of Wu County often wrote to his relatives: Fu Xian was a secretary, he was upright, loyal, brave and courageous, and the impeachment memorial was surprising.
+Although he is not a perfect talent, he is very valuable in terms of integrity.
+Yuankang died in the official office in the fourth year of his reign at the age of fifty-six. The edict gave him the title of Sili Xiaowei, a set of court uniforms, a collar and a robe, 200,000 yuan, and a posthumous title of Zhen.
+Fu Xian had three sons: Fu Fu, Fu Rixi and Fu Zuan.
+
+summary:
+He died in office at age fifty-six, posthumously titled Zhen. He had three sons: Fu Fu, Fu Rixi, and Fu Zuan.
+
+================================================================================
+

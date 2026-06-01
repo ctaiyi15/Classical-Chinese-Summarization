@@ -1,0 +1,344 @@
+Summary line 0
+Span: 0-4 (score=0.9030)
+
+original:
+谷永字子云，长安人也。
+父吉，为卫司马，使送郅支单于侍子，为郅支所杀，语在《陈汤传》。
+永少为长安小史，后博学经书。
+建昭中，御史大夫繁延寿闻其有茂材，除补属，举为太常丞，数上疏言得失。
+建始三年冬，日食、地震同日俱发，诏举方正直言极谏之士，太常阳城侯刘庆忌举永待诏公车。
+
+translation:
+Gu Yong, named Ziyun, was from Chang'an.
+His father, Gu Ji, served as Sima of the Wei Dynasty. As an envoy, he sent Shanyu Zhizhi's servant back to his country, but was killed by Zhizhi. This incident was recorded in the "Chen Tang Biography".
+Gu Yong wrote a short history of Chang'an when he was young, and later studied the classics extensively.
+During the reign of Emperor Jianzhao, Fan Yanshou, the imperial censor, heard that he had outstanding talents and appointed him as his subordinate. Later, he recommended him as Taichang Cheng. He wrote many memorials to discuss political gains and losses.
+In the winter of the third year of Jianshi's reign, a solar eclipse and an earthquake occurred on the same day. The emperor ordered the selection of scholars who were upright, dared to speak out, and could try their best to persuade. Tai Chang Yangcheng Marquis Liu Qingji recommended Gu Yong to wait for the imperial edict.
+
+summary:
+Gu Yong, styled Ziyun, was from Chang'an. His father, Gu Ji, served as a Sima of the Wei Dynasty and was killed by Shanyu Zhizhi while on a diplomatic mission. Gu Yong wrote a short history of Chang'an in his youth and later extensively studied the classics. During Emperor Jianzhao's reign, Fan Yanshou, the imperial censor, recognized his talents and appointed him as a subordinate, later recommending him as Taichang Cheng. Gu Yong wrote many memorials discussing political gains and losses. In the winter of the third year of Jianshi's reign, a solar eclipse and earthquake occurred on the same day.
+
+================================================================================
+
+Summary line 1
+Span: 3-12 (score=0.7825)
+
+original:
+建昭中，御史大夫繁延寿闻其有茂材，除补属，举为太常丞，数上疏言得失。
+建始三年冬，日食、地震同日俱发，诏举方正直言极谏之士，太常阳城侯刘庆忌举永待诏公车。
+对曰：
+陛下秉至圣之纯德，惧天地之戒异，饬身修政，纳问公卿，又下明诏，帅举直言，燕见绎，以求咎愆，使臣等得造明朝，承圣问。
+臣材朽学浅，不通政事。
+窃闻明王即位，正五事，建大中，以承天心，则庶征序于下，日月理于上；如人君淫溺后宫，船乐游田，五事失于躬，大中之道不立，则咎征降而六极至。
+凡灾异之发，各象过失，以类告人。
+乃十二月朔戊申，日食婺女之分，地震萧墙之内，二者同日俱发，以丁宁陛下，厥咎不远，宜厚求诸身。
+意岂陛下志在闺门，未恤政事，不慎举错，娄失中与？
+内宠大盛，女不遵道，嫉妨专上，妨继嗣与？
+
+translation:
+During the reign of Emperor Jianzhao, Fan Yanshou, the imperial censor, heard that he had outstanding talents and appointed him as his subordinate. Later, he recommended him as Taichang Cheng. He wrote many memorials to discuss political gains and losses.
+In the winter of the third year of Jianshi's reign, a solar eclipse and an earthquake occurred on the same day. The emperor ordered the selection of scholars who were upright, dared to speak out, and could try their best to persuade. Tai Chang Yangcheng Marquis Liu Qingji recommended Gu Yong to wait for the imperial edict.
+Gu Yong replied:
+Your Majesty has the purest moral character of the most sage. He is worried about the strange phenomena warned by heaven and earth. He organizes his own state affairs, inquires and adopts the suggestions of the ministers, and issues wise orders, asking the officials to recommend people who dare to speak out. He takes the time to summon them to explore the origins of the changes, to find the reasons for the heaven's punishment, so that we scholars can come to the court of the sage to accept the inquiry of the sage.
+I am not very talented and have little knowledge, and I am not familiar with political affairs.
+I have heard privately that when a sage emperor ascends the throne, he should correct his appearance, speech, sight, hearing, and thinking, establish the rules of imperial rule, and obey the will of the Emperor of Heaven. Only in this way can many auspicious signs appear in sequence below, and only when the sun and moon move in the sky can there be Laws; if the king is too indulged in the harem, content with pleasure and hunting, and loses the correction of the five things, and the rules of rule cannot be established, then the signs of disaster will come and the six abnormal phenomena of punishment will appear.
+All disasters and visions appear, each symbolizing a fault and warning the world according to its type.
+So on the first day of the twelfth lunar month, when the solar eclipse was in Wu Nu, and the earthquake was in Xiao Qiang, both happened on the same day. I repeatedly told Your Majesty that those mistakes are not too far away, and you should deeply look for the reasons in yourself.
+Is it God's will that His Majesty pays attention to women's sex, does not worry about political affairs, does not behave prudently, and repeatedly loses his integrity?
+Is it because she dotes on concubines too much, because women do not abide by women's ethics, because they want to possess the Holy One alone due to jealousy, and hinder the prosperity of their descendants?
+
+summary:
+The emperor ordered the selection of upright scholars who dared to speak out. Tai Chang Yangcheng Marquis Liu Qingji recommended Gu Yong to await the imperial edict. Gu Yong replied that the emperor, with his pure moral character, was worried about the strange phenomena and sought advice. He stated that when a sage emperor ascends the throne, he must correct his appearance, speech, sight, hearing, and thinking, and establish imperial rules to obey the will of the Emperor of Heaven. If the king indulges in the harem, pleasure, and hunting, disasters will appear. The solar eclipse and earthquake were signs of faults, and the emperor should look for reasons within himself, possibly due to excessive attention to women, lack of political concern, or improper behavior.
+
+================================================================================
+
+Summary line 2
+Span: 12-14 (score=0.3280)
+
+original:
+内宠大盛，女不遵道，嫉妨专上，妨继嗣与？
+古之王者废五事之中，失夫妇之纪，妻妾得意，谒行于内，势行于外，至覆倾国家，或乱阴阳。
+昔褒姒用国，宗周以丧；阎妻骄扇，日以不臧。
+
+translation:
+Is it because she dotes on concubines too much, because women do not abide by women's ethics, because they want to possess the Holy One alone due to jealousy, and hinder the prosperity of their descendants?
+The ancient kings abolished the five principles of justice and lost the moral relationship between husband and wife. If their wives and concubines were favored, they could fulfill their requests internally and abuse their power externally, to the point of overthrowing the country and confusing and disrupting the order of yin and yang.
+In the past, Guo Si was in power, and Zong Zhou lost his country because of it; Yan's wife was arrogant and pampered, so she became prosperous, so there was a solar eclipse.
+
+summary:
+Gu Yong cited historical examples: Guo Si caused Zong Zhou's downfall, and Yan's wife's arrogance led to a solar eclipse.
+
+================================================================================
+
+Summary line 3
+Span: 15-24 (score=0.3891)
+
+original:
+此其效也。
+经曰： 皇极，皇建其有极。
+传曰： 皇之不极，是谓不建，时则有日月乱行。
+陛下践至尊之祚为天下主，奉帝王之职以统群生，方内之治乱，在陛下所执。
+诚留意于正身，勉强于力行，损燕私之闲以劳天下，放去淫溺之乐，罢归倡优之笑，绝却不享之义，慎节游田之虞，起居有常，循礼而动，躬亲政事，致行无倦，安服若性。
+经曰： 继自今嗣王，其毋淫于酒，毋逸于游田，惟正之共。
+未有身治正而臣下邪者也。
+夫妻之际，王事纲纪，安危之机，圣王所致慎也。
+昔舜饬正二女，以崇至德；楚庄忍绝丹姬，以成伯功；幽王惑于褒姒，周德降亡；鲁桓胁于齐女，社稷以倾。
+诚修后宫之政，明尊卑之序，贵者不得嫉妨专庞，以绝骄嫚之端，抑褒、阎之乱，贱者咸得秩进，各得厥职，以广继嗣之统，息《白华》之怨，后宫亲属，饶之以财，勿与政事，以远皇父之类，损妻党之权，未有闺门治而天下乱者也。
+
+translation:
+This is a sign of a vision.
+The scriptures say: The principle of imperial rule is to greatly establish the rule of justice.
+The Sutra says: If the rules of governance are not upright, this is called non-establishment. At this time, the movement of the sun and the moon will be chaotic.
+Your Majesty ascended the most noble throne and became the monarch of the world. He accepted the responsibilities of an emperor to rule all living beings. Peace and instability in the four directions are all under your control.
+If you really can pay attention to self-correction, strive to do things to the best of your ability, reduce the time for private banquets to worry about the affairs of the world, give up and stay away from over-indulged pleasures, stop advocating for the entertainment of outstanding artists, put an end to behaviors that are not enjoyed by ghosts and gods, carefully control the fun of hunting and hunting, have certain rules in your daily life, follow the etiquette and law, manage political affairs personally, devote yourself to practical actions without being tired, and do everything with peace of mind as natural as nature.
+The scriptures say: From now on, kings who inherit the ancestral inheritance should not indulge too much in banquets or indulge in hunting, but should only revise themselves respectfully.
+There is no such thing as a lord who can cultivate the righteousness himself while his ministers are treacherous.
+The relationship between husband and wife is the rule of law for the king and the key to the safety of the country. It is what a wise king should be most cautious about.
+In the past, Shun warned the two women to speak and behave in a correct manner to make his noble character even nobler; King Zhuang of Chu endured the pain and did not see Danji, thus achieving the feat of overlord; King You of Zhou was deceived by Bao Si, and Zhou's virtue declined and the country perished; Duke Huan of Lu was coerced by Qi's daughter Jiang, and the state of Ji was overthrown.
+If you can really regulate the affairs of the harem and clarify the order of superiority and inferiority, those with high status cannot monopolize the emperor's favor due to jealousy, so as to cut off the traces of arrogance and arrogance, and suppress the troubles such as Guo Si and Yan's wife. Those with low status can serve the monarch in order, and each can perform their duties. It can expand the continuation of future generations, quell the resentment of "White Flowers" and the like, and make them rich financially with relatives in the harem, and do not let them participate in political affairs. This can alienate people like the emperor's father who rely on favor to get official positions, weaken the power of the wife's party, and the world will be in chaos without the maintenance of the boudoir.
+
+summary:
+He emphasized that the relationship between husband and wife is crucial for national safety. He advised regulating the harem, clarifying superiority and inferiority, and preventing jealousy and arrogance. He urged the emperor to correct himself, reduce private banquets, stop excessive pleasures, and follow etiquette and law. He also stressed the importance of selecting virtuous officials, assessing their merits, and avoiding favoritism. He warned that disasters are warnings from heaven, and if ignored, punishments will increase.
+
+================================================================================
+
+Summary line 4
+Span: 45-57 (score=0.6228)
+
+original:
+今三年之间，灾异锋起，小大毕具，所行不享上帝，上帝不豫，炳然甚著。
+不求之身，无所改正，疏举广谋，又不用其言，是循不享之迹，无谢过之实也，天责愈深。
+此五者，王事之纲纪。南面之急务，唯陛下留神。
+对奏，天子异焉，特召见永。
+其夏，皆令诸方正对策，语在《杜钦传》。
+永对毕，因曰： 臣前幸得条对灾异之效，祸乱所极，言关于圣聪。
+书陈于前，陛下委弃不纳，而更使方正对策，背可惧之大异，问不急之常论，废承天之至言，角无用之虚文，欲末杀灾异，满谰诬天，是故皇天勃然发怒，甲己之间暴风三溱，拔树折木，此天至明不可欺之效也。
+上特复问永，永对曰： 日食、地震，皇后、贵妾专宠所致。
+语在《五行志》。
+是时，上初即位，谦让委政元舅大将军王凤，议者多归咎焉。
+永知凤方见柄用，阴欲自托，乃复曰：
+方今四夷宾服，皆为臣妾，北无薰粥冒顿之患，南无赵佗、吕嘉之难，三垂晏然，靡有兵革之警。
+诸侯大者乃食数县，汉吏制其权柄，不得有为，亡吴、楚、燕、梁之势。
+
+translation:
+In the past three years, disasters and visions have appeared in droves, both large and small. This is because the actions are not in line with the will of the Emperor of Heaven, and the Emperor of Heaven is not happy, which is very obvious.
+If you don't seek the reasons within yourself, you won't be able to make corrections. If you recommend scholars quickly and solicit opinions widely, but don't adopt their opinions, you are following a path that is not in line with God's will. If you don't take practical actions to thank you, the punishment from the Emperor of Heaven will be heavier.
+These five matters are the laws of the king's political affairs and are important matters for governing from the south. I hope your majesty will pay attention to them.
+The emperor was surprised when the countermeasures were advanced and summoned Gu Cheng specially.
+That summer, all the founders were ordered to come up with countermeasures. This incident was recorded in "The Biography of Du Qin".
+After Gu Yong finished answering, he continued: I was fortunate enough to be able to make a statement about the effectiveness of the disaster. The disaster was extreme, and the words were related to the sage you listened to.
+The memorial statement was given in front of him, but His Majesty rejected it and refused to adopt it, but instead gave in to the correct countermeasures. He did not face up to the unusual phenomena that were worthy of worry, asked for ordinary opinions that were not urgent, and abolished the wise words that were in line with God's will. He offered useless empty words, trying to obliterate the disaster and deceive the emperor, so the emperor became angry. The storms between armies and Ji came three times, uprooting and breaking the trees. This is the most holy test of the emperor and cannot be deceived.
+The emperor specifically asked Gu Yong, and Gu Yong replied: The solar eclipse and earthquake were caused by the exclusive favor of the queen's concubine.
+This incident is recorded in the "Five Elements Chronicles".
+At this time, the emperor had just ascended the throne. He was modest and courteous and entrusted the political affairs to the general Wang Feng. Most of the ministers blamed Wang Feng.
+Gu Yong knew that Wang Feng had just been trusted and took power, and secretly wanted to rely on Wang Feng, so he said:
+Now that all the barbarians have surrendered, they have all become your concubines. There is no need to worry about making porridge or food in the north, and there is no need to worry about Zhao Tuo or Lu Jia in the south. The borders on three sides are stable, and there is no warning of military revolution.
+The big princes only had salaries in several counties, and the officials of the imperial court controlled their power, preventing them from doing anything. There was no longer a situation where Wu, Chu, Yan, and Liang stood side by side.
+
+summary:
+The emperor was surprised by Gu Yong's countermeasures and summoned him. Gu Yong continued, stating that the solar eclipse and earthquake were caused by the exclusive favor of the queen's concubine. He knew that General Wang Feng had just gained power and secretly wanted to rely on him. He argued that the borders were stable, the princes had limited power, and officials were loyal, so the disasters could not be blamed on the uncles. He advised the emperor to understand the warnings, change past mistakes, eliminate biased favor, and ensure all concubines served in turn to secure descendants and end disasters.
+
+================================================================================
+
+Summary line 5
+Span: 93-112 (score=0.4988)
+
+original:
+今大将军不幸蚤薨，累亲疏，序材能，宜在君侯。
+拜吏之日，京师士大夫怅然失望。
+此皆永等愚劣，不能褒扬万分。
+属闻以特进领城门兵，是则车骑将军秉政雍容于内，而至戚贤舅执管籥于外也。
+愚窃不为君侯喜。
+宜深辞职，自陈浅薄不足以固城门之守，收太伯之让，保谦谦之路，阖门高枕，为知者首。
+愿君侯与博览者参之，小子为君侯安此。
+谭得其书大感，遂辞让不受领城门职。
+由是谭、音相与不平。
+永远为郡吏，恐为音所危，病满三月免。
+音奏请永补营军司马，永数谢罪自陈，得转为长史。
+音用从舅越亲辅政，威权损于凤时，永复说音曰： 将军覆上将之位，食豪腴之都，任周、召之职，拥天下之枢，可谓富贵之极，人臣无二，天下之责四面至矣，将何以居之？
+宜夙夜孳孳，执伊尹之强德，以守职匡上，诛恶不避亲爱，举善不避仇雠，以章至公，立信四方。
+笃行三者，乃可以长堪重任，久享盛宠。
+太白出西方六十日，法当参天，今已过期，尚在桑榆之间，质弱而行迟，形小而光微。
+荧惑角怒明大，逆行守尾。
+其逆，常也；守尾，变也。
+意岂将军忘湛渐之义，委曲从顺，所执不强，不广用士，尚有好恶之忌，荡荡之德未纯，方与将相大臣乖离之萌也？
+何故始袭司马之号，俄而金火并有此变？
+上天至明，不虚见异，唯将军畏之慎之，深思其故，改求其路，以享天意。
+
+translation:
+Now that the general has unfortunately passed away prematurely, it should be your turn to rank in order of closeness and ability.
+On the day of the ceremony, the scholar-bureaucrats in the capital were disappointed.
+This is all because we people are stupid and have low talents, and we cannot reward and praise even one ten thousandth of it.
+Recently I heard that you lead the city gate soldiers with the special rank, which makes the general of chariots and cavalry in power in the court with grace and grace, while your dearest uncle is holding the keys to the city gate outside.
+I'm personally unhappy for you.
+You should resolutely demand to resign, state that your talents are not enough to strengthen the guards of the city gate, accept the name of Taibo's humility, keep the path of humility, close the door and sleep in peace, and be the leader of wise people.
+I hope you will consider this matter with knowledgeable people, and I have arranged it for you.
+Wang Tan was very moved by his letter, so he refused to accept the position of leading the city gate.
+From then on, Wang Tan and Wang Yin were at odds with each other.
+Gu Yong was working as a county official in a distant place. He was worried about being harmed by Wang Yin, so he claimed that he had been ill for three full months and was relieved of his duties.
+Wang Yinzhuo asked Gu Yong to be appointed as the commander of the camp. Gu Yong apologized many times and stated his case, so he was transferred to the post of Chang Shi.
+Because Wang Yin transcended his close relatives and assisted in political affairs as a cousin, his power and influence were lower than those of Wang Feng. Gu Yong then persuaded Wang Yin and said: "The general holds the position of general, enfeoffs the fertile land of the big city, bears the same responsibilities as Duke of Zhou and Duke of Zhao, and controls the secrets of the world. It can be called the ultimate wealth. If there is no second among ministers, the world's blame will come from all sides. What will you rely on to occupy this position?"
+You should work tirelessly day and night, with a strong character like Yi Yin, to uphold your duties and assist the emperor, punish evildoers without avoiding those who are close to you, believe in and love them, and promote virtuous people without avoiding those who are hostile and hostile, so as to show the greatest justice and establish credibility in all directions.
+Only by concentrating on implementing these three aspects can you be able to shoulder heavy responsibilities for a long time and enjoy deep favor for a long time.
+Taibai appeared in the west for sixty days. According to the law, it should reach the sky. Now it has expired and is still among the mulberry trees. Its body is weak and its movement is slow. Its shape is small and its light is weak.
+Yinghuojiao is strong, large and bright, and is located in Ojuku in retrograde motion.
+When Mars is retrograde, it is fixed; when Mars is in Osu, it is mutable.
+Does God's will mean that the general forgets the deep and hidden righteousness, is submissive, the deacon is not strong, does not widely appoint scholars, still has taboos about likes and dislikes, and the magnanimous character is not pure, and is the beginning of betrayal by the generals and ministers?
+Why did Venus and Mars mutate like this when you just inherited the title of Sima?
+God is the most holy and will not show visions out of thin air. I hope that the general will look at all this with awe and caution, think deeply about the reasons for the changes, and change the way to seek governance to comply with God's will.
+
+summary:
+Gu Yong was promoted to Doctor Guanglu. He wrote to thank Wang Feng, praising his support. Later, when Wang Feng died, Wang Yin succeeded him. Gu Yong advised Wang Tan to resign from leading the city gate soldiers, which Wang Tan did, causing a rift with Wang Yin. Gu Yong then advised Wang Yin to work diligently, punish evildoers, and promote virtuous people. He warned about celestial signs like Taibai and Yinghuo, urging Wang Yin to change his ways to comply with God's will.
+
+================================================================================
+
+Summary line 6
+Span: 114-126 (score=0.3978)
+
+original:
+音薨，成都侯商代为大司马卫将军，永乃迁为凉州刺史。
+奏事京师讫，当之部，时有黑龙见东莱，上使尚书问永，受所欲言。
+永对曰：
+臣闻王天下有国家者，患在上有危亡之事，而危亡之言不得上闻；如使危亡之言辄上闻，则商、周不易姓而迭兴，三正不变改而更用。
+夏、商之将亡也，行道之人皆知之，晏然自以若天有日莫能危，是故恶日广而不自知，大命倾而不寤。
+《易》曰： 危者有其安者也，亡者保其存者也。
+陛下诚垂宽明之听，无忌讳之诛，使刍荛之臣得尽所闻于前，不惧于后患，直言之路开，则四方众贤不远千里，辐凑陈忠，群臣之上愿，社稷之长福也。
+汉家行夏正，夏正色黑，黑龙，同姓之象也。
+龙阳德，由小之大，故为王者瑞应。
+未知同姓有见本朝无继嗣之庆，多危殆之隙，欲因扰乱举兵而起者邪？
+将动心冀为后者，残贼不仁，若广陵、昌邑之类？
+臣愚不能处也。
+元年九月黑龙见，其晦，日有食之。
+
+translation:
+When Wang Yin died, Wang Shang, the Marquis of Chengdu, took his place as the Great Sima Wei General, and Gu Yong was promoted to the governor of Liangzhou.
+After finishing the performance in the capital, it was time to go to the ministry. At that time, a black dragon appeared in Shulai. The emperor sent a minister to ask Gu Yong to hear what he had to say.
+Gu Yong replied:
+I heard that the people who rule the world and occupy the country are worried that the monarch's behavior will endanger the country, but the words of warning of danger cannot be heard by the monarch. If the words of warning of danger were heard by the monarch immediately, then the Shang and Zhou Dynasties would not change their surnames and rise alternately, and the three generations would not change their politics but use each other.
+The Xia and Shang Dynasties were about to perish, and everyone on the road knew it, but the monarch safely thought that no one could harm him like the sun in the sky. Therefore, his sins became more and more serious, but he himself did not know it, and his fate was overthrown, but he did not realize it.
+"Book of Changes" says: Only those who can consider danger can maintain stability, and only those who can think of destruction can exist.
+If your Majesty can really listen to opinions magnanimously and wisely, without killing people because of taboos, so that the humble ministers can state everything they hear in front of you without worrying about future troubles, and the path of speaking out will be opened, then many wise men from all over the world will travel thousands of miles and gather at the court like the spokes of a car on an axis to express their loyalty. This is the greatest wish of the ministers and the long-term blessing of the country.
+The Han family follows the first month of the lunar calendar. The first month of the lunar calendar is black, and the black dragon is a symbol of the same surname.
+The dragon belongs to Yang De, from small to large, so it is the auspicious sign of the king.
+I wonder if someone with the same surname has seen that Fuqing, who has no heir in this dynasty, has many dangerous gaps, and wants to take advantage of this to invade and cause chaos and raise troops?
+Or do you start your mind and hope that your successor will be cruel and unkind, like Luling and Changyi?
+I am too stupid to make a decision.
+In September of the first year of the year, the black dragon appeared, and on the last day of September, there was a solar eclipse.
+
+summary:
+When a black dragon appeared, Gu Yong explained it as a sign of the same surname, possibly indicating a threat from a relative or a cruel successor.
+
+================================================================================
+
+Summary line 7
+Span: 156-162 (score=0.4014)
+
+original:
+至于陛下，独违道纵欲，轻身妄行，当盛壮之隆，无继嗣之福，有危亡之忧，积失君道，不合天意，亦已多矣。
+为人后嗣，守人功业，如此，岂不负哉！
+方今社稷宗庙祸福安危之机在于陛下，陛下诚肯发明圣之德，昭然远寤，畏此上天之威怒，深惧危亡之征兆，荡涤邪辟之恶志，厉精致政，专心反道，绝群小之私客，免不正之诏除，悉罢北宫私奴车马媠出之具，克己复礼，毋二微行出饮之过，以防迫切之祸，深惟日食再既之意，抑损椒房玉堂之盛宠，毋听后宫之请谒，除掖庭之乱狱，出炮格之陷阱，诛戮邪佞之臣及左右执左道以事上者以塞天下之望，且寝初陵之作，止诸缮治宫室，阙更减赋，尽休力役，存恤振救困乏之人以弭远方，厉崇忠直，放退残贼，无使素餐之吏久尸厚禄，以次贯行，固执无违，夙夜孳孳，屡省无怠，旧愆毕改，新德既章，纤介之邪不复载心，则赫赫大异庶几可销，天命去就庶几可复，社稷宗庙庶几可保。
+唯陛下留神反复，熟省臣言。
+臣幸得备边部之吏，不知本朝失得，瞽言触忌讳，罪当万死。
+成帝性宽而好文辞，又久无继嗣，数为微行，多近幸小臣，赵、李从微贱专宠，皆皇太后与诸舅夙夜所常忧。
+至亲难数言，故推永等使因天变而切谏，劝上纳用之。
+
+translation:
+When it comes to Your Majesty, just by violating the laws of heaven and indulging selfish desires, belittling oneself and acting recklessly, in the prime of life, without the blessing of an heir, but with the worry of danger and death, and by accumulating and losing the way to be a king, there are already many things that are not in line with God's will.
+As the descendants of our ancestors, if we preserve the merits and deeds of our ancestors, wouldn’t we be living up to our ancestors?
+Now the key to the safety and good fortune of the Sheji Ancestral Temple lies with Your Majesty. Your Majesty is really willing to carry forward the virtues of sage. He is clearly and deeply awakened to fear the majesty and wrath of God. He is deeply wary of the signs of danger and danger. He must wash away his bad ambitions and interests, cheer up and devote himself to political affairs. He must return to the way of a king wholeheartedly. He must prevent villains from being personal guests and avoid unfair appointment of officials. , all preparations for private slaves in the Beigong to go out, restrain themselves and restore etiquette, and do not make the mistake of leaving the palace for banquets in order to avoid imminent disasters. Think deeply about the signs of the two solar eclipses, refrain from detracting from the favor of the prosperous Jiaofang and Yutang, do not listen to the invitations of the harem, abolish the illegal prison in Yeting, fill up the traps like cannons, and kill the treacherous and flattering ministers. And those who come to serve the emperor in evil ways, in order to satisfy the world's expectations, temporarily stop the work of the early mausoleum, stop all kinds of repair and renovation projects of the palace, reduce the number of soldiers and reduce taxes, completely stop using the people's power, condolences and provide relief to the poor, so as to stabilize the distant places, encourage and respect the loyal and upright people, banish the cruel and tyrannical people, and do not let the officials who eat for free stay for a long time. Occupy a generous salary, carry out the work in sequence, persevere without violating it, be diligent in the morning and evening, review many times without getting tired, correct all the old mistakes, show new virtues, and no longer take small evils to heart, then the grand vision will almost disappear, the destiny will be gone without virtue, virtue will be almost restored, and the Sheji Ancestral Temple will be almost preserved.
+I hope Your Majesty will be careful not to repeat the same mistakes and carefully examine my words.
+I am fortunate to be appointed as a border official. I do not understand the gains and losses of this dynasty. My fallacies violate taboos and deserve death.
+Emperor Cheng was generous by nature and fond of articles. He had no heirs for a long time, traveled incognito many times, and often got close to favored and unscrupulous ministers. Zhao and Li were able to monopolize favors from their humble status. This was a constant worry for the Empress Dowager and her uncles morning and night.
+The people closest to him could not say much, so they recommended Gu Yong and others to take advantage of the changes in the celestial phenomena to sincerely advise and persuade the emperor to accept their words.
+
+summary:
+He warned about the dangers of women and evil people in power, citing historical examples. He criticized the emperor for indulging in private pleasures, neglecting duties, and causing disasters. He urged the emperor to reform, reduce taxes, stop excessive construction, and care for the people. The emperor was moved but did not fully trust Gu Yong.
+
+================================================================================
+
+Summary line 8
+Span: 219-235 (score=0.6315)
+
+original:
+少省愚臣之言，感寤三难，深畏大异，定心为善，捐忘邪志，毋二旧愆，厉精致政，至诚应天，则积异塞于上，祸乱伏于下，何忧患之有？
+窃恐陛下公志未专，私好颇存，尚爱群小，不肯为耳！
+对奏，天子甚感其言。
+永于经书，泛为疏达，与杜钦、杜邺略等，不能洽浃如刘向父子及扬雄也。
+其于天官、《京氏易》最密，故善言灾异，前后所上四十余事，略相反复，专攻上身与后宫而已。
+党于王氏，上亦知之，不甚亲信也。
+永所居任职，为北地太守岁余，卫将军商薨，曲阳侯根为票骑将军，荐永，征入为大司农。
+岁余，永病，三月，有司奏请免。
+故事，公卿病，辄赐告，至永独即时免。
+数月，卒于家。
+本名并，以尉氏樊并反，更名永云。
+杜邺字子夏，本魏郡繁阳人也。
+祖父及父积功劳皆至郡守，武帝时徙茂陵。
+邺少孤，其母张敞女。
+邺。邺壮，从敞子吉学问，得其家书。
+以孝廉以郎。
+与车骑将军王音善。
+
+translation:
+As long as you can reflect on the words of the foolish minister for a moment, realize the three disasters, be deeply worried about the great vision, make up your mind to implement good governance, abandon and forget the evil ambition, do not make the same mistakes again, cheer up and devote yourself to governance, and transmit the greatest sincerity to heaven, then the long-standing vision in the sky will be stopped, and the disaster and rebellion on the ground will be subdued, what else is there to worry about?
+Privately, I am worried that Your Majesty is not single-minded in his public ambitions, that he is very reserved in his private hobbies, and that he still loves all the villains and is unwilling to pursue them!
+The emperor was very moved by his words.
+Gu Yong was generally as clear and accessible as Du Qin and Du Ye about scriptures, but he was not as comprehensive as Liu Xiang, his son and Yang Xiong.
+He was the most proficient in Tianguan and "Jingshi Yi", so he was good at talking about disasters and phenomena. He recounted more than 40 things before and after, with slight repetitions, and specifically blamed the lord himself and the harem.
+Being protected by the Wang family, the Lord also knew that he was not very close and trusted him.
+Gu Yong was very competent in every position he held. He served as the governor of the North for more than a year. General Wang Shangguan of the Guard and Wang Gen, the Marquis of Quyang, became generals of hussars. They recommended Gu Yong and conscripted him into the capital to be the chief agricultural officer.
+More than a year later, Gu Yongsheng became ill. Two months later, a supervisor petitioned to remove Gu Yong from his position.
+As a precedent, when a minister fell ill, the emperor granted him a leave of absence, and Shan Shan was immediately dismissed from his post when he arrived in Gu Yong.
+A few months later, Gu Yong died at home.
+His real name was Gu Bing, but it is said that he changed his name to Gu Yong because of Fan Bing's rebellion.
+Du Ye, named Zixia, was originally from Fanyang, Wei County.
+After accumulating meritorious service, my grandfather and father were promoted to county governors. During the reign of Emperor Wu, they moved to Maoling.
+Du Ye lost his father when he was young, and his mother was Zhang Chang's daughter.
+When Du Ye was in his prime, he studied with Zhang Chang's son Zhang Ji and obtained books from his family collection.
+He became a man because of his filial piety and integrity.
+Du Ye was friendly with the chariot general Wang Yin.
+
+summary:
+Gu Yong served as governor of the North and later died at home. He was proficient in Tianguan and "Jingshi Yi," and his memorials focused on the lord and the harem. Du Ye, styled Zixia, was from Fanyang and studied with Zhang Ji. He was friendly with Wang Yin and advised him to cooperate with Wang Shang. Du Ye later served as governor of Liangzhou but was dismissed due to illness.
+
+================================================================================
+
+Summary line 9
+Span: 285-298 (score=0.5095)
+
+original:
+昔诗人所刺，《春秋》所讥，指象如此，殆不在它。
+由后视前，忿邑非之，逮身所行，不自镜见，则以为可，计之过者。
+疏贱独偏见，疑内亦有此类。天变不空，保右世主如此之至，奈何不应！
+臣闻野鸡著怪，高宗深动；大风暴过，成王怛然。
+愿陛下加致精诚，思承始初，事稽诸古，以厌下心，则黎庶群生无不说喜，上帝百神收还威怒，祯祥福禄何嫌不报！
+邺未拜，病卒。
+邺言民讹言行筹，及谷永言王者买私田，彗星陨石牡飞之占，语在《五行志》。
+初，邺从张吉学，吉子竦又幼孤，从邺学问，亦著于世，尤长小学。
+邺子林，清静好古，亦有雅材，建武中历位列卿，至大司空。
+其正文字过于邺、竦，故世言小学者由杜公。
+赞曰：孝成之世，委政外家，诸舅持权，重于丁、傅在孝哀时。
+故杜邺敢讥丁、傅，而钦、永不敢言王氏，其势然也。
+及钦欲挹损凤权，而邺附会音、商。
+永陈三七之戒，斯为忠焉，至其引申伯以阿凤，隙平阿于车骑，指金、火以求合，可谓谅不足而谈有余者。
+
+translation:
+In the past, what poets criticized and "Spring and Autumn" ridiculed was this, and probably not in other ways.
+When looking at the past from the perspective of the future, one resents it and thinks it is wrong. When it comes to one's own behavior, one does not look at oneself in the mirror and thinks it is right. This is a mistake in strategy.
+The alienated and despicable minister only saw it from the side. I suspected that there were people like me in the palace. The changes in heaven are not empty. If you try your best to protect the monarchs of all ages like this, why don't you correct the political affairs in accordance with God's will!
+I heard that the pheasant behaved strangely, and Emperor Gaozong was deeply moved; a strong wind blew violently, and King Cheng was frightened.
+I hope that your majesty will be more careful and sincere, consider inheriting the prosperity of the early period of the country, and examine ancient laws in everything to satisfy the people's wishes. Then the people of Li will not be unhappy. When the gods in heaven withdraw their power and anger, there is no need to worry about whether blessings and blessings will come in return:
+Du Ye died of illness without being awarded an official title.
+Du Ye talks about people spreading rumors to prepare for divination, and Gu Yong talks about kings buying private fields, and the divination of comets, meteorites and lock springs being lost. These are all recorded in "Five Elements Chronicles".
+At first, Du Ye studied with Zhang Ji. Zhang Ji's son Zhang Song lost his father when he was young and studied with Du Ye. He was also famous at that time, especially good at writing.
+Du Ye's son, Du Lin, was a quiet and ancient man, and also had great talents. He was a minister in Jianwu and the highest in the palace, Sikong.
+His writing skills were better than those of Du Ye and Zhang Song, so people say that the study of writing began with Si Gong.
+Zan said: During the era of Emperor Xiaocheng, the political power was entrusted to the family of relatives, and the uncles controlled the political power. Their power was even greater than that of the Lie family and the Fu family during the period of Emperor Xiaoai.
+Therefore, Du Ye dared to accuse the Ding family and the Fu family, while Qin did not dare to talk about the Wang family. This was because the situation made them like that.
+Du Qin wanted to suppress and reduce Wang Feng's power, but Du Ye relied on Wang Yin and Wang Shang. The same was true.
+Gu Yong stated Sanqi's warning, which showed his loyalty. When he cited Shen Bo's story to flatter Wang Huang, alienated Ping Ahou and General Chaoqi, and stated the changes of Jinhuo to seek reconciliation, he can be called a person who lacks integrity but is more than capable of talking.
+
+summary:
+During Emperor Ai's reign, he criticized the influence of the Fu and Ding families, warning about solar eclipses and earthquakes as signs of imbalance. He urged the emperor to follow ancient laws and satisfy the people's wishes. Du Ye died without an official title. The commentary notes that during Emperor Xiaocheng's era, power was with relatives, while during Emperor Xiaoai's era, the Fu and Ding families held power. Du Ye dared to accuse the Ding and Fu families, but Gu Yong avoided criticizing the Wang family due to circumstances. Gu Yong's loyalty was shown in his warnings, but he also flattered Wang Feng and alienated others, lacking integrity but excelling in rhetoric.
+
+================================================================================
+

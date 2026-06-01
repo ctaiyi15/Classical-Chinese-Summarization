@@ -1,0 +1,238 @@
+Summary line 0
+Span: 0-13 (score=0.7053)
+
+original:
+孝景皇帝子凡十三人为王，而母五人，同母者为宗亲。
+栗姬子曰荣、德、阏于。
+程姬子曰馀、非、端。
+贾夫人子曰彭祖、胜。
+唐姬子曰发。
+王夫人兒姁子曰越、寄、乘、舜。
+河间献王德，以孝景帝前二年用皇子为河间王。
+好儒学，被服造次必於儒者。
+山东诸儒多从之游。
+二十六年卒，子共王不害立。
+四年卒，子刚王基代立。
+十二年卒，子顷王授代立。
+临江哀王阏于，以孝景帝前二年用皇子为临江王。
+三年卒，无後，国除为郡。
+
+translation:
+A total of thirteen sons of Emperor Xiaojing were named kings. These thirteen were born to five mothers, and those born to the same mother were clan relatives.
+The sons born to Li Ji are Liu Rong, Liu De and Liu Yanyu.
+The sons born to Cheng Ji are Liu Yu, Liu Fei and Liu Duan.
+The sons born to Jia Fu are Liu Pengzu and Liu Sheng.
+The son born to Tang Ji was Liu Fa.
+Mrs. Wang's sons, Liu Yue, Liu Ji, Liu Cheng, and Liu Shun, were born to her.
+Liu De, the king of Hejian, was named the king of Hejian as a prince in the second year of Emperor Xiaojing's reign.
+He likes Confucian learning, and he dresses and behaves like a Confucian scholar.
+Most of the Confucian scholars in Shandong attached themselves to him.
+He died after reigning for twenty-six years and was succeeded by his son, Prince Gong Liu Buhu.
+Liu Buhui died after four years on the throne, and his son Liu Ji, King Gang, succeeded him.
+Liu Ji died in his 12th year on the throne, and his son Liu Shu, King of Qing, succeeded him.
+Linjiang Ai Wang Liu Yan was named Linjiang King as a prince in the second year of Emperor Xiaojing's reign.
+He died after reigning for three years. Because he had no descendants to inherit the throne, the feudal state was abolished and changed to counties.
+
+summary:
+Emperor Xiaojing had thirteen sons by five mothers, all named kings. Li Ji bore Liu Rong, Liu De, and Liu Yanyu; Cheng Ji bore Liu Yu, Liu Fei, and Liu Duan; Jia Fu bore Liu Pengzu and Liu Sheng; Tang Ji bore Liu Fa; and Mrs. Wang bore Liu Yue, Liu Ji, Liu Cheng, and Liu Shun. Liu De, King of Hejian, was a Confucian scholar who attracted many followers. He reigned 26 years, succeeded by his son and grandson.
+
+================================================================================
+
+Summary line 1
+Span: 12-39 (score=0.5040)
+
+original:
+临江哀王阏于，以孝景帝前二年用皇子为临江王。
+三年卒，无後，国除为郡。
+临江闵王荣，以孝景前四年为皇太子，四岁废，用故太子为临江王。
+四年，坐侵庙壖垣为宫，上徵荣。
+荣行，祖於江陵北门。
+既已上车，轴折车废。
+江陵父老流涕窃言曰： 吾王不反矣！
+荣至，诣中尉府簿。
+中尉郅都责讯王，王恐，自杀。
+葬蓝田。
+燕数万衔土置冢上，百姓怜之。
+荣最长，死无後，国除，地入于汉，为南郡。
+右三国本王皆栗姬之子也。
+鲁共王馀，以孝景前二年用皇子为淮阳王。
+二年，吴楚反破後，以孝景前三年徙为鲁王。
+好治宫室苑囿狗马。
+季年好音，不喜辞辩。为人吃。
+二十六年卒，子光代为王。
+初好音舆马；晚节啬，惟恐不足於财。
+江都易王非，以孝景前二年用皇子为汝南王。
+吴楚反时，非年十五，有材力，上书原击吴。
+景帝赐非将军印，击吴。吴已破，二岁，徙为江都王，治吴故国，以军功赐天子旌旗。
+元光五年，匈奴大入汉为贼，非上书原击匈奴，上不许。
+非好气力，治宫观，招四方豪桀，骄奢甚。
+立二十六年卒，子建立为王。
+七年自杀。
+淮南、衡山谋反时，建颇闻其谋。
+自以为国近淮南，恐一日发，为所并，即阴作兵器，而时佩其父所赐将军印，载天子旗以出。
+
+translation:
+Linjiang Ai Wang Liu Yan was named Linjiang King as a prince in the second year of Emperor Xiaojing's reign.
+He died after reigning for three years. Because he had no descendants to inherit the throne, the feudal state was abolished and changed to counties.
+Linjiang Min King Liu Rong was established as the crown prince in the fourth year of Emperor Xiaojing's reign. Four years later, he was deposed and was named Linjiang King as the original prince.
+In the fourth year of his reign, he was convicted of occupying the open space outside the ancestral temple wall to expand the palace, and the emperor conscripted him.
+Liu Rong responded to the call and set out to worship the god of travel at the north gate of Jiangling.
+After getting in the car. The axle is broken and the car is useless.
+The Jiangling elders thought this was an ominous sign, and cried and whispered: Our king may not be able to come back!
+Liu Rong arrived in the capital and went to the Lieutenant's Mansion for interrogation.
+Lieutenant Zhi questioned him and he died out of fear of committing suicide.
+Buried in Lam Tin.
+Tens of thousands of swallows placed earth in their mouths on his tomb, and the people pitied him.
+Liu Rong was the oldest among the sons of Emperor Jing. After his death, he had no sons to inherit the throne. The feudal kingdom was abolished and the fiefdom was merged into the imperial court and became Nanjun.
+The first kings of the above-mentioned Three Kingdoms were all sons of Li Ji.
+Liu Yu, King of Lu Gong, was named King of Huaiyang as a prince in the second year of Emperor Xiaojing's reign.
+In the second year, after the rebellion of the seven kingdoms of Wu and Chu was put down, he was renamed King of Lu in the third year of Emperor Xiaojing's reign.
+He likes to build palaces and gardens and raise dogs and horses.
+In his later years, he loved music, but he was not good at speaking and had a stutter.
+He died in the twenty-sixth year of his reign, and his son Liu Guang succeeded him as king.
+Liu Guang also liked music, carriages and horses at first, but in his later years he became stingy, fearing that his property would not be enough.
+Liu Fei, King of Yi of Jiangdu, was named King of Runan as a prince in the second year BC of Emperor Xiaojing.
+When the seven kingdoms of Wu and Chu rebelled, Liu Fei was fifteen years old. He was brave and resourceful. He wrote to the emperor and volunteered to lead troops to attack Wu.
+Emperor Jing gave him the seal of general and ordered him to attack the state of Wu. After the state of Wu was defeated, he was renamed King of Jiangdu the next year and governed the original fiefdom of the state of Wu. Because of his military merits, he was awarded the emperor's banner.
+In the fifth year of Yuanguang reign of Emperor Xiaowu, the Huns invaded the Han territory and became bandits. Liu Fei wrote a letter volunteering to attack the Huns, but the emperor did not agree.
+Liu Fei liked to use his strength, build palaces, recruit heroes and knights from all over the world, and was extremely arrogant and extravagant.
+He died in his twenty-sixth year on the throne, and his son Liu Jian succeeded him as king.
+Liu Jian committed suicide after seven years in office.
+When Huainan and Hengshan rebelled, Liu Jian had some idea of ​​their plans.
+He believed that his kingdom was close to Huainan, and he was afraid that it would be annexed by the king of Huainan if the incident happened, so he secretly made weapons, and often wore the general's seal given to his father by the emperor, and carried the emperor's banner on patrols.
+
+summary:
+Liu Rong, once crown prince, was deposed and later died by suicide after being convicted of expanding his palace onto temple grounds. His kingdom was abolished. Liu Yu, King of Lu, built palaces and loved music but stuttered. Liu Fei, King of Jiangdu, was a brave military leader who defeated Wu in the Rebellion of the Seven Kingdoms. His son Liu Jian committed suicide after plotting rebellion, adultery, and witchcraft. Liu Duan, King of Jiaoxi, was cruel and impotent, often killing officials who followed Han laws. He died without heirs, and his kingdom was abolished.
+
+================================================================================
+
+Summary line 2
+Span: 63-74 (score=0.3519)
+
+original:
+故胶西小国，而所杀伤二千石甚众。
+立四十七年，卒，竟无男代後，国除，地入于汉，为胶西郡。
+右三国本王皆程姬之子也。
+赵王彭祖，以孝景前二年用皇子为广川王。
+赵王遂反破後，彭祖王广川。
+四年，徙为赵王。
+十五年，孝景帝崩。
+彭祖为人巧佞卑谄，足恭而心刻深。
+好法律，持诡辩以中人。
+彭祖多内宠姬及子孙。
+相、二千石欲奉汉法以治，则害於王家。
+是以每相、二千石至，彭祖衣皁布衣，自行迎，除二千石舍，多设疑事以作动之，得二千石失言，中忌讳，辄书之。
+
+translation:
+Therefore, although Jiaoxi is a small country, there are many officials with the rank of 2,000 stone killed and injured.
+Liu Duan died after reigning for forty-seven years. In the end, because he had no son to inherit the throne, the feudal state was abolished and the feudal land was merged into the imperial court and became Jiaoxi County.
+The first kings of the above-mentioned three kingdoms were all sons of Cheng Ji.
+King Liu Pengzu of Zhao was named King of Guangchuan as a prince in the second year of Emperor Xiaojing's reign.
+After King Zhao rebelled and was defeated, Peng Zu was named King of Guangchuan.
+In the fourth year of his reign, he was renamed King Zhao.
+In the fifteenth year of his reign, Emperor Xiaojing passed away.
+Peng Zu was a deceitful and sycophantic man, humble and flattering. On the surface, he was humble and respectful, but he was mean and vicious in his heart.
+He likes to play with the law and slander others with sophistry.
+Peng Zu had many beloved concubines and descendants.
+If the prime minister and officials of the 2,000-stone level want to govern political affairs according to the laws of the Han Dynasty, they will harm the interests of King Zhao.
+For this reason, whenever the Prime Minister or a 2,000-stone-level official arrived, Liu Pengzu would dress in black cloth and pretend to be a slave, go out to greet him personally, clean the residence where the 2,000-stone-level official stayed, and create more confusion to attract the other party. Once the 2,000-stone-level official made inappropriate remarks and violated the court's taboos, he would write it down.
+
+summary:
+Liu Pengzu, King of Zhao, was deceitful and manipulative, causing many officials to be dismissed or executed. He amassed wealth through monopolies but spent it on concubines.
+
+================================================================================
+
+Summary line 3
+Span: 105-125 (score=0.5898)
+
+original:
+广川惠王越，以孝景中二年用皇子为广川王。
+十二年卒，子齐立为王。
+齐有幸臣桑距。
+已而有罪，欲诛距，距亡，王因禽其宗族。
+距怨王，乃上书告王齐与同产奸。
+自是之後，王齐数上书告言汉公卿及幸臣所忠等。
+胶东康王寄，以孝景中二年用皇子为胶东王。
+二十八年卒。
+淮南王谋反时，寄微闻其事，私作楼车镞矢战守备，候淮南之起。
+及吏治淮南之事，辞出之。
+寄於上最亲，意伤之，发病而死，不敢置後，於是上。
+寄有长子者名贤，母无宠；少子名庆，母爱幸，寄常欲立之，为不次，因有过，遂无言。
+上怜之，乃以贤为胶东王奉康王嗣，而封庆於故衡山地，为六安王。
+胶东王贤立十四年卒，谥为哀王。
+子庆为王。
+六安王庆，以元狩二年用胶东康王子为六安王。
+清河哀王乘，以孝景中三年用皇子为清河王。
+十二年卒，无後，国除，地入于汉，为清河郡。
+常山宪王舜，以孝景中五年用皇子为常山王。
+舜最亲，景帝少子，骄怠多淫，数犯禁，上常宽释之。
+立三十二年卒，太子勃代立为王。
+
+translation:
+Liu Yue, King Hui of Guangchuan, was named King of Guangchuan as a prince in the second year of Emperor Xiaojing's reign.
+Liu Yue died in the 12th year of his reign, and his son Liu Qi succeeded him as king.
+Liu Qi had a favored minister Sang Ju.
+Later, Sang Ju committed a crime, and Liu Qi wanted to kill Sang Ju, but Sang Ju escaped, and Liu Qi captured and exterminated his clan.
+Sang Ju resented Liu Qi because of this, so he wrote a letter to accuse Liu Qi of committing adultery with his compatriot sisters.
+From then on, in order to protect himself, Liu Qi repeatedly wrote letters to accuse the Han Dynasty officials and favored ministers such as Suo Zhong and others for their crimes.
+Liu Ji, King Kang of Jiaodong, was named King of Jiaodong as a prince in the second year of Emperor Xiaojing's reign.
+He died after reigning for twenty-eight years.
+When the King of Huainan was planning a rebellion, Liu Ji secretly heard about it, so he secretly made bows and arrows, prepared for war and defense, and waited for the King of Huainan to rebel.
+Later, when the officials interrogated the King of Huainan for his rebellion, this incident was exposed in his confession.
+Liu Ji had the closest relationship with the emperor. He felt guilty and grieved for participating in the rebellion. He died of an illness and did not dare to pass it on to his successor. Later, the emperor learned about this situation.
+Liu Ji's eldest son was named Xian, but his mother was not favored; his younger son was named Qing, and his mother was favored. Liu Ji once wanted to appoint Liu Qing as his successor, but because it was not in line with the inheritance order and because of his own sins, he finally dared not say anything.
+The emperor took pity on him and made Liu Xian King of Jiaodong and the successor of King Kang. Liu Qing was granted the title of King of Liu'an in the former fiefdom of King Hengshan.
+King Liu Xian of Jiaodong died in the fourteenth year of his reign and was given the posthumous title of King Ai.
+His son Liu Qing succeeded to the throne as king.
+In the second year of Yuanshou, Liu Qing, the king of Liu'an, was named the king of Liu'an as the son of King Kang of Jiaodong.
+Liu Cheng, the Ai King of Qinghe, was granted the title of King Qinghe as a prince in the third year of Zhongyuan Period by Emperor Xiaojing.
+He died after reigning for 12 years. Because he had no sons, the feudal state was abolished and the land belonged to the imperial court and became Qinghe County.
+Liu Shun, the Xianwang of Changshan, was named the King of Changshan as a prince in the fifth year of Emperor Xiaojing's reign.
+Liu Shun was the favorite youngest son of Emperor Jing. He was arrogant and lazy, engaged in many promiscuous affairs, and repeatedly violated laws and regulations. The emperor often pardoned him.
+Liu Shun died in the thirty-second year of his reign, and his prince Liu Bo succeeded him as king.
+
+summary:
+Liu Sheng, King of Zhongshan, indulged in wine and women, fathering over 120 children. Liu Fa, King of Changsha, was born to a maid and ruled a small, poor kingdom. Liu Yue, King of Guangchuan, died after 12 years. Liu Ji, King of Jiaodong, prepared for a rebellion but died of illness. His son Liu Xian succeeded him. Liu Cheng, King of Qinghe, died heirless, and his kingdom was abolished. Liu Shun, King of Changshan, was favored but arrogant. His son Liu Bo was deposed after misconduct, and the kingdom was divided.
+
+================================================================================
+
+Summary line 4
+Span: 144-157 (score=0.3888)
+
+original:
+月馀，天子为最亲，乃诏有司曰： 常山宪王蚤夭，后妾不和，適孽诬争，陷于不义以灭国，朕甚闵焉。
+其封宪王子平三万户，为真定王；封子商三万户，为泗水王。
+真定王平，元鼎四年用常山宪王子为真定王。
+泗水思王商，以元鼎四年用常山宪王子为泗水王。
+十一年卒，子哀王安世立。
+十一年卒，无子。
+於是上怜泗水王绝，乃立安世弟贺为泗水王。
+右四国本王皆王夫人兒姁子也。
+其後汉益封其支子为六安王、泗水王二国。
+凡兒姁子孙，於今为六王。
+太史公曰：高祖时诸侯皆赋，得自除内史以下，汉独为置丞相，黄金印。
+诸侯自除御史、廷尉正、博士，拟於天子。
+自吴楚反後，五宗王世，汉为置二千石，去 丞相 曰 相 ，银印。诸侯独得食租税，夺之权。
+其後诸侯贫者或乘牛车也。
+
+translation:
+More than a month later, the emperor noticed that King Xian was his favorite youngest son, so he issued an edict to the officials: King Xian of Changshan died early, the queen and her concubines were at odds with each other, and the concubines fabricated charges against each other and fought with each other. As a result, they fell into injustice and the country was destroyed. I pity him very much.
+Liu Ping, the son of King Xian, has 30,000 households and is the true king; Liu Shang, the son of King Xian, has 30,000 households and is the king of Sishui.
+In the fourth year of Yuanding, Liu Ping, the king of Zhending, was named the king of Zhending as the son of Prince Xian of Changshan.
+Liu Shang, the Si Wang of Surabaya, was named the King of Surabaya as the son of Prince Changshan Xian in the fourth year of Yuanding.
+He died after reigning for eleven years and was succeeded by his son Liu Anshi, King Ai.
+King Ai died after eleven years of reigning without any sons.
+The emperor took pity on the Queen of Surabaya and appointed Liu Anshi's younger brother Liu He as the King of Surabaya.
+The first kings of the four kingdoms mentioned above were all the sons of Mrs. Wang Erjiao.
+Later, the Han Dynasty added the title of King of Liu'an and King of Sishui to his descendants.
+In total, there are six kings of Erjiao's descendants.
+Tai Shigong said: When Emperor Gaozu of the Han Dynasty was on the throne, all the taxes of the princes belonged to the princes and kings, and they could appoint officials below the level of internal history. The court only sent prime ministers to them and awarded them gold seals.
+The vassal kings appointed censors, court officials, and doctors on their own, similar to the emperor.
+Since the rebellion of Wu, Chu and other countries, during the era when the Five Sects were kings, the imperial court sent 2,000 stone-level officials to them, removed the "prime minister" and replaced them with "prime minister". The princes and kings could only enjoy the taxes within the fiefdom, and their power was deprived of their power by the court.
+After that, the poor among the princes and kings could only ride on bullock carts.
+
+summary:
+Sima Qian noted that after the Rebellion of the Seven Kingdoms, the power of princes was reduced; they only collected taxes, and the court appointed officials. Some princes became so poor they rode oxcarts.
+
+================================================================================
+
