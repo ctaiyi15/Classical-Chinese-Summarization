@@ -1,0 +1,15 @@
+{
+  "generations_file": "outputs\\mt5-cc2en-segmented-v4-clean-epoch10-sampling\\test_generations.jsonl",
+  "chunk_samples": 359,
+  "article_samples": 60,
+  "chunk_level": {
+    "rouge1": 0.2361566696413941,
+    "rouge2": 0.02974025932755555,
+    "rougeL": 0.13559459000721924
+  },
+  "article_level": {
+    "rouge1": 0.38170780366411206,
+    "rouge2": 0.07763848641451251,
+    "rougeL": 0.15544024365090187
+  }
+}

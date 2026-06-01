@@ -12,14 +12,15 @@ DEFAULT_INPUT_ROOT = PROJECT_ROOT / "data" / "segmented_v2"
 DEFAULT_OUTPUT_ROOT = PROJECT_ROOT / "data" / "mt5_cc2en_segmented_v2"
 CHUNK_SPLIT_RE = re.compile(r"^Chunk\s+(\d+):\s*$", re.MULTILINE)
 SUMMARY_SPLIT_RE = re.compile(r"^Summary line\s+(\d+)\s*$", re.MULTILINE | re.IGNORECASE)
+SEPARATOR_LINE_RE = re.compile(r"^\s*=+\s*$")
 
 
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Prepare article-split CC->EN mT5 samples from segmented_v2 chunk summaries."
     )
-    parser.add_argument("--input_root", type=Path, default=DEFAULT_INPUT_ROOT)
-    parser.add_argument("--output_root", type=Path, default=DEFAULT_OUTPUT_ROOT)
+    parser.add_argument("--input_root", "--input_dir", dest="input_root", type=Path, default=DEFAULT_INPUT_ROOT)
+    parser.add_argument("--output_root", "--output_dir", dest="output_root", type=Path, default=DEFAULT_OUTPUT_ROOT)
     parser.add_argument("--max_target_words", type=int, default=300)
     parser.add_argument("--train_ratio", type=float, default=0.85)
     parser.add_argument("--seed", type=int, default=42)
@@ -27,7 +28,11 @@ def parse_args():
 
 
 def normalize_text(text):
-    return " ".join(line.strip() for line in text.splitlines() if line.strip())
+    return " ".join(
+        line.strip()
+        for line in text.splitlines()
+        if line.strip() and not SEPARATOR_LINE_RE.match(line)
+    )
 
 
 def target_word_count(text):
