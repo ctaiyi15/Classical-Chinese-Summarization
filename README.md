@@ -368,6 +368,38 @@ are truncated, so the model may learn from incomplete evidence while the target
 summary refers to information outside the visible input. This likely explains
 why EN -> EN v4 can sound related while still hallucinating factual details.
 
+### Segmented v6 EN -> EN Results
+
+`data/segmented_v6` was created to address the v4 hallucination pattern. It
+splits some summary lines into smaller targets, reduces the allowed span window,
+and groups spans with large overlap into one sample at the end. The goal is to
+make each span-summary pair shorter and more targeted.
+
+Prepared EN -> EN v6 data:
+
+- Raw pairs: `4168`
+- Removed long-summary pairs: `63`
+- Grouped samples: `4105`
+- Train/test articles: `345 / 61`
+- Train/test samples: `3533 / 572`
+- Average source length: `326.1` words
+- Average target length: `66.4` words
+- Separator contamination: none found
+
+Current EN -> EN v6 results from the same 10-epoch checkpoint:
+
+| Decoding | Chunk R-1 | Chunk R-2 | Chunk R-L | Article R-1 | Article R-2 | Article R-L | Avg Gen Words |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Sampling | 0.267 | 0.070 | 0.168 | 0.441 | 0.129 | 0.188 | 38.9 |
+| Beam search, 4 beams | 0.268 | 0.094 | 0.187 | 0.394 | 0.145 | 0.204 | 28.7 |
+
+The v6 sampling run improves article-level ROUGE over clean v4 and removes the
+rough repetition signals. The beam-search rerun was generated without retraining
+from the sampling checkpoint using `--generate_only`, `do_sample=False`, and
+`num_beams=4`. Beam search gives higher ROUGE-2 and ROUGE-L, suggesting more
+precise lexical overlap, but it is shorter and has lower article-level ROUGE-1,
+so it likely improves precision at the cost of coverage.
+
 ### Summary Outputs
 
 The repository currently distinguishes between two summary directories:

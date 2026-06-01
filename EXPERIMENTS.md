@@ -91,8 +91,10 @@ Current 10-epoch CC -> EN sampling rerun results:
 | EN -> EN epoch10 sampling | 0.279 | 0.065 | 0.155 | 0.396 | 0.111 | 0.171 |
 | CC -> EN epoch10 | 0.143 | 0.017 | 0.115 | 0.215 | 0.030 | 0.138 |
 | CC -> EN epoch10 sampling | 0.243 | 0.033 | 0.135 | 0.360 | 0.078 | 0.154 |
-| EN -> EN v4 epoch10 sampling | 0.298 | 0.070 | 0.163 | 0.455 | 0.128 | 0.182 |
-| CC -> EN v4 epoch10 sampling | 0.264 | 0.033 | 0.142 | 0.408 | 0.082 | 0.162 |
+| EN -> EN clean v4 epoch10 sampling | 0.266 | 0.066 | 0.157 | 0.390 | 0.114 | 0.174 |
+| CC -> EN clean v4 epoch10 sampling | 0.236 | 0.030 | 0.136 | 0.382 | 0.078 | 0.155 |
+| EN -> EN clean v6 epoch10 sampling | 0.267 | 0.070 | 0.168 | 0.441 | 0.129 | 0.188 |
+| EN -> EN clean v6 epoch10 beam4 | 0.268 | 0.094 | 0.187 | 0.394 | 0.145 | 0.204 |
 
 The direct CC -> EN baseline trails the EN -> EN baseline when both use the same
 decoding setup, which is expected because CC -> EN combines classical Chinese
@@ -105,45 +107,114 @@ to near zero. However, both sampling runs generate much shorter outputs
 words), so the ROUGE gains should be checked qualitatively for coverage and
 possible under-generation.
 
-## Segmented v4 Sampling Runs
+## Segmented v4 Clean Sampling Runs
 
 `data/segmented_v4` contains 409 `segment_sum.txt` files. Unlike v2, it does not
 use `segment_sum_concat.txt`; each file contains `Summary line`, `Span`,
 `original`, `translation`, and `summary` sections. The preparation scripts now
 auto-detect both formats.
 
-Prepared v4 data:
+The first v4 sampling runs accidentally included separator-only lines such as
+`=======` in the training targets. Those contaminated runs should not be cited as
+final results. The preparation scripts now strip separator-only lines from source
+and target text.
+
+Prepared clean v4 data:
 
 - Raw pairs: `2578`
-- Removed long-summary pairs: `57`
-- Grouped samples: `2521`
-- Train/test articles: `337 / 60`
-- Train/test samples: `2165 / 356`
+- Removed long-summary pairs: `56`
+- Grouped samples: `2522`
+- Train/test articles: `338 / 60`
+- Train/test samples: `2163 / 359`
+- Average target length: `105.1` words
 
-EN -> EN v4 epoch10 sampling:
+EN -> EN clean v4 epoch10 sampling:
 
-- Generations: `outputs/mt5-en2en-segmented-v4-epoch10-sampling`
-- Chunk-level ROUGE-1/2/L: `0.298 / 0.070 / 0.163`
-- Article-level ROUGE-1/2/L: `0.455 / 0.128 / 0.182`
+- Generations: `outputs/mt5-en2en-segmented-v4-clean-epoch10-sampling`
+- Chunk-level ROUGE-1/2/L: `0.266 / 0.066 / 0.157`
+- Article-level ROUGE-1/2/L: `0.390 / 0.114 / 0.174`
 - Empty generations: `0`
 - Outputs containing `<extra_id`: `0`
-- Average generated length: `78.5` words
+- Average generated length: `48.0` words
 - Rough repeated sentence count: `0`
-- Rough repeated trigram count: `3`
+- Rough repeated trigram count: `1`
 
-CC -> EN v4 epoch10 sampling:
+CC -> EN clean v4 epoch10 sampling:
 
-- Generations: `outputs/mt5-cc2en-segmented-v4-epoch10-sampling`
-- Chunk-level ROUGE-1/2/L: `0.264 / 0.033 / 0.142`
-- Article-level ROUGE-1/2/L: `0.408 / 0.082 / 0.162`
+- Generations: `outputs/mt5-cc2en-segmented-v4-clean-epoch10-sampling`
+- Chunk-level ROUGE-1/2/L: `0.236 / 0.030 / 0.136`
+- Article-level ROUGE-1/2/L: `0.382 / 0.078 / 0.155`
 - Empty generations: `0`
 - Outputs containing `<extra_id`: `0`
-- Average generated length: `80.2` words
+- Average generated length: `55.8` words
 - Rough repeated sentence count: `0`
 - Rough repeated trigram count: `0`
 
-The v4 sampling runs improve over the v2 sampling runs for both pipelines.
-EN -> EN remains stronger than CC -> EN, as expected, but CC -> EN v4 closes
-part of the gap at article level. Qualitative samples still show occasional
-topic drift, so downstream evaluation should include human inspection or an
-additional faithfulness metric rather than relying on ROUGE alone.
+Qualitative samples show that clean v4 EN -> EN generations are usually related
+to the input names and events, but they still contain false or mixed details.
+Clean v4 CC -> EN remains weaker and often generates fluent but poorly grounded
+English.
+
+Important caveat: v4 span windows were designed mainly for CC -> EN. Classical
+Chinese is compact, but the English translations of those spans are much longer.
+For EN -> EN, many sources exceed the model input length, so training can pair
+partially truncated evidence with targets that refer to information outside the
+visible input.
+
+## Segmented v6 EN -> EN Runs
+
+`data/segmented_v6` was introduced to reduce hallucination from broad v4
+span-summary pairs. It splits some summary lines into smaller targets, reduces
+the allowed span window, and groups spans with large overlap into one sample at
+the end.
+
+Prepared EN -> EN v6 data:
+
+- Raw pairs: `4168`
+- Removed long-summary pairs: `63`
+- Grouped samples: `4105`
+- Train/test articles: `345 / 61`
+- Train/test samples: `3533 / 572`
+- Average source length: `326.1` words
+- Average target length: `66.4` words
+- Separator contamination: none found
+
+Tokenizer length audit for `google/mt5-small` with the `summarize:` prefix:
+
+- Source median: `441` tokens
+- Source mean: `502.5` tokens
+- Source `>512`: `41.9%`
+- Source `>768`: `21.1%`
+- Source `>1024`: `2.6%`
+- Target median: `84` tokens
+- Target mean: `114.2` tokens
+
+EN -> EN clean v6 epoch10 sampling:
+
+- Generations: `outputs/mt5-en2en-segmented-v6-clean-epoch10-sampling`
+- Decoding: `do_sample=True`, `temperature=0.8`, `top_p=0.9`, `top_k=50`, `no_repeat_ngram_size=3`, `repetition_penalty=1.2`
+- Chunk-level ROUGE-1/2/L: `0.267 / 0.070 / 0.168`
+- Article-level ROUGE-1/2/L: `0.441 / 0.129 / 0.188`
+- Empty generations: `0`
+- Outputs containing `<extra_id`: `0`
+- Average generated length: `38.9` words
+- Rough repeated sentence count: `0`
+- Rough repeated trigram count: `0`
+
+EN -> EN clean v6 beam-search rerun:
+
+- Generations: `outputs/mt5-en2en-segmented-v6-clean-epoch10-beam4`
+- Checkpoint: `outputs/mt5-en2en-segmented-v6-clean-epoch10-sampling`
+- Decoding: `--generate_only`, `do_sample=False`, `num_beams=4`, `no_repeat_ngram_size=3`, `repetition_penalty=1.2`
+- Chunk-level ROUGE-1/2/L: `0.268 / 0.094 / 0.187`
+- Article-level ROUGE-1/2/L: `0.394 / 0.145 / 0.204`
+- Empty generations: `0`
+- Outputs containing `<extra_id`: `0`
+- Average generated length: `28.7` words
+- Rough repeated sentence count: `0`
+- Rough repeated trigram count: `0`
+
+The v6 sampling run improves article-level ROUGE over clean v4 and appears to
+reduce the broad, unfocused generation problem. The beam-search rerun is shorter
+and more conservative: it lowers article-level ROUGE-1 but improves ROUGE-2 and
+ROUGE-L, suggesting better phrase-level precision at the cost of coverage.
