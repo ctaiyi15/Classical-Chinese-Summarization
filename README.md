@@ -32,6 +32,8 @@ Reference paper:
 │   ├── hansum_summarize_generate.ipynb # Summary Generation
 │   ├── hansum_eval_summary_llm_task1.ipynb   # Summary Evaluation with LLM Task 1 (all facts in summaries are from texts)
 │   ├── hansum_eval_summary_llm_task2.ipynb   # Summary Evaluation with LLM Task 2 (all important points in texts covered)
+│   ├── _hansum_eval_summary_llm_task1_en2en_v4_s.ipynb   # Example summary evaluation with LLM Task 1 (all facts in summaries are from texts) for model output three times
+│   ├── hansum_eval_summary_llm_task2_en2en_sum_v4_s.ipynb   # Example summary Evaluation with LLM Task 2 (all important points in texts covered) for model output three times
 │   └── textrank_summary.ipynb
 ├── scripts/
 │   ├── evaluate_round_trip.py      # Single-corpus round-trip evaluation
@@ -438,6 +440,8 @@ The repository also includes exploratory summarization material:
 
 - [notebooks/hansum_summarize_pilot.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/hansum_summarize_pilot.ipynb) (Note: this file is only used for pilot testing. Some of the results are copied and recorded in `summarize_pilot_tests.txt` by changing the prompts).
 - [notebooks/hansum_summarize_generate.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/hansum_summarize_generate.ipynb) (for summary generation. Note: this notebook requires a Deepseek API key to run, which can be obtained from [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys) after creating an account. The notebook is run on Google Colab with the API key stored in ''Secret'' with name `DEEPSEEK_API_KEY` so that it can then be imported from `userdata` in the code).
+- [notebooks/hansum_eval_summary_llm_task1_en2en_v4_s.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/hansum_eval_summary_llm_task1_en2en_v4_s.ipynb) (An example to evaluating summaries of the model output with LLM, task 1, i.e. faithfulness. Similarly, a Deepseek API key is needed. This example is particularly for the model with span alignment method, English-to-English summarization with the help of an external Chinese-to-English translator for processing, and sampling decoding method.)
+- [notebooks/hansum_eval_summary_llm_task2_en2en_sum_v4_s.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/hansum_eval_summary_llm_task2_en2en_sum_v4_s.ipynb) (An example to evaluating summaries of the model output with LLM, task 2, i.e. coverage. Similarly, a Deepseek API key is needed. This example is particularly for the model with span alignment method, English-to-English summarization with the help of an external Chinese-to-English translator for processing, and sampling decoding method.)
 - [notebooks/hansum_eval_summary_llm_task1.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/hansum_eval_summary_llm_task1.ipynb) (for evaluating summaries with LLM, task 1. Similarly, a Deepseek API key is needed.)
 - [notebooks/hansum_eval_summary_llm_task2.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/hansum_eval_summary_llm_task2.ipynb) (for evaluating summaries with LLM, task 2. Similarly, a Deepseek API key is needed.)
 - [notebooks/textrank_summary.ipynb](https://github.com/ctaiyi15/Classical-Chinese-Summarization/tree/main/notebooks/textrank_summary.ipynb)
